@@ -10,6 +10,14 @@ thins out before the 111th, and House organising resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
+## By measure type
+
+| Type | Without text |
+|---|---|
+| `hr` | 4 |
+
+## Every measure
+
 | Measure | Title |
 |---|---|
 | `H.R. 2830` | To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code. |
