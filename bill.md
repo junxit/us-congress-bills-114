@@ -1,0 +1,10 @@
+---
+legis-num: H. RES. 4
+congress: 114th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 4
+
+That the Clerk be instructed to inform the President of the United States that the House of Representatives has elected John A. Boehner, a Representative from the State of Ohio as Speaker, and Karen L. Haas, a citizen of the State of Maryland as Clerk of the House of Representatives of the One Hundred Fourteenth Congress.
