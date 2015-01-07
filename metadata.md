@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 35
@@ -34,3 +34,9 @@ Low-Dose Radiation Research Act of 2015
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-01-07 — Considered under suspension of the rules. (consideration: CR H82-83)
+- 2015-01-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 35.
+- 2015-01-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-07 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2015-01-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H82)
+- 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H82)
