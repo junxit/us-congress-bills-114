@@ -1,0 +1,25 @@
+---
+legis-num: S. 38
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 38
+
+> To ensure that long-term unemployed individuals are not taken into account for purposes of the employer health care coverage mandate.
+
+## § 1. Short title
+
+This Act may be cited as the “Helping Individuals Regain Employment Act”.
+
+## § 2. Long-term unemployed individuals not taken into account for employer health care coverage mandate
+
+- **(a)** *In general* Paragraph (4) of section 4980H(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Exception for long-term unemployed individuals*
+  >   - **(i)** *In general* The term full-time employee shall not include any individual who is a long-term unemployed individual with respect to such employer.
+  >   - **(ii)** *Long-term unemployed individual* For purposes of this subparagraph, the term long-term unemployed individual means, with respect to any employer, an individual who—
+  >     - **(I)** begins employment with such employer after the date of the enactment of this subparagraph, and
+  >     - **(II)** has been unemployed for 27 weeks or longer, as determined by the Secretary of Labor, immediately before the date such employment begins.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after the date of enactment of this Act.
