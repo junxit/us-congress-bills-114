@@ -1,0 +1,14 @@
+---
+legis-num: S. 47
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 47
+
+> To prohibit the implementation of any program that grants temporary legal status to, or adjusts the status of, any individual who is unlawfully present in the United States until the Secretary of Homeland Security certifies that the US–VISIT system has been fully implemented at every land, sea, and air port of entry.
+
+## § 1. US–VISIT system
+
+Any program that authorizes granting temporary legal status to individuals who are unlawfully present in the United States or adjusting the status of such individuals to that of aliens lawfully admitted for permanent residence may not be implemented until the Secretary of Homeland Security certifies in writing to the President and Congress that the integrated entry and exit data system required under section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), which was required to be implemented by December 21, 2005, has been fully implemented and is functioning at every land, sea, and air port of entry.
