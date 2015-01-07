@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 182
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 182
+
+> To direct the Secretary of Veterans Affairs to permit the centralized reporting of veteran enrollment by certain groups, districts, and consortiums of educational institutions.
+
+## § 1. Centralized reporting of veteran enrollment by certain groups, districts, and consortiums of educational institutions
+
+- **(a)** *In general* Section 3684(a) of title 38, United States Code, is amended—
+  - **(1)** in paragraph (1), by inserting “32, 33,” after “31,”; and
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(4)** For purposes of this subsection, the term educational institution may include a group, district, or consortium of separately accredited educational institutions located in the same State that are organized in a manner that facilitates the centralized reporting of the enrollments in such group, district, or consortium of institutions.
+
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to reports submitted on or after the date of the enactment of this Act.
