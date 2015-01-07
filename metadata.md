@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 26
