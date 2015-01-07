@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 34
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
@@ -24,6 +24,7 @@ version: Introduced in House
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
 ## Committees (1)
 
@@ -34,3 +35,9 @@ version: Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-01-07 — Considered under suspension of the rules. (consideration: CR H87-92)
+- 2015-01-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 34.
+- 2015-01-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-07 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2015-01-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H87-90)
+- 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H87-90)
