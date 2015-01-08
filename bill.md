@@ -1,0 +1,21 @@
+---
+legis-num: S. 127
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 127
+
+> To prohibit Federal funding for motorcycle checkpoints, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Motorcycle Checkpoint Funding Act”.
+
+## § 2. Grant restriction
+
+Notwithstanding section 153 of title 23, United States Code, the Secretary of Transportation may not provide a grant or any funds to a State, county, town, township, Indian tribe, municipality, or other local government that may be used for any program—
+
+- **(1)** to check helmet usage; or
+- **(2)** to create checkpoints that specifically target motorcycle operators or motorcycle passengers.
