@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 35
@@ -25,9 +25,10 @@ Low-Dose Radiation Research Act of 2015
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Low-Dose Radiation Research Act of 2015
 - 2015-01-07 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2015-01-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H82)
 - 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H82)
+- 2015-01-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
