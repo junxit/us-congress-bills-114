@@ -1,7 +1,7 @@
 ---
 measure: H.R. 30
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 30
@@ -16,7 +16,7 @@ Save American Workers Act of 2015
 
 - Rep. Young, Todd [R-IN-9] (Y000064)
 
-## Cosponsors (145)
+## Cosponsors (156)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
@@ -163,11 +163,27 @@ Save American Workers Act of 2015
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Webster, Daniel [R-FL-10] (W000806)
 - Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
 ## Committees (2)
 
 - House — Ways and Means Committee
 - House — Budget Committee
+
+## Recorded votes (2)
+
+- 2015-01-08 — [House 114-1-13](votes/house-114-1-0013.md) — On Motion to Recommit with Instructions — **Failed** (179–244)
+- 2015-01-08 — [House 114-1-14](votes/house-114-1-0014.md) — On Passage — **Passed** (252–172)
 
 ## Actions
 
@@ -176,3 +192,16 @@ Save American Workers Act of 2015
 - 2015-01-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-01-07 — Rules Committee Resolution H. Res. 19 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bills are waived. The bills shall be considered as read.
+- 2015-01-08 — Considered under the provisions of rule H. Res. 19. (consideration: CR H125-140)
+- 2015-01-08 — DEBATE - The House proceeded with 10 minutes of debate on the Becerra motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment prohibiting the amendments in section 2 of the bill from taking effect if additional, listed conditions could be expected as a result.
+- 2015-01-08 — DEBATE - The House proceeded with one hour of debate on H.R. 30.
+- 2015-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-08 — Mr. Becerra moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H138-140; text: CR H138)
+- 2015-01-08 — On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 244 (Roll no. 13).
+- 2015-01-08 — On passage Passed by recorded vote: 252 - 172 (Roll no. 14). (text: CR H125-126)
+- 2015-01-08 — Passed/agreed to in House: On passage Passed by recorded vote: 252 - 172 (Roll no. 14).(text: CR H125-126)
+- 2015-01-08 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bill are waived. The bills shall be considered as read.
+- 2015-01-08 — Rule H. Res. 19 passed House.
+- 2015-01-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H139)
+- 2015-01-08 — The previous question was ordered pursuant to the rule. (consideration: CR H138)
