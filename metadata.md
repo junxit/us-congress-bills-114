@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 23
@@ -26,10 +26,11 @@ National Windstorm Impact Reduction Act Reauthorization of 2015
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ National Windstorm Impact Reduction Act Reauthorization of 2015
 - 2015-01-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 39 (Roll no. 10). (text: CR H84-85)
 - 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 39 (Roll no. 10).(text: CR H84-85)
 - 2015-01-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-01-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
