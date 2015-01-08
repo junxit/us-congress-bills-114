@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 231
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 231
+
+> To amend the Water Resources Development Act of 1996 to deauthorize the Ten Mile Creek Water Preserve Area Critical Restoration Project.
+
+## § 1. Project deauthorization
+
+Section 528(b)(3) of the Water Resources Development Act of 1996 (Public Law 104–303; 110 Stat. 3768) is amended by adding at the end the following:
+
+> - **(E)** *Project deauthorization*
+>   - **(i)** *In general* The project identified as the “Ten Mile Creek Water Preserve Area Critical Restoration Project”, carried out pursuant to this paragraph, shall no longer be authorized as a Federal project upon execution of a transfer agreement between the Secretary and the South Florida Water Management District.
+>   - **(ii)** *Requirement* A transfer agreement referred to in clause (i) shall require that the South Florida Water Management District operate the transferred project as an environmental restoration project to provide water storage and water treatment options.
