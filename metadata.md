@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 22
@@ -137,9 +137,10 @@ FAST Act
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -156,3 +157,5 @@ FAST Act
 - 2015-01-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 7). (text: CR H29)
 - 2015-01-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 7).(text: CR H29)
 - 2015-01-06 — Referred to the House Committee on Ways and Means.
+- 2015-01-07 — Received in the Senate.
+- 2015-01-08 — Read twice and referred to the Committee on Finance.
