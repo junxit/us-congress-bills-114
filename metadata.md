@@ -1,7 +1,7 @@
 ---
 measure: H.R. 30
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 30
@@ -205,3 +205,4 @@ Save American Workers Act of 2015
 - 2015-01-08 — Rule H. Res. 19 passed House.
 - 2015-01-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H139)
 - 2015-01-08 — The previous question was ordered pursuant to the rule. (consideration: CR H138)
+- 2015-01-09 — Received in the Senate.
