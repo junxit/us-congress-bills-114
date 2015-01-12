@@ -1,7 +1,7 @@
 ---
 measure: H.R. 203
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 1709B` | add-at-end | Subchapter I of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1709B` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1709A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1710` | amend | Paragraph (3) of section 1710(e) of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter I of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1709A the following new item: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (3) of section 1710(e) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
