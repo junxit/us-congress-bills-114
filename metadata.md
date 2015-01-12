@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3
@@ -80,3 +80,4 @@ Keystone XL Pipeline Act
 - 2015-01-09 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bills are waived. The bills shall be considered as read.
 - 2015-01-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H180)
 - 2015-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H179)
+- 2015-01-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
