@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 33
@@ -16,12 +16,42 @@ To amend the Internal Revenue Code of 1986 to ensure that emergency services vol
 
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
+## Cosponsors (15)
+
+- Rep. Hanna, Richard L. [R-NY-22] (H001051)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2015-01-12 — [House 114-1-18](votes/house-114-1-0018.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–0)
 
 ## Actions
 
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Ways and Means.
+- 2015-01-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-01-12 — Considered as unfinished business. (consideration: CR H205-206)
+- 2015-01-12 — Considered under suspension of the rules. (consideration: CR H201-204)
+- 2015-01-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 33.
+- 2015-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-12 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
+- 2015-01-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 18). (text: CR H201)
+- 2015-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 18).(text: CR H201)
