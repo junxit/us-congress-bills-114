@@ -1,7 +1,7 @@
 ---
 measure: H.R. 30
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 30
@@ -175,10 +175,11 @@ Save American Workers Act of 2015
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Budget Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -206,3 +207,4 @@ Save American Workers Act of 2015
 - 2015-01-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H139)
 - 2015-01-08 — The previous question was ordered pursuant to the rule. (consideration: CR H138)
 - 2015-01-09 — Received in the Senate.
+- 2015-01-12 — Read twice and referred to the Committee on Finance.
