@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 7
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 7
