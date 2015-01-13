@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Introduced in Senate
+version: Committee Discharged Senate
 ---
 
 # S. 32
@@ -24,11 +24,15 @@ Transnational Drug Trafficking Act of 2015
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2015-01-06 — Introduced in Senate
 - 2015-01-06 — Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S18-19)
+- 2015-01-13 — Referred to the Committee on the Judiciary by unanimous consent.
+- 2015-01-13 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2015-01-13 — Senate Committee on Finance discharged by Unanimous Consent.
