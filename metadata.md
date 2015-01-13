@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 7
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 7
@@ -24,3 +24,6 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2015-01-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-01-12 — On agreeing to the resolution Agreed to without objection. (text: CR H207)
 - 2015-01-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H207)
+- 2015-01-13 — Message on Senate action sent to the House.
+- 2015-01-13 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S217)
+- 2015-01-13 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S217)
