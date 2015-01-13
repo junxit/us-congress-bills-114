@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 302
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 302
+
+> To prohibit Members of Congress from receiving any automatic pay adjustments through the end of the One Hundred Fourteenth Congress.
+
+## § 1. Prohibiting cost of living adjustment in pay for Members of Congress through the end of the One Hundred Fourteenth Congress
+
+Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during any pay period occurring during the One Hundred Fourteenth Congress.
