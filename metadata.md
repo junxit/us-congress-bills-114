@@ -1,7 +1,7 @@
 ---
 measure: H.R. 203
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 203
@@ -58,9 +58,10 @@ Clay Hunt Suicide Prevention for American Veterans Act
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Clay Hunt Suicide Prevention for American Veterans Act
 - 2015-01-12 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2015-01-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 17). (text: CR H196-198)
 - 2015-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 17).(text: CR H196-198)
+- 2015-01-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
