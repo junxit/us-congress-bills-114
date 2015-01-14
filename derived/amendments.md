@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 5 U.S.C. § 3109
+### 42 U.S.C. § 3771
 
 > For necessary expenses of the Federal Law Enforcement Training Center, including materials and support costs of Federal law enforcement basic training; the purchase of not to exceed 117 vehicles for police-type use and hire of passenger motor vehicles; expenses for student athletic and related activities; the conduct of and participation in firearms matches and presentation of awards; public awareness and enhancement of community support of law enforcement training; room and board for student interns; a flat monthly reimbursement to employees authorized to use personal mobile phones for official duties; and services as authorized by section 3109 of title 5, United States Code; $230,497,000; of which up to $54,154,000 shall remain available until September 30, 2016, for materials and support costs of Federal law enforcement basic training; of which $300,000 shall remain available until expended to be distributed to Federal law enforcement agencies for expenses incurred participating in training accreditation; and of which not to exceed $7,180 shall be for official reception and representation expenses: Provided, That the Center is authorized to obligate funds in anticipation of reimbursements from agencies receiving training sponsored by the Center, except that total obligations at the end of the fiscal year shall not exceed total budgetary resources available at the end of the fiscal year: Provided further, That section 1202(a) of Public Law 107–206 (42 U.S.C. 3771 note), as amended under this heading in division F of Public Law 113–76, is further amended by striking “December 31, 2016” and inserting “December 31, 2017”: Provided further, That the Director of the Federal Law Enforcement Training Center shall schedule basic or advanced law enforcement training, or both, at all four training facilities under the control of the Federal Law Enforcement Training Center to ensure that such training facilities are operated at the highest capacity throughout the fiscal year: Provided further, That the Federal Law Enforcement Training Accreditation Board, including representatives from the Federal law enforcement community and non-Federal accreditation experts involved in law enforcement training, shall lead the Federal law enforcement training accreditation process to continue the implementation of measuring and assessing the quality and effectiveness of Federal law enforcement training programs, facilities, and instructors.
 
