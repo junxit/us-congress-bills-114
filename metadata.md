@@ -1,7 +1,7 @@
 ---
 measure: H.R. 37
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 37
@@ -27,10 +27,11 @@ Promoting Job Creation and Reducing Small Business Burdens Act
 - Rep. Guinta, Frank C. [R-NH-1] (G000570)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -67,3 +68,4 @@ Promoting Job Creation and Reducing Small Business Burdens Act
 - 2015-01-14 — Passed/agreed to in House: On passage Passed by recorded vote: 271 - 154 (Roll no. 37).
 - 2015-01-14 — Pursuant to clause 1(c) of rule 19, further consideration of H.R. 37 will resume.
 - 2015-01-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H395)
+- 2015-01-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
