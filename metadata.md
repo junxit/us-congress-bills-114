@@ -1,7 +1,7 @@
 ---
 measure: H.R. 185
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 185
@@ -40,9 +40,10 @@ Regulatory Accountability Act of 2015
 - Rep. Rice, Tom [R-SC-7] (R000597)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (6)
 
@@ -111,3 +112,4 @@ Regulatory Accountability Act of 2015
 - 2015-01-13 — The Speaker designated the Honorable Lynn A. Westmoreland to act as Chairman of the Committee.
 - 2015-01-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H271)
 - 2015-01-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
+- 2015-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
