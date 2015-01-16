@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 33
@@ -55,3 +55,5 @@ To amend the Internal Revenue Code of 1986 to ensure that emergency services vol
 - 2015-01-12 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
 - 2015-01-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 18). (text: CR H201)
 - 2015-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 18).(text: CR H201)
+- 2015-01-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-01-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.
