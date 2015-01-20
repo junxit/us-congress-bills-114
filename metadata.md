@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 240
@@ -106,3 +106,5 @@ Department of Homeland Security Appropriations Act, 2015
 - 2015-01-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H392)
 - 2015-01-14 — The previous question was ordered pursuant to the rule. (consideration: CR H391)
 - 2015-01-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-01-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-01-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.
