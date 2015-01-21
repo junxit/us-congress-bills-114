@@ -1,0 +1,18 @@
+---
+legis-num: S. 221
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 221
+
+> To amend the Patient Protection and Affordable Care Act to authorize additional funding for the pregnancy assistance fund.
+
+## § 1. Short title
+
+This Act may be cited as the “Pregnancy Assistance Fund Expansion Act”.
+
+## § 2. Additional funding for the Pregnancy Assistance Fund
+
+Section 10214 of the Patient Protection and Affordable Care Act (42 U.S.C. 18204) is amended by adding at the end the following: “In addition to amounts authorized to be appropriated in the previous sentence, there are authorized to be appropriated to carry out section 10210, an additional $25,000,000 for each of fiscal years 2016 through 2019.”.
