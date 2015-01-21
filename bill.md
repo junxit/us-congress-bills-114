@@ -1,0 +1,15 @@
+---
+legis-num: S. 202
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 202
+
+> To provide for a technical change to the Medicare long-term care hospital moratorium exception.
+
+## § 1. Technical change to the Medicare long-term care hospital moratorium exception
+
+- **(a)** *In general* Section 114(d) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (42 U.S.C. 1395ww note), as amended by sections 3106(b) and 10312(b) of Public Law 111–148, section 1206(b)(2) of the Pathway for SGR Reform Act of 2013 (division B of Public Law 113–67), and section 112 of the Protecting Access to Medicare Act of 2014 (Public Law 113–93), is amended, in paragraph (7), by striking “The moratorium under paragraph (1)(A)” and inserting “Any moratorium under paragraph (1)” in the matter preceding subparagraph (A).
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if included in the enactment of section 112 of the Protecting Access to Medicare Act of 2014 (Public Law 113–93).
