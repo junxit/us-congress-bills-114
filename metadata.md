@@ -1,7 +1,7 @@
 ---
 measure: H.R. 203
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 203
@@ -82,3 +82,7 @@ Clay Hunt Suicide Prevention for American Veterans Act
 - 2015-01-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 17). (text: CR H196-198)
 - 2015-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 17).(text: CR H196-198)
 - 2015-01-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2015-01-21 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2015-01-21 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2015-01-21 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2015-01-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.
