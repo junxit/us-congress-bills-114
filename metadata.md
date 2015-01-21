@@ -1,7 +1,7 @@
 ---
 measure: H.R. 203
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 203
@@ -63,9 +63,10 @@ Clay Hunt Suicide Prevention for American Veterans Act
 - House — Veterans' Affairs Committee
 - Senate — Veterans' Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-01-12 — [House 114-1-17](votes/house-114-1-0017.md) — On Motion to Suspend the Rules and Pass — **Passed** (403–0)
+- 2015-02-03 — [Senate 114-1-50](votes/senate-114-1-0050.md) — On Passage of the Bill — **Bill Passed** (99–0)
 
 ## Actions
 
@@ -86,3 +87,15 @@ Clay Hunt Suicide Prevention for American Veterans Act
 - 2015-01-21 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
 - 2015-01-21 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
 - 2015-01-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.
+- 2015-02-03 — Measure laid before Senate by unanimous consent. (consideration: CR S716-720)
+- 2015-02-03 — Message on Senate action sent to the House.
+- 2015-02-03 — Passed Senate without amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 50.
+- 2015-02-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 50.
+- 2015-02-11 — Presented to President.
+- 2015-02-11 — Presented to President.
+- 2015-02-12 — Became Public Law No: 114-2.
+- 2015-02-12 — Became Public Law No: 114-2.
+- 2015-02-12 — Signed by President.
+- 2015-02-12 — Signed by President.
+- 2015-04-23 — By Senator Isakson from Committee on Veterans' Affairs filed written report. Report No. 114-34.
+- 2015-04-23 — By Senator Isakson from Committee on Veterans' Affairs filed written report. Report No. 114-34.
