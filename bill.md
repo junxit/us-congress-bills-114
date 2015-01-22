@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 487
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 487
+
+> To allow the Miami Tribe of Oklahoma to lease or transfer certain lands.
+
+## § 1. Approval not required to validate land transactions
+
+- **(a)** *In general* Notwithstanding any other provision of law, without further approval, ratification, or authorization by the United States, the Miami Tribe of Oklahoma may lease, sell, convey, warrant, or otherwise transfer all or any part of its interests in any real property that is not held in trust by the United States for the benefit of such tribe.
+- **(b)** *Trust land not affected* Nothing in this section shall—
+  - **(1)** authorize the Miami Tribe of Oklahoma to lease, sell, convey, warrant, or otherwise transfer all or any part of an interest in any real property that is held in trust by the United States for the benefit of such tribe; or
+  - **(2)** affect the operation of any law governing leasing, selling, conveying, warranting, or otherwise transferring any interest in such trust land.
