@@ -1,7 +1,7 @@
 ---
 measure: H.R. 161
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 161
@@ -79,3 +79,4 @@ Natural Gas Pipeline Permitting Reform Act
 - 2015-01-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H459)
 - 2015-01-21 — The previous question was ordered pursuant to the rule. (consideration: CR H458)
 - 2015-01-21 — The rule provides for one hour of debate each on H.R. 161 and H.R. 36. The resolution waives all points of order against consideration of the bills. The resolution provides that the bills shall be considered as read. The resolution waives all points of order against provisions in the bills. The resolution provides one motion to recommit per bill.
+- 2015-01-22 — Received in the Senate.
