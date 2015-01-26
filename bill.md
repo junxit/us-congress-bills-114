@@ -17,8 +17,8 @@ This Act may be cited as the “Human Trafficking Prioritization Act”.
 
 Congress finds the following:
 
-- **(1)** The International Labor Organization estimates that nearly 21,000,000 people are subjected to modern slavery around the world at any given time and that the majority of the enslaved are women and girls.
-- **(2)** Congress authorized the creation of a Department of State Office to Monitor and Combat Trafficking in Persons in the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386) in order to directly assist the Secretary of State in his or her effort to coordinate a United States Government interagency response to domestic and international trafficking in persons.
+- **(1)** The International Labor Organization estimates that nearly 21 million people are subjected to modern slavery around the world at any given time and that the majority of the enslaved are women and girls.
+- **(2)** Congress authorized the creation of a Department of State Office to Monitor and Combat Trafficking in Persons in the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386) in order to directly assist the Secretary of State in his or her effort to coordinate a United States Government interagency response to domestic and international trafficking in persons.
 - **(3)** The Office to Monitor and Combat Trafficking in Persons monitors trafficking worldwide and produces the online and printed versions of the annual Trafficking in Persons Report, which is Congress’ primary resource for human trafficking reporting, analysis, and recommendations on the United States and 186 countries around the world.
 - **(4)** The annual Trafficking in Persons Report contains tier rankings of each country on which it reports, and these tier rankings have become an essential diplomatic tool for promoting protection for victims, prevention of trafficking, and prosecution of perpetrators.
 - **(5)** Some countries have openly stated, and many others have confided, that dramatic improvements in the country’s human trafficking record were directly related to avoidance of a low tier ranking in the annual Trafficking in Persons Report.
@@ -38,10 +38,10 @@ It is the sense of Congress that—
 - **(3)** a Bureau to Monitor and Combat Trafficking would be more effective in carrying out duties mandated by Congress in the Trafficking Victims Protection Act of 2000 if the Bureau were headed by an Assistant Secretary with direct access to the Secretary of State, rather than an Ambassador-at-Large; and
 - **(4)** the Secretary of State should review the current use of the 24 Assistant Secretary positions authorized by section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) and make appropriate revisions, consolidations, and eliminations, to ensure that those positions reflect the highest Departmental needs and foreign policy priorities of the United States, including efforts to combat trafficking in persons.
 
-## § 4. Bureau to Combat Trafficking in Persons
+## § 4. Bureau To Combat Trafficking in Persons
 
 - **(a)** *In general* Section 105(e) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(e)) is amended—
-  - **(1)** in the heading, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”;
+  - **(1)** in the heading, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau To Combat Trafficking in Persons”;
   - **(2)** in paragraph (1)—
     - **(A)** in the first sentence, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”;
     - **(B)** in the second sentence, by striking “Office” and inserting “Bureau”; and

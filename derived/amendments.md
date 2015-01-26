@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 7103
 
-> in the heading, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”;
+> in the heading, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau To Combat Trafficking in Persons”;
 
 | | |
 |---|---|
 | Removed | `Office to Monitor and Combat Trafficking` |
-| Inserted | `Bureau to Combat Trafficking in Persons` |
+| Inserted | `Bureau To Combat Trafficking in Persons` |
 
 ### 22 U.S.C. § 7103
 
