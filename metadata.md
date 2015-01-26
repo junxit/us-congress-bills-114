@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7
@@ -48,11 +48,12 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -83,3 +84,4 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - 2015-01-22 — Subcommittee on the Constitution and Civil Justice Discharged.
 - 2015-01-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H510)
 - 2015-01-22 — The previous question was ordered pursuant to the rule. (consideration: CR H509)
+- 2015-01-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
