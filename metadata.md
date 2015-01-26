@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 515
@@ -16,7 +16,7 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (8)
+## Cosponsors (15)
 
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
@@ -26,6 +26,13 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
 ## Committees (2)
 
@@ -39,3 +46,11 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-01-22 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-22 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-22 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-01-23 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2015-01-25 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2015-01-26 — Considered under suspension of the rules. (consideration: CR H542-546)
+- 2015-01-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 515.
+- 2015-01-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-26 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2015-01-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H542-544)
+- 2015-01-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H542-544)
