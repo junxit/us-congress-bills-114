@@ -1,7 +1,7 @@
 ---
 measure: H.R. 350
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 350
@@ -16,7 +16,7 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2015
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Cosponsors (56)
+## Cosponsors (74)
 
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Flores, Bill [R-TX-17] (F000461)
@@ -74,6 +74,24 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2015
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (2)
 
@@ -87,3 +105,17 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2015
 - 2015-01-14 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-14 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-14 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-01-21 — Committee Consideration and Mark-up Session Held.
+- 2015-01-21 — Ordered to be Reported by Voice Vote.
+- 2015-01-26 — Sponsor introductory remarks on measure. (CR H560-561)
+- 2015-01-27 — Committee on Foreign Affairs discharged.
+- 2015-01-27 — Committee on Foreign Affairs discharged.
+- 2015-01-27 — Considered under suspension of the rules. (consideration: CR H589-592)
+- 2015-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 350.
+- 2015-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-27 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
+- 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H589-590)
+- 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H589-590)
+- 2015-01-27 — Placed on the Union Calendar, Calendar No. 5.
+- 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-9, Part I.
+- 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-9, Part I.
