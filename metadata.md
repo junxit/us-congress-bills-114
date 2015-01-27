@@ -1,7 +1,7 @@
 ---
 measure: H.R. 468
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 468
@@ -36,9 +36,10 @@ Enhancing Services for Runaway and Homeless Victims of Youth Trafficking Act of 
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Enhancing Services for Runaway and Homeless Victims of Youth Trafficking Act of 
 - 2015-01-26 — Mr. Walberg moved to suspend the rules and pass the bill.
 - 2015-01-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H548)
 - 2015-01-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H548)
+- 2015-01-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
