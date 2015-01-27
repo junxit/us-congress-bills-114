@@ -20,11 +20,11 @@ This Act may be cited as the “Human Trafficking Prevention, Intervention, and 
   - **(2)** surveys academic literature on deterring individuals from committing trafficking offenses, preventing children from becoming victims of trafficking, the commercial sexual exploitation of children, and other similar topics that the Task Force determines appropriate;
   - **(3)** identifies best practices and effective strategies to deter individuals from committing trafficking offenses and to prevent children from becoming victims of trafficking; and
   - **(4)** identifies current gaps in research and data that would be helpful in formulating effective strategies to deter individuals from committing trafficking offenses and to prevent children from becoming victims of trafficking.
-- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Interagency Task Force to Monitor and Combat Trafficking shall provide to Congress, and make publicly available in electronic format, a report on the review conducted pursuant to subparagraph (a).
+- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Interagency Task Force to Monitor and Combat Trafficking shall provide to Congress, and make publicly available in electronic format, a report on the review conducted pursuant to subparagraph (a).
 
 ## § 3. GAO Report on intervention
 
-On the date that is 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report, which shall include—
+On the date that is one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report, which shall include—
 
 - **(1)** information on the efforts of Federal and select State law enforcement agencies to combat human trafficking in the United States; and
 - **(2)** information on each Federal grant program, a purpose of which is to combat human trafficking or assist victims of trafficking, as specified in an authorizing statute or in a guidance document issued by the agency carrying out the grant program.
