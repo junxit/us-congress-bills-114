@@ -36,8 +36,8 @@ In this Act:
 
 ## § 4. Certification and report to Congress
 
-- **(a)** *Certification* Not later than one year after the date of the enactment of this Act, the Secretary shall certify to the appropriate congressional committees that all personnel referred to in section 3(a) have successfully completed the training required under that section.
-- **(b)** *Report to Congress* Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall report to the appropriate congressional committees the overall effectiveness of the program required by this Act, the number of cases reported by Department personnel in which human trafficking was suspected and, of those cases, the number of cases that were confirmed cases of such trafficking.
+- **(a)** *Certification* Not later than 1 year after the date of the enactment of this Act, the Secretary shall certify to the appropriate congressional committees that all personnel referred to in section 3(a) have successfully completed the training required under that section.
+- **(b)** *Report to Congress* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the Secretary shall report to the appropriate congressional committees the overall effectiveness of the program required by this Act, the number of cases reported by Department personnel in which human trafficking was suspected and, of those cases, the number of cases that were confirmed cases of such trafficking.
 
 ## § 5. Assistance to non-Federal entities
 
