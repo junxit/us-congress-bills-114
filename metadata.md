@@ -1,7 +1,7 @@
 ---
 measure: H.R. 398
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 398
@@ -16,9 +16,14 @@ Trafficking Awareness Training for Health Care Act of 2015
 
 - Rep. Ellmers, Renee L. [R-NC-2] (E000291)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
 ## Committees (1)
 
@@ -29,3 +34,10 @@ Trafficking Awareness Training for Health Care Act of 2015
 - 2015-01-16 — Introduced in House
 - 2015-01-16 — Introduced in House
 - 2015-01-16 — Referred to the House Committee on Energy and Commerce.
+- 2015-01-23 — Referred to the Subcommittee on Health.
+- 2015-01-27 — Considered under suspension of the rules. (consideration: CR H618-620)
+- 2015-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 398.
+- 2015-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-27 — Mrs. Ellmers moved to suspend the rules and pass the bill.
+- 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H618)
+- 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H618)
