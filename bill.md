@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To require the Secretary of Homeland Security to gain and maintain operational control of the international borders of the United States, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title; Table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Secure Our Borders First Act of 2015”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 2. Reports on current border security status
 
 - **(a)** *In general*
-  - **(1)** *Reports* The Secretary of Homeland Security shall submit to the appropriate congressional committees, the Border Security Verification Commission (BSVC), and the Government Accountability Office reports that assess and describe the state of situational awareness and operational control along the northern and southern borders of the United States. Such reports shall include an identification of the high traffic areas and the unlawful border crossing effectiveness rate for each sector along the northern and southern borders of the United States that are within the responsibility of the Border Patrol.
+  - **(1)** *Reports* The Secretary of Homeland Security shall submit to the appropriate congressional committees, the Border Security Verification Commission (BSVC), and the Government Accountability Office reports that assess and describe the state of situational awareness and operational control along the northern and southern land borders of the United States. Such reports shall include an identification of the high traffic areas and the unlawful border crossing effectiveness rate for each sector along the northern and southern land borders of the United States that are within the responsibility of the Border Patrol.
   - **(2)** *Deadlines* The reports required under paragraph (1) shall be submitted as follows:
     - **(A)** The first such report shall be submitted by not later than 30 days after the date of the enactment of this Act.
     - **(B)** During the two-year period beginning on the date of the submission of such first report, such reports shall be submitted every 180 days.
@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 3. Operational control of the border
 
 - **(a)** *Securing the border* The Secretary of Homeland Security shall gain and maintain situational awareness, and operational control of high traffic areas, by the date that is not later than two years after the date of the enactment of this Act, and operational control and situational awareness along the southern land border of the United States by the date that is not later than five years after such date of enactment.
-- **(b)** *Required capability deployment* The Secretary of Homeland Security, acting through the appropriate component of the Department of Homeland Security, shall, at a minimum, deploy to each sector or region, as the case may be, of the southern border, in a prioritized, risk-based manner to achieve situational awareness and operational control of the border the following additional capabilities:
+- **(b)** *Required capability deployment* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the appropriate component of the Department of Homeland Security, shall, at a minimum, deploy to each sector or region, as the case may be, of the southern border, in a prioritized, risk-based manner to achieve situational awareness and operational control of the border the following additional capabilities:
   - **(1)** *San Diego sector* For the San Diego sector, the following:
     - **(A)** Subterranean surveillance and detection technologies.
     - **(B)** To increase coastal maritime domain awareness, the following:
@@ -38,18 +38,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(v)** Maritime signals intelligence capabilities.
     - **(C)** Ultralight aircraft detection capabilities.
     - **(D)** Advanced unattended surveillance sensors.
+    - **(E)** A rapid reaction capability supported by aviation assets.
   - **(2)** *El Centro sector* For the El Centro sector, the following:
     - **(A)** Tower-based surveillance technology.
     - **(B)** Deployable, lighter than air ground surveillance equipment.
     - **(C)** Man-portable unmanned aerial vehicles.
     - **(D)** Ultralight aircraft detection capabilities.
     - **(E)** Advanced unattended surveillance sensors.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(3)** *Yuma sector* For the Yuma sector, the following:
     - **(A)** Tower-based surveillance technology.
     - **(B)** Mobile vehicle-mounted and man-portable surveillance systems.
     - **(C)** Deployable, lighter-than-air ground surveillance equipment.
     - **(D)** Ultralight aircraft detection capabilities.
     - **(E)** Advanced unattended surveillance sensors.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(4)** *Tucson sector* For the Tucson sector, the following:
     - **(A)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
     - **(B)** Man-portable unmanned aerial vehicles.
@@ -57,35 +60,41 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** Ultralight aircraft detection capabilities.
     - **(E)** Advanced unattended surveillance sensors.
     - **(F)** Deployable, lighter than air ground surveillance equipment.
+    - **(G)** A rapid reaction capability supported by aviation assets.
   - **(5)** *El Paso sector* For the El Paso sector, the following:
     - **(A)** Tower-based surveillance technology.
     - **(B)** Ultralight aircraft detection capabilities.
     - **(C)** Advanced unattended surveillance sensors.
     - **(D)** Mobile vehicle-mounted and man-portable surveillance systems.
     - **(E)** Deployable, lighter than air ground surveillance equipment.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(6)** *Big Bend sector* For the Big Bend sector, the following:
     - **(A)** Tower-based surveillance technology.
     - **(B)** Deployable, lighter than air ground surveillance equipment.
     - **(C)** Improved agent communications capabilities.
     - **(D)** Ultralight aircraft detection capabilities.
     - **(E)** Advanced unattended surveillance sensors.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(7)** *Del Rio sector* For the Del Rio sector, the following:
     - **(A)** Increased monitoring for cross-river dams, culverts, and footpaths.
-    - **(B)** Improved communications capabilities.
+    - **(B)** Improved agent communications capabilities.
     - **(C)** Improved maritime capabilities in the Amistad Recreation Area.
     - **(D)** Advanced unattended surveillance sensors.
+    - **(E)** A rapid reaction capability supported by aviation assets.
   - **(8)** *Laredo sector* For the Laredo sector, the following:
     - **(A)** Maritime detection resources for Falcon Lake region.
     - **(B)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
     - **(C)** Increased monitoring for cross-river dams, culverts, and footpaths.
-    - **(D)** Ultralight aircraft detection capability.
+    - **(D)** Ultralight aircraft detection capabilities.
     - **(E)** Advanced unattended surveillance sensors.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(9)** *Rio Grande Valley sector* For the Rio Grande Valley sector, the following:
     - **(A)** Deployable, lighter than air ground surveillance equipment.
     - **(B)** Increased flight hours for aerial detection, interdiction and monitoring operations capability.
-    - **(C)** Ultralight aircraft detection capability.
+    - **(C)** Ultralight aircraft detection capabilities.
     - **(D)** Advanced unattended surveillance sensors.
     - **(E)** Increased monitoring for cross-river dams, culverts, footpaths.
+    - **(F)** A rapid reaction capability supported by aviation assets.
   - **(10)** *Eastern Pacific Maritime region* For the Eastern Pacific Maritime region, the following:
     - **(A)** Increased cutter and boat hours and operation platforms to conduct interdiction operations.
     - **(B)** Increased maritime signals intelligence capabilities.
@@ -94,7 +103,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(ii)** Unmanned aerial vehicles with maritime surveillance capability.
       - **(iii)** Increased maritime aviation patrol hours.
       - **(iv)** Coastal radar surveillance systems.
-    - **(D)** Increased operational hours for maritime security components dedicated to joint counter-smuggling and interdiction efforts with other Federal agencies, including the Joint Interagency Task Forces, and the United States Coast Guard Deployable Law Enforcement Teams.
+    - **(D)** Increased operational hours for maritime security components dedicated to joint counter-smuggling and interdiction efforts with other Federal agencies, including the Joint Interagency Task Forces, and the United States Coast Guard Deployable Specialized Forces.
   - **(11)** *Caribbean and Gulf Maritime region* For the Caribbean and Gulf Maritime region, the following:
     - **(A)** Increased cutter and boat hours and operation platforms to conduct interdiction operations.
     - **(B)** Increased maritime signals intelligence capabilities.
@@ -103,12 +112,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(ii)** Unmanned aerial vehicles with maritime surveillance capability.
       - **(iii)** Increased maritime aviation patrol hours.
       - **(iv)** Coastal radar surveillance systems.
-    - **(D)** Increased operational hours for maritime security components dedicated to joint counter-smuggling and interdiction efforts with other Federal agencies, including the Joint Interagency Task Forces, and the United States Coast Guard Tactical Law Enforcement Teams.
+    - **(D)** Increased operational hours for maritime security components dedicated to joint counter-smuggling and interdiction efforts with other Federal agencies, including the Joint Interagency Task Forces, and the United States Coast Guard Deployable Specialized Forces.
 - **(c)** *Fencing and infrastructure*
   - **(1)** *New fencing* Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall construct, at a minimum, each of the following:
     - **(A)** Seven miles of double layer fencing in the Border Patrol’s San Diego sector in addition to such fencing in existence as of the date of the enactment of this Act.
-    - **(B)** Ten miles of double layer pedestrian fencing in the Border Patrol’s Tucson sector in addition to such fencing in existence as of the date of the enactment of this Act.
+    - **(B)** Twenty-one miles of double layer pedestrian fencing in the Border Patrol’s Tucson sector in addition to such fencing in existence as of the date of the enactment of this Act.
     - **(C)** Ten miles of double layer pedestrian fencing in the Border Patrol’s Rio Grande Valley sector in addition to such fencing in existence as of the date of the enactment of this Act.
+    - **(D)** Ten miles of double layer pedestrian fencing in the Border Patrol’s Del Rio sector in addition to such fencing in existence as of the date of the enactment of this Act.
   - **(2)** *Fence repair and replacement* Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall replace, at a minimum, each of the following:
     - **(A)** Thirty-one miles of landing mat fencing with bollard style fencing in the Border Patrol’s San Diego sector.
     - **(B)** Five miles of landing mat fencing with bollard style fencing in the Border Patrol’s El Centro sector.
@@ -130,7 +140,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** One thousand two hundred miles of road maintenance in the Border Patrol’s Del Rio sector.
     - **(C)** Twenty-six miles of road maintenance in the Border Patrol’s Laredo sector.
     - **(D)** Ninety-four miles of road maintenance in the Border Patrol’s Rio Grande Valley sector.
-  - **(5)** *New vehicle fence* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall complete six miles of vehicle fencing in the Border Patrol’s Big Bend sector in addition to such fencing in existence of as of the date of the enactment of this Act.
+  - **(5)** *New vehicle fence* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall complete six miles of vehicle fencing in the Border Patrol’s Big Bend sector in addition to such fencing in existence as of the date of the enactment of this Act.
   - **(6)** *Vehicle fence replacement* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall replace five miles of vehicle fencing with new vehicle fencing in the Border Patrol’s Tucson sector in addition to such fencing in existence as of the date of the enactment of this Act.
   - **(7)** *Boat ramps* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall complete, at a minimum, the construction of each of the following:
     - **(A)** Eight boat ramps in the Border Patrol’s Del Rio sector in addition to such ramps in existence as of the date of the enactment of this Act.
@@ -151,14 +161,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** An interview room.
     - **(D)** Water.
     - **(E)** Power.
-    - **(F)** Adequate communications, including local area network connectivity.
+    - **(F)** Adequate communications, including wide area network connectivity.
     - **(G)** Helicopter landing zone.
 - **(d)** *Carrizo cane eradication*
   - **(1)** *Findings* Congress makes the following findings:
     - **(A)** Carrizo cane is a non-native, invasive plant growing along the Rio Grande River in Texas, with heights of up to 27 feet tall.
-    - **(B)** According to U.S. Customs and Border Protection, “the [Carrizo cane] plant causes serious officer safety issues and operational concerns because it hampers enforcement along the [Rio Grande] river. The plant also provides concealment to criminals, drug smugglers, illegal aliens, and potential terrorists who could use it as an advantage to enter the Unites States illegally. The obvious officer safety hazards created by this situation are of grave concern to the Border Patrol and need to be remedied”.
+    - **(B)** According to U.S. Customs and Border Protection, “the [Carrizo cane] plant causes serious officer safety issues and operational concerns because it hampers enforcement along the [Rio Grande] river. The plant also provides concealment to criminals, drug smugglers, illegal aliens, and potential terrorists who could use it as an advantage to enter the United States illegally. The obvious officer safety hazards created by this situation are of grave concern to the Border Patrol and need to be remedied”.
   - **(2)** *Eradication* The Chief of the Border Patrol shall coordinate with the heads of each relevant Federal and State agency to eradicate, to the greatest extent practicable, the Carrizo cane plant along the Rio Grande River.
-- **(e)** *Consultation* The Secretary of Homeland Security shall consult with the governors of each southern border State, including southern border maritime States, representatives of the Border Patrol and U.S. Customs and Border Protection, and relevant Federal, State, local, and tribal agencies that have jurisdiction on the southern border, or in the maritime environment, to develop the operational plan required under subsection (f) and the metrics required under subsections (h), (i), (j), and (k).
+- **(e)** *Consultation* The Secretary of Homeland Security shall consult with the governors of each southern land border State and each southern border maritime State, representatives of the Border Patrol and U.S. Customs and Border Protection, and relevant Federal, State, local, and tribal agencies that have jurisdiction on the southern land border, or in the maritime environment, to develop the operational plan required under subsection (f) and the metrics required under subsections (h), (i), (j), and (k).
 - **(f)** *Operational plan*
   - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the appropriate congressional committees, the BSVC, and the Comptroller General of the United States a comprehensive operational plan for each of the components of the Department of Homeland Security responsible for border or maritime security to gain and maintain situational awareness, operational control of high traffic areas, and operational control along the southern land border of the United States by the dates, respectively, referred to in subsection (a).
   - **(2)** *Contents of plan* The plan required under paragraph (1) shall include the following:
@@ -169,7 +179,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(E)** A plan to ensure that any new border security assets will be operationally integrated with assets in use by the Department of Homeland Security as of the date of the enactment of this Act.
     - **(F)** A plan to eradicate the Carrizo cane plant, as required under subsection (d).
     - **(G)** Lessons learned from Operation Jumpstart and Operation Phalanx.
-    - **(H)** A description of border security information received from consultation with border community stakeholders, including representatives from agricultural and ranching organizations and business and civic organizations along the northern or southern border.
+    - **(H)** A description of border security information received from consultation with border community stakeholders, including representatives from agricultural and ranching organizations and business and civic organizations along the northern or southern land borders.
     - **(I)** A description of the staffing requirements for all border security functions of the border security components of the Department of Homeland Security.
     - **(J)** A prioritized list of research and development objectives to enhance the security of the international land and maritime borders of the United States.
     - **(K)** An assessment of the relationship between border security operations and crossing times.
@@ -186,13 +196,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** *Comptroller General review* Not later than 90 days after receiving the operational plan under paragraph (1), the Comptroller General of the United States shall submit to the appropriate congressional committees and the BSVC a report on the operational plan required under paragraph (1) and such congressional justification.
 - **(g)** *Periodic updates* Not later than 180 days after the submission of each Quadrennial Homeland Security Review required under section 707 of the Homeland Security Act of 2002 (6 U.S.C. 347) beginning with the first such Review that is due after the operational plan is submitted under subsection (f), the Secretary of Homeland Security shall submit to the appropriate congressional committees, the BSVC, and the Comptroller General of the United States an updated operational plan under paragraph (1) of subsection (f).
 - **(h)** *Metrics for securing the border between ports of entry*
-  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act and an annually thereafter, the Chief of the Border Patrol shall develop metrics, informed by situational awareness, to measure the effectiveness of security between ports of entry, which shall include, at a minimum, the following:
+  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act and annually thereafter, the Chief of the Border Patrol shall develop metrics, informed by situational awareness, to measure the effectiveness of security between ports of entry, which shall include, at a minimum, the following:
     - **(A)** An unlawful border crossing effectiveness rate, informed by situational awareness.
     - **(B)** A probability of detection that measures the estimated total unlawful border crossing attempts not detected by the Border Patrol against the unlawful border crossing effectiveness rate referred to in subparagraph (A).
     - **(C)** A weight-to-frequency rate which measures the average weight of marijuana seized per seizure by the Border Patrol in any fiscal year compared to such a weight-to-frequency rate for the immediately preceding five fiscal years.
     - **(D)** A situational awareness achievement metric that measures the amount of situational awareness achieved in each Border Patrol sector.
     - **(E)** An illicit drugs seizure rate which measures the amount and type of illicit drugs seized by the Border Patrol in any fiscal year compared to an average of the amount and type of illicit drugs seized by the Border Patrol for the immediately preceding five fiscal years.
-    - **(F)** In consultation the Office of National Drug Control Policy and the United States Southern Command, a cocaine seizure effectiveness rate measured as a percentage that results from dividing the amount of cocaine seized by the Border Patrol by the total documented cocaine flow rate between ports of entry along the southern land border.
+    - **(F)** In consultation with the Office of National Drug Control Policy and the United States Southern Command, a cocaine seizure effectiveness rate measured as a percentage that results from dividing the amount of cocaine seized by the Border Patrol by the total documented cocaine flow rate between ports of entry along the southern land border.
     - **(G)** Estimates, using alternative methodologies, including recidivism data, survey data, known-flow data, and technologically measured data, of total attempted unlawful border crossings, the rate of apprehension of attempted unlawful border crossers, and the inflow into the United States of unlawful border crossers who evade apprehension.
     - **(H)** Estimates of the impact of the Border Patrol’s Consequence Delivery System on the rate of recidivism of unlawful border crossers.
   - **(2)** *Metrics consultation* In developing the metrics required under paragraph (1), the Chief of the Border Patrol shall consult with staff members of the Office of Policy at the Department of Homeland Security and staff members of the Office of the Chief Financial Officer of the Department of Homeland Security. Such staff members may not be political appointees.
@@ -205,6 +215,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** Estimates, using alternative methodologies, including survey data and randomized secondary screening data, of total attempted inadmissible border crossers, the rate of apprehension of attempted inadmissible border crossers, and the inflow into the United States of inadmissible border crossers who evade apprehension.
     - **(E)** The number of infractions related to personnel and cargo committed by major violators who are apprehended by the Office of Field Operations of U.S. Customs and Border Protection at ports of entry, and the estimated number of such infractions committed by major violators who are not apprehended.
     - **(F)** A measurement of how border security operations affect crossing times.
+    - **(G)** The amount and type of illicit drugs seized by the Office of Field Operations of U.S. Customs and Border Protection at United States seaports during the previous fiscal year.
+    - **(H)** A cargo scanning rate that measures the number of cargo containers scanned by the Office of Field Operations of U.S. Customs and Border Protection at each United States seaport during the previous fiscal year against the total number of cargo containers entering the United States at each seaport during the previous fiscal year.
   - **(2)** *Metrics consultation* In developing the metrics required under paragraph (1), the Assistant Commissioner for the Office of Field Operations shall consult with staff members of the Office of Policy at the Department of Homeland Security and staff members of the Office of the Chief Financial Officer of the Department of Homeland Security. Such staff members may not be political appointees.
   - **(3)** *Metrics not reviewable* The metrics required under paragraph (1) may not be reviewed or otherwise amended by the President, any staff employed by the Executive Office of the President, the Secretary of Homeland Security, the Deputy Secretary of Homeland Security, the Commissioner of U.S. Customs and Border Protection, or the Deputy Commissioner of U.S. Customs and Border Protection before the submission of such metrics to the appropriate congressional committees, the BSVC, and the Comptroller General of the United States, as required under subsection (m). The prohibition described in this paragraph does not apply to the Office of National Drug Control Policy.
 - **(j)** *Metrics for securing the maritime border*
@@ -226,10 +238,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** The number of subjects detected by U.S. Customs and Border Protection’s Office of Air and Marine through the use of unmanned aerial systems.
     - **(E)** The number of apprehensions assisted by U.S. Customs and Border Protection’s Office of Air and Marine through the use of unmanned aerial systems.
     - **(F)** The number and quantity of illicit drug seizures assisted by U.S. Customs and Border Protection’s Office of Air and Marine through the use of unmanned aerial systems.
+    - **(G)** A detailed description of how, where, and for how long data and images collected through the use of unmanned aerial systems by U.S. Customs and Border Protection is collected and stored.
   - **(2)** *Metrics consultation* In developing the metrics required under paragraph (1), the Assistant Commissioner for Air and Marine shall consult with staff members of the Office of Policy at the Department of Homeland Security and staff members of the Office of the Chief Financial Officer of the Department of Homeland Security. Such staff members may not be political appointees.
   - **(3)** *Metrics not reviewable* The metrics required under paragraph (1) may not be reviewed or otherwise amended by the President, any staff employed by the Executive Office of the President, the Secretary of Homeland Security, the Deputy Secretary of Homeland Security, the Commissioner of U.S. Customs and Border Protection, or the Deputy Commissioner of U.S. Customs and Border Protection before the submission to the appropriate congressional committees, the BSVC, and the Comptroller General of the United States, as required under subsection (m). The prohibition described in this paragraph does not apply to the Office of National Drug Control Policy.
 - **(l)** *Penalties for failure To submit metrics*
-  - **(1)** *In general* If any of the officials referred to in subsection (h), (i), (j), or (k) fail to meet any of the deadlines required under any of such subsections, no political appointee of the Department of Homeland Security may perform any function described in paragraph (2) until all such officials have meet all of such deadlines.
+  - **(1)** *In general* If any of the officials referred to in subsection (h), (i), (j), or (k) fail to meet any of the deadlines required under any of such subsections, no political appointee of the Department of Homeland Security may perform any function described in paragraph (2) until all such officials have met all of such deadlines.
   - **(2)** *Functions described* The functions described in this paragraph are the following:
     - **(A)** Travel using Government aircraft.
     - **(B)** Receipt of any non-essential training.
@@ -256,26 +269,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** *Operational control certification*
       - **(i)** *In general* For purposes of subparagraph (C)(i), the BSVC shall certify the accuracy of a notification of the Secretary if four members of the BSVC vote that such certification is accurate.
       - **(ii)** *Public voting* A vote referred to under clause (i) shall be conducted in public.
-      - **(iii)** *Consultation* Before conducting a vote referred to in clause (i), the BSVC shall consult with the governors of each southern border State, representatives of the National Border Patrol Council, and relevant State and local government agencies that have jurisdiction on the southern border.
+      - **(iii)** *Consultation* Before conducting a vote referred to in clause (i), the BSVC shall consult with the governors of each southern land border State, representatives of the National Border Patrol Council, representatives of the ranching industry in each southern land border State, and relevant State and local government agencies that have jurisdiction on the southern land border.
     - **(E)** *Metrics determination* For purposes of subparagraph (C)(iii), the BSVC shall concur in the accuracy of the metrics required under subsections (h), (i), (j), and (k) if four members of the BSVC vote that such certification is accurate.
-- **(o)** *Failure To achieve operational control*
+- **(o)** *Failure to achieve operational control*
   - **(1)** *Penalties*
-    - **(A)** *In general* If the Secretary of Homeland Security determines that situational awareness, operational control, or both, as the case may be, has not been achieved by the dates referred to in subsection (n)(1) (and thus fails to submit a notification to the BSVC), or if the BSVC determines pursuant to subsection (n)(2) that the Secretary has failed to achieve situational awareness and operational control of high traffic areas or has failed to achieve operational control along the southern border by such respective dates, no political appointee of the Department of Homeland Security may perform any function described in subparagraph (B) until the BSVC certifies that the Secretary has achieved such situational awareness, operational control, or both, as the case may be.
+    - **(A)** *In general* If the Secretary of Homeland Security determines that situational awareness, operational control, or both, as the case may be, has not been achieved by the dates referred to in subsection (n)(1) (and thus fails to submit a notification to the BSVC), or if the BSVC determines pursuant to subsection (n)(2) that the Secretary has failed to achieve situational awareness and operational control of high traffic areas or has failed to achieve operational control along the southern land border by such respective dates, no political appointee of the Department of Homeland Security may perform any function described in subparagraph (B) until the BSVC certifies that the Secretary has achieved such situational awareness, operational control, or both, as the case may be.
     - **(B)** *Functions described* The functions described in this subparagraph are each of the following:
       - **(i)** Travel using Government aircraft.
       - **(ii)** Receipt of any non-essential training, including conferences.
-      - **(iii)** Receipt of bonus pay, excluding overtime pay.
+      - **(iii)** Receipt of bonus pay.
       - **(iv)** Receipt of any salary increase.
   - **(2)** *National security exception* The Secretary of Homeland Security may waive the travel prohibition in paragraph (1)(B)(i) if the Secretary determines and notifies the appropriate congressional committees that—
     - **(A)** such a waiver is in the national security interests of the United States; or
-    - **(B)** such travel is being carried out to achieve operational control of the southern border of the United States.
-  - **(3)** *Further action required* If the Secretary of Homeland Security determines that situation awareness, operational control, or both, as the case may be, has not been achieved by the dates referred to in subsection (n)(1) (and thus fails to submit a notification to the BSVC), or if the BSVC determines pursuant to subsection (n)(2) that the Secretary has failed to achieve situational awareness and operational control of high traffic areas or fails to achieve operational control along the southern border by such respective dates, the Secretary of Homeland Security shall, within 180 days, submit to the appropriate congressional committees and the BSVC and implement a revised plan to achieve situational awareness, operational control, or both, as the case may be, that adopts the recommendations of the BSVC referred to in subsection (n)(2)(C)(ii)(III).
+    - **(B)** such travel is being carried out to achieve operational control of the southern land border of the United States.
+  - **(3)** *Further action required* If the Secretary of Homeland Security determines that situational awareness, operational control, or both, as the case may be, has not been achieved by the dates referred to in subsection (n)(1) (and thus fails to submit a notification to the BSVC), or if the BSVC determines pursuant to subsection (n)(2) that the Secretary has failed to achieve situational awareness and operational control of high traffic areas or fails to achieve operational control along the southern land border by such respective dates, the Secretary of Homeland Security shall, within 180 days, submit to the appropriate congressional committees and the BSVC and implement a revised plan to achieve situational awareness, operational control, or both, as the case may be, that adopts the recommendations of the BSVC referred to in subsection (n)(2)(C)(ii)(III).
 - **(p)** *Reports* Not later than 60 days after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall submit to the appropriate congressional committees a report that includes each of the following:
   - **(1)** A resource allocation model for current and future year staffing requirements that includes optimal staffing levels at all land, air, and sea ports of entry, and an explanation of U.S. Customs and Border Protection methodology for aligning staffing levels and workload to threats and vulnerabilities and their effects on cross border trade and passenger travel across all mission areas.
   - **(2)** Detailed information on the level of manpower available at all land, air, and sea ports of entry and between ports of entry, including the number of canine and agricultural specialists assigned to each such port of entry.
   - **(3)** Detailed information describing the difference between the staffing the model suggests and the actual staffing at each port of entry and between the ports of entry.
   - **(4)** Monthly per passenger wait times, including data on per passenger processing wait times at all land, air, and sea ports of entry.
   - **(5)** A description of the infrastructure, security resources, and other measures that are necessary to achieve substantial reductions in the average wait times of vehicles at land border ports of entry.
+- **(q)** *Adherence to certain standards* The Under Secretary for Management of the Department of Homeland Security, in coordination with the Assistant Commissioner of the Office of Administration of U.S. Customs and Border Protection, shall ensure component program managers who are responsible for carrying out subsections (b) and (c) adhere to internal control standards identified by the Comptroller General of the United States. The Assistant Commissioner shall provide information, as needed, to assist the Under Secretary for Management in monitoring proper program management of border security programs carried out pursuant to such subsections.
 
 ## § 4. Establishment of Border Security Verification Commission
 
@@ -311,55 +325,66 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *Travel expenses* The members of the BSVC shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the BSVC.
   - **(2)** *Detail of Federal employees* With the affirmative vote of four of the members of the BSVC, any Federal Government employee, with the approval of the head of the appropriate Federal agency or congressional office, may be detailed to the BSVC without reimbursement, and such detail shall be without interruption or loss of civil service status, salary, benefits, or privileges.
   - **(3)** *Office space and assistance* Upon the request of the BSVC, the Secretary of Homeland Security shall provide reasonable and appropriate office space, supplies, and administrative assistance.
-- **(q)** *Termination* The BSVC shall terminate after determining the accuracy of the seventh annual metrics submission required under subsection (n)(2) of section 3.
+- **(q)** *Termination* The BSVC shall terminate after determining the accuracy of the tenth annual metrics submission required under subsection (n)(2) of section 3.
 
 ## § 5. Required consequence
 
 The Chief of the Border Patrol shall impose a consequence for each alien apprehended pursuant to the Border Patrol’s Consequence Delivery System.
 
-## § 6. Tactical flexibility
+## § 6. Patrol by the Border Patrol of physical land border
 
-The Chief of the Border Patrol may alter the capability deployment referred to in subsection (b) of section 3 if the Chief determines, after consultation with the appropriate congressional committees, that the principal border security threats referred to in subsection (f)(2)(A) of such section require such alteration.
+- **(a)** *In general* The Chief of the Border Patrol shall direct agents of the Border Patrol to patrol as close to the physical land border as possible, consistent with the accessibility to such areas.
+- **(b)** *Forward operating base personnel* The Chief of the Border Patrol shall deploy the maximum practicable number of Border Patrol agents to forward operating bases along the southern land border of the United States to meet the requirements of this section.
 
-## § 7. Deployment of certain aviation assets to the southern land border
+## § 7. Tactical flexibility
+
+- **(a)** *Southern land border* The Chief of the Border Patrol may alter the capability deployment referred to in subsection (b) of section 3 if the Chief determines, after consultation with the appropriate congressional committees, that the principal border security threats referred to in subsection (f)(2)(A) of such section require such alteration.
+- **(b)** *Northern land border* The Chief of the Border Patrol may alter the capability deployment referred to in subsection (c) of section 15 if the Chief determines, after consultation with the appropriate congressional committees, that the threat analysis referred to in subsection (a) of such section requires such alteration.
+
+## § 8. Deployment of certain aviation assets to the southern land border
 
 - **(a)** *In general* The Secretary of Defense, in collaboration with the Secretary of Homeland Security, may allocate additional aviation assets of the Department of Defense to the southern land border of the United States to assist the Secretary of Homeland Security in achieving situational awareness and operational control in accordance with section 3(a).
 - **(b)** *Additional requirements*
   - **(1)** *Plan* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the appropriate congressional committees and the BSVC a plan for the Department of Homeland Security to acquire and deploy aviation capabilities of the Department along the southern land border of the United States.
   - **(2)** *DHS deployment* Not later than 180 days after the submission of the plan under paragraph (1), the Secretary of Homeland Security shall begin acquiring and deploying to the southern land border of the United States aviation capabilities of the Department of Homeland Security acquired in accordance with such plan.
 
-## § 8. U.S. Customs and Border Protection officer and agent authorization
+## § 9. U.S. Customs and Border Protection officer and agent authorization
 
 - **(a)** *Border Patrol* The Border Patrol shall maintain an active duty presence of not fewer than 21,370 full time equivalent agents.
 - **(b)** *Office of Field Operations* The Office of Field Operations of U.S. Customs and Border Protection shall maintain not fewer than 23,775 full time equivalent officers.
 - **(c)** *Office of Air and Marine* The Office of Air and Marine of U.S. Customs and Border Protection shall maintain not fewer than 1,675 full time equivalent agents.
 
-## § 9. Office of Air and Marine flight hours
+## § 10. Office of Air and Marine flight hours
 
 - **(a)** *Increased flight hours* The Secretary of Homeland Security shall ensure not fewer than 130,000 annual flight hours of the Office of Air and Marine of U.S. Customs and Border Protection.
 - **(b)** *Unmanned aerial systems* The Office of Air and Marine of U.S. Customs and Border Protection shall operate unmanned aerial systems not less than 16 hours per day, seven days per week.
+- **(c)** *Unmanned aerial systems report* The Office of Air and Marine of U.S. Customs and Border Protection shall annually submit to the appropriate congressional committees a report regarding the requirement referred to in subsection (b). Such report shall describe the number of hours the Office of Air and Marine operated unmanned aerial systems—
+  - **(1)** in a transit zone;
+  - **(2)** on a land border;
+  - **(3)** on a maritime border; and
+  - **(4)** to assist other Federal, State, local, and tribal law enforcement agencies.
 
-## § 10. Air and Marine prioritization
+## § 11. Air and Marine prioritization
 
 The Assistant Commissioner for the Office of Air and Marine of U.S. Customs and Border Protection shall assign the greatest prioritization to support requests from the Chief of the Border Patrol to carry out the requirements of section 3(a).
 
-## § 11. Border Patrol flexibility
+## § 12. Border Patrol flexibility
 
 - **(a)** *Transfer* The Chief of the Border Patrol may transfer Border Patrol agents, on a voluntary basis, to high traffic areas, as determined by the Chief.
 - **(b)** *Incentive bonus* At the discretion of the Chief of the Border Patrol, a Border Patrol agent may be eligible for an incentive bonus for any transfer carried out pursuant to subsection (a) if the Chief determines that such transfer is critical to the risk-based approach of the Border Patrol to patrolling the international borders of the United States.
 - **(c)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $30,000,000 for each fiscal year.
 
-## § 12. Prohibition on actions that impede border security on certain Federal land
+## § 13. Prohibition on actions that impede border security on certain Federal land
 
-- **(a)** *Prohibition on Secretaries of the Interior and Agriculture* The Secretary of the Interior or the Secretary of Agriculture shall not impede, prohibit, or restrict activities of U.S. Customs and Border Protection on Federal land located within 100 miles of the United States border with Mexico that is under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture, to execute search and rescue operations, and to prevent all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband through such international border. These authorities of U.S. Customs and Border Protection on such Federal land apply whether or not a state of emergency exists.
-- **(b)** *Authorized activities of U.S. Customs and Border Protection* U.S. Customs and Border Protection shall have immediate access to Federal land within 100 miles of the United States border with Mexico that is under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture for purposes of conducting the following activities on such land to prevent all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband through such international border:
+- **(a)** *Prohibition on Secretaries of the Interior and Agriculture* The Secretary of the Interior or the Secretary of Agriculture shall not impede, prohibit, or restrict activities of U.S. Customs and Border Protection on Federal land located within 100 miles of the United States border with Mexico and the United States border with Canada that is under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture, to execute search and rescue operations, and to prevent all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband through such international borders. These authorities of U.S. Customs and Border Protection on such Federal land apply whether or not a state of emergency exists.
+- **(b)** *Authorized activities of U.S. Customs and Border Protection* U.S. Customs and Border Protection shall have immediate access to Federal land within 100 miles of the United States borders with Mexico and Canada that are under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture for purposes of conducting the following activities on such land to prevent all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband through such international border:
   - **(1)** Construction and maintenance of roads.
   - **(2)** Construction and maintenance of barriers.
   - **(3)** Use of vehicles to patrol, apprehend, or rescue.
   - **(4)** Installation, maintenance, and operation of communications and surveillance equipment and sensors.
   - **(5)** Deployment of temporary tactical infrastructure.
 - **(c)** *Clarification relating to waiver authority*
-  - **(1)** *In general* Notwithstanding any other provision of law (including any termination date relating to the waiver referred to in this subsection), the waiver by the Secretary of Homeland Security on April 1, 2008, under section 102(c)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1103 note; Public Law 104–208) of the laws described in paragraph (2) with respect to certain sections of the international border between the United States and Mexico shall be considered to apply to all Federal land under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture within 100 miles of such international border for the activities of U.S. Customs and Border Protection described in subsection (b).
+  - **(1)** *In general* Notwithstanding any other provision of law (including any termination date relating to the waiver referred to in this subsection), the waiver by the Secretary of Homeland Security on April 1, 2008, under section 102(c)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1103 note; Public Law 104–208) of the laws described in paragraph (2) with respect to certain sections of the international borders between the United States and Mexico and the United States and Canada shall be considered to apply to all Federal land under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture within 100 miles of such international borders for the activities of U.S. Customs and Border Protection described in subsection (b).
   - **(2)** *Description of laws waived* The laws referred to in paragraph (1) are limited to the Wilderness Act (16 U.S.C. 1131 et seq.), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), the National Historic Preservation Act (16 U.S.C. 470 et seq.), Public Law 86–523 (16 U.S.C. 469 et seq.), the Act of June 8, 1906 (commonly known as the “Antiquities Act of 1906”; 16 U.S.C. 431 et seq.), the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.), the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.), the Fish and Wildlife Act of 1956 (16 U.S.C. 742a et seq.), the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.), subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”), the National Park Service Organic Act (16 U.S.C. 1 et seq.), the General Authorities Act of 1970 (Public Law 91–383) (16 U.S.C. 1a–1 et seq.), sections 401(7), 403, and 404 of the National Parks and Recreation Act of 1978 (Public Law 95–625, 92 Stat. 3467), and the Arizona Desert Wilderness Act of 1990 (16 U.S.C. 1132 note; Public Law 101–628).
 - **(d)** *Protection of legal uses* This section may not be construed to provide—
   - **(1)** authority to restrict legal uses, such as grazing, hunting, mining, or public-use recreational and backcountry airstrips on land under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture; or
@@ -369,10 +394,10 @@ The Assistant Commissioner for the Office of Air and Marine of U.S. Customs and 
   - **(2)** not provide authority on or access to State or private lands.
 - **(f)** *Tribal sovereignty* Nothing in this section supersedes, replaces, negates, or diminishes treaties or other agreements between the United States and Indian tribes.
 
-## § 13. Biometric exit data system
+## § 14. Biometric exit data system
 
 - **(a)** *Establishment* The Secretary of Homeland Security shall—
-  - **(1)** not later than 180 days after the date of the enactment of this Act, submit to the appropriate congressional committees an implementation plan to establish a biometric exit data system to complete the integrated biometric entry and exit data system required under section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1365b), including—
+  - **(1)** not later than 180 days after the date of the enactment of this Act, submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate an implementation plan to establish a biometric exit data system to complete the integrated biometric entry and exit data system required under section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1365b), including—
     - **(A)** an integrated master schedule and cost estimate, including requirements and design, development, operational, and maintenance costs, of such a system that takes into account prior reports on such matters issued by the Government Accountability Office and the Department of Homeland Security;
     - **(B)** cost-effective staffing and personnel requirements of such a system that leverages existing resources of the Department of Homeland Security that takes into account prior reports on such matters issued by the Government Accountability Office and the Department of Homeland Security;
     - **(C)** a consideration of training programs necessary to establish such a system that takes into account prior reports on such matters issued by the Government Accountability Office and the Department of Homeland Security;
@@ -393,29 +418,30 @@ The Assistant Commissioner for the Office of Air and Marine of U.S. Customs and 
     - **(B)** the 15 United States seaports that support the highest volume of international sea travel, as determined by available Federal travel data; and
     - **(C)** the 15 United States land ports of entry that support the highest volume of pedestrian crossings, as determined by available Federal border crossing data.
 - **(b)** *Implementation*
-  - **(1)** *Pilot program at land ports of entry for non-pedestrian outbound traffic* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, in collaboration with industry stakeholders, shall establish a six-month pilot program to test the biometric exit data system referred to in subsection (a)(2) on non-pedestrian outbound traffic at not fewer than three land ports of entry with significant cross-border traffic, including at not fewer than two land ports of entry on the southern border and at least one land port of entry on the northern border. Such pilot program may include a consideration of more than one biometric mode, and shall be implemented to determine the following:
+  - **(1)** *Pilot program at land ports of entry for non-pedestrian outbound traffic* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, in collaboration with industry stakeholders, shall establish a six-month pilot program to test the biometric exit data system referred to in subsection (a)(2) on non-pedestrian outbound traffic at not fewer than three land ports of entry with significant cross-border traffic, including at not fewer than two land ports of entry on the southern land border and at least one land port of entry on the northern land border. Such pilot program may include a consideration of more than one biometric mode, and shall be implemented to determine the following:
     - **(A)** How a nationwide implementation of such biometric exit data system at land ports of entry shall be carried out.
     - **(B)** The infrastructure required to carry out subparagraph (A).
     - **(C)** The effects of such pilot program on legitimate travel and trade.
     - **(D)** The effects of such pilot program on wait times, including processing times, for such non-pedestrian traffic.
     - **(E)** Its effectiveness in combating terrorism.
+    - **(F)** Its effectiveness in identifying visa holders who violate the terms of their visas.
   - **(2)** *At land ports of entry for non-pedestrian outbound traffic*
     - **(A)** *In general* Not later than five years after the date of the enactment of this Act, the Secretary of Homeland Security shall expand the biometric exit data system referred to in subsection (a)(2) to all land ports of entry, and such system shall apply only in the case of non-pedestrian outbound traffic.
-    - **(B)** *Extension* The Secretary of Homeland Security may extend by two years the initial date specified in subparagraph (A), and may renew such extension for a single additional two-year period, if the Secretary certifies to the appropriate congressional committees that the 15 land ports of entry that support the highest volume of passenger vehicles, as determined by available Federal data, do not have the physical infrastructure or characteristics to install the systems necessary to implement a biometric exit data system.
+    - **(B)** *Extension* The Secretary of Homeland Security may extend for a single two year period the date specified in subparagraph (A) if the Secretary certifies to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate that the 15 land ports of entry that support the highest volume of passenger vehicles, as determined by available Federal data, do not have the physical infrastructure or characteristics to install the systems necessary to implement a biometric exit data system.
   - **(3)** *At air and sea ports of entry* Not later than five years after the date of the enactment of this Act, the Secretary of Homeland Security shall expand the biometric exit data system referred to in subsection (a)(2) to all air and sea ports of entry.
   - **(4)** *At land ports of entry for pedestrians* Not later than five years after the date of the enactment of this Act, the Secretary of Homeland Security shall expand the biometric exit data system referred to in subsection (a)(2) to all land ports of entry, and such system shall apply only in the case of pedestrians.
-- **(c)** *Effects on air, sea, and land transportation* The Secretary of Homeland Security, in consultation with appropriate private sector stakeholders, shall ensure that the collection of biometric data under this section causes the least possible disruption to the movement of people or cargo in air, sea, or land transportation.
+- **(c)** *Effects on air, sea, and land transportation* The Secretary of Homeland Security, in consultation with appropriate private sector stakeholders, shall ensure that the collection of biometric data under this section causes the least possible disruption to the movement of people or cargo in air, sea, or land transportation, while fulfilling the goals of improving counterterrorism efforts and identifying visa holders who violate the terms of their visas.
 - **(d)** *Termination of proceeding* Notwithstanding any other provision of law, the Secretary of Homeland Security shall, on the date of the enactment of this Act, terminate the proceeding entitled Collection of Alien Biometric Data Upon Exit From the United States at Air and Sea Ports of Departure, issued on April 24, 2008 (73 C.F.R. 22065; DHS Docket No. 2008–0039).
 - **(e)** *Data-Matching* The biometric exit data system established under this section shall—
   - **(1)** require that the biometric data that is obtained for a person upon entry to the United States is matched against the biometric data of such person when such person exits the United States;
   - **(2)** leverage the infrastructure and databases of the current entry system established pursuant to section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1365b) for the purpose described in paragraph (1); and
-  - **(3)** be interoperable with, and allow matching against, other Federal databases that store biometrics of known or suspected terrorists.
+  - **(3)** be interoperable with, and allow matching against, other Federal databases that store biometrics of known or suspected terrorists, and visa holders who have violated the terms of their visas.
 - **(f)** *Scope*
   - **(1)** *In general* The biometric exit data system established under this section shall include a requirement for the collection of biometric exit data for all categories of individuals who are required to provide biometric entry data.
   - **(2)** *Exception* This section shall not apply in the case of a citizen of the United States.
 - **(g)** *Collection of data* The Secretary of Homeland Security may not require any non-Federal person to collect biometric data pursuant to the biometric exit data system established under this section, except through a contractual agreement.
-- **(h)** *Multi-Modal collection* In carrying out subsections (a)(1) and (b), the Secretary of Homeland Security shall make every effort to collect biometric data using additional modes of biometric technology.
-- **(i)** *Penalties for failure To meet deadlines*
+- **(h)** *Multi-modal collection* In carrying out subsections (a)(1) and (b), the Secretary of Homeland Security shall make every effort to collect biometric data using additional modes of biometric technology.
+- **(i)** *Penalties for failure to meet deadlines*
   - **(1)** *Biometric exit data system* If the Secretary fails to meet any of the following requirements by the applicable deadline, no political appointee of the Department of Homeland Security may perform any function described in paragraph (2) until the Secretary has complied with the requirement:
     - **(A)** The submission of the implementation plan under subsection (a)(1).
     - **(B)** The establishment of a biometric exit data system under subsection (a)(2).
@@ -425,10 +451,11 @@ The Assistant Commissioner for the Office of Air and Marine of U.S. Customs and 
   - **(2)** *Functions described* The functions described in this subparagraph are each of the following:
     - **(A)** Travel using government aircraft.
     - **(B)** Receipt of any non-essential training.
-    - **(C)** Receipt of bonus pay, excluding overtime pay.
+    - **(C)** Receipt of bonus pay.
     - **(D)** Receipt of any salary increase.
+- **(j)** *Congressional review* Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate reports and recommendations of the Department of Homeland Security Science and Technology Directorate’s Air Entry and Exit Re-Engineering Program and the reports and recommendations of the U.S. Customs and Border Protection entry and exit mobility program demonstrations.
 
-## § 14. Northern border threat analysis
+## § 15. Northern border threat analysis
 
 - **(a)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the appropriate congressional committees a northern border threat analysis. Such analysis, at a minimum, shall include the following:
   - **(1)** An analysis of current and potential terrorism threats posed by individuals seeking to enter the United States through the northern border.
@@ -436,13 +463,86 @@ The Assistant Commissioner for the Office of Air and Marine of U.S. Customs and 
   - **(3)** An analysis of gaps in law, policy, international agreements, or tribal agreements that hinder the border security and counter-terrorism efforts along the northern border.
   - **(4)** An analysis of unlawful cross border activity between ports of entry, including the maritime borders of the Great Lakes.
 - **(b)** *Classified threat analysis* The threat analysis required under subsection (a) may be submitted in classified form, if the Secretary of Homeland Security determines that such is appropriate.
+- **(c)** *Required northern border capability deployment* Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the appropriate component of the Department of Homeland Security, shall, at a minimum, deploy to each sector of the northern border, in a prioritized, risk-based manner, the following additional capabilities:
+  - **(1)** *Blaine sector* For the Blaine sector, the following:
+    - **(A)** Coastal radar surveillance systems.
+    - **(B)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(C)** Advanced unattended surveillance sensors.
+    - **(D)** Improved agent communications capabilities.
+    - **(E)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(F)** Man-portable unmanned aerial vehicles.
+    - **(G)** Ultralight aircraft detection capabilities.
+    - **(H)** Modernized port of entry surveillance capabilities.
+    - **(I)** Increased maritime interdiction capabilities.
+  - **(2)** *Spokane sector* For the Spokane sector, the following:
+    - **(A)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(B)** Advanced unattended surveillance sensors.
+    - **(C)** Improved agent communications capabilities.
+    - **(D)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(E)** Man-portable unmanned aerial vehicles.
+    - **(F)** Completion of six miles of the Bog Creek road.
+    - **(G)** Ultralight aircraft detection capabilities.
+    - **(H)** Modernized port of entry surveillance capabilities.
+  - **(3)** *Havre sector* For the Havre sector, the following:
+    - **(A)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(B)** Advanced unattended surveillance sensors.
+    - **(C)** Improved agent communications capabilities.
+    - **(D)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(E)** Man-portable unmanned aerial vehicles.
+    - **(F)** Ultralight aircraft detection capabilities.
+    - **(G)** Modernized port of entry surveillance capabilities.
+  - **(4)** *Grand Forks sector* For the Grand Forks sector, the following:
+    - **(A)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(B)** Advanced unattended surveillance sensors.
+    - **(C)** Improved agent communications capabilities.
+    - **(D)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(E)** Man-portable unmanned aerial vehicles.
+    - **(F)** Ultralight aircraft detection capabilities.
+    - **(G)** Modernized port of entry surveillance capabilities.
+  - **(5)** *Detroit sector* For the Detroit sector, the following:
+    - **(A)** Coastal radar surveillance systems.
+    - **(B)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(C)** Advanced unattended surveillance sensors.
+    - **(D)** Improved agent communications capabilities.
+    - **(E)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(F)** Man-portable unmanned aerial vehicles.
+    - **(G)** Ultralight aircraft detection capabilities.
+    - **(H)** Modernized port of entry surveillance capabilities.
+    - **(I)** Increased maritime interdiction capabilities.
+  - **(6)** *Buffalo sector* For the Buffalo sector, the following:
+    - **(A)** Coastal radar surveillance systems.
+    - **(B)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(C)** Advanced unattended surveillance sensors.
+    - **(D)** Improved agent communications capabilities.
+    - **(E)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(F)** Man-portable unmanned aerial vehicles.
+    - **(G)** Ultralight aircraft detection capabilities.
+    - **(H)** Modernized port of entry surveillance capabilities.
+    - **(I)** Increased maritime interdiction capabilities.
+  - **(7)** *Swanton sector* For the Swanton sector, the following:
+    - **(A)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(B)** Advanced unattended surveillance sensors.
+    - **(C)** Improved agent communications capabilities.
+    - **(D)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(E)** Man-portable unmanned aerial vehicles.
+    - **(F)** Ultralight aircraft detection capabilities.
+    - **(G)** Modernized port of entry surveillance capabilities.
+  - **(8)** *Houlton sector* For the Houlton sector, the following:
+    - **(A)** Mobile vehicle-mounted and man-portable surveillance systems.
+    - **(B)** Advanced unattended surveillance sensors.
+    - **(C)** Improved agent communications capabilities.
+    - **(D)** Increased flight hours for aerial detection, interdiction, and monitoring operations capability.
+    - **(E)** Man-portable unmanned aerial vehicles.
+    - **(F)** Ultralight aircraft detection capabilities.
+    - **(G)** Modernized port of entry surveillance capabilities.
+- **(d)** *Adherence to certain standards* The Under Secretary for Management of the Department of Homeland Security, in coordination with the Assistant Commissioner of the Office of Administration of U.S. Customs and Border Protection, shall ensure component program managers who are responsible for carrying out this section adhere to internal control standards identified by the Comptroller General of the United States. The Assistant Commissioner shall provide information, as needed, to assist the Under Secretary for Management in monitoring proper program management of border security programs carried out pursuant to this section.
 
-## § 15. Operation Stonegarden program
+## § 16. Operation Stonegarden program
 
 - **(a)** *In general* Title XX of the Homeland Security Act of 2002 (6 U.S.C. 601 et seq.) is amended by adding the following new subtitle:
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting after the items relating to subtitle B of title XX the following new items:
 
-## § 16. Sale or donation of excess personal property for border security activities
+## § 17. Sale or donation of excess personal property for border security activities
 
 Section 2576a of title 10, United States Code, is amended—
 
@@ -451,12 +551,15 @@ Section 2576a of title 10, United States Code, is amended—
   - **(B)** in paragraph (2), by striking “the Attorney General and the Director of National Drug Control Policy” and inserting “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate.”; and
 - **(2)** in subsection (d), by striking “counter-drug or counter-terrorism activities” and inserting “counterdrug, counterterrorism, or border security activities”.
 
-## § 17. Reimbursement of States for deployment of National Guard to the southern border
+## § 18. Reimbursement of States for deployment of National Guard to the southern land border
 
-- **(a)** *Reimbursement authorized* The Secretary of Defense shall reimburse States for the cost of the deployment of any units or personnel of the National Guard to perform operations and missions under State Active Duty status in support of a southern border mission.
-- **(b)** *Limitation* The total amount of reimbursements under subsection (a) for any fiscal year may not exceed $35,000,000.
+Of the amounts authorized to be appropriate pursuant to section 21, not more than $35,000,000 may be used for any fiscal year to reimburse States for the cost of the deployment of any units or personnel of the National Guard to perform operations and missions under State Active Duty status in support of a southern land border mission.
 
-## § 18. Definitions
+## § 19. Operation of the Border Patrol
+
+The Border Patrol shall operate using intelligence-based operations to combat terrorist and transnational criminal threats along the international borders of the United States. In carrying out this section, the Border Patrol shall coordinate with international, Federal, State, local, and tribal law enforcement partners.
+
+## § 20. Definitions
 
 In this Act:
 
@@ -465,7 +568,7 @@ In this Act:
 - **(3)** *Cocaine removal effectiveness rate* The term “cocaine removal effectiveness rate” means the percentage that results from dividing the amount of cocaine removed by the Department of Homeland Security’s maritime security components inside or outside a transit zone, as the case may be, by the total documented cocaine flow rate as contained in Federal drug databases.
 - **(4)** *Consequence Delivery System* The term “Consequence Delivery System” means the series of consequences applied to persons unlawfully entering the United States by the Border Patrol to prevent unlawful border crossing recidivism.
 - **(5)** *Got away* The term “got away” means an unlawful border crosser who, after making an unlawful entry into the United States, is not turned back or apprehended.
-- **(6)** *High traffic areas* The term “high traffic areas” means sectors along the northern and southern borders of the United States that are within the responsibility of the Border Patrol that have significant unlawful cross-border activity, informed through situational awareness.
+- **(6)** *High traffic areas* The term “high traffic areas” means sectors along the northern and southern land borders of the United States that are within the responsibility of the Border Patrol that have significant unlawful cross-border activity, informed through situational awareness.
 - **(7)** *Unlawful border crossing effectiveness rate* The term “unlawful border crossing effectiveness rate” means the percentage that results from dividing the number of apprehensions and turn backs by the number of apprehensions, turn backs, and got aways. The data used by the Secretary of Homeland Security to determine such rate shall be collected and reported in a consistent and standardized manner across all Border Patrol sectors, informed by situational awareness.
 - **(8)** *Major violator* The term “major violator” means a person or entity that has engaged in serious criminal activities at any land, air, or sea port of entry, including possession of illicit drugs, smuggling of prohibited products, human smuggling, weapons possession, use of fraudulent United States documents, or other offenses serious enough to result in arrest.
 - **(9)** *Operational control* The term “operational control” has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 (8 U.S.C. 1701 note; Public Law 109–367).
@@ -473,6 +576,6 @@ In this Act:
 - **(11)** *Transit zone* The term “transit zone” means the sea corridors of the western Atlantic Ocean, the Gulf of Mexico, the Caribbean Sea, and the eastern Pacific Ocean through which undocumented migrants and illicit drugs transit, either directly or indirectly, to the United States.
 - **(12)** *Turn back* The term “turn back” means an unlawful border crosser who, after making an unlawful entry into the United States, returns to the country from which such crosser entered.
 
-## § 19. Authorization of appropriations
+## § 21. Authorization of appropriations
 
 There is authorized to be appropriated for each of fiscal years 2016 through 2025 $1,000,000,000 to carry out this Act and the amendments made by this Act.
