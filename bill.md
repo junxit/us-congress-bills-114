@@ -71,8 +71,8 @@ Section 203 of the Trafficking Victims Protection Reauthorization Act of 2005 (4
   >     - **(B)** the application includes a plan by the State or unit of local government to continue funding of all activities funded by the award after the expiration of the award.
   > - **(d)** *Duration and renewal of award*
   >   - **(1)** *In general* A grant under this section shall expire 1 year after the date of award of the grant.
-  >   - **(2)** *Renewal* A grant under this section shall be renewable not more than three times and for a period of not greater than 1 year.
-  > - **(e)** *Evaluation* The Attorney General shall enter into a contract or other agreement with an academic or nonprofit organization that has experience in issues related to child human trafficking and evaluation of grant programs to conduct an annual evaluation of grants made under this section to determine the impact and effectiveness of programs funded with grants awarded under this section, and shall submit any such evaluation to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
+  >   - **(2)** *Renewal* A grant under this section shall be renewable not more than 3 times and for a period of not greater than 1 year.
+  > - **(e)** *Evaluation* The Attorney General shall enter into a contract with an academic or non-profit organization that has experience in issues related to child human trafficking and evaluation of grant programs to conduct an annual evaluation of grants made under this section to determine the impact and effectiveness of programs funded with grants awarded under this section, and shall submit any such evaluation to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
   > - **(f)** *Oversight and accountability* An eligible entity that receives a grant under this section is subject to the requirements of section 10 of the Justice for Victims of Trafficking Act of 2014.
   > - **(g)** *Administrative Cap* The cost of administering the grants authorized by this section shall not exceed 5 percent of the total amount appropriated to carry out this section.
   > - **(h)** *Federal share* The Federal share of the cost of a program funded by a grant awarded under this section may not exceed—
@@ -82,7 +82,7 @@ Section 203 of the Trafficking Victims Protection Reauthorization Act of 2005 (4
   > - **(i)** *Definitions* In this section—
   >   - **(1)** the term child means a person under the age of 18;
   >   - **(2)** the term child advocacy center means a center created under subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.);
-  >   - **(3)** the term child human trafficking means one or more severe forms of trafficking in persons (as defined in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)) involving a victim who is a child; and
+  >   - **(3)** the term child human trafficking means 1 or more severe forms of trafficking in persons (as defined in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)) involving a victim who is a child; and
   >   - **(4)** the term eligible entity means a State or unit of local government that—
   >     - **(A)** has significant criminal activity involving child human trafficking;
   >     - **(B)** has demonstrated cooperation between Federal, State, local, and, where applicable, tribal law enforcement agencies, prosecutors, and social service providers in addressing child human trafficking; and
@@ -102,14 +102,9 @@ The Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.) is amended—
   - **(B)** by inserting after subsection (a) the following:
     > - **(b)** *Direct services for victims of child pornography* The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.
 
-## § 4. Streamlining Federal, State, and local human trafficking investigations
+## § 4. Streamlining State and local human trafficking investigations
 
-Section 2516 of title 18, United States Code, is amended—
-
-- **(1)** in paragraph (1)(C)—
-  - **(A)** by inserting before “section 1591” the following: “section 1581 (peonage; obstructing enforcement), section 1584 (sale into involuntary servitude), section 1589 (forced labor), section 1590 (trafficking with respect to peonage, slavery, involuntary servitude, or forced labor),”; and
-  - **(B)** by inserting before “section 1751” the following: “section 1592 (unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor),”; and
-- **(2)** in paragraph (2), by inserting “human trafficking, offenses pertaining to child pornography, child sexual abuse, coercion and enticement of children,” after “kidnapping,”.
+Section 2516(2) of title 18, United States Code, is amended by inserting “human trafficking, child sexual exploitation, child pornography production,” after “kidnapping,”.
 
 ## § 5. Enhancing human trafficking reporting
 
@@ -177,7 +172,7 @@ Section 2423(g) of title 18, United States Code, is amended by striking “a pre
 
 - **(a)** *In general* Section 3771 of title 18, United States Code, is amended—
   - **(1)** in subsection (a), by adding at the end the following:
-    > - **(9)** The right to be informed in a timely manner of any plea agreement or deferred prosecution agreement.
+    > - **(9)** The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
     > - **(10)** The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
 
   - **(2)** in subsection (d)(3), in the fifth sentence, by inserting “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” before the period; and
@@ -205,16 +200,5 @@ It is the sense of Congress that—
 
 - **(1)** child human trafficking (as such term is defined in section 203(i) of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044b), as added by this Act) has no place in a civilized society, and that persons who commit crimes relating to child human trafficking should be prosecuted to the fullest extent of the law;
 - **(2)** the United States, as a leader in monitoring and combating human trafficking throughout the world, must hold all nations to the same standards to which we hold our Nation;
-- **(3)** those who obtain, solicit, or patronize a victim of trafficking for the purpose of engaging in a commercial sex act with that person, are committing a human trafficking offense under Federal law;
-- **(4)** the demand for commercial sex is a primary cause of the human rights violation of human trafficking, and the elimination of that human rights violation requires the elimination of that demand;
-- **(5)** United States citizens or lawful permanent residents who are victims of severe forms of trafficking are not required to obtain an official certification from the Secretary of Health and Human Services in order to access any of the specialized services described in section 107 of the Trafficking Victims Protection Act of 2000 or any other Federal benefits and protections to which they are otherwise entitled; and
-- **(6)** as matters stand on the date of enactment of this Act, there are insufficient services and programs for victims of severe forms of human trafficking in the United States, including United States citizens and lawful permanent residents.
-
-## § 12. Clarifying the benefits and protections offered to domestic victims of human trafficking
-
-Section 107(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)) is amended—
-
-- **(1)** by redesignating subparagraph (F), as subparagraph (G);
-- **(2)** by redesignating subparagraph (G), as subparagraph (H); and
-- **(3)** by inserting after subparagraph (E) the following:
-  > - **(F)** *No requirement of official certification for United States citizens and lawful permanent residents* Nothing in this section may be construed to require United States citizens or lawful permanent residents who are victims of severe forms of trafficking to obtain an official certification from the Secretary of Health and Human Services in order to access any of the specialized services described in this subsection or any other Federal benefits and protections to which they are otherwise entitled.
+- **(3)** those who obtain, solicit, or patronize a victim of trafficking for the purpose of engaging in a commercial sex act with that person, are committing a human trafficking offense under Federal law; and
+- **(4)** the demand for commercial sex is a primary cause of the human rights violation of human trafficking, and the elimination of that human rights violation requires the elimination of that demand.

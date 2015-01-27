@@ -1,7 +1,7 @@
 ---
 measure: H.R. 181
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 3 executed, 28 stated and not applied.
+26 amendatory instructions. 3 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -65,9 +65,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 13001a` | insert | in section 212(5) (42 U.S.C. 13001a(5)), by inserting “, including human trafficking and the production of child pornography” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13002` | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13002` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | by inserting before “section 1591” the following: “section 1581 (peonage; obstructing enforcement), section 1584 (sale into involuntary servitude), section 1589 (forced labor), section 1590 (trafficking with respect to peonage, slavery, … | the bill names no machine-readable US Code section |
-| — | insert | by inserting before “section 1751” the following: “section 1592 (unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor),”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “human trafficking, offenses pertaining to child pornography, child sexual abuse, coercion and enticement of children,” after “kidnapping,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2516(2) of title 18, United States Code, is amended by inserting “human trafficking, child sexual exploitation, child pornography production,” after “kidnapping,”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 5780` | strike | in paragraph (2), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5780` | insert | in subparagraph (A), by inserting “and a photograph taken within the previous 180 days” after “dental records”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5780` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -85,6 +83,3 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10607` | replace | by striking “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10607` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10607` | insert | Section 3771(d)(3) of title 18, United States Code, as amended by subsection (a)(2) of this section, is amended by inserting after the fifth sentence the following: “In deciding such application, the court of appeals shall apply ordinary… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | redesignate | by redesignating subparagraph (F), as subparagraph (G); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | redesignate | by redesignating subparagraph (G), as subparagraph (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | insert | by inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
