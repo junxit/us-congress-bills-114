@@ -1,7 +1,7 @@
 ---
 measure: H.R. 285
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 285
@@ -16,7 +16,7 @@ Stop Advertising Victims of Exploitation Act of 2015
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Cosponsors (34)
+## Cosponsors (52)
 
 - Rep. Black, Diane [R-TN-6] (B001273)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
@@ -52,6 +52,24 @@ Stop Advertising Victims of Exploitation Act of 2015
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (1)
 
@@ -62,3 +80,16 @@ Stop Advertising Victims of Exploitation Act of 2015
 - 2015-01-12 — Introduced in House
 - 2015-01-12 — Introduced in House
 - 2015-01-12 — Referred to the House Committee on the Judiciary.
+- 2015-01-13 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2015-01-20 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2015-01-21 — Committee Consideration and Mark-up Session Held.
+- 2015-01-21 — Ordered to be Reported by Voice Vote.
+- 2015-01-27 — Considered under suspension of the rules. (consideration: CR H596-600)
+- 2015-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 285.
+- 2015-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-01-27 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
+- 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H596)
+- 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H596)
+- 2015-01-27 — Placed on the Union Calendar, Calendar No. 4.
+- 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
+- 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
