@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 568
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 568
+
+> To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.
+
+## § 1. Short title
+
+This Act may be cited as the “Thermal Insulation Efficiency Improvement Act”.
+
+## § 2. Report on energy and water savings potential from thermal insulation
+
+- **(a)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of Energy, in consultation with appropriate Federal agencies and relevant stakeholders, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the impact of thermal insulation on both energy and water use systems for potable hot and chilled water in Federal buildings, and the return on investment of installing such insulation.
+- **(b)** *Contents* The report shall include—
+  - **(1)** an analysis based on the cost of municipal or regional water for delivered water and the avoided cost of new water; and
+  - **(2)** a summary of energy and water savings, including short-term and long-term (20 years) projections of such savings.
