@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 514
@@ -32,9 +32,10 @@ Human Trafficking Prioritization Act
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Human Trafficking Prioritization Act
 - 2015-01-26 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2015-01-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H539-540)
 - 2015-01-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H539-540)
+- 2015-01-27 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
