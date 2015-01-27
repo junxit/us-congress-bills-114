@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 556
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 556
+
+> To amend title XVIII of the Social Security Act to add physical therapists to the list of providers allowed to utilize locum tenens arrangements under Medicare, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Prevent Interruptions in Physical Therapy Act of 2015”.
+
+## § 2. Allowing physical therapists to utilize locum tenens arrangements under Medicare
+
+- **(a)** *In general* The first sentence of section 1842(b)(6) of the Social Security Act (42 U.S.C. 1395u(b)(6)) is amended—
+  - **(1)** by striking “and” before “(H)”; and
+  - **(2)** by inserting before the period at the end the following: “, and (I) in the case of outpatient physical therapy services furnished by physical therapists, subparagraph (D) of this sentence shall apply to such services and therapists in the same manner as such subparagraph applies to physicians’ services furnished by physicians”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply to services furnished after the date of the enactment of this Act.
