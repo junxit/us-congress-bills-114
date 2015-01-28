@@ -1,7 +1,7 @@
 ---
 measure: H.R. 460
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 460
@@ -43,10 +43,11 @@ Human Trafficking Detection Act of 2015
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Human Trafficking Detection Act of 2015
 - 2015-01-27 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H607)
 - 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H607)
+- 2015-01-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
