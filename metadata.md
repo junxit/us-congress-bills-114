@@ -1,7 +1,7 @@
 ---
 measure: H.R. 159
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 159
@@ -74,3 +74,4 @@ Stop Exploitation Through Trafficking Act of 2015
 - 2015-01-27 — Placed on the Union Calendar, Calendar No. 2.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-6, Part I.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-6, Part I.
+- 2015-01-28 — Received in the Senate.

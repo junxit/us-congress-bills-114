@@ -1,7 +1,7 @@
 ---
 measure: H.R. 159
 congress: 114
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
@@ -50,7 +50,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 7103` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2884` | add-at-end | Section 144(3) of the Workforce Investment Act of 1998 (29 U.S.C. 2884(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3194` | add-at-end | Section 144(a)(3) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3194(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C), the following: | the bill names no machine-readable US Code section |

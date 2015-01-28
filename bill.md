@@ -2,7 +2,7 @@
 legis-num: H.R. 159
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 159
@@ -52,7 +52,7 @@ Section 107(b)(2) of the Victims of Trafficking and Violence Protection Act of 2
 
 ## § 5. Job corps eligibility
 
-Section 144(3) of the Workforce Investment Act of 1998 (29 U.S.C. 2884(3)) is amended by adding at the end the following:
+Section 144(a)(3) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3194(a)(3)) is amended by adding at the end the following:
 
 > - **(F)** A victim of a severe form of trafficking in persons (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102)). Notwithstanding paragraph (2), an individual described in this subparagraph shall not be required to demonstrate eligibility under such paragraph.
 
