@@ -1,7 +1,7 @@
 ---
 measure: H.R. 181
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 181
@@ -57,3 +57,4 @@ Justice for Victims of Trafficking Act of 2015
 - 2015-01-27 — Placed on the Union Calendar, Calendar No. 3.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-7.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-7.
+- 2015-01-28 — Received in the Senate.
