@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 515
@@ -54,3 +54,5 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-01-26 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2015-01-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H542-544)
 - 2015-01-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H542-544)
+- 2015-01-27 — ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make a correction in the engrossment to H.R. 515 in a form placed at the desk.
+- 2015-01-28 — Received in the Senate.
