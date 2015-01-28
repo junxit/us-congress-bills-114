@@ -1,7 +1,7 @@
 ---
 measure: H.R. 285
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 285
@@ -93,3 +93,4 @@ Stop Advertising Victims of Exploitation Act of 2015
 - 2015-01-27 — Placed on the Union Calendar, Calendar No. 4.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
+- 2015-01-28 — Received in the Senate.
