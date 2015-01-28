@@ -1,7 +1,7 @@
 ---
 measure: H.R. 246
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 246
@@ -38,9 +38,10 @@ To improve the response to victims of child sex trafficking.
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ To improve the response to victims of child sex trafficking.
 - 2015-01-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 48). (text: CR 1/26/2015 H553)
 - 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 48).(text: CR 1/26/2015 H553)
+- 2015-01-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
