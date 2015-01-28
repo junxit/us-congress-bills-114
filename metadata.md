@@ -1,7 +1,7 @@
 ---
 measure: H.R. 469
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 469
@@ -79,9 +79,10 @@ Strengthening Child Welfare Response to Trafficking Act of 2015
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -100,3 +101,4 @@ Strengthening Child Welfare Response to Trafficking Act of 2015
 - 2015-01-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 47). (text: CR 1/26/2015 H550)
 - 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 47).(text: CR 1/26/2015 H550)
+- 2015-01-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
