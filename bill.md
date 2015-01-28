@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 600
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 600
+
+> To amend the Internal Revenue Code of 1986 to modify the taxation of hard cider.
+
+## § 1. Short title
+
+This Act may be cited as the “Cider Industry Deserves Equal Regulation Act” or the “CIDER Act”.
+
+## § 2. Modification of hard cider definition
+
+- **(a)** *In general* Section 5041 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(g)** *Hard cider* For purposes of this section, the term hard cider means any wine—
+  >   - **(1)** the carbonation level of which does not exceed 6.4 grams per liter,
+  >   - **(2)** which is derived primarily from apples, apple juice concentrate and water, pears, or pear juice concentrate and water,
+  >   - **(3)** which contains no fruit product or fruit flavoring other than apple or pear, and
+  >   - **(4)** which contains at least one-half of 1 percent and less than 8.5 percent alcohol by volume.
+
+- **(b)** *Conforming amendment* Paragraph (6) of section 5041(b) of such Code is amended by striking “which is a still wine” and all that follows through “alcohol by volume”.
+- **(c)** *Effective date* The amendments made by this section shall apply to wine removed after December 31, 2015.
