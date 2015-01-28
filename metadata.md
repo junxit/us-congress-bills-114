@@ -1,7 +1,7 @@
 ---
 measure: H.R. 350
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 350
@@ -93,10 +93,11 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2015
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2015
 - 2015-01-27 — Placed on the Union Calendar, Calendar No. 5.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-9, Part I.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-9, Part I.
+- 2015-01-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
