@@ -16,7 +16,7 @@ This Act may be cited as the “LNG Permitting Certainty and Transparency Act”
 ## § 2. Action on applications
 
 - **(a)** *Decision deadline* For proposals that must also obtain authorization from the Federal Energy Regulatory Commission or the United States Maritime Administration to site, construct, expand, or operate LNG export facilities, the Department of Energy shall issue a final decision on any application for the authorization to export natural gas under section 3 of the Natural Gas Act (15 U.S.C. 717b) not later than 30 days after the later of—
-  - **(1)** the conclusion of the review to site, construct, expand, or operate the LNG facilities required by the National Environmental Policy Act of 1969 (42 U.S. C. 4321 et seq.); or
+  - **(1)** the conclusion of the review to site, construct, expand, or operate the LNG facilities required by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
   - **(2)** the date of enactment of this Act.
 - **(b)** *Conclusion of review* For purposes of subsection (a), review required by the National Environmental Policy Act of 1969 shall be considered concluded—
   - **(1)** for a project requiring an Environmental Impact Statement, 30 days after publication of a Final Environmental Impact Statement;
