@@ -1,7 +1,7 @@
 ---
 measure: H.R. 351
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 351
@@ -39,9 +39,10 @@ LNG Permitting Certainty and Transparency Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -67,3 +68,4 @@ LNG Permitting Certainty and Transparency Act
 - 2015-01-28 — Rule provides for consideration of H.R. 351 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2015-01-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H652)
 - 2015-01-28 — The previous question was ordered pursuant to the rule. (consideration: CR H651)
+- 2015-01-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
