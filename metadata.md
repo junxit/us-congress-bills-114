@@ -1,7 +1,7 @@
 ---
 measure: S. 1
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1
@@ -16,7 +16,7 @@ Keystone XL Pipeline Approval Act
 
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Cosponsors (59)
+## Cosponsors (304)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -77,9 +77,914 @@ Keystone XL Pipeline Approval Act
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Burr, Richard [R-NC] (B001135)
+
+## Recorded votes (46)
+
+- 2015-01-12 — [Senate 114-1-3](votes/senate-114-1-0003.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (63–32)
+- 2015-01-20 — [Senate 114-1-4](votes/senate-114-1-0004.md) — On the Motion to Table — **Motion to Table Agreed to** (57–42)
+- 2015-01-20 — [Senate 114-1-5](votes/senate-114-1-0005.md) — On the Motion to Table — **Motion to Table Agreed to** (53–46)
+- 2015-01-20 — [Senate 114-1-6](votes/senate-114-1-0006.md) — On the Amendment — **Amendment Agreed to** (94–5)
+- 2015-01-21 — [Senate 114-1-7](votes/senate-114-1-0007.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2015-01-21 — [Senate 114-1-8](votes/senate-114-1-0008.md) — On the Amendment — **Amendment Rejected** (41–58)
+- 2015-01-21 — [Senate 114-1-9](votes/senate-114-1-0009.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2015-01-21 — [Senate 114-1-10](votes/senate-114-1-0010.md) — On the Amendment — **Amendment Agreed to** (98–1)
+- 2015-01-21 — [Senate 114-1-11](votes/senate-114-1-0011.md) — On the Amendment — **Amendment Rejected** (59–40)
+- 2015-01-21 — [Senate 114-1-12](votes/senate-114-1-0012.md) — On the Amendment — **Amendment Rejected** (50–49)
+- 2015-01-22 — [Senate 114-1-13](votes/senate-114-1-0013.md) — On the Amendment — **Amendment Rejected** (55–44)
+- 2015-01-22 — [Senate 114-1-14](votes/senate-114-1-0014.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2015-01-22 — [Senate 114-1-15](votes/senate-114-1-0015.md) — On the Motion to Table — **Motion to Table Agreed to** (53–46)
+- 2015-01-22 — [Senate 114-1-16](votes/senate-114-1-0016.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2015-01-22 — [Senate 114-1-17](votes/senate-114-1-0017.md) — On the Amendment — **Amendment Rejected** (51–47)
+- 2015-01-22 — [Senate 114-1-18](votes/senate-114-1-0018.md) — On the Amendment — **Amendment Agreed to** (75–23)
+- 2015-01-22 — [Senate 114-1-19](votes/senate-114-1-0019.md) — On the Amendment — **Amendment Rejected** (50–47)
+- 2015-01-22 — [Senate 114-1-20](votes/senate-114-1-0020.md) — On the Amendment — **Amendment Rejected** (51–46)
+- 2015-01-22 — [Senate 114-1-21](votes/senate-114-1-0021.md) — On the Amendment — **Amendment Agreed to** (64–33)
+- 2015-01-22 — [Senate 114-1-22](votes/senate-114-1-0022.md) — On the Amendment — **Amendment Rejected** (43–54)
+- 2015-01-22 — [Senate 114-1-24](votes/senate-114-1-0024.md) — On the Motion to Table — **Motion to Table Agreed to** (53–42)
+- 2015-01-22 — [Senate 114-1-25](votes/senate-114-1-0025.md) — On the Motion to Table — **Motion to Table Agreed to** (57–38)
+- 2015-01-22 — [Senate 114-1-26](votes/senate-114-1-0026.md) — On the Motion to Table — **Motion to Table Agreed to** (52–43)
+- 2015-01-22 — [Senate 114-1-27](votes/senate-114-1-0027.md) — On the Motion to Table — **Motion to Table Agreed to** (53–41)
+- 2015-01-22 — [Senate 114-1-28](votes/senate-114-1-0028.md) — On the Motion to Table — **Motion to Table Agreed to** (49–45)
+- 2015-01-26 — [Senate 114-1-29](votes/senate-114-1-0029.md) — On the Cloture Motion — **Cloture Motion Rejected** (53–39)
+- 2015-01-26 — [Senate 114-1-30](votes/senate-114-1-0030.md) — On the Cloture Motion — **Cloture Motion Rejected** (53–39)
+- 2015-01-28 — [Senate 114-1-31](votes/senate-114-1-0031.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2015-01-28 — [Senate 114-1-32](votes/senate-114-1-0032.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2015-01-28 — [Senate 114-1-33](votes/senate-114-1-0033.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2015-01-28 — [Senate 114-1-34](votes/senate-114-1-0034.md) — On the Amendment — **Amendment Rejected** (53–45)
+- 2015-01-28 — [Senate 114-1-35](votes/senate-114-1-0035.md) — On the Amendment — **Amendment Rejected** (54–44)
+- 2015-01-28 — [Senate 114-1-36](votes/senate-114-1-0036.md) — On the Amendment — **Amendment Rejected** (44–52)
+- 2015-01-28 — [Senate 114-1-37](votes/senate-114-1-0037.md) — On the Amendment — **Amendment Rejected** (50–47)
+- 2015-01-28 — [Senate 114-1-38](votes/senate-114-1-0038.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2015-01-28 — [Senate 114-1-39](votes/senate-114-1-0039.md) — On the Amendment — **Amendment Rejected** (50–48)
+- 2015-01-28 — [Senate 114-1-40](votes/senate-114-1-0040.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2015-01-28 — [Senate 114-1-41](votes/senate-114-1-0041.md) — On the Amendment — **Amendment Rejected** (35–63)
+- 2015-01-29 — [Senate 114-1-42](votes/senate-114-1-0042.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2015-01-29 — [Senate 114-1-43](votes/senate-114-1-0043.md) — On the Amendment — **Amendment Rejected** (59–39)
+- 2015-01-29 — [Senate 114-1-44](votes/senate-114-1-0044.md) — On the Amendment — **Amendment Rejected** (45–53)
+- 2015-01-29 — [Senate 114-1-45](votes/senate-114-1-0045.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–35)
+- 2015-01-29 — [Senate 114-1-46](votes/senate-114-1-0046.md) — On the Amendment — **Amendment Rejected** (41–56)
+- 2015-01-29 — [Senate 114-1-47](votes/senate-114-1-0047.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2015-01-29 — [Senate 114-1-48](votes/senate-114-1-0048.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2015-01-29 — [Senate 114-1-49](votes/senate-114-1-0049.md) — On Passage of the Bill — **Bill Passed** (62–36)
 
 ## Actions
 
 - 2015-01-06 — Introduced in Senate
 - 2015-01-06 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Sponsor introductory remarks on measure: CR S40-41)
 - 2015-01-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1.
+- 2015-01-08 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S85; text: CR S85)
+- 2015-01-08 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S69-72, S85-94)
+- 2015-01-09 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S121-128)
+- 2015-01-12 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 63 - 32. Record Vote Number: 3. (consideration: CR S145-146; text: CR S145)
+- 2015-01-12 — Motion to proceed to measure considered in Senate. (consideration: CR S136-146)
+- 2015-01-12 — Senate amendment submitted
+- 2015-01-12 — Senate amendment submitted
+- 2015-01-13 — Amendment SA 13 proposed by Senator Markey to Amendment SA 2. (consideration: CR S186; text: CR S186) To ensure that oil transported through the Keystone XL pipeline into the United States is used to reduce United States dependence on Middle Eastern oil.
+- 2015-01-13 — Amendment SA 17 proposed by Senator Cantwell for Senator Franken to Amendment SA 2. (consideration: CR S189-190; text: CR S189) To require the use of iron, steel, and manufactured goods produced in the United States in the construction of the Keystone XL Pipeline and facilities.
+- 2015-01-13 — Amendment SA 2 proposed by Senator Murkowski. (consideration: CR S184-186; text: CR S184) In the nature of a substitute.
+- 2015-01-13 — Amendment SA 3 proposed by Senator Portman to Amendment SA 2. (consideration: CR S186-189) To promote energy efficiency.
+- 2015-01-13 — Measure laid before Senate by motion. (consideration: CR S184-197)
+- 2015-01-13 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S184)
+- 2015-01-13 — Motion to proceed to measure considered in Senate. (consideration: CR S162-174, S181-184)
+- 2015-01-13 — Senate amendment proposed (on the floor): Amendment SA 13 proposed by Senator Markey to Amendment SA 2.(consideration: CR S186; text: CR S186)
+- 2015-01-13 — Senate amendment proposed (on the floor): Amendment SA 17 proposed by Senator Cantwell for Senator Franken to Amendment SA 2.(consideration: CR S189-190; text: CR S189)
+- 2015-01-13 — Senate amendment proposed (on the floor): Amendment SA 2 proposed by Senator Murkowski.(consideration: CR S184-186; text: CR S184)
+- 2015-01-13 — Senate amendment proposed (on the floor): Amendment SA 3 proposed by Senator Portman to Amendment SA 2.(consideration: CR S186-189)
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-13 — Senate amendment submitted
+- 2015-01-16 — Considered by Senate. (consideration: CR S221-235)
+- 2015-01-16 — Considered by Senate. (consideration: CR S222)
+- 2015-01-16 — Considered by Senate. (consideration: CR S222)
+- 2015-01-16 — Considered by Senate. (consideration: CR S222)
+- 2015-01-16 — Considered by Senate. (consideration: CR S222, S267-270)
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-16 — Senate amendment submitted
+- 2015-01-20 — Amendment SA 18 proposed by Senator Fischer to Amendment SA 2. (consideration: CR S267; text: CR S267) To provide limits on the designation of new federally protected land.
+- 2015-01-20 — Amendment SA 29 proposed by Senator Whitehouse to Amendment SA 2. (consideration: CR S270-272; text: CR S271) To express the sense of the Senate that climate change is real and not a hoax.
+- 2015-01-20 — Amendment SA 3 as modified agreed to in Senate by Yea-Nay Vote. 94 - 5. Record Vote Number: 6. (text of amendment as modified: CR S263-265)
+- 2015-01-20 — Amendment SA 33 proposed by Senator Murkowski for Senator Lee to Amendment SA 2. (consideration: CR S268; text: CR S268) To conform citizen suits under the Endangered Species Act of 1973.
+- 2015-01-20 — Amendment SA 41 proposed by Senator Murkowski for Senator Toomey to Amendment SA 2. (consideration: CR S270; text: CR S270) To continue cleaning up fields and streams while protecting neighborhoods, generating affordable energy, and creating jobs.
+- 2015-01-20 — Amendment SA 58 proposed by Senator Schatz to Amendment SA 2. (consideration: CR S267-268; text: CR S267) To express the sense of Congress regarding climate change.
+- 2015-01-20 — Amendment SA 69 proposed by Senator Durbin to Amendment SA 2. (consideration: CR S268-270; text: CR S268) To ensure that the storage and transportation of petroleum coke is regulated in a manner that ensures the protection of public and ecological health.
+- 2015-01-20 — Considered by Senate. (consideration: CR S255)
+- 2015-01-20 — Considered by Senate. (consideration: CR S255, S256-258, S265-266)
+- 2015-01-20 — Considered by Senate. (consideration: CR S255, S258-259, S262-263, S266)
+- 2015-01-20 — Considered by Senate. (consideration: CR S255, S263-265, S266-267)
+- 2015-01-20 — Considered by Senate. (consideration: CR S255-259, S260-272)
+- 2015-01-20 — Motion to table amendment SA 13 agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 4.
+- 2015-01-20 — Motion to table amendment SA 17 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 5.
+- 2015-01-20 — Roll call votes on amendments in Senate: Amendment SA 3 as modified agreed to in Senate by Yea-Nay Vote. 94 - 5. Record Vote Number: 6.(text of amendment as modified: CR S263-265)
+- 2015-01-20 — Roll call votes on amendments in Senate: Motion to table amendment SA 13 agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 4.
+- 2015-01-20 — Roll call votes on amendments in Senate: Motion to table amendment SA 17 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 5.
+- 2015-01-20 — Senate amendment agreed to: Amendment SA 3 as modified agreed to in Senate by Yea-Nay Vote. 94 - 5. Record Vote Number: 6.(text of amendment as modified: CR S263-265)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 18 proposed by Senator Fischer to Amendment SA 2.(consideration: CR S267; text: CR S267)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 29 proposed by Senator Whitehouse to Amendment SA 2.(consideration: CR S270-272; text: CR S271)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 33 proposed by Senator Murkowski for Senator Lee to Amendment SA 2.(consideration: CR S268; text: CR S268)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 41 proposed by Senator Murkowski for Senator Toomey to Amendment SA 2.(consideration: CR S270; text: CR S270)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 58 proposed by Senator Schatz to Amendment SA 2.(consideration: CR S267-268; text: CR S267)
+- 2015-01-20 — Senate amendment proposed (on the floor): Amendment SA 69 proposed by Senator Durbin to Amendment SA 2.(consideration: CR S268-270; text: CR S268)
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-20 — Senate amendment submitted
+- 2015-01-21 — Amendment SA 24 proposed by Senator Sanders to Amendment SA 2. (consideration: CR S331-332; text: CR S331) To express the sense of Congress regarding climate change.
+- 2015-01-21 — Amendment SA 27 proposed by Senator Wyden to Amendment SA 2. (consideration: CR S335-336; text: CR S335) To amend the Internal Revenue Code of 1986 to clarify that products derived from tar sands are crude oil for purposes of the Federal excise tax on petroleum.
+- 2015-01-21 — Amendment SA 29, under the order of 1/21/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 10.
+- 2015-01-21 — Amendment SA 33, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 7.
+- 2015-01-21 — Amendment SA 41, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 9.
+- 2015-01-21 — Amendment SA 58, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 12.
+- 2015-01-21 — Amendment SA 69, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 8.
+- 2015-01-21 — Amendment SA 71 proposed by Senator Lee to Amendment SA 2. (consideration: CR S336-337; text: CR S336) To require a procedure for issuing permits to drill.
+- 2015-01-21 — Amendment SA 72 proposed by Senator Menendez to Amendment SA 2. (consideration: CR S333-335; text: CR S333) To ensure private property cannot be seized through condemnation or eminent domain for the private gain of a foreign-owned business entity.
+- 2015-01-21 — Amendment SA 78 proposed by Senator Murkowski for Senator Blunt to Amendment SA 2. (consideration: CR S338; text: CR S338) To express the sense of the Senate regarding the conditions for the President entering into bilateral or other international agreements regarding greenhouse gas emissions without proper study of any adverse economic effects, including job losses and harm to the industrial sector, and without the approval of the Senate.
+- 2015-01-21 — Amendment SA 80 proposed by Senator Vitter. (consideration: CR S332-333; text as modified: CR S332-333) To provide for the distribution of revenues from certain areas of the outer Continental Shelf.
+- 2015-01-21 — Amendment SA 87 proposed by Senator Hoeven to Amendment SA 2. (consideration: CR S328, S330-331; text as modified: CR S328) To express the sense of Congress regarding climate change.
+- 2015-01-21 — Amendment SA 87, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 11.
+- 2015-01-21 — Considered by Senate. (consideration: CR S311)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S317-318, S331)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S320-321, S327-328, S328)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S323-324)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S325-326, S330)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S326-327, S328-329)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311, S329-330)
+- 2015-01-21 — Considered by Senate. (consideration: CR S311-321, S323-338)
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 29, under the order of 1/21/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 10.
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 33, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 7.
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 41, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 9.
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 58, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 12.
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 69, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 8.
+- 2015-01-21 — Roll call votes on amendments in Senate: Amendment SA 87, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 11.
+- 2015-01-21 — Senate amendment agreed to: Amendment SA 29, under the order of 1/21/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 10.
+- 2015-01-21 — Senate amendment not agreed to: Amendment SA 33, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 7.
+- 2015-01-21 — Senate amendment not agreed to: Amendment SA 41, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 9.
+- 2015-01-21 — Senate amendment not agreed to: Amendment SA 58, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 12.
+- 2015-01-21 — Senate amendment not agreed to: Amendment SA 69, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 8.
+- 2015-01-21 — Senate amendment not agreed to: Amendment SA 87, under the order of 1/21/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 11.
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 24 proposed by Senator Sanders to Amendment SA 2.(consideration: CR S331-332; text: CR S331)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 27 proposed by Senator Wyden to Amendment SA 2.(consideration: CR S335-336; text: CR S335)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 71 proposed by Senator Lee to Amendment SA 2.(consideration: CR S336-337; text: CR S336)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 72 proposed by Senator Menendez to Amendment SA 2.(consideration: CR S333-335; text: CR S333)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 78 proposed by Senator Murkowski for Senator Blunt to Amendment SA 2.(consideration: CR S338; text: CR S338)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 80 proposed by Senator Vitter.(consideration: CR S332-333; text as modified: CR S332-333)
+- 2015-01-21 — Senate amendment proposed (on the floor): Amendment SA 87 proposed by Senator Hoeven to Amendment SA 2.(consideration: CR S328, S330-331; text as modified: CR S328)
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-21 — Senate amendment submitted
+- 2015-01-22 — Amendment SA 103 proposed by Senator Flake to Amendment SA 2. (consideration: CR S399-400; text: CR S399-400) To require the evaluation and consolidation of duplicative green building programs.
+- 2015-01-22 — Amendment SA 113 proposed by Senator Boxer to Amendment SA 2. (consideration: CR S391-392; text: CR S391) To express the sense of Congress regarding federally protected land.
+- 2015-01-22 — Amendment SA 113, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 13.
+- 2015-01-22 — Amendment SA 121 proposed by Senator Carper to Amendment SA 2. (consideration: CR S402, S406; text: CR S402) To impose a fee of 8 cents per barrel on oil transported through the pipeline.
+- 2015-01-22 — Amendment SA 123 proposed by Senator Murkowski to Amendment SA 2. (consideration: CR S390, S394-395; text: CR S390) To express the sense of the Senate that all forms of unrefined and unprocessed petroleum should be subject to the nominal per-barrel excise tax associated with the Oil Spill Liability Trust Fund.
+- 2015-01-22 — Amendment SA 123, under the order of 1/22/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 75 - 23. Record Vote Number: 18.
+- 2015-01-22 — Amendment SA 126 as modified agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 21. (text as modified: CR S391)
+- 2015-01-22 — Amendment SA 126 proposed by Senator Murkowski for Senator Cornyn to Amendment SA 2. (consideration: CR S391, S396-397) To ensure private property is protected as guaranteed by the United States Constitution.
+- 2015-01-22 — Amendment SA 132 proposed by Senator Daines to Amendment SA 2. (consideration: CR S402; text: CR S402) To express the sense of Congress regarding the designation of National Monuments.
+- 2015-01-22 — Amendment SA 15 proposed by Senator Cruz to Amendment SA 2. (consideration: CR S400; text: CR S400) To promote economic growth and job creation by increasing exports.
+- 2015-01-22 — Amendment SA 18, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 14.
+- 2015-01-22 — Amendment SA 25 proposed by Senator Markey to Amendment SA 2. (consideration: CR S402-403, S406; text: CR S403) To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.
+- 2015-01-22 — Amendment SA 27, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 19.
+- 2015-01-22 — Amendment SA 28 proposed by Senator Whitehouse to Amendment SA 2. (consideration: CR S400-401, S406-407; text: CR S401) To require campaign finance disclosures for certain persons benefitting from tar sands development.
+- 2015-01-22 — Amendment SA 30 proposed by Senator Leahy to Amendment SA 2. (consideration: CR S400, S407; text: CR S400) To strike a provision relating to judicial review.
+- 2015-01-22 — Amendment SA 67 proposed by Senator Murkowski for Senator Sullivan to Amendment SA 2. (consideration: CR S398; text: CR S398) To restrict the authority of the Environmental Protection Agency to arm agency personnel.
+- 2015-01-22 — Amendment SA 71, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 17.
+- 2015-01-22 — Amendment SA 72 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 22.
+- 2015-01-22 — Amendment SA 73 proposed by Senator Moran to Amendment SA 2. (consideration: CR S401-402, S403-404; text: CR S402) To delist the lesser prairie-chicken as a threatened species under the Endangered Species Act of 1973.
+- 2015-01-22 — Amendment SA 74 proposed by Senator Reed to Amendment SA 2. (consideration: CR S399, S407; text: CR S399) To express the sense of the Senate that the Low-Income Home Energy Assistance Program should be funded at not less than $4,700,000,000 annually.
+- 2015-01-22 — Amendment SA 75 proposed by Senator Cardin to Amendment SA 2. (consideration: CR S398; text: CR S398) To provide communities that rely on drinking water from a source that may be affected by a tar sands spill from the Keystone XL pipeline an analysis of the potential risks to public health and the environment from a leak or rupture of the pipeline.
+- 2015-01-22 — Amendment SA 78, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 20.
+- 2015-01-22 — Amendment SA 98 proposed by Senator Murkowski to Amendment SA 2. (consideration: CR S399; text: CR S399) To express the sense of Congress relating to adaptation projects in the United States Arctic region and rural communities.
+- 2015-01-22 — Amendment SA 99 proposed by Senator Cantwell for Senator Manchin to Amendment SA 2. (consideration: CR S391, S392-393; text: CR S391) To express the sense of Congress regarding climate change.
+- 2015-01-22 — Cloture motion on the amendment SA 2 presented in Senate. (consideration: CR S407; text: CR S407)
+- 2015-01-22 — Cloture motion on the measure presented in Senate. (consideration: CR S407-408; text: CR S407-408)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S375-376, S393-394)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S377, S392; text as modified: CR S377)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S382-383, S394)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S390-391, S396; text as modified: CR S390-391)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S391, S397-398; text as modified: CR S391)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S395-396)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372, S407)
+- 2015-01-22 — Considered by Senate. (consideration: CR S372-376, S376-383, S387-388, S390-404, S404-408)
+- 2015-01-22 — Motion to table amendment SA 121 agreed to in Senate by Yea-Nay Vote. 57 - 38. Record Vote Number: 25.
+- 2015-01-22 — Motion to table amendment SA 24 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 16.
+- 2015-01-22 — Motion to table amendment SA 25 agreed to in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 24.
+- 2015-01-22 — Motion to table amendment SA 28 agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 26.
+- 2015-01-22 — Motion to table amendment SA 30 agreed to in Senate by Yea-Nay Vote. 53 - 41. Record Vote Number: 27.
+- 2015-01-22 — Motion to table amendment SA 74 agreed to in Senate by Yea-Nay Vote. 49 - 45. Record Vote Number: 28.
+- 2015-01-22 — Motion to table amendment SA 99 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 15.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 113, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 13.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 123, under the order of 1/22/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 75 - 23. Record Vote Number: 18.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 126 as modified agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 21.(text as modified: CR S391)
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 18, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 14.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 27, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 19.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 71, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 17.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 72 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 22.
+- 2015-01-22 — Roll call votes on amendments in Senate: Amendment SA 78, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 20.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 121 agreed to in Senate by Yea-Nay Vote. 57 - 38. Record Vote Number: 25.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 24 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 16.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 25 agreed to in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 24.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 28 agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 26.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 30 agreed to in Senate by Yea-Nay Vote. 53 - 41. Record Vote Number: 27.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 74 agreed to in Senate by Yea-Nay Vote. 49 - 45. Record Vote Number: 28.
+- 2015-01-22 — Roll call votes on amendments in Senate: Motion to table amendment SA 99 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 15.
+- 2015-01-22 — Senate amendment agreed to: Amendment SA 123, under the order of 1/22/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 75 - 23. Record Vote Number: 18.
+- 2015-01-22 — Senate amendment agreed to: Amendment SA 126 as modified agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 21.(text as modified: CR S391)
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 113, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 13.
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 18, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 14.
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 27, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 19.
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 71, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 17.
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 72 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 22.
+- 2015-01-22 — Senate amendment not agreed to: Amendment SA 78, under the order of 1/22/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 20.
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 103 proposed by Senator Flake to Amendment SA 2.(consideration: CR S399-400; text: CR S399-400)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 113 proposed by Senator Boxer to Amendment SA 2.(consideration: CR S391-392; text: CR S391)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 121 proposed by Senator Carper to Amendment SA 2.(consideration: CR S402, S406; text: CR S402)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 123 proposed by Senator Murkowski to Amendment SA 2.(consideration: CR S390, S394-395; text: CR S390)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 126 proposed by Senator Murkowski for Senator Cornyn to Amendment SA 2.(consideration: CR S391, S396-397)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 132 proposed by Senator Daines to Amendment SA 2.(consideration: CR S402; text: CR S402)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 15 proposed by Senator Cruz to Amendment SA 2.(consideration: CR S400; text: CR S400)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 25 proposed by Senator Markey to Amendment SA 2.(consideration: CR S402-403, S406; text: CR S403)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 28 proposed by Senator Whitehouse to Amendment SA 2.(consideration: CR S400-401, S406-407; text: CR S401)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 30 proposed by Senator Leahy to Amendment SA 2.(consideration: CR S400, S407; text: CR S400)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 67 proposed by Senator Murkowski for Senator Sullivan to Amendment SA 2.(consideration: CR S398; text: CR S398)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 73 proposed by Senator Moran to Amendment SA 2.(consideration: CR S401-402, S403-404; text: CR S402)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 74 proposed by Senator Reed to Amendment SA 2.(consideration: CR S399, S407; text: CR S399)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 75 proposed by Senator Cardin to Amendment SA 2.(consideration: CR S398; text: CR S398)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 98 proposed by Senator Murkowski to Amendment SA 2.(consideration: CR S399; text: CR S399)
+- 2015-01-22 — Senate amendment proposed (on the floor): Amendment SA 99 proposed by Senator Cantwell for Senator Manchin to Amendment SA 2.(consideration: CR S391, S392-393; text: CR S391)
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-22 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-23 — Senate amendment submitted
+- 2015-01-26 — Cloture not invoked in Senate by Yea-Nay Vote. 53 - 39. Record Vote Number: 29. (consideration: CR S454-455; text: CR S454)
+- 2015-01-26 — Cloture on the measure not invoked in Senate by Yea-Nay Vote. 53 - 39. Record Vote Number: 30. (consideration: CR S455; text: CR S455)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449)
+- 2015-01-26 — Considered by Senate. (consideration: CR S449-460)
+- 2015-01-26 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 2 was not invoked (Record Vote No. 29) entered in Senate. (consideration: CR S455)
+- 2015-01-26 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked (Record Vote No. 30) entered in Senate. (consideration: CR S455)
+- 2015-01-26 — Roll call votes on amendments in Senate: Cloture not invoked in Senate by Yea-Nay Vote. 53 - 39. Record Vote Number: 29.(consideration: CR S454-455; text: CR S454)
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-26 — Senate amendment submitted
+- 2015-01-27 — Amendment SA 102 proposed by Senator Tillis to Amendment SA 2. (consideration: CR S521-523, S525; text: CR S522) To provide for leasing on the outer Continental Shelf and the distribution of certain qualified revenues from such leasing.
+- 2015-01-27 — Amendment SA 115 proposed by Senator Coons to Amendment SA 2. (consideration: CR S526-527; text: CR S526) To express the sense of Congress regarding climate change and infrastructure.
+- 2015-01-27 — Amendment SA 120 proposed by Senator Carper to Amendment SA 2. (consideration: CR S527-528; text: CR S527) To amend the Internal Revenue Code of 1986 to extend the credits for new qualified fuel cell motor vehicles and alternative fuel vehicle refueling property.
+- 2015-01-27 — Amendment SA 124 proposed by Senator Cardin to Amendment SA 2. (consideration: CR S529-531; text: CR S529) To clarify that treaties with Indian tribes remain in effect.
+- 2015-01-27 — Amendment SA 125 proposed by Senator Merkley to Amendment SA 2. (consideration: CR S520) To eliminate unnecessary tax subsidies and provide infrastructure funding.
+- 2015-01-27 — Amendment SA 130 proposed by Senator Boxer to Amendment SA 2. (consideration: CR S512-513; text: CR S512) To preserve existing permits and the authority of the agencies issuing the permits to modify the permits if necessary.
+- 2015-01-27 — Amendment SA 131 proposed by Senator Cantwell to Amendment SA 2. (consideration: CR S520-521; text: CR S520) To ensure that if the Keystone XL Pipeline is built, it will be built safely and in compliance with United States environmental laws.
+- 2015-01-27 — Amendment SA 133 proposed by Senator Heitkamp to Amendment SA 2. (consideration: CR S528-529; text: CR S528) To express the sense of Congress that the Internal Revenue Code of 1986 should be amended to extend the credit with respect to facilities producing energy from certain renewable resources.
+- 2015-01-27 — Amendment SA 141 proposed by Senator Markey to Amendment SA 2. (consideration: CR S523-524; text: CR S523) To delay the effective date until the President determines that the pipeline will not have certain negative impacts.
+- 2015-01-27 — Amendment SA 148 proposed by Senator Whitehouse to Amendment SA 2. (consideration: CR S524-525; text: CR S524-525) To require campaign finance disclosures for certain persons benefitting from tar sands development.
+- 2015-01-27 — Amendment SA 155 proposed by Senator Booker to Amendment SA 2. (consideration: CR S525; text: CR S525) To allow permitting agencies to consider new circumstances and new information.
+- 2015-01-27 — Amendment SA 166 proposed by Senator Murkowski to Amendment SA 2. (consideration: CR S514-518; text: CR S514-515) To release certain wilderness study areas from management for preservation as wilderness.
+- 2015-01-27 — Amendment SA 174 proposed by Senator Merkley to Amendment SA 2. (consideration: CR S520; text: CR S520) To express the sense of Congress that the United States should prioritize and fund adaptation projects in communities in the United States while also helping to fund climate change adaptation in developing countries.
+- 2015-01-27 — Amendment SA 178 proposed by Senator Markey to Amendment SA 2. (consideration: CR S523; text: CR S523) To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.
+- 2015-01-27 — Amendment SA 23 proposed by Senator Sanders to Amendment SA 2. (consideration: CR S518-520; text: CR S518) To increase the quantity of solar photovoltaic electricity by providing rebates for the purchase and installation of an additional 10,000,000 photovoltaic systems by 2025.
+- 2015-01-27 — Amendment SA 245 proposed by Senator Murkowski for Senator Barrasso. (consideration: CR S536; text: CR S536) To clarify that certain consultation requirements with respect to Indian tribes remain in effect.
+- 2015-01-27 — Amendment SA 246 proposed by Senator Daines to Amendment SA 2. (consideration: CR S536-537; text: CR S536) To express the sense of Congress that reauthorizing the Land and Water Conservation Fund should be a priority.
+- 2015-01-27 — Amendment SA 35 proposed by Senator Collins to Amendment SA 2. (consideration: CR S513-514; text: CR S513-514) To coordinate the provision of energy retrofitting assistance to schools.
+- 2015-01-27 — Amendment SA 48 proposed by Senator Cantwell for Senator Gillibrand to Amendment SA 2. (consideration: CR S531-532; text: CR S531-532) To modify the definition of underground injection.
+- 2015-01-27 — Amendment SA 55 proposed by Senator Cantwell for Senator Peters to Amendment SA 2. (consideration: CR S532-536; text: CR S532) To require a study of the potential environmental impact of by-products of the Keystone XL pipeline.
+- 2015-01-27 — Amendment SA 70 proposed by Senator Peters to Amendment SA 2. (consideration: CR S513; text: CR S513) To require that the Administrator of the Pipeline and Hazardous Materials Safety Administration make a certification and submit to Congress the results of a study before the pipeline may be constructed, connected, operated, or maintained.
+- 2015-01-27 — Amendment SA 92 proposed by Senator Burr to Amendment SA 2. (consideration: CR S525-526; text: CR S526; text as modified: CR S537) To permanently reauthorize the Land and Water Conservation Fund.
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497, S507-508)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497, S509-512)
+- 2015-01-27 — Considered by Senate. (consideration: CR S497-503, S503-537)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 102 proposed by Senator Tillis to Amendment SA 2.(consideration: CR S521-523, S525; text: CR S522)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 115 proposed by Senator Coons to Amendment SA 2.(consideration: CR S526-527; text: CR S526)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 120 proposed by Senator Carper to Amendment SA 2.(consideration: CR S527-528; text: CR S527)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 124 proposed by Senator Cardin to Amendment SA 2.(consideration: CR S529-531; text: CR S529)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 125 proposed by Senator Merkley to Amendment SA 2.(consideration: CR S520)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 130 proposed by Senator Boxer to Amendment SA 2.(consideration: CR S512-513; text: CR S512)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 131 proposed by Senator Cantwell to Amendment SA 2.(consideration: CR S520-521; text: CR S520)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 133 proposed by Senator Heitkamp to Amendment SA 2.(consideration: CR S528-529; text: CR S528)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 141 proposed by Senator Markey to Amendment SA 2.(consideration: CR S523-524; text: CR S523)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 148 proposed by Senator Whitehouse to Amendment SA 2.(consideration: CR S524-525; text: CR S524-525)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 155 proposed by Senator Booker to Amendment SA 2.(consideration: CR S525; text: CR S525)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 166 proposed by Senator Murkowski to Amendment SA 2.(consideration: CR S514-518; text: CR S514-515)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 174 proposed by Senator Merkley to Amendment SA 2.(consideration: CR S520; text: CR S520)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 178 proposed by Senator Markey to Amendment SA 2.(consideration: CR S523; text: CR S523)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 23 proposed by Senator Sanders to Amendment SA 2.(consideration: CR S518-520; text: CR S518)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 245 proposed by Senator Murkowski for Senator Barrasso.(consideration: CR S536; text: CR S536)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 246 proposed by Senator Daines to Amendment SA 2.(consideration: CR S536-537; text: CR S536)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 35 proposed by Senator Collins to Amendment SA 2.(consideration: CR S513-514; text: CR S513-514)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 48 proposed by Senator Cantwell for Senator Gillibrand to Amendment SA 2.(consideration: CR S531-532; text: CR S531-532)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 55 proposed by Senator Cantwell for Senator Peters to Amendment SA 2.(consideration: CR S532-536; text: CR S532)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 70 proposed by Senator Peters to Amendment SA 2.(consideration: CR S513; text: CR S513)
+- 2015-01-27 — Senate amendment proposed (on the floor): Amendment SA 92 proposed by Senator Burr to Amendment SA 2.(consideration: CR S525-526; text: CR S526; text as modified: CR S537)
+- 2015-01-27 — Senate amendment submitted
+- 2015-01-27 — Senate amendment submitted
+- 2015-01-27 — Senate amendment submitted
+- 2015-01-27 — Senate amendment submitted
+- 2015-01-28 — Amendment SA 115, under the order of 1/17/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 38.
+- 2015-01-28 — Amendment SA 132, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2015-01-28 — Amendment SA 133, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 40.
+- 2015-01-28 — Amendment SA 148, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 36.
+- 2015-01-28 — Amendment SA 15, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 34.
+- 2015-01-28 — Amendment SA 166, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 39.
+- 2015-01-28 — Amendment SA 2 as amended, considered as original text for purposes of further amendment, agreed to in Senate by Unanimous Consent. (consideration: CR S573)
+- 2015-01-28 — Amendment SA 23, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 33.
+- 2015-01-28 — Amendment SA 35 agreed to in Senate by Voice Vote.
+- 2015-01-28 — Amendment SA 48, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 41.
+- 2015-01-28 — Amendment SA 70, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 32.
+- 2015-01-28 — Amendment SA 73, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 35.
+- 2015-01-28 — Amendment SA 75, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 31.
+- 2015-01-28 — Amendment SA 77 proposed by Senator Udall. (consideration: CR S575) To establish a renewable electricity standard, and for other purposes.
+- 2015-01-28 — Cloture motion on amendment SA 2 rendered moot in Senate.
+- 2015-01-28 — Considered by Senate. (consideration: CR S555)
+- 2015-01-28 — Considered by Senate. (consideration: CR S555, S573-574)
+- 2015-01-28 — Considered by Senate. (consideration: CR S555, S574; text as further modified: CR S574-575)
+- 2015-01-28 — Considered by Senate. (consideration: CR S555-556, S567)
+- 2015-01-28 — Considered by Senate. (consideration: CR S555-577)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S557-558)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S566-567)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S567-568)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S568)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S568-569)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S569-570)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S570)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S570-571)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S571)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S571)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S571-572)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S572-573)
+- 2015-01-28 — Considered by Senate. (consideration: CR S556, S573-574)
+- 2015-01-28 — Considered by Senate. (consideration: S556, S557, S558-566, S572)
+- 2015-01-28 — Considered by Senate. (consideration: S556, S569-570)
+- 2015-01-28 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 2 was not invoked (Record Vote No. 29) rendered moot in Senate.
+- 2015-01-28 — Proposed amendment SA 120 withdrawn in Senate. (consideration: CR S572)
+- 2015-01-28 — Proposed amendment SA 125 withdrawn in Senate. (consideration: CR S569)
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 115, under the order of 1/17/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 38.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 132, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 133, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 40.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 148, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 36.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 15, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 34.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 166, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 39.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 23, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 33.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 48, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 41.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 70, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 32.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 73, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 35.
+- 2015-01-28 — Roll call votes on amendments in Senate: Amendment SA 75, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 31.
+- 2015-01-28 — Senate amendment agreed to: Amendment SA 2 as amended, considered as original text for purposes of further amendment, agreed to in Senate by Unanimous Consent.(consideration: CR S573)
+- 2015-01-28 — Senate amendment agreed to: Amendment SA 35 agreed to in Senate by Voice Vote.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 115, under the order of 1/17/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 38.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 132, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 133, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 40.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 148, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 36.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 15, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 34.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 166, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 39.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 23, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 33.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 48, under the order of 1/27/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 41.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 70, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 32.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 73, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 35.
+- 2015-01-28 — Senate amendment not agreed to: Amendment SA 75, under the order of 1/27/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 31.
+- 2015-01-28 — Senate amendment proposed (on the floor): Amendment SA 77 proposed by Senator Udall.(consideration: CR S575)
+- 2015-01-28 — Senate amendment submitted
+- 2015-01-29 — Amendment SA 130 not agreed to in Senate by Voice Vote.
+- 2015-01-29 — Amendment SA 141 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 47.
+- 2015-01-29 — Amendment SA 155 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 46.
+- 2015-01-29 — Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 48.
+- 2015-01-29 — Amendment SA 245 as modified agreed to in Senate by Voice Vote. (text as modified: CR S624)
+- 2015-01-29 — Amendment SA 246, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 42.
+- 2015-01-29 — Amendment SA 77, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 44.
+- 2015-01-29 — Amendment SA 92, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 43.
+- 2015-01-29 — Considered by Senate. (consideration: CR S620-645)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S622)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S622-623)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S623-624)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S624)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S624)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S624-626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S626)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S635-636)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S636)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S637)
+- 2015-01-29 — Considered by Senate. (consideration: CR S621, S637)
+- 2015-01-29 — Considered by Senate. (consideration: CR S636)
+- 2015-01-29 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the measure (Roll Call Vote No. 30) agreed to in Senate by Unanimous Consent.
+- 2015-01-29 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the measure (Roll Call Vote No. 30) agreed to in Senate by Unanimous Consent. (consideration: CR S626)
+- 2015-01-29 — Passed Senate with amendments by Yea-Nay Vote. 62 - 36. Record Vote Number: 49. (text: CR S637-641)
+- 2015-01-29 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 62 - 36. Record Vote Number: 49.(text: CR S637-641)
+- 2015-01-29 — Proposed amendment SA 102 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 103 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 124 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 131 withdrawn in Senate. (consideration: CR S637)
+- 2015-01-29 — Proposed amendment SA 174 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 55 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 67 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Proposed amendment SA 80 withdrawn in Senate. (consideration: CR S622)
+- 2015-01-29 — Proposed amendment SA 98 withdrawn in Senate. (consideration: CR S626)
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 141 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 47.
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 155 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 46.
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 48.
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 246, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 42.
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 77, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 44.
+- 2015-01-29 — Roll call votes on amendments in Senate: Amendment SA 92, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 43.
+- 2015-01-29 — Senate amendment agreed to: Amendment SA 245 as modified agreed to in Senate by Voice Vote.(text as modified: CR S624)
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 130 not agreed to in Senate by Voice Vote.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 141 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 47.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 155 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 46.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 48.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 246, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 42.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 77, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 44.
+- 2015-01-29 — Senate amendment not agreed to: Amendment SA 92, under the order of 1/28/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 43.
+- 2015-01-29 — Senate amendment submitted
+- 2015-01-29 — Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 62 - 35. Record Vote Number: 45. (consideration: CR S626; text: CR S626)
