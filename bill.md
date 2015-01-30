@@ -28,4 +28,4 @@ That the Senate—
 - **(1)** commemorates January 27, 2015, as the 70th anniversary of the liberation of the Auschwitz extermination camp by Allied Forces during World War II;
 - **(2)** calls on all people of the United States to remember the 1,100,000 innocent victims murdered at the Auschwitz extermination camp as part of the Holocaust;
 - **(3)** honors the legacy of the survivors of the Holocaust and of the Auschwitz extermination camp; and
-- **(4)** calls on the people of the United States to continue to work toward tolerance, peace, and justice and to end all genocide and persecution.
+- **(4)** calls on the people of the United States to continue to work toward tolerance, peace, and justice and to continue to work to end all genocide and persecution.
