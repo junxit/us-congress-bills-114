@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -105,7 +105,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 602` | amend | Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 602` | add-at-end | Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 658` | insert | in subparagraph (A)(i), by inserting “incur or” before “be required”; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 658` | insert | in subparagraph (B), by inserting after “to spend” the following: “or could forgo in profits, including costs passed on to consumers or other entities taking into account, to the extent practicable, behavioral changes,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1535` | strike | in the subsection heading, by striking “OMB”; and | the bill quotes the text struck but describes what replaces it |
