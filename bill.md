@@ -43,7 +43,7 @@ This Act may be cited as the “Social Media Working Group Act of 2015”.
   >           - **(cc)** emergency management; and
   >           - **(dd)** public health entities;
   >         - **(II)** universities and academia; and
-  >         - **(III)** non-profit disaster relief organizations.
+  >         - **(III)** nonprofit disaster relief organizations.
   > - **(d)** *Consultation with non-Members* To the extent practicable, the Group shall work with existing bodies in the public and private sectors to carry out subsection (b).
   > - **(e)** *Meetings*
   >   - **(1)** *Initial meeting* Not later than 90 days after the date of the enactment of this section, the Group shall hold its initial meeting. Such initial meeting may be held virtually.
