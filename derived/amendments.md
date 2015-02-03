@@ -1,7 +1,7 @@
 ---
 measure: H.R. 596
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Effective as of the enactment of the Patient Protection and Affordable Care Act (Public Law 111–148), such Act is repealed, and the provisions of law amended or repealed by such Act are restored or revived as if such Act had not been ena… | the bill names no machine-readable US Code section |
-| — | repeal | Effective as of the enactment of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), title I and subtitle B of title II of such Act are repealed, and the provisions of law amended or repealed by such title or s… | the bill names no machine-readable US Code section |
+| — | repeal | Effective on the date that is 180 days after the date of the enactment of this Act, the Patient Protection and Affordable Care Act (Public Law 111–148) is repealed, and the provisions of law amended or repealed by such Act are restored o… | the bill names no machine-readable US Code section |
+| — | repeal | Effective on the date that is 180 days after the date of the enactment of this Act, title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152) are repealed, and the provisions of l… | the bill names no machine-readable US Code section |
