@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 623
@@ -23,10 +23,11 @@ DHS Social Media Improvement Act of 2015
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ DHS Social Media Improvement Act of 2015
 - 2015-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 51 (Roll no. 53).(text: CR H680-681)
 - 2015-02-02 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
 - 2015-02-02 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2015-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
