@@ -1,7 +1,7 @@
 ---
 measure: H.R. 361
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 361
@@ -23,9 +23,10 @@ Medical Preparedness Allowable Use Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Medical Preparedness Allowable Use Act
 - 2015-02-02 — Mr. Carter (GA) moved to suspend the rules and pass the bill.
 - 2015-02-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 51). (text: CR H675)
 - 2015-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 51).(text: CR H675)
+- 2015-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
