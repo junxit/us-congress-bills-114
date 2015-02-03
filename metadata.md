@@ -1,7 +1,7 @@
 ---
 measure: H.R. 615
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 615
@@ -23,9 +23,10 @@ Department of Homeland Security Interoperable Communications Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Department of Homeland Security Interoperable Communications Act
 - 2015-02-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 52). (text: CR H677-678)
 - 2015-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 52).(text: CR H677-678)
 - 2015-02-02 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2015-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
