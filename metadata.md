@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 12
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 12
@@ -32,3 +32,4 @@ Authorizing the use of the rotunda of the United States Capitol for a ceremony t
 - 2015-02-02 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider. (consideration: CR H686)
 - 2015-02-02 — On agreeing to the resolution Agreed to without objection. (text: CR H686)
 - 2015-02-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H686)
+- 2015-02-03 — Received in the Senate.
