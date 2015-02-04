@@ -1,7 +1,7 @@
 ---
 measure: H.R. 285
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 285
@@ -71,9 +71,10 @@ Stop Advertising Victims of Exploitation Act of 2015
 - Rep. Russell, Steve [R-OK-5] (R000604)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ Stop Advertising Victims of Exploitation Act of 2015
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-8.
 - 2015-01-28 — Received in the Senate.
+- 2015-02-04 — Read twice and referred to the Committee on the Judiciary.
