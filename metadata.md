@@ -1,7 +1,7 @@
 ---
 measure: H.R. 159
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 159
@@ -47,10 +47,11 @@ Stop Exploitation Through Trafficking Act of 2015
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Stop Exploitation Through Trafficking Act of 2015
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-6, Part I.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-6, Part I.
 - 2015-01-28 — Received in the Senate.
+- 2015-02-04 — Read twice and referred to the Committee on the Judiciary.
