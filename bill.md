@@ -1,0 +1,14 @@
+---
+legis-num: S. RES. 67
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 67
+
+> Amending rule XXII of the Standing Rules of the Senate to revise the number of affirmative votes required to end debate on nominations.
+
+## § 1. Cloture rule
+
+The second undesignated subparagraph of paragraph 2 of rule XXII of the Standing Rules of the Senate is amended by striking “And if that question” and all that follows through “disposed of.” and inserting the following: “If the question is decided in the affirmative in the case of a nomination on the Executive Calendar by a majority of the Senators duly chosen and sworn; in the case of a measure or motion to amend the Senate rules by two-thirds of the Senators present and voting; and in the case of any other measure, motion, or matter, by three-fifths of the Senators duly chosen and sworn, then the foregoing measure, motion or matter pending before the Senate, or the unfinished business, upon which the question was decided in the affirmative shall be the unfinished business to the exclusion of all other business until disposed of.”.
