@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 515
@@ -34,10 +34,11 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-01-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H542-544)
 - 2015-01-27 — ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make a correction in the engrossment to H.R. 515 in a form placed at the desk.
 - 2015-01-28 — Received in the Senate.
+- 2015-02-04 — Read twice and referred to the Committee on Foreign Relations.
