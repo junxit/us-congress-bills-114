@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 227
@@ -28,3 +28,6 @@ Strengthening Education through Research Act
 
 - 2015-01-21 — Introduced in Senate
 - 2015-01-21 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2015-02-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
+- 2015-02-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
+- 2015-02-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 13.
