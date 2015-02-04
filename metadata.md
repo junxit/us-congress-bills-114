@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 63
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 63
@@ -16,7 +16,7 @@ A resolution congratulating the New England Patriots on their victory in Super B
 
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Reed, Jack [D-RI] (R000122)
@@ -26,6 +26,7 @@ A resolution congratulating the New England Patriots on their victory in Super B
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ A resolution congratulating the New England Patriots on their victory in Super B
 
 - 2015-02-03 — Introduced in Senate
 - 2015-02-03 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S738)
+- 2015-02-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-02-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-02-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S798)
+- 2015-02-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S798)
