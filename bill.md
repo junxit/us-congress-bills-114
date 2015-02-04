@@ -20,7 +20,7 @@ The purpose of this Act is—
 - **(1)** to improve the quality of the deliberations of Congress with respect to proposed Federal mandates by—
   - **(A)** providing Congress and the public with more complete information about the effects of such mandates; and
   - **(B)** ensuring that Congress acts on such mandates only after focused deliberation on their effects; and
-- **(2)** to enhance the ability of Congress and the public to identify Federal mandates that may impose undue harm on consumers, workers, employers, small businesses, and State, local, and tribal governments.
+- **(2)** to enhance the ability of Congress and the public to identify Federal mandates that may impose undue harm on consumers, workers, employers, small businesses, private property owners, and State, local, and tribal governments.
 
 ## § 3. Providing for Congressional Budget Office studies on policies involving changes in conditions of grant aid
 
@@ -93,6 +93,7 @@ Section 201 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531) is amend
   >     - **(B)** A detailed summary of the comments and concerns that were presented by the private sector and State, local, or tribal governments either orally or in writing to the agency.
   >     - **(C)** A detailed summary of the agency’s evaluation of those comments and concerns.
   >   - **(7)** A detailed summary of how the agency complied with each of the regulatory principles described in section 201.
+  >   - **(8)** An assessment of the effects that the proposed rulemaking or final rule are expected to have on private property owners, including the use and value of affected property.
 
 - **(b)** *Requirement for detailed summary* Subsection (b) of section 202 of such Act is amended by inserting “detailed” before “summary”.
 
@@ -151,3 +152,7 @@ Section 401(a) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1571(a)) is
   - **(B)** by striking “only” each place it appears;
 - **(2)** in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a)(1) and (2), or comply with section 205(a) and (b), a court may compel the agency to prepare such written statement, prepare such written plan, or comply with such section.”; and
 - **(3)** in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a)(1) and (2), or compliance with sections 201 and 205(a) and (b) is required, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepare any estimate, analysis, statement, or description), to prepare such written plan, or to comply with such section may”.
+
+## § 14. Bureau funding authority
+
+The Director of the Bureau of Consumer Financial Protection may not request, under section 1017 of the Consumer Financial Protection Act of 2010, during fiscal year 2016 an amount that would result in the total amount requested by the Director during that fiscal year to exceed $550,000,000.
