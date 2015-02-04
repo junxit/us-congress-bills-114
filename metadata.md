@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 78
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 78
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 527) to amend chapter 6 of title 5
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2015-02-04 — [House 114-1-59](votes/house-114-1-0059.md) — On Ordering the Previous Question — **Passed** (242–174)
+- 2015-02-04 — [House 114-1-60](votes/house-114-1-0060.md) — On Agreeing to the Resolution — **Passed** (243–179)
+
 ## Actions
 
 - 2015-02-03 — For H.R. 527, the rule provides for one hour of debate; makes in order as original text the amendment in the nature of a substitute printed in Rules Committee Print 114-3; and makes specified additional amendments in order. For H.R. 50, the rule provides for one hour of debate; provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-4, modified by the amendment printed in Part B of the report shall be considered as adopted. Further specified amendments are in order.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 527) to amend chapter 6 of title 5
 - 2015-02-03 — Placed on the House Calendar, Calendar No. 7.
 - 2015-02-03 — The House Committee on Rules reported an original measure, H. Rept. 114-14, by Ms. Foxx.
 - 2015-02-03 — The House Committee on Rules reported an original measure, H. Rept. 114-14, by Ms. Foxx.
+- 2015-02-04 — Considered as privileged matter. (consideration: CR H766-772)
+- 2015-02-04 — DEBATE - The House proceeded with one hour of debate on H. Res. 78.
+- 2015-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-02-04 — On agreeing to the resolution Agreed to by recorded vote: 243 - 179 (Roll no. 60). (text: CR H767)
+- 2015-02-04 — On ordering the previous question Agreed to by the Yeas and Nays: 242 - 174 (Roll no. 59). (consideration: CR H771-772)
+- 2015-02-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 243 - 179 (Roll no. 60).(text: CR H767)
