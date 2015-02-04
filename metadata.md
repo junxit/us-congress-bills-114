@@ -1,7 +1,7 @@
 ---
 measure: H.R. 181
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 181
@@ -35,9 +35,10 @@ Justice for Victims of Trafficking Act of 2015
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Justice for Victims of Trafficking Act of 2015
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-7.
 - 2015-01-27 — Reported by the Committee on Judiciary. H. Rept. 114-7.
 - 2015-01-28 — Received in the Senate.
+- 2015-02-04 — Read twice and referred to the Committee on the Judiciary.
