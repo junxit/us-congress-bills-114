@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-71 amendatory instructions. 1 executed, 70 stated and not applied.
+72 amendatory instructions. 1 executed, 71 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,6 +61,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subsection (b) of section 603 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “an explanation” and inserting “a detailed explanation”; | the bill names no machine-readable US Code section |
 | — | insert | in each of paragraphs (4), (5), and the first paragraph (6), by inserting “detailed” before “description”; | the bill names no machine-readable US Code section |
+| — | strike | in the first paragraph (6), by striking “; and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in the second paragraph (6), by striking the period and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating the second paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -70,7 +71,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “detailed” before “statement” the first place it appears; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and legal” after “factual”. | the bill names no machine-readable US Code section |
 | — | amend | Section 607 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 608 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 608 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 611(a)(1) of such title is amended by striking “608(b),”. | the bill names no machine-readable US Code section |
 | — | strike | Section 611(a)(2) of such title is amended by striking “608(b),”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
