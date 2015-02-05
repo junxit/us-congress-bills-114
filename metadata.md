@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 50
@@ -23,12 +23,13 @@ Unfunded Mandates Information and Transparency Act of 2015
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Rules Committee
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (4)
 
@@ -103,3 +104,4 @@ Unfunded Mandates Information and Transparency Act of 2015
 - 2015-02-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H787)
 - 2015-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H786)
 - 2015-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2015-02-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
