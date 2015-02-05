@@ -1,0 +1,27 @@
+---
+legis-num: S. 388
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 388
+
+> To amend the Animal Welfare Act to require humane treatment of animals by Federal Government facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Animal Welfare in Agricultural Research Endeavors Act” or the “AWARE Act”.
+
+## § 2. Animal welfare
+
+Section 14 of the Animal Welfare Act (7 U.S.C. 2144) is amended—
+
+- **(1)** in the first sentence, by striking “Any” and inserting the following:
+  > - **(1)** *In general* Subject to paragraph (3), any Federal research facility or any other
+
+- **(2)** in the second sentence, by striking “Any” and inserting the following:
+  > - **(2)** *Animal exhibition* Any
+
+- **(3)** by adding at the end the following:
+  > - **(3)** *Exclusions not applicable* For purposes of the application of standards and other requirements described in paragraph (1) to a Federal research facility or any other department, agency, or instrumentality of the United States having laboratory animal facilities, the exclusions contained in section 2(g)(3) shall not apply.
