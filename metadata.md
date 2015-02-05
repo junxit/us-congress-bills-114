@@ -1,7 +1,7 @@
 ---
 measure: H.R. 596
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 596
@@ -179,3 +179,5 @@ To repeal the Patient Protection and Affordable Care Act and health care-related
 - 2015-02-03 — Rule provides for consideration of H.R. 596 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
 - 2015-02-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H741)
 - 2015-02-03 — The previous question was ordered pursuant to the rule. (consideration: CR H740)
+- 2015-02-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-02-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
