@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 527
@@ -40,10 +40,11 @@ Small Business Regulatory Flexibility Improvements Act of 2015
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (2)
+## Committees (3)
 
 - House — Small Business Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (4)
 
@@ -122,3 +123,4 @@ Small Business Regulatory Flexibility Improvements Act of 2015
 - 2015-02-05 — The Speaker designated the Honorable Lynn A. Westmoreland to act as Chairman of the Committee.
 - 2015-02-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H832)
 - 2015-02-05 — The previous question was ordered pursuant to the rule. (consideration: CR H831)
+- 2015-02-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
