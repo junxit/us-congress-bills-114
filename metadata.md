@@ -1,7 +1,7 @@
 ---
 measure: H.R. 637
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 637
@@ -16,9 +16,11 @@ Permanent IRA Charitable Contribution Act of 2015
 
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Reed, Tom [R-NY-23] (R000585)
 
 ## Committees (2)
 
@@ -32,3 +34,9 @@ Permanent IRA Charitable Contribution Act of 2015
 - 2015-02-02 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-02 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-02 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-02-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.
+- 2015-02-09 — Committee on the Budget discharged.
+- 2015-02-09 — Committee on the Budget discharged.
+- 2015-02-09 — Placed on the Union Calendar, Calendar No. 14.
+- 2015-02-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-20, Part I.
+- 2015-02-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-20, Part I.
