@@ -21,7 +21,7 @@ This Act may be cited as the “Fighting Hunger Incentive Act of 2015”.
   >   - **(I)** in the case of any taxpayer other than a C corporation, 15 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section, and
   >   - **(II)** in the case of a C corporation, 15 percent of taxable income (as defined in subsection (b)(2)(D)).
   > - **(iii)** *Rules related to limitation*
-  >   - **(I)** *Carryover* If such aggregate amount exceeds the limitation imposed under clause (ii), such excess shall be treated (in a manner consistent with the rules of subsection (d)) as a charitable contribution described in clause (i) in each of the 5 succeeding years in order of time.
+  >   - **(I)** *Carryover* If such aggregate amount exceeds the limitation imposed under clause (ii), such excess shall be treated (in a manner consistent with the rules of subsection (d)) as a charitable contribution described in clause (i) in each of the 5 succeeding taxable years in order of time.
   >   - **(II)** *Coordination with overall corporate limitation* In the case of any charitable contribution allowable under clause (ii)(II), subsection (b)(2)(A) shall not apply to such contribution, but the limitation imposed by such subsection shall be reduced (but not below zero) by the aggregate amount of such contributions. For purposes of subsection (b)(2)(B), such contributions shall be treated as allowable under subsection (b)(2)(A).
 
 - **(c)** *Determination of basis for certain taxpayers* Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause:
@@ -34,4 +34,6 @@ This Act may be cited as the “Fighting Hunger Incentive Act of 2015”.
   >   - **(I)** without regard to such internal standards, such lack of market, such circumstances, or such exclusive purpose, and
   >   - **(II)** by taking into account the price at which the same or substantially the same food items (as to both type and quality) are sold by the taxpayer at the time of the contribution (or, if not so sold at such time, in the recent past).
 
-- **(e)** *Effective Date* The amendments made by this section shall apply to contributions made after the date of the enactment of this Act.
+- **(e)** *Effective Date*
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to contributions made after the date of the enactment of this Act, in taxable years ending after such date.
+  - **(2)** *Limitation; applicability to C corporations* The amendments made by subsection (b) shall apply to contributions made in taxable years ending after the date of the enactment of this Act.
