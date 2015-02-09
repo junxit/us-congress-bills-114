@@ -1,7 +1,7 @@
 ---
 measure: S. 295
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 295
@@ -16,7 +16,7 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (35)
+## Cosponsors (37)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -53,6 +53,8 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cotton, Tom [R-AR] (C001095)
 
 ## Committees (1)
 
@@ -62,3 +64,7 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 
 - 2015-01-28 — Introduced in Senate
 - 2015-01-28 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S602-603)
+- 2015-02-05 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
