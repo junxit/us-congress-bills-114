@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to make permanent the reduced recognition period for built-in gains of S corporations.
 
-## § 1. Reduced recognition period for built-in gains of S corporations made permanent
+## § 1. Short title
+
+This Act may be cited as the “Permanent S Corporation Built-in Gain Recognition Period Act of 2015”.
+
+## § 2. Reduced recognition period for built-in gains of S corporations made permanent
 
 - **(a)** *In general* Paragraph (7) of section 1374(d) of the Internal Revenue Code of 1986 is amended to read as follows:
   > - **(7)** *Recognition period*
