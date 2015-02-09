@@ -1,7 +1,7 @@
 ---
 measure: S. 337
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 337
@@ -16,10 +16,11 @@ FOIA Improvement Act of 2016
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ FOIA Improvement Act of 2016
 
 - 2015-02-02 — Introduced in Senate
 - 2015-02-02 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S699-701)
+- 2015-02-05 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.
