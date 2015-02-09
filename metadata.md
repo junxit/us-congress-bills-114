@@ -1,7 +1,7 @@
 ---
 measure: H.R. 641
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 641
@@ -16,7 +16,7 @@ Conservation Easement Incentive Act of 2015
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Cosponsors (35)
+## Cosponsors (54)
 
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 - Rep. Benishek, Dan [R-MI-1] (B001271)
@@ -53,6 +53,25 @@ Conservation Easement Incentive Act of 2015
 - Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
 - Rep. Murphy, Patrick [D-FL-18] (M001191)
 - Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
 ## Committees (1)
 
@@ -63,3 +82,7 @@ Conservation Easement Incentive Act of 2015
 - 2015-02-02 — Introduced in House
 - 2015-02-02 — Introduced in House
 - 2015-02-02 — Referred to the House Committee on Ways and Means.
+- 2015-02-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.
+- 2015-02-09 — Placed on the Union Calendar, Calendar No. 11.
+- 2015-02-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-17.
+- 2015-02-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-17.

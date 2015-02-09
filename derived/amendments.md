@@ -1,7 +1,7 @@
 ---
 measure: H.R. 641
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `subparagraph (B) applies` |
 | Inserted | `subparagraph (B) or (C) applies` |
+
+### 26 U.S.C. § 170
+
+> Section 170(b)(2)(B)(ii) of such Code is amended by striking “15 succeeding years” and inserting “15 succeeding taxable years”.
+
+| | |
+|---|---|
+| Removed | `15 succeeding years` |
+| Inserted | `15 succeeding taxable years` |
 
 ## Stated, not applied
 

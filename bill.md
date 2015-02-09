@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Conservation Easement Incentive Act of 2015”.
 
-## § 2. Special rule for contributions of qualified conservation contributions made permanent
+## § 2. Special rule for qualified conservation contributions made permanent
 
 - **(a)** *In general*
   - **(1)** *Individuals* Subparagraph (E) of section 170(b)(1) of the Internal Revenue Code of 1986 (relating to contributions of qualified conservation contributions) is amended by striking clause (vi).
@@ -24,9 +24,11 @@ This Act may be cited as the “Conservation Easement Incentive Act of 2015”.
     >   - **(i)** *In general* Any qualified conservation contribution (as defined in subsection (h)(1)) which—
     >     - **(I)** is made by a Native Corporation, and
     >     - **(II)** is a contribution of property which was land conveyed under the Alaska Native Claims Settlement Act,
-    >   - **(ii)** *Carryover* If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding years in order of time.
+    >   - **(ii)** *Carryover* If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding taxable years in order of time.
     >   - **(iii)** *Native Corporation* For purposes of this subparagraph, the term Native Corporation has the meaning given such term by section 3(m) of the Alaska Native Claims Settlement Act.
 
-  - **(2)** *Conforming amendment* Section 170(b)(2)(A) of such Code is amended by striking “subparagraph (B) applies” and inserting “subparagraph (B) or (C) applies”.
+  - **(2)** *Conforming amendments*
+    - **(A)** Section 170(b)(2)(A) of such Code is amended by striking “subparagraph (B) applies” and inserting “subparagraph (B) or (C) applies”.
+    - **(B)** Section 170(b)(2)(B)(ii) of such Code is amended by striking “15 succeeding years” and inserting “15 succeeding taxable years”.
   - **(3)** *Valid existing rights preserved* Nothing in this subsection (or any amendment made by this subsection) shall be construed to modify the existing property rights validly conveyed to Native Corporations (within the meaning of section 3(m) of the Alaska Native Claims Settlement Act) under such Act.
 - **(c)** *Effective date* The amendments made by this section shall apply to contributions made in taxable years beginning after December 31, 2014.
