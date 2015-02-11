@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 903
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 903
+
+> To require notification of individuals of breaches of personally identifiable information through Exchanges under the Patient Protection and Affordable Care Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Exchange Security and Transparency Act of 2015”.
+
+## § 2. Notification of individuals of breaches of personally identifiable information through PPACA Exchanges
+
+Not later than two business days after the discovery of a breach of security of any system maintained by an Exchange established under section 1311 or 1321 of the Patient Protection and Affordable Care Act (42 U.S.C. 18031, 18041) which is known to have resulted in personally identifiable information of an individual being stolen or unlawfully accessed, the Secretary of Health and Human Services shall provide notice of such breach to each such individual.
