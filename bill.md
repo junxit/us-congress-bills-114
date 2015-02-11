@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 886
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 886
+
+> To amend title XIX of the Social Security Act to permit States to impose workforce requirements for individuals made eligible for medical assistance under the amendments made by the Affordable Care Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “State Flexibility and Workforce Requirement Act of 2015”.
+
+## § 2. Permitting States to impose workforce requirements for nondisabled individuals made eligible for Medicaid under ACA
+
+- **(a)** *In general* Section 1902(a)(10)(A)(i)(VIII) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)(i)(VIII)) is amended—
+  - **(1)** by striking “and whose income” and inserting “whose income”; and
+  - **(2)** by inserting after “subsection (k)” the following: “, and who meet such workforce requirements (such as actively being employed or seeking employment) as the State may, in its discretion, establish with respect to nondisabled individuals”.
+- **(b)** *Flexibility in implementation* Nothing in the amendments made by subsection (a) shall prevent a State from exercising its discretion in how and when it applies the workforce requirements authorized by such amendments to medical assistance for items and services furnished after the date of the enactment of this Act, including the application of such amendments to individuals for whom a determination of eligibility for such assistance is made before, on, or after such date.
