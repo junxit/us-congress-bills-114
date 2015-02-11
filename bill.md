@@ -1,0 +1,18 @@
+---
+legis-num: S. 468
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 468
+
+> To provide a categorical exclusion under the National Environmental Policy Act of 1969 to allow the Director of the Bureau of Land Management and the Chief of the Forest Service to remove Pinyon-Juniper trees to conserve and restore the habitat of the greater sage-grouse and the mule deer.
+
+## § 1. Short title
+
+This Act may be cited as the “Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2015”.
+
+## § 2. Categorical exclusion for Pinyon-Juniper tree removal
+
+Notwithstanding any other provision of law, a vegetation management project by the Director of the Bureau of Land Management or the Chief of the Forest Service involving removal or treatment of any Pinyon or Juniper tree for the purpose of conserving or restoring the habitat of the greater sage-grouse or mule deer shall be eligible to be a categorical exclusion (as defined in section 1508.4 of title 40, Code of Federal Regulations (or a successor regulation)) for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
