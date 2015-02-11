@@ -1,7 +1,7 @@
 ---
 measure: S. 295
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 295
@@ -16,7 +16,7 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (37)
+## Cosponsors (42)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -55,10 +55,19 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2015-02-11 — [Senate 114-1-55](votes/senate-114-1-0055.md) — On Passage of the Bill — **Bill Passed** (98–0)
 
 ## Actions
 
@@ -68,3 +77,11 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 - 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-02-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2015-02-11 — Amendment SA 250 agreed to in Senate by Unanimous Consent.
+- 2015-02-11 — Amendment SA 250 proposed by Senator Hatch. (consideration: CR S919; text: CR S919) To improve the bill.
+- 2015-02-11 — Measure laid before Senate by unanimous consent. (consideration: CR S916-920)
+- 2015-02-11 — Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 55. (text: CR S920)
+- 2015-02-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 55.(text: CR S920)
+- 2015-02-11 — Senate amendment agreed to: Amendment SA 250 agreed to in Senate by Unanimous Consent.
+- 2015-02-11 — Senate amendment proposed (on the floor): Amendment SA 250 proposed by Senator Hatch.(consideration: CR S919; text: CR S919)
+- 2015-02-11 — Senate amendment submitted

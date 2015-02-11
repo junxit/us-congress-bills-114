@@ -38,7 +38,7 @@ Section 2259 of title 18, United States Code, is amended—
   >     - **(iv)** lifetime lost income; and
   >     - **(v)** attorneys’ fees, as well as other costs incurred.
   >   - **(B)** For purposes of this subsection, the term full amount of the victim's losses also includes any other losses suffered by the victim, in addition to the costs listed in subparagraph (A), if those losses are a proximate result of the offense.
-  >   - **(C)** For purposes of this subsection, the term full amount of the victim's losses also includes any losses suffered by the victim from any sexual act or sexual conduct (as those terms are defined in section 2246) in preparation for or during the production of child pornography depicting the victim involved in the offense.
+  >   - **(C)** For purposes of this subsection, the term full amount of the victim's losses also includes any losses suffered by the victim from any sexual act or sexual contact (as those terms are defined in section 2246) or sexually explicit conduct (as that term is defined in section 2256) in preparation for or during the production of child pornography depicting the victim involved in the offense.
 
 - **(2)** by redesignating subsection (c) as subsection (d);
 - **(3)** by inserting after subsection (b) the following:
