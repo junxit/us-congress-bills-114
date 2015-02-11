@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 719
@@ -45,3 +45,4 @@ Continuing Appropriations Act, 2016
 - 2015-02-10 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2015-02-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 69). (text: CR H892-893)
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 69).(text: CR H892-893)
+- 2015-02-11 — Received in the Senate.
