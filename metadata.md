@@ -1,7 +1,7 @@
 ---
 measure: H.R. 810
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 810
@@ -23,9 +23,10 @@ National Aeronautics and Space Administration Authorization Act of 2015
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ National Aeronautics and Space Administration Authorization Act of 2015
 - 2015-02-10 — Mr. Palazzo moved to suspend the rules and pass the bill.
 - 2015-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H873-887)
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H873-887)
+- 2015-02-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
