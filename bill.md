@@ -1,0 +1,19 @@
+---
+legis-num: S. 520
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 520
+
+> To amend the Neotropical Migratory Bird Conservation Act to reauthorize the Act.
+
+## § 1. Reauthorization of Neotropical Migratory Bird Conservation Act
+
+Section 10 of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6109) is amended to read as follows:
+
+> ## § 10. Authorization of appropriations
+>
+> - **(a)** *In general* There is authorized to be appropriated to carry out this Act $6,500,000 for each of fiscal years 2015 through 2020.
+> - **(b)** *Use of funds* Of the amounts made available under subsection (a) for each fiscal year, not less than 75 percent shall be expended for projects carried out at a location outside of the United States.
