@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 946
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 946
+
+> To make loans and loan guarantees under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 available for implementing positive train control systems, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Commuter Rail Passenger Safety Act”.
+
+## § 2. Positive train control systems
+
+Section 502(b)(1) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(b)(1)), is amended—
+
+- **(1)** in subparagraph (B), by striking “or”;
+- **(2)** in subparagraph (C), by striking “facilities.” and inserting “facilities; or”; and
+- **(3)** by adding at the end the following:
+  > - **(D)** implement a positive train control system, as required by section 20157 of title 49, United States Code.
+
+## § 3. Extension of railroad safety technology grants
+
+Section 20158(c) of title 49, United States Code, is amended—
+
+- **(1)** by striking “$50,000,000” and inserting “$100,000,000”; and
+- **(2)** by striking “2009 through 2013” and inserting “2016 through 2020”.
