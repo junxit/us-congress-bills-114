@@ -1,7 +1,7 @@
 ---
 measure: S. 295
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 295
@@ -61,9 +61,10 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,6 @@ Amy and Vicky Child Pornography Victim Restitution Improvement Act of 2015
 - 2015-02-11 — Senate amendment agreed to: Amendment SA 250 agreed to in Senate by Unanimous Consent.
 - 2015-02-11 — Senate amendment proposed (on the floor): Amendment SA 250 proposed by Senator Hatch.(consideration: CR S919; text: CR S919)
 - 2015-02-11 — Senate amendment submitted
+- 2015-02-12 — Message on Senate action sent to the House.
+- 2015-02-12 — Received in the House.
+- 2015-02-12 — Referred to the House Committee on the Judiciary.
