@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 720
@@ -26,9 +26,10 @@ Gerardo Hernandez Airport Security Act of 2015
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,5 @@ Gerardo Hernandez Airport Security Act of 2015
 - 2015-02-10 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2015-02-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 70). (text: CR H894-895)
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 70).(text: CR H894-895)
+- 2015-02-11 — Received in the Senate.
+- 2015-02-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
