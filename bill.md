@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 943
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 943
+
+> To amend title XVIII of the Social Security Act to repeal the requirement for employer disclosure of information on health care coverage of employees who are Medicare beneficiaries, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicare Employer Relief Act of 2015”.
+
+## § 2. Repealing section 1862(b)(5) of the Social Security Act
+
+- **(a)** *In general* Section 1862(b) of the Social Security Act (42 U.S.C. 1395y(b)) is amended by striking paragraph (5).
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act and shall apply to information required to be provided on or after January 1, 2016.
