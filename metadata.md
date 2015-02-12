@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 22
@@ -159,3 +159,7 @@ FAST Act
 - 2015-01-06 — Referred to the House Committee on Ways and Means.
 - 2015-01-07 — Received in the Senate.
 - 2015-01-08 — Read twice and referred to the Committee on Finance.
+- 2015-01-28 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2015-02-12 — Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-3.
+- 2015-02-12 — Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-3.
+- 2015-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
