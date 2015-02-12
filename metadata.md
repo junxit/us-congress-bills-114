@@ -1,7 +1,7 @@
 ---
 measure: H.R. 431
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 431
@@ -322,9 +322,10 @@ To award a Congressional Gold Medal to the Foot Soldiers who participated in Blo
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -343,3 +344,4 @@ To award a Congressional Gold Medal to the Foot Soldiers who participated in Blo
 - 2015-02-11 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill.
 - 2015-02-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 76). (text: CR H930-931)
 - 2015-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 76).(text: CR H930-931)
+- 2015-02-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
