@@ -1,7 +1,7 @@
 ---
 measure: H.R. 431
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 431
@@ -345,3 +345,14 @@ To award a Congressional Gold Medal to the Foot Soldiers who participated in Blo
 - 2015-02-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 76). (text: CR H930-931)
 - 2015-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 76).(text: CR H930-931)
 - 2015-02-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2015-03-02 — Passed Senate without amendment by Unanimous Consent.
+- 2015-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-03-02 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S1220)
+- 2015-03-02 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S1220)
+- 2015-03-03 — Message on Senate action sent to the House.
+- 2015-03-04 — Presented to President.
+- 2015-03-04 — Presented to President.
+- 2015-03-07 — Became Public Law No: 114-5.
+- 2015-03-07 — Became Public Law No: 114-5.
+- 2015-03-07 — Signed by President.
+- 2015-03-07 — Signed by President.
