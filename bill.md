@@ -12,10 +12,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas Nadiya Savchenko is the first-ever female fighter pilot in Ukraine’s Armed Forces and is an Iraqi war veteran;
-- Whereas, in the ongoing conflict in Eastern Ukraine, Nadiya Savchenko volunteered her services to the Ukrainian Aidar battalion;
+- Whereas in the ongoing conflict in Eastern Ukraine, Nadiya Savchenko volunteered her services to the Ukrainian Aidar battalion;
 - Whereas Nadiya Savchenko was elected in absentia from the Batkivshchyna Party to Ukraine's Parliament in October 2014, and appointed to the Parliament Assembly of the Council of Europe (PACE) as a representative from Ukraine;
-- Whereas, as a member of the Armed Forces of Ukraine, Lieutenant Nadiya Savchenko was conducting operations in eastern Ukraine against pro-Russian forces in the summer of 2014 when she was captured and taken into captivity;
-- Whereas, during her mission in Eastern Ukraine, she was captured by the Donbas People’s Militia, detained on Ukrainian territory, deprived of rights to due process, and illegally transferred to the Russian Federation to stand trial on unsubstantiated charges of terrorism;
+- Whereas as a member of the Armed Forces of Ukraine, Lieutenant Nadiya Savchenko was conducting operations in eastern Ukraine against pro-Russian forces in the summer of 2014 when she was captured and taken into captivity;
+- Whereas during her mission in Eastern Ukraine, she was captured by the Donbas People’s Militia, detained on Ukrainian territory, deprived of rights to due process, and illegally transferred to the Russian Federation to stand trial on unsubstantiated charges of terrorism;
 - Whereas, since July 2014, Nadiya Savchenko has endured involuntary psychiatric evaluations and solitary confinement;
 - Whereas Nadiya Savchenko is currently entering her sixth week of a hunger strike as a symbol of her protest;
 - Whereas Nadiya Savchenko is denied access to urgently needed medical attention and access to legal counsel;
@@ -29,5 +29,5 @@ That the Senate—
 
 - **(1)** condemns the Government of the Russian Federation for its illegal imprisonment of Nadiya Savchenko;
 - **(2)** calls on the Government of the Russian Federation to immediately release Nadiya Savchenko;
-- **(3)** calls on the United States, its European allies, and the international community to aggressively support efforts to release Nadiya Savchenko and other illegally detained persons; and
+- **(3)** calls on the United States, its European allies, and the international community to aggressively support diplomatic efforts to release Nadiya Savchenko; and
 - **(4)** expresses solidarity with the Ukrainian people.
