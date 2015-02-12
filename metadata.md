@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 73
 congress: 114
-version: Agreed to Senate
+version: Placed on Calendar Senate
 ---
 
 # S.Res. 73
