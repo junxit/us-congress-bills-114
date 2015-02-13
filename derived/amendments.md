@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 3 executed, 6 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,9 +60,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 179` | strike | by striking “may not be revoked” and all that follows through “and before 2015”, and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 179` | strike | by striking “may not be revoked” and all that follows through “and before 2015”; and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 179` | strike | by striking “irrevocable” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 179` | strike | Section 179(d)(1) of such Code is amended by striking “and shall not include air conditioning or heating units”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 179` | strike | by striking “beginning after 2009 and before 2015” in paragraph (1), and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 179` | strike | by striking “beginning after 2009 and before 2015” in paragraph (1); and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 179` | strike | by striking paragraphs (3) and (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 179` | add-at-end | Section 179(b) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1374` | amend | Paragraph (7) of section 1374(d) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1367` | strike | Section 1367(a)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
