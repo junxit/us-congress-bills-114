@@ -27,7 +27,7 @@ Unless otherwise provided in this Act, any person or agency that was awarded a g
 
 ## § 5. Effective dates
 
-- **(a)** *In general* Except as otherwise provided in this Act, this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act.
+- **(a)** *In general* Except as otherwise provided in this Act, this Act, and the amendments made by this Act, shall be effective upon the date of the enactment of this Act.
 - **(b)** *Noncompetitive programs* With respect to noncompetitive programs under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, this Act, and the amendments made by this Act, shall take effect on October 1, 2015.
 - **(c)** *Competitive programs* With respect to programs that are conducted by the Secretary on a competitive basis, this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under those programs for fiscal year 2016.
 - **(d)** *Impact Aid* With respect to title IV of the Act (20 U.S.C. 7701 et seq.) (Impact Aid), this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2016.
@@ -64,4 +64,4 @@ The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the fol
   - **(4)** The Race to the Top Fund encouraged and incentivized States to adopt Common Core State Standards developed by the National Governor’s Association Center for Best Practices and the Council of Chief State School Officers.
   - **(5)** The Race to the Top Assessment grants awarded to the Partnership for the Assessment of Readiness for College and Careers (PARCC) and SMARTER Balanced Assessment Consortium (SMARTER Balance) initiated the development of Common Core State Standards aligned assessments that will, in turn, inform and ultimately influence kindergarten through 12th-grade curriculum and instructional materials.
   - **(6)** The conditional Elementary and Secondary Education Act flexibility waiver authority employed by the Department of Education coerced States into accepting Common Core State Standards and aligned assessments.
-- **(b)** *Sense of the Congress* It is the sense of the Congress that States and local educational agencies should maintain the rights and responsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.
+- **(b)** *Sense of the Congress* It is the sense of the Congress that States and local educational agencies retain the rights and responsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.

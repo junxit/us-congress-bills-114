@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-375 amendatory instructions. 209 executed, 166 stated and not applied.
+440 amendatory instructions. 226 executed, 214 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,12 +80,12 @@ to guess them.
 
 ### 20 U.S.C. § 6303
 
-> by striking “in any fiscal year” and inserting “in fiscal year 2015 and each subsequent fiscal year”;
+> by striking “in any fiscal year” and inserting “in fiscal year 2016 and each subsequent fiscal year”;
 
 | | |
 |---|---|
 | Removed | `in any fiscal year` |
-| Inserted | `in fiscal year 2015 and each subsequent fiscal year` |
+| Inserted | `in fiscal year 2016 and each subsequent fiscal year` |
 
 ### 20 U.S.C. § 6303
 
@@ -807,6 +807,150 @@ to guess them.
 | Removed | `part` |
 | Inserted | `subpart` |
 
+### 20 U.S.C. § 6335
+
+> in clause (i), by striking “15.58” and inserting “15.59”;
+
+| | |
+|---|---|
+| Removed | `15.58` |
+| Inserted | `15.59` |
+
+### 20 U.S.C. § 6335
+
+> by striking “15.58” and inserting “15.59”; and
+
+| | |
+|---|---|
+| Removed | `15.58` |
+| Inserted | `15.59` |
+
+### 20 U.S.C. § 6335
+
+> by striking “22.11” and inserting “22.12”;
+
+| | |
+|---|---|
+| Removed | `22.11` |
+| Inserted | `22.12` |
+
+### 20 U.S.C. § 6335
+
+> by striking “22.11” and inserting “22.12”; and
+
+| | |
+|---|---|
+| Removed | `22.11` |
+| Inserted | `22.12` |
+
+### 20 U.S.C. § 6335
+
+> by striking “30.16” and inserting “30.17”;
+
+| | |
+|---|---|
+| Removed | `30.16` |
+| Inserted | `30.17` |
+
+### 20 U.S.C. § 6335
+
+> by striking “30.16” and inserting “30.17”; and
+
+| | |
+|---|---|
+| Removed | `30.16` |
+| Inserted | `30.17` |
+
+### 20 U.S.C. § 6335
+
+> by striking “38.24” and inserting “38.25”; and
+
+| | |
+|---|---|
+| Removed | `38.24` |
+| Inserted | `38.25` |
+
+### 20 U.S.C. § 6335
+
+> in clause (v), by striking “38.24” and inserting “38.25”;
+
+| | |
+|---|---|
+| Removed | `38.24` |
+| Inserted | `38.25` |
+
+### 20 U.S.C. § 6335
+
+> in clause (i), by striking “691” and inserting “692”;
+
+| | |
+|---|---|
+| Removed | `691` |
+| Inserted | `692` |
+
+### 20 U.S.C. § 6335
+
+> by striking “692” and inserting “693”; and
+
+| | |
+|---|---|
+| Removed | `692` |
+| Inserted | `693` |
+
+### 20 U.S.C. § 6335
+
+> by striking “2,262” and inserting “2,263”;
+
+| | |
+|---|---|
+| Removed | `2,262` |
+| Inserted | `2,263` |
+
+### 20 U.S.C. § 6335
+
+> by striking “2,263” and inserting “2,264”; and
+
+| | |
+|---|---|
+| Removed | `2,263` |
+| Inserted | `2,264` |
+
+### 20 U.S.C. § 6335
+
+> by striking “7,851” and inserting “7,852”;
+
+| | |
+|---|---|
+| Removed | `7,851` |
+| Inserted | `7,852` |
+
+### 20 U.S.C. § 6335
+
+> by striking “7,852” and inserting “7,853”; and
+
+| | |
+|---|---|
+| Removed | `7,852` |
+| Inserted | `7,853` |
+
+### 20 U.S.C. § 6335
+
+> by striking “35,514” and inserting “35,515”; and
+
+| | |
+|---|---|
+| Removed | `35,514` |
+| Inserted | `35,515` |
+
+### 20 U.S.C. § 6335
+
+> in clause (v), by striking “35,514” and inserting “35,515”; and
+
+| | |
+|---|---|
+| Removed | `35,514` |
+| Inserted | `35,515` |
+
 ### 20 U.S.C. § 6337
 
 > by striking “part” each place it appears and inserting “subpart”;
@@ -833,6 +977,15 @@ to guess them.
 |---|---|
 | Removed | `total appropriations` |
 | Inserted | `the total amount reserved under section 1122(a) to carry out this section` |
+
+### 20 U.S.C. § 6337
+
+> in subclause (I), by striking “15.58” and inserting “15.59”;
+
+| | |
+|---|---|
+| Removed | `15.58` |
+| Inserted | `15.59` |
 
 ### 20 U.S.C. § 6339
 
@@ -1556,7 +1709,7 @@ to guess them.
 
 ### 20 U.S.C. § 6301
 
-> in section 4007(a)(3)(A)(i)(II) (as so redesignated), by striking “section 8008(a)” and inserting “section 4008(a)”;
+> in the second subclause (II) of section 4007(a)(3)(A)(i) (as so redesignated), by striking “section 8008(a)” and inserting “section 4008(a)”;
 
 | | |
 |---|---|
@@ -1964,9 +2117,58 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6322` | strike | in paragraph (5), by striking “and entities carrying out Early Reading First programs”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6331` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6332` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6335` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6336` | amend | Section 1125AA (20 U.S.C. 6336) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6337` | redesignate | by striking subsections (a), (e), and (f) and redesignating subsections (b), (c), (d), and (g) as subsections (a), (b), (c), and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6337` | redesignate | in subsection (b), as redesignated, by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | redesignate | by striking subsections (a), (e), and (f) and redesignating subsections (b), (c), (d), and (g) as subsections (a), (b), (c), and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | redesignate | in subsection (b), as so redesignated, by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “15.58” and inserting “15.59”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (I), by striking “691” and inserting “692”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “692” and inserting “693”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,262” and inserting “2,263”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,263” and inserting “2,264”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,851” and inserting “7,852”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,852” and inserting “7,853”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “35,514” and inserting “35,515”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “35,514” and inserting “35,515”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (I), by striking “15.58” and inserting “15.59”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “15.58” and inserting “15.59”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (I), by striking “691” and inserting “692”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “692” and inserting “693”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,262” and inserting “2,263”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,263” and inserting “2,264”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,851” and inserting “7,852”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,852” and inserting “7,853”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “35,514” and inserting “35,515”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “35,514” and inserting “35,515”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (I), by striking “15.58” and inserting “15.59”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “15.58” and inserting “15.59”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “22.11” and inserting “22.12”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “30.16” and inserting “30.17”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “38.24” and inserting “38.25”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (I), by striking “691” and inserting “692”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “692” and inserting “693”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,262” and inserting “2,263”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “2,263” and inserting “2,264”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,851” and inserting “7,852”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “7,852” and inserting “7,853”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | by striking “35,514” and inserting “35,515”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | replace | in subclause (V), by striking “35,514” and inserting “35,515”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6337` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6331` | add-at-end | Chapter B of subpart 1 of part A of title I (20 U.S.C. 6331 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | strike | by striking parts B through D and F through H; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5601` | insert | by inserting after subpart 1 of part A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2019,13 +2221,12 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7703` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7703` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7703` | strike | Section 8003 (20 U.S.C. 7703) is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 8004(e)(9) is amended by striking “Bureau of Indian Affairs” and inserting “Bureau of Indian Education”. | the bill names no machine-readable US Code section |
+| — | replace | Section 8004(e)(9) is amended by striking “Bureau of Indian Affairs” both places such term appears and inserting “Bureau of Indian Education”. | the bill names no machine-readable US Code section |
 | `20 U.S.C. § 7705` | strike | Section 8005(b) (20 U.S.C. 7705(b)) is amended in the matter preceding paragraph (1) by striking “and shall contain such information,”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7707` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7707` | add-at-end | in subparagraph (C)(i)(I), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7707` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7707` | strike | by striking subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7707` | strike | by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7707` | strike | by striking subparagraph (F). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7709` | strike | Section 8009(c)(1)(B) (20 U.S.C. 7709(c)(1)(B)) is amended by striking “and contain the information”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7711` | strike | Section 8011(a) (20 U.S.C. 7711(a)) is amended by striking “or under the Act” and all that follows through “1994)”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7713` | strike | in paragraph (4), by striking “and title VI”; | the bill quotes the text struck but describes what replaces it |
@@ -2034,7 +2235,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6301` | strike | by striking paragraphs (1) and (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | redesignate | by redesignating paragraphs (2) and (3), as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7101` | repeal | Title IV (20 U.S.C. 7101 et seq.), as amended by section 601(b)(2) of this Act, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7702` | repeal | Section 309 of division H of the Consolidated Appropriations Act, 2014 (Public Law 113–76; 20 U.S.C. 7702) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7702` | repeal | Section 309 of division H of the Consolidated Appropriations Act, 2014 (Public Law 113–76; 20 U.S.C. 7702 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | redesignate | by redesignating sections 8001 through 8005 as sections 4001 through 4005, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | redesignate | by redesignating sections 8007 through 8013 as sections 4007 through 4013, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7201` | amend | Title V of the Act (20 U.S.C. 7201 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
