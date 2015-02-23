@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 8
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (44)
+## Cosponsors (51)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. McConnell, Mitch [R-KY] (M000355)
@@ -62,6 +62,13 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Sasse, Ben [R-NE] (S001197)
 
 ## Committees (1)
 
@@ -71,3 +78,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2015-02-09 — Introduced in Senate
 - 2015-02-09 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S862-863)
+- 2015-02-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
+- 2015-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S1030; text: CR 2/24/2015 S1072)
+- 2015-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S1030; text: CR 2/24/2015 S1072)
