@@ -1,0 +1,18 @@
+---
+legis-num: S. 530
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 530
+
+> To require the president of the Federal Reserve Bank of New York to be appointed by the President, by and with the advice and consent of the Senate.
+
+## § 1. Federal reserve bank governance
+
+- **(a)** *In general* Section 4 of the Federal Reserve Act (12 U.S.C. 301 through 308; 341) is amended by adding at the end the following:
+  > - **(25)** *Selection of the president of the Federal Reserve Bank of New York* Notwithstanding any other provision of this section, the president of the Federal Reserve Bank of New York shall be appointed by the President, by and with the advice and consent of the Senate, for terms of 5 years.
+  > - **(26)** *Testimony* The president of the Federal Reserve Bank of New York, on an annual basis, shall provide testimony to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date of enactment of this Act and apply to appointments for the president of the Federal Reserve Bank of New York made on and after that effective date.
