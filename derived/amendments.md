@@ -1,7 +1,7 @@
 ---
 measure: S. 165
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | repeal | Section 1033 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 850), as amended by section 1032 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2… | the bill names no machine-readable US Code section |
+| — | repeal | Section 1034 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 851), as amended by section 1033 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2… | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 801` | repeal | Section 1035 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 851; 10 U.S.C. 801 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 1033 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 850), as amended by section 1032 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2… | the bill names no machine-readable US Code section |
 | — | repeal | Section 1034 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 851), as amended by section 1033 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 801` | repeal | Section 1035 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 851; 10 U.S.C. 801 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
