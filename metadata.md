@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 636
@@ -70,3 +70,4 @@ FAA Extension, Safety, and Security Act of 2016
 - 2015-02-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1049)
 - 2015-02-13 — The previous question was ordered pursuant to the rule. (consideration: CR H1048)
 - 2015-02-13 — The resolution provides for consideration of both H.R. 644 and H.R. 636 under closed rules.
+- 2015-02-23 — Received in the Senate.
