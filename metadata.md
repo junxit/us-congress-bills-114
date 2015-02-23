@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 644
@@ -57,3 +57,4 @@ Trade Facilitation and Trade Enforcement Act of 2015
 - 2015-02-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1015)
 - 2015-02-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1014)
 - 2015-02-12 — The resolution provides for consideration of both H.R. 644 and H.R. 636 under closed rules.
+- 2015-02-23 — Received in the Senate.
