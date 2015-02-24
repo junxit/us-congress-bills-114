@@ -1,0 +1,54 @@
+---
+legis-num: S. 534
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 534
+
+> To prohibit funds from being used to carry out certain Executive actions related to immigration and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Immigration Rule of Law Act of 2015”.
+
+## § 2. Prohibition on funding for certain executive actions related to immigration
+
+- **(a)** *Prohibition on funding certain Executive actions* No funds, resources, or fees made available to the Secretary of Homeland Security, or to any other official of a Federal agency, including any deposits into the “Immigration Examinations Fee Account” established under section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)), may be used to implement, administer, enforce, or carry out (including through the issuance of any regulations) any of the policy changes set forth in the following memoranda (or any substantially similar policy changes issued or taken on or after January 9, 2015, whether set forth in memorandum, Executive order, regulation, directive, or by other action):
+  - **(1)** The memorandum from the Secretary of Homeland Security entitled ‘‘Southern Border and Approaches Campaign’’ dated November 20, 2014.
+  - **(2)** The memorandum from the Secretary of Homeland Security entitled ‘‘Policies for the Apprehension, Detention and Removal of Undocumented Immigrants’’ dated November 20, 2014.
+  - **(3)** The memorandum from the Secretary of Homeland Security entitled ‘‘Secure Communities’’ dated November 20, 2014.
+  - **(4)** The memorandum from the Secretary of Homeland Security entitled ‘‘Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents’’ dated November 20, 2014.
+  - **(5)** The memorandum from the Secretary of Homeland Security entitled ‘‘Expansion of the Provisional Waiver Program’’ dated November 20, 2014.
+  - **(6)** The memorandum from the Secretary of Homeland Security entitled ‘‘Policies Supporting U.S. High-Skilled Businesses and Workers’’ dated November 20, 2014.
+  - **(7)** The memorandum from the Secretary of Homeland Security entitled ‘‘Families of U.S. Armed Forces Members and Enlistees’’ dated November 20, 2014.
+  - **(8)** The memorandum from the Secretary of Homeland Security entitled ‘‘Directive to Provide Consistency Regarding Advance Parole’’ dated November 20, 2014.
+  - **(9)** The memorandum from the Secretary of Homeland Security entitled ‘‘Policies to Promote and Increase Access to U.S. Citizenship’’ dated November 20, 2014.
+  - **(10)** The memorandum from the President entitled ‘‘Modernizing and Streamlining the U.S. Immigrant Visa System for the 21st Century’’ dated November 21, 2014.
+  - **(11)** The memorandum from the President entitled ‘‘Creating Welcoming Communities and Fully Integrating Immigrants and Refugees’’ dated November 21, 2014.
+- **(b)** *No legal effect of executive actions* The memoranda referred to in subsection (a) (or any substantially similar policy changes issued or taken on or after January 9, 2015, whether set forth in memorandum, Executive order, regulation, directive, or by other action) have no statutory or constitutional basis and therefore have no legal effect.
+- **(c)** *Prohibition on providing immigration benefits* No funds or fees made available to the Secretary of Homeland Security, or to any other official of a Federal agency, including any deposits into the “Immigration Examinations Fee Account” established under section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)), may be used to grant any Federal benefit to any alien pursuant to any of the policy changes set forth in the memoranda referred to in subsection (a) (or any substantially similar policy changes issued or taken on or after January 9, 2015, whether set forth in memorandum, Executive order, regulation, directive, or by other action).
+- **(d)** *Budgetary effects* The budgetary effects of this section shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+
+## § 3. Prohibition on funding certain civil immigration enforcement priorities
+
+No funds or fees made available to the Secretary of Homeland Security may be used to implement, administer, enforce, or carry out (including through the issuance of any regulations) any policy relating to the apprehension, detention, or removal of aliens that does not treat any alien convicted of any offense involving domestic violence, sexual abuse, child molestation, or child exploitation as within the categories of aliens subject to the Department of Homeland Security’s highest civil immigration enforcement priorities.
+
+## § 4. Findings and sense of Congress on policies that disadvantage the hiring of United States citizens and lawfully present aliens
+
+- **(a)** *Findings* Congress finds that—
+  - **(1)** under the Patient Protection and Affordable Care Act (Public Law 111–148; 124 Stat. 119), many individuals and businesses are required to purchase health insurance coverage for themselves and their employees;
+  - **(2)** individuals who were unlawfully present in the United States who have been granted deferred action under the Deferred Action for Childhood Arrivals Program undertaken by the Executive Branch and who then receive work authorization are exempt from these requirements;
+  - **(3)** many United States employers hiring United States citizens or individuals legally present in the United States are required to either offer those persons affordable health insurance or pay a penalty of approximately $3,000 per employee per year; and
+  - **(4)** an employer does not have to provide insurance, or in many instances pay a penalty, if they hire individuals who were not lawfully present but who have been granted deferred action under the Deferred Action for Childhood Arrivals Program and work authorization.
+- **(b)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** this disparate treatment has the unacceptable effect of discouraging the hiring of United States citizens and those in a lawful immigration status in the United States; and
+  - **(2)** the Executive Branch should refrain from pursuing policies, such as granting deferred action under the Deferred Action for Childhood Arrivals Program and work authorization to unlawfully present individuals, that disadvantage the hiring of United States citizens and those in a lawful immigration status in the United States.
+
+## § 5. Sense of Congress on policies that disadvantage lawfully present aliens
+
+It is the sense of the Congress that the Director of United States Citizenship and Immigration Services should—
+
+- **(1)** stop putting the interests of aliens who are unlawfully present in the United States ahead of the interests of aliens who are following proper immigration laws and procedures by adjudicating petitions and applications for immigration benefits submitted by aliens unlawfully present in the United States because when adjudicators and resources of U.S. Citizenship and Immigration Services are used to adjudicate petitions and applications for aliens who are unlawfully present, the time it takes to process petitions and applications submitted by other aliens is significantly increased and a backlog is created and it is unfair to use the fees paid by other aliens to cover the costs of adjudicating petitions and applications for aliens unlawfully present in the United States; and
+- **(2)** use the funds available under existing law to improve services and increase the efficiency of the immigration benefits application process for aliens abroad or who are lawfully present in the United States.
