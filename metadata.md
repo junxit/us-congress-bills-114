@@ -1,7 +1,7 @@
 ---
 measure: S. 527
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 527
@@ -16,7 +16,7 @@ A bill to award a Congressional Gold Medal to the Foot Soldiers who participated
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
-## Cosponsors (66)
+## Cosponsors (73)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
@@ -84,6 +84,13 @@ A bill to award a Congressional Gold Medal to the Foot Soldiers who participated
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -93,3 +100,7 @@ A bill to award a Congressional Gold Medal to the Foot Soldiers who participated
 
 - 2015-02-12 — Introduced in Senate
 - 2015-02-12 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2015-02-24 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.
+- 2015-02-24 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Shelby without amendment. Without written report.
+- 2015-02-24 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Shelby without amendment. Without written report.
+- 2015-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
