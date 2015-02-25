@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(6)** The tax proposed by the President would discourage the use of 529 college savings plans, requiring families and students to take on more debt.
   - **(7)** Purchase of a computer represents a significant higher education expense and therefore should be eligible for qualified distributions under 529 college savings plans.
 - **(b)** *Purpose* It is the purpose of this Act to—
-  - **(1)** enact policies that strengthen 529 college savings plans, and
+  - **(1)** enact policies that strengthen 529 college savings plans; and
   - **(2)** make 529 plans more modern, consumer-friendly, and responsive to the realities faced by students today.
 
 ## § 2. Computer technology and equipment permanently allowed as a qualified higher education expense for section 529 accounts

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 529
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 529
@@ -61,6 +61,11 @@ To amend the Internal Revenue Code of 1986 to improve 529 plans.
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2015-02-25 — [House 114-1-89](votes/house-114-1-0089.md) — On Motion to Recommit with Instructions — **Failed** (176–243)
+- 2015-02-25 — [House 114-1-90](votes/house-114-1-0090.md) — On Passage — **Passed** (401–20)
+
 ## Actions
 
 - 2015-01-26 — Introduced in House
@@ -71,3 +76,15 @@ To amend the Internal Revenue Code of 1986 to improve 529 plans.
 - 2015-02-20 — Placed on the Union Calendar, Calendar No. 17.
 - 2015-02-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-25.
 - 2015-02-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-25.
+- 2015-02-24 — Rules Committee Resolution H. Res. 121 Reported to House. Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year
+- 2015-02-25 — Considered under the provisions of rule H. Res. 121. (consideration: CR H1135-1142)
+- 2015-02-25 — DEBATE - The House proceeded with 10 minutes of debate on the Ted Lieu motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding new sections on parents' right to know cost of brokerage fees and impact on long-term savings and rates of return and low fees. Subsequently, the reservation was removed.
+- 2015-02-25 — DEBATE - The House proceeded with one hour of debate on H.R. 529.
+- 2015-02-25 — House amendment offered
+- 2015-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-02-25 — Mr. Lieu, Ted moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H1139-1141; text: CR H1139-1140)
+- 2015-02-25 — On motion to recommit with instructions Failed by the Yeas and Nays: 176 - 243 (Roll no. 89).
+- 2015-02-25 — On passage Passed by recorded vote: 401 - 20 (Roll no. 90). (text: CR H1135-1136)
+- 2015-02-25 — Passed/agreed to in House: On passage Passed by recorded vote: 401 - 20 (Roll no. 90).(text: CR H1135-1136)
+- 2015-02-25 — Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015. Section 4 provides that it shall be in order at any time through the calendar day of March 1, 2015, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making or continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015.
+- 2015-02-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1140)
