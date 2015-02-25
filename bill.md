@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1091
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1091
+
+> To require the Secretary of Agriculture to use negotiated rulemaking to develop a rule about agriculture quarantine inspection, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair and Transparent Stakeholder Involvement Fee Act”.
+
+## § 2. Revised rulemaking authority with respect to agriculture quarantine inspection
+
+- **(a)** *Annul existing regulations* The Secretary of Agriculture may not issue a final rule based on the proposed rule entitled “User Fees for Agricultural Quarantine and Inspection Services” (79 Fed. Reg. 22895; April 25, 2014) and if such final rule is issued before the date of the enactment of this Act, the final rule shall have no force or effect.
+- **(b)** *Restrictions on rulemaking authority* The Secretary of Agriculture may not issue a final rule pursuant to section 2509(a) of the Food, Agriculture, Conservation, and Trade (FACT) Act of 1990 (21 U.S.C. 136a(a)) except in compliance with the procedures described in subchapter III of chapter 5 of title 5, United States Code.
