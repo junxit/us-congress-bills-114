@@ -1,7 +1,7 @@
 ---
 measure: H.R. 212
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 212
@@ -52,3 +52,12 @@ To amend the Safe Drinking Water Act to provide for the assessment and managemen
 - 2015-02-24 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-26.
 - 2015-02-24 — The title of the measure was amended. Agreed to without objection.
 - 2015-02-25 — Received in the Senate, read twice.
+- 2015-08-05 — Passed Senate without amendment by Voice Vote. (consideration: CR S6348-6349)
+- 2015-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6348-6349)
+- 2015-08-06 — Message on Senate action sent to the House.
+- 2015-08-06 — Presented to President.
+- 2015-08-06 — Presented to President.
+- 2015-08-07 — Became Public Law No: 114-45.
+- 2015-08-07 — Became Public Law No: 114-45.
+- 2015-08-07 — Signed by President.
+- 2015-08-07 — Signed by President.
