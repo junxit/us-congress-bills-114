@@ -1,7 +1,7 @@
 ---
 measure: H.R. 734
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 734
@@ -22,9 +22,10 @@ Federal Communications Commission Consolidated Reporting Act of 2015
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Federal Communications Commission Consolidated Reporting Act of 2015
 - 2015-02-24 — Placed on the Union Calendar, Calendar No. 19.
 - 2015-02-24 — Reported by the Committee on Energy and Commerce. H. Rept. 114-27.
 - 2015-02-24 — Reported by the Committee on Energy and Commerce. H. Rept. 114-27.
+- 2015-02-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
