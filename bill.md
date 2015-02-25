@@ -2,12 +2,12 @@
 legis-num: H.R. 212
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 212
 
-> To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of cyanotoxins in drinking water, and for other purposes.
+> To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of algal toxins in drinking water, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Drinking Water Protection Act”.
 
 ## § 2. Amendment to the Safe Drinking Water Act
 
-- **(a)** *Amendment* At the end of part E of the Safe Drinking Water Act (42 U.S.C. 300j et seq.) add the following new section:
+- **(a)** *Amendment* Part E of the Safe Drinking Water Act (42 U.S.C. 300j et seq.) is amended by adding at the end the following new section:
   > ## § 1459. Algal toxin risk assessment and management
   >
   > - **(a)** *Strategic plan*
