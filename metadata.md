@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1020
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1020
@@ -28,9 +28,10 @@ STEM Education Act of 2015
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ STEM Education Act of 2015
 - 2015-02-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 88). (text: CR 2/24/2015 H1098-1100)
 - 2015-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 88).(text: CR 2/24/2015 H1098-1100)
+- 2015-02-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
