@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 76
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 76
@@ -77,3 +77,18 @@ A resolution welcoming the Prime Minister of Israel to the United States for his
 
 - 2015-02-12 — Introduced in Senate
 - 2015-02-12 — Referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S1007-1008; text of measure as introduced: CR S1007)
+- 2015-02-26 — Amendment SA 262 agreed to in Senate by Unanimous Consent.
+- 2015-02-26 — Amendment SA 262 proposed by Senator Cornyn. (consideration: CR S1150; text: CR S1150) To make a technical correction.
+- 2015-02-26 — Amendment SA 263 agreed to in Senate by Unanimous Consent.
+- 2015-02-26 — Amendment SA 263 proposed by Senator Cornyn. (consideration: CR S1151; text: CR S1151) To amend the title.
+- 2015-02-26 — Measure laid before Senate by unanimous consent. (consideration: CR S1150-1151)
+- 2015-02-26 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and with a preamble by Unanimous Consent.(text: CR S1150-1151)
+- 2015-02-26 — Resolution agreed to in Senate with an amendment and an amendment to the Title and with a preamble by Unanimous Consent. (text: CR S1150-1151)
+- 2015-02-26 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1150)
+- 2015-02-26 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1150)
+- 2015-02-26 — Senate amendment agreed to: Amendment SA 262 agreed to in Senate by Unanimous Consent.
+- 2015-02-26 — Senate amendment agreed to: Amendment SA 263 agreed to in Senate by Unanimous Consent.
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 262 proposed by Senator Cornyn.(consideration: CR S1150; text: CR S1150)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 263 proposed by Senator Cornyn.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted

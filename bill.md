@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 76
 
-> Welcoming the Prime Minister of Israel to the United States for his address to a joint session of Congress.
+> Welcoming the Prime Minister of Israel to the United States for his address to a joint meeting of Congress.
 
 ## Preamble
 
@@ -23,7 +23,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** warmly welcomes the Prime Minister of Israel, Benjamin Netanyahu, on his visit to the United States, which provides a timely opportunity to reinforce the United States-Israel relationship;
-- **(2)** eagerly awaits the address of Prime Minister Netanyahu before a joint session of the United States Congress;
+- **(2)** eagerly awaits the address of Prime Minister Netanyahu before a joint meeting of the United States Congress;
 - **(3)** reaffirms its commitment to stand with Israel during times of uncertainty;
 - **(4)** continues to strongly support Israel's right to defend itself from threats to its very survival; and
 - **(5)** reaffirms its unequivocal and bipartisan support for the friendship between the people and Governments of the United States and Israel.
