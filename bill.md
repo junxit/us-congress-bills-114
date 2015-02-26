@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1094
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1094
+
+> To authorize and request the President to award the Medal of Honor posthumously to Navy Seal Christopher Scott Kyle for acts of valor during Operation Iraqi Freedom.
+
+## § 1. Short title
+
+This Act may be cited as the “Chris Kyle Medal of Honor Act”.
+
+## § 2. Authorization for award of Medal of Honor to Navy Seal Christopher Scott Kyle for acts of valor during Operation Iraqi Freedom
+
+Notwithstanding the time limitations specified in sections 6248(a) and 6250 of title 10, United States Code, or any other time limitation with respect to the awarding of certain medals to persons who served in the Armed Forces, the President is authorized and requested to award the Medal of Honor posthumously under section 6241 of such title to Navy Seal Christopher Scott Kyle for acts of valor during Operation Iraqi Freedom.
