@@ -1,0 +1,23 @@
+---
+legis-num: S. 592
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 592
+
+> To improve the transition between experimental permits and commercial licenses for commercial reusable launch vehicles.
+
+## § 1. Commercial space launch licensing
+
+Section 50906 of title 51, United States Code, is amended—
+
+- **(1)** in subsection (d), by striking “launched or reentered” and inserting “launched or reentered under that permit”;
+- **(2)** by amending subsection (d)(1) to read as follows:
+  > - **(1)** research and development to test design concepts, equipment, or operating techniques;
+
+- **(3)** in subsection (d)(3), by striking “prior to obtaining a license”;
+- **(4)** in subsection (e)(1), by striking “suborbital rocket design” and inserting “suborbital rocket or rocket design”; and
+- **(5)** by amending subsection (g) to read as follows:
+  > - **(g)** The Secretary may issue a permit under this section notwithstanding any license issued under this chapter. The issuance of a license under this chapter may not invalidate a permit under this section.
