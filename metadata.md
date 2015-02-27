@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 33
@@ -38,9 +38,10 @@ To amend the Internal Revenue Code of 1986 to ensure that emergency services vol
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-01-12 — [House 114-1-18](votes/house-114-1-0018.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–0)
+- 2015-02-27 — [House 114-1-106](votes/house-114-1-0106.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (357–60)
 
 ## Actions
 
@@ -57,3 +58,23 @@ To amend the Internal Revenue Code of 1986 to ensure that emergency services vol
 - 2015-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 18).(text: CR H201)
 - 2015-01-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-01-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.
+- 2015-02-27 — Amendment SA 268 agreed to in Senate by Unanimous Consent.
+- 2015-02-27 — Amendment SA 268 proposed by Senator McConnell. (consideration: CR S1206; text: CR S1206) In the nature of a substitute.
+- 2015-02-27 — Became Public Law No: 114-3.
+- 2015-02-27 — Became Public Law No: 114-3.
+- 2015-02-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 33.
+- 2015-02-27 — Measure laid before Senate by unanimous consent. (consideration: CR S1206)
+- 2015-02-27 — Message on Senate action sent to the House.
+- 2015-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-02-27 — Mr. Rogers (KY) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1495-1497)
+- 2015-02-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 357 - 60 (Roll no. 106). (text as House agreed to Senate amendment: CR H1495)
+- 2015-02-27 — Passed Senate with an amendment by Voice Vote.
+- 2015-02-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2015-02-27 — Presented to President.
+- 2015-02-27 — Presented to President.
+- 2015-02-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 357 - 60 (Roll no. 106).(text as House agreed to Senate amendment: CR H1495)
+- 2015-02-27 — Senate amendment agreed to: Amendment SA 268 agreed to in Senate by Unanimous Consent.
+- 2015-02-27 — Senate amendment proposed (on the floor): Amendment SA 268 proposed by Senator McConnell.(consideration: CR S1206; text: CR S1206)
+- 2015-02-27 — Senate amendment submitted
+- 2015-02-27 — Signed by President.
+- 2015-02-27 — Signed by President.

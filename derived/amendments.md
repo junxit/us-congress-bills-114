@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 4980H` | redesignate | Section 4980H(c) of the Internal Revenue Code of 1986 is amended by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively, and by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | The Continuing Appropriations Resolution, 2015 (Public Law 113–164; 128 Stat. 1867) is amended by striking the date specified in section 106(3) and inserting “March 6, 2015”. | the bill names no machine-readable US Code section |
