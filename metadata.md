@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 240
@@ -27,7 +27,7 @@ Department of Homeland Security Appropriations Act, 2015
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (18)
+## Recorded votes (22)
 
 - 2015-01-14 — [House 114-1-29](votes/house-114-1-0029.md) — On Agreeing to the Amendment — **Agreed to** (237–190)
 - 2015-01-14 — [House 114-1-30](votes/house-114-1-0030.md) — On Agreeing to the Amendment — **Agreed to** (218–209)
@@ -47,6 +47,10 @@ Department of Homeland Security Appropriations Act, 2015
 - 2015-02-27 — [Senate 114-1-60](votes/senate-114-1-0060.md) — On the Motion to Table — **Motion to Table Failed** (34–65)
 - 2015-02-27 — [Senate 114-1-61](votes/senate-114-1-0061.md) — On the Amendment — **Amendment Agreed to** (66–33)
 - 2015-02-27 — [Senate 114-1-62](votes/senate-114-1-0062.md) — On Passage of the Bill — **Bill Passed** (68–31)
+- 2015-03-02 — [Senate 114-1-64](votes/senate-114-1-0064.md) — On the Cloture Motion — **Cloture Motion Rejected** (47–43)
+- 2015-03-02 — [Senate 114-1-65](votes/senate-114-1-0065.md) — On the Motion to Table — **Motion to Table Agreed to** (58–31)
+- 2015-03-03 — [House 114-1-108](votes/house-114-1-0108.md) — On Motion to Table the Senate Amendment — **Failed** (140–278)
+- 2015-03-03 — [House 114-1-109](votes/house-114-1-0109.md) — On Motion to Recede and Concur in the Senate Amendment — **Passed** (257–167)
 
 ## Actions
 
@@ -220,3 +224,26 @@ Department of Homeland Security Appropriations Act, 2015
 - 2015-02-27 — Senate amendment submitted
 - 2015-02-27 — The previous question was ordered without objection. (consideration: CR H1484)
 - 2015-02-27 — The previous question was ordered without objection. (consideration: CR H1492)
+- 2015-03-02 — Cloture motion on the motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees presented in Senate. (consideration: CR S1209; text: CR S1209)
+- 2015-03-02 — Cloture on the motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees not invoked in Senate by Yea-Nay Vote. 47 - 43. Record Vote Number: 64. (consideration: CR S1214; text: CR S1214)
+- 2015-03-02 — Considered by Senate (Message from the House considered). (consideration: CR S1208-1215)
+- 2015-03-02 — Motion to table the message from the House with respect to H.R. 240 agreed to in Senate by Yea-Nay Vote. 58 - 31. Record Vote Number: 65. (consideration: CR S1214-1215)
+- 2015-03-03 — DEBATE - The House proceeded with 60 minutes of debate equally divided and controlled on the motion to recede and concur in the Senate Amendment to H.R. 240.
+- 2015-03-03 — Message on Senate action sent to the House.
+- 2015-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-03 — Mr. Massie asked unanimous consent to dispense with further reading of the Senate amendment. Agreed to without objection. (consideration: CR H1535)
+- 2015-03-03 — Mr. Massie moved to table the Senate amendment. (consideration: CR H1546; text: CR H1546)
+- 2015-03-03 — Mr. Simpson moved that the House recede and concur in the Senate amendment. (consideration: CR H1535-1552)
+- 2015-03-03 — Mr. Simpson moved the previous question. (consideration: CR H1551)
+- 2015-03-03 — Mr. Simpson moved to take the Senate message on H.R. 240 from the Speaker's table and asked for it's immediate consideration. Agreed to by voice vote.
+- 2015-03-03 — On motion that the House recede and concur in the Senate Agreed to by the Yeas and Nays: 257 - 167 (Roll no. 109). (text as House recede and concur in Senate amendment: CR H1535-1536)
+- 2015-03-03 — On motion to table Senate Amendment Failed by the Yeas and Nays: 140 - 278 (Roll no. 108).
+- 2015-03-03 — On ordering the previous question Agreed to by voice vote.
+- 2015-03-03 — Resolving differences -- House actions: On motion that the House recede and concur in the Senate Agreed to by the Yeas and Nays: 257 - 167 (Roll no. 109).(text as House recede and concur in Senate amendment: CR H1535-1536)
+- 2015-03-03 — Unanimous consent to dispense with the reading of the Senate amendment was objected to and the Chair directed the Clerk to report the Senate amendment.
+- 2015-03-04 — Became Public Law No: 114-4.
+- 2015-03-04 — Became Public Law No: 114-4.
+- 2015-03-04 — Presented to President.
+- 2015-03-04 — Presented to President.
+- 2015-03-04 — Signed by President.
+- 2015-03-04 — Signed by President.
