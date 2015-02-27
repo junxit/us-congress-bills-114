@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 

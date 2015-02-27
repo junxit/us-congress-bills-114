@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 240
@@ -16,12 +16,18 @@ Department of Homeland Security Appropriations Act, 2015
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
+## Cosponsors (3)
+
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (7)
+## Recorded votes (18)
 
 - 2015-01-14 — [House 114-1-29](votes/house-114-1-0029.md) — On Agreeing to the Amendment — **Agreed to** (237–190)
 - 2015-01-14 — [House 114-1-30](votes/house-114-1-0030.md) — On Agreeing to the Amendment — **Agreed to** (218–209)
@@ -30,6 +36,17 @@ Department of Homeland Security Appropriations Act, 2015
 - 2015-01-14 — [House 114-1-33](votes/house-114-1-0033.md) — On Agreeing to the Amendment — **Agreed to** (260–167)
 - 2015-01-14 — [House 114-1-34](votes/house-114-1-0034.md) — On Motion to Recommit with Instructions — **Failed** (184–244)
 - 2015-01-14 — [House 114-1-35](votes/house-114-1-0035.md) — On Passage — **Passed** (236–191)
+- 2015-02-03 — [Senate 114-1-51](votes/senate-114-1-0051.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (51–48)
+- 2015-02-04 — [Senate 114-1-52](votes/senate-114-1-0052.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (53–47)
+- 2015-02-05 — [Senate 114-1-53](votes/senate-114-1-0053.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (52–47)
+- 2015-02-23 — [Senate 114-1-57](votes/senate-114-1-0057.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (47–46)
+- 2015-02-25 — [Senate 114-1-58](votes/senate-114-1-0058.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (98–2)
+- 2015-02-27 — [House 114-1-102](votes/house-114-1-0102.md) — On Motion to Request a Conference — **Passed** (228–191)
+- 2015-02-27 — [House 114-1-105](votes/house-114-1-0105.md) — On Motion to Instruct Conferees — **Failed** (201–218)
+- 2015-02-27 — [Senate 114-1-59](votes/senate-114-1-0059.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–31)
+- 2015-02-27 — [Senate 114-1-60](votes/senate-114-1-0060.md) — On the Motion to Table — **Motion to Table Failed** (34–65)
+- 2015-02-27 — [Senate 114-1-61](votes/senate-114-1-0061.md) — On the Amendment — **Amendment Agreed to** (66–33)
+- 2015-02-27 — [Senate 114-1-62](votes/senate-114-1-0062.md) — On Passage of the Bill — **Bill Passed** (68–31)
 
 ## Actions
 
@@ -108,3 +125,98 @@ Department of Homeland Security Appropriations Act, 2015
 - 2015-01-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2015-01-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-01-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.
+- 2015-01-30 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S667; text: CR S667)
+- 2015-01-30 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S667-671)
+- 2015-02-02 — Motion to proceed to consideration of measure made in Senate. (consideration:  CR S677)
+- 2015-02-03 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 51. (consideration: CR S722; text: CR S722)
+- 2015-02-03 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to H.R. 240 was not invoked (Record Vote No. 51) entered in Senate.
+- 2015-02-03 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S707, S707-708, S720-724, S733)
+- 2015-02-03 — Second cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S733; text: CR S733)
+- 2015-02-04 — Motion by Senator McConnell to reconsider the vote by which the motion to invoke cloture on the motion to proceed to H.R. 240 was not invoked (Record Vote No. 51) agreed to in Senate by Voice Vote.
+- 2015-02-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S741-744, S755-759)
+- 2015-02-04 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to H.R. 240 (Record Vote No. 51) agreed to in Senate by Voice Vote. (consideration: CR S759)
+- 2015-02-04 — Senate amendment submitted
+- 2015-02-04 — Upon reconsideration, cloture on the motion to proceed to H.R. 240 not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 52. (consideration: CR S759; text: CR S759)
+- 2015-02-05 — Motion by Senator McConnell to reconsider the vote by which the second cloture motion on the motion to proceed to the measure was not invoked (Record Vote No. 53) entered in Senate.
+- 2015-02-05 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S803-810)
+- 2015-02-05 — Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 53. (consideration: CR S809; text: CR S809)
+- 2015-02-09 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S843)
+- 2015-02-10 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S873-874)
+- 2015-02-11 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S907)
+- 2015-02-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S947-949, S967-968)
+- 2015-02-12 — Third cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S968; text: CR S968)
+- 2015-02-23 — Motion by Senator McConnell to reconsider the vote by which the third cloture motion on the motion to proceed to the measure was not invoked (Record Vote No. 57) entered in Senate. (consideration: CR S1028)
+- 2015-02-23 — Motion to proceed to measure considered in Senate. (consideration: CR S1022-1028)
+- 2015-02-23 — Third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 46. Record Vote Number: 57. (consideration: CR S1027-1028; text: CR S1027)
+- 2015-02-24 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1037-1038, S1044-1047, S1048-1058)
+- 2015-02-25 — Motion by Senator McConnell to reconsider the vote by which the second motion to invoke cloture on the motion to proceed to H.R. 240 was not invoked (Record Vote No. 53) agreed to in Senate by Voice Vote. (consideration: CR S1104)
+- 2015-02-25 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1085, S1090, S1094-1096, S1099-1100, S1103-1105, S1106-1107)
+- 2015-02-25 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the second motion to proceed to H.R. 240 (Record Vote No. 53) agreed to in Senate by Voice Vote. (consideration: CR S1104)
+- 2015-02-25 — Third cloture motion on the motion to proceed to the measure rendered moot in Senate.
+- 2015-02-25 — Upon reconsideration, cloture on the motion to proceed to H.R. 240 invoked in Senate by Yea-Nay Vote. 98 - 2. Record Vote Number: 58. (consideration: CR S1104-1105; text: CR S1104-1105)
+- 2015-02-26 — Amendment SA 255 proposed by Senator McConnell for Senator Cochran. (consideration: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 256 proposed by Senator McConnell to Amendment SA 255. (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 257 proposed by Senator McConnell to language proposed to be stricken by amendment no. 255. (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 258 proposed by Senator McConnell to Amendment SA 257. (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 259 proposed by Senator McConnell. (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 260 proposed by Senator McConnell to Amendment SA 259 (the instructions of the motion to commit). (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Amendment SA 261 proposed by Senator McConnell to Amendment SA 260. (consideration: CR S1151; text: CR S1151) Of a perfecting nature.
+- 2015-02-26 — Cloture motion on the measure presented in Senate. (consideration: CR S1151-1152; text: CR S1151)
+- 2015-02-26 — Measure laid before Senate by motion. (consideration: CR S1151-1152)
+- 2015-02-26 — Motion by Senator McConnell to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 259) made in Senate. (consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1151)
+- 2015-02-26 — Motion to proceed to measure considered in Senate. (consideration: CR S1128-1129, S1129-1134, S1135-1137, S1138-1150, S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 255 proposed by Senator McConnell for Senator Cochran.(consideration: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 256 proposed by Senator McConnell to Amendment SA 255.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 257 proposed by Senator McConnell to language proposed to be stricken by amendment no. 255.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 258 proposed by Senator McConnell to Amendment SA 257.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 259 proposed by Senator McConnell.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 260 proposed by Senator McConnell to Amendment SA 259 (the instructions of the motion to commit).(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment proposed (on the floor): Amendment SA 261 proposed by Senator McConnell to Amendment SA 260.(consideration: CR S1151; text: CR S1151)
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-26 — Senate amendment submitted
+- 2015-02-27 — Amendment SA 255 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 61.
+- 2015-02-27 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 68 - 31. Record Vote Number: 59. (consideration: CR S1190; text: CR S1190)
+- 2015-02-27 — Considered by Senate (Message from the House considered). (consideration: CR S1206)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188, S1190)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188, S1190)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188, S1190)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188, S1191)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188, S1191-1192)
+- 2015-02-27 — Considered by Senate. (consideration: CR S1188-1192)
+- 2015-02-27 — DEBATE - The House proceeded with one hour of debate on the Roybal-Allard motion to instruct conferees on H.R. 240. The instructions contained in the motion seek to require the managers on the part of the House to recede from disagreement with the Senate amendment.
+- 2015-02-27 — Message on House action received in Senate and at desk: House requests a conference.
+- 2015-02-27 — Message on Senate action sent to the House.
+- 2015-02-27 — Motion by Senator McConnell to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 259) fell when cloture was invoked on the measure in Senate. (consideration: CR S1190)
+- 2015-02-27 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate. (consideration: CR S1206)
+- 2015-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-02-27 — Motion to table amendment SA 258 rejected in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 60.
+- 2015-02-27 — Mr. Carter (TX) moved that the House disagree to the Senate amendment, and request a conference. (consideration: CR H1483-1484, H1485-1492, H1494-1495)
+- 2015-02-27 — Ms. Roybal-Allard moved that the House instruct conferees. (consideration: CR H1485-1492 text: CR H1485)
+- 2015-02-27 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to by the Yeas and Nays: 228 - 191 (Roll no. 102). (consideration: CR H1484)
+- 2015-02-27 — On motion that the House instruct conferees Failed by the Yeas and Nays: 201 - 218 (Roll no. 105). (consideration: CR H1494-1495)
+- 2015-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roybal-Allard motion to instruct conferees, the Chair put the question on adoption of the motion and by voice vote, announced that the noes had prevailed. Ms. Roybal-Allard demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2015-02-27 — Passed Senate with an amendment by Yea-Nay Vote. 68 - 31. Record Vote Number: 62.
+- 2015-02-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 68 - 31. Record Vote Number: 62.
+- 2015-02-27 — Proposed amendment SA 256 withdrawn in Senate. (consideration: CR S1191)
+- 2015-02-27 — Proposed amendment SA 257 withdrawn in Senate. (consideration: CR S1191)
+- 2015-02-27 — Proposed amendment SA 258 withdrawn in Senate. (consideration: CR S1191)
+- 2015-02-27 — Roll call votes on amendments in Senate: Amendment SA 255 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 61.
+- 2015-02-27 — Roll call votes on amendments in Senate: Motion to table amendment SA 258 rejected in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 60.
+- 2015-02-27 — SA 259 fell when cloture invoked on the measure. (consideration: CR S1190)
+- 2015-02-27 — SA 260 fell when SA 259 fell. (consideration: CR S1190)
+- 2015-02-27 — SA 261 fell when SA 260 fell. (consideration: CR S1190)
+- 2015-02-27 — Senate amendment agreed to: Amendment SA 255 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 61.
+- 2015-02-27 — Senate amendment submitted
+- 2015-02-27 — Senate amendment submitted
+- 2015-02-27 — Senate amendment submitted
+- 2015-02-27 — Senate amendment submitted
+- 2015-02-27 — The previous question was ordered without objection. (consideration: CR H1484)
+- 2015-02-27 — The previous question was ordered without objection. (consideration: CR H1492)
