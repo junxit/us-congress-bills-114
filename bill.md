@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 33
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 33
 
-That the bill from the House of Representatives (H.R. 33) entitled “An Act to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.
 
 ## § 1. Further continuing appropriations
 

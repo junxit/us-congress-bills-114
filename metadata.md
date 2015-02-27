@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 33
@@ -78,3 +78,4 @@ To amend the Internal Revenue Code of 1986 to ensure that emergency services vol
 - 2015-02-27 — Senate amendment submitted
 - 2015-02-27 — Signed by President.
 - 2015-02-27 — Signed by President.
+- 2015-03-30 — Referred to the Subcommittee on Health.
