@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 114
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 240
