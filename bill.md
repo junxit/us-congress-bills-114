@@ -1,0 +1,19 @@
+---
+legis-num: S. 608
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 608
+
+> To prevent homeowners from being forced to pay taxes on forgiven mortgage loan debt.
+
+## § 1. Short title
+
+This Act may be cited as the “Mortgage Forgiveness Tax Relief Act”.
+
+## § 2. Extension of exclusion from gross income of discharge of qualified principal residence indebtedness
+
+- **(a)** *In general* Subparagraph (E) of section 108(a)(1) of the Internal Revenue Code of 1986, as amended by section 102 of the Tax Increase Prevention Act of 2014 (Public Law 113–295), is amended by striking “before January 1, 2015” and inserting “subject to an arrangement that is entered into and evidenced in writing before January 1, 2017”.
+- **(b)** *Effective date* The amendment made by this section shall apply to any arrangement entered into and evidenced in writing before January 1, 2017.
