@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 294
 
-> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently.
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the transfer of veterans to non-Department medical foster homes for certain veterans who are unable to live independently.
 
 ## § 1. Short title
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Long-Term Care Veterans Choice Act”.
 - **(a)** *Authority*
   - **(1)** *In general* Section 1720 of title 38, United States Code, is amended by adding at the end the following new subsection:
     > - **(h)**
-    >   - **(1)** During the 3-year period beginning on October 1, 2015, and subject to paragraph (2), at the request of a veteran for whom the Secretary is required to provide nursing home care under section 1710A of this title, the Secretary may place the veteran in a medical foster home that meets Department standards, at the expense of the United States, pursuant to a contract or agreement entered into between the Secretary and the medical foster home for such purpose. A veteran who is placed in a medical foster home under this subsection shall agree, as a condition of such placement, to accept home health services furnished by the Secretary under section 1717 of this title.
+    >   - **(1)** During the three-year period beginning on October 1, 2015, and subject to paragraph (2), at the request of a veteran for whom the Secretary is required to provide nursing home care under section 1710A of this title, the Secretary may place the veteran in a medical foster home that meets Department standards, at the expense of the United States, pursuant to a contract or agreement entered into between the Secretary and the medical foster home for such purpose. A veteran who is placed in a medical foster home under this subsection shall agree, as a condition of such placement, to accept home health services furnished by the Secretary under section 1717 of this title.
     >   - **(2)** Not more than 900 veterans placed in a medical foster home, whether placed before or after the enactment of the Long-Term Care Veterans Choice Act, may have their care covered at the expense of the United States under subsection (a).
     >   - **(3)** In this subsection, the term medical foster home means a home designed to provide non-institutional, long-term, supportive care for veterans who are unable to live independently and prefer a family setting.
 
