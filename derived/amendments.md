@@ -1,7 +1,7 @@
 ---
 measure: S. 166
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 1 executed, 12 stated and not applied.
+15 amendatory instructions. 2 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `and 1594` |
 | Inserted | `1594, 2251, 2251A, 2421, 2422, and 2423` |
 
+### 22 U.S.C. § 7105
+
+> by striking “Subject” and inserting “(i) In general.—Subject”; and
+
+| | |
+|---|---|
+| Removed | `Subject` |
+| Inserted | `(i) In general.—Subject` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -50,6 +59,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 7103` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3194` | add-at-end | Section 144(a)(3) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3194(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |

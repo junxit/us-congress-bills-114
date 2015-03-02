@@ -48,7 +48,15 @@ Section 107(b)(2) of the Victims of Trafficking and Violence Protection Act of 2
 
 - **(1)** by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and
 - **(2)** by inserting after subparagraph (A) the following:
-  > - **(B)** *National human trafficking hotline* Beginning in fiscal year 2017 and each fiscal year thereafter, of amounts made available for grants under this paragraph, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
+  - **(“(B)** *National human trafficking hotline* Beginning in fiscal year 2017 and each fiscal year thereafter, of amounts made available for grants under this paragraph, the
+
+## § 4. National human trafficking hotline
+
+Section 107(b)(1)(B) of the Victims of Crime Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7105(b)(1)(B)) is amended—
+
+- **(1)** by striking “Subject” and inserting “(i) In general.—Subject”; and
+- **(2)** by adding at the end the following:
+  > - **(ii)** *National human trafficking hotline* Beginning in fiscal year 2017 and each fiscal year thereafter, of amounts made available for grants under paragraph (2), the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
 
 ## § 5. Job corps eligibility
 
