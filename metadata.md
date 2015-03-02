@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1030
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1030
@@ -16,7 +16,7 @@ Secret Science Reform Act of 2015
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (21)
+## Cosponsors (28)
 
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
@@ -39,6 +39,13 @@ Secret Science Reform Act of 2015
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
 
 ## Committees (1)
 
@@ -49,3 +56,8 @@ Secret Science Reform Act of 2015
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-02-25 — Committee Consideration and Mark-up Session Held.
+- 2015-02-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 11.
+- 2015-03-02 — Placed on the Union Calendar, Calendar No. 23.
+- 2015-03-02 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-34.
+- 2015-03-02 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-34.
