@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1029
@@ -16,7 +16,7 @@ EPA Science Advisory Board Reform Act of 2015
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Cosponsors (22)
+## Cosponsors (24)
 
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
@@ -40,6 +40,8 @@ EPA Science Advisory Board Reform Act of 2015
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Barton, Joe [R-TX-6] (B000213)
 
 ## Committees (1)
 
@@ -50,3 +52,8 @@ EPA Science Advisory Board Reform Act of 2015
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-02-25 — Committee Consideration and Mark-up Session Held.
+- 2015-02-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 12.
+- 2015-03-02 — Placed on the Union Calendar, Calendar No. 22.
+- 2015-03-02 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-33.
+- 2015-03-02 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-33.

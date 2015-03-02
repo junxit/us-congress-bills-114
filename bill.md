@@ -26,7 +26,7 @@ This Act may be cited as the “EPA Science Advisory Board Reform Act of 2015”
   >     - **(D)** in the case of a Board advisory activity on a particular matter involving a specific party, no Board member having an interest in the specific party shall participate in that activity;
   >     - **(E)** Board members may not participate in advisory activities that directly or indirectly involve review or evaluation of their own work, unless fully disclosed to the public and the work has been externally peer-reviewed;
   >     - **(F)** Board members shall be designated as special Government employees; and
-  >     - **(G)** no federally registered lobbyist is appointed to the Board.
+  >     - **(G)** no registered lobbyist is appointed to the Board.
   >   - **(3)** The Administrator shall—
   >     - **(A)** solicit public nominations for the Board by publishing a notification in the Federal Register;
   >     - **(B)** solicit nominations from relevant Federal agencies, including the Departments of Agriculture, Defense, Energy, the Interior, and Health and Human Services;
