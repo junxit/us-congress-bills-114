@@ -1,7 +1,7 @@
 ---
 measure: H.R. 280
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 280
@@ -28,10 +28,11 @@ To authorize the Secretary of Veterans Affairs to recoup bonuses and awards paid
 - Rep. Graham, Gwen [D-FL-2] (G000575)
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ To authorize the Secretary of Veterans Affairs to recoup bonuses and awards paid
 - 2015-03-02 — Placed on the Union Calendar, Calendar No. 21.
 - 2015-03-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-32, Part I.
 - 2015-03-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-32, Part I.
+- 2015-03-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
