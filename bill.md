@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1212
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1212
+
+> To prohibit the Federal Communications Commission from reclassifying broadband Internet access service as a telecommunications service and from imposing certain regulations on providers of such service.
+
+## § 1. Short title
+
+This Act may be cited as the “Internet Freedom Act”.
+
+## § 2. Limitation on authority of FCC
+
+- **(a)** *In general* The rule adopted by the Federal Communications Commission in GN Docket No. 14–28 on February 26, 2015 (relating to broadband Internet access service) shall have no force or effect, and the Commission may not reissue such rule in substantially the same form, or issue a new rule that is substantially the same as such rule, unless the reissued or new rule is specifically authorized by a law enacted after the date of the enactment of this Act.
+- **(b)** *Exception* This section does not apply to any rule that the Federal Communications Commission determines necessary—
+  - **(1)** to prevent damage to the national security of the United States;
+  - **(2)** to ensure the public safety; or
+  - **(3)** to assist or facilitate any actions taken by a Federal or State law enforcement agency.
+- **(c)** *Rule defined* In this section, the term “rule” has the meaning given such term in section 804 of title 5, United States Code.
