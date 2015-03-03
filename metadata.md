@@ -1,7 +1,7 @@
 ---
 measure: H.R. 294
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 294
@@ -21,9 +21,10 @@ Long-Term Care Veterans Choice Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Long-Term Care Veterans Choice Act
 - 2015-03-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-35.
 - 2015-03-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-35.
 - 2015-03-02 — The title of the measure was amended. Agreed to without objection.
+- 2015-03-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
