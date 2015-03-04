@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1261
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1261
+
+> To amend the Consumer Financial Protection Act of 2010 to bring the Bureau of Consumer Financial Protection into the regular appropriations process, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bureau of Consumer Financial Protection Accountability Act of 2015”.
+
+## § 2. Bringing the Bureau into the regular appropriations process
+
+Section 1017 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5497) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by amending the heading of such subsection to read as follows: “Budget, financial management, and audit.—”;
+  - **(B)** by striking paragraphs (1), (2), and (3);
+  - **(C)** by redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively; and
+  - **(D)** in paragraph (1), as so redesignated—
+    - **(i)** by striking subparagraph (E); and
+    - **(ii)** by redesignating subparagraph (F) as subparagraph (E);
+- **(2)** by striking subsections (b) and (c);
+- **(3)** by redesignating subsections (d) and (e) as subsections (b) and (c), respectively; and
+- **(4)** in subsection (c), as so redesignated—
+  - **(A)** by striking paragraphs (1), (2), and (3) and inserting the following:
+    > - **(1)** *Authorization of appropriations* There is authorized to be appropriated such funds as may be necessary to carry out this title for fiscal year 2017.
+
+  - **(B)** by redesignating paragraph (4) as paragraph (2).
