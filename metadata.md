@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 8
@@ -74,6 +74,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (2)
+
+- 2015-03-03 — [Senate 114-1-66](votes/senate-114-1-0066.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–45)
+- 2015-03-04 — [Senate 114-1-67](votes/senate-114-1-0067.md) — On the Joint Resolution — **Joint Resolution Passed** (53–46)
+
 ## Actions
 
 - 2015-02-09 — Introduced in Senate
@@ -81,3 +86,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-02-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
 - 2015-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S1030; text: CR 2/24/2015 S1072)
 - 2015-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S1030; text: CR 2/24/2015 S1072)
+- 2015-03-03 — Measure laid before Senate by motion. (consideration: CR S1229-1244, S1257-1260, S1260-1261)
+- 2015-03-03 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 66. (consideration: CR S1229)
+- 2015-03-04 — Considered by Senate. (consideration: CR S1264-1274)
+- 2015-03-04 — Held at the desk.
+- 2015-03-04 — Message on Senate action sent to the House.
+- 2015-03-04 — Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67. (text: CR S1274)
+- 2015-03-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67.(text: CR S1274)
+- 2015-03-04 — Received in the House.
