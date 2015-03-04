@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1213
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1213
@@ -29,3 +29,10 @@ Office of Compliance Administrative and Technical Corrections Act of 2015
 - 2015-03-03 — Introduced in House
 - 2015-03-03 — Introduced in House
 - 2015-03-03 — Referred to the House Committee on House Administration.
+- 2015-03-04 — Committee on House Administration discharged. (consideration: CR H1603)
+- 2015-03-04 — Committee on House Administration discharged.(consideration: CR H1603)
+- 2015-03-04 — Considered by unanimous consent. (consideration: CR H1603)
+- 2015-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-04 — Mrs. Comstock asked unanimous consent to discharge from committee and consider. (consideration: CR H1603)
+- 2015-03-04 — On passage Passed without objection. (text: CR H1603)
+- 2015-03-04 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1603)
