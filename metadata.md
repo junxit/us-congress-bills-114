@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 8
@@ -74,10 +74,12 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2015-03-03 — [Senate 114-1-66](votes/senate-114-1-0066.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–45)
 - 2015-03-04 — [Senate 114-1-67](votes/senate-114-1-0067.md) — On the Joint Resolution — **Joint Resolution Passed** (53–46)
+- 2015-03-19 — [House 114-1-128](votes/house-114-1-0128.md) — On Passage — **Passed** (232–186)
+- 2015-05-05 — [Senate 114-1-172](votes/senate-114-1-0172.md) — On the Motion to Table — **Motion to Table Agreed to** (96–3)
 
 ## Actions
 
@@ -94,3 +96,21 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-03-04 — Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67. (text: CR S1274)
 - 2015-03-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67.(text: CR S1274)
 - 2015-03-04 — Received in the House.
+- 2015-03-17 — Rules Committee Resolution H. Res. 152 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.
+- 2015-03-19 — Considered under the provisions of rule H. Res. 152. (consideration: CR H1782-1788)
+- 2015-03-19 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 8.
+- 2015-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-19 — On passage Passed by the Yeas and Nays: 232 - 186 (Roll no. 128). (text: CR H1782)
+- 2015-03-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 186 (Roll no. 128).(text: CR H1782)
+- 2015-03-19 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.
+- 2015-03-19 — Rule H. Res. 152 passed House.
+- 2015-03-19 — The previous question was ordered pursuant to the rule. (consideration: CR H1788)
+- 2015-03-27 — Presented to President.
+- 2015-03-27 — Presented to President.
+- 2015-03-31 — Veto message received in Senate. Ordered held at the desk.
+- 2015-03-31 — Vetoed by President. (text of veto message: CR 4/13/2015 S2094, S2107)
+- 2015-03-31 — Vetoed by President.(text of veto message: CR 4/13/2015 S2094, S2107)
+- 2015-04-30 — Veto Message considered in Senate. (consideration: CR S2549-2550)
+- 2015-05-04 — Veto Message considered in Senate. (consideration: CR S2594, S2596-2597)
+- 2015-05-05 — Motion to table the veto message to accompany S. J. Res. 8 agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 172. (consideration: CR S2644)
+- 2015-05-05 — Veto Message considered in Senate. (consideration: CR S2613, S2644)
