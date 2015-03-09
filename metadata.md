@@ -1,7 +1,7 @@
 ---
 measure: H.R. 749
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 749
@@ -31,9 +31,10 @@ Passenger Rail Reform and Investment Act of 2015
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (3)
 
@@ -122,3 +123,4 @@ Passenger Rail Reform and Investment Act of 2015
 - 2015-03-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 749.
 - 2015-03-04 — The Speaker designated the Honorable Andy Harris to act as Chairman of the Committee.
 - 2015-03-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-03-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
