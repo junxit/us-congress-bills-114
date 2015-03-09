@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1213
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1213
@@ -38,3 +38,10 @@ Office of Compliance Administrative and Technical Corrections Act of 2015
 - 2015-03-04 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1603)
 - 2015-03-09 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1328)
 - 2015-03-09 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1328)
+- 2015-03-10 — Message on Senate action sent to the House.
+- 2015-03-12 — Presented to President.
+- 2015-03-12 — Presented to President.
+- 2015-03-20 — Became Public Law No: 114-6.
+- 2015-03-20 — Became Public Law No: 114-6.
+- 2015-03-20 — Signed by President.
+- 2015-03-20 — Signed by President.
