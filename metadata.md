@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1213
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1213
@@ -36,3 +36,5 @@ Office of Compliance Administrative and Technical Corrections Act of 2015
 - 2015-03-04 — Mrs. Comstock asked unanimous consent to discharge from committee and consider. (consideration: CR H1603)
 - 2015-03-04 — On passage Passed without objection. (text: CR H1603)
 - 2015-03-04 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1603)
+- 2015-03-09 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1328)
+- 2015-03-09 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1328)
