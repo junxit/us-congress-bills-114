@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 93
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 93
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding the courageous work an
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -37,6 +37,7 @@ A resolution expressing the sense of the Senate regarding the courageous work an
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
 
@@ -46,3 +47,7 @@ A resolution expressing the sense of the Senate regarding the courageous work an
 
 - 2015-03-02 — Introduced in Senate
 - 2015-03-02 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1219-1220)
+- 2015-03-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-03-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-03-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1395)
+- 2015-03-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1395)
