@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 7
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 7
@@ -38,3 +38,11 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2015-03-12 — Resolution agreed to in Senate without amendment by Unanimous Consent.
 - 2015-03-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S1509)
 - 2015-03-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S1509)
+- 2015-03-16 — Considered by unanimous consent. (consideration: CR H1651-1652)
+- 2015-03-16 — Held at the desk.
+- 2015-03-16 — Message on Senate action sent to the House.
+- 2015-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-16 — Mrs. Miller (MI) asked unanimous consent to take from the Speaker's table and consider.
+- 2015-03-16 — On agreeing to the resolution Agreed to without objection. (text: CR H1651-1652)
+- 2015-03-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1651-1652)
+- 2015-03-16 — Received in the House.
