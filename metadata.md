@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 7
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 7
@@ -16,7 +16,7 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -24,6 +24,7 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - 2015-03-03 — Introduced in Senate
 - 2015-03-03 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S1255)
+- 2015-03-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2015-03-12 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2015-03-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S1509)
+- 2015-03-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S1509)
