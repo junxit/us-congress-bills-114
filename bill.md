@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 1357
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1357
+
+> To amend title 38, United States Code, to limit the designation of certain Department of Veterans Affairs employees as beneficiaries under Veterans’ Group Life Insurance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Beneficiary Fraud Enforcement Act”.
+
+## § 2. Limitation on designation of Department of Veterans Affairs employees as beneficiaries of insured’s Veterans’ Group Life Insurance
+
+- **(a)** *Limitation on designation of beneficiaries*
+  - **(1)** *In general* Subsection (d) of section 1977 of title 38, United States Code, is amended—
+    - **(A)** by striking “Any amount” and inserting “(1) Any amount”; and
+    - **(B)** by adding at the end the following new paragraph:
+      > - **(2)** An insured under Veterans’ Group Life Insurance may not designate as a beneficiary for such insurance any employee of the Department who is in a position of trust with the insured, as determined by the Secretary, including any doctor, caregiver, or caseworker working directly with the insured, unless such employee is the spouse, child, parent, or other next of kin of the insured.
+
+  - **(2)** *Applicability* Paragraph (2) of subsection (d) of section 1977 of title 38, United States Code, shall apply with respect to Veterans’ Group Life Insurance issued on or after the date of the enactment of this Act.
+- **(b)** *Reporting of suspected beneficiary fraud* Such section is further amended by adding at the end the following new subsection:
+  > - **(i)** The Secretary shall refer to an appropriate legal authority any incident of suspected or alleged fraud relating to the designation of any beneficiary under any Veterans’ Group Life Insurance.
