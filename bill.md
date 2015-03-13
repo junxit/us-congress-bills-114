@@ -15,26 +15,21 @@ This Act may be cited as the “Notice of Observation Treatment and Implication 
 
 ## § 2. Medicare requirement for hospital notifications of observation status
 
-- **(a)** *In general* Section 1866(a)(1) of the Social Security Act (42 U.S.C. 1395cc(a)(1)) is amended—
-  - **(1)** in subparagraph (V), by striking at the end “and”;
-  - **(2)** in the first subparagraph (W), by striking at the end the period and inserting a comma;
-  - **(3)** in the second subparagraph (W)—
-    - **(A)** by redesignating such subparagraph as subparagraph (X); and
-    - **(B)** by striking at the end the period and inserting “, and”; and
-  - **(4)** by inserting after such subparagraph (X) the following new subparagraph:
-    > - **(Y)** in the case of a hospital, to provide to each individual who is entitled to benefits under part A and who the hospital classifies for more than 24 hours as an outpatient under observation status or any other similar status, as the Secretary determines appropriate (or to a person acting on the individual’s behalf), not later than 36 hours after the time of such classification of such individual under such status (or, if sooner, upon discharge), an adequate oral and written notification (as defined by the Secretary pursuant to rulemaking and containing such language as the Secretary prescribes consistent with this paragraph) which—
-    >   - **(i)** explains the status of the individual as an outpatient under such observation status or any other such similar status and not as an inpatient of the hospital;
-    >   - **(ii)** explains the reason for the classification of such individual under such status;
-    >   - **(iii)** explains the implications of such status as an outpatient on—
-    >     - **(I)** eligibility for coverage of items and services under this title, including such items and services furnished by the hospital with respect to such individual while under such status and for items and services under this title for a subsequent discharge to a skilled nursing facility or other facility; and
-    >     - **(II)** cost-sharing requirements under this title, including with respect to items and services furnished by the hospital to such individual while under such status and with respect to items and services under this title for a subsequent discharge to a skilled nursing facility or other facility;
-    >   - **(iv)** includes the name and title of the staff of the hospital who provided the oral notification and the date and time of such oral notification;
-    >   - **(v)** includes such additional information as the Secretary deems appropriate; and
-    >   - **(vi)** in the case of the written notification—
-    >     - **(I)** is signed—
-    >       - **(aa)** by such individual or a person acting on such individual’s behalf to acknowledge receipt of such notification; or
-    >       - **(bb)** if such individual or person refuses to provide the signature, by the staff of the hospital who presented the written notification, who shall include his or her name and title, a certification that the notification was presented, and the date and time the notification was presented;
-    >     - **(II)** is written and formatted using language that is clear and easily understandable to Medicare beneficiaries; and
-    >     - **(III)** is made available in different languages, as specified by the Secretary.
+Section 1866(a)(1) of the Social Security Act (42 U.S.C. 1395cc(a)(1)) is amended—
 
-- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to items and services furnished on or after the date that is six months after the date of the enactment of this Act.
+- **(1)** in subparagraph (V), by striking at the end “and”;
+- **(2)** in the first subparagraph (W), by striking at the end the period and inserting a comma;
+- **(3)** in the second subparagraph (W)—
+  - **(A)** by redesignating such subparagraph as subparagraph (X); and
+  - **(B)** by striking at the end the period and inserting “, and”; and
+- **(4)** by inserting after such subparagraph (X) the following new subparagraph:
+  > - **(Y)** beginning 12 months after the date of the enactment of this subparagraph, in the case of a hospital or critical access hospital, with respect to each individual who receives observation services as an outpatient at such hospital or critical access hospital for more than 24 hours, to provide to such individual not later than 36 hours after the time such individual begins receiving such services (or, if sooner, upon release)—
+  >   - **(i)** such oral explanation of the written notification described in clause (ii), and such documentation of the provision of such explanation, as the Secretary determines to be appropriate;
+  >   - **(ii)** a written notification (as specified by the Secretary pursuant to rulemaking and containing such language as the Secretary prescribes consistent with this paragraph) which—
+  >     - **(I)** explains the status of the individual as an outpatient receiving observation services and not as an inpatient of the hospital or critical access hospital and the reasons for such status of such individual;
+  >     - **(II)** explains the implications of such status on services furnished by the hospital or critical access hospital (including services furnished on an inpatient basis), such as implications for cost-sharing requirements under this title and for subsequent eligibility for coverage under this title for services furnished by a skilled nursing facility;
+  >     - **(III)** includes such additional information as the Secretary determines appropriate;
+  >     - **(IV)** either—
+  >       - **(aa)** is signed by such individual or a person acting on such individual’s behalf to acknowledge receipt of such notification; or
+  >       - **(bb)** if such individual or person refuses to provide the signature described in item (aa), is signed by the staff member of the hospital or critical access hospital who presented the written notification and includes the name and title of such staff member, a certification that the notification was presented, and the date and time the notification was presented; and
+  >     - **(V)** is written and formatted using plain language and is made available in appropriate languages as determined by the Secretary.
