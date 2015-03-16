@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1384
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1384
+
+> To amend title 38, United States Code, to recognize the service in the reserve components of certain persons by honoring them with status as veterans under law.
+
+## § 1. Short title
+
+This Act may be cited as the “Honor America’s Guard-Reserve Retirees Act”.
+
+## § 2. Provision of status under law by honoring certain members of the reserve components as veterans
+
+- **(a)** *Veteran status*
+  - **(1)** *In general* Chapter 1 of title 38, United States Code, is amended by inserting after section 107 the following new section:
+    > ## § 107A. Honoring as veterans certain persons who performed service in the reserve components
+    >
+    > Any person who is entitled under chapter 1223 of title 10 to retired pay for nonregular service or, but for age, would be entitled under such chapter to retired pay for nonregular service shall be honored as a veteran but shall not be entitled to any benefit by reason of this section.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 107 the following new item:
+- **(b)** *Clarification regarding benefits* No person may receive any benefit under the laws administered by the Secretary of Veterans Affairs solely by reason of section 107A of title 38, United States Code, as added by subsection (a).
