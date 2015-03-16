@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 876
@@ -27,6 +27,10 @@ Notice of Observation Treatment and Implication for Care Eligibility Act
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2015-03-16 — [House 114-1-115](votes/house-114-1-0115.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–0)
+
 ## Actions
 
 - 2015-02-11 — Introduced in House
@@ -43,3 +47,11 @@ Notice of Observation Treatment and Implication for Care Eligibility Act
 - 2015-03-13 — Placed on the Union Calendar, Calendar No. 25.
 - 2015-03-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-39, Part I.
 - 2015-03-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-39, Part I.
+- 2015-03-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-03-16 — Considered as unfinished business. (consideration: CR H1650-1651)
+- 2015-03-16 — Considered under suspension of the rules. (consideration: CR H1644-1646)
+- 2015-03-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 876.
+- 2015-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-16 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
+- 2015-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115). (text: CR H1644)
+- 2015-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115).(text: CR H1644)
