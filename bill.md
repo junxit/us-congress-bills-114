@@ -13,15 +13,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the ‘‘Medicare DMEPOS Competitive Bidding Improvement Act of 2015’’.
 
-## § 2. Requiring State licensure and bid surety bonds for entities submitting bids under the Medicare DMEPOS competitive acquisition program
+## § 2. Requiring bid surety bonds and State licensure for entities submitting bids under the Medicare DMEPOS competitive acquisition program
 
-Section 1847(a)(1) of the Social Security Act (42 U.S.C. 1395w–3(a)(1)) is amended by adding at the end the following new subparagraphs:
+- **(a)** *Bid surety bonds* Section 1847(a)(1) of the Social Security Act (42 U.S.C. 1395w–3(a)(1)) is amended by adding at the end the following new subparagraphs:
+  > - **(G)** *Requiring bid bonds for bidding entities* With respect to rounds of competitions beginning under this subsection for contracts beginning not earlier than January 1, 2017, and not later than January 1, 2019, an entity may not submit a bid for a competitive acquisition area unless, as of the deadline for bid submission, the entity has obtained (and provided the Secretary with proof of having obtained) a bid surety bond (in this paragraph referred to as a “bid bond”) in a form specified by the Secretary consistent with subparagraph (H) and in an amount that is not less than $50,000 and not more than $100,000 for each competitive acquisition area in which the entity submits the bid.
+  > - **(H)** *Treatment of bid bonds submitted*
+  >   - **(i)** *For bidders that submit bids at or below the median and are offered but do not accept the contract* In the case of a bidding entity that is offered a contract for any product category for a competitive acquisition area, if—
+  >     - **(I)** the entity’s composite bid for such product category and area was at or below the median composite bid rate for all bidding entities included in the calculation of the single payment amounts for such product category and area; and
+  >     - **(II)** the entity does not accept the contract offered for such product category and area,
+  >   - **(ii)** *Treatment of other bidders* In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.
 
-> - **(G)** *Requiring state licensure and bid bonds for bidding entities* With respect to rounds of competitions beginning under this subsection on or after the date of enactment of this subparagraph, the Secretary may not accept a bid from an entity for an area unless, as of the deadline for bid submission—
->   - **(i)** the entity meets applicable State licensure requirements for such area for all items in such bid for a product category; and
->   - **(ii)** the entity has obtained (and provided the Secretary with proof of having obtained) a bid surety bond (in this paragraph referred to as a “bid bond”) in a form specified by the Secretary consistent with subparagraph (H) and in an amount that is not less than $50,000 and not more than $100,000 for each such area.
-> - **(H)** *Treatment of bid bonds submitted*
->   - **(i)** *For successful bidders that do not accept the contract* In the case of a bidding entity that is offered a contract for an area for a product category, if the entity’s composite bid—
->     - **(I)** is at or below the product category’s median composite bid rate for the area and the entity does not accept the contract offered for the product and area, the bid bond submitted shall be forfeited by the bidding entity and the Secretary shall collect on it; or
->     - **(II)** is above such median composite bid rate and the entity chooses not to accept a contract for the product category, the bid bond submitted shall be returned within 90 days of the date of notice of nonacceptance.
->   - **(ii)** *For losing bidders* If a bidding entity submits a bid that is not accepted for an area, the bid bond submitted for the entity for such area shall be returned within 90 days of the date of notice of nonacceptance.
+- **(b)** *State licensure*
+  - **(1)** *In general* Section 1847(b)(2)(A) of the Social Security Act (42 U.S.C. 1395w–3(b)(2)(A)) is amended by adding at the end the following new clause:
+    > - **(v)** The entity meets applicable State licensure requirements.
+
+  - **(2)** *Construction* Nothing in the amendment made by paragraph (1) shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) before the date of the enactment of this Act.
+- **(c)** *GAO report on bid bond impact on small suppliers*
+  - **(1)** *Study* The Comptroller General of the United States shall conduct a study that evaluates the effect of the bid surety bond requirement under the amendment made by subsection (a) on the participation of small suppliers in the Medicare DMEPOS competitive acquisition program under section 1847 of the Social Security Act (42 U.S.C. 1395w–3).
+  - **(2)** *Report* Not later than 6 months after the date contracts are first awarded subject to such bid surety bond requirement, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). Such report shall include recommendations for changes in such requirement in order to ensure robust participation by legitimate small suppliers in the Medicare DMEPOS competition acquisition program.
