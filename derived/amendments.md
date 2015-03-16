@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -38,6 +38,6 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360ccc-1` | add-at-end | Section 572 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ccc–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360ccc-2` | add-at-end | Section 573(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ccc–2(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 811` | insert | Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | in subsection (d)(1), in the matter preceding subparagraph (A), by inserting “, or in the case of a drug product described in subsection (i) within the 60-day period beginning on the covered date (as defined in subsection (i))” after “ma… | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355` | insert | in subsection (d)(1), in the matter preceding subparagraph (A), by inserting “, or in the case of a drug product described in subsection (i) within the sixty-day period beginning on the covered date (as defined in subsection (i))” after … | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
