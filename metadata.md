@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 876
@@ -57,3 +57,14 @@ Notice of Observation Treatment and Implication for Care Eligibility Act
 - 2015-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115). (text: CR H1644)
 - 2015-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115).(text: CR H1644)
 - 2015-03-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2015-07-27 — Message on Senate action sent to the House.
+- 2015-07-27 — Passed Senate without amendment by Unanimous Consent.
+- 2015-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-07-27 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S5920-5921)
+- 2015-07-27 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S5920-5921)
+- 2015-07-29 — Presented to President.
+- 2015-07-29 — Presented to President.
+- 2015-08-06 — Became Public Law No: 114-42.
+- 2015-08-06 — Became Public Law No: 114-42.
+- 2015-08-06 — Signed by President.
+- 2015-08-06 — Signed by President.
