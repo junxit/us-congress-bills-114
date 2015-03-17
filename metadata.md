@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 876
@@ -22,10 +22,11 @@ Notice of Observation Treatment and Implication for Care Eligibility Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Rangel, Charles B. [D-NY-13] (R000053)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Notice of Observation Treatment and Implication for Care Eligibility Act
 - 2015-03-16 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
 - 2015-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115). (text: CR H1644)
 - 2015-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 115).(text: CR H1644)
+- 2015-03-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
