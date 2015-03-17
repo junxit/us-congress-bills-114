@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 639
@@ -22,10 +22,11 @@ Improving Regulatory Transparency for New Medical Therapies Act
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Improving Regulatory Transparency for New Medical Therapies Act
 - 2015-03-16 — Placed on the Union Calendar, Calendar No. 26.
 - 2015-03-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-41, Part I.
 - 2015-03-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-41, Part I.
+- 2015-03-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

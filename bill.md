@@ -2,7 +2,7 @@
 legis-num: H.R. 639
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 639
@@ -60,11 +60,11 @@ This Act may be cited as the “Improving Regulatory Transparency for New Medica
   >   - **(3)** A rule issued by the Attorney General under paragraph (1) shall be in accordance with the procedures provided in subsection (a), except that the rule shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor. After publication of the interim final rule, the Attorney General shall issue a final rule in accordance with the procedures provided in subsection (a).
 
 - **(c)** *Extension of patent term* Section 156 of title 35, United States Code, is amended—
-  - **(1)** in subsection (d)(1), in the matter preceding subparagraph (A), by inserting “, or in the case of a drug product described in subsection (i) within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”; and
+  - **(1)** in subsection (d)(1), in the matter preceding subparagraph (A), by inserting “, or in the case of a drug product described in subsection (i) within the 60-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”; and
   - **(2)** by adding at the end the following:
     > - **(i)**
     >   - **(1)** For purposes of this section, if the Secretary of Health and Human Services provides notice to the sponsor of an application or request for approval, conditional approval, or indexing of a drug product for which the Secretary intends to recommend controls under the Controlled Substances Act, beginning on the covered date, the drug product shall be considered to—
-    >     - **(A)** have been approved; and
+    >     - **(A)** have been approved under the relevant provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act; and
     >     - **(B)** have permission for commercial marketing or use.
     >   - **(2)** In this subsection, the term covered date means the later of—
     >     - **(A)** the date an application is approved—
