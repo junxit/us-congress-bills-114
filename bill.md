@@ -19,7 +19,7 @@ This Act may be cited as the “Protecting Volunteer Firefighters and Emergency 
   > - **(5)** *Special rules for certain emergency services, government, and nonprofit volunteers*
   >   - **(A)** *Emergency services volunteers* Qualified services rendered as a bona fide volunteer to an eligible employer shall not be taken into account under this section as service provided by an employee. For purposes of the preceding sentence, the terms “qualified services”, “bona fide volunteer”, and “eligible employer” shall have the respective meanings given such terms under section 457(e).
   >   - **(B)** *Certain other government and nonprofit volunteers*
-  >     - **(I)** *In general* Services rendered as a bona fide volunteer to a specified employer shall not be taken into account under this section as service provided by an employee.
+  >     - **(i)** *In general* Services rendered as a bona fide volunteer to a specified employer shall not be taken into account under this section as service provided by an employee.
   >     - **(ii)** *Bona fide volunteer* For purposes of this subparagraph, the term “bona fide volunteer” means an employee of a specified employer whose only compensation from such employer is in the form of—
   >       - **(I)** reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performance of services by volunteers, or
   >       - **(II)** reasonable benefits (including length of service awards), and nominal fees, customarily paid by similar entities in connection with the performance of services by volunteers.
