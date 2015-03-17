@@ -1,7 +1,7 @@
 ---
 measure: H.R. 647
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 647
@@ -29,9 +29,10 @@ Access to Life-Saving Trauma Care for All Americans Act
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Access to Life-Saving Trauma Care for All Americans Act
 - 2015-03-16 — Placed on the Union Calendar, Calendar No. 27.
 - 2015-03-16 — Reported by the Committee on Energy and Commerce. H. Rept. 114-42.
 - 2015-03-16 — Reported by the Committee on Energy and Commerce. H. Rept. 114-42.
+- 2015-03-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
