@@ -1,7 +1,7 @@
 ---
 measure: H.R. 284
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 284
@@ -82,10 +82,11 @@ Medicare DMEPOS Competitive Bidding Improvement Act of 2015
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -106,3 +107,4 @@ Medicare DMEPOS Competitive Bidding Improvement Act of 2015
 - 2015-03-16 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
 - 2015-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1646)
 - 2015-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1646)
+- 2015-03-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
