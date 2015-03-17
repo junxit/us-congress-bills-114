@@ -23,17 +23,21 @@ This Act may be cited as the “EPA Science Advisory Board Reform Act of 2015”
   >     - **(A)** the scientific and technical points of view represented on and the functions to be performed by the Board are fairly balanced among the members of the Board;
   >     - **(B)** at least ten percent of the membership of the Board are from State, local, or tribal governments;
   >     - **(C)** persons with substantial and relevant expertise are not excluded from the Board due to affiliation with or representation of entities that may have a potential interest in the Board’s advisory activities, so long as that interest is fully disclosed to the Administrator and the public and appointment to the Board complies with section 208 of title 18, United States Code;
-  >     - **(D)** in the case of a Board advisory activity on a particular matter involving a specific party, no Board member having an interest in the specific party shall participate in that activity;
+  >     - **(D)** in the case of a Board advisory activity on a particular matter involving, or for which the Board has evidence that it may involve, a specific party, no Board member having an interest in the specific party shall participate in that activity;
   >     - **(E)** Board members may not participate in advisory activities that directly or indirectly involve review or evaluation of their own work, unless fully disclosed to the public and the work has been externally peer-reviewed;
-  >     - **(F)** Board members shall be designated as special Government employees; and
-  >     - **(G)** no registered lobbyist is appointed to the Board.
+  >     - **(F)** Board members shall be designated as special Government employees;
+  >     - **(G)** no registered lobbyist is appointed to the Board; and
+  >     - **(H)** a Board member shall have no current grants or contracts from the Environmental Protection Agency and shall not apply for a grant or contract for 3 years following the end of that member’s service on the Board.
   >   - **(3)** The Administrator shall—
   >     - **(A)** solicit public nominations for the Board by publishing a notification in the Federal Register;
   >     - **(B)** solicit nominations from relevant Federal agencies, including the Departments of Agriculture, Defense, Energy, the Interior, and Health and Human Services;
-  >     - **(C)** make public the list of nominees, including the identity of the entities that nominated each, and shall accept public comment on the nominees;
-  >     - **(D)** require that, upon their provisional nomination, nominees shall file a written report disclosing financial relationships and interests, including Environmental Protection Agency grants, contracts, cooperative agreements, or other financial assistance, that are relevant to the Board’s advisory activities for the three-year period prior to the date of their nomination, and relevant professional activities and public statements for the five-year period prior to the date of their nomination; and
-  >     - **(E)** make such reports public, with the exception of specific dollar amounts, for each member of the Board upon such member’s selection.
-  >   - **(4)** Disclosure of relevant professional activities under paragraph (3)(D) shall include all representational work, expert testimony, and contract work as well as identifying the party for which the work was done.
+  >     - **(C)** solicit nominations from—
+  >       - **(i)** institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))); and
+  >       - **(ii)** scientific and research institutions based in work relevant to that of the Board;
+  >     - **(D)** make public the list of nominees, including the identity of the entities that nominated each, and shall accept public comment on the nominees;
+  >     - **(E)** require that, upon their provisional nomination, nominees shall file a written report disclosing financial relationships and interests, including Environmental Protection Agency grants, contracts, cooperative agreements, or other financial assistance, that are relevant to the Board’s advisory activities for the three-year period prior to the date of their nomination, and relevant professional activities and public statements for the five-year period prior to the date of their nomination; and
+  >     - **(F)** make such reports public, with the exception of specific dollar amounts, for each member of the Board upon such member’s selection.
+  >   - **(4)** Disclosure of relevant professional activities under paragraph (3)(E) shall include all representational work, expert testimony, and contract work as well as identifying the party for which the work was done.
   >   - **(5)** Except when specifically prohibited by law, the Agency shall make all conflict of interest waivers granted to members of the Board, member committees, or investigative panels publicly available.
   >   - **(6)** Any recusal agreement made by a member of the Board, a member committee, or an investigative panel, or any recusal known to the Agency that occurs during the course of a meeting or other work of the Board, member committee, or investigative panel shall promptly be made public by the Administrator.
   >   - **(7)** The terms of the members of the Board shall be three years and shall be staggered so that the terms of no more than one-third of the total membership of the Board shall expire within a single fiscal year. No member shall serve more than two terms over a ten-year period.
