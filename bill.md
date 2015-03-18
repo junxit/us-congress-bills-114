@@ -1,0 +1,28 @@
+---
+legis-num: S. 795
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 795
+
+> To enhance whistleblower protection for contractor and grantee employees.
+
+## § 1. Enhancement of whistleblower protection for contractor and grantee employees
+
+- **(a)** *Protection for employees of grantees and subgrantees*
+  - **(1)** *Defense grants* Section 2409(a)(1) of title 10, United States Code, is amended by striking “or subcontractor” and inserting “, personal services contractor, subcontractor, grantee, or subgrantee”.
+  - **(2)** *Civilian grants* Section 4712(a)(1) of title 41, United States Code, is amended by striking “or grantee” and inserting “personal services contractor, grantee, or subgrantee”.
+- **(b)** *Prohibition on reimbursement for legal fees accrued in defense against reprisal claims*
+  - **(1)** *Defense contracts* Section 2324(k) of title 10, United States Code, is amended—
+    - **(A)** by inserting “or subcontractor” after “contractor” each place it appears;
+    - **(B)** by inserting “or subcontract” after “contract” each place it appears; and
+    - **(C)** in paragraph (1), by inserting “or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title” after “statute or regulation”.
+  - **(2)** *Civilian contracts*
+    - **(A)** *In general* Section 4310 of title 41, United States Code, is amended—
+      - **(i)** by inserting “or subcontractor” after “contractor” each place it appears;
+      - **(ii)** by inserting “or subcontract” after “contract” each place it appears; and
+      - **(iii)** in subsection (b)(1), by inserting “or to any other activity described in section 4712(a)(1) of this title” after “statute or regulation”.
+    - **(B)** *Conforming amendment* Section 4304(a)(15) of title 41, United States Code, is amended by inserting “or subcontractor” after “contractor”.
+- **(c)** *Inclusion of contract clause in contracts awarded before effective date* At the time of any major modification to a contract that was awarded before the date of the enactment of this Act, the head of the contracting agency shall include in the contract a contract clause providing for the applicability of the amendments made by this section and section 827 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1833).
