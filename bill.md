@@ -42,8 +42,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Preventing wrongful Medicare payments for items and services furnished to incarcerated individuals, individuals not lawfully present, and deceased individuals
 
-- **(a)** *Requirement for the Secretary To Establish Policies and Claims Edits Relating to Incarcerated Individuals, Individuals Not Lawfully Present, and Deceased Individuals* Section 1874 of the Social Security Act (42 U.S.C. 1395kk) is amended by adding at the end the following new subsection:
-  > - **(f)** *Requirement for the Secretary To Establish Policies and Claims Edits Relating to Incarcerated Individuals, Individuals Not Lawfully Present, and Deceased Individuals* The Secretary shall establish and maintain procedures, including procedures for using claims processing edits, updating eligibility information to improve provider accessibility, and conducting recoupment activities such as through recovery audit contractors, in order to ensure that payment is not made under this title for items and services furnished to an individual who is one of the following:
+- **(a)** *Requirement for the Secretary to establish policies and claims edits relating to incarcerated individuals, individuals not lawfully present, and deceased individuals* Section 1874 of the Social Security Act (42 U.S.C. 1395kk) is amended by adding at the end the following new subsection:
+  > - **(f)** *Requirement for the Secretary to establish policies and claims edits relating to incarcerated individuals, individuals not lawfully present, and deceased individuals* The Secretary shall establish and maintain procedures, including procedures for using claims processing edits, updating eligibility information to improve provider accessibility, and conducting recoupment activities such as through recovery audit contractors, in order to ensure that payment is not made under this title for items and services furnished to an individual who is one of the following:
   >   - **(1)** An individual who is incarcerated.
   >   - **(2)** An individual who is not lawfully present in the United States and who is not eligible for coverage under this title.
   >   - **(3)** A deceased individual.
@@ -52,7 +52,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 4. Consideration of measures regarding Medicare beneficiary smart cards
 
-To the extent the Secretary of Health and Human Services determines that it is cost effective and technologically viable to use electronic Medicare beneficiary and provider cards (such as cards that use smart card technology, including an embedded and secure integrated circuit chip), as presented in the Government Accountability Office report required by the conference report accompanying the Consolidated Appropriations Act, 2014 (Public Law 113–76), the Secretary shall consider such measures as determined appropriate by the Secretary to implement such use of such cards for beneficiary and provider use under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). In the case that the Secretary considers measures under the preceding sentence, the Secretary shall submit to the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and to the Committee on Finance of the Senate, a report outlining the considerations undertaken by the Secretary under such sentence.
+To the extent the Secretary of Health and Human Services determines that it is cost effective and technologically viable to use electronic Medicare beneficiary and provider cards (such as cards that use smart card technology, including an embedded and secure integrated circuit chip), as presented in the Government Accountability Office report required by the conference report accompanying the Consolidated Appropriations Act, 2014 (Public Law 113–76), the Secretary shall consider such measures as determined appropriate by the Secretary to implement such use of such cards for beneficiary and provider use under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). In the case that the Secretary considers measures under the preceding sentence, the Secretary shall submit to the Committees on Ways and Means and on Energy and Commerce of the House of Representatives, and to the Committee on Finance of the Senate, a report outlining the considerations undertaken by the Secretary under such sentence.
 
 ## § 5. Modifying medicare durable medical equipment face-to-face encounter documentation requirement
 
@@ -96,7 +96,7 @@ To the extent the Secretary of Health and Human Services determines that it is c
       >   - **(5)** *Communications* Communications with providers of services and suppliers under an improper payment outreach and education program are subject to the standards and requirements of subsection (g).
 
 - **(b)** *Use of certain funds recovered by RACs* Section 1893(h) of the Social Security Act (42 U.S.C. 1395ddd(h)) is amended—
-  - **(1)** in paragraph (2), by inserting “or section 1874(h)(6)” after “paragraph (1)(C)”; and
+  - **(1)** in paragraph (2), by inserting “or paragraph (10)” after “paragraph (1)(C)”; and
   - **(2)** by adding at the end the following new paragraph:
     > - **(10)** *Use of certain recovered funds*
     >   - **(A)** *In general* After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1833(z), 1834(l)(16), and 1874A(a)(4)(G), carrying out section 16(b) of the Protecting the Integrity of Medicare Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this title. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
@@ -105,7 +105,7 @@ To the extent the Secretary of Health and Human Services determines that it is c
 
 ## § 7. Improving senior Medicare patrol and fraud reporting rewards
 
-- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall develop a plan to revise the incentive program under section 203(b) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1395b–5(b)) to encourage greater participation by individuals to report fraud and abuse in the Medicare program. Such plan shall include recommendations for—
+- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall develop a plan to revise the incentive program under section 203(b) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1395b- 5(b)) to encourage greater participation by individuals to report fraud and abuse in the Medicare program. Such plan shall include recommendations for—
   - **(1)** ways to enhance rewards for individuals reporting under the incentive program, including rewards based on information that leads to an administrative action; and
   - **(2)** extending the incentive program to the Medicaid program.
 - **(b)** *Public Awareness and Education Campaign* The plan developed under subsection (a) shall also include recommendations for the use of the Senior Medicare Patrols authorized under section 411 of the Older Americans Act of 1965 (42 U.S.C. 3032) to conduct a public awareness and education campaign to encourage participation in the revised incentive program under subsection (a).
@@ -116,10 +116,10 @@ To the extent the Secretary of Health and Human Services determines that it is c
 Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–104(c)) is amended by adding at the end the following new paragraph:
 
 > - **(4)** *Requiring valid prescriber National Provider Identifiers on pharmacy claims*
->   - **(A)** *In general* For plan year 2016 and subsequent plan years, the Secretary shall require a claim for a covered part D drug for a part D eligible individual enrolled in a prescription drug plan under this part or an MA–PD plan under part C to include a prescriber National Provider Identifier that is determined to be valid under the procedures established under subparagraph (B)(i).
+>   - **(A)** *In general* For plan year 2016 and subsequent plan years, the Secretary shall require a claim for a covered part D drug for a part D eligible individual enrolled in a prescription drug plan under this part or an MA-PD plan under part C to include a prescriber National Provider Identifier that is determined to be valid under the procedures established under subparagraph (B)(i).
 >   - **(B)** *Procedures*
 >     - **(i)** *Validity of prescriber National Provider Identifiers* The Secretary, in consultation with appropriate stakeholders, shall establish procedures for determining the validity of prescriber National Provider Identifiers under subparagraph (A).
->     - **(ii)** *Informing beneficiaries of reason for denial* The Secretary shall establish procedures to ensure that, in the case that a claim for a covered part D drug of an individual described in subparagraph (A) is denied because the claim does not meet the requirements of this paragraph, the individual is properly informed at the point of service of the reason for the denial.
+>     - **(ii)** *Informing beneficiaries of reason for denial* The Secretary shall establish procedures to ensure that, in the case that a claim for a covered part D drug of an individual described in subparagaph (A) is denied because the claim does not meet the requirements of this paragraph, the individual is properly informed at the point of service of the reason for the denial.
 >   - **(C)** *Report* Not later than January 1, 2018, the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
 
 ## § 9. Option to receive Medicare Summary Notice electronically
@@ -151,7 +151,7 @@ Section 1893(g) of the Social Security Act (42 U.S.C. 1395ddd(g)) is amended by 
 
 ## § 12. Programs to prevent prescription drug abuse under Medicare part D
 
-- **(a)** *Drug Management Program for At-Risk Beneficiaries*
+- **(a)** *Drug management program for at-risk beneficiaries*
   - **(1)** *In general* Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–10(c)), as amended by section 8, is further amended by adding at the end the following:
     > - **(5)** *Drug management program for at-risk beneficiaries*
     >   - **(A)** *Authority to establish* A PDP sponsor may establish a drug management program for at-risk beneficiaries under which, subject to subparagraph (B), the PDP sponsor may, in the case of an at-risk beneficiary for prescription drug abuse who is an enrollee in a prescription drug plan of such PDP sponsor, limit such beneficiary’s access to coverage for frequently abused drugs under such plan to frequently abused drugs that are prescribed for such beneficiary by a prescriber selected under subparagraph (D), and dispensed for such beneficiary by a pharmacy selected under such subparagraph.
@@ -203,9 +203,8 @@ Section 1893(g) of the Social Security Act (42 U.S.C. 1395ddd(g)) is amended by 
     >       - **(II)** the end of such maximum period of identification as the Secretary may specify.
     >     - **(ii)** *Rule of construction* Nothing in clause (i) shall be construed as preventing a plan from identifying an individual as an at-risk beneficiary for prescription drug abuse under subparagraph (C)(i) after such termination on the basis of additional information on drug use occurring after the date of notice of such termination.
     >   - **(G)** *Frequently abused drug* For purposes of this subsection, the term frequently abused drug means a drug that is determined by the Secretary to be frequently abused or diverted and that is—
-    >     - **(i)** a Controlled Drug Substance in Schedule CII–CIV;
-    >     - **(ii)** within the same class or category of drugs as a Controlled Drug Substance in Schedule CII–CIV, as determined through notice and comment rulemaking; or
-    >     - **(iii)** within another class or category of drugs that the Secretary determines in a transparent manner, in consultation with the Inspector General of the Department of Health and Human Services through notice and comment rulemaking, is at high risk for diversion or abuse.
+    >     - **(i)** a Controlled Drug Substance in Schedule CII; or
+    >     - **(ii)** within the same class or category of drugs as a Controlled Drug Substance in Schedule CII, as determined through notice and comment rulemaking.
     >   - **(H)** *Data disclosure* In the case of an at-risk beneficiary for prescription drug abuse whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, such PDP sponsor shall disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
     >   - **(I)** *Education* The Secretary shall provide education to enrollees in prescription drug plans of PDP sponsors and providers regarding the drug management program for at-risk beneficiaries described in this paragraph, including education—
     >     - **(i)** provided by medicare administrative contractors through the improper payment outreach and education program described in section 1874A(h); and
@@ -214,7 +213,7 @@ Section 1893(g) of the Social Security Act (42 U.S.C. 1395ddd(g)) is amended by 
   - **(2)** *Information for consumers* Section 1860D–4(a)(1)(B) of the Social Security Act (42 U.S.C. 1395w–104(a)(1)(B)) is amended by adding at the end the following:
     > - **(v)** The drug management program for at-risk beneficiaries under subsection (c)(5).
 
-- **(b)** *Utilization management programs* Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–104(c)), as amended by subsection (a) and section 8, is further amended—
+- **(b)** *Utilization management programs* Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–104(c)), as amended by subsection (a)(1) and section 8, is further amended—
   - **(1)** in paragraph (1), by inserting after subparagraph (D) the following new subparagraph:
     > - **(E)** A utilization management tool to prevent drug abuse (as described in paragraph (6)(A)).
 
@@ -277,13 +276,13 @@ Not later than one year after the date of the enactment of this section, the Sec
 
 ## § 14. Eliminating certain civil money penalties; gainsharing study and report
 
-- **(a)** *Eliminating Civil Money Penalties for Inducements to Physicians To Limit Services That Are Not Medically Necessary*
+- **(a)** *Eliminating civil money penalties for inducements to physicians to limit services that are not medically necessary*
   - **(1)** *In general* Section 1128A(b)(1) of the Social Security Act (42 U.S.C. 1320a–7a(b)(1)) is amended by inserting “medically necessary” after “reduce or limit”.
   - **(2)** *Effective date* The amendment made by paragraph (1) shall apply to payments made on or after the date of the enactment of this Act.
 - **(b)** *Gainsharing study and report* Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Inspector General of the Department of Health and Human Services, shall submit to Congress a report with options for amending existing fraud and abuse laws in, and regulations related to, titles XI and XVIII of the Social Security Act (42 U.S.C. 301 et seq.), through exceptions, safe harbors, or other narrowly targeted provisions, to permit gainsharing arrangements that otherwise would be subject to the civil money penalties described in paragraphs (1) and (2) of section 1128A(b) of such Act (42 U.S.C. 1320a–7a(b)), or similar arrangements between physicians and hospitals, and that improve care while reducing waste and increasing efficiency. The report shall—
   - **(1)** consider whether such provisions should apply to ownership interests, compensation arrangements, or other relationships;
   - **(2)** describe how the recommendations address accountability, transparency, and quality, including how best to limit inducements to stint on care, discharge patients prematurely, or otherwise reduce or limit medically necessary care; and
-  - **(3)** consider whether a portion of any savings generated by such arrangements (as compared to a historical benchmark or other metric specified by the Secretary to determine the impact of delivery and payment system changes under such title XVIII on expenditures made under such title) should accrue to the Medicare program under title XVIII of the Social Security Act.
+  - **(3)** consider whether a portion of any savings generated by such arrangements (as compared to an historical benchmark or other metric specified by the Secretary to determine the impact of delivery and payment system changes under such title XVIII on expenditures made under such title) should accrue to the Medicare program under title XVIII of the Social Security Act.
 
 ## § 15. Modification of Medicare home health surety bond condition of participation requirement
 
@@ -353,9 +352,9 @@ Section 1861(o)(7) of the Social Security Act (42 U.S.C. 1395x(o)(7)) is amended
 
 ## § 19. Plan for expanding data in annual CERT report
 
-Not later than March 25, 2015, the Secretary of Health and Human Services shall submit to the Committee on Finance of the Senate, and to the Committees on Energy and Commerce and Ways and Means of the House of Representatives—
+Not later than June 30, 2015, the Secretary of Health and Human Services shall submit to the Committee on Finance of the Senate, and to the Committees on Energy and Commerce and on Ways and Means of the House of Representatives—
 
-- **(1)** a plan for including, in the annual report of the Comprehensive Error Rate Testing (CERT) program, data on services (or groupings of services) (other than medical visits) paid under the physician fee schedule under section 1848 of the Social Security Act (42 U.S.C. 1395w–4) where the fee schedule amount is in excess of $250 and where the error rate is in excess of 20 percent; and
+- **(1)** a plan for including, in the annual report of the Comprehensive Error Rate Testing (CERT) program, data on services (or groupings of services) (other than medical visits) paid under the physician fee schedule under section 1848 of the Social Security Act (42 U.S.C. 1395w–4) where the fee schedule amount is in excess of 250 dollars and where the error rate is in excess of 20 percent; and
 - **(2)** to the extent practicable by such date, specific examples of services described in paragraph (1).
 
 ## § 20. Removing funds for Medicare Improvement Fund added by IMPACT Act of 2014

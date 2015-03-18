@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -67,7 +67,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395kk-1` | redesignate | by redesignating subparagraph (G) as subparagraph (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395kk-1` | insert | by inserting after subparagraph (F) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395kk-1` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ddd` | insert | in paragraph (2), by inserting “or section 1874(h)(6)” after “paragraph (1)(C)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ddd` | insert | in paragraph (2), by inserting “or paragraph (10)” after “paragraph (1)(C)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395ddd` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–104(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395b-7` | add-at-end | Section 1806 of the Social Security Act (42 U.S.C. 1395b–7) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1021
@@ -16,7 +16,7 @@ Protecting the Integrity of Medicare Act of 2015
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Cosponsors (26)
+## Cosponsors (31)
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Levin, Sander M. [D-MI-9] (L000263)
@@ -44,6 +44,11 @@ Protecting the Integrity of Medicare Act of 2015
 - Rep. Young, Todd [R-IN-9] (Y000064)
 - Rep. Holding, George [R-NC-13] (H001065)
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
 
 ## Committees (2)
 
@@ -57,3 +62,11 @@ Protecting the Integrity of Medicare Act of 2015
 - 2015-02-24 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-24 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-24 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-02-26 — Committee Consideration and Mark-up Session Held.
+- 2015-02-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-02-27 — Referred to the Subcommittee on Health.
+- 2015-03-18 — Committee on Energy and Commerce discharged.
+- 2015-03-18 — Committee on Energy and Commerce discharged.
+- 2015-03-18 — Placed on the Union Calendar, Calendar No. 29.
+- 2015-03-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-46, Part I.
+- 2015-03-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-46, Part I.
