@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1029
@@ -43,9 +43,10 @@ EPA Science Advisory Board Reform Act of 2015
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -107,3 +108,4 @@ EPA Science Advisory Board Reform Act of 2015
 - 2015-03-17 — The Speaker designated the Honorable Kevin Yoder to act as Chairman of the Committee.
 - 2015-03-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1692)
 - 2015-03-17 — The previous question was ordered pursuant to the rule. (consideration: CR H1691)
+- 2015-03-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
