@@ -1,0 +1,72 @@
+---
+legis-num: S. 789
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 789
+
+> To establish the Social Work Reinvestment Commission to provide independent counsel to Congress and the Secretary of Health and Human Services on policy issues related to recruitment, retention, research, and reinvestment in the profession of social work, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Dorothy I. Height and Whitney M. Young, Jr., Social Work Reinvestment Act”.
+- **(b)** *Table of contents*
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Although the poverty rate in the United States has slightly declined for the first time since 2006, to 14.5 percent in 2013, poverty remains a social issue for our Nation, especially for communities of color and women and children, who continue to experience higher than average poverty rates. Homeowners and those seeking to become homeowners continue to face challenges with high mortgage delinquency, mortgage loan interest rates, and threats of foreclosure. Joblessness and economic insecurity contribute to the incidence of mental illness, family violence, suicide, substance abuse, crime, and diminished capacity for health, family, and community functioning.
+- **(2)** Social workers form society’s social safety net. Social workers provide assistance, guidance, and resources to individuals, families, and communities in poverty. Additionally, social workers understand the devastating costs and consequences of poverty and unemployment on our society and provide direct services in order to prevent and abate economic inequality.
+- **(3)** The Bureau of Labor Statistics projects that the social work profession will grow at an above-average rate through the year 2020, with a 19-percent growth rate overall and a 27-percent projected growth rate for health care social workers. This increase is faster than the average for all occupations, demonstrating a substantial need for social workers in our Nation.
+- **(4)** Social work salaries, on average, are among the lowest for all occupations in the United States and for those with a master's degree in particular. According to the Bureau of Labor Statistics, the median annual income for social workers in 2012 was $44,200.
+- **(5)** The report titled “2013 Statistics on Social Work Education in the United States” by the Council on Social Work Education stated that 80.5 percent of students graduating from Master of Social Work programs incurred debt to earn their graduate degree. The average debt for a Master of Social Work degree was approximately $41,754.
+- **(6)** Social workers often deal with the most vulnerable clients in emotional or traumatic situations, and face possible danger as a result. The National Association of Social Workers Center for Workforce Studies found that 44 percent of survey respondents faced personal safety issues on the job. The Occupational Safety and Health Administration states that 48 percent of assaults occur in the health care and social services industry.
+- **(7)** The Alzheimer’s Association of America states that 5,000,000 Americans, or 1 in every 9 individuals over the age of 65, have Alzheimer’s disease. Social workers in gerontology settings work with older adults, including those with dementia, to support their physiological, psychological, and social needs through mental health therapy, caregiver and family counseling, health education, program coordination, and case management.
+- **(8)** The Children’s Defense Fund states that every 47 seconds a child is confirmed as abused or neglected and every 5 and a half hours a child is killed from abuse or neglect. The Administration for Children and Families of the Department of Health and Human Services states that 402,378 children were in the United States foster care system in 2013. Most children placed in foster care are placed due to parental abuse or neglect. Research shows that professional social workers employed in child welfare agencies are more likely to find permanent homes for children who have been in foster care for 2 or more years. Unfortunately, less than 40 percent of child welfare workers are professional social workers.
+- **(9)** The Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services estimates that 43,800,000 individuals (nearly 1 in 5) in the United States who are age 18 or older experienced a diagnosable mental illness in 2013. Additionally, at least 2,600,000 (1 in 10) youth between the ages of 12 and 17 experienced major depressive episodes. Social workers provide the majority of mental health counseling services in the United States, and are often the only providers of such services in rural areas.
+- **(10)** Social workers working with veterans and their families provide services that include case management, crisis interventions, mental health interventions, housing and financial counseling, high-risk screening, and advocacy. The Department of Veterans Affairs, which is the largest employer of social workers in the Nation, employs 11,000 social workers who serve an estimated 21,999,000 veterans in the United States. A once-declining veteran population is now surging and is in dire need of mental health treatment to address issues such as post-traumatic stress disorder, depression, drug and alcohol addiction, and suicidal tendencies.
+- **(11)** The American Cancer Society estimates that there will be 1,658,370 new cases of cancer and 589,430 deaths from cancer, or 1,614 deaths a day, in 2015 alone. The Centers for Disease Control and Prevention report that there are over 1,200,000 people living with HIV/AIDS in the United States, with approximately 47,500 new cases diagnosed each year. In 2013, 1,500,000 to 1,600,000 people received care from the Nation’s hospice providers. Health care and medical social workers practice in areas related to all of these circumstances and provide outreach for prevention and health promotion, help individuals and their families adapt to their health conditions, connect patients and family caregivers with community services and supports, provide grief counseling, and act as a liaison between individuals and their medical team, helping patients make informed decisions about their care.
+- **(12)** The Children’s Defense Fund notes that every 2 seconds a public school student is suspended and that every 9 seconds a high school student drops out. The National Center for Education Statistics states that in 2012 the national dropout rate for high school students was 7 percent. Some vulnerable communities have dropout rates of 50 percent or higher. Social workers in school settings help students avoid dropping out through early identification, prevention, intervention, counseling, and support services.
+- **(13)** According to the Department of Justice, every year more than 688,000 ex-offenders are released from Federal and State prisons. Social workers employed in the correctional system address disproportionate minority incarceration rates, provide treatment for mental health problems and drug and alcohol addiction, and work within, as well as outside of, prisons to reduce recidivism and increase positive community reentry.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Clinical social worker* The term “clinical social worker” has the meaning given the term in section 1861(hh)(1) of the Social Security Act (42 U.S.C. 1395x(hh)(1)).
+- **(2)** *Community-based program* The term “community-based program” means an agency, organization, or other entity carrying out a program that provides direct social work services or community development services at a neighborhood, local, or regional level, to address human service, health care, or psychosocial needs.
+- **(3)** *High need and high demand population*
+  - **(A)** *In General* The term “high need and high demand population” means a group of individuals that lacks sufficient resources and, as a result, has a greater probability of being harmed by specific social, environmental, or health problems than the population as a whole.
+  - **(B)** *Group* For purposes of this paragraph, the term “group” includes a population residing in a health professional shortage area, as defined in section 332 of the Public Health Service Act (42 U.S.C. 254E), that has a shortage of primary medical care, dental, or mental health providers.
+- **(4)** *Historically black college or university* The term “historically Black college or university” has the meaning given the term “part B institution” in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+- **(5)** *Minority-serving institution* The term “minority-serving institution” means an institution of higher education that serves a large percentage of minority students, as determined by the Secretary of Education, including the following:
+  - **(A)** Alaska Native-serving institutions, as defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)).
+  - **(B)** Native Hawaiian-serving institutions, as defined in section 317(b)(4) of such Act (20 U.S.C. 1059d(b)(4)).
+  - **(C)** Asian American and Native American Pacific Islander-serving institutions, as defined in section 320(b)(2) of such Act (20 U.S.C. 1059g(b)(2)).
+  - **(D)** Hispanic-serving institutions, as defined in section 502(a)(5) of such Act (20 U.S.C. 1101a(a)(5)).
+  - **(E)** Tribal colleges or universities, as defined in section 316(b)(3) of such Act (20 U.S.C. 1059c(b)(3)).
+  - **(F)** Native American-serving, nontribal institutions, as defined in section 319(b)(2) of such Act (20 U.S.C. 1059f(b)(2)).
+  - **(G)** Predominantly Black Institutions, as defined in section 318(b)(6) of such Act (20 U.S.C. 1059e(b)(6)).
+  - **(H)** Historically Black colleges or universities.
+- **(6)** *Program of excellence* The term “program of excellence” means a program of distinction in a field related to human service, hosted by a public or private agency, that has received State or national recognition or another clearly defined indicator appropriate to the mission of the program, has clearly defined and measurable goals and objectives, regularly assesses outcomes, and can provide evidence of a strong assessment plan that utilizes assessment data to improve the program.
+- **(7)** *Related professional researcher*
+  - **(A)** *In General* The term “related professional researcher” means a doctoral level researcher or any other individual who is professionally engaged in research in a social, political, economic, health, or mental health field other than social work.
+  - **(B)** *Research* In this paragraph, the term “research” means study of a type that is primarily conducted under the auspices of an institution of higher education, government entity, research institute, community agency, or a similar entity.
+- **(8)** *School of social work* The term “school of social work” means a school that is accredited by the Council on Social Work Education (the sole accrediting agency recognized by the Council for Higher Education Accreditation for social work education in the United States) within an institution of higher education, that offers baccalaureate, master’s, or doctoral degrees in social work.
+- **(9)** *Secretary* The term “Secretary” means the Secretary of Health and Human Services.
+- **(10)** *Social work* The term “social work” means—
+  - **(A)** the professional activity of helping individuals, families, groups, or communities enhance or restore capacity for social and psychosocial functioning and creating societal conditions favorable to such enhancement or restoration;
+  - **(B)** the professional application of values, principles, and techniques related to the activity described in subparagraph (A), including—
+    - **(i)** diagnosing mental and emotional disorders and treating individuals, families, or groups for such disorders;
+    - **(ii)** helping communities or groups provide or improve social and health services and participating in relevant legislative processes to achieve such goals; and
+    - **(iii)** helping individuals, families, groups, or communities obtain tangible services, including personal, protective, informational, advisory, community, or maintenance services in order to improve the overall well-being of individuals; and
+  - **(C)** a professional activity that requires knowledge of human development, the behavior of social, economic, and cultural institutions, and the interaction between such development and behavior.
+- **(11)** *Social work researcher*
+  - **(A)** *In General* The term “social work researcher” means an individual who researches social work at an individual, family, group, community, organizational, or policy level, focusing across the human life span on prevention, treatment, and aftercare of, intervention in, and rehabilitation from, acute and chronic social and psychosocial conditions, including the study of the effect of policies on social work practice.
+  - **(B)** *Research* In this paragraph, the term “research” means study of a type that is primarily conducted by faculty members of an institution of higher education, doctoral level researchers, or any other individuals who are professionally engaged in the study of social work under the auspices of an institution of higher education, government entity, research institute, community agency, or a similar entity.
+- **(12)** *Social worker* The term “social worker” means an individual who—
+  - **(A)** has a baccalaureate, master’s, or doctoral degree in social work from an institution of higher education; and
+  - **(B)** uses knowledge and skills to provide social work services for individuals, families, groups, communities, organizations, or society in general.
