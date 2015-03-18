@@ -1,0 +1,45 @@
+---
+legis-num: S. 770
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 770
+
+> To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance.
+
+## § 1. Short title
+
+This Act may be cited as the “Escambia County Land Conveyance Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *County* The term “County” means Escambia County, Florida.
+- **(2)** *Non-Federal land* The term “non-Federal land” means the former Santa Rosa Island National Monument land in the State of Florida that was conveyed by the United States to the County under the Act of July 30, 1946 (60 Stat. 712, chapter 699), and by deed dated January 15, 1947.
+
+## § 3. Reconveyance of non-Federal land
+
+- **(a)** *In general* Notwithstanding the restrictions on conveyance in the Act of July 30, 1946 (60 Stat. 712, chapter 699) and the deed to the non-Federal land from the United States to the County dated January 15, 1947, and subject to subsection (c), the County may convey all right, title, and interest of the County in and to the non-Federal land or any portion of the non-Federal land, to any person or entity, without any restriction on conveyance or reconveyance imposed by the United States in that Act or deed.
+- **(b)** *Effect on leasehold interests* No person or entity holding a leasehold interest in the non-Federal as of the date of enactment of this Act shall be required to involuntarily accept a fee interest to the non-Federal land in place of the leasehold interest.
+- **(c)** *Land within Santa Rosa County*
+  - **(1)** *In general* The County may convey to Santa Rosa County, Florida, all right, title, and interest of the County in and to any portion of the non-Federal land that is within the jurisdictional boundaries of Santa Rosa County.
+  - **(2)** *Requirements* A conveyance under paragraph (1) shall—
+    - **(A)** be absolute;
+    - **(B)** terminate—
+      - **(i)** any subjugation of Santa Rosa County to the County; or
+      - **(ii)** any regulation of Santa Rosa County by the County; and
+    - **(C)** be without consideration, except that the County may require Santa Rosa County, Florida, to pay the actual costs associated with the conveyance of the non-Federal land.
+  - **(3)** *Reconveyance* Santa Rosa County, Florida, or any other person to whom Santa Rosa County, Florida, reconveys the non-Federal land may reconvey the non-Federal land or any portion of the non-Federal land conveyed to Santa Rosa County, Florida, under paragraph (1).
+  - **(4)** *Incorporation or annexation* The owners or leaseholders of non-Federal land conveyed under this subsection may pursue incorporation, annexation, or any other governmental status for the non-Federal land, if the owners or leaseholders comply with the legal conditions required for incorporation, annexation, or the other governmental status.
+  - **(5)** *Intent of congress* It is the intent of Congress that the conveyance under paragraph (1) shall be completed by the date that is 2 years after the date of enactment of this Act.
+- **(d)** *Jurisdiction* The non-Federal land conveyed under this section shall be subject to the jurisdiction of the county or unit of local government in which the non-Federal land is located.
+- **(e)** *Proceeds* Any proceeds from the conveyance of non-Federal land by the County or Santa Rosa County, Florida (other than amounts paid for the direct and incidental costs associated with the conveyance) under this section shall—
+  - **(1)** be considered windfall profits; and
+  - **(2)** revert to the United States.
+- **(f)** *Preservation* The County and Santa Rosa County, Florida, shall preserve the areas of the non-Federal land conveyed under this section that, as of the date of enactment of this Act, are dedicated for conservation, preservation, public recreation access, and public parking, in accordance with resolutions adopted by the Board of County Commissioners of the County or Santa Rosa County, Florida, respectively.
+- **(g)** *Authority of counties* The County and Santa Rosa County, Florida—
+  - **(1)** shall not be subject to a deadline or requirement to make any conveyance or reconveyance of the non-Federal land authorized under this section; and
+  - **(2)** may establish terms for the conveyance or reconveyance of the non-Federal land authorized under this section, subject to this Act and applicable State law.
