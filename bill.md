@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 1432
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1432
+
+> To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State identity theft laws.
+
+## § 1. National Labor Relations Act
+
+The National Labor Relations Act (29 U.S.C. 151 et seq.) is amended by adding at the end the following new section:
+
+> ## § 20.
+>
+> Nothing in this Act shall be construed to preempt a law of any State, Territory, or the District of Columbia that prohibits, criminalizes, or creates a civil cause of action for identity theft or the release of an individual’s personally identifiable information.
+
+## § 2. Railway Labor Act
+
+Title I of the Railway Labor Act (45 U.S.C. 151 et seq.) is amended by adding at the end the following new section:
+
+> ## § 16. Conflicts with State identity theft laws
+>
+> Nothing in this Act shall be construed to preempt a law of any State, Territory, or the District of Columbia that prohibits, criminalizes, or creates a civil cause of action for identity theft or the release of an individual’s personally identifiable information.
