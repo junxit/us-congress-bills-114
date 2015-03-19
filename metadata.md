@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1191
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1191
@@ -63,3 +63,5 @@ Iran Nuclear Agreement Review Act of 2015
 - 2015-03-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 118). (text: CR 3/16/2015 H1647)
 - 2015-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 118).(text: CR 3/16/2015 H1647)
+- 2015-03-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-03-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
