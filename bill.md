@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1502
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1502
+
+> To amend title XIX of the Social Security Act to extend for 5 years payment parity with Medicare for primary care services furnished under the Medicaid program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicaid Parity Act of 2015”.
+
+## § 2. Extension of Medicaid payment parity with Medicare for primary care services
+
+- **(a)** *In general* Section 1902(a)(13)(C) of the Social Security Act (42 U.S.C. 1396a(a)(13)(C)) is amended by striking “2013 and 2014” and inserting “2013 through 2019”.
+- **(b)** *Extending increased FMAP for additional payments for primary care services* Section 1905(dd) of the Social Security Act (42 U.S.C. 1396d(dd)) is amended by striking “and before January 1, 2015,” and inserting “and before January 1, 2020,”.
+- **(c)** *Effective date* The amendments made by this section shall apply to services furnished on or after January 1, 2015.
