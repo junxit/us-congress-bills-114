@@ -2,7 +2,7 @@
 legis-num: H. RES. 132
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 132
@@ -37,7 +37,7 @@ Amounts made available under this resolution shall be expended in accordance wit
 
 ## § 6. Reserve fund for unanticipated expenses
 
-- **(a)** *Establishment* There is hereby established a reserve fund for unanticipated expenses of committees for the One Hundred Thirteenth Congress.
+- **(a)** *Establishment* There is hereby established a reserve fund for unanticipated expenses of committees for the One Hundred Fourteenth Congress.
 - **(b)** *Amount* The reserve fund under this section shall have a balance of $1,000,000, of which—
   - **(1)** $500,000 shall be available for unanticipated expenses incurred during the period beginning at noon on January 3, 2015, and ending immediately before noon on January 3, 2016; and
   - **(2)** $500,000 shall be available for unanticipated expenses incurred during the period beginning at noon on January 3, 2016, and ending immediately before noon on January 3, 2017.
