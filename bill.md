@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 1509
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1509
+
+> To amend the Military Selective Service Act to require the reinstatement of the draft whenever an authorization on the use of military force or declaration of war is in effect and to provide for the registration of women with the Selective Service System, and for other purposes.
+
+## § 1. Reinstatement of military draft as part of an authorization on the use of military force or declaration of war
+
+Subsection (c) of section 17 of the Military Selective Service Act (50 U.S.C. App. 467) is amended to read as follows:
+
+> - **(c)** *Reinstatement of draft*
+>   - **(1)** *Reinstatement required* As soon as practicable upon the enactment of a law containing an authorization on the use of military force or a declaration of war, the President shall resume the induction of persons subject to registration under section 3(a) for training and service in the Armed Forces so that service and sacrifice in the Armed Forces during the period of such authorization or declaration is shared broadly among the American people.
+>   - **(2)** *Termination authority* The President may terminate the induction of persons under paragraph (1) upon the expiration of the authorization on the use of military force or declaration of war that was the basis for the resumption of induction.
+
+## § 2. Application of Military Selective Service registration and induction requirements to female citizens and residents of the United States
+
+Section 3(a) of the Military Selective Service Act (50 U.S.C. App. 453(a)) is amended—
+
+- **(1)** in the first sentence—
+  - **(A)** by striking “male” both places it appears; and
+  - **(B)** by inserting “or herself” after “himself”; and
+- **(2)** in the second sentence, by striking “he continues” and inserting “the alien continues”.
+
+## § 3. Effective date
+
+The amendments made by this Act shall take effect 30 days after the date of the enactment of this Act and apply with respect to any law containing an authorization on the use of military force or a declaration of war enacted after January 1, 2015.
