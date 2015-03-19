@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1030
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1030
@@ -47,9 +47,10 @@ Secret Science Reform Act of 2015
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (4)
 
@@ -103,3 +104,4 @@ Secret Science Reform Act of 2015
 - 2015-03-18 — The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.
 - 2015-03-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1747)
 - 2015-03-18 — The previous question was ordered pursuant to the rule. (consideration: CR H1746)
+- 2015-03-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
