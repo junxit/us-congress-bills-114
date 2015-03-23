@@ -1,7 +1,7 @@
 ---
 measure: H.R. 216
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 216
@@ -16,9 +16,12 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 
 - Rep. Brown, Corrine [D-FL-5] (B000911)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
 
 ## Committees (1)
 
@@ -29,3 +32,13 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 - 2015-01-08 — Introduced in House
 - 2015-01-08 — Introduced in House
 - 2015-01-08 — Referred to the House Committee on Veterans' Affairs.
+- 2015-01-27 — Committee Hearings Held.
+- 2015-02-12 — Committee Consideration and Mark-up Session Held.
+- 2015-02-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2015-03-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-03-23 — Considered under suspension of the rules. (consideration: CR H1822-1824)
+- 2015-03-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 216.
+- 2015-03-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2015-03-23 — Placed on the Union Calendar, Calendar No. 31.
+- 2015-03-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-48.
+- 2015-03-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-48.

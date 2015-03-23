@@ -28,6 +28,7 @@ This Act may be cited as the “Department of Veterans Affairs Budget Planning R
     > - **(c)** *Contents* The Future-Years Veterans Program under subsection (a) shall set forth the five-year plan of the Department to address the commitment of the United States to veterans and the resources necessary to meet that commitment and shall be developed and updated, as appropriate, annually by the Secretary. Each Future-Years Veterans Program shall include an explanation of—
     >   - **(1)** the information that was used to develop program planning guidance for the Future-Years Veterans Program; and
     >   - **(2)** how the resource allocations included in the Future-Years Veterans Program correlate to such five-year strategy.
+    > - **(d)** *Publication* The Secretary shall publish on a publically accessible Internet website of the Department each Future-Years Veterans Program submitted pursuant to subsection (a).
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 118 the following new item:
   - **(3)** *Effective Date* Section 119 of title 38, United States Code, as added by paragraph (1), shall apply with respect to the preparation and submission of the budget request for the Department of Veterans Affairs for fiscal year 2020 and fiscal years thereafter.
@@ -59,17 +60,44 @@ This Act may be cited as the “Department of Veterans Affairs Budget Planning R
     >     - **(G)** a discussion of the status of cooperation between the Federal Government and State, local, and tribal governments in supporting veterans and providing programs, services, benefits, and outcomes to assist veterans;
     >     - **(H)** an explanation of any underlying assumptions used in conducting the review; and
     >     - **(I)** any other matter the Secretary considers appropriate.
+    > - **(d)** *Publication* The Secretary shall publish on a publically accessible Internet website of the Department each quadrennial veterans review submitted pursuant to subsection (c).
+    > - **(e)** *Independent veterans review panel*
+    >   - **(1)** Not later than February 1 of a year in which a quadrennial veterans review is conducted under this section, the Secretary shall establish an independent panel to be known as the Independent Veterans Review Panel (in this subsection referred to as the “Panel”). The Panel shall have the duties set forth in this subsection.
+    >   - **(2)** The Panel shall be composed of 10 members who are recognized experts in matters relating to veterans. The members shall be appointed as follows:
+    >     - **(A)** Two by the chairman of the Committee on Veterans’ Affairs of the House of Representatives.
+    >     - **(B)** Two by the chairman of the Committee on Veterans’ Affairs of the Senate.
+    >     - **(C)** Two by the ranking member of the Committee on Veterans’ Affairs of the House of Representatives.
+    >     - **(D)** Two by the ranking member of the Committee on Veterans’ Affairs of the Senate.
+    >     - **(E)** Two by the Secretary, who shall serve as co-chairs of the panel.
+    >   - **(3)** Members shall be appointed for the life of the Panel. Any vacancy in the Panel shall be filled in the same manner as the original appointment.
+    >   - **(4)** The Panel shall have the following duties with respect to a quadrennial veterans review:
+    >     - **(A)** While the review is being conducted, the Panel shall review the updates from the Secretary required under paragraph (7) on the progress of the conduct of the review.
+    >     - **(B)** The Panel shall—
+    >       - **(i)** review the Secretary’s terms of reference and any other materials providing the basis for, or substantial inputs to, the work of the Department of Veterans Affairs on the quadrennial veterans review;
+    >       - **(ii)** conduct an assessment of the assumptions, strategy, findings, and risks included in the report on the quadrennial veterans review required in subsection (c);
+    >       - **(iii)** conduct an independent assessment of a variety of strategies for delivering services and support to veterans;
+    >       - **(iv)** review the resource requirements identified pursuant to subsection (b)(3) and, to the extent practicable, make a general comparison to the resource requirements to support the strategies assessed under this subparagraph; and
+    >       - **(v)** provide to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Secretary, through the report under paragraph (7), any recommendations the Panel determines appropriate.
+    >   - **(5)** If the Secretary has not appointed members to the Panel under paragraph (2)(E) by February 1 of a year in which a quadrennial veterans review is conducted under this section, the Panel shall convene for its first meeting with the remaining members.
+    >   - **(6)** Not later than three months after the date on which the report on a quadrennial veterans review is submitted under subsection (c) to the Committees on Veterans’ Affairs of the Senate and the House of Representatives, the Panel shall submit to such committees a report containing an assessment of the quadrennial veterans review, including a description of the items addressed under paragraph (4) with respect to that quadrennial veterans review.
+    >   - **(7)** Periodically, but not less often than every 60 days during the life of the panel, or at the request of the co-chairs, the Secretary shall brief the Panel on the progress of the conduct of the quadrennial veterans review.
+    >   - **(8)**
+    >     - **(A)** The Panel may request directly from the Department such information as the Panel considers necessary to carry out its duties under this subsection. The Secretary shall cooperate with the Panel to ensure that information requested by the Panel under this subparagraph is promptly provided to the maximum extent practical.
+    >     - **(B)** Upon the request of the co-chairs, the Secretary shall make available to the Panel the services of any federally funded research and development center that is covered by a sponsoring agreement of the Department.
+    >     - **(C)** The Panel shall have the authorities provided in section 3161 of title 5 and shall be subject to the conditions set forth in such section.
+    >     - **(D)** Funds for activities of the Panel shall be provided from amounts available to the Department.
+    >   - **(9)** The Panel shall terminate 45 days after the date on which the Panel submits the report on the quadrennial veterans review under paragraph (6).
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 119, as added by subsection (a)(2), the following new item:
 - **(c)** *Policy Guidance*
   - **(1)** *In general* Such chapter is further amended by adding after section 120, as added by subsection (b)(1), the following new section:
-    > ## § 121. Policy Guidance
+    > ## § 121. Policy guidance
     >
     > The Secretary shall provide annually to the appropriate officials of the Department written policy guidance for the preparation and review of the planning and program recommendations and budget proposals of the elements of the Department of such officials. Such guidance shall include guidance on the objectives of the Department in accordance with Future-Years Veterans Program under section 119 of this title and the quadrennial veterans review under section 120 and the resource levels projected to be available for the period of time for which such recommendations and proposals are to be effective.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 120, as added by subsection (b)(2), the following new item:
 
-## § 3. Chief strategy officer of the Department of Veterans Affairs
+## § 3. Chief Strategy Officer of the Department of Veterans Affairs
 
 - **(a)** *In general* Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section:
   > ## § 323. Chief Strategy Officer
@@ -88,25 +116,3 @@ This Act may be cited as the “Department of Veterans Affairs Budget Planning R
   >   - **(10)** Communicating directly to the Secretary and the Deputy Secretary of Veterans Affairs about matters for which the Chief Strategy Officer is responsible without obtaining the approval or concurrence of any other official within the Department.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 322 the following new item:
-
-## § 4. Study on the functions and organizational structure of the Office of the Secretary of Veterans Affairs and of the Department of Veterans Affairs
-
-- **(a)** *Secretary of Veterans Affairs Study* The Secretary of Veterans Affairs shall conduct a study of the functions and organizational structure of the Office of the Secretary and of the Department of Veterans Affairs.
-- **(b)** *Contents of Study* In conducting the study under subsection (a), the Secretary shall consider whether the allocation of functions and the organizational structure of the Department, as of the date of the enactment of this Act, constitute the most effective, efficient, and economical allocation and structure to assist the Secretary in carrying out the duties and responsibilities of the Secretary. The Secretary shall also consider—
-  - **(1)** whether the organization of the Office and the Department is—
-    - **(A)** optimally structured to assist the Secretary in the effective exercise of control over the Department, including—
-      - **(i)** policy development and strategic planning;
-      - **(ii)** programming, planning, and budget development and policy, program, and budget execution; and
-      - **(iii)** contingency planning; and
-    - **(B)** the most effective and efficient organization for the initiation, development, and articulation of veterans’ policy and the provision of benefits and services;
-  - **(2)** means of improving and strengthening the oversight and accountability within the Office and Department;
-  - **(3)** factors inhibiting efficient and effective execution of the functions of the Office and the Department, including factors relating to—
-    - **(A)** any duplication of functions (both within and between the Office and Department);
-    - **(B)** the availability to the Secretary of sufficient and detailed information regarding the operation of the Department to enable effective planning, policy execution, and oversight; and
-    - **(C)** the sufficiency of resources, including personnel, to carry out current and projected requirements in a more effective and efficient manner; and
-  - **(4)** possible alternative allocations and realignments of authorities and functions within the Office and Department to improve the Department’s overall operation and better provide benefits and services.
-- **(c)** *Independent Contractor Study* The Secretary shall seek to enter into a contract with an appropriate entity under which the entity shall carry out an independent study of the same matters required to be considered by the Secretary under subsection (b). The Secretary shall ensure that the entity has full access to such information as the contractor requires in order to conduct the study and that the contractor otherwise receives full cooperation from all officials and entities of the Department of Veterans Affairs.
-- **(d)** *Report to Congress* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the study of the Secretary under subsection (a). The report shall include—
-  - **(1)** the findings and conclusions of the Secretary with respect to each of the matters set forth in subsection (b);
-  - **(2)** any recommendations of the Secretary for organizational changes in the Office of the Secretary and the overall Department and a description of the means for implementing each recommendation; and
-  - **(3)** a copy of the report of the independent contractor under subsection (c), together with such comments on such report as the Secretary considers appropriate.
