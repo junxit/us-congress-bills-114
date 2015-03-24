@@ -1,7 +1,7 @@
 ---
 measure: H.R. 233
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 233
@@ -21,9 +21,10 @@ Tenant Income Verification Relief Act of 2015
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Guinta, Frank C. [R-NH-1] (G000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Tenant Income Verification Relief Act of 2015
 - 2015-03-23 — Mr. Stivers moved to suspend the rules and pass the bill.
 - 2015-03-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1812)
 - 2015-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1812)
+- 2015-03-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
