@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 301
 
-> To require the Secretary of the Treasury to mint coins in commemoration of the centennial of Boys Town, and for other purposes.
+> A resolution expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.
 
 ## § 1. Short title
 
