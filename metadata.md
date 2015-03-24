@@ -1,7 +1,7 @@
 ---
 measure: H.R. 360
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 360
@@ -36,9 +36,10 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2015-03-23 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2015-03-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 98 (Roll no. 130). (text: CR H1814-1818)
 - 2015-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 98 (Roll no. 130).(text: CR H1814-1818)
+- 2015-03-24 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
