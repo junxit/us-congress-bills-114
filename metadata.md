@@ -1,7 +1,7 @@
 ---
 measure: H.R. 216
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 216
@@ -27,6 +27,10 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2015-03-24 — [House 114-1-134](votes/house-114-1-0134.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–0)
+
 ## Actions
 
 - 2015-01-08 — Introduced in House
@@ -42,3 +46,7 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 - 2015-03-23 — Placed on the Union Calendar, Calendar No. 31.
 - 2015-03-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-48.
 - 2015-03-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-48.
+- 2015-03-24 — Considered as unfinished business. (consideration: CR H1869-1670)
+- 2015-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 134). (text: CR 3/23/2015 H1822-1824)
+- 2015-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 134).(text: CR 3/23/2015 H1822-1824)

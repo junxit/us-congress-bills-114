@@ -116,3 +116,7 @@ This Act may be cited as the “Department of Veterans Affairs Budget Planning R
   >   - **(10)** Communicating directly to the Secretary and the Deputy Secretary of Veterans Affairs about matters for which the Chief Strategy Officer is responsible without obtaining the approval or concurrence of any other official within the Department.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 322 the following new item:
+
+## § 4. Prohibition on new appropriations
+
+No additional funds are authorized to be appropriated to carry out this Act or the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise available for the Department of Veterans Affairs.
