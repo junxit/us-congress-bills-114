@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 72
 
-> Expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of lethal and non-lethal military assistance to Ukraine.
+> Expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.
 
 ## Preamble
 
@@ -30,7 +30,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 The Senate—
 
 - **(1)** condemns the attack on Mariupol by Russian-backed rebels;
-- **(2)** urges the President to provide lethal and non-lethal military assistance to Ukraine as unanimously supported by Congress in the Ukraine Freedom Support Act of 2014 (Public Law 113–272);
+- **(2)** urges the President to prioritize and expedite the provision of defensive lethal and non-lethal military assistance to Ukraine, consistent with United States national interests and policies, as authorized and supported by Congress in the Ukraine Freedom Support Act of 2014 (Public Law 113–272);
 - **(3)** calls on the United States, its European allies, and the international community to continue to apply economic and other forms of pressure on the Russian Federation, especially in the form of sanctions, if the Government of the Russian Federation continues to refuse to cease its aggression in Ukraine;
 - **(4)** calls on the Government of the Russian Federation to immediately end its support for the rebels in eastern Ukraine, allow Ukraine to regain control of its internationally recognized borders, and withdraw its military presence in eastern Ukraine; and
 - **(5)** expresses solidarity with the people of Ukraine regarding the humanitarian crisis in their country and the destruction caused by the military, financial, and ideological support of the Government of the Russian Federation for the rebels in eastern Ukraine.
