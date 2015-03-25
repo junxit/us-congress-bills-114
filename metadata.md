@@ -1,7 +1,7 @@
 ---
 measure: H.R. 216
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 216
@@ -23,9 +23,10 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Department of Veterans Affairs Budget Planning Reform Act of 2015
 - 2015-03-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 134). (text: CR 3/23/2015 H1822-1824)
 - 2015-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 134).(text: CR 3/23/2015 H1822-1824)
+- 2015-03-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
