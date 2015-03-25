@@ -1,0 +1,24 @@
+---
+legis-num: S. 866
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 866
+
+> To accelerate the income tax benefits for charitable cash contributions for the relief of the families of New York Police Department Detectives Wenjian Liu and Rafael Ramos, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Slain Officer Family Support Act of 2015”.
+
+## § 2. Acceleration of income tax benefits for charitable cash contributions for relief of the families of New York Police Department Detectives Wenjian Liu and Rafael Ramos
+
+- **(a)** *In general* For purposes of section 170 of the Internal Revenue Code of 1986 a taxpayer may treat any contribution described in subsection (b) made between January 1, 2015, and April 15, 2015, as if such contribution was made on December 31, 2014, and not in 2015.
+- **(b)** *Contribution described* A contribution is described in this subsection if such contribution is a cash contribution made for the relief of the families of slain New York Police Department Detectives Wenjian Liu and Rafael Ramos, for which a charitable contribution deduction is allowable under section 170 of the Internal Revenue Code of 1986.
+- **(c)** *Recordkeeping* In the case of a contribution described in subsection (b), a telephone bill showing the name of the donee organization, the date of the contribution, and the amount of the contribution shall be treated as meeting the recordkeeping requirements of section 170(f)(17) of the Internal Revenue Code of 1986.
+- **(d)** *Clarification that contribution will not fail To qualify as a charitable contribution* A cash contribution made for the relief of the families of slain New York Police Department Detectives Wenjian Liu and Rafael Ramos shall not fail to be treated as a charitable contribution for purposes of section 170 of the Internal Revenue Code of 1986 and subsection (b) of this section merely because such contribution is for the exclusive benefit of such families. The preceding sentence shall apply to contributions made on or after December 20, 2014.
+- **(e)** *Clarification that payments by charitable organizations to families treated as exempt payments* For purposes of the Internal Revenue Code of 1986, payments made on or after December 20, 2014, and on or before October 15, 2015, to the spouse or any dependent (as defined in section 152 of such Code) of slain New York Police Department Detectives Wenjian Liu or Rafael Ramos by an organization which (determined without regard to any such payments) would be an organization exempt from tax under section 501(a) of such Code shall—
+  - **(1)** be treated as related to the purpose or function constituting the basis for such organization’s exemption under such section, and
+  - **(2)** shall not be treated as inuring to the benefit of any private individual,
