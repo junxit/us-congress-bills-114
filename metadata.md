@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1092
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1092
@@ -48,3 +48,12 @@ To designate the Federal building located at 2030 Southwest 145th Avenue in Mira
 - 2015-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1895)
 - 2015-03-24 — The title of the measure was amended. Agreed to without objection.
 - 2015-03-25 — Received in the Senate, read twice.
+- 2015-03-27 — Message on Senate action sent to the House.
+- 2015-03-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 3/26/2015 S2088)
+- 2015-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 3/26/2015 S2088)
+- 2015-04-01 — Presented to President.
+- 2015-04-01 — Presented to President.
+- 2015-04-07 — Became Public Law No: 114-8.
+- 2015-04-07 — Became Public Law No: 114-8.
+- 2015-04-07 — Signed by President.
+- 2015-04-07 — Signed by President.
