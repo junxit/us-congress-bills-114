@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 1604
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1604
+
+> To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the eligibility of veterans to receive mental health care at non-Department of Veterans Affairs facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans’ Mental Health Care Access Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** There is a widely recognized crisis of post-traumatic stress disorder and other service-related mental health disorders among veterans.
+- **(2)** Every day on average in the United States, 22 veterans commit suicide.
+- **(3)** Of those 22 veterans, 17 never pursued mental health care from a facility of the Department of Veterans Affairs.
+- **(4)** Veterans need to be able to immediately access mental health care from any provider within or outside of the Department of Veterans Affairs.
+
+## § 3. Provision of mental health care under Veterans Choice Program
+
+Section 101(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (38 U.S.C. 1701 note) is amended—
+
+- **(1)** in subparagraph (C)(ii), by striking “or”;
+- **(2)** in subparagraph (D), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(E)** notwithstanding paragraph (1)(A), seeks mental health care at an entity described in clause (i) or (ii) of subsection (a)(1)(B), regardless of—
+  >   - **(i)** the date on which the veteran enrolled in the patient enrollment system of the Department under section 1705 of title 38, United States Code;
+  >   - **(ii)** whether the veteran has attempted to schedule an appointment for the receipt of such care at a facility of the Department; or
+  >   - **(iii)** the location of the residence of the veteran.
