@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1527
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1527
@@ -42,3 +42,12 @@ Slain Officer Family Support Act of 2015
 - 2015-03-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2021-2022)
 - 2015-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2021-2022)
 - 2015-03-26 — Received in the Senate, read twice.
+- 2015-03-27 — Message on Senate action sent to the House.
+- 2015-03-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 3/26/2015 S2088)
+- 2015-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 3/26/2015 S2088)
+- 2015-04-01 — Became Public Law No: 114-7.
+- 2015-04-01 — Became Public Law No: 114-7.
+- 2015-04-01 — Presented to President.
+- 2015-04-01 — Presented to President.
+- 2015-04-01 — Signed by President.
+- 2015-04-01 — Signed by President.
