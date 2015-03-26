@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1527
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1527
@@ -41,3 +41,4 @@ Slain Officer Family Support Act of 2015
 - 2015-03-25 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
 - 2015-03-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2021-2022)
 - 2015-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2021-2022)
+- 2015-03-26 — Received in the Senate, read twice.
