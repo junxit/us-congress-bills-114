@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 32
@@ -25,3 +25,6 @@ Providing for a conditional recess or adjournment of the Senate.
 - 2015-03-26 — On agreeing to the resolution Agreed to by voice vote. (text: CR H2092)
 - 2015-03-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H2092)
 - 2015-03-26 — Received in the Senate.
+- 2015-03-27 — Message on Senate action sent to the House.
+- 2015-03-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR 3/26/2015 S2089; text as passed Senate: CR 3/26/2015 S2089)
+- 2015-03-27 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR 3/26/2015 S2089; text as passed Senate: CR 3/26/2015 S2089)

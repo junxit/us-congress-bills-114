@@ -1,15 +1,17 @@
 ---
 legis-num: H. CON. RES. 32
-congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 32
 
 > Providing for a conditional recess or adjournment of the Senate.
 
-That when the Senate recesses or adjourns on any day from Friday, March 27, 2015, through Monday, March 30, 2015, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand recessed or adjourned until noon on Monday, April 13, 2015, or such other time on that day as may be specified by its Majority Leader or his designee in the motion to recess or adjourn, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first.
+That
+
+when the Senate recesses or adjourns on any day from Friday, March 27, 2015, through Monday, March 30, 2015, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand recessed or adjourned until noon on Monday, April 13, 2015, or such other time on that day as may be specified by its Majority Leader or his designee in the motion to recess or adjourn, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first.
 
 ## § 2.
 
