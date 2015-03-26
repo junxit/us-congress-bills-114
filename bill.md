@@ -1,0 +1,30 @@
+---
+legis-num: S. 880
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 880
+
+> To expand project eligibility to certain public infrastructure projects under chapter 6 of title 23, United States Code.
+
+## § 1. Short title
+
+This Act may be cited as the “Transit-Oriented Development Infrastructure Financing Act”.
+
+## § 2. Infrastructure finance
+
+- **(a)** *In general* Section 601(a)(12) of title 23, United States Code, is amended—
+  - **(1)** in subparagraph (C), by striking “and” at the end;
+  - **(2)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(E)** a project to improve or construct public infrastructure that is located within walking distance of and accessible to a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including transportation, public utility, and capital projects described in section 5302(3)(G)(v) of title 49, and related infrastructure that would promote transit ridership, walkability, or increased private investment.
+
+- **(b)** *Eligible project costs* Section 602(a)(5)(B) of title 23, United States Code, is amended—
+  - **(1)** by striking “(B) Intelligent transportation system projects.—In the case” and inserting the following:
+    > - **(B)** *Exceptions*
+    >   - **(i)** *Intelligent transportation systems* In the case
+
+  - **(2)** by adding at the end the following:
+    > - **(ii)** *Transit-oriented development projects* In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to be equal to or exceed $10,000,000.
