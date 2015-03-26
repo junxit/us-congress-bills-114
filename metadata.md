@@ -1,7 +1,7 @@
 ---
 measure: S. 665
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 665
@@ -16,7 +16,7 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (17)
+## Cosponsors (24)
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -35,6 +35,13 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -44,3 +51,7 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 
 - 2015-03-04 — Introduced in Senate
 - 2015-03-04 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1307)
+- 2015-03-26 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2015-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
