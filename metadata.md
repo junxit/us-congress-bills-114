@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 10
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 10
@@ -38,3 +38,12 @@ Providing for the reappointment of David M. Rubenstein as a citizen regent of th
 - 2015-03-26 — On passage Passed without objection. (text: CR H2092)
 - 2015-03-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2092)
 - 2015-03-26 — Received in the Senate, read twice.
+- 2015-03-27 — Message on Senate action sent to the House.
+- 2015-03-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 3/26/2015 S2088)
+- 2015-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 3/26/2015 S2088)
+- 2015-04-01 — Presented to President.
+- 2015-04-01 — Presented to President.
+- 2015-04-07 — Became Public Law No: 114-9.
+- 2015-04-07 — Became Public Law No: 114-9.
+- 2015-04-07 — Signed by President.
+- 2015-04-07 — Signed by President.
