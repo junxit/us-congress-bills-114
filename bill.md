@@ -1,0 +1,21 @@
+---
+legis-num: S. 876
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 876
+
+> To amend the Commodity Exchange Act to specify how clearing requirements apply to certain affiliate transactions.
+
+## § 1. Treatment of affiliate transactions
+
+- **(a)** *In general*
+  - **(1)** *Commodity Exchange Act amendment* Section 2(h)(7)(D) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)) is amended by striking clause (i) and inserting the following:
+    > - **(i)** *In general* An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of the commercial risk is addressed by entering into a swap with a swap dealer or major swap participant, an appropriate credit support measure or other mechanism must be used.
+
+  - **(2)** *Conforming amendment* Section 3C(g)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)) is amended by striking subparagraph (A) and inserting the following:
+    > - **(A)** *In general* An affiliate of a person that qualifies for an exception under paragraph (1) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of the commercial risk is addressed by entering into a security-based swap with a security-based swap dealer or major security-based swap participant, an appropriate credit support measure or other mechanism must be used.
+
+- **(b)** *Applicability of credit support measure requirement* The requirements in section 2(h)(7)(D)(i) of the Commodity Exchange Act and section 3C(g)(4)(A) of the Securities Exchange Act of 1934, as amended by subsection (a), requiring that a credit support measure or other mechanism be used if the transfer of commercial risk referred to in those sections is addressed by entering into a swap with a swap dealer or major swap participant or a security-based swap with a security-based swap dealer or major security-based swap participant, as appropriate, shall not apply with respect to swaps or security-based swaps, as appropriate, entered into before the date of enactment of this Act.
