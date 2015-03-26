@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 10
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 10
@@ -30,3 +30,11 @@ Providing for the reappointment of David M. Rubenstein as a citizen regent of th
 - 2015-01-07 — Introduced in House
 - 2015-01-07 — Introduced in House
 - 2015-01-07 — Referred to the House Committee on House Administration.
+- 2015-03-26 — Committee on House Administration discharged. (consideration: CR H2092)
+- 2015-03-26 — Committee on House Administration discharged.(consideration: CR H2092)
+- 2015-03-26 — Considered by unanimous consent. (consideration: CR H2092)
+- 2015-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-03-26 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider. (consideration: CR H2092)
+- 2015-03-26 — On passage Passed without objection. (text: CR H2092)
+- 2015-03-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2092)
+- 2015-03-26 — Received in the Senate, read twice.
