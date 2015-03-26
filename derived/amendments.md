@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-248 amendatory instructions. 95 executed, 153 stated and not applied.
+247 amendatory instructions. 94 executed, 153 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -404,7 +404,7 @@ to guess them.
 
 ### 42 U.S.C. § 1397dd
 
-> in the subsection heading, by striking “Through 2015”and inserting “and Thereafter”;
+> in the subsection heading, by striking “Through 2015” and inserting “and Thereafter”;
 
 | | |
 |---|---|
@@ -458,15 +458,6 @@ to guess them.
 
 ### 42 U.S.C. § 1397dd
 
-> by striking “the allotment increase factor determined under paragraph (5)” each place it appears in paragraphs (1) (2)(A), and (3) and inserting “the allotment increase factor determined under paragraph (6)”;
-
-| | |
-|---|---|
-| Removed | `the allotment increase factor determined under paragraph (5)` |
-| Inserted | `the allotment increase factor determined under paragraph (6)` |
-
-### 42 U.S.C. § 1397dd
-
 > by striking “paragraph (4)” each place it appears in subparagraphs (A) and (B) and inserting “paragraph (5)”; and
 
 | | |
@@ -494,7 +485,7 @@ to guess them.
 
 ### 42 U.S.C. § 1397dd
 
-> by striking “paragraphs (4) and (6)” and inserting “paragraphs (5) and (7)”; and
+> by striking “paragraphs (4) and (6)” and inserting “paragraphs (5) and (7)” each place it appears; and
 
 | | |
 |---|---|
@@ -638,7 +629,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395yy
 
-> in paragraph (6)(A)(i), by striking “paragraph (5)(B)(ii)” and inserting “clauses (ii) and (iii) of paragraph (5)(B)”.
+> in paragraph (6)(A), by striking “paragraph (5)(B)(ii)” and inserting “clauses (ii) and (iii) of paragraph (5)(B)” each place it appears.
 
 | | |
 |---|---|
@@ -983,8 +974,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1397dd` | insert | by inserting “or fiscal year 2017” after “2015”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397dd` | redesignate | by redesignating paragraphs (4) through (8) as paragraphs (5) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397dd` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397dd` | insert | by inserting “and 2017” after “2015”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1397dd` | insert | by inserting “and 2017” after “2015”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397dd` | insert | by inserting “and fiscal year 2017” after “2015”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397dd` | insert | by inserting “and fiscal year 2017” after “2015”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397mm` | insert | in subsection (g), by inserting “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”. | the bill quotes the text inserted but describes where it goes |
 | — | insert | Section 1139A(e)(8) of the Social Security Act (42 U.S.C. 1320b–9a(e)(8)) is amended by inserting “, and $10,000,000 for the period of fiscal years 2016 and 2017” after “2014”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1139A(i) of the Social Security Act (42 U.S.C. 1320b–9a(i)) is amended in the first sentence by inserting before the period at the end the following: “, and there is appropriated for the period of fiscal years 2016 and 2017, $20,… | the bill names no machine-readable US Code section |
