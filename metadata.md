@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 105
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 105
@@ -55,3 +55,7 @@ A resolution recognizing the 194th anniversary of the independence of Greece and
 
 - 2015-03-19 — Introduced in Senate
 - 2015-03-19 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1669)
+- 2015-03-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-03-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-03-27 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR 3/26/2015 S2088)
+- 2015-03-27 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR 3/26/2015 S2088)
