@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 11
@@ -16,9 +16,930 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
+## Cosponsors (857)
+
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Murray, Patty [D-WA] (M001111)
+
 ## Committees (1)
 
 - Senate — Budget Committee
+
+## Recorded votes (58)
+
+- 2015-03-24 — [Senate 114-1-78](votes/senate-114-1-0078.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2015-03-24 — [Senate 114-1-79](votes/senate-114-1-0079.md) — On the Amendment — **Amendment Agreed to** (94–3)
+- 2015-03-24 — [Senate 114-1-80](votes/senate-114-1-0080.md) — On the Amendment — **Amendment Agreed to** (96–0)
+- 2015-03-24 — [Senate 114-1-81](votes/senate-114-1-0081.md) — On the Amendment — **Amendment Agreed to** (56–43)
+- 2015-03-24 — [Senate 114-1-82](votes/senate-114-1-0082.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2015-03-24 — [Senate 114-1-83](votes/senate-114-1-0083.md) — On the Amendment — **Amendment Agreed to** (75–24)
+- 2015-03-24 — [Senate 114-1-84](votes/senate-114-1-0084.md) — On the Motion — **Motion Rejected** (51–48)
+- 2015-03-24 — [Senate 114-1-85](votes/senate-114-1-0085.md) — On the Amendment — **Amendment Rejected** (1–98)
+- 2015-03-25 — [Senate 114-1-86](votes/senate-114-1-0086.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2015-03-25 — [Senate 114-1-87](votes/senate-114-1-0087.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2015-03-25 — [Senate 114-1-88](votes/senate-114-1-0088.md) — On the Amendment — **Amendment Agreed to** (59–40)
+- 2015-03-25 — [Senate 114-1-89](votes/senate-114-1-0089.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2015-03-25 — [Senate 114-1-90](votes/senate-114-1-0090.md) — On the Motion — **Motion Rejected** (46–53)
+- 2015-03-25 — [Senate 114-1-91](votes/senate-114-1-0091.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2015-03-25 — [Senate 114-1-92](votes/senate-114-1-0092.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2015-03-26 — [Senate 114-1-93](votes/senate-114-1-0093.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2015-03-26 — [Senate 114-1-94](votes/senate-114-1-0094.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-95](votes/senate-114-1-0095.md) — On the Amendment — **Amendment Rejected** (47–53)
+- 2015-03-26 — [Senate 114-1-96](votes/senate-114-1-0096.md) — On the Motion — **Motion Rejected** (32–68)
+- 2015-03-26 — [Senate 114-1-97](votes/senate-114-1-0097.md) — On the Motion — **Motion Rejected** (4–96)
+- 2015-03-26 — [Senate 114-1-98](votes/senate-114-1-0098.md) — On the Amendment — **Amendment Agreed to** (61–39)
+- 2015-03-26 — [Senate 114-1-99](votes/senate-114-1-0099.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2015-03-26 — [Senate 114-1-100](votes/senate-114-1-0100.md) — On the Amendment — **Amendment Rejected** (45–55)
+- 2015-03-26 — [Senate 114-1-101](votes/senate-114-1-0101.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-102](votes/senate-114-1-0102.md) — On the Amendment — **Amendment Agreed to** (56–44)
+- 2015-03-26 — [Senate 114-1-103](votes/senate-114-1-0103.md) — On the Amendment — **Amendment Agreed to** (58–42)
+- 2015-03-26 — [Senate 114-1-104](votes/senate-114-1-0104.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-105](votes/senate-114-1-0105.md) — On the Amendment — **Amendment Agreed to** (54–46)
+- 2015-03-26 — [Senate 114-1-106](votes/senate-114-1-0106.md) — On the Amendment — **Amendment Agreed to** (51–49)
+- 2015-03-26 — [Senate 114-1-107](votes/senate-114-1-0107.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2015-03-26 — [Senate 114-1-108](votes/senate-114-1-0108.md) — On the Amendment — **Amendment Agreed to** (59–41)
+- 2015-03-26 — [Senate 114-1-109](votes/senate-114-1-0109.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2015-03-26 — [Senate 114-1-110](votes/senate-114-1-0110.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-111](votes/senate-114-1-0111.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-112](votes/senate-114-1-0112.md) — On the Amendment — **Amendment Agreed to** (59–41)
+- 2015-03-26 — [Senate 114-1-113](votes/senate-114-1-0113.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2015-03-26 — [Senate 114-1-114](votes/senate-114-1-0114.md) — On the Amendment — **Amendment Agreed to** (54–46)
+- 2015-03-26 — [Senate 114-1-115](votes/senate-114-1-0115.md) — On the Amendment — **Amendment Agreed to** (53–47)
+- 2015-03-26 — [Senate 114-1-116](votes/senate-114-1-0116.md) — On the Amendment — **Amendment Agreed to** (57–43)
+- 2015-03-26 — [Senate 114-1-117](votes/senate-114-1-0117.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-118](votes/senate-114-1-0118.md) — On the Amendment — **Amendment Agreed to** (59–41)
+- 2015-03-26 — [Senate 114-1-119](votes/senate-114-1-0119.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2015-03-26 — [Senate 114-1-120](votes/senate-114-1-0120.md) — On the Amendment — **Amendment Agreed to** (51–49)
+- 2015-03-26 — [Senate 114-1-121](votes/senate-114-1-0121.md) — On the Amendment — **Amendment Agreed to** (57–43)
+- 2015-03-26 — [Senate 114-1-122](votes/senate-114-1-0122.md) — On the Amendment — **Amendment Agreed to** (57–43)
+- 2015-03-26 — [Senate 114-1-123](votes/senate-114-1-0123.md) — On the Motion — **Motion Rejected** (51–49)
+- 2015-03-26 — [Senate 114-1-124](votes/senate-114-1-0124.md) — On the Amendment — **Amendment Agreed to** (58–42)
+- 2015-03-26 — [Senate 114-1-125](votes/senate-114-1-0125.md) — On the Amendment — **Amendment Agreed to** (73–27)
+- 2015-03-26 — [Senate 114-1-126](votes/senate-114-1-0126.md) — On the Amendment — **Amendment Agreed to** (56–43)
+- 2015-03-27 — [Senate 114-1-127](votes/senate-114-1-0127.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2015-03-27 — [Senate 114-1-128](votes/senate-114-1-0128.md) — On the Amendment — **Amendment Agreed to** (52–42)
+- 2015-03-27 — [Senate 114-1-129](votes/senate-114-1-0129.md) — On the Motion — **Motion Rejected** (49–48)
+- 2015-03-27 — [Senate 114-1-130](votes/senate-114-1-0130.md) — On the Amendment — **Amendment Agreed to** (52–46)
+- 2015-03-27 — [Senate 114-1-131](votes/senate-114-1-0131.md) — On the Amendment — **Amendment Rejected** (42–56)
+- 2015-03-27 — [Senate 114-1-132](votes/senate-114-1-0132.md) — On the Amendment — **Amendment Agreed to** (54–44)
+- 2015-03-27 — [Senate 114-1-133](votes/senate-114-1-0133.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2015-03-27 — [Senate 114-1-134](votes/senate-114-1-0134.md) — On the Amendment — **Amendment Agreed to** (50–48)
+- 2015-03-27 — [Senate 114-1-135](votes/senate-114-1-0135.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (52–46)
 
 ## Actions
 
@@ -26,3 +947,1867 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2015-03-20 — Committee on the Budget. Original measure reported to Senate by Senator Enzi under authority of the order of the Senate of 03/19/2015. Without written report.
 - 2015-03-20 — Introduced in Senate
 - 2015-03-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
+- 2015-03-23 — Amendment SA 323 proposed by Senator Sanders. (consideration: CR S1701-1703) To create millions of middle class jobs by investing in our nation's infrastructure paid for by raising revenue through closing loopholes in the corporate and international tax system.
+- 2015-03-23 — Measure laid before Senate by motion. (consideration: CR S1676-1703, S1704; text of measure as reported in Senate: CR S1717-1729)
+- 2015-03-23 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1676)
+- 2015-03-23 — Senate amendment proposed (on the floor): Amendment SA 323 proposed by Senator Sanders.(consideration: CR S1701-1703)
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-23 — Senate amendment submitted
+- 2015-03-24 — Amendment SA 323 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 78.
+- 2015-03-24 — Amendment SA 349 agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 80.
+- 2015-03-24 — Amendment SA 349 proposed by Senator Portman. (consideration: CR S1744, S1751; text: CR S1744) To establish a deficit-neutral reserve fund to improve health outcomes and lower the costs of caring for medically complex children in Medicaid.
+- 2015-03-24 — Amendment SA 357 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 85.
+- 2015-03-24 — Amendment SA 357 proposed by Senator Cornyn. (consideration: CR S1758-1762, S1768) To raise taxes and spending by enacting President Obama's fiscal year 2016 budget.
+- 2015-03-24 — Amendment SA 362 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 82.
+- 2015-03-24 — Amendment SA 362 proposed by Senator Mikulski. (consideration: CR S1751-1757, S1766-1767; text: CR S1751) To establish a deficit-neutral reserve fund relating to amending the Equal Pay Act of 1963 to allow for punitive damages, limit the any factor "other than sex" exception, and prohibit retaliation against employees who share salary information.
+- 2015-03-24 — Amendment SA 386 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 79.
+- 2015-03-24 — Amendment SA 386 proposed by Senator Sanders. (consideration: CR S1744-1748, S1750-1751; text: CR S1744) To establish a deficit-neutral reserve fund to protect Medicaid beneficiaries from benefit cuts.
+- 2015-03-24 — Amendment SA 388 proposed by Senator Daines. (consideration: CR S1773-1774; text: CR S1773) To establish a deficit-neutral reserve fund relating to the designation of national monuments.
+- 2015-03-24 — Amendment SA 389 proposed by Senator Daines. (consideration: CR S1774; text: CR S1774) To establish a deficit-neutral reserve fund relating to holding Members of the Senate and the House of Representatives accountable for failing to pass a balanced budget.
+- 2015-03-24 — Amendment SA 400 agreed to in Senate by Voice Vote.
+- 2015-03-24 — Amendment SA 400 proposed by Senator Ayotte. (consideration: CR S1764, S1766; text: CR S1764) To establish a deficit-neutral reserve fund to maintain and enhance access, choice, and accountability in veterans care through the Veterans Choice Card program under section 101 of the Veterans Access, Choice, and Accountability Act of 2014.
+- 2015-03-24 — Amendment SA 409 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 81.
+- 2015-03-24 — Amendment SA 409 proposed by Senator Fischer. (consideration: CR S1757-1758, S1766; text: CR S1757) To establish a deficit-neutral reserve fund relating to promoting equal pay, which may include preventing discrimination on the basis of sex and preventing retaliation against employees for seeking or discussing wage information.
+- 2015-03-24 — Amendment SA 412 proposed by Senator Rounds. (consideration: CR S1769-1770; text: CR S1769) To establish a deficit-neutral reserve fund to prevent the Environmental Protection Agency and the United States Fish and Wildlife Service from engaging in closed-door settlement agreements that ignore impacted States and counties.
+- 2015-03-24 — Amendment SA 423 proposed by Senator Rubio. (consideration: CR S1770-1773; text as modified: CR S1770) To increase new budget authority fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050).
+- 2015-03-24 — Amendment SA 471 proposed by Senator Whitehouse for Senator Wyden. (consideration: CR S1762-1764, S1767-1768; text: CR S1762) To create a point of order against legislation that would cut benefits, raise the retirement age, or privatize Social Security.
+- 2015-03-24 — Amendment SA 471 ruled out of order by the chair.
+- 2015-03-24 — Amendment SA 474 agreed to in Senate by Voice Vote.
+- 2015-03-24 — Amendment SA 474 proposed by Senator Sanders. (consideration: CR S1765-1766; text: CR S1765) To establish a deficit-neutral reserve fund to protect and strengthen the Department of Veterans Affairs, hire more health care professionals for the Department, and ensure quality and timely access to health care for all veterans.
+- 2015-03-24 — Amendment SA 481 proposed by Senator Cotton. (consideration: CR S1764-1765; text: CR S1764-1765) To establish a deficit-neutral fund relating to supporting Israel.
+- 2015-03-24 — Amendment SA 498 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 83.
+- 2015-03-24 — Amendment SA 498 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1765, S1767; text: CR S1765) To establish a deficit-neutral reserve fund relating to legislation submitted to Congress by President Obama to protect and strengthen Social Security.
+- 2015-03-24 — Amendment SA 545 proposed by Senator Enzi for Senator Kirk. (consideration: CR S1768-1769; text: CR S1768-1769) To establish a deficit-neutral reserve fund relating to reimposing waived sanctions and imposing new sanctions against Iran for violations of the Joint Plan of Action or a comprehensive nuclear agreement.
+- 2015-03-24 — Considered by Senate. (consideration: CR S1740-1744, S1748-1750; text as modified: CR S1741-1742)
+- 2015-03-24 — Considered by Senate. (consideration: CR S1740-1751, S1751-1774)
+- 2015-03-24 — Motion to waive all applicable budgetary discipline with respect to amendment SA 471 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 84. (consideration: CR S1768)
+- 2015-03-24 — Point of order that the amendment violates section 305 of the CBA raised in Senate with respect to amendment SA 471.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 323 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 78.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 349 agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 80.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 357 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 85.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 362 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 82.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 386 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 79.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 409 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 81.
+- 2015-03-24 — Roll call votes on amendments in Senate: Amendment SA 498 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 83.
+- 2015-03-24 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 471 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 84.(consideration: CR S1768)
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 349 agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 80.
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 386 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 79.
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 400 agreed to in Senate by Voice Vote.
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 409 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 81.
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 474 agreed to in Senate by Voice Vote.
+- 2015-03-24 — Senate amendment agreed to: Amendment SA 498 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 83.
+- 2015-03-24 — Senate amendment not agreed to: Amendment SA 323 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 78.
+- 2015-03-24 — Senate amendment not agreed to: Amendment SA 357 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 85.
+- 2015-03-24 — Senate amendment not agreed to: Amendment SA 362 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 82.
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 349 proposed by Senator Portman.(consideration: CR S1744, S1751; text: CR S1744)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 357 proposed by Senator Cornyn.(consideration: CR S1758-1762, S1768)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 362 proposed by Senator Mikulski.(consideration: CR S1751-1757, S1766-1767; text: CR S1751)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 386 proposed by Senator Sanders.(consideration: CR S1744-1748, S1750-1751; text: CR S1744)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 388 proposed by Senator Daines.(consideration: CR S1773-1774; text: CR S1773)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 389 proposed by Senator Daines.(consideration: CR S1774; text: CR S1774)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 400 proposed by Senator Ayotte.(consideration: CR S1764, S1766; text: CR S1764)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 409 proposed by Senator Fischer.(consideration: CR S1757-1758, S1766; text: CR S1757)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 412 proposed by Senator Rounds.(consideration: CR S1769-1770; text: CR S1769)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 423 proposed by Senator Rubio.(consideration: CR S1770-1773; text as modified: CR S1770)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 471 proposed by Senator Whitehouse for Senator Wyden.(consideration: CR S1762-1764, S1767-1768; text: CR S1762)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 474 proposed by Senator Sanders.(consideration: CR S1765-1766; text: CR S1765)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 481 proposed by Senator Cotton.(consideration: CR S1764-1765; text: CR S1764-1765)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 498 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1765, S1767; text: CR S1765)
+- 2015-03-24 — Senate amendment proposed (on the floor): Amendment SA 545 proposed by Senator Enzi for Senator Kirk.(consideration: CR S1768-1769; text: CR S1768-1769)
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-24 — Senate amendment submitted
+- 2015-03-25 — Amendment SA 341 proposed by Senator Cassidy. (consideration: CR S1882-1883; text: CR S1882) To establish a spending-neutral reserve fund relating to the promotion of United States offshore energy production.
+- 2015-03-25 — Amendment SA 343 proposed by Senator Coons. (consideration: CR S1877, S1882; text: CR S1877) To establish a deficit-neutral reserve fund relating to preserving mandatory appropriations for agricultural conservation programs.
+- 2015-03-25 — Amendment SA 345 proposed by Senator Sanders for Senator Durbin. (consideration: CR S1873-1874; text: CR S1873-1874) To establish a deficit-neutral reserve fund relating to increasing funding for Federal investments in biomedical and basic scientific research.
+- 2015-03-25 — Amendment SA 347 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 88.
+- 2015-03-25 — Amendment SA 347 proposed by Senator Barrasso. (consideration: CR S1836-1838, S1869-1870; text: CR S1836) To establish a spending-neutral reserve fund to keep the Federal Water Pollution Control Act focused on protection of water quality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.
+- 2015-03-25 — Amendment SA 350 proposed by Senator Blunt. (consideration: CR S1846-1847, S1868; text: CR S1846) To create a point of order against legislation that would create a Federal tax or fee on carbon emissions.
+- 2015-03-25 — Amendment SA 352 proposed by Senator Roberts. (consideration: CR S1856-1857; text: CR S1856-1857) To establish a deficit-neutral reserve fund relating to Federal employee performance awards.
+- 2015-03-25 — Amendment SA 356 proposed by Senator Moran. (consideration: CR S1848-1853; text: CR S1848) To establish a deficit-neutral reserve fund relating to providing health care to veterans who reside more than 40 miles driving distance from the closest medical facility of the Department of Veterans Affairs that provides the care sought by the veteran.
+- 2015-03-25 — Amendment SA 360 proposed by Senator McCain. (consideration: CR S1874; text: CR S1874) To establish a deficit-neutral reserve fund relating to deterring the migration of unaccompanied children from El Salvador, Guatemala, and Honduras.
+- 2015-03-25 — Amendment SA 368 proposed by Senator Coats. (consideration: CR S1864-1865; text: CR S1864-1865) To establish a deficit-neutral reserve fund relating to providing States the Medicaid flexibility they need to implement innovative reforms to improve care and enhance access for our Nation's most vulnerable.
+- 2015-03-25 — Amendment SA 387 proposed by Senator Daines. (consideration: CR S1866-1868; text: CR S1866) To establish a deficit-neutral reserve fund relating to postal reform.
+- 2015-03-25 — Amendment SA 391 proposed by Senator Coons. (consideration: CR S1877, S1881-1882; text: CR S1877) To establish a deficit-neutral reserve fund relating to the expansion of access to the income tax credit for employee health insurance expenses of small employers.
+- 2015-03-25 — Amendment SA 392 proposed by Senator Coons. (consideration: CR S1877, S1882; text: CR S1877) To establish a deficit-neutral reserve fund relating to promoting the use of college savings accounts while students are in elementary school and secondary school.
+- 2015-03-25 — Amendment SA 394 proposed by Senator Coons. (consideration: CR S1877, S1882; text: CR S1877) To establish a deficit-neutral reserve fund relating to special treatment of the income tax credit for research expenditures for startup companies.
+- 2015-03-25 — Amendment SA 432 proposed by Senator Baldwin. (consideration: CR S1877-1878) To provide additional resources to create the opportunity for more Americans to obtain a higher education and advanced job skills by supporting two free years of community college paid for by raising revenue through requiring millionaires and billionaires to pay their fair share.
+- 2015-03-25 — Amendment SA 434 proposed by Senator Wyden. (consideration: CR S1868; text: CR S1868) To provide for an adjustment to committee allocations for wildfire suppression funding.
+- 2015-03-25 — Amendment SA 436 proposed by Senator Baldwin. (consideration: CR S1878; text: CR S1878) To preserve the point of order against reconciliation legislation that would increase the deficit or reduce a surplus.
+- 2015-03-25 — Amendment SA 443 proposed by Senator Gardner. (consideration: CR S1862; text: CR S1862) To establish a deficit-neutral reserve fund relating to protecting privately held water rights and permits.
+- 2015-03-25 — Amendment SA 452 proposed by Senator Heller. (consideration: CR S1875-1877; text: CR S1875) To establish a spending-neutral reserve fund relating to ensuring that the Secretary of the Interior enters into candidate conservation agreements with each of the relevant 11 Western States before the United States Fish and Wildlife Service makes a listing determination on the greater sage-grouse under the Endangered Species Act of 1973.
+- 2015-03-25 — Amendment SA 453 proposed by Senator Heller. (consideration: CR S1875-1877; text: CR S1875) To establish a spending-neutral reserve fund relating to ensuring that the Secretary of Transportation prioritizes the construction of projects that are of national and regional significance and projects in high priority corridors on the National Highway System, which will improve the safe, secure, and efficient movement of people and goods through the United States and facilitate economic development and create jobs in the United States.
+- 2015-03-25 — Amendment SA 456 proposed by Senator Heller. (consideration: CR S1875-1877; text: CR S1876) To establish a deficit-neutral reserve fund relating to ensuring that medical facilities of the Department of Veterans Affairs meet the privacy, dignity, and safety needs of women veterans.
+- 2015-03-25 — Amendment SA 457 proposed by Senator Heller. (consideration: CR S1875-1877; text: CR S1876) To establish a deficit-neutral reserve fund relating to prohibition of Veterans Benefits Administration executive bonuses until the backlog of disability claims for veterans is eliminated.
+- 2015-03-25 — Amendment SA 462 proposed by Senator Roberts. (consideration: CR S1857; text: CR S1857) To establish a deficit-neutral reserve fund relating to over-the-counter medications.
+- 2015-03-25 — Amendment SA 465 proposed by Senator Daines. (consideration: CR S1866; text: CR S1866) To establish a deficit-neutral reserve fund relating to Second Amendment rights.
+- 2015-03-25 — Amendment SA 481 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 92.
+- 2015-03-25 — Amendment SA 485 proposed by Senator Gardner for Senator Ayotte. (consideration: CR S1885-1886; text: CR S1885) To establish a deficit-neutral reserve fund to provide equity in the tax treatment of public safety officer death benefits.
+- 2015-03-25 — Amendment SA 490 proposed by Senator Gardner for Senator Ayotte. (consideration: CR S1885-1886; text: CR S1885) To establish a deficit-neutral reserve fund to address the disproportionate regulatory burdens on community banks and credit unions.
+- 2015-03-25 — Amendment SA 515 proposed by Senator Vitter. (consideration: CR S1857-1858; text: CR S1857) To establish a spending-neutral reserve fund relating to requiring the Federal Government to allow states to opt out of Common Core without penalty.
+- 2015-03-25 — Amendment SA 539 proposed by Senator Cassidy. (consideration: CR S1882-1883; text: CR S1882) To establish a deficit-neutral reserve fund relating to improving Medicaid based on successful and bipartisan State demonstration projects.
+- 2015-03-25 — Amendment SA 578 proposed by Senator Manchin. (consideration: CR S1878-1879; text: CR S1878) To establish a deficit-neutral reserve fund relating to addressing methamphetamine abuse in the United States.
+- 2015-03-25 — Amendment SA 595 proposed by Senator Coats. (consideration: CR S1864; text: CR S1864) To establish a deficit-neutral reserve fund to improve cybersecurity.
+- 2015-03-25 — Amendment SA 601 proposed by Senator Stabenow for Senator Bennet. (consideration: CR S1844-1845, S1870-1871; text: CR S1844) To create a point of order against legislation that would privatize Medicare, cut guaranteed benefits, increase out-of-pocket spending, or turn Medicare into a premium support plan.
+- 2015-03-25 — Amendment SA 601 ruled out of order by the chair.
+- 2015-03-25 — Amendment SA 607 proposed by Senator Murkowski for Senator Thune. (consideration: CR S1883; text: CR S1883) To establish a deficit-neutral reserve fund to allow for the permanent elimination of the Federal estate tax.
+- 2015-03-25 — Amendment SA 622 agreed to in Senate by Voice Vote.
+- 2015-03-25 — Amendment SA 622 proposed by Senator Burr. (consideration: CR S1838-1839, S1842; text: CR S1838) To establish a deficit-neutral reserve fund relating to manageable Federal student loan repayment options.
+- 2015-03-25 — Amendment SA 632 proposed by Senator Casey. (consideration: CR S1879-1880; text: CR S1880) To establish a deficit-neutral reserve fund relating to providing reasonable accommodations for pregnant workers.
+- 2015-03-25 — Amendment SA 633 proposed by Senator Casey. (consideration: CR S1879-1880; text: CR S1880) To establish a deficit-neutral reserve fund relating to enhancing the child and dependent care tax credit.
+- 2015-03-25 — Amendment SA 652 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 86.
+- 2015-03-25 — Amendment SA 652 proposed by Senator Reed for Senator Warren. (consideration: CR S1839-1840, S1840-1842, S1842-1844) To make college more affordable for middle-class families by allowing borrowers with outstanding Federal and private student loans to refinance at the equivalent interest rates that were offered to Federal student loan borrowers during the 2013-2014 school year and to fully offset the cost of such a program by requiring millionaires to pay at least a 30 percent effective Federal tax rate.
+- 2015-03-25 — Amendment SA 694 proposed by Senator Manchin. (consideration: CR S1878; text: CR S1878) To establish a deficit-neutral reserve fund relating to investing in advanced fossil energy technology research and development.
+- 2015-03-25 — Amendment SA 697 proposed by Senator Sanders for Senator Murray. (consideration: CR S1873-1874; text: CR S1873) To establish a deficit-neutral reserve fund for legislation that reforms and strengthens elementary and secondary education.
+- 2015-03-25 — Amendment SA 700 proposed by Senator Whitehouse. (consideration: CR S1879; text: CR S1879) To ensure high-income earners pay a fair share in taxes and to use the revenue to invest in repairing our Nation's bridges, coastal infrastructure, and damage from wildfires.
+- 2015-03-25 — Amendment SA 708 proposed by Senator Wyden. (consideration: CR S1874-1875; text: CR S1875) To establish a deficit-neutral reserve fund relating to simplifying and expanding tax incentives for higher education to boost student attendance and completion.
+- 2015-03-25 — Amendment SA 715 proposed by Senator Coons for Senator Bennet. (consideration: CR S1883; text: CR S1883) To create clean energy jobs through predictable and fair incentives for renewable energy.
+- 2015-03-25 — Amendment SA 743 proposed by Senator Murkowski for Senator Thune. (consideration: CR S1883; text: CR S1883) To reduce funding for the General Services Administration by $1,000,000 until 50 percent of counties in nonattainment for the 1997 National Ambient Air Quality Standards (NAAQS) for ground-level ozone as of January 30, 2015, achieve the air quality standard set forth in the 1997 NAAQS, and direct those funds to the Administrator of the Environmental Protection Agency for the purpose of helping municipalities reach attainment with the 2008 NAAQS for ground-level ozone, acknowledging that (1) given limited State and Federal resources and the delay of the Administrator in issuing to States implementation guidance for the 2008 ground-level ozone NAAQS, priority should be given to achieving the 2008 standard, (2) the Administrator has not sufficiently implemented that standard, (3) focusing by the Administrator on the most polluted areas that are in nonattainment with that standard would benefit public health, and (4) promulgating a lower standard at this time would impose undue costs on the economy and workforce of the United States.
+- 2015-03-25 — Amendment SA 755 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 87.
+- 2015-03-25 — Amendment SA 755 proposed by Senator Stabenow. (consideration: CR S1845-1846, S1868-1869; text: CR S1845) To establish a deficit-neutral reserve fund relating to keeping the Federal Water Pollution Control Act focused on protection of water quality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.
+- 2015-03-25 — Amendment SA 770 proposed by Senator Murkowski. (consideration: CR S1883-1885; text: CR S1884) To establish a deficit-neutral reserve fund relating to the construction of Arctic polar icebreakers.
+- 2015-03-25 — Amendment SA 777 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 89.
+- 2015-03-25 — Amendment SA 777 proposed by Senator Sanders. (consideration: CR S1847-1848, S1862-1863, S1868, S1870, S1870; text: CR S1847-1848; text as modified: CR S1862-1863) To establish a deficit-neutral reserve fund to recognize that climate change is real and caused by human activity and that Congress needs to take action to cut carbon pollution.
+- 2015-03-25 — Amendment SA 791 proposed by Senator Wyden. (consideration: CR S1875; text: CR S1875) To strike reconciliation instructions to the Committees on Health, Education, Labor, and Pensions and Finance and require regular order.
+- 2015-03-25 — Amendment SA 795 proposed by Senator Cassidy. (consideration: CR S1882-1883; text: CR S1882) To establish a spending-neutral reserve fund relating to authorizing Federal permitting for manufacturing and energy construction projects relating to national primary or secondary ambient air quality standard for ozone lower than a certain existing standard.
+- 2015-03-25 — Amendment SA 796 agreed to in Senate by Voice Vote.
+- 2015-03-25 — Amendment SA 796 proposed by Senator Hatch. (consideration: CR S1853-1856, S1870; text: CR S1853) To establish a deficit-neutral reserve fund relating to saving Medicare.
+- 2015-03-25 — Amendment SA 798 proposed by Senator Sanders for Senator Murray. (consideration: CR S1873-1874; text: CR S1873) To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.
+- 2015-03-25 — Amendment SA 800 proposed by Senator Sanders for Senator Cantwell. (consideration: CR S1873-1874; text: CR S1873) To establish a deficit-neutral reserve fund relating to a comprehensive approach to crude-by-rail safety.
+- 2015-03-25 — Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 91.
+- 2015-03-25 — Amendment SA 801 proposed by Senator Murray. (consideration: CR S1863-1864, S1871) To build on the Bipartisan Budget Act of 2013 by restoring a below-sequester level cut of $9,000,000,000 to nondefense discretionary spending in 2017, replacing sequestration in 2016 and 2017 and increasing funding above sequester levels by a total of $148,000,000,000 for the 2 years, increasing defense and nondefense discretionary spending above sequester levels by equal amounts, eliminating the overseas contingency operations gimmick contained in the committee-reported resolution, and offsetting the net increase in defense and nondefense discretionary spending by closing tax loopholes.
+- 2015-03-25 — Amendment SA 802 proposed by Senator Coons. (consideration: CR S1877; text: CR S1877) To offset the costs of the war against the Islamic State in Iraq and Syria.
+- 2015-03-25 — Amendment SA 811 proposed by Senator Vitter. (consideration: CR S1858-1860; text: CR S1858) To establish a deficit-neutral reserve fund relating to ending Washington's illegal exemption from Patient Protection and Affordable Care Act.
+- 2015-03-25 — Amendment SA 812 proposed by Senator Sanders for Senator Murray. (consideration: CR S1873-1874; text: CR S1873) To establish a deficit-neutral reserve fund to provide women with affordable access to comprehensive health care, including preventive services (such as contraception and breast cancer screenings), improve maternal health, and ensure that a woman has the same benefits and services no matter what part of the United States she lives in, all of which is critical to improving the health and well-being of women, children, their families, and society as a whole, and is an essential part of a woman's economic security and opportunity.
+- 2015-03-25 — Amendment SA 817 proposed by Senator Sanders for Senator Durbin. (consideration: CR S1873-1874; text: CR S1874) To establish a deficit-neutral reserve fund to provide tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers and to eliminate tax benefits for corporations that ship jobs or profits overseas.
+- 2015-03-25 — Amendment SA 825 proposed by Senator Blumenthal. (consideration: CR S1881; text: CR S1881) To expand the deficit-neutral reserve fund for veterans and servicemembers.
+- 2015-03-25 — Amendment SA 838 proposed by Senator Murkowski. (consideration: CR S1883-1885; text: CR S1883-1884) To establish a spending-neutral reserve fund relating to the disposal of certain Federal land.
+- 2015-03-25 — Amendment SA 842 proposed by Senator Merkley. (consideration: CR S1880-1881; text: CR S1880) To establish a deficit-neutral reserve fund relating to consumer financial protection.
+- 2015-03-25 — Amendment SA 843 proposed by Senator Merkley. (consideration: CR S1880-1881; text: CR S1880) To establish a deficit-neutral reserve fund relating to restoring reductions in the Republican budget to the Stafford loan program that would mandate that students currently in college pay interest on their loans before they have received their education benefits, to make college more affordable, to reduce the debt burden of students, and to help graduates afford to pay back student loans.
+- 2015-03-25 — Amendment SA 852 proposed by Senator Gardner for Senator Ayotte. (consideration: CR S1885-1886; text: CR S1885) To establish a deficit-neutral reserve fund relating to providing small business regulatory relief and preventing duplicative regulations for investment advisors.
+- 2015-03-25 — Amendment SA 867 proposed by Senator Whitehouse. (consideration: CR S1879; text: CR S1879) To establish a deficit-neutral reserve fund relating to making it more difficult for corporations and billionaires to secretly influence elections by making unlimited undisclosed campaign expenditures, and to prevent such entities from evading campaign finance law, including through making false statements to government agencies.
+- 2015-03-25 — Amendment SA 870 proposed by Senator Wyden. (consideration: CR S1875; text: CR S1875) To establish a deficit-neutral reserve fund relating to extending tax provisions expiring in 2013 or 2014 for 2 years, such as those contained in the EXPIRE Act of 2014.
+- 2015-03-25 — Amendment SA 895 proposed by Senator Whitehouse. (consideration: CR S1879; text: CR S1879) To prohibit budget resolutions that support cutting over $1,000,000,000,000 in spending without identifying specific programmatic effects.
+- 2015-03-25 — Amendment SA 940 proposed by Senator Paul. (consideration: CR S1872-1873; text: CR S1872-1873) To increase new budget authority for fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050) with offsets.
+- 2015-03-25 — Amendment SA 951 proposed by Senator Sanders for Senator Murray. (consideration: CR S1873-1874; text: CR S1873-1874) To establish and fund a new Federal-State partnership to expand access to high-quality preschool programs for children from low- and moderate-income families, offset with revenue from closing loopholes.
+- 2015-03-25 — Amendment SA 952 proposed by Senator Merkley. (consideration: CR S1880-1881; text: CR S1880) To establish a deficit-neutral reserve fund relating to establishing a more level playing field in trade agreements.
+- 2015-03-25 — Amendment SA 953 proposed by Senator Merkley. (consideration: CR S1880-1881; text: CR S1880-1881) To save student financial aid and reduce the student loan debt levels in the Republican budget by 15 percent by eliminating new mandated interest charged while students are still in school.
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835, S1865)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835, S1865-1866)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835, S1871-1872)
+- 2015-03-25 — Considered by Senate. (consideration: CR S1835-1840, S1840-1886)
+- 2015-03-25 — Motion to waive all applicable budgetary discipline with respect to amendment SA 601 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 90. (consideration: CR S1871)
+- 2015-03-25 — Point of order that the amendment violates section 305 of the CBA raised in Senate with respect to amendment SA 601.
+- 2015-03-25 — Proposed amendment SA 350 withdrawn in Senate. (consideration: CR S1870)
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 347 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 88.
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 481 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 92.
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 652 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 86.
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 755 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 87.
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 777 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 89.
+- 2015-03-25 — Roll call votes on amendments in Senate: Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 91.
+- 2015-03-25 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 601 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 90.(consideration: CR S1871)
+- 2015-03-25 — Senate amendment agreed to: Amendment SA 347 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 88.
+- 2015-03-25 — Senate amendment agreed to: Amendment SA 481 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 92.
+- 2015-03-25 — Senate amendment agreed to: Amendment SA 622 agreed to in Senate by Voice Vote.
+- 2015-03-25 — Senate amendment agreed to: Amendment SA 755 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 87.
+- 2015-03-25 — Senate amendment agreed to: Amendment SA 796 agreed to in Senate by Voice Vote.
+- 2015-03-25 — Senate amendment not agreed to: Amendment SA 652 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 86.
+- 2015-03-25 — Senate amendment not agreed to: Amendment SA 777 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 89.
+- 2015-03-25 — Senate amendment not agreed to: Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 91.
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 341 proposed by Senator Cassidy.(consideration: CR S1882-1883; text: CR S1882)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 343 proposed by Senator Coons.(consideration: CR S1877, S1882; text: CR S1877)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 345 proposed by Senator Sanders for Senator Durbin.(consideration: CR S1873-1874; text: CR S1873-1874)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 347 proposed by Senator Barrasso.(consideration: CR S1836-1838, S1869-1870; text: CR S1836)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 350 proposed by Senator Blunt.(consideration: CR S1846-1847, S1868; text: CR S1846)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 352 proposed by Senator Roberts.(consideration: CR S1856-1857; text: CR S1856-1857)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 356 proposed by Senator Moran.(consideration: CR S1848-1853; text: CR S1848)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 360 proposed by Senator McCain.(consideration: CR S1874; text: CR S1874)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 368 proposed by Senator Coats.(consideration: CR S1864-1865; text: CR S1864-1865)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 387 proposed by Senator Daines.(consideration: CR S1866-1868; text: CR S1866)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 391 proposed by Senator Coons.(consideration: CR S1877, S1881-1882; text: CR S1877)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 392 proposed by Senator Coons.(consideration: CR S1877, S1882; text: CR S1877)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 394 proposed by Senator Coons.(consideration: CR S1877, S1882; text: CR S1877)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 432 proposed by Senator Baldwin.(consideration: CR S1877-1878)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 434 proposed by Senator Wyden.(consideration: CR S1868; text: CR S1868)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 436 proposed by Senator Baldwin.(consideration: CR S1878; text: CR S1878)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 443 proposed by Senator Gardner.(consideration: CR S1862; text: CR S1862)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 452 proposed by Senator Heller.(consideration: CR S1875-1877; text: CR S1875)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 453 proposed by Senator Heller.(consideration: CR S1875-1877; text: CR S1875)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 456 proposed by Senator Heller.(consideration: CR S1875-1877; text: CR S1876)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 457 proposed by Senator Heller.(consideration: CR S1875-1877; text: CR S1876)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 462 proposed by Senator Roberts.(consideration: CR S1857; text: CR S1857)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 465 proposed by Senator Daines.(consideration: CR S1866; text: CR S1866)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 485 proposed by Senator Gardner for Senator Ayotte.(consideration: CR S1885-1886; text: CR S1885)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 490 proposed by Senator Gardner for Senator Ayotte.(consideration: CR S1885-1886; text: CR S1885)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 515 proposed by Senator Vitter.(consideration: CR S1857-1858; text: CR S1857)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 539 proposed by Senator Cassidy.(consideration: CR S1882-1883; text: CR S1882)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 578 proposed by Senator Manchin.(consideration: CR S1878-1879; text: CR S1878)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 595 proposed by Senator Coats.(consideration: CR S1864; text: CR S1864)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 601 proposed by Senator Stabenow for Senator Bennet.(consideration: CR S1844-1845, S1870-1871; text: CR S1844)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 607 proposed by Senator Murkowski for Senator Thune.(consideration: CR S1883; text: CR S1883)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 622 proposed by Senator Burr.(consideration: CR S1838-1839, S1842; text: CR S1838)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 632 proposed by Senator Casey.(consideration: CR S1879-1880; text: CR S1880)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 633 proposed by Senator Casey.(consideration: CR S1879-1880; text: CR S1880)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 652 proposed by Senator Reed for Senator Warren.(consideration: CR S1839-1840, S1840-1842, S1842-1844)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 694 proposed by Senator Manchin.(consideration: CR S1878; text: CR S1878)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 697 proposed by Senator Sanders for Senator Murray.(consideration: CR S1873-1874; text: CR S1873)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 700 proposed by Senator Whitehouse.(consideration: CR S1879; text: CR S1879)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 708 proposed by Senator Wyden.(consideration: CR S1874-1875; text: CR S1875)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 715 proposed by Senator Coons for Senator Bennet.(consideration: CR S1883; text: CR S1883)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 743 proposed by Senator Murkowski for Senator Thune.(consideration: CR S1883; text: CR S1883)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 755 proposed by Senator Stabenow.(consideration: CR S1845-1846, S1868-1869; text: CR S1845)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 770 proposed by Senator Murkowski.(consideration: CR S1883-1885; text: CR S1884)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 777 proposed by Senator Sanders.(consideration: CR S1847-1848, S1862-1863, S1868, S1870, S1870; text: CR S1847-1848; text as modified: CR S1862-1863)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 791 proposed by Senator Wyden.(consideration: CR S1875; text: CR S1875)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 795 proposed by Senator Cassidy.(consideration: CR S1882-1883; text: CR S1882)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 796 proposed by Senator Hatch.(consideration: CR S1853-1856, S1870; text: CR S1853)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 798 proposed by Senator Sanders for Senator Murray.(consideration: CR S1873-1874; text: CR S1873)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 800 proposed by Senator Sanders for Senator Cantwell.(consideration: CR S1873-1874; text: CR S1873)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 801 proposed by Senator Murray.(consideration: CR S1863-1864, S1871)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 802 proposed by Senator Coons.(consideration: CR S1877; text: CR S1877)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 811 proposed by Senator Vitter.(consideration: CR S1858-1860; text: CR S1858)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 812 proposed by Senator Sanders for Senator Murray.(consideration: CR S1873-1874; text: CR S1873)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 817 proposed by Senator Sanders for Senator Durbin.(consideration: CR S1873-1874; text: CR S1874)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 825 proposed by Senator Blumenthal.(consideration: CR S1881; text: CR S1881)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 838 proposed by Senator Murkowski.(consideration: CR S1883-1885; text: CR S1883-1884)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 842 proposed by Senator Merkley.(consideration: CR S1880-1881; text: CR S1880)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 843 proposed by Senator Merkley.(consideration: CR S1880-1881; text: CR S1880)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 852 proposed by Senator Gardner for Senator Ayotte.(consideration: CR S1885-1886; text: CR S1885)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 867 proposed by Senator Whitehouse.(consideration: CR S1879; text: CR S1879)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 870 proposed by Senator Wyden.(consideration: CR S1875; text: CR S1875)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 895 proposed by Senator Whitehouse.(consideration: CR S1879; text: CR S1879)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 940 proposed by Senator Paul.(consideration: CR S1872-1873; text: CR S1872-1873)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 951 proposed by Senator Sanders for Senator Murray.(consideration: CR S1873-1874; text: CR S1873-1874)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 952 proposed by Senator Merkley.(consideration: CR S1880-1881; text: CR S1880)
+- 2015-03-25 — Senate amendment proposed (on the floor): Amendment SA 953 proposed by Senator Merkley.(consideration: CR S1880-1881; text: CR S1880-1881)
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-25 — Senate amendment submitted
+- 2015-03-26 — Amendment SA 1005 proposed by Senator Sanders for Senator Murphy. (consideration: CR S1998; text: CR S1998) To establish a deficit-neutral reserve fund relating to expanding United States counter-propaganda communications to combat misinformation from the Russian Federation or terrorist groups like ISIS and al Qaeda.
+- 2015-03-26 — Amendment SA 1011 proposed by Senator Enzi for Senator Sullivan. (consideration: CR S1977-1978; text: CR S1978) To establish a spending-neutral reserve fund relating to providing an exemption from certain permitting requirements for routine maintenance activities relating to transportation infrastructure.
+- 2015-03-26 — Amendment SA 1012 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 95.
+- 2015-03-26 — Amendment SA 1012 proposed by Senator Sanders for Senator Wyden. (consideration: CR S1978, S1984, S1985) To strike more than $1.2 trillion in cuts to Medicaid, preserving a critical source of comprehensive, affordable health and long-term care coverage for millions of otherwise uninsured low-income adults, parents, and seniors, including millions of nonelderly low-income adults in States that expanded Medicaid as part of health reform.
+- 2015-03-26 — Amendment SA 1014 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 115.
+- 2015-03-26 — Amendment SA 1014 proposed by Senator Enzi for Senator Bennet. (consideration: CR S1995-1997, S2001; text: CR S1995) To establish a deficit-neutral reserve fund relating to responding to the economic and national security threats posed by human-induced climate change, as highlighted by the Secretary of Defense, the Director of National Intelligence, the Administrator of the National Aeronautics and Space Administration, and the Administrator of National Oceanic and Atmospheric Administration.
+- 2015-03-26 — Amendment SA 1024 proposed by Senator Heinrich. (consideration: CR S1983; text: CR S1983) To create a point of order against legislation that would provide for the sale of Federal land to reduce the Federal deficit.
+- 2015-03-26 — Amendment SA 1025 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1997-1998; text: CR S1997) To establish a deficit-neutral reserve fund relating to H-1B visas.
+- 2015-03-26 — Amendment SA 1026 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 1026 proposed by Senator Wyden for Senator Murray. (consideration: CR S1988-1989; text: CR S1988) To establish a deficit-neutral reserve fund relating to transparency health premium billing.
+- 2015-03-26 — Amendment SA 1029 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 1029 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1995-1997, S2005; text: CR S1996) To establish a deficit-neutral reserve fund to prevent American jobs from being moved overseas by reducing the corporate income tax rate.
+- 2015-03-26 — Amendment SA 1038 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 122.
+- 2015-03-26 — Amendment SA 1038 proposed by Senator Enzi for Senator Kirk. (consideration: CR S1995-1997, S2006; text: CR S1996) To establish a deficit-neutral reserve fund to increase wages for American workers.
+- 2015-03-26 — Amendment SA 1044 proposed by Senator Sanders for Senator Cardin. (consideration: CR S1998; text: CR S1998) To establish a deficit-neutral reserve fund relating to imposing sanctions with respect to foreign persons responsible for gross violations of internationally recognized human rights or significant acts of corruption.
+- 2015-03-26 — Amendment SA 1047 proposed by Senator Sanders for Senator Kaine. (consideration: CR S1998, S2014; text: CR S1998; text as modified: CR S2014) To provide for sequestration replacement.
+- 2015-03-26 — Amendment SA 1063 as modified agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 121.
+- 2015-03-26 — Amendment SA 1063 proposed by Senator Enzi for Senator Schatz. (consideration: CR S1995-1997, S2005-2006; text: CR S1996; text as modified: CR S2005) To establish a deficit-neutral reserve fund relating to ensuring all legally married same-sex spouses have equal access to the Social Security and veterans benefits they have earned and receive equal treatment under the law pursuant to the Constitution of the United States.
+- 2015-03-26 — Amendment SA 1072 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 111.
+- 2015-03-26 — Amendment SA 1072 proposed by Senator Enzi for Senator Stabenow. (consideration: CR S1995-1997, S1999; text: CR S1995) To provide additional resources to reject the Senate Republicans' proposed $435 billion in cuts to Medicare.
+- 2015-03-26 — Amendment SA 321 proposed by Senator Isakson. (consideration: CR S1978-1979; text: CR S1978) To establish a deficit-neutral reserve fund relating to establishing a biennial budget and appropriations process.
+- 2015-03-26 — Amendment SA 342 proposed by Senator Sanders for Senator Schatz. (consideration: CR S1980; text: CR S1980) To establish a deficit-neutral reserve fund relating to the National Guard State Partnership Program.
+- 2015-03-26 — Amendment SA 346 proposed by Senator Collins. (consideration: CR S1969-1970; text: CR S1969) To modify the deficit-neutral reserve fund relating to promoting jobs in the United States through international trade to include the reauthorization or extension of trade adjustment assistance programs.
+- 2015-03-26 — Amendment SA 356 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 99.
+- 2015-03-26 — Amendment SA 360 as modified agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 124.
+- 2015-03-26 — Amendment SA 364 proposed by Senator Cardin. (consideration: CR S1966-1967; text: CR S1966) To establish a deficit-neutral reserve fund relating to improving oral health care for children and pregnant women under Medicaid.
+- 2015-03-26 — Amendment SA 367 proposed by Senator Cardin. (consideration: CR S1966-1967, S2013; text: CR S1966) To establish a deficit-neutral reserve fund relating to providing a funding stream for a voter reinfranchisement initiative.
+- 2015-03-26 — Amendment SA 402 proposed by Senator Enzi for Senator Johnson. (consideration: CR S1980-1981; text: CR S1980-1981) To establish a deficit-neutral reserve fund relating to improving information sharing by the Inspector General of the Department of Veterans Affairs with respect to investigations relating to substandard health care, delayed and denied health care, patient deaths, other findings that directly relate to patient care, and other management issues of the Department.
+- 2015-03-26 — Amendment SA 415 proposed by Senator Capito. (consideration: CR S1964; text: CR S1964) To establish a spending-neutral reserve fund relating to a requirement that any new environmental agreement signed by the United States with any foreign country or countries not result in serious harm to the economy of the United States.
+- 2015-03-26 — Amendment SA 416 proposed by Senator Capito. (consideration: CR S1964; text: CR S1964) To establish a spending-neutral reserve fund relating to protecting the reliability of the electricity grid.
+- 2015-03-26 — Amendment SA 423, as modified, ruled out of order by the chair.
+- 2015-03-26 — Amendment SA 425 proposed by Senator Collins. (consideration: CR S1969-1970; text: CR S1969) To establish a deficit-neutral reserve fund relating to improving retirement security.
+- 2015-03-26 — Amendment SA 426 proposed by Senator Collins. (consideration: CR S1969-1970; text: CR S1969) To establish a deficit-neutral reserve fund relating to promoting economic growth and job creation for small businesses.
+- 2015-03-26 — Amendment SA 427 proposed by Senator Collins. (consideration: CR S1969-1970; text: CR S1969) To establish a deficit-neutral reserve fund relating to investment in Alzheimer's disease research.
+- 2015-03-26 — Amendment SA 432 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 100.
+- 2015-03-26 — Amendment SA 435 proposed by Senator Sanders for Senator Menendez. (consideration: CR S1976; text: CR S1976) To establish a deficit-neutral reserve fund relating to support for Ukraine, which should include the provision of lethal defensive articles.
+- 2015-03-26 — Amendment SA 437 proposed by Senator Peters. (consideration: CR S1964-1965; text: CR S1965) To establish a deficit-neutral reserve fund relating to enhancing and improving the United States Patent and Trademark Office in order to reduce the patent application backlog.
+- 2015-03-26 — Amendment SA 439 proposed by Senator Cardin. (consideration: CR S1966-1967; text: CR S1966) To establish a deficit-neutral reserve fund relating to mandating a higher threshold that the Small Business Administration may guarantee, through the Surety Bond Guarantee Program, of the bonds that small businesses are required to obtain so that they may be able to better compete successfully for Federal Government contracts.
+- 2015-03-26 — Amendment SA 440 proposed by Senator Cardin. (consideration: CR S1966-1967; text: CR S1966) To establish a deficit-neutral reserve fund relating to increasing the Family Funds limit of the Small Business Investment Company Program from $225,000,000 to $350,000,000, as passed by the Committee in 2013, which is zero subsidy and funded entirely through fees paid by investors and businesses.
+- 2015-03-26 — Amendment SA 442 proposed by Senator Collins. (consideration: CR S1969-1970; text: CR S1969) To establish a deficit-neutral reserve fund to restore a sensible definition of full-time employee for purposes of the Patient Protection and Affordable Care Act.
+- 2015-03-26 — Amendment SA 443 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 118.
+- 2015-03-26 — Amendment SA 445 proposed by Senator Gardner. (consideration: CR S1971; text: CR S1971) To prevent labor disputes at seaports in the United States from causing national economic disruptions and crippling businesses across the United States.
+- 2015-03-26 — Amendment SA 448 proposed by Senator Gardner. (consideration: CR S1971; text: CR S1971) To establish a deficit-neutral reserve fund relating to encouraging expedited approval of liquefied natural gas export applications at the Department of Energy.
+- 2015-03-26 — Amendment SA 449 proposed by Senator Gardner. (consideration: CR S1971; text: CR S1971) To establish a deficit-neutral reserve fund relating to supporting efficient resourcing for the Asia rebalance policy.
+- 2015-03-26 — Amendment SA 467 proposed by Senator Moran for Senator Blunt. (consideration: CR S1974-1975; text: CR S1975) To establish a spending-neutral reserve fund relating to the direct provision of defense articles, defense services, and related training to the Kurdistan Regional Government.
+- 2015-03-26 — Amendment SA 468 proposed by Senator Moran for Senator Blunt. (consideration: CR S1974-1975; text: CR S1975) To establish a spending-neutral reserve fund relating to military aid to Israel.
+- 2015-03-26 — Amendment SA 473 proposed by Senator Sanders for Senator Menendez. (consideration: CR S1976; text: CR S1976) To establish a deficit-neutral reserve fund relating to providing funding to combat anti-Semitism in Europe.
+- 2015-03-26 — Amendment SA 475 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 475 proposed by Senator Enzi for Senator Sanders. (consideration: CR S1995-1997, S2004; text: CR S1995-1996) To establish a deficit-neutral reserve fund relating to strengthening the United States Postal Service by establishing a moratorium to protect mail processing plants, reinstating overnight delivery standards, and protecting rural service.
+- 2015-03-26 — Amendment SA 504 proposed by Senator Enzi for Senator Sullivan. (consideration: CR S1977-1978; text: CR S1977) To establish a spending-neutral reserve fund relating to limiting the ability of Environmental Protection Agency personnel to carry guns.
+- 2015-03-26 — Amendment SA 505 proposed by Senator Enzi for Senator Sullivan. (consideration: CR S1977-1978; text: CR S1977) To establish a deficit-neutral reserve fund relating to supporting programs related to the ground-based midcourse defense and the long-range discrimination radar programs of the Department of Defense.
+- 2015-03-26 — Amendment SA 506 proposed by Senator Enzi for Senator Sullivan. (consideration: CR S1977-1978; text: CR S1977-1978) To establish a spending-neutral reserve fund relating to protecting vulnerable families from job killing regulations.
+- 2015-03-26 — Amendment SA 515 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 105.
+- 2015-03-26 — Amendment SA 521 proposed by Senator Peters. (consideration: CR S1965; text: CR S1965) To establish a deficit-neutral reserve fund relating to investing in science, technology, and basic research in the United States.
+- 2015-03-26 — Amendment SA 523 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 94.
+- 2015-03-26 — Amendment SA 523 proposed by Senator Stabenow. (consideration: CR S1971-1972, S1984; text: CR S1971-1972) To prevent United States companies from getting tax benefits for moving jobs overseas, to end offshore tax loopholes including inversions, and to provide incentives for United States companies to relocate overseas jobs to the United States.
+- 2015-03-26 — Amendment SA 533 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1997-1998; text: CR S1997) To establish a deficit-neutral reserve fund relating to ensuring that Department of Justice attorneys comply with disclosure obligations in criminal prosecutions.
+- 2015-03-26 — Amendment SA 535 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1997-1998; text: CR S1997-1998) To establish a deficit-neutral reserve fund relating to balancing the Federal budget.
+- 2015-03-26 — Amendment SA 545 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 109.
+- 2015-03-26 — Amendment SA 552 proposed by Senator Rubio. (consideration: CR S1972-1973, S2013-2014; text: CR S1973) To establish a spending-neutral reserve fund relating to increasing funding for the relocation of the United States Embassy in Israel from Tel Aviv to Jerusalem.
+- 2015-03-26 — Amendment SA 562 proposed by Senator Rubio. (consideration: CR S1972-1973; text: CR S1973) To establish a spending-neutral reserve fund relating to establishing a new outcomes-based process for authorizing innovative higher education providers.
+- 2015-03-26 — Amendment SA 565 proposed by Senator Rubio. (consideration: CR S1972-1973; text: CR S1973) To establish a deficit-neutral reserve fund relating to ensuring that Medicare is not raided to bailout insurance companies under the President's health care overhaul.
+- 2015-03-26 — Amendment SA 573 proposed by Senator Markey. (consideration: CR S1975-1976; text: CR S1975) To establish a deficit-neutral reserve fund relating to promoting the repair and replacement of natural gas distribution pipelines and infrastructure no longer fit for service.
+- 2015-03-26 — Amendment SA 588 proposed by Senator Sanders for Senator Schatz. (consideration: CR S1980; text: CR S1980) To establish a deficit-neutral reserve fund relating to increasing the number of U.S. Customs and Border Protection officers at air ports of entry.
+- 2015-03-26 — Amendment SA 590 proposed by Senator Rubio. (consideration: CR S1972-1973; text: CR S1973) To establish a deficit-neutral reserve fund relating to protecting the Medicare Advantage program.
+- 2015-03-26 — Amendment SA 593 proposed by Senator Sanders for Senator Menendez. (consideration: CR S1976; text: CR S1976) To require consideration of long-term deficits for any legislation relating to repealing or replacing the Patient Protection and Affordable Care Act and the health care-related provisions of the Health Care and Education Reconciliation Act of 2010.
+- 2015-03-26 — Amendment SA 596 proposed by Senator Enzi for Senator Johnson. (consideration: CR S1980-1981; text: CR S1981) To convey clear information in graphic form about projected deficits.
+- 2015-03-26 — Amendment SA 597 proposed by Senator Enzi for Senator Johnson. (consideration: CR S1980-1981; text: CR S1981) To convey clear information to Congress and the public about projected Federal outlays, revenues, surpluses, and deficits.
+- 2015-03-26 — Amendment SA 607 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 114.
+- 2015-03-26 — Amendment SA 611 proposed by Senator Isakson. (consideration: CR S1978-1979; text: CR S1978) To establish a deficit-neutral reserve fund to subject all fees collected by U.S. Citizenship and Immigration Services to the annual appropriations process.
+- 2015-03-26 — Amendment SA 632 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 113.
+- 2015-03-26 — Amendment SA 636 proposed by Senator Warner. (consideration: CR S1973-1974; text: CR S1973) To establish a deficit-neutral reserve fund relating to protecting the personal information of consumers from data breaches.
+- 2015-03-26 — Amendment SA 638 proposed by Senator Warner. (consideration: CR S1973-1974; text: CR S1973) To establish a deficit-reduction reserve fund reserve fund for Government reform and efficiency.
+- 2015-03-26 — Amendment SA 639 proposed by Senator Peters. (consideration: CR S1965-1966; text: CR S1966) To establish a deficit-neutral reserve fund relating to supporting trade and travel at ports of entry.
+- 2015-03-26 — Amendment SA 649 as modified agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 108.
+- 2015-03-26 — Amendment SA 649 proposed by Senator Inhofe. (consideration: CR S1991, S1993; text as modified: CR S1993) To establish a spending-neutral reserve fund relating to prohibiting funding of international organizations during the implementation of the United Nations Arms Trade Treaty prior to Senate ratification and adoption of implementing legislation.
+- 2015-03-26 — Amendment SA 659 proposed by Senator Enzi for Senator Cotton. (consideration: CR S1995-1997, S2009-2010; text: CR S1996) To establish a spending-neutral reserve fund relating to prohibiting the designation of critical habitat.
+- 2015-03-26 — Amendment SA 664 proposed by Senator Enzi for Senator Cotton. (consideration: CR S1995-1997, S2010-2011; text: CR S1996) To establish a deficit-neutral reserve fund relating to construction of new facilities and improvements to existing facilities at the detention facilities at United States Naval Station, Guantanamo Bay, Cuba.
+- 2015-03-26 — Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 120.
+- 2015-03-26 — Amendment SA 665 proposed by Senator Flake. (consideration: CR S1976-1977, S2003-2004; text: CR S1976-1977) To establish a spending-neutral reserve fund relating to prohibiting awarding of construction contracts based on awardees entering or not entering into agreements with labor organizations.
+- 2015-03-26 — Amendment SA 666 proposed by Senator Flake. (consideration: CR S1976-1977; text: CR S1977) To establish a spending-neutral reserve fund relating to reducing the level of Federal premium support for crop insurance policies, which may include eliminating premium support for crop insurance for agricultural producers with an adjusted gross income of more than $750,000 in fiscal year 2016.
+- 2015-03-26 — Amendment SA 667 proposed by Senator Flake. (consideration: CR S1976-1977; text: CR S1977) To establish a deficit-neutral reserve fund relating to ensuring that individuals do not simultaneously receive unemployment compensation and disability insurance benefits.
+- 2015-03-26 — Amendment SA 668 proposed by Senator Flake. (consideration: CR S1976-1977; text: CR S1977) To establish a spending-neutral reserve fund relating to government reform and efficiency.
+- 2015-03-26 — Amendment SA 677 proposed by Senator Flake. (consideration: CR S1976-1977; text: CR S1977) To establish a deficit-neutral reserve fund relating to preventing political targeting by the Internal Revenue Service of individuals and social welfare organizations exercising free-speech rights.
+- 2015-03-26 — Amendment SA 678 proposed by Senator Flake. (consideration: CR S1976-1977; text: CR S1977) To establish a spending-neutral reserve fund relating to prosecution of first-time illegal border crossers.
+- 2015-03-26 — Amendment SA 681 proposed by Senator Portman. (consideration: CR S1967-1968; text: CR S1968) To establish a deficit-neutral reserve fund relating to demolishing vacant and abandoned homes.
+- 2015-03-26 — Amendment SA 689 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 112.
+- 2015-03-26 — Amendment SA 689 proposed by Senator Portman. (consideration: CR S1963-1964, S1999-2000; text: CR S1963) To improve the dynamic scoring provision.
+- 2015-03-26 — Amendment SA 692 agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 102.
+- 2015-03-26 — Amendment SA 692 proposed by Senator Scott. (consideration: CR S1989; text: CR S1989) To establish a deficit-neutral reserve fund relating to transparency in health premium billing.
+- 2015-03-26 — Amendment SA 707 proposed by Senator Markey. (consideration: CR S1975-1976; text: CR S1975) To establish a deficit-neutral reserve fund relating to reducing overdose deaths.
+- 2015-03-26 — Amendment SA 713 proposed by Senator Sanders for Senator Murphy. (consideration: CR S1998; text: CR S1998) To establish a deficit-neutral reserve fund relating to comprehensive mental health reform.
+- 2015-03-26 — Amendment SA 720 proposed by Senator Booker. (consideration: CR S1982-1983; text: CR S1982) To establish a deficit-neutral reserve fund relating to supporting workforce development through apprenticeship programs.
+- 2015-03-26 — Amendment SA 721 proposed by Senator Booker. (consideration: CR S1982-1983; text: CR S1982-1983) To establish a deficit-neutral reserve fund to encourage freight planning and investment that incorporates all modes of transportation, including rail, waterways, ports, and highways to promote national connectivity.
+- 2015-03-26 — Amendment SA 722 proposed by Senator Booker. (consideration: CR S1982-1983; text: CR S1983) To establish a deficit-neutral reserve fund relating to prohibiting payments for conversion therapy or treatments that purport to change the gender identity or sexual orientation of an individual under the Medicare and Medicaid programs.
+- 2015-03-26 — Amendment SA 724 proposed by Senator Sanders for Senator Kaine. (consideration: CR S1998; text: CR S1998) To establish a deficit-neutral reserve fund relating to increasing United States exports and improving the competitiveness of United States businesses.
+- 2015-03-26 — Amendment SA 729 proposed by Senator Sanders for Senator Cardin. (consideration: CR S1980; text: CR S1980) To establish a deficit-neutral reserve fund to invest in surface transportation projects.
+- 2015-03-26 — Amendment SA 749 proposed by Senator Enzi for Senator Lee. (consideration: CR S1979-1980; text: CR S1979) To ensure that the reserve fund relating to affordable healthcare choices for all is used to repeal and not further empower the Patient Protection and Affordable Care Act.
+- 2015-03-26 — Amendment SA 750 proposed by Senator Enzi for Senator Lee. (consideration: CR S1979-1980, S1995; text: CR S1979; text as modified: CR S1995) To modify the spending-neutral reserve fund reauthorizing funding for payments to counties and other units of local government to include the option of payment at levels roughly equivalent to property tax revenues lost due to the presence of Federal land.
+- 2015-03-26 — Amendment SA 759 proposed by Senator Enzi for Senator Lee. (consideration: CR S1979-1980; text: CR S1979-1980) To establish a spending-neutral reserve fund relating to clarifying Federal jurisdiction with respect to intrastate species.
+- 2015-03-26 — Amendment SA 763 proposed by Senator Enzi for Senator Graham. (consideration: CR S1995-1997, S2003; text: CR S1995) To establish a deficit-neutral reserve fund relating to subjecting all Federal spending to sequestration.
+- 2015-03-26 — Amendment SA 781 proposed by Senator Rubio. (consideration: CR S1972-1973; text: CR S1972) To establish a spending-neutral reserve fund relating to reducing foreign assistance to the Palestinian Authority and certain United Nations agencies and increasing foreign assistance for Israel.
+- 2015-03-26 — Amendment SA 798 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 98.
+- 2015-03-26 — Amendment SA 810 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 810 proposed by Senator Collins. (consideration: CR S1969-1970, S1987-1988; text: CR S1969) To establish a deficit-neutral reserve fund relating to increasing access to higher education for low-income Americans through the Federal Pell Grant program.
+- 2015-03-26 — Amendment SA 817 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 104.
+- 2015-03-26 — Amendment SA 825 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 827 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1997-1998; text: CR S1997) To establish a spending-neutral reserve fund relating to reforming the Federal regulatory process by enabling retrospective review of existing regulations, improving the process by which new regulations are created, ensuring fair and effective judicial review, and securing an effective role for Congress in the Federal regulatory process through legislation and oversight.
+- 2015-03-26 — Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 101.
+- 2015-03-26 — Amendment SA 828 proposed by Senator Franken. (consideration: CR S1988) To provide additional resources to save student financial aid and keep college affordable for more than 8,000,000 low- and middle-income students by restoring the $89,000,000,000 in cuts to Federal Pell Grants in the Republican budget.
+- 2015-03-26 — Amendment SA 836 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 116.
+- 2015-03-26 — Amendment SA 836 proposed by Senator Enzi for Senator McConnell. (consideration: CR S1995-1997, S2001-2002; text: CR S1995) To establish a deficit-neutral reserve fund relating to the regulation by the Environmental Protection Agency of greenhouse gas emissions, which may include a prohibition on withholding highway funds from States that refuse to submit State Implementation Plans required under the Clean Power Plan of the Agency.
+- 2015-03-26 — Amendment SA 838 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 106.
+- 2015-03-26 — Amendment SA 839 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 839 proposed by Senator Isakson. (consideration: CR S1978-1979, S1998-1999; text: CR S1978) To establish a deficit-neutral reserve fund relating to supporting United States citizens held hostage in the United States embassy in Tehran, Iran, between November 3, 1979, and January 20, 1981.
+- 2015-03-26 — Amendment SA 842 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 117.
+- 2015-03-26 — Amendment SA 855 proposed by Senator Enzi for Senator Lee. (consideration: CR S1979-1980, S2012-2013; text: CR S1979) To prohibit increasing the public debt limit under reconciliation.
+- 2015-03-26 — Amendment SA 856 proposed by Senator Enzi for Senator Lee. (consideration: CR S1979-1980; text: CR S1979) To establish a spending-neutral reserve fund to support legislation preventing the Federal Communications Commission from reclassifying broadband providers as common carriers under title II of the Communications Act of 1934 and from implementing other "net neutrality" provisions.
+- 2015-03-26 — Amendment SA 865 proposed by Senator Enzi for Senator Johnson. (consideration: CR S1980-1981; text: CR S1981) To establish a spending-neutral reserve fund to accommodate legislation that would stop the Federal government from forcing States to pay unemployment compensation benefits to millionaires.
+- 2015-03-26 — Amendment SA 867 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 107.
+- 2015-03-26 — Amendment SA 877 proposed by Senator Hirono. (consideration: CR S1970-1971; text: CR S1970) To establish a deficit-neutral reserve fund relating to increasing college completion, which may include expanding Federal Pell Grant eligibility by allowing college students to use Federal Pell Grants for more than 2 semesters in an academic year.
+- 2015-03-26 — Amendment SA 878 proposed by Senator Hirono. (consideration: CR S1970-1971; text: CR S1970-1971) To establish a deficit-neutral reserve fund relating to investing in clean energy and preserving the environment.
+- 2015-03-26 — Amendment SA 881 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 93.
+- 2015-03-26 — Amendment SA 881 proposed by Senator Sanders. (consideration: CR S1982, S1983, S1983-1984; text: CR S1982) To establish a deficit-neutral reserve fund relating to promoting a substantial increase in the minimum wage.
+- 2015-03-26 — Amendment SA 896 proposed by Senator Markey. (consideration: CR S1975-1976; text: CR S1975) To establish a deficit-neutral reserve fund relating to improving the safety of offshore oil drilling in the United States.
+- 2015-03-26 — Amendment SA 897 proposed by Senator Markey. (consideration: CR S1975-1976; text: CR S1975) To establish a deficit-neutral reserve fund relating to protecting consumers in the United States from price increases due to large-scale natural gas exports.
+- 2015-03-26 — Amendment SA 899 proposed by Senator Cardin. (consideration: CR S1966-1967; text: CR S1967) To establish a deficit-neutral reserve fund relating to the importance of financial literacy education to allow individuals to make informed and effective decisions with their financial resources.
+- 2015-03-26 — Amendment SA 900 proposed by Senator Cardin. (consideration: CR S1966-1967; text: CR S1967) To establish a deficit-neutral reserve fund relating to the importance of civics and government education.
+- 2015-03-26 — Amendment SA 919 proposed by Senator Enzi for Senator Reed. (consideration: CR S1995-1997, S2009; text: CR S1996) To establish a deficit-neutral reserve fund relating to eliminating deductions for corporate compensation in excess of $1,000,000.
+- 2015-03-26 — Amendment SA 925 proposed by Senator Tillis. (consideration: CR S1980; text: CR S1980) To establish a deficit-neutral reserve fund relating to the United States civil courts system.
+- 2015-03-26 — Amendment SA 926 proposed by Senator Tillis. (consideration: CR S1980; text: CR S1980) To establish a deficit-neutral reserve fund relating to ensuring that the right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+- 2015-03-26 — Amendment SA 928 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 103.
+- 2015-03-26 — Amendment SA 928 proposed by Senator Blunt. (consideration: CR S1989-1990; text: CR S1989-1990) To establish a deficit-neutral reserve fund to protect the United States from an energy tax.
+- 2015-03-26 — Amendment SA 932 proposed by Senator Cochran. (consideration: CR S1981-1982; text: CR S1981) To establish a deficit-neutral reserve fund relating to establishing a biennial budget resolution process.
+- 2015-03-26 — Amendment SA 940, as modified, ruled out of order by the chair.
+- 2015-03-26 — Amendment SA 944 proposed by Senator Nelson. (consideration: CR S1968-1969, S2006-2007; text: CR S1968) To create a point of order against legislation that would use tax dollars to censor publicly-funded climate science.
+- 2015-03-26 — Amendment SA 944 ruled out of order by the chair.
+- 2015-03-26 — Amendment SA 947 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Amendment SA 947 proposed by Senator Bennet. (consideration: CR S1991; text: CR S1991) To ensure that small businesses are provided relief as part of tax reform by permanently increasing the maximum amount of the section 179 small business expensing allowance to $1,000,000 and the investment limitation to $2,500,000 and indexing them both for inflation.
+- 2015-03-26 — Amendment SA 951 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 119.
+- 2015-03-26 — Amendment SA 966 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 110.
+- 2015-03-26 — Amendment SA 966 proposed by Senator Coons. (consideration: CR S1994; text as modified: CR S1994) To establish a deficit-neutral reserve fund relating to offsetting the costs of operations against the Islamic State.
+- 2015-03-26 — Amendment SA 967 proposed by Senator Markey. (consideration: CR S1975-1976; text: CR S1975) To establish a deficit-neutral reserve fund relating to domestic medical isotope production.
+- 2015-03-26 — Amendment SA 968 agreed to in Senate by Yea-Nay Vote. 73 - 27. Record Vote Number: 125.
+- 2015-03-26 — Amendment SA 968 proposed by Senator Enzi for Senator Wyden. (consideration: CR S1995-1997, S2007-2008; text: CR S1996) To establish a deficit-neutral reserve fund relating to enacting middle class tax relief, including extending and expanding refundable tax credits, such as tax provisions and policies included in legislation like the Working Families Tax Relief Act, American Opportunity Tax Credit Permanence and Consolidation Act, Helping Working Families Afford Child Care Act, or the 21st Century Worker Tax Cut Act, among other legislation.
+- 2015-03-26 — Amendment SA 984 proposed by Senator Enzi for Senator Hatch. (consideration: CR S1997-1998; text: CR S1997) To establish a deficit-neutral reserve fund relating to ensuring that patients, including military members and veterans, have access to new antibacterial drugs that treat serious or life-threatening infections through the creation by the Food and Drug Administration of a limited population approval pathway for antibacterial drugs.
+- 2015-03-26 — Amendment SA 991 proposed by Senator Warner. (consideration: CR S1973-1974) To restore program integrity funding to combat waste, fraud, and abuse.
+- 2015-03-26 — Amendment SA 993 proposed by Senator Sanders for Senator Menendez. (consideration: CR S1976, S2010; text: CR S1976) To establish a deficit-neutral reserve fund relating to strengthening the national do-not-call registry.
+- 2015-03-26 — Amendment SA 994 proposed by Senator Enzi for Senator Brown. (consideration: CR S1995-1997, S2011; text: CR S1996-1997) To establish a deficit-neutral reserve fund to end "too big to fail" bailouts for Wall Street mega-banks (over $500 billion in total assets).
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1984-1985, S1986; text as modified: CR S1984-1985)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1985-1986)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1986)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1987)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1990-1991)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S1991, S1993-1994; text as modified: CR S1991)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S2002-2003)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960, S2012)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960-1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1960-2011, S2011-2022)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S1987)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S1990)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S1991-1992)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S1992)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2000)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2000-2001)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2002)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2003)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2003)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2007; text as modified: CR S2007)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2008)
+- 2015-03-26 — Considered by Senate. (consideration: CR S1961, S2014-2022; text: CR S2021-2022)
+- 2015-03-26 — Motion to waive all applicable budgetary discipline with respect to amendment SA 423, as modified, rejected in Senate by Yea-Nay Vote. 32 - 68. Record Vote Number: 96. (consideration: CR S1985-1986)
+- 2015-03-26 — Motion to waive all applicable budgetary discipline with respect to amendment SA 940, as modified, rejected in Senate by Yea-Nay Vote. 4 - 96. Record Vote Number: 97. (consideration: CR S1986)
+- 2015-03-26 — Motion to waive all applicable budgetary discipline with respect to amendment SA 944 rejected in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 123. (consideration: CR S2007)
+- 2015-03-26 — Point of order that the amendment violates section 305(b) of the CBA raised in Senate with respect to amendment SA 944.
+- 2015-03-26 — Point of order that the amendment violates section 312(b) of the CBA raised in Senate with respect to amendment SA 423, as modified.
+- 2015-03-26 — Point of order that the amendment violates section 312(b) of the CBA raised in Senate with respect to amendment SA 940, as modified.
+- 2015-03-26 — Proposed amendment SA 763 withdrawn in Senate. (consideration: CR S2003)
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 1012 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 95.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 1014 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 115.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 1038 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 122.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 1063 as modified agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 121.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 1072 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 111.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 356 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 99.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 360 as modified agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 124.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 432 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 100.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 443 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 118.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 515 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 105.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 523 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 94.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 545 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 109.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 607 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 114.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 632 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 113.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 649 as modified agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 108.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 120.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 689 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 112.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 692 agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 102.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 798 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 98.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 817 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 104.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 101.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 836 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 116.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 838 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 106.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 842 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 117.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 867 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 107.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 881 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 93.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 928 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 103.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 951 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 119.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 966 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 110.
+- 2015-03-26 — Roll call votes on amendments in Senate: Amendment SA 968 agreed to in Senate by Yea-Nay Vote. 73 - 27. Record Vote Number: 125.
+- 2015-03-26 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 423, as modified, rejected in Senate by Yea-Nay Vote. 32 - 68. Record Vote Number: 96.(consideration: CR S1985-1986)
+- 2015-03-26 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 940, as modified, rejected in Senate by Yea-Nay Vote. 4 - 96. Record Vote Number: 97.(consideration: CR S1986)
+- 2015-03-26 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 944 rejected in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 123.(consideration: CR S2007)
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 1014 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 115.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 1026 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 1029 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 1038 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 122.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 1063 as modified agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 121.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 356 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 99.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 360 as modified agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 124.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 443 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 118.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 475 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 515 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 105.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 545 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 109.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 607 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 114.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 632 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 113.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 649 as modified agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 108.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 120.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 689 agreed to in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 112.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 692 agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 102.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 798 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 98.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 810 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 825 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 836 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 116.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 838 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 106.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 839 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 928 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 103.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 947 agreed to in Senate by Voice Vote.
+- 2015-03-26 — Senate amendment agreed to: Amendment SA 968 agreed to in Senate by Yea-Nay Vote. 73 - 27. Record Vote Number: 125.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 1012 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 95.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 1072 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 111.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 432 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 100.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 523 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 94.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 817 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 104.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 101.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 842 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 117.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 867 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 107.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 881 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 93.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 951 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 119.
+- 2015-03-26 — Senate amendment not agreed to: Amendment SA 966 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 110.
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1005 proposed by Senator Sanders for Senator Murphy.(consideration: CR S1998; text: CR S1998)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1011 proposed by Senator Enzi for Senator Sullivan.(consideration: CR S1977-1978; text: CR S1978)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1012 proposed by Senator Sanders for Senator Wyden.(consideration: CR S1978, S1984, S1985)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1014 proposed by Senator Enzi for Senator Bennet.(consideration: CR S1995-1997, S2001; text: CR S1995)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1024 proposed by Senator Heinrich.(consideration: CR S1983; text: CR S1983)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1025 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1997-1998; text: CR S1997)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1026 proposed by Senator Wyden for Senator Murray.(consideration: CR S1988-1989; text: CR S1988)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1029 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1995-1997, S2005; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1038 proposed by Senator Enzi for Senator Kirk.(consideration: CR S1995-1997, S2006; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1044 proposed by Senator Sanders for Senator Cardin.(consideration: CR S1998; text: CR S1998)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1047 proposed by Senator Sanders for Senator Kaine.(consideration: CR S1998, S2014; text: CR S1998; text as modified: CR S2014)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1063 proposed by Senator Enzi for Senator Schatz.(consideration: CR S1995-1997, S2005-2006; text: CR S1996; text as modified: CR S2005)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 1072 proposed by Senator Enzi for Senator Stabenow.(consideration: CR S1995-1997, S1999; text: CR S1995)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 321 proposed by Senator Isakson.(consideration: CR S1978-1979; text: CR S1978)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 342 proposed by Senator Sanders for Senator Schatz.(consideration: CR S1980; text: CR S1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 346 proposed by Senator Collins.(consideration: CR S1969-1970; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 364 proposed by Senator Cardin.(consideration: CR S1966-1967; text: CR S1966)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 367 proposed by Senator Cardin.(consideration: CR S1966-1967, S2013; text: CR S1966)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 402 proposed by Senator Enzi for Senator Johnson.(consideration: CR S1980-1981; text: CR S1980-1981)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 415 proposed by Senator Capito.(consideration: CR S1964; text: CR S1964)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 416 proposed by Senator Capito.(consideration: CR S1964; text: CR S1964)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 425 proposed by Senator Collins.(consideration: CR S1969-1970; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 426 proposed by Senator Collins.(consideration: CR S1969-1970; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 427 proposed by Senator Collins.(consideration: CR S1969-1970; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 435 proposed by Senator Sanders for Senator Menendez.(consideration: CR S1976; text: CR S1976)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 437 proposed by Senator Peters.(consideration: CR S1964-1965; text: CR S1965)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 439 proposed by Senator Cardin.(consideration: CR S1966-1967; text: CR S1966)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 440 proposed by Senator Cardin.(consideration: CR S1966-1967; text: CR S1966)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 442 proposed by Senator Collins.(consideration: CR S1969-1970; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 445 proposed by Senator Gardner.(consideration: CR S1971; text: CR S1971)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 448 proposed by Senator Gardner.(consideration: CR S1971; text: CR S1971)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 449 proposed by Senator Gardner.(consideration: CR S1971; text: CR S1971)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 467 proposed by Senator Moran for Senator Blunt.(consideration: CR S1974-1975; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 468 proposed by Senator Moran for Senator Blunt.(consideration: CR S1974-1975; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 473 proposed by Senator Sanders for Senator Menendez.(consideration: CR S1976; text: CR S1976)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 475 proposed by Senator Enzi for Senator Sanders.(consideration: CR S1995-1997, S2004; text: CR S1995-1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 504 proposed by Senator Enzi for Senator Sullivan.(consideration: CR S1977-1978; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 505 proposed by Senator Enzi for Senator Sullivan.(consideration: CR S1977-1978; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 506 proposed by Senator Enzi for Senator Sullivan.(consideration: CR S1977-1978; text: CR S1977-1978)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 521 proposed by Senator Peters.(consideration: CR S1965; text: CR S1965)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 523 proposed by Senator Stabenow.(consideration: CR S1971-1972, S1984; text: CR S1971-1972)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 533 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1997-1998; text: CR S1997)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 535 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1997-1998; text: CR S1997-1998)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 552 proposed by Senator Rubio.(consideration: CR S1972-1973, S2013-2014; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 562 proposed by Senator Rubio.(consideration: CR S1972-1973; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 565 proposed by Senator Rubio.(consideration: CR S1972-1973; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 573 proposed by Senator Markey.(consideration: CR S1975-1976; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 588 proposed by Senator Sanders for Senator Schatz.(consideration: CR S1980; text: CR S1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 590 proposed by Senator Rubio.(consideration: CR S1972-1973; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 593 proposed by Senator Sanders for Senator Menendez.(consideration: CR S1976; text: CR S1976)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 596 proposed by Senator Enzi for Senator Johnson.(consideration: CR S1980-1981; text: CR S1981)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 597 proposed by Senator Enzi for Senator Johnson.(consideration: CR S1980-1981; text: CR S1981)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 611 proposed by Senator Isakson.(consideration: CR S1978-1979; text: CR S1978)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 636 proposed by Senator Warner.(consideration: CR S1973-1974; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 638 proposed by Senator Warner.(consideration: CR S1973-1974; text: CR S1973)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 639 proposed by Senator Peters.(consideration: CR S1965-1966; text: CR S1966)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 649 proposed by Senator Inhofe.(consideration: CR S1991, S1993; text as modified: CR S1993)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 659 proposed by Senator Enzi for Senator Cotton.(consideration: CR S1995-1997, S2009-2010; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 664 proposed by Senator Enzi for Senator Cotton.(consideration: CR S1995-1997, S2010-2011; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 665 proposed by Senator Flake.(consideration: CR S1976-1977, S2003-2004; text: CR S1976-1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 666 proposed by Senator Flake.(consideration: CR S1976-1977; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 667 proposed by Senator Flake.(consideration: CR S1976-1977; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 668 proposed by Senator Flake.(consideration: CR S1976-1977; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 677 proposed by Senator Flake.(consideration: CR S1976-1977; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 678 proposed by Senator Flake.(consideration: CR S1976-1977; text: CR S1977)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 681 proposed by Senator Portman.(consideration: CR S1967-1968; text: CR S1968)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 689 proposed by Senator Portman.(consideration: CR S1963-1964, S1999-2000; text: CR S1963)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 692 proposed by Senator Scott.(consideration: CR S1989; text: CR S1989)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 707 proposed by Senator Markey.(consideration: CR S1975-1976; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 713 proposed by Senator Sanders for Senator Murphy.(consideration: CR S1998; text: CR S1998)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 720 proposed by Senator Booker.(consideration: CR S1982-1983; text: CR S1982)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 721 proposed by Senator Booker.(consideration: CR S1982-1983; text: CR S1982-1983)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 722 proposed by Senator Booker.(consideration: CR S1982-1983; text: CR S1983)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 724 proposed by Senator Sanders for Senator Kaine.(consideration: CR S1998; text: CR S1998)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 729 proposed by Senator Sanders for Senator Cardin.(consideration: CR S1980; text: CR S1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 749 proposed by Senator Enzi for Senator Lee.(consideration: CR S1979-1980; text: CR S1979)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 750 proposed by Senator Enzi for Senator Lee.(consideration: CR S1979-1980, S1995; text: CR S1979; text as modified: CR S1995)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 759 proposed by Senator Enzi for Senator Lee.(consideration: CR S1979-1980; text: CR S1979-1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 763 proposed by Senator Enzi for Senator Graham.(consideration: CR S1995-1997, S2003; text: CR S1995)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 781 proposed by Senator Rubio.(consideration: CR S1972-1973; text: CR S1972)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 810 proposed by Senator Collins.(consideration: CR S1969-1970, S1987-1988; text: CR S1969)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 827 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1997-1998; text: CR S1997)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 828 proposed by Senator Franken.(consideration: CR S1988)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 836 proposed by Senator Enzi for Senator McConnell.(consideration: CR S1995-1997, S2001-2002; text: CR S1995)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 839 proposed by Senator Isakson.(consideration: CR S1978-1979, S1998-1999; text: CR S1978)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 855 proposed by Senator Enzi for Senator Lee.(consideration: CR S1979-1980, S2012-2013; text: CR S1979)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 856 proposed by Senator Enzi for Senator Lee.(consideration: CR S1979-1980; text: CR S1979)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 865 proposed by Senator Enzi for Senator Johnson.(consideration: CR S1980-1981; text: CR S1981)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 877 proposed by Senator Hirono.(consideration: CR S1970-1971; text: CR S1970)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 878 proposed by Senator Hirono.(consideration: CR S1970-1971; text: CR S1970-1971)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 881 proposed by Senator Sanders.(consideration: CR S1982, S1983, S1983-1984; text: CR S1982)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 896 proposed by Senator Markey.(consideration: CR S1975-1976; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 897 proposed by Senator Markey.(consideration: CR S1975-1976; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 899 proposed by Senator Cardin.(consideration: CR S1966-1967; text: CR S1967)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 900 proposed by Senator Cardin.(consideration: CR S1966-1967; text: CR S1967)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 919 proposed by Senator Enzi for Senator Reed.(consideration: CR S1995-1997, S2009; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 925 proposed by Senator Tillis.(consideration: CR S1980; text: CR S1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 926 proposed by Senator Tillis.(consideration: CR S1980; text: CR S1980)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 928 proposed by Senator Blunt.(consideration: CR S1989-1990; text: CR S1989-1990)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 932 proposed by Senator Cochran.(consideration: CR S1981-1982; text: CR S1981)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 944 proposed by Senator Nelson.(consideration: CR S1968-1969, S2006-2007; text: CR S1968)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 947 proposed by Senator Bennet.(consideration: CR S1991; text: CR S1991)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 966 proposed by Senator Coons.(consideration: CR S1994; text as modified: CR S1994)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 967 proposed by Senator Markey.(consideration: CR S1975-1976; text: CR S1975)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 968 proposed by Senator Enzi for Senator Wyden.(consideration: CR S1995-1997, S2007-2008; text: CR S1996)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 984 proposed by Senator Enzi for Senator Hatch.(consideration: CR S1997-1998; text: CR S1997)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 991 proposed by Senator Warner.(consideration: CR S1973-1974)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 993 proposed by Senator Sanders for Senator Menendez.(consideration: CR S1976, S2010; text: CR S1976)
+- 2015-03-26 — Senate amendment proposed (on the floor): Amendment SA 994 proposed by Senator Enzi for Senator Brown.(consideration: CR S1995-1997, S2011; text: CR S1996-1997)
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-26 — Senate amendment submitted
+- 2015-03-27 — Amendment SA 1002 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1002 proposed by Senator Sanders for Senator Cantwell. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to the National Park Service Centennial.
+- 2015-03-27 — Amendment SA 1003 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1003 proposed by Senator Sanders for Senator Tester. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To establish a deficit-neutral reserve fund relating to authorizing children who are eligible to receive health care furnished under laws administered by the Secretary of Veterans Affairs to retain such eligibility until age 26.
+- 2015-03-27 — Amendment SA 1005 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1013 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1013 proposed by Senator Sanders for Senator Heinrich. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To establish a deficit-neutral reserve fund relating to strengthening the economy by accelerating the transfer of technologies from laboratories of the Department of Energy and the Department of Defense to the marketplace.
+- 2015-03-27 — Amendment SA 1027 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1027 proposed by Senator Enzi for Senator Thune. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund to preserve and protect the open Internet in a manner that provides clear and certain rules and does not jeopardize public safety, universal service, privacy, accessibility, consumer protection, competition, innovation, or investment.
+- 2015-03-27 — Amendment SA 1028 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1028 proposed by Senator Enzi for Senator Vitter. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to providing access to necessary equipment for Medicare beneficiaries.
+- 2015-03-27 — Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1033 proposed by Senator Sanders for Senator Booker. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To establish a deficit-neutral reserve fund relating to the prioritization of broad-based criminal justice reform.
+- 2015-03-27 — Amendment SA 1039 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1039 proposed by Senator Enzi for Senator Barrasso. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To provide to the Indian Health Service an additional $25,000,000 for contract support costs and to provide to the Bureau of Indian Affairs an additional $26,000,000 for contract support costs.
+- 2015-03-27 — Amendment SA 1044 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1047 as modified agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 134.
+- 2015-03-27 — Amendment SA 1067 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1067 proposed by Senator Sanders for Senator Warren. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund related to supporting at-sea and dockside monitoring for fisheries that have received economic disaster assistance.
+- 2015-03-27 — Amendment SA 1073 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1073 proposed by Senator Enzi for Senator Lee. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to the investigation and recovery of missing weapons and military equipment provided to the Government of Yemen by the United States Government.
+- 2015-03-27 — Amendment SA 1081 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1081 proposed by Senator Sanders for Senator Feinstein. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016, S2020) To establish a deficit-neutral reserve fund relating to detection, investigation, and prosecution of the owners and operators of websites who knowingly allow such websites to be used to advertise commercial sex with children over the Internet.
+- 2015-03-27 — Amendment SA 1091 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1091 proposed by Senator Sanders for Senator Franken. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve fund relating to providing students and families with transparent, easily understood information about postsecondary education financial aid.
+- 2015-03-27 — Amendment SA 1094 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 131.
+- 2015-03-27 — Amendment SA 1094 proposed by Senator Warren. (consideration: CR 3/26/2015 S2012; text as modified: CR 3/26/2015 S2012) To establish a deficit-neutral reserve fund relating to expanding Social Security.
+- 2015-03-27 — Amendment SA 1099 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1099 proposed by Senator Enzi for Senator Moran. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund to support investments in precision medicine, biomedical research, and the National Institutes of Health.
+- 2015-03-27 — Amendment SA 1101 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1101 proposed by Senator Sanders for Senator Durbin. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve fund to support investments in research and development and to improve the competitiveness of the United States.
+- 2015-03-27 — Amendment SA 1104 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1104 proposed by Senator Enzi for Senator Wicker. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve funds relating to imposing sanctions with respect to foreign persons responsible for gross violations of internationally recognized human rights or significant acts of corruption and to encourage the Secretary of State to add additional names to the Magnitsky List.
+- 2015-03-27 — Amendment SA 1105 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1105 proposed by Senator Sanders for Senator Feinstein. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve fund relating to improving community relations with law enforcement officers.
+- 2015-03-27 — Amendment SA 1110 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 1110 proposed by Senator Enzi for Senator Rubio. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to improving higher education data and transparency.
+- 2015-03-27 — Amendment SA 339 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 339 proposed by Senator Enzi for Senator Rounds. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund relating to providing mortgage lending to rural areas.
+- 2015-03-27 — Amendment SA 342 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 346 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 348 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 348 proposed by Senator Enzi for Senator Boozman. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to installing watchdogs at Federal agencies with extended Inspector General vacancies and strengthening and reforming Offices of Inspectors General to ensure that such Offices are appropriately prioritizing the investigation of waste, fraud, abuse, and misconduct within Federal agencies.
+- 2015-03-27 — Amendment SA 364 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 367 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 133.
+- 2015-03-27 — Amendment SA 374 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 374 proposed by Senator Enzi for Senator Inhofe. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2016-2017) To establish a deficit-neutral reserve fund relating to providing coverage of virtual colonoscopies as a colorectal cancer screening test under the Medicare program.
+- 2015-03-27 — Amendment SA 380 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 380 proposed by Senator Enzi for Senator Inhofe. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund to assist the States in carrying out drought prevention plans.
+- 2015-03-27 — Amendment SA 392 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 394 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 402 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 404 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 404 proposed by Senator Enzi for Senator Fischer. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To establish a deficit-neutral reserve fund relating to the modernization of the nuclear command, control, and communications architecture of the United States.
+- 2015-03-27 — Amendment SA 416 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 420 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 420 proposed by Senator Enzi for Senator Capito. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to efforts to combat the increase abuse of heroin and methamphetamines in the United States.
+- 2015-03-27 — Amendment SA 422 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 422 proposed by Senator Enzi for Senator Thune. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to ensuring that the conservation of northern long-eared bat populations and local economic development are compatible.
+- 2015-03-27 — Amendment SA 425 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 426 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 431 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 431 proposed by Senator Sanders for Senator Gillibrand. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to medical treatment and compensation for first responders, survivors, and their families injured and made ill by the 9/11 attacks.
+- 2015-03-27 — Amendment SA 434 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 435 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 437 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 439 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 442 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 449 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 453 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 456 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 458 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 458 proposed by Senator Enzi for Senator Burr. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2017) To protect the American people and strengthen our national security by fully funding the Biomedical Advanced Research and Development Authority (BARDA) and the BioShield Special Reserve Fund.
+- 2015-03-27 — Amendment SA 473 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 482 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 482 proposed by Senator Enzi for Senator Gardner. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017, S2020) To establish a deficit-neutral reserve fund relating to encouraging the increased use of performance contracting in Federal facilities.
+- 2015-03-27 — Amendment SA 485 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 490 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 491 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 491 proposed by Senator Enzi for Senator Ayotte. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017-2018) To establish a deficit-neutral reserve fund to protect the Corporation for National and Community Service.
+- 2015-03-27 — Amendment SA 520 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 520 proposed by Senator Sanders for Senator Gillibrand. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019-2020) To establish a deficit-neutral reserve fund related to sexual assault at institutions of higher education, which may include the implementation of an independent and standardized online survey tool developed and administered by the Department of Education, in consultation with the Department of Justice, to measure the prevalence of sexual assault at institutions of higher education.
+- 2015-03-27 — Amendment SA 533 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 534 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 534 proposed by Senator Enzi for Senator Hatch. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund relating to preventing access to marijuana edibles by children in States that have decriminalized marijuana.
+- 2015-03-27 — Amendment SA 538 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 538 proposed by Senator Enzi for Senator Risch. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund relating to increasing the Family Funds limit of the Small Business Investment Company Program from $225,000,000 to $350,000,000, as passed by the Committee in 2013, which is zero subsidy and funded entirely through fees paid by investors and businesses.
+- 2015-03-27 — Amendment SA 552 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Amendment SA 569 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 569 proposed by Senator Sanders for Senator Tester. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to investing in rural and tribal water infrastructure.
+- 2015-03-27 — Amendment SA 578 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 580 proposed by Senator Sanders for Senator Manchin. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve fund relating to providing adequate funding for the Contract Tower Program of the Federal Aviation Administration.
+- 2015-03-27 — Amendment SA 585 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 585 proposed by Senator Sanders for Senator Manchin. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To modify the deficit-neutral reserve fund for veterans and servicemembers to improve outreach, access, and services for rural veterans.
+- 2015-03-27 — Amendment SA 586 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 586 proposed by Senator Sanders for Senator Manchin. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To modify the deficit-neutral reserve fund for veterans and servicemembers to address specifically the growing backlog of appeals of decisions regarding claims for disability compensation.
+- 2015-03-27 — Amendment SA 595 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 597 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 604 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 604 proposed by Senator Enzi for Senator Coats. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015-2016) To establish a deficit-neutral reserve fund relating to encouraging cost savings in office space used by Federal agencies.
+- 2015-03-27 — Amendment SA 620 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 620 proposed by Senator Enzi for Senator Wicker. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To establish a deficit-neutral reserve fund to expedite awards under the Internal Revenue Service whistleblower program.
+- 2015-03-27 — Amendment SA 624 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 624 proposed by Senator Enzi for Senator Alexander. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund to improve the competitiveness of the United States.
+- 2015-03-27 — Amendment SA 625 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 625 proposed by Senator Enzi for Senator Lankford. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To establish a deficit-neutral reserve fund relating to improving the effectiveness and efficiency of the Federal regulatory process.
+- 2015-03-27 — Amendment SA 636 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 638 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 639 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 642 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 642 proposed by Senator Sanders for Senator Heitkamp. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to the establishment of a commission on Native children.
+- 2015-03-27 — Amendment SA 643 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 643 proposed by Senator Sanders for Senator Heitkamp. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to training and resources for first responders responding to hazardous materials incidents on railroads.
+- 2015-03-27 — Amendment SA 645 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 645 proposed by Senator Sanders for Senator Manchin. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021) To establish a deficit-neutral reserve fund relating to underground and surface coal mining safety and health research.
+- 2015-03-27 — Amendment SA 647 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 647 proposed by Senator Enzi for Senator Hoeven. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to the development of a new nuclear-capable cruise missile by the Department of Defense and the National Nuclear Security Administration.
+- 2015-03-27 — Amendment SA 648 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 648 proposed by Senator Enzi for Senator Hoeven. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To establish a deficit-neutral reserve fund relating to improving the nuclear forces and missions of the Air Force.
+- 2015-03-27 — Amendment SA 651 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 651 proposed by Senator Enzi for Senator Hoeven. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund to allow the Drug Enforcement Administration and Federal Bureau of Investigation to enter into joint task forces with tribal and local law enforcement agencies.
+- 2015-03-27 — Amendment SA 659 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 128.
+- 2015-03-27 — Amendment SA 664 ruled out of order by the chair.
+- 2015-03-27 — Amendment SA 693 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 693 proposed by Senator Enzi for Senator Rounds. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To modify section 431 relating to oversight of Government performance.
+- 2015-03-27 — Amendment SA 694 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 697 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 705 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 705 proposed by Senator Sanders for Senator Menendez. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to Indo-Pacific partner capacity building and strategy.
+- 2015-03-27 — Amendment SA 708 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 713 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 720 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 721 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 750 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 126.
+- 2015-03-27 — Amendment SA 752 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 752 proposed by Senator Enzi for Senator Lee. (consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to encouraging the United States' NATO allies to reverse declines in defense spending and bear a more proportionate burden for ensuring the security of NATO.
+- 2015-03-27 — Amendment SA 765 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 765 proposed by Senator Enzi for Senator Graham. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to meeting the obligations outlined in the Plutonium Management and Disposition Agreement.
+- 2015-03-27 — Amendment SA 770 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 780 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 780 proposed by Senator Enzi for Senator Cornyn. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to eliminating the backlog of sexual assault evidence kits.
+- 2015-03-27 — Amendment SA 792 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 792 proposed by Senator Sanders for Senator Bennet. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020-2021) To establish a deficit-neutral reserve fund relating to innovation in higher education.
+- 2015-03-27 — Amendment SA 793 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 793 proposed by Senator Sanders for Senator Franken. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to construction of Native American schools.
+- 2015-03-27 — Amendment SA 803 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 803 proposed by Senator Sanders for Senator Franken. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To ensure that the deficit-neutral reserve fund for infrastructure includes investment in rural broadband deployment.
+- 2015-03-27 — Amendment SA 811 agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 130.
+- 2015-03-27 — Amendment SA 822 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 822 proposed by Senator Enzi for Senator Flake. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To eliminate Federal duplication and consolidate the 94 Federal green building programs spread across 11 different Federal agencies.
+- 2015-03-27 — Amendment SA 827 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 830 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 830 proposed by Senator Enzi for Senator Moran. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund relating to researching health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces.
+- 2015-03-27 — Amendment SA 855 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 132.
+- 2015-03-27 — Amendment SA 866 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 866 proposed by Senator Sanders for Senator Murray. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To establish a deficit-neutral reserve fund relating to increasing funding for the Department of Transportation for the TIGER discretionary grant program.
+- 2015-03-27 — Amendment SA 877 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 882 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 882 proposed by Senator Sanders for Senator Carper. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019) To establish a deficit-neutral reserve fund relating to improving prevention and treatment measures to mitigate agricultural impacts from virus outbreaks, such as impacts seen from the avian influenza poultry outbreak.
+- 2015-03-27 — Amendment SA 885 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 885 proposed by Senator Enzi for Senator Hoeven. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016) To establish a deficit-neutral reserve fund relating to providing technical assistance to small businesses and aspiring entrepreneurs through small business development centers.
+- 2015-03-27 — Amendment SA 899 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 918 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 918 proposed by Senator Sanders for Senator Reed. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To include legislation concerning weatherization and energy efficiency retrofit programs in a deficit-neutral reserve fund.
+- 2015-03-27 — Amendment SA 919 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2015-03-27 — Amendment SA 931 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 931 proposed by Senator Enzi for Senator Fischer. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017) To establish a deficit-neutral reserve fund to strengthen waterborne commerce in our ports and harbors, which may include increasing the percentage of the amounts expended from the Harbor Maintenance Trust Fund that are dedicated to port infrastructure and maintenance.
+- 2015-03-27 — Amendment SA 950 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 950 proposed by Senator Enzi for Senator McConnell. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015) To establish a deficit-neutral reserve fund relating to promoting the return of children who have been legally adopted from the Democratic Republic of the Congo and are only a plane ride away from becoming United States citizens to their American citizen parents residing in the United States.
+- 2015-03-27 — Amendment SA 983 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 983 proposed by Senator Sanders. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018) To establish a deficit-neutral reserve fund relating to supporting programs that keep low-income older individuals healthy and able to live at home, such as those programs funded through the Older Americans Act of 1965.
+- 2015-03-27 — Amendment SA 986 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Amendment SA 986 proposed by Senator Sanders for Senator Reed. (consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020) To establish a deficit-neutral reserve fund relating to reforming student loan programs, which may include risk-sharing by institutions of higher education.
+- 2015-03-27 — Amendment SA 993 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Amendment SA 994 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Motion to waive all applicable budgetary discipline with respect to amendment SA 664 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 129. (consideration: CR 3/26/2015 S2010-2011)
+- 2015-03-27 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 46. Record Vote Number: 135.(text: CR 4/13/2015 S2112-2139)
+- 2015-03-27 — Point of order that the amendment violates section 305(b) of the CBA raised in Senate with respect to amendment SA 664.
+- 2015-03-27 — Proposed amendment SA 1011 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 1024 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 1025 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 321 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 341 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 343 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 345 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 352 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 368 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 387 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 388 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 389 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 391 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 412 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 415 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 427 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 436 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 440 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 445 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 448 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 452 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 457 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 462 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 465 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 467 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 468 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 504 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 505 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 506 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 521 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 535 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 539 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 562 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 565 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 573 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 588 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 590 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 593 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 596 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 611 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 633 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 666 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 667 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 668 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 677 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 678 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 681 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 700 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 707 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 715 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 722 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 724 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 729 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 743 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 749 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 759 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 781 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 791 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 795 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 800 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 802 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 812 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 843 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 852 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 856 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 865 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 870 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 878 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 895 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 896 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 897 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 900 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 925 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 926 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 932 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 952 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 953 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 967 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 984 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Proposed amendment SA 991 withdrawn in Senate. (consideration: CR 3/26/2015 S2022)
+- 2015-03-27 — Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 46. Record Vote Number: 135. (text: CR 4/13/2015 S2112-2139)
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 1047 as modified agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 134.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 1094 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 131.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 367 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 133.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 659 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 128.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 750 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 126.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 811 agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 130.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 855 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 132.
+- 2015-03-27 — Roll call votes on amendments in Senate: Amendment SA 919 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2015-03-27 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 664 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 129.(consideration: CR 3/26/2015 S2010-2011)
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1002 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1003 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1005 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1013 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1027 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1028 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1039 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1044 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1047 as modified agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 134.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1067 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1073 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1081 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1091 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1099 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1101 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1104 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1105 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 1110 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 339 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 342 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 346 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 348 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 364 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 374 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 380 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 392 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 394 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 402 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 404 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 416 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 420 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 422 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 425 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 426 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 431 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 434 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 435 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 437 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 439 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 442 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 449 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 453 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 456 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 458 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 473 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 482 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 485 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 490 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 491 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 520 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 533 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 534 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 538 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 552 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 569 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 578 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 585 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 586 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 595 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 597 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 604 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 620 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 624 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 625 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 636 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 638 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 639 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 642 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 643 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 645 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 647 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 648 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 651 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 659 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 128.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 693 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 694 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 697 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 705 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 708 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 713 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 720 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 721 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 750 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 126.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 752 as modified agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 765 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 770 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 780 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 792 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 793 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 803 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 811 agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 130.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 822 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 827 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 830 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 855 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 132.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 866 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 877 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 882 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 885 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 899 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 918 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 931 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 950 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 983 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 986 agreed to in Senate by Unanimous Consent.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 993 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Senate amendment agreed to: Amendment SA 994 agreed to in Senate by Voice Vote.
+- 2015-03-27 — Senate amendment not agreed to: Amendment SA 1094 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 131.
+- 2015-03-27 — Senate amendment not agreed to: Amendment SA 367 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 133.
+- 2015-03-27 — Senate amendment not agreed to: Amendment SA 919 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1002 proposed by Senator Sanders for Senator Cantwell.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1003 proposed by Senator Sanders for Senator Tester.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1013 proposed by Senator Sanders for Senator Heinrich.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1027 proposed by Senator Enzi for Senator Thune.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1028 proposed by Senator Enzi for Senator Vitter.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1033 proposed by Senator Sanders for Senator Booker.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1039 proposed by Senator Enzi for Senator Barrasso.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1067 proposed by Senator Sanders for Senator Warren.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1073 proposed by Senator Enzi for Senator Lee.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1081 proposed by Senator Sanders for Senator Feinstein.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016, S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1091 proposed by Senator Sanders for Senator Franken.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1094 proposed by Senator Warren.(consideration: CR 3/26/2015 S2012; text as modified: CR 3/26/2015 S2012)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1099 proposed by Senator Enzi for Senator Moran.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1101 proposed by Senator Sanders for Senator Durbin.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1104 proposed by Senator Enzi for Senator Wicker.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1105 proposed by Senator Sanders for Senator Feinstein.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 1110 proposed by Senator Enzi for Senator Rubio.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 339 proposed by Senator Enzi for Senator Rounds.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 348 proposed by Senator Enzi for Senator Boozman.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 374 proposed by Senator Enzi for Senator Inhofe.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2016-2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 380 proposed by Senator Enzi for Senator Inhofe.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 404 proposed by Senator Enzi for Senator Fischer.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 420 proposed by Senator Enzi for Senator Capito.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 422 proposed by Senator Enzi for Senator Thune.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 431 proposed by Senator Sanders for Senator Gillibrand.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 458 proposed by Senator Enzi for Senator Burr.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 482 proposed by Senator Enzi for Senator Gardner.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017, S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 491 proposed by Senator Enzi for Senator Ayotte.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017-2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 520 proposed by Senator Sanders for Senator Gillibrand.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019-2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 534 proposed by Senator Enzi for Senator Hatch.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 538 proposed by Senator Enzi for Senator Risch.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 569 proposed by Senator Sanders for Senator Tester.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 580 proposed by Senator Sanders for Senator Manchin.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 585 proposed by Senator Sanders for Senator Manchin.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 586 proposed by Senator Sanders for Senator Manchin.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 604 proposed by Senator Enzi for Senator Coats.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015-2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 620 proposed by Senator Enzi for Senator Wicker.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 624 proposed by Senator Enzi for Senator Alexander.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 625 proposed by Senator Enzi for Senator Lankford.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 642 proposed by Senator Sanders for Senator Heitkamp.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 643 proposed by Senator Sanders for Senator Heitkamp.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 645 proposed by Senator Sanders for Senator Manchin.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 647 proposed by Senator Enzi for Senator Hoeven.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 648 proposed by Senator Enzi for Senator Hoeven.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 651 proposed by Senator Enzi for Senator Hoeven.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 693 proposed by Senator Enzi for Senator Rounds.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 705 proposed by Senator Sanders for Senator Menendez.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 752 proposed by Senator Enzi for Senator Lee.(consideration: CR 3/26/2015 S2014-2022; text as modified: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 765 proposed by Senator Enzi for Senator Graham.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 780 proposed by Senator Enzi for Senator Cornyn.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 792 proposed by Senator Sanders for Senator Bennet.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020-2021)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 793 proposed by Senator Sanders for Senator Franken.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 803 proposed by Senator Sanders for Senator Franken.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 822 proposed by Senator Enzi for Senator Flake.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 830 proposed by Senator Enzi for Senator Moran.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 866 proposed by Senator Sanders for Senator Murray.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 882 proposed by Senator Sanders for Senator Carper.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2019)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 885 proposed by Senator Enzi for Senator Hoeven.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2016)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 918 proposed by Senator Sanders for Senator Reed.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 931 proposed by Senator Enzi for Senator Fischer.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2017)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 950 proposed by Senator Enzi for Senator McConnell.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2015)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 983 proposed by Senator Sanders.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2018)
+- 2015-03-27 — Senate amendment proposed (on the floor): Amendment SA 986 proposed by Senator Sanders for Senator Reed.(consideration: CR 3/26/2015 S2014-2022; text: CR 3/26/2015 S2020)
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
+- 2015-03-27 — Senate amendment submitted
