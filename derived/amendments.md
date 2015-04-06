@@ -1,7 +1,7 @@
 ---
 measure: H.R. 622
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 164` | strike | Subparagraph (I) of section 164(b)(5) of the Internal Revenue Code of 1986 is amended by striking “, and before January 1, 2015”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 164` | strike | Section 164(b)(5) of the Internal Revenue Code of 1986 is amended by striking subparagraph (I). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

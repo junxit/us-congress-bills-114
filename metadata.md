@@ -1,7 +1,7 @@
 ---
 measure: H.R. 622
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 622
@@ -16,7 +16,7 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Cosponsors (35)
+## Cosponsors (43)
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
@@ -53,6 +53,14 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
 
 ## Committees (1)
 
@@ -63,3 +71,9 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 - 2015-01-30 — Introduced in House
 - 2015-01-30 — Introduced in House
 - 2015-01-30 — Referred to the House Committee on Ways and Means.
+- 2015-02-10 — Referred to the Subcommittee on Health.
+- 2015-02-12 — Committee Consideration and Mark-up Session Held.
+- 2015-02-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.
+- 2015-04-06 — Placed on the Union Calendar, Calendar No. 32.
+- 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-51.
+- 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-51.
