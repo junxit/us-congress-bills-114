@@ -28,10 +28,10 @@ This Act may be cited as the “Death Tax Repeal Act of 2015”.
   >
   > This chapter shall not apply to generation-skipping transfers on or after the date of the enactment of the Death Tax Repeal Act of 2015.
 
-- **(c)** *Conforming Amendments*
+- **(c)** *Conforming amendments*
   - **(1)** The table of sections for subchapter C of chapter 11 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:
   - **(2)** The table of sections for subchapter G of chapter 13 of such Code is amended by adding at the end the following new item:
-- **(d)** *Effective Date* The amendments made by this section shall apply to the estates of decedents dying, and generation-skipping transfers, after the date of the enactment of this Act.
+- **(d)** *Effective Date* The amendments made by this section shall apply to the estates of decedents dying, and generation-skipping transfers, on or after the date of the enactment of this Act.
 
 ## § 3. Modifications of gift tax
 
@@ -42,8 +42,8 @@ This Act may be cited as the “Death Tax Repeal Act of 2015”.
   >     - **(B)** a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
   >   - **(2)** *Rate schedule*
 
-- **(b)** *Treatment of Certain Transfers in Trust* Section 2511 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
-  > - **(c)** *Treatment of Certain Transfers in Trust* Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a taxable gift under section 2503, unless the trust is treated as wholly owned by the donor or the donor’s spouse under subpart E of part I of subchapter J of chapter 1.
+- **(b)** *Treatment of certain transfers in trust* Section 2511 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(c)** *Treatment of certain transfers in trust* Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a taxable gift under section 2503, unless the trust is treated as wholly owned by the donor or the donor’s spouse under subpart E of part I of subchapter J of chapter 1.
 
 - **(c)** *Lifetime gift exemption*
   - **(1)** *In general* Paragraph (1) of section 2505(a) of the Internal Revenue Code of 1986 is amended to read as follows:
@@ -57,9 +57,9 @@ This Act may be cited as the “Death Tax Repeal Act of 2015”.
     >   - **(2)** *Rounding* If any amount as adjusted under paragraph (1) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
 
 - **(d)** *Conforming amendments*
-  - **(1)** Section 2505(a) of such Code is amended by striking the last sentence.
-  - **(2)** The heading for section 2505 of such Code is amended by striking “Unified”.
-  - **(3)** The item in the table of sections for subchapter A of chapter 12 of such Code relating to section 2505 is amended to read as follows:
+  - **(1)** The heading for section 2505 of such Code is amended by striking “Unified”.
+  - **(2)** The item in the table of sections for subchapter A of chapter 12 of such Code relating to section 2505 is amended to read as follows:
+  - **(3)** Section 2801(a)(1) of such Code is amended by striking “section 2001(c) as in effect on the date of such receipt” and inserting “section 2502(a)(2)”.
 - **(e)** *Effective date* The amendments made by this section shall apply to gifts made on or after the date of the enactment of this Act.
 - **(f)** *Transition rule*
   - **(1)** *In general* For purposes of applying sections 1015(d), 2502, and 2505 of the Internal Revenue Code of 1986, the calendar year in which this Act is enacted shall be treated as 2 separate calendar years one of which ends on the day before the date of the enactment of this Act and the other of which begins on such date of enactment.
