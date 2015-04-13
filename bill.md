@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to improve the process for making determinations with respect to whether organizations are exempt from taxation under section 501(c)(4) of such Code.
 
-## § 1. Organizations required to notify Secretary of intent to operate as 501(c)(4)
+## § 1. Short title
+
+This Act may be cited as the “IRS Bureaucracy Reduction and Judicial Review Act”.
+
+## § 2. Organizations required to notify Secretary of intent to operate as 501(c)(4)
 
 - **(a)** *In general* Part I of subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
   > ## § 506. Organizations required to notify Secretary of intent to operate as 501(c)(4)
@@ -33,21 +37,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** by adding at the end the following new paragraph:
     > - **(2)** in the case of the first such return filed by such an organization after submitting a notice to the Secretary under section 506(a), such information as the Secretary shall by regulation require in support of the organization’s treatment as an organization described in section 501(c)(4).
 
-- **(c)** *Failure To file initial notification* Section 6652(c) of such Code is amended by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively, and by inserting after paragraph (3) the following new paragraph:
+- **(c)** *Failure To file initial notification* Section 6652(c) of such Code is amended by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively, and by inserting after paragraph (3) the following new paragraph:
   > - **(4)** *Notices under section 506*
   >   - **(A)** *Penalty on organization* In the case of a failure to submit a notice required under section 506(a) (relating to organizations required to notify Secretary of intent to operate as 501(c)(4)) on the date and in the manner prescribed therefor, there shall be paid by the organization failing to so submit $20 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization for failure to submit any one notice shall not exceed $5,000.
   >   - **(B)** *Managers* The Secretary may make written demand on an organization subject to penalty under subparagraph (A) specifying in such demand a reasonable future date by which the notice shall be submitted for purposes of this subparagraph. If such notice is not submitted on or before such date, there shall be paid by the person failing to so submit $20 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to submit any one notice shall not exceed $5,000.
 
 - **(d)** *Clerical amendment* The table of sections for part I of subchapter F of chapter 1 of such Code is amended by adding at the end the following new item:
-- **(e)** *Effective date*
+- **(e)** *Limitation* Notwithstanding any other provision of law, any fees collected pursuant to section 506(e) of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Secretary of the Treasury or the Secretary’s delegate unless provided by an appropriations Act.
+- **(f)** *Effective date*
   - **(1)** *In general* The amendments made by this section shall apply to organizations which are described in section 501(c)(4) of the Internal Revenue Code of 1986 and organized after the date of the enactment of this Act.
   - **(2)** *Certain existing organizations* In the case of any other organization described in section 501(c)(4) of such Code, the amendments made by this section shall apply to such organization only if, on or before the date of the enactment of this Act—
     - **(A)** such organization has not applied for a written determination of recognition as an organization described in section 501(c)(4) of such Code, and
     - **(B)** such organization has not filed at least one annual return or notice required under subsection (a)(1) or (i) (as the case may be) of section 6033 of such Code.
 
-## § 2. Declaratory judgments for 501(c)(4) organizations
+## § 3. Declaratory judgments for 501(c)(4) organizations
 
-- **(a)** *In general* Section 7428(a)(1) of such Code is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraph:
+- **(a)** *In general* Section 7428(a)(1) of the Internal Revenue Code of 1986 is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraph:
   > - **(E)** with respect to the initial classification or continuing classification of an organization described in section 501(c)(4) which is exempt from tax under section 501(a), or
 
 - **(b)** *Effective date* The amendments made by this section shall apply to pleadings filed after the date of the enactment of this Act.

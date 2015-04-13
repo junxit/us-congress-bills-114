@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 501` | add-at-end | Part I of subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | replace | by striking the period at the end and inserting “, and”, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 501` | replace | by striking “include on the return required under subsection (a) the information” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | redesignate | Section 6652(c) of such Code is amended by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively, and by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | The table of sections for part I of subchapter F of chapter 1 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 7428(a)(1) of such Code is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 506` | add-at-end | Part I of subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 506` | replace | by striking the period at the end and inserting “, and”, | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 506` | replace | by striking “include on the return required under subsection (a) the information” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 506` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 506` | redesignate | Section 6652(c) of such Code is amended by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively, and by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 506` | add-at-end | The table of sections for part I of subchapter F of chapter 1 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7428` | replace | Section 7428(a)(1) of the Internal Revenue Code of 1986 is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraph: | the bill quotes the text struck but describes what replaces it |
