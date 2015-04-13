@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1314
@@ -16,9 +16,10 @@ Bipartisan Budget Act of 2015
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Reed, Tom [R-NY-23] (R000585)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Bipartisan Budget Act of 2015
 - 2015-03-04 — Introduced in House
 - 2015-03-04 — Introduced in House
 - 2015-03-04 — Referred to the House Committee on Ways and Means.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-04-13 — Placed on the Union Calendar, Calendar No. 47.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-67.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-67.
