@@ -1,7 +1,7 @@
 ---
 measure: S. 304
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 304
@@ -34,3 +34,7 @@ Conscience Protection Act of 2016
 
 - 2015-01-29 — Introduced in Senate
 - 2015-01-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S655-656)
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-04-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-13.
+- 2015-04-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-13.
+- 2015-04-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
