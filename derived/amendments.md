@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1104
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 2522` | replace | Section 2522(a) of the Internal Revenue Code of 1986 is amended by striking the period at the end of paragraph (4) and inserting a semi-colon and by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2522` | replace | Section 2522(a) of the Internal Revenue Code of 1986 is amended by striking the period at the end of paragraph (4) and inserting a semicolon and by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
