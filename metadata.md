@@ -1,7 +1,7 @@
 ---
 measure: H.R. 709
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 709
@@ -16,7 +16,7 @@ Prevent Targeting at the IRS Act
 
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 
-## Cosponsors (44)
+## Cosponsors (54)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
@@ -62,6 +62,16 @@ Prevent Targeting at the IRS Act
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
 
 ## Committees (1)
 
@@ -72,3 +82,8 @@ Prevent Targeting at the IRS Act
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Referred to the House Committee on Ways and Means.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-04-13 — Placed on the Union Calendar, Calendar No. 46.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-66.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-66.
