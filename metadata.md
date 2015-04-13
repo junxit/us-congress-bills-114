@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 27
@@ -111,3 +111,4 @@ Establishing the budget for the United States Government for fiscal year 2016 an
 - 2015-03-25 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 27.
 - 2015-03-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2015-03-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-04-13 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
