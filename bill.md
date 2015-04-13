@@ -20,18 +20,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > ## § 111. Sharing of cyber threat indicators and defensive measures by the Federal Government with non-Federal entities
   >
   > - **(a)** *Sharing by the Federal Government*
-  >   - **(1)** *In general* Consistent with the protection of classified information, intelligence sources and methods, and privacy and civil liberties, the Director of National Intelligence, in consultation with the heads of the other appropriate Federal entities and the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)), shall develop and promulgate procedures to facilitate and promote—
+  >   - **(1)** *In general* Consistent with the protection of classified information, intelligence sources and methods, and privacy and civil liberties, the Director of National Intelligence, in consultation with the heads of the other appropriate Federal entities, shall develop and promulgate procedures to facilitate and promote—
   >     - **(A)** the timely sharing of classified cyber threat indicators in the possession of the Federal Government with representatives of relevant non-Federal entities with appropriate security clearances;
-  >     - **(B)** the timely sharing with relevant non-Federal entities of cyber threat indicators or information in the possession of the Federal Government that may be declassified and shared at an unclassified level; and
+  >     - **(B)** the timely sharing with relevant non-Federal entities of cyber threat indicators in the possession of the Federal Government that may be declassified and shared at an unclassified level; and
   >     - **(C)** the sharing with non-Federal entities, if appropriate, of information in the possession of the Federal Government about imminent or ongoing cybersecurity threats to such entities to prevent or mitigate adverse impacts from such cybersecurity threats.
   >   - **(2)** *Development of procedures* The procedures developed and promulgated under paragraph (1) shall—
   >     - **(A)** ensure the Federal Government has and maintains the capability to share cyber threat indicators in real time consistent with the protection of classified information;
   >     - **(B)** incorporate, to the greatest extent practicable, existing processes and existing roles and responsibilities of Federal and non-Federal entities for information sharing by the Federal Government, including sector-specific information sharing and analysis centers;
   >     - **(C)** include procedures for notifying non-Federal entities that have received a cyber threat indicator from a Federal entity in accordance with this Act that is known or determined to be in error or in contravention of the requirements of this section, the Protecting Cyber Networks Act, or the amendments made by such Act or another provision of Federal law or policy of such error or contravention;
-  >     - **(D)** include requirements for Federal entities receiving a cyber threat indicator or defensive measure to implement appropriate security controls to protect against unauthorized access to, or acquisition of, such cyber threat indicator or defensive measure; and
+  >     - **(D)** include requirements for Federal entities receiving a cyber threat indicator or defensive measure to implement appropriate security controls to protect against unauthorized access to, or acquisition of, such cyber threat indicator or defensive measure;
   >     - **(E)** include procedures that require Federal entities, prior to the sharing of a cyber threat indicator, to—
-  >       - **(i)** review such cyber threat indicator to assess whether such cyber threat indicator, in contravention of the requirement under section 3(d)(2) of the Protecting Cyber Networks Act, contains any information that such Federal entity knows at the time of sharing to be personal information of, or information identifying, a specific person not directly related to a cybersecurity threat and remove such information; or
-  >       - **(ii)** implement a technical capability configured to remove or exclude any personal information of, or information identifying, a specific person not directly related to a cybersecurity threat.
+  >       - **(i)** review such cyber threat indicator to assess whether such cyber threat indicator, in contravention of the requirement under section 3(d)(2) of the Protecting Cyber Networks Act, contains any information that such Federal entity knows at the time of sharing to be personal information of or information identifying a specific person not directly related to a cybersecurity threat and remove such information; or
+  >       - **(ii)** implement a technical capability configured to remove or exclude any personal information of or information identifying a specific person not directly related to a cybersecurity threat; and
+  >     - **(F)** include procedures to promote the efficient granting of security clearances to appropriate representatives of non-Federal entities.
   > - **(b)** *Definitions* In this section, the terms “appropriate Federal entities”, “cyber threat indicator”, “defensive measure”, “Federal entity”, and “non-Federal entity” have the meaning given such terms in section 11 of the Protecting Cyber Networks Act.
 
 - **(b)** *Submittal to Congress* Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with the heads of the other appropriate Federal entities, shall submit to Congress the procedures required by section 111(a) of the National Security Act of 1947, as inserted by subsection (a) of this section.
@@ -39,7 +40,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats
 
-- **(a)** *Authorization for private-Sector defensive monitoring*
+- **(a)** *Authorization for private-sector defensive monitoring*
   - **(1)** *In general* Notwithstanding any other provision of law, a private entity may, for a cybersecurity purpose, monitor—
     - **(A)** an information system of such private entity;
     - **(B)** an information system of a non-Federal entity or a Federal entity, upon the written authorization of such non-Federal entity or such Federal entity; and
@@ -49,31 +50,32 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** authorize the Federal Government to conduct surveillance of any person; or
     - **(C)** limit otherwise lawful activity.
 - **(b)** *Authorization for operation of defensive measures*
-  - **(1)** *In general* Except as provided in paragraph (2) and notwithstanding any other provision of law, a private entity may, for a cybersecurity purpose, operate a defensive measure that is applied and limited to—
+  - **(1)** *In general* Except as provided in paragraph (2) and notwithstanding any other provision of law, a private entity may, for a cybersecurity purpose, operate a defensive measure that is operated on and is limited to—
     - **(A)** an information system of such private entity to protect the rights or property of the private entity; and
     - **(B)** an information system of a non-Federal entity or a Federal entity upon written authorization of such non-Federal entity or such Federal entity for operation of such defensive measure to protect the rights or property of such private entity, such non-Federal entity, or such Federal entity.
-  - **(2)** *Limitation* The authority provided in paragraph (1) does not include the intentional or reckless operation of any defensive measure that is designed or deployed to destroy, render unusable (in whole or in part), substantially harm, or initiate a new action, process, or procedure on an information system or information stored on, processed by, or transiting such information system not belonging to—
+  - **(2)** *Limitation* The authority provided in paragraph (1) does not include the intentional or reckless operation of any defensive measure that destroys, renders unusable or inaccessible (in whole or in part), substantially harms, or initiates a new action, process, or procedure on an information system or information stored on, processed by, or transiting such information system not owned by—
     - **(A)** the private entity operating such defensive measure; or
-    - **(B)** a non-Federal entity or a Federal entity that has provided written authorization to that private entity for operation of such defensive measure in accordance with this subsection.
+    - **(B)** a non-Federal entity or a Federal entity that has provided written authorization to that private entity for operation of such defensive measure on the information system or information of the entity in accordance with this subsection.
   - **(3)** *Construction* Nothing in this subsection shall be construed—
     - **(A)** to authorize the use of a defensive measure other than as provided in this subsection; or
     - **(B)** to limit otherwise lawful activity.
 - **(c)** *Authorization for sharing or receiving cyber threat indicators or defensive measures*
-  - **(1)** *In general* Except as provided in paragraph (2) and notwithstanding any other provision of law, a non-Federal entity may, for a cybersecurity purpose and consistent with the requirement under subsection (d)(2) to remove personal information of, or information identifying, a specific person not directly related to a cybersecurity threat and the protection of classified information—
-    - **(A)** share a cyber threat indicator or defensive measure with any other non-Federal entity or an appropriate Federal entity (other than the Department of Defense or any component of the Department, including the National Security Agency); and
+  - **(1)** *In general* Except as provided in paragraph (2) and notwithstanding any other provision of law, a non-Federal entity may, for a cybersecurity purpose and consistent with the requirement under subsection (d)(2) to remove personal information of or information identifying a specific person not directly related to a cybersecurity threat and the protection of classified information—
+    - **(A)** share a lawfully obtained cyber threat indicator or defensive measure with any other non-Federal entity or an appropriate Federal entity (other than the Department of Defense or any component of the Department, including the National Security Agency); and
     - **(B)** receive a cyber threat indicator or defensive measure from any other non-Federal entity or an appropriate Federal entity.
   - **(2)** *Lawful restriction* A non-Federal entity receiving a cyber threat indicator or defensive measure from another non-Federal entity or a Federal entity shall comply with otherwise lawful restrictions placed on the sharing or use of such cyber threat indicator or defensive measure by the sharing non-Federal entity or Federal entity.
   - **(3)** *Construction* Nothing in this subsection shall be construed to—
     - **(A)** authorize the sharing or receiving of a cyber threat indicator or defensive measure other than as provided in this subsection;
     - **(B)** authorize the sharing or receiving of classified information by or with any person not authorized to access such classified information;
     - **(C)** prohibit any Federal entity from engaging in formal or informal technical discussion regarding cyber threat indicators or defensive measures with a non-Federal entity or from providing technical assistance to address vulnerabilities or mitigate threats at the request of such an entity;
-    - **(D)** authorize the Federal Government to conduct surveillance of any person; or
-    - **(E)** limit otherwise lawful activity.
+    - **(D)** limit otherwise lawful activity;
+    - **(E)** prohibit a non-Federal entity, if authorized by applicable law or regulation other than this Act, from sharing a cyber threat indicator or defensive measure with the Department of Defense or any component of the Department, including the National Security Agency; or
+    - **(F)** authorize the Federal Government to conduct surveillance of any person.
 - **(d)** *Protection and use of information*
   - **(1)** *Security of information* A non-Federal entity monitoring an information system, operating a defensive measure, or providing or receiving a cyber threat indicator or defensive measure under this section shall implement an appropriate security control to protect against unauthorized access to, or acquisition of, such cyber threat indicator or defensive measure.
   - **(2)** *Removal of certain personal information* A non-Federal entity sharing a cyber threat indicator pursuant to this Act shall, prior to such sharing, take reasonable efforts to—
-    - **(A)** review such cyber threat indicator to assess whether such cyber threat indicator contains any information that the non-Federal entity knows at the time of sharing to be personal information of, or information identifying, a specific person not directly related to a cybersecurity threat and remove such information; or
-    - **(B)** implement a technical capability configured to remove any information contained within such indicator that the non-Federal entity knows at the time of sharing to be personal information of, or information identifying, a specific person not directly related to a cybersecurity threat.
+    - **(A)** review such cyber threat indicator to assess whether such cyber threat indicator contains any information that the non-Federal entity reasonably believes at the time of sharing to be personal information of or information identifying a specific person not directly related to a cybersecurity threat and remove such information; or
+    - **(B)** implement a technical capability configured to remove any information contained within such indicator that the non-Federal entity reasonably believes at the time of sharing to be personal information of or information identifying a specific person not directly related to a cybersecurity threat.
   - **(3)** *Use of cyber threat indicators and defensive measures by non-Federal entities* A non-Federal entity may, for a cybersecurity purpose—
     - **(A)** use a cyber threat indicator or defensive measure shared or received under this section to monitor or operate a defensive measure on—
       - **(i)** an information system of such non-Federal entity; or
@@ -82,9 +84,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(i)** an otherwise lawful restriction placed by the sharing non-Federal entity or Federal entity on such cyber threat indicator or defensive measure; or
       - **(ii)** an otherwise applicable provision of law.
   - **(4)** *Use of cyber threat indicators by State, tribal, or local government*
-    - **(A)** *Law enforcement use*
-      - **(i)** *Prior written consent* Except as provided in clause (ii), a cyber threat indicator shared with a State, tribal, or local government under this section may, with the prior written consent of the non-Federal entity sharing such indicator, be used by a State, tribal, or local government for the purpose of preventing, investigating, or prosecuting a felonious criminal act.
-      - **(ii)** *Oral consent* If exigent circumstances prevent obtaining written consent under clause (i), such consent may be provided orally with subsequent documentation of the consent.
+    - **(A)** *Law enforcement use* A State, tribal, or local government may use a cyber threat indicator shared with such State, tribal, or local government for the purposes described in clauses (i), (ii), and (iii) of section 4(d)(5)(A).
     - **(B)** *Exemption from disclosure* A cyber threat indicator shared with a State, tribal, or local government under this section shall be—
       - **(i)** deemed voluntarily shared information; and
       - **(ii)** exempt from disclosure under any State, tribal, or local law requiring disclosure of information or records, except as otherwise required by applicable State, tribal, or local law requiring disclosure in any criminal prosecution.
@@ -93,8 +93,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 4. Sharing of cyber threat indicators and defensive measures with appropriate Federal entities other than the Department of Defense or the National Security Agency
 
 - **(a)** *Requirement for policies and procedures*
-  - **(1)** *In general* Section 111 of the National Security Act of 1947, as inserted by section 2 of this Act, is amended by—
-    - **(A)** redesignating subsection (b) as subsection (c); and
+  - **(1)** *In general* Section 111 of the National Security Act of 1947, as inserted by section 2 of this Act, is amended—
+    - **(A)** by redesignating subsection (b) as subsection (c); and
     - **(B)** by inserting after subsection (a) the following new subsection:
       > - **(b)** *Policies and procedures for sharing with the appropriate Federal entities other than the Department of Defense or the National Security Agency*
       >   - **(1)** *Establishment* The President shall develop and submit to Congress policies and procedures relating to the receipt of cyber threat indicators and defensive measures by the Federal Government.
@@ -114,15 +114,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Privacy and civil liberties*
   - **(1)** *Guidelines of Attorney General* The Attorney General, in consultation with the heads of the other appropriate Federal agencies and with officers designated under section 1062 of the Intelligence Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 2000ee–1), shall develop and periodically review guidelines relating to privacy and civil liberties that govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in accordance with this Act and the amendments made by this Act.
   - **(2)** *Content* The guidelines developed and reviewed under paragraph (1) shall, consistent with the need to protect information systems from cybersecurity threats and mitigate cybersecurity threats—
-    - **(A)** limit the impact on privacy and civil liberties of activities by the Federal Government under this Act, including guidelines to ensure that personal information of, or information identifying, specific persons is properly removed from information received, retained, used, or disseminated by a Federal entity in accordance with this Act or the amendments made by this Act;
-    - **(B)** limit the receipt, retention, use, and dissemination of cyber threat indicators containing personal information of, or information identifying, specific persons, including by establishing—
-      - **(i)** a process for the timely destruction of such information that is known not to be directly related to a use for a cybersecurity purpose;
+    - **(A)** limit the impact on privacy and civil liberties of activities by the Federal Government under this Act, including guidelines to ensure that personal information of or information identifying specific persons is properly removed from information received, retained, used, or disseminated by a Federal entity in accordance with this Act or the amendments made by this Act;
+    - **(B)** limit the receipt, retention, use, and dissemination of cyber threat indicators containing personal information of or information identifying specific persons, including by establishing—
+      - **(i)** a process for the prompt destruction of such information that is known not to be directly related to a use for a cybersecurity purpose;
       - **(ii)** specific limitations on the length of any period in which a cyber threat indicator may be retained; and
       - **(iii)** a process to inform recipients that such indicators may only be used for a cybersecurity purpose;
-    - **(C)** include requirements to safeguard cyber threat indicators containing personal information of, or identifying, specific persons from unauthorized access or acquisition, including appropriate sanctions for activities by officers, employees, or agents of the Federal Government in contravention of such guidelines;
+    - **(C)** include requirements to safeguard cyber threat indicators containing personal information of or identifying specific persons from unauthorized access or acquisition, including appropriate sanctions for activities by officers, employees, or agents of the Federal Government in contravention of such guidelines;
     - **(D)** include procedures for notifying non-Federal entities and Federal entities if information received pursuant to this section is known or determined by a Federal entity receiving such information not to constitute a cyber threat indicator;
     - **(E)** be consistent with any other applicable provisions of law and the fair information practice principles set forth in appendix A of the document entitled “National Strategy for Trusted Identities in Cyberspace” and published by the President in April, 2011; and
     - **(F)** include steps that may be needed so that dissemination of cyber threat indicators is consistent with the protection of classified information and other sensitive national security information.
+  - **(3)** *Submission* The Attorney General shall submit to Congress—
+    - **(A)** not later than 90 days after the date of the enactment of this Act, interim guidelines required under paragraph (1); and
+    - **(B)** not later than 180 days after such date, final guidelines required under such paragraph.
 - **(c)** *National Cyber Threat Intelligence Integration Center*
   - **(1)** *Establishment* Title I of the National Security Act of 1947 (50 U.S.C. 3021 et seq.), as amended by section 2 of this Act, is further amended—
     - **(A)** by redesignating section 119B as section 119C; and
@@ -142,7 +145,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       >   - **(2)** in carrying out the primary missions of the Center described in subsection (c), may not augment staffing through detailees, assignees, or core contractor personnel or enter into any personal services contracts to exceed the limitation under paragraph (1); and
       >   - **(3)** be located in a building owned or operated by an element of the intelligence community as of the date of the enactment of this section.
 
-  - **(4)** *Table of contents amendments* The table of contents in the first section of the National Security Act of 1947, as amended by section 2 of this Act, is further amended by striking the item relating to section 119B and inserting the following new items:
+  - **(2)** *Table of contents amendments* The table of contents in the first section of the National Security Act of 1947, as amended by section 2 of this Act, is further amended by striking the item relating to section 119B and inserting the following new items:
 - **(d)** *Information shared with or provided to the Federal Government*
   - **(1)** *No waiver of privilege or protection* The provision of a cyber threat indicator or defensive measure to the Federal Government under this Act shall not constitute a waiver of any applicable privilege or protection provided by law, including trade secret protection.
   - **(2)** *Proprietary information* Consistent with section 3(c)(2), a cyber threat indicator or defensive measure provided by a non-Federal entity to the Federal Government under this Act shall be considered the commercial, financial, and proprietary information of the non-Federal entity that is the originator of such cyber threat indicator or defensive measure when so designated by such non-Federal entity or a non-Federal entity acting in accordance with the written authorization of the non-Federal entity that is the originator of such cyber threat indicator or defensive measure.
@@ -165,7 +168,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* If a department or agency of the Federal Government intentionally or willfully violates the privacy and civil liberties guidelines issued by the Attorney General under section 4(b), the United States shall be liable to a person injured by such violation in an amount equal to the sum of—
   - **(1)** the actual damages sustained by the person as a result of the violation or $1,000, whichever is greater; and
-  - **(2)** the costs of the action together with reasonable attorney fees as determined by the court.
+  - **(2)** reasonable attorney fees as determined by the court and other litigation costs reasonably incurred in any case under this subsection in which the complainant has substantially prevailed.
 - **(b)** *Venue* An action to enforce liability created under this section may be brought in the district court of the United States in—
   - **(1)** the district in which the complainant resides;
   - **(2)** the district in which the principal place of business of the complainant is located;
@@ -191,7 +194,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 7. Oversight of Government activities
 
 - **(a)** *Biennial report on implementation*
-  - **(1)** *In general* Section 111 of the National Security Act of 1947, as amended by section 4(a) of this Act, is further amended—
+  - **(1)** *In general* Section 111 of the National Security Act of 1947, as added by section 2(a) and amended by section 4(a) of this Act, is further amended—
     - **(A)** by redesignating subsection (c) (as redesignated by such section 4(a)) as subsection (d); and
     - **(B)** by inserting after subsection (b) (as inserted by such section 4(a)) the following new subsection:
       > - **(c)** *Biennial report on implementation*
@@ -205,18 +208,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       >       - **(ii)** A quantitative and qualitative assessment of the impact of the sharing of such cyber threat indicators with the Federal Government on privacy and civil liberties of specific persons.
       >       - **(iii)** The adequacy of any steps taken by the Federal Government to reduce such impact.
       >     - **(E)** A review of actions taken by the Federal Government based on cyber threat indicators shared with the Federal Government under this section or such Act, including the appropriateness of any subsequent use or dissemination of such cyber threat indicators by a Federal entity under this section or section 4 of such Act.
-      >     - **(F)** A description of any significant violations of the requirements of this section or such Act by the Federal Government.
+      >     - **(F)** A description of any significant violations of the requirements of this section or such Act by the Federal Government—
+      >       - **(i)** an assessment of all reports of officers, employees, and agents of the Federal Government misusing information provided to the Federal Government under the Protecting Cyber Networks Act or this section, without regard to whether the misuse was knowing or wilful; and
+      >       - **(ii)** an assessment of all disciplinary actions taken against such officers, employees, and agents.
       >     - **(G)** A summary of the number and type of non-Federal entities that received classified cyber threat indicators from the Federal Government under this section or such Act and an evaluation of the risks and benefits of sharing such cyber threat indicators.
+      >     - **(H)** An assessment of any personal information of or information identifying a specific person not directly related to a cybersecurity threat that—
+      >       - **(i)** was shared by a non-Federal entity with the Federal Government under this Act in contravention of section 3(d)(2); or
+      >       - **(ii)** was shared within the Federal Government under this Act in contravention of the guidelines required by section 4(b).
       >   - **(3)** *Recommendations* Each report submitted under paragraph (1) may include such recommendations as the heads of the appropriate Federal entities may have for improvements or modifications to the authorities and processes under this section or such Act.
       >   - **(4)** *Form of report* Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+      >   - **(5)** *Public availability of reports* The Director of National Intelligence shall make publicly available the unclassified portion of each report required by paragraph (1).
 
   - **(2)** *Initial report* The first report required under subsection (c) of section 111 of the National Security Act of 1947, as inserted by paragraph (1) of this subsection, shall be submitted not later than one year after the date of the enactment of this Act.
 - **(b)** *Reports on privacy and civil liberties*
   - **(1)** *Biennial report from Privacy and Civil Liberties Oversight Board*
     - **(A)** *In general* Section 1061(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 2000ee(e)) is amended by adding at the end the following new paragraph:
-      > - **(3)** *Biennial report on certain cyber activities* The Privacy and Civil Liberties Oversight Board shall biennially submit to Congress and the President a report containing—
-      >   - **(A)** an assessment of the privacy and civil liberties impact of the activities carried out under the Protecting Cyber Networks Act and the amendments made by such Act; and
-      >   - **(B)** an assessment of the sufficiency of the policies, procedures, and guidelines established pursuant to section 4 of the Protecting Cyber Networks Act and the amendments made by such section 4 in addressing privacy and civil liberties concerns.
+      > - **(3)** *Biennial report on certain cyber activities*
+      >   - **(A)** *Report required* The Privacy and Civil Liberties Oversight Board shall biennially submit to Congress and the President a report containing—
+      >     - **(i)** an assessment of the privacy and civil liberties impact of the activities carried out under the Protecting Cyber Networks Act and the amendments made by such Act; and
+      >     - **(ii)** an assessment of the sufficiency of the policies, procedures, and guidelines established pursuant to section 4 of the Protecting Cyber Networks Act and the amendments made by such section 4 in addressing privacy and civil liberties concerns.
+      >   - **(B)** *Recommendations* Each report submitted under this paragraph may include such recommendations as the Privacy and Civil Liberties Oversight Board may have for improvements or modifications to the authorities under the Protecting Cyber Networks Act or the amendments made by such Act.
+      >   - **(C)** *Form* Each report required under this paragraph shall be submitted in unclassified form, but may include a classified annex.
+      >   - **(D)** *Public availability of reports* The Privacy and Civil Liberties Oversight Board shall make publicly available the unclassified portion of each report required by subparagraph (A).
 
     - **(B)** *Initial report* The first report required under paragraph (3) of section 1061(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 2000ee(e)), as added by subparagraph (A) of this paragraph, shall be submitted not later than 2 years after the date of the enactment of this Act.
   - **(2)** *Biennial report of Inspectors general*
@@ -226,8 +239,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(ii)** A review of the actions taken by Federal entities as a result of the receipt of such cyber threat indicators.
       - **(iii)** A list of Federal entities receiving such cyber threat indicators.
       - **(iv)** A review of the sharing of such cyber threat indicators among Federal entities to identify inappropriate barriers to sharing information.
-  - **(3)** *Recommendations* Each report submitted under this subsection may include such recommendations as the Privacy and Civil Liberties Oversight Board, with respect to a report submitted under paragraph (1), or the Inspectors General referred to in paragraph (2)(A), with respect to a report submitted under paragraph (2), may have for improvements or modifications to the authorities under this Act or the amendments made by this Act.
-  - **(4)** *Form* Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+    - **(C)** *Recommendations* Each report submitted under this paragraph may include such recommendations as the Inspectors General referred to in subparagraph (A) may have for improvements or modifications to the authorities under this Act or the amendments made by this Act.
+    - **(D)** *Form* Each report required under this paragraph shall be submitted in unclassified form, but may include a classified annex.
+    - **(E)** *Public availability of reports* The Inspector General of the Department of Homeland Security, the Inspector General of the Intelligence Community, the Inspector General of the Department of Justice, and the Inspector General of the Department of Defense shall make publicly available the unclassified portion of each report required under subparagraph (A).
 
 ## § 8. Report on cybersecurity threats
 
@@ -241,7 +255,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(4)** An assessment of additional technologies or capabilities that would enhance the ability of the United States to prevent and to respond to cybersecurity threats (including cyber attacks, theft, and data breaches).
   - **(5)** An assessment of any technologies or practices utilized by the private sector that could be rapidly fielded to assist the intelligence community in preventing and responding to cybersecurity threats.
 - **(c)** *Form of report* The report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
-- **(d)** *Intelligence community defined* In this section, the term intelligence community has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+- **(d)** *Public availability of report* The Director of National Intelligence shall make publicly available the unclassified portion of the report required by subsection (a).
+- **(e)** *Intelligence community defined* In this section, the term intelligence community has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 ## § 9. Construction and preemption
 
@@ -249,11 +264,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Otherwise lawful disclosures* Nothing in this Act or the amendments made by this Act shall be construed to limit or prohibit—
   - **(1)** otherwise lawful disclosures of communications, records, or other information, including reporting of known or suspected criminal activity, by a non-Federal entity to any other non-Federal entity or the Federal Government; or
   - **(2)** any otherwise lawful use of such disclosures by any entity of the Federal government, without regard to whether such otherwise lawful disclosures duplicate or replicate disclosures made under this Act.
-- **(c)** *Whistle blower protections* Nothing in this Act or the amendments made by this Act shall be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5, United States Code (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5, United States Code (governing disclosures to Congress), section 1034 of title 10, United States Code (governing disclosure to Congress by members of the military), or any similar provision of Federal or State law.
+- **(c)** *Whistle blower protections* Nothing in this Act or the amendments made by this Act shall be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5, United States Code (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5, United States Code (governing disclosures to Congress), section 1034 of title 10, United States Code (governing disclosure to Congress by members of the military), or any similar provision of Federal or State law..
 - **(d)** *Protection of sources and methods* Nothing in this Act or the amendments made by this Act shall be construed—
   - **(1)** as creating any immunity against, or otherwise affecting, any action brought by the Federal Government, or any department or agency thereof, to enforce any law, executive order, or procedure governing the appropriate handling, disclosure, or use of classified information;
   - **(2)** to affect the conduct of authorized law enforcement or intelligence activities; or
-  - **(3)** to modify the authority of a department or agency of the Federal Government to protect classified information, intelligence sources and methods, and the national security of the United States.
+  - **(3)** to modify the authority of the President or a department or agency of the Federal Government to protect and control the dissemination of classified information, intelligence sources and methods, and the national security of the United States.
 - **(e)** *Relationship to other laws* Nothing in this Act or the amendments made by this Act shall be construed to affect any requirement under any other provision of law for a non-Federal entity to provide information to the Federal Government.
 - **(f)** *Information sharing relationships* Nothing in this Act or the amendments made by this Act shall be construed—
   - **(1)** to limit or modify an existing information-sharing relationship;
@@ -262,11 +277,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(g)** *Preservation of contractual obligations and rights* Nothing in this Act or the amendments made by this Act shall be construed—
   - **(1)** to amend, repeal, or supersede any current or future contractual agreement, terms of service agreement, or other contractual relationship between any non-Federal entities, or between any non-Federal entity and a Federal entity; or
   - **(2)** to abrogate trade secret or intellectual property rights of any non-Federal entity or Federal entity.
-- **(h)** *Anti-Tasking restriction* Nothing in this Act or the amendments made by this Act shall be construed to permit the Federal Government—
+- **(h)** *Anti-tasking restriction* Nothing in this Act or the amendments made by this Act shall be construed to permit the Federal Government—
   - **(1)** to require a non-Federal entity to provide information to the Federal Government;
   - **(2)** to condition the sharing of a cyber threat indicator with a non-Federal entity on such non-Federal entity’s provision of a cyber threat indicator to the Federal Government; or
   - **(3)** to condition the award of any Federal grant, contract, or purchase on the provision of a cyber threat indicator to a Federal entity.
-- **(i)** *No liability for non-Participation* Nothing in this Act or the amendments made by this Act shall be construed to subject any non-Federal entity to liability for choosing not to engage in a voluntary activiy authorized in this Act and the amendments made by this Act.
+- **(i)** *No liability for non-participation* Nothing in this Act or the amendments made by this Act shall be construed to subject any non-Federal entity to liability for choosing not to engage in a voluntary activiy authorized in this Act and the amendments made by this Act.
 - **(j)** *Use and retention of information* Nothing in this Act or the amendments made by this Act shall be construed to authorize, or to modify any existing authority of, a department or agency of the Federal Government to retain or use any information shared under this Act or the amendments made by this Act for any use other than permitted in this Act or the amendments made by this Act.
 - **(k)** *Federal preemption*
   - **(1)** *In general* This Act and the amendments made by this Act supersede any statute or other provision of law of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under this Act or the amendments made by this Act.
@@ -298,7 +313,7 @@ In this Act:
   - **(E)** The Department of Justice.
   - **(F)** The Department of the Treasury.
   - **(G)** The Office of the Director of National Intelligence.
-- **(3)** *Cybersecurity purpose* The term cybersecurity purpose means the purpose of protecting an information system or information that is stored on, processed by, or transiting an information system from a cybersecurity threat or security vulnerability or identifying the source of a cybersecurity threat or using a defensive measure.
+- **(3)** *Cybersecurity purpose* The term cybersecurity purpose means the purpose of protecting (including through the use of a defensive measure) an information system or information that is stored on, processed by, or transiting an information system from a cybersecurity threat or security vulnerability or identifying the source of a cybersecurity threat.
 - **(4)** *Cybersecurity threat*
   - **(A)** *In general* Except as provided in subparagraph (B), the term cybersecurity threat means an action, not protected by the first amendment to the Constitution of the United States, on or through an information system that may result in an unauthorized effort to adversely impact the security, confidentiality, integrity, or availability of an information system or information that is stored on, processed by, or transiting an information system.
   - **(B)** *Exclusion* The term cybersecurity threat does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement.
@@ -322,12 +337,12 @@ In this Act:
 - **(13)** *Non-Federal entity*
   - **(A)** *In general* Except as otherwise provided in this paragraph, the term non-Federal entity means any private entity, non-Federal government department or agency, or State, tribal, or local government (including a political subdivision, department, officer, employee, or agent thereof).
   - **(B)** *Inclusions* The term non-Federal entity includes a government department or agency (including an officer, employee, or agent thereof) of the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
-  - **(C)** *Exclusion* The term non-Federal entity does not include a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
+  - **(C)** *Exclusion* The term non-Federal entity does not include a foreign power or known agent of a foreign power, as both terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
 - **(14)** *Private entity*
   - **(A)** *In general* Except as otherwise provided in this paragraph, the term private entity means any person or private group, organization, proprietorship, partnership, trust, cooperative, corporation, or other commercial or nonprofit entity, including an officer, employee, or agent thereof.
   - **(B)** *Inclusion* The term private entity includes a component of a State, tribal, or local government performing electric utility services.
   - **(C)** *Exclusion* The term private entity does not include a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
-- **(15)** *Real time; real-time* The terms real time and “real-time” mean a process by which an automated, machine-to-machine system processes cyber threat indicators such that the time in which the occurrence of an event and the reporting or recording of it are as simultaneous as technologically practicable.
+- **(15)** *Real time; real-time* The terms real time and “real-time” mean a process by which an automated, machine-to-machine system processes cyber threat indicators such that the time in which the occurrence of an event and the reporting or recording of it are as simultaneous as technologically and operationally practicable.
 - **(16)** *Security control* The term security control means the management, operational, and technical controls used to protect against an unauthorized effort to adversely impact the security, confidentiality, integrity, and availability of an information system or its information.
 - **(17)** *Security vulnerability* The term security vulnerability means any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of a security control.
 - **(18)** *Tribal* The term tribal has the meaning given the term Indian tribe in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
