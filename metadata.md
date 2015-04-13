@@ -1,7 +1,7 @@
 ---
 measure: S. 142
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 142
@@ -16,7 +16,7 @@ Child Nicotine Poisoning Prevention Act of 2015
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
@@ -31,6 +31,8 @@ Child Nicotine Poisoning Prevention Act of 2015
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
@@ -40,3 +42,8 @@ Child Nicotine Poisoning Prevention Act of 2015
 
 - 2015-01-08 — Introduced in Senate
 - 2015-01-08 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S107-108; text of measure as introduced: CR S108)
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-04-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-12.
+- 2015-04-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-12.
+- 2015-04-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
+- 2015-04-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
