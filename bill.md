@@ -21,4 +21,4 @@ This Act may be cited as the “Taxpayer Knowledge of IRS Investigations Act”.
   >   - **(B)** whether any such investigation substantiated such a violation by any individual, and
   >   - **(C)** whether any action has been taken with respect to such individual (including whether a referral has been made for prosecution of such individual).
 
-- **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to disclosures made on or after the date of the enactment of this Act.
