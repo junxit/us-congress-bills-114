@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1265
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1265
@@ -31,6 +31,10 @@ Bureau Advisory Commission Transparency Act
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2015-04-13 — [House 114-1-146](votes/house-114-1-0146.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–2)
+
 ## Actions
 
 - 2015-03-04 — Introduced in House
@@ -46,3 +50,11 @@ Bureau Advisory Commission Transparency Act
 - 2015-04-06 — Placed on the Union Calendar, Calendar No. 37.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-56, Part I.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-56, Part I.
+- 2015-04-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-04-13 — Considered as unfinished business. (consideration: CR H2127-2128)
+- 2015-04-13 — Considered under suspension of the rules. (consideration: CR H2123-2124)
+- 2015-04-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1265.
+- 2015-04-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-13 — Mr. Neugebauer moved to suspend the rules and pass the bill.
+- 2015-04-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 146). (text: CR H2123)
+- 2015-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 146).(text: CR H2123)
