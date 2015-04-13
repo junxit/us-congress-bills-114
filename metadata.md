@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1152
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1152
@@ -29,3 +29,8 @@ IRS Email Transparency Act
 - 2015-02-27 — Introduced in House
 - 2015-02-27 — Introduced in House
 - 2015-02-27 — Referred to the House Committee on Ways and Means.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-04-13 — Placed on the Union Calendar, Calendar No. 49.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-69.
+- 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-69.
