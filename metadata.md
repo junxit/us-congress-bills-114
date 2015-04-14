@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1367
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1367
@@ -20,9 +20,10 @@ To amend the Expedited Funds Availability Act to clarify the application of that
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend the Expedited Funds Availability Act to clarify the application of that
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 42.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-61.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-61.
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
