@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1259
@@ -22,9 +22,10 @@ Helping Expand Lending Practices in Rural Communities Act
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Helping Expand Lending Practices in Rural Communities Act
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 41.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-60.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-60.
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
