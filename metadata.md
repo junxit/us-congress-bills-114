@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 601
@@ -76,9 +76,10 @@ Eliminate Privacy Notice Confusion Act
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -97,3 +98,4 @@ Eliminate Privacy Notice Confusion Act
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 40.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-59.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-59.
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
