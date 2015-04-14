@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 11
@@ -880,7 +880,7 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Senate — Budget Committee
 
-## Recorded votes (59)
+## Recorded votes (71)
 
 - 2015-03-24 — [Senate 114-1-78](votes/senate-114-1-0078.md) — On the Amendment — **Amendment Rejected** (45–52)
 - 2015-03-24 — [Senate 114-1-79](votes/senate-114-1-0079.md) — On the Amendment — **Amendment Agreed to** (94–3)
@@ -941,6 +941,18 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2015-03-27 — [Senate 114-1-134](votes/senate-114-1-0134.md) — On the Amendment — **Amendment Agreed to** (50–48)
 - 2015-03-27 — [Senate 114-1-135](votes/senate-114-1-0135.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (52–46)
 - 2015-04-14 — [House 114-1-153](votes/house-114-1-0153.md) — On Motion to Instruct Conferees — **Failed** (187–239)
+- 2015-04-15 — [Senate 114-1-145](votes/senate-114-1-0145.md) — On the Motion — **Motion Agreed to** (54–43)
+- 2015-04-15 — [Senate 114-1-146](votes/senate-114-1-0146.md) — On the Motion — **Motion Agreed to** (86–11)
+- 2015-04-15 — [Senate 114-1-147](votes/senate-114-1-0147.md) — On the Motion — **Motion Agreed to** (85–11)
+- 2015-04-15 — [Senate 114-1-148](votes/senate-114-1-0148.md) — On the Motion — **Motion Agreed to** (97–0)
+- 2015-04-15 — [Senate 114-1-149](votes/senate-114-1-0149.md) — On the Motion — **Motion Rejected** (45–52)
+- 2015-04-15 — [Senate 114-1-150](votes/senate-114-1-0150.md) — On the Motion — **Motion Agreed to** (84–13)
+- 2015-04-15 — [Senate 114-1-151](votes/senate-114-1-0151.md) — On the Motion — **Motion Agreed to** (57–40)
+- 2015-04-15 — [Senate 114-1-152](votes/senate-114-1-0152.md) — On the Motion — **Motion Rejected** (44–53)
+- 2015-04-15 — [Senate 114-1-153](votes/senate-114-1-0153.md) — On the Motion — **Motion Rejected** (45–52)
+- 2015-04-30 — [House 114-1-183](votes/house-114-1-0183.md) — On Agreeing to the Conference Report — **Passed** (226–197)
+- 2015-05-05 — [Senate 114-1-170](votes/senate-114-1-0170.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–44)
+- 2015-05-05 — [Senate 114-1-171](votes/senate-114-1-0171.md) — On the Conference Report — **Conference Report Agreed to** (51–48)
 
 ## Actions
 
@@ -2835,3 +2847,57 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2015-04-14 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 27. Agreed to pursuant to H. Res. 189.
 - 2015-04-14 — The Speaker appointed conferees: Tom Price of Georgia, Rokita, Diaz-Balart, Black, Moolenaar, Van Hollen, Yarmuth, and Moore. (consideration: CR H2198)
 - 2015-04-14 — The previous question was ordered without objection. (consideration: CR H2197)
+- 2015-04-15 — Considered by Senate (Message from the House considered). (consideration: CR S2193-2198, S2199-2201, S2201, S2202-2203, S2204-2212; text: CR S2193)
+- 2015-04-15 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2015-04-15 — Motion by Senator Bennet to instruct Senate conferees (Climate Change) agreed to in Senate by Voice Vote. (consideration: CR S2210)
+- 2015-04-15 — Motion by Senator Bennet to instruct Senate conferees made in Senate. (consideration: CR S2204-2205; text: CR S2205)
+- 2015-04-15 — Motion by Senator Brown to instruct Senate conferees (Wall Street Banks) agreed to in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 146. (consideration: CR S2208)
+- 2015-04-15 — Motion by Senator Brown to instruct Senate conferees made in Senate. (consideration: CR S2200-2201; text: CR S2200)
+- 2015-04-15 — Motion by Senator Enzi to instruct Senate conferees (for Senator Burr (Student Loans)) agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 148. (consideration: CR S2208-2209)
+- 2015-04-15 — Motion by Senator Enzi to instruct Senate conferees (for Senator Burr) made in Senate. (consideration: CR S2203; text: CR S2203)
+- 2015-04-15 — Motion by Senator Fischer to instruct Senate conferees (Equal Pay) agreed to in Senate by Yea-Nay Vote. 57 - 40. Record Vote Number: 151. (consideration: CR S2210)
+- 2015-04-15 — Motion by Senator Fischer to instruct Senate conferees (Paid Sick Leave) agreed to in Senate by Voice Vote. (consideration: CR S2211)
+- 2015-04-15 — Motion by Senator Fischer to instruct Senate conferees made in Senate. (consideration: CR S2207; text: CR S2207)
+- 2015-04-15 — Motion by Senator Fischer to instruct Senate conferees made in Senate. (consideration: CR S2207; text: CR S2207)
+- 2015-04-15 — Motion by Senator Mikulski to instruct Senate conferees (Equal Pay) rejected in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 152. (consideration: CR S2211)
+- 2015-04-15 — Motion by Senator Mikulski to instruct Senate conferees made in Senate. (consideration: CR S2204; text: CR S2204)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (Postal Plant Closures) agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 147. (consideration: CR S2208)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (Social Security) agreed to in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 150. (consideration: CR S2209-2210)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (for Senator Murray (Eliminate Sequestration)) rejected in Senate by Voice Vote. (consideration: CR S2211)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (for Senator Murray (Paid Sick Leave)) agreed to in Senate by Voice Vote. (consideration: CR S2211)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (for Senator Murray) made in Senate. (consideration: CR S2205; text: CR S2205)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees (for Senator Murray) made in Senate. (consideration: CR S2205; text: CR S2205)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees made in Senate. (consideration: CR S2199; text: CR S2199)
+- 2015-04-15 — Motion by Senator Sanders to instruct Senate conferees made in Senate. (consideration: CR S2202-2203; text: CR S2202)
+- 2015-04-15 — Motion by Senator Schatz to instruct Senate conferees (Same Sex Marriage Benefits) agreed to in Senate by Voice Vote. (consideration: CR S2210)
+- 2015-04-15 — Motion by Senator Schatz to instruct Senate conferees made in Senate. (consideration: CR S2200; text: CR S2200)
+- 2015-04-15 — Motion by Senator Stabenow to instruct Senate conferees (Medicare cuts) rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 153. (consideration: CR S2211-2212)
+- 2015-04-15 — Motion by Senator Stabenow to instruct Senate conferees made in Senate. (consideration: CR S2206-2207; text: CR S2206)
+- 2015-04-15 — Motion by Senator Warren to instruct Senate conferees (Student Loans) rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 149. (consideration: CR S2209)
+- 2015-04-15 — Motion by Senator Warren to instruct Senate conferees made in Senate. (consideration: CR S2201; text: CR S2201)
+- 2015-04-15 — Senate appointed conferee(s) Enzi; Grassley; Sessions; Crapo; Graham; Portman; Toomey; Johnson; Ayotte; Wicker; Corker; Perdue; Sanders; Murray; Wyden; Stabenow; Whitehouse; Warner; Merkley; Baldwin; Kaine; King. (consideration: CR S2212)
+- 2015-04-15 — Senate disagreed to House amendment, agreed to request for conference and authorized the Presiding Officer to appoint conferees by Yea-Nay Vote. 54 - 43. Record Vote Number: 145. (consideration: CR S2198)
+- 2015-04-16 — Message on Senate action sent to the House.
+- 2015-04-20 — Conference committee actions: Conference held.
+- 2015-04-20 — Conference held.
+- 2015-04-29 — Conferees agreed to file conference report.
+- 2015-04-29 — Conference committee actions: Conferees agreed to file conference report.
+- 2015-04-29 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2015-04-29 — Conference report H. Rept. 114-96 filed. (text of conference report: CR H2516-2574)
+- 2015-04-29 — Conference report filed: Conference report H. Rept. 114-96 filed.(text of conference report: CR H2516-2574)
+- 2015-04-29 — Rules Committee Resolution H. Res. 231 Reported to House. Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.
+- 2015-04-30 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 226 - 197 (Roll no. 183).(consideration: CR H2702)
+- 2015-04-30 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany S. Con. Res. 11.
+- 2015-04-30 — Motions to reconsider laid on the table Agreed to without objection.
+- 2015-04-30 — Mr. Price, Tom brought up conference report H. Rept. 114-96 for consideration under the provisions of H. Res. 231. (consideration: CR H2694-2702)
+- 2015-04-30 — On agreeing to the conference report Agreed to by the Yeas and Nays: 226 - 197 (Roll no. 183). (consideration: CR H2702)
+- 2015-04-30 — POSTPONED PROCEEDINGS - Pursuant to clause 8 rule 20 further proceedings on the motion were postponed.
+- 2015-04-30 — Pursuant the clause 10 rule 20 the yeas and nays were ordered on the conference report to accompany S.Con.Res. 11.
+- 2015-04-30 — The House proceeded to consider the conference report H.Rept. 114-96 as unfinished business. (consideration: CR H2702)
+- 2015-04-30 — The previous question was ordered pursuant to the rule. (consideration: CR H2702)
+- 2015-05-04 — Conference papers: message on House action held at the desk in Senate.
+- 2015-05-05 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 51 - 48. Record Vote Number: 171.
+- 2015-05-05 — Conference report considered in Senate. (consideration: CR S2613-2625, S2625-2644)
+- 2015-05-05 — Motion to proceed to consideration of the conference report to S. Con. Res. 11 agreed to in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 170. (consideration: CR S2613)
+- 2015-05-05 — Senate agreed to conference report by Yea-Nay Vote. 51 - 48. Record Vote Number: 171.
+- 2015-05-06 — Message on Senate action sent to the House.
