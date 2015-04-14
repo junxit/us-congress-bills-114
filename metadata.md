@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 11
@@ -880,7 +880,7 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Senate — Budget Committee
 
-## Recorded votes (58)
+## Recorded votes (59)
 
 - 2015-03-24 — [Senate 114-1-78](votes/senate-114-1-0078.md) — On the Amendment — **Amendment Rejected** (45–52)
 - 2015-03-24 — [Senate 114-1-79](votes/senate-114-1-0079.md) — On the Amendment — **Amendment Agreed to** (94–3)
@@ -940,6 +940,7 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2015-03-27 — [Senate 114-1-133](votes/senate-114-1-0133.md) — On the Amendment — **Amendment Rejected** (47–51)
 - 2015-03-27 — [Senate 114-1-134](votes/senate-114-1-0134.md) — On the Amendment — **Amendment Agreed to** (50–48)
 - 2015-03-27 — [Senate 114-1-135](votes/senate-114-1-0135.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (52–46)
+- 2015-04-14 — [House 114-1-153](votes/house-114-1-0153.md) — On Motion to Instruct Conferees — **Failed** (187–239)
 
 ## Actions
 
@@ -2811,3 +2812,26 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2015-03-27 — Senate amendment submitted
 - 2015-03-27 — Senate amendment submitted
 - 2015-03-27 — Senate amendment submitted
+- 2015-04-13 — Held at the desk.
+- 2015-04-13 — Message on Senate action sent to the House.
+- 2015-04-13 — Received in the House.
+- 2015-04-13 — Rules Committee Resolution H. Res. 189 Reported to House. Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.
+- 2015-04-14 — Considered under the provisions of rule H. Res. 189. (consideration: CR H2171-2178)
+- 2015-04-14 — DEBATE - The House proceeded with one hour of debate on the Price, Tom motion that the House insist on its amendment to S. Con. Res. 11 and request a conference with the Senate.
+- 2015-04-14 — DEBATE - The House proceeded with one hour of debate on the motion to instruct conferees on S. Con. Res. 11. The instructions contained in the motion seek to require the managers on the part of the House to (1) recede from disagreement with the Senate with respect to sec. 363 of S. Con. Res. 11 (relating to the requirement for earned paid sick time to address the health needs of workers and their families); and (2) to recede from subsection (e)(3) of sec. 808 of the House Amendment (relating to changing the current Medicare program, and replacing it with premium support payments).
+- 2015-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-14 — Mr. Price, Tom moved that the House insist upon its amendment, and request a conference. (consideration: CR H2171)
+- 2015-04-14 — Mr. Van Hollen moved that the House instruct conferees. (consideration: CR H2197-2198)
+- 2015-04-14 — On agreeing to the resolution, as amended Agreed to pursuant to H. Res. 189.
+- 2015-04-14 — On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote. (consideration: CR H2177)
+- 2015-04-14 — On motion that the House instruct conferees Failed by the Yeas and Nays: 187 - 239 (Roll no. 153). (consideration: CR H2198)
+- 2015-04-14 — On ordering the previous question Agreed to by voice vote. (consideration: CR H2171-2177)
+- 2015-04-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Hollen motion to instruct conferees on S. Con. Res. 11, the Chair put the question on adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Van Hollen demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct until a time to be announced.
+- 2015-04-14 — Passed/agreed to in House: On agreeing to the resolution, as amended Agreed to pursuant to H. Res. 189.
+- 2015-04-14 — Pursuant to the provisions of H. Res. 189, the Chair recognized Mr. Price, Tom for a motion.
+- 2015-04-14 — Pursuant to the provisions of H. Res. 189, the House took S. Con. Res. 11 from the Speaker's table.
+- 2015-04-14 — Rule H. Res. 189 passed House.
+- 2015-04-14 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 27. Agreed to pursuant to H. Res. 189.
+- 2015-04-14 — The Speaker appointed conferees: Tom Price of Georgia, Rokita, Diaz-Balart, Black, Moolenaar, Van Hollen, Yarmuth, and Moore. (consideration: CR H2198)
+- 2015-04-14 — The previous question was ordered without objection. (consideration: CR H2197)
