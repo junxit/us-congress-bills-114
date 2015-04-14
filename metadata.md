@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1480
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1480
@@ -23,9 +23,10 @@ SAFE Act Confidentiality and Privilege Enhancement Act
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ SAFE Act Confidentiality and Privilege Enhancement Act
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 43.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-62.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-62.
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
