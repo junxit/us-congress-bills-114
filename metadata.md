@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 685
@@ -60,6 +60,10 @@ Mortgage Choice Act of 2015
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2015-04-14 — [House 114-1-152](votes/house-114-1-0152.md) — On Passage — **Passed** (286–140)
+
 ## Actions
 
 - 2015-02-03 — Introduced in House
@@ -71,3 +75,12 @@ Mortgage Choice Act of 2015
 - 2015-04-06 — Placed on the Union Calendar, Calendar No. 35.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-54.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-54.
+- 2015-04-13 — Rules Committee Resolution H. Res. 189 Reported to House. Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.
+- 2015-04-14 — Considered as unfinished business. (consideration: CR H2197)
+- 2015-04-14 — Considered under the provisions of rule H. Res. 189. (consideration: CR H2188-2194)
+- 2015-04-14 — DEBATE - The House proceeded with one hour of debate on H.R. 685.
+- 2015-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-14 — On passage Passed by the Yeas and Nays: 286 - 140 (Roll no. 152). (text: CR H2188)
+- 2015-04-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 685, the Chair put the question on adoption of the bill, and by voice vote announced that the ayes had prevailed. Ms. Waters (CA) demanded the yeas and nays, and the Chair postponed further proceedings on adoption until later in the legislative day.
+- 2015-04-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 286 - 140 (Roll no. 152).(text: CR H2188)
+- 2015-04-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2194)
