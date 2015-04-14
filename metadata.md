@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 299
@@ -22,9 +22,10 @@ Capital Access for Small Community Financial Institutions Act of 2015
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Capital Access for Small Community Financial Institutions Act of 2015
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 39.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-58.
 - 2015-04-13 — Reported by the Committee on Financial Services. H. Rept. 114-58.
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
