@@ -1,7 +1,7 @@
 ---
 measure: S. 95
 congress: 114
-version: Introduced in Senate
+version: Referred to Committee Senate
 ---
 
 # S. 95
@@ -24,3 +24,6 @@ A bill to terminate the $1 presidential coin program.
 
 - 2015-01-07 — Introduced in Senate
 - 2015-01-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-04-14 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2015-04-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2183)
+- 2015-04-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2183)

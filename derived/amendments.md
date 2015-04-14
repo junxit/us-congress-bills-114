@@ -1,7 +1,7 @@
 ---
 measure: S. 95
 congress: 114
-version: Introduced in Senate
+version: Referred to Committee Senate
 derived: true
 ---
 
