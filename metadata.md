@@ -1,7 +1,7 @@
 ---
 measure: H.R. 650
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 650
@@ -66,6 +66,11 @@ Preserving Access to Manufactured Housing Act of 2015
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2015-04-14 — [House 114-1-150](votes/house-114-1-0150.md) — On Motion to Recommit with Instructions — **Failed** (184–239)
+- 2015-04-14 — [House 114-1-151](votes/house-114-1-0151.md) — On Passage — **Passed** (263–162)
+
 ## Actions
 
 - 2015-02-02 — Introduced in House
@@ -78,3 +83,16 @@ Preserving Access to Manufactured Housing Act of 2015
 - 2015-04-06 — Placed on the Union Calendar, Calendar No. 34.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-53.
 - 2015-04-06 — Reported by the Committee on Financial Services. H. Rept. 114-53.
+- 2015-04-13 — Rules Committee Resolution H. Res. 189 Reported to House. Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.
+- 2015-04-14 — Considered as unfinished business. (consideration: CR H2194-2197)
+- 2015-04-14 — Considered under the provisions of rule H. Res. 189. (consideration: CR H2178-2188)
+- 2015-04-14 — DEBATE - Pursuant to the provisions of H. Res. 189, the House proceeded with one hour of debate on H. R. 650.
+- 2015-04-14 — DEBATE - The House proceeded with 10 minutes of debate on the Waters motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to ensure that the underlying legislation does not benefit lenders or individuals that have engaged in unfair, deceptive, predatory, or abusive lending practices, or have been convicted of mortgage fraud, pending reservation of a point of order. Subsequently, the reservation of a point of order was removed.
+- 2015-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-14 — Ms. Waters, Maxine moved to recommit with instructions to the Committee on Financial Services. (consideration: CR H2194-2196)
+- 2015-04-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 239 (Roll no. 150).
+- 2015-04-14 — On passage Passed by the Yeas and Nays: 263 - 162 (Roll no. 151). (text: CR H2178)
+- 2015-04-14 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 650 was postponed.
+- 2015-04-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 263 - 162 (Roll no. 151).(text: CR H2178)
+- 2015-04-14 — Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 650 resumed.
+- 2015-04-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2188)
