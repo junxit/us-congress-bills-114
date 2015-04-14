@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1265
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1265
@@ -26,10 +26,11 @@ Bureau Advisory Commission Transparency Act
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ Bureau Advisory Commission Transparency Act
 - 2015-04-13 — Mr. Neugebauer moved to suspend the rules and pass the bill.
 - 2015-04-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 146). (text: CR H2123)
 - 2015-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 146).(text: CR H2123)
+- 2015-04-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
