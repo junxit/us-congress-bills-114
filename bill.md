@@ -1,0 +1,27 @@
+---
+legis-num: S. 905
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 905
+
+> To amend the Internal Revenue Code of 1986 to increase the limitation on eligibility for the alternative tax for certain small insurance companies.
+
+## § 1. Increase in limitation on eligibility for alternative tax for certain small insurance companies
+
+- **(a)** *Increase in limitation on premiums*
+  - **(1)** *In general* Clause (i) of section 831(b)(2)(A) of the Internal Revenue Code of 1986 is amended by striking “$1,200,000” and inserting “$2,200,000”.
+  - **(2)** *Inflation Adjustment* Paragraph (2) of section 831(b) of such Code is amended by adding at the end the following new subparagraph:
+    > - **(C)** *Inflation adjustment* In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A)(i) shall be increased by an amount equal to—
+    >   - **(i)** such dollar amount, multiplied by
+    >   - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+
+- **(b)** *Study* Not later than February 11, 2016, the Secretary of the Treasury shall submit to the Committee on Finance of the Senate a report on the abuse of captive insurance companies for estate planning purposes. Such report shall include legislative recommendations for addressing any such abuses.
+- **(c)** *Effective Date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+## § 2. Increase in continuous levy
+
+- **(a)** *In general* Paragraph (3) of section 6331(h) of the Internal Revenue Code of 1986 is amended by striking “30 percent” and inserting “45 percent”.
+- **(b)** *Effective date* The amendment made by this section shall apply to payments made after 180 days after the date of the enactment of this Act.
