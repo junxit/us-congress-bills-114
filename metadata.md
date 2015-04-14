@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 34
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2015-04-13 — On agreeing to the resolution Agreed to without objection. (text: CR H2129)
 - 2015-04-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2129)
 - 2015-04-13 — Referred to the House Committee on House Administration.
+- 2015-04-14 — Received in the Senate.
