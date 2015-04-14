@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 189
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 189
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 650) to amend the Truth in Lending
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2015-04-14 — [House 114-1-148](votes/house-114-1-0148.md) — On Ordering the Previous Question — **Passed** (239–183)
+- 2015-04-14 — [House 114-1-149](votes/house-114-1-0149.md) — On Agreeing to the Resolution — **Passed** (237–185)
+
 ## Actions
 
 - 2015-04-13 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 650) to amend the Truth in Lending
 - 2015-04-13 — Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.
 - 2015-04-13 — The House Committee on Rules reported an original measure, H. Rept. 114-65, by Mr. Sessions.
 - 2015-04-13 — The House Committee on Rules reported an original measure, H. Rept. 114-65, by Mr. Sessions.
+- 2015-04-14 — Considered as privileged matter. (consideration: CR H2165-2171)
+- 2015-04-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 189.
+- 2015-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-14 — On agreeing to the resolution Agreed to by recorded vote: 237 - 185 (Roll no. 149). (text: CR H2165-2166)
+- 2015-04-14 — On ordering the previous question Agreed to by the Yeas and Nays: 239 - 183 (Roll no. 148). (consideration: CR H2169-2170)
+- 2015-04-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 237 - 185 (Roll no. 149).(text: CR H2165-2166)
