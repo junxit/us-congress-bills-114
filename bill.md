@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 1788
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1788
+
+> To amend the Internal Revenue Code of 1986 to increase the alternative tax liability limitation for small property and casualty insurance companies.
+
+## § 1. Increase in limitation for alternative tax liability for small property and casualty insurance companies
+
+- **(a)** *In General* Clause (i) of section 831(b)(2)(A) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(i)** the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $2,200,000, and
+
+- **(b)** *Inflation Adjustment* Paragraph (2) of section 831(b) of such Code is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Inflation adjustment* In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A) shall be increased by an amount equal to—
+  >   - **(i)** such dollar amount, multiplied by
+  >   - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2014” for “calendar year 1992” in subparagraph (B) thereof.
+
+- **(c)** *Effective Date* The amendments made by this section shall apply to taxable years beginning after December 31, 2014.
