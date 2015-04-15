@@ -1,0 +1,21 @@
+---
+legis-num: S. 941
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 941
+
+> To provide for the termination of employment of employees of the Internal Revenue Service who take certain official actions for political purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Prevent Targeting at the IRS Act”.
+
+## § 2. Termination of employment of Internal Revenue Service employees for taking official actions for political purposes
+
+- **(a)** *In general* Paragraph (10) of section 1203(b) of the Internal Revenue Service Restructuring and Reform Act of 1998 is amended to read as follows:
+  > - **(10)** performing, delaying, or failing to perform (or threatening to perform, delay, or fail to perform) any official action (including any audit) with respect to a taxpayer for purpose of extracting personal gain or benefit or for a political purpose.
+
+- **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
