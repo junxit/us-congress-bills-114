@@ -1,7 +1,7 @@
 ---
 measure: H.R. 650
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 650
@@ -62,9 +62,10 @@ Preserving Access to Manufactured Housing Act of 2015
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ Preserving Access to Manufactured Housing Act of 2015
 - 2015-04-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 263 - 162 (Roll no. 151).(text: CR H2178)
 - 2015-04-14 — Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 650 resumed.
 - 2015-04-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2188)
+- 2015-04-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
