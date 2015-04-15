@@ -1,7 +1,7 @@
 ---
 measure: H.R. 533
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 533
@@ -16,10 +16,11 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
 ## Committees (1)
 
@@ -30,3 +31,11 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2015-01-26 — Introduced in House
 - 2015-01-26 — Introduced in House
 - 2015-01-26 — Referred to the House Committee on Natural Resources.
+- 2015-03-02 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2015-03-24 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported by Unanimous Consent.
+- 2015-03-25 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2015-04-15 — Placed on the Union Calendar, Calendar No. 56.
+- 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-77.
+- 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-77.
