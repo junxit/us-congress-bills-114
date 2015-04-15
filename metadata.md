@@ -1,7 +1,7 @@
 ---
 measure: H.R. 984
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 984
@@ -29,3 +29,11 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 - 2015-02-13 — Introduced in House
 - 2015-02-13 — Introduced in House
 - 2015-02-13 — Referred to the House Committee on Natural Resources.
+- 2015-03-16 — Referred to the Subcommittee on Federal Lands.
+- 2015-03-24 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported by Unanimous Consent.
+- 2015-03-25 — Subcommittee on Federal Lands Discharged.
+- 2015-04-15 — Placed on the Union Calendar, Calendar No. 57.
+- 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-78.
+- 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-78.
