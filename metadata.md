@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1295
@@ -35,3 +35,9 @@ Trade Preferences Extension Act of 2015
 - 2015-04-13 — Placed on the Union Calendar, Calendar No. 51.
 - 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-71.
 - 2015-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-71.
+- 2015-04-15 — Considered under suspension of the rules. (consideration: CR H2236-2238)
+- 2015-04-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1295.
+- 2015-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-15 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
+- 2015-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2236-2237)
+- 2015-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2236-2237)
