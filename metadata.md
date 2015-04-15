@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 685
@@ -56,9 +56,10 @@ Mortgage Choice Act of 2015
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -84,3 +85,4 @@ Mortgage Choice Act of 2015
 - 2015-04-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 685, the Chair put the question on adoption of the bill, and by voice vote announced that the ayes had prevailed. Ms. Waters (CA) demanded the yeas and nays, and the Chair postponed further proceedings on adoption until later in the legislative day.
 - 2015-04-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 286 - 140 (Roll no. 152).(text: CR H2188)
 - 2015-04-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2194)
+- 2015-04-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
