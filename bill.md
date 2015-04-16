@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 1863
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1863
+
+> To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the Veterans Choice Program to veterans who would otherwise receive medical care from a deficient medical facility of the Department of Veterans Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “Local Care for Veterans Act”.
+
+## § 2. Provision of care under Veterans Choice Program for veterans residing near deficient medical facility of the Department of Veterans Affairs
+
+Section 101(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (38 U.S.C. 1701 note) is amended—
+
+- **(1)** in subparagraph (C)(ii), by striking “or”;
+- **(2)** in subparagraph (D), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(E)** notwithstanding paragraph (1)(A), resides not more than 50 miles from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran if—
+  >   - **(i)** the Secretary has identified such medical facility—
+  >     - **(I)** in a prospectus level lease request, regardless of the date of such request, as being deficient with respect to providing certain treatment or services; or
+  >     - **(II)** as needing expansion; and
+  >   - **(ii)** the Secretary determines that such a deficiency has not been resolved or such an expansion has not occurred, including pursuant to leases entered into under an Act authorizing major medical facility leases.
