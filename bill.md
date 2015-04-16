@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 1844
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1844
+
+> To amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate high priority corridors on the National Highway System in the State of North Carolina, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Military Corridor Transportation Improvement Act of 2015”.
+
+## § 2. High priority corridors on National Highway System
+
+- **(a)** *In general* Section 1105(c) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2032) is amended by adding at the end the following:
+  > - **(81)** United States Route 117/Interstate Route 795 from United States Route 70 in Goldsboro, Wayne County, North Carolina, to Interstate Route 40 west of Faison, Sampson County, North Carolina.
+  > - **(82)** United States Route 70 from its intersection with Interstate Route 40 in Garner, Wake County, North Carolina, to the Port at Morehead City, Carteret County, North Carolina.
+
+- **(b)** *Inclusion of certain route segments on Interstate System* Section 1105(e)(5)(A) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2031; 109 Stat. 597; 115 Stat. 872; 118 Stat. 293; 126 Stat. 426) is amended in the first sentence by striking “and subsection (c)(57)” and inserting “subsection (c)(57), subsection (c)(81), and subsection (c)(82)”.
