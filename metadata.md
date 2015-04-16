@@ -1,7 +1,7 @@
 ---
 measure: H.R. 622
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 622
@@ -66,6 +66,11 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2015-04-16 — [House 114-1-158](votes/house-114-1-0158.md) — On Motion to Recommit with Instructions — **Failed** (179–243)
+- 2015-04-16 — [House 114-1-159](votes/house-114-1-0159.md) — On Passage — **Passed** (272–152)
+
 ## Actions
 
 - 2015-01-30 — Introduced in House
@@ -77,3 +82,15 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 - 2015-04-06 — Placed on the Union Calendar, Calendar No. 32.
 - 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-51.
 - 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-51.
+- 2015-04-16 — Considered under the provisions of rule H. Res. 200. (consideration: CR H2286-2290)
+- 2015-04-16 — DEBATE - The House continued with debate on H.R. 622.
+- 2015-04-16 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike section 2 of the bill and replace it with a new section prohibiting an increase in the deficit or a delay or weakening of efforts to adopt a permanent extension of the election to deduct State and local sales taxes so long as such an extension is accomplished in a fiscally responsible manner. The amendment also adds a section to extend the deduction of state and local general sales tax for one year. Subsequently, the point of order was withdrawn.
+- 2015-04-16 — DEBATE - The House proceeded with one hour of debate on H.R. 622.
+- 2015-04-16 — House amendment offered
+- 2015-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-16 — Mr. Neal moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H2288-2290; text: CR H2288)
+- 2015-04-16 — On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 243 (Roll no. 158). (consideration: CR H2289-2290)
+- 2015-04-16 — On passage Passed by the Yeas and Nays: 272 - 152 (Roll no. 159). (text: CR H2286)
+- 2015-04-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 272 - 152 (Roll no. 159).(text: CR H2286)
+- 2015-04-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2289)
+- 2015-04-16 — This resolution provides for consideration of H.R. 622, H.R. 1105, and H.R. 1195.
