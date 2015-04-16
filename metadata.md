@@ -1,7 +1,7 @@
 ---
 measure: H.R. 529
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 529
@@ -57,9 +57,10 @@ To amend the Internal Revenue Code of 1986 to improve 529 plans.
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -89,3 +90,4 @@ To amend the Internal Revenue Code of 1986 to improve 529 plans.
 - 2015-02-25 — Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015. Section 4 provides that it shall be in order at any time through the calendar day of March 1, 2015, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making or continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015.
 - 2015-02-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1140)
 - 2015-02-26 — Received in the Senate.
+- 2015-04-16 — Read twice and referred to the Committee on Finance.
