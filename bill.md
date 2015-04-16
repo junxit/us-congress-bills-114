@@ -64,3 +64,7 @@ This Act may be cited as the “Death Tax Repeal Act of 2015”.
 - **(f)** *Transition rule*
   - **(1)** *In general* For purposes of applying sections 1015(d), 2502, and 2505 of the Internal Revenue Code of 1986, the calendar year in which this Act is enacted shall be treated as 2 separate calendar years one of which ends on the day before the date of the enactment of this Act and the other of which begins on such date of enactment.
   - **(2)** *Application of section 2504(b)* For purposes of applying section 2504(b) of the Internal Revenue Code of 1986, the calendar year in which this Act is enacted shall be treated as one preceding calendar period.
+
+## § 4. Budgetary effects
+
+The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.

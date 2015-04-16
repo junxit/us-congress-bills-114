@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1105
@@ -158,6 +158,11 @@ Death Tax Repeal Act of 2015
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2015-04-16 — [House 114-1-160](votes/house-114-1-0160.md) — On Motion to Recommit with Instructions — **Failed** (186–232)
+- 2015-04-16 — [House 114-1-161](votes/house-114-1-0161.md) — On Passage — **Passed** (240–179)
+
 ## Actions
 
 - 2015-02-26 — Introduced in House
@@ -168,3 +173,17 @@ Death Tax Repeal Act of 2015
 - 2015-04-06 — Placed on the Union Calendar, Calendar No. 33.
 - 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-52.
 - 2015-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-52.
+- 2015-04-16 — Considered as unfinished business. (consideration: CR H2290-2292)
+- 2015-04-16 — Considered under the provisions of rule H. Res. 200. (consideration: CR H2275-2286)
+- 2015-04-16 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section at the end of the bill titled Benefits Disallowed in Cases of Gift and Estate Tax Evasion. Subsequently, the reservation of a point of order was withdrawn.
+- 2015-04-16 — DEBATE - The House proceeded with one hour of debate on H.R. 1105.
+- 2015-04-16 — House amendment offered
+- 2015-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-16 — Mr. Nolan moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H2285-2286; text: CR H2285)
+- 2015-04-16 — On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 232 (Roll no. 160). (consideration: CR H2290-2291)
+- 2015-04-16 — On passage Passed by recorded vote: 240 - 179 (Roll no. 161). (text: CR H2275-2276)
+- 2015-04-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on adopting the motion and by voice vote, announced that the noes had prevailed. Mr. Nolan demanded the yeas and nays and pursuant to the order of the House of today, the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-04-16 — Passed/agreed to in House: On passage Passed by recorded vote: 240 - 179 (Roll no. 161).(text: CR H2275-2276)
+- 2015-04-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2286)
+- 2015-04-16 — The previous question was ordered pursuant to the rule. (consideration: CR H2285)
+- 2015-04-16 — This resolution provides for consideration of H.R. 622, H.R. 1105, and H.R. 1195.
