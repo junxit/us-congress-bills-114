@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 1887
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1887
+
+> To amend certain appropriation Acts to repeal the requirement directing the Administrator of General Services to sell Federal property and assets that support the operations of the Plum Island Animal Disease Center in Plum Island, New York, and for other purposes.
+
+## § 1. Findings
+
+Congress finds the following:
+
+- **(1)** The Federal Government has owned Plum Island since 1899.
+- **(2)** Since 1954, the Animal Disease Center on Plum Island has conducted first-rate scientific research on a variety of infectious animal-borne diseases, including foot-and-mouth disease, resulting, most recently, in the development of a new cell line that rapidly and reliably detects this highly debilitating disease of livestock.
+- **(3)** The safety record of the Center is unparalleled, with no accidental releases reaching the mainland in the history of the Center.
+- **(4)** $23,200,000 in Federal funds have been spent on upgrades to, and the maintenance of, the Plum Island Animal Disease Center since January 2012, and significant investments in the Center in the next five years are likely.
+- **(5)** In addition to the Animal Disease Center, Plum Island contains cultural, historical, ecological, and natural resources of regional and national significance.
+- **(6)** Plum Island is situated where the Long Island Sound and Peconic Bay meet, each being estuaries that are part of the National Estuary Program, reflecting each natural system's nationally significant environmental and economic values to the region.
+- **(7)** The Federal Government has invested hundreds of millions of Federal funds over the last two decades to make long-term improvements with respect to the conservation and management needs of Long Island Sound and Peconic Bay.
+- **(8)** Due to cleanup costs from past Center activities and the zoning proposed by the town of Southold, New York, prohibiting residental or commercial development, the Federal Government will receive very little to no compensation from the sale of Plum Island.
+
+## § 2. Repeal of requirement to sell certain Federal property in Plum Island, New York
+
+- **(a)** *Repeal in Public Law 110–329* Section 540 of title V of division D of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 (Public Law 110–329; 122 Stat. 3688) is repealed.
+- **(b)** *Repeal in Public Law 112–74* Section 538 of title V of division D of the Consolidated Appropriations Act, 2012 (Public Law 112–74; 125 Stat. 976) is repealed.
