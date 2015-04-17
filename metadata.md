@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1731
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1731
@@ -29,3 +29,8 @@ National Cybersecurity Protection Advancement Act of 2015
 - 2015-04-13 — Introduced in House
 - 2015-04-13 — Introduced in House
 - 2015-04-13 — Referred to the House Committee on Homeland Security.
+- 2015-04-14 — Committee Consideration and Mark-up Session Held.
+- 2015-04-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-04-17 — Placed on the Union Calendar, Calendar No. 61.
+- 2015-04-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-83.
+- 2015-04-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-83.

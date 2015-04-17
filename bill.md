@@ -70,41 +70,48 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
     - **(iii)** by adding at the end the following new subparagraph:
       > - **(C)** sharing cyber threat indicators and defensive measures;
 
-  - **(F)** by adding at the end the following new paragraphs:
+  - **(F)** by adding at the end the following new paragraphs
     > - **(8)** engaging with international partners, in consultation with other appropriate agencies, to—
     >   - **(A)** collaborate on cyber threat indicators, defensive measures, and information related to cybersecurity risks and incidents; and
     >   - **(B)** enhance the security and resilience of global cybersecurity;
-    > - **(9)** sharing cyber threat indicators, defensive measures, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure;
-    > - **(10)** promptly notifying the Secretary and the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate of any significant violations of the policies and procedures specified in subsection (i)(6)(A); and
-    > - **(11)** promptly notifying non-Federal entities that have shared cyber threat indicators or defensive measures that are known or determined to be in error or in contravention of the requirements of this section.
+    > - **(9)** sharing cyber threat indicators, defensive measures, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;
+    > - **(10)** promptly notifying the Secretary and the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate of any significant violations of the policies and procedures specified in subsection (i)(6)(A);
+    > - **(11)** promptly notifying non-Federal entities that have shared cyber threat indicators or defensive measures that are known or determined to be in error or in contravention of the requirements of this section; and
+    > - **(12)** participating, as appropriate, in exercises run by the Department’s National Exercise Program.
 
 - **(2)** in subsection (d)—
   - **(A)** in subparagraph (D), by striking “and” at the end;
-  - **(B)** by redesignating subparagraph (E) as subparagraph (I); and
+  - **(B)** by redesignating subparagraph (E) as subparagraph (J); and
   - **(C)** by inserting after subparagraph (D) the following new subparagraphs:
     > - **(E)** an entity that collaborates with State and local governments on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center;
-    > - **(F)** a United States Computer Emergency Readiness Team that coordinates information related to cybersecurity risks and incidents, proactively and collaboratively addresses cybersecurity risks and incidents to the United States, collaboratively responds to cybersecurity risks and incidents, provides technical assistance, upon request, to information system owners and operators, and shares cyber threat indicators, defensive measures, or information related to cybersecurity risks and incidents in a timely manner;
+    > - **(F)** a United States Computer Emergency Readiness Team that coordinates information related to cybersecurity risks and incidents, proactively and collaboratively addresses cybersecurity risks and incidents to the United States, collaboratively responds to cybersecurity risks and incidents, provides technical assistance, upon request, to information system owners and operators, and shares cyber threat indicators, defensive measures, analysis, or information related to cybersecurity risks and incidents in a timely manner;
     > - **(G)** the Industrial Control System Cyber Emergency Response Team that—
     >   - **(i)** coordinates with industrial control systems owners and operators;
     >   - **(ii)** provides training, upon request, to Federal entities and non-Federal entities on industrial control systems cybersecurity;
     >   - **(iii)** collaboratively addresses cybersecurity risks and incidents to industrial control systems;
     >   - **(iv)** provides technical assistance, upon request, to Federal entities and non-Federal entities relating to industrial control systems cybersecurity; and
     >   - **(v)** shares cyber threat indicators, defensive measures, or information related to cybersecurity risks and incidents of industrial control systems in a timely fashion;
-    > - **(H)** a National Coordinating Center for Communications that coordinates the protection, response, and recovery of emergency communications; and
+    > - **(H)** a National Coordinating Center for Communications that coordinates the protection, response, and recovery of emergency communications;
+    > - **(I)** an entity that coordinates with small and medium-sized businesses; and
 
 - **(3)** in subsection (e)—
   - **(A)** in paragraph (1)—
     - **(i)** in subparagraph (A), by inserting “cyber threat indicators, defensive measures, and” before “information”;
     - **(ii)** in subparagraph (B), by inserting “cyber threat indicators, defensive measures, and” before “information”;
-    - **(iii)** in subparagraph (F), by striking “cybersecurity risks” and inserting “cyber threat indicators, defensive measures, cybersecurity risks,”; and
-    - **(iv)** in subparagraph (G), by striking “cybersecurity risks” and inserting “cyber threat indicators, defensive measures, cybersecurity risks,”;
+    - **(iii)** in subparagraph (F), by striking “cybersecurity risks” and inserting “cyber threat indicators, defensive measures, cybersecurity risks,”;
+    - **(iv)** in subparagraph (F), by striking “and” at the end;
+    - **(v)** in subparagraph (G), by striking “cybersecurity risks” and inserting “cyber threat indicators, defensive measures, cybersecurity risks,”; and
+    - **(vi)** by adding at the end the following:
+      > - **(H)** the Center ensures that it shares information relating to cybersecurity risks and incidents with small and medium-sized businesses, as appropriate; and
+      > - **(I)** the Center designates an agency contact for non-Federal entities;
+
   - **(B)** in paragraph (2)—
     - **(i)** by striking “cybersecurity risks” and inserting “cyber threat indicators, defensive measures, cybersecurity risks,”; and
     - **(ii)** by inserting “or disclosure” before the semicolon at the end; and
   - **(C)** in paragraph (3), by inserting before the period at the end the following: “, including by working with the Chief Privacy Officer appointed under section 222 to ensure that the Center follows the policies and procedures specified in subsection (i)(6)(A)”; and
 - **(4)** by adding at the end the following new subsections:
   > - **(g)** *Rapid automated sharing*
-  >   - **(1)** *In general* The Under Secretary for Cybersecurity and Infrastructure Protection, in coordination with industry and other stakeholders, shall develop capabilities based on standards and widely used approaches in the information technology industry that support and rapidly advance the development, adoption, and implementation of automated mechanisms for the timely sharing of cyber threat indicators and defensive measures to and from the Center and with each Federal agency designated as the “Sector Specific Agency” for each critical infrastructure sector in accordance with subsection (h).
+  >   - **(1)** *In general* The Under Secretary for Cybersecurity and Infrastructure Protection, in coordination with industry and other stakeholders, shall develop capabilities making use of existing information technology industry standards and best practices, as appropriate, that support and rapidly advance the development, adoption, and implementation of automated mechanisms for the timely sharing of cyber threat indicators and defensive measures to and from the Center and with each Federal agency designated as the “Sector Specific Agency” for each critical infrastructure sector in accordance with subsection (h).
   >   - **(2)** *Biannual report* The Under Secretary for Cybersecurity and Infrastructure Protection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a biannual report on the status and progress of the development of the capability described in paragraph (1). Such reports shall be required until such capability is fully implemented.
   > - **(h)** *Sector Specific Agencies* The Secretary, in collaboration with the relevant critical infrastructure sector and the heads of other appropriate Federal agencies, shall recognize the Federal agency designated as of March 25, 2015, as the “Sector Specific Agency” for each critical infrastructure sector designated in the Department’s National Infrastructure Protection Plan. If the designated Sector Specific Agency for a particular critical infrastructure sector is the Department, for purposes of this section, the Secretary is deemed to be the head of such Sector Specific Agency and shall carry out this section. The Secretary, in coordination with the heads of each such Sector Specific Agency, shall—
   >   - **(1)** support the security and resilience actives of the relevant critical infrastructure sector in accordance with this section;
@@ -112,7 +119,7 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >   - **(3)** support the timely sharing of cyber threat indicators and defensive measures with the relevant critical infrastructure sector with the Center in accordance with this section.
   > - **(i)** *Voluntary information sharing procedures*
   >   - **(1)** *Procedures*
-  >     - **(A)** *In general* The Center may enter into a voluntary information sharing relationship with any consenting non-Federal entity for the sharing of cyber threat indicators and defensive measures for cybersecurity purposes in accordance with this section. Nothing in this section may be construed to require any non-Federal entity to enter into any such information sharing relationship with the Center or any other entity. The Center may terminate a voluntary information sharing relationship under this subsection if the Center determines that the non-Federal entity with which the Center has entered into such a relationship has, after repeated notice, repeatedly and intentionally violated the terms of this subsection.
+  >     - **(A)** *In general* The Center may enter into a voluntary information sharing relationship with any consenting non-Federal entity for the sharing of cyber threat indicators and defensive measures for cybersecurity purposes in accordance with this section. Nothing in this section may be construed to require any non-Federal entity to enter into any such information sharing relationship with the Center or any other entity. The Center may terminate a voluntary information sharing relationship under this subsection if the Center determines that the non-Federal entity with which the Center has entered into such a relationship has, after repeated notice, repeatedly violated the terms of this subsection.
   >     - **(B)** *National security* The Secretary may decline to enter into a voluntary information sharing relationship under this subsection if the Secretary determines that such is appropriate for national security.
   >   - **(2)** *Voluntary information sharing relationships* A voluntary information sharing relationship under this subsection may be characterized as an agreement described in this paragraph.
   >     - **(A)** *Standard agreement* For the use of a non-Federal entity, the Center shall make available a standard agreement, consistent with this section, on the Department’s website.
@@ -130,6 +137,7 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >       - **(iii)** require a new information sharing relationship between any non-Federal entity and a Federal entity;
   >       - **(iv)** limit otherwise lawful activity; or
   >       - **(v)** in any manner impact or modify procedures in existence as of the date of the enactment of this section for reporting known or suspected criminal activity to appropriate law enforcement authorities or for participating voluntarily or under legal requirement in an investigation.
+  >     - **(E)** *Coordinated vulnerability disclosure* The Under Secretary for Cybersecurity and Infrastructure Protection, in coordination with industry and other stakeholders, shall develop, publish, and adhere to policies and procedures for coordinating vulnerability disclosures, to the extent practicable, consistent with international standards in the information technology industry.
   >   - **(4)** *Network awareness authorization*
   >     - **(A)** *In general* Notwithstanding any other provision of law, a non-Federal entity, not including a State, local, or tribal government, may, for cybersecurity purposes, conduct network awareness of—
   >       - **(i)** an information system of such non-Federal entity to protect the rights or property of such non-Federal entity;
@@ -160,6 +168,7 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >         - **(VII)** ensure all relevant constitutional, legal, and privacy protections are observed.
   >       - **(ii)** *Submission to Congress* Not later than 180 days after the date of the enactment of this section and annually thereafter, the Chief Privacy Officer and the Officer for Civil Rights and Civil Liberties of the Department, in consultation with the Privacy and Civil Liberties Oversight Board (established pursuant to section 1061 of the Intelligence Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 2000ee)), shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the policies and procedures governing the sharing of cyber threat indicators, defensive measures, and information related to cybsersecurity risks and incidents described in clause (i) of subparagraph (A).
   >       - **(iii)** *Public notice and access* The Under Secretary for Cybersecurity and Infrastructure Protection, in consultation with the Chief Privacy Officer and the Chief Civil Rights and Civil Liberties Officer of the Department, and the Privacy and Civil Liberties Oversight Board (established pursuant to section 1061 of the Intelligence Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 2000ee)), shall ensure there is public notice of, and access to, the policies and procedures governing the sharing of cyber threat indicators, defensive measures, and information related to cybersecurity risks and incidents.
+  >       - **(iv)** *Consultation* The Under Secretary for Cybersecurity and Infrastructure Protection when establishing policies and procedures to support privacy and civil liberties may consult with the National Institute of Standards and Technology.
   >     - **(B)** *Implementation* The Chief Privacy Officer of the Department, on an ongoing basis, shall—
   >       - **(i)** monitor the implementation of the policies and procedures governing the sharing of cyber threat indicators and defensive measures established pursuant to clause (i) of subparagraph (A);
   >       - **(ii)** regularly review and update privacy impact assessments, as appropriate, to ensure all relevant constitutional, legal, and privacy protections are being followed;
@@ -189,8 +198,9 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >       - **(i)** *Uses of information* A Federal entity that receives cyber threat indicators or defensive measures shared through the Center or otherwise under this section from another Federal entity or a non-Federal entity—
   >         - **(I)** may use, retain, or further disclose such cyber threat indicators or defensive measures solely for cybersecurity purposes;
   >         - **(II)** shall, prior to such sharing, take reasonable efforts to remove information that can be used to identify specific persons and is reasonably believed at the time of sharing to be unrelated to a cybersecurity risk or incident, and to safeguard information that can be used to identify specific persons from unintended disclosure or unauthorized access or acquisition;
-  >         - **(III)** shall be deemed to have voluntarily shared such cyber threat indicators or defensive measures; and
-  >         - **(IV)** shall implement and utilize a security control to protect against unauthorized access to or acquisition of such cyber threat indicators or defensive measures.
+  >         - **(III)** shall be deemed to have voluntarily shared such cyber threat indicators or defensive measures;
+  >         - **(IV)** shall implement and utilize a security control to protect against unauthorized access to or acquisition of such cyber threat indicators or defensive measures; and
+  >         - **(V)** may not use such cyber threat indicators or defensive measures to engage in surveillance or other collection activities for the purpose of tracking an individual’s personally identifiable information.
   >       - **(ii)** *Protections for information* The cyber threat indicators and defensive measures referred to in clause (i)—
   >         - **(I)** are exempt from disclosure under section 552 of title 5, United States Code, and withheld, without discretion, from the public under subsection (b)(3)(B) of such section;
   >         - **(II)** may not be used by the Federal Government for regulatory purposes;
@@ -208,8 +218,8 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >         - **(I)** shall be exempt from disclosure under any State, local, or tribal law or regulation that requires public disclosure of information or records by a public or quasi-public entity; and
   >         - **(II)** may not be used by any State, local, or tribal government to regulate a lawful activity of a non-Federal entity.
   >   - **(8)** *Liability exemptions*
-  >     - **(A)** *Network awareness* No cause of action shall lie or be maintained in any court, and such action shall be promptly dismissed, against any non-Federal entity that, for cybersecurity purposes, conducts network awareness under paragraph (4), if such network awareness is conducted in good faith in accordance with such paragraph and this section.
-  >     - **(B)** *Information sharing* No cause of action shall lie or be maintained in any court, and such action shall be promptly dismissed, against any non-Federal entity that, for cybersecurity purposes, shares cyber threat indicators or defensive measures under paragraph (3), or in good faith fails to act based on such sharing, if such sharing is conducted in good faith in accordance with such paragraph and this section.
+  >     - **(A)** *Network awareness* No cause of action shall lie or be maintained in any court, and such action shall be promptly dismissed, against any non-Federal entity that, for cybersecurity purposes, conducts network awareness under paragraph (4), if such network awareness is conducted in accordance with such paragraph and this section.
+  >     - **(B)** *Information sharing* No cause of action shall lie or be maintained in any court, and such action shall be promptly dismissed, against any non-Federal entity that, for cybersecurity purposes, shares cyber threat indicators or defensive measures under paragraph (3), or fails to act based on such sharing, if such sharing is conducted in accordance with such paragraph and this section.
   >     - **(C)** *Willful misconduct*
   >       - **(i)** *Rule of construction* Nothing in this section may be construed to—
   >         - **(I)** require dismissal of a cause of action against a non-Federal entity that has engaged in willful misconduct in the course of conducting activities authorized by this section; or
@@ -239,7 +249,7 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >     - **(C)** *Prohibited conduct* Nothing in this section may be construed to permit price-fixing, allocating a market between competitors, monopolizing or attempting to monopolize a market, or exchanges of price or cost information, customer lists, or information regarding future competitive planning.
   >   - **(11)** *Construction and preemption*
   >     - **(A)** *Otherwise lawful disclosures* Nothing in this section may be construed to limit or prohibit otherwise lawful disclosures of communications, records, or other information, including reporting of known or suspected criminal activity or participating voluntarily or under legal requirement in an investigation, by a non-Federal to any other non-Federal entity or Federal entity under this section.
-  >     - **(B)** *Whistleblower protections* Nothing in this section may be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5, United States Code (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5, United States Code (governing disclosures to Congress), section 1034 of title 10, United States Code (governing disclosure to Congress by members of the military), section 1104 of the National Security Act of 1947 (50 U.S.C. 3234) (governing disclosure by employees of elements of the intelligence community), or any similar provision of Federal or State law.
+  >     - **(B)** *Whistle blower protections* Nothing in this section may be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5, United States Code (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5, United States Code (governing disclosures to Congress), section 1034 of title 10, United States Code (governing disclosure to Congress by members of the military), section 1104 of the National Security Act of 1947 (50 U.S.C. 3234) (governing disclosure by employees of elements of the intelligence community), or any similar provision of Federal or State law.
   >     - **(C)** *Relationship to other laws* Nothing in this section may be construed to affect any requirement under any other provision of law for a non-Federal entity to provide information to a Federal entity.
   >     - **(D)** *Preservation of contractual obligations and rights* Nothing in this section may be construed to—
   >       - **(i)** amend, repeal, or supersede any current or future contractual agreement, terms of service agreement, or other contractual relationship between any non-Federal entities, or between any non-Federal entity and a Federal entity; or
@@ -252,6 +262,12 @@ The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relat
   >     - **(G)** *Use and retention of information* Nothing in this section may be construed to authorize, or to modify any existing authority of, a department or agency of the Federal Government to retain or use any information shared under this section for any use other than permitted in this section.
   >     - **(H)** *Voluntary sharing* Nothing in this section may be construed to restrict or condition a non-Federal entity from sharing, for cybersecurity purposes, cyber threat indicators, defensive measures, or information related to cybersecurity risks or incidents with any other non-Federal entity, and nothing in this section may be construed as requiring any non-Federal entity to share cyber threat indicators, defensive measures, or information related to cybersecurity risks or incidents with the Center.
   >     - **(I)** *Federal preemption* This section supersedes any statute or other provision of law of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under this section.
+  > - **(j)** *Direct reporting* The Secretary shall develop policies and procedures for direct reporting to the Secretary by the Director of the Center regarding significant cybersecurity risks and incidents.
+  > - **(k)** *Additional responsibilities* The Secretary shall build upon existing mechanisms to promote a national awareness effort to educate the general public on the importance of securing information systems.
+  > - **(l)** *Reports on international cooperation* Not later than 180 days after the date of the enactment of this subsection and periodically thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the range of efforts underway to bolster cybersecurity collaboration with relevant international partners in accordance with subsection (c)(8).
+  > - **(m)** *Outreach* Not later than 60 days after the date of the enactment of this subsection, the Secretary, acting through the Under Secretary for Cybersecurity and Infrastructure Protection, shall—
+  >   - **(1)** disseminate to the public information about how to voluntarily share cyber threat indicators and defensive measures with the Center; and
+  >   - **(2)** enhance outreach to critical infrastructure owners and operators for purposes of such sharing.
 
 ## § 4. Information sharing and analysis organizations
 
@@ -268,11 +284,7 @@ Section 212 of the Homeland Security Act of 2002 (6 U.S.C. 131) is amended—
 - **(2)** by adding at the end the following new paragraph:
   > - **(8)** *Cybersecurity risk; incident* The terms “cybersecurity risk” and “incident” have the meanings given such terms in the second section 226 (relating to the National Cybersecurity and Communications Integration Center).
 
-## § 5. Prohibition on new regulatory authority
-
-Nothing in this Act or the amendments made by this Act may be construed to grant the Secretary of Homeland Security any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of the enactment of this Act.
-
-## § 6. Streamlining of Department of Homeland Security cybersecurity and infrastructure protection organization
+## § 5. Streamlining of Department of Homeland Security cybersecurity and infrastructure protection organization
 
 - **(a)** *Cybersecurity and Infrastructure Protection* The National Protection and Programs Directorate of the Department of Homeland Security shall, after the date of the enactment of this Act, be known and designated as the “Cybersecurity and Infrastructure Protection”. Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Protection of the Department.
 - **(b)** *Senior leadership of Cybersecurity and Infrastructure Protection*
@@ -291,10 +303,84 @@ Nothing in this Act or the amendments made by this Act may be construed to grant
   - **(2)** *Continuation in office* The individuals who hold the positions referred in subparagraphs (H), (K), and (L) of paragraph (1) of section 103(a) the Homeland Security Act of 2002 (as amended and added by paragraph (1) of this subsection) as of the date of the enactment of this Act may continue to hold such positions.
 - **(c)** *Report* Not later than 90 days after the date of the enactment of this Act, the Under Secretary for Cybersecurity and Infrastructure Protection of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the feasibility of becoming an operational component, including an analysis of alternatives, and if a determination is rendered that becoming an operational component is the best option for achieving the mission of Cybersecurity and Infrastructure Protection, a legislative proposal and implementation plan for becoming such an operational component. Such report shall also include plans to more effectively carry out the cybersecurity mission of Cybersecurity and Infrastructure Protection, including expediting information sharing agreements.
 
-## § 7. Report on reducing cybersecurity risks in DHS data centers
+## § 6. Cyber incident response plans
+
+- **(a)** *In general* Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 149) is amended—
+  - **(1)** in the heading, by striking “plan” and inserting “plans”;
+  - **(2)** by striking “The Under Secretary appointed under section 103(a)(1)(H) shall” and inserting the following:
+    > - **(a)** *In general* The Under Secretary for Cybersecurity and Infrastructure Protection shall
+
+  - **(3)** by adding at the end the following new subsection:
+    > - **(b)** *Updates to the Cyber Incident Annex to the National Response Framework* The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (a), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.
+
+- **(b)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by amending the item relating to section 227 to read as follows:
+
+## § 7. Security and resiliency of public safety communications; Cybersecurity awareness campaign
+
+- **(a)** *In general* Subtitle C of title II of the Homeland Security Act of 2002 (6 U.S.C. 141 et seq.) is amended by adding at the end the following new sections:
+  > ## § 230. Security and resiliency of public safety communications
+  >
+  > The National Cybersecurity and Communications Integration Center, in coordination with the Office of Emergency Communications of the Department, shall assess and evaluate consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications.
+  >
+  > ## § 231. Cybersecurity awareness campaign
+  >
+  > - **(a)** *In general* The Under Secretary for Cybersecurity and Infrastructure Protection shall develop and implement an ongoing and comprehensive cybersecurity awareness campaign regarding cybersecurity risks and voluntary best practices for mitigating and responding to such risks. Such campaign shall, at a minimum, publish and disseminate, on an ongoing basis, the following:
+  >   - **(1)** Public service announcements targeted at improving awareness among State, local, and tribal governments, the private sector, academia, and stakeholders in specific audiences, including the elderly, students, small businesses, members of the Armed Forces, and veterans.
+  >   - **(2)** Vendor and technology-neutral voluntary best practices information.
+  > - **(b)** *Consultation* The Under Secretary for Cybersecurity and Infrastructure Protection shall consult with a wide range of stakeholders in government, industry, academia, and the non-profit community in carrying out this section.
+
+- **(b)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 226 (relating to cybersecurity recruitment and retention) the following new items:
+
+## § 8. Critical infrastructure protection research and development
+
+- **(a)** *Strategic plan; Public-private consortiums* Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section:
+  > ## § 318. Research and development strategy for critical infrastructure protection
+  >
+  > - **(a)** *In general* Not later than 180 days after the date of enactment of this section, the Secretary, acting through the Under Secretary for Science and Technology, shall submit to Congress a strategic plan to guide the overall direction of Federal physical security and cybersecurity technology research and development efforts for protecting critical infrastructure, including against all threats. Such plan shall be updated and submitted to Congress every two years.
+  > - **(b)** *Contents of plan* The strategic plan, including biennial updates, required under subsection (a) shall include the following:
+  >   - **(1)** An identification of critical infrastructure security risks and any associated security technology gaps, that are developed following—
+  >     - **(A)** consultation with stakeholders, including critical infrastructure Sector Coordinating Councils; and
+  >     - **(B)** performance by the Department of a risk and gap analysis that considers information received in such consultations.
+  >   - **(2)** A set of critical infrastructure security technology needs that—
+  >     - **(A)** is prioritized based on the risks and gaps identified under paragraph (1);
+  >     - **(B)** emphasizes research and development of technologies that need to be accelerated due to rapidly evolving threats or rapidly advancing infrastructure technology; and
+  >     - **(C)** includes research, development, and acquisition roadmaps with clearly defined objectives, goals, and measures.
+  >   - **(3)** An identification of laboratories, facilities, modeling, and simulation capabilities that will be required to support the research, development, demonstration, testing, evaluation, and acquisition of the security technologies described in paragraph (2).
+  >   - **(4)** An identification of current and planned programmatic initiatives for fostering the rapid advancement and deployment of security technologies for critical infrastructure protection, including a consideration of opportunities for public-private partnerships, intragovernment collaboration, university centers of excellence, and national laboratory technology transfer.
+  >   - **(5)** A description of progress made with respect to each critical infrastructure security risk, associated security technology gap, and critical infrastructure technology need identified in the preceding strategic plan required under subsection (a).
+  > - **(c)** *Coordination* In carrying out this section, the Under Secretary for Science and Technology shall coordinate with the Under Secretary for the National Protection and Programs Directorate.
+  > - **(d)** *Consultation* In carrying out this section, the Under Secretary for Science and Technology shall consult with—
+  >   - **(1)** critical infrastructure Sector Coordinating Councils;
+  >   - **(2)** to the extent practicable, subject matter experts on critical infrastructure protection from universities, colleges, national laboratories, and private industry;
+  >   - **(3)** the heads of other relevant Federal departments and agencies that conduct research and development relating to critical infrastructure protection; and
+  >   - **(4)** State, local, and tribal governments, as appropriate.
+
+- **(b)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 317 the following new item:
+
+## § 9. Report on reducing cybersecurity risks in DHS data centers
 
 Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the feasibility of the Department of Homeland Security creating an environment for the reduction in cybersecurity risks in Department data centers, including by increasing compartmentalization between systems, and providing a mix of security controls between such compartments.
 
-## § 8. Prohibition on new funding
+## § 10. Assessment
+
+Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains an assessment of the implementation by the Secretary of Homeland Security of this Act and the amendments made by this Act and, to the extent practicable, findings regarding increases in the sharing of cyber threat indicators, defensive measures, and information relating to cybersecurity risks and incidents at the National Cybersecurity and Communications Integration Center and throughout the United States.
+
+## § 11. Consultation
+
+The Under Secretary for Cybersecurity and Infrastructure Protection shall produce a report on the feasibility of creating a risk-informed prioritization plan should multiple critical infrastructures experience cyber incidents simultaneously.
+
+## § 12. Technical assistance
+
+The Inspector General of the Department of Homeland Security shall review the operations of the United States Computer Emergency Readiness Team (US-CERT) and the Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) to assess the capacity to provide technical assistance to non-Federal entities and to adequately respond to potential increases in requests for technical assistance.
+
+## § 13. Prohibition on new regulatory authority
+
+Nothing in this Act or the amendments made by this Act may be construed to grant the Secretary of Homeland Security any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of the enactment of this Act.
+
+## § 14. Sunset
+
+Any requirements for reports required by this Act or the amendments made by this Act shall terminate on the date that is seven years after the date of the enactment of this Act.
+
+## § 15. Prohibition on new funding
 
 No funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts appropriated or otherwise made available for such purposes.
