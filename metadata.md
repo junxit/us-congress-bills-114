@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 636
@@ -71,3 +71,5 @@ FAA Extension, Safety, and Security Act of 2016
 - 2015-02-13 — The previous question was ordered pursuant to the rule. (consideration: CR H1048)
 - 2015-02-13 — The resolution provides for consideration of both H.R. 644 and H.R. 636 under closed rules.
 - 2015-02-23 — Received in the Senate.
+- 2015-04-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
