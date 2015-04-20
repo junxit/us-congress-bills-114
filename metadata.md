@@ -1,7 +1,7 @@
 ---
 measure: H.R. 622
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 622
@@ -94,3 +94,4 @@ State and Local Sales Tax Deduction Fairness Act of 2015
 - 2015-04-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 272 - 152 (Roll no. 159).(text: CR H2286)
 - 2015-04-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2289)
 - 2015-04-16 — This resolution provides for consideration of H.R. 622, H.R. 1105, and H.R. 1195.
+- 2015-04-20 — Received in the Senate.
