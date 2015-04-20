@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1295
@@ -41,3 +41,5 @@ Trade Preferences Extension Act of 2015
 - 2015-04-15 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
 - 2015-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2236-2237)
 - 2015-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2236-2237)
+- 2015-04-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
