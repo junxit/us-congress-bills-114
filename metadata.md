@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 644
@@ -58,3 +58,5 @@ Trade Facilitation and Trade Enforcement Act of 2015
 - 2015-02-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1014)
 - 2015-02-12 — The resolution provides for consideration of both H.R. 644 and H.R. 636 under closed rules.
 - 2015-02-23 — Received in the Senate.
+- 2015-04-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
