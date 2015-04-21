@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 21
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 21
@@ -42,3 +42,9 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2015-04-20 — Placed on the House Calendar, Calendar No. 22.
 - 2015-04-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-86.
 - 2015-04-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-86.
+- 2015-04-21 — Considered under suspension of the rules. (consideration: CR H2332-2333)
+- 2015-04-21 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 21.
+- 2015-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-21 — Mr. Barletta moved to suspend the rules and agree to the resolution.
+- 2015-04-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2332)
+- 2015-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2332)
