@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 471
@@ -44,3 +44,9 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2015
 - 2015-04-20 — Placed on the Union Calendar, Calendar No. 63.
 - 2015-04-20 — Reported by the Committee on Energy and Commerce. H. Rept. 114-85, Part I.
 - 2015-04-20 — Reported by the Committee on Energy and Commerce. H. Rept. 114-85, Part I.
+- 2015-04-21 — Considered under suspension of the rules. (consideration: CR H2329-2332)
+- 2015-04-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 471.
+- 2015-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-21 — Mrs. Blackburn moved to suspend the rules and pass the bill, as amended.
+- 2015-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2329)
+- 2015-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2329)

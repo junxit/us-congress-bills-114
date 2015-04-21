@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -53,5 +53,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 824` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 824` | strike | by striking the last two sentences in such subsection; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 824` | strike | by striking the last two sentences; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 824` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
