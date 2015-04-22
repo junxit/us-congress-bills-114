@@ -28,19 +28,19 @@ This Act may be cited as the “Bureau of Consumer Financial Protection Advisory
   >       - **(i)** provide eligible financial products or services;
   >       - **(ii)** are service providers to covered persons; and
   >       - **(iii)** use consumer financial products or services in financing the business activities of such concern.
-  >     - **(C)** *Additional considerations* In appointing members pursuant to subparagraph (A), the Director is encouraged to ensure the participation of minority- and women-owned small business concerns and their interests, without regard to party affiliation.
+  >     - **(C)** *Additional considerations* In appointing members pursuant to subparagraph (A), the Director shall include members representing minority-, women-, and veteran-owned small business concerns and their interests, without regard to party affiliation.
   >   - **(3)** *Meetings* The Small Business Advisory Board—
   >     - **(A)** shall meet from time to time at the call of the Director; and
   >     - **(B)** shall meet at least twice each year.
   > - **(b)** *Credit Union Advisory Council*
   >   - **(1)** *Establishment* The Director shall establish a Credit Union Advisory Council to advise and consult with the Bureau on consumer financial products or services that impact credit unions.
-  >   - **(2)** *Membership* The Director shall appoint no fewer than 15 and no more than 20 members to the Credit Union Advisory Council. In appointing such members, the Director is encouraged to ensure the participation of credit unions predominantly serving traditionally underserved communities and populations and their interests, without regard to party affiliation.
+  >   - **(2)** *Membership* The Director shall appoint no fewer than 15 and no more than 20 members to the Credit Union Advisory Council. In appointing such members, the Director shall include members representing credit unions predominantly serving traditionally underserved communities and populations and their interests, without regard to party affiliation.
   >   - **(3)** *Meetings* The Credit Union Advisory Council—
   >     - **(A)** shall meet from time to time at the call of the Director; and
   >     - **(B)** shall meet at least twice each year.
   > - **(c)** *Community Bank Advisory Council*
   >   - **(1)** *Establishment* The Director shall establish a Community Bank Advisory Council to advise and consult with the Bureau on consumer financial products or services that impact community banks.
-  >   - **(2)** *Membership* The Director shall appoint no fewer than 15 and no more than 20 members to the Community Bank Advisory Council. In appointing such members, the Director is encouraged to ensure the participation of community banks predominantly serving traditionally underserved communities and populations and their interests, without regard to party affiliation.
+  >   - **(2)** *Membership* The Director shall appoint no fewer than 15 and no more than 20 members to the Community Bank Advisory Council. In appointing such members, the Director shall include members representing community banks predominantly serving traditionally underserved communities and populations and their interests, without regard to party affiliation.
   >   - **(3)** *Meetings* The Community Bank Advisory Council—
   >     - **(A)** shall meet from time to time at the call of the Director; and
   >     - **(B)** shall meet at least twice each year.
@@ -52,3 +52,10 @@ This Act may be cited as the “Bureau of Consumer Financial Protection Advisory
   >   - **(2)** the term small business concern has the meaning given such term in section 3 of the Small Business Act (15 U.S.C. 632).
 
 - **(b)** *Table of contents amendment* The table of contents in section 1 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended by inserting after the item relating to section 1014 the following new item:
+
+## § 3. Bureau funding authority
+
+The Director of the Bureau of Consumer Financial Protection, under section 1017 of the Consumer Financial Protection Act of 2010, may not request—
+
+- **(1)** during fiscal year 2020, an amount that would result in the total amount requested by the Director during that fiscal year to exceed $655,000,000; and
+- **(2)** during fiscal year 2025, an amount that would result in the total amount requested by the Director during that fiscal year to exceed $720,000,000.
