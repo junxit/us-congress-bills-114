@@ -15,4 +15,4 @@ This Act may be cited as the “Medicare Independence at Home Medical Practice D
 
 ## § 2. Increase in the limit on the length of an agreement under the Medicare independence at home medical practice demonstration program
 
-Section 1866E(e)(1) (42 U.S.C. 1395cc–5(e)(1)) is amended by striking “3-year” and inserting “5-year”.
+Section 1866E(e)(1) of the Social Security Act (42 U.S.C. 1395cc–5(e)(1)) is amended by striking “3-year” and inserting “5-year”.

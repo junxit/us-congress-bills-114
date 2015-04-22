@@ -1,7 +1,7 @@
 ---
 measure: S. 971
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 971
@@ -23,11 +23,28 @@ Medicare Independence at Home Medical Practice Demonstration Improvement Act of 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
 - 2015-04-16 — Introduced in Senate
 - 2015-04-16 — Read twice and referred to the Committee on Finance.
+- 2015-04-22 — Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2015-04-22 — Amendment SA 1129 proposed by Senator Cornyn for Senator Wyden. (consideration: CR S2319; text CR: S2319) To make a technical correction.
+- 2015-04-22 — Measure laid before Senate by unanimous consent. (consideration: CR S2318-2319)
+- 2015-04-22 — Message on Senate action sent to the House.
+- 2015-04-22 — Passed Senate with an amendment by Voice Vote. (text: CR S2319)
+- 2015-04-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S2319)
+- 2015-04-22 — Received in the House.
+- 2015-04-22 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-22 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-22 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-22 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S2318)
+- 2015-04-22 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S2318)
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1129 proposed by Senator Cornyn for Senator Wyden.(consideration: CR S2319; text CR: S2319)
+- 2015-04-22 — Senate amendment submitted

@@ -1,7 +1,7 @@
 ---
 measure: S. 971
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395cc-5
 
-> Section 1866E(e)(1) (42 U.S.C. 1395cc–5(e)(1)) is amended by striking “3-year” and inserting “5-year”.
+> Section 1866E(e)(1) of the Social Security Act (42 U.S.C. 1395cc–5(e)(1)) is amended by striking “3-year” and inserting “5-year”.
 
 | | |
 |---|---|
