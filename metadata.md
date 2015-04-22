@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 471
@@ -25,10 +25,11 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2015
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2015
 - 2015-04-21 — Mrs. Blackburn moved to suspend the rules and pass the bill, as amended.
 - 2015-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2329)
 - 2015-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2329)
+- 2015-04-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
