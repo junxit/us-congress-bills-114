@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 178
@@ -16,7 +16,7 @@ Justice for Victims of Trafficking Act of 2015
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (26)
+## Cosponsors (109)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -44,10 +44,109 @@ Justice for Victims of Trafficking Act of 2015
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
+
+## Recorded votes (13)
+
+- 2015-03-17 — [Senate 114-1-72](votes/senate-114-1-0072.md) — On the Cloture Motion — **Cloture Motion Rejected** (55–43)
+- 2015-03-17 — [Senate 114-1-73](votes/senate-114-1-0073.md) — On the Cloture Motion — **Cloture Motion Rejected** (55–43)
+- 2015-03-18 — [Senate 114-1-74](votes/senate-114-1-0074.md) — On the Cloture Motion — **Cloture Motion Rejected** (57–41)
+- 2015-03-19 — [Senate 114-1-75](votes/senate-114-1-0075.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–42)
+- 2015-03-19 — [Senate 114-1-76](votes/senate-114-1-0076.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–42)
+- 2015-04-22 — [Senate 114-1-156](votes/senate-114-1-0156.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2015-04-22 — [Senate 114-1-157](votes/senate-114-1-0157.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2015-04-22 — [Senate 114-1-158](votes/senate-114-1-0158.md) — On the Amendment — **Amendment Rejected** (45–53)
+- 2015-04-22 — [Senate 114-1-159](votes/senate-114-1-0159.md) — On the Amendment — **Amendment Rejected** (56–43)
+- 2015-04-22 — [Senate 114-1-160](votes/senate-114-1-0160.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2015-04-22 — [Senate 114-1-161](votes/senate-114-1-0161.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2015-04-22 — [Senate 114-1-162](votes/senate-114-1-0162.md) — On the Amendment — **Amendment Agreed to** (97–2)
+- 2015-04-22 — [Senate 114-1-163](votes/senate-114-1-0163.md) — On Passage of the Bill — **Bill Passed** (99–0)
 
 ## Actions
 
@@ -58,3 +157,211 @@ Justice for Victims of Trafficking Act of 2015
 - 2015-03-02 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2015-03-02 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2015-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.
+- 2015-03-09 — Senate amendment submitted
+- 2015-03-09 — Senate amendment submitted
+- 2015-03-09 — Senate amendment submitted
+- 2015-03-09 — Senate amendment submitted
+- 2015-03-10 — Amendment SA 270 proposed by Senator Portman. (consideration: CR S1369; text: CR S1369) To amend the Child Abuse Prevention and Treatment Act to enable State child protective services systems to improve the identification and assessment of child victims of sex trafficking, and for other purposes.
+- 2015-03-10 — Amendment SA 271 proposed by Senator Portman. (consideration: CR S1369-1377; text CR S1369-1370) To amend the definition of "homeless person" under the McKinney-Vento Homeless Assistance Act to include certain homeless children and youth, and for other purposes.
+- 2015-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1349-1361, H1366-1377; text of measure as reported in Senate: CR S1349-1356)
+- 2015-03-10 — Senate amendment proposed (on the floor): Amendment SA 270 proposed by Senator Portman.(consideration: CR S1369; text: CR S1369)
+- 2015-03-10 — Senate amendment proposed (on the floor): Amendment SA 271 proposed by Senator Portman.(consideration: CR S1369-1377; text CR S1369-1370)
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-10 — Senate amendment submitted
+- 2015-03-11 — Amendment SA 284 proposed by Senator Vitter to Amendment SA 271. (consideration: CR S1408-1410; text: CR S1408) To amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals born in the United States who are nationals and citizens of the United States at birth.
+- 2015-03-11 — Considered by Senate. (consideration: CR S1403, S1420)
+- 2015-03-11 — Considered by Senate. (consideration: CR S1403, S1420-1421)
+- 2015-03-11 — Considered by Senate. (consideration: CR S1403-1423, S1423-1430)
+- 2015-03-11 — Senate amendment proposed (on the floor): Amendment SA 284 proposed by Senator Vitter to Amendment SA 271.(consideration: CR S1408-1410; text: CR S1408)
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-11 — Senate amendment submitted
+- 2015-03-12 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S1474-1475; text: CR S1475)
+- 2015-03-12 — Cloture motion on the measure presented in Senate. (consideration: CR S1475; text: CR S1475)
+- 2015-03-12 — Considered by Senate. (consideration: CR S1456-1470, S1474-1475)
+- 2015-03-12 — Considered by Senate. (consideration: CR S1457)
+- 2015-03-12 — Considered by Senate. (consideration: CR S1457)
+- 2015-03-12 — Considered by Senate. (consideration: CR S1457)
+- 2015-03-12 — Senate amendment submitted
+- 2015-03-12 — Senate amendment submitted
+- 2015-03-12 — Senate amendment submitted
+- 2015-03-16 — Considered by Senate. (consideration: CR S1517)
+- 2015-03-16 — Considered by Senate. (consideration: CR S1517)
+- 2015-03-16 — Considered by Senate. (consideration: CR S1517)
+- 2015-03-16 — Considered by Senate. (consideration: CR S1517-1522)
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-16 — Senate amendment submitted
+- 2015-03-17 — Cloture on the committee reported substitute amendment not invoked in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 72. (consideration: CR S1563-1564; text: CR S1563-1564)
+- 2015-03-17 — Cloture on the measure not invoked in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 73. (consideration: CR S1564; text: CR S1564)
+- 2015-03-17 — Considered by Senate. (consideration: CR S1561)
+- 2015-03-17 — Considered by Senate. (consideration: CR S1561)
+- 2015-03-17 — Considered by Senate. (consideration: CR S1561)
+- 2015-03-17 — Considered by Senate. (consideration: CR S1561-1565, S1565-1575)
+- 2015-03-17 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the committee reported substitute amendment (Record Vote No. 72) entered in Senate.
+- 2015-03-17 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the measure (Record Vote No. 73) entered in Senate.
+- 2015-03-17 — Second cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S1575; text: CR S1575)
+- 2015-03-17 — Second cloture motion on the measure presented in Senate. (consideration: CR S1575; text: CR S1575)
+- 2015-03-17 — Senate amendment submitted
+- 2015-03-17 — Senate amendment submitted
+- 2015-03-18 — Considered by Senate. (consideration: CR S1596)
+- 2015-03-18 — Considered by Senate. (consideration: CR S1596)
+- 2015-03-18 — Considered by Senate. (consideration: CR S1596)
+- 2015-03-18 — Considered by Senate. (consideration: CR S1596-1625)
+- 2015-03-18 — Motion by Senator McConnell to reconsider the vote by which the motion to invoke cloture on the committee reported substitute amendment was not invoked (Record Vote No. 72) agreed to in Senate by Voice Vote.
+- 2015-03-18 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the committee reported substitute amendment (Record Vote No. 72) agreed to in Senate by Voice Vote.
+- 2015-03-18 — Senate amendment submitted
+- 2015-03-18 — Upon reconsideration, cloture on the committee reported substitute amendment not invoked in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 74. (consideration: CR S1614; text: CR S1614)
+- 2015-03-19 — Considered by Senate. (consideration: CR S1638)
+- 2015-03-19 — Considered by Senate. (consideration: CR S1638)
+- 2015-03-19 — Considered by Senate. (consideration: CR S1638)
+- 2015-03-19 — Considered by Senate. (consideration: CR S1638-1657)
+- 2015-03-19 — Motion by Senator McConnell to reconsider the vote by which the second cloture motion was not invoked on S. 178 (Roll Call Vote No. 76) entered in Senate.
+- 2015-03-19 — Motion by Senator McConnell to reconsider the vote by which the second cloture motion was not invoked on the committee reported substitute amendment (Roll Call Vote No. 75) entered in Senate. (consideration: CR S1641-1642)
+- 2015-03-19 — Second cloture on the committee reported substitute amendment not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 75. (consideration: CR S1641; text: CR S1641)
+- 2015-03-19 — Second cloture on the measure not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 76. (consideration: CR S1642)
+- 2015-03-19 — Senate amendment submitted
+- 2015-04-14 — Amendment SA 1120 proposed by Senator McConnell for Senator Cornyn. (consideration: CR S2162-2163; text: CR S2162) To strengthen the Justice for Victims of Trafficking Act by incorporating additional bipartisan amendments.
+- 2015-04-14 — Cloture motion on amendment SA 1120 presented in Senate. (consideration: CR S2162; text: CR S2162)
+- 2015-04-14 — Considered by Senate. (consideration: CR S2161-2163)
+- 2015-04-14 — Considered by Senate. (consideration: CR S2162)
+- 2015-04-14 — Considered by Senate. (consideration: CR S2162)
+- 2015-04-14 — Considered by Senate. (consideration: CR S2162)
+- 2015-04-14 — Proposed amendment SA 270 withdrawn in Senate. (consideration: CR S2162)
+- 2015-04-14 — Proposed amendment SA 271 withdrawn in Senate. (consideration: CR S2162)
+- 2015-04-14 — SA 284 fell when SA 271 withdrawn. (consideration: CR S2162)
+- 2015-04-14 — Senate amendment proposed (on the floor): Amendment SA 1120 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S2162-2163; text: CR S2162)
+- 2015-04-14 — Senate amendment submitted
+- 2015-04-16 — Cloture motion on amendment SA 1120 withdrawn by unanimous consent in Senate. (consideration: CR S2232)
+- 2015-04-16 — Considered by Senate. (consideration: CR S2229-2234, S2234-2239)
+- 2015-04-16 — Considered by Senate. (consideration: CR S2232)
+- 2015-04-20 — Considered by Senate. (consideration: CR S2260)
+- 2015-04-20 — Considered by Senate. (consideration: CR S2260)
+- 2015-04-20 — Senate amendment submitted
+- 2015-04-20 — Senate amendment submitted
+- 2015-04-21 — Considered by Senate. (consideration: CR S2286)
+- 2015-04-21 — Considered by Senate. (consideration: CR S2286-2288, S2288-2295)
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-21 — Senate amendment submitted
+- 2015-04-22 — Amendment SA 1121 proposed by Senator Burr. (consideration CR: S2320-2321; text: CR S2320) To require the Secretary of Defense to inform the Attorney General of persons required to register as sex offenders.
+- 2015-04-22 — Amendment SA 1121, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 161.
+- 2015-04-22 — Amendment SA 1122 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 1122 proposed by Senator Cornyn for Senator Heller. (consideration: CR S2333-2337; text: CR S2335-2336) To direct the Secretary of Homeland Security to train Department of Homeland Security personnel how to effectively deter, detect, disrupt, and prevent human trafficking during the course of their primary roles and responsibilities.
+- 2015-04-22 — Amendment SA 1124 proposed by Senator Cornyn. (consideration CR: S2313; text: CR S2313) To strengthen the Justice for Victims of Trafficking Act by incorporating additional bipartisan amendments.
+- 2015-04-22 — Amendment SA 1124, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 157. (consideration: CR S2320)
+- 2015-04-22 — Amendment SA 1126 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 1126 proposed by Senator Cornyn for Senator Wicker. (consideration: CR S2333-2337; text: CR S2334) To direct the Attorney General to create a publicly accessible database for trafficking victims advocates that contains information about services for trafficking survivors.
+- 2015-04-22 — Amendment SA 1127 proposed by Senator Cornyn. (consideration: CR S2330; text: CR S2330) To reauthorize the Runaway and Homeless Youth Act, and for other purposes.
+- 2015-04-22 — Amendment SA 1127, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 158.
+- 2015-04-22 — Amendment SA 1128 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 1128 proposed by Senator Cornyn for Senator Portman. (consideration: CR S2333-2337; text: CR S2335) To amend the Child Abuse Prevention and Treatment Act to enable State child protective services systems to improve the identification and assessment of child victims of sex trafficking, and for other purposes.
+- 2015-04-22 — Amendment SA 273 as modified, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 162.
+- 2015-04-22 — Amendment SA 273 proposed by Senator Grassley for Senator Kirk. (consideration: CR S2326, S2332-2333;text as modified: CR S2326) To amend title 18, United States Code, to provide a penalty for knowingly selling advertising that offers certain commercial sex acts.
+- 2015-04-22 — Amendment SA 279 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 279 proposed by Senator Cornyn for Senator Sullivan. (consideration: CR S2333-2337; text: CR S2334) To require the Attorney General of the United States to grant certain requests by State attorneys general to cross designate State and local attorneys to prosecute individuals for sex trafficking.
+- 2015-04-22 — Amendment SA 290 proposed by Senator Leahy. (consideration: CR S2329-2330, S2330-2331) To reauthorize the Runaway and Homeless Youth Act.
+- 2015-04-22 — Amendment SA 290, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2015-04-22 — Amendment SA 294 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 294 proposed by Senator Cornyn for Senator Flake. (consideration: CR S2333-2337; text: CR S2334) To require a GAO study on the programs authorized by the bill.
+- 2015-04-22 — Amendment SA 296 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 296 proposed by Senator Cornyn for Senator Klobuchar. (consideration: CR S2333-2337; text: CR S2333-2334) To stop exploitation through trafficking.
+- 2015-04-22 — Amendment SA 299 as modified agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 299 proposed by Senator Cornyn for Senator Hoeven. (consideration: CR S2333-2337; text as modified: CR S2334) To ensure that eligible entities that have only recently begun collecting data on child human trafficking are not precluded from being awarded  certain grants.
+- 2015-04-22 — Amendment SA 301 proposed by Senator Leahy. (consideration: CR S2316-2318, S2319-2320) To improve the bill.
+- 2015-04-22 — Amendment SA 301, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 156.
+- 2015-04-22 — Amendment SA 303 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 303 proposed by Senator Cornyn for Senator Shaheen. (consideration: CR S2333-2337; text: CR S2336) To aid human trafficking victims' recovery and rehabilitation.
+- 2015-04-22 — Amendment SA 308 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 308 proposed by Senator Cornyn for Senator Cassidy. (consideration: CR S2333-2337; text: CR S2334-2335) To provide for the development and dissemination of evidence-based best practices for health care professionals to recognize victims of a severe form of trafficking and respond to such individuals appropriately, and for other purposes.
+- 2015-04-22 — Amendment SA 310 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 310 proposed by Senator Cornyn for Senator Brown. (consideration: CR S2333-2337; text: CR S2335) To allow grants under the victim-centered child human trafficking deterrence block grant program to be used for assisting law enforcement agencies in finding homeless and runaway youth.
+- 2015-04-22 — Amendment SA 311 proposed by Senator Brown. (consideration: CR S2331-2332; text: CR S2331-2332) To direct the Attorney General to increase the amount provided under certain formula grants to States that have in place laws that terminate the parental rights of men who father children through rape.
+- 2015-04-22 — Amendment SA 311, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 160.
+- 2015-04-22 — Amendment SA 312 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Amendment SA 312 proposed by Senator Cornyn for Senator Brown. (consideration: CR S2333-2337; text: CR S2335) To amend the Trafficking Victims Protection Act of 2000 to expand the training for Federal Government personnel related to trafficking in persons, and for other purposes.
+- 2015-04-22 — Considered by Senate. (consideration: CR S2312)
+- 2015-04-22 — Considered by Senate. (consideration: CR S2312-2318, S2319-2348)
+- 2015-04-22 — Passed Senate with an amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 163. (text: CR S2338-2348)
+- 2015-04-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 163.(text: CR S2338-2348)
+- 2015-04-22 — Proposed amendment SA 1120 withdrawn in Senate. (consideration CR: S2313)
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 1121, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 161.
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 1124, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 157.(consideration: CR S2320)
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 1127, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 158.
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 273 as modified, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 162.
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 290, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 301, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 156.
+- 2015-04-22 — Roll call votes on amendments in Senate: Amendment SA 311, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 160.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1121, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 161.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1122 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1124, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 157.(consideration: CR S2320)
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1126 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 1128 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 273 as modified, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 162.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 279 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 294 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 296 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 299 as modified agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 303 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 308 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 310 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 311, under the order of 4/21/2015, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 160.
+- 2015-04-22 — Senate amendment agreed to: Amendment SA 312 agreed to in Senate by Voice Vote.
+- 2015-04-22 — Senate amendment not agreed to: Amendment SA 1127, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 158.
+- 2015-04-22 — Senate amendment not agreed to: Amendment SA 290, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2015-04-22 — Senate amendment not agreed to: Amendment SA 301, under the order of 4/21/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 156.
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1121 proposed by Senator Burr.(consideration CR: S2320-2321; text: CR S2320)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1122 proposed by Senator Cornyn for Senator Heller.(consideration: CR S2333-2337; text: CR S2335-2336)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1124 proposed by Senator Cornyn.(consideration CR: S2313; text: CR S2313)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1126 proposed by Senator Cornyn for Senator Wicker.(consideration: CR S2333-2337; text: CR S2334)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1127 proposed by Senator Cornyn.(consideration: CR S2330; text: CR S2330)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1128 proposed by Senator Cornyn for Senator Portman.(consideration: CR S2333-2337; text: CR S2335)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 273 proposed by Senator Grassley for Senator Kirk.(consideration: CR S2326, S2332-2333;text as modified: CR S2326)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 279 proposed by Senator Cornyn for Senator Sullivan.(consideration: CR S2333-2337; text: CR S2334)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 290 proposed by Senator Leahy.(consideration: CR S2329-2330, S2330-2331)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 294 proposed by Senator Cornyn for Senator Flake.(consideration: CR S2333-2337; text: CR S2334)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 296 proposed by Senator Cornyn for Senator Klobuchar.(consideration: CR S2333-2337; text: CR S2333-2334)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 299 proposed by Senator Cornyn for Senator Hoeven.(consideration: CR S2333-2337; text as modified: CR S2334)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 301 proposed by Senator Leahy.(consideration: CR S2316-2318, S2319-2320)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 303 proposed by Senator Cornyn for Senator Shaheen.(consideration: CR S2333-2337; text: CR S2336)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 308 proposed by Senator Cornyn for Senator Cassidy.(consideration: CR S2333-2337; text: CR S2334-2335)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 310 proposed by Senator Cornyn for Senator Brown.(consideration: CR S2333-2337; text: CR S2335)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 311 proposed by Senator Brown.(consideration: CR S2331-2332; text: CR S2331-2332)
+- 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 312 proposed by Senator Cornyn for Senator Brown.(consideration: CR S2333-2337; text: CR S2335)
+- 2015-04-22 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S2337)
