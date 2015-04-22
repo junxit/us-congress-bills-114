@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 178
@@ -132,7 +132,7 @@ Justice for Victims of Trafficking Act of 2015
 
 - Senate — Judiciary Committee
 
-## Recorded votes (13)
+## Recorded votes (14)
 
 - 2015-03-17 — [Senate 114-1-72](votes/senate-114-1-0072.md) — On the Cloture Motion — **Cloture Motion Rejected** (55–43)
 - 2015-03-17 — [Senate 114-1-73](votes/senate-114-1-0073.md) — On the Cloture Motion — **Cloture Motion Rejected** (55–43)
@@ -147,6 +147,7 @@ Justice for Victims of Trafficking Act of 2015
 - 2015-04-22 — [Senate 114-1-161](votes/senate-114-1-0161.md) — On the Amendment — **Amendment Agreed to** (98–0)
 - 2015-04-22 — [Senate 114-1-162](votes/senate-114-1-0162.md) — On the Amendment — **Amendment Agreed to** (97–2)
 - 2015-04-22 — [Senate 114-1-163](votes/senate-114-1-0163.md) — On Passage of the Bill — **Bill Passed** (99–0)
+- 2015-05-19 — [House 114-1-244](votes/house-114-1-0244.md) — On Motion to Suspend the Rules and Pass — **Passed** (420–3)
 
 ## Actions
 
@@ -365,3 +366,21 @@ Justice for Victims of Trafficking Act of 2015
 - 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 311 proposed by Senator Brown.(consideration: CR S2331-2332; text: CR S2331-2332)
 - 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 312 proposed by Senator Cornyn for Senator Brown.(consideration: CR S2333-2337; text: CR S2335)
 - 2015-04-22 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S2337)
+- 2015-04-23 — Held at the desk.
+- 2015-04-23 — Message on Senate action sent to the House.
+- 2015-04-23 — Received in the House.
+- 2015-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-05-18 — Considered under suspension of the rules. (consideration: CR H3266-3284)
+- 2015-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 178.
+- 2015-05-18 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2015-05-19 — Considered as unfinished business. (consideration: CR H3329-3330)
+- 2015-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 244). (text: CR 5/18/2015 H3266-3277)
+- 2015-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 244).(text: CR 5/18/2015 H3266-3277)
+- 2015-05-20 — Pursuant to the provisions of H. Con. Res. 47, enrollment corrections on S. 178 have been made.
+- 2015-05-21 — Presented to President.
+- 2015-05-21 — Presented to President.
+- 2015-05-29 — Became Public Law No: 114-22.
+- 2015-05-29 — Became Public Law No: 114-22.
+- 2015-05-29 — Signed by President.
+- 2015-05-29 — Signed by President.

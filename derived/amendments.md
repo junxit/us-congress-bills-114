@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-123 amendatory instructions. 13 executed, 110 stated and not applied.
+125 amendatory instructions. 13 executed, 112 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -259,4 +259,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17616` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17616` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 17616` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796dd` | replace | Section 1701(c) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd(c)) is amended by striking “where feasible” and all that follows, and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3796dd` | strike | in paragraph (1), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3796dd` | replace | in paragraph (2)(C), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
