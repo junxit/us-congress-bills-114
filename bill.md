@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 1932
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1932
+
+> To amend the Occupational Safety and Health Act of 1970 to allow employers a grace period to abate certain occupational health and safety violations before being subject to a penalty under such Act.
+
+## § 1. Grace period on OSHA penalties
+
+- **(a)** *Citations* Section 10(a) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 659(a)) is amended by inserting after the first sentence the following: “No such penalty may be assessed for a violation that is determined not to be willful, repeated, or serious as described in section 17(k), during the period of time fixed for abatement of the violation in the citation issued under section 9(a) or final order issued under this section, as the case may be, and no such penalty may be assessed for such a violation if such violation shall have been abated by the employer in accordance with such citation or final order before the end of such time period.”.
