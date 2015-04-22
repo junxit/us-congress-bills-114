@@ -1,7 +1,7 @@
 ---
 measure: S. 984
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 984
@@ -25,8 +25,20 @@ Steve Gleason Act of 2015
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
+## Committees (2)
+
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
+
 ## Actions
 
 - 2015-04-16 — Introduced in Senate
 - 2015-04-16 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Sponsor introductory remarks on measure:CR S2284-2285)
 - 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
+- 2015-04-22 — Message on Senate action sent to the House.
+- 2015-04-22 — Passed Senate without amendment by Voice Vote. (consideration: CR S2319; text as passed Senate: CR S2319)
+- 2015-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2319; text as passed Senate: CR S2319)
+- 2015-04-22 — Received in the House.
+- 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
