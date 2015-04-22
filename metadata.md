@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 25
@@ -49,3 +49,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2015-04-21 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 162). (text: CR H2333-2334)
 - 2015-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 162).(text: CR H2333-2334)
 - 2015-04-22 — Received in the Senate.
+- 2015-04-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2417)
+- 2015-04-23 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2417)
+- 2015-04-27 — Message on Senate action sent to the House.
