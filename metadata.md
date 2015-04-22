@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 114
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 782
@@ -20,11 +20,15 @@ Grand Canyon Bison Management Act
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
 - 2015-03-18 — Introduced in Senate
 - 2015-03-18 — Read twice and referred to the Committee on Environment and Public Works.
+- 2015-04-22 — Referred to the Committee on Energy and Natural Resources.
+- 2015-04-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2319)
+- 2015-04-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S2319)
