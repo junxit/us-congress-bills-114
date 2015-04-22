@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 114
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 710
@@ -21,10 +21,11 @@ To require the Secretary of Homeland Security to prepare a comprehensive securit
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ To require the Secretary of Homeland Security to prepare a comprehensive securit
 - 2015-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H899-900)
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H899-900)
 - 2015-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-04-22 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2015-04-22 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2319)
+- 2015-04-22 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2319)
