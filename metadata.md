@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 21
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 21
@@ -48,3 +48,4 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2015-04-21 — Mr. Barletta moved to suspend the rules and agree to the resolution.
 - 2015-04-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2332)
 - 2015-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2332)
+- 2015-04-22 — Received in the Senate.
