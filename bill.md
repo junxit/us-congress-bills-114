@@ -1,0 +1,26 @@
+---
+legis-num: S. 1071
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1071
+
+> To amend the Victims of Crime Act of 1984 to expand the amount available for victims of child abuse, sexual assault, domestic violence, and other crimes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fairness for Victims of Crime Act of 2015”.
+
+## § 2. Crime Victims Fund
+
+Section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) is amended by striking subsection (c) and inserting the following:
+
+> - **(c)**
+>   - **(1)** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation, in accordance with paragraph (2). Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
+>   - **(2)** On and after October 1, 2015, the amount available for expenditure from the Fund for a fiscal year shall be equal to the entire amount in the Fund.
+>   - **(3)** On and after October 1, 2015, the difference between the amount Congress makes available for expenditure from the Fund for a fiscal year and the average of the annual sums deposited in the Fund during—
+>     - **(A)** the fiscal year that is 4 years prior to the current fiscal year;
+>     - **(B)** the fiscal year that is 3 years prior to the current fiscal year; and
+>     - **(C)** the fiscal year that is 2 years prior to the current fiscal year,
