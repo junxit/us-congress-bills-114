@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1690
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1690
@@ -16,9 +16,12 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 
 ## Committees (1)
 
@@ -29,3 +32,10 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 - 2015-03-26 — Introduced in House
 - 2015-03-26 — Introduced in House
 - 2015-03-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-03-27 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported by Voice Vote.
+- 2015-04-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2015-04-23 — Placed on the House Calendar, Calendar No. 26.
+- 2015-04-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-90.
+- 2015-04-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-90.
