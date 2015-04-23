@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1195
@@ -38,9 +38,10 @@ Bureau of Consumer Financial Protection Advisory Boards Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -96,3 +97,4 @@ Bureau of Consumer Financial Protection Advisory Boards Act
 - 2015-04-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2380)
 - 2015-04-22 — The previous question was ordered pursuant to the rule. (consideration: CR H2379)
 - 2015-04-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of the Kuster (NH) amendment No. 1 printed in part D of House Report 114-74.
+- 2015-04-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
