@@ -1,7 +1,7 @@
 ---
 measure: H.R. 172
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 172
@@ -25,3 +25,10 @@ To designate the United States courthouse located at 501 East Court Street in Ja
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-01-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported by Voice Vote.
+- 2015-04-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2015-04-23 — Placed on the House Calendar, Calendar No. 25.
+- 2015-04-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-89.
+- 2015-04-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-89.
