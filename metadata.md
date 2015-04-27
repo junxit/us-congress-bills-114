@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 3
@@ -32,3 +32,6 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2015-04-23 — Resolution agreed to in Senate without amendment by Unanimous Consent.
 - 2015-04-23 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2417)
 - 2015-04-23 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2417)
+- 2015-04-27 — Message on Senate action sent to the House.
+- 2015-04-27 — Received in the House.
+- 2015-04-27 — Referred to the House Committee on House Administration.
