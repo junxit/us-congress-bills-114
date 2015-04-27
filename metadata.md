@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1732
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1732
@@ -16,7 +16,7 @@ Regulatory Integrity Protection Act of 2015
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
-## Cosponsors (26)
+## Cosponsors (70)
 
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
@@ -44,6 +44,50 @@ Regulatory Integrity Protection Act of 2015
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Labrador, Raul R. [R-ID-1] (L000573)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Ashford, Brad [D-NE-2] (A000373)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Blum, Rod [R-IA-1] (B001294)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Hanna, Richard L. [R-NY-22] (H001051)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
 ## Committees (1)
 
@@ -54,3 +98,10 @@ Regulatory Integrity Protection Act of 2015
 - 2015-04-13 — Introduced in House
 - 2015-04-13 — Introduced in House
 - 2015-04-13 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-04-14 — Referred to the Subcommittee on Water Resources and Environment.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 22.
+- 2015-04-15 — Subcommittee on Water Resources and Environment Discharged.
+- 2015-04-27 — Placed on the Union Calendar, Calendar No. 66.
+- 2015-04-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-93.
+- 2015-04-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-93.

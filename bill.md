@@ -38,7 +38,7 @@ Not later than 30 days after the date of enactment of this Act, the Secretary of
   - **(4)** emphasize the importance of collaboration with and among the State and local officials;
   - **(5)** allow for meaningful and timely input by the State and local officials;
   - **(6)** recognize, preserve, and protect the primary rights and responsibilities of the States to protect water quality under the Federal Water Pollution Control Act, and to plan and control the development and use of land and water resources in the States;
-  - **(7)** protect the authorities of State and local governments and rights of private property owners over natural and manmade water features;
+  - **(7)** protect the authorities of State and local governments and rights of private property owners over natural and manmade water features, including the continued recognition of Federal deference to State primacy in the development of water law, the governance of water rights, and the establishment of the legal system by which States mediate disputes over water use;
   - **(8)** incorporate the advice and recommendations of the State and local officials regarding matters involving differences in State and local geography, hydrology, climate, legal frameworks, economies, priorities, and needs; and
   - **(9)** ensure transparency in the consultation process, including promptly making accessible to the public all communications, records, and other documents of all meetings that are part of the consultation process.
 - **(d)** *Stakeholder consultation requirements* As part of consulting with and soliciting recommendations from stakeholders and other interested parties under subsection (b), the Secretary and the Administrator shall—
