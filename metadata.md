@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1560
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1560
@@ -100,3 +100,4 @@ Protecting Cyber Networks Act
 - 2015-04-22 — The Speaker designated the Honorable Kenny Marchant to act as Chairman of the Committee.
 - 2015-04-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2397)
 - 2015-04-22 — The previous question was ordered pursuant to the rule. (consideration: CR H2396)
+- 2015-04-27 — Received in the Senate.
