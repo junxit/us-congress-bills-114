@@ -1,7 +1,7 @@
 ---
 measure: H.R. 373
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 373
@@ -32,6 +32,10 @@ Good Samaritan Search and Recovery Act
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2015-04-28 — [House 114-1-174](votes/house-114-1-0174.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (413–0)
+
 ## Actions
 
 - 2015-01-14 — Introduced in House
@@ -50,3 +54,11 @@ Good Samaritan Search and Recovery Act
 - 2015-04-15 — Placed on the Union Calendar, Calendar No. 54.
 - 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-75, Part I.
 - 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-75, Part I.
+- 2015-04-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-04-28 — Considered as unfinished business. (consideration: CR H2489-2490)
+- 2015-04-28 — Considered under suspension of the rules. (consideration: CR H2485-2487)
+- 2015-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 373.
+- 2015-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-28 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2015-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 174). (text: CR H2485-2486)
+- 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 174).(text: CR H2485-2486)

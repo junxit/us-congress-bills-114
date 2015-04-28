@@ -18,8 +18,8 @@ This Act may be cited as the “Good Samaritan Search and Recovery Act”.
 - **(a)** *Definitions* In this section:
   - **(1)** *Eligible* The term eligible, with respect to an organization or individual, means that the organization or individual, respectively, is—
     - **(A)** acting in a not-for-profit capacity; and
-    - **(B)** certificated in training that meets or exceeds standards established by the American Society for Testing and Materials.
-  - **(2)** *Good Samaritan search-and-recovery mission* The term good Samaritan search-and-recovery mission means a search for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
+    - **(B)** composed entirely of members who, at the time of the good Samaritan search-and-recovery mission, have attained the age of majority under the law of the State where the mission takes place.
+  - **(2)** *Good Samaritan search-and-recovery mission* The term good Samaritan search-and-recovery mission means a search conducted by an eligible organization or individual for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
   - **(3)** *Secretary* The term Secretary means the Secretary of the Interior or the Secretary of Agriculture, as applicable.
 - **(b)** *Process*
   - **(1)** *In general* Each Secretary shall develop and implement a process to expedite access to Federal land under the administrative jurisdiction of the Secretary for eligible organizations and individuals to request access to Federal land to conduct good Samaritan search-and-recovery missions.
@@ -32,7 +32,7 @@ This Act may be cited as the “Good Samaritan Search and Recovery Act”.
     - **(D)** chapter 81 of title 5, United States Code (commonly known as the “Federal Employees Compensation Act”), shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
 - **(c)** *Release of Federal Government from liability* The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
   - **(1)** acknowledges and consents, in writing, to the provisions described in subparagraphs (A) through (D) of subsection (b)(2); and
-  - **(2)** signs a waiver releasing the Federal Government from all liability relating to the access granted under this section.
+  - **(2)** signs a waiver releasing the Federal Government from all liability relating to the access granted under this section and agrees to indemnify and hold harmless the United States from any claims or lawsuits arising from any conduct by the eligible organization or individual on Federal land.
 - **(d)** *Approval and denial of requests*
   - **(1)** *In general* The Secretary shall notify an eligible organization or individual of the approval or denial of a request by the eligible organization or individual to carry out a good Samaritan search-and-recovery mission under this section by not later than 48 hours after the request is made.
   - **(2)** *Denials* If the Secretary denies a request from an eligible organization or individual to carry out a good Samaritan search-and-recovery mission under this section, the Secretary shall notify the eligible organization or individual of—
