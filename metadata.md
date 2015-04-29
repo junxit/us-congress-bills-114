@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1690
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1690
@@ -47,3 +47,14 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 - 2015-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2484)
 - 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2484)
 - 2015-04-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2015-05-21 — Passed Senate without amendment by Unanimous Consent.
+- 2015-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-05-21 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S3249)
+- 2015-05-21 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S3249)
+- 2015-05-22 — Message on Senate action sent to the House.
+- 2015-05-26 — Presented to President.
+- 2015-05-26 — Presented to President.
+- 2015-05-29 — Became Public Law No: 114-20.
+- 2015-05-29 — Became Public Law No: 114-20.
+- 2015-05-29 — Signed by President.
+- 2015-05-29 — Signed by President.
