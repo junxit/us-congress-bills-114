@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1075
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1075
@@ -27,9 +27,10 @@ To designate the United States Customs and Border Protection Port of Entry locat
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the United States Customs and Border Protection Port of Entry locat
 - 2015-04-28 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
 - 2015-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2481)
 - 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2481)
+- 2015-04-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
