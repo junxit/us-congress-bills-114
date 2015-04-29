@@ -1,7 +1,7 @@
 ---
 measure: S. 304
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 304
@@ -40,3 +40,6 @@ Conscience Protection Act of 2016
 - 2015-04-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
 - 2015-04-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2487-2488; text as passed Senate: CR S2487-2488)
 - 2015-04-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2487-2488; text as passed Senate: CR S2487-2488)
+- 2015-04-29 — Message on Senate action sent to the House.
+- 2015-04-29 — Received in the House.
+- 2015-04-29 — Referred to the House Committee on Energy and Commerce.
