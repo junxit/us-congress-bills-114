@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1324
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1324
@@ -27,9 +27,10 @@ Arapaho National Forest Boundary Adjustment Act of 2015
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Arapaho National Forest Boundary Adjustment Act of 2015
 - 2015-04-28 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2015-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 30 (Roll no. 175). (text: CR H2488)
 - 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 30 (Roll no. 175).(text: CR H2488)
+- 2015-04-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
