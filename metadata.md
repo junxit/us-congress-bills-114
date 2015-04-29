@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1075
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1075
@@ -45,3 +45,14 @@ To designate the United States Customs and Border Protection Port of Entry locat
 - 2015-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2481)
 - 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2481)
 - 2015-04-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2015-05-12 — Passed Senate without amendment by Unanimous Consent. (text: CR S2814)
+- 2015-05-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2814)
+- 2015-05-12 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2814)
+- 2015-05-12 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S2814)
+- 2015-05-13 — Message on Senate action sent to the House.
+- 2015-05-14 — Presented to President.
+- 2015-05-14 — Presented to President.
+- 2015-05-22 — Became Public Law No: 114-16.
+- 2015-05-22 — Became Public Law No: 114-16.
+- 2015-05-22 — Signed by President.
+- 2015-05-22 — Signed by President.
