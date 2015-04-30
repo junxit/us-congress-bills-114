@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2029
@@ -20,6 +20,20 @@ Consolidated Appropriations Act, 2016
 
 - House — Appropriations Committee
 
+## Recorded votes (11)
+
+- 2015-04-29 — [House 114-1-178](votes/house-114-1-0178.md) — On Sustaining the Ruling of the Chair — **Passed** (237–180)
+- 2015-04-30 — [House 114-1-184](votes/house-114-1-0184.md) — On Agreeing to the Amendment — **Failed** (191–229)
+- 2015-04-30 — [House 114-1-185](votes/house-114-1-0185.md) — On Agreeing to the Amendment — **Failed** (192–229)
+- 2015-04-30 — [House 114-1-186](votes/house-114-1-0186.md) — On Agreeing to the Amendment — **Failed** (190–231)
+- 2015-04-30 — [House 114-1-187](votes/house-114-1-0187.md) — On Agreeing to the Amendment — **Failed** (167–254)
+- 2015-04-30 — [House 114-1-188](votes/house-114-1-0188.md) — On Agreeing to the Amendment — **Failed** (210–213)
+- 2015-04-30 — [House 114-1-189](votes/house-114-1-0189.md) — On Agreeing to the Amendment — **Failed** (186–237)
+- 2015-04-30 — [House 114-1-190](votes/house-114-1-0190.md) — On Agreeing to the Amendment — **Failed** (190–232)
+- 2015-04-30 — [House 114-1-191](votes/house-114-1-0191.md) — On Agreeing to the Amendment — **Failed** (186–235)
+- 2015-04-30 — [House 114-1-192](votes/house-114-1-0192.md) — On Motion to Recommit with Instructions — **Failed** (181–236)
+- 2015-04-30 — [House 114-1-193](votes/house-114-1-0193.md) — On Passage — **Passed** (255–163)
+
 ## Actions
 
 - 2015-03-10 — Committee on Appropriations Senate Subcommittee on Military Construction and Veterans Affairs, and Related Agencies. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 114-609.
@@ -31,3 +45,322 @@ Consolidated Appropriations Act, 2016
 - 2015-04-24 — Placed on the Union Calendar, Calendar No. 65.
 - 2015-04-24 — The House Committee on Appropriations reported an original measure, H. Rept. 114-92, by Mr. Dent.
 - 2015-04-24 — The House Committee on Appropriations reported an original measure, H. Rept. 114-92, by Mr. Dent.
+- 2015-04-28 — Rules Committee Resolution H. Res. 223 Reported to House. Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and H.R. 2029.
+- 2015-04-29 — Amendment (A001) offered by Mr. Bishop (GA). (consideration: CR H2583-2586; text: CR H2583)
+- 2015-04-29 — Amendment (A002) offered by Ms. Stefanik. (consideration: CR H2586; text: CR H2586)
+- 2015-04-29 — Amendment (A003) offered by Mr. Gosar. (consideration: CR H2589-2590; text: CR H2589)
+- 2015-04-29 — Amendment (A004) offered by Mr. McNerney. (consideration: CR H2591-2592; text: CR H2591)
+- 2015-04-29 — Amendment (A005) offered by Mr. Gosar. (consideration: CR H2592; text: CR H2592)
+- 2015-04-29 — Amendment (A006) offered by Ms. Titus. (consideration: CR H2592; text: CR H2592)
+- 2015-04-29 — Amendment (A007) offered by Mr. Gosar. (consideration: CR H2592-2593; text: CR H2592-2593)
+- 2015-04-29 — Amendment (A008) offered by Ms. Sinema. (consideration: CR H2593; text: CR H2593)
+- 2015-04-29 — Amendment (A009) offered by Mr. Gosar. (consideration: CR H2593-2594; text: CR H2593)
+- 2015-04-29 — Amendment (A010) offered by Mr. Ruiz. (consideration: CR H2594; text: CR H2594)
+- 2015-04-29 — Amendment (A011) offered by Mr. Walberg. (consideration: CR H2594-2595; text: CR H2594)
+- 2015-04-29 — Amendment (A012) offered by Ms. Brownley (CA). (consideration: CR H2595-2596; text: CR H2596)
+- 2015-04-29 — Amendment (A013) offered by Mr. LaMalfa. (consideration: CR H2598; text: CR H2598)
+- 2015-04-29 — Amendment (A014) offered by Mr. Benishek. (consideration: CR H2599-2600; text: CR H2599)
+- 2015-04-29 — Amendment (A015) offered by Mr. Mulvaney. (consideration: CR H2600-2602; text: CR H2600)
+- 2015-04-29 — Amendment (A016) offered by Mr. Van Hollen. (consideration: CR H2602; text: CR H2602)
+- 2015-04-29 — Amendment (A017) offered by Mr. Mulvaney. (consideration: CR H2603; text: CR H2603)
+- 2015-04-29 — Amendment (A018) offered by Mr. Mulvaney. (consideration: CR H2603; text: CR H2603)
+- 2015-04-29 — Amendment (A019) offered by Mr. Nadler. (consideration: CR H2604-2605; text: CR H2604)
+- 2015-04-29 — Amendment (A020) offered by Mr. Boustany. (consideration: CR H2605-2606; text: CR H2605)
+- 2015-04-29 — Amendment (A021) offered by Ms. Jackson Lee. (consideration: CR H2606-2607; text: CR H2606)
+- 2015-04-29 — Amendment (A022) offered by Mr. Jolly. (consideration: CR H2607; text: CR H2607)
+- 2015-04-29 — Amendment (A023) offered by Mr. Blumenauer. (consideration: CR H2607-2609; text: CR H2607)
+- 2015-04-29 — Amendment (A024) offered by Mr. Babin. (consideration: CR H2609-2610; text: CR H2609)
+- 2015-04-29 — Amendment (A025) offered by Ms. Adams. (consideration: CR H2610; text: CR H2610)
+- 2015-04-29 — Amendment (A026) offered by Mr. Rothfus. (consideration: CR H2610-2612; text: CR H2610)
+- 2015-04-29 — Amendment (A027) offered by Ms. Jackson Lee. (consideration: CR H2612; text: CR H2612)
+- 2015-04-29 — Amendment (A028) offered by Mr. Roe (TN). (consideration: CR H2612-2613; text: CR H2613)
+- 2015-04-29 — Amendment (A029) offered by Mr. Pocan. (consideration: CR H2613-2614; text: CR H2613)
+- 2015-04-29 — Amendment (A030) offered by Mrs. Noem. (consideration: CR H2614; text: CR H2614)
+- 2015-04-29 — Amendment (A031) offered by Mr. Pocan. (consideration: CR H2614-2615; text: CR H2614)
+- 2015-04-29 — Amendment (A032) offered by Mr. Ratcliffe. (consideration: CR H2615-2616; text: CR H2615)
+- 2015-04-29 — Amendment (A033) offered by Mr. Grayson. (consideration: CR H2616; text: CR H2616)
+- 2015-04-29 — Amendment (A034) offered by Mr. Hurd (TX). (consideration: CR H2616-2617; text: CR H2616)
+- 2015-04-29 — Amendment (A035) offered by Mr. Roe (TN). (consideration: CR H2617; text: CR H2617)
+- 2015-04-29 — Amendment (A036) offered by Mr. Stivers. (consideration: CR H2617-2618; text: CR H2617)
+- 2015-04-29 — Amendment (A037) offered by Mr. Byrne. (consideration: CR H2618; text: CR H2618)
+- 2015-04-29 — Amendment (A038) offered by Mr. Gosar. (consideration: CR H2618-2619; text: CR H2618)
+- 2015-04-29 — Amendment (A039) offered by Mr. Hill. (consideration: CR H2619-2620; text: CR H2619)
+- 2015-04-29 — Amendment (A040) offered by Mr. Farenthold. (consideration: CR H2620; text: CR H2620)
+- 2015-04-29 — Amendment (A041) offered by Mr. LaMalfa. (consideration: CR H2620-2621; text: CR H2620)
+- 2015-04-29 — Amendment (A042) offered by Mr. Hice, Jody B.. (consideration: CR H2621-2622; text: CR H2621)
+- 2015-04-29 — Amendment (A043) offered by Mr. King (IA). (consideration: CR H2622-2623; text: CR H2622)
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment agreed to Committee of the Whole
+- 2015-04-29 — Amendment failed in Committee of the Whole
+- 2015-04-29 — By unanimous consent, the Adams amendment was withdrawn. (consideration: CR H2610)
+- 2015-04-29 — By unanimous consent, the Boustany amendment was withdrawn. (consideration: CR H2606)
+- 2015-04-29 — By unanimous consent, the Brownley (CA) amendment was withdrawn. (consideration: CR H2596)
+- 2015-04-29 — By unanimous consent, the Farenthold amendment was withdrawn. (consideration: CR H2620)
+- 2015-04-29 — By unanimous consent, the Hill amendment was withdrawn. (consideration: CR H2619)
+- 2015-04-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 2029 as unfinished business.
+- 2015-04-29 — Considered under the provisions of rule H. Res. 223. (consideration: CR H2574-2623; text of Title I as reported in House: CR H2583, H2586, H2587-2589; text of Title II as reported in House: CR H2589, H2590, H2591, H2594, H2595, H2596-2598, H2598-2599, H2599; text of Title III as reported in House: CR H2600; text of Title IV as reported in House: CR H2600, H2602-2603, H2603; text of Title V as reported in House: CR H2604, H2605, CR 4/30/2015 H2708)
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole House proceeded with 10 minutes of debate on the Bishop (GA) amendment, pending reservation of a point of order.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Boustany amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Farenthold amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the First Mulvaney amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment, pending reservation of a point of order.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hice (GA) amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hill amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hurd amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jolly amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment, pending reservation of a point of order.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Ratcliffe amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Roe amendment No. 6.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Roe amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Second Mulvaney amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Sinema amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Stefanik amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Van Hollen amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.
+- 2015-04-29 — DEBATE - Pursuant to the provsions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 3.
+- 2015-04-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2029.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Babin amendment (A024) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Byrne amendment (A037) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Gosar amendment (A005) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Gosar amendment (A007) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Gosar amendment (A009) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Gosar amendment (A038) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Grayson amendment (A033) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Hurd (TX) amendment (A034) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A021) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A027) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Jolly amendment (A022) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the LaMalfa amendment (A013) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the LaMalfa amendment (A041) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Noem amendment (A030) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Ratcliffe amendment (A032) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Roe (TN) amendment (A028) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Roe (TN) amendment (A035) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Rothfus amendment (A026) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Ruiz amendment (A010) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Sinema amendment (A008) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Stefanik amendment (A002) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Stivers amendment (A036) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Titus amendment (A006) Agreed to by voice vote.
+- 2015-04-29 — House amendment agreed to: On agreeing to the Walberg amendment (A011) Agreed to by voice vote.
+- 2015-04-29 — House amendment not agreed to: On agreeing to the McNerney amendment (A004) Failed by voice vote.
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered
+- 2015-04-29 — House amendment offered/reported by : Amendment (A001) offered by Mr. Bishop (GA).(consideration: CR H2583-2586; text: CR H2583)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A002) offered by Ms. Stefanik.(consideration: CR H2586; text: CR H2586)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A003) offered by Mr. Gosar.(consideration: CR H2589-2590; text: CR H2589)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A004) offered by Mr. McNerney.(consideration: CR H2591-2592; text: CR H2591)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A005) offered by Mr. Gosar.(consideration: CR H2592; text: CR H2592)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A006) offered by Ms. Titus.(consideration: CR H2592; text: CR H2592)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A007) offered by Mr. Gosar.(consideration: CR H2592-2593; text: CR H2592-2593)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A008) offered by Ms. Sinema.(consideration: CR H2593; text: CR H2593)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A009) offered by Mr. Gosar.(consideration: CR H2593-2594; text: CR H2593)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A010) offered by Mr. Ruiz.(consideration: CR H2594; text: CR H2594)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A011) offered by Mr. Walberg.(consideration: CR H2594-2595; text: CR H2594)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A012) offered by Ms. Brownley (CA).(consideration: CR H2595-2596; text: CR H2596)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A013) offered by Mr. LaMalfa.(consideration: CR H2598; text: CR H2598)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A014) offered by Mr. Benishek.(consideration: CR H2599-2600; text: CR H2599)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A015) offered by Mr. Mulvaney.(consideration: CR H2600-2602; text: CR H2600)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A016) offered by Mr. Van Hollen.(consideration: CR H2602; text: CR H2602)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A017) offered by Mr. Mulvaney.(consideration: CR H2603; text: CR H2603)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A018) offered by Mr. Mulvaney.(consideration: CR H2603; text: CR H2603)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A019) offered by Mr. Nadler.(consideration: CR H2604-2605; text: CR H2604)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A020) offered by Mr. Boustany.(consideration: CR H2605-2606; text: CR H2605)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A021) offered by Ms. Jackson Lee.(consideration: CR H2606-2607; text: CR H2606)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A022) offered by Mr. Jolly.(consideration: CR H2607; text: CR H2607)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A023) offered by Mr. Blumenauer.(consideration: CR H2607-2609; text: CR H2607)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A024) offered by Mr. Babin.(consideration: CR H2609-2610; text: CR H2609)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A025) offered by Ms. Adams.(consideration: CR H2610; text: CR H2610)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A026) offered by Mr. Rothfus.(consideration: CR H2610-2612; text: CR H2610)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A027) offered by Ms. Jackson Lee.(consideration: CR H2612; text: CR H2612)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A028) offered by Mr. Roe (TN).(consideration: CR H2612-2613; text: CR H2613)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A029) offered by Mr. Pocan.(consideration: CR H2613-2614; text: CR H2613)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A030) offered by Mrs. Noem.(consideration: CR H2614; text: CR H2614)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A031) offered by Mr. Pocan.(consideration: CR H2614-2615; text: CR H2614)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A032) offered by Mr. Ratcliffe.(consideration: CR H2615-2616; text: CR H2615)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A033) offered by Mr. Grayson.(consideration: CR H2616; text: CR H2616)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A034) offered by Mr. Hurd (TX).(consideration: CR H2616-2617; text: CR H2616)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A035) offered by Mr. Roe (TN).(consideration: CR H2617; text: CR H2617)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A036) offered by Mr. Stivers.(consideration: CR H2617-2618; text: CR H2617)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A037) offered by Mr. Byrne.(consideration: CR H2618; text: CR H2618)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A038) offered by Mr. Gosar.(consideration: CR H2618-2619; text: CR H2618)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A039) offered by Mr. Hill.(consideration: CR H2619-2620; text: CR H2619)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A040) offered by Mr. Farenthold.(consideration: CR H2620; text: CR H2620)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A041) offered by Mr. LaMalfa.(consideration: CR H2620-2621; text: CR H2620)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A042) offered by Mr. Hice, Jody B..(consideration: CR H2621-2622; text: CR H2621)
+- 2015-04-29 — House amendment offered/reported by : Amendment (A043) offered by Mr. King (IA).(consideration: CR H2622-2623; text: CR H2622)
+- 2015-04-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 223 and Rule XVIII.
+- 2015-04-29 — Mr. Bishop (GA) appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.
+- 2015-04-29 — Mr. Dent moved that the Committee rise. (consideration: CR H2623)
+- 2015-04-29 — Mr. Dent raised a point of order against the Benishek amendment (A014). Mr. Dent stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill The Chair sustained the point of order.
+- 2015-04-29 — Mr. Dent raised a point of order against the Bishop (GA) amendment (A001). Mr. Dent stated that the amendment sought to strike portions of the bill not yet read. The Chair sustained the point of order.
+- 2015-04-29 — Mr. Dent raised a point of order against the Gosar amendment (A003). Mr. Dent stated that the amendment sought to strike portions of the bill not yet read. The Chair sustained the point of order.
+- 2015-04-29 — Mr. Dent raised a point of order against the Mulvaney amendment (A015). Mr. Dent stated that the amendment seeks to amend portions of the bill not yet read for consideration. The Chair sustained the point of order.
+- 2015-04-29 — Mr. Dent raised a point of order against the Pocan amendment (A029). Mr. Dent stated that the provisions of the Pocan amendment sought to change existing law by imposing new duties and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2015-04-29 — On agreeing to the Babin amendment (A024) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Byrne amendment (A037) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Gosar amendment (A005) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Gosar amendment (A007) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Gosar amendment (A009) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Gosar amendment (A038) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Grayson amendment (A033) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Hurd (TX) amendment (A034) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Jackson Lee amendment (A021) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Jackson Lee amendment (A027) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Jolly amendment (A022) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the LaMalfa amendment (A013) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the LaMalfa amendment (A041) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the McNerney amendment (A004) Failed by voice vote.
+- 2015-04-29 — On agreeing to the Noem amendment (A030) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Ratcliffe amendment (A032) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Roe (TN) amendment (A028) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Roe (TN) amendment (A035) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Rothfus amendment (A026) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Ruiz amendment (A010) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Sinema amendment (A008) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Stefanik amendment (A002) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Stivers amendment (A036) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Titus amendment (A006) Agreed to by voice vote.
+- 2015-04-29 — On agreeing to the Walberg amendment (A011) Agreed to by voice vote.
+- 2015-04-29 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-04-29 — On sustaining the ruling of the Chair. Agreed to by recorded vote: 237 - 180 (Roll no. 178).
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hice (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Bishop (GA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the had noes prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pocan amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Pocan demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Hollen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Van Hollen demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the second Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-04-29 — Rule H. Res. 223 passed House.
+- 2015-04-29 — Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and H.R. 2029.
+- 2015-04-29 — The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Amendment failed in Committee of the Whole
+- 2015-04-30 — Considered as unfinished business. (consideration: CR H2702-2710)
+- 2015-04-30 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kirkpatrick motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to provide $15 million in additional funds for the Veterans Health Administration Medical Services account. The increase would be offset from the Departmental Administration General Administration account.
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A023) Failed by recorded vote: 210 - 213 (Roll no. 188).(consideration: CR H2705-2706)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Hice, Jody B. amendment (A042) Failed by recorded vote: 190 - 232 (Roll no. 190).(consideration: CR H2707)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the King (IA) amendment (A043) Failed by recorded vote: 186 - 235 (Roll no. 191).(consideration: CR H2707-2708)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A017) Failed by recorded vote: 192 - 229, 1 Present (Roll no. 185).(consideration: CR H2703-2704)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A018) Failed by recorded vote: 190 - 231, 1 Present (Roll no. 186).(consideration: CR H2704-2705)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Nadler amendment (A019) Failed by recorded vote: 167 - 254 (Roll no. 187).(consideration: CR H2705)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Pocan amendment (A031) Failed by recorded vote: 186 - 237 (Roll no. 189).(consideration: CR H2706-2707)
+- 2015-04-30 — House amendment not agreed to: On agreeing to the Van Hollen amendment (A016) Failed by recorded vote: 191 - 229, 1 Present (Roll no. 184).(consideration: CR H2703)
+- 2015-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-04-30 — Mrs. Kirkpatrick moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H2708-2710; text: CR H2708)
+- 2015-04-30 — On agreeing to the Blumenauer amendment (A023) Failed by recorded vote: 210 - 213 (Roll no. 188). (consideration: CR H2705-2706)
+- 2015-04-30 — On agreeing to the Hice, Jody B. amendment (A042) Failed by recorded vote: 190 - 232 (Roll no. 190). (consideration: CR H2707)
+- 2015-04-30 — On agreeing to the King (IA) amendment (A043) Failed by recorded vote: 186 - 235 (Roll no. 191). (consideration: CR H2707-2708)
+- 2015-04-30 — On agreeing to the Mulvaney amendment (A017) Failed by recorded vote: 192 - 229, 1 Present (Roll no. 185). (consideration: CR H2703-2704)
+- 2015-04-30 — On agreeing to the Mulvaney amendment (A018) Failed by recorded vote: 190 - 231, 1 Present (Roll no. 186). (consideration: CR H2704-2705)
+- 2015-04-30 — On agreeing to the Nadler amendment (A019) Failed by recorded vote: 167 - 254 (Roll no. 187). (consideration: CR H2705)
+- 2015-04-30 — On agreeing to the Pocan amendment (A031) Failed by recorded vote: 186 - 237 (Roll no. 189). (consideration: CR H2706-2707)
+- 2015-04-30 — On agreeing to the Van Hollen amendment (A016) Failed by recorded vote: 191 - 229, 1 Present (Roll no. 184). (consideration: CR H2703)
+- 2015-04-30 — On motion to recommit with instructions Failed by recorded vote: 181 - 236 (Roll no. 192). (consideration: CR H2709-2710)
+- 2015-04-30 — On passage Passed by the Yeas and Nays: 255 - 163 (Roll no. 193).
+- 2015-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 255 - 163 (Roll no. 193).
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — Roll call votes on amendments in House
+- 2015-04-30 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2015-04-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-04-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2029.
+- 2015-04-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2709)
+- 2015-04-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
