@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 136
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 136
@@ -28,3 +28,7 @@ A resolution expressing support for the designation of May 1, 2015, as "Silver S
 
 - 2015-04-16 — Introduced in Senate
 - 2015-04-16 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S2253)
+- 2015-04-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2589)
+- 2015-04-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2589)
+- 2015-04-30 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2015-04-30 — Senate Committee on Armed Services discharged by Unanimous Consent.
