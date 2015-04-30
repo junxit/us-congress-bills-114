@@ -1,7 +1,7 @@
 ---
 measure: H.R. 651
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 651
@@ -20,9 +20,10 @@ To designate the facility of the United States Postal Service located at 820 Elm
 
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 820 Elm
 - 2015-04-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 177). (text: CR 4/28/2015 H2483)
 - 2015-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 177).(text: CR 4/28/2015 H2483)
+- 2015-04-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
