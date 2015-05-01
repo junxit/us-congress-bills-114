@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2222
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2222
+
+> To amend the Internal Revenue Code of 1986 to repeal the limitation on the allowance of a deduction to Members of Congress for ordinary and necessary business expenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Eliminate Special Treatment for Congress Act”.
+
+## § 2. Repeal of limitation on allowance of deduction to Members of Congress for ordinary and necessary business expenses
+
+- **(a)** *In general* Section 162(a) of the Internal Revenue Code of 1986 is amended by striking “home,” and all that follows through “$3,000.” and inserting “home.”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2015.
