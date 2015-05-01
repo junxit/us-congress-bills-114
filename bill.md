@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2226
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2226
+
+> To authorize appropriations for assistance under the Low-Income Home Energy Assistance Act of 1981, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Home Energy Utility Assistance Act”.
+
+## § 2. LIHEAP funding
+
+Section 2602(b) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621(b)) is amended by striking “$5,100,000,000 for each of fiscal years 2005 through 2007” and inserting “$5,100,000,000 for each of fiscal years 2016 through 2025”.
+
+## § 3. Participant applications
+
+Section 2605(b)(8) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(8)) is amended—
+
+- **(1)** by striking “and (B)” and inserting “(B)”; and
+- **(2)** by inserting “, and (C) the State will ensure that households seeking assistance provided under the program are not required to file more than one application per year” after “under this title”.
