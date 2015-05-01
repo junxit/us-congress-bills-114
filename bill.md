@@ -1,0 +1,27 @@
+---
+legis-num: H. RES. 243
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 243
+
+> Expressing the sense of the House of Representative in respect to promoting a strong national energy policy that supports the innovative and hard-working men and women in the oil and gas industry who have led the charge in a United States energy revolution.
+
+## Preamble
+
+- Whereas the United States is blessed by an abundance of natural resources and strong entrepreneurial, creative, and industrious spirit;
+- Whereas pioneering techniques such as horizontal drilling and hydraulic fracturing have sparked an unprecedented boom in oilfields in Texas, Pennsylvania, North Dakota, Ohio, Colorado, and across the country;
+- Whereas the United States has become a global leader in both oil and natural gas exploration due solely to the tireless and innovative efforts of every wildcatter, roustabout, roughneck, driller, derrickman, toolpusher, landman, company man, and many more;
+- Whereas the economic impact of the boom created by the technological advances is felt throughout communities and industries outside of the oilfield through job creation and increased market demand;
+- Whereas the oil and natural gas industry has continued to be a bright spot supporting thousands of jobs in a sluggish economy strapped by burdensome regulatory overreach and antiquated policies of bygone eras;
+- Whereas the United States depends on their exhaustive hours and dangerous work to power homes, pave roads, fuel cars, farm lands, and everything that keeps the Nation running;
+- Whereas the United States depends on their exhaustive hours and dangerous work to increase our energy independence, bolster national security, create jobs, and promote economic growth; and
+- Whereas the House of Representatives recognizes that the United States energy policies must be as adaptive and innovative as the hard-working men and women in the oil patch: Now, therefore, be it
+
+That the House of Representatives supports policies that—
+
+- **(1)** cut through bureaucratic red tape to encourage domestic energy resurgence;
+- **(2)** reduce harmful, job-killing regulations; and
+- **(3)** eliminate an obsolete, decades-old crude oil export ban to reduce price volatility, increase market stability, and promote economic growth.
