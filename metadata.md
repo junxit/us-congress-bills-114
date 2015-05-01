@@ -1,0 +1,34 @@
+---
+measure: H.R. 2205
+congress: 114
+version: Introduced in House
+---
+
+# H.R. 2205
+
+Data Security Act of 2015
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+
+## Cosponsors (1)
+
+- Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
+
+## Committees (2)
+
+- House — Financial Services Committee
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2015-05-01 — Introduced in House
+- 2015-05-01 — Introduced in House
+- 2015-05-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-05-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-05-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
