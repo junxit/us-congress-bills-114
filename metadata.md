@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1891
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1891
@@ -37,3 +37,9 @@ To extend the African Growth and Opportunity Act, the Generalized System of Pref
 - 2015-04-17 — Introduced in House
 - 2015-04-17 — Introduced in House
 - 2015-04-17 — Referred to the House Committee on Ways and Means.
+- 2015-04-21 — Referred to the Subcommittee on Trade.
+- 2015-04-23 — Committee Consideration and Mark-up Session Held.
+- 2015-04-23 — Ordered to be Reported.
+- 2015-05-01 — Placed on the Union Calendar, Calendar No. 70.
+- 2015-05-01 — Reported by the Committee on Ways and Means. H. Rept. 114-101.
+- 2015-05-01 — Reported by the Committee on Ways and Means. H. Rept. 114-101.
