@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 43
@@ -67,9 +67,10 @@ Disapproving the action of the District of Columbia Council in approving the Rep
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -94,3 +95,4 @@ Disapproving the action of the District of Columbia Council in approving the Rep
 - 2015-04-30 — Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.
 - 2015-04-30 — Rule H. Res. 231 passed House.
 - 2015-04-30 — The previous question was ordered pursuant to the rule. (consideration: CR H2742)
+- 2015-05-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
