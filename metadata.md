@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2028
@@ -16,9 +16,10 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (21)
 
@@ -543,3 +544,4 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2015-05-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2782)
 - 2015-05-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2781)
 - 2015-05-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
+- 2015-05-05 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
