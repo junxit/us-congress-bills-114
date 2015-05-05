@@ -1,7 +1,7 @@
 ---
 measure: S. 136
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 136
@@ -16,9 +16,10 @@ Gold Star Fathers Act of 2015
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Gold Star Fathers Act of 2015
 
 - 2015-01-08 — Introduced in Senate
 - 2015-01-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S103; text of measure as introduced: CR S103)
+- 2015-03-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-35.
+- 2015-05-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-35.
+- 2015-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
