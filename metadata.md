@@ -1,7 +1,7 @@
 ---
 measure: S. 665
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 665
@@ -46,9 +46,10 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -60,3 +61,6 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 - 2015-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
 - 2015-04-30 — Passed Senate without amendment by Voice Vote. (consideration: CR S2587-2589; text as passed Senate: CR S2588-2589)
 - 2015-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2587-2589; text as passed Senate: CR S2588-2589)
+- 2015-05-04 — Message on Senate action sent to the House.
+- 2015-05-05 — Received in the House.
+- 2015-05-05 — Referred to the House Committee on the Judiciary.
