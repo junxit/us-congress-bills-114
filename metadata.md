@@ -1,7 +1,7 @@
 ---
 measure: S. 665
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 665
@@ -64,3 +64,15 @@ Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015
 - 2015-05-04 — Message on Senate action sent to the House.
 - 2015-05-05 — Received in the House.
 - 2015-05-05 — Referred to the House Committee on the Judiciary.
+- 2015-05-12 — Considered under suspension of the rules. (consideration: CR H2840-2846)
+- 2015-05-12 — DEBATE - The House proceeded with forty minutes of debate on S. 665.
+- 2015-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-12 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2015-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2840-2841)
+- 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2840-2841)
+- 2015-05-14 — Presented to President.
+- 2015-05-14 — Presented to President.
+- 2015-05-19 — Became Public Law No: 114-12.
+- 2015-05-19 — Became Public Law No: 114-12.
+- 2015-05-19 — Signed by President.
+- 2015-05-19 — Signed by President.
