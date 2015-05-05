@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2236
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2236
+
+> To direct the Secretary of Agriculture, acting through the Animal and Plant Health Inspection Service, to submit to Congress, and make available to the public on the Internet, a report on the animals killed under the Wildlife Services program of the Animal and Plant Health Inspection Service.
+
+## § 1. Short title
+
+This Act may be cited as the “Transparency for Lethal Control Act”.
+
+## § 2. Report on animals killed under Wildlife Services program of the Animal and Plant Health Inspection Service
+
+Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Agriculture, acting through the Animal and Plant Health Inspection Service, shall submit to Congress, and make available to the public on the Internet, a report on the animals killed under the wildlife services program under section 1 of the Act of March 2, 1931 (7 U.S.C. 426; 46 Stat. 1468), or by a State or local entity acting in cooperation with or on behalf of the wildlife services program during the preceding calendar year, including—
+
+- **(1)** the number of such animals killed, listed by State, county (or other similar political subdivision of a State), and municipality;
+- **(2)** the species name for such animals;
+- **(3)** the method used to kill such animals; and
+- **(4)** the reasons that the Secretary determined that—
+  - **(A)** the species of such animals were injurious; and
+  - **(B)** killing such animals was necessary.
