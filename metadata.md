@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 155
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 155
@@ -28,3 +28,7 @@ A resolution establishing May 2, 2015, as a Day of Recognition for Ebola Orphans
 
 - 2015-04-29 — Introduced in Senate
 - 2015-04-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2540)
+- 2015-05-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-05-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-05-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2658)
+- 2015-05-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2658)
