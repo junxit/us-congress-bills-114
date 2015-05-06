@@ -1,7 +1,7 @@
 ---
 measure: S. 125
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 125
@@ -16,7 +16,7 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (18)
+## Cosponsors (24)
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -36,6 +36,12 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -49,3 +55,11 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - 2015-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.
+- 2015-05-06 — Amendment SA 1214 agreed to in Senate by Unanimous Consent.
+- 2015-05-06 — Amendment SA 1214 proposed by Senator Leahy for Senator Lee. (consideration: CR S2671; text: CR S2671) To modify the authorization of appropriations.
+- 2015-05-06 — Measure laid before Senate by unanimous consent. (consideration: CR S2670-2672)
+- 2015-05-06 — Passed Senate with an amendment by Voice Vote. (text: CR S2671-2672)
+- 2015-05-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S2671-2672)
+- 2015-05-06 — Senate amendment agreed to: Amendment SA 1214 agreed to in Senate by Unanimous Consent.
+- 2015-05-06 — Senate amendment proposed (on the floor): Amendment SA 1214 proposed by Senator Leahy for Senator Lee.(consideration: CR S2671; text: CR S2671)
+- 2015-05-06 — Senate amendment submitted

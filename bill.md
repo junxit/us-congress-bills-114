@@ -17,7 +17,7 @@ This Act may be cited as the “Bulletproof Vest Partnership Grant Program Reaut
 
 Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(23)) is amended to read as follows:
 
-> - **(23)** There is authorized to be appropriated to carry out part Y, $30,000,000 for each of fiscal years 2016 through 2020.
+> - **(23)** There is authorized to be appropriated to carry out part Y, $25,000,000 for each of fiscal years 2016 through 2020.
 
 ## § 3. Expiration of appropriated funds
 
