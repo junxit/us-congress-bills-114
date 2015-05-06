@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 994
@@ -16,6 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
+## Cosponsors (1)
+
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2015-04-16 — Introduced in Senate
 - 2015-04-16 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.
