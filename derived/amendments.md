@@ -1,0 +1,45 @@
+---
+measure: S. 1213
+congress: 114
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 1213 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+12 amendatory instructions. 0 executed, 12 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 796` | add-at-end | Section 3 of the Federal Power Act (16 U.S.C. 796) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2603` | insert | The Public Utility Regulatory Policies Act of 1978 is amended by inserting after section 4 (16 U.S.C. 2603) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2621` | add-at-end | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2621` | insert | by inserting “(including a distributed energy resource in any State in which a State regulatory authority or nonregulated electric utility determines not to establish standards in accordance with paragraph (20) of section 111(d) of the P… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2621` | insert | by inserting “(including a distributed energy resource in any State in which a State regulatory authority or nonregulated electric utility determines not to establish standards in accordance with paragraph (20) of section 111(d) of the P… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2621` | add-at-end | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) (as amended by section 5) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2621` | add-at-end | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) (as amended by section 6(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2621` | add-at-end | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) (as amended by section 7) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2634` | add-at-end | Section 124 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2634) is amended by adding at the end the following: “In the case of each standard established under paragraphs (20) through (23) of section 111(d), the referen… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
