@@ -1,7 +1,7 @@
 ---
 measure: H.R. 651
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 651
@@ -45,3 +45,7 @@ To designate the facility of the United States Postal Service located at 820 Elm
 - 2015-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 177). (text: CR 4/28/2015 H2483)
 - 2015-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 177).(text: CR 4/28/2015 H2483)
 - 2015-04-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
