@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1191
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1191
@@ -16,7 +16,7 @@ Iran Nuclear Agreement Review Act of 2015
 
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Cosponsors (23)
+## Cosponsors (93)
 
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
@@ -41,14 +41,88 @@ Iran Nuclear Agreement Review Act of 2015
 - Rep. Ashford, Brad [D-NE-2] (A000373)
 - Rep. Huelskamp, Tim [R-KS-1] (H001057)
 - Rep. Reed, Tom [R-NY-23] (R000585)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (5)
 
 - 2015-03-17 — [House 114-1-118](votes/house-114-1-0118.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–0)
+- 2015-04-28 — [Senate 114-1-167](votes/senate-114-1-0167.md) — On the Amendment — **Amendment Rejected** (39–57)
+- 2015-04-29 — [Senate 114-1-168](votes/senate-114-1-0168.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2015-05-07 — [Senate 114-1-173](votes/senate-114-1-0173.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–6)
+- 2015-05-07 — [Senate 114-1-174](votes/senate-114-1-0174.md) — On Passage of the Bill — **Bill Passed** (98–1)
 
 ## Actions
 
@@ -65,3 +139,173 @@ Iran Nuclear Agreement Review Act of 2015
 - 2015-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 118).(text: CR 3/16/2015 H1647)
 - 2015-03-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-03-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
+- 2015-04-22 — Senate amendment submitted
+- 2015-04-22 — Senate amendment submitted
+- 2015-04-23 — Amendment SA 1140 proposed by Senator Corker. (consideration: CR S2381-2389) In the nature of a substitute.
+- 2015-04-23 — Measure laid before Senate by motion. (consideration: CR S2381-2389)
+- 2015-04-23 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S2371-2372, S2381)
+- 2015-04-23 — Senate amendment proposed (on the floor): Amendment SA 1140 proposed by Senator Corker.(consideration: CR S2381-2389)
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-23 — Senate amendment submitted
+- 2015-04-27 — Considered by Senate. (consideration: CR S2420)
+- 2015-04-27 — Considered by Senate. (consideration: CR S2420)
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-27 — Senate amendment submitted
+- 2015-04-28 — Amendment SA 1150 proposed by Senator Johnson to Amendment SA 1140. (consideration: CR S2456-2460, S2462, S2467-2468; text: CR S2456-2457) To declare that any agreement reached by the President relating to the nuclear program of Iran is deemed a treaty that is subject to the advice and consent of the Senate.
+- 2015-04-28 — Amendment SA 1150, under the order of 4/28/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 167.
+- 2015-04-28 — Amendment SA 1155 proposed by Senator Blunt to Amendment SA 1140. (consideration: CR S2461; text: CR S2461) To extend the requirement for annual Department of Defense reports on the military power of Iran.
+- 2015-04-28 — Amendment SA 1179 proposed by Senator Corker to Amendment SA 1140. (consideration: CR S2443-2444; text: CR S2444) To require submission of all Persian text included in the agreement.
+- 2015-04-28 — Considered by Senate. (consideration: CR S2443)
+- 2015-04-28 — Considered by Senate. (consideration: CR S2443-2444, S2456-2460, S2461-2463, S2467-2468)
+- 2015-04-28 — Roll call votes on amendments in Senate: Amendment SA 1150, under the order of 4/28/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 167.
+- 2015-04-28 — Senate amendment not agreed to: Amendment SA 1150, under the order of 4/28/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 167.
+- 2015-04-28 — Senate amendment proposed (on the floor): Amendment SA 1150 proposed by Senator Johnson to Amendment SA 1140.(consideration: CR S2456-2460, S2462, S2467-2468; text: CR S2456-2457)
+- 2015-04-28 — Senate amendment proposed (on the floor): Amendment SA 1155 proposed by Senator Blunt to Amendment SA 1140.(consideration: CR S2461; text: CR S2461)
+- 2015-04-28 — Senate amendment proposed (on the floor): Amendment SA 1179 proposed by Senator Corker to Amendment SA 1140.(consideration: CR S2443-2444; text: CR S2444)
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-28 — Senate amendment submitted
+- 2015-04-29 — Amendment SA 1147 proposed by Senator Corker for Senator Barrasso to Amendment SA 1140. (consideration: S2511-2512; text: CR S2511) To require a certification that Iran has not directly supported or carried out an act of terrorism against the United States or a United States person anywhere in the world.
+- 2015-04-29 — Amendment SA 1147, under the order of 4/29/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 168.
+- 2015-04-29 — Amendment SA 1186 proposed by Senator Vitter to Amendment SA 1179. (consideration: CR S2505-2506; text as modified: CR S2505-2506) To require an assessment of inadequacies in the international monitoring and verification system as they relate to a nuclear agreement with Iran.
+- 2015-04-29 — Considered by Senate. (consideration: CR S2494)
+- 2015-04-29 — Considered by Senate. (consideration: CR S2494)
+- 2015-04-29 — Considered by Senate. (consideration: CR S2494, S2495-2499, S2500-2509, S2511-2513)
+- 2015-04-29 — Considered by Senate. (consideration: CR S2494, S2505)
+- 2015-04-29 — Roll call votes on amendments in Senate: Amendment SA 1147, under the order of 4/29/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 168.
+- 2015-04-29 — Senate amendment not agreed to: Amendment SA 1147, under the order of 4/29/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 168.
+- 2015-04-29 — Senate amendment proposed (on the floor): Amendment SA 1147 proposed by Senator Corker for Senator Barrasso to Amendment SA 1140.(consideration: S2511-2512; text: CR S2511)
+- 2015-04-29 — Senate amendment proposed (on the floor): Amendment SA 1186 proposed by Senator Vitter to Amendment SA 1179.(consideration: CR S2505-2506; text as modified: CR S2505-2506)
+- 2015-04-29 — Senate amendment submitted
+- 2015-04-29 — Senate amendment submitted
+- 2015-04-30 — Amendment SA 1197 proposed by Senator Cotton to language proposed to be stricken by amendment no. 1140. (consideration: CR S2549) Amendment of a perfecting nature.
+- 2015-04-30 — Amendment SA 1198 proposed by Senator Cotton for Senator Rubio to Amendment SA 1197. (consideration: CR S2549; text: CR S2549) To require a certification that Iran's leaders have publically accepted Israel's right to exist as a Jewish state.
+- 2015-04-30 — Considered by Senate. (consideration: CR S2545)
+- 2015-04-30 — Considered by Senate. (consideration: CR S2545)
+- 2015-04-30 — Considered by Senate. (consideration: CR S2545)
+- 2015-04-30 — Considered by Senate. (consideration: CR S2545)
+- 2015-04-30 — Considered by Senate. (consideration: CR S2545-2548, S2548-2549)
+- 2015-04-30 — Senate amendment proposed (on the floor): Amendment SA 1197 proposed by Senator Cotton to language proposed to be stricken by amendment no. 1140.(consideration: CR S2549)
+- 2015-04-30 — Senate amendment proposed (on the floor): Amendment SA 1198 proposed by Senator Cotton for Senator Rubio to Amendment SA 1197.(consideration: CR S2549; text: CR S2549)
+- 2015-04-30 — Senate amendment submitted
+- 2015-04-30 — Senate amendment submitted
+- 2015-04-30 — Senate amendment submitted
+- 2015-05-05 — Cloture motion on amendment SA 1140 presented in Senate. (consideration: CR S2644; text: CR S2644)
+- 2015-05-05 — Cloture motion on the measure presented in Senate. (consideration: CR S2644; text: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-05 — Considered by Senate. (consideration: CR S2644)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Considered by Senate. (consideration: CR S2663)
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-06 — Senate amendment submitted
+- 2015-05-07 — Amendment SA 1140 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Amendment SA 1155 ruled non-germane by the chair.
+- 2015-05-07 — Amendment SA 1186 as modified ruled non-germane by the chair.
+- 2015-05-07 — Amendment SA 1197 ruled non-germane by the chair.
+- 2015-05-07 — Amendment SA 1219 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Amendment SA 1219 proposed by Senator Corker to Amendment SA 1140. (consideration: CR S2725; text: CR S2725) To make technical changes.
+- 2015-05-07 — Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Amendment SA 1220 proposed by Senator Corker. (consideration: CR S2726; text: CR S2726) To amend the title.
+- 2015-05-07 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S2725)
+- 2015-05-07 — Cloture on amendment SA 1140 invoked in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 173. (consideration: CR S2725; text: CR S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2702-2703, S2703-2726)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Considered by Senate. (consideration: CR S2703, S2725)
+- 2015-05-07 — Message on Senate action sent to the House.
+- 2015-05-07 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 98 - 1. Record Vote Number: 174.
+- 2015-05-07 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 98 - 1. Record Vote Number: 174.
+- 2015-05-07 — Point of order raised in Senate with respect to amendment SA 1155.
+- 2015-05-07 — Point of order raised in Senate with respect to amendment SA 1186 as modified.
+- 2015-05-07 — Point of order raised in Senate with respect to amendment SA 1197.
+- 2015-05-07 — Proposed amendment SA 1179 withdrawn in Senate. (consideration: CR S2725)
+- 2015-05-07 — Roll call votes on amendments in Senate: Cloture on amendment SA 1140 invoked in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 173.(consideration: CR S2725; text: CR S2725)
+- 2015-05-07 — SA 1198 fell when SA 1197 ruled non-germane by the chair.
+- 2015-05-07 — Senate amendment agreed to: Amendment SA 1140 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Senate amendment agreed to: Amendment SA 1219 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Senate amendment agreed to: Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2015-05-07 — Senate amendment proposed (on the floor): Amendment SA 1219 proposed by Senator Corker to Amendment SA 1140.(consideration: CR S2725; text: CR S2725)
+- 2015-05-07 — Senate amendment proposed (on the floor): Amendment SA 1220 proposed by Senator Corker.(consideration: CR S2726; text: CR S2726)
+- 2015-05-07 — Senate amendment submitted
+- 2015-05-07 — Senate amendment submitted
+- 2015-05-07 — Senate amendment submitted
+- 2015-05-07 — Senate amendment submitted
+- 2015-05-07 — Senate amendment submitted
