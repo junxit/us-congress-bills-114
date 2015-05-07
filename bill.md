@@ -1,0 +1,30 @@
+---
+legis-num: S. 1248
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1248
+
+> To amend the Federal Reserve Act to reform the Federal Reserve System.
+
+## § 1. Short title
+
+This Act may be cited as the “Fed Accountability Act of 2015”.
+
+## § 2. Office staff for members of the Board of Governors of the Federal Reserve System
+
+Section 11(l) of the Federal Reserve Act (12 U.S.C. 248(l)) is amended by inserting “Of amounts made available for staff of the Federal Reserve System, each member of the Board of Governors may employ not more than 4 individuals for the purpose of staffing the member’s office, with such individuals selected by such member and the salaries of such individuals set by such member.” after the period at the end.
+
+## § 3. Vote by Board of Governors on certain settlements
+
+Section 10 of the Federal Reserve Act is amended—
+
+- **(1)** by redesignating paragraph (12) (12 U.S.C. 247b) as paragraph (11); and
+- **(2)** by adding at the end the following:
+  > - **(12)**
+  >   - **(A)** The Board of Governors of the Federal Reserve System shall vote, at a properly noticed public meeting of the Board, on whether to resolve any enforcement action if the resolution of that action involves the payment of not less than $1,000,000 in compensation, penalties, or fines, or other payments.
+  >   - **(B)** The results of the vote of each member of the Board under subparagraph (A) shall—
+  >     - **(i)** be included at the appropriate place in the official minutes of the Board; and
+  >     - **(ii)** be made publicly available on the website of the Board.
