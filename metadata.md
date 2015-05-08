@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1642
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1642
@@ -16,9 +16,20 @@ To designate the building utilized as a United States courthouse located at 150 
 
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
-## Cosponsors (1)
+## Cosponsors (12)
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
 
 ## Committees (1)
 
@@ -29,3 +40,10 @@ To designate the building utilized as a United States courthouse located at 150 
 - 2015-03-26 — Introduced in House
 - 2015-03-26 — Introduced in House
 - 2015-03-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-03-27 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-04-30 — Committee Consideration and Mark-up Session Held.
+- 2015-04-30 — Ordered to be Reported by Voice Vote.
+- 2015-04-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2015-05-08 — Placed on the House Calendar, Calendar No. 30.
+- 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-106.
+- 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-106.
