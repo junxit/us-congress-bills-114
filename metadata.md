@@ -1,7 +1,7 @@
 ---
 measure: H.R. 336
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 336
@@ -25,3 +25,10 @@ To direct the Administrator of General Services, on behalf of the Archivist of t
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-01-14 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported by Voice Vote.
+- 2015-04-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2015-05-08 — Placed on the Union Calendar, Calendar No. 72.
+- 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-103.
+- 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-103.
