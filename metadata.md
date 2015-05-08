@@ -1,7 +1,7 @@
 ---
 measure: S. 1124
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1124
@@ -42,3 +42,16 @@ WIOA Technical Amendments Act
 - 2015-05-07 — Message on Senate action sent to the House.
 - 2015-05-08 — Received in the House.
 - 2015-05-08 — Referred to the House Committee on Education and the Workforce.
+- 2015-05-12 — Committee on Education and the Workforce discharged. (consideration: CR H2855)
+- 2015-05-12 — Committee on Education and the Workforce discharged.(consideration: CR H2855)
+- 2015-05-12 — Considered by unanimous consent. (consideration: CR H2855)
+- 2015-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-12 — Ms. Foxx asked unanimous consent to discharge from committee and consider. (consideration: CR H2855)
+- 2015-05-12 — On passage Passed without objection. (text: CR H2855)
+- 2015-05-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2855)
+- 2015-05-14 — Presented to President.
+- 2015-05-14 — Presented to President.
+- 2015-05-22 — Became Public Law No: 114-18.
+- 2015-05-22 — Became Public Law No: 114-18.
+- 2015-05-22 — Signed by President.
+- 2015-05-22 — Signed by President.
