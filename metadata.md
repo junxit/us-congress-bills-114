@@ -1,7 +1,7 @@
 ---
 measure: S. 125
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 125
@@ -43,9 +43,10 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -63,3 +64,6 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - 2015-05-06 — Senate amendment agreed to: Amendment SA 1214 agreed to in Senate by Unanimous Consent.
 - 2015-05-06 — Senate amendment proposed (on the floor): Amendment SA 1214 proposed by Senator Leahy for Senator Lee.(consideration: CR S2671; text: CR S2671)
 - 2015-05-06 — Senate amendment submitted
+- 2015-05-07 — Message on Senate action sent to the House.
+- 2015-05-08 — Received in the House.
+- 2015-05-08 — Referred to the House Committee on the Judiciary.
