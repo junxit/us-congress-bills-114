@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Trade Adjustment Assistance Act (TAA), and for other purposes of 2015”.
+This Act may be cited as the “Trade Adjustment Assistance Reauthorization Act of 2015” .
 
 ## § 2. Application of provisions relating to trade adjustment assistance
 
@@ -166,7 +166,7 @@ This Act may be cited as the “Trade Adjustment Assistance Act (TAA), and for o
   - **(1)** by redesignating paragraph (11) as paragraph (13), and
   - **(2)** by inserting after paragraph (10) the following new paragraphs:
     > - **(11)** *Election*
-    >   - **(A)** *In general* A taxpayer may elect to have this section apply for any eligible coverage month.
+    >   - **(A)** *In general* This section shall not apply to any taxpayer for any eligible coverage month unless such taxpayer elects the application of this section for such month.
     >   - **(B)** *Timing and applicability of election* Except as the Secretary may provide—
     >     - **(i)** an election to have this section apply for any eligible coverage month in a taxable year shall be made not later than the due date (including extensions) for the return of tax for the taxable year, and
     >     - **(ii)** any election for this section to apply for an eligible coverage month shall apply for all subsequent eligible coverage months in the taxable year and, once made, shall be irrevocable with respect to such months.
@@ -176,12 +176,12 @@ This Act may be cited as the “Trade Adjustment Assistance Act (TAA), and for o
     >     - **(i)** the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
     >       - **(I)** the sum of any advance payments made on behalf of the taxpayer under section 1412 of the Patient Protection and Affordable Care Act and section 7527 for months during such taxable year, over
     >       - **(II)** the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year, and
-    >     - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+    >     - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
 
 - **(c)** *Extension of advance payment program*
-  - **(1)** *In general* Subsection (a) of section 7527 of the Internal Revenue Code of 1986 is amended by striking “August 1, 2003” and inserting “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Extension Act of 2015”.
+  - **(1)** *In general* Subsection (a) of section 7527 of the Internal Revenue Code of 1986 is amended by striking “August 1, 2003” and inserting “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015”.
   - **(2)** *Conforming amendment* Paragraph (1) of section 7527(e) of such Code is amended by striking “occurring” and all that follows and inserting “occurring—
-    > - **(A)** after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Extension Act of 2015, and
+    > - **(A)** after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, and
     > - **(B)** prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
 
 - **(d)** *Individual insurance treated as qualified health insurance without regard to enrollment date*
@@ -199,9 +199,14 @@ This Act may be cited as the “Trade Adjustment Assistance Act (TAA), and for o
 ## § 8. Customs user fees
 
 - **(a)** *In general* Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
-  - **(1)** in subparagraph (A), by striking “July 28, 2025” and inserting “September 30, 2025”; and
-  - **(2)** in subparagraph (B)(i), by striking “September 30, 2024” and inserting “September 30, 2025”.
-- **(b)** *Rate for merchandise processing fees* Section 503 of the United States–Korea Free Trade Agreement Implementation Act (Public Law 112–41; 125 Stat. 460) is amended by striking “July 14, 2025” and inserting “September 30, 2025”.
+  - **(1)** in subparagraph (B)(i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+  - **(2)** by adding at the end the following:
+    > - **(D)** Fees may be charged under paragraphs (9) and (10) of subsection (a) during the period beginning on July 29, 2025, and ending on September 30, 2025.
+
+- **(b)** *Rate for merchandise processing fees* Section 503 of the United States–Korea Free Trade Agreement Implementation Act (Public Law 112–41; 125 Stat. 460) is amended by adding at the end the following:
+  > - **(c)** *Further additional period* For the period beginning on July 15, 2025, and ending on September 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—
+  >   - **(1)** in subparagraph (A), by substituting “0.3464” for “0.21”; and
+  >   - **(2)** in subparagraph (B)(i), by substituting “0.3464” for “0.21”.
 
 ## § 9. Child tax credit not refundable for taxpayers electing to exclude foreign earned income from tax
 
@@ -219,9 +224,9 @@ Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case o
 
 ## § 11. Coverage and payment for renal dialysis services for individuals with acute kidney injury
 
-- **(a)** *Coverage* Section 1861(s)(2)(F) of the Social Security Act (42 U.S.C. 1395x(s)(2)(F)) is amended by inserting before the semicolon the following: “, including such renal dialysis services furnished on or after January 1, 2017, by a renal dialysis facility or provider of services paid under section 1881(b)(14) to an individual with acute kidney injury (as defined in section 1834(p)(2))”.
+- **(a)** *Coverage* Section 1861(s)(2)(F) of the Social Security Act (42 U.S.C. 1395x(s)(2)(F)) is amended by inserting before the semicolon the following: “, including such renal dialysis services furnished on or after January 1, 2017, by a renal dialysis facility or provider of services paid under section 1881(b)(14) to an individual with acute kidney injury (as defined in section 1834(r)(2))”.
 - **(b)** *Payment* Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection:
-  > - **(p)** *Payment for renal dialysis services for individuals with acute kidney injury*
+  > - **(r)** *Payment for renal dialysis services for individuals with acute kidney injury*
   >   - **(1)** *Payment rate* In the case of renal dialysis services (as defined in subparagraph (B) of section 1881(b)(14)) furnished under this part by a renal dialysis facility or provider of services paid under such section during a year (beginning with 2017) to an individual with acute kidney injury (as defined in paragraph (2)), the amount of payment under this part for such services shall be the base rate for renal dialysis services determined for such year under such section, as adjusted by any applicable geographic adjustment factor applied under subparagraph (D)(iv)(II) of such section and may be adjusted by the Secretary (on a budget neutral basis for payments under this paragraph) by any other adjustment factor under subparagraph (D) of such section.
   >   - **(2)** *Individual with acute kidney injury defined* In this subsection, the term individual with acute kidney injury means an individual who has acute loss of renal function and does not receive renal dialysis services for which payment is made under section 1881(b)(14).
 
