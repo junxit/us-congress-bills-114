@@ -1,7 +1,7 @@
 ---
 measure: S. 1124
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1124
@@ -20,9 +20,10 @@ WIOA Technical Amendments Act
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ WIOA Technical Amendments Act
 - 2015-05-06 — Senate amendment agreed to: Amendment SA 1215 agreed to in Senate by Unanimous Consent.
 - 2015-05-06 — Senate amendment proposed (on the floor): Amendment SA 1215 proposed by Senator Inhofe for Senator Alexander.(consideration: CR S2696; text: CR S2696)
 - 2015-05-06 — Senate amendment submitted
+- 2015-05-07 — Message on Senate action sent to the House.
+- 2015-05-08 — Received in the House.
+- 2015-05-08 — Referred to the House Committee on Education and the Workforce.
