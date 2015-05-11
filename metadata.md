@@ -1,7 +1,7 @@
 ---
 measure: S. 995
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 995
@@ -28,3 +28,7 @@ Bipartisan Congressional Trade Priorities and Accountability Act of 2015
 
 - 2015-04-16 — Introduced in Senate
 - 2015-04-16 — Read twice and referred to the Committee on Finance.
+- 2015-04-22 — Committee on Finance. Ordered to be reported with amendments favorably.
+- 2015-05-11 — Committee on Finance. Reported by Senator Hatch with amendments. Without written report.
+- 2015-05-11 — Committee on Finance. Reported by Senator Hatch with amendments. Without written report.
+- 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
