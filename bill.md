@@ -1,0 +1,17 @@
+---
+legis-num: S. 1284
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1284
+
+> To clarify the treatment of carbon emissions from forest biomass, and for other purposes.
+
+## § 1. Carbon emissions from forest biomass
+
+In taking an action regarding air emissions from an energy source or facility that uses forest biomass, the Administrator of the Environmental Protection Agency shall assume that forest biomass emissions do not increase overall carbon accumulations in the atmosphere if—
+
+- **(1)** a Forest Inventory and Analysis of the Department of Agriculture that is current at the time the action is taken shows that forest carbon stocks in the United States are stable or increasing; or
+- **(2)** the forest biomass is derived from mill residuals, harvest residuals, or forest management activities.
