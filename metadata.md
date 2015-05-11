@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 501
@@ -28,3 +28,7 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 
 - 2015-02-12 — Introduced in Senate
 - 2015-02-12 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-02-25 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-41.
+- 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-41.
+- 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
