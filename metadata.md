@@ -1,7 +1,7 @@
 ---
 measure: S. 321
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 321
@@ -24,3 +24,7 @@ A bill to revoke the charter of incorporation of the Miami Tribe of Oklahoma at 
 
 - 2015-01-29 — Introduced in Senate
 - 2015-01-29 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-02-25 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-40.
+- 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-40.
+- 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
