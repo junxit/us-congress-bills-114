@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1732
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1732
@@ -93,6 +93,12 @@ Regulatory Integrity Protection Act of 2015
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (3)
+
+- 2015-05-12 — [House 114-1-217](votes/house-114-1-0217.md) — On Agreeing to the Amendment — **Failed** (167–248)
+- 2015-05-12 — [House 114-1-218](votes/house-114-1-0218.md) — On Motion to Recommit with Instructions — **Failed** (175–241)
+- 2015-05-12 — [House 114-1-219](votes/house-114-1-0219.md) — On Passage — **Passed** (261–155)
+
 ## Actions
 
 - 2015-04-13 — Introduced in House
@@ -105,3 +111,38 @@ Regulatory Integrity Protection Act of 2015
 - 2015-04-27 — Placed on the Union Calendar, Calendar No. 66.
 - 2015-04-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-93.
 - 2015-04-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-93.
+- 2015-04-29 — Rules Committee Resolution H. Res. 231 Reported to House. Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.
+- 2015-05-12 — Amendment (A001) offered by Ms. Edwards. (consideration: CR H2837-2839, H2851-2852; text: CR H2837)
+- 2015-05-12 — Amendment (A002) offered by Mr. Kildee. (consideration: CR H2839; text: CR H2839)
+- 2015-05-12 — Amendment agreed to Committee of the Whole
+- 2015-05-12 — Amendment failed in Committee of the Whole
+- 2015-05-12 — Considered as unfinished business. (consideration: CR H2851-2854)
+- 2015-05-12 — Considered under the provisions of rule H. Res. 231. (consideration: CR H2827-2840; text of amendment in the nature of a substitute: CR H2836-2837)
+- 2015-05-12 — DEBATE - Pursuant to the provisions of H. Res. 231, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards Part B amendment no. 1.
+- 2015-05-12 — DEBATE - Pursuant to the provisions of H. Res. 231, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee Part B amendment no. 2.
+- 2015-05-12 — DEBATE - The House proceeded with ten minutes of debate on the Aguilar motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to direct the Secretary of the Army and the Administrator of the Environmental Protection Agency to protect the quality and integrity of surface waters and wetlands in the rulemaking required by the underlying bill. The agencies must: (1) safeguard public water supplies, including the Great Lakes and other areas affected by algal blooms; (2) mitigate against the drought in California and other western States; (3) preserve water for agricultural purposes, including irrigation; and (4) alleviate potential adverse impacts of flooding and coastal storms.
+- 2015-05-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1732. Pursuant to the provisions of H. Res. 231, the rule makes in order as original text for the purpose of amendment in the nature of a substitute consisting of the text Rules Committee Print 114-13 modified by the amendment printed in Part A of the Rules Committee report.
+- 2015-05-12 — House amendment agreed to: On agreeing to the Kildee amendment (A002) Agreed to by voice vote.
+- 2015-05-12 — House amendment not agreed to: On agreeing to the Edwards amendment (A001) Failed by recorded vote: 167 - 248 (Roll no. 217).
+- 2015-05-12 — House amendment offered
+- 2015-05-12 — House amendment offered
+- 2015-05-12 — House amendment offered/reported by : Amendment (A001) offered by Ms. Edwards.(consideration: CR H2837-2839, H2851-2852; text: CR H2837)
+- 2015-05-12 — House amendment offered/reported by : Amendment (A002) offered by Mr. Kildee.(consideration: CR H2839; text: CR H2839)
+- 2015-05-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 231 and Rule XVIII.
+- 2015-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-12 — Mr. Aguilar moved to recommit with instructions to the Committee on Transportation. (consideration: CR H2852-2853; text: CR H2852)
+- 2015-05-12 — On agreeing to the Edwards amendment (A001) Failed by recorded vote: 167 - 248 (Roll no. 217).
+- 2015-05-12 — On agreeing to the Kildee amendment (A002) Agreed to by voice vote.
+- 2015-05-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 175 - 241 (Roll No. 218).
+- 2015-05-12 — On passage Passed by recorded vote: 261 - 155 (Roll no. 219).
+- 2015-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Edwards amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Edwards demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-12 — Passed/agreed to in House: On passage Passed by recorded vote: 261 - 155 (Roll no. 219).
+- 2015-05-12 — Pursuant to clause 1(c) of rule 19, further consideration of H.R. 1732 was postponed.
+- 2015-05-12 — Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.
+- 2015-05-12 — Roll call votes on amendments in House
+- 2015-05-12 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2015-05-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-05-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1732.
+- 2015-05-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1732.
+- 2015-05-12 — The Speaker designated the Honorable David Young to act as Chairman of the Committee.
+- 2015-05-12 — The previous question was ordered pursuant to the rule. (consideration: CR H2852)

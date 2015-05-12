@@ -77,3 +77,19 @@ Not later than 30 days after the date of enactment of this Act, the Secretary of
     - **(C)** the report described in subsection (f).
 - **(h)** *Procedural requirements* Subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”) shall apply to the development and review of the new proposed rule under subsection (a).
 - **(i)** *State and local officials defined* In this section, the term “State and local officials” means elected or professional State and local government officials or their representative regional or national organizations.
+
+## § 4. No additional authorization of appropriations
+
+No additional funds are authorized to be appropriated to carry out this Act, and this Act shall be carried out using amounts otherwise available for such purpose.
+
+## § 5. Effect on State permit programs
+
+- **(a)** *In general* If the Administrator of the Environmental Protection Agency, based on the proposed rule developed under section 3, issues a final rule to define the term “waters of the United States” as used in the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Administrator shall—
+  - **(1)** not later than 90 days after the date of issuance of the final rule, review each permit program being administered by a State under section 402, 404, or 405 of that Act (33 U.S.C. 1342, 1344, or 1345) to determine whether the permit program complies with the terms of the final rule; and
+  - **(2)** not later than 10 days after the date of completion of the review, notify the State of—
+    - **(A)** the Administrator’s determination under paragraph (1); and
+    - **(B)** in any case in which the Administrator determines that a permit program does not comply with the final rule, the actions required to bring the permit program into compliance.
+- **(b)** *Compliance period* During the 2-year period beginning on the date on which the Administrator provides notice to a State under subsection (a)(2), the Administrator may not withdraw approval of a State permit program referred to in subsection (a)(1) on the basis that the permit program does not comply with the terms of a final rule described in subsection (a).
+- **(c)** *Limitation on statutory construction* Nothing in this section may be construed to limit or otherwise affect the authority of the Administrator under the Federal Water Pollution Control Act or any other provision of law—
+  - **(1)** to withdraw approval of a State permit program referred to in subsection (a)(1), except as specifically prohibited by subsection (b); or
+  - **(2)** to disapprove a proposed permit under a State permit program referred to in subsection (a).
