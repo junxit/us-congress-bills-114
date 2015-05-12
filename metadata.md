@@ -1,7 +1,7 @@
 ---
 measure: H.R. 723
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 723
@@ -16,7 +16,7 @@ Fallen Heroes Flag Act of 2015
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
@@ -27,6 +27,11 @@ Fallen Heroes Flag Act of 2015
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 - Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Carson, Andre [D-IN-7] (C001072)
 
 ## Committees (1)
 
@@ -37,3 +42,9 @@ Fallen Heroes Flag Act of 2015
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Referred to the House Committee on House Administration.
+- 2015-05-12 — Considered under suspension of the rules. (consideration: CR H2856-2857)
+- 2015-05-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 723.
+- 2015-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-12 — Mr. Nugent moved to suspend the rules and pass the bill.
+- 2015-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2856)
+- 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2856)
