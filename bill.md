@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 254
+congress: 114th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 254
+
+That the House has learned with profound sorrow of the death of the Honorable James Claude Wright, Jr., former Member of the House for 18 terms and Speaker of the House of Representatives for the One Hundredth and One Hundred First Congresses.
+
+That in the death of the Honorable James Claude Wright, Jr., the United States and the State of Texas have lost a valued and eminent public servant and citizen.
+
+That the Clerk communicate these resolutions to the Senate and transmit a copy thereof to the family of the deceased.
+
+That when the House adjourns today, it adjourn as a further mark of respect to the memory of the deceased.
