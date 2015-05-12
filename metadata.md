@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 16
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 16
@@ -37,6 +37,10 @@ A concurrent resolution stating the policy of the United States regarding the re
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Recorded votes (1)
 
 - 2015-05-11 — [Senate 114-1-175](votes/senate-114-1-0175.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (90–0)
@@ -48,3 +52,6 @@ A concurrent resolution stating the policy of the United States regarding the re
 - 2015-05-11 — Measure laid before Senate by unanimous consent. (consideration: CR S2749-2751)
 - 2015-05-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 90 - 0. Record Vote Number: 175.(text: CR S2751)
 - 2015-05-11 — Resolution agreed to in Senate without amendment by Yea-Nay Vote. 90 - 0. Record Vote Number: 175. (text: CR S2751)
+- 2015-05-12 — Message on Senate action sent to the House.
+- 2015-05-12 — Received in the House.
+- 2015-05-12 — Referred to the House Committee on Foreign Affairs.
