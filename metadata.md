@@ -1,7 +1,7 @@
 ---
 measure: S. 136
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 136
@@ -21,9 +21,10 @@ Gold Star Fathers Act of 2015
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Gold Star Fathers Act of 2015
 - 2015-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
 - 2015-05-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2763; text as passed Senate: CR S2763)
 - 2015-05-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2763; text as passed Senate: CR S2763)
+- 2015-05-12 — Message on Senate action sent to the House.
+- 2015-05-12 — Received in the House.
+- 2015-05-12 — Referred to the House Committee on Oversight and Government Reform.
