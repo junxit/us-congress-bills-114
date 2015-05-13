@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 2286
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2286
+
+> To amend title 38, United States Code, to establish a priority for the Secretary of Veterans Affairs in processing certain claims for compensation.
+
+## § 1. Short title
+
+This Act may be cited as the “Prioritizing Urgent Claims for Veterans Act”.
+
+## § 2. Priority for processing claims of the Department of Veterans Affairs
+
+- **(a)** *In general* Subchapter I of chapter 51 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 5109C. Priority for processing claims
+  >
+  > In processing claims for compensation under this chapter, the Secretary shall provide the following claimants with priority over other claimants:
+  >
+  > - **(1)** Veterans who have attained the age of 70.
+  > - **(2)** Veterans who are terminally ill.
+  > - **(3)** Veterans with life-threatening illnesses.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5109B the following new item:
