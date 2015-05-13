@@ -25,7 +25,7 @@ That Congress—
 - **(2)** encourages the public to participate in activities that celebrate the importance of soils to the current and future well-being of the United States; and
 - **(3)** supports conservation of the soils of the United States, through—
   - **(A)** partnership with local soil and water conservation districts; and
-  - **(B)** landowner participation in—
+  - **(B)** voluntary landowner participation in—
     - **(i)** the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.);
     - **(ii)** the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.);
     - **(iii)** the conservation stewardship program established under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838D et seq.);
