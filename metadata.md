@@ -1,7 +1,7 @@
 ---
 measure: H.R. 723
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 723
@@ -33,9 +33,10 @@ Fallen Heroes Flag Act of 2015
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Fallen Heroes Flag Act of 2015
 - 2015-05-12 — Mr. Nugent moved to suspend the rules and pass the bill.
 - 2015-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2856)
 - 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2856)
+- 2015-05-13 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
