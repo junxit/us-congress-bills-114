@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1732
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1732
@@ -146,3 +146,4 @@ Regulatory Integrity Protection Act of 2015
 - 2015-05-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1732.
 - 2015-05-12 — The Speaker designated the Honorable David Young to act as Chairman of the Committee.
 - 2015-05-12 — The previous question was ordered pursuant to the rule. (consideration: CR H2852)
+- 2015-05-13 — Received in the Senate.
