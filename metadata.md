@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 255
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 255
@@ -16,6 +16,14 @@ Providing for consideration of the bill (H.R. 1735) to authorize appropriations 
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2015-05-13 — [House 114-1-221](votes/house-114-1-0221.md) — On Agreeing to the Resolution — **Passed** (240–186)
+
 ## Actions
 
 - 2015-05-12 — Introduced in House
@@ -23,3 +31,9 @@ Providing for consideration of the bill (H.R. 1735) to authorize appropriations 
 - 2015-05-12 — Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
 - 2015-05-12 — The House Committee on Rules reported an original measure, H. Rept. 114-111, by Ms. Foxx.
 - 2015-05-12 — The House Committee on Rules reported an original measure, H. Rept. 114-111, by Ms. Foxx.
+- 2015-05-13 — Considered as privileged matter. (consideration: CR H2892-2901)
+- 2015-05-13 — DEBATE - The House proceeded with one hour of debate on H. Res. 255.
+- 2015-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 186 (Roll no. 221). (text: CR H2892)
+- 2015-05-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 186 (Roll no. 221).(text: CR H2892)
+- 2015-05-13 — The previous question was ordered without objection. (consideration: CR H2901)
