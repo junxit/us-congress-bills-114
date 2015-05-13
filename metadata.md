@@ -1,7 +1,7 @@
 ---
 measure: H.R. 606
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 606
@@ -66,3 +66,12 @@ Don't Tax Our Fallen Public Safety Heroes Act
 - 2015-05-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 216). (text: CR H2846)
 - 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 216).(text: CR H2846)
 - 2015-05-13 — Received in the Senate, read twice.
+- 2015-05-14 — Message on Senate action sent to the House.
+- 2015-05-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2913-2914)
+- 2015-05-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2913-2914)
+- 2015-05-18 — Presented to President.
+- 2015-05-18 — Presented to President.
+- 2015-05-22 — Became Public Law No: 114-14.
+- 2015-05-22 — Became Public Law No: 114-14.
+- 2015-05-22 — Signed by President.
+- 2015-05-22 — Signed by President.
