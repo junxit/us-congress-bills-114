@@ -1,7 +1,7 @@
 ---
 measure: H.R. 606
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 606
@@ -65,3 +65,4 @@ Don't Tax Our Fallen Public Safety Heroes Act
 - 2015-05-12 — Mr. Reichert moved to suspend the rules and pass the bill.
 - 2015-05-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 216). (text: CR H2846)
 - 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 216).(text: CR H2846)
+- 2015-05-13 — Received in the Senate, read twice.
