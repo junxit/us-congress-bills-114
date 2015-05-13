@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2048
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-146 amendatory instructions. 26 executed, 120 stated and not applied.
+147 amendatory instructions. 27 executed, 120 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -240,6 +240,15 @@ to guess them.
 | Removed | `June 1, 2015` |
 | Inserted | `December 15, 2019` |
 
+### 50 U.S.C. § 1805
+
+> Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (50 U.S.C. 1805 note), as amended by subsection (a), is further amended by striking “sections 501, 502, and” and inserting “title V and section”.
+
+| | |
+|---|---|
+| Removed | `sections 501, 502, and` |
+| Inserted | `title V and section` |
+
 ### 8 U.S.C. § 1101
 
 > in paragraph (1)(A)(i), by striking “a ship flying the flag of the United States” and inserting “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46)”;
@@ -302,7 +311,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1842` | add-at-end | Section 402 (50 U.S.C. 1842) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1843` | add-at-end | Section 403 (50 U.S.C. 1843) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1881a` | add-at-end | Section 702(i)(3) (50 U.S.C. 1881a(i)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1803` | add-at-end | Section 103 (50 U.S.C. 1803) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1803` | add-at-end | Section 103 (50 U.S.C. 1803) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1871` | add-at-end | by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1871` | replace | by striking the item relating to title VI and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1871` | insert | by inserting after the item relating to section 601 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -359,7 +368,7 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | insert | in paragraph (1)(A)(ii), by inserting “, including the territorial seas” after “in the United States”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1101` | insert | in paragraph (1)(A)(iii), by inserting “, by a United States corporation or legal entity,” after “by a national of the United States”; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1101` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | replace | by striking subsection (e) and inserting after subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | replace | by striking subsection (e) and inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | by inserting after subsection (d) (as added by paragraph (4) of this section) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2280 the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the bill names no machine-readable US Code section |
@@ -372,7 +381,7 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | amend | Chapter 113B of title 18, United States Code, is amended by adding after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2332h` | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after the item relating to section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2332i (relating to acts of nuclear terrorism),” before “2339 (relating to harboring terrorists)”. | the bill quotes the text inserted but describes where it goes |
-| — | redesignate | by redesignating paragraphs (3) through (8) as (4) through (9); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (8) as paragraphs (4) through (9); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (5)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (7)”; | the bill names no machine-readable US Code section |
@@ -383,7 +392,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (4), by striking “or” at the end; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (4), the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) through (f) as (e) through (g), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (c): | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (7), the following: | the bill names no machine-readable US Code section |

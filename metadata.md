@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2048
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2048
@@ -52,6 +52,10 @@ USA FREEDOM Act of 2015
 - House — Financial Services Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2015-05-13 — [House 114-1-224](votes/house-114-1-0224.md) — On Passage — **Passed** (338–88)
+
 ## Actions
 
 - 2015-04-28 — Introduced in House
@@ -71,3 +75,15 @@ USA FREEDOM Act of 2015
 - 2015-05-08 — Placed on the Union Calendar, Calendar No. 77.
 - 2015-05-08 — Reported by the Committee on Judiciary. H. Rept. 114-109, Part I.
 - 2015-05-08 — Reported by the Committee on Judiciary. H. Rept. 114-109, Part I.
+- 2015-05-12 — Rules Committee Resolution H. Res. 255 Reported to House. Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
+- 2015-05-13 — Considered as unfinished business. (consideration: CR H2939-2940)
+- 2015-05-13 — Considered under the provisions of rule H. Res. 255. (consideration: CR H2901-2923)
+- 2015-05-13 — DEBATE - The House proceeded with one hour of debate on H.R. 2048.
+- 2015-05-13 — House amendment offered
+- 2015-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-13 — On passage Passed by the Yeas and Nays: 338 - 88 (Roll No. 224).
+- 2015-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2048, the Chair put the question on adoption of the bill and by voice vote announced that the ayes had prevailed. Mr. Goodlatte demanded the yeas and nays, and the Chair postponed further proceedings on adoption of the bill until a time to be announced.
+- 2015-05-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 338 - 88 (Roll No. 224).
+- 2015-05-13 — Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
+- 2015-05-13 — Rule H. Res. 255 passed House.
+- 2015-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2923)
