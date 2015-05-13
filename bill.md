@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2288
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2288
+
+> To remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes.
+
+## § 1. Removal of use restriction
+
+Public Law 101–479 (104 Stat. 1158) is amended to read as follows:
+
+> ## § 1. Removal of use restriction
+>
+> - **(a)** *In general* Notwithstanding any restrictions in the deed in existence on or after the date of enactment of this Act, the parcel comprised of approximately 3.03 acres of land (including any improvements to the land) transferred by the United States to Rockingham County, Virginia (referred to in this section as the “County”) on April 11, 1989, as described in deed book number 953 at page 600, may be used by the County as if the land had been transferred in fee simple with no use or other restrictions.
+> - **(b)** *Documentation* As soon as practicable after the date of enactment of this subsection, the Secretary of the Interior shall take such actions as are necessary to issue to the County a fee simple deed to the land described in subsection (a) with no restrictions to the use of the land.
