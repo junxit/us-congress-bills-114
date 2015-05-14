@@ -17,9 +17,9 @@ This Act may be cited as the “Human Trafficking Detection Act of 2015”.
 
 In this Act:
 
-- **(1)** *Department* The term “Department” means the Department of Homeland Security.
-- **(2)** *Human trafficking* The term “human trafficking” means an act or practice described in paragraph (9) or (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
-- **(3)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
+- **(1)** *Department* The term Department means the Department of Homeland Security.
+- **(2)** *Human trafficking* The term human trafficking means an act or practice described in paragraph (9) or (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+- **(3)** *Secretary* The term Secretary means the Secretary of Homeland Security.
 
 ## § 3. Training for Department personnel to identify human trafficking
 

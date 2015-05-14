@@ -1,7 +1,7 @@
 ---
 measure: H.R. 460
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 460
@@ -63,3 +63,8 @@ Human Trafficking Detection Act of 2015
 - 2015-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H607)
 - 2015-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H607)
 - 2015-01-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-02-19 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2015-03-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-46.
+- 2015-05-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-46.
+- 2015-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.
