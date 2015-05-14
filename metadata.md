@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 644
@@ -30,10 +30,11 @@ Trade Facilitation and Trade Enforcement Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2015-02-12 — [House 114-1-79](votes/house-114-1-0079.md) — On Motion to Recommit with Instructions — **Failed** (168–245)
 - 2015-02-12 — [House 114-1-80](votes/house-114-1-0080.md) — On Passage — **Passed** (279–137)
+- 2015-05-14 — [Senate 114-1-179](votes/senate-114-1-0179.md) — On Passage of the Bill — **Bill Passed** (78–20)
 
 ## Actions
 
@@ -60,3 +61,17 @@ Trade Facilitation and Trade Enforcement Act of 2015
 - 2015-02-23 — Received in the Senate.
 - 2015-04-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2015-05-13 — Senate amendment submitted
+- 2015-05-14 — Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2015-05-14 — Amendment SA 1224 proposed by Senator Hatch. (consideration: CR S2899) In the nature of a substitute.
+- 2015-05-14 — Amendment SA 1241 agreed to in Senate by Unanimous Consent.
+- 2015-05-14 — Amendment SA 1241 proposed by Senator McConnell for Senator Hatch. (consideration: CR S2946; text: CR S2946) To change the title.
+- 2015-05-14 — Measure laid before Senate by unanimous consent. (consideration: CR S2899-2908, S2946)
+- 2015-05-14 — Message on Senate action sent to the House.
+- 2015-05-14 — Passed Senate, under the order of 5/13/15, having achieved 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 78 - 20. Record Vote Number: 179. (consideration: CR S2907)
+- 2015-05-14 — Passed/agreed to in Senate: Passed Senate, under the order of 5/13/15, having achieved 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 78 - 20. Record Vote Number: 179.(consideration: CR S2907)
+- 2015-05-14 — Senate amendment agreed to: Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2015-05-14 — Senate amendment agreed to: Amendment SA 1241 agreed to in Senate by Unanimous Consent.
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator Hatch.(consideration: CR S2899)
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1241 proposed by Senator McConnell for Senator Hatch.(consideration: CR S2946; text: CR S2946)
+- 2015-05-14 — Senate amendment submitted
