@@ -49,7 +49,7 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
       - **(ii)** by striking clause (iii) of subparagraph (A) and redesignating clauses (iv), (v), and (vi), thereof, as clauses (iii), (iv), and (v), respectively,
       - **(iii)** by striking “and (iv)” each place it appears in subparagraph (A)(iv) (as so redesignated) and inserting “and (iii)”,
       - **(iv)** by striking subclause (IV) of subparagraph (A)(iv) (as so redesignated), by striking “, and” at the end of subparagraph (A)(iv)(III) (as so redesignated) and inserting a period, and by adding “and” at the end of subparagraph (A)(iv)(II) (as so redesignated),
-      - **(v)** by striking “(A)(vi)” in subparagraph (B) and inserting “(A)(v)”, and
+      - **(v)** by striking “(A)(vi)” in subparagraph (B) and inserting “(A)(v)”,
       - **(vi)** by striking “(A)(iv)(II)” in subparagraph (B)(i)(II) and inserting “(A)(iii)(II)”,
     - **(B)** by striking “, and the gross receipts of the predecessor,” in subparagraph (A)(iv)(II) (as so redesignated),
     - **(C)** by striking “, and the gross receipts of,” in subparagraph (B),
@@ -66,5 +66,5 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
     - **(A)** by striking “basic research expenses (as defined in section 41(e)(2))” in paragraph (1) and inserting “basic research payments (as defined in section 41(e)(1))”, and
     - **(B)** by striking “basic research expenses” in paragraph (2)(B) and inserting “basic research payments”.
 - **(e)** *Effective date*
-  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this subsection shall apply to taxable years beginning after December 31, 2014.
+  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2014.
   - **(2)** *Subsection (b)* The amendment made by subsection (b) shall apply to amounts paid or incurred after December 31, 2014.

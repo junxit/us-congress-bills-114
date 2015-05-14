@@ -1,7 +1,7 @@
 ---
 measure: H.R. 880
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 41
 
-> by striking “(A)(vi)” in subparagraph (B) and inserting “(A)(v)”, and
+> by striking “(A)(vi)” in subparagraph (B) and inserting “(A)(v)”,
 
 | | |
 |---|---|
