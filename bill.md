@@ -2,7 +2,7 @@
 legis-num: H. RES. 260
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 260
@@ -13,7 +13,7 @@ That at any time after adoption of this resolution the Speaker may, pursuant to 
 
 ## § 2.
 
-(a) In lieu of the amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-14. That amendment in the nature of a substitute shall be considered as read. All points of order against that amendment in the nature of a substitute are waived.
+(a) In lieu of the amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114–14. That amendment in the nature of a substitute shall be considered as read. All points of order against that amendment in the nature of a substitute are waived.
 
 - **(b)** No amendment to the amendment in the nature of a substitute made in order as original text shall be in order except those printed in the report of the Committee on Rules accompanying this resolution and amendments en bloc described in section 3 of this resolution.
 - **(c)** Each amendment printed in the report of the Committee on Rules shall be considered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to amendment, and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole.
