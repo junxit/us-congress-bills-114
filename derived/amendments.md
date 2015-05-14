@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1907
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -432,7 +432,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 1595a` | strike | in subparagraph (E), by striking “or”; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 1595a` | replace | in subparagraph (F), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1595a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677f` | insert | Section 777(b)(1)(A)(ii) of the Trade Act of 1930 (19 U.S.C. 1677f(b)(1)(A)(ii)) is amended by inserting “negligence, gross negligence, or” after “regarding”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1677f` | insert | Section 777(b)(1)(A)(ii) of the Tariff Act of 1930 (19 U.S.C. 1677f(b)(1)(A)(ii)) is amended by inserting “negligence, gross negligence, or” after “regarding”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1671` | insert | Title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq.) is amended by inserting after section 781 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1671` | insert | The table of contents for title VII of the Tariff Act of 1930 is amended by inserting after the item relating to section 781 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1516a` | insert | in subparagraph (B), by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -444,7 +444,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 3511` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2411` | insert | in section 301(c)(1) (19 U.S.C. 2411(c)(1)), in the matter preceding subparagraph (A), by inserting “or section 306(c)” after “subsection (a) or (b)”; | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2416` | redesignate | in section 306(d) (19 U.S.C. 2416(d)), as redesignated by subsection (a)(1), by inserting “or (c)” after “subsection (b)”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 2417` | insert | in section 307(c)(3) (19 U.S.C. 2417(c)(3)), by inserting “or if a request is submitted to the Trade Representative under 306(c)(2) to reinstate action,” after “under section 301,”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2417` | insert | in section 307(c)(3) (19 U.S.C. 2417(c)(3)), by inserting “or if a request is submitted to the Trade Representative under section 306(c)(2) to reinstate action,” after “under section 301,”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2251` | add-at-end | Chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2101` | insert | The table of contents for the Trade Act of 1974 (19 U.S.C. 2101 et seq.) is amended by inserting after the item relating to section 204 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1641` | replace | in subparagraph (E), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -471,7 +471,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 1313` | amend | Section 313(k) of the Tariff Act of 1930 (19 U.S.C. 1313(k)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | amend | Section 313(l) of the Tariff Act of 1930 (19 U.S.C. 1313(l)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | strike | in clause (ii)(III), by striking “, as so certified in a certificate of delivery or certificate of manufacture and delivery”; and | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1313` | strike | by striking “, as so designated on the certificate of delivery or certificate of manufacture and delivery”; and | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1313` | strike | by striking “, so designated on the certificate of delivery or certificate of manufacture and delivery”; and | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 1313` | replace | by striking the last sentence and inserting the following: “The party transferring the merchandise shall maintain records kept in the normal course of business to demonstrate the transfer.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | replace | by striking the first sentence and inserting the following: “A drawback entry shall be filed or applied for, as applicable, not later than 5 years after the date on which merchandise on which drawback is claimed was imported.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -479,7 +479,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 1313` | strike | Section 313 of the Tariff Act of 1930 (19 U.S.C. 1313) is amended by striking subsection (t). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | add-at-end | Section 313 of the Tariff Act of 1930 (19 U.S.C. 1313) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2213` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 2213` | replace | in subparagraph (B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2213` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

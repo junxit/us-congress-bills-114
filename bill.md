@@ -42,7 +42,7 @@ In this Act:
   - **(S)** The Customs Procedural Reform and Simplification Act of 1978 (Public Law 95–410; 92 Stat. 888).
   - **(T)** The Trade Act of 2002 (Public Law 107–210; 116 Stat. 933).
   - **(U)** The Convention on Cultural Property Implementation Act (19 U.S.C. 2601 et seq.).
-  - **(V)** The Act of March 28, 1928 (45 Stat. 374, chapter 266; 19 U.S.C. 2077 et seq.)
+  - **(V)** The Act of March 28, 1928 (45 Stat. 374, chapter 266; 19 U.S.C. 2077 et seq.).
   - **(W)** The Act of August 7, 1939 (53 Stat. 1263, chapter 566).
   - **(X)** Any other provision of law implementing a trade agreement.
   - **(Y)** Any other provision of law vesting customs revenue functions in the Secretary of the Treasury.
