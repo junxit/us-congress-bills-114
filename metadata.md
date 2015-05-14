@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 36
@@ -238,3 +238,4 @@ Pain-Capable Unborn Child Protection Act
 - 2015-05-13 — Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
 - 2015-05-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2937)
 - 2015-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2936)
+- 2015-05-14 — Received in the Senate.
