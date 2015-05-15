@@ -76,9 +76,11 @@ Section 302 (16 U.S.C. 1852) is amended by adding at the end the following:
 - **(a)** *Definitions* Section 3 (16 U.S.C. 1802) is amended—
   - **(1)** in paragraph (34), by striking “The terms “overfishing” and “overfished” mean” and inserting “The term “overfishing” means”; and
   - **(2)** by inserting after paragraph (8) the following:
-    > - **(8a)** The term ‘depleted' means, with respect to a stock of fish or stock complex, that the stock or stock complex has a biomass that has declined below a level that jeopardizes the capacity of the stock or stock complex to produce maximum sustainable yield on a continuing basis.
+    > - **(8a)** The term “depleted” means, with respect to a stock of fish or stock complex, that the stock or stock complex has a biomass that has declined below a level that jeopardizes the capacity of the stock or stock complex to produce maximum sustainable yield on a continuing basis.
 
-- **(b)** *Substitution of term* The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) is amended by striking “overfished” each place it appears and inserting “depleted”.
+- **(b)** *Substitution of term* The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) is amended—
+  - **(1)** in the heading of section 304(e), by striking “Overfished” and inserting “Depleted”; and
+  - **(2)** by striking “overfished” each place it appears and inserting “depleted”.
 - **(c)** *Clarity in annual report* Section 304(e)(1) (16 U.S.C. 1854(e)(1)) is amended by adding at the end the following: “The report shall distinguish between fisheries that are depleted (or approaching that condition) as a result of fishing and fisheries that are depleted (or approaching that condition) as a result of factors other than fishing. The report shall state, for each fishery identified as depleted or approaching that condition, whether the fishery is the target of directed fishing.”.
 
 ## § 7. Transparency and public process
@@ -114,6 +116,7 @@ Section 302 (16 U.S.C. 1852) is amended by adding at the end the following:
       >     - **(A)** using Council meetings to determine the scope of issues to be addressed and identifying significant issues related to the proposed action;
       >     - **(B)** integration of the fishery impact statement development process with preliminary and final Council decisionmaking in a manner that provides opportunity for comment from the public and relevant government agencies prior to these decision points; and
       >     - **(C)** providing scientific, technical, and legal advice at an early stage of the development of the fishery impact statement to ensure timely transmittal and Secretarial review of the proposed fishery management plan, plan amendment, or regulations to the Secretary.
+      >   - **(7)** Actions taken in accordance with this section are deemed to fulfill the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and all related implementing regulations.
 
   - **(2)** *Evaluation of adequacy* Section 304(a)(2) (16 U.S.C. 1854(a)(2)) is amended by striking “and” after the semicolon at the end of subparagraph (B), striking the period at the end of subparagraph (C) and inserting “; and”, and by adding at the end the following:
     > - **(D)** evaluate the adequacy of the accompanying fishery impact statement as basis for fully considering the environmental impacts of implementing the fishery management plan or plan amendment.
@@ -122,7 +125,7 @@ Section 302 (16 U.S.C. 1852) is amended by adding at the end the following:
     > - **(b)** *Review of regulations*
     >   - **(1)** Upon transmittal by the Council to the Secretary of proposed regulations prepared under section 303(c), the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this Act and other applicable law. The Secretary shall also immediately initiate an evaluation of the accompanying fishery impact statement as a basis for fully considering the environmental impacts of implementing the proposed regulations. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
 
-  - **(4)** *Effect on time requirements* Section 305(e) (16 U.S.C. 1855(e)) is amended by inserting “the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.),” after “the Regulatory Flexibility Act (5 U.S.C. 601 et seq.)”.
+  - **(4)** *Effect on time requirements* Section 305(e) (16 U.S.C. 1855(e)) is amended by inserting “the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.),” after “the Regulatory Flexibility Act (5 U.S.C. 601 et seq.),”.
 
 ## § 8. Limitation on future catch share programs
 
@@ -290,7 +293,7 @@ Section 306(a)(3)(C) (16 U.S.C. 1856(a)(3)(C)) is amended—
   >   - **(1)** using authority under this Act; and
   >   - **(2)** in accordance with processes and time schedules required under this Act.
 
-- **(b)** *Clerical amendment* The table of contents in the first section is amended by inserting after the item relating to section 4 the following:
+- **(b)** *Clerical amendment* The table of contents in the first section is amended by inserting after the item relating to section 3 the following:
 
 ## § 16. Limitation on harvest in North Pacific directed pollock fishery
 
@@ -338,7 +341,7 @@ Section 210(e)(1) of the American Fisheries Act (title II of division C of Publi
   >     - **(A)** includes a rigorous and independent scientific review of the completed fishery stock assessment; and
   >     - **(B)** a panel of independent experts to review the data and assessment and make recommendations on the most appropriate values of critical population and management quantities.
 
-- **(b)** *Clerical amendment* The table of contents in the first section is amended by inserting after the item relating to section 408 the following:
+- **(b)** *Clerical amendment* The table of contents in the first section is amended by adding at the end of the items relating to title IV the following:
 
 ## § 19. Estimation of cost of recovery from fishery resource disaster
 
@@ -365,7 +368,7 @@ Any fish that are seized from a foreign vessel engaged in illegal fishing activi
 
 ## § 23. Subsistence fishing
 
-- **(a)** *Definition* Section 3 (16 U.S.C. 1802) is amended by inserting after paragraph 43 the following:
+- **(a)** *Definition* Section 3 (16 U.S.C. 1802) is amended by inserting after paragraph (43) the following:
   > - **(43a)**
   >   - **(A)** The term “subsistence fishing” means fishing in which the fish harvested are intended for customary and traditional uses, including for direct personal or family consumption as food or clothing; for the making or selling of handicraft articles out of nonedible byproducts taken for personal or family consumption, for barter, or sharing for personal or family consumption; and for customary trade.
   >   - **(B)** In this paragraph—
@@ -385,7 +388,30 @@ Section 301 (16 U.S.C. 1851) is amended by adding at the end the following:
 
 > - **(c)** *Inter-Sector trading of commercial catch share allocations in the Gulf of Mexico* Notwithstanding any other provision of this Act, any commercial fishing catch share allocation in a fishery in the Gulf of Mexico may only be traded by sale or lease within the same commercial fishing sector.
 
-## § 25. Authorization of appropriations
+## § 25. Arctic community development quota
+
+Section 313 (16 U.S.C. 1862) is amended by adding at the end the following:
+
+> - **(k)** *Arctic community development quota* If the North Pacific Fishery Management Council issues a fishery management plan for the exclusive economic zone in the Arctic Ocean, or an amendment to the Fishery Management Plan for Fish Resources of the Arctic Management Area issued by such Council, that makes available to commercial fishing, and establishes a sustainable harvest level, for any part of such zone, the Council shall set aside not less than 10 percent of the total allowable catch therein as a community development quota for coastal villages located north and east of the Bering Strait.
+
+## § 26. Preference for students studying water resource issues
+
+Section 402(e) (16 U.S.C. 1881a(e)) is amended by adding at the end the following:
+
+> - **(4)** The Secretary shall require that in the hiring of individuals to collect information regarding marine recreational fishing under this subsection, preference shall be given to individuals who are students studying water resource issues at an institution of higher education.
+
+## § 27. Process for allocation review for South Atlantic and Gulf of Mexico mixed-use fisheries
+
+- **(a)** *Study of allocations in mixed-use fisheries* Not later than 60 days after the date of the enactment of this Act, the Secretary of Commerce shall enter into an arrangement with the National Academy of Sciences to conduct a study of the South Atlantic and Gulf of Mexico mixed-use fisheries—
+  - **(1)** to provide guidance to Regional Fishery Management Councils established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852) on criteria that could be used for allocating fishing privileges, including consideration of the conservation and socioeconomic benefits of the commercial, recreational, and charter components of a fishery, in the preparation of a fishery management plan under that Act;
+  - **(2)** to identify sources of information that could reasonably support the use of such criteria in allocation decisions; and
+  - **(3)** to develop procedures for allocation reviews and potential adjustments in allocations based on the guidelines and requirements established by this section.
+- **(b)** *Process for allocation review and establishment* The South Atlantic Fishery Management Council and the Gulf of Mexico Fishery Management Council shall—
+  - **(1)** within 2 years after the date of the enactment of this Act, review the allocations of all mixed-use fisheries in the Councils’ respective jurisdictions; and
+  - **(2)** every 3 years thereafter, perform subsequent reviews of such allocations; and
+  - **(3)** consider the conservation and socioeconomic benefits of each sector in any allocation decisions for such fisheries.
+
+## § 28. Authorization of appropriations
 
 Section 4 (16 U.S.C. 1803) is amended—
 

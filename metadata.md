@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1335
@@ -32,3 +32,11 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - 2015-03-04 — Introduced in House
 - 2015-03-04 — Referred to the House Committee on Natural Resources.
 - 2015-03-04 — Sponsor introductory remarks on measure. (CR E306-307)
+- 2015-03-23 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2015-04-29 — Committee Consideration and Mark-up Session Held.
+- 2015-04-30 — Committee Consideration and Mark-up Session Held.
+- 2015-04-30 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 14.
+- 2015-04-30 — Subcommittee on Water, Power and Oceans Discharged.
+- 2015-05-15 — Placed on the Union Calendar, Calendar No. 82.
+- 2015-05-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-116.
+- 2015-05-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-116.
