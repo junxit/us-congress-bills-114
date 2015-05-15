@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1987
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-112 amendatory instructions. 19 executed, 93 stated and not applied.
+136 amendatory instructions. 22 executed, 114 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -186,6 +186,33 @@ to guess them.
 | Removed | `Secretary of Transportation` |
 | Inserted | `Secretary of the department in which the Coast Guard is operating` |
 
+### 46 U.S.C. § 53101
+
+> in section 57501, by striking “titles V and VI” and inserting “title V” ; and
+
+| | |
+|---|---|
+| Removed | `titles V and VI` |
+| Inserted | `title V` |
+
+### 46 U.S.C. § 53101
+
+> in section 57531(a), by striking “titles V and VI” and inserting “title V”.
+
+| | |
+|---|---|
+| Removed | `titles V and VI` |
+| Inserted | `title V` |
+
+### 46 U.S.C. § 53101
+
+> by striking “the provision of title VI or VII of this Act” and inserting “this chapter”;
+
+| | |
+|---|---|
+| Removed | `the provision of title VI or VII of this Act` |
+| Inserted | `this chapter` |
+
 ### 33 U.S.C. § 2704
 
 > Section 603(c)(3) of the Coast Guard and Maritime Transportation Act of 2006 (33 U.S.C. 2704 note) is amended by striking “on an annual basis.” and inserting “not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 (33 U.S.C. 2704).”.
@@ -275,18 +302,25 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subchapter I of chapter 313 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 31309 the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3104 of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (2) as paragraph (3), and by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (3), as so redesignated, by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 55305` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 55305` | redesignate | by redesignating paragraph (2) as paragraph (3), and by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 55305` | redesignate | in paragraph (3), as so redesignated, by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 55305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 55305` | repeal | Section 3511(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (46 U.S.C. 55305 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 4302 of title 46, United States Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `33 U.S.C. § 1225` | add-at-end | Section 6 of the Ports and Waterways Safety Act of 1972 (33 U.S.C. 1225) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1225` | add-at-end | Section 6 of the Ports and Waterways Safety Act (33 U.S.C. 1225) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 151` | amend | by adding a period at the end of the item relating to section 3507; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 151` | amend | by adding a period at the end of the item relating to section 3508; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 151` | replace | in section 3715(a)(2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 151` | strike | in section 11113(c)(1)(A)(i), by striking “under this Act”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 151` | strike | in section 11113(c)(1)(A)(i), by striking “under this Act”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Chapter 75 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 53101` | repeal | Sections 601 through 606, 608 through 611, 613 through 616, 802, and 809 of the Merchant Marine Act, 1936 (46 U.S.C. 53101 note) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 53101` | replace | by striking so much as precedes the first sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 53101` | strike | by striking “That the provisions” and all that follows through “Commission; (2)” ; and | the bill quotes the text struck but describes what replaces it |
+| `46 U.S.C. § 53101` | redesignate | by redesignating clauses (3) and (4) as clauses (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 53101` | insert | The analysis for chapter 575, of title 46, United States Code, is amended by inserting after the item relating to section 57521 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 53101` | strike | Section 8103 of title 46, United States Code, is amended in subsections (c) and (d) by striking “or operating” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Chapter 3 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 3 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) by striking “units, but only after consultation with the other Commissioners;” and inserting “units (with such appointments subject to the approval of the Commission);”; | the bill names no machine-readable US Code section |
@@ -297,3 +331,17 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `46 U.S.C. § 8103` | strike | Section 421 of the Coast Guard and Maritime Transportation Act of 2006 (46 U.S.C. 8103 note) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 535h` | strike | The International Bridge Act of 1972 is amended by striking section 11 (33 U.S.C. 535h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting before the period at the end the following: “, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary”; and | the bill names no machine-readable US Code section |
+| — | replace | in the table of contents in section 2, by striking the item relating to such section and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (c), by adding at the end the following: “Subsection (a) does not apply to a fishing vessel or fish tender vessel described in subsection (d)(6), if the vessel complies with an alternative safety compliance program establis… | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “all claims in a class action suit by seamen” and inserting “each claim by a seaman”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the seamen” and inserting “the seaman”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “class action”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “, by a seaman who is a claimant in the suit,” and inserting “by the seaman”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “all claims in a class action suit by seamen” and inserting “each claim by a seaman”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the seamen” and inserting “the seaman”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “class action”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “, by a seaman who is a claimant in the suit,” and inserting “by the seaman”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(a) In General.—” before the first sentence; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
