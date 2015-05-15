@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1735
@@ -23,6 +23,21 @@ National Defense Authorization Act for Fiscal Year 2016
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (12)
+
+- 2015-05-14 — [House 114-1-228](votes/house-114-1-0228.md) — On Agreeing to the Amendment — **Failed** (60–363)
+- 2015-05-14 — [House 114-1-229](votes/house-114-1-0229.md) — On Agreeing to the Amendment — **Agreed to** (221–202)
+- 2015-05-14 — [House 114-1-230](votes/house-114-1-0230.md) — On Agreeing to the Amendment — **Agreed to** (243–180)
+- 2015-05-14 — [House 114-1-231](votes/house-114-1-0231.md) — On Agreeing to the Amendment — **Failed** (174–249)
+- 2015-05-14 — [House 114-1-232](votes/house-114-1-0232.md) — On Agreeing to the Amendment — **Agreed to** (253–166)
+- 2015-05-15 — [House 114-1-233](votes/house-114-1-0233.md) — On Agreeing to the Amendment — **Agreed to** (413–1)
+- 2015-05-15 — [House 114-1-234](votes/house-114-1-0234.md) — On Agreeing to the Amendment — **Agreed to** (235–182)
+- 2015-05-15 — [House 114-1-235](votes/house-114-1-0235.md) — On Agreeing to the Amendment — **Failed** (43–375)
+- 2015-05-15 — [House 114-1-236](votes/house-114-1-0236.md) — On Agreeing to the Amendment — **Agreed to** (229–190)
+- 2015-05-15 — [House 114-1-237](votes/house-114-1-0237.md) — On Agreeing to the Amendment — **Failed** (178–242)
+- 2015-05-15 — [House 114-1-238](votes/house-114-1-0238.md) — On Motion to Recommit with Instructions — **Failed** (184–234)
+- 2015-05-15 — [House 114-1-239](votes/house-114-1-0239.md) — On Passage — **Passed** (269–151)
 
 ## Actions
 
@@ -53,3 +68,221 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-05-05 — Placed on the Union Calendar, Calendar No. 71.
 - 2015-05-05 — Reported (Amended) by the Committee on Armed Services. H. Rept. 114-102.
 - 2015-05-05 — Reported (Amended) by the Committee on Armed Services. H. Rept. 114-102.
+- 2015-05-12 — Rules Committee Resolution H. Res. 255 Reported to House. Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
+- 2015-05-12 — SUPPLEMENTAL FILING AUTHORITY - Mr. Thornberry asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on the bill, H.R. 1735. Agreed to without objection.
+- 2015-05-12 — Supplemental report filed by the Committee on Armed Services, H. Rept. 114-102, Part II.
+- 2015-05-12 — Supplemental report filed by the Committee on Armed Services, H. Rept. 114-102, Part II.
+- 2015-05-13 — Considered under the provisions of rule H. Res. 255. (consideration: CR H2940-2948)
+- 2015-05-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1735.
+- 2015-05-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 255 and Rule XVIII.
+- 2015-05-13 — Pursuant to section 1 of H.Res. 255, the Committee of the Whole House on the state of the Union rises leaving H.R. 1735 as unfinished business.
+- 2015-05-13 — Rules Committee Resolution H. Res. 260 Reported to House. Rule provides for consideration of H.R. 1735. Specified amendments are in order. Providing for amendment debate for H.R. 1735
+- 2015-05-13 — The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.
+- 2015-05-14 — Amendment (A001) offered by Mr. Thornberry. (consideration: CR H3154-3155; text: CR H3154)
+- 2015-05-14 — Amendment (A002) offered by Mr. Polis. (consideration: CR H3155-3156, H3177; text: CR H3155)
+- 2015-05-14 — Amendment (A004) offered by Mr. Brooks (AL). (consideration: CR H3163-3164, H3178-3179; text: CR H3163)
+- 2015-05-14 — Amendment (A005) offered by Mrs. Walorski. (consideration: CR H3164-3166, H3179; text: CR H3164-3165)
+- 2015-05-14 — Amendment (A006) offered by Mr. Smith (WA). (consideration: CR H3166-3169, H3179-3180; text: CR H3166-3167)
+- 2015-05-14 — Amendment (A007) offered by Mr. McCaul. (consideration: CR H3169-3170, H3180-3181; text: CR H3169)
+- 2015-05-14 — Amendment (A008) offered by Mr. Hunter. (consideration: CR H3170-3172; text: CR H3170-3171)
+- 2015-05-14 — Amendment (A010) offered by Mr. Rohrabacher. (consideration: CR H3181-3182; text: CR H3181)
+- 2015-05-14 — Amendment (A011) offered by Mr. Lamborn. (consideration: CR H3182-3184; text: CR H3182)
+- 2015-05-14 — Amendment (A012) offered by Mr. Blumenauer. (consideration: CR H3184-3185; text: CR H3184)
+- 2015-05-14 — Amendment (A013) offered by Mrs. Lummis. (consideration: CR H3185-3187; text: CR H3185-3186)
+- 2015-05-14 — Amendment (A015) offered by Mr. Lucas. (consideration: CR H3191-3192; text: CR H3191)
+- 2015-05-14 — Amendment (A016) offered by Mr. Nadler. (consideration: CR H3192-3194; text: CR H3192)
+- 2015-05-14 — Amendment (A017) offered by Ms. Jackson Lee. (consideration: CR H3194-3195; text: CR H3194)
+- 2015-05-14 — Amendment (A020) offered by Mr. Burgess. (consideration: CR H3205-3206; text: CR H3205)
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment agreed to Committee of the Whole
+- 2015-05-14 — Amendment failed in Committee of the Whole
+- 2015-05-14 — Amendment failed in Committee of the Whole
+- 2015-05-14 — Amendments en bloc (A003) offered by Mr. Thornberry. (consideration: CR H3156-3163; text: CR H3156-3160)
+- 2015-05-14 — Amendments en bloc (A009) offered by Mr. Thornberry. (consideration: CR H3172-3177; text: CR H3172-3174)
+- 2015-05-14 — Amendments en bloc (A014) offered by Mr. Thornberry. (consideration: CR H3187-3190; text: CR H3187-3189)
+- 2015-05-14 — Amendments en bloc (A018) offered by Mr. Thornberry. (consideration: CR H3195-3199; text: CR H3195-3198)
+- 2015-05-14 — Amendments en bloc (A019) offered by Mr. Thornberry. (consideration: CR H3199-3205; text: CR H3199-3202)
+- 2015-05-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 1735 as unfinished business.
+- 2015-05-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 1735 as unfinished business.
+- 2015-05-14 — Considered as unfinished business. (consideration: CR H2999-3181; text of amendment in the nature of a substitute: CR H2999-3153)
+- 2015-05-14 — Considered as unfinished business. (consideration: CR H3181-3206)
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 32.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Brooks (AL) amendment No. 5.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 83.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 21.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 52.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 27.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Lucas amendment No. 38.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Lummis amendment No. 35.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the McCaul amendment No. 17.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment No. 41.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment No. 23.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 16.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski amendment No. 15.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #3.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #4.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #5.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 1.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 2.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H.Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 2.
+- 2015-05-14 — DEBATE - Pursuant to the provisions of H.Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry amendment No. 1.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Brooks (AL) amendment (A004) Agreed to by recorded vote: 221 - 202 (Roll no. 229).
+- 2015-05-14 — House amendment agreed to: On agreeing to the Burgess amendment (A020) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Hunter amendment (A008) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A017) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Lummis amendment (A013) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the McCaul amendment (A007) Agreed to by recorded vote: 253 - 166 (Roll no. 232).
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A003) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A009) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A018) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A019) Agreed to by voice vote.
+- 2015-05-14 — House amendment agreed to: On agreeing to the Walorski amendment (A005) Agreed to by recorded vote: 243 - 180 (Roll no. 230).
+- 2015-05-14 — House amendment not agreed to: On agreeing to the Polis amendment (A002) Failed by recorded vote: 60 - 363 (Roll no. 228).
+- 2015-05-14 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A006) Failed by recorded vote: 174 - 249 (Roll no. 231).
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered
+- 2015-05-14 — House amendment offered/reported by : Amendment (A001) offered by Mr. Thornberry.(consideration: CR H3154-3155; text: CR H3154)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A002) offered by Mr. Polis.(consideration: CR H3155-3156, H3177; text: CR H3155)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A004) offered by Mr. Brooks (AL).(consideration: CR H3163-3164, H3178-3179; text: CR H3163)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A005) offered by Mrs. Walorski.(consideration: CR H3164-3166, H3179; text: CR H3164-3165)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A006) offered by Mr. Smith (WA).(consideration: CR H3166-3169, H3179-3180; text: CR H3166-3167)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A007) offered by Mr. McCaul.(consideration: CR H3169-3170, H3180-3181; text: CR H3169)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A008) offered by Mr. Hunter.(consideration: CR H3170-3172; text: CR H3170-3171)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A010) offered by Mr. Rohrabacher.(consideration: CR H3181-3182; text: CR H3181)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A011) offered by Mr. Lamborn.(consideration: CR H3182-3184; text: CR H3182)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A012) offered by Mr. Blumenauer.(consideration: CR H3184-3185; text: CR H3184)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A013) offered by Mrs. Lummis.(consideration: CR H3185-3187; text: CR H3185-3186)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A015) offered by Mr. Lucas.(consideration: CR H3191-3192; text: CR H3191)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A016) offered by Mr. Nadler.(consideration: CR H3192-3194; text: CR H3192)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A017) offered by Ms. Jackson Lee.(consideration: CR H3194-3195; text: CR H3194)
+- 2015-05-14 — House amendment offered/reported by : Amendment (A020) offered by Mr. Burgess.(consideration: CR H3205-3206; text: CR H3205)
+- 2015-05-14 — House amendment offered/reported by : Amendments en bloc (A003) offered by Mr. Thornberry.(consideration: CR H3156-3163; text en bloc: CR H3156-3160)
+- 2015-05-14 — House amendment offered/reported by : Amendments en bloc (A009) offered by Mr. Thornberry.(consideration: CR H3172-3177; text en bloc: CR H3172-3174)
+- 2015-05-14 — House amendment offered/reported by : Amendments en bloc (A014) offered by Mr. Thornberry.(consideration: CR H3187-3190; text en bloc: CR H3187-3189)
+- 2015-05-14 — House amendment offered/reported by : Amendments en bloc (A018) offered by Mr. Thornberry.(consideration: CR H3195-3199; text en bloc: CR H3195-3198)
+- 2015-05-14 — House amendment offered/reported by : Amendments en bloc (A019) offered by Mr. Thornberry.(consideration: CR H3199-3205; text en bloc: CR H3199-3202)
+- 2015-05-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 260 and Rule XVIII.
+- 2015-05-14 — Mr. Thornberry moved that the Committee rise.
+- 2015-05-14 — Mr. Thornberry moved that the committee rise.
+- 2015-05-14 — On agreeing to the Brooks (AL) amendment (A004) Agreed to by recorded vote: 221 - 202 (Roll no. 229).
+- 2015-05-14 — On agreeing to the Burgess amendment (A020) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Hunter amendment (A008) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Jackson Lee amendment (A017) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Lummis amendment (A013) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the McCaul amendment (A007) Agreed to by recorded vote: 253 - 166 (Roll no. 232).
+- 2015-05-14 — On agreeing to the Polis amendment (A002) Failed by recorded vote: 60 - 363 (Roll no. 228).
+- 2015-05-14 — On agreeing to the Smith (WA) amendment (A006) Failed by recorded vote: 174 - 249 (Roll no. 231).
+- 2015-05-14 — On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Thornberry amendments (A003) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Thornberry amendments (A009) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Thornberry amendments (A018) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Thornberry amendments (A019) Agreed to by voice vote.
+- 2015-05-14 — On agreeing to the Walorski amendment (A005) Agreed to by recorded vote: 243 - 180 (Roll no. 230).
+- 2015-05-14 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-05-14 — On motion that the committee rise Agreed to by voice vote.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment No. 32, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Forbes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brooks (AL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment No. 27, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cooper demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lucas amendment No. 38, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Langevin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCaul amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. O'Rourke demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment No. 41, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Forbes demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment No. 23, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walorski amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Walorski demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-05-14 — Roll call votes on amendments in House
+- 2015-05-14 — Roll call votes on amendments in House
+- 2015-05-14 — Roll call votes on amendments in House
+- 2015-05-14 — Roll call votes on amendments in House
+- 2015-05-14 — Roll call votes on amendments in House
+- 2015-05-14 — Rule H. Res. 260 passed House.
+- 2015-05-14 — Rule provides for consideration of H.R. 1735. Specified amendments are in order. Providing for amendment debate for H.R. 1735
+- 2015-05-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-05-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment agreed to Committee of the Whole
+- 2015-05-15 — Amendment failed in Committee of the Whole
+- 2015-05-15 — Amendment failed in Committee of the Whole
+- 2015-05-15 — Amendments en bloc (A021) offered by Mr. Thornberry. (consideration: CR H3219-3223; text: CR H3219-3221)
+- 2015-05-15 — Amendments en bloc (A022) offered by Mr. Thornberry. (consideration: CR H3223-3226; text: CR H3223-3225)
+- 2015-05-15 — Amendments en bloc (A023) offered by Mr. Thornberry. (consideration: CR H3226-3229; text: CR H3226-3228)
+- 2015-05-15 — Considered as unfinished business. (consideration: CR H3219-3236)
+- 2015-05-15 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 6.
+- 2015-05-15 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 7.
+- 2015-05-15 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 8.
+- 2015-05-15 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Gallego motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to provide a 2.3% pay increase for fiscal year 2016 for members of the uniformed services. Additionally, the motion would ensure that the Secretary of Defense guarantee members of the Army, Navy, Air Force, and Marine Corps continue to receive compensation for their service in defense of the United States despite any government shutdown after September 30, 2015.
+- 2015-05-15 — House amendment agreed to: On agreeing to the Lamborn amendment (A011) Agreed to by recorded vote: 235 - 182 (Roll no. 234).(consideration: CR H3230-3231)
+- 2015-05-15 — House amendment agreed to: On agreeing to the Lucas amendment (A015) Agreed to by recorded vote: 229 - 190 (Roll no. 236).(consideration: CR H3232)
+- 2015-05-15 — House amendment agreed to: On agreeing to the Rohrabacher amendment (A010) Agreed to by recorded vote: 413 - 1, 2 Present (Roll no. 233).(consideration: CR H3230)
+- 2015-05-15 — House amendment agreed to: On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2015-05-15 — House amendment agreed to: On agreeing to the Thornberry amendments (A022) Agreed to by voice vote.
+- 2015-05-15 — House amendment agreed to: On agreeing to the Thornberry amendments (A023) Agreed to by voice vote.
+- 2015-05-15 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A012) Failed by recorded vote: 43 - 375 (Roll no. 235).(consideration: CR H3231-3232)
+- 2015-05-15 — House amendment not agreed to: On agreeing to the Nadler amendment (A016) Failed by recorded vote: 178 - 242 (Roll no. 237).(consideration: CR H3232-3233)
+- 2015-05-15 — House amendment offered
+- 2015-05-15 — House amendment offered
+- 2015-05-15 — House amendment offered
+- 2015-05-15 — House amendment offered/reported by : Amendments en bloc (A021) offered by Mr. Thornberry.(consideration: CR H3219-3223; text en bloc: CR H3219-3221)
+- 2015-05-15 — House amendment offered/reported by : Amendments en bloc (A022) offered by Mr. Thornberry.(consideration: CR H3223-3226; text en bloc: CR H3223-3225)
+- 2015-05-15 — House amendment offered/reported by : Amendments en bloc (A023) offered by Mr. Thornberry.(consideration: CR H3226-3229; text en bloc: CR H3226-3228)
+- 2015-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-15 — Mr. Gallego moved to recommit with instructions to the Committee on Armed Services. (consideration: CR H3233-3236; text: CR H3233)
+- 2015-05-15 — On agreeing to the Blumenauer amendment (A012) Failed by recorded vote: 43 - 375 (Roll no. 235). (consideration: CR H3231-3232)
+- 2015-05-15 — On agreeing to the Lamborn amendment (A011) Agreed to by recorded vote: 235 - 182 (Roll no. 234). (consideration: CR H3230-3231)
+- 2015-05-15 — On agreeing to the Lucas amendment (A015) Agreed to by recorded vote: 229 - 190 (Roll no. 236). (consideration: CR H3232)
+- 2015-05-15 — On agreeing to the Nadler amendment (A016) Failed by recorded vote: 178 - 242 (Roll no. 237). (consideration: CR H3232-3233)
+- 2015-05-15 — On agreeing to the Rohrabacher amendment (A010) Agreed to by recorded vote: 413 - 1, 2 Present (Roll no. 233). (consideration: CR H3230)
+- 2015-05-15 — On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2015-05-15 — On agreeing to the Thornberry amendments (A022) Agreed to by voice vote.
+- 2015-05-15 — On agreeing to the Thornberry amendments (A023) Agreed to by voice vote.
+- 2015-05-15 — On motion to recommit with instructions Failed by recorded vote: 184 - 234 (Roll no. 238). (consideration: CR H3234-3235)
+- 2015-05-15 — On passage Passed by recorded vote: 269 - 151 (Roll no. 239).
+- 2015-05-15 — Passed/agreed to in House: On passage Passed by recorded vote: 269 - 151 (Roll no. 239).
+- 2015-05-15 — Roll call votes on amendments in House
+- 2015-05-15 — Roll call votes on amendments in House
+- 2015-05-15 — Roll call votes on amendments in House
+- 2015-05-15 — Roll call votes on amendments in House
+- 2015-05-15 — Roll call votes on amendments in House
+- 2015-05-15 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1735. (text: CR H3236)
+- 2015-05-15 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H3233)
+- 2015-05-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-05-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1735.
+- 2015-05-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3234)
+- 2015-05-15 — The previous question was ordered pursuant to the rule. (consideration: CR H3233)
+- 2015-05-15 — The title of the measure was amended. Agreed to without objection.
