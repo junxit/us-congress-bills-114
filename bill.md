@@ -1,0 +1,22 @@
+---
+legis-num: H. RES. 266
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 266
+
+> Expressing support for the Nation’s law enforcement officers.
+
+## Preamble
+
+- Whereas law enforcement officers, including police officers, corrections officers, customs officers, State troopers, special agents, criminal investigators, tribal officers, military police officers, immigration officers, court bailiffs, probation officers, arson investigators, auxiliary officers, sheriffs, marshals, and deputies make substantial contributions to the Nation and the communities in which they serve;
+- Whereas law enforcement officers are recognized for their public service to all, knowing they may face extremely dangerous situations while carrying out their duties;
+- Whereas law enforcement officers are recognized for the difficult careers they have chosen;
+- Whereas the safety and well-being of all Americans depend upon the law enforcement officers who protect and serve their communities in a professional manner: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** celebrates the dedication and contributions that law enforcement officers, including police officers, corrections officers, customs officers, State troopers, special agents, criminal investigators, tribal officers, military police officers, immigration officers, court bailiffs, probation officers, arson investigators, auxiliary officers, sheriffs, marshals, and deputies make every day across the Nation; and
+- **(2)** encourages support for law enforcement officers nationwide and calls upon the people of the United States to express their support for law enforcement with appropriate ceremonies, programs, and activities.
