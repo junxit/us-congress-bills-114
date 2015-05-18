@@ -20,6 +20,6 @@ This Act may be cited as the “Service Disabled Veteran Owned Small Business Re
   - **(2)** in paragraph (2), by amending subparagraph (C) to read as follows:
     > - **(C)** The date that—
     >   - **(i)** in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran’s death; or
-    >   - **(ii)** in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is three years after the date of the veteran’s death.
+    >   - **(ii)** in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran’s death.
 
 - **(b)** *Effective date* The amendments made by subsection (a) shall take effect on the date that is 180 days after the date of the enactment of this Act and shall apply with respect to contracts awarded on or after such date.
