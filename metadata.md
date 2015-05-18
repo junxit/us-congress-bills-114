@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2297
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2297
@@ -28,10 +28,11 @@ Hizballah International Financing Prevention Act of 2015
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 - Rep. Jolly, David W. [R-FL-13] (J000296)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Hizballah International Financing Prevention Act of 2015
 - 2015-05-14 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2015-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 227). (text: CR H2983-2985)
 - 2015-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 227).(text: CR H2983-2985)
+- 2015-05-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
