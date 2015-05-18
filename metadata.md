@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2252
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2252
@@ -40,3 +40,4 @@ To clarify the effective date of certain provisions of the Border Patrol Agent P
 - 2015-05-14 — Mr. Hurd (TX) asked unanimous consent to discharge from committee and consider. (consideration: CR H2999)
 - 2015-05-14 — On passage Passed without objection. (text: CR H2999)
 - 2015-05-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2999)
+- 2015-05-18 — Received in the Senate, read twice.
