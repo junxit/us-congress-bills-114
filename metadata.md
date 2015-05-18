@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1038
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1038
@@ -25,3 +25,13 @@ Ensuring VA Employee Accountability Act
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Introduced in House
 - 2015-02-24 — Referred to the House Committee on Veterans' Affairs.
+- 2015-03-06 — Referred to the Subcommittee on Economic Opportunity.
+- 2015-03-24 — Subcommittee Hearings Held.
+- 2015-04-16 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2015-04-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2015-05-18 — Considered under suspension of the rules. (consideration: CR H3259-3260)
+- 2015-05-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1038.
+- 2015-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-18 — Mr. Wenstrup moved to suspend the rules and pass the bill.
+- 2015-05-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3259)
+- 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3259)
