@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 3
@@ -20,9 +20,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -35,3 +36,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2015-04-27 — Message on Senate action sent to the House.
 - 2015-04-27 — Received in the House.
 - 2015-04-27 — Referred to the House Committee on House Administration.
+- 2015-05-18 — Committee on House Administration discharged. (consideration: CR H3295)
+- 2015-05-18 — Committee on House Administration discharged.(consideration: CR H3295)
+- 2015-05-18 — Considered by unanimous consent. (consideration: CR H3295)
+- 2015-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-18 — Mr. Walker asked unanimous consent to discharge from committee and consider. (consideration: CR H3295)
+- 2015-05-18 — On agreeing to the resolution Agreed to without objection. (text: CR H3295)
+- 2015-05-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3295)
