@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2048
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2048
@@ -87,3 +87,5 @@ USA FREEDOM Act of 2015
 - 2015-05-13 — Providing for consideration of H.R. 1735, H.R. 36, and H.R. 2048
 - 2015-05-13 — Rule H. Res. 255 passed House.
 - 2015-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2923)
+- 2015-05-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-05-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
