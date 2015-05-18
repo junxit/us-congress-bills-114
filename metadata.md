@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2252
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2252
@@ -41,3 +41,12 @@ To clarify the effective date of certain provisions of the Border Patrol Agent P
 - 2015-05-14 — On passage Passed without objection. (text: CR H2999)
 - 2015-05-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2999)
 - 2015-05-18 — Received in the Senate, read twice.
+- 2015-05-19 — Became Public Law No: 114-13.
+- 2015-05-19 — Became Public Law No: 114-13.
+- 2015-05-19 — Message on Senate action sent to the House.
+- 2015-05-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3014)
+- 2015-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3014)
+- 2015-05-19 — Presented to President.
+- 2015-05-19 — Presented to President.
+- 2015-05-19 — Signed by President.
+- 2015-05-19 — Signed by President.
