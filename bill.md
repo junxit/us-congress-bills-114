@@ -27,11 +27,11 @@ Section 50905(c) of title 51, United States Code, is amended—
   >   - **(D)** lessons learned about voluntary industry consensus standards or any other construction, best practices, and commercial space launch operations;
   >   - **(E)** any lessons learned associated with the development, potential application, and acceptance of voluntary industry consensus standards or any other construction, best practices, and commercial space launch operations; and
   >   - **(F)** recommendations, findings, or observations from the Commercial Space Transportation Advisory Committee, or its successor organization, on the progress of the industry in developing industry consensus standards or any other construction.
-  > - **(4)** *Interim Report on Knowledge and Operational Experience* The Secretary shall provide a report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the of the Senate on the status of the knowledge and operational experience acquired by the industry while providing flight services for compensation or hire to support the development of a safety framework. Interim reports shall be transmitted to such committees no later than December 31, 2018, and December 31, 2020. Each report shall describe and assess the progress achieved as of 6 months prior to the specified transmittal date.
-  > - **(5)** *Independent Review* No later than December 31, 2021, an independent, private systems engineering and technical assistance organization or standards development organization contracted by the Secretary shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the readiness of the commercial space industry and the Federal Government to transition to a safety framework that may include regulations. As part of the review, the contracted organization shall evaluate—
+  > - **(4)** *Interim Report on Knowledge and Operational Experience* The Secretary shall provide a report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the of the Senate on the status of the knowledge and operational experience acquired by the industry while providing flight services for compensation or hire to support the development of a safety framework. Interim reports shall by transmitted to such committees no later than December 31, 2018, December 31, 2020, and December 31, 2022. Each report shall describe and assess the progress achieved as of 6 months prior to the specified transmittal date.
+  > - **(5)** *Independent Review* No later than December 31, 2023, an independent, private systems engineering and technical assistance organization or standards development organization contracted by the Secretary shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the readiness of the commercial space industry and the Federal Government to transition to a safety framework that may include regulations. As part of the review, the contracted organization shall evaluate—
   >   - **(A)** the progress of the commercial space industry in adopting industry voluntary standards or any other construction as reported by the Secretary in the interim assessments included in reports provided under paragraph (4); and
   >   - **(B)** the knowledge and operational experience obtained by the commercial space industry while providing services for compensation or hire as reported by the Secretary in the interim knowledge and operational reports provided under paragraph (4).
-  > - **(6)** *Learning Period* Beginning on December 31, 2023, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified through the reports published under paragraphs (3) and (4).
+  > - **(6)** *Learning Period* Beginning on December 31, 2025, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified through the reports published under paragraphs (3) and (4).
   > - **(7)** *Communication and Transparency* Nothing in this subsection shall be construed to limit the authority of the Secretary of Transportation to discuss potential approaches, potential performance standards, or any other topic related to this subsection with the commercial space industry including observations, findings, and recommendations from the Commercial Space Transportation Advisory Committee, or its successor organization, prior to the issuance of a notice of proposed rulemaking. Such discussions shall not be construed to permit the Secretary to promulgate industry regulations except as otherwise provided in this section.
 
 ## § 3. International launch competitiveness
@@ -47,7 +47,7 @@ Section 50905(c) of title 51, United States Code, is amended—
   - **(2)** the implementation schedule proposed by the Secretary in such plan;
   - **(3)** the suitability of the plan for implementation; and
   - **(4)** any further actions needed to implement the plan or otherwise accomplish the purpose of this section.
-- **(d)** *Launch liability extension* Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2016” and inserting “December 31, 2023”.
+- **(d)** *Launch liability extension* Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2016” and inserting “December 31, 2025”.
 
 ## § 4. Launch license flexibility
 
@@ -129,3 +129,69 @@ Section 50914(b)(1) of title 51, United States Code, is amended to read as follo
 ## § 10. State commercial launch facilities
 
 It is the Sense of Congress that State involvement, development, ownership, and operation of launch facilities can help enable growth of the Nation’s commercial suborbital and orbital space endeavors and support both commercial and Government space programs. It is further the sense of Congress that State launch facilities and the people and property within the affected launch areas of those State facilities are subject to risks if the commercial launch vehicle fails or experiences an anomaly. To ensure the success of the commercial launch industry and the safety of the people and property in the affected launch areas, it is the further sense of Congress that States and State launch facilities should seek to take proper measures to secure their investments and the safety of third parties from potential damages that could be suffered from commercial launch activities.
+
+## § 11. Space support vehicles study
+
+Not less than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a report on the use of space support vehicle services in the commercial space industry. This report shall include—
+
+- **(1)** the extent to which launch providers rely on such services as part of their business models;
+- **(2)** the statutory, regulatory, and market barriers to the use of such services; and
+- **(3)** recommendations for legislative or regulatory action that may be needed to ensure reduced barriers to the use of such services if such use is a requirement of the industry.
+
+## § 12. Streamline commercial space launch activities
+
+- **(a)** *Sense of congress* It is the sense of Congress that eliminating duplicative requirements and approvals for commercial launch and reentry operations will promote and encourage the development of the commercial space sector.
+- **(b)** *Reaffirmation of policy* Congress reaffirms that the Secretary of Transportation, in overseeing and coordinating commercial launch and reentry operations, should—
+  - **(1)** promote commercial space launches and reentries by the private sector;
+  - **(2)** facilitate Government, State, and private sector involvement in enhancing U.S. launch sites and facilities;
+  - **(3)** protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and
+  - **(4)** consult with the head of another executive agency, including the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration, as necessary to provide consistent application of licensing requirements under chapter 509 of title 51, United States Code.
+- **(c)** *Requirements*
+  - **(1)** *In general* The Secretary of Transportation under section 50918 of title 51, United States Code, and subject to section 50905(b)(2)(C) of that title, shall consult with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and the heads of other executive agencies, as appropriate—
+    - **(A)** to identify all requirements that are imposed to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle; and
+    - **(B)** to evaluate the requirements identified in subparagraph (A) and, in coordination with the licensee or transferee and the heads of the relevant executive agencies—
+      - **(i)** determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency; and
+      - **(ii)** resolve any inconsistencies and remove any outmoded or duplicative requirements or approvals of the Federal Government relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle.
+  - **(2)** *Reports* Not later than 180 days after the date of enactment of this Act, and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the congressional defense committees a report that includes the following:
+    - **(A)** A description of the process for the application for and approval of a permit or license under chapter 509 of title 51, United States Code, for the commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, including the identification of—
+      - **(i)** any unique requirements for operating on a United States Government launch site, reentry site, or launch property; and
+      - **(ii)** any inconsistent, outmoded, or duplicative requirements or approvals.
+    - **(B)** A description of current efforts, if any, to coordinate and work across executive agencies to define interagency processes and procedures for sharing information, avoiding duplication of effort, and resolving common agency requirements.
+    - **(C)** Recommendations for legislation that may further—
+      - **(i)** streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and
+      - **(ii)** consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A).
+  - **(3)** *Definitions* For purposes of this subsection—
+    - **(A)** any applicable definitions set forth in section 50902 of title 51, United States Code, shall apply;
+    - **(B)** the terms “launch”, “reenter”, and “reentry” include landing of a launch vehicle or reentry vehicle; and
+    - **(C)** the terms “United States Government launch site” and “United States Government reentry site” include any necessary facility, at that location, that is commercially operated on United States Government property.
+
+## § 13. Space Launch System update
+
+- **(a)** *Chapter 701*
+  - **(1)** *Amendment* The chapter heading of chapter 701 of title 51, United States Code, is amended by striking “Space Shuttle” and inserting “Space Launch System”.
+  - **(2)** *Conforming amendment* The item relating to chapter 701 in the table of chapters at the beginning of title 51, United States Code, is amended by striking “Space Shuttle” and inserting “Space Launch System”.
+- **(b)** *Section 70101*
+  - **(1)** *Amendments* Section 70101 of title 51, United States Code, is amended—
+    - **(A)** in the section heading, by striking “space shuttle” and inserting “Space Launch System”; and
+    - **(B)** by striking “space shuttle” and inserting “Space Launch System”.
+  - **(2)** *Conforming amendment* The item relating section 70101 in the table of sections for chapter 701 of title 51, United States Code is amended by striking “space shuttle” and inserting “Space Launch System”.
+- **(c)** *Section 70102*
+  - **(1)** *Amendments* Section 70102 of title 51, United States Code, is amended—
+    - **(A)** in the section heading, by striking “Space shuttle” and inserting “Space Launch System”;
+    - **(B)** in subsection (a)(1)(A), by striking “space shuttle” both places it appears and inserting “Space Launch System”;
+    - **(C)** in subsection (a)(1)(A)(i), by inserting “directly to cis-lunar space and the regions of space beyond low-Earth orbit” after “human presence”;
+    - **(D)** in subsection (a)(1)(B), by striking “a shuttle launch” and inserting “a launch of the Space Launch System”;
+    - **(E)** in subsection (a)(2), by striking “a space shuttle mission” and inserting “a mission of the Space Launch System”;
+    - **(F)** in subsection (b)—
+      - **(i)** by striking “space shuttle” each place it appears and inserting “Space Launch System”; and
+      - **(ii)** by striking “from the shuttle” and inserting “from the Space Launch System”;
+    - **(G)** in subsection (c), by striking “space shuttle” and inserting “Space Launch System”; and
+    - **(H)** by adding at the end the following new subsection:
+      > - **(d)** *Definition* In this section, the term “Space Launch System” means the Space Launch System authorized under section 302 of the National Aeronautics and Space Administration Authorization Act of 2010.
+
+  - **(2)** *Conforming amendment* The item relating section 70102 in the table of sections for chapter 701 of title 51, United States Code is amended by striking “Space shuttle” and inserting “Space Launch System”.
+- **(d)** *Section 70103*
+  - **(1)** *Amendments* Section 70103 of title 51, United States Code, is amended—
+    - **(A)** in the section heading, by striking “space shuttle” and inserting “Space Launch System”; and
+    - **(B)** by striking “space shuttle” each place it appears and inserting “Space Launch System”.
+  - **(2)** *Conforming amendment* The item relating section 70103 in the table of sections for chapter 701 of title 51, United States Code is amended by striking “space shuttle” and inserting “Space Launch System”.

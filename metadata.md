@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2262
@@ -40,3 +40,8 @@ U.S. Commercial Space Launch Competitiveness Act
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-05-13 — Committee Consideration and Mark-up Session Held.
+- 2015-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.
+- 2015-05-18 — Placed on the Union Calendar, Calendar No. 85.
+- 2015-05-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-119.
+- 2015-05-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-119.
