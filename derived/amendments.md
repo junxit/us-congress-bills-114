@@ -1,7 +1,7 @@
 ---
 measure: H.R. 474
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 2021(e)(F) of title 38, United States Code, is amended by striking “2015” and inserting “2020”. | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1437f` | replace | Subsection (a) of section 2021 of title 38, United States Code, is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following: “reintegration into the labor force of—” | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437f` | replace | Subsection (a) of section 2021 of title 38, United States Code, is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following: | the bill quotes the text struck but describes what replaces it |

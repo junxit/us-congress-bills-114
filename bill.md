@@ -19,8 +19,9 @@ Section 2021(e)(F) of title 38, United States Code, is amended by striking “20
 
 ## § 3. Clarification of eligibility for services under homeless veterans reintegration programs
 
-Subsection (a) of section 2021 of title 38, United States Code, is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following: “reintegration into the labor force of—”
+Subsection (a) of section 2021 of title 38, United States Code, is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following:
 
-> - **(1)** homeless veterans;
-> - **(2)** veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance provided pursuant to section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)); and
-> - **(3)** veterans who are transitioning from being incarcerated.
+> -  reintegration into the labor force of—
+>   - **(1)** homeless veterans;
+>   - **(2)** veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance provided pursuant to section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)); and
+>   - **(3)** veterans who are transitioning from being incarcerated.
