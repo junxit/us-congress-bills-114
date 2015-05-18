@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1987
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -188,7 +188,7 @@ to guess them.
 
 ### 46 U.S.C. § 53101
 
-> in section 57501, by striking “titles V and VI” and inserting “title V” ; and
+> in section 57501, by striking “titles V and VI” and inserting “title V”; and
 
 | | |
 |---|---|
@@ -317,7 +317,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `46 U.S.C. § 53101` | repeal | Sections 601 through 606, 608 through 611, 613 through 616, 802, and 809 of the Merchant Marine Act, 1936 (46 U.S.C. 53101 note) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 53101` | replace | by striking so much as precedes the first sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 53101` | strike | by striking “That the provisions” and all that follows through “Commission; (2)” ; and | the bill quotes the text struck but describes what replaces it |
+| `46 U.S.C. § 53101` | strike | by striking “That the provisions” and all that follows through “Commission; (2)”; and | the bill quotes the text struck but describes what replaces it |
 | `46 U.S.C. § 53101` | redesignate | by redesignating clauses (3) and (4) as clauses (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 53101` | insert | The analysis for chapter 575, of title 46, United States Code, is amended by inserting after the item relating to section 57521 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 53101` | strike | Section 8103 of title 46, United States Code, is amended in subsections (c) and (d) by striking “or operating” each place it appears. | the bill quotes the text struck but describes what replaces it |

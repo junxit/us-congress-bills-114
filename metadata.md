@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1987
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1987
@@ -39,3 +39,9 @@ Coast Guard Authorization Act of 2015
 - 2015-05-15 — Placed on the Union Calendar, Calendar No. 81.
 - 2015-05-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-115.
 - 2015-05-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-115.
+- 2015-05-18 — Considered under suspension of the rules. (consideration: CR H3284-3293)
+- 2015-05-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1987.
+- 2015-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-18 — Mr. Graves (LA) moved to suspend the rules and pass the bill, as amended.
+- 2015-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3284-3291)
+- 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3284-3291)
