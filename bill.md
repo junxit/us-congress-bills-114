@@ -18,7 +18,7 @@ This Act may be cited as the “Veteran’s I.D. Card Act”.
 - **(a)** *Findings* Congress finds the following:
   - **(1)** Currently, veteran identification cards are issued to veterans who have either completed the statutory time-in-service requirement for retirement from the Armed Forces or who have received a medical-related discharge from the Armed Forces.
   - **(2)** A veteran who has served a minimum obligated time in service, but who does not meet the criteria described in paragraph (1), does not receive a means of identifying the veteran’s status as a veteran other than using the official DD–214 discharge papers of the veteran.
-  - **(3)** Goods, services, and promotional activities are often offered by public and private institutions to veterans who demonstrate proof of service in the military but it is impractical for a veteran to always carry official DD–214 discharge papers to demonstrate such proof.
+  - **(3)** Goods, services, and promotional activities are often offered by public and private institutions to veterans who demonstrate proof of service in the military, but it is impractical for a veteran to always carry official DD–214 discharge papers to demonstrate such proof.
   - **(4)** A general purpose veteran identification card made available to a veteran who does not meet the criteria described in paragraph (1) would be useful to such veteran in order to demonstrate the status of the veteran without having to carry and use official DD–214 discharge papers.
   - **(5)** The Department of Veterans Affairs has the infrastructure in place across the United States to produce photographic identification cards and accept a small payment to cover the cost of these cards.
 - **(b)** *Provision of veteran identification cards* Chapter 57 of title 38, United States Code, is amended by adding after section 5705 the following new section:
@@ -42,8 +42,11 @@ This Act may be cited as the “Veteran’s I.D. Card Act”.
   >   - **(2)**
   >     - **(A)** The fee charged under paragraph (1) shall equal an amount that the Secretary determines is necessary to issue an identification card under this section.
   >     - **(B)** In determining the amount of the fee under subparagraph (A), the Secretary shall ensure that the total amount of fees collected under paragraph (1) equals an amount necessary to carry out this section, including costs related to any additional equipment or personnel required to carry out this section.
-  >     - **(C)** The Secretary shall review and reassess the determination under subparagraph (A) during each five-year period in which the Secretary issues an identification card under this section.
-  >   - **(3)** Amounts collected under this subsection shall be deposited in an account of the Department available to carry out this section. Amounts so deposited shall be merged with amounts in such account and shall be subject to the same conditions and limitations as amounts otherwise in such account.
+  >     - **(C)** The Secretary shall review and reassess the determination under subparagraph (A) during each 5-year period in which the Secretary issues an identification card under this section.
+  >   - **(3)** Amounts collected under this subsection shall be deposited in an account of the Department available to carry out this section. Amounts so deposited shall be—
+  >     - **(A)** merged with amounts in such account;
+  >     - **(B)** available in such amounts as may be provided in appropriation Acts; and
+  >     - **(C)** subject to the same conditions and limitations as amounts otherwise in such account.
   > - **(d)** *Effect of card on benefits*
   >   - **(1)** An identification card issued under this section shall not serve as proof of any benefits that the veteran may be entitled to under this title.
   >   - **(2)** A covered veteran who is issued an identification card under this section shall not be entitled to any benefits under this title by reason of possessing such card.
