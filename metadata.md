@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 611
@@ -16,7 +16,7 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -33,6 +33,10 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Donnelly, Joe [D-IN] (D000607)
 
 ## Committees (1)
 
@@ -42,3 +46,7 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 
 - 2015-02-27 — Introduced in Senate
 - 2015-02-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2015-04-29 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-47.
+- 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-47.
+- 2015-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
