@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1158
@@ -16,7 +16,7 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
@@ -29,6 +29,8 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
 ## Committees (1)
 
@@ -39,3 +41,14 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - 2015-02-27 — Introduced in House
 - 2015-02-27 — Introduced in House
 - 2015-02-27 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-03-04 — Committee Consideration and Mark-up Session Held.
+- 2015-03-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-05-19 — Considered under suspension of the rules. (consideration: CR H3373-3377)
+- 2015-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1158.
+- 2015-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-19 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2015-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3373-3374)
+- 2015-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3373-3374)
+- 2015-05-19 — Placed on the Union Calendar, Calendar No. 89.
+- 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.
+- 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.
