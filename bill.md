@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2414
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2414
+
+> To facilitate the responsible communication of scientific and medical developments.
+
+## § 1. Facilitating responsible communication of scientific and medical developments
+
+- **(a)** *Guidance* Not later than 18 months after the date of enactment of this Act, the Secretary of Health and Human Services shall issue draft guidance on facilitating the responsible dissemination of truthful and non-misleading scientific and medical information not included in the approved labeling of drugs and devices.
+- **(b)** *Definition* In this section, the terms “drug” and “device” have the meaning given to such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
