@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 12 executed, 13 stated and not applied.
+26 amendatory instructions. 12 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -125,7 +125,7 @@ to guess them.
 
 ### 15 U.S.C. § 3719
 
-> in subsection (p)(2)(C), by striking “cash prizes” both places it occurs and inserting “cash prize purses”.
+> in subparagraph (C), by striking “cash prizes” both places it occurs and inserting “cash prize purses”; and
 
 | | |
 |---|---|
@@ -154,3 +154,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 3719` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3719` | insert | in paragraph (3)(B)(i), by inserting “competition” after “prize”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 3719` | insert | in subsection (n), by inserting “for both for-profit and nonprofit entities,” after “contract vehicle”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 3719` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

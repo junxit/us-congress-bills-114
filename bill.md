@@ -39,7 +39,7 @@ Section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 
 - **(7)** in subsection (l), by striking all after “may enter into” and inserting “a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity to administer the prize competition, subject to the provisions of this section.”;
 - **(8)** in subsection (m)—
   - **(A)** by amending paragraph (1) to read as follows:
-    > - **(1)** *In general* Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may accept funds from other Federal agencies, private sector for-profit entities, and nonprofit entities to support such prize competitions. The head of an agency may not give any special consideration to any private sector for-profit or nonprofit entity in return for a donation.
+    > - **(1)** *In general* Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may accept funds from other Federal agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any private sector for-profit or nonprofit entity in return for a donation.
 
   - **(B)** in paragraph (2), by striking “prize awards” and inserting “cash prize purses”;
   - **(C)** in paragraph (3)(A)—
@@ -51,4 +51,7 @@ Section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 
   - **(G)** in paragraph (4)(B), by striking “cash prizes” and inserting “cash prize purses”;
 - **(9)** in subsection (n), by inserting “for both for-profit and nonprofit entities,” after “contract vehicle”;
 - **(10)** in subsection (o)(1), by striking “or providing a prize” and insert “a prize competition or providing a cash prize purse”; and
-- **(11)** in subsection (p)(2)(C), by striking “cash prizes” both places it occurs and inserting “cash prize purses”.
+- **(11)** in subsection (p)(2)—
+  - **(A)** in subparagraph (C), by striking “cash prizes” both places it occurs and inserting “cash prize purses”; and
+  - **(B)** by adding at the end the following new subparagraph:
+    > - **(G)** *Plan* A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
