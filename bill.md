@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2448
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2448
+
+> To amend the Public Health Service Act to authorize a program of high-risk, high-reward research.
+
+## § 1. High-risk, high-reward research
+
+Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following:
+
+> ## § 409K. High-risk, high-reward research program
+>
+> The director of each national research institute shall, as appropriate—
+>
+> - **(1)** establish programs to conduct or support research projects that pursue innovative approaches to major contemporary challenges in biomedical research that involve inherent high risk, but have the potential to lead to breakthroughs; and
+> - **(2)** set aside a specific percentage of funding, to be determined by the Director of NIH for each national research institute, for such projects.
