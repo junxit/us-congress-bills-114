@@ -46,18 +46,18 @@ In accordance with NOAA’s critical mission to provide science, service, and st
 - **(a)** *In general* The Under Secretary, in collaboration with the American weather industry and academic partners, shall establish a tornado warning improvement and extension program.
 - **(b)** *Goal* The goal of such program shall be to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond one hour in advance.
 - **(c)** *Program plan* Not later than 6 months after the date of enactment of this Act, the Assistant Administrator for OAR, in coordination with the Assistant Administrator for NWS, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
-- **(d)** *Budget for plan* Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for OAR, in coordination with the Assistant Administrator for NWS, shall transmit annually to Congress a proposed budget corresponding to the activities identified in the plan.
+- **(d)** *Budget for plan* Following completion of the plan, the Assistant Administrator for OAR, in coordination with the Assistant Administrator for NWS, shall transmit annually to Congress a proposed budget corresponding to the activities identified in the plan.
 
 ## § 5. Hurricane Forecast Improvement Program
 
 - **(a)** *In general* The Under Secretary, in collaboration with the American weather industry and academic partners, shall maintain the Hurricane Forecast Improvement Program (HFIP).
 - **(b)** *Goal* The goal of such program shall be to develop and extend accurate hurricane forecasts and warnings in order to reduce loss of life, injury, and damage to the economy.
 - **(c)** *Program plan* Not later than 6 months after the date of enactment of this Act, the Assistant Administrator for OAR, in consultation with the Assistant Administrator for NWS, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
-- **(d)** *Budget for plan* Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for OAR, in consultation with the Assistant Administrator for NWS, shall transmit annually to Congress a proposed budget corresponding to the activities identified in the plan.
+- **(d)** *Budget for plan* Following completion of the plan, the Assistant Administrator for OAR, in consultation with the Assistant Administrator for NWS, shall transmit annually to Congress a proposed budget corresponding to the activities identified in the plan.
 
 ## § 6. Weather research and development planning
 
-Not later than 6 months after the date of enactment of this Act, and annually thereafter, the Under Secretary, acting through the Assistant Administrator for OAR, in coordination with the Assistant Administrators for NWS and NESDIS, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—
+Not later than 6 months after the date of enactment of this Act, and annually thereafter, the Assistant Administrator for OAR, in coordination with the Assistant Administrators for NWS and NESDIS, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—
 
 - **(1)** describes the forecasting skill and technology goals, objectives, and progress of NOAA in carrying out the program conducted under section 3;
 - **(2)** identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather mission of NWS to achieve a weather-ready Nation;
@@ -97,7 +97,7 @@ The Under Secretary shall—
 
 ## § 9. Computing resources prioritization report
 
-Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Under Secretary, acting through the NOAA Chief Information Officer, in coordination with the Assistant Administrator for OAR and the Assistant Administrator for NWS, shall produce and make publicly available a report that explains how NOAA intends to—
+Not later than 12 months after the date of enactment of this Act, and annually thereafter, the NOAA Chief Information Officer, in coordination with the Assistant Administrator for OAR and the Assistant Administrator for NWS, shall produce and make publicly available a report that explains how NOAA intends to—
 
 - **(1)** continually support upgrades to pursue the fastest, most powerful, and cost effective high performance computing technologies in support of its weather prediction mission;
 - **(2)** ensure a balance between the research to operations requirements to develop the next generation of regional and global models as well as highly reliable operational models;
@@ -134,7 +134,7 @@ Not later than 12 months after the date of enactment of this Act, and annually t
 - **(a)** *Establishment* The NOAA Science Advisory Board shall continue to maintain a standing working group named the Environmental Information Services Working Group (in this section referred to as the “Working Group”) to—
   - **(1)** provide advice for prioritizing weather research initiatives at NOAA to produce real improvement in weather forecasting;
   - **(2)** provide advice on existing or emerging technologies or techniques that can be found in private industry or the research community that could be incorporated into forecasting at NWS to improve forecasting skill;
-  - **(3)** identify opportunities to improve communications between weather forecasters, Federal, State, local, tribal, and other emergency management personnel, and the public; and to improve communications and partnerships among NOAA and the private and academic sectors; and
+  - **(3)** identify opportunities to improve communications between weather forecasters, Federal, State, local, and tribal emergency management personnel, and the public; and to improve communications and partnerships among NOAA and the private and academic sectors; and
   - **(4)** address such other matters as the Science Advisory Board requests of the Working Group.
 - **(b)** *Composition*
   - **(1)** *In General* The Working Group shall be composed of leading experts and innovators from all relevant fields of science and engineering including atmospheric chemistry, atmospheric physics, meteorology, hydrology, social science, risk communications, electrical engineering, and computer sciences. In carrying out this section, the Working Group may organize into subpanels.
@@ -163,14 +163,14 @@ Not later than 12 months after the date of enactment of this Act, and annually t
 - **(b)** *Goal* This program shall be designed to provide direct interaction between forecasters and talented academic and private sector researchers in an effort to bring innovation to forecasting tools and techniques available to the NWS.
 - **(c)** *Selection and appointment* Such fellows shall be competitively selected and appointed for a term not to exceed 1 year.
 
-## § 15. NOAA Weather Ready All Hazards Award Program
+## § 15. NOAA weather radio all hazards “Mark Trail” award program
 
-- **(a)** *Program* The Assistant Administrator for NWS is authorized to establish the NOAA Weather Ready All Hazards Award Program. This award program shall provide annual awards to honor individuals or organizations that use or provide NOAA Weather Radio All Hazards receivers or transmitters to save lives and protect property. Individuals or organizations that utilize other early warning tools or applications also qualify for this award.
-- **(b)** *Goal* This award program draws attention to the life-saving work of the NOAA Weather Ready All Hazards Program, as well as emerging tools and applications, that provide real-time warning to individuals and communities of severe weather or other hazardous conditions.
+- **(a)** *Program* The Assistant Administrator for NWS is authorized to establish the NOAA Weather Radio All Hazards “Mark Trail” Award Program. This award program shall provide annual awards to honor individuals or organizations that use or provide NOAA Weather Radio All Hazards receivers or transmitters to save lives and protect property. Individuals or organizations that utilize other early warning tools or applications also qualify for this award.
+- **(b)** *Goal* This award program draws attention to the life-saving work of the NOAA Weather Radio All Hazards program, as well as emerging tools and applications, that provide real-time warning to individuals and communities of severe weather or other hazardous conditions.
 - **(c)** *Program elements*
   - **(1)** *Nominations* Nominations for this award shall be made annually by the Weather Field Offices to the Assistant Administrator for NWS. Broadcast meteorologists, weather radio manufacturers and weather warning tool and application developers, emergency managers and public safety officials may nominate individuals and/or organizations to their local Weather Field Offices, but the final list of award nominees must come from the Weather Field Offices.
   - **(2)** *Selection of awardees* Annually, the Assistant Administrator for NWS shall choose winners of this award whose timely actions, based on NOAA weather radio all hazards receivers or transmitters or other early warning tools and applications, saved lives and/or property or demonstrated public service in support of weather or all hazard warnings.
-  - **(3)** *Award ceremony* The Assistant Administrator for NWS shall establish a means of making these awards to provide maximum public awareness of the importance of NOAA Weather Radio, and such other warning tools and applications as are represented in the awards.
+  - **(3)** *Award ceremony* The Assistant Administrator for NWS shall establish a means of making these awards to provide maximum public awareness of the important Weather Radio All Hazards program, and such other warning tools and applications as are represented in the awards.
 
 ## § 16. Definitions
 
