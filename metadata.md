@@ -1,7 +1,7 @@
 ---
 measure: H.R. 91
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 91
@@ -101,9 +101,10 @@ Veterans Identification Card Act 2015
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Nugent, Richard B. [R-FL-11] (N000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -123,3 +124,4 @@ Veterans Identification Card Act 2015
 - 2015-05-18 — Mr. Wenstrup moved to suspend the rules and pass the bill, as amended.
 - 2015-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 240). (text: CR H3263)
 - 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 240).(text: CR H3263)
+- 2015-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
