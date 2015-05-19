@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1987
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1987
@@ -23,9 +23,10 @@ Coast Guard Authorization Act of 2015
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Webster, Daniel [R-FL-10] (W000806)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Coast Guard Authorization Act of 2015
 - 2015-05-18 — Mr. Graves (LA) moved to suspend the rules and pass the bill, as amended.
 - 2015-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3284-3291)
 - 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3284-3291)
+- 2015-05-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
