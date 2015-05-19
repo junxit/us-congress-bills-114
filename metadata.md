@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1816
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1816
@@ -16,9 +16,10 @@ Vulnerable Veterans Housing Reform Act of 2015
 
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Vulnerable Veterans Housing Reform Act of 2015
 - 2015-05-18 — Mr. Luetkemeyer moved to suspend the rules and pass the bill, as amended.
 - 2015-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3264)
 - 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3264)
+- 2015-05-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
