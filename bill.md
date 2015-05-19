@@ -1,0 +1,28 @@
+---
+legis-num: S. 1370
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1370
+
+> To amend title 23, United States Code, to adequately fund bridges in the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Support for Bridges Act”.
+
+## § 2. Restoration of funding for bridges on Federal-aid highways
+
+- **(a)** *National Highway performance program* Section 104(b)(1) of title 23, United States Code, is amended by striking “63.7 percent” and inserting “49 percent”.
+- **(b)** *Surface transportation program* Section 104(b)(2) of title 23, United States Code, is amended by striking “29.3 percent” and inserting “44 percent”.
+
+## § 3. Bridges not on Federal-aid highways
+
+Section 133(g) of title 23, United States Code, is amended—
+
+- **(1)** in paragraph (1), by striking “highway” the first place it appears; and
+- **(2)** in paragraph (2)(A)—
+  - **(A)** by striking “2013” and inserting “2016”; and
+  - **(B)** by striking “except that amounts allocated under subsection (d) shall not be obligated” and inserting “except that amounts allocated under subsection (d)(1)(A) shall not be used”.
