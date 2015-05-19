@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1313
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1313
@@ -16,9 +16,10 @@ Service Disabled Veteran Owned Small Business Relief Act
 
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Service Disabled Veteran Owned Small Business Relief Act
 - 2015-05-18 — Mr. Wenstrup moved to suspend the rules and pass the bill.
 - 2015-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 241). (text: CR H32560)
 - 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 241).(text: CR H32560)
+- 2015-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
