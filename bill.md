@@ -1,0 +1,20 @@
+---
+legis-num: S. RES. 181
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 181
+
+> Designating May 19, 2015, as “National Schizencephaly Awareness Day”.
+
+## Preamble
+
+- Whereas schizencephaly is an extremely rare developmental birth defect characterized by abnormal slits, or clefts, in the brain;
+- Whereas individuals with bilateral schizencephaly, the more severe case, commonly have developmental delays, delays in speech and language skills, problems with brain-spinal cord communication, limited mobility, and shorter lifespans;
+- Whereas schizencephaly is the second rarest brain malformation, and only approximately 7,000 cases have ever been reported;
+- Whereas promoting education and increasing awareness among health professionals and families will lead to early intervention and treatment options for individuals with schizencephaly; and
+- Whereas continued Federal support for medical research will help identify causes, improve diagnostics, and develop promising treatments for schizencephaly: Now, therefore, be it
+
+That the Senate designates May 19, 2015, as “National Schizencephaly Awareness Day”.
