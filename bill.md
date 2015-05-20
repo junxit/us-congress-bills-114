@@ -68,3 +68,7 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
 - **(e)** *Effective date*
   - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2014.
   - **(2)** *Subsection (b)* The amendment made by subsection (b) shall apply to amounts paid or incurred after December 31, 2014.
+
+## § 3. Budgetary effects
+
+The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
