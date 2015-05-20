@@ -1,7 +1,7 @@
 ---
 measure: H.R. 874
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 874
@@ -28,9 +28,10 @@ American Super Computing Leadership Act
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ American Super Computing Leadership Act
 - 2015-05-19 — Placed on the Union Calendar, Calendar No. 87.
 - 2015-05-19 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-122.
 - 2015-05-19 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-122.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
