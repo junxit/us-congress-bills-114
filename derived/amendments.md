@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1806
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-134 amendatory instructions. 29 executed, 105 stated and not applied.
+128 amendatory instructions. 27 executed, 101 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 1862n-1
+
+> in subsection (e), by striking “subsection (g)” and inserting “subsection (h)”;
+
+| | |
+|---|---|
+| Removed | `subsection (g)` |
+| Inserted | `subsection (h)` |
 
 ### 42 U.S.C. § 6621
 
@@ -240,33 +249,6 @@ to guess them.
 | Removed | `Advanced fuel cycle initiative` |
 | Inserted | `Fuel cycle research and development` |
 
-### 42 U.S.C. § 7132
-
-> by striking “Under Secretary for Science” each place it appears and inserting “Under Secretary for Science and Energy”; and
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
-### 42 U.S.C. § 7381a
-
-> Section 3164(b)(1) of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381a(b)(1)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
-### 42 U.S.C. § 17231
-
-> Section 641(h)(2) of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231(h)(2)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
 ### 15 U.S.C. § 3710a
 
 > in subsection (b), by striking “subsection (a)(1)” each place it appears and inserting “subsection (a)(1)(A)”.
@@ -294,15 +276,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a)(2)(B), by inserting “or bachelor’s” after “master’s”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (2)(B); | the bill names no machine-readable US Code section |
-| — | insert | by inserting “for teachers with master’s degrees in their field” after “Teaching Fellowships”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (B) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking “subsection (g)” and inserting “subsection (h)”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (g) through (i) as subsections (h) through (j), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (f) the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n—1(i)(5)) is amended by inserting “computer science,” after “means a science,”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1862n-1` | insert | in subsection (a)(2)(B), by inserting “or bachelor’s” after “master’s”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | strike | by striking “and” at the end of paragraph (2)(B); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1862n-1` | insert | by inserting “for teachers with master’s degrees in their field” after “Teaching Fellowships”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | replace | by striking the period at the end of subparagraph (B) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | redesignate | by redesignating subsections (g) through (i) as subsections (h) through (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | insert | by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | insert | Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1(i)(5)) is amended by inserting “computer science,” after “means a science,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 6621` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (5) through (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6621` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6621` | redesignate | in paragraph (8), as so redesignated by subparagraph (A) of this paragraph, by striking “, periodically update,”; and | the bill quotes the text struck but describes what replaces it |
@@ -335,7 +316,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278n` | replace | in paragraph (4)(B), by striking “; and” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278n` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3706` | strike | Section 8(a) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3706(a)) is amended by striking “The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.”. | the bill quotes the text struck but describes what replaces it |
-| — | strike | Section 20(c)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 278g—3(c)(1)) is amended by striking “the National Security Agency,”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 278g-3` | strike | Section 20(c)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(c)(1)) is amended by striking “the National Security Agency,”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7139` | add-at-end | Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5541` | replace | Section 2 of the Department of Energy High-End Computing Revitalization Act of 2004 (15 U.S.C. 5541) is amended by striking paragraphs (1) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5542` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
@@ -392,9 +373,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16538` | insert | in subsection (i)(1), by inserting “ARPA–E shall not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commerciall… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16538` | insert | in subsection (l)(1), by inserting “and once every 6 years thereafter,” after “operation for 6 years,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16538` | redesignate | by redesignating subsection (n) as subsection (o) and inserting after subsection (m) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7132` | replace | in subparagraph (G), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | insert | by inserting after subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting the subparagraphs appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | replace | by striking “Each Federal agency” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 3710a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
