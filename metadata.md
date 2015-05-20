@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1561
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1561
@@ -25,9 +25,10 @@ Weather Research and Forecasting Innovation Act of 2016
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Weather Research and Forecasting Innovation Act of 2016
 - 2015-05-19 — Placed on the Union Calendar, Calendar No. 91.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-126.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-126.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
