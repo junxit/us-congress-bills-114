@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 47
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 47
@@ -26,3 +26,4 @@ To correct the enrollment of S. 178.
 - 2015-05-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3504)
 - 2015-05-20 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3198)
 - 2015-05-20 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3198)
+- 2015-05-21 — Message on Senate action sent to the House.

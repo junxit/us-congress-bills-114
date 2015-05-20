@@ -1,15 +1,17 @@
 ---
 legis-num: H. CON. RES. 47
-congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 47
 
 > To correct the enrollment of S. 178.
 
-That in the enrollment of S. 178, an Act to provide justice for the victims of trafficking, the Secretary of the Senate shall—
+That
+
+in the enrollment of S. 178, an Act to provide justice for the victims of trafficking, the Secretary of the Senate shall—
 
 - **(1)** in section 702(b)(2), insert “pilot program” after “identified by the”; and
 - **(2)** strike section 1002 and insert the following:
