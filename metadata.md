@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1156
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1156
@@ -25,9 +25,10 @@ International Science and Technology Cooperation Act of 2015
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ International Science and Technology Cooperation Act of 2015
 - 2015-05-19 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-123.
 - 2015-05-19 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-123.
 - 2015-05-19 — The title of the measure was amended. Agreed to without objection.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
