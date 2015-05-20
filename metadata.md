@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1119
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1119
@@ -22,9 +22,10 @@ Research and Development Efficiency Act
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Research and Development Efficiency Act
 - 2015-05-19 — Placed on the Union Calendar, Calendar No. 86.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-121.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-121.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
