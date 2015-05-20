@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 114
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 5 executed, 7 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,33 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 7132
-
-> by striking “Under Secretary for Science” each place it appears and inserting “Under Secretary for Science and Energy”; and
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
-### 42 U.S.C. § 7381a
-
-> Section 3164(b)(1) of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381a(b)(1)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
-### 42 U.S.C. § 17231
-
-> Section 641(h)(2) of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231(h)(2)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
 
 ### 15 U.S.C. § 3710a
 
@@ -78,9 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 7132` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7132` | replace | in subparagraph (G), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | insert | by inserting after subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting the subparagraphs appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | replace | by striking “Each Federal agency” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 3710a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

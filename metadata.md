@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1158
@@ -32,9 +32,10 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - 2015-05-19 — Placed on the Union Calendar, Calendar No. 89.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
