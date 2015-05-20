@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 273
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 273
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2262) to facilitate a pro-growth e
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2015-05-20 — [House 114-1-250](votes/house-114-1-0250.md) — On Ordering the Previous Question — **Passed** (241–183)
+- 2015-05-20 — [House 114-1-251](votes/house-114-1-0251.md) — On Agreeing to the Resolution — **Passed** (240–185)
+
 ## Actions
 
 - 2015-05-19 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2262) to facilitate a pro-growth e
 - 2015-05-19 — The House Committee on Rules reported an original measure, H. Rept. 114-127, by Mr. Stivers.
 - 2015-05-19 — The House Committee on Rules reported an original measure, H. Rept. 114-127, by Mr. Stivers.
 - 2015-05-19 — The resolution provides for consideration of H.R. 2262 and H.R. 880. In addition, the resolution provides for consideration of motions to suspend the rules; and provides for proceedings during the period from May 22, 2015, through May 29, 2015.
+- 2015-05-20 — Considered as privileged matter. (consideration: CR H3403-3410)
+- 2015-05-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 273.
+- 2015-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-05-20 — On agreeing to the resolution Agreed to by recorded vote: 240 - 185 (Roll no. 251). (text: CR H3403-3404)
+- 2015-05-20 — On ordering the previous question Agreed to by the Yeas and Nays: 241 - 183 (Roll no. 250). (consideration: CR H3408-3409)
+- 2015-05-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 240 - 185 (Roll no. 251).(text: CR H3403-3404)
