@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2250
@@ -16,9 +16,10 @@ Further Continuing Appropriations Act, 2016
 
 - Rep. Graves, Tom [R-GA-14] (G000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (3)
 
@@ -68,3 +69,4 @@ Further Continuing Appropriations Act, 2016
 - 2015-05-19 — The Speaker designated the Honorable Earl L. "Buddy" Carter to act as Chairman of the Committee.
 - 2015-05-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3359)
 - 2015-05-19 — The rule provides for consideration of H.R. 1806, H.R. 2250, and H.R. 2353.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
