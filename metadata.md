@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1162
@@ -31,9 +31,10 @@ Science Prize Competitions Act
 - Rep. Grayson, Alan [D-FL-9] (G000556)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Science Prize Competitions Act
 - 2015-05-19 — Placed on the Union Calendar, Calendar No. 90.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-125.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-125.
+- 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
