@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2353
@@ -59,3 +59,12 @@ Highway and Transportation Funding Act of 2015
 - 2015-05-19 — The rule provides for consideration of H.R. 1806, H.R. 2250, and H.R. 2353.
 - 2015-05-20 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-05-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.
+- 2015-05-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S3316)
+- 2015-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3316)
+- 2015-05-26 — Message on Senate action sent to the House.
+- 2015-05-26 — Presented to President.
+- 2015-05-26 — Presented to President.
+- 2015-05-29 — Became Public Law No: 114-21.
+- 2015-05-29 — Became Public Law No: 114-21.
+- 2015-05-29 — Signed by President.
+- 2015-05-29 — Signed by President.

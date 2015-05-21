@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
