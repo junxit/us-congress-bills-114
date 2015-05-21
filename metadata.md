@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 612
@@ -32,3 +32,5 @@ WIIN Act
 - 2015-05-04 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2015-05-04 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2015-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
+- 2015-05-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3249; text as passed Senate: CR S3249)
+- 2015-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3249; text as passed Senate: CR S3249)
