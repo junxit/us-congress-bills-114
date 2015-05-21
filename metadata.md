@@ -1,7 +1,7 @@
 ---
 measure: H.R. 880
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 880
@@ -86,3 +86,4 @@ American Research and Competitiveness Act of 2015
 - 2015-05-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3419)
 - 2015-05-20 — The previous question was ordered pursuant to the rule. (consideration: CR H3418)
 - 2015-05-20 — The resolution provides for consideration of H.R. 2262 and H.R. 880. In addition, the resolution provides for consideration of motions to suspend the rules; and provides for proceedings during the period from May 22, 2015, through May 29, 2015.
+- 2015-05-21 — Received in the Senate.
