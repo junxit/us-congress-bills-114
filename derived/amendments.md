@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
