@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2496
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2496
@@ -33,3 +33,12 @@ Construction Authorization and Choice Improvement Act
 - 2015-05-21 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3547)
 - 2015-05-21 — Received in the Senate, read twice.
 - 2015-05-21 — Referred to the House Committee on Veterans' Affairs.
+- 2015-05-22 — Became Public Law No: 114-19.
+- 2015-05-22 — Became Public Law No: 114-19.
+- 2015-05-22 — Message on Senate action sent to the House.
+- 2015-05-22 — Passed Senate without amendment by Voice Vote. (consideration: CR S3289-3290)
+- 2015-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3289-3290)
+- 2015-05-22 — Presented to President.
+- 2015-05-22 — Presented to President.
+- 2015-05-22 — Signed by President.
+- 2015-05-22 — Signed by President.
