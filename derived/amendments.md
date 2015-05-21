@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | repeal | Of the amounts appropriated to the Department of Veterans Affairs for fiscal year 2016 for “Medical Services”, “Medical Support and Compliance”, “Medical Facilities”, “Construction, Minor Projects”, and “Information Technology Systems”, … | the bill names no machine-readable US Code section |
+| — | repeal | Of the amounts appropriated to the Department of Veterans Affairs for fiscal year 2016 for “Medical Services”, “Medical Support and Compliance”, “Medical Facilities”, “Construction, Minor Projects”, and “Information Technology Systems”, … | the bill names no machine-readable US Code section |
+| — | insert | Section 2302(a)(2)(A)(viii) of title 5, United States Code, is amended by inserting “or under title 38” after “of this title”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 312 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

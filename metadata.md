@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2029
@@ -366,3 +366,6 @@ Consolidated Appropriations Act, 2016
 - 2015-04-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2709)
 - 2015-04-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2015-05-04 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2015-05-21 — Committee on Appropriations. Reported by Senator Kirk with an amendment in the nature of a substitute. With written report No. 114-57.
+- 2015-05-21 — Committee on Appropriations. Reported by Senator Kirk with an amendment in the nature of a substitute. With written report No. 114-57.
+- 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
