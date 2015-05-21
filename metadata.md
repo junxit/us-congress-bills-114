@@ -1,7 +1,7 @@
 ---
 measure: S. 802
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 802
@@ -16,9 +16,12 @@ Girls Count Act of 2015
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Girls Count Act of 2015
 
 - 2015-03-19 — Introduced in Senate
 - 2015-03-19 — Read twice and referred to the Committee on Foreign Relations.
+- 2015-05-21 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-05-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2015-05-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
