@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1806
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1806
@@ -29,11 +29,12 @@ America COMPETES Reauthorization Act of 2015
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 - Rep. Bridenstine, Jim [R-OK-1] (B001283)
 
-## Committees (3)
+## Committees (4)
 
 - House — Science, Space, and Technology Committee
 - House — Education and the Workforce Committee
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (7)
 
@@ -171,3 +172,4 @@ America COMPETES Reauthorization Act of 2015
 - 2015-05-20 — The Speaker designated the Honorable Kevin Yoder to act as Chairman of the Committee.
 - 2015-05-20 — The previous question was ordered pursuant to the rule. (consideration: CR H3489)
 - 2015-05-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-05-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
