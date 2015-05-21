@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1735
@@ -286,3 +286,4 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-05-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3234)
 - 2015-05-15 — The previous question was ordered pursuant to the rule. (consideration: CR H3233)
 - 2015-05-15 — The title of the measure was amended. Agreed to without objection.
+- 2015-05-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
