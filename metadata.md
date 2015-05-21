@@ -1,7 +1,7 @@
 ---
 measure: S. 143
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 143
@@ -16,6 +16,12 @@ United States Merchant Marine Academy Improvements Act of 2015
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
+## Cosponsors (3)
+
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
@@ -24,3 +30,7 @@ United States Merchant Marine Academy Improvements Act of 2015
 
 - 2015-01-09 — Introduced in Senate
 - 2015-01-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2015-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-51.
+- 2015-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-51.
+- 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
