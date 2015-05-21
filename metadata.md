@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2028
@@ -545,3 +545,6 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2015-05-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2781)
 - 2015-05-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
 - 2015-05-05 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2015-05-21 — Committee on Appropriations. Reported by Senator Alexander with an amendment in the nature of a substitute. With written report No. 114-54.
+- 2015-05-21 — Committee on Appropriations. Reported by Senator Alexander with an amendment in the nature of a substitute. With written report No. 114-54.
+- 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
