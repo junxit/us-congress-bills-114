@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 501
@@ -20,9 +20,10 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 - 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
 - 2015-05-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3249-3250; text as passed Senate: CR S3249-3250)
 - 2015-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3249-3250; text as passed Senate: CR S3249-3250)
+- 2015-05-22 — Message on Senate action sent to the House.
+- 2015-05-22 — Received in the House.
+- 2015-05-22 — Referred to the House Committee on Natural Resources.
