@@ -1,7 +1,7 @@
 ---
 measure: S. 261
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 261
@@ -16,9 +16,10 @@ A bill to designate the United States courthouse located at 200 NW 4th Street in
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to designate the United States courthouse located at 200 NW 4th Street in
 - 2015-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
 - 2015-05-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3249; text as passed Senate: CR S3249)
 - 2015-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3249; text as passed Senate: CR S3249)
+- 2015-05-22 — Message on Senate action sent to the House.
+- 2015-05-22 — Received in the House.
+- 2015-05-22 — Referred to the House Committee on Transportation and Infrastructure.
