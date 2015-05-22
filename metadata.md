@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1314
@@ -16,14 +16,278 @@ Bipartisan Budget Act of 2015
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Cosponsors (2)
+## Cosponsors (250)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Reed, Tom [R-NY-23] (R000585)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (13)
+
+- 2015-05-12 — [Senate 114-1-176](votes/senate-114-1-0176.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (52–45)
+- 2015-05-14 — [Senate 114-1-180](votes/senate-114-1-0180.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–33)
+- 2015-05-18 — [Senate 114-1-181](votes/senate-114-1-0181.md) — On the Amendment — **Amendment Rejected** (45–41)
+- 2015-05-18 — [Senate 114-1-182](votes/senate-114-1-0182.md) — On the Amendment — **Amendment Agreed to** (92–0)
+- 2015-05-21 — [Senate 114-1-183](votes/senate-114-1-0183.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–38)
+- 2015-05-22 — [Senate 114-1-186](votes/senate-114-1-0186.md) — On the Amendment — **Amendment Agreed to** (70–29)
+- 2015-05-22 — [Senate 114-1-187](votes/senate-114-1-0187.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2015-05-22 — [Senate 114-1-188](votes/senate-114-1-0188.md) — On the Amendment — **Amendment Rejected** (39–60)
+- 2015-05-22 — [Senate 114-1-189](votes/senate-114-1-0189.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2015-05-22 — [Senate 114-1-190](votes/senate-114-1-0190.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2015-05-22 — [Senate 114-1-191](votes/senate-114-1-0191.md) — On the Amendment — **Amendment Agreed to** (62–37)
+- 2015-05-22 — [Senate 114-1-192](votes/senate-114-1-0192.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
+- 2015-05-22 — [Senate 114-1-193](votes/senate-114-1-0193.md) — On Passage of the Bill — **Bill Passed** (62–37)
 
 ## Actions
 
@@ -43,3 +307,331 @@ Bipartisan Budget Act of 2015
 - 2015-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2235)
 - 2015-04-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
+- 2015-05-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S2663)
+- 2015-05-07 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S2699, S2726; text: CR S2699)
+- 2015-05-07 — Motion to proceed to consideration of measure made in Senate.
+- 2015-05-12 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 176. (consideration: CR S2786-2787; text: CR S2786)
+- 2015-05-12 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 176) entered in Senate. (consideration: CR S2787)
+- 2015-05-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S2787-2792)
+- 2015-05-12 — Senate amendment submitted
+- 2015-05-13 — Motion to proceed to measure considered in Senate. (consideration: CR S2792)
+- 2015-05-13 — Senate amendment submitted
+- 2015-05-14 — Amendment SA 1221 proposed by Senator Hatch. (consideration: CR S2926) In the nature of a substitute.
+- 2015-05-14 — Amendment SA 1237 proposed by Senator Hatch for Senator Lankford to Amendment SA 1221. (consideration: CR S2926; text: CR S2926) To establish consideration of the conditions relating to religious freedom of parties to trade negotiations as an overall negotiating objective of the United States.
+- 2015-05-14 — Amendment SA 1242 proposed by Senator Brown to Amendment SA 1221. (consideration: CR S2926-2927; text: CR S2926) To restore funding for the trade adjustment assistance program to the level established by the Trade Adjustment Assistance Extension Act of 2011.
+- 2015-05-14 — Amendment SA 1243 proposed by Senator Hatch for Senator Flake to Amendment SA 1221. (consideration: CR S2926; text: CR S2926) To strike the extension of the trade adjustment assistance program.
+- 2015-05-14 — Measure laid before Senate by motion. (consideration: CR S2926-2927)
+- 2015-05-14 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Roll Call Vote No. 176) agreed to in Senate by Unanimous Consent. (consideration: CR S2912)
+- 2015-05-14 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S2914-2926)
+- 2015-05-14 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 176) agreed to in Senate by Unanimous Consent. (consideration: CR S2908-2912)
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1221 proposed by Senator Hatch.(consideration: CR S2926)
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Hatch for Senator Lankford to Amendment SA 1221.(consideration: CR S2926; text: CR S2926)
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1242 proposed by Senator Brown to Amendment SA 1221.(consideration: CR S2926-2927; text: CR S2926)
+- 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1243 proposed by Senator Hatch for Senator Flake to Amendment SA 1221.(consideration: CR S2926; text: CR S2926)
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Senate amendment submitted
+- 2015-05-14 — Upon reconsideration, cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 180. (consideration: CR S2912-2913; text: CR S2912)
+- 2015-05-18 — Amendment SA 1226 proposed by Senator Hatch for Senator McCain to Amendment SA 1221. (consideration: CR S2966-2967; text: CR S2967) To repeal a duplicative inspection and grading program.
+- 2015-05-18 — Amendment SA 1227 proposed by Senator Wyden for Senator Shaheen to Amendment SA 1221. (consideration: CR S2968) To make trade agreements work for small businesses.
+- 2015-05-18 — Amendment SA 1237 as modified, under the order of 5/14/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 0. Record Vote Number: 182.
+- 2015-05-18 — Amendment SA 1242, under the order of 5/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 41. Record Vote Number: 181.
+- 2015-05-18 — Amendment SA 1251 proposed by Senator Brown to Amendment SA 1221. (consideration: CR S2967-2968; text: CR S2967) To require the approval of Congress before additional countries may join the Trans-Pacific Partnership Agreement.
+- 2015-05-18 — Amendment SA 1299 proposed by Senator Stabenow for Senator Portman to Amendment SA 1221. (consideration: CR S2967; text: CR S2967) To make it a principal negotiating objective of the United States to address currency manipulation in trade agreements.
+- 2015-05-18 — Amendment SA 1312 proposed by Senator Hatch for Senator Inhofe to Amendment SA 1221. (consideration: CR S2966-2967; text as modified: CR S2966-2967) To amend the African Growth and Opportunity Act to require the development of a plan for each sub-Saharan African country for negotiating and entering into free trade agreements.
+- 2015-05-18 — Amendment SA 1327 proposed by Senator Wyden for Senator Warren to Amendment SA 1221. (consideration: CR S2968; text: CR S2968) To prohibit the application of the trade authorities procedures to an implementing bill submitted with respect to a trade agreement that includes investor-state dispute settlement.
+- 2015-05-18 — Considered by Senate. (consideration: CR S2951)
+- 2015-05-18 — Considered by Senate. (consideration: CR S2951, S2954-2957, S2962-2964)
+- 2015-05-18 — Considered by Senate. (consideration: CR S2951, S2960-2961; text as modified: CR S2961)
+- 2015-05-18 — Considered by Senate. (consideration: CR S2951, S2966-2967)
+- 2015-05-18 — Considered by Senate. (consideration: CR S2951-2968)
+- 2015-05-18 — Roll call votes on amendments in Senate: Amendment SA 1237 as modified, under the order of 5/14/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 0. Record Vote Number: 182.
+- 2015-05-18 — Roll call votes on amendments in Senate: Amendment SA 1242, under the order of 5/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 41. Record Vote Number: 181.
+- 2015-05-18 — Senate amendment agreed to: Amendment SA 1237 as modified, under the order of 5/14/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 0. Record Vote Number: 182.
+- 2015-05-18 — Senate amendment not agreed to: Amendment SA 1242, under the order of 5/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 41. Record Vote Number: 181.
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1226 proposed by Senator Hatch for Senator McCain to Amendment SA 1221.(consideration: CR S2966-2967; text: CR S2967)
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1227 proposed by Senator Wyden for Senator Shaheen to Amendment SA 1221.(consideration: CR S2968)
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1251 proposed by Senator Brown to Amendment SA 1221.(consideration: CR S2967-2968; text: CR S2967)
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1299 proposed by Senator Stabenow for Senator Portman to Amendment SA 1221.(consideration: CR S2967; text: CR S2967)
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1312 proposed by Senator Hatch for Senator Inhofe to Amendment SA 1221.(consideration: CR S2966-2967; text as modified: CR S2966-2967)
+- 2015-05-18 — Senate amendment proposed (on the floor): Amendment SA 1327 proposed by Senator Wyden for Senator Warren to Amendment SA 1221.(consideration: CR S2968; text: CR S2968)
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-18 — Senate amendment submitted
+- 2015-05-19 — Amendment SA 1411 proposed by Senator Hatch to language proposed to be stricken by amendment no. 1299. (consideration: CR S3052, S3053; text: CR S3052; text as modified: CR S3053) Of a perfecting nature.
+- 2015-05-19 — Cloture motion on amendment SA 1221 presented in Senate. (consideration: CR S3051; text: CR S3051)
+- 2015-05-19 — Cloture motion on the measure presented in Senate. (consideration: CR S3052; text: CR S3052)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3017)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3017-3022)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3022-3024, S3052, S3052-3053)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3024-3025, S3052)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3025-3026, S3031-3033, S3033-3051)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015, S3026-3030)
+- 2015-05-19 — Considered by Senate. (consideration: CR S3015-3024, S3024-3053)
+- 2015-05-19 — Senate amendment proposed (on the floor): Amendment SA 1411 proposed by Senator Hatch to language proposed to be stricken by amendment no. 1299.(consideration: CR S3052, S3053; text: CR S3052; text as modified: CR S3053)
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-19 — Senate amendment submitted
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092, S3107-3109, S3112-3113)
+- 2015-05-20 — Considered by Senate. (consideration: CR S3092-3175)
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-20 — Senate amendment submitted
+- 2015-05-21 — Cloture invoked in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 183. (consideration: CR S3206-3207; text: CR S3206-3207)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202, S3206-3207)
+- 2015-05-21 — Considered by Senate. (consideration: CR S3202-3207, S3209-3212, S3225-2231)
+- 2015-05-21 — Roll call votes on amendments in Senate: Cloture invoked in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 183.(consideration: CR S3206-3207; text: CR S3206-3207)
+- 2015-05-21 — Senate amendment submitted
+- 2015-05-22 — Amendment SA 1221 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 191.
+- 2015-05-22 — Amendment SA 1226 ruled non-germane by the chair.
+- 2015-05-22 — Amendment SA 1227 ruled non-germane by the chair.
+- 2015-05-22 — Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 190.
+- 2015-05-22 — Amendment SA 1251 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 189.
+- 2015-05-22 — Amendment SA 1299 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2015-05-22 — Amendment SA 1312 as modified ruled non-germane by the chair.
+- 2015-05-22 — Amendment SA 1327 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 188.
+- 2015-05-22 — Amendment SA 1411 as modified agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 186.
+- 2015-05-22 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 192. (consideration: CR S3295-3296; text: CR S3295)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3256-3259, S3265-3267, S3267-3269, S3274, S3280-3283, S3292-3293)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3291-3292)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3293)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3293)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3293-3294)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3294)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3294)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3294-3295)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256, S3295)
+- 2015-05-22 — Considered by Senate. (consideration: CR S3256-3259, S3265-3267, S3267-3269, S3274, S3280-3283, S3290-3298)
+- 2015-05-22 — Passed Senate with an amendment by Yea-Nay Vote. 62 - 37. Record Vote Number: 193.
+- 2015-05-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 37. Record Vote Number: 193.
+- 2015-05-22 — Point of order raised in Senate with respect to amendment SA 1226.
+- 2015-05-22 — Point of order raised in Senate with respect to amendment SA 1227.
+- 2015-05-22 — Point of order raised in Senate with respect to amendment SA 1312 as modified.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1221 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 191.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 190.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1251 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 189.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1299 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1327 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 188.
+- 2015-05-22 — Roll call votes on amendments in Senate: Amendment SA 1411 as modified agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 186.
+- 2015-05-22 — Senate amendment agreed to: Amendment SA 1221 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 191.
+- 2015-05-22 — Senate amendment agreed to: Amendment SA 1411 as modified agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 186.
+- 2015-05-22 — Senate amendment not agreed to: Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 190.
+- 2015-05-22 — Senate amendment not agreed to: Amendment SA 1251 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 189.
+- 2015-05-22 — Senate amendment not agreed to: Amendment SA 1299 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2015-05-22 — Senate amendment not agreed to: Amendment SA 1327 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 188.
+- 2015-05-22 — Senate amendment submitted
+- 2015-05-22 — Senate amendment submitted
