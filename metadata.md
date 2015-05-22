@@ -1,7 +1,7 @@
 ---
 measure: S. 565
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 565
@@ -16,9 +16,11 @@ Federal Vehicle Repair Cost Savings Act of 2015
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Federal Vehicle Repair Cost Savings Act of 2015
 
 - 2015-02-25 — Introduced in Senate
 - 2015-02-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-03-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-59.
+- 2015-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-59.
+- 2015-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
