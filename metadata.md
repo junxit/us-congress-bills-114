@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 156
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 156
@@ -29,3 +29,7 @@ A resolution expressing the sense of the Senate with respect to childhood stroke
 
 - 2015-04-30 — Introduced in Senate
 - 2015-04-30 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2578-2579)
+- 2015-05-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-05-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-05-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S3318)
+- 2015-05-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S3318)
