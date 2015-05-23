@@ -1,7 +1,7 @@
 ---
 measure: S. 802
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 802
@@ -38,3 +38,18 @@ Girls Count Act of 2015
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
 - 2015-05-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3317-3318; text as passed Senate: CR S3317-3318)
 - 2015-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3317-3318; text as passed Senate: CR S3317-3318)
+- 2015-05-26 — Held at the desk.
+- 2015-05-26 — Message on Senate action sent to the House.
+- 2015-05-26 — Received in the House.
+- 2015-06-01 — Considered under suspension of the rules. (consideration: CR H3624-3627)
+- 2015-06-01 — DEBATE - The House proceeded with forty minutes of debate on S. 802.
+- 2015-06-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-01 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3624-3625)
+- 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3624-3625)
+- 2015-06-03 — Presented to President.
+- 2015-06-03 — Presented to President.
+- 2015-06-12 — Became Public Law No: 114-24.
+- 2015-06-12 — Became Public Law No: 114-24.
+- 2015-06-12 — Signed by President.
+- 2015-06-12 — Signed by President.
