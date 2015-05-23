@@ -32,16 +32,15 @@ Congress makes the following findings:
 It is the policy of the United States to—
 
 - **(1)** encourage countries to support the rule of law and ensure girls and boys of all ages are able to fully participate in society, including by providing birth certifications and other official documentation;
-- **(2)** enhance training and capacity-building in key developing countries, local nongovernmental organizations, and other civil society organizations, including organizations representing children and families in the design, implementation, and monitoring of programs under this Act, to effectively address the needs of birth registries in countries where girls are systematically undercounted; and
+- **(2)** enhance training and capacity-building in key developing countries, local nongovernmental organizations, and other civil society organizations, including faith-based organizations and organizations representing children and families in the design, implementation, and monitoring of programs under this Act, to effectively address the needs of birth registries in countries where girls are systematically undercounted; and
 - **(3)** incorporate into the design, implementation, and evaluation of policies and programs measures to evaluate the impact that such policies and programs have on girls.
 
 ## § 4. United States assistance to support counting of girls in the developing world
 
 - **(a)** *Authorization* The Secretary and the Administrator are authorized to prioritize and advance ongoing efforts to—
   - **(1)** support programs that will contribute to improved and sustainable Civil Registration and Vital Statistics Systems (CRVS) with a focus on birth registration;
-  - **(2)** support programs that build the capacity of developing countries’ national and local legal and policy frameworks to prevent discrimination against girls;
-  - **(3)** support programs to help increase property rights, social security, home ownership, land tenure security, and inheritance rights, particularly for women; and
-  - **(4)** assist key ministries in the governments of key developing countries, including health, interior, youth, and education ministries, to ensure that girls and boys from poor households have equitable access to social programs.
+  - **(2)** support programs that build the capacity of developing countries’ national and local legal and policy frameworks to prevent discrimination against girls in gaining access to birth certificates, particularly where this may help prevent exploitation, violence, and other abuse; and
+  - **(3)** support programs and key ministries, including, interior, youth, and education ministries, to help increase property rights, social security, home ownership, land tenure security, inheritance rights, access to education, and economic and entrepreneurial opportunities, particularly for women and girls.
 - **(b)** *Coordination with multilateral organizations* The Secretary and the Administrator are authorized to coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
 - **(c)** *Coordination with private sector and civil society organizations* The Secretary and the Administrator are authorized to work with the United States, international, and local private sector and civil society organizations to advocate for the registration and documentation of all girls and boys in developing countries, in order to help prevent exploitation, violence, and other abuses and to help provide economic and social opportunities.
 
