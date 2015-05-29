@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2088
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2088
@@ -31,3 +31,8 @@ United States Grain Standards Act Reauthorization Act of 2015
 - 2015-04-29 — Introduced in House
 - 2015-04-29 — Introduced in House
 - 2015-04-29 — Referred to the House Committee on Agriculture.
+- 2015-04-30 — Committee Consideration and Mark-up Session Held.
+- 2015-04-30 — Ordered to be Reported by Voice Vote.
+- 2015-05-29 — Placed on the Union Calendar, Calendar No. 96.
+- 2015-05-29 — Reported by the Committee on Agriculture. H. Rept. 114-133.
+- 2015-05-29 — Reported by the Committee on Agriculture. H. Rept. 114-133.
