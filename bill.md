@@ -47,7 +47,7 @@ This Act may be cited as the “Mandatory Price Reporting Act of 2015”.
 
 ## § 4. Lamb reporting
 
-Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations so that—
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—
 
 - **(1)** the definition of the term importer—
   - **(A)** includes only those importers that imported an average of 1,000 metric tons of lamb meat products per year during the immediately preceding 4 calendar years; and
@@ -55,7 +55,7 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 - **(2)** the definition of the term packer—
   - **(A)** applies to any entity with 50 percent or more ownership in a facility;
   - **(B)** includes a federally inspected lamb processing plant which slaughtered or processed the equivalent of an average of 35,000 head of lambs per year during the immediately preceding 5 calendar years; and
-  - **(C)** may include any other lamb processing plant that did not meet not meet the requirement referred to in subparagraph (B), if the Secretary determines that the processing plant should be considered a packer after considering its capacity.
+  - **(C)** may include any other lamb processing plant that did not meet the requirement referred to in subparagraph (B), if the Secretary determines that the processing plant should be considered a packer after considering its capacity.
 
 ## § 5. Study on livestock mandatory reporting
 
