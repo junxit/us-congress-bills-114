@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Agricultural Marketing Act of 1946 to repeal country of origin labeling requirements with respect to beef, pork, and chicken, and for other purposes.
 
-## § 1. Repeal of country of origin labeling requirements for beef, pork, and chicken
+## § 1. Short title
+
+This Act may be cited as the “Country of Origin Labeling Amendments Act of 2015”.
+
+## § 2. Repeal of country of origin labeling requirements for beef, pork, and chicken
 
 - **(a)** *Definitions* Section 281 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638) is amended—
   - **(1)** by striking paragraphs (1) and (7);

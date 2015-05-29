@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2393
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2393
@@ -16,7 +16,7 @@ Country of Origin Labeling Amendments Act of 2015
 
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Cosponsors (56)
+## Cosponsors (82)
 
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Rouzer, David [R-NC-7] (R000603)
@@ -74,6 +74,32 @@ Country of Origin Labeling Amendments Act of 2015
 - Rep. Rice, Tom [R-SC-7] (R000597)
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Hardy, Cresent [R-NV-4] (H001070)
 
 ## Committees (1)
 
@@ -84,3 +110,8 @@ Country of Origin Labeling Amendments Act of 2015
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Referred to the House Committee on Agriculture.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 6.
+- 2015-05-29 — Placed on the Union Calendar, Calendar No. 94.
+- 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-131.
+- 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-131.
