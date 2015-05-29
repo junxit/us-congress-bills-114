@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2289
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2289
@@ -16,10 +16,11 @@ Commodity End-User Relief Act
 
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Scott, Austin [R-GA-8] (S001189)
 - Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (1)
 
@@ -30,3 +31,6 @@ Commodity End-User Relief Act
 - 2015-05-13 — Introduced in House
 - 2015-05-13 — Introduced in House
 - 2015-05-13 — Referred to the House Committee on Agriculture.
+- 2015-05-29 — Placed on the Union Calendar, Calendar No. 97.
+- 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-134.
+- 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-134.
