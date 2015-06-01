@@ -1,7 +1,7 @@
 ---
 measure: S. 246
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 246
@@ -16,7 +16,7 @@ Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Cosponsors (24)
+## Cosponsors (26)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Tester, Jon [D-MT] (T000464)
@@ -42,10 +42,13 @@ Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Daines, Steve [R-MT] (D000618)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -55,3 +58,8 @@ Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
 - 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-39.
 - 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-39.
 - 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
+- 2015-06-01 — Message on Senate action sent to the House.
+- 2015-06-01 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3381-3385; text as passed Senate: CR S3381-3383)
+- 2015-06-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3381-3385; text as passed Senate: CR S3381-3383)
+- 2015-06-01 — Received in the House.
+- 2015-06-01 — Referred to the House Committee on Natural Resources.

@@ -189,4 +189,4 @@ In this Act:
 - **(k)** *Effect* This Act shall not be construed to recognize or establish a government-to-government relationship with—
   - **(1)** any entity not recognized on or before the date of enactment of this Act by the Federal Government through an Act of Congress, Executive action, judicial decree, or any other action; or
   - **(2)** any entity not included in the list authorized pursuant to the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a et seq.).
-- **(l)** *Funding* Out of any unobligated amounts made available to the Secretary, the Attorney General, or the Secretary of Health and Human Services, the Attorney General shall make not more than $2,000,000 available to the Commission to carry out this Act.
+- **(l)** *Funding* There is authorized to be appropriated to carry out this Act $2,000,000.
