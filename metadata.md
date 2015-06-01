@@ -1,7 +1,7 @@
 ---
 measure: S. 246
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 246
