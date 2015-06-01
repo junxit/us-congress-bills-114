@@ -1,7 +1,7 @@
 ---
 measure: H.R. 944
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 944
@@ -41,3 +41,9 @@ To reauthorize the National Estuary Program, and for other purposes.
 - 2015-05-08 — Placed on the Union Calendar, Calendar No. 73.
 - 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-104.
 - 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-104.
+- 2015-06-01 — Considered under suspension of the rules. (consideration: CR H3618-3619)
+- 2015-06-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 944.
+- 2015-06-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-01 — Mr. Gibbs moved to suspend the rules and pass the bill.
+- 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3618)
+- 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3618)
