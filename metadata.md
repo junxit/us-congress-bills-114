@@ -1,7 +1,7 @@
 ---
 measure: S. 184
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 184
@@ -38,3 +38,15 @@ Native American Children's Safety Act
 - 2015-06-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3381-3385; text as passed Senate: CR S3383-3384)
 - 2015-06-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3381-3385; text as passed Senate: CR S3383-3384)
 - 2015-06-01 — Received in the House.
+- 2016-05-23 — Considered under suspension of the rules. (consideration: CR H2894-2896)
+- 2016-05-23 — DEBATE - The House proceeded with forty minutes of debate on S. 184.
+- 2016-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-23 — Mr. Cook moved to suspend the rules and pass the bill.
+- 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2894-2895)
+- 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2894-2895)
+- 2016-05-27 — Presented to President.
+- 2016-05-27 — Presented to President.
+- 2016-06-03 — Became Public Law No: 114-165.
+- 2016-06-03 — Became Public Law No: 114-165.
+- 2016-06-03 — Signed by President.
+- 2016-06-03 — Signed by President.
