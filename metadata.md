@@ -1,7 +1,7 @@
 ---
 measure: H.R. 533
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 533
@@ -39,3 +39,9 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2015-04-15 — Placed on the Union Calendar, Calendar No. 56.
 - 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-77.
 - 2015-04-15 — Reported by the Committee on Natural Resources. H. Rept. 114-77.
+- 2015-06-01 — Considered under suspension of the rules. (consideration: CR H3588-3589)
+- 2015-06-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 533.
+- 2015-06-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-01 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3588)
+- 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3588)
