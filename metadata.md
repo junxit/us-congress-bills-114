@@ -1,7 +1,7 @@
 ---
 measure: H.R. 336
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 336
@@ -32,3 +32,9 @@ To direct the Administrator of General Services, on behalf of the Archivist of t
 - 2015-05-08 — Placed on the Union Calendar, Calendar No. 72.
 - 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-103.
 - 2015-05-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-103.
+- 2015-06-01 — Considered under suspension of the rules. (consideration: CR H3617-3618)
+- 2015-06-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 336.
+- 2015-06-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-01 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3617-3618)
+- 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3617-3618)
