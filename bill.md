@@ -201,7 +201,7 @@ Section 304(d)(2) (16 U.S.C. 1854(d)(2)) is amended by adding at the end the fol
       >   - **(B)** the heads of the other Federal agencies agree—
       >     - **(i)** to maintain the confidentiality of the information in accordance with the requirements that apply to the Secretary under this section; and
       >     - **(ii)** to use the information only for the purposes for which it was shared with the agencies.
-      > - **(5)** The Secretary may not provide any vessel-specific or aggregate vessel information from a fishery that is collected for monitoring and enforcement purposes to any person for the purposes of coastal and marine spatial planning under Executive Order 13547, unless the Secretary determines that providing such information is important for maintaining or enhancing national security or for ensuring fishermen continued access to fishing grounds.
+      > - **(5)** The Secretary may not provide any vessel-specific or aggregate vessel information from a fishery that is collected for monitoring and enforcement purposes to any person for the purposes of coastal and marine spatial planning under Executive Order No. 13547, unless the Secretary determines that providing such information is important for maintaining or enhancing national security or for ensuring fishermen continued access to fishing grounds.
 
   - **(2)** *confidential information defined* Section 3 (16 U.S.C. 1802) is further amended by inserting after paragraph (4) the following:
     > - **(4a)** The term “confidential information” means—
@@ -216,8 +216,9 @@ Section 304(d)(2) (16 U.S.C. 1854(d)(2)) is amended by adding at the end the fol
   >     - **(A)** The Secretary, subject to appropriations, may obligate for data collection purposes in accordance with prioritizations under paragraph (3) a portion of amounts received by the United States as fisheries enforcement penalties.
   >     - **(B)** Amounts may be obligated under this paragraph only in the fishery management region with respect to which they are collected.
   >   - **(2)** *Included purposes* The purposes referred to in paragraph (1) include—
-  >     - **(A)** the use of State personnel and resources, including fishery survey vessels owned and maintained by States to survey or assess data-poor fisheries for which fishery management plans are in effect under this Act; and
-  >     - **(B)** cooperative research activities authorized under section 318 to improve or enhance the fishery independent data used in fishery stock assessments.
+  >     - **(A)** the use of State personnel and resources, including fishery survey vessels owned and maintained by States to survey or assess data-poor fisheries for which fishery management plans are in effect under this Act;
+  >     - **(B)** cooperative research activities authorized under section 318 to improve or enhance the fishery independent data used in fishery stock assessments; and
+  >     - **(C)** fishery research and independent stock assessments, conservation gear engineering, at-sea and shoreside monitoring, fishery impact statements, and other priorities established by the Council as necessary to rebuild or maintain sustainable fisheries, ensure healthy ecosystems, and maintain fishing communities.
   >   - **(3)** *Data-poor fisheries priority lists* Each Council shall—
   >     - **(A)** identify those fisheries in its region considered to be data-poor fisheries;
   >     - **(B)** prioritize those fisheries based on the need of each fishery for up-to-date information; and
@@ -285,7 +286,7 @@ Section 306(a)(3)(C) (16 U.S.C. 1856(a)(3)(C)) is amended—
 
 ## § 15. Ensuring consistent management for fisheries throughout their range
 
-- **(a)** *In general* The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) is amended by inserting after section 4 the following:
+- **(a)** *In general* The Act is amended by inserting after section 4 the following:
   > ## § 5. Ensuring consistent fisheries management under certain other Federal laws
   >
   > - **(a)** *National Marine Sanctuaries Act and Antiquities Act of 1906* In any case of a conflict between this Act and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.) or the Antiquities Act of 1906 (16 U.S.C. 431 et seq.), this Act shall control.
@@ -398,22 +399,84 @@ Section 313 (16 U.S.C. 1862) is amended by adding at the end the following:
 
 Section 402(e) (16 U.S.C. 1881a(e)) is amended by adding at the end the following:
 
-> - **(4)** The Secretary shall require that in the hiring of individuals to collect information regarding marine recreational fishing under this subsection, preference shall be given to individuals who are students studying water resource issues at an institution of higher education.
+> - **(4)** The Secretary shall, to the extent practicable, when hiring individuals to collect information regarding marine recreational fishing under this subsection, give preference to students studying fisheries conservation and management, water resource issues, or other relevant subjects at an institution of higher education in the United States.
 
 ## § 27. Process for allocation review for South Atlantic and Gulf of Mexico mixed-use fisheries
 
 - **(a)** *Study of allocations in mixed-use fisheries* Not later than 60 days after the date of the enactment of this Act, the Secretary of Commerce shall enter into an arrangement with the National Academy of Sciences to conduct a study of the South Atlantic and Gulf of Mexico mixed-use fisheries—
-  - **(1)** to provide guidance to Regional Fishery Management Councils established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852) on criteria that could be used for allocating fishing privileges, including consideration of the conservation and socioeconomic benefits of the commercial, recreational, and charter components of a fishery, in the preparation of a fishery management plan under that Act;
+  - **(1)** to provide guidance to the South Atlantic Fishery Management Council and Gulf of Mexico Fishery Management Council on criteria that could be used for allocating fishing privileges, including consideration of the conservation and socioeconomic benefits of the commercial, recreational, and charter components of a fishery, in the preparation of a fishery management plan under that Act;
   - **(2)** to identify sources of information that could reasonably support the use of such criteria in allocation decisions; and
   - **(3)** to develop procedures for allocation reviews and potential adjustments in allocations based on the guidelines and requirements established by this section.
 - **(b)** *Process for allocation review and establishment* The South Atlantic Fishery Management Council and the Gulf of Mexico Fishery Management Council shall—
-  - **(1)** within 2 years after the date of the enactment of this Act, review the allocations of all mixed-use fisheries in the Councils’ respective jurisdictions; and
+  - **(1)** within 2 years after the date of the enactment of this Act, review the allocations of all mixed-use fisheries in the Councils’ respective jurisdictions;
   - **(2)** every 3 years thereafter, perform subsequent reviews of such allocations; and
   - **(3)** consider the conservation and socioeconomic benefits of each sector in any allocation decisions for such fisheries.
 
-## § 28. Authorization of appropriations
+## § 28. Requirements for limited access privileges
+
+Section 3303A(c)(1)(G) (16 U.S.C. 1853a(c)(1)(G)) is amended to read as follows:
+
+> - **(G)** include provisions for a formal and detailed review 5 years after the implementation of the program, and thereafter the regular monitoring and review by the Council and the Secretary of the operations and impacts of the program, to coincide with scheduled Council review of the relevant fishery management plan (but no less frequently than once every 7 years) including—
+>   - **(i)** determining progress in meeting the goals of the program and this Act;
+>   - **(ii)** delineating the positive and negative economic effects of the program on fishermen and processors who are part of the program and the coastal communities in which they reside; and
+>   - **(iii)** any necessary modification of the program to meet those goals, including a formal schedule for action to be taken within 2 years;
+
+## § 29. Healthy fisheries through better science
+
+- **(a)** *Definition of stock assessment* Section 3 (16 U.S.C. 1802), as amended by section 23(a) of this Act, is further amended by redesignating the paragraphs after paragraph (42) in order as paragraphs (44) through (53), and by inserting after paragraph (42) the following:
+  > - **(43)** The term “stock assessment” means an evaluation of the past, present, and future status of a stock of fish, that includes—
+  >   - **(A)** a range of life history characteristics for such stock, including—
+  >     - **(i)** the geographical boundaries of such stock; and
+  >     - **(ii)** information on age, growth, natural mortality, sexual maturity and reproduction, feeding habits, and habitat preferences of such stock; and
+  >   - **(B)** fishing for the stock.
+
+- **(b)** *Stock assessment plan*
+  - **(1)** *In general* Section 404 (16 U.S.C. 1881c), as amended by section 10(d) of this Act, is further amended by adding at the end the following:
+    > - **(f)** *Stock assessment plan*
+    >   - **(1)** *In general* The Secretary shall develop and publish in the Federal Register, on the same schedule as required for the strategic plan required under subsection (b) of this section, a plan to conduct stock assessments for all stocks of fish for which a fishery management plan is in effect under this Act.
+    >   - **(2)** *Contents* The plan shall—
+    >     - **(A)** for each stock of fish for which a stock assessment has previously been conducted—
+    >       - **(i)** establish a schedule for updating the stock assessment that is reasonable given the biology and characteristics of the stock; and
+    >       - **(ii)** subject to the availability of appropriations, require completion of a new stock assessment, or an update of the most recent stock assessment—
+    >         - **(I)** every 5 years; or
+    >         - **(II)** within such other time period specified and justified by the Secretary in the plan;
+    >     - **(B)** for each stock of fish for which a stock assessment has not previously been conducted—
+    >       - **(i)** establish a schedule for conducting an initial stock assessment that is reasonable given the biology and characteristics of the stock; and
+    >       - **(ii)** subject to the availability of appropriations, require completion of the initial stock assessment within 3 years after the plan is published in the Federal Register unless another time period is specified and justified by the Secretary in the plan; and
+    >     - **(C)** identify data and analysis, especially concerning recreational fishing, that, if available, would reduce uncertainty in and improve the accuracy of future stock assessments, including whether such data and analysis could be provided by fishermen, fishing communities, universities, and research institutions.
+    >   - **(3)** *Waiver of stock assessment requirement* Notwithstanding subparagraphs (A)(ii) and (B)(ii), a stock assessment is not required for a stock of fish in the plan if the Secretary determines that such a stock assessment is not necessary and justifies such determination in the Federal Register notice required by this subsection.
+
+  - **(2)** *Deadline* Notwithstanding paragraph (1) of section 404(f) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by this section, the Secretary of Commerce shall issue the first stock assessment plan under such section by not later than 2 years after the date of enactment of this Act.
+- **(c)** *Improving science*
+  - **(1)** *Incorporation of information from wide variety of sources* Section 2(a)(8) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801) is amended by adding at the end the following: “Fisheries management is most effective when it incorporates information provided by governmental and nongovernmental sources, including State and Federal agency staff, fishermen, fishing communities, universities, and research institutions. As appropriate, such information should be considered the best scientific information available and form the basis of conservation and management measures as required by this Act.”.
+  - **(2)** *Improving data collection and analysis* Section 404 (16 U.S.C. 1881c), as amended by this section, is further amended by adding at the end the following:
+    > - **(g)** *Improving data collection and analysis*
+    >   - **(1)** *In general* The Secretary, in consultation with the Councils acting in reliance on their science and statistical committees established under section 302(g), shall develop and publish in the Federal Register guidelines that will facilitate greater incorporation of data, analysis, and stock assessments from nongovernmental sources, including fishermen, fishing communities, universities, and research institutions, into fisheries management decisions.
+    >   - **(2)** *Content* The guidelines shall—
+    >     - **(A)** identify types of data and analysis, especially concerning recreational fishing, that can be reliably used as the basis for establishing conservation and management measures as required by section 303(a)(1), including setting standards for the collection and use of such data and analysis in stock assessments and for other purposes; and
+    >     - **(B)** provide specific guidance for collecting data and performing analyses identified as necessary to reduce the uncertainty referred to in section 404(f)(2)(C).
+    >   - **(3)** *Acceptance and use of data and analyses* The Secretary and Regional Fishery Management Councils shall—
+    >     - **(A)** use all data and analyses that meet the guidelines published under paragraph (1) as the best scientific information available for purposes of this Act in fisheries management decisions, unless otherwise determined by the science and statistical committee of the Councils established pursuant to section 302(g) of the Act; and
+    >     - **(B)** explain in the Federal Register notice announcing the fishery management decision how such data and analyses have been used to establish conservation and management measures.
+
+  - **(3)** *Deadline* The Secretary of Commerce shall develop and publish guidelines under the amendment made by paragraph (2) by not later than 1 year after the date of enactment of this Act.
+- **(d)** *Cost reduction report* Within 1 year after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Regional Fishery Management Councils, shall submit a report to Congress that, with respect to each fishery governed by a fishery management plan in effect under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)—
+  - **(1)** identifies the goals of the applicable programs governing monitoring and enforcement of fishing that is subject to such plan;
+  - **(2)** identifies methods to accomplish those goals, including human observers, electronic monitoring, and vessel monitoring systems;
+  - **(3)** certifies which such methods are most cost-effective for fishing that is subject to such plan; and
+  - **(4)** explains why such most-cost-effective methods are not required, if applicable.
+
+## § 30. Authorization of appropriations
 
 Section 4 (16 U.S.C. 1803) is amended—
 
 - **(1)** by striking “this Act” and all that follows through “(7)” and inserting “this Act”; and
 - **(2)** by striking “fiscal year 2013” and inserting “each of fiscal years 2015 through 2019”.
+
+## § 31. Authority to use alternative fishery management measures
+
+Section 302(h) (16 U.S.C. 1852(h)) is amended—
+
+- **(1)** by redesignating paragraph (8) as paragraph (9); and
+- **(2)** by inserting after paragraph (7), the following:
+  > - **(8)** have the authority to use alternative fishery management measures in a recreational fishery (or the recreational component of a mixed-use fishery), including extraction rates, fishing mortality targets, and harvest control rules, in developing a fishery management plan, plan amendment, or proposed regulations.
