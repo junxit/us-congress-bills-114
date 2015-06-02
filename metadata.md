@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1493
@@ -27,12 +27,13 @@ Protect and Preserve International Cultural Property Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 
-## Committees (4)
+## Committees (5)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Judiciary Committee
 - House — Armed Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Protect and Preserve International Cultural Property Act
 - 2015-06-01 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2015-06-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3627-3629)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3627-3629)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
