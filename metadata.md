@@ -1,7 +1,7 @@
 ---
 measure: H.R. 979
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 979
@@ -71,9 +71,10 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - 2015-06-01 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3589-3590)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3589-3590)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
