@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1168
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1168
@@ -39,3 +39,4 @@ Native American Children's Safety Act
 - 2015-06-01 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3587)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3587)
+- 2015-06-02 — Received in the Senate.
