@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1335
@@ -22,9 +22,10 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Byrne, Bradley [R-AL-1] (B001289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (4)
 
@@ -122,3 +123,4 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - 2015-06-01 — The Speaker designated the Honorable Chris Collins to act as Chairman of the Committee.
 - 2015-06-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3622)
 - 2015-06-01 — The previous question was ordered pursuant to the rule. (consideration: CR H3621)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
