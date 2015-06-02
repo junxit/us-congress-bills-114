@@ -1,7 +1,7 @@
 ---
 measure: H.R. 533
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 533
@@ -47,3 +47,14 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3588)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3588)
 - 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2015-06-24 — Message on Senate action sent to the House.
+- 2015-06-24 — Passed Senate without amendment by Unanimous Consent.
+- 2015-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-06-24 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S4608)
+- 2015-06-24 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S4608)
+- 2015-06-26 — Presented to President.
+- 2015-06-26 — Presented to President.
+- 2015-07-06 — Became Public Law No: 114-28.
+- 2015-07-06 — Became Public Law No: 114-28.
+- 2015-07-06 — Signed by President.
+- 2015-07-06 — Signed by President.
