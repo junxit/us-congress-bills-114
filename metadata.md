@@ -1,7 +1,7 @@
 ---
 measure: H.R. 336
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 336
@@ -16,9 +16,10 @@ To direct the Administrator of General Services, on behalf of the Archivist of t
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To direct the Administrator of General Services, on behalf of the Archivist of t
 - 2015-06-01 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3617-3618)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3617-3618)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
