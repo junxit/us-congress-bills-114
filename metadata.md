@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 48
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 48
@@ -36,3 +36,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2015-06-01 — Mr. Harper asked unanimous consent to discharge from committee and consider. (consideration: CR H3624)
 - 2015-06-01 — On agreeing to the resolution Agreed to without objection. (text: CR H3624)
 - 2015-06-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3624)
+- 2015-06-02 — Received in the Senate.
