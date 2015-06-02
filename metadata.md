@@ -1,7 +1,7 @@
 ---
 measure: H.R. 533
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 533
@@ -22,9 +22,10 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2015-06-01 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3588)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3588)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
