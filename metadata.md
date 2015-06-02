@@ -1,7 +1,7 @@
 ---
 measure: H.R. 944
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 944
@@ -25,9 +25,10 @@ To reauthorize the National Estuary Program, and for other purposes.
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To reauthorize the National Estuary Program, and for other purposes.
 - 2015-06-01 — Mr. Gibbs moved to suspend the rules and pass the bill.
 - 2015-06-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3618)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3618)
+- 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
