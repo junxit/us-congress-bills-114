@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 48
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 48
@@ -37,3 +37,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2015-06-01 — On agreeing to the resolution Agreed to without objection. (text: CR H3624)
 - 2015-06-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3624)
 - 2015-06-02 — Received in the Senate.
+- 2015-06-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3728)
+- 2015-06-03 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3728)
