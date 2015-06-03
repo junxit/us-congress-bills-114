@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 288
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 288
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 2289) to reauthorize the Commodity
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2015-06-03 — [House 114-1-274](votes/house-114-1-0274.md) — On Agreeing to the Resolution — **Passed** (243–182)
+
 ## Actions
 
 - 2015-06-02 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 2289) to reauthorize the Commodity
 - 2015-06-02 — Resolution provides authority for the Committee on Appropriations to have until 5 p.m. Friday, June 5, 2015, to file privileged reports to accompany measures making appropriations for the fiscal year ending Sept. 30, 2016.
 - 2015-06-02 — The House Committee on Rules reported an original measure, H. Rept. 114-136, by Mr. Newhouse.
 - 2015-06-02 — The House Committee on Rules reported an original measure, H. Rept. 114-136, by Mr. Newhouse.
+- 2015-06-03 — Considered as privileged matter. (consideration: CR H3773-3781)
+- 2015-06-03 — DEBATE - The House proceeded with one hour of debate on H. Res. 288.
+- 2015-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-03 — On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 182 (Roll no. 274). (text: CR H3773-3774)
+- 2015-06-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 182 (Roll no. 274).(text: CR H3773-3774)
+- 2015-06-03 — The previous question was ordered without objection. (consideration: CR H3780)
