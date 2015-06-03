@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 87
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 87
@@ -16,7 +16,7 @@ A resolution to express the sense of the Senate regarding the rise of anti-Semit
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (60)
+## Cosponsors (61)
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -78,6 +78,7 @@ A resolution to express the sense of the Senate regarding the rise of anti-Semit
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -91,3 +92,5 @@ A resolution to express the sense of the Senate regarding the rise of anti-Semit
 - 2015-05-21 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-05-21 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.
+- 2015-06-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3728)
+- 2015-06-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3728)
