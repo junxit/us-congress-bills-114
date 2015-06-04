@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2146
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2146
@@ -47,3 +47,13 @@ Defending Public Safety Employees' Retirement Act
 - 2015-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 5 (Roll no. 220). (text: CR H2848)
 - 2015-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 5 (Roll no. 220).(text: CR H2848)
 - 2015-05-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2015-06-04 — Amendment SA 1782 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1782 proposed by Senator McConnell for Senator Toomey. (consideration: CR S3844; text: CR S3844) To change the effective date.
+- 2015-06-04 — Measure laid before Senate by unanimous consent. (consideration: CR S3844)
+- 2015-06-04 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-06-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-06-04 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2015-06-04 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1782 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1782 proposed by Senator McConnell for Senator Toomey.(consideration: CR S3844; text: CR S3844)
+- 2015-06-04 — Senate amendment submitted
