@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 114
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
