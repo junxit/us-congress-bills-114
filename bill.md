@@ -1,0 +1,22 @@
+---
+legis-num: H. RES. 302
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 302
+
+> Observing the 100th birthday of the late Les Paul, the “Wizard of Waukesha”, and honoring his contributions to the American music industry.
+
+## Preamble
+
+- Whereas Les Paul was born on June 9, 1915, in Waukesha, Wisconsin, and June 9, 2015, marks the centennial day of his birth;
+- Whereas Les Paul served in the Armed Forces Radio Network during World War II;
+- Whereas Les Paul is acknowledged for his contributions leading to the solid-body electric guitar, and a number of innovative sound-recording techniques; and
+- Whereas Les Paul is a member of both the Rock and Roll Hall of Fame and the National Inventors Hall of Fame: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes and celebrates the 100th birthday of Les Paul; and
+- **(2)** commemorates his contributions to American society as a gifted musician, inventor, and musical pioneer.
