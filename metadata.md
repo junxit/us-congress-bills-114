@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2394
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2394
@@ -16,9 +16,10 @@ National Forest Foundation Reauthorization Act of 2015
 
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ National Forest Foundation Reauthorization Act of 2015
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Referred to the House Committee on Agriculture.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-06-04 — Placed on the Union Calendar, Calendar No. 98.
+- 2015-06-04 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-138.
+- 2015-06-04 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-138.

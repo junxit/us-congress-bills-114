@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2394
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,23 @@ to guess them.
 |---|---|
 | Removed | `during the five-year period” and all that follows through “$1,000,000 annually` |
 | Inserted | `there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018` |
+
+### 16 U.S.C. § 583j-2
+
+> Section 404(b) of the National Forest Foundation Act (16 U.S.C. 583j–2(b)) is amended by striking “under this paragraph” and inserting “by subsection (a)(4)”.
+
+| | |
+|---|---|
+| Removed | `under this paragraph` |
+| Inserted | `by subsection (a)(4)` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 583j-5` | strike | Section 407(b) of the National Forest Foundation Act (16 U.S.C. 583j–5(b)) is amended by striking the comma after “The Foundation shall”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
