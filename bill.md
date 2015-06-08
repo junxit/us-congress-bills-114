@@ -35,7 +35,8 @@ This Act may be cited as the “National Forest Small Tracts Act Amendments Act 
   - **(4)** by adding at the end the following new subsection:
     > - **(c)** *Disposition of proceeds*
     >   - **(1)** *Deposit in sisk fund* The net proceeds derived from any sale or exchange conducted under the authority of paragraph (4), (5), or (6) of section 3 shall be deposited in the fund established by Public Law 90–171 (commonly known as the Sisk Act; 16 U.S.C. 484a).
-    >   - **(2)** *Use* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for—
+    >   - **(2)** *Use* Amounts deposited under paragraph (1) shall be available to the Secretary until expended, for—
     >     - **(A)** the acquisition of land or interests in land for administrative sites for the National Forest System in the State from which the amounts were derived;
-    >     - **(B)** the acquisition of land or interests in land for inclusion in the National Forest System in that State, including land or interests in land which enhance opportunities for recreational access; or
-    >     - **(C)** the performance of deferred maintenance on administrative sites for the National Forest System in that State or other deferred maintenance activities in that State which enhance opportunities for recreational access.
+    >     - **(B)** the acquisition of land or interests in land for inclusion in the National Forest System in that State, including land or interests in land which enhance opportunities for recreational access;
+    >     - **(C)** the performance of deferred maintenance on administrative sites for the National Forest System in that State or other deferred maintenance activities in that State which enhance opportunities for recreational access; or
+    >     - **(D)** the reimbursement of the Secretary for costs incurred in preparing a sale conducted under the authority of section 3 if the sale is a competitive sale.

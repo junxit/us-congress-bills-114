@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
