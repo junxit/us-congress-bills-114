@@ -1,7 +1,7 @@
 ---
 measure: H.R. 889
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 889
@@ -31,3 +31,10 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - 2015-02-11 — Introduced in House
 - 2015-02-11 — Introduced in House
 - 2015-02-11 — Referred to the House Committee on the Judiciary.
+- 2015-03-16 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2015-03-23 — Subcommittee on the Constitution and Civil Justice Discharged.
+- 2015-03-24 — Committee Consideration and Mark-up Session Held.
+- 2015-03-24 — Ordered to be Reported by Voice Vote.
+- 2015-06-08 — Placed on the Union Calendar, Calendar No. 101.
+- 2015-06-08 — Reported by the Committee on Judiciary. H. Rept. 114-141.
+- 2015-06-08 — Reported by the Committee on Judiciary. H. Rept. 114-141.
