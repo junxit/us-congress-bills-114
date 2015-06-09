@@ -19,7 +19,7 @@ Part B of title III of the Energy Policy and Conservation Act (42 U.S.C. 6291 et
   >     - **(i)** *Activation lock* The term activation lock means a control mechanism (either a physical device directly on the water heater or a control system integrated into the water heater) that is locked by default and contains a physical, software, or digital communication that must be activated with an activation key to enable the product to operate at its designed specifications and capabilities and without which activation the product will provide not greater than 50 percent of the rated first hour delivery of hot water certified by the manufacturer.
   >     - **(ii)** *Grid-enabled water heater* The term grid-enabled water heater means an electric resistance water heater that—
   >       - **(I)** has a rated storage tank volume of more than 75 gallons;
-  >       - **(II)** is manufactured on or after April 16, 2016;
+  >       - **(II)** is manufactured on or after April 16, 2015;
   >       - **(III)** has—
   >         - **(aa)** an energy factor of not less than 1.061 minus the product obtained by multiplying—
   >           - **(AA)** the rated storage volume of the tank, expressed in gallons; and
