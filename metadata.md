@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2577
@@ -20,6 +20,40 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 
 - House — Appropriations Committee
 
+## Recorded votes (31)
+
+- 2015-06-04 — [House 114-1-298](votes/house-114-1-0298.md) — On Agreeing to the Amendment — **Failed** (166–255)
+- 2015-06-04 — [House 114-1-299](votes/house-114-1-0299.md) — On Agreeing to the Amendment — **Agreed to** (235–189)
+- 2015-06-04 — [House 114-1-300](votes/house-114-1-0300.md) — question not recorded (0–0)
+- 2015-06-04 — [House 114-1-301](votes/house-114-1-0301.md) — On Agreeing to the Amendment — **Failed** (176–247)
+- 2015-06-04 — [House 114-1-302](votes/house-114-1-0302.md) — On Agreeing to the Amendment — **Failed** (160–266)
+- 2015-06-04 — [House 114-1-303](votes/house-114-1-0303.md) — On Agreeing to the Amendment — **Failed** (143–283)
+- 2015-06-04 — [House 114-1-304](votes/house-114-1-0304.md) — On Agreeing to the Amendment — **Failed** (139–286)
+- 2015-06-04 — [House 114-1-305](votes/house-114-1-0305.md) — On Agreeing to the Amendment — **Failed** (202–222)
+- 2015-06-04 — [House 114-1-306](votes/house-114-1-0306.md) — On Agreeing to the Amendment — **Failed** (176–247)
+- 2015-06-04 — [House 114-1-307](votes/house-114-1-0307.md) — On Agreeing to the Amendment — **Agreed to** (224–198)
+- 2015-06-04 — [House 114-1-308](votes/house-114-1-0308.md) — On Agreeing to the Amendment — **Failed** (184–230)
+- 2015-06-09 — [House 114-1-310](votes/house-114-1-0310.md) — On Agreeing to the Amendment — **Failed** (163–259)
+- 2015-06-09 — [House 114-1-311](votes/house-114-1-0311.md) — On Agreeing to the Amendment — **Agreed to** (229–193)
+- 2015-06-09 — [House 114-1-312](votes/house-114-1-0312.md) — On Agreeing to the Amendment — **Failed** (136–286)
+- 2015-06-09 — [House 114-1-313](votes/house-114-1-0313.md) — On Agreeing to the Amendment — **Failed** (163–260)
+- 2015-06-09 — [House 114-1-314](votes/house-114-1-0314.md) — On Agreeing to the Amendment — **Failed** (205–218)
+- 2015-06-09 — [House 114-1-315](votes/house-114-1-0315.md) — On Agreeing to the Amendment — **Failed** (186–237)
+- 2015-06-09 — [House 114-1-316](votes/house-114-1-0316.md) — On Agreeing to the Amendment — **Failed** (157–266)
+- 2015-06-09 — [House 114-1-317](votes/house-114-1-0317.md) — On Agreeing to the Amendment — **Failed** (148–275)
+- 2015-06-09 — [House 114-1-318](votes/house-114-1-0318.md) — On Agreeing to the Amendment — **Failed** (134–287)
+- 2015-06-09 — [House 114-1-319](votes/house-114-1-0319.md) — On Agreeing to the Amendment — **Agreed to** (244–181)
+- 2015-06-09 — [House 114-1-320](votes/house-114-1-0320.md) — On Agreeing to the Amendment — **Agreed to** (246–180)
+- 2015-06-09 — [House 114-1-321](votes/house-114-1-0321.md) — On Agreeing to the Amendment — **Agreed to** (240–186)
+- 2015-06-09 — [House 114-1-322](votes/house-114-1-0322.md) — On Agreeing to the Amendment — **Failed** (199–227)
+- 2015-06-09 — [House 114-1-323](votes/house-114-1-0323.md) — On Agreeing to the Amendment — **Agreed to** (231–195)
+- 2015-06-09 — [House 114-1-324](votes/house-114-1-0324.md) — On Agreeing to the Amendment — **Failed** (182–243)
+- 2015-06-09 — [House 114-1-325](votes/house-114-1-0325.md) — On Agreeing to the Amendment — **Failed** (212–214)
+- 2015-06-09 — [House 114-1-326](votes/house-114-1-0326.md) — On Agreeing to the Amendment — **Agreed to** (241–184)
+- 2015-06-09 — [House 114-1-327](votes/house-114-1-0327.md) — On Agreeing to the Amendment — **Agreed to** (297–129)
+- 2015-06-09 — [House 114-1-328](votes/house-114-1-0328.md) — On Motion to Recommit with Instructions — **Failed** (181–244)
+- 2015-06-09 — [House 114-1-329](votes/house-114-1-0329.md) — On Passage — **Passed** (216–210)
+
 ## Actions
 
 - 2015-03-11 — Committee on Appropriations Senate Subcommittee on Transportation, Housing and Urban Development, and Related Agencies . Hearings held on the subject prior to measure being received from the House. Hearings printed: S. Hrg. 114-615.
@@ -29,3 +63,618 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 - 2015-05-27 — Placed on the Union Calendar, Calendar No. 92.
 - 2015-05-27 — The House Committee on Appropriations reported an original measure, H. Rept. 114-129, by Mr. Diaz-Balart.
 - 2015-05-27 — The House Committee on Appropriations reported an original measure, H. Rept. 114-129, by Mr. Diaz-Balart.
+- 2015-06-01 — Rules Committee Resolution H. Res. 287 Reported to House. Resolution provides for consideration of both H.R. 2577 and H.R. 2578 under modified open rules.
+- 2015-06-03 — Amendment (A001) offered by Mr. Dent. (consideration: CR H3830-3832; text: CR H3830)
+- 2015-06-03 — Amendment (A002) offered by Mrs. Bustos. (consideration: CR H3832; text: CR H3832)
+- 2015-06-03 — Amendment (A003) offered by Mr. Meehan. (consideration: CR H3832; text: CR H3832)
+- 2015-06-03 — Amendment (A004) offered by Mr. Burgess. (consideration: CR H3832-3833; text: CR H3832-3833)
+- 2015-06-03 — Amendment (A005) offered by Ms. Waters, Maxine. (consideration: CR H3833-3834; text: CR H3833)
+- 2015-06-03 — Amendment (A006) offered by Ms. Waters, Maxine. (consideration: CR H3834-3835; text: CR H3834)
+- 2015-06-03 — Amendment (A007) offered by Mr. Dold. (consideration: CR H3835-3836; text: CR H3835)
+- 2015-06-03 — Amendment (A008) offered by Mr. McClintock. (consideration: CR H3836-3837; text: CR H3836)
+- 2015-06-03 — Amendment (A009) offered by Mr. Walberg. (consideration: CR H3837-3838; text: CR H3837)
+- 2015-06-03 — Amendment (A010) offered by Mr. LoBiondo. (consideration: CR H3838; text: CR H3838)
+- 2015-06-03 — Amendment (A011) offered by Ms. Esty. (consideration: CR H3838-3839; text: CR H3838)
+- 2015-06-03 — Amendment (A012) offered by Mr. Dold. (consideration: CR H3839-3840; text: CR H3839)
+- 2015-06-03 — Amendment (A013) offered by Mr. Lynch. (consideration: CR H3840; text: CR H3840)
+- 2015-06-03 — Amendment (A014) offered by Mr. Dold. (consideration: CR H3840-3841; text: CR H3840)
+- 2015-06-03 — Amendment (A015) offered by Mr. Bridenstine. (consideration: CR H3841-3842; text: CR H3841)
+- 2015-06-03 — Amendment (A016) offered by Mr. Cartwright. (consideration: CR H3844-3845; text: CR H3844)
+- 2015-06-03 — Amendment (A017) offered by Mr. Gosar. (consideration: CR H3846; text: CR H3846)
+- 2015-06-03 — Amendment (A018) offered by Mr. Garrett. (consideration: CR H3847; text: CR H3847)
+- 2015-06-03 — Amendment (A019) offered by Ms. Titus. (consideration: CR H3848; text: CR H3848)
+- 2015-06-03 — Amendment (A020) offered by Mr. Brooks (AL). (consideration: CR H3848-3850; text: CR H3848)
+- 2015-06-03 — Amendment (A021) offered by Ms. Brown (FL). (consideration: CR H3850-3851; text: CR H3850)
+- 2015-06-03 — Amendment (A022) offered by Mr. Brooks (AL). (consideration: CR H3851; text: CR H3851)
+- 2015-06-03 — Amendment (A023) offered by Mr. Langevin. (consideration: CR H3852; text: CR H3852)
+- 2015-06-03 — Amendment (A024) offered by Mr. Grothman. (consideration: CR H3852-3853; text: CR H3852)
+- 2015-06-03 — Amendment (A025) offered by Mr. Mica. (consideration: CR H3853-3854; text: CR H3853)
+- 2015-06-03 — Amendment (A026) offered by Mr. Connolly. (consideration: CR H3854-3855; text: CR H3854)
+- 2015-06-03 — Amendment (A027) offered by Mrs. Capps. (consideration: CR H3856; text: CR H3856)
+- 2015-06-03 — Amendment (A028) offered by Mrs. Capps. (consideration: CR H3856-3857; text: CR H3856-3857)
+- 2015-06-03 — Amendment (A029) offered by Mr. Green, Al. (consideration: CR H3860; text: CR H3860)
+- 2015-06-03 — Amendment (A030) offered by Ms. Norton. (consideration: CR H3860-3861; text: CR H3860)
+- 2015-06-03 — Amendment (A031) offered by Mr. Nadler. (consideration: CR H3861-3863; text: CR H3861)
+- 2015-06-03 — Amendment (A032) offered by Mr. Grothman. (consideration: CR H3863; text: CR H3863)
+- 2015-06-03 — Amendment (A033) offered by Mr. Nadler. (consideration: CR H3865-3866; text: CR H3865)
+- 2015-06-03 — Amendment (A034) offered by Mr. Green, Al. (consideration: CR H3866-3867; text: CR H3866)
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment agreed to Committee of the Whole
+- 2015-06-03 — Amendment failed in Committee of the Whole
+- 2015-06-03 — Amendment failed in Committee of the Whole
+- 2015-06-03 — Amendment failed in Committee of the Whole
+- 2015-06-03 — Amendment failed in Committee of the Whole
+- 2015-06-03 — Amendment failed in Committee of the Whole
+- 2015-06-03 — By unanimous consent, the Green, Al amendment was withdrawn. (consideration: CR H3860)
+- 2015-06-03 — By unanimous consent, the Lynch amendment was withdrawn. (consideration: CR H3840)
+- 2015-06-03 — By unanimous consent, the Mica amendment was withdrawn. (consideration: CR H3854)
+- 2015-06-03 — Considered under the provisions of rule H. Res. 287. (consideration: CR H3817-3877; text of Title I as reported in House: CR H3830, H3833, H3836, H3837, H3838, H3842-3844, H3846, H3846-3847, H3848, H3850, H3852, H3853, H3855-3856, H3857-3858; text of Title II as reported in House: CR H3858-3860, H3863-3865, H3866, H3867-3868, H3868-3869, H3870-3872, H3872-3873; text of Title III as reported in House: CR H3873-3874; text of Title IV as reported in House: CR H3874-3875)
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment, pending a reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment, pending reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Bridenstine amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (FL) amendment, pending reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Bustos amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment, pending reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Dent amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Dold amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Dold amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Dold amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Esty amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the First Brooks amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the LoBiondo amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Meehan amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment No. 5.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment, pending a reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment, pending a reservation of a point of order. Subsequently, the reservation was removed.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment, pending reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Second Brooks amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Waters (CA) amendment, pending reservation of a point of order.
+- 2015-06-03 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Waters (CA) amendment, pending reservation of a point of order.
+- 2015-06-03 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2577.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Bridenstine amendment (A015) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Burgess amendment (A004) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Bustos amendment (A002) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Capps amendment (A027) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Dent amendment (A001) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Gosar amendment (A017) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the LoBiondo amendment (A010) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Meehan amendment (A003) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Nadler amendment (A033) Agreed to by voice vote.
+- 2015-06-03 — House amendment agreed to: On agreeing to the Titus amendment (A019) Agreed to by voice vote.
+- 2015-06-03 — House amendment not agreed to: On agreeing to the Dold amendment (A007) Failed by voice vote.
+- 2015-06-03 — House amendment not agreed to: On agreeing to the Dold amendment (A012) Failed by voice vote.
+- 2015-06-03 — House amendment not agreed to: On agreeing to the Dold amendment (A014) Failed by voice vote.
+- 2015-06-03 — House amendment not agreed to: On agreeing to the Grothman amendment (A024) Failed by voice vote.
+- 2015-06-03 — House amendment not agreed to: On agreeing to the Grothman amendment (A032) Failed by voice vote.
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered
+- 2015-06-03 — House amendment offered/reported by : Amendment (A001) offered by Mr. Dent.(consideration: CR H3830-3832; text: CR H3830)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A002) offered by Mrs. Bustos.(consideration: CR H3832; text: CR H3832)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A003) offered by Mr. Meehan.(consideration: CR H3832; text: CR H3832)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A004) offered by Mr. Burgess.(consideration: CR H3832-3833; text: CR H3832-3833)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A005) offered by Ms. Waters, Maxine.(consideration: CR H3833-3834; text: CR H3833)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A006) offered by Ms. Waters, Maxine.(consideration: CR H3834-3835; text: CR H3834)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A007) offered by Mr. Dold.(consideration: CR H3835-3836; text: CR H3835)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A008) offered by Mr. McClintock.(consideration: CR H3836-3837; text: CR H3836)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A009) offered by Mr. Walberg.(consideration: CR H3837-3838; text: CR H3837)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A010) offered by Mr. LoBiondo.(consideration: CR H3838; text: CR H3838)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A011) offered by Ms. Esty.(consideration: CR H3838-3839; text: CR H3838)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A012) offered by Mr. Dold.(consideration: CR H3839-3840; text: CR H3839)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A013) offered by Mr. Lynch.(consideration: CR H3840; text: CR H3840)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A014) offered by Mr. Dold.(consideration: CR H3840-3841; text: CR H3840)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A015) offered by Mr. Bridenstine.(consideration: CR H3841-3842; text: CR H3841)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A016) offered by Mr. Cartwright.(consideration: CR H3844-3845; text: CR H3844)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A017) offered by Mr. Gosar.(consideration: CR H3846; text: CR H3846)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A018) offered by Mr. Garrett.(consideration: CR H3847; text: CR H3847)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A019) offered by Ms. Titus.(consideration: CR H3848; text: CR H3848)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A020) offered by Mr. Brooks (AL).(consideration: CR H3848-3850; text: CR H3848)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A021) offered by Ms. Brown (FL).(consideration: CR H3850-3851; text: CR H3850)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A022) offered by Mr. Brooks (AL).(consideration: CR H3851; text: CR H3851)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A023) offered by Mr. Langevin.(consideration: CR H3852; text: CR H3852)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A024) offered by Mr. Grothman.(consideration: CR H3852-3853; text: CR H3852)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A025) offered by Mr. Mica.(consideration: CR H3853-3854; text: CR H3853)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A026) offered by Mr. Connolly.(consideration: CR H3854-3855; text: CR H3854)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A027) offered by Mrs. Capps.(consideration: CR H3856; text: CR H3856)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A028) offered by Mrs. Capps.(consideration: CR H3856-3857; text: CR H3856-3857)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A029) offered by Mr. Green, Al.(consideration: CR H3860; text: CR H3860)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A030) offered by Ms. Norton.(consideration: CR H3860-3861; text: CR H3860)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A031) offered by Mr. Nadler.(consideration: CR H3861-3863; text: CR H3861)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A032) offered by Mr. Grothman.(consideration: CR H3863; text: CR H3863)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A033) offered by Mr. Nadler.(consideration: CR H3865-3866; text: CR H3865)
+- 2015-06-03 — House amendment offered/reported by : Amendment (A034) offered by Mr. Green, Al.(consideration: CR H3866-3867; text: CR H3866)
+- 2015-06-03 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 287 and Rule XVIII.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Brown (FL) amendment (A021). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Connolly amendment (A026). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Green, Al amendment (A034). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Nadler amendment (A031). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Norton amendment (A030). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Waters, Maxine amendment (A005). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — Mr. Diaz-Balart raised a point of order against the Waters, Maxine amendment (A006). Mr. Diaz-Balart stated that the amendment seeks to cause a net increase in budget authority in violation of the provisions of H. Res. 5. The Chair sustained the point of order.
+- 2015-06-03 — On agreeing to the Bridenstine amendment (A015) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Burgess amendment (A004) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Bustos amendment (A002) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Capps amendment (A027) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Dent amendment (A001) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Dold amendment (A007) Failed by voice vote.
+- 2015-06-03 — On agreeing to the Dold amendment (A012) Failed by voice vote.
+- 2015-06-03 — On agreeing to the Dold amendment (A014) Failed by voice vote.
+- 2015-06-03 — On agreeing to the Gosar amendment (A017) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Grothman amendment (A024) Failed by voice vote.
+- 2015-06-03 — On agreeing to the Grothman amendment (A032) Failed by voice vote.
+- 2015-06-03 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the LoBiondo amendment (A010) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Meehan amendment (A003) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Nadler amendment (A033) Agreed to by voice vote.
+- 2015-06-03 — On agreeing to the Titus amendment (A019) Agreed to by voice vote.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cartwright demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Esty amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Esty demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Brooks amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Brooks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Brooks amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walberg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-03 — Resolution provides for consideration of both H.R. 2577 and H.R. 2578 under modified open rules.
+- 2015-06-03 — The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.
+- 2015-06-04 — Amendment (A035) offered by Mr. Grayson. (consideration: CR 6/3/2015 H3868; text: CR 6/3/2015 H3868)
+- 2015-06-04 — Amendment (A036) offered by Mr. Stivers. (consideration: CR 6/3/2015 H3869-3870; text: CR 6/3/2015 H3869)
+- 2015-06-04 — Amendment (A037) offered by Mr. Grayson. (consideration: CR 6/3/2015 H3870; text: CR 6/3/2015 H3870)
+- 2015-06-04 — Amendment (A038) offered by Mr. Stivers. (consideration: CR 6/3/2015 H3875-3876; text: CR 6/3/2015 H3875)
+- 2015-06-04 — Amendment (A039) offered by Mr. Grayson. (consideration: CR 6/3/2015 H3876; text: CR 6/3/2015 H3876)
+- 2015-06-04 — Amendment (A040) offered by Mr. Fitzpatrick. (consideration: CR 6/3/2015 H3876; text: CR 6/3/2015 H3876)
+- 2015-06-04 — Amendment (A041) offered by Mr. Grayson. (consideration: CR 6/3/2015 H3876-3877; text: CR 6/3/2015 H3876)
+- 2015-06-04 — Amendment (A042) offered by Mrs. Blackburn. (consideration: CR H3882-3883; text: CR H3882)
+- 2015-06-04 — Amendment (A043) offered by Ms. Norton. (consideration: CR H3883-3884; text: CR H3883)
+- 2015-06-04 — Amendment (A044) offered by Mr. Gosar. (consideration: CR H3884-3885; text: CR H3884)
+- 2015-06-04 — Amendment (A045) offered by Ms. Norton. (consideration: CR H3885-3886; text: CR H3885)
+- 2015-06-04 — Amendment (A046) offered by Mr. Gosar. (consideration: CR H3886-3887; text: CR H3886)
+- 2015-06-04 — Amendment (A047) offered by Mr. Polis. (consideration: CR H3887-3888; text: CR H3887)
+- 2015-06-04 — Amendment (A048) offered by Mr. Gosar. (consideration: CR H3888; text: CR H3888)
+- 2015-06-04 — Amendment (A049) offered by Ms. Lee. (consideration: CR H3888-3891, H3901-3902; text: CR H3888)
+- 2015-06-04 — Amendment (A050) offered by Mr. Posey. (consideration: CR H3891; text: CR H3891)
+- 2015-06-04 — Amendment (A051) offered by Mr. Gallego. (consideration: CR H3891-3892; text: H3891)
+- 2015-06-04 — Amendment (A052) offered by Mr. Sessions. (consideration: CR H3892-3893; text: CR H3892)
+- 2015-06-04 — Amendment (A053) offered by Ms. Waters, Maxine. (consideration: CR H3893; text: CR H3893)
+- 2015-06-04 — Amendment (A054) offered by Mr. Sessions. (consideration: CR H3893-3894; text: CR H3893)
+- 2015-06-04 — Amendment (A055) offered by Mr. Schiff. (consideration: CR H3894-3895; text: CR H3894)
+- 2015-06-04 — Amendment (A056) offered by Mr. Posey. (consideration: CR H3895; text: CR H3895)
+- 2015-06-04 — Amendment (A057) offered by Mr. Blumenauer. (consideration: CR H3895-3896; text: CR H3895)
+- 2015-06-04 — Amendment (A058) offered by Mr. Posey. (consideration: CR H3896; text: CR H3896)
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment agreed to Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — Amendment failed in Committee of the Whole
+- 2015-06-04 — By unanimous consent, the Blumenauer amendment was withdrawn. (consideration: CR H3896)
+- 2015-06-04 — By unanimous consent, the Polis amendment was withdrawn. (consideration: CR H3887)
+- 2015-06-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 2577 as unfinished business.
+- 2015-06-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 2577 as unfinished business.
+- 2015-06-04 — Considered as unfinished business. (consideration: CR H3882-3896, H3897-3903)
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the First Gosar amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the First Posey amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment, pending reservation of a point of order.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Second Gosar amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Second Posey amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Third Posey amendment.
+- 2015-06-04 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Waters, Maxine (CA) amendment.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A040) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Gallego amendment (A051) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Gosar amendment (A048) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Grayson amendment (A035) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Grayson amendment (A037) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Grayson amendment (A039) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Grayson amendment (A041) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Norton amendment (A043) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Stivers amendment (A036) Agreed to by voice vote.
+- 2015-06-04 — House amendment agreed to: On agreeing to the Stivers amendment (A038) Agreed to by recorded vote: 224 - 198 (Roll no. 307).(consideration: CR H3902-3903)
+- 2015-06-04 — House amendment agreed to: On agreeing to the Walberg amendment (A009) Agreed to by recorded vote: 235 - 189 (Roll no. 299).(consideration: CR H3897-3898)
+- 2015-06-04 — House amendment agreed to: On agreeing to the Waters, Maxine amendment (A053) Agreed to by voice vote.
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Brooks (AL) amendment (A020) Failed by recorded vote: 143 - 283 (Roll no. 303).(consideration: CR H3899-3900)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Brooks (AL) amendment (A022) Failed by recorded vote: 139 - 286 (Roll no. 304).(consideration: CR H3900-3901)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Capps amendment (A028) Failed by recorded vote: 202 - 222 (Roll no. 305).(consideration: CR H3901)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Cartwright amendment (A016) Failed by recorded vote: 176 - 247 (Roll no. 301).(consideration: CR H3898-3899)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Esty amendment (A011) Failed by recorded vote: 0 - 0 (Roll no. 300).(consideration: CR H3898, H3901)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Esty amendment (A011) Failed by recorded vote: 184 - 230 (Roll no. 308).(consideration: CR H3903)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Garrett amendment (A018) Failed by recorded vote: 160 - 266 (Roll no. 302).(consideration: CR H3899)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Lee amendment (A049) Failed by recorded vote: 176 - 247, 1 Present (Roll no. 306).
+- 2015-06-04 — House amendment not agreed to: On agreeing to the McClintock amendment (A008) Failed by recorded vote: 166 - 255 (Roll no. 298).(consideration: CR H3897)
+- 2015-06-04 — House amendment not agreed to: On agreeing to the Norton amendment (A045) Failed by voice vote.
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered
+- 2015-06-04 — House amendment offered/reported by : Amendment (A035) offered by Mr. Grayson.(consideration: CR 6/3/2015 H3868; text: CR 6/3/2015 H3868)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A036) offered by Mr. Stivers.(consideration: CR 6/3/2015 H3869-3870; text: CR 6/3/2015 H3869)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A037) offered by Mr. Grayson.(consideration: CR 6/3/2015 H3870; text: CR 6/3/2015 H3870)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A038) offered by Mr. Stivers.(consideration: CR 6/3/2015 H3875-3876; text: CR 6/3/2015 H3875)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A039) offered by Mr. Grayson.(consideration: CR 6/3/2015 H3876; text: CR 6/3/2015 H3876)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A040) offered by Mr. Fitzpatrick.(consideration: CR 6/3/2015 H3876; text: CR 6/3/2015 H3876)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A041) offered by Mr. Grayson.(consideration: CR 6/3/2015 H3876-3877; text: CR 6/3/2015 H3876)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A042) offered by Mrs. Blackburn.(consideration: CR H3882-3883; text: CR H3882)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A043) offered by Ms. Norton.(consideration: CR H3883-3884; text: CR H3883)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A044) offered by Mr. Gosar.(consideration: CR H3884-3885; text: CR H3884)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A045) offered by Ms. Norton.(consideration: CR H3885-3886; text: CR H3885)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A046) offered by Mr. Gosar.(consideration: CR H3886-3887; text: CR H3886)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A047) offered by Mr. Polis.(consideration: CR H3887-3888; text: CR H3887)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A048) offered by Mr. Gosar.(consideration: CR H3888; text: CR H3888)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A049) offered by Ms. Lee.(consideration: CR H3888-3891, H3901-3902; text: CR H3888)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A050) offered by Mr. Posey.(consideration: CR H3891; text: CR H3891)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A051) offered by Mr. Gallego.(consideration: CR H3891-3892; text: H3891)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A052) offered by Mr. Sessions.(consideration: CR H3892-3893; text: CR H3892)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A053) offered by Ms. Waters, Maxine.(consideration: CR H3893; text: CR H3893)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A054) offered by Mr. Sessions.(consideration: CR H3893-3894; text: CR H3893)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A055) offered by Mr. Schiff.(consideration: CR H3894-3895; text: CR H3894)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A056) offered by Mr. Posey.(consideration: CR H3895; text: CR H3895)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A057) offered by Mr. Blumenauer.(consideration: CR H3895-3896; text: CR H3895)
+- 2015-06-04 — House amendment offered/reported by : Amendment (A058) offered by Mr. Posey.(consideration: CR H3896; text: CR H3896)
+- 2015-06-04 — Mr. Diaz-Balart moved that the committee rise.
+- 2015-06-04 — Mr. Diaz-Balart moved that the committee rise.
+- 2015-06-04 — On agreeing to the Brooks (AL) amendment (A020) Failed by recorded vote: 143 - 283 (Roll no. 303). (consideration: CR H3899-3900)
+- 2015-06-04 — On agreeing to the Brooks (AL) amendment (A022) Failed by recorded vote: 139 - 286 (Roll no. 304). (consideration: CR H3900-3901)
+- 2015-06-04 — On agreeing to the Capps amendment (A028) Failed by recorded vote: 202 - 222 (Roll no. 305). (consideration: CR H3901)
+- 2015-06-04 — On agreeing to the Cartwright amendment (A016) Failed by recorded vote: 176 - 247 (Roll no. 301). (consideration: CR H3898-3899)
+- 2015-06-04 — On agreeing to the Esty amendment (A011) Failed by recorded vote: 0 - 0 (Roll no. 300). (consideration: CR H3898, H3901)
+- 2015-06-04 — On agreeing to the Esty amendment (A011) Failed by recorded vote: 184 - 230 (Roll no. 308). (consideration: CR H3903)
+- 2015-06-04 — On agreeing to the Fitzpatrick amendment (A040) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Gallego amendment (A051) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Garrett amendment (A018) Failed by recorded vote: 160 - 266 (Roll no. 302). (consideration: CR H3899)
+- 2015-06-04 — On agreeing to the Gosar amendment (A048) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Grayson amendment (A035) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Grayson amendment (A037) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Grayson amendment (A039) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Grayson amendment (A041) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Lee amendment (A049) Failed by recorded vote: 176 - 247, 1 Present (Roll no. 306).
+- 2015-06-04 — On agreeing to the McClintock amendment (A008) Failed by recorded vote: 166 - 255 (Roll no. 298). (consideration: CR H3897)
+- 2015-06-04 — On agreeing to the Norton amendment (A043) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Norton amendment (A045) Failed by voice vote.
+- 2015-06-04 — On agreeing to the Stivers amendment (A036) Agreed to by voice vote.
+- 2015-06-04 — On agreeing to the Stivers amendment (A038) Agreed to by recorded vote: 224 - 198 (Roll no. 307). (consideration: CR H3902-3903)
+- 2015-06-04 — On agreeing to the Walberg amendment (A009) Agreed to by recorded vote: 235 - 189 (Roll no. 299). (consideration: CR H3897-3898)
+- 2015-06-04 — On agreeing to the Waters, Maxine amendment (A053) Agreed to by voice vote.
+- 2015-06-04 — On motion that the committee rise Agreed to by voice vote.
+- 2015-06-04 — On motion that the committee rise Agreed to by voice vote.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Posey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Posey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Diaz-Balart demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Schiff demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Posey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Diaz- Balart demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stivers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Third Posey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Posey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Roll call votes on amendments in House
+- 2015-06-04 — Subsequently, the Committee resumed it's sitting.
+- 2015-06-04 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2015-06-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-06-04 — UNFINISHED BUSINESS - Pursuant to the unanimous consent agreement from earlier in the day, the Chair announced that the unfinished business was the request for a recorded vote on the amendment offered by Rep. Esty of Connecticut.
+- 2015-06-04 — VACATING PROCEEDINGS ON ROLL CALL 300 - Mr. Diaz-Balart asked unanimous consent that the proceedings on roll call 300 be vacated to the end that the Chair resume postponed proceedings on the amendment offered by the gentlewoman from Connecticut, Ms. Esty, at the end of the current series of postponed proceedings. Agreed to without objection.
+- 2015-06-09 — Amendment (A059) offered by Ms. Waters, Maxine. (consideration: CR H3972; text: H3972)
+- 2015-06-09 — Amendment (A060) offered by Mr. Yoho. (consideration: CR H3972-3973, H3990-3991; text: CR H3972)
+- 2015-06-09 — Amendment (A061) offered by Ms. Jackson Lee. (consideration: CR H3973-3975; text: CR H3973)
+- 2015-06-09 — Amendment (A062) offered by Mr. Brooks (AL). (consideration: CR H3975-3976, H3991; text: CR H3975)
+- 2015-06-09 — Amendment (A063) offered by Mr. Engel. (consideration: CR H3976-3977; text: CR H3976)
+- 2015-06-09 — Amendment (A064) offered by Mr. Hultgren. (consideration: CR H3977-3978, H3991-3992; text: CR H3977)
+- 2015-06-09 — Amendment (A065) offered by Mr. Meehan. (consideration: CR H3978, H3992-3993; text: CR H3978)
+- 2015-06-09 — Amendment (A066) offered by Mr. Newhouse. (consideration: CR H3978-3979; text: CR H3978)
+- 2015-06-09 — Amendment (A067) offered by Mr. Newhouse. (consideration: CR H3979; text: CR H3979)
+- 2015-06-09 — Amendment (A068) offered by Mr. Garrett. (consideration: CR H3979-3980, H3993; text: CR H3979)
+- 2015-06-09 — Amendment (A069) offered by Mr. Ellison. (consideration: CR H3980-3981, H3993-3994; text: CR H3980)
+- 2015-06-09 — Amendment (A070) offered by Mr. Emmer (MN). (consideration: CR H3981-3982, H3994-3995; text: CR H3981)
+- 2015-06-09 — Amendment (A071) offered by Ms. Bass. (consideration: CR H3982; text: CR H3982)
+- 2015-06-09 — Amendment (A072) offered by Mr. Zeldin. (consideration: CR H3982-3983; text: CR H3983)
+- 2015-06-09 — Amendment (A073) offered by Mr. Lewis. (consideration: CR H3983-3984; text: CR H3983)
+- 2015-06-09 — Amendment (A074) offered by Mr. Denham. (consideration: CR H3984-3985; text: CR H3984)
+- 2015-06-09 — Amendment (A075) offered by Mr. Peters. (consideration: CR H3985-3986, H3995; text: CR H3985)
+- 2015-06-09 — Amendment (A076) offered by Mr. Mullin. (consideration: CR H3986; text: CR H3986)
+- 2015-06-09 — Amendment (A077) offered by Mr. Grothman. (consideration: CR H3986-3987; text: CR H3986)
+- 2015-06-09 — Amendment (A078) offered by Mr. Grothman. (consideration: CR H3987-3988; text: CR H3987)
+- 2015-06-09 — Amendment (A079) offered by Mr. Issa. (consideration: CR H3988-3989, H3995-3996; text: CR H3988)
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment agreed to Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — Amendment failed in Committee of the Whole
+- 2015-06-09 — By unanimous consent, the Lewis amendment was withdrawn. (consideration: CR H3984)
+- 2015-06-09 — By unanimous consent, the Newhouse amendment was withdrawn. (consideration: CR H3978)
+- 2015-06-09 — By unanimous consent, the Waters, Maxine amendment was withdrawn. (consideration: CR H3972)
+- 2015-06-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 2577 as unfinished business.
+- 2015-06-09 — Considered as unfinished business. (consideration: CR H3965-3971)
+- 2015-06-09 — Considered as unfinished business. (consideration: CR H3971-3998)
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Bass amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Brooks (AL) amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Emmer amendment No. 28.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 4.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Hultgren amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 16.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis amendment, pending a reservation of a point or order.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Meehan amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment.
+- 2015-06-09 — DEBATE - Pursuant to the provisions of H. Res. 287, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment.
+- 2015-06-09 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Delaney motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase the Capital and Debt Service Grants to the National Railroad Passenger Corporation account by a total of $6 million and decrease the Office of Lead Hazard Control and Healthy Homes Information Technology Fund account by a similar amount.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Bass amendment (A071) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Brooks (AL) amendment (A062) Agreed to by recorded vote: 246 - 180 (Roll no. 320).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Denham amendment (A074) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Engel amendment (A063) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Garrett amendment (A068) Agreed to by recorded vote: 231 - 195 (Roll no. 323).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Gosar amendment (A044) Agreed to by recorded vote: 229 - 193 (Roll no. 311).(consideration: CR H3966)
+- 2015-06-09 — House amendment agreed to: On agreeing to the Hultgren amendment (A064) Agreed to by recorded vote: 240 - 186 (Roll no. 321).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Issa amendment (A079) Agreed to by recorded vote: 297 - 129 (Roll no. 327).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A061) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Mullin amendment (A076) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Newhouse amendment (A067) Agreed to by voice vote.
+- 2015-06-09 — House amendment agreed to: On agreeing to the Peters amendment (A075) Agreed to by recorded vote: 241 - 184, 1 Present (Roll no. 326).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Yoho amendment (A060) Agreed to by recorded vote: 244 - 181 (Roll no. 319).
+- 2015-06-09 — House amendment agreed to: On agreeing to the Zeldin amendment (A072) Agreed to by voice vote.
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 163 - 259 (Roll no. 310).(consideration: CR H3965-3966)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Ellison amendment (A069) Failed by recorded vote: 182 - 243 (Roll no. 324).
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Emmer (MN) amendment (A070) Failed by recorded vote: 212 - 214 (Roll no. 325).
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Gosar amendment (A046) Failed by recorded vote: 136 - 286 (Roll no. 312).(consideration: CR H3966-3967)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Grothman amendment (A077) Failed by voice vote.
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Grothman amendment (A078) Failed by voice vote.
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Meehan amendment (A065) Failed by recorded vote: 199 - 227 (Roll no. 322).
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Posey amendment (A050) Failed by recorded vote: 163 - 260 (Roll no. 313).(consideration: CR H3967-3968)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Posey amendment (A056) Failed by recorded vote: 148 - 275 (Roll no. 317).(consideration: CR H3970)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Posey amendment (A058) Failed by recorded vote: 134 - 287 (Roll no. 318).(consideration: CR H3970-3971)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Schiff amendment (A055) Failed by recorded vote: 157 - 266 (Roll no. 316).(consideration: CR H3969-3970)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Sessions amendment (A052) Failed by recorded vote: 205 - 218 (Roll no. 314).(consideration: CR H3968)
+- 2015-06-09 — House amendment not agreed to: On agreeing to the Sessions amendment (A054) Failed by recorded vote: 186 - 237 (Roll no. 315).(consideration: CR H3968-3969)
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered
+- 2015-06-09 — House amendment offered/reported by : Amendment (A059) offered by Ms. Waters, Maxine.(consideration: CR H3972; text: H3972)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A060) offered by Mr. Yoho.(consideration: CR H3972-3973, H3990-3991; text: CR H3972)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A061) offered by Ms. Jackson Lee.(consideration: CR H3973-3975; text: CR H3973)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A062) offered by Mr. Brooks (AL).(consideration: CR H3975-3976, H3991; text: CR H3975)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A063) offered by Mr. Engel.(consideration: CR H3976-3977; text: CR H3976)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A064) offered by Mr. Hultgren.(consideration: CR H3977-3978, H3991-3992; text: CR H3977)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A065) offered by Mr. Meehan.(consideration: CR H3978, H3992-3993; text: CR H3978)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A066) offered by Mr. Newhouse.(consideration: CR H3978-3979; text: CR H3978)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A067) offered by Mr. Newhouse.(consideration: CR H3979; text: CR H3979)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A068) offered by Mr. Garrett.(consideration: CR H3979-3980, H3993; text: CR H3979)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A069) offered by Mr. Ellison.(consideration: CR H3980-3981, H3993-3994; text: CR H3980)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A070) offered by Mr. Emmer (MN).(consideration: CR H3981-3982, H3994-3995; text: CR H3981)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A071) offered by Ms. Bass.(consideration: CR H3982; text: CR H3982)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A072) offered by Mr. Zeldin.(consideration: CR H3982-3983; text: CR H3983)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A073) offered by Mr. Lewis.(consideration: CR H3983-3984; text: CR H3983)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A074) offered by Mr. Denham.(consideration: CR H3984-3985; text: CR H3984)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A075) offered by Mr. Peters.(consideration: CR H3985-3986, H3995; text: CR H3985)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A076) offered by Mr. Mullin.(consideration: CR H3986; text: CR H3986)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A077) offered by Mr. Grothman.(consideration: CR H3986-3987; text: CR H3986)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A078) offered by Mr. Grothman.(consideration: CR H3987-3988; text: CR H3987)
+- 2015-06-09 — House amendment offered/reported by : Amendment (A079) offered by Mr. Issa.(consideration: CR H3988-3989, H3995-3996; text: CR H3988)
+- 2015-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-09 — Mr. Delaney moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H3996; text: CR H3996)
+- 2015-06-09 — Mr. Diaz-Balart moved that the committee rise.
+- 2015-06-09 — Mr. Diaz-Balart moved that the committee rise.
+- 2015-06-09 — On agreeing to the Bass amendment (A071) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 163 - 259 (Roll no. 310). (consideration: CR H3965-3966)
+- 2015-06-09 — On agreeing to the Brooks (AL) amendment (A062) Agreed to by recorded vote: 246 - 180 (Roll no. 320).
+- 2015-06-09 — On agreeing to the Denham amendment (A074) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Ellison amendment (A069) Failed by recorded vote: 182 - 243 (Roll no. 324).
+- 2015-06-09 — On agreeing to the Emmer (MN) amendment (A070) Failed by recorded vote: 212 - 214 (Roll no. 325).
+- 2015-06-09 — On agreeing to the Engel amendment (A063) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Garrett amendment (A068) Agreed to by recorded vote: 231 - 195 (Roll no. 323).
+- 2015-06-09 — On agreeing to the Gosar amendment (A044) Agreed to by recorded vote: 229 - 193 (Roll no. 311). (consideration: CR H3966)
+- 2015-06-09 — On agreeing to the Gosar amendment (A046) Failed by recorded vote: 136 - 286 (Roll no. 312). (consideration: CR H3966-3967)
+- 2015-06-09 — On agreeing to the Grothman amendment (A077) Failed by voice vote.
+- 2015-06-09 — On agreeing to the Grothman amendment (A078) Failed by voice vote.
+- 2015-06-09 — On agreeing to the Hultgren amendment (A064) Agreed to by recorded vote: 240 - 186 (Roll no. 321).
+- 2015-06-09 — On agreeing to the Issa amendment (A079) Agreed to by recorded vote: 297 - 129 (Roll no. 327).
+- 2015-06-09 — On agreeing to the Jackson Lee amendment (A061) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Meehan amendment (A065) Failed by recorded vote: 199 - 227 (Roll no. 322).
+- 2015-06-09 — On agreeing to the Mullin amendment (A076) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Newhouse amendment (A067) Agreed to by voice vote.
+- 2015-06-09 — On agreeing to the Peters amendment (A075) Agreed to by recorded vote: 241 - 184, 1 Present (Roll no. 326).
+- 2015-06-09 — On agreeing to the Posey amendment (A050) Failed by recorded vote: 163 - 260 (Roll no. 313). (consideration: CR H3967-3968)
+- 2015-06-09 — On agreeing to the Posey amendment (A056) Failed by recorded vote: 148 - 275 (Roll no. 317). (consideration: CR H3970)
+- 2015-06-09 — On agreeing to the Posey amendment (A058) Failed by recorded vote: 134 - 287 (Roll no. 318). (consideration: CR H3970-3971)
+- 2015-06-09 — On agreeing to the Schiff amendment (A055) Failed by recorded vote: 157 - 266 (Roll no. 316). (consideration: CR H3969-3970)
+- 2015-06-09 — On agreeing to the Sessions amendment (A052) Failed by recorded vote: 205 - 218 (Roll no. 314). (consideration: CR H3968)
+- 2015-06-09 — On agreeing to the Sessions amendment (A054) Failed by recorded vote: 186 - 237 (Roll no. 315). (consideration: CR H3968-3969)
+- 2015-06-09 — On agreeing to the Yoho amendment (A060) Agreed to by recorded vote: 244 - 181 (Roll no. 319).
+- 2015-06-09 — On agreeing to the Zeldin amendment (A072) Agreed to by voice vote.
+- 2015-06-09 — On motion that the committee rise Agreed to by voice vote.
+- 2015-06-09 — On motion that the committee rise Agreed to by voice vote.
+- 2015-06-09 — On motion to recommit with instructions Failed by recorded vote: 181 - 244 (Roll no. 328).
+- 2015-06-09 — On passage Passed by the Yeas and Nays: 216 - 210 (Roll no. 329).
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brooks(AL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Emmer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hultgren amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hultgren demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Issa demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meehan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Peters amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mullin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Yoho amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 210 (Roll no. 329).
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — Roll call votes on amendments in House
+- 2015-06-09 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2577.
+- 2015-06-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-06-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-06-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2577.
+- 2015-06-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3997)
+- 2015-06-09 — The previous question was ordered pursuant to the rule. (consideration: CR H3996)
