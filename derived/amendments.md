@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2596
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 2 executed, 21 stated and not applied.
+29 amendatory instructions. 3 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 50 U.S.C. § 3033
+
+> in subparagraph (A), by striking “any department, agency, or other element of the United States Government” and inserting “any Federal, State (as defined in section 804), or local governmental agency or unit thereof”; and
+
+| | |
+|---|---|
+| Removed | `any department, agency, or other element of the United States Government` |
+| Inserted | `any Federal, State (as defined in section 804), or local governmental agency or unit thereof` |
 
 ### 50 U.S.C. § 3024
 
@@ -60,7 +69,9 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3517` | amend | Paragraph (9) of section 17(e) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3517(e)(9)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3517` | insert | by inserting “(A)” before “Subject to applicable law”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3517` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3033` | insert | in subparagraph (B), by inserting “from a department, agency, or element of the Federal Government” before “under subparagraph (A)”. | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3308` | add-at-end | Section 348(a) of the Intelligence Authorization Act for Fiscal Year 2010 (Public Law 111–259; 124 Stat. 2700; 50 U.S.C. 3308) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | insert | Section 2008(a) of the Homeland Security Act of 2002 (6 U.S.C. 609(a)) is amended in the matter preceding paragraph (1) by inserting “including by working in conjunction with a National Laboratory (as defined in section 2(3) of the Energ… | the bill quotes the text inserted but describes where it goes |
 | — | strike | in clause (vii), by striking “or”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (vii) the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in clause (x), by striking the period and inserting a semicolon. | the bill names no machine-readable US Code section |
@@ -72,3 +83,6 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3024` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3106` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3106` | redesignate | by redesignating paragraph (6) as paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 2371` | repeal | Section 1055 of the National Defense Authorization Act for Fiscal Year 2010 (50 U.S.C. 2371) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7383e` | repeal | Section 3151 of the National Defense Authorization Act for Fiscal Year 2000 (42 U.S.C. 7383e) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 2659` | repeal | Section 4508 of the Atomic Energy Defense Act (50 U.S.C. 2659) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
