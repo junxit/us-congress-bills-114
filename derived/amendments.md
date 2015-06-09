@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2289
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-196 amendatory instructions. 50 executed, 146 stated and not applied.
+211 amendatory instructions. 53 executed, 158 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,24 @@ to guess them.
 | Removed | `(4) and (5) of this subsection` |
 | Inserted | `(4), (5), and (16)` |
 
+### 7 U.S.C. § 24a
+
+> in the matter preceding subparagraph (A), by striking “all” and inserting “swap”; and
+
+| | |
+|---|---|
+| Removed | `all` |
+| Inserted | `swap` |
+
+### 15 U.S.C. § 78m
+
+> in the matter preceding clause (i), by striking “all” and inserting “security-based swap”; and
+
+| | |
+|---|---|
+| Removed | `all` |
+| Inserted | `security-based swap` |
+
 ### 7 U.S.C. § 1a
 
 > in subparagraph (A) of paragraph (18) (as so redesignated by paragraph (1) of this subsection), in the matter preceding clause (i), by striking “(18)(A)” and inserting “(19)(A)”; and
@@ -80,7 +98,7 @@ to guess them.
 
 ### 7 U.S.C. § 6o-1
 
-> Section 4q(a)(1) of such Act (7 U.S.C. 6o-1(a)(1)) is amended by striking “1a(9)” and inserting “1a(10)”.
+> Section 4q(a)(1) of such Act (7 U.S.C. 6o–1(a)(1)) is amended by striking “1a(9)” and inserting “1a(10)”.
 
 | | |
 |---|---|
@@ -134,7 +152,7 @@ to guess them.
 
 ### 7 U.S.C. § 7a-1
 
-> Section 5b(k)(3)(A) of such Act (7 U.S.C. 7a-1(k)(3)(A)) is amended by striking “1a(47)(A)(v)” and inserting “1a(48)(A)(v)”.
+> Section 5b(k)(3)(A) of such Act (7 U.S.C. 7a–1(k)(3)(A)) is amended by striking “1a(47)(A)(v)” and inserting “1a(48)(A)(v)”.
 
 | | |
 |---|---|
@@ -143,7 +161,7 @@ to guess them.
 
 ### 7 U.S.C. § 7b-3
 
-> Section 5h(f)(10)(A)(iii) of such Act (7 U.S.C. 7b-3(f)(10)(A)(iii)) is amended by striking “1a(47)(A)(v)” and inserting “1a(48)(A)(v)”.
+> Section 5h(f)(10)(A)(iii) of such Act (7 U.S.C. 7b–3(f)(10)(A)(iii)) is amended by striking “1a(47)(A)(v)” and inserting “1a(48)(A)(v)”.
 
 | | |
 |---|---|
@@ -169,6 +187,15 @@ to guess them.
 | Inserted | `Except as provided in subparagraph (D), the Commission` |
 
 ### 7 U.S.C. § 6s
+
+> in clause (ii), by striking “shall, to the maximum extent practicable,” and inserting “shall”; and
+
+| | |
+|---|---|
+| Removed | `shall, to the maximum extent practicable,` |
+| Inserted | `shall` |
+
+### 15 U.S.C. § 78o-10
 
 > in clause (ii), by striking “shall, to the maximum extent practicable,” and inserting “shall”; and
 
@@ -233,12 +260,12 @@ to guess them.
 
 ### 7 U.S.C. § 7b-3
 
-> in paragraph (13)(B), by striking “cover the operating costs of the swap execution facility for a 1-year period, as calculated on a rolling basis” and inserting “conduct an orderly wind-down of its operations”; and
+> in paragraph (13)(B), by striking “1-year period, as calculated on a rolling basis” and inserting “90-day period, as calculated on a rolling basis, or conduct an orderly wind-down of its operations, whichever is greater”; and
 
 | | |
 |---|---|
-| Removed | `cover the operating costs of the swap execution facility for a 1-year period, as calculated on a rolling basis` |
-| Inserted | `conduct an orderly wind-down of its operations` |
+| Removed | `1-year period, as calculated on a rolling basis` |
+| Inserted | `90-day period, as calculated on a rolling basis, or conduct an orderly wind-down of its operations, whichever is greater` |
 
 ### 7 U.S.C. § 7b-3
 
@@ -269,7 +296,7 @@ to guess them.
 
 ### 7 U.S.C. § 7a-2
 
-> Section 5c(c)(5)(C)(i) of such Act (7 U.S.C. 7a-2(c)(5)(C)(i)) is amended by striking “1a(2)(i))” and inserting “1a(19)(i))”.
+> Section 5c(c)(5)(C)(i) of such Act (7 U.S.C. 7a–2(c)(5)(C)(i)) is amended by striking “1a(2)(i))” and inserting “1a(19)(i))”.
 
 | | |
 |---|---|
@@ -314,11 +341,11 @@ to guess them.
 
 ### 7 U.S.C. § 7b-1
 
-> Section 5f(b)(1)(A) of such Act (7 U.S.C. 7b-1(b)(1)(A)) is amended by striking “, (e) and (g)” and inserting “and (e)”.
+> Section 5f(b)(1)(A) of such Act (7 U.S.C. 7b–1(b)(1)(A)) is amended by striking “, (e), and (g)” and inserting “and (e)”.
 
 | | |
 |---|---|
-| Removed | `, (e) and (g)` |
+| Removed | `, (e), and (g)` |
 | Inserted | `and (e)` |
 
 ### 7 U.S.C. § 13
@@ -341,7 +368,7 @@ to guess them.
 
 ### 7 U.S.C. § 7a-2
 
-> Section 5c(b) of the Commodity Exchange Act (7 U.S.C. 7a-2(b)) is amended by striking “contract market, derivatives transaction execution facility, or electronic trading facility” each place it appears and inserting “registered entity”.
+> Section 5c(b) of the Commodity Exchange Act (7 U.S.C. 7a–2(b)) is amended by striking “contract market, derivatives transaction execution facility, or electronic trading facility” each place it appears and inserting “registered entity”.
 
 | | |
 |---|---|
@@ -422,7 +449,7 @@ to guess them.
 
 ### 7 U.S.C. § 7b-1
 
-> Section 5f(b)(1) of such Act (7 U.S.C. 7b-1(b)(1)) is amended by striking “section 5f” and inserting “this section”.
+> Section 5f(b)(1) of such Act (7 U.S.C. 7b–1(b)(1)) is amended by striking “section 5f” and inserting “this section”.
 
 | | |
 |---|---|
@@ -506,8 +533,15 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 12` | add-at-end | Section 8 of the Commodity Exchange Act (7 U.S.C. 12) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | amend | Section 2(h)(7)(D)(i) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a-1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 24a` | amend | Section 21(d) of such Act (7 U.S.C. 24a(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c-3` | amend | Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a–1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 24a` | strike | in clause (ii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 24a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 24a` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | replace | in subclause (II), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78m` | replace | in subclause (III), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | replace | by striking subparagraph (H) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | add-at-end | Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | strike | by striking “and” at the end of subclause (XXI); | the bill quotes the text struck but describes what replaces it |
@@ -515,18 +549,20 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a of such Act (7 U.S.C. 1a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | amend | Section 2(h)(7)(C)(iii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1a` | redesignate | Section 1a of such Act (7 U.S.C. 1a), as amended by section 305(b) of this Act, is amended by redesignating paragraphs (8) through (52) as paragraphs (9) through (53), respectively, and by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1a` | redesignate | Section 1a of such Act (7 U.S.C. 1a), as amended by section 305(b) of this Act, is amended by redesignating paragraphs (7) through (52) as paragraphs (8) through (53), respectively, and by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | redesignate | by redesignating subparagraphs (D) through (G) as subparagraphs (E) through (H), respectively, and inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1` | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4t the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(48)(B)(ii) of the Commodity Exchange Act (7 U.S.C. 1a(47)(B)(ii)), as so redesignated by section 306(b)(1) of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | replace | by striking all that precedes “shall exempt” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | amend | by adding after and below the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6s` | insert | in paragraph (2)(B), by inserting “in consultation with the prudential regulators and the Securities and Exchange Commission” before “shall”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 6s` | replace | in paragraph (2)(B), by striking “shall” and inserting the following: “and the Securities and Exchange Commission, in consultation with the prudential regulators, shall jointly”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-10` | replace | in paragraph (2)(B), by striking “shall” and inserting the following: “and the Commodity Futures Trading Commission, in consultation with the prudential regulators, shall jointly”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78o-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6` | insert | Section 4(c)(1)(A) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)(A)) is amended by inserting “or except as necessary to effectuate the purposes of the Commodity End-User Relief Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(11) of the Commodity Exchange Act (7 U.S.C. 1a(10)), as so redesignated by section 306(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6m` | insert | in paragraph (1), in the 2nd sentence, by inserting “: Provided further, That the provisions of this section shall not apply to any commodity trading advisor that is: (A) a charitable organization, as defined in section 3(c)(10)(D) of th… | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 6m` | insert | in paragraph (1), in the second sentence, by inserting “: Provided further, That the provisions of this section shall not apply to any commodity trading advisor that is: (A) a charitable organization, as defined in section 3(c)(10)(D) of… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | add-at-end | Section 2(h)(7)(C) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7b-3` | insert | in paragraph (1)(B), by inserting “except as described in this subsection” after “Commission by rule or regulation”; | the bill quotes the text inserted but describes where it goes |
@@ -544,6 +580,9 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1a` | strike | in subparagraph (B), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1a` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 27` | strike | by striking “or” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 27` | replace | by striking the period at the end of paragraph (7) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 27` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(12) of the Commodity Exchange Act (7 U.S.C. 1a(11)), as so redesignated by section 306(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(13) of such Act (7 U.S.C. 1a(12)), as so redesignated by section 306(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6c` | redesignate | Section 4c of the Commodity Exchange Act (7 U.S.C. 6c) is amended by striking subsections (d) and (e) and redesignating subsections (f) and (g) as subsections (d) and (e), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -553,13 +592,13 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 6a` | strike | by striking “or by any electronic trading facility”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6a` | strike | by striking “or on an electronic trading facility”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6a` | strike | by striking “or electronic trading facility” each place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 6a` | strike | in the 2nd sentence, by striking “or electronic trading facility with respect to a significant price discovery contract”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 6a` | strike | in the second sentence, by striking “or electronic trading facility with respect to a significant price discovery contract”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6g` | strike | Section 4g(a) of such Act (7 U.S.C. 6g(a)) is amended by striking “any significant price discovery contract traded or executed on an electronic trading facility or”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6i` | strike | by striking “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not … | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 6i` | strike | by striking “or electronic trading facility” | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 6i` | strike | by striking “or electronic trading facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 8` | strike | Section 6(b) of such Act (7 U.S.C. 8(b)) is amended by striking “or electronic trading facility” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 7b-3` | strike | Section 5h(h) of the Commodity Exchange Act (7 U.S.C. 7b-3(h)) is amended by striking “alternative” before “swap”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 13a` | strike | Section 6b of the Commodity Exchange Act (7 U.S.C. 13a) is amended in the 1st sentence by striking “as set forth in sections 5 through 5c”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 7b-3` | strike | Section 5h(h) of the Commodity Exchange Act (7 U.S.C. 7b–3(h)) is amended by striking “alternative” before “swap”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 13a` | strike | Section 6b of the Commodity Exchange Act (7 U.S.C. 13a) is amended in the first sentence by striking “as set forth in sections 5 through 5c”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 12a` | insert | by inserting “the protection of swaps traders and to assure fair dealing in swaps, for” after “appropriate for”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 12a` | insert | in subparagraph (A), by inserting “swaps or” after “conditions in”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 12a` | insert | in subparagraph (B), by inserting “or swaps” after “future delivery”; and | the bill quotes the text inserted but describes where it goes |
@@ -584,13 +623,13 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2` | strike | by striking “or derivatives transaction execution facility” each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2` | strike | by striking “or register”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2` | strike | by striking “, registering,”; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 2` | strike | by striking “, registration,”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 2` | strike | Section 2(c)(2) of such Act (7 U.S.C. 2(c)(2)) is amended by striking “or a derivatives transaction execution facility” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 6` | strike | Section 4(a)(1) of such Act (7 U.S.C. 6(a)(1)) is amended by striking “or derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2` | strike | by striking “registration,”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2` | strike | Section 2(c)(2) of such Act (7 U.S.C. 2(c)(2)) is amended by striking “or a derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 6` | strike | Section 4(a)(1) of such Act (7 U.S.C. 6(a)(1)) is amended by striking “or derivatives transaction execution facility” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6` | strike | by striking “or registered” after “designated”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6` | strike | by striking “or derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6a` | strike | by striking “or derivatives transaction execution facilities”; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 6a` | strike | by striking“or derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 6a` | strike | by striking “or derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6a` | strike | by striking “, derivatives transaction execution facility,” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6a` | strike | by striking “or derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6c` | redesignate | Section 4c(e) of such Act (7 U.S.C. 6c(g)), as so redesignated by section 402(a) of this Act, is amended by striking “or derivatives transaction execution facility” each place it appears. | the bill quotes the text struck but describes what replaces it |
@@ -601,27 +640,27 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 6j` | strike | Section 4j(a) of such Act (7 U.S.C. 6j(a)) is amended by striking “and registered derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6p` | strike | Section 4p(a) of such Act (7 U.S.C. 6p(a)) is amended by striking “, or derivatives transaction execution facilities”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6p` | strike | Section 4p(b) of such Act (7 U.S.C. 6p(b)) is amended by striking “derivatives transaction execution facility,”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 7a-2` | strike | Section 5c(f) of such Act (7 U.S.C. 7a-2(f)) is amended by striking “and registered derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 7a-2` | strike | Section 5c(f)(1) of such Act (7 U.S.C. 7a-2(f)(1)) is amended by striking “or registered derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 7a-2` | strike | Section 5c(f) of such Act (7 U.S.C. 7a–2(f)) is amended by striking “and registered derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 7a-2` | strike | Section 5c(f)(1) of such Act (7 U.S.C. 7a–2(f)(1)) is amended by striking “or registered derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 8` | strike | by striking “or registered”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 8` | strike | by striking “or derivatives transaction execution facility” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 8` | strike | by striking “or registration” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 10a` | strike | by striking “or registered”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 10a` | strike | by striking “or a derivatives transaction execution facility”; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 10a` | insert | by inserting “shall” before “exclude” the first place such term appears. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 10a` | insert | by inserting “shall” before “exclude” the first place it appears. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 10a` | strike | by striking “or registered”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 10a` | strike | by striking “or a derivatives transaction execution facility”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 13a-2` | strike | Section 6d(1) of such Act (7 U.S.C. 13a-2(1)) is amended by striking “derivatives transaction execution facility,”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 13a-2` | strike | Section 6d(1) of such Act (7 U.S.C. 13a–2(1)) is amended by striking “derivatives transaction execution facility,”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(19)(A)(x) of the Commodity Exchange Act (7 U.S.C. 1a(18)(A)(x)), as so redesignated by section 306(b)(1) of this Act, is amended by striking “or an exempt board of trade”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 16` | strike | Section 12(e)(1)(B)(i) of such Act (7 U.S.C. 16(e)(1)(B)(i)) is amended by striking “or exempt board of trade”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 16a` | redesignate | Section 26 of the Futures Trading Act of 1978 (7 U.S.C. 16a) is amended by striking subsection (b) and redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | amend | Section 4s(k)(3)(B) of the Commodity Exchange Act (7 U.S.C. 6s(k)(3)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(13)(A)(i)(II) of the Commodity Exchange Act (7 U.S.C. 1a(12)(A)(i)(II)), as so redesignated by section 306(b)(1) of this Act, is amended by adding at the end a semicolon. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2` | strike | Section 2(c)(1) of such Act (7 U.S.C. 2(c)(1)) is amended by striking the 2nd comma. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2` | strike | Section 2(c)(1) of such Act (7 U.S.C. 2(c)(1)) is amended by striking the second comma. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6c` | amend | Section 4c(c) of such Act (7 U.S.C. 6c(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6f` | strike | Section 4f(c)(3)(A) of such Act (7 U.S.C. 6f(c)(3)(A)) is amended by striking the 1st comma. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6f` | strike | Section 4f(c)(3)(A) of such Act (7 U.S.C. 6f(c)(3)(A)) is amended by striking the first comma. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7` | redesignate | Section 5 of such Act (7 U.S.C. 7) is amended by redesignating subsections (c) through (e) as subsections (b) through (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7a-1` | redesignate | Section 5b of such Act (7 U.S.C. 7a-1) is amended by redesignating subsection (k) as subsection (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7a-1` | redesignate | Section 5b of such Act (7 U.S.C. 7a–1) is amended by redesignating subsection (k) as subsection (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 21` | replace | Section 17(b)(9)(D) of such Act (7 U.S.C. 21(b)(9)(D)) is amended by striking the semicolon and inserting a period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 21` | strike | Section 17(b)(10)(C)(ii) of such Act (7 U.S.C. 21(b)(10)(C)(ii)) is amended by striking “and” at the end. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 21` | replace | Section 17(b)(11) of such Act (7 U.S.C. 21(b)(11)) is amended by striking the period and inserting a semicolon. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
