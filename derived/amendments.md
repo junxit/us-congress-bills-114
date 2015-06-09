@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2088
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-40 amendatory instructions. 26 executed, 14 stated and not applied.
+46 amendatory instructions. 29 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,30 @@ to guess them.
 
 ### 7 U.S.C. § 75
 
+> by striking “Act (the term” and inserting “Act. The term”; and
+
+| | |
+|---|---|
+| Removed | `Act (the term` |
+| Inserted | `Act. The term` |
+
+### 7 U.S.C. § 75
+
 > in paragraphs (n) and (t), by striking “the terms” and inserting “The terms”;
 
 | | |
 |---|---|
 | Removed | `the terms` |
 | Inserted | `The terms` |
+
+### 7 U.S.C. § 75
+
+> by striking “personnel (the term” and inserting “personnel. The term”; and
+
+| | |
+|---|---|
+| Removed | `personnel (the term` |
+| Inserted | `personnel. The term` |
 
 ### 7 U.S.C. § 75
 
@@ -89,12 +107,12 @@ to guess them.
 
 ### 7 U.S.C. § 77
 
-> Section 5(a)(1) of the United States Grain Standards Act (7 U.S.C. 77(a)(1)) is amended by striking “may waive” and inserting “shall promptly waive”.
+> Section 5(a)(1) of the United States Grain Standards Act (7 U.S.C. 77(a)(1)) is amended in the first proviso by striking “may waive the foregoing requirement in emergency” and inserting “shall promptly waive the foregoing requirement in the event of an emergency, a major disaster,”.
 
 | | |
 |---|---|
-| Removed | `may waive` |
-| Inserted | `shall promptly waive` |
+| Removed | `may waive the foregoing requirement in emergency` |
+| Inserted | `shall promptly waive the foregoing requirement in the event of an emergency, a major disaster,` |
 
 ### 7 U.S.C. § 77
 
@@ -125,12 +143,12 @@ to guess them.
 
 ### 7 U.S.C. § 79
 
-> in the last sentence, by striking “Any such delegation” and inserting “The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed five years, and may be renewed thereafter in accordance with this subsection, except that any such delegation”;
+> in the last sentence, by striking “Any such delegation” and inserting “The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed 5 years, and may be renewed thereafter in accordance with this subsection, except that any such delegation”;
 
 | | |
 |---|---|
 | Removed | `Any such delegation` |
-| Inserted | `The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed five years, and may be renewed thereafter in accordance with this subsection, except that any such delegation` |
+| Inserted | `The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed 5 years, and may be renewed thereafter in accordance with this subsection, except that any such delegation` |
 
 ### 7 U.S.C. § 79
 
@@ -161,12 +179,12 @@ to guess them.
 
 ### 7 U.S.C. § 79
 
-> Section 7(g)(1) of the United States Grain Standards Act (7 U.S.C. 79(g)(1)) is amended by striking “triennially” and inserting “every five years”.
+> Section 7(g)(1) of the United States Grain Standards Act (7 U.S.C. 79(g)(1)) is amended by striking “triennially” and inserting “every 5 years”.
 
 | | |
 |---|---|
 | Removed | `triennially` |
-| Inserted | `every five years` |
+| Inserted | `every 5 years` |
 
 ### 7 U.S.C. § 79
 
@@ -215,12 +233,12 @@ to guess them.
 
 ### 7 U.S.C. § 84
 
-> Section 8(b) of the United States Grain Standards Act (7 U.S.C. 84(b)) is amended by striking “triennially” and inserting “every five years”.
+> Section 8(b) of the United States Grain Standards Act (7 U.S.C. 84(b)) is amended by striking “triennially” and inserting “every 5 years”.
 
 | | |
 |---|---|
 | Removed | `triennially` |
-| Inserted | `every five years` |
+| Inserted | `every 5 years` |
 
 ### 7 U.S.C. § 84
 
@@ -258,6 +276,15 @@ to guess them.
 | Removed | `September 30, 2015` |
 | Inserted | `September 30, 2020` |
 
+### 7 U.S.C. § 612c-3
+
+> by striking “notwithstanding the provisions of section 812 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c–3)” and inserting “notwithstanding section 602 of the Agricultural Trade Act of 1978 (7 U.S.C. 5712)”; and
+
+| | |
+|---|---|
+| Removed | `notwithstanding the provisions of section 812 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c–3)` |
+| Inserted | `notwithstanding section 602 of the Agricultural Trade Act of 1978 (7 U.S.C. 5712)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -271,7 +298,9 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 74` | replace | by striking the period at the end of paragraph (3) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 74` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 75` | add-at-end | Section 3 of the United States Grain Standards Act (7 U.S.C. 75) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 75` | replace | by striking the semicolon at the end of each paragraph (other than paragraphs (x) and (y)) and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 75` | replace | by striking “);” and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 75` | replace | by striking “);” and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 75` | replace | by striking the semicolon at the end of each paragraph (other than paragraphs (i), (o), (x), and (y)) and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 75` | replace | in paragraph (y), by striking “; and” and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 79` | amend | Paragraph (1) of section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 79` | replace | by striking paragraph (3) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -281,3 +310,4 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 79` | insert | by inserting “(A)” after “(1)”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 79` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 84` | strike | by striking “(on the date of enactment of the United States Grain Standards Act of 1976)”; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 87f-2` | strike | by striking “or the Secretary”. | the bill quotes the text struck but describes what replaces it |

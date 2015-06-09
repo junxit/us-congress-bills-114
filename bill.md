@@ -29,15 +29,21 @@ This Act may be cited as the “United States Grain Standards Act Reauthorizatio
   - **(2)** *Conforming amendments* Section 3 of the United States Grain Standards Act (7 U.S.C. 75) is further amended—
     - **(A)** in the matter preceding paragraph (a), by striking “otherwise–” and inserting “otherwise:”;
     - **(B)** by striking “the term” at the beginning of each paragraph (other than paragraphs (n) and (t)) and inserting “The term”;
-    - **(C)** in paragraphs (n) and (t), by striking “the terms” and inserting “The terms”;
-    - **(D)** in paragraph (s), by striking “the verb” and inserting “The verb”;
-    - **(E)** in paragraph (x)—
+    - **(C)** in paragraph (i)—
+      - **(i)** by striking “Act (the term” and inserting “Act. The term”; and
+      - **(ii)** by striking “);” and inserting a period;
+    - **(D)** in paragraphs (n) and (t), by striking “the terms” and inserting “The terms”;
+    - **(E)** in paragraph (o)—
+      - **(i)** by striking “personnel (the term” and inserting “personnel. The term”; and
+      - **(ii)** by striking “);” and inserting a period;
+    - **(F)** in paragraph (s), by striking “the verb” and inserting “The verb”;
+    - **(G)** in paragraph (x)—
       - **(i)** by striking “conveyance (the terms” and inserting “conveyance. The terms”; and
       - **(ii)** by striking “accordingly);” and inserting “accordingly.”;
-    - **(F)** by striking the semicolon at the end of each paragraph (other than paragraphs (x) and (y)) and inserting a period; and
-    - **(G)** in paragraph (y), by striking “; and” and inserting a period.
+    - **(H)** by striking the semicolon at the end of each paragraph (other than paragraphs (i), (o), (x), and (y)) and inserting a period; and
+    - **(I)** in paragraph (y), by striking “; and” and inserting a period.
 - **(c)** *Official inspection and weighing requirements*
-  - **(1)** *Discretionary waiver authority* Section 5(a)(1) of the United States Grain Standards Act (7 U.S.C. 77(a)(1)) is amended by striking “may waive” and inserting “shall promptly waive”.
+  - **(1)** *Discretionary waiver authority* Section 5(a)(1) of the United States Grain Standards Act (7 U.S.C. 77(a)(1)) is amended in the first proviso by striking “may waive the foregoing requirement in emergency” and inserting “shall promptly waive the foregoing requirement in the event of an emergency, a major disaster,”.
   - **(2)** *Weighing requirements at export elevators* Section 5(a)(2) of the United States Grain Standards Act (7 U.S.C. 77(a)(2)) is amended by striking “intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,” and inserting “shipments of grain into an export elevator by any mode of transportation”.
 - **(d)** *Delegation of official inspection authority*
   - **(1)** *Authorized inspection personnel at export elevators at export port locations* Paragraph (1) of section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) is amended to read as follows:
@@ -49,7 +55,7 @@ This Act may be cited as the “United States Grain Standards Act Reauthorizatio
     - **(A)** in paragraph (2)—
       - **(i)** by striking “, meets the criteria” and all that follows through “the Secretary may delegate” and inserting “and meets the criteria specified in subsection (f)(1)(A) of this section, the Secretary may delegate”;
       - **(ii)** by striking “at export port locations within the State, including export port locations” and inserting “at export elevators at export port locations within the State, including at export elevators at export port locations”; and
-      - **(iii)** in the last sentence, by striking “Any such delegation” and inserting “The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed five years, and may be renewed thereafter in accordance with this subsection, except that any such delegation”;
+      - **(iii)** in the last sentence, by striking “Any such delegation” and inserting “The delegation under this paragraph of authority to conduct official inspection services shall be for a term not to exceed 5 years, and may be renewed thereafter in accordance with this subsection, except that any such delegation”;
     - **(B)** by transferring paragraph (4) to the end of subsection (f), redesignating such paragraph as paragraph (5), and, in such paragraph, by striking “or subsection (f)” and inserting “or subsection (e)”; and
     - **(C)** by striking paragraph (3) and inserting the following new paragraphs:
       > - **(3)** Prior to delegating authority to a State agency for the performance of official inspection services at export elevators at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall comply with the following:
@@ -67,12 +73,12 @@ This Act may be cited as the “United States Grain Standards Act Reauthorizatio
   - **(3)** *Conforming amendments*
     - **(A)** Section 7(f)(1) of the United States Grain Standards Act (7 U.S.C. 79(f)(1)) is amended by striking “other than at export port locations” and inserting “(other than at an export elevator at an export port location)”.
     - **(B)** Section 16(d) of the United States Grain Standards Act (7 U.S.C. 87e(d)) is amended by striking “The Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture)” and inserting “The Office of Inspector General of the Department of Agriculture”.
-  - **(4)** *Evaluation of current delegations* Not later than two years after the date of the enactment of this Act, the Secretary of Agriculture shall complete a review of each State agency that, as of the date of the enactment of this Act, has been delegated inspection authority under section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) and determine if the State agency is qualified to continue to perform official inspection services at export elevators at export port locations on behalf of the Secretary under such section, as amended by this subsection. The Secretary shall conduct the review subject to the requirements of section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)), as amended by this subsection, and a State agency determined to be qualified to continue to perform such official inspection services shall be subject thereafter to such requirements.
+  - **(4)** *Evaluation of current delegations* Not later than 2 years after the date of the enactment of this Act, the Secretary of Agriculture shall complete a review of each State agency that, as of the date of the enactment of this Act, has been delegated inspection authority under section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) and determine if the State agency is qualified to continue to perform official inspection services at export elevators at export port locations on behalf of the Secretary under such section, as amended by this subsection. The Secretary shall conduct the review subject to the requirements of section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)), as amended by this subsection, and a State agency determined to be qualified to continue to perform such official inspection services shall be subject thereafter to such requirements.
 - **(e)** *Continuity of operations* Section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) is further amended by inserting after paragraph (4), as added by subsection (d), the following new paragraphs:
   > - **(5)** Except in the case of a major disaster, the Secretary shall cause official inspections at an export elevator at an export port location—
   >   - **(A)** to be performed without interruption by official inspection personnel employed by the Secretary or by a State agency delegated such authority under paragraph (2) of this subsection; or
   >   - **(B)** if interrupted, to be resumed at the export elevator by utilizing official inspection personnel employed by the Secretary or by another delegated State agency as provided under paragraph (2) of this subsection as follows:
-  >     - **(i)** Within six hours after the interruption, if the interruption is caused by a State agency delegated such authority under this subsection and the Secretary received advance notice of the interruption pursuant to paragraph (4)(C) of this subsection.
+  >     - **(i)** Within 6 hours after the interruption, if the interruption is caused by a State agency delegated such authority under this subsection and the Secretary received advance notice of the interruption pursuant to paragraph (4)(C) of this subsection.
   >     - **(ii)** Within 12 hours after the interruption, if the State agency failed to provide the required advance notice of the interruption.
   > - **(6)**
   >   - **(A)** If the Secretary is unable to restore official inspection services within the applicable time period required by paragraph (5)(B) of this subsection, the interested person requesting such services at the export elevator at an export port location shall be authorized to utilize official inspection personnel, as provided under section 8 of the Act, employed by another State agency delegated authority under paragraph (2) of this subsection or designated under subsection (f)(1) of this section.
@@ -91,12 +97,12 @@ This Act may be cited as the “United States Grain Standards Act Reauthorizatio
     > - **(A)** the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or
     > - **(B)** the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
 
-- **(g)** *Duration of designations of official agencies* Section 7(g)(1) of the United States Grain Standards Act (7 U.S.C. 79(g)(1)) is amended by striking “triennially” and inserting “every five years”.
+- **(g)** *Duration of designations of official agencies* Section 7(g)(1) of the United States Grain Standards Act (7 U.S.C. 79(g)(1)) is amended by striking “triennially” and inserting “every 5 years”.
 - **(h)** *Inspection fees*
   - **(1)** *Collection and amounts* Section 7(j)(1) of the United States Grain Standards Act (7 U.S.C. 79(j)(1)) is amended—
     - **(A)** by inserting “(A)” after “(1)”;
     - **(B)** by adding at the end the following new subparagraph:
-      > - **(B)** For official inspections and weighing at an export elevator at an export port location performed by the Secretary, performed by a State agency delegated the authority to perform official inspection services at the export elevator on behalf of the Secretary, or performed by a State agency utilized as authorized by subsection (e)(6)(A), the portion of the fees based upon export tonnage shall be based upon a rolling five-year average of export tonnage volumes. In order to maintain an operating reserve of between three to six months, the Secretary shall adjust such fees at least annually.
+      > - **(B)** For official inspections and weighing at an export elevator at an export port location performed by the Secretary, performed by a State agency delegated the authority to perform official inspection services at the export elevator on behalf of the Secretary, or performed by a State agency utilized as authorized by subsection (e)(6)(A), the portion of the fees based upon export tonnage shall be based upon a rolling 5-year average of export tonnage volumes. In order to maintain an operating reserve of between 3 to 6 months, the Secretary shall adjust such fees at least annually.
 
   - **(2)** *Duration of authority* Section 7(j)(4) of the United States Grain Standards Act (7 U.S.C. 79(j)(4)) is amended by striking “September 30, 2015” and inserting “September 30, 2020”.
 - **(i)** *Official weighing or supervision at locations where official inspection is provided other than by the Secretary* Section 7A(c)(2) of the United States Grain Standards Act (7 U.S.C. 79a(c)(2)) is amended—
@@ -105,10 +111,13 @@ This Act may be cited as the “United States Grain Standards Act Reauthorizatio
 - **(j)** *Collection of fees for weighing services* Section 7A(l)(3) of the United States Grain Standards Act (7 U.S.C. 79a(l)(2)) is amended by striking “September 30, 2015” and inserting “September 30, 2020”.
 - **(k)** *Limitation and administrative and supervisory costs* Section 7D of the United States Grain Standards Act (7 U.S.C. 79d) is amended by striking “2015” and inserting “2020”.
 - **(l)** *Issuance of authorizations*
-  - **(1)** *Duration* Section 8(b) of the United States Grain Standards Act (7 U.S.C. 84(b)) is amended by striking “triennially” and inserting “every five years”.
+  - **(1)** *Duration* Section 8(b) of the United States Grain Standards Act (7 U.S.C. 84(b)) is amended by striking “triennially” and inserting “every 5 years”.
   - **(2)** *Persons who may be hired as official inspection personnel* Section 8(e) of the United States Grain Standards Act (7 U.S.C. 84(e)) is amended—
     - **(A)** by striking “(on the date of enactment of the United States Grain Standards Act of 1976)”;
     - **(B)** by striking “the United States Grain Standards Act” and inserting “this Act”; and
     - **(C)** by striking “, on the date of enactment of the United States Grain Standards Act of 1976, was performing” and inserting “performs”.
 - **(m)** *Authorization of appropriations* Section 19 of the United States Grain Standards Act (7 U.S.C. 87h) is amended by striking “2015” and inserting “2020”.
 - **(n)** *Expiration of advisory committee* Section 21(e) of the United States Grain Standards Act (7 U.S.C. 87j(e)) is amended by striking “September 30, 2015” and inserting “September 30, 2020”.
+- **(o)** *Technical corrections* Section 17B(b) of the United States Grain Standards Act (7 U.S.C. 87f–2(b)) is amended—
+  - **(1)** by striking “notwithstanding the provisions of section 812 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c–3)” and inserting “notwithstanding section 602 of the Agricultural Trade Act of 1978 (7 U.S.C. 5712)”; and
+  - **(2)** by striking “or the Secretary”.
