@@ -1,7 +1,7 @@
 ---
 measure: S. 653
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 653
@@ -32,3 +32,5 @@ Water Resources Research Amendments Act of 2015
 - 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-48.
 - 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-48.
 - 2015-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.
+- 2015-06-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3975-3976; text: CR S3975-3976)
+- 2015-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3975-3976; text: CR S3975-3976)
