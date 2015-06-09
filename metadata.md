@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 611
@@ -50,3 +50,5 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-47.
 - 2015-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-47.
 - 2015-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
+- 2015-06-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3975-3976; text: CR S3975)
+- 2015-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3975-3976; text: CR S3975)
