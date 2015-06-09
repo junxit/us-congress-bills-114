@@ -18,8 +18,8 @@ This Act may be cited as the “Foreign Cultural Exchange Jurisdictional Immunit
 - **(a)** *In general* Section 1605 of title 28, United States Code, is amended by adding at the end the following:
   > - **(h)** *Jurisdictional immunity for certain art exhibition activities*
   >   - **(1)** *In general* If—
-  >     - **(A)** a work is imported into the United States from any foreign country pursuant to an agreement that provides for the temporary exhibition or display of such work entered into between a foreign state that is the owner or custodian of such work and the United States or one or more cultural or educational institutions within the United States,
-  >     - **(B)** the President, or the President’s designee, has determined, in accordance with subsection (a) of Public Law 89–259 (22 U.S.C. 2459(a)), that such work is of cultural significance and the temporary exhibition or display of such work is in the national interest, and
+  >     - **(A)** a work is imported into the United States from any foreign country pursuant to an agreement that provides for the temporary exhibition or display of such work entered into between a foreign state that is the owner or custodian of such work and the United States or one or more cultural or educational institutions within the United States;
+  >     - **(B)** the President, or the President’s designee, has determined, in accordance with subsection (a) of Public Law 89–259 (22 U.S.C. 2459(a)), that such work is of cultural significance and the temporary exhibition or display of such work is in the national interest; and
   >     - **(C)** the notice thereof has been published in accordance with subsection (a) of Public Law 89–259 (22 U.S.C. 2459(a)),
   >   - **(2)** *Nazi-era claims* Paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
   >     - **(A)** the property at issue is the work described in paragraph (1);

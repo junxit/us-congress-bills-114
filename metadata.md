@@ -1,7 +1,7 @@
 ---
 measure: H.R. 889
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 889
@@ -38,3 +38,9 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - 2015-06-08 — Placed on the Union Calendar, Calendar No. 101.
 - 2015-06-08 — Reported by the Committee on Judiciary. H. Rept. 114-141.
 - 2015-06-08 — Reported by the Committee on Judiciary. H. Rept. 114-141.
+- 2015-06-09 — Considered under suspension of the rules. (consideration: CR H3956-3959)
+- 2015-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 889.
+- 2015-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-09 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2015-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3956-3957)
+- 2015-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3956-3957)
