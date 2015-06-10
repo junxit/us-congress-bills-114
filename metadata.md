@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2393
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2393
@@ -105,6 +105,10 @@ Country of Origin Labeling Amendments Act of 2015
 
 - House — Agriculture Committee
 
+## Recorded votes (1)
+
+- 2015-06-10 — [House 114-1-333](votes/house-114-1-0333.md) — On Passage — **Passed** (300–131)
+
 ## Actions
 
 - 2015-05-18 — Introduced in House
@@ -115,3 +119,15 @@ Country of Origin Labeling Amendments Act of 2015
 - 2015-05-29 — Placed on the Union Calendar, Calendar No. 94.
 - 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-131.
 - 2015-05-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-131.
+- 2015-06-09 — Rules Committee Resolution H. Res. 303 Reported to House. Rule provides for consideration of H.R. 2685 and H.R. 2393. The resolution provides for a modified-open rule for H.R.2685 and a closed rule for H.R. 2393.
+- 2015-06-10 — Considered as unfinished business. (consideration: CR H4105)
+- 2015-06-10 — Considered under the provisions of rule H. Res. 303. (consideration: CR H4032-4039)
+- 2015-06-10 — DEBATE - The House proceeded with one hour of debate on H.R. 2393.
+- 2015-06-10 — House amendment offered
+- 2015-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-10 — On passage Passed by the Yeas and Nays: 300 - 131 (Roll no. 333). (text: CR H4032)
+- 2015-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2393, the Chair put the question on adoption of the bill, and by voice vote announced that the ayes had prevailed. Mr. Peterson demanded the yeas and nays, and the Chair postponed further proceedings on adoption until later in the legislative day.
+- 2015-06-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 300 - 131 (Roll no. 333).(text: CR H4032)
+- 2015-06-10 — Rule H. Res. 303 passed House.
+- 2015-06-10 — Rule provides for consideration of H.R. 2685 and H.R. 2393. The resolution provides for a modified-open rule for H.R.2685 and a closed rule for H.R. 2393.
+- 2015-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H4039)
