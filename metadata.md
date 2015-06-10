@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 303
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 303
@@ -16,6 +16,14 @@ Providing for consideration of the bill (H.R. 2685) making appropriations for th
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2015-06-10 — [House 114-1-330](votes/house-114-1-0330.md) — On Agreeing to the Resolution — **Passed** (244–187)
+
 ## Actions
 
 - 2015-06-09 — Introduced in House
@@ -23,3 +31,9 @@ Providing for consideration of the bill (H.R. 2685) making appropriations for th
 - 2015-06-09 — The House Committee on Rules reported an original measure, H. Rept. 114-145, by Mr. Newhouse.
 - 2015-06-09 — The House Committee on Rules reported an original measure, H. Rept. 114-145, by Mr. Newhouse.
 - 2015-06-09 — The resolution provides for a modified-open rule for H.R.2685 and a closed rule for H.R. 2393.
+- 2015-06-10 — Considered as privileged matter. (consideration: CR H4020-4030)
+- 2015-06-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 303.
+- 2015-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 187 (Roll no. 330). (text: CR H4020)
+- 2015-06-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 187 (Roll no. 330).(text: CR H4020)
+- 2015-06-10 — The previous question was ordered without objection. (consideration: CR H4030)
