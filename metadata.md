@@ -1,7 +1,7 @@
 ---
 measure: S. 1292
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1292
@@ -28,3 +28,7 @@ HUBZone Revitalization Act of 2015
 
 - 2015-05-12 — Introduced in Senate
 - 2015-05-12 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2015-06-03 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2015-06-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter without amendment. Without written report.
+- 2015-06-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter without amendment. Without written report.
+- 2015-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.
