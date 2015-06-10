@@ -1,7 +1,7 @@
 ---
 measure: H.R. 235
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 235
@@ -210,9 +210,10 @@ Permanent Internet Tax Freedom Act
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -226,3 +227,4 @@ Permanent Internet Tax Freedom Act
 - 2015-06-09 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2015-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3952)
 - 2015-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3952)
+- 2015-06-10 — Received in the Senate and Read twice and referred to the Committee on Finance.
