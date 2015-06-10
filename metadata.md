@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 611
@@ -52,3 +52,6 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - 2015-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
 - 2015-06-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3975-3976; text: CR S3975)
 - 2015-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3975-3976; text: CR S3975)
+- 2015-06-10 — Message on Senate action sent to the House.
+- 2015-06-10 — Received in the House.
+- 2015-06-10 — Referred to the House Committee on Energy and Commerce.
