@@ -1,7 +1,7 @@
 ---
 measure: H.R. 889
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 889
@@ -44,3 +44,4 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - 2015-06-09 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2015-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3956-3957)
 - 2015-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3956-3957)
+- 2015-06-10 — Received in the Senate.
