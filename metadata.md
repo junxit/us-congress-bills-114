@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2051
@@ -22,9 +22,10 @@ Agriculture Reauthorizations Act of 2015
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Blum, Rod [R-IA-1] (B001294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Agriculture Reauthorizations Act of 2015
 - 2015-06-09 — Mr. Conaway moved to suspend the rules and pass the bill, as amended.
 - 2015-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3929-3930)
 - 2015-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3929-3930)
+- 2015-06-10 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
