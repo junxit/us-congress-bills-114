@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 306
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 306
+
+> Recognizing the centennial of the wreck of the USS Memphis and encouraging the commemoration of such wreck with appropriate events and activities.
+
+## Preamble
+
+- Whereas the USS Tennessee (ACR–10) was launched in 1906 and renamed in 1916 as the USS Memphis (CA–10);
+- Whereas the USS Memphis (CA–10) is the third of six Navy ships named after Memphis, Tennessee, that provided valuable service to the defense of the United States;
+- Whereas August 29, 2016, marks the centennial of the wreck of the USS Memphis in Santo Domingo, Dominican Republic;
+- Whereas the wreck of the 16,000-ton armored cruiser USS Memphis was caused by a highly unusual 75-foot wave event that threw the ship upon the shore of Santo Domingo, resulting in its total destruction and the death of 44 United States sailors and the wounding of many more;
+- Whereas three sailors, Chief Machinist Mate George William Rudd, Lieutenant Claud Ashton Jones, and Machinist Charles Willey, were awarded the Medal of Honor for their heroic actions to get up steam in vain to drive the ship to the safety of the open ocean, battle broken steam lines, and get their fellow sailors to safety;
+- Whereas the United States Naval History and Heritage command possesses a collection of photographs taken during and after the wave event that destroyed the USS Memphis and the United States Naval Support Activity (NAVSUPPACT) Mid-South located in Millington, Tennessee, has a small USS Memphis museum, including the original flag recovered from the wrecked USS Memphis;
+- Whereas the wreck of the USS Memphis is still a vivid part of the history of the Dominican Republic, and her remains graced the shoreline of Santo Domingo for more than 20 years before she was finally scrapped;
+- Whereas Dominicans consider Emeterio Sanchez a hero for risking his life to enter into the raging surf to save the lives of American sailors; and
+- Whereas several entities in the Dominican Republic, including the Dominican Government’s Permanent Commission for “Efemérides Patrias”, the Academy of History of the Dominican Republic, and the Municipality of Santo Domingo are planning to undertake a series of public education and awareness activities to commemorate the centennial of the United States intervention in the Dominican Republic, including the wreck of the USS Memphis: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the centennial of the wreck of the USS Memphis and the memory of the 44 sailors who lost their lives, including the three recipients of the Medal of Honor;
+- **(2)** encourages the Department of State, through its Embassy in Santo Domingo, Dominican Republic, to collaborate with appropriate entities of the Dominican Republic to commemorate this event, which represents an important part of the cultural and historical heritage between the two countries; and
+- **(3)** encourages the Tennessee State Museum, the United States Naval History and Heritage Command, United States Naval Support Activity (NAVSUPPACT) Mid-South, and the United States Naval Institute to collaborate together in appropriate commemoration and public awareness events in the United States as well as in the Dominican Republic.
