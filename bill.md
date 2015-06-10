@@ -43,9 +43,10 @@ Section 21 of the Small Business Act (15 U.S.C. 648) is amended by adding at the
 
 ## § 4. Data collection
 
--  Section 21(a)(3)(A) of the Small Business Act (15 U.S.C. 648(a)(3)(A)) is amended—
-  - **(1)** by striking “as provided in this section and” and inserting “as provided in this section,”; and
-  - **(2)** by inserting before the period at the end the following: “, and (iv) governing data collection activities related to applicants receiving grants under this section”.
+Section 21(a)(3)(A) of the Small Business Act (15 U.S.C. 648(a)(3)(A)) is amended—
+
+- **(1)** by striking “as provided in this section and” and inserting “as provided in this section,”; and
+- **(2)** by inserting before the period at the end the following: “, and (iv) governing data collection activities related to applicants receiving grants under this section”.
 
 ## § 5. Fees from private partnerships and cosponsorships
 
