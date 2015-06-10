@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2289
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2289
@@ -22,9 +22,10 @@ Commodity End-User Relief Act
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -95,3 +96,4 @@ Commodity End-User Relief Act
 - 2015-06-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2289.
 - 2015-06-09 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2015-06-09 — The previous question was ordered pursuant to the rule.
+- 2015-06-10 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
