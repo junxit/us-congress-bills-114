@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2577
@@ -16,9 +16,10 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (31)
 
@@ -678,3 +679,4 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 - 2015-06-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2577.
 - 2015-06-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3997)
 - 2015-06-09 — The previous question was ordered pursuant to the rule. (consideration: CR H3996)
+- 2015-06-10 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
