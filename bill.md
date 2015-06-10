@@ -1,0 +1,20 @@
+---
+legis-num: S. 1535
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1535
+
+> To amend title 49, United States Code, with respect to passenger motor vehicle crash avoidance information, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Safety Through Informed Consumers Act of 2015”.
+
+## § 2. Passenger motor vehicle information
+
+Section 32302 of title 49, United States Code, is amended by inserting after subsection (b) the following:
+
+> - **(c)** *Crash avoidance* Not later than 1 year after the date of the enactment of the Safety Through Informed Consumers Act of 2015, the Secretary shall ensure that crash avoidance information is provided next to, and in the same format as, crashworthiness information at each place that crashworthiness information is made available to the public under this section.
