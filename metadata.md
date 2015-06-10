@@ -1,7 +1,7 @@
 ---
 measure: S. 1470
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1470
@@ -24,3 +24,7 @@ RISE After Disaster Act of 2015
 
 - 2015-05-31 — Introduced in Senate
 - 2015-05-31 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2015-06-03 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-06-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-06-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.
