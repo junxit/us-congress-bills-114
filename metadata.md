@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 54
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 54
@@ -25,3 +25,10 @@ Authorizing the reprinting of the 25th edition of the pocket version of the Unit
 - 2015-06-01 — Introduced in House
 - 2015-06-01 — Introduced in House
 - 2015-06-01 — Referred to the House Committee on House Administration.
+- 2015-06-10 — Committee on House Administration discharged.
+- 2015-06-10 — Committee on House Administration discharged.
+- 2015-06-10 — Considered by unanimous consent. (consideration: CR H4032)
+- 2015-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-10 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider. (consideration: CR H4032)
+- 2015-06-10 — On agreeing to the resolution Agreed to without objection. (text: CR H4032)
+- 2015-06-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4032)
