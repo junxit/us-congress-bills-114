@@ -1,7 +1,7 @@
 ---
 measure: H.R. 160
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 160
@@ -16,7 +16,7 @@ Protect Medical Innovation Act of 2015
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
-## Cosponsors (248)
+## Cosponsors (282)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
@@ -266,6 +266,40 @@ Protect Medical Innovation Act of 2015
 - Rep. Young, Todd C. [R-IN-9] (Y000064)
 - Rep. Holding, George [R-NC-13] (H001065)
 - Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
+- Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Hardy, Cresent [R-NV-4] (H001070)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Capuano, Michael E. [D-MA-7] (C001037)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
 
 ## Committees (1)
 
@@ -276,3 +310,8 @@ Protect Medical Innovation Act of 2015
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Ways and Means.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 14.
+- 2015-06-11 — Placed on the Union Calendar, Calendar No. 105.
+- 2015-06-11 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-147.
+- 2015-06-11 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-147.

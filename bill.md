@@ -20,4 +20,4 @@ This Act may be cited as the “Protect Medical Innovation Act of 2015”.
   - **(1)** Subsection (a) of section 4221 of such Code is amended by striking the last sentence.
   - **(2)** Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence.
 - **(c)** *Clerical amendment* The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E.
-- **(d)** *Effective date* The amendments made by this section shall apply to sales after December 31, 2012.
+- **(d)** *Effective date* The amendments made by this section shall apply to sales in calendar quarters beginning after the date of the enactment of this Act.
