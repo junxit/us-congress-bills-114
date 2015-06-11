@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1295
@@ -25,9 +25,10 @@ Trade Preferences Extension Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-05-14 — [Senate 114-1-178](votes/senate-114-1-0178.md) — On Passage of the Bill — **Bill Passed** (97–1)
+- 2015-06-11 — [House 114-1-345](votes/house-114-1-0345.md) — Concurring in Senate amendments with amendment — **Passed** (397–32)
 
 ## Actions
 
@@ -61,3 +62,11 @@ Trade Preferences Extension Act of 2015
 - 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1223 proposed by Senator Hatch.(consideration: CR S2899)
 - 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1240 proposed by Senator McConnell for Senator Hatch.(consideration: CR S2946; text: CR S2946)
 - 2015-05-14 — Senate amendment submitted
+- 2015-06-10 — ORDER OF BUSINESS - Mr. Sessions asked unanimous consent that it be in order at any time to take from the Speaker's table H.R. 1295, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the chair of the Committee on Ways and Means or his designee that the House (1) concur in the Senate amendment to the title and (2) concur in the Senate amendment to the text with the amendment printed in the portion of the Congressional Record designated for that purpose in clause 8 of rule 18 and numbered (1); that the Senate amendments and the motion be debatable for 1 hour equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and that the previous question be considered as ordered on the motion to its adoption without intervening motion or demand for division of the question. Agreed                to without objection.
+- 2015-06-11 — DEBATE - Pursuant to a previous special order, the House proceeded with one hour of debate on the Ryan(WI) motion to agree to the Senate amendment to the title and agree to the Senate amendment to the text with an amendment No. 1 printed in the Congressional Record.
+- 2015-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-11 — On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 397 - 32 (Roll no. 345). (consideration: CR H4217-4218)
+- 2015-06-11 — Pursuant to a previous order of the House the previous question was ordered without objection. (consideration: CR H4172-4218)
+- 2015-06-11 — Pursuant to a previous special order Mr. Ryan(WI) moved to agree with an amendment to the Senate amendments. (consideration: CR H4172-4218; text of Senate amendment as received in House: CR H4172-4210)
+- 2015-06-11 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 397 - 32 (Roll no. 345).(consideration: CR H4217-4218)
+- 2015-06-11 — UNANIMOUS CONSENT_REQUEST - Mr. Byrne asked unanimous consent that the order of the House of June 10, 2015, regarding consideration of the Senate amendments to H.R. 1295, be modified by striking "printed" and inserting "submitted for printing". Agreed to without objection.

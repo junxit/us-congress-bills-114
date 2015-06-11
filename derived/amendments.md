@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-85 amendatory instructions. 20 executed, 65 stated and not applied.
+118 amendatory instructions. 54 executed, 64 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -123,6 +123,24 @@ to guess them.
 | Removed | `July 31, 2013` |
 | Inserted | `December 31, 2017` |
 
+### 19 U.S.C. § 2463
+
+> in subparagraph (A), by striking “paragraph (4)” and inserting “paragraphs (4) and (5)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (4)` |
+| Inserted | `paragraphs (4) and (5)` |
+
+### 19 U.S.C. § 2463
+
+> in subparagraph (E), by striking “Footwear” and inserting “Except as provided in paragraph (5), footwear”; and
+
+| | |
+|---|---|
+| Removed | `Footwear` |
+| Inserted | `Except as provided in paragraph (5), footwear` |
+
 ### 19 U.S.C. § 2703a
 
 > in the table, by striking “succeeding 11 1-year periods” and inserting “16 succeeding 1-year periods”; and
@@ -186,23 +204,311 @@ to guess them.
 | Removed | `June 30, 2021` |
 | Inserted | `June 30, 2025` |
 
-### 26 U.S.C. § 6049
+### 2 U.S.C. § 901a
 
-> Subparagraph (B) of section 6724(d)(1) of such Code is amended by striking “or” at the end of clause (xxiv), by striking “and” at the end of clause (xxv) and inserting “or”, and by inserting after clause (xxv) the following new clause:
-
-| | |
-|---|---|
-| Removed | `or” at the end of clause (xxiv), by striking “and` |
-| Inserted | `or` |
-
-### 26 U.S.C. § 6049
-
-> Paragraph (2) of section 6724(d) of such Code is amended by striking “or” at the end of subparagraph (GG), by striking the period at the end of subparagraph (HH) and inserting “, or”, and by inserting after subparagraph (HH) the following new subparagraph:
+> Subject to subsection (b), section 251A(6)(D)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a(6)(D)(ii)) is amended by striking “0.25 percent” and inserting “0.0 percent”.
 
 | | |
 |---|---|
-| Removed | `or` |
-| Inserted | `, or` |
+| Removed | `0.25 percent` |
+| Inserted | `0.0 percent` |
+
+### 26 U.S.C. § 25A
+
+> Section 25A(g)(3) of such Code is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” and inserting “$3,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$30” and inserting “$50”;
+
+| | |
+|---|---|
+| Removed | `$30` |
+| Inserted | `$50` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250,000” and inserting “$500,000”.
+
+| | |
+|---|---|
+| Removed | `$250,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$60” and inserting “$100”;
+
+| | |
+|---|---|
+| Removed | `$60` |
+| Inserted | `$100` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” (prior to amendment by subparagraph (A)) and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” and inserting “$1,500,000”.
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” and inserting “$1,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” and inserting “$3,000,000”;
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$75,000” and inserting “$175,000”; and
+
+| | |
+|---|---|
+| Removed | `$75,000` |
+| Inserted | `$175,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250,000” and inserting “$500,000”; and
+
+| | |
+|---|---|
+| Removed | `$250,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$200,000” and inserting “$500,000”; and
+
+| | |
+|---|---|
+| Removed | `$200,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” (prior to amendment by subparagraph (A)) and inserting “$1,500,000”.
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250” in paragraph (2) and inserting “$500”; and
+
+| | |
+|---|---|
+| Removed | `$250` |
+| Inserted | `$500` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” in paragraph (3)(A) and inserting “$3,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” and inserting “$3,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$30” and inserting “$50”;
+
+| | |
+|---|---|
+| Removed | `$30` |
+| Inserted | `$50` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250,000” and inserting “$500,000”.
+
+| | |
+|---|---|
+| Removed | `$250,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$60” and inserting “$100”;
+
+| | |
+|---|---|
+| Removed | `$60` |
+| Inserted | `$100` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$100” (prior to amendment by clause (i)) and inserting “$250”; and
+
+| | |
+|---|---|
+| Removed | `$100` |
+| Inserted | `$250` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” and inserting “$1,500,000”.
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” and inserting “$1,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” and inserting “$3,000,000”;
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$75,000” and inserting “$175,000”; and
+
+| | |
+|---|---|
+| Removed | `$75,000` |
+| Inserted | `$175,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250,000” and inserting “$500,000”; and
+
+| | |
+|---|---|
+| Removed | `$250,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$200,000” and inserting “$500,000”; and
+
+| | |
+|---|---|
+| Removed | `$200,000` |
+| Inserted | `$500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$500,000” (prior to amendment by subparagraph (A)) and inserting “$1,500,000”.
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$1,500,000` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$250” in paragraph (2) and inserting “$500”; and
+
+| | |
+|---|---|
+| Removed | `$250` |
+| Inserted | `$500` |
+
+### 26 U.S.C. § 6721
+
+> by striking “$1,500,000” in paragraph (3)(A) and inserting “$3,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000` |
+| Inserted | `$3,000,000` |
 
 ## Stated, not applied
 
@@ -232,7 +538,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 3703` | strike | in subsection (a), by striking “(a) In general.—”; and | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 3703` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2463` | add-at-end | Section 503(b) of the Trade Act of 1974 (19 U.S.C. 2463(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2463` | strike | Section 503(b)(1)(E) of the Trade Act of 1974 (19 U.S.C. 2463(b)(1)(E)) is amended by striking “handbags, luggage, flat goods,”. | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2463` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2703a` | amend | in subparagraph (B)(v)(I), by amending item (cc) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “For the purposes of subheadings” and all that follows through “6211.20.15” and inserting “For purposes of this chapter”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “garments classifiable in those subheadings” and inserting “a garment”; and | the bill names no machine-readable US Code section |
@@ -273,8 +579,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The Additional U.S. Notes to chapter 64 of the Harmonized Tariff Schedule of the United States are amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after subheading 6402.91.40 the following new subheading, with the article description for subheading 6402.91.42 having the same degree of indentation as the article description for subheading 6402.91.40: | the bill names no machine-readable US Code section |
 | — | insert | By inserting immediately preceding subheading 6402.99.33 the following new subheading, with the article description for subheading 6402.99.32 having the same degree of indentation as the article description for subheading 6402.99.33: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 6049` | strike | Section 6049(a) of the Internal Revenue Code of 1986 is amended by striking “aggregating $10 or more” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6049` | strike | by striking “which involves the payment of $10 or more of interest”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6049` | strike | by striking “in the case of transactions involving $10 or more” in the heading. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6049` | insert | Subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by inserting after section 6049 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6049` | insert | The table of section for subpart B of part III of subchapter A of chapter 61 of such Code is amended by inserting after the item relating to section 6049 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25A` | add-at-end | Section 25A(g) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25A` | redesignate | Section 222(d) of such Code is amended by redesignating paragraph (6) as paragraph (7), and by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25A` | amend | Section 6050S(d)(2) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | add-at-end | Section 6724 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
