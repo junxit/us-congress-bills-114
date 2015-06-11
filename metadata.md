@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2393
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2393
@@ -131,3 +131,4 @@ Country of Origin Labeling Amendments Act of 2015
 - 2015-06-10 — Rule H. Res. 303 passed House.
 - 2015-06-10 — Rule provides for consideration of H.R. 2685 and H.R. 2393. The resolution provides for a modified-open rule for H.R.2685 and a closed rule for H.R. 2393.
 - 2015-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H4039)
+- 2015-06-11 — Received in the Senate.
