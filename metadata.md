@@ -1,7 +1,7 @@
 ---
 measure: H.R. 615
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 615
@@ -53,3 +53,15 @@ Department of Homeland Security Interoperable Communications Act
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
 - 2015-06-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4116-4117; text as passed Senate: CR S4116-4117)
 - 2015-06-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4116-4117; text as passed Senate: CR S4116-4117)
+- 2015-06-12 — Message on Senate action sent to the House.
+- 2015-06-23 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 615.
+- 2015-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-23 — Ms. McSally moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4578-4579)
+- 2015-06-23 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H4578)
+- 2015-06-23 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H4578)
+- 2015-06-24 — Presented to President.
+- 2015-06-24 — Presented to President.
+- 2015-07-06 — Became Public Law No: 114-29.
+- 2015-07-06 — Became Public Law No: 114-29.
+- 2015-07-06 — Signed by President.
+- 2015-07-06 — Signed by President.
