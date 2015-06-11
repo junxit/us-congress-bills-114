@@ -1,7 +1,7 @@
 ---
 measure: H.R. 615
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 615
@@ -51,3 +51,5 @@ Department of Homeland Security Interoperable Communications Act
 - 2015-05-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-53.
 - 2015-05-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-53.
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
+- 2015-06-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4116-4117; text as passed Senate: CR S4116-4117)
+- 2015-06-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4116-4117; text as passed Senate: CR S4116-4117)
