@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 54
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 54
@@ -32,3 +32,5 @@ Authorizing the reprinting of the 25th edition of the pocket version of the Unit
 - 2015-06-10 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider. (consideration: CR H4032)
 - 2015-06-10 — On agreeing to the resolution Agreed to without objection. (text: CR H4032)
 - 2015-06-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4032)
+- 2015-06-11 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4117)
+- 2015-06-11 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4117)
