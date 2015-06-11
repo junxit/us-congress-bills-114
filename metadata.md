@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 23
@@ -53,3 +53,7 @@ National Windstorm Impact Reduction Act Reauthorization of 2015
 - 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 39 (Roll no. 10).(text: CR H84-85)
 - 2015-01-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
 - 2015-01-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-06-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-62.
+- 2015-06-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-62.
+- 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
