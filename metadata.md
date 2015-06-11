@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2250
@@ -70,3 +70,6 @@ Further Continuing Appropriations Act, 2016
 - 2015-05-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3359)
 - 2015-05-19 — The rule provides for consideration of H.R. 1806, H.R. 2250, and H.R. 2353.
 - 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2015-06-11 — Committee on Appropriations. Reported by Senator Capito with an amendment in the nature of a substitute. With written report No. 114-64.
+- 2015-06-11 — Committee on Appropriations. Reported by Senator Capito with an amendment in the nature of a substitute. With written report No. 114-64.
+- 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
