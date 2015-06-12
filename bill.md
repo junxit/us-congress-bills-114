@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 2749
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2749
+
+> To amend the Reclamation Safety of Dams Act of 1978.
+
+## § 1. Short title
+
+This Act may be cited as the “Dams Accountability, Maintenance, and Safety Act”.
+
+## § 2. Authorization of additional project benefits
+
+The Reclamation Safety of Dams Act of 1978 (43 U.S.C. 506 et seq.) is amended—
+
+- **(1)** in section 3, by striking “Construction” and inserting “Except as provided in section 5B, construction”; and
+- **(2)** by inserting after section 5A (43 U.S.C. 509) the following:
+  > ## § 5B. Additional project benefits
+  >
+  > Notwithstanding section 3, if the Secretary determines that additional project benefits, including additional conservation storage capacity, are feasible and not inconsistent with the purposes of this Act, the Secretary is authorized to develop additional project benefits through the construction of new or supplementary works on a project in conjunction with the Secretary’s activities under section 2 and subject to the conditions described in the feasibility study, provided that—
+  >
+  > - **(1)** the Secretary determines that developing additional project benefits through the construction of new or supplementary works on a project will promote more efficient management of water and water-related facilities;
+  > - **(2)** the feasibility study pertaining to additional project benefits has been authorized pursuant to section 8 of the Federal Water Project Recreation Act of 1965 (16 U.S.C. 4601–18); and
+  > - **(3)** the costs associated with developing the additional project benefits are allocated to the authorized purposes of the structure and repaid consistent with all provisions of Federal Reclamation law (the Act of June 17, 1902, 43 U.S.C. 371 et seq.) and Acts supplemental to and amendatory of that Act.
