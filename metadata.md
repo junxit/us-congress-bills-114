@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1190
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1190
@@ -16,7 +16,7 @@ Protecting Seniors' Access to Medicare Act of 2015
 
 - Rep. Roe, David P. [R-TN-1] (R000582)
 
-## Cosponsors (206)
+## Cosponsors (235)
 
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. Posey, Bill [R-FL-8] (P000599)
@@ -224,6 +224,35 @@ Protecting Seniors' Access to Medicare Act of 2015
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Hanna, Richard L. [R-NY-22] (H001051)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 
 ## Committees (3)
 
@@ -239,3 +268,14 @@ Protecting Seniors' Access to Medicare Act of 2015
 - 2015-03-02 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-03-02 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-03-02 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-03-06 — Referred to the Subcommittee on Health.
+- 2015-03-27 — Referred to the Subcommittee on Health.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported by the Yeas and Nays: 31 - 8.
+- 2015-06-12 — Committee on Energy and Commerce discharged.
+- 2015-06-12 — Committee on Energy and Commerce discharged.
+- 2015-06-12 — Committee on Rules discharged.
+- 2015-06-12 — Committee on Rules discharged.
+- 2015-06-12 — Placed on the Union Calendar, Calendar No. 108.
+- 2015-06-12 — Reported by the Committee on Ways and Means. H. Rept. 114-150, Part I.
+- 2015-06-12 — Reported by the Committee on Ways and Means. H. Rept. 114-150, Part I.
