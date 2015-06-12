@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 644
@@ -30,12 +30,18 @@ Trade Facilitation and Trade Enforcement Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (4)
+## Recorded votes (10)
 
 - 2015-02-12 — [House 114-1-79](votes/house-114-1-0079.md) — On Motion to Recommit with Instructions — **Failed** (168–245)
 - 2015-02-12 — [House 114-1-80](votes/house-114-1-0080.md) — On Passage — **Passed** (279–137)
 - 2015-05-14 — [Senate 114-1-179](votes/senate-114-1-0179.md) — On Passage of the Bill — **Bill Passed** (78–20)
 - 2015-06-12 — [House 114-1-363](votes/house-114-1-0363.md) — Concurring in Senate amendments with amendment — **Passed** (240–190)
+- 2015-12-01 — [House 114-1-652](votes/house-114-1-0652.md) — On Motion To Go To Conference — **Passed** (252–170)
+- 2015-12-02 — [House 114-1-655](votes/house-114-1-0655.md) — On Motion to Instruct Conferees — **Failed** (193–232)
+- 2015-12-11 — [House 114-1-692](votes/house-114-1-0692.md) — On Motion to Recommit Conference Report with Instructions — **Failed** (172–239)
+- 2015-12-11 — [House 114-1-693](votes/house-114-1-0693.md) — On Agreeing to the Conference Report — **Passed** (256–158)
+- 2016-02-11 — [Senate 114-2-21](votes/senate-114-2-0021.md) — On the Cloture Motion — **Cloture Motion Agreed to** (73–22)
+- 2016-02-11 — [Senate 114-2-22](votes/senate-114-2-0022.md) — On the Conference Report — **Conference Report Agreed to** (75–20)
 
 ## Actions
 
@@ -82,3 +88,58 @@ Trade Facilitation and Trade Enforcement Act of 2015
 - 2015-06-12 — On motion that the House agree with an amendment to the Senate amendments Agreed to by recorded vote: 240 - 190 (Roll no. 363). (text of Senate amendment with an amendment: CR H4295-4321)
 - 2015-06-12 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on the Tiberi motion to concur in Senate amendment with an amendment to H.R. 644 were postponed.
 - 2015-06-12 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by recorded vote: 240 - 190 (Roll no. 363).(text of Senate amendment with an amendment: CR H4295-4321)
+- 2015-06-23 — Cloture motion on the motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees presented in Senate. (consideration: CR S4523; text: CR S4523)
+- 2015-06-23 — Measure laid before Senate by unanimous consent. (consideration: CR S4523, S4554)
+- 2015-06-23 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2015-06-23 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate.
+- 2015-06-23 — The language of the motion to insist on the Senate amendment to the House bill and the corresponding cloture motion was amended to request a conference with the House by Unanimous Consent.
+- 2015-06-24 — Cloture motion on the motion to insist on Senate amendment to House bill, request a conference, and authorize the Presiding Officer to appoint conferees withdrawn by unanimous consent in Senate. (consideration: CR S4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4584, S4608)
+- 2015-06-24 — Message on Senate action sent to the House.
+- 2015-06-24 — Motion to insist on Senate amendment to House bill, request a conference, and authorize the Presiding Officer to appoint conferees, agreed to by Voice Vote. (consideration: CR S4584)
+- 2015-06-24 — Senate insists on its amendment, asks for a conference, appoints conferees Hatch; Cornyn; Thune; Isakson; Wyden; Schumer; Stabenow. (consideration: CR S4584, S4608)
+- 2015-12-01 — DEBATE - The House proceeded with one hour of debate on the Kuster motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to agree to the provisions contained in subtitle A of title VII of the Senate amendment relating to currency manipulation.
+- 2015-12-01 — DEBATE - The House proceeded with one hour of debate on the motion to agree to a conference on H.R. 644.
+- 2015-12-01 — Mr. Brady (TX) moved that the House insist upon its amendment to the Senate amendment, and agree to a conference (consideration: CR H8838-8839)
+- 2015-12-01 — Ms. Kuster moved that the House instruct conferees. (consideration: CR H8846-8849)
+- 2015-12-01 — On motion that the House insist upon its amendment to the Senate amendment, and agree to a conference Agreed to by recorded vote: 252 - 170 (Roll no. 652). (consideration: CR H8838-8839)
+- 2015-12-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kuster motion to instruct conferees the Chair put the question on adoption of the motion and by voice vote, announced that the noes had prevailed. Ms. Kuster demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until a time to be announced.
+- 2015-12-01 — The previous question was ordered without objection. (consideration: CR H8838)
+- 2015-12-01 — The previous question was ordered without objection. (consideration: CR H8849)
+- 2015-12-02 — Considered as unfinished business. (consideration: CR H8884)
+- 2015-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-02 — On motion that the House instruct conferees Failed by the Yeas and Nays: 193 - 232 (Roll no. 655). (consideration: CR H8884)
+- 2015-12-02 — The Speaker appointed conferees: Brady of Texas, Reichert, Tiberi, Levin, and Linda T. Sánchez of California.
+- 2015-12-07 — Conference committee actions: Conference held.
+- 2015-12-07 — Conference held.
+- 2015-12-09 — Conferees agreed to file conference report.
+- 2015-12-09 — Conference committee actions: Conferees agreed to file conference report.
+- 2015-12-09 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2015-12-09 — Conference report H. Rept. 114-376 filed. (text of conference report: CR H9104-9173)
+- 2015-12-09 — Conference report filed: Conference report H. Rept. 114-376 filed.(text of conference report: CR H9104-9173)
+- 2015-12-11 — Conference report agreed to in House: On agreeing to the conference report Agreed to by recorded vote: 256 - 158 (Roll no. 693).(consideration: CR H9296-9297)
+- 2015-12-11 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 644.
+- 2015-12-11 — Motions to reconsider laid on the table Agreed to without objection.
+- 2015-12-11 — Mr. Brady (TX) brought up conference report H. Rept. 114-376 for consideration pursuant to H.Res. 560. (consideration: CR H9286-9295)
+- 2015-12-11 — Mr. Doggett moved to recommit with instructions to the conference committee. (consideration: CR H9295; text: CR H9295)
+- 2015-12-11 — ORDER OF PROCEDURE - Mr. Brady (TX) asked unanimous consent that the question on adopting a motion to recommit on the conference report to accompany H.R. 644 may be subject to postponement as though under clause 8 of rule 20. Agreed to without objection.
+- 2015-12-11 — On agreeing to the conference report Agreed to by recorded vote: 256 - 158 (Roll no. 693). (consideration: CR H9296-9297)
+- 2015-12-11 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 172 - 239 (Roll no. 692). (consideration: CR H9296)
+- 2015-12-11 — POSTPONED PROCEEDINGS - The instructions contained in the Doggett motion to recommit seek to require the managers on the part of the House to to 1) disagree to a provision that bars the inclusion of climate change provisions in fast track trade deals, 2) disagree to a provision that weakens provisions to combat human trafficking, and 3) insist on the currency manipulation provisions from the Senate version of the Customs bill. The Chair put the question on adoption of the motion to recommit the conference report with instructions (which was not debatable) and by voice vote, announced that the noes had prevailed. Mr. Doggett demanded the yeas and nays and pursuant to a previous order of the House, the roll call vote on the motion to recommit the conference report with instructions was postponed until a time to be announced.
+- 2015-12-11 — The House proceeded to consider the conference report H.Rept. 114-376 as unfinished business. (consideration: CR H9296-9297)
+- 2015-12-11 — The previous question on the motion to recommit with instructions to conference committee was ordered without objection. (consideration: CR H9295)
+- 2015-12-11 — The previous question was ordered pursuant to the rule. (consideration: CR H9295)
+- 2015-12-14 — Conference papers: message on House action held at the desk in Senate.
+- 2016-02-09 — Cloture motion on the conference report to accompany H.R. 644 presented in Senate. (consideration: CR S730; text: CR S730)
+- 2016-02-09 — Conference report considered in Senate. (consideration: CR S730)
+- 2016-02-11 — Cloture on the conference report invoked in Senate by Yea-Nay Vote. 73 - 22. Record Vote Number: 21. (consideration: CR S840; text: CR S840)
+- 2016-02-11 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 75 - 20. Record Vote Number: 22.(consideration: CR S846)
+- 2016-02-11 — Conference report considered in Senate. (consideration: CR S836-846)
+- 2016-02-11 — Message on Senate action sent to the House.
+- 2016-02-11 — Senate agreed to conference report by Yea-Nay Vote. 75 - 20. Record Vote Number: 22. (consideration: CR S846)
+- 2016-02-23 — Presented to President.
+- 2016-02-23 — Presented to President.
+- 2016-02-24 — Became Public Law No: 114-125.
+- 2016-02-24 — Became Public Law No: 114-125.
+- 2016-02-24 — Signed by President.
+- 2016-02-24 — Signed by President.

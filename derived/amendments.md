@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-180 amendatory instructions. 60 executed, 120 stated and not applied.
+230 amendatory instructions. 69 executed, 161 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,24 +60,6 @@ to guess them.
 | Removed | `section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note)` |
 | Inserted | `section 109 of the Trade Facilitation and Trade Enforcement Act of 2015` |
 
-### 19 U.S.C. § 1516a
-
-> in subparagraph (A)(i)(I), by striking “or (viii)” and inserting “(viii), or (ix)”; and
-
-| | |
-|---|---|
-| Removed | `or (viii)` |
-| Inserted | `(viii), or (ix)` |
-
-### 19 U.S.C. § 1677b
-
-> in paragraph (1), by striking “business” and inserting “trade”; and
-
-| | |
-|---|---|
-| Removed | `business` |
-| Inserted | `trade` |
-
 ### 19 U.S.C. § 2416
 
 > in section 306(b) (19 U.S.C. 2416(b)), in the subsection heading, by striking “Further Action” and inserting “Action on the Basis of Monitoring”;
@@ -86,6 +68,33 @@ to guess them.
 |---|---|
 | Removed | `Further Action` |
 | Inserted | `Action on the Basis of Monitoring` |
+
+### 19 U.S.C. § 2171
+
+> by striking “and one Chief Agricultural Negotiator” and inserting “, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator,”;
+
+| | |
+|---|---|
+| Removed | `and one Chief Agricultural Negotiator` |
+| Inserted | `, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator,` |
+
+### 19 U.S.C. § 2171
+
+> by striking “or the Chief Agricultural Negotiator” and inserting “, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator”; and
+
+| | |
+|---|---|
+| Removed | `or the Chief Agricultural Negotiator` |
+| Inserted | `, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator` |
+
+### 19 U.S.C. § 2171
+
+> by striking “and the Chief Agricultural Negotiator” and inserting “, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator”; and
+
+| | |
+|---|---|
+| Removed | `and the Chief Agricultural Negotiator` |
+| Inserted | `, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator` |
 
 ### 6 U.S.C. § 211
 
@@ -413,7 +422,7 @@ to guess them.
 
 ### 19 U.S.C. § 1313
 
-> in paragraph (3), by striking “they contain” and inserting “it contains”.
+> in paragraph (3), by striking “they contain” each place it appears and inserting “it contains”.
 
 | | |
 |---|---|
@@ -494,32 +503,68 @@ to guess them.
 
 ### 19 U.S.C. § 1508
 
-> by striking “3rd” and inserting “5th”; and
-
-| | |
-|---|---|
-| Removed | `3rd` |
-| Inserted | `5th` |
-
-### 19 U.S.C. § 1508
-
-> by striking “payment” and inserting “liquidation”.
+> Section 508(c)(3) of the Tariff Act of 1930 (19 U.S.C. 1508(c)(3)) is amended by striking “payment” and inserting “liquidation”.
 
 | | |
 |---|---|
 | Removed | `payment` |
 | Inserted | `liquidation` |
 
-### 19 U.S.C. § 58c
+### 19 U.S.C. § 1501
 
-> by striking “For the period” and inserting “(a) In general.—For the period”; and
+> in the section heading, by striking “the Customs Service” and inserting “U.S. Customs and Border Protection”;
 
 | | |
 |---|---|
-| Removed | `For the period` |
-| Inserted | `(a) In general.—For the period` |
+| Removed | `the Customs Service` |
+| Inserted | `U.S. Customs and Border Protection` |
 
-### 8 U.S.C. § 1101
+### 19 U.S.C. § 1501
+
+> by striking “the Customs Service” and inserting “U.S. Customs and Border Protection”; and
+
+| | |
+|---|---|
+| Removed | `the Customs Service` |
+| Inserted | `U.S. Customs and Border Protection` |
+
+### 19 U.S.C. § 1501
+
+> by striking “on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent” and inserting “of the original liquidation”.
+
+| | |
+|---|---|
+| Removed | `on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent` |
+| Inserted | `of the original liquidation` |
+
+### 19 U.S.C. § 4203
+
+> in subsection (b)(3), by striking “an official” and inserting “a delegate and official”; and
+
+| | |
+|---|---|
+| Removed | `an official` |
+| Inserted | `a delegate and official` |
+
+### 19 U.S.C. § 4203
+
+> by striking “an official” each place it appears and inserting “a delegate and official”; and
+
+| | |
+|---|---|
+| Removed | `an official` |
+| Inserted | `a delegate and official` |
+
+### 19 U.S.C. § 4205
+
+> Section 106(b)(6)(A) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (Public Law 114–26; 19 U.S.C. 4205(b)(6)(A)) is amended by striking “to which the minimum” and all that follows through “7107(b)(1))” and inserting “listed as a tier 3 country in the most recent annual report on trafficking in persons”.
+
+| | |
+|---|---|
+| Removed | `to which the minimum” and all that follows through “7107(b)(1))` |
+| Inserted | `listed as a tier 3 country in the most recent annual report on trafficking in persons` |
+
+### 19 U.S.C. § 4204
 
 > in subparagraph (A)(ii), by striking “section 102(b)(16)” and inserting “section 102(b)(17)”; and
 
@@ -528,7 +573,7 @@ to guess them.
 | Removed | `section 102(b)(16)` |
 | Inserted | `section 102(b)(17)` |
 
-### 8 U.S.C. § 1101
+### 19 U.S.C. § 4204
 
 > in subparagraph (B)(ii), by striking “section 102(b)(16)” and inserting “section 102(b)(17)”; and
 
@@ -537,14 +582,41 @@ to guess them.
 | Removed | `section 102(b)(16)` |
 | Inserted | `section 102(b)(17)` |
 
-### 8 U.S.C. § 1101
+### 19 U.S.C. § 4205
 
-> in section 106(b)(5), by striking “section 102(b)(15)(C)” and inserting “section 102(b)(16)(C)”.
+> in section 106(b)(5) (Public Law 114–26; 129 Stat. 354; 19 U.S.C. 4205(b)(5)), by striking “section 102(b)(15)(C)” and inserting “section 102(b)(16)(C)”.
 
 | | |
 |---|---|
 | Removed | `section 102(b)(15)(C)` |
 | Inserted | `section 102(b)(16)(C)` |
+
+### 19 U.S.C. § 1304
+
+> in the subsection heading, by striking “Manhole rings or frames, covers, and assemblies thereof” and inserting “Castings”;
+
+| | |
+|---|---|
+| Removed | `Manhole rings or frames, covers, and assemblies thereof` |
+| Inserted | `Castings` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (A), by striking “July 7, 2025” and inserting “September 30, 2025”; and
+
+| | |
+|---|---|
+| Removed | `July 7, 2025` |
+| Inserted | `September 30, 2025` |
+
+### 19 U.S.C. § 3805
+
+> by striking “June 30, 2025” and inserting “September 30, 2025”; and
+
+| | |
+|---|---|
+| Removed | `June 30, 2025` |
+| Inserted | `September 30, 2025` |
 
 ### 26 U.S.C. § 6651
 
@@ -564,6 +636,15 @@ to guess them.
 | Removed | `$135` |
 | Inserted | `$205` |
 
+### 47 U.S.C. § 151
+
+> Section 1104(a)(2)(A) of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by striking “October 1, 2015” and inserting “June 30, 2020”.
+
+| | |
+|---|---|
+| Removed | `October 1, 2015` |
+| Inserted | `June 30, 2020` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -573,45 +654,34 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 2075` | amend | Section 311(b)(3) of the Customs Border Security Act of 2002 (19 U.S.C. 2075 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2075` | strike | Section 311(b) of the Customs Border Security Act of 2002 (19 U.S.C. 2075 note) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1411` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (5) through (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 58c` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2071` | repeal | Effective on the date on which the Advisory Committee is established under subsection (a), section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2071` | amend | Section 343(a)(3)(F) of the Trade Act of 2002 (19 U.S.C. 2071 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1641` | add-at-end | Section 641 of the Tariff Act of 1930 (19 U.S.C. 1641) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1481` | insert | Part III of title IV of the Tariff Act of 1930 (19 U.S.C. 1481 et seq.) is amended by inserting after section 484b the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1628` | insert | The Tariff Act of 1930 is amended by inserting after section 628 (19 U.S.C. 1628) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1595a` | strike | in subparagraph (E), by striking “or”; | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1595a` | replace | in subparagraph (F), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1595a` | replace | in subparagraph (F), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1595a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1677f` | insert | Section 777(b)(1)(A)(ii) of the Tariff Act of 1930 (19 U.S.C. 1677f(b)(1)(A)(ii)) is amended by inserting “negligence, gross negligence, or” after “regarding”. | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 1671` | insert | Title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq.) is amended by inserting after section 781 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1671` | insert | The table of contents for title VII of the Tariff Act of 1930 is amended by inserting after the item relating to section 781 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1516a` | insert | in subparagraph (B), by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1516a` | insert | The Tariff Act of 1930 is amended by inserting after section 516A (19 U.S.C. 1516a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1516a` | insert | Section 1581(c) of title 28, United States Code, is amended by inserting “or 517” after “516A”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1675` | strike | by striking clause (iii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1675` | redesignate | by redesignating clause (iv) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677e` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677e` | replace | by striking “Adverse Inferences.—If” and inserting the following: “Adverse Inferences.— | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677e` | replace | by striking “under this title, may use” and inserting the following: “under this title— | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677e` | replace | by striking “facts otherwise available. Such adverse inference may include” and inserting the following: “facts otherwise available; and | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677e` | replace | by striking “Corroboration of Secondary Information.—When the” and inserting the following: “Corroboration of Secondary Information.— | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677` | add-at-end | Section 771(7) of the Tariff Act of 1930 (19 U.S.C. 1677(7)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677` | amend | Subclause (I) of section 771(7)(C)(iii) of the Tariff Act of 1930 (19 U.S.C. 1677(7)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677` | replace | in subclause (I), by striking the comma and inserting “, and”; | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 1677` | replace | in subclause (II), by striking “, and” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677` | strike | by striking subclause (III). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677` | add-at-end | Section 771(15) of the Tariff Act of 1930 (19 U.S.C. 1677(15)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677b` | strike | Section 773(a)(1)(B)(ii)(III) of the Tariff Act of 1930 (19 U.S.C. 1677b(a)(1)(B)(ii)(III)) is amended by striking “in such other country.”. | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677b` | replace | by striking the flush text at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677b` | replace | Section 773(b)(2) of the Tariff Act of 1930 (19 U.S.C. 1677b(b)(2)) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677b` | add-at-end | Section 773(c) of the Tariff Act of 1930 (19 U.S.C. 1677b(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677m` | redesignate | in paragraph (1), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and by moving such clauses, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677m` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677m` | replace | by striking “Investigations and Reviews.—In” and inserting the following: “Investigations and Reviews.— | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1677m` | redesignate | in paragraph (1), as designated by paragraph (3), by amending subparagraph (B), as redesignated by paragraph (2), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1675` | redesignate | by inserting after clause (iii), as redesignated by paragraph (2) of this section, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 634c` | replace | in the matter preceding paragraph (1), by striking “The Office of Advocacy” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 4202` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 649` | redesignate | by redesignating subsection (l) as subsection (m); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 695` | insert | by inserting after subsection (k) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4721` | insert | Subtitle C of the Export Enhancement Act of 1988 (15 U.S.C. 4721 et seq.) is amended by inserting after section 2313 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | insert | in subsection (e), in the first sentence, by inserting “(other than members described in subsection (d)(2))” after “Members of the TPCC”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 4727` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 4727` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 4727` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | insert | in subsection (f)(1), by inserting “(including implementation of the survey and analysis described in paragraph (7) of that subsection)” after “the implementation of such plan”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2420` | amend | Section 310 of the Trade Act of 1974 (19 U.S.C. 2420) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2420` | replace | The table of contents for the Trade Act of 1974 is amended by striking the item relating to section 310 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2416` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -621,6 +691,19 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2417` | insert | in section 307(c)(3) (19 U.S.C. 2417(c)(3)), by inserting “or if a request is submitted to the Trade Representative under section 306(c)(2) to reinstate action,” after “under section 301,”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2251` | add-at-end | Chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2101` | insert | The table of contents for the Trade Act of 1974 (19 U.S.C. 2101 et seq.) is amended by inserting after the item relating to section 204 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2171` | add-at-end | Section 141 of the Trade Act of 1974 (19 U.S.C. 2171) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2171` | insert | Section 141(d)(1)(A) of the Trade Act of 1974 (19 U.S.C. 2171(d)(1)(A)) is amended by inserting “, including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h),” afte… | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2213` | strike | in subparagraph (J), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2213` | replace | in subparagraph (K), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2411` | strike | in clause (ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2411` | replace | in clause (iii)(V), by striking the period at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2411` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2171` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2171` | replace | Section 5314 of title 5, United States Code is amended by striking “Chief Agricultural Negotiator.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2242` | insert | Section 182(d)(2) of the Trade Act of 1974 (19 U.S.C. 2242(d)(2)) is amended by inserting “, trade secrets,” after “copyrights”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2242` | replace | Section 182 of the Trade Act of 1974 (19 U.S.C. 2242) is amended by striking subsection (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | amend | Section 411 of the Homeland Security Act of 2002 (6 U.S.C. 211) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by striking the item relating to section 411 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | repeal | Sections 416 and 418 of the Homeland Security Act of 2002 (6 U.S.C. 216 and 218), and the items relating to such sections in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -646,6 +729,10 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2071` | add-at-end | The Act of March 3, 1927 (44 Stat. 1381, chapter 348; 19 U.S.C. 2071 et seq.), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2072` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2072` | redesignate | by redesignating subsections (e) and (f) as subsections (d) and (e), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1356` | replace | Section 286(i) of the Immigration and Nationality Act (8 U.S.C. 1356(i)) is amended by striking the last sentence and inserting the following: “Reimbursements under this subsection may be collected in advance of the provision of such imm… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8311` | amend | Section 10412(b) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8311(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1641` | replace | in subparagraph (E), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 1641` | replace | in subparagraph (F), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1641` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -662,7 +749,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 1313` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | amend | Section 313(i) of the Tariff Act of 1930 (19 U.S.C. 1313(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | insert | by inserting “and before the drawback claim is filed” after “the date of importation”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 1313` | insert | by inserting “and before the drawback claim is filed” after “the imported merchandise”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1313` | insert | by inserting “and before the drawback claim is filed” after “the imported merchandise”; | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1313` | replace | in subparagraph (C)(ii), by striking subclause (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | replace | by striking the last sentence and inserting the following: “Notwithstanding subparagraph (A), drawback shall be allowed under this paragraph with respect to wine if the imported wine and the exported wine are of the same color and the pr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -676,20 +763,55 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 1313` | replace | in paragraph (2), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | strike | Section 313 of the Tariff Act of 1930 (19 U.S.C. 1313) is amended by striking subsection (t). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1313` | add-at-end | Section 313 of the Tariff Act of 1930 (19 U.S.C. 1313) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2213` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 2213` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1307` | strike | Section 307 of the Tariff Act of 1930 (19 U.S.C. 1307) is amended by striking “The provisions of this section” and all that follows through “of the United States.”. | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 58c` | add-at-end | Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1451` | replace | by striking “(1) Notwithstanding section 451 of the Tariff Act of 1930 (19 U.S.C. 1451) or any other provision of law (other than paragraph (2))” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 58c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | replace | in paragraph (13), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1307` | strike | Section 307 of the Tariff Act of 1930 (19 U.S.C. 1307) is amended by striking “The provisions of this section” and all that follows through “of the United States.”. | the bill quotes the text struck but describes what replaces it |
+| — | repeal | Section 601 of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 387) is repealed, and any provision of law amended by such section is restored as if such section had not been enacted into law. | the bill names no machine-readable US Code section |
+| — | replace | by striking “For the purposes of subheadings” and all that follows through “6211.20.15” and inserting “For the purposes of subheadings 6201.92.17, 6201.92.35, 6201.93.47, 6201.93.60, 6202.92.05, 6202.92.30, 6202.93.07, 6202.93.48, 6203.4… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(see ASTM designations D 3600-81 and D 3781-79)” and inserting “(see current version of ASTM D7017)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “in accordance with AATCC Test Method 35-1985.” and inserting “in accordance with the current version of AATCC Test Method 35.”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new note: | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6201.91.10 through 6201.91.20 and inserting the following, with the superior text to subheading 6201.91.03 having the same degree of indentation as the article description for subheading 6201.91.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6201.92.10 through 6201.92.20 and inserting the following, with the superior text to subheading 6201.92.05 having the same degree of indentation as the article description for subheading 6201.92.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6201.93.10 through 6201.93.35 and inserting the following, with the superior text to subheading 6201.93.15 having the same degree of indentation as the article description for subheading 6201.93.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6201.99.10 through 6201.99.90 and inserting the following, with the superior text to subheading 6201.99.05 having the same degree of indentation as the article description for subheading 6201.99.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6202.91.10 through 6202.91.20 and inserting the following, with the superior text to subheading 6202.91.03 having the same degree of indentation as the article description for subheading 6202.91.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6202.92.10 through 6202.92.20 and inserting the following, with the superior text to subheading 6202.92.03 having the same degree of indentation as the article description for subheading 6202.92.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6202.93.10 through 6202.93.50 and inserting the following, with the superior text to subheading 6202.93.01 having the same degree of indentation as the article description for subheading 6202.93.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6202.99.10 through 6202.99.90 and inserting the following, with the superior text to subheading 6202.99.03 having the same degree of indentation as the article description for subheading 6202.99.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6203.41 through 6203.41.20 and inserting the following, with the article description for subheading 6203.41 having the same degree of indentation as the article description for subheading 6203.41 (as in effect on … | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6203.42.10 through 6203.42.40 and inserting the following, with the superior text to subheading 6203.42.03 having the same degree of indentation as the article description for subheading 6203.42.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6203.43.10 through 6203.43.40 and inserting the following, with the superior text to subheading 6203.43.01 having the same degree of indentation as the article description for subheading 6203.43.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6203.49.10 through 6203.49.80 and the immediate superior text to subheading 6203.49.10, and inserting the following, with the superior text to subheading 6203.49.01 having the same degree of indentation as the art… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6204.61.10 through 6204.61.90 and inserting the following, with the superior text to subheading 6204.61.05 having the same degree of indentation as the article description for subheading 6204.61.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6204.62.10 through 6204.62.40 and inserting the following, with the superior text to subheading 6204.62.03 having the same degree of indentation as the article description for subheading 6204.62.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6204.63.10 through 6204.63.35 and inserting the following, with the superior text to subheading 6204.63.01 having the same degree of indentation as the article description for subheading 6204.63.10 (as in effect o… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6204.69.10 through 6204.69.90 and the immediate superior text to subheading 6204.69.10, and inserting the following, with the first superior text having the same degree of indentation as the article description of… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6210.40.30 through 6210.40.90 and the immediate superior text to subheading 6210.40.30, and inserting the following, with the first superior text having the same degree of indentation as the immediate superior tex… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6210.50.30 through 6210.50.90 and the immediate superior text to subheading 6210.50.30, and inserting the following, with the first superior text having the same degree of indentation as the immediate superior tex… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheading 6211.32.00 and inserting the following, with the article description for subheading 6211.32 having the same degree of indentation as the article description for subheading 6211.32.00 (as in effect on the day before… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheading 6211.33.00 and inserting the following, with the article description for subheading 6211.33 having the same degree of indentation as the article description for subheading 6211.33.00 (as in effect on the day before… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6211.39.05 through 6211.39.90 and inserting the following, with the first superior text having the same degree of indentation as the article description for subheading 6211.39.05 (as in effect on the day before th… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheading 6211.42.00 and inserting the following, with the article description for subheading 6211.42 having the same degree of indentation as the article description for subheading 6211.42.00 (as in effect on the day before… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheading 6211.43.00 and inserting the following, with the article description for subheading 6211.43 having the same degree of indentation as the article description for subheading 6211.43.00 (as in effect on the day before… | the bill names no machine-readable US Code section |
+| — | replace | By striking subheadings 6211.49.10 through 6211.49.90 and inserting the following, with the first superior text having the same degree of indentation as the article description for subheading 6211.49.90 (as in effect on the day before th… | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 1514` | redesignate | by redesignating the Additional U.S. Note added by section 602(a) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 413) as Additional U.S. Note 6; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1514` | replace | in subheading 6402.91.42, by striking the matter in the column 1 special rate of duty column and inserting the following: “Free (AU, BH, CA, CL, D, IL, JO, MA, MX, P, R, SG) 1%(PA) 6%(OM) 6%(PE) 12%(CO) 20%(KR)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1514` | replace | in subheading 6402.99.32, by striking the matter in the column 1 special rate of duty column and inserting the following: “Free (AU, BH, CA, CL, D, IL, JO, MA, MX, P, R, SG) 1%(PA) 6%(OM) 6%(PE) 12%(CO) 20%(KR)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1514` | amend | Section 602(c) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 414) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4201` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 4201` | replace | in paragraph (13), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | replace | in paragraph (14), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | add-at-end | Section 102(b) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | insert | Section 104(c)(2)(C) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 is amended by inserting after the first sentence the following: “In addition, the chairman and ranking members described in subparagraph… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4201` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 4201` | replace | in paragraph (14), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4201` | add-at-end | Section 102(b) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (Public Law 114–26; 19 U.S.C. 4201(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4203` | insert | by inserting after the first sentence the following: “In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to se… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4205` | replace | Section 106(b)(6) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (Public Law 114–26; 19 U.S.C. 4205(b)(6)) is amended by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4206` | add-at-end | Section 107 of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (Public Law 114–26; 19 U.S.C. 4206) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1304` | insert | by inserting “inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes,” before “manhole rings,”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1304` | add-at-end | by adding at the end before the period the following: “in a location such that it will remain visible after installation”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2171` | add-at-end | Section 141(b) of the Trade Act of 1974 (19 U.S.C. 2171(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | strike | by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 3805` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 151` | strike | Section 1101(a) of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by striking “during the period beginning November 1, 2003, and ending October 1, 2015”. | the bill quotes the text struck but describes what replaces it |
