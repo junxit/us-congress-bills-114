@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2505
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2505
@@ -16,10 +16,12 @@ Medicare Advantage Coverage Transparency Act of 2015
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (2)
 
@@ -33,3 +35,12 @@ Medicare Advantage Coverage Transparency Act of 2015
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-05-22 — Referred to the Subcommittee on Health.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-06-03 — Referred to the Subcommittee on Health.
+- 2015-06-12 — Committee on Energy and Commerce discharged.
+- 2015-06-12 — Committee on Energy and Commerce discharged.
+- 2015-06-12 — Placed on the Union Calendar, Calendar No. 110.
+- 2015-06-12 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-152, Part I.
+- 2015-06-12 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-152, Part I.
