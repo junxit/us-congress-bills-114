@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 644
@@ -30,11 +30,12 @@ Trade Facilitation and Trade Enforcement Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2015-02-12 — [House 114-1-79](votes/house-114-1-0079.md) — On Motion to Recommit with Instructions — **Failed** (168–245)
 - 2015-02-12 — [House 114-1-80](votes/house-114-1-0080.md) — On Passage — **Passed** (279–137)
 - 2015-05-14 — [Senate 114-1-179](votes/senate-114-1-0179.md) — On Passage of the Bill — **Bill Passed** (78–20)
+- 2015-06-12 — [House 114-1-363](votes/house-114-1-0363.md) — Concurring in Senate amendments with amendment — **Passed** (240–190)
 
 ## Actions
 
@@ -75,3 +76,9 @@ Trade Facilitation and Trade Enforcement Act of 2015
 - 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator Hatch.(consideration: CR S2899)
 - 2015-05-14 — Senate amendment proposed (on the floor): Amendment SA 1241 proposed by Senator McConnell for Senator Hatch.(consideration: CR S2946; text: CR S2946)
 - 2015-05-14 — Senate amendment submitted
+- 2015-06-12 — DEBATE - Pursuant to the provisions of H.Res. 305, the House proceeded with one hour of debate on the Tiberi motion that the House concur in the Senate amendment to the title of H.R. 644 and concur in the Senate amendment to the text of H.R. 644 with the amendment printed in part A of the House Report 114-146 modified by the amendment printed in part B of the report.
+- 2015-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-12 — Mr. Tiberi moved that the House agree with an amendment to the Senate amendments. (consideration: CR H4271-4333, H4335; text of Senate amendment as received in House: CR H4271-4295)
+- 2015-06-12 — On motion that the House agree with an amendment to the Senate amendments Agreed to by recorded vote: 240 - 190 (Roll no. 363). (text of Senate amendment with an amendment: CR H4295-4321)
+- 2015-06-12 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on the Tiberi motion to concur in Senate amendment with an amendment to H.R. 644 were postponed.
+- 2015-06-12 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by recorded vote: 240 - 190 (Roll no. 363).(text of Senate amendment with an amendment: CR H4295-4321)
