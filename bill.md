@@ -27,7 +27,7 @@ The Congress finds the following:
 - **(8)** It is estimated that in the United States 231,840 women will be diagnosed with and 40,290 women will die of cancer of the breast in 2015. This means that every 13 minutes a woman dies of breast cancer in the United States.
 - **(9)** However, due to disease type and lack of adequate care, African-American women have the highest death rates of all racial and ethnic groups overall and are at least 44 percent more likely to die of breast cancer as compared to other racial and ethnic groups.
 - **(10)** Breast cancer used to be considered a disease of aging but recent trends show that more aggressive forms of the disease have been increasingly diagnosed in younger women.
-- **(11)** Breast cancer is the most frequently diagnosed cancer among nearly every racial and ethnic group, including African-American, American Indian/Alaska Native, Asian/Pacific Islander and Hispanic/Latina women.
+- **(11)** Breast cancer is the most frequently diagnosed cancer among nearly every racial and ethnic group, including African-American, American Indian/Alaska Native, Asian/Pacific Islander, and Hispanic/Latina women.
 - **(12)** Clinical advances, resulting from research, have led to increased survival from breast cancer. Since 1990, death rates from breast cancer have dropped over 34 percent.
 - **(13)** Among men in the United States it is estimated that there will be 2,350 new cases of invasive breast cancer and 440 breast cancer deaths in 2015.
 - **(14)** At this time there are more than 3.1 million breast cancer survivors in the United States.
@@ -36,19 +36,14 @@ The Congress finds the following:
 - **(17)** Breast cancer is the most common cancer in women worldwide, with an estimated 1.7 million new cases of breast cancer among women worldwide in 2012.
 - **(18)** Breast Cancer Research Foundation (BCRF) is considered one of the most efficient cancer research charities.
 - **(19)** Of every dollar donated to BCRF, $0.91 goes to research and awareness programs—88 cents towards research and 3 cents towards awareness.
-- **(20)** Founded in 1993, the BCRF has raised more than $500 million to fuel discoveries in tumor biology, genetics, prevention, treatment, survivorship and metastasis, making BCRF one of the largest private funders of breast cancer research in the world. For 2014–2015, BCRF committed $58.6 million in research, including $11.6 million to the international Evelyn H. Lauder Founder’s Fund focused on metastasis, to support the work of more than 220 researchers at leading medical institutions across six continents (25 states and 14 countries).
-- **(21)** Susan G. Komen (Komen) is the largest non-government funder of breast cancer research, funding research that spans the breast cancer continuum from basic biology to treatment to survivorship.
-- **(22)** Over the past 5 years, more than 80 cents of every dollar spent by Komen has gone directly to its mission to save lives and end breast cancer by empowering people, ensuring quality care for all and energizing science to find the cures.
-- **(23)** Since its inception in 1982, Komen has invested more than $2.6 billion towards its mission, including more than $847 million in over 2400 research grants and 450 clinical trials in 48 states and 21 different countries. Recent funding has focused on research to stem metastatic and aggressive disease, find scientifically sound preventive strategies, and investigate environmental links to breast cancer development.
-- **(24)** Today, BCRF and Susan G. Komen continue their work to advance research and support programs for patients and their families.
+- **(20)** Founded in 1993, the BCRF has raised more than $500 million to fuel discoveries in tumor biology, genetics, prevention, treatment, survivorship, and metastasis, making BCRF one of the largest private funders of breast cancer research in the world. For 2014–2015, BCRF committed $58.6 million in research, including $11.6 million to the international Evelyn H. Lauder Founder’s Fund focused on metastasis, to support the work of more than 220 researchers at leading medical institutions across 6 continents (25 states and 14 countries).
 
 ## § 3. Coin specifications
 
 - **(a)** *Denominations* The Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
   - **(1)** *$5 gold coins* Not more than 50,000 $5 gold coins, which shall—
-    - **(A)** weigh 8.359 grams;
-    - **(B)** have a diameter of 0.850 inches; and
-    - **(C)** contain 90 percent gold and 10 percent alloy.
+    - **(A)** have a diameter of 0.850 inches; and
+    - **(B)** be made of “pink gold” which contains not less than 75 percent gold.
   - **(2)** *$1 silver coins* Not more than 400,000 $1 coins, which shall—
     - **(A)** weigh 26.73 grams;
     - **(B)** have a diameter of 1.500 inches; and
@@ -70,9 +65,9 @@ The Congress finds the following:
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall be selected by the Secretary based on the winning design from a juried, compensated design competition described under subsection (c).
 - **(c)** *Design competition*
-  - **(1)** *In general* The Secretary shall hold a competition and provide compensation for its winner to design the obverse and reverse of the coins minted under this Act. The competition shall be judged by an expert jury chaired by the Secretary and consisting of 3 members from the Citizens Coinage Advisory Committee who shall be elected by such Committee and 3 members from the Commission of Fine Arts who shall be elected by such Commission.
+  - **(1)** *In general* The Secretary shall hold a competition and provide compensation for its winner to design the obverse and reverse of the coins minted under this Act. The competition shall be judged by an expert jury chaired by the Secretary and consisting of three members from the Citizens Coinage Advisory Committee who shall be elected by such Committee and three members from the Commission of Fine Arts who shall be elected by such Commission.
   - **(2)** *Proposals* As part of the competition described in this subsection, the Secretary may accept proposals from artists, engravers of the United States Mint, and members of the general public, and any designs submitted for the design review process described herein shall be anonymized until a final selection is made.
-  - **(3)** *Accompanying designs; preference for physical designs* The Secretary shall encourage 3-dimensional designs to be submitted as part of the proposals, and the jury shall give a preference for proposals that are accompanied by a 3-dimensional physical design instead of, or in addition to, an electronic design.
+  - **(3)** *Accompanying designs; preference for physical designs* The Secretary shall encourage three-dimensional designs to be submitted as part of the proposals, and the jury shall give a preference for proposals that are accompanied by a three-dimensional physical design instead of, or in addition to, an electronic design.
   - **(4)** *Compensation* The Secretary shall determine compensation for the winning design under this subsection, which shall be not less than $5,000. The Secretary shall take into account this compensation amount when determining the sale price described in section 6(a).
 
 ## § 5. Issuance of coins
@@ -97,19 +92,6 @@ The Congress finds the following:
   - **(1)** $35 per coin for the $5 coin;
   - **(2)** $10 per coin for the $1 coin; and
   - **(3)** $5 per coin for the half-dollar coin.
-- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges which are received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary as follows:
-  - **(1)** ½ to the Susan G. Komen for the Cure, Dallas, Texas, for the purpose of furthering research funded by the organization.
-  - **(2)** ½ to the Breast Cancer Research Foundation, New York, New York, for the purpose of furthering research funded by the Foundation.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges which are received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Breast Cancer Research Foundation, New York, New York, for the purpose of furthering breast cancer research funded by the Foundation.
 - **(c)** *Audits* The surcharge recipients under subsection (b) shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under that subsection.
-- **(d)** *Limitations* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
-
-## § 8. Financial assurances
-
-The Secretary shall take such actions as may be necessary to ensure that—
-
-- **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
-- **(2)** no funds, including applicable surcharges, shall be disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
-
-## § 9. Budget compliance
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
+- **(d)** *Limitations* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual two commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.

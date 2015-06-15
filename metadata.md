@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2722
