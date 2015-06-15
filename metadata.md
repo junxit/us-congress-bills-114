@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2559
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2559
@@ -58,8 +58,21 @@ To designate the "PFC Milton A. Lee Medal of Honor Memorial Highway" in the Stat
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2015-06-15 — [House 114-1-365](votes/house-114-1-0365.md) — On Motion to Suspend the Rules and Pass — **Passed** (389–0)
+
 ## Actions
 
 - 2015-05-21 — Introduced in House
 - 2015-05-21 — Introduced in House
 - 2015-05-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-05-22 — Referred to the Subcommittee on Highways and Transit.
+- 2015-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-06-15 — Considered as unfinished business. (consideration: CR H4361-4362)
+- 2015-06-15 — Considered under suspension of the rules. (consideration: CR H4352-4353)
+- 2015-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2559.
+- 2015-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-15 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
+- 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365). (text: CR H4352)
+- 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365).(text: CR H4352)
