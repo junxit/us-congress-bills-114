@@ -1,7 +1,7 @@
 ---
 measure: H.R. 728
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 728
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 7050 Hi
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-05-19 — Committee Consideration and Mark-up Session Held.
+- 2015-05-19 — Ordered to be Reported by Unanimous Consent.
+- 2015-06-15 — Considered under suspension of the rules. (consideration: CR H4360-4361)
+- 2015-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 728.
+- 2015-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-15 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4360)
+- 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4360)
