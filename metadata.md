@@ -1,7 +1,7 @@
 ---
 measure: S. 558
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 558
@@ -16,10 +16,11 @@ Presidential Library Donation Reform Act of 2015
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Presidential Library Donation Reform Act of 2015
 
 - 2015-02-25 — Introduced in Senate
 - 2015-02-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-03-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-65.
+- 2015-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-65.
+- 2015-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.
