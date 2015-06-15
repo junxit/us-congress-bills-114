@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1350
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1350
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 442 Eas
 
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
-## Cosponsors (23)
+## Cosponsors (26)
 
 - Rep. Rangel, Charles B. [D-NY-13] (R000053)
 - Rep. Crowley, Joseph [D-NY-14] (C001038)
@@ -41,6 +41,9 @@ To designate the facility of the United States Postal Service located at 442 Eas
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
 ## Committees (1)
 
@@ -51,3 +54,10 @@ To designate the facility of the United States Postal Service located at 442 Eas
 - 2015-03-10 — Introduced in House
 - 2015-03-10 — Introduced in House
 - 2015-03-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-05-19 — Ordered to be Reported by Unanimous Consent.
+- 2015-06-15 — Considered under suspension of the rules. (consideration: CR H4359-4360)
+- 2015-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1350.
+- 2015-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-15 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4359)
+- 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4359)
