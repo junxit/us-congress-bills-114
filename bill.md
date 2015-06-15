@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2776
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2776
+
+> To direct the Secretary of Transportation to issue regulations with respect to the size standards certain air carriers utilize for carry-on baggage, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Carry-On Freedom Act of 2015”.
+
+## § 2. Carry-On baggage
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall issue regulations to prohibit a covered air carrier from utilizing a size standard with respect to carry-on baggage that reduces, in any manner, the size standard utilized by the carrier on June 8, 2015.
+- **(b)** *Definitions* In this section, the following definitions apply:
+  - **(1)** *Air carrier* The term air carrier has the meaning given that term in section 40102(a) of title 49, United States Code.
+  - **(2)** *Covered air carrier* The term covered air carrier means any air carrier that charges passengers a fee for checked baggage.
