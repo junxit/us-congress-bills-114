@@ -27,6 +27,7 @@ Section 1853(b) of the Social Security Act (42 U.S.C. 1395w–23(b)) is amended�
     >   - **(i)** The annual MA capitation rate for each MA payment area for such year.
     >   - **(ii)** The risk and other factors to be used in adjusting such rates under subsection (a)(1)(A) for payments for months in such year.
     >   - **(iii)** With respect to each MA region and each MA regional plan for which a bid was submitted under section 1854, the MA region-specific non-drug monthly benchmark amount for that region for the year involved.
+    >   - **(iv)** The major policy changes to the risk adjustment model, and the 5-star rating system established under subsection (o), that are determined to have an economic impact.
 
 - **(3)** in paragraph (2)—
   - **(A)** by inserting “(or, for 2017 and each subsequent year, at least 60 days)” after “45 days”; and

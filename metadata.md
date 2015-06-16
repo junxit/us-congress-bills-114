@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2507
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2507
@@ -16,10 +16,13 @@ Increasing Regulatory Fairness Act of 2015
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Murphy, Patrick [D-FL-18] (M001191)
 
 ## Committees (2)
 
@@ -33,3 +36,12 @@ Increasing Regulatory Fairness Act of 2015
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-21 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-05-22 — Referred to the Subcommittee on Health.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-06-03 — Referred to the Subcommittee on Health.
+- 2015-06-16 — Committee on Energy and Commerce discharged.
+- 2015-06-16 — Committee on Energy and Commerce discharged.
+- 2015-06-16 — Placed on the Union Calendar, Calendar No. 115.
+- 2015-06-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-159, Part I.
+- 2015-06-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-159, Part I.
