@@ -9,9 +9,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title XVIII of the Social Security Act to establish a 3-year demonstration program to test the use of value-based insurance design methodologies under eligible Medicare Advantage plans, to preserve Medicare beneficiary choice under Medicare Advantage, to revise the treatment under the Medicare program of infusion drugs furnished through durable medical equipment, and for other purposes.
 
-## § 1. Demonstration program
+## § 1. Short title
 
-- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish a 3-year demonstration program to test the use of value-based insurance design methodologies (as defined in subsection (c)(1)) under eligible Medicare Advantage plans offered by Medicare Advantage organizations under part C of title XVIII of the Social Security Act (42 U.S.C. 1395w–21 et seq.).
+This Act may be cited as the “Preservation of Access for Seniors in Medicare Advantage Act of 2015”.
+
+## § 2. Demonstration program
+
+- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish a 3-year demonstration program to test the use of value-based insurance design methodologies (as defined in subsection (c)(1)) under eligible Medicare Advantage plans offered by Medicare Advantage organizations under part C of title XVIII of the Social Security Act (42 U.S.C. 1395w–21 et seq.). The Secretary may extend the program to a duration of 4 or 5 years, as determined necessary by the Secretary in coordination with the Centers for Medicare and Medicaid Innovation.
 - **(b)** *Demonstration program design*
   - **(1)** *Selection of Medicare Advantage sites and eligible Medicare Advantage plans* Not later than two years after the date of the enactment of this Act, the Secretary shall—
     - **(A)** select at least two Medicare Advantage sites with respect to which to conduct the demonstration program under this section; and
@@ -21,16 +25,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** The plan is an Medicare Advantage regional plan (as defined in paragraph (4) of section 1859(b) of such Act (42 U.S.C. 1395w–28(b))) or Medicare Advantage local plan (as defined in paragraph (5) of such section) offered in the Medicare Advantage region selected under paragraph (1)(A).
     - **(B)** The plan has—
       - **(i)**
-        - **(I)** a quality rating under section 1853(n)(4) of such Act (42 U.S.C. 1395w–23(n)(4)) of 4 stars or higher based on the most recent data available for such year, or
-        - **(II)** in the case of a specialized Medicare Advantage plan for special needs individuals, as defined in section 1859(b)(6)(A) of such Act (42 U.S.C. 1395w–28(b)(6)(A)), a quality rating under 1853(n)(4) of such Act (42 U.S.C. 1395w–23(n)(4)) equal to or higher than the national average for special needs plans (excluding Institutional-Special needs plans) based on the most recent data available for such year; and
-      - **(ii)** at least 20 percent of the population to whom the plan is offered consists of subsidy eligible individuals (as defined in section 1860D–14(a)(3)(A) of the Social Security Act (42 U.S.C. 1395w–114(a)(3)(A))).
+        - **(I)** a quality rating under section 1853(o) of such Act (42 U.S.C. 1395w–23(o)) of 4 stars or higher based on the most recent data available for such year, or
+        - **(II)** in the case of a specialized Medicare Advantage plan for special needs individuals, as defined in section 1859(b)(6)(A) of such Act (42 U.S.C. 1395w–28(b)(6)(A)), a quality rating under section 1853(o) of such Act (42 U.S.C. 1395w–23(o)) equal to or higher than the national average for special needs plans (excluding Institutional-Special needs plans) based on the most recent data available for such year; and
+      - **(ii)** at least 20 percent of the population to whom the plan is offered in a service area consists of subsidy eligible individuals (as defined in section 1860D–14(a)(3)(A) of the Social Security Act (42 U.S.C. 1395w–114(a)(3)(A))).
   - **(4)** *Disclosure to beneficiaries* The Secretary shall provide to each individual eligible to enroll under a Medicare Advantage plan approved to participate under the demonstration program during a plan year for which the plan is so selected—
     - **(A)** notification that the plan is participating in such demonstration program;
     - **(B)** background information on the demonstration program;
     - **(C)** clinical data derived from the studies resulting from the demonstration program; and
     - **(D)** notification of the potential benefits that the individual will receive, and of the other potential impacts that the individual will experience, on account of the participation of the plan in the demonstration program.
 - **(c)** *Value-Based insurance design methodologies*
-  - **(1)** *Definition* For purposes of this section, the term value-based insurance design methodology means a methodology for identifying specific prescription medications, and clinical services that are payable under title XVIII of the Social Security Act, for which copayments, coinsurance, or both, would improve the management of specific chronic clinical conditions because of the high value and effectiveness of such medications and services for such specific chronic clinical conditions, as approved by the Secretary.
+  - **(1)** *Definition* For purposes of this section, the term value-based insurance design methodology means a methodology for identifying specific prescription medications, and clinical services that are payable under title XVIII of the Social Security Act, for which the reduction of copayments, coinsurance, or both, would improve the management of specific chronic clinical conditions because of the high value and effectiveness of such medications and services for such specific chronic clinical conditions, as approved by the Secretary.
   - **(2)** *Use of methodologies to reduce copayments and coinsurance* A Medicare Advantage organization offering an eligible Medicare Advantage plan approved to participate under the demonstration program, for each plan year for which the plan is so selected and using value-based insurance design methodologies—
     - **(A)** shall identify each prescription medication and clinical service covered under such plan for which the plan proposes to reduce or eliminate the copayment or coinsurance, with respect to the management of specific chronic clinical conditions (as specified by the Secretary) of Medicare Advantage eligible individuals (as defined in section 1851(a)(3) of the Social Security Act (42 U.S.C. 1395w–21(a)(3))) enrolled under such plans, for such plan year;
     - **(B)** may, for such plan year, reduce or eliminate copayments, coinsurance, or both for such prescription medication and clinical services so identified with respect to the management of such conditions of such individuals—
@@ -58,11 +62,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** Such recommendations as the Secretary considers appropriate for enhancing the utilization of the methodologies applied under the demonstration program to all Medicare Advantage plans under part C of title XVIII of the Social Security Act so as to reduce copayments and coinsurance under such plans paid by Medicare beneficiaries for high-value prescription medications and clinical services for which coverage is provided under such plans and to otherwise improve the quality of health care provided under such plans.
   - **(4)** *Oversight report* Not later than three years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the demonstration program that includes an assessment, with respect to individuals enrolled under Medicare Advantage plans approved to participate under the demonstration program, of the impact that the age, co-morbidities, and geographic regions of such individuals had upon the implementation of the demonstration program by the plans with respect to such individuals.
 - **(f)** *Savings* In no case may any reduction in beneficiary copayments or coinsurance resulting from the implementation of the demonstration program under this section result in expenditures under parts A, B, and D of the title XVIII of the Social Security Act that are greater than such expenditures without application of this section.
-- **(g)** *Expansion of demonstration program* Taking into account the review and assessment conducted under subsection (e), the Secretary may, through notice and comment rulemaking, expand (including implementation on a nationwide basis) the duration and scope of the demonstration program under title XVIII of the Social Security Act, other than under the original Medicare fee-for-service program under parts A and B of such title, to the extent determined appropriate by the Secretary, if the requirements of paragraphs (1), (2) and (3) of subsection (c) of section 1115A of the Social Security Act (42 U.S.C. 1315a), as applied to the testing of a model under subsection (b) of such section, applied to the demonstration under this section.
+- **(g)** *Expansion of demonstration program* Taking into account the review and assessment conducted under subsection (e), the Secretary may, through notice and comment rulemaking, expand (including implementation on a nationwide basis) the duration and scope of the demonstration program under title XVIII of the Social Security Act, other than under the original medicare fee-for-service program under parts A and B of such title, to the extent determined appropriate by the Secretary, if the requirements of paragraphs (1), (2) and (3) of subsection (c) of section 1115A of the Social Security Act (42 U.S.C. 1315a), as applied to the testing of a model under subsection (b) of such section, applied to the demonstration under this section.
 - **(h)** *Waiver authority* The Secretary may waive such provisions of titles XI and XVIII of the Social Security Act as may be necessary to carry out the demonstration program under this section.
 - **(i)** *Implementation funding* For purposes of carrying out the demonstration program under this section, the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Insurance Trust Fund under section 1841 of the Social Security Act (42 U.S.C. 1395t), including the Medicare Prescription Drug Account in such Trust Fund, in such proportion as determined appropriate by the Secretary, of such sums as may be necessary.
 
-## § 2. Preservation of Medicare beneficiary choice under Medicare Advantage
+## § 3. Preservation of Medicare beneficiary choice under Medicare Advantage
 
 Section 1851(e)(2) of the Social Security Act (42 U.S.C. 1395w–21(e)(2)) is amended—
 
@@ -71,12 +75,14 @@ Section 1851(e)(2) of the Social Security Act (42 U.S.C. 1395w–21(e)(2)) is am
   - **(B)** by inserting “and ending with 2015” after “beginning with 2011”; and
 - **(2)** by adding at the end the following new subparagraph:
   > - **(G)** *Continuous open enrollment and disenrollment for first 3 months in 2016 and subsequent years*
-  >   - **(i)** *In general* Subject to clause (ii) and subparagraph (D), at any time during the first 3 months of a year (beginning with 2016), or, if the individual first becomes a Medicare Advantage eligible individual during a year (beginning with 2016), during the first 3 months of such year in which the individual is a Medicare Advantage eligible individual, a Medicare Advantage eligible individual may change the election under subsection (a)(1).
+  >   - **(i)** *In general* Subject to clause (ii) and subparagraph (D)—
+  >     - **(I)** in the case of an MA eligible individual who is enrolled in an MA plan, at any time during the first 3 months of a year (beginning with 2016); or
+  >     - **(II)** in the case of an individual who first becomes an MA eligible individual during a year (beginning with 2016) and enrolls in an MA plan, during the first 3 months during such year in which the individual is an MA eligible individual;
   >   - **(ii)** *Limitation of one change during open enrollment period each year* An individual may change the election pursuant to clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
   >   - **(iii)** *Limited application to part D* Clauses (i) and (ii) of this subparagraph shall only apply with respect to changes in enrollment in a prescription drug plan under part D in the case of an individual who, previous to such change in enrollment, is enrolled in a Medicare Advantage plan.
-  >   - **(iv)** *Limitations on marketing* Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause.
+  >   - **(iv)** *Limitations on marketing* Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause, notwithstanding marketing guidelines established by the Centers for Medicare & Medicaid Services.
 
-## § 3. Treatment of infusion drugs furnished through durable medical equipment
+## § 4. Treatment of infusion drugs furnished through durable medical equipment
 
 Section 1842(o)(1) of the Social Security Act (42 U.S.C. 1395u(o)(1)) is amended—
 
@@ -86,3 +92,10 @@ Section 1842(o)(1) of the Social Security Act (42 U.S.C. 1395u(o)(1)) is amended
   - **(B)** in clause (i)—
     - **(i)** by striking “2004” and inserting “2004, and before January 1, 2017”; and
     - **(ii)** by striking “for such drug”.
+
+## § 5. Sense of Congress regarding the implementation and distribution of quality incentive payments to Medicare Advantage plans
+
+It is the sense of Congress that—
+
+- **(1)** the Secretary of Health and Human Services has incorrectly interpreted subsection (n) of section 1853 of the Social Security Act (42 U.S.C. 1395w–23) as prohibiting the provision of any Medicare quality incentive payments under subsection (o) of such section with respect to Medicare Advantage plans that exceed the payment benchmark cap under such subsection (n) for the area served by such plans; and
+- **(2)** the Secretary should immediately apply quality incentive payments under such subsection (o) with respect to such Medicare Advantage plans without regard to the limits set forth in such subsection (n).
