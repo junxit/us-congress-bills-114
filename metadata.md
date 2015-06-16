@@ -1,7 +1,7 @@
 ---
 measure: H.R. 891
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 891
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 141 Pal
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. O'Rourke, Beto [D-TX-16] (O000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To designate the facility of the United States Postal Service located at 141 Pal
 - 2015-06-15 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4357)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4357)
+- 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
