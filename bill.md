@@ -1,0 +1,15 @@
+---
+legis-num: S. 1583
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1583
+
+> To authorize the expansion of an existing hydroelectric project.
+
+## § 1. Kodiak Electric Association Upper Hidden Basin Diversion authorization
+
+- **(a)** *In general* The special-use permit for the Terror Lake Hydroelectric Project (Federal Energy Regulatory Commission project No. 2743) described in section 1325 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3212) is amended as depicted on the map entitled “Upper Hidden Basin Diversion Project” and dated May 18, 2015, for the construction, operation, and maintenance of a tunnel and associated facilities and activities for the Upper Hidden Basin Diversion.
+- **(b)** *Limitation* The tunnel and associated facilities and activities described in subsection (a) shall be subject to appropriate terms and conditions included in an amendment to a license issued by the Federal Energy Regulatory Commission pursuant to the Federal Power Act (16 U.S.C. 791a et seq.), including section 4(e) of that Act (16 U.S.C. 797(e)).
