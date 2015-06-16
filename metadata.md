@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2559
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2559
@@ -78,3 +78,15 @@ To designate the "PFC Milton A. Lee Medal of Honor Memorial Highway" in the Stat
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365). (text: CR H4352)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365).(text: CR H4352)
 - 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2015-08-05 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2015-08-05 — Passed Senate without amendment by Unanimous Consent.
+- 2015-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-08-05 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6425)
+- 2015-08-05 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6425)
+- 2015-08-06 — Message on Senate action sent to the House.
+- 2015-08-06 — Presented to President.
+- 2015-08-06 — Presented to President.
+- 2015-08-07 — Became Public Law No: 114-49.
+- 2015-08-07 — Became Public Law No: 114-49.
+- 2015-08-07 — Signed by President.
+- 2015-08-07 — Signed by President.
