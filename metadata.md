@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2559
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2559
@@ -54,9 +54,10 @@ To designate the "PFC Milton A. Lee Medal of Honor Memorial Highway" in the Stat
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Williams, Roger [R-TX-25] (W000816)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ To designate the "PFC Milton A. Lee Medal of Honor Memorial Highway" in the Stat
 - 2015-06-15 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365). (text: CR H4352)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 365).(text: CR H4352)
+- 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
