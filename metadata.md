@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1350
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1350
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 442 Eas
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 442 Eas
 - 2015-06-15 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4359)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4359)
+- 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
