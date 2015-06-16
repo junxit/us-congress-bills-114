@@ -1,8 +1,8 @@
 ---
 legis-num: S. 565
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 565

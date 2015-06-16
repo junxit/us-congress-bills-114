@@ -1,7 +1,7 @@
 ---
 measure: S. 565
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 565
@@ -40,3 +40,15 @@ Federal Vehicle Repair Cost Savings Act of 2015
 - 2015-06-16 — Message on Senate action sent to the House.
 - 2015-06-16 — Received in the House.
 - 2015-06-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6269-6271)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 565.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Walberg moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6269-6270)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6269-6270)
+- 2015-09-30 — Presented to President.
+- 2015-09-30 — Presented to President.
+- 2015-10-07 — Became Public Law No: 114-65.
+- 2015-10-07 — Became Public Law No: 114-65.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
