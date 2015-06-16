@@ -1,7 +1,7 @@
 ---
 measure: S. 565
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 565
@@ -22,9 +22,10 @@ Federal Vehicle Repair Cost Savings Act of 2015
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Federal Vehicle Repair Cost Savings Act of 2015
 - 2015-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
 - 2015-06-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4168; text as passed Senate: CR S4168)
 - 2015-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4168; text as passed Senate: CR S4168)
+- 2015-06-16 — Message on Senate action sent to the House.
+- 2015-06-16 — Received in the House.
+- 2015-06-16 — Referred to the House Committee on Oversight and Government Reform.
