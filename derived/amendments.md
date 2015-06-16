@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2596
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 3 executed, 26 stated and not applied.
+33 amendatory instructions. 4 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `any department, agency, or other element of the United States Government` |
 | Inserted | `any Federal, State (as defined in section 804), or local governmental agency or unit thereof` |
+
+### 20 U.S.C. § 1101a
+
+> in the subsection heading for such subsection, by striking “historically black” and inserting “certain minority-Serving”; and
+
+| | |
+|---|---|
+| Removed | `historically black` |
+| Inserted | `certain minority-Serving` |
 
 ### 50 U.S.C. § 3024
 
@@ -75,11 +84,14 @@ complete account of the bill's effect, which it is not.
 | — | strike | in clause (vii), by striking “or”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (vii) the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in clause (x), by striking the period and inserting a semicolon. | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1101a` | insert | in paragraph (1), by inserting “, Hispanic-serving institutions, and” after “universities”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1101a` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1101a` | insert | by inserting after paragraph (4) the following new paragraph (5): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 801` | amend | Subsection (c) of section 319 of the Supplemental Appropriations Act, 2009 (Public Law 111–32; 123 Stat. 1874; 10 U.S.C. 801 note) is amended by adding after paragraph (5) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 801` | add-at-end | Subsection (a) of such section is amended by adding at the end the following: “The reports may be submitted in classified form.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3104` | strike | by striking subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3104` | redesignate | by redesignating subsections (b) and (c) as subsections (a) and (b), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 532` | strike | Section 2001(g) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 118 Stat. 3700; 28 U.S.C. 532 note) is amended by striking paragraphs (3) and (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 532` | redesignate | Section 2001(g) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 118 Stat. 3700; 28 U.S.C. 532 note) is amended by striking paragraph (3) and redesignating paragraph (4) as paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3024` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3106` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3106` | redesignate | by redesignating paragraph (6) as paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -22,7 +22,3 @@ In this Act:
   - **(1)** the Select Committee on Intelligence of the Senate; and
   - **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.
 - **(b)** *Intelligence community* The term intelligence community has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
-
-## § 3. Budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Budget Committee of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
