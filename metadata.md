@@ -1,7 +1,7 @@
 ---
 measure: H.R. 728
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 728
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 7050 Hi
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 7050 Hi
 - 2015-06-15 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4360)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4360)
+- 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
