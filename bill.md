@@ -1,0 +1,25 @@
+---
+legis-num: S. 1584
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1584
+
+> To repeal the renewable fuel standard
+
+## § 1. Short title
+
+This Act may be cited as the “Renewable Fuel Standard Repeal Act”.
+
+## § 2. Repeal of renewable fuel standard
+
+- **(a)** *In general* Section 211 of the Clean Air Act (42 U.S.C. 7545) is amended—
+  - **(1)** in subsection (d)—
+    - **(A)** in paragraphs (1) and (2), by striking “(n), or (o)” each place it appears and inserting “or (n)”; and
+    - **(B)** in paragraph (1), in the second sentence, by striking “(m), or (o)” and inserting “or (m)”;
+  - **(2)** by striking subsection (o); and
+  - **(3)** by redesignating subsections (q) through (v) as subsections (o) through (t), respectively.
+- **(b)** *Additional repeal* Section 204 of the Energy Independence and Security Act of 2007 (42 U.S.C. 7545 note; Public Law 110–140) is repealed.
+- **(c)** *Regulations* Effective beginning on the date of enactment of this Act, the regulations contained in subparts K and M of part 80 of title 40, Code of Federal Regulations (as in effect on that date of enactment), shall have no force or effect.
