@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2131
@@ -25,9 +25,10 @@ To designate the Federal building and United States courthouse located at 83 Mee
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 - Rep. Rice, Tom [R-SC-7] (R000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the Federal building and United States courthouse located at 83 Mee
 - 2015-06-15 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4350-4351)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4350-4351)
+- 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
