@@ -1,7 +1,7 @@
 ---
 measure: S. 1519
 congress: 114
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 

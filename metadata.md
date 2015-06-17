@@ -1,7 +1,7 @@
 ---
 measure: S. 1519
 congress: 114
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1519
@@ -16,15 +16,20 @@ PORTS Act
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
 - 2015-06-04 — Introduced in Senate
 - 2015-06-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-06-17 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2015-06-17 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2015-06-17 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
