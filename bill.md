@@ -16,18 +16,21 @@ This Act may be cited as the “Department of Homeland Security Headquarters Con
 ## § 2. Report on Department of Homeland Security headquarters consolidation project
 
 - **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Administrator of General Services, shall submit to the appropriate committees of Congress a report on the Department of Homeland Security headquarters consolidation project within the National Capital Region. Such report shall include each of the following:
-  - **(1)** A current list of the components and offices proposed to be included in the consolidation project.
+  - **(1)** A proposed occupancy plan for the consolidation project that includes specific information about which Department-wide operations, component operations, and support offices will be located at the site, the aggregate number of full time equivalent employees projected to occupy the site, and schedule estimates for migrating operations to the site.
   - **(2)** A comprehensive assessment of the current and future real property needed by the Department in the National Capital Region in order to carry out the mission of the Department to secure the homeland and defend the Nation against future acts of terrorism.
   - **(3)** An analysis of the difference between the current and needed capital assets and facilities of the Department.
   - **(4)** A current plan for construction of the headquarters consolidation at the St. Elizabeths campus that includes—
     - **(A)** the estimated costs and schedule for the current plan; and
-    - **(B)** the estimated costs savings of reducing the scope of the consolidation project and increasing the use of existing capacity developed under the project.
+    - **(B)** any estimated costs savings associated with reducing the scope of the consolidation project and increasing the use of existing capacity developed under the project.
   - **(5)** A current plan for the leased portfolio of the Department in the National Capital Region that includes—
     - **(A)** the total rentable square feet, number of personnel, and proposed utilization rates;
-    - **(B)** the replacement and consolidation plan, including timing and anticipated leased terms, for leased space under the plan referred to in paragraph (4); and
+    - **(B)** the replacement and consolidation plan, including—
+      - **(i)** an end-state vision that identifies which Department-wide operations, component operations, and support offices do not migrate to the St. Elizabeths campus and continue to operate at a property in the leased portfolio;
+      - **(ii)** the number of full time equivalent employees who are expected to operate at each property, component, or office; and
+      - **(iii)** timing and anticipated leased terms, for leased space under the plan referred to in paragraph (4); and
     - **(C)** the costs and benefits of leasing and construction alternatives for the headquarters consolidation project.
   - **(6)** A detailed list of alternatives considered by the Department during the development of the plan referred to in paragraph (4), including the costs and benefits of alternatives to such plan.
-- **(b)** *Update of cost and schedule estimates* Not later than 90 days after date of the submittal of the report required by subsection (a), the Secretary, in coordination with the Administrator of General Services, shall complete the update of the cost and schedule estimates for the portions of the consolidation project that are not yet complete as of such date based on the information contained in the report. Consistent with the recommendation of the Government Accountability Office in GAO–14–648, such estimates shall conform to relevant Federal guidance for cost and schedule estimates.
+- **(b)** *Update of cost and schedule estimates* Not later than 180 days after date of the submittal of the report required by subsection (a), the Secretary, in coordination with the Administrator of General Services, shall complete the update of the cost and schedule estimates for the portions of the consolidation project that are not yet complete as of such date based on the information contained in the report. Consistent with the recommendation of the Government Accountability Office in GAO–14–648, such estimates shall conform to relevant Federal guidance for cost and schedule estimates.
 - **(c)** *Comptroller General review*
   - **(1)** *Review required* The Comptroller General of the United States shall review the update of the cost and schedule estimates under subsection (b) to evaluate the quality and reliability of such estimates.
   - **(2)** *Assessment* Not later than 60 days after the completion of the update of the cost and schedule estimates under subsection (b), the Comptroller General shall report to the appropriate congressional committees on the results of the review required by paragraph (1).
