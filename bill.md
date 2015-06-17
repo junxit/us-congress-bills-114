@@ -15,10 +15,12 @@ This Act may be cited as the “DHS IT Duplication Reduction Act of 2015”.
 
 ## § 2. DHS information technology duplication reduction
 
-- **(a)** *Information technology duplication reduction*
-  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Chief Information Officer of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:
-    - **(A)** The number of information technology systems at the Department of Homeland Security.
-    - **(B)** An assessment of the number of such systems that are duplicative.
-    - **(C)** A strategy for reducing such duplicative systems, including an assessment of potential cost savings or cost avoidance as a result of such reduction.
-- **(b)** *Definition* In this Act, the term “information technology” has the meaning given such term in section 11101 of title 40, United States Code.
+- **(a)** *Information technology duplication reduction* Not later than 90 days after the date of the enactment of this Act, the Chief Information Officer of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:
+  - **(1)** The number of information technology systems at the Department of Homeland Security.
+  - **(2)** An assessment of the number of such systems exhibiting duplication or fragmentation.
+  - **(3)** A strategy for reducing such duplicative systems, including an assessment of potential cost savings or cost avoidance as a result of such reduction.
+  - **(4)** A methodology for determining which system should be eliminated when there is duplication or fragmentation.
+- **(b)** *Definitions* In this Act:
+  - **(1)** The term “duplication or fragmentation” of information technology systems means two or more systems or programs that deliver similar functionality to similar user populations.
+  - **(2)** The term “information technology” has the meaning given such term in section 11101 of title 40, United States Code.
 - **(c)** *No new authorization of funding* This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security. No additional funds are authorized to be appropriated to carry out this section.
