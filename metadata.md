@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2507
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2507
@@ -45,3 +45,9 @@ Increasing Regulatory Fairness Act of 2015
 - 2015-06-16 — Placed on the Union Calendar, Calendar No. 115.
 - 2015-06-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-159, Part I.
 - 2015-06-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-159, Part I.
+- 2015-06-17 — Considered under suspension of the rules. (consideration: CR H4481-4483)
+- 2015-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2507.
+- 2015-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-17 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
+- 2015-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4481)
+- 2015-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4481)
