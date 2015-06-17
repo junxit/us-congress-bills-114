@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2206
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2206
@@ -31,3 +31,10 @@ State Wide Interoperable Communications Enhancement Act
 - 2015-05-01 — Introduced in House
 - 2015-05-01 — Introduced in House
 - 2015-05-01 — Referred to the House Committee on Homeland Security.
+- 2015-05-11 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2015-05-14 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-06-17 — Placed on the Union Calendar, Calendar No. 121.
+- 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-165.
+- 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-165.

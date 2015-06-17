@@ -20,10 +20,10 @@ This Act may be cited as the “State Wide Interoperable Communications Enhancem
   - **(2)** inserting after subparagraph (A) the following new subparagraph:
     > - **(B)**
     >   - **(i)** certification that the Governor of the State has designated a Statewide Interoperability Coordinator, including identification in such certification of the individual so designated, who shall be responsible for—
-    >     - **(I)** overseeing the daily operations of the State’s interoperability efforts;
+    >     - **(I)** coordinating the daily operations of the State’s interoperability efforts;
     >     - **(II)** coordinating State interoperability and communications projects and grant applications for such projects;
     >     - **(III)** establishing and maintaining working groups to develop and implement key interoperability initiatives; and
-    >     - **(IV)** implementing and updating, as necessary, a Statewide Communications Interoperability Plan that specifies the current status of State efforts to enhance communications interoperability within the State, including progress or setbacks, and future goals for communications interoperability among emergency response agencies in the State; or
+    >     - **(IV)** coordinating and updating, as necessary, a Statewide Communications Interoperability Plan that specifies the current status of State efforts to enhance communications interoperability within the State, including progress, modifications, or setbacks, and future goals for communications interoperability among emergency response agencies in the State; or
     >   - **(ii)** if a Statewide Interoperability Coordinator has not been designated in accordance with clause (i)—
     >     - **(I)** certification that the State is performing in another manner the functions described in subclauses (I) through (IV) of such clause; and
     >     - **(II)** identification in such certification of an individual who has been designated by the State as the primary point of contact for performance of such functions;
