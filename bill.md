@@ -21,24 +21,25 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
   > - **(a)** *In general* The Office of Intelligence and Analysis of the Department of Homeland Security shall—
   >   - **(1)** support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, biological, radiological, and nuclear materials against the Nation;
   >   - **(2)** support homeland security-focused intelligence analysis of global infectious disease, public health, food, agricultural, and veterinary issues;
-  >   - **(3)** support homeland security-focused risk analysis and risk assessments of the homeland security hazards described in paragraphs (1) and (2) by providing relevant quantitative and nonquantitative threat information;
+  >   - **(3)** support homeland security-focused risk analysis and risk assessments of the homeland security hazards described in paragraphs (1) and (2), including the transportation of chemical, biological, nuclear, and radiological materials, by providing relevant quantitative and nonquantitative threat information;
   >   - **(4)** leverage existing and emerging homeland security intelligence capabilities and structures to enhance prevention, protection, response, and recovery efforts with respect to a chemical, biological, radiological, or nuclear attack;
-  >   - **(5)** share information and provide tailored analytical support on these threats to State, local, and tribal authorities as well as other national biosecurity and biodefense stakeholders; and
+  >   - **(5)** share information and provide tailored analytical support on these threats to State, local, and tribal authorities as well as other national biosecurity and biodefense stakeholders and other Federal agencies, as appropriate; and
   >   - **(6)** perform other responsibilities, as assigned by the Secretary.
-  > - **(b)** *Coordination* Where appropriate, the Office of Intelligence and Analysis shall coordinate with other relevant Department components, including the National Biosurveillance Integration Center, others in the Intelligence Community, including the National Counter Proliferation Center, and other Federal, State, local, and tribal authorities, including officials from high-threat areas, and enable such entities to provide recommendations on optimal information sharing mechanisms, including expeditious sharing of classified information, and on how they can provide information to the Department.
-  > - **(c)** *Report*
-  >   - **(1)** *In general* Not later than one year after the date of the enactment of this section and annually thereafter, the Secretary shall report to the appropriate congressional committees on—
-  >     - **(A)** the intelligence and information sharing activities under subsection (a) and of all relevant entities within the Department to counter the threat from attacks using chemical, biological, radiological, and nuclear materials; and
-  >     - **(B)** the Department’s activities in accordance with relevant intelligence strategies.
-  >   - **(2)** *Assessment of implementation* The report shall include—
-  >     - **(A)** a description of methods established to assess progress of the Office of Intelligence and Analysis in implementing this section; and
-  >     - **(B)** such assessment.
-  > - **(d)** *Definitions* In this section:
+  > - **(b)** *Coordination* Where appropriate, the Office of Intelligence and Analysis shall coordinate with other relevant Department components, including the National Biosurveillance Integration Center, others in the Intelligence Community, including the National Counter Proliferation Center, and other Federal, State, local, and tribal authorities, including officials from high-threat areas, State and major urban area fusion centers, and local public health departments, as appropriate, and enable such entities to provide recommendations on optimal information sharing mechanisms, including expeditious sharing of classified information, and on how they can provide information to the Department.
+  > - **(c)** *Definitions* In this section:
   >   - **(1)** The term appropriate congressional committees means the Committee on Homeland Security of the House of Representatives and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
   >   - **(2)** The term Intelligence Community has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
   >   - **(3)** The term national biosecurity and biodefense stakeholders means officials from the Federal, State, local, and tribal authorities and individuals from the private sector who are involved in efforts to prevent, protect against, respond to, and recover from a biological attack or other phenomena that may have serious health consequences for the United States, including infectious disease outbreaks.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such subtitle the following:
+- **(c)** *Report*
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall report to the appropriate congressional committees on—
+    - **(A)** the intelligence and information sharing activities under subsection (a) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, and nuclear materials; and
+    - **(B)** the Department’s activities in accordance with relevant intelligence strategies.
+  - **(2)** *Assessment of implementation* The report shall include—
+    - **(A)** a description of methods established to assess progress of the Office of Intelligence and Analysis in implementing the amendment made by subsection (a); and
+    - **(B)** such assessment.
+  - **(3)** *Termination* This subsection shall have no force or effect after the end of the 5-year period beginning on the date of the enactment of this Act.
 
 ## § 3. Dissemination of information analyzed by the Department to State, local, tribal, and private entities with responsibilities relating to homeland security
 
