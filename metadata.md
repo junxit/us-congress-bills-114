@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2596
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2596
@@ -16,10 +16,11 @@ Intelligence Authorization Act for Fiscal Year 2016
 
 - Rep. Nunes, Devin [R-CA-22] (N000181)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (3)
 
@@ -177,3 +178,4 @@ Intelligence Authorization Act for Fiscal Year 2016
 - 2015-06-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4420)
 - 2015-06-16 — The previous question was ordered pursuant to the rule. (consideration: CR H4419)
 - 2015-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2015-06-17 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
