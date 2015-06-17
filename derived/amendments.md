@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2582
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395w-23` | add-at-end | Section 1853(a)(1)(C) of the Social Security Act (42 U.S.C. 1395w–23(a)(1)(C)) is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(h) of the Social Security Act (42 U.S.C. 1395w–27(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-23` | add-at-end | Section 1853(a)(1)(C) of the Social Security Act (42 U.S.C. 1395w–23(a)(1)(C)) is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
