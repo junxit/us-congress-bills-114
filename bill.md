@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 323
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 323
+
+> Expressing the sense of the House of Representatives that the Government of Mexico should forthwith repatriate the remains of those American Soldiers who fought in the battle of Monterrey in 1846.
+
+## Preamble
+
+- Whereas 169 years ago this September, Brigadier General Zachary Taylor led a 6,000 man military force consisting of United States Regulars, Volunteers and Texas Rangers to capture the strategic town of Monterrey;
+- Whereas after three days of fighting, Taylor’s forces captured Monterrey on September 23, 1846;
+- Whereas the United States suffered 120 casualties during the battle, while 368 were wounded and 43 were reported missing;
+- Whereas the Mexican Government’s Instituto Nacional de Antropologia y Historia (INAH), in cooperation with the United States Department of State and the United States Department of the Army’s Armed Forces Medical Examiner (AFME), has positively identified the remains of 11 United States soldiers who fought in the battle of Monterrey in 1846; and
+- Whereas United States Department of State is working with the Mexican Government to secure the repatriation of these remains: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** commends the archaeologists, the Instituto Nacional de Antropologia y Historia, the United States Consulate General Monterrey and all those individuals whose diligent work led to the identification and recovery of these remains; and
+- **(2)** calls upon the Government of Mexico and the Mexican Secretariat of Foreign Affairs to expeditiously release and repatriate the identified remains of these United States soldiers.
