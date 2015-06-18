@@ -1,7 +1,7 @@
 ---
 measure: S. 808
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 808
@@ -32,3 +32,5 @@ Surface Transportation Board Reauthorization Act of 2015
 - 2015-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-52.
 - 2015-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-52.
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
+- 2015-06-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4329-4331; text as passed Senate: CR S4329-4331)
+- 2015-06-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4329-4331; text as passed Senate: CR S4329-4331)
