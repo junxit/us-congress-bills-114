@@ -2,7 +2,7 @@
 legis-num: H.R. 2570
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2570
@@ -34,7 +34,7 @@ Section 1848(o)(2) of the Social Security Act (42 U.S.C. 1395w–4(o)(2)) is ame
     - **(B)** The plan has—
       - **(i)**
         - **(I)** a quality rating under section 1853(o) of such Act (42 U.S.C. 1395w–23(o)) of 4 stars or higher based on the most recent data available for such year, or
-        - **(II)** in the case of a specialized Medicare Advantage plan for special needs individuals, as defined in section 1859(b)(6)(A) of such Act (42 U.S.C. 1395w–28(b)(6)(A)), a quality rating under section 1853(o) of such Act (42 U.S.C. 1395w–23(o)) equal to or higher than the national average for special needs plans (excluding Institutional-Special needs plans) based on the most recent data available for such year; and
+          - **(II)** in the case of a specialized Medicare Advantage plan for special needs individuals, as defined in section 1859(b)(6)(A) of such Act (42 U.S.C. 1395w–28(b)(6)(A)), a quality rating under section 1853(o) of such Act (42 U.S.C. 1395w–23(o)) equal to or higher than the national average for special needs plans (excluding Institutional-Special needs plans) based on the most recent data available for such year; and
       - **(ii)** at least 20 percent of the population to whom the plan is offered in a service area consists of subsidy eligible individuals (as defined in section 1860D–14(a)(3)(A) of the Social Security Act (42 U.S.C. 1395w–114(a)(3)(A))).
   - **(4)** *Disclosure to beneficiaries* The Secretary shall provide to each individual eligible to enroll under a Medicare Advantage plan approved to participate under the demonstration program during a plan year for which the plan is so selected—
     - **(A)** notification that the plan is participating in such demonstration program;

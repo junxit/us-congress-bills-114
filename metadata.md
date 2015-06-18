@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2570
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2570
@@ -22,10 +22,11 @@ Strengthening Medicare Advantage through Innovation and Transparency for Seniors
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Strengthening Medicare Advantage through Innovation and Transparency for Seniors
 - 2015-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4479-4480)
 - 2015-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4479-4480)
 - 2015-06-17 — The title of the measure was amended. Agreed to without objection.
+- 2015-06-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
