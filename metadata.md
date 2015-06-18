@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2505
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2505
@@ -23,10 +23,11 @@ Medicare Advantage Coverage Transparency Act of 2015
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Medicare Advantage Coverage Transparency Act of 2015
 - 2015-06-17 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
 - 2015-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4483)
 - 2015-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4483)
+- 2015-06-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
