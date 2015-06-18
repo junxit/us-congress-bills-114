@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 114
-version: Printed as Passed
+version: Enrolled Bill
 ---
 
 # H.R. 1735
@@ -16,7 +16,7 @@ National Defense Authorization Act for Fiscal Year 2016
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (699)
+## Cosponsors (700)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Sen. Corker, Bob [R-TN] (C001071)
@@ -300,6 +300,7 @@ National Defense Authorization Act for Fiscal Year 2016
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -722,7 +723,7 @@ National Defense Authorization Act for Fiscal Year 2016
 
 - House — Armed Services Committee
 
-## Recorded votes (25)
+## Recorded votes (33)
 
 - 2015-05-14 — [House 114-1-228](votes/house-114-1-0228.md) — On Agreeing to the Amendment — **Failed** (60–363)
 - 2015-05-14 — [House 114-1-229](votes/house-114-1-0229.md) — On Agreeing to the Amendment — **Agreed to** (221–202)
@@ -749,6 +750,14 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-06-16 — [Senate 114-1-213](votes/senate-114-1-0213.md) — On the Amendment — **Amendment Rejected** (26–73)
 - 2015-06-17 — [Senate 114-1-214](votes/senate-114-1-0214.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–14)
 - 2015-06-18 — [Senate 114-1-215](votes/senate-114-1-0215.md) — On Passage of the Bill — **Bill Passed** (71–25)
+- 2015-07-07 — [House 114-1-390](votes/house-114-1-0390.md) — Authorizing Conferees to Close Meetings — **Passed** (402–12)
+- 2015-07-09 — [Senate 114-1-229](votes/senate-114-1-0229.md) — On the Cloture Motion — **Cloture Motion Agreed to** (81–15)
+- 2015-07-09 — [Senate 114-1-230](votes/senate-114-1-0230.md) — On the Motion — **Motion Rejected** (44–52)
+- 2015-10-01 — [House 114-1-531](votes/house-114-1-0531.md) — On Motion to Recommit Conference Report with Instructions — **Failed** (186–241)
+- 2015-10-01 — [House 114-1-532](votes/house-114-1-0532.md) — On Agreeing to the Conference Report — **Passed** (270–156)
+- 2015-10-06 — [Senate 114-1-275](votes/senate-114-1-0275.md) — On the Cloture Motion — **Cloture Motion Agreed to** (73–26)
+- 2015-10-07 — [Senate 114-1-276](votes/senate-114-1-0276.md) — On the Motion — **Motion Agreed to** (71–26)
+- 2015-10-07 — [Senate 114-1-277](votes/senate-114-1-0277.md) — On the Conference Report — **Conference Report Agreed to** (70–27)
 
 ## Actions
 
@@ -1962,3 +1971,68 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2030 proposed by Senator McCain for Senator Murkowski to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4263)
 - 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2050 proposed by Senator Reed for Senator Menendez to Amendment SA 1463.(consideration: CR S4263-4270)
 - 2015-06-18 — Senate ordered measure printed as passed.
+- 2015-06-22 — Message on Senate action sent to the House.
+- 2015-06-25 — FURTHER APPOINTMENTS OF CONFEREES - The Chair announced that further appointments of conferees would occur at a subsequent time.
+- 2015-06-25 — Message on House action received in Senate and at desk: House requests a conference.
+- 2015-06-25 — Message on Senate action sent to the House.
+- 2015-06-25 — Message received in Senate: Returned to the Senate pursuant to the provisions of H. Res. 340.
+- 2015-06-25 — Mr. Thornberry moved that the House disagree to the Senate amendment, and request a conference. (consideration: CR H4699)
+- 2015-06-25 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to by voice vote. (consideration: CR H4699)
+- 2015-06-25 — Pursuant to the provisions of H. Res. 340, papers are returned to the Senate.
+- 2015-06-25 — Section 636 was stricken by Unanimous Consent. (consideration: CR S4620-4621)
+- 2015-06-25 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Thornberry, Forbes, Miller (FL), Wilson (SC), LoBiondo, Bishop (UT), Turner, Kline, Rogers (AL), Shuster, Conaway, Lamborn, Wittman, Hunter, Hartzler, Heck (NV), Wenstrup, Stefanik, Smith (WA), Sanchez, Loretta, Davis (CA), Langevin, Larsen (WA), Cooper, Bordallo, Courtney, Tsongas, Garamendi, Johnson (GA), Speier, Castro (TX), and Duckworth .
+- 2015-07-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-07 — Mr. Thornberry moved that the House authorize conferees to close meetings. (consideration: CR H4814-4815)
+- 2015-07-07 — On motion to authorize conferees to close meetings Agreed to by the Yeas and Nays: 402 - 12 (Roll no. 390).
+- 2015-07-09 — Cloture motion on the motion to insist on Senate amendment, agree to request for conference, and authorize the Presiding Officer to appoint conferees presented in Senate. (consideration: CR S4915; text: CR S4915)
+- 2015-07-09 — Cloture on the motion to insist on Senate amendment, agree to request for conference, and authorize the Presiding Officer to appoint conferees invoked in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 229. (consideration: CR S4919)
+- 2015-07-09 — Measure laid before Senate by unanimous consent. (consideration: CR S4915-4920)
+- 2015-07-09 — Message on Senate action sent to the House.
+- 2015-07-09 — Motion by Senator Reed to instruct Senate conferees (OCO) rejected in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 230. (consideration: CR S4920)
+- 2015-07-09 — Motion by Senator Reed to instruct Senate conferees made in Senate. (consideration: CR S4919-4920; text: CR S4919)
+- 2015-07-09 — Motion to insist on Senate amendment, agree to request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Voice Vote. (consideration: CR S4919)
+- 2015-07-09 — Motion to insist on Senate amendment, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate. (consideration: CR S4915)
+- 2015-07-09 — Senate appointed conferees McCain, Inhofe, Sessions, Wicker, Ayotte, Fischer, Cotton, Rounds, Graham, Reed, Nelson, Manchin, Gillibrand, Donnelly, Hirono, Kaine. (consideration: CR S4920)
+- 2015-07-09 — Senate insists on its amendment, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees. (consideration: CR S4919)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Education and the Workforce, for consideration of secs. 571 and 573 of the House bill and secs. 561-63 of the Senate amendment, and modifications committed to conference: Rokita, Bishop (MI), and Scott (VA). (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Energy and Commerce, for consideration of secs. 314, 632, 634, 3111-13, 3119, 3133, and 3141 of the House bill and secs. 601, 632, 3118, and 3119 of the Senate amendment, and modifications committed to conference: Upton, Barton, and Pallone. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Foreign Affairs, for consideration of secs. 1011, 1059, 1090, 1092, 1201, 1203-05, 1215, 1221, 1223, 1226, 1234-36, 1247-49, 1253, 1257, 1263, 1264, 1267, 1270, 1301, 1532, 1541, 1542, 1663, 1668-70, 2802, 3118, and 3119 of the House bill and secs. 1011, 1012, 1082, 1201-05, 1207, 1209, 1223, 1225, 1228, 1251, 1252, 1261, 1264, 1265, 1272, 1301, 1302, 1531-33, 1631, 1654, and 1655 of the Senate amendment, and modifications committed to conference: Royce, Marino, and Engel. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Homeland Security, for consideration of secs. 589 and 1041 of the Senate amendment, and modifications committed to conference: McCaul, Miller (MI), and Thompson (MS). (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Natural Resources, for consideration of secs. 312, 632, 634, 2841, 2842, 2851-53, and 2862 of the House bill and secs. 313, 601, and 632 of the Senate amendment, and modifications committed to conference: Cook, Hardy, and Grijalva. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Oversight and Government Reform, for consideration of secs. 602, 631, 634, 838, 854, 855, 866, 871, 1069, and 1101-05 of the House bill and secs. 592, 593, 631, 806, 830, 861, 1090, 1101, 1102, 1104, 1105, 1107-09, 1111, 1112, 1114, and 1115 of the Senate amendment, and modifications committed to conference: Hurd (TX), Russell, and Cummings. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Rules, for consideration of sec. 1032 of the Senate amendment, and modifications committed to conference: Sessions, Byrne, and Slaughter. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Science, Space, and Technology, for consideration of sec. 3136 of the House bill and sec. 1613 of the Senate amendment, and modifications committed to conference: Lucas, Knight, and Johnson, E. B.. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Small Business, for consideration of secs. 831-34, 839, 840, 842-46, 854, and 871 of the House bill and secs. 828, 831, 882, 883, and 885 of the Senate amendment, and modifications committed to conference: Chabot, Hanna, and Velazquez. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Transportation and Infrastructure, for consideration of secs. 302, 562, 569, 570a, 591, 1060a, 1073, 2811, and 3501 of the House bill and secs. 601, 642, 1613, 3504, and 3505 of the Senate amendment, and modifications committed to conference: Graves (LA), Curbelo (FL), and Edwards. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on Veterans Affairs, for consideration of secs. 565, 566, 592, 652, 701, 721, 722, 1105, and 1431 of the House bill and secs. 539, 605, 633, 719, 1083, 1084, 1089, 1091, and 1411 of the Senate amendment, and modifications committed to conference: Roe (TN), Bilirakis, and Brown (FL). (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Committee on the Judiciary, for consideration of secs. 1040, 1052, 1085, 1216, 1641, and 2862 of the House bill and secs. 1032, 1034, 1090, and 1227 of the Senate amendment, and modifications committed to conference: Goodlatte, Issa, and Conyers. (consideration: CR H5086)
+- 2015-07-10 — The Speaker appointed additional conferees from the Permanent Select Committee on Intelligence, for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Nunes, King (NY), and Schiff. (consideration: CR H5086)
+- 2015-09-29 — Conference report H. Rept. 114-270 filed. (text of conference report: CR H6337-6700)
+- 2015-09-29 — Conference report filed: Conference report H. Rept. 114-270 filed.(text of conference report: CR H6337-6700)
+- 2015-09-30 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2015-10-01 — Cloture motion on the conference report to accompany H.R. 1735 presented in Senate. (consideration: CR S7075; text: CR S7075)
+- 2015-10-01 — Conference papers: message on House action held at the desk in Senate.
+- 2015-10-01 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 270 - 156 (Roll no. 532).
+- 2015-10-01 — Conference report considered in Senate. (consideration: CR S7075-7084, S7084-7090)
+- 2015-10-01 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 1735.
+- 2015-10-01 — DEBATE - The House resumed debate on the conference report to accompany H.R. 1735.
+- 2015-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-01 — Mr. Smith (WA) moved to recommit with instructions to the conference committee. (consideration: CR H6777-6778; text: CR H6777)
+- 2015-10-01 — Mr. Thornberry brought up conference report H. Rept. 114-270 for consideration under the provisions of H. Res. 449. (consideration: CR H6768-6778)
+- 2015-10-01 — On agreeing to the conference report Agreed to by the Yeas and Nays: 270 - 156 (Roll no. 532).
+- 2015-10-01 — On motion to recommit the conference report with instructions Failed by the Yeas and Nays: 186 - 241 (Roll no. 531).
+- 2015-10-01 — The previous question on the motion to recommit with instructions to conference committee was ordered without objection. (consideration: CR H6778)
+- 2015-10-01 — The previous question was ordered pursuant to the rule. (consideration: CR H6777)
+- 2015-10-06 — Cloture on the conference report to accompany H.R. 1735 invoked in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 275. (consideration: CR S7136; text: CR S7136)
+- 2015-10-06 — Conference report considered in Senate. (consideration: CR S7131-7156)
+- 2015-10-07 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 70 - 27. Record Vote Number: 277.
+- 2015-10-07 — Conference report considered in Senate. (consideration: CR S7175-7195)
+- 2015-10-07 — Message on Senate action sent to the House.
+- 2015-10-07 — Motion to waive all applicable budgetary discipline with respect to the measure (the conference report to accompany H.R. 1735) agreed to in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 276. (consideration: CR S7195)
+- 2015-10-07 — Point of order that the conference report to accompany H.R. 1735 violates section 3101 of S.Con.Res. 11, 114th Congress, raised in Senate.
+- 2015-10-07 — Pursuant to the provisions of H. Con. Res. 81, enrollment corrections on H.R. 1735 have been made.
+- 2015-10-07 — Senate agreed to conference report by Yea-Nay Vote. 70 - 27. Record Vote Number: 277.
+- 2015-10-21 — Presented to President.
+- 2015-10-21 — Presented to President.
+- 2015-10-22 — Vetoed by President.
+- 2015-10-22 — Vetoed by President.
