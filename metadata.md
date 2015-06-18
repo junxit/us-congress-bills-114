@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2146
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2146
@@ -16,23 +16,28 @@ Defending Public Safety Employees' Retirement Act
 
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Rangel, Charles B. [D-NY-13] (R000053)
 - Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
 
 ## Committees (2)
 
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2015-05-12 — [House 114-1-220](votes/house-114-1-0220.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–5)
 - 2015-06-18 — [House 114-1-374](votes/house-114-1-0374.md) — On Motion to Concur in Senate Amendment With Amendment — **Passed** (218–208)
+- 2015-06-23 — [Senate 114-1-218](votes/senate-114-1-0218.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–37)
+- 2015-06-24 — [Senate 114-1-219](votes/senate-114-1-0219.md) — On the Motion — **Motion Agreed to** (60–38)
 
 ## Actions
 
@@ -86,3 +91,34 @@ Defending Public Safety Employees' Retirement Act
 - 2015-06-18 — Senate amendment submitted
 - 2015-06-18 — Senate amendment submitted
 - 2015-06-18 — The previous question was ordered pursuant to the rule. (consideration: CR H4524)
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-23 — Cloture on the motion to concur in the House amendment to the Senate amendment invoked in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 218. (consideration: CR S4528-4529; text: CR S4528-4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529)
+- 2015-06-23 — Considered by Senate. (consideration: CR S4529-4533, S4535-4539)
+- 2015-06-23 — Motion by Senator McConnell to refer to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2062 fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S4529)
+- 2015-06-23 — SA 2062 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment. (consideration: CR S4529)
+- 2015-06-23 — SA 2063 fell when SA 2062 fell. (consideration: CR S4529)
+- 2015-06-23 — SA 2064 fell when SA 2063 fell. (consideration: CR S4529)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4559, S4579, S4582)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4559, S4582)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4559, S4582)
+- 2015-06-24 — Message on Senate action sent to the House.
+- 2015-06-24 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment with an amendment (SA 2060) withdrawn in Senate. (consideration: CR S4559, S4582)
+- 2015-06-24 — Presented to President.
+- 2015-06-24 — Presented to President.
+- 2015-06-24 — Proposed amendment SA 2060 withdrawn in Senate. (consideration: CR S4582)
+- 2015-06-24 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment to H.R. 2146 by Yea-Nay Vote. 60 - 38. Record Vote Number: 219.
+- 2015-06-24 — SA 2061 fell when SA 2060 withdrawn. (consideration: CR S4582)
+- 2015-06-24 — Senate agreed to House amendment to Senate amendment to H.R. 2146 by Yea-Nay Vote. 60 - 38. Record Vote Number: 219.
+- 2015-06-29 — Became Public Law No: 114-26.
+- 2015-06-29 — Became Public Law No: 114-26.
+- 2015-06-29 — Signed by President.
+- 2015-06-29 — Signed by President.
