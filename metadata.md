@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1735
@@ -16,15 +16,713 @@ National Defense Authorization Act for Fiscal Year 2016
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (1)
+## Cosponsors (699)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
 - House — Armed Services Committee
 
-## Recorded votes (12)
+## Recorded votes (25)
 
 - 2015-05-14 — [House 114-1-228](votes/house-114-1-0228.md) — On Agreeing to the Amendment — **Failed** (60–363)
 - 2015-05-14 — [House 114-1-229](votes/house-114-1-0229.md) — On Agreeing to the Amendment — **Agreed to** (221–202)
@@ -38,6 +736,19 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-05-15 — [House 114-1-237](votes/house-114-1-0237.md) — On Agreeing to the Amendment — **Failed** (178–242)
 - 2015-05-15 — [House 114-1-238](votes/house-114-1-0238.md) — On Motion to Recommit with Instructions — **Failed** (184–234)
 - 2015-05-15 — [House 114-1-239](votes/house-114-1-0239.md) — On Passage — **Passed** (269–151)
+- 2015-06-04 — [Senate 114-1-202](votes/senate-114-1-0202.md) — On the Amendment — **Amendment Agreed to** (61–34)
+- 2015-06-04 — [Senate 114-1-203](votes/senate-114-1-0203.md) — On the Amendment — **Amendment Rejected** (53–42)
+- 2015-06-04 — [Senate 114-1-204](votes/senate-114-1-0204.md) — On the Amendment — **Amendment Agreed to** (48–44)
+- 2015-06-09 — [Senate 114-1-205](votes/senate-114-1-0205.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2015-06-10 — [Senate 114-1-206](votes/senate-114-1-0206.md) — On the Motion to Table — **Motion to Table Failed** (31–65)
+- 2015-06-11 — [Senate 114-1-207](votes/senate-114-1-0207.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–40)
+- 2015-06-16 — [Senate 114-1-209](votes/senate-114-1-0209.md) — On the Amendment — **Amendment Agreed to** (78–21)
+- 2015-06-16 — [Senate 114-1-210](votes/senate-114-1-0210.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2015-06-16 — [Senate 114-1-211](votes/senate-114-1-0211.md) — On the Amendment — **Amendment Rejected** (50–49)
+- 2015-06-16 — [Senate 114-1-212](votes/senate-114-1-0212.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–15)
+- 2015-06-16 — [Senate 114-1-213](votes/senate-114-1-0213.md) — On the Amendment — **Amendment Rejected** (26–73)
+- 2015-06-17 — [Senate 114-1-214](votes/senate-114-1-0214.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–14)
+- 2015-06-18 — [Senate 114-1-215](votes/senate-114-1-0215.md) — On Passage of the Bill — **Bill Passed** (71–25)
 
 ## Actions
 
@@ -287,3 +998,967 @@ National Defense Authorization Act for Fiscal Year 2016
 - 2015-05-15 — The previous question was ordered pursuant to the rule. (consideration: CR H3233)
 - 2015-05-15 — The title of the measure was amended. Agreed to without objection.
 - 2015-05-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
+- 2015-05-31 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3341; text: CR S3341)
+- 2015-05-31 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3371)
+- 2015-06-01 — Senate amendment submitted
+- 2015-06-01 — Senate amendment submitted
+- 2015-06-01 — Senate amendment submitted
+- 2015-06-02 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (consideration: CR S3442)
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-02 — Senate amendment submitted
+- 2015-06-03 — Amendment SA 1456 proposed by Senator McCain to Amendment SA 1463. (consideration: CR S3657; text: CR S3657) To require additional information supporting long-range plans for construction of naval vessels.
+- 2015-06-03 — Amendment SA 1463 proposed by Senator McCain. (consideration: CR S3642-3651) In the nature of a substitute.
+- 2015-06-03 — Amendment SA 1486 proposed by Senator Cornyn to Amendment SA 1463. (consideration: CR S3659-3661; text: CR S3660-3661) To require reporting on energy security issues involving Europe and the Russian Federation, and to express the sense of Congress regarding ways the United States could help vulnerable allies and partners with energy security.
+- 2015-06-03 — Amendment SA 1494 proposed by Senator Reed for Senator Shaheen to Amendment SA 1463. (consideration: CR S3667; text: CR S3667) To revise the definition of spouse for purposes of veterans benefits in recognition of new State definitions of spouse.
+- 2015-06-03 — Amendment SA 1506 proposed by Senator Tillis to Amendment SA 1463. (consideration: CR S3666-3667; text: CR S3666-3667) To provide for the stationing of C-130 H aircraft avionics previously modified by the Avionics Modernization Program (AMP) in support of daily training and contingency requirements for Airborne and Special Operations Forces.
+- 2015-06-03 — Amendment SA 1521 proposed by Senator Reed to Amendment SA 1463. (consideration: CR S3657; text: CR S3657) To limit the availability of amounts authorized to be appropriated for overseas contingency operations pending relief from the spending limits under the Budget Control Act of 2011.
+- 2015-06-03 — Amendment SA 1522 proposed by Senator Portman to Amendment SA 1463. (consideration: CR S3657-3659; text: CR S3658-3659) To provide additional amounts for procurement and for research, development, test, and evaluation for Stryker Lethality Upgrades, and to provide an offset.
+- 2015-06-03 — Amendment SA 1540 proposed by Senator Reed for Senator Bennet to Amendment SA 1463. (consideration: CR S3661; text: CR S3661) To require the Comptroller General of the United States to brief and submit a report to Congress on the administration and oversight by the Department of Veterans Affairs of contracts for the design and construction of major medical facility projects.
+- 2015-06-03 — Measure laid before Senate by unanimous consent. (consideration: CR S3642-3654, S3654-3667)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1456 proposed by Senator McCain to Amendment SA 1463.(consideration: CR S3657; text: CR S3657)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1463 proposed by Senator McCain.(consideration: CR S3642-3651)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1486 proposed by Senator Cornyn to Amendment SA 1463.(consideration: CR S3659-3661; text: CR S3660-3661)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1494 proposed by Senator Reed for Senator Shaheen to Amendment SA 1463.(consideration: CR S3667; text: CR S3667)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1506 proposed by Senator Tillis to Amendment SA 1463.(consideration: CR S3666-3667; text: CR S3666-3667)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1521 proposed by Senator Reed to Amendment SA 1463.(consideration: CR S3657; text: CR S3657)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1522 proposed by Senator Portman to Amendment SA 1463.(consideration: CR S3657-3659; text: CR S3658-3659)
+- 2015-06-03 — Senate amendment proposed (on the floor): Amendment SA 1540 proposed by Senator Reed for Senator Bennet to Amendment SA 1463.(consideration: CR S3661; text: CR S3661)
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-03 — Senate amendment submitted
+- 2015-06-04 — Amendment SA 1473 proposed by Senator Vitter to Amendment SA 1463. (consideration: CR S3738-3739; text: CR S3739) To limit the retirement of Army combat units, and to provide an offset.
+- 2015-06-04 — Amendment SA 1484 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1484 proposed by Senator McCain for Senator Hoeven to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3756) To require a report on Air National Guard contributions to the RQ-4 Global Hawk mission.
+- 2015-06-04 — Amendment SA 1494, under the order of 6/4/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 203.
+- 2015-06-04 — Amendment SA 1506 agreed to in Senate by Yea-Nay Vote. 48 - 44. Record Vote Number: 204.
+- 2015-06-04 — Amendment SA 1511 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1511 proposed by Senator McCain for Senator Heller to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3756) To require additional elements in the report on the plan on the privatization of the defense commissary system.
+- 2015-06-04 — Amendment SA 1522 agreed to in Senate by Yea-Nay Vote. 61 - 34. Record Vote Number: 202.
+- 2015-06-04 — Amendment SA 1539 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1539 proposed by Senator McCain to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3755-3756) To prohibit the Department of Defense from entering into contracts to facilitate payments for honoring members of the Armed Forces at sporting events.
+- 2015-06-04 — Amendment SA 1540 agreed to in Senate by Voice Vote.
+- 2015-06-04 — Amendment SA 1543 proposed by Senator McCain for Senator Paul to Amendment SA 1463. (consideration: CR S3756-3757, S3758; text: CR S3756-3757; text as modified: CR S3758) To strengthen employee cost savings suggestions programs within the Federal Government.
+- 2015-06-04 — Amendment SA 1551 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1551 proposed by Senator McCain for Senator Shaheen to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3755) To require a study and report on the changes to the Joint Travel Regulations related to the flat rate per diem for long term temporary duty travel that took effect on November 1, 2014.
+- 2015-06-04 — Amendment SA 1559 proposed by Senator Reed for Senator Durbin to Amendment SA 1463. (consideration: CR S3757-3758; text: CR S3757-3758) To prohibit the award of Department of Defense contracts to inverted domestic corporations.
+- 2015-06-04 — Amendment SA 1564 proposed by Senator Reed for Senator Blumenthal to Amendment SA 1463. (consideration: CR S3757; text: CR S3757) To enhance protections accorded to servicemembers and their spouses.
+- 2015-06-04 — Amendment SA 1571 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1571 proposed by Senator McCain for Senator Warner to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3756) To express the sense of Congress on diversity among members of the Armed Forces.
+- 2015-06-04 — Amendment SA 1618 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Amendment SA 1618 proposed by Senator McCain for Senator Shaheen to Amendment SA 1463. (consideration: CR S3755-3756; text: CR S3755) Of a perfecting nature.
+- 2015-06-04 — Amendment SA 1645 proposed by Senator Markey to Amendment SA 1463. (consideration: CR S3740-3744; text: CR S3740) To express the sense of Congress that exports of crude oil to United States allies and partners should not be determined to be consistent with the national interest if those exports would increase energy prices in the United States for American consumers or businesses or increase the reliance of the United States on imported oil.
+- 2015-06-04 — Considered by Senate.
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734, S3736-3737)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734, S3737-3738)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734, S3739-3740, S3753-3754)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734, S3744-3746)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734, S3746-3753, S3754-3755)
+- 2015-06-04 — Considered by Senate. (consideration: CR S3734-3758)
+- 2015-06-04 — Roll call votes on amendments in Senate: Amendment SA 1494, under the order of 6/4/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 203.
+- 2015-06-04 — Roll call votes on amendments in Senate: Amendment SA 1506 agreed to in Senate by Yea-Nay Vote. 48 - 44. Record Vote Number: 204.
+- 2015-06-04 — Roll call votes on amendments in Senate: Amendment SA 1522 agreed to in Senate by Yea-Nay Vote. 61 - 34. Record Vote Number: 202.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1484 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1506 agreed to in Senate by Yea-Nay Vote. 48 - 44. Record Vote Number: 204.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1511 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1522 agreed to in Senate by Yea-Nay Vote. 61 - 34. Record Vote Number: 202.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1539 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1540 agreed to in Senate by Voice Vote.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1551 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1571 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment agreed to: Amendment SA 1618 agreed to in Senate by Unanimous Consent.
+- 2015-06-04 — Senate amendment not agreed to: Amendment SA 1494, under the order of 6/4/2015, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 203.
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1473 proposed by Senator Vitter to Amendment SA 1463.(consideration: CR S3738-3739; text: CR S3739)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1484 proposed by Senator McCain for Senator Hoeven to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3756)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1511 proposed by Senator McCain for Senator Heller to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3756)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1539 proposed by Senator McCain to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3755-3756)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1543 proposed by Senator McCain for Senator Paul to Amendment SA 1463.(consideration: CR S3756-3757, S3758; text: CR S3756-3757; text as modified: CR S3758)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1551 proposed by Senator McCain for Senator Shaheen to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3755)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1559 proposed by Senator Reed for Senator Durbin to Amendment SA 1463.(consideration: CR S3757-3758; text: CR S3757-3758)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1564 proposed by Senator Reed for Senator Blumenthal to Amendment SA 1463.(consideration: CR S3757; text: CR S3757)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1571 proposed by Senator McCain for Senator Warner to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3756)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1618 proposed by Senator McCain for Senator Shaheen to Amendment SA 1463.(consideration: CR S3755-3756; text: CR S3755)
+- 2015-06-04 — Senate amendment proposed (on the floor): Amendment SA 1645 proposed by Senator Markey to Amendment SA 1463.(consideration: CR S3740-3744; text: CR S3740)
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-04 — Senate amendment submitted
+- 2015-06-08 — Amendment SA 1569 proposed by Senator McCain for Senator Burr to Amendment SA 1463. (consideration: CR S3855; text: CR S3855) To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats.
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850, S3854-3855)
+- 2015-06-08 — Considered by Senate. (consideration: CR S3850-3855)
+- 2015-06-08 — Senate amendment proposed (on the floor): Amendment SA 1569 proposed by Senator McCain for Senator Burr to Amendment SA 1463.(consideration: CR S3855; text: CR S3855)
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-08 — Senate amendment submitted
+- 2015-06-09 — Amendment SA 1485 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1485 proposed by Senator McCain for Senator Hoeven to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3912-3913) To express the sense of the Senate on the nuclear force improvement program of the Air Force.
+- 2015-06-09 — Amendment SA 1510 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1510 proposed by Senator McCain for Senator Heller to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3913) To require a report on the interoperability between electronic health records systems of the Department of Defense and the Department of Veterans Affairs.
+- 2015-06-09 — Amendment SA 1520 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1520 proposed by Senator McCain for Senator Rounds to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3913) To require the Secretary of Defense to develop a comprehensive plan to support civil authorities in response to cyber attacks by foreign powers.
+- 2015-06-09 — Amendment SA 1521 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 205.
+- 2015-06-09 — Amendment SA 1538 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1538 proposed by Senator McCain for Senator Wicker to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3913) To allow for improvements to the United States Merchant Marine Academy.
+- 2015-06-09 — Amendment SA 1579 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1579 proposed by Senator McCain for Senator Ernst to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914) To express the sense of Congress that the Secretary of Defense should maintain and enhance robust military intelligence support to force protection for installations, facilities, and personnel of the Department of Defense and the family members of such personnel.
+- 2015-06-09 — Amendment SA 1622 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1622 proposed by Senator McCain for Senator Moran to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914) To express the sense of Congress on reviewing and considering findings and recommendations of the Council of Governors regarding cyber capabilities of the Armed Forces.
+- 2015-06-09 — Amendment SA 1677 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1677 proposed by Senator Reed for Senator Udall to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914) To require the Secretary of Defense to submit information to the Secretary of Veterans Affairs relating to the exposure of members of the Armed Forces to airborne hazards and open burn pits.
+- 2015-06-09 — Amendment SA 1701 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1701 proposed by Senator Reed for Senator Wyden to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914) To improve the provisions relating to adoption of retired military working dogs.
+- 2015-06-09 — Amendment SA 1733 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1733 proposed by Senator Reed for Senator Stabenow to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914-3915) To require a report on plans for the use and availability of airfields in the United States for homeland defense missions.
+- 2015-06-09 — Amendment SA 1739 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1739 proposed by Senator Reed for Senator McCaskill to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3915) To require a conflict of interest certification for Inspector General investigations relating to whistleblower retaliation.
+- 2015-06-09 — Amendment SA 1744 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1744 proposed by Senator Reed for Senator Feinstein to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3915) To authorize the Secretary of Veterans Affairs to carry out certain major medical facility projects for which appropriations were made for fiscal year 2015.
+- 2015-06-09 — Amendment SA 1781 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1781 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3915) To improve the report on the strategy to protect United States national security interests in the Arctic region.
+- 2015-06-09 — Amendment SA 1791 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1791 proposed by Senator McCain for Senator Rubio to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3914) To authorize a land exchange at Navy Outlying Field, Naval Air Station, Whiting Field, Florida.
+- 2015-06-09 — Amendment SA 1796 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Amendment SA 1796 proposed by Senator Reed for Senator Cardin to Amendment SA 1463. (consideration: CR S3912-3915; text: CR S3915) To express the sense of the Senate on finding efficiencies within the working capital fund activities of the Department of Defense.
+- 2015-06-09 — Amendment SA 1825 proposed by Senator McCain for Senator Fischer to Amendment SA 1463. To authorize appropriations for national security aspects of the Merchant Marine for fiscal years 2016 and 2017, and for other purposes.
+- 2015-06-09 — Amendment SA 1889 proposed by Senator Feinstein for Senator McCain to Amendment SA 1463. (consideration: CR S3910-3911; text: CR S3910-3911) To reaffirm the prohibition on torture.
+- 2015-06-09 — Amendment SA 1921 proposed by Senator Burr to Amendment SA 1569. (consideration: CR S3915) To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats.
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898, S3905-3907)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898, S3915)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898-3905, S3905-3921)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898-3905, S3907-3910)
+- 2015-06-09 — Considered by Senate. (consideration: CR S3898; text as modified: CR S3898)
+- 2015-06-09 — Roll call votes on amendments in Senate: Amendment SA 1521 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 205.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1485 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1510 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1520 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1538 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1579 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1622 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1677 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1701 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1733 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1739 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1744 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1781 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1791 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment agreed to: Amendment SA 1796 agreed to in Senate by Unanimous Consent.
+- 2015-06-09 — Senate amendment not agreed to: Amendment SA 1521 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 205.
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1485 proposed by Senator McCain for Senator Hoeven to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3912-3913)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1510 proposed by Senator McCain for Senator Heller to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3913)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1520 proposed by Senator McCain for Senator Rounds to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3913)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1538 proposed by Senator McCain for Senator Wicker to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3913)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1579 proposed by Senator McCain for Senator Ernst to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1622 proposed by Senator McCain for Senator Moran to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1677 proposed by Senator Reed for Senator Udall to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1701 proposed by Senator Reed for Senator Wyden to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1733 proposed by Senator Reed for Senator Stabenow to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914-3915)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1739 proposed by Senator Reed for Senator McCaskill to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3915)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1744 proposed by Senator Reed for Senator Feinstein to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3915)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1781 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3915)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1791 proposed by Senator McCain for Senator Rubio to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3914)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1796 proposed by Senator Reed for Senator Cardin to Amendment SA 1463.(consideration: CR S3912-3915; text: CR S3915)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1889 proposed by Senator Feinstein for Senator McCain to Amendment SA 1463.(consideration: CR S3910-3911; text: CR S3910-3911)
+- 2015-06-09 — Senate amendment proposed (on the floor): Amendment SA 1921 proposed by Senator Burr to Amendment SA 1569.(consideration: CR S3915)
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-09 — Senate amendment submitted
+- 2015-06-10 — Amendment SA 1921 was rendered moot when its language was accepted as part of a modification to Amendment SA 1569.
+- 2015-06-10 — Amendment SA 1986 proposed by Senator Ayotte for Senator Kirk to language proposed to be stricken by amendment no. 1463. (consideration: CR S4012, S4013-4014, S4015-4016, S4016) To reauthorize and reform the Export-Import Bank of the United States.
+- 2015-06-10 — Cloture motion on amendment SA 1569, as modified, presented in Senate. (consideration: CR S4016-4017; text: CR S4016)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986, S3987-3992; text as modified: CR S3987-3992)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986, S3992, S3996-3998)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986, S3996, S3998-4000, S4016)
+- 2015-06-10 — Considered by Senate. (consideration: CR S3986-4017, S4017-4018)
+- 2015-06-10 — Motion to table amendment SA 1986 rejected in Senate by Yea-Nay Vote. 31 - 65. Record Vote Number: 206. (consideration: CR S4016)
+- 2015-06-10 — Proposed amendment SA 1986 withdrawn in Senate. (consideration: CR S4016)
+- 2015-06-10 — Roll call votes on amendments in Senate: Motion to table amendment SA 1986 rejected in Senate by Yea-Nay Vote. 31 - 65. Record Vote Number: 206.(consideration: CR S4016)
+- 2015-06-10 — Senate amendment proposed (on the floor): Amendment SA 1986 proposed by Senator Ayotte for Senator Kirk to language proposed to be stricken by amendment no. 1463.(consideration: CR S4012, S4013-4014, S4015-4016, S4016)
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-10 — Senate amendment submitted
+- 2015-06-11 — Amendment SA 1549 proposed by Senator McCain for Senator Ernst to Amendment SA 1463. (consideration: CR S4089; text: CR S4089) To provide for a temporary, emergency authorization of defense articles, defense services, and related training directly to the Kurdistan Regional Government.
+- 2015-06-11 — Amendment SA 1578 proposed by Senator Reed for Senator Gillibrand to Amendment SA 1463. (consideration: CR S4090) To reform procedures for determinations to proceed to trial by court-martial for certain offenses under the Uniform Code of Military Justice.
+- 2015-06-11 — Amendment SA 1687 proposed by Senator Lee to Amendment SA 1473. (consideration: CR S4083-4084; text as modified: CR S4083-4084) To provide for the protection and recovery of the greater sage-grouse, the conservation of lesser prairie-chickens, and the removal of endangered species status for the American burying beetle.
+- 2015-06-11 — Cloture motion on amendment SA1463 presented in Senate. (consideration: CR S4087; text: CR S4087)
+- 2015-06-11 — Cloture motion on the measure presented in Senate. (consideration: CR S4187; text: CR S4187)
+- 2015-06-11 — Cloture not invoked in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 207. (consideration: CR S4087-4088; text: CR S4087-4088)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073, S4075, S4078, S4083; text as modified: CR S4075)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073, S4075-4076; text as modified: CR S4075-4076)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073, S4077-4078, S4085-4090)
+- 2015-06-11 — Considered by Senate. (consideration: CR S4073-4090, S4090-4091, S4095-4097)
+- 2015-06-11 — Proposed amendment SA 1569 withdrawn in Senate. (consideration: CR S4089)
+- 2015-06-11 — Roll call votes on amendments in Senate: Cloture not invoked in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 207.(consideration: CR S4087-4088; text: CR S4087-4088)
+- 2015-06-11 — Senate amendment proposed (on the floor): Amendment SA 1549 proposed by Senator McCain for Senator Ernst to Amendment SA 1463.(consideration: CR S4089; text: CR S4089)
+- 2015-06-11 — Senate amendment proposed (on the floor): Amendment SA 1578 proposed by Senator Reed for Senator Gillibrand to Amendment SA 1463.(consideration: CR S4090)
+- 2015-06-11 — Senate amendment proposed (on the floor): Amendment SA 1687 proposed by Senator Lee to Amendment SA 1473.(consideration: CR S4083-4084; text as modified: CR S4083-4084)
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-11 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-15 — Senate amendment submitted
+- 2015-06-16 — Amendment SA 1473 not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 213.
+- 2015-06-16 — Amendment SA 1549, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 210.
+- 2015-06-16 — Amendment SA 1578, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 211.
+- 2015-06-16 — Amendment SA 1889 agreed to in Senate by Yea-Nay Vote. 78 - 21. Record Vote Number: 209.
+- 2015-06-16 — Amendment SA 1911 proposed by Senator McCain for Senator Hatch to Amendment SA 1456. (consideration: CR S4188; text: CR S4188) To study the impact of commissary privatization prior to initiating a pilot program and to require a report on the Department of Defense definition of and policy regarding software sustainment.
+- 2015-06-16 — Cloture invoked in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 212. (consideration: CR S4187-4188; text: CR S4187)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4178-4182, S4189-4191)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4183-4185, S4186-4187)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4185-4186)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4187-4188)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4188)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173, S4188-4189, S4192-4194; text as further modified: CR S4188-4189)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4173-4185, S4185-4194, S4195)
+- 2015-06-16 — Considered by Senate. (consideration: CR S4189)
+- 2015-06-16 — Proposed amendment SA 1687 withdrawn in Senate. (consideration: CR S4173, S4189)
+- 2015-06-16 — Roll call votes on amendments in Senate: Amendment SA 1473 not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 213.
+- 2015-06-16 — Roll call votes on amendments in Senate: Amendment SA 1549, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 210.
+- 2015-06-16 — Roll call votes on amendments in Senate: Amendment SA 1578, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 211.
+- 2015-06-16 — Roll call votes on amendments in Senate: Amendment SA 1889 agreed to in Senate by Yea-Nay Vote. 78 - 21. Record Vote Number: 209.
+- 2015-06-16 — Roll call votes on amendments in Senate: Cloture invoked in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 212.(consideration: CR S4187-4188; text: CR S4187)
+- 2015-06-16 — Senate amendment agreed to: Amendment SA 1889 agreed to in Senate by Yea-Nay Vote. 78 - 21. Record Vote Number: 209.
+- 2015-06-16 — Senate amendment not agreed to: Amendment SA 1473 not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 213.
+- 2015-06-16 — Senate amendment not agreed to: Amendment SA 1549, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 210.
+- 2015-06-16 — Senate amendment not agreed to: Amendment SA 1578, under the order of 6/11/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 211.
+- 2015-06-16 — Senate amendment proposed (on the floor): Amendment SA 1911 proposed by Senator McCain for Senator Hatch to Amendment SA 1456.(consideration: CR S4188; text: CR S4188)
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-16 — Senate amendment submitted
+- 2015-06-17 — Amendment SA 1456 agreed to in Senate by Voice Vote.
+- 2015-06-17 — Amendment SA 1463 agreed to in Senate by Voice Vote.
+- 2015-06-17 — Amendment SA 1486 ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1543 as modified ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1559 as modified ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1564 as modified ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1645 ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1825 ruled non-germane by the chair. (consideration: CR S4247)
+- 2015-06-17 — Amendment SA 1911 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4240; text as further modified: CR S4245)
+- 2015-06-17 — Cloture invoked in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 214. (consideration: CR S4247; text: CR S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4240-4241, S4244-4245, S4246-4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222, S4247)
+- 2015-06-17 — Considered by Senate. (consideration: CR S4222-4247)
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1486.
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1543 as modified.
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1559 as modified.
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1564 as modified.
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1645.
+- 2015-06-17 — Point of order raised in Senate with respect to amendment SA 1825.
+- 2015-06-17 — Senate amendment agreed to: Amendment SA 1456 agreed to in Senate by Voice Vote.
+- 2015-06-17 — Senate amendment agreed to: Amendment SA 1463 agreed to in Senate by Voice Vote.
+- 2015-06-17 — Senate amendment agreed to: Amendment SA 1911 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4240; text as further modified: CR S4245)
+- 2015-06-17 — Senate amendment submitted
+- 2015-06-17 — Senate amendment submitted
+- 2015-06-18 — Amendment SA 1472 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4263-4264)
+- 2015-06-18 — Amendment SA 1472 proposed by Senator McCain for Senator Vitter to Amendment SA 1463. (consideration: CR S4263-4270) To exclude AbilityOne goods from the authority to acquire goods and services manufactured in Afghanistan, central Asian states, and Djibouti.
+- 2015-06-18 — Amendment SA 1474 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1474 proposed by Senator Reed for Senator Coons to Amendment SA 1463. (consideration: CR S4263-4270, S4328; text: CR S4265-4266) To improve section 1204, relating to the National Guard State Partnership Program.
+- 2015-06-18 — Amendment SA 1474, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S4328)
+- 2015-06-18 — Amendment SA 1563 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1563 proposed by Senator Reed for Senator Blumenthal to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4266) To require the Secretary of Defense and the Secretary of Veterans Affairs to jointly submit to Congress a report on the implementation of new or updated electronic health records in certain environments.
+- 2015-06-18 — Amendment SA 1678 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1678 proposed by Senator McCain for Senator Paul to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To provide for the more accurate and complete enumeration of members of the Armed Forces in any tabulation of total population by the Secretary of Commerce.
+- 2015-06-18 — Amendment SA 1703 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1703 proposed by Senator Reed for Senator Durbin to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4266) To authorize the provision of post-traumatic stress disorder training to military and security forces of the Government of Ukraine.
+- 2015-06-18 — Amendment SA 1705 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1705 proposed by Senator McCain for Senator Coats to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To provide for military exchanges between senior officers and officials of the United States and Taiwan.
+- 2015-06-18 — Amendment SA 1708 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1708 proposed by Senator McCain for Senator Gardner to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To require a strategy to promote United States interests in the Indo-Asia-Pacific region.
+- 2015-06-18 — Amendment SA 1720 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1720 proposed by Senator McCain for Senator Flake to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To authorize transportation to transfer ceremonies for the family and next of kin of members of the Armed Forces who die overseas during humanitarian operations.
+- 2015-06-18 — Amendment SA 1747 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1747 proposed by Senator Reed for Senator Casey to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4268-4269) To require the Department of Defense to support the security of Afghan women and girls during and after 2015.
+- 2015-06-18 — Amendment SA 1811 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1811 proposed by Senator McCain for Senator Hatch to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264-4265) To provide for sustainment enhancement.
+- 2015-06-18 — Amendment SA 1825 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1825 proposed by Senator McCain for Senator Fischer to Amendment SA 1463. (consideration: CR S4263-4270)
+- 2015-06-18 — Amendment SA 1890 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1890 proposed by Senator McCain for Senator Daines to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To modify the immediate applicability of basic allowance for housing for married members assigned for duty within normal commuting distance.
+- 2015-06-18 — Amendment SA 1901 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1901 proposed by Senator Reed for Senator Murphy to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4266) To require reporting on foreign procurements.
+- 2015-06-18 — Amendment SA 1902 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1902 proposed by Senator Reed for Senator Warren to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4266) To require the Comptroller General of the United States to conduct a study on problem gambling among members of the Armed Forces.
+- 2015-06-18 — Amendment SA 1908 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1908 proposed by Senator McCain for Senator Enzi to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4264) To provide for a small business procurement ombudsman.
+- 2015-06-18 — Amendment SA 1916 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1916 proposed by Senator Reed for Senator Bennet to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4270) To require the Secretary of Veterans Affairs to designate a construction agent for certain construction projects by the Department of Veterans Affairs.
+- 2015-06-18 — Amendment SA 1931 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 1931 proposed by Senator Reed for Senator Leahy to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4269) To improve the annual reports of the Chief of the National Guard Bureau on the ability of the National Guard to meet its missions.
+- 2015-06-18 — Amendment SA 1944 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4266-4268)
+- 2015-06-18 — Amendment SA 1944 proposed by Senator Reed for Senator Tester to Amendment SA 1463. (consideration: CR S4263-4270) To reform and improve personnel security, insider threat detection and prevention, and physical security.
+- 2015-06-18 — Amendment SA 1974 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4263)
+- 2015-06-18 — Amendment SA 1974 proposed by Senator McCain to Amendment SA 1463. (consideration: CR S4263-4270) To express the sense of Congress on the security and protection of Iranian dissidents living in Camp Liberty, Iraq.
+- 2015-06-18 — Amendment SA 2006 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 2006 proposed by Senator Reed for Senator Schatz to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4269) Relating to the policies of the Department of Defense on the travel of next of kin to participate in the dignified transfer of remains of members of the Armed Forces and civilian employees of the Department of Defense who die overseas.
+- 2015-06-18 — Amendment SA 2011 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 2011 proposed by Senator McCain for Senator Ayotte to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4269-4270) To provide for cooperation between the United States and Israel on anti-tunnel capabilities.
+- 2015-06-18 — Amendment SA 2020 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 2020 proposed by Senator Reed for Senator King to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4265) To demonstrate the effects of a method to facilitate the disposal of excess Army property and management of underutilized and unutilized property by providing an exemption from certain requirements for off-site use and off-site removal only of non-mobile properties.
+- 2015-06-18 — Amendment SA 2030 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Amendment SA 2030 proposed by Senator McCain for Senator Murkowski to Amendment SA 1463. (consideration: CR S4263-4270; text: CR S4263) To express the sense of Congress on the coordination of hunting, fishing, and other recreational activities on military land.
+- 2015-06-18 — Amendment SA 2050 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4265)
+- 2015-06-18 — Amendment SA 2050 proposed by Senator Reed for Senator Menendez to Amendment SA 1463. (consideration: CR S4263-4270) To require a report on the security relationship between the United States and the Republic of Cyprus.
+- 2015-06-18 — Considered by Senate. (consideration: CR S4258-4275)
+- 2015-06-18 — Notwithstanding the provisions of Rule XXII and the adoption of Amendment SA 1463, the substitute amendment was amended by Unanimous Consent.
+- 2015-06-18 — Passed Senate with an amendment by Yea-Nay Vote. 71 - 25. Record Vote Number: 215. (text as passed Senate: CR 6/22/2015 S4358-4521)
+- 2015-06-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 71 - 25. Record Vote Number: 215.(text as passed Senate: CR 6/22/2015 S4358-4521)
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1472 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4263-4264)
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1474 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1563 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1678 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1703 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1705 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1708 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1720 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1747 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1811 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1825 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1890 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1901 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1902 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1908 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1916 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1931 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1944 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4266-4268)
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 1974 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4263)
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 2006 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 2011 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 2020 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 2030 agreed to in Senate by Unanimous Consent.
+- 2015-06-18 — Senate amendment agreed to: Amendment SA 2050 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4265)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1472 proposed by Senator McCain for Senator Vitter to Amendment SA 1463.(consideration: CR S4263-4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1474 proposed by Senator Reed for Senator Coons to Amendment SA 1463.(consideration: CR S4263-4270, S4328; text: CR S4265-4266)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1563 proposed by Senator Reed for Senator Blumenthal to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4266)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1678 proposed by Senator McCain for Senator Paul to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1703 proposed by Senator Reed for Senator Durbin to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4266)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1705 proposed by Senator McCain for Senator Coats to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1708 proposed by Senator McCain for Senator Gardner to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1720 proposed by Senator McCain for Senator Flake to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1747 proposed by Senator Reed for Senator Casey to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4268-4269)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1811 proposed by Senator McCain for Senator Hatch to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264-4265)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1825 proposed by Senator McCain for Senator Fischer to Amendment SA 1463.(consideration: CR S4263-4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1890 proposed by Senator McCain for Senator Daines to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1901 proposed by Senator Reed for Senator Murphy to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4266)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1902 proposed by Senator Reed for Senator Warren to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4266)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1908 proposed by Senator McCain for Senator Enzi to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4264)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1916 proposed by Senator Reed for Senator Bennet to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1931 proposed by Senator Reed for Senator Leahy to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4269)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1944 proposed by Senator Reed for Senator Tester to Amendment SA 1463.(consideration: CR S4263-4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 1974 proposed by Senator McCain to Amendment SA 1463.(consideration: CR S4263-4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2006 proposed by Senator Reed for Senator Schatz to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4269)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2011 proposed by Senator McCain for Senator Ayotte to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4269-4270)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2020 proposed by Senator Reed for Senator King to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4265)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2030 proposed by Senator McCain for Senator Murkowski to Amendment SA 1463.(consideration: CR S4263-4270; text: CR S4263)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2050 proposed by Senator Reed for Senator Menendez to Amendment SA 1463.(consideration: CR S4263-4270)
+- 2015-06-18 — Senate ordered measure printed as passed.
