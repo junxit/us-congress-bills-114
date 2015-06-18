@@ -1,7 +1,7 @@
 ---
 measure: H.R. 160
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 160
@@ -305,6 +305,10 @@ Protect Medical Innovation Act of 2015
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2015-06-18 — [House 114-1-375](votes/house-114-1-0375.md) — On Passage — **Passed** (280–140)
+
 ## Actions
 
 - 2015-01-06 — Introduced in House
@@ -315,3 +319,14 @@ Protect Medical Innovation Act of 2015
 - 2015-06-11 — Placed on the Union Calendar, Calendar No. 105.
 - 2015-06-11 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-147.
 - 2015-06-11 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-147.
+- 2015-06-16 — Rules Committee Resolution H. Res. 319 Reported to House. The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.
+- 2015-06-17 — Considered under the provisions of rule H. Res. 319. (consideration: CR H4472-4478)
+- 2015-06-17 — DEBATE - The House proceeded with one hour of debate on H.R. 160.
+- 2015-06-17 — House amendment offered
+- 2015-06-17 — POSTPONED PROCEEDINGS - The Chair put the question on passage of H.R. 160 and by voice vote, announced that the ayes had prevailed. Mr. Levin demanded the yeas and nays and pursuant to clause 8, rule XX, the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2015-06-17 — The previous question was ordered pursuant to the rule. (consideration: CR H4478)
+- 2015-06-17 — The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.
+- 2015-06-18 — Considered as unfinished business. (consideration: CR H4525-4526)
+- 2015-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-18 — On passage Passed by the Yeas and Nays: 280 - 140 (Roll no. 375). (text: CR 6/17/2015 H4472)
+- 2015-06-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 280 - 140 (Roll no. 375).(text: CR 6/17/2015 H4472)
