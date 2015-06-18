@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2390
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2390
@@ -33,3 +33,11 @@ Homeland Security University-Based Centers Review Act
 - 2015-05-18 — Referred to the Committee on Homeland Security, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-18 — Referred to the Committee on Homeland Security, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-05-18 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported by Voice Vote.
+- 2015-05-20 — Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies Discharged.
+- 2015-06-18 — Committee on Science, Space, and Technology discharged.
+- 2015-06-18 — Committee on Science, Space, and Technology discharged.
+- 2015-06-18 — Placed on the Union Calendar, Calendar No. 123.
+- 2015-06-18 — Reported by the Committee on Homeland Security. H. Rept. 114-168, Part I.
+- 2015-06-18 — Reported by the Committee on Homeland Security. H. Rept. 114-168, Part I.
