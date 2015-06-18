@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2582
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2582
@@ -29,10 +29,11 @@ Seniors' Health Care Plan Protection Act of 2015
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Womack, Steve [R-AR-3] (W000809)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Seniors' Health Care Plan Protection Act of 2015
 - 2015-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4485-4486)
 - 2015-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4485-4486)
 - 2015-06-17 — The title of the measure was amended. Agreed to without objection.
+- 2015-06-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
