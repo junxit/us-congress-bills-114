@@ -1,0 +1,18 @@
+---
+legis-num: S. 1627
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1627
+
+> To ensure the Secretary of State complies fully with reporting requirements in section 116(d) of the Foreign Assistance Act of 1961.
+
+## § 1. Short title
+
+This Act may be cited as the “Human Rights Accountability Act of 2015”.
+
+## § 2. Penalty for failure to comply with reporting requirements on human rights and severe forms of trafficking in persons
+
+Of the funds appropriated or otherwise made available for a fiscal year for the Department of State for “Diplomatic and Consular Programs” and not designated for Worldwide Security Protection, 5 percent shall be withheld from obligation for every 30 days after the deadline specified in subsection (d) of section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d)) that the Secretary of State submits the report required under such subsection.
