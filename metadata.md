@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 114
-version: Engrossed Amendment Senate
+version: Printed as Passed
 ---
 
 # H.R. 1735

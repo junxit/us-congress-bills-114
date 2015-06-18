@@ -2,7 +2,7 @@
 legis-num: H.R. 1735
 congress: 114th CONGRESS
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: In the Senate of the United States
 ---
 
 # H.R. 1735
