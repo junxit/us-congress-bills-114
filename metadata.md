@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 321
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 321
@@ -20,6 +20,10 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2146) to a
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2015-06-18 — [House 114-1-373](votes/house-114-1-0373.md) — On Agreeing to the Resolution — **Passed** (244–181)
+
 ## Actions
 
 - 2015-06-17 — Introduced in House
@@ -27,3 +31,11 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2146) to a
 - 2015-06-17 — Resolution provides for consideration of the Senate amendment to H.R. 2146.
 - 2015-06-17 — The House Committee on Rules reported an original measure, H. Rept. 114-167, by Mr. Sessions.
 - 2015-06-17 — The House Committee on Rules reported an original measure, H. Rept. 114-167, by Mr. Sessions.
+- 2015-06-18 — By direction of the Committeee on Rules, Mr. Sessions called up H.Res. 321 and asked for its immediate consideration. (consideration: CR H4497-4507)
+- 2015-06-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 321.
+- 2015-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 181 (Roll no. 373). (text: CR H4497)
+- 2015-06-18 — On consideration of the resolution Agreed to by voice vote. (consideration: CR H4499)
+- 2015-06-18 — POINT OF ORDER - Ms. Slaughter raised a point of order against the provisions of H.Res. 321 because it violates the Congressional Budget Act. The Chair announced that the disposition of the point of order would be resolved by the question of consideration on the resolution. The House proceeded with 20 minutes of debate on the point of order at the end of which the Chair will put the question on consideration.
+- 2015-06-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 181 (Roll no. 373).(text: CR H4497)
+- 2015-06-18 — The previous question was ordered without objection. (consideration: CR H4506)
