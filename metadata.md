@@ -1,7 +1,7 @@
 ---
 measure: H.R. 91
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 91
@@ -125,3 +125,13 @@ Veterans Identification Card Act 2015
 - 2015-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 240). (text: CR H3263)
 - 2015-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 240).(text: CR H3263)
 - 2015-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2015-06-22 — Amendment SA 2076 agreed to in Senate by Unanimous Consent.
+- 2015-06-22 — Amendment SA 2076 proposed by Senator McConnell for Senator Blumenthal. (consideration: CR S4521-4522; text: CR S4521-4522) In the nature of a substitute.
+- 2015-06-22 — Measure laid before Senate by unanimous consent. (consideration: CR S4521-4522)
+- 2015-06-22 — Passed Senate with an amendment by Unanimous Consent. (text: CR S4521-4522)
+- 2015-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S4521-4522)
+- 2015-06-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2015-06-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2015-06-22 — Senate amendment agreed to: Amendment SA 2076 agreed to in Senate by Unanimous Consent.
+- 2015-06-22 — Senate amendment proposed (on the floor): Amendment SA 2076 proposed by Senator McConnell for Senator Blumenthal.(consideration: CR S4521-4522; text: CR S4521-4522)
+- 2015-06-22 — Senate amendment submitted
