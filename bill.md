@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 91
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 91
 
-That the bill from the House of Representatives (H.R. 91) entitled “An Act to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to issue, upon request, veteran identification cards to certain veterans.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to issue, upon request, veteran identification cards to certain veterans.
 
 ## § 1. Short title
 

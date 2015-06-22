@@ -1,7 +1,7 @@
 ---
 measure: H.R. 91
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 91
@@ -106,9 +106,10 @@ Veterans Identification Card Act 2015
 - House — Veterans' Affairs Committee
 - Senate — Veterans' Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-05-18 — [House 114-1-240](votes/house-114-1-0240.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–0)
+- 2015-07-07 — [House 114-1-391](votes/house-114-1-0391.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (411–0)
 
 ## Actions
 
@@ -135,3 +136,17 @@ Veterans Identification Card Act 2015
 - 2015-06-22 — Senate amendment agreed to: Amendment SA 2076 agreed to in Senate by Unanimous Consent.
 - 2015-06-22 — Senate amendment proposed (on the floor): Amendment SA 2076 proposed by Senator McConnell for Senator Blumenthal.(consideration: CR S4521-4522; text: CR S4521-4522)
 - 2015-06-22 — Senate amendment submitted
+- 2015-06-23 — Message on Senate action sent to the House.
+- 2015-06-24 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 114-186.
+- 2015-07-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2015-07-07 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 91.
+- 2015-07-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-07 — Mr. Abraham moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4781-4782, H4815-4816)
+- 2015-07-07 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 391). (text as House agreed to Senate amendment: CR H4781)
+- 2015-07-07 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 391).(text as House agreed to Senate amendment: CR H4781)
+- 2015-07-09 — Presented to President.
+- 2015-07-09 — Presented to President.
+- 2015-07-20 — Became Public Law No: 114-31.
+- 2015-07-20 — Became Public Law No: 114-31.
+- 2015-07-20 — Signed by President.
+- 2015-07-20 — Signed by President.
