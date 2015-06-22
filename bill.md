@@ -33,3 +33,12 @@ Section 6(b) of the Environmental Research, Development, and Demonstration Autho
 >       - **(iii)** recorded factual materials; and
 >       - **(iv)** detailed descriptions of how to access and use such information.
 >   - **(4)** The Administrator shall carry out this subsection in a manner that does not exceed $1,000,000 per fiscal year, to be derived from amounts otherwise authorized to be appropriated.
+
+## § 3. Preventing censorship of publicly funded science
+
+Nothing in this Act or the amendments made by this Act limits the ability of the Administrator of the Environmental Protection Agency, any Federal official or employee, or any Federal agency to use in official documents or presentations terms common in peer-reviewed scientific literature describing scientific processes, including terms relevant to—
+
+- **(1)** the impacts of climate change;
+- **(2)** air and water pollution;
+- **(3)** exposure to toxic substances; and
+- **(4)** other risks to human health, the environment, and the economy.
