@@ -1,7 +1,7 @@
 ---
 measure: S. 971
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 971
@@ -48,3 +48,11 @@ Medicare Independence at Home Medical Practice Demonstration Improvement Act of 
 - 2015-04-22 — Senate amendment agreed to: Amendment SA 1129 agreed to in Senate by Unanimous Consent.
 - 2015-04-22 — Senate amendment proposed (on the floor): Amendment SA 1129 proposed by Senator Cornyn for Senator Wyden.(consideration: CR S2319; text CR: S2319)
 - 2015-04-22 — Senate amendment submitted
+- 2015-04-24 — Referred to the Subcommittee on Health.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported by Voice Vote.
+- 2015-06-23 — Committee on Energy and Commerce discharged.
+- 2015-06-23 — Committee on Energy and Commerce discharged.
+- 2015-06-23 — Placed on the Union Calendar, Calendar No. 127.
+- 2015-06-23 — Reported by the Committee on Ways and Means. H. Rept. 114-172, Part I.
+- 2015-06-23 — Reported by the Committee on Ways and Means. H. Rept. 114-172, Part I.

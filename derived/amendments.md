@@ -1,7 +1,7 @@
 ---
 measure: S. 971
 congress: 114
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
