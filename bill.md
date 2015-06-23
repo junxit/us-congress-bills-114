@@ -25,7 +25,7 @@ Congress finds that—
 - **(6)** Boys Town has grown exponentially, and now provides care to children and families across the country in 11 regions, including California, Nevada, Texas, Nebraska, Iowa, Louisiana, North Florida, Central Florida, South Florida, Washington, DC, New York, and New England;
 - **(7)** the Boys Town National Hotline provides counseling to more than 150,000 callers each year;
 - **(8)** the Boys Town National Research Hospital is a national leader in the field of hearing care and research of Usher Syndrome;
-- **(9)** Boys Town programs impact the lives of more than 2,000,000 children and families across America each year; and
+- **(9)** Boys Town programs impact the lives of more than 2 million children and families across America each year; and
 - **(10)** December 12th, 2017, will mark the 100th anniversary of Boys Town, Nebraska.
 
 ## § 3. Coin specifications
@@ -59,7 +59,7 @@ Congress finds that—
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
+- **(b)** *Mint facility* Only one facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
 - **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2017, and ending on December 31, 2017.
 
 ## § 6. Sale of coins
@@ -79,6 +79,8 @@ Congress finds that—
   - **(2)** A surcharge of $10 per coin for the $1 coin.
   - **(3)** A surcharge of $5 per coin for the half dollar coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to Boys Town to carry out Boys Town’s cause of caring for and assisting children and families in underserved communities across America.
+- **(c)** *Audits* Boys Town shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual two commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
 ## § 8. Financial assurances
 
