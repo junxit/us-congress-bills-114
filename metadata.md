@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1190
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1190
@@ -260,6 +260,10 @@ Protecting Seniors' Access to Medicare Act of 2015
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2015-06-23 — [House 114-1-376](votes/house-114-1-0376.md) — On Passage — **Passed** (244–154)
+
 ## Actions
 
 - 2015-03-02 — Introduced in House
@@ -279,3 +283,15 @@ Protecting Seniors' Access to Medicare Act of 2015
 - 2015-06-12 — Placed on the Union Calendar, Calendar No. 108.
 - 2015-06-12 — Reported by the Committee on Ways and Means. H. Rept. 114-150, Part I.
 - 2015-06-12 — Reported by the Committee on Ways and Means. H. Rept. 114-150, Part I.
+- 2015-06-16 — Rules Committee Resolution H. Res. 319 Reported to House. The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.
+- 2015-06-17 — Rule H. Res. 319 passed House.
+- 2015-06-18 — Considered under the provisions of rule H. Res. 319. (consideration: CR H4528-4535; text of measure as reported in House: CR H4528)
+- 2015-06-18 — DEBATE - Pursuant to the provisions of H. Res. 319, the amendment printed in part B of the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The House proceeded with one hour of debate on H.R. 1190.
+- 2015-06-18 — House amendment offered
+- 2015-06-18 — POSTPONED PROCEEDINGS - The Chair put the question on passage of H.R. 1190 and by voice vote, announced that the ayes had prevailed. Mr. Pitts demanded the yeas and nays which were ordered, and pursuant to clause 8, rule XX, the Chair postponed further proceedings on the question of passage of H.R. 1190 until a time to be announced.
+- 2015-06-18 — The previous question was ordered pursuant to the rule. (consideration: CR H4535)
+- 2015-06-18 — The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.
+- 2015-06-23 — Considered as unfinished business. (consideration: CR H4579-4580)
+- 2015-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-23 — On passage Passed by the Yeas and Nays: 244 - 154 (Roll no. 376).
+- 2015-06-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 154 (Roll no. 376).
