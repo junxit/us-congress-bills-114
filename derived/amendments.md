@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-108 amendatory instructions. 70 executed, 38 stated and not applied.
+114 amendatory instructions. 72 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `; and` |
 | Inserted | `; or` |
+
+### 15 U.S.C. § 2603
+
+> in subsection (b)(5), by striking “paragraph (1)(A) or (1)(B)” and inserting “paragraph (1)(A), (1)(B), or (1)(C)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (1)(A) or (1)(B)` |
+| Inserted | `paragraph (1)(A), (1)(B), or (1)(C)` |
 
 ### 15 U.S.C. § 2605
 
@@ -95,6 +104,15 @@ to guess them.
 |---|---|
 | Removed | `mixture or,` |
 | Inserted | `mixture, or,` |
+
+### 15 U.S.C. § 2613
+
+> in subparagraph (B)(i), by striking “or (4)” and inserting “(4), or (6)”; and
+
+| | |
+|---|---|
+| Removed | `or (4)` |
+| Inserted | `(4), or (6)` |
 
 ### 15 U.S.C. § 2625
 
@@ -179,12 +197,12 @@ to guess them.
 
 ### 15 U.S.C. § 2603
 
-> in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data is being developed pursuant to such a rule, order, or consent agreement”;
+> in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data are being developed pursuant to such a rule, order, or consent agreement”;
 
 | | |
 |---|---|
 | Removed | `a rule under subsection (a) or for which data is being developed pursuant to such a rule` |
-| Inserted | `a rule, order, or consent agreement under subsection (a) or for which data is being developed pursuant to such a rule, order, or consent agreement` |
+| Inserted | `a rule, order, or consent agreement under subsection (a) or for which data are being developed pursuant to such a rule, order, or consent agreement` |
 
 ### 15 U.S.C. § 2603
 
@@ -323,12 +341,12 @@ to guess them.
 
 ### 15 U.S.C. § 2605
 
-> in subsection (d)(2)(B), by striking “paragraphs (2) and (3) of subsection (c)” and inserting “paragraph (2) of subsection (c)”; and
+> by striking “, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule,” and inserting “in accordance with paragraph (2) of subsection (c),”; and
 
 | | |
 |---|---|
-| Removed | `paragraphs (2) and (3) of subsection (c)` |
-| Inserted | `paragraph (2) of subsection (c)` |
+| Removed | `, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule,` |
+| Inserted | `in accordance with paragraph (2) of subsection (c),` |
 
 ### 15 U.S.C. § 2605
 
@@ -557,7 +575,7 @@ to guess them.
 
 ### 15 U.S.C. § 2618
 
-> in the matter preceding clause (i), by striking “a rule” and inserting “a rule or order”; and
+> in the matter preceding clause (i), by striking “a rule” and inserting “a rule or order”;
 
 | | |
 |---|---|
@@ -566,7 +584,7 @@ to guess them.
 
 ### 15 U.S.C. § 2618
 
-> by striking “such rule” and inserting “such rule or order”; and
+> by striking “such rule” and inserting “such rule or order”;
 
 | | |
 |---|---|
@@ -668,7 +686,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2602` | redesignate | by inserting after paragraph (10), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2603` | replace | in subparagraph (A)(iii), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 2603` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 2603` | insert | in the matter following subsection (a)(2), by inserting “, order, or consent agreement” after “by rule”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2603` | insert | in the matter following subsection (a)(2), by inserting “, order, or consent agreement” after “by rule”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2605` | insert | by inserting “or designates a chemical substance under subsection (i)(2),” before “the Administrator shall by rule”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2605` | amend | Section 6(b) of the Toxic Substances Control Act (15 U.S.C. 2605(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2605` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -682,8 +700,9 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2613` | replace | by striking the period at the end of paragraph (4) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2613` | amend | by adding after paragraph (4) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2613` | strike | by striking “the release of data disclosing”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 2613` | replace | by striking the subsection heading and inserting “Designating and substantiating confidentiality.—”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2613` | replace | by striking the subsection heading and inserting “Designating and substantiating confidentiality.—”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2613` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2613` | insert | in subparagraph (A), by inserting “, for a reason other than the expiration of such designation pursuant to paragraph (1)(B),” before “proposes to release”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2613` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2617` | replace | in paragraph (2)(A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 2617` | replace | by striking paragraph (2)(B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -694,9 +713,12 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2625` | insert | by inserting “, or who requests a risk evaluation under section 6(b)(3)(A)(ii),” before “to defray the cost”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2625` | add-at-end | by adding at the end of subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2625` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2605` | replace | by striking “; and if such a hearing is requested” and all that follows through “or revoke it.” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 2618` | insert | by inserting “or the date on which an order is issued under section 4,” before “any person”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2618` | strike | by striking paragraph (1)(B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2618` | insert | by inserting “or an order under section 4,” before “the standard for review”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2618` | replace | by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2618` | redesignate | by striking clause (ii) and redesignating clause (iii) as clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2620` | strike | in clause (ii), by striking “or an order under section 6(b)(2)”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 2623` | insert | by inserting “and” at the end of clause (i); | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2623` | strike | by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
