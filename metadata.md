@@ -1,7 +1,7 @@
 ---
 measure: S. 971
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 971
@@ -56,3 +56,15 @@ Medicare Independence at Home Medical Practice Demonstration Improvement Act of 
 - 2015-06-23 — Placed on the Union Calendar, Calendar No. 127.
 - 2015-06-23 — Reported by the Committee on Ways and Means. H. Rept. 114-172, Part I.
 - 2015-06-23 — Reported by the Committee on Ways and Means. H. Rept. 114-172, Part I.
+- 2015-07-15 — Considered under suspension of the rules. (consideration: CR H5217-5219)
+- 2015-07-15 — DEBATE - The House proceeded with forty minutes of debate on S. 971.
+- 2015-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-15 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
+- 2015-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5217)
+- 2015-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5217)
+- 2015-07-22 — Presented to President.
+- 2015-07-22 — Presented to President.
+- 2015-07-30 — Became Public Law No: 114-39.
+- 2015-07-30 — Became Public Law No: 114-39.
+- 2015-07-30 — Signed by President.
+- 2015-07-30 — Signed by President.
