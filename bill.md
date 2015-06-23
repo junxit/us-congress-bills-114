@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 805
 
-> To provide for certain requirements relating to the Internet Assigned Numbers Authority stewardship transition.
+> To prohibit the National Telecommunications and Information Administration from relinquishing responsibility over the Internet domain name system until the Comptroller General of the United States submits to Congress a report on the role of the NTIA with respect to such system.
 
 ## § 1. Short title
 
