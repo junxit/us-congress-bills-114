@@ -7,21 +7,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 805
 
-> To prohibit the National Telecommunications and Information Administration from relinquishing responsibility over the Internet domain name system until the Comptroller General of the United States submits to Congress a report on the role of the NTIA with respect to such system.
+> To provide for certain requirements relating to the Internet Assigned Numbers Authority stewardship transition.
 
 ## § 1. Short title
 
 This Act may be cited as the “Domain Openness Through Continued Oversight Matters Act of 2015” or the “DOTCOM Act of 2015”.
 
-## § 2. NTIA retention of DNS responsibilities pending GAO report
+## § 2. Requirements for IANA stewardship transition
 
-- **(a)** *Retention of responsibilities* Until the Comptroller General of the United States submits the report required by subsection (b), the Assistant Secretary of Commerce for Communications and Information may not relinquish or agree to any proposal relating to the relinquishment of the responsibility of the National Telecommunications and Information Administration (in this section referred to as the “NTIA”) over Internet domain name system functions, including responsibility with respect to the authoritative root zone file, the Internet Assigned Numbers Authority functions, and related root zone management functions.
-- **(b)** *Report* Not later than 1 year after the date on which the NTIA receives a proposal relating to the relinquishment of the responsibility of the NTIA over Internet domain name system functions that was developed in a process convened by the Internet Corporation for Assigned Names and Numbers at the request of the NTIA, the Comptroller General of the United States shall submit to Congress a report on the role of the NTIA with respect to the Internet domain name system. Such report shall include—
-  - **(1)** a discussion and analysis of—
-    - **(A)** the advantages and disadvantages of relinquishment of the responsibility of the NTIA over Internet domain name system functions, including responsibility with respect to the authoritative root zone file, the Internet Assigned Numbers Authority functions, and related root zone management functions;
-    - **(B)** any principles or criteria that the NTIA sets for proposals for such relinquishment;
-    - **(C)** each proposal received by the NTIA for such relinquishment;
-    - **(D)** the processes used by the NTIA and any other Federal agencies for evaluating such proposals;
-    - **(E)** any national security concerns raised by such relinquishment; and
-    - **(F)** any concerns raised by such relinquishment with respect to the security of the Internet domain name system or the security of other information networks and systems; and
-  - **(2)** a definition of the term “multistakeholder model”, as used by the NTIA with respect to Internet policymaking and governance, and definitions of any other terms necessary to understand the matters covered by the report.
+- **(a)** *In general* Until the date that is 30 legislative days after the submission to Congress of the report described in subsection (b), the Assistant Secretary may not permit the NTIA’s role in the performance of the Internet Assigned Numbers Authority functions to terminate, lapse, be cancelled, or otherwise cease to be in effect.
+- **(b)** *Report described* The report described in this subsection is a report that contains—
+  - **(1)** the proposal relating to the transition of the NTIA’s stewardship of the Internet Assigned Numbers Authority functions that was developed in a process convened by ICANN at the request of the NTIA; and
+  - **(2)** a certification by the Assistant Secretary that—
+    - **(A)** such proposal—
+      - **(i)** supports and enhances the multistakeholder model of Internet governance;
+      - **(ii)** maintains the security, stability, and resiliency of the Internet domain name system;
+      - **(iii)** meets the needs and expectations of the global customers and partners of the Internet Assigned Numbers Authority services;
+      - **(iv)** maintains the openness of the Internet; and
+      - **(v)** does not replace the role of the NTIA with a government-led or intergovernmental organization solution; and
+    - **(B)** the required changes to ICANN’s bylaws contained in the final report of ICANN’s Cross Community Working Group on Enhancing ICANN Accountability and the changes to ICANN’s bylaws required by ICANN’s IANA Stewardship Transition Coordination Group have been adopted.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Assistant Secretary* The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
+  - **(2)** *ICANN* The term “ICANN” means the Internet Corporation for Assigned Names and Numbers.
+  - **(3)** *Legislative day* The term “legislative day” does not include Saturdays, Sundays, legal public holidays, or days either House of Congress is adjourned for more than 3 days during a session of Congress.
+  - **(4)** *NTIA* The term “NTIA” means the National Telecommunications and Information Administration.
