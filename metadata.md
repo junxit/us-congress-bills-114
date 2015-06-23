@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1637
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1637
@@ -45,3 +45,9 @@ Federally Funded Research and Development Sunshine Act of 2015
 - 2015-06-11 — Placed on the Union Calendar, Calendar No. 107.
 - 2015-06-11 — Reported by the Committee on Homeland Security. H. Rept. 114-149.
 - 2015-06-11 — Reported by the Committee on Homeland Security. H. Rept. 114-149.
+- 2015-06-23 — Considered under suspension of the rules. (consideration: CR H4572-4574)
+- 2015-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1637.
+- 2015-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-23 — Mr. Ratcliffe moved to suspend the rules and pass the bill.
+- 2015-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4573)
+- 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4573)
