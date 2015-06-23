@@ -1,7 +1,7 @@
 ---
 measure: H.R. 160
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 160
@@ -330,3 +330,5 @@ Protect Medical Innovation Act of 2015
 - 2015-06-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-06-18 — On passage Passed by the Yeas and Nays: 280 - 140 (Roll no. 375). (text: CR 6/17/2015 H4472)
 - 2015-06-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 280 - 140 (Roll no. 375).(text: CR 6/17/2015 H4472)
+- 2015-06-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-06-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
