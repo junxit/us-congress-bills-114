@@ -28,3 +28,7 @@ Title 31, United States Code, is amended—
     - **(iii)** in paragraph (5), by inserting after “may issue” the following: “collectible versions of”; and
     - **(iv)** by striking paragraph (8); and
 - **(2)** in section 5132(a)(2)(B)(i), by striking “90 percent silver and 10 percent copper” and inserting “not less than 90 percent silver”.
+
+## § 3. American Eagle Silver Bullion 30th Anniversary
+
+Proof and uncirculated versions of coins issued by the Secretary of the Treasury pursuant to subsection (e) of section 5112 of title 31, United States Code, during calendar year 2016 shall have a smooth edge incused with a designation that notes the 30th anniversary of the first issue of coins under such subsection.
