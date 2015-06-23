@@ -16,7 +16,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > except that—
     > - **(A)** any cotton futures contract
 
-  - **(2)** by adding at the end the following new subparagraph:
+  - **(2)** in subparagraph (A) (as designated by paragraph (1)), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new subparagraph:
     > - **(B)** any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.
 
 - **(b)** *Application* The amendments made by subsection (a) shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act.
