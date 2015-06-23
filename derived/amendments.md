@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -197,12 +197,12 @@ to guess them.
 
 ### 15 U.S.C. § 2603
 
-> in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data are being developed pursuant to such a rule, order, or consent agreement”;
+> in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data is being developed pursuant to such a rule, order, or consent agreement”;
 
 | | |
 |---|---|
 | Removed | `a rule under subsection (a) or for which data is being developed pursuant to such a rule` |
-| Inserted | `a rule, order, or consent agreement under subsection (a) or for which data are being developed pursuant to such a rule, order, or consent agreement` |
+| Inserted | `a rule, order, or consent agreement under subsection (a) or for which data is being developed pursuant to such a rule, order, or consent agreement` |
 
 ### 15 U.S.C. § 2603
 
