@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1640
@@ -46,3 +46,9 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 - 2015-06-17 — Placed on the Union Calendar, Calendar No. 122.
 - 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-166.
 - 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-166.
+- 2015-06-23 — Considered under suspension of the rules. (consideration: CR H4564-4566)
+- 2015-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1640.
+- 2015-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-23 — Mr. Walker moved to suspend the rules and pass the bill, as amended.
+- 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4564-4565)
+- 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4564-4565)
