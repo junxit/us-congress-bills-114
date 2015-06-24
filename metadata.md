@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1646
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1646
@@ -20,10 +20,11 @@ Homeland Security Drone Assessment and Analysis Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Homeland Security Drone Assessment and Analysis Act
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4569)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4569)
 - 2015-06-23 — The title of the measure was amended. Agreed to without objection.
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
