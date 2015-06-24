@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1640
@@ -29,9 +29,10 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 - 2015-06-23 — Mr. Walker moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4564-4565)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4564-4565)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
