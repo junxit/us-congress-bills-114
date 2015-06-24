@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1626
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1626
@@ -52,3 +52,14 @@ DHS IT Duplication Reduction Act of 2015
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4572)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4572)
 - 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-07-23 — Passed Senate without amendment by Unanimous Consent.
+- 2015-07-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-07-23 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5558-5559)
+- 2015-07-23 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5558-5559)
+- 2015-07-24 — Message on Senate action sent to the House.
+- 2015-07-27 — Presented to President.
+- 2015-07-27 — Presented to President.
+- 2015-08-06 — Became Public Law No: 114-43.
+- 2015-08-06 — Became Public Law No: 114-43.
+- 2015-08-06 — Signed by President.
+- 2015-08-06 — Signed by President.
