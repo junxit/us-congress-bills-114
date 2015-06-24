@@ -1,0 +1,25 @@
+---
+legis-num: S. 1667
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1667
+
+> To amend the Internal Revenue Code of 1986 to clarify the special rules for accident and health plans of certain governmental entities, and for other purposes.
+
+## § 1. Clarification of special rule for certain governmental plans
+
+- **(a)** *In general* Paragraph (1) of section 105(j) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “the taxpayer” and inserting “a qualified taxpayer”, and
+  - **(2)** by striking “deceased plan participant's beneficiary” and inserting “deceased employee's beneficiary (other than an individual described in paragraph (3)(B))”.
+- **(b)** *Qualified taxpayer* Subsection (j) of section 105 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(3)** *Qualified taxpayer* For purposes of paragraph (1), with respect to an accident or health plan described in paragraph (2), the term qualified taxpayer means a taxpayer who is—
+  >   - **(A)** an employee, or
+  >   - **(B)** the spouse, dependent (as defined for purposes of subsection (b)), or child (as defined for purposes of such subsection) of an employee.
+
+- **(c)** *Application to political subdivisions of States* Paragraph (2) of section 105(j) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by inserting “or established by or on behalf of a State or political subdivision thereof” after “public retirement system”, and
+  - **(2)** by inserting “or 501(c)(9)” after “section 115” in subparagraph (B).
+- **(d)** *Effective date* The amendments made by this section shall apply to payments after the date of the enactment of this Act.
