@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2042
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2042
@@ -90,6 +90,13 @@ Ratepayer Protection Act of 2015
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (4)
+
+- 2015-06-24 — [House 114-1-381](votes/house-114-1-0381.md) — On Agreeing to the Amendment — **Failed** (181–245)
+- 2015-06-24 — [House 114-1-382](votes/house-114-1-0382.md) — On Agreeing to the Amendment — **Failed** (182–243)
+- 2015-06-24 — [House 114-1-383](votes/house-114-1-0383.md) — On Agreeing to the Amendment — **Failed** (177–250)
+- 2015-06-24 — [House 114-1-384](votes/house-114-1-0384.md) — On Passage — **Passed** (247–180)
+
 ## Actions
 
 - 2015-04-28 — Committee Consideration and Mark-up Session Held.
@@ -101,3 +108,56 @@ Ratepayer Protection Act of 2015
 - 2015-06-19 — Placed on the Union Calendar, Calendar No. 126.
 - 2015-06-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-171.
 - 2015-06-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-171.
+- 2015-06-23 — Rules Committee Resolution H. Res. 333 Reported to House. Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.
+- 2015-06-24 — Amendment (A001) offered by Mr. Pallone. (consideration: CR H4625-4626, H4630; text: CR H4625)
+- 2015-06-24 — Amendment (A002) offered by Mr. Rush. (consideration: CR H4626-4627, H4630-4631; text: CR H4626)
+- 2015-06-24 — Amendment (A003) offered by Mr. Huizenga (MI). (consideration: CR H4627-4628; text: CR H4627)
+- 2015-06-24 — Amendment (A004) offered by Mr. McNerney. (consideration: CR H4628-4629, H4631-4632; text: CR H4628)
+- 2015-06-24 — Amendment (A005) offered by Mr. Newhouse. (consideration: CR H4629-4630; text: CR H4629)
+- 2015-06-24 — Amendment agreed to Committee of the Whole
+- 2015-06-24 — Amendment agreed to Committee of the Whole
+- 2015-06-24 — Amendment failed in Committee of the Whole
+- 2015-06-24 — Amendment failed in Committee of the Whole
+- 2015-06-24 — Amendment failed in Committee of the Whole
+- 2015-06-24 — Considered under the provisions of rule H. Res. 333. (consideration: CR H4617-4633; text of amendment in the nature of a substitute CR H4624-4625)
+- 2015-06-24 — DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 3.
+- 2015-06-24 — DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment No. 4.
+- 2015-06-24 — DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment No. 5.
+- 2015-06-24 — DEBATE - Pursuant to the provisions of H.Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 1.
+- 2015-06-24 — DEBATE - Pursuant to the provisions of H.Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rush amendment No. 2.
+- 2015-06-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2042.
+- 2015-06-24 — House amendment agreed to: On agreeing to the Huizenga (MI) amendment (A003) Agreed to by voice vote.
+- 2015-06-24 — House amendment agreed to: On agreeing to the Newhouse amendment (A005) Agreed to by voice vote.
+- 2015-06-24 — House amendment not agreed to: On agreeing to the McNerney amendment (A004) Failed by recorded vote: 177 - 250 (Roll no. 383).
+- 2015-06-24 — House amendment not agreed to: On agreeing to the Pallone amendment (A001) Failed by recorded vote: 181 - 245 (Roll no. 381).
+- 2015-06-24 — House amendment not agreed to: On agreeing to the Rush amendment (A002) Failed by recorded vote: 182 - 243 (Roll no. 382).
+- 2015-06-24 — House amendment offered
+- 2015-06-24 — House amendment offered
+- 2015-06-24 — House amendment offered
+- 2015-06-24 — House amendment offered
+- 2015-06-24 — House amendment offered
+- 2015-06-24 — House amendment offered/reported by : Amendment (A001) offered by Mr. Pallone.(consideration: CR H4625-4626, H4630; text: CR H4625)
+- 2015-06-24 — House amendment offered/reported by : Amendment (A002) offered by Mr. Rush.(consideration: CR H4626-4627, H4630-4631; text: CR H4626)
+- 2015-06-24 — House amendment offered/reported by : Amendment (A003) offered by Mr. Huizenga (MI).(consideration: CR H4627-4628; text: CR H4627)
+- 2015-06-24 — House amendment offered/reported by : Amendment (A004) offered by Mr. McNerney.(consideration: CR H4628-4629, H4631-4632; text: CR H4628)
+- 2015-06-24 — House amendment offered/reported by : Amendment (A005) offered by Mr. Newhouse.(consideration: CR H4629-4630; text: CR H4629)
+- 2015-06-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 333 and Rule XVIII.
+- 2015-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-24 — On agreeing to the Huizenga (MI) amendment (A003) Agreed to by voice vote.
+- 2015-06-24 — On agreeing to the McNerney amendment (A004) Failed by recorded vote: 177 - 250 (Roll no. 383).
+- 2015-06-24 — On agreeing to the Newhouse amendment (A005) Agreed to by voice vote.
+- 2015-06-24 — On agreeing to the Pallone amendment (A001) Failed by recorded vote: 181 - 245 (Roll no. 381).
+- 2015-06-24 — On agreeing to the Rush amendment (A002) Failed by recorded vote: 182 - 243 (Roll no. 382).
+- 2015-06-24 — On passage Passed by recorded vote: 247 - 180 (Roll no. 384).
+- 2015-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McNerney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-06-24 — Passed/agreed to in House: On passage Passed by recorded vote: 247 - 180 (Roll no. 384).
+- 2015-06-24 — Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.
+- 2015-06-24 — Roll call votes on amendments in House
+- 2015-06-24 — Roll call votes on amendments in House
+- 2015-06-24 — Roll call votes on amendments in House
+- 2015-06-24 — Rule H. Res. 333 passed House.
+- 2015-06-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2042.
+- 2015-06-24 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
+- 2015-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4632)

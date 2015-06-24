@@ -28,6 +28,7 @@ This Act may be cited as the “Ratepayer Protection Act of 2015”.
   - **(2)** ends on the date on which judgment becomes final, and no longer subject to further appeal or review, in all actions (including actions that are filed pursuant to section 307 of the Clean Air Act (42 U.S.C. 7607))—
     - **(A)** that are filed during the 60 days described in paragraph (1); and
     - **(B)** that seek review of any aspect of such rule.
+- **(d)** *Sense of Congress* The Congress encourages the Administrator of the Environmental Protection Agency, in promulgating, implementing, or enforcing any final rule described in subsection (b), to specifically address how the megawatt hours discharged from a pumped hydroelectric storage system will be incorporated into State and Federal implementation plans adopted pursuant to any such final rule.
 
 ## § 3. Ratepayer protection
 
@@ -43,3 +44,7 @@ This Act may be cited as the “Ratepayer Protection Act of 2015”.
   - **(1)** the public utility commission or public service commission of the State;
   - **(2)** the environmental protection, public health, and economic development departments or agencies of the State; and
   - **(3)** the Electric Reliability Organization (as defined in section 215 of the Federal Power Act (16 U.S.C. 824o)).
+
+## § 4. Treatment of hydropower as renewable energy
+
+In issuing, implementing, and enforcing any final rule described in section 2(b), the Administrator of the Environmental Protection Agency shall treat hydropower as renewable energy.
