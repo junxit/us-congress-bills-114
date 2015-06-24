@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2620
 congress: 114
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 

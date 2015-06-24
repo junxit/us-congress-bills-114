@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2620
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2620
@@ -44,3 +44,4 @@ To amend the United States Cotton Futures Act to exclude certain cotton futures 
 - 2015-06-23 — Placed on the Union Calendar, Calendar No. 129.
 - 2015-06-23 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-174.
 - 2015-06-23 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-174.
+- 2015-06-24 — Received in the Senate, read twice.
