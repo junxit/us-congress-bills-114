@@ -1,7 +1,7 @@
 ---
 measure: H.R. 893
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 893
@@ -330,3 +330,4 @@ Boys Town Centennial Commemorative Coin Act
 - 2015-06-23 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4560)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4560)
+- 2015-06-24 — Received in the Senate, read twice.
