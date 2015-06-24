@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1326
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1326
@@ -67,3 +67,12 @@ To designate the facility of the United States Postal Service located at 2000 Mu
 - 2015-06-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2015-06-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2015-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
+- 2015-07-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4894)
+- 2015-07-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4894)
+- 2015-07-09 — Message on Senate action sent to the House.
+- 2015-07-09 — Presented to President.
+- 2015-07-09 — Presented to President.
+- 2015-07-20 — Became Public Law No: 114-34.
+- 2015-07-20 — Became Public Law No: 114-34.
+- 2015-07-20 — Signed by President.
+- 2015-07-20 — Signed by President.
