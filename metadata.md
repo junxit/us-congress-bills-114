@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1633
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1633
@@ -30,9 +30,10 @@ DHS Paid Administrative Leave Accountability Act of 2015
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Scott, Austin [R-GA-8] (S001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ DHS Paid Administrative Leave Accountability Act of 2015
 - 2015-06-23 — Mr. Loudermilk moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4566-4567)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4566-4567)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
