@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1626
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1626
@@ -27,9 +27,10 @@ DHS IT Duplication Reduction Act of 2015
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ DHS IT Duplication Reduction Act of 2015
 - 2015-06-23 — Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4572)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4572)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
