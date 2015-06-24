@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1637
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1637
@@ -27,9 +27,10 @@ Federally Funded Research and Development Sunshine Act of 2015
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Federally Funded Research and Development Sunshine Act of 2015
 - 2015-06-23 — Mr. Ratcliffe moved to suspend the rules and pass the bill.
 - 2015-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4573)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4573)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
