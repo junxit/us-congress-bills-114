@@ -2,7 +2,7 @@
 legis-num: H.R. 2576
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2576
@@ -47,11 +47,11 @@ Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended—
 - **(b)** *Risk evaluations* Section 6(b) of the Toxic Substances Control Act (15 U.S.C. 2605(b)) is amended to read as follows:
   > - **(b)** *Risk evaluations*
   >   - **(1)** *In general* The Administrator shall conduct risk evaluations pursuant to this subsection to determine whether or not a chemical substance presents or will present, in the absence of requirements under subsection (a), an unreasonable risk of injury to health or the environment.
-  >   - **(2)** *Applying requirements* The Administrator shall apply requirements with respect to a chemical substance through a rule under subsection (a) only if the Administrator determines through a risk evaluation under this subsection that the chemical substance presents or will present, in the absence of such requirements, an unreasonable risk of injury to health or the environment.
+  >   - **(2)** *Applying requirements* The Administrator shall apply requirements with respect to a chemical substance through a rule under subsection (a) only if the Administrator determines through a risk evaluation under this subsection, without consideration of costs or other non-risk factors, that the chemical substance presents or will present, in the absence of such requirements, an unreasonable risk of injury to health or the environment.
   >   - **(3)** *Conducting risk evaluation*
   >     - **(A)** *Required risk evaluations* The Administrator shall conduct and publish the results of a risk evaluation under this subsection for a chemical substance if—
   >       - **(i)** the Administrator determines that the chemical substance may present an unreasonable risk of injury to health or the environment because of potential hazard and a potential route of exposure under the intended conditions of use; or
-  >       - **(ii)** a manufacturer of the chemical substance requests such a risk evaluation.
+  >       - **(ii)** a manufacturer of the chemical substance requests such a risk evaluation in a form and manner prescribed by the Administrator.
   >     - **(B)** *TSCA Work Plan chemicals* The Administrator may, without making a determination under subparagraph (A)(i), conduct and publish the results of a risk evaluation under this subsection for a chemical substance that, on the date of enactment of the TSCA Modernization Act of 2015, is listed in the TSCA Work Plan for Chemical Assessments published by the Administrator.
   >   - **(4)** *Requirements* In conducting a risk evaluation under this subsection, the Administrator shall—
   >     - **(A)** integrate and assess information on hazards and exposures for all of the intended conditions of use of the chemical substance, including information that is relevant to specific risks of injury to health or the environment and information on potentially exposed subpopulations;
@@ -61,20 +61,25 @@ Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended—
   >     - **(E)** consider whether the weight of the scientific evidence supports the identification of doses of the chemical substance below which no adverse effects can be expected to occur; and
   >     - **(F)** in the case of a risk evaluation requested by a manufacturer under paragraph (3)(A)(ii), ensure that the costs to the Environmental Protection Agency, including contractor costs, of conducting the risk evaluation are paid for by the manufacturer.
   >   - **(5)** *Deadlines*
-  >     - **(A)** *Risk evaluations* The Administrator shall conduct and publish a risk evaluation under this subsection for a chemical substance as soon as reasonably possible, subject to the availability of resources, but not later than 3 years after the date on which—
-  >       - **(i)** the Administrator—
+  >     - **(A)** *Risk evaluations* The Administrator shall conduct and publish a risk evaluation under this subsection for a chemical substance as soon as reasonably possible, subject to the availability of resources, but not later than—
+  >       - **(i)** 3 years after the date on which the Administrator—
   >         - **(I)** makes a determination under paragraph (3)(A)(i); or
   >         - **(II)** begins the risk evaluation under paragraph (3)(B); or
-  >       - **(ii)** a manufacturer requests the risk evaluation under paragraph (3)(A)(ii).
-  >     - **(B)** *Subsection (a) rules* If, based on a risk evaluation conducted under this subsection, the Administrator determines that a chemical substance presents or will present, in the absence of a rule under subsection (a), an unreasonable risk of injury to health or the environment, the Administrator shall—
-  >       - **(i)** propose a rule under subsection (a) for the chemical substance not later than 90 days after the date on which the risk evaluation regarding such chemical substance is published under subparagraph (A); and
-  >       - **(ii)** publish in the Federal Register a final rule not later than 180 days after the date on which the risk evaluation regarding such chemical substance is published under subparagraph (A).
-  >     - **(C)** *Extension* If the Administrator determines that additional information is necessary to make a risk evaluation determination under this subsection, the Administrator may extend the deadline under subparagraph (A) accordingly, except that the deadline may not be extended to a date that is later than—
+  >       - **(ii)** in the case of a risk evaluation requested by a manufacturer under paragraph (3)(A)(ii), 2 years after the later of the date on which—
+  >         - **(I)** the manufacturer requests the risk evaluation; or
+  >         - **(II)** if applicable, the risk evaluation is initiated pursuant to subparagraph (B).
+  >     - **(B)** *Deadline adjustment* If the Administrator receives more requests for risk evaluations under paragraph (3)(A)(ii) than the Administrator has resources to conduct by the deadline under subparagraph (A)(ii)(I) (taking into account the requirement in paragraph (4)(F)), the Administrator shall—
+  >       - **(i)** initiate risk evaluations that exceed the Administrator’s allotted resources as soon as resources for such risk evaluations are available; and
+  >       - **(ii)** not collect a fee under section 26 from the manufacturer for a risk evaluation until the Administrator initiates the risk evaluation.
+  >     - **(C)** *Subsection (a) rules* If, based on a risk evaluation conducted under this subsection, the Administrator determines, without consideration of costs or other non-risk factors, that a chemical substance presents or will present, in the absence of a rule under subsection (a), an unreasonable risk of injury to health or the environment, the Administrator shall—
+  >       - **(i)** propose a rule under subsection (a) for the chemical substance not later than 1 year after the date on which the risk evaluation regarding such chemical substance is published under subparagraph (A); and
+  >       - **(ii)** publish in the Federal Register a final rule not later than 2 years after the date on which the risk evaluation regarding such chemical substance is published under subparagraph (A).
+  >     - **(D)** *Extension* If the Administrator determines that additional information is necessary to make a risk evaluation determination under this subsection, the Administrator may extend the deadline under subparagraph (A) accordingly, except that the deadline may not be extended to a date that is later than—
   >       - **(i)** 90 days after receipt of such additional information; or
-  >       - **(ii)** 2 years after the original deadline.
+  >       - **(ii)** 2 years after the deadline being extended under this subparagraph.
   >   - **(6)** *Determinations of no unreasonable risk*
   >     - **(A)** *Notice and comment* Not later than 30 days before publishing a final determination under this subsection that a chemical substance does not and will not present an unreasonable risk of injury to health or the environment, the Administrator shall make a preliminary determination to such effect and provide public notice of, and an opportunity for comment regarding, such preliminary determination.
-  >     - **(B)** *Potentially exposed subpopulations* The Administrator shall not make a determination under this subsection that a chemical substance will not present an unreasonable risk of injury to health or the environment if the Administrator determines that the chemical substance, under the intended conditions of use, presents or will present an unreasonable risk of injury to 1 or more potentially exposed subpopulations.
+  >     - **(B)** *Potentially exposed subpopulations* The Administrator shall not make a determination under this subsection that a chemical substance will not present an unreasonable risk of injury to health or the environment if the Administrator determines that the chemical substance, under the intended conditions of use, presents or will present an unreasonable risk of injury to one or more potentially exposed subpopulations.
   >     - **(C)** *Final action* A final determination under this subsection that a chemical substance will not present an unreasonable risk of injury to health or the environment shall be considered a final agency action.
   >   - **(7)** *Minimum number* Subject to the availability of appropriations, the Administrator shall initiate 10 or more risk evaluations under paragraphs (3)(A)(i) or (3)(B) in each fiscal year beginning in the fiscal year of the date of enactment of the TSCA Modernization Act of 2015.
 
@@ -101,8 +106,8 @@ Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended—
     - **(A)** by striking “Paragraphs (1), (2), (3), and (4)” and inserting “Application.—Paragraphs (1) and (2)”; and
     - **(B)** by moving such paragraph 2 ems to the right.
 - **(d)** *Effective date* Section 6(d)(2)(B) of the Toxic Substances Control Act (15 U.S.C. 2605(d)(2)(B)) is amended by adding at the end the following: “Any rule promulgated under subsection (a) shall provide for a reasonable transition period.”.
-- **(e)** *Non-risk factors; critical use exemptions; PBT chemicals* Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended by adding at the end the following:
-  > - **(g)** *Non-risk factors* The Administrator shall not consider costs or other non-risk factors when deciding whether to initiate a rulemaking under subsection (a).
+- **(e)** *Non-Risk factors; critical use exemptions; PBT chemicals* Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended by adding at the end the following:
+  > - **(g)** *Non-Risk factors* The Administrator shall not consider costs or other non-risk factors when deciding whether to initiate a rulemaking under subsection (a).
   > - **(h)** *Critical use exemptions*
   >   - **(1)** *Criteria for exemption* The Administrator may grant an exemption from a requirement of a subsection (a) rule for a specific use of a chemical substance or mixture, if—
   >     - **(A)** the requirement is not cost-effective with respect to the specific use, as determined by the Administrator pursuant to subsection (c)(1)(B); and
@@ -144,7 +149,7 @@ Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended—
     > - **(5)** may be disclosed to a State, local, or tribal government official upon request of the official for the purpose of administration or enforcement of a law; and
     > - **(6)** shall be disclosed upon request—
     >   - **(A)** to a health or environmental professional employed by a Federal or State agency in response to an environmental release; or
-    >   - **(B)** to a treating physician or other health care professional to assist in the diagnosis or treatment of 1 or more individuals.
+    >   - **(B)** to a treating physician or other health care professional to assist in the diagnosis or treatment of one or more individuals.
 
 - **(2)** in subsection (b)(1), in the matter following subparagraph (B)—
   - **(A)** by striking “data which discloses” and inserting “data that disclose formulas (including molecular structures) of a chemical substance or mixture,”;
@@ -157,7 +162,7 @@ Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended—
     >   - **(A)** In submitting information under this Act after date of enactment of the TSCA Modernization Act of 2015, a manufacturer, processor, or distributor in commerce shall designate the information which such person believes is entitled to protection under this section, and submit such designated information separately from other information submitted under this Act. A designation under this subparagraph shall be made in writing and in such manner as the Administrator may prescribe, and shall include—
     >     - **(i)** justification for each designation of confidentiality;
     >     - **(ii)** a certification that the information is not otherwise publicly available; and
-    >     - **(iii)** separate copies of all submitted information, with 1 copy containing and 1 copy excluding the information to which the request applies.
+    >     - **(iii)** separate copies of all submitted information, with one copy containing and one copy excluding the information to which the request applies.
     >   - **(B)** Designations made under subparagraph (A) after the date of enactment of the TSCA Modernization Act of 2015 shall expire after 10 years, at which time the information shall be made public unless the manufacturer, processor, or distributor in commerce has reasserted the claim for protection, in writing and in such manner as the Administrator may prescribe, including all of the elements required for the initial submission.
     >   - **(C)** Not later than 60 days prior to making information public under subparagraph (B), the Administrator shall notify, as appropriate and practicable, the manufacturer, processor, or distributor in commerce who designated the information under subparagraph (A) of the date on which such information will be made public unless a request for renewal is granted under subparagraph (B).
 
@@ -188,7 +193,9 @@ Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended—
 
 - **(b)** *Savings* Section 18 of the Toxic Substances Control Act (15 U.S.C. 2617) is amended by adding at the end the following:
   > - **(c)** *Savings*
-  >   - **(1)** *Prior State actions* Nothing in this title, nor any risk evaluation, rule, order, standard, or requirement completed or implemented under this title, shall be construed to preempt or otherwise affect the authority of a State or political subdivision of a State to continue to enforce any action taken before August 1, 2015, under the authority of a State law that prohibits or otherwise restricts the manufacturing, processing, distribution in commerce, use, or disposal of a chemical substance, or any action taken pursuant to a State law that was in effect on August 31, 2003, unless an action or determination made by the Administrator under this title actually conflicts with the action taken pursuant to such a State law.
+  >   - **(1)** *Prior State actions* Nothing in this title, nor any risk evaluation, rule, order, standard, or requirement completed or implemented under this title, shall be construed to preempt or otherwise affect the authority of a State or political subdivision of a State to continue to enforce any action taken or requirement that has taken effect—
+  >     - **(A)** before August 1, 2015, under the authority of a State law that prohibits or otherwise restricts the manufacturing, processing, distribution in commerce, use, or disposal of a chemical substance; or
+  >     - **(B)** pursuant to a State law that was in effect on August 31, 2003,
   >   - **(2)** *Tort and contract law* Nothing in this title, nor any risk evaluation, rule, order, standard, or requirement completed or implemented under this title, shall be construed to preempt or otherwise affect either Federal or State tort law or the law governing the interpretation of contracts of any State, including any remedy for civil relief, whether under statutory or common law, including a remedy for civil damages, and any cause of action for personal injury, wrongful death, property damage, or other injury based on negligence, strict liability, products liability, failure to warn, or any other legal theory relating to tort law.
   >   - **(3)** *Intent of Congress* It is not the intent of Congress that this title, or rules, regulations, or orders issued pursuant to this title, be interpreted as influencing, in either a plaintiff’s or defendant’s favor, the disposition of any civil action for damages in a State court, or the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admissibility of evidence, unless a provision of this title actually conflicts with the State court action.
   >   - **(4)** *Application* For purposes of this title, the term requirements does not include civil tort actions for damages under State law.
@@ -210,7 +217,7 @@ Section 26 of the Toxic Substances Control Act (15 U.S.C. 2625) is amended—
   >   - **(A)** *Establishment* There is established in the Treasury of the United States a revolving fund, to be known as the TSCA Service Fee Fund (in this paragraph referred to as the “Fund”), consisting of such amounts as are deposited in the Fund under this paragraph.
   >   - **(B)** *Collection and deposit of fees* The Administrator shall collect the fees described in paragraph (1) and deposit those fees in the Fund.
   >   - **(C)** *Crediting and availability of fees* On request by the Administrator, the Secretary of the Treasury shall transfer from the Fund to the Administrator amounts appropriated to pay or recover the full costs incurred by the Environmental Protection Agency, including contractor costs, in carrying out the provisions of this title for which the fees are collected under paragraph (1).
-  >   - **(D)** *Use of funds by Administrator* Amounts equivalent to fees collected by the Administrator and deposited in the Fund under this section shall be available without fiscal year limitation to the Administrator, subject to the availability of appropriations, for use only in administering the provisions of this title for which the fees are collected.
+  >   - **(D)** *Use of funds by Administrator* Fees authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts, and shall be available without fiscal year limitation for use only in administering the provisions of this title for which the fees are collected.
   >   - **(E)** *Accounting and auditing*
   >     - **(i)** *Accounting* The Administrator shall biennially prepare and submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes an accounting of the fees paid to the Administrator under this paragraph and amounts disbursed from the Fund for the period covered by the report, as reflected by financial statements provided in accordance with sections 3515 and 3521 of title 31, United States Code.
   >     - **(ii)** *Auditing*
@@ -257,7 +264,7 @@ Section 26 of the Toxic Substances Control Act (15 U.S.C. 2625) is amended—
   - **(2)** in subsection (c)—
     - **(A)** in paragraph (1), by striking “rule” and inserting “rule or order”;
     - **(B)** in paragraph (2)—
-      - **(i)** in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data is being developed pursuant to such a rule, order, or consent agreement”;
+      - **(i)** in subparagraph (A), by striking “a rule under subsection (a) or for which data is being developed pursuant to such a rule” and inserting “a rule, order, or consent agreement under subsection (a) or for which data are being developed pursuant to such a rule, order, or consent agreement”;
       - **(ii)** in subparagraph (B), by striking “such rule or which is being developed pursuant to such rule” and inserting “such rule, order, or consent agreement or which is being developed pursuant to such rule, order, or consent agreement”; and
       - **(iii)** in the matter following subparagraph (B), by striking “the rule” and inserting “the rule or order”;
     - **(C)** in paragraph (3)(B)(i), by striking “rule promulgated” and inserting “rule, order, or consent agreement”; and

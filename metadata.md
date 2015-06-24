@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2576
@@ -63,3 +63,4 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 - 2015-06-23 — Placed on the Union Calendar, Calendar No. 131.
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-176.
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-176.
+- 2015-06-24 — Received in the Senate.
