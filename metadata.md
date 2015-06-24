@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1190
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1190
@@ -254,11 +254,12 @@ Protecting Seniors' Access to Medicare Act of 2015
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 
-## Committees (3)
+## Committees (4)
 
 - House — Rules Committee
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -295,3 +296,4 @@ Protecting Seniors' Access to Medicare Act of 2015
 - 2015-06-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-06-23 — On passage Passed by the Yeas and Nays: 244 - 154 (Roll no. 376).
 - 2015-06-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 154 (Roll no. 376).
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
