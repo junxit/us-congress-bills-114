@@ -1,7 +1,7 @@
 ---
 measure: S. 282
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+20 amendatory instructions. 4 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -27,6 +27,24 @@ to guess them.
 ### 31 U.S.C. § 6101
 
 > by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”; and
+
+| | |
+|---|---|
+| Removed | `In general.—Not later than October 1, 2012, the Office of Management and Budget shall` |
+| Inserted | `Website and program inventory.—The Director of the Office of Management and Budget shall` |
+
+### 31 U.S.C. § 6101
+
+> in the matter preceding subparagraph (A), by striking “described under paragraph (1)” and inserting “identified in the program inventory required under paragraph (2)”;
+
+| | |
+|---|---|
+| Removed | `described under paragraph (1)` |
+| Inserted | `identified in the program inventory required under paragraph (2)` |
+
+### 31 U.S.C. § 6101
+
+> by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”;
 
 | | |
 |---|---|
@@ -57,4 +75,13 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 6101` | replace | in subparagraph (C), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | by redesignating subparagraph (B) as subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | in subparagraph (D), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
