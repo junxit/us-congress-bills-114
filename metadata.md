@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1350
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1350
@@ -63,3 +63,7 @@ To designate the facility of the United States Postal Service located at 442 Eas
 - 2015-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4359)
 - 2015-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4359)
 - 2015-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-06-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-06-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-06-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.
