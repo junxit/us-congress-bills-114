@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 333
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 333
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2822) making appropriations for th
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2015-06-24 — [House 114-1-379](votes/house-114-1-0379.md) — On Ordering the Previous Question — **Passed** (243–181)
+- 2015-06-24 — [House 114-1-380](votes/house-114-1-0380.md) — On Agreeing to the Resolution — **Passed** (244–178)
+
 ## Actions
 
 - 2015-06-23 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2822) making appropriations for th
 - 2015-06-23 — Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.
 - 2015-06-23 — The House Committee on Rules reported an original measure, H. Rept. 114-177, by Mr. Burgess.
 - 2015-06-23 — The House Committee on Rules reported an original measure, H. Rept. 114-177, by Mr. Burgess.
+- 2015-06-24 — Considered as privileged matter. (consideration: CR H4608-4617)
+- 2015-06-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 333.
+- 2015-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-24 — On agreeing to the resolution Agreed to by recorded vote: 244 - 178 (Roll no. 380). (text: CR H4608)
+- 2015-06-24 — On ordering the previous question Agreed to by the Yeas and Nays: 243 - 181 (Roll no. 379). (consideration: CR H4614-4615; text: CR H4614-4615)
+- 2015-06-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 244 - 178 (Roll no. 380).(text: CR H4608)
