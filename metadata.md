@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1698
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1698
@@ -20,9 +20,10 @@ Bullion and Collectible Coin Production Efficiency and Cost Savings Act
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Bullion and Collectible Coin Production Efficiency and Cost Savings Act
 - 2015-06-23 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4563)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4563)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
