@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-118 amendatory instructions. 54 executed, 64 stated and not applied.
+184 amendatory instructions. 80 executed, 104 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -186,6 +186,240 @@ to guess them.
 | Removed | `September 30, 2020` |
 | Inserted | `September 30, 2025` |
 
+### 19 U.S.C. § 2271
+
+> Section 285 of the Trade Act of 1974 (19 U.S.C. 2271 note) is amended by striking “December 31, 2013” each place it appears and inserting “June 30, 2021”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2013` |
+| Inserted | `June 30, 2021` |
+
+### 19 U.S.C. § 2296
+
+> Section 236(a)(2)(A) of the Trade Act of 1974 (19 U.S.C. 2296(a)(2)(A)) is amended by striking “shall not exceed” and all that follows and inserting “shall not exceed $450,000,000 for each of fiscal years 2015 through 2021.”.
+
+| | |
+|---|---|
+| Removed | `shall not exceed` |
+| Inserted | `shall not exceed $450,000,000 for each of fiscal years 2015 through 2021.` |
+
+### 19 U.S.C. § 2318
+
+> Section 246(b)(1) of the Trade Act of 1974 (19 U.S.C. 2318(b)(1)) is amended by striking “December 31, 2013” and inserting “June 30, 2021”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2013` |
+| Inserted | `June 30, 2021` |
+
+### 19 U.S.C. § 2317
+
+> Section 245(a) of the Trade Act of 1974 (19 U.S.C. 2317(a)) is amended by striking “December 31, 2013” and inserting “June 30, 2021”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2013` |
+| Inserted | `June 30, 2021` |
+
+### 19 U.S.C. § 2345
+
+> Section 255(a) of the Trade Act of 1974 (19 U.S.C. 2345(a)) is amended by striking “fiscal years 2012 and 2013” and all that follows through “December 31, 2013” and inserting “fiscal years 2015 through 2021”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2012 and 2013” and all that follows through “December 31, 2013` |
+| Inserted | `fiscal years 2015 through 2021` |
+
+### 19 U.S.C. § 2401g
+
+> Section 298(a) of the Trade Act of 1974 (19 U.S.C. 2401g(a)) is amended by striking “fiscal years 2012 and 2013” and all that follows through “December 31, 2013” and inserting “fiscal years 2015 through 2021”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2012 and 2013” and all that follows through “December 31, 2013` |
+| Inserted | `fiscal years 2015 through 2021` |
+
+### 19 U.S.C. § 2311
+
+> in the subsection heading, by striking “Data reporting” and inserting “Performance measures”;
+
+| | |
+|---|---|
+| Removed | `Data reporting` |
+| Inserted | `Performance measures` |
+
+### 19 U.S.C. § 2311
+
+> by striking “a quarterly” and inserting “an annual”; and
+
+| | |
+|---|---|
+| Removed | `a quarterly` |
+| Inserted | `an annual` |
+
+### 19 U.S.C. § 2311
+
+> by striking “data” and inserting “measures”;
+
+| | |
+|---|---|
+| Removed | `data` |
+| Inserted | `measures` |
+
+### 19 U.S.C. § 2311
+
+> in subparagraph (A), by striking “core” and inserting “primary”; and
+
+| | |
+|---|---|
+| Removed | `core` |
+| Inserted | `primary` |
+
+### 19 U.S.C. § 2311
+
+> in the paragraph heading, by striking “Core indicators described” and inserting “Indicators of performance”; and
+
+| | |
+|---|---|
+| Removed | `Core indicators described` |
+| Inserted | `Indicators of performance` |
+
+### 19 U.S.C. § 2311
+
+> in the paragraph heading, by striking “data” and inserting “measures”;
+
+| | |
+|---|---|
+| Removed | `data` |
+| Inserted | `measures` |
+
+### 19 U.S.C. § 2311
+
+> by striking “quarterly” and inserting “annual”; and
+
+| | |
+|---|---|
+| Removed | `quarterly` |
+| Inserted | `annual` |
+
+### 19 U.S.C. § 2311
+
+> by striking “data” and inserting “measures”; and
+
+| | |
+|---|---|
+| Removed | `data` |
+| Inserted | `measures` |
+
+### 19 U.S.C. § 2323
+
+> in subparagraph (A), by striking “enrolled in” and inserting “who received”;
+
+| | |
+|---|---|
+| Removed | `enrolled in` |
+| Inserted | `who received` |
+
+### 19 U.S.C. § 2323
+
+> by striking “complete” and inserting “exited”; and
+
+| | |
+|---|---|
+| Removed | `complete` |
+| Inserted | `exited` |
+
+### 19 U.S.C. § 2323
+
+> by striking “who were enrolled in” and inserting “, including who received”;
+
+| | |
+|---|---|
+| Removed | `who were enrolled in` |
+| Inserted | `, including who received` |
+
+### 19 U.S.C. § 2323
+
+> in subparagraph (E), by striking “complete” and inserting “exited”;
+
+| | |
+|---|---|
+| Removed | `complete` |
+| Inserted | `exited` |
+
+### 19 U.S.C. § 2323
+
+> in subparagraph (F), by striking “complete” and inserting “exit”; and
+
+| | |
+|---|---|
+| Removed | `complete` |
+| Inserted | `exit` |
+
+### 19 U.S.C. § 2323
+
+> in subparagraphs (A) and (B), by striking “quarterly” each place it appears and inserting “annual”; and
+
+| | |
+|---|---|
+| Removed | `quarterly` |
+| Inserted | `annual` |
+
+### 19 U.S.C. § 2323
+
+> in paragraph (2), by striking “a quarterly” and inserting “an annual”.
+
+| | |
+|---|---|
+| Removed | `a quarterly` |
+| Inserted | `an annual` |
+
+### 26 U.S.C. § 35
+
+> Subparagraph (B) of section 35(b)(1) of the Internal Revenue Code of 1986 is amended by striking “before January 1, 2014” and inserting “before January 1, 2020”.
+
+| | |
+|---|---|
+| Removed | `before January 1, 2014` |
+| Inserted | `before January 1, 2020` |
+
+### 26 U.S.C. § 7527
+
+> Subsection (a) of section 7527 of the Internal Revenue Code of 1986 is amended by striking “August 1, 2003” and inserting “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015”.
+
+| | |
+|---|---|
+| Removed | `August 1, 2003` |
+| Inserted | `the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015` |
+
+### 26 U.S.C. § 35
+
+> Subparagraph (J) of section 35(e)(1) of the Internal Revenue Code of 1986 is amended by striking “insurance if the eligible individual” and all that follows through “For purposes of” and inserting “insurance. For purposes of”.
+
+| | |
+|---|---|
+| Removed | `insurance if the eligible individual” and all that follows through “For purposes of` |
+| Inserted | `insurance. For purposes of` |
+
+### 26 U.S.C. § 35
+
+> Subparagraph (J) of section 35(e)(1) of such Code, as amended by paragraph (1), is amended by striking “insurance.” and inserting “insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act).”.
+
+| | |
+|---|---|
+| Removed | `insurance.` |
+| Inserted | `insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act).` |
+
+### 19 U.S.C. § 1677b
+
+> in paragraph (1), by striking “business” and inserting “trade”; and
+
+| | |
+|---|---|
+| Removed | `business` |
+| Inserted | `trade` |
+
 ### 19 U.S.C. § 58c
 
 > Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “September 30, 2024” and inserting “July 7, 2025”.
@@ -204,14 +438,14 @@ to guess them.
 | Removed | `June 30, 2021` |
 | Inserted | `June 30, 2025` |
 
-### 2 U.S.C. § 901a
+### 19 U.S.C. § 58c
 
-> Subject to subsection (b), section 251A(6)(D)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a(6)(D)(ii)) is amended by striking “0.25 percent” and inserting “0.0 percent”.
+> in subparagraph (B)(i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
 
 | | |
 |---|---|
-| Removed | `0.25 percent` |
-| Inserted | `0.0 percent` |
+| Removed | `September 30, 2024` |
+| Inserted | `September 30, 2025` |
 
 ### 26 U.S.C. § 25A
 
@@ -540,6 +774,41 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2463` | add-at-end | Section 503(b) of the Trade Act of 1974 (19 U.S.C. 2463(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2463` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2703a` | amend | in subparagraph (B)(v)(I), by amending item (cc) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 233 of the Trade Adjustment Assistance Extension Act of 2011 (Public Law 112–40; 125 Stat. 416) is repealed. | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 2311` | insert | in subparagraph (C), by inserting “that promote efficiency and effectiveness” after “assistance program”; | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2311` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2311` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2323` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2323` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2323` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2323` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2319` | add-at-end | Section 247 of the Trade Act of 1974 (19 U.S.C. 2319) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 35` | redesignate | by redesignating paragraph (11) as paragraph (13), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 35` | insert | by inserting after paragraph (10) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7527` | replace | Paragraph (1) of section 7527(e) of such Code is amended by striking “occurring” and all that follows and inserting “occurring— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 6501` | insert | Subsection (m) of section 6501 of the Internal Revenue Code of 1986 is amended by inserting “, 35(g)(11)” after “30D(e)(4)”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1677e` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677e` | replace | by striking “Adverse Inferences.—If” and inserting the following: “Adverse Inferences.— | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677e` | replace | by striking “under this title, may use” and inserting the following: “under this title— | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677e` | replace | by striking “facts otherwise available. Such adverse inference may include” and inserting the following: “facts otherwise available; and | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677e` | replace | by striking “Corroboration of Secondary Information.—When the” and inserting the following: “Corroboration of Secondary Information.— | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | add-at-end | Section 771(7) of the Tariff Act of 1930 (19 U.S.C. 1677(7)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | amend | Subclause (I) of section 771(7)(C)(iii) of the Tariff Act of 1930 (19 U.S.C. 1677(7)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | replace | in subclause (I), by striking the comma and inserting “, and”; | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1677` | replace | in subclause (II), by striking “, and” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677` | strike | by striking subclause (III). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | add-at-end | Section 771(15) of the Tariff Act of 1930 (19 U.S.C. 1677(15)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677b` | strike | Section 773(a)(1)(B)(ii)(III) of the Tariff Act of 1930 (19 U.S.C. 1677b(a)(1)(B)(ii)(III)) is amended by striking “in such other country.”. | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677b` | replace | by striking the flush text at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677b` | replace | Section 773(b)(2) of the Tariff Act of 1930 (19 U.S.C. 1677b(b)(2)) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677b` | add-at-end | Section 773(c) of the Tariff Act of 1930 (19 U.S.C. 1677b(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677m` | redesignate | in paragraph (1), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and by moving such clauses, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677m` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677m` | replace | by striking “Investigations and Reviews.—In” and inserting the following: “Investigations and Reviews.— | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677m` | redesignate | in paragraph (1), as designated by paragraph (3), by amending subparagraph (B), as redesignated by paragraph (2), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “For the purposes of subheadings” and all that follows through “6211.20.15” and inserting “For purposes of this chapter”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “garments classifiable in those subheadings” and inserting “a garment”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “D 3600-81” and inserting “D 3779–81”; and | the bill names no machine-readable US Code section |
@@ -579,7 +848,12 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The Additional U.S. Notes to chapter 64 of the Harmonized Tariff Schedule of the United States are amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after subheading 6402.91.40 the following new subheading, with the article description for subheading 6402.91.42 having the same degree of indentation as the article description for subheading 6402.91.40: | the bill names no machine-readable US Code section |
 | — | insert | By inserting immediately preceding subheading 6402.99.33 the following new subheading, with the article description for subheading 6402.99.32 having the same degree of indentation as the article description for subheading 6402.99.33: | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 58c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | add-at-end | Section 503 of the United States–Korea Free Trade Agreement Implementation Act (Public Law 112–41; 125 Stat. 460) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25A` | add-at-end | Section 25A(g) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25A` | redesignate | Section 222(d) of such Code is amended by redesignating paragraph (6) as paragraph (7), and by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25A` | amend | Section 6050S(d)(2) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6724` | add-at-end | Section 6724 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | add-at-end | Section 24(d) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | Section 1861(s)(2)(F) of the Social Security Act (42 U.S.C. 1395x(s)(2)(F)) is amended by inserting before the semicolon the following: “, including such renal dialysis services furnished on or after January 1, 2017, by a renal dialysis … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

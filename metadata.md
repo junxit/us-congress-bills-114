@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1295
@@ -16,19 +16,21 @@ Trade Preferences Extension Act of 2015
 
 - Rep. Holding, George [R-NC-13] (H001065)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Reed, Tom [R-NY-23] (R000585)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2015-05-14 — [Senate 114-1-178](votes/senate-114-1-0178.md) — On Passage of the Bill — **Bill Passed** (97–1)
 - 2015-06-11 — [House 114-1-345](votes/house-114-1-0345.md) — Concurring in Senate amendments with amendment — **Passed** (397–32)
+- 2015-06-24 — [Senate 114-1-220](votes/senate-114-1-0220.md) — On the Cloture Motion — **Cloture Motion Agreed to** (76–22)
 
 ## Actions
 
@@ -70,3 +72,42 @@ Trade Preferences Extension Act of 2015
 - 2015-06-11 — Pursuant to a previous special order Mr. Ryan(WI) moved to agree with an amendment to the Senate amendments. (consideration: CR H4172-4218; text of Senate amendment as received in House: CR H4172-4210)
 - 2015-06-11 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 397 - 32 (Roll no. 345).(consideration: CR H4217-4218)
 - 2015-06-11 — UNANIMOUS CONSENT_REQUEST - Mr. Byrne asked unanimous consent that the order of the House of June 10, 2015, regarding consideration of the Senate amendments to H.R. 1295, be modified by striking "printed" and inserting "submitted for printing". Agreed to without objection.
+- 2015-06-15 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2015-06-18 — Amendment SA 2065 proposed by Senator McConnell. (consideration: CR S4291) In the nature of a substitute.
+- 2015-06-18 — Amendment SA 2066 proposed by Senator McConnell to Amendment SA 2065. (consideration: CR S4291; text: CR S4291) Of a perfecting nature.
+- 2015-06-18 — Amendment SA 2067 proposed by Senator McConnell. (consideration: CR S4291; text: CR S4291) Of a perfecting nature.
+- 2015-06-18 — Amendment SA 2068 proposed by Senator McConnell to Amendment SA 2067 (the instructions of the motion to refer). (consideration: CR S4291; text: CR S4291) Of a perfecting nature.
+- 2015-06-18 — Amendment SA 2069 proposed by Senator McConnell to Amendment SA 2068. (consideration: CR S4291; text: CR S4291) Of a perfecting nature.
+- 2015-06-18 — Cloture motion on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 2065) presented in Senate. (consideration: CR S4291; text: CR S4291)
+- 2015-06-18 — Measure laid before Senate by unanimous consent. (consideration: CR S4290-4292)
+- 2015-06-18 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment with an amendment (SA 2065) made in Senate. (consideration: CR S4291)
+- 2015-06-18 — Motion by Senator McConnell to refer to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2067 made in Senate. (consideration: CR S4291)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2065 proposed by Senator McConnell.(consideration: CR S4291)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2066 proposed by Senator McConnell to Amendment SA 2065.(consideration: CR S4291; text: CR S4291)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2067 proposed by Senator McConnell.(consideration: CR S4291; text: CR S4291)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2068 proposed by Senator McConnell to Amendment SA 2067 (the instructions of the motion to refer).(consideration: CR S4291; text: CR S4291)
+- 2015-06-18 — Senate amendment proposed (on the floor): Amendment SA 2069 proposed by Senator McConnell to Amendment SA 2068.(consideration: CR S4291; text: CR S4291)
+- 2015-06-18 — Senate amendment submitted
+- 2015-06-18 — Senate amendment submitted
+- 2015-06-18 — Senate amendment submitted
+- 2015-06-18 — Senate amendment submitted
+- 2015-06-18 — Senate amendment submitted
+- 2015-06-22 — Senate amendment submitted
+- 2015-06-24 — Amendment SA 2065 agreed to in Senate by Voice Vote.
+- 2015-06-24 — Cloture on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 2065) invoked in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 220. (consideration: CR S4583, S4583-4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4583-4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4583-4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4584)
+- 2015-06-24 — Considered by Senate. (consideration: CR S4584)
+- 2015-06-24 — Message on Senate action sent to the House.
+- 2015-06-24 — Motion by Senator McConnell to refer to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2067 withdrawn in Senate by Unanimous Consent. (consideration: CR S4584)
+- 2015-06-24 — Proposed amendment SA 2066 withdrawn in Senate. (consideration: CR S4584)
+- 2015-06-24 — Proposed amendment SA 2067 withdrawn in Senate. (consideration: CR S4584)
+- 2015-06-24 — Proposed amendment SA 2068 withdrawn in Senate. (consideration: CR S4584)
+- 2015-06-24 — Proposed amendment SA 2069 withdrawn in Senate. (consideration: CR S4584)
+- 2015-06-24 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1295) with an amendment (SA 2065) by Voice Vote.
+- 2015-06-24 — Rules Committee Resolution H. Res. 338 Reported to House. Rule provides for consideration of H.R. 1295 with 1 hour of general debate. The resolution makes in order a motion offered by the chair of the Committee on Ways and Means or his designee that the House concur in the Senate amendment.
+- 2015-06-24 — Senate amendment agreed to: Amendment SA 2065 agreed to in Senate by Voice Vote.
+- 2015-06-24 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1295) with an amendment (SA 2065) by Voice Vote.
