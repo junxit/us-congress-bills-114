@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2390
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2390
@@ -20,10 +20,11 @@ Homeland Security University-Based Centers Review Act
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Homeland Security University-Based Centers Review Act
 - 2015-06-23 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4574)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4574)
+- 2015-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
