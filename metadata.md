@@ -1,7 +1,7 @@
 ---
 measure: H.R. 805
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 805
@@ -65,3 +65,4 @@ Domain Openness Through Continued Oversight Matters Act of 2015
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-175.
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-175.
 - 2015-06-23 — The title of the measure was amended. Agreed to without objection.
+- 2015-06-24 — Received in the Senate.

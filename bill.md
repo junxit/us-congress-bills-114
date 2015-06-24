@@ -2,12 +2,12 @@
 legis-num: H.R. 805
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 805
 
-> To prohibit the National Telecommunications and Information Administration from relinquishing responsibility over the Internet domain name system until the Comptroller General of the United States submits to Congress a report on the role of the NTIA with respect to such system.
+> To provide for certain requirements relating to the Internet Assigned Numbers Authority stewardship transition.
 
 ## § 1. Short title
 
