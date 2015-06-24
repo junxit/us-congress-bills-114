@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1295
@@ -26,11 +26,12 @@ Trade Preferences Extension Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2015-05-14 — [Senate 114-1-178](votes/senate-114-1-0178.md) — On Passage of the Bill — **Bill Passed** (97–1)
 - 2015-06-11 — [House 114-1-345](votes/house-114-1-0345.md) — Concurring in Senate amendments with amendment — **Passed** (397–32)
 - 2015-06-24 — [Senate 114-1-220](votes/senate-114-1-0220.md) — On the Cloture Motion — **Cloture Motion Agreed to** (76–22)
+- 2015-06-25 — [House 114-1-388](votes/house-114-1-0388.md) — On Motion to Concur in Senate Amendment to House Amendment to Senate Amendment — **Passed** (286–138)
 
 ## Actions
 
@@ -111,3 +112,16 @@ Trade Preferences Extension Act of 2015
 - 2015-06-24 — Rules Committee Resolution H. Res. 338 Reported to House. Rule provides for consideration of H.R. 1295 with 1 hour of general debate. The resolution makes in order a motion offered by the chair of the Committee on Ways and Means or his designee that the House concur in the Senate amendment.
 - 2015-06-24 — Senate amendment agreed to: Amendment SA 2065 agreed to in Senate by Voice Vote.
 - 2015-06-24 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1295) with an amendment (SA 2065) by Voice Vote.
+- 2015-06-25 — DEBATE - Pursuant to the provisions of H. Res. 338, the House proceeded with 1 hour of debate on the Ryan (WI) motion to agree to the Senate amendment to the House amendment to the Senate amendment.
+- 2015-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-25 — Mr. Ryan (WI) moved that the House agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H4666-4698; text as House agree to the Senate amendment to the House amendment to the Senate amendment: CR H4666-4689)
+- 2015-06-25 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 286 - 138 (Roll no. 388). (consideration: CR H4689-4698; text: CR H4689)
+- 2015-06-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 286 - 138 (Roll no. 388).(consideration: CR H4689-4698; text: CR H4689)
+- 2015-06-25 — Rule H. Res. 338 passed House.
+- 2015-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H4697)
+- 2015-06-26 — Presented to President.
+- 2015-06-26 — Presented to President.
+- 2015-06-29 — Became Public Law No: 114-27.
+- 2015-06-29 — Became Public Law No: 114-27.
+- 2015-06-29 — Signed by President.
+- 2015-06-29 — Signed by President.

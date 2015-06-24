@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -783,7 +783,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2323` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2323` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2319` | add-at-end | Section 247 of the Trade Act of 1974 (19 U.S.C. 2319) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 35` | redesignate | by redesignating paragraph (11) as paragraph (13), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 35` | redesignate | by redesignating paragraph (11) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 35` | insert | by inserting after paragraph (10) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7527` | replace | Paragraph (1) of section 7527(e) of such Code is amended by striking “occurring” and all that follows and inserting “occurring— | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6501` | insert | Subsection (m) of section 6501 of the Internal Revenue Code of 1986 is amended by inserting “, 35(g)(11)” after “30D(e)(4)”. | the bill quotes the text inserted but describes where it goes |
