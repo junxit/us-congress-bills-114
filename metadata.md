@@ -1,7 +1,7 @@
 ---
 measure: H.R. 893
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 893
@@ -331,3 +331,12 @@ Boys Town Centennial Commemorative Coin Act
 - 2015-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4560)
 - 2015-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4560)
 - 2015-06-24 — Received in the Senate, read twice.
+- 2015-06-25 — Message on Senate action sent to the House.
+- 2015-06-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4656)
+- 2015-06-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4656)
+- 2015-06-26 — Presented to President.
+- 2015-06-26 — Presented to President.
+- 2015-07-06 — Became Public Law No: 114-30.
+- 2015-07-06 — Became Public Law No: 114-30.
+- 2015-07-06 — Signed by President.
+- 2015-07-06 — Signed by President.
