@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 19
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 19
@@ -24,3 +24,7 @@ A concurrent resolution providing for a conditional adjournment or recess of the
 - 2015-06-24 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4608; text as passed Senate: CR S4607)
 - 2015-06-24 — Received in the House.
 - 2015-06-24 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4608; text as passed Senate: CR S4607)
+- 2015-06-25 — Considered as privileged matter. (consideration: CR H4761)
+- 2015-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-25 — On agreeing to the resolution Agreed to without objection. (text: CR H4761)
+- 2015-06-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4761)
