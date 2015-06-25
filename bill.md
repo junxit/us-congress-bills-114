@@ -1,6 +1,6 @@
 ---
 legis-num: S. 230
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---

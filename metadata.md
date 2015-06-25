@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 230
@@ -43,3 +43,15 @@ A bill to provide for the conveyance of certain property to the Yukon Kuskokwim 
 - 2015-06-25 — Senate amendment agreed to: Amendment SA 2077 agreed to in Senate by Unanimous Consent.
 - 2015-06-25 — Senate amendment proposed (on the floor): Amendment SA 2077 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S4656-4657; text: CR S4656-4657)
 - 2015-06-25 — Senate amendment submitted
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H6002-6003)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on S. 230.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6002)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6002)
+- 2015-09-21 — Presented to President.
+- 2015-09-21 — Presented to President.
+- 2015-09-30 — Became Public Law No: 114-56.
+- 2015-09-30 — Became Public Law No: 114-56.
+- 2015-09-30 — Signed by President.
+- 2015-09-30 — Signed by President.
