@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2042
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2042
@@ -161,3 +161,4 @@ Ratepayer Protection Act of 2015
 - 2015-06-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2042.
 - 2015-06-24 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2015-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4632)
+- 2015-06-25 — Received in the Senate.
