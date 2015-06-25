@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2499
@@ -34,3 +34,8 @@ Veterans Entrepreneurship Act of 2015
 - 2015-05-21 — Introduced in House
 - 2015-05-21 — Introduced in House
 - 2015-05-21 — Referred to the House Committee on Small Business.
+- 2015-06-10 — Committee Consideration and Mark-up Session Held.
+- 2015-06-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-06-25 — Placed on the Union Calendar, Calendar No. 139.
+- 2015-06-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-187.
+- 2015-06-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-187.
