@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 204
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 204
@@ -16,7 +16,7 @@ A resolution recognizing June 20, 2015 as "World Refugee Day".
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (20)
+## Cosponsors (22)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -38,6 +38,8 @@ A resolution recognizing June 20, 2015 as "World Refugee Day".
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -47,3 +49,7 @@ A resolution recognizing June 20, 2015 as "World Refugee Day".
 
 - 2015-06-18 — Introduced in Senate
 - 2015-06-18 — Referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S4303-4304; text of measure as introduced: CR S4302-4303)
+- 2015-06-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2015-06-25 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2015-06-25 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2015-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
