@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2943
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2943
+
+> To prohibit the Department of Agriculture from obligating or expending any funds for grants awarded for research on the prevention of rose rosette disease, and for other purposes.
+
+## § 1. Prohibiting grant funds for research on the prevention of rose rosette disease
+
+- **(a)** *Prohibition* The Department of Agriculture may not obligate or expend any funds for—
+  - **(1)** grant project 2014–51181–22644 of the National Institute of Food and Agriculture; and
+  - **(2)** any other grant or cooperative agreement for research on the prevention of rose rosette disease.
+- **(b)** *Unobligated balances* Of the amounts made available for any fiscal year as of the date of the enactment of this Act for any grant or cooperative agreement of the Department of Agriculture described in subsection (a), the unobligated balances of such amounts are hereby rescinded.
+- **(c)** *Definition of rose rosette disease* For purposes of this section, the term “rose rosette disease” means a disease believed to be caused by the rose rosette virus and spread by an eriophyid mite known as Phyllacoptes fructiphylus.
