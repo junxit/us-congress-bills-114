@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 230
@@ -32,3 +32,14 @@ A bill to provide for the conveyance of certain property to the Yukon Kuskokwim 
 - 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-38.
 - 2015-05-11 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-38.
 - 2015-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.
+- 2015-06-25 — Amendment SA 2077 agreed to in Senate by Unanimous Consent.
+- 2015-06-25 — Amendment SA 2077 proposed by Senator McConnell for Senator Murkowski. (consideration: CR S4656-4657; text: CR S4656-4657) In the nature of a substitute.
+- 2015-06-25 — Held at the desk.
+- 2015-06-25 — Measure laid before Senate by unanimous consent. (consideration: CR S4656-4657)
+- 2015-06-25 — Message on Senate action sent to the House.
+- 2015-06-25 — Passed Senate with an amendment by Unanimous Consent. (text: CR S4656-4657)
+- 2015-06-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S4656-4657)
+- 2015-06-25 — Received in the House.
+- 2015-06-25 — Senate amendment agreed to: Amendment SA 2077 agreed to in Senate by Unanimous Consent.
+- 2015-06-25 — Senate amendment proposed (on the floor): Amendment SA 2077 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S4656-4657; text: CR S4656-4657)
+- 2015-06-25 — Senate amendment submitted
