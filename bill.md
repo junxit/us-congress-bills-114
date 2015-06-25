@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 2929
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2929
+
+> To amend the Federal Power Act to require the Federal Energy Regulatory Commission to minimize infringement on the exercise and enjoyment of property rights in issuing hydropower licenses, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Home Owner Rights Enforcement Act”.
+
+## § 2. Hydropower licenses
+
+- **(a)** Section 4(e) of the Federal Power Act (16 U.S.C. 797(e)) is amended—
+  - **(1)** by designating the first, second, and third sentences as paragraphs (1) through (3) respectively; and
+  - **(2)** in paragraph (3) (as so designated)—
+    - **(A)** by striking “and” after “recreational opportunities,”; and
+    - **(B)** by inserting “, and minimizing infringement on the useful exercise and enjoyment of property rights held by nonlicensees” after “aspects of environmental quality”.
+- **(b)** Section 10 of the Federal Power Act (16 U.S.C. 803) is amended—
+  - **(1)** in subsection (a)(1), by inserting “, including minimizing infringement on the useful exercise and enjoyment of property rights held by nonlicensees” after “section 4(e)”; and
+  - **(2)** by adding at the end the following:
+    > - **(k)** *Private landownership* In developing any recreational resource within the project boundary, the licensee shall consider private landownership as a means to encourage and facilitate—
+    >   - **(1)** private investment; and
+    >   - **(2)** increased tourism and recreational use.
