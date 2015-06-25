@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2200
@@ -29,6 +29,10 @@ CBRN Intelligence and Information Sharing Act of 2015
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-06-25 — [House 114-1-389](votes/house-114-1-0389.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–2)
+
 ## Actions
 
 - 2015-05-01 — Introduced in House
@@ -43,3 +47,11 @@ CBRN Intelligence and Information Sharing Act of 2015
 - 2015-06-17 — Placed on the Union Calendar, Calendar No. 120.
 - 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-164.
 - 2015-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-164.
+- 2015-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-06-23 — Considered under suspension of the rules. (consideration: CR H4576-4578)
+- 2015-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2200.
+- 2015-06-23 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
+- 2015-06-25 — Considered as unfinished business. (consideration: CR H4698-4699)
+- 2015-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 389). (text: CR 6/23/2015 H4576)
+- 2015-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 389).(text: CR 6/23/2015 H4576)

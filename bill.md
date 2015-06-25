@@ -33,7 +33,7 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such subtitle the following:
 - **(c)** *Report*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall report to the appropriate congressional committees on—
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall report to the appropriate congressional committees on—
     - **(A)** the intelligence and information sharing activities under subsection (a) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, and nuclear materials; and
     - **(B)** the Department’s activities in accordance with relevant intelligence strategies.
   - **(2)** *Assessment of implementation* The report shall include—
