@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 340
+congress: 114th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 340
+
+> Returning to the Senate H.R. 1735, a bill to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes, with the Senate amendment thereto.
+
+That the Senate amendment to the bill (H.R. 1735) entitled “An Act to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.”, in the opinion of this House, contravenes the first clause of the seventh section of the first article of the Constitution of the United States and is an infringement of the privileges of this House and that such bill, with the Senate amendment thereto, shall be respectfully returned to the Senate with a message communicating this resolution.
