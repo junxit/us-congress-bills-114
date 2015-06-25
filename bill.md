@@ -16,3 +16,5 @@ This Act may be cited as the “Ensuring the Safety and Security of Iranian Diss
 ## § 2. Report on actions to secure the safety and security of dissidents housed at Camp Liberty, Iraq
 
 Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall certify, in writing, to the committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives whether or not the Central Government of Iraq is taking appropriate and sufficient actions to ensure the safety and security of dissidents housed at Camp Liberty, Iraq.
+
+-  Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a written report setting forth an assessment of whether the Central Government of Iraq is taking appropriate and sufficient actions to ensure the safety and security of dissidents housed at Camp Liberty, Iraq.
