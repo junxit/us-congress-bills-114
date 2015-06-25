@@ -28,9 +28,7 @@ In this Act:
   - **(A)** a land use plan prepared by the Bureau of Land Management for public lands pursuant to section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712); or
   - **(B)** a land and resource management plan prepared by the Forest Service for a unit of the National Forest System pursuant to section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604).
 - **(8)** *Large-scale catastrophic event* The term “large-scale catastrophic event” means a catastrophic event that adversely impacts at least 5,000 acres of reasonably contiguous National Forest System lands or public lands.
-- **(9)** *National forest system* The term “National Forest System” has the meaning given that term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)), except that the term—
-  - **(A)** includes only National Forest System lands derived from the public domain; and
-  - **(B)** does not include the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012).
+- **(9)** *National forest system* The term “National Forest System” has the meaning given that term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)).
 - **(10)** *Oregon and California Railroad Grant lands* The term “Oregon and California Railroad Grant lands” means the following lands:
   - **(A)** All lands in the State of Oregon revested in the United States under the Act of June 9, 1916 (39 Stat. 218), that are administered by the Secretary of the Interior, acting through the Bureau of Land Management, pursuant to the first section of the Act of August 28, 1937 (43 U.S.C. 1181a).
   - **(B)** All lands in that State obtained by the Secretary of the Interior pursuant to the land exchanges authorized and directed by section 2 of the Act of June 24, 1954 (43 U.S.C. 1181h).
