@@ -1,7 +1,7 @@
 ---
 measure: S. 1180
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1180
@@ -28,3 +28,7 @@ Integrated Public Alert and Warning System Modernization Act of 2015
 
 - 2015-05-04 — Introduced in Senate
 - 2015-05-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2015-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-73.
+- 2015-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-73.
+- 2015-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.
