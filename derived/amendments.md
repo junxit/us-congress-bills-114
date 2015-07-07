@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2256
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subchapter II of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7330A the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Section 2002(1) of title 38, United States Code, is amended by inserting “or (b)” after “section 103(a)”. | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 360i` | add-at-end | Subchapter II of chapter 73 of title 38, United States Code, as amended by section 2, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360i` | insert | The table of sections at the beginning of such chapter, as amended by section 2, is further amended by inserting after the item relating to section 7330B, as added by section 2, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter II of chapter 81 of such title is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end of the items relating to such subchapter the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “fiscal year 2014” and inserting “fiscal year 2020”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “fiscal year 2013” and inserting “fiscal year 2019”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “fiscal year 2014” and inserting “fiscal year 2020”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “fiscal year 2013” and inserting “fiscal year 2019”. | the bill names no machine-readable US Code section |
