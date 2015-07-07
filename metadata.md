@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2200
@@ -25,9 +25,10 @@ CBRN Intelligence and Information Sharing Act of 2015
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ CBRN Intelligence and Information Sharing Act of 2015
 - 2015-06-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 389). (text: CR 6/23/2015 H4576)
 - 2015-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 389).(text: CR 6/23/2015 H4576)
+- 2015-07-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
