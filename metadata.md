@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1531
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1531
@@ -49,3 +49,9 @@ Land Management Workforce Flexibility Act
 - 2015-06-25 — Placed on the Union Calendar, Calendar No. 134.
 - 2015-06-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-182.
 - 2015-06-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-182.
+- 2015-07-07 — Considered under suspension of the rules. (consideration: CR H4782-4783)
+- 2015-07-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1531.
+- 2015-07-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-07 — Mr. Carter (GA) moved to suspend the rules and pass the bill.
+- 2015-07-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4782)
+- 2015-07-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4782)
