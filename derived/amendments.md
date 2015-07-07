@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-213 amendatory instructions. 43 executed, 170 stated and not applied.
+220 amendatory instructions. 44 executed, 176 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,7 +62,7 @@ to guess them.
 
 ### 42 U.S.C. § 288-1
 
-> in subsection (a), by striking “$35,000” and inserting “$50,000”; and
+> by striking “$35,000” and inserting “$50,000”; and
 
 | | |
 |---|---|
@@ -116,7 +116,7 @@ to guess them.
 
 ### 42 U.S.C. § 288-6
 
-> in subsection (a)(1), by striking “$35,000” and inserting “$50,000”;
+> in subsection (a)(1), by striking “$35,000” and inserting “$50,000”; and
 
 | | |
 |---|---|
@@ -240,6 +240,15 @@ to guess them.
 | Removed | `(6)` |
 | Inserted | `(6)(A)` |
 
+### 21 U.S.C. § 360
+
+> Section 510(l) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(l)) is amended by striking “of this subsection under subsection (m)” and inserting “of subsection (k) under subsection (m) or section 524B”.
+
+| | |
+|---|---|
+| Removed | `of this subsection under subsection (m)` |
+| Inserted | `of subsection (k) under subsection (m) or section 524B` |
+
 ### 21 U.S.C. § 360c
 
 > by striking “(B) If the Secretary” and inserting “(B)(i) If the Secretary”; and
@@ -260,11 +269,11 @@ to guess them.
 
 ### 21 U.S.C. § 360
 
-> by striking “1 day after the date of publication of a list under this subsection,” and inserting “1 day after the date of publication of the final list under paragraph (1)(B),”; and
+> by striking “1 day after the date of the publication of a list under this subsection,” and inserting “1 day after the date of publication of the final list under paragraph (1)(B),”; and
 
 | | |
 |---|---|
-| Removed | `1 day after the date of publication of a list under this subsection,` |
+| Removed | `1 day after the date of the publication of a list under this subsection,` |
 | Inserted | `1 day after the date of publication of the final list under paragraph (1)(B),` |
 
 ### 21 U.S.C. § 360
@@ -350,7 +359,7 @@ to guess them.
 
 ### 42 U.S.C. § 237
 
-> in the matter preceding paragraph (1), by striking “or clinical research evaluation” and inserting “, clinical research evaluation or biomedical product assessment” after “evaluation”; and
+> in the matter preceding paragraph (1), by striking “or clinical research evaluation” and inserting “, clinical research evaluation or biomedical product assessment”; and
 
 | | |
 |---|---|
@@ -359,7 +368,7 @@ to guess them.
 
 ### 42 U.S.C. § 237
 
-> in subsection (d), by striking “and shall not exceed the rate payable for level I of the Executive Schedule unless approved by the President under section 5377(d)(2) of title 5, United States Code” and inserting “and shall not exceed the rate payable for the President”;
+> in subsection (d)(2), by striking “and shall not exceed the rate payable for level I of the Executive Schedule unless approved by the President under section 5377(d)(2) of title 5, United States Code” and inserting “and shall not exceed the rate payable for the President”;
 
 | | |
 |---|---|
@@ -421,12 +430,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 282a` | strike | in subparagraph (B), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 282a` | replace | in subparagraph (C), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 282a` | replace | in subparagraph (C), by striking at the end the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282a` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3514a` | strike | in paragraph (23), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3514a` | replace | in paragraph (24), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3514a` | insert | by inserting after paragraph (24), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3514a` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 282` | strike | in paragraph (23), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 282` | replace | in paragraph (24), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 282` | insert | by inserting after paragraph (24), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 282a` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3514a` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | amend | in subsection (b), by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -439,7 +448,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 287a` | strike | by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 287a` | redesignate | by redesignating subsection (g) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 284` | add-at-end | Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 288-6` | redesignate | by redesignating the second section 487F (42 U.S.C. 288–6; pediatric research loan repayment program) as section 487G; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 288-6` | redesignate | by redesignating the second section 487F (42 U.S.C. 288–6; relating to pediatric research loan repayment program) as section 487G; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288` | redesignate | by inserting after section 487G, as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288-1` | add-at-end | by adding at the end the following new sentence: “Subsection (b) of section 487H shall apply with respect to the maximum amount specified in this subsection in the same manner as it applies to the maximum amount specified in subsection (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288-1` | add-at-end | by adding at the end the following new sentence: “Subsection (b) of section 487H shall apply with respect to the maximum amount specified in this subsection in the same manner as it applies to the maximum amount specified in subsection (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -448,23 +457,23 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 288-5` | add-at-end | by adding at the end the following new sentence: “Subsection (b) of section 487H shall apply with respect to the maximum amount specified in this paragraph in the same manner as it applies to the maximum amount specified in such subsecti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288-1` | add-at-end | by adding at the end the following new sentence: “Subsection (b) of section 487H shall apply with respect to the maximum amount specified in this subsection in the same manner as it applies to the maximum amount specified in such subsect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288-6` | add-at-end | in subsection (b), by adding at the end the following new sentence: “Subsection (b) of section 487H shall apply with respect to the maximum amount specified in subsection (a)(1) in the same manner as it applies to the maximum amount spec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 288-6` | redesignate | by redesignating such section as section 487G. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 288` | add-at-end | Part G of title IV of the Public Health Service Act (42 U.S.C. 288 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 284h` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 284h` | replace | by striking “; or” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282` | add-at-end | Section 402 of the Public Health Service Act (42 U.S.C. 282) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 282` | add-at-end | Section 402 of the Public Health Service Act (42 U.S.C. 282) (as amended by section 1021(2)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | redesignate | by redesignating paragraph (7) as paragraph (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 202` | add-at-end | Part A of title II of the Public Health Service Act (42 U.S.C. 202 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17921` | add-at-end | The HITECH Act (title XIII of division A of Public Law 111–5) is amended by adding at the end of subtitle D of such Act (42 U.S.C. 17921 et seq.) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17921` | add-at-end | The table of sections in section 13001(b) of such Act is amended by adding at the end of the items relating to subtitle D the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 202` | add-at-end | Title II of the Public Health Service Act (42 U.S.C. 202 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | strike | in subsection (d), by striking “The Secretary shall implement” and all that follows through “premarket approval of a drug.”; and | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 506F the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 356` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 506F the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356` | amend | Section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356) is amended by adding the following subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 351` | add-at-end | Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355f` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 2021, is further amended by inserting after section 505E of such Act (21 U.S.C. 355f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355f` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 505E of such Act (21 U.S.C. 355f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 2062, is further amended by inserting after section 505G of such Act the following: | the bill names no machine-readable US Code section |
 | `21 U.S.C. § 360bbb` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 561 (21 U.S.C. 360bbb) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 352` | replace | by striking “In this paragraph, the term” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -475,22 +484,23 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247b-22` | insert | The Public Health Service Act is amended by inserting after section 317T (42 U.S.C. 247b–22) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360a` | amend | Section 511 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 352` | repeal | Section 1111 of the Food and Drug Administration Amendments Act of 2007 (42 U.S.C. 247d–5a; relating to identification of clinically susceptible concentrations of antimicrobials) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 352` | strike | The table of contents in section 2 of the Food and Drug Administration Amendments Act of 2007 is amended by striking the item relating to section 1111. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 352` | add-at-end | Section 502 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352), as amended by section 2121, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360d` | insert | Section 514(c)(1)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360d(c)(1)(A)) is amended by inserting after “the Secretary shall, by publication in the Federal Register” the following: “(or, with respect to susceptibility te… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | add-at-end | Section 1886(d)(5) of the Social Security Act (42 U.S.C. 1395ww(d)(5)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | insert | Section 1886(d)(5)(K)(i) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(K)(i)) is amended by inserting “and with respect to which an additional payment is not made pursuant to subparagraph (M),” after “2001,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396r-8` | insert | in subclause (II), by inserting “, or under section 1886(d) pursuant to paragraph (5)(M) of such section,” after “1847A,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ww` | insert | Section 1886(d)(5)(K)(vi) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(K)(vi)) is amended by inserting “if additional payment has never been made under this subsection pursuant to subparagraph (M) with respect to the service or tec… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | insert | in subclause (II), by inserting “or under section 1886(d) pursuant to paragraph (5)(M) of such section,” after “1847A,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396r-8` | insert | in the matter following subclause (III), by inserting “or section 1886(d)(5)(M)” after “1881(b)(13)(A)(ii)”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300aa-2` | add-at-end | Section 2102(a) of the Public Health Service Act (42 U.S.C. 300aa–2(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 242o` | add-at-end | Section 310 of the Public Health Service Act (42 U.S.C. 242o) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 2063, is further amended by inserting after section 505F of such Act the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by sections 2062 and 2063, is further amended by inserting after section 505H of such Act the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355a` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355a` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355f` | amend | by amending the subsection heading to read as follows: “Relation to pediatric exclusivity and exclusivity for a drug approved for a new indication for a rare disease or condition”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355f` | amend | by amending the subsection heading to read as follows: “Relation to pediatric exclusivity and exclusivity for a drug approved for a new indication for a rare disease or condition.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 262` | add-at-end | Section 351(m) of the Public Health Service Act (42 U.S.C. 262(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360ff` | amend | in paragraph (3), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360ff` | strike | in subparagraph (E), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 360ff` | replace | in subparagraph (F), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 360ff` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 360ff` | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 360ff` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360ff` | replace | in subsection (b), by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 953` | insert | by inserting “, except that the controlled substance may be exported from the second country to another country that is a member of the European Economic Area” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
@@ -503,12 +513,13 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360e-1` | insert | by inserting after section 515A (21 U.S.C. 360e–1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360g-1` | insert | Section 517A(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360g–1(a)(1)) is amended by inserting “a request for designation under section 515B,” after “an application under section 515,”. | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 360n-1` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 524A (21 U.S.C. 360n–1) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360e` | insert | Section 515(d)(6)(A)(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e(d)(6)(A)(i)) is amended by inserting “, subject to section 524B,” after “that affects safety or effectiveness”. | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 360e` | insert | Section 515(d)(6)(A)(ii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e(d)(6)(A)(ii)) is amended by inserting “, subject to section 524B,” after “the date on which the Secretary receives the notice”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 360e` | redesignate | Section 515(d)(5)(A)(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e(d)(5)(A)(i)), as redesignated by section 2201, is further amended by inserting “, subject to section 524B” after “that affects safety or effectiveness”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 360e` | redesignate | Section 515(d)(5)(A)(ii) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e(d)(5)(A)(ii)), as redesignated by section 2201, is further amended by inserting “, subject to section 524B” after “the date on which the Secretary recei… | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 352` | insert | Section 502(t) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352(t)) is amended by inserting “or 524B” after “section 519”. | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 360c` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360c` | insert | Section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c) is amended by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360c` | add-at-end | Subsection (c) of section 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S. C. 29 360e) is amended by adding at the end the follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360c` | add-at-end | Section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360e` | add-at-end | Subsection (c) of section 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360d` | insert | in paragraph (1), by inserting after subparagraph (B) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360d` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -518,7 +529,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360c` | insert | in subparagraph (A)(iii), by inserting before the period at the end “, including by designating a representative who will be provided a time during the panel meeting to address the panel individually (or accompanied by experts selected b… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360c` | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 321` | add-at-end | Section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 351` | add-at-end | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 351` | add-at-end | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.), as amended by section 2221(a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 321` | strike | in subparagraph (2), by striking “or” after “or other animals,”; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 321` | insert | by inserting after subparagraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360` | strike | by striking “local” each place it appears; and | the bill quotes the text struck but describes what replaces it |
@@ -537,6 +548,9 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379dd` | amend | Subparagraph (A) of section 770(d)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379dd(d)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379dd` | strike | Section 770(g)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379dd(g)(2)) is amended by striking “but shall not be greater than the compensation of the Commissioner”. | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379` | insert | Chapter VII of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 708 of such Act (21 U.S.C. 379) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379d-3` | insert | The Federal Food, Drug, and Cosmetic Act is amended by inserting after section 714 (21 U.S.C. 379d–3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 905` | insert | in section 255(g)(1)(A) (2 U.S.C. 905(g)(1)(A)), by inserting after the item relating to Financial Agent Services the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 906` | add-at-end | in section 256(h) (2 U.S.C. 906(h)), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-11` | add-at-end | Subtitle A of title XXX of the Public Health Service Act (42 U.S.C. 300jj–11 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-12` | add-at-end | by adding at the end the following new sentence: “The HIT Policy Committee is authorized only to provide policy and priority recommendations to the Secretary and not authorized to otherwise affect the development or modification of any s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-12` | insert | by inserting “(including the areas in which modifications and additions to interoperability standards under section 3010 are needed for the electronic exchange and use of health information for purposes of adoption of such modifications … | the bill quotes the text inserted but describes where it goes |
@@ -545,48 +559,49 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300jj-12` | insert | Title XXX of the Public Health Service Act is amended by inserting after section 3003 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-11` | insert | Section 3001(c)(1)(A) of the Public Health Service Act (42 U.S.C. 300jj–11(c)(1)(A)) is amended by inserting “for recommendations made before the date of the enactment of the 21st Century Cures Act,” before “review and determine”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300jj-14` | insert | in paragraph (1), by inserting after “section 3001(c)” the following: “(or, subject to subsection (c), in the case of a standard, specification, or criterion recommended on or after the date of the enactment of the 21st Century Cures Act… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300jj-14` | strike | in paragraph (2), by striking “and the HIT Standards Committee”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300jj-14` | strike | in paragraph (2)(B), by striking “and the HIT Standards Committee”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300jj-14` | add-at-end | in subsection (b), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-14` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-11` | add-at-end | Section 3010 of the Public Health Service Act, as added by subsection (a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-17` | replace | Section 3007(b) of the Public Health Service Act (42 U.S.C. 300jj–17(b)) is amended by striking “under section 3001(c)(3) to be in compliance with” and all that follows through the period at the end and inserting | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300jj-11` | amend | by amending subparagraph (B) of such section to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-11` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300jj-11` | add-at-end | Subtitle A of title XXX of the Public Health Service Act (42 U.S.C. 300jj–11 et seq.), as amended by subsection (a)(1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | Subtitle A of title XXX of the Public Health Service Act (42 U.S.C. 300jj–11 et seq.), as amended by subsections (a)(1) and (d), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-11` | add-at-end | Section 3001(c) of the Public Health Service Act (42 U.S.C. 300jj–11(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(o)(2)(C) of the Social Security Act (42 U.S.C. 1395w–4(o)(2)(C)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | amend | Subparagraph (B) of section 1848(a)(7) of the Social Security Act (42 U.S.C. 1395w–4(a)(7)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | amend | Subparagraph (B) of section 1848(a)(7) of the Social Security Act (42 U.S.C. 1395w–4(a)(7)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | insert | in subparagraph (A), by inserting before the period at the end the following: “and, for performance periods for fiscal year 2018 or a subsequent fiscal year, that provide a demonstration described in subparagraph (D) to the Secretary”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | amend | Subclause (II) of section 1886(b)(3)(B)(ix) of the Social Security Act (42 U.S.C. 1395ww(b)(3)(B)(ix)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | add-at-end | Section 1903(t)(2) of the Social Security Act (42 U.S.C. 1396b(t)(2)) is amended by adding at the end the following: “An eligible professional shall not qualify as a Medicaid provider under this subsection, with respect to a year beginni… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj` | amend | Paragraph (1) of section 3000 of the Public Health Service Act (42 U.S.C. 300jj) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj` | add-at-end | Section 3000 of the Public Health Service Act (42 U.S.C. 300jj) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300jj-16` | insert | in subsection (a)(1), by inserting “including an interoperability standard adopted under section 3004” after “section 3004”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300jj-16` | insert | in subsection (b), by inserting “including the interoperability standards adopted under section 3004” after “section 3004”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300jj-16` | insert | in subsection (a)(1), by inserting “, including an interoperability standard adopted under such section” after “section 3004”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300jj-16` | insert | in subsection (b), by inserting “, including the interoperability standards adopted under such section” after “section 3004”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300jj-16` | insert | in subsection (a), by inserting before the period at the end the following: “(and, beginning on January 1, 2018, that are also interoperable under section 3010 of such Act, including by being in compliance with interoperability standards… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-16` | insert | in subsection (b), by inserting “(and, beginning on January 1, 2018, including an interoperability standard adopted under section 3004 of such Act)” before “the President”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300jj-16` | insert | Section 13112 of the HITECH Act is amended by inserting before the period at the end the following “(and, beginning on January 1, 2018, that are also interoperable under section 3010 of such Act, including by being in compliance with int… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-16` | insert | Section 13112 of the HITECH Act is amended by inserting before the period at the end the following: “(and, beginning on January 1, 2018, that are also interoperable under section 3010 of such Act, including by being in compliance with in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-16` | strike | Section 106 of the Medicare Access and CHIP Reauthorization Act of 2015 (Public Law 114–10) is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in clause (iii), by inserting “, including peer-reviewed journals, journal reprints, journal supplements, medical conference reports, and medical textbooks” after “patient use”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (EE), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | insert | in subparagraph (FF), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395u` | insert | in clause (i), by inserting “or drugs administered by a durable medical item covered under section 1861(s)(2)(GG) on or after January 1, 2017,” after “after January 1, 2004,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395u` | strike | in clause (ii), by striking “infusion”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | strike | by striking “and” before “(Z)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “, and (AA) with respect to durable medical items described in section 1861(s)(2)(GG), the amount paid shall be equal to 80 percent of the lesser of the actual charge or the amo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m), as amended by subsection (a)(2), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | insert | Section 1861(m)(5) of the Social Security Act (42 U.S.C. 1395x(m)(5)) is amended by inserting “and devices described in section 1834(s)(2)” after “durable medical equipment”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | insert | Section 1861(m)(5) of the Social Security Act (42 U.S.C. 1395x(m)(5)) is amended by inserting “and devices described in section 1834(r)(2)” after “durable medical equipment”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395y` | add-at-end | Section 1862(l)(5) of the Social Security Act (42 U.S.C. 1395y(l)(5)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395b-9` | add-at-end | Section 1808(c) of the Social Security Act (42 U.S.C. 1395b–9(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m), as amended by section 3061, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-10` | add-at-end | Section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–10(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(a)(1)(B) of the Social Security Act (42 U.S.C. 1395w–104(a)(1)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | insert | in paragraph (1), by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ddd` | add-at-end | Section 1893 of the Social Security Act (42 U.S.C. 1395ddd) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-152` | add-at-end | Section 1860D–42 of the Social Security Act (42 U.S.C. 1395w–152) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | strike | in paragraph (25), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | replace | in paragraph (26), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | insert | by inserting after paragraph (26) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b` | add-at-end | Section 1808(c) of the Social Security Act (42 U.S.C. 1395b(c)), as amended by section 3101, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(c)(2)(B)(v) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(b)(4) of the Social Security Act (42 U.S.C. 1395w–4(b)(4)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395` | add-at-end | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395(t)(16)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-115` | add-at-end | Section 1860D–15(d) of the Social Security Act (42 U.S.C. 1395w–115(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 241` | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
