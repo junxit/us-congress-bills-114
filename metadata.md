@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1615
@@ -28,9 +28,10 @@ DHS FOIA Efficiency Act of 2015
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ DHS FOIA Efficiency Act of 2015
 - 2015-06-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 387). (text: CR 6/23/2015 H4570-4571)
 - 2015-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 387).(text: CR 6/23/2015 H4570-4571)
+- 2015-07-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
