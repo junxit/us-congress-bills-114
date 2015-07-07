@@ -24,8 +24,9 @@ Congress makes the following findings:
 - **(5)** Jordan is suffering from the Syrian refugee crisis and the threat of the Islamic State of Iraq and the Levant (ISIL).
 - **(6)** The Government of Jordan was elected as a non-permanent member of the United Nations Security Council beginning in January 2014 and terminating in December 2015.
 - **(7)** Enhanced support for defense cooperation with Jordan is important to the national security of the United States, including through creation of a status in law for Jordan similar to the countries in the North Atlantic Treaty Organization, Japan, Australia, the Republic of Korea, Israel, and New Zealand, with respect to consideration by Congress of foreign military sales to Jordan.
-- **(8)** Jordanian pilot Moaz al-Kasasbeh was brutally murdered by ISIL.
-- **(9)** On February 3, 2015, Secretary of State John Kerry and Jordanian Foreign Minister Nasser Judeh signed a new Memorandum of Understanding that reflects the intention to increase United States assistance to the Government of Jordan from $660,000,000 to $1,000,000,000 per year for the years 2015 through 2017.
+- **(8)** The Colorado National Guard’s relationship with the Jordanian military provides a significant benefit to both the United States and Jordan.
+- **(9)** Jordanian pilot Moaz al-Kasasbeh was brutally murdered by ISIL.
+- **(10)** On February 3, 2015, Secretary of State John Kerry and Jordanian Foreign Minister Nasser Judeh signed a new Memorandum of Understanding that reflects the intention to increase United States assistance to the Government of Jordan from $660,000,000 to $1,000,000,000 per year for the years 2015 through 2017.
 
 ## § 3. Statement of policy
 
@@ -35,35 +36,16 @@ It should be the policy of the United States to support the Hashemite Kingdom of
 
 It is the sense of Congress that expeditious consideration of certifications of letters of offer to sell defense articles, defense services, design and construction services, and major defense equipment to the Hashemite Kingdom of Jordan under section 36(b) of the Arms Export Control Act (22 U.S.C. 2776(b)) is fully consistent with United States security and foreign policy interests and the objectives of world peace and security.
 
-## § 5. Amendments to Arms Export Control Act
+## § 5. Enhanced defense cooperation
 
-The Arms Export Control Act (22 U.S.C. 2751 et seq.) is amended—
+- **(a)** *In general* For the 3-year period beginning on the date of the enactment of this Act, the Hashemite Kingdom of Jordan shall be treated as if it were a country listed in the provisions of law described in subsection (b) for purposes of applying and administering such provisions of law.
+- **(b)** *Provisions of law* The provisions of law described in this subsection are the following provisions of the Arms Export Control Act:
+  - **(1)** Subsections (b)(2), (d)(2)(B), (d)(3)(A)(i), and (d)(5) of section 3 (22 U.S.C. 2753).
+  - **(2)** Subsections (e)(2)(A), (h)(1)(A), (h)(2) of section 21 (22 U.S.C. 2761).
+  - **(3)** Subsections (b)(1), (b)(2), (b)(6), (c), and (d)(2)(A) of section 36 (22 U.S.C. 2776).
+  - **(4)** Section 62(c)(1) (22 U.S.C. 2796a(c)(1)).
+  - **(5)** Section 63(a)(2) (22 U.S.C. 2796b(a)(2)).
 
-- **(1)** in section 3 (22 U.S.C. 2753)—
-  - **(A)** in subsection (b)(2), by inserting “the Government of Jordan,” before “or the Government of New Zealand”; and
-  - **(B)** in subsection (d)—
-    - **(i)** in paragraph (2)(B), by inserting “Jordan,” before “or New Zealand”;
-    - **(ii)** in paragraph (3)(A)(i), by inserting “Jordan,” before “or New Zealand”; and
-    - **(iii)** in paragraph (5), by inserting “Jordan,” before “or New Zealand”;
-- **(2)** in section 21 (22 U.S.C. 2761)—
-  - **(A)** in subsection (e)(2)(A), by inserting “Jordan,” before “or New Zealand”; and
-  - **(B)** in subsection (h)—
-    - **(i)** in paragraph (1)(A), by inserting “Jordan,” before “or Israel”; and
-    - **(ii)** in paragraph (2), by inserting “Jordan,” before “or Israel” both places it appears;
-- **(3)** in section 36 (22 U.S.C. 2776)—
-  - **(A)** in subsection (b)—
-    - **(i)** in paragraph (1), by inserting “Jordan,” before “or New Zealand”;
-    - **(ii)** in paragraph (2), by inserting “Jordan,” before “or New Zealand”; and
-    - **(iii)** in paragraph (6), by inserting “Jordan,” before “or New Zealand”;
-  - **(B)** in subsection (c), by inserting “Jordan,” before “or New Zealand” both places it appears; and
-  - **(C)** in subsection (d)(2)(A), by inserting “Jordan,” before “or New Zealand”;
-- **(4)** in section 62(c)(1) (22 U.S.C. 2796a(c)(1)), by inserting “Jordan,” before “or New Zealand”; and
-- **(5)** in section 63(a)(2) (22 U.S.C. 2796b(a)(2)), by inserting “Jordan,” before “or New Zealand”.
+## § 6. Memorandum of understanding
 
-## § 6. Amendments to Foreign Assistance Act of 1961
-
-Section 656(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2416(a)(2)) is amended by inserting “Jordan,” before “or New Zealand”.
-
-## § 7. Memorandum of understanding
-
-The Secretary of State is authorized, subject to the availability of appropriations, to enter into a Memorandum of Understanding with Jordan to increase economic support funds, military cooperation, including joint military exercises, personnel exchanges, support for international peacekeeping missions, and enhanced strategic dialogue.
+The Secretary of State is authorized, subject to the availability of appropriations, to enter into a Memorandum of Understanding with the Hashemite Kingdom of Jordan to increase economic support funds, military cooperation, including joint military exercises, personnel exchanges, support for international peacekeeping missions, and enhanced strategic dialogue.
