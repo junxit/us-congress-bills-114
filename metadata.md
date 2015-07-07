@@ -1,7 +1,7 @@
 ---
 measure: S. 286
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 286
@@ -36,3 +36,11 @@ Department of the Interior Tribal Self-Governance Act of 2015
 - 2015-05-22 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-60.
 - 2015-05-22 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-60.
 - 2015-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.
+- 2015-06-02 — Senate amendment submitted
+- 2015-07-07 — Amendment SA 1471 agreed to in Senate by Unanimous Consent.
+- 2015-07-07 — Amendment SA 1471 proposed by Senator McConnell for Senator Barrasso. (consideration: CR S4802) In the nature of a substitute.
+- 2015-07-07 — Measure laid before Senate by unanimous consent. (consideration: CR S4802)
+- 2015-07-07 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-07-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-07-07 — Senate amendment agreed to: Amendment SA 1471 agreed to in Senate by Unanimous Consent.
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 1471 proposed by Senator McConnell for Senator Barrasso.(consideration: CR S4802)

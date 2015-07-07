@@ -1,7 +1,7 @@
 ---
 measure: S. 286
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 7 executed, 19 stated and not applied.
+28 amendatory instructions. 8 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,6 +69,15 @@ to guess them.
 | Removed | `expense related to the overhead incurred` |
 | Inserted | `expense incurred by the governing body of the Indian tribe or tribal organization and any overhead expense incurred` |
 
+### 25 U.S.C. § 450l
+
+> in section 1(b)(7)(C) of the model agreement contained in subsection (c), in the second sentence of the matter preceding clause (i), by striking “one performance monitoring visit” and inserting “two performance monitoring visits”.
+
+| | |
+|---|---|
+| Removed | `one performance monitoring visit` |
+| Inserted | `two performance monitoring visits` |
+
 ### 25 U.S.C. § 458cc
 
 > in the matter preceding subparagraph (A), by striking “without regard to the agency or office of the Bureau of Indian Affairs” and inserting “the Office of the Assistant Secretary for Indian Affairs, and the Office of the Special Trustee, without regard to the agency or office of that Bureau or those Offices”;
@@ -97,12 +106,13 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `25 U.S.C. § 450b` | replace | Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) is amended by striking subsection (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450c` | add-at-end | by adding at the end the following: “The retention period shall be defined in regulations promulgated by the Secretary pursuant to section 414.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450c` | add-at-end | by adding at the end the following: “The retention period shall be defined in regulations promulgated by the Secretary pursuant to section 414.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450c` | insert | in subsection (f)(1), by inserting “if the tribal organization expends $500,000 or more in Federal awards during that fiscal year” after “under this Act,”. | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 450f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450j-1` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450j-1` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450l` | insert | in subsection (a)(2), by inserting “subject to subsections (a) and (b) of section 102,” before “contain”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 450l` | insert | in subsection (a)(2), by inserting “subject to subsections (a) and (b) of section 102,” before “contain”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 450f` | insert | in subsection (f)(2)(A)(ii) of the model agreement contained in subsection (c), by inserting “subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f),” before “such… | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 458aa` | amend | Section 401 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 458aa) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 458bb` | amend | Section 402 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 458bb) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
