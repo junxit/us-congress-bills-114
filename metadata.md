@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 347
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 347
@@ -20,6 +20,10 @@ Providing for further consideration of the bill (H.R. 5) to support State and lo
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2015-07-08 — [House 114-1-392](votes/house-114-1-0392.md) — On Agreeing to the Resolution — **Passed** (242–185)
+
 ## Actions
 
 - 2015-07-07 — Introduced in House
@@ -27,3 +31,9 @@ Providing for further consideration of the bill (H.R. 5) to support State and lo
 - 2015-07-07 — Providing for consideration of H.R. 5 and H.R. 2647.
 - 2015-07-07 — The House Committee on Rules reported an original measure, H. Rept. 114-192, by Mr. Newhouse.
 - 2015-07-07 — The House Committee on Rules reported an original measure, H. Rept. 114-192, by Mr. Newhouse.
+- 2015-07-08 — Considered as privileged matter. (consideration: CR H4879-4887)
+- 2015-07-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 347.
+- 2015-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 242 - 185 (Roll no. 392). (text: CR H4879-4880)
+- 2015-07-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 242 - 185 (Roll no. 392).(text: CR H4879-4880)
+- 2015-07-08 — The previous question was ordered without objection. (consideration: CR H4887)
