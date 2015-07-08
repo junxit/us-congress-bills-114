@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 337
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 337
@@ -16,7 +16,7 @@ Calling for substantive dialogue, without preconditions, in order to address Tib
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
@@ -46,6 +46,7 @@ Calling for substantive dialogue, without preconditions, in order to address Tib
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
 
 ## Committees (1)
 
@@ -57,3 +58,9 @@ Calling for substantive dialogue, without preconditions, in order to address Tib
 - 2015-06-24 — Introduced in House
 - 2015-06-24 — Referred to the House Committee on Foreign Affairs.
 - 2015-06-24 — Sponsor introductory remarks on measure. (CR E966-967)
+- 2015-07-08 — Considered under suspension of the rules. (consideration: CR H4900-4904)
+- 2015-07-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 337.
+- 2015-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-08 — Mr. Smith (NJ) moved to suspend the rules and agree to the resolution, as amended.
+- 2015-07-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4900-4901)
+- 2015-07-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4900-4901)
