@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5
 
-> To support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children’s schools, and for other purposes.
+> To support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes.
 
 ## § 1. Short title
 
@@ -39,21 +39,21 @@ The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the fol
 > ## § 3. Authorizations of appropriations
 >
 > - **(a)** *Title I*
->   - **(1)** *Part A* There are authorized to be appropriated to carry out part A of title I $16,245,163,000 for each of fiscal years 2016 through 2021.
->   - **(2)** *Part B* There are authorized to be appropriated to carry out part B of title I $710,000 for each of fiscal years 2016 through 2021.
+>   - **(1)** *Part A* There are authorized to be appropriated to carry out part A of title I $16,245,163,000 for each of fiscal years 2016 through 2019.
+>   - **(2)** *Part B* There are authorized to be appropriated to carry out part B of title I $710,000 for each of fiscal years 2016 through 2019.
 > - **(b)** *Title II* There are authorized to be appropriated to carry out title II $2,788,356,000 for each of fiscal years 2016 through 2021.
 > - **(c)** *Title III*
 >   - **(1)** *Part A*
->     - **(A)** *Subpart 1* There are authorized to be appropriated to carry out subpart 1 of part A of title III $300,000,000 for each of fiscal years 2016 through 2021.
->     - **(B)** *Subpart 2* There are authorized to be appropriated to carry out subpart 2 of part A of title III $91,647,000 for each of fiscal years 2016 through 2021.
->     - **(C)** *Subpart 3* There are authorized to be appropriated to carry out subpart 3 of part A of title III $25,000,000 for each of fiscal years 2016 through 2021.
->   - **(2)** *Part B* There are authorized to be appropriated to carry out part B of title III $2,302,287,000 for each of fiscal years 2016 through 2021.
+>     - **(A)** *Subpart 1* There are authorized to be appropriated to carry out subpart 1 of part A of title III $300,000,000 for each of fiscal years 2016 through 2019.
+>     - **(B)** *Subpart 2* There are authorized to be appropriated to carry out subpart 2 of part A of title III $91,647,000 for each of fiscal years 2016 through 2019.
+>     - **(C)** *Subpart 3* There are authorized to be appropriated to carry out subpart 3 of part A of title III $25,000,000 for each of fiscal years 2016 through 2019.
+>   - **(2)** *Part B* There are authorized to be appropriated to carry out part B of title III $2,302,287,000 for each of fiscal years 2016 through 2019.
 > - **(d)** *Title IV*
->   - **(1)** *Payments for Federal acquisition of real property* For the purpose of making payments under section 4002, there are authorized to be appropriated $66,813,000 for each of fiscal years 2016 through 2021.
->   - **(2)** *Basic payments; payments for heavily impacted local educational agencies* For the purpose of making payments under section 4003(b), there are authorized to be appropriated $1,151,233,000 for each of fiscal years 2016 through 2021.
->   - **(3)** *Payments for children with disabilities* For the purpose of making payments under section 4003(d), there are authorized to be appropriated $48,316,000 for each of fiscal years 2016 through 2021.
->   - **(4)** *Construction* For the purpose of carrying out section 4007, there are authorized to be appropriated $17,406,000 for each of fiscal years 2016 through 2021.
->   - **(5)** *Facilities maintenance* For the purpose of carrying out section 4008, there are authorized to be appropriated $4,835,000 for each of fiscal years 2016 through 2021.
+>   - **(1)** *Payments for Federal acquisition of real property* For the purpose of making payments under section 4002, there are authorized to be appropriated $66,813,000 for each of fiscal years 2016 through 2019.
+>   - **(2)** *Basic payments; payments for heavily impacted local educational agencies* For the purpose of making payments under section 4003(b), there are authorized to be appropriated $1,151,233,000 for each of fiscal years 2016 through 2019.
+>   - **(3)** *Payments for children with disabilities* For the purpose of making payments under section 4003(d), there are authorized to be appropriated $48,316,000 for each of fiscal years 2016 through 2019.
+>   - **(4)** *Construction* For the purpose of carrying out section 4007, there are authorized to be appropriated $17,406,000 for each of fiscal years 2016 through 2019.
+>   - **(5)** *Facilities maintenance* For the purpose of carrying out section 4008, there are authorized to be appropriated $4,835,000 for each of fiscal years 2016 through 2019.
 
 ## § 7. Sense of the Congress
 

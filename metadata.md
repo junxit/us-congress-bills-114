@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -35,6 +35,28 @@ Student Success Act
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (19)
+
+- 2015-02-26 — [House 114-1-95](votes/house-114-1-0095.md) — On Agreeing to the Amendment — **Failed** (204–217)
+- 2015-02-26 — [House 114-1-96](votes/house-114-1-0096.md) — On Agreeing to the Amendment — **Failed** (114–311)
+- 2015-02-26 — [House 114-1-97](votes/house-114-1-0097.md) — On Agreeing to the Amendment — **Failed** (182–243)
+- 2015-02-26 — [House 114-1-98](votes/house-114-1-0098.md) — On Agreeing to the Amendment — **Agreed to** (218–201)
+- 2015-02-26 — [House 114-1-99](votes/house-114-1-0099.md) — On Agreeing to the Amendment — **Failed** (185–239)
+- 2015-07-08 — [House 114-1-410](votes/house-114-1-0410.md) — On Agreeing to the Amendment — **Agreed to** (373–57)
+- 2015-07-08 — [House 114-1-411](votes/house-114-1-0411.md) — On Agreeing to the Amendment — **Agreed to** (424–2)
+- 2015-07-08 — [House 114-1-412](votes/house-114-1-0412.md) — On Agreeing to the Amendment — **Failed** (199–228)
+- 2015-07-08 — [House 114-1-413](votes/house-114-1-0413.md) — On Agreeing to the Amendment — **Failed** (192–237)
+- 2015-07-08 — [House 114-1-414](votes/house-114-1-0414.md) — On Agreeing to the Amendment — **Failed** (186–245)
+- 2015-07-08 — [House 114-1-415](votes/house-114-1-0415.md) — On Agreeing to the Amendment — **Failed** (191–239)
+- 2015-07-08 — [House 114-1-416](votes/house-114-1-0416.md) — On Agreeing to the Amendment — **Agreed to** (218–213)
+- 2015-07-08 — [House 114-1-417](votes/house-114-1-0417.md) — On Agreeing to the Amendment — **Failed** (205–224)
+- 2015-07-08 — [House 114-1-418](votes/house-114-1-0418.md) — On Agreeing to the Amendment — **Failed** (189–241)
+- 2015-07-08 — [House 114-1-419](votes/house-114-1-0419.md) — On Agreeing to the Amendment — **Failed** (195–235)
+- 2015-07-08 — [House 114-1-420](votes/house-114-1-0420.md) — On Agreeing to the Amendment — **Agreed to** (251–178)
+- 2015-07-08 — [House 114-1-421](votes/house-114-1-0421.md) — On Agreeing to the Amendment — **Failed** (187–244)
+- 2015-07-08 — [House 114-1-422](votes/house-114-1-0422.md) — On Motion to Recommit with Instructions — **Failed** (185–244)
+- 2015-07-08 — [House 114-1-423](votes/house-114-1-0423.md) — On Passage — **Passed** (218–213)
+
 ## Actions
 
 - 2015-02-03 — Introduced in House
@@ -49,3 +71,405 @@ Student Success Act
 - 2015-02-20 — Placed on the Union Calendar, Calendar No. 16.
 - 2015-02-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-24, Part I.
 - 2015-02-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-24, Part I.
+- 2015-02-24 — Rules Committee Resolution H. Res. 121 Reported to House. Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year
+- 2015-02-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2015-02-25 — Considered under the provisions of rule H. Res. 121. (consideration: CR H1142-1150)
+- 2015-02-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5.
+- 2015-02-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 121 and Rule XVIII.
+- 2015-02-25 — Rule H. Res. 121 passed House.
+- 2015-02-25 — Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015. Section 4 provides that it shall be in order at any time through the calendar day of March 1, 2015, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making or continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015.
+- 2015-02-25 — Rules Committee Resolution H. Res. 125 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule provides for further consideration of H.R. 5. The rule provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-8, modified by the amendment printed in part A of the Rules Committee report, shall be considered as adopted. No further amendment to the bill shall be in order except those printed in part B of the report of the Committee on Rules.
+- 2015-02-25 — The Speaker designated the Honorable Chris Collins to act as Chairman of the Committee.
+- 2015-02-26 — Amendment (A001) offered by Mr. Kennedy. (consideration: CR H1253-1255, H1266-1267; text: CR H1253-1254)
+- 2015-02-26 — Amendment (A002) offered by Mr. Grothman. (consideration: CR H1255-1256, H1267; text: CR H1255)
+- 2015-02-26 — Amendment (A003) offered by Mr. Meeks. (consideration: CR H1256-1257; text: CR H1256)
+- 2015-02-26 — Amendment (A004) offered by Mrs. Lawrence. (consideration: CR H1257; text: CR H1257)
+- 2015-02-26 — Amendment (A005) offered by Mr. Goodlatte. (consideration: CR H1257-1259; text: CR H1257)
+- 2015-02-26 — Amendment (A006) offered by Mr. Castro (TX). (consideration: CR H1259, H1268; text: CR H1259)
+- 2015-02-26 — Amendment (A007) offered by Mr. Langevin. (consideration: CR H1259-1260; text: CR H1259)
+- 2015-02-26 — Amendment (A008) offered by Mr. Barletta. (consideration: CR H1260-1261; text: CR H1260)
+- 2015-02-26 — Amendment (A009) offered by Mr. Quigley. (consideration: CR H1261-1262, H1268-1269; text: CR H1261)
+- 2015-02-26 — Amendment (A010) offered by Ms. Fudge. (consideration: CR H1262-1263; text: CR H1262)
+- 2015-02-26 — Amendment (A011) offered by Mr. DeSaulnier. (consideration: CR H1263; text: CR H1263)
+- 2015-02-26 — Amendment (A012) offered by Mr. Davis, Rodney. (consideration: CR H1263-1264; text: CR H1263-1264)
+- 2015-02-26 — Amendment (A013) offered by Ms. Moore. (consideration: CR H1264-1265, H1269-1270; text: CR H1265)
+- 2015-02-26 — Amendment (A014) offered by Mr. McKinley. (consideration: CR H1265-1266; text: CR H1265)
+- 2015-02-26 — Amendment (A015) offered by Mr. Delaney. (consideration: CR H1270-1271; text: CR H1270)
+- 2015-02-26 — Amendment (A016) offered by Mr. Jeffries. (consideration: CR H1271-1272; text: CR H1271)
+- 2015-02-26 — Amendment (A017) offered by Ms. Clark (MA). (consideration: CR H1272-1273; text: CR H1272)
+- 2015-02-26 — Amendment (A018) offered by Mr. Cohen. (consideration: CR H1273-1274; text: CR H1273)
+- 2015-02-26 — Amendment (A019) offered by Ms. Wilson (FL). (consideration: CR H1274; text: CR H1274)
+- 2015-02-26 — Amendment (A020) offered by Mr. Polis. (consideration: CR H1274-1275; text: CR H1274)
+- 2015-02-26 — Amendment (A021) offered by Mr. Polis. (consideration: CR H1275-1276; text: CR H1275)
+- 2015-02-26 — Amendment (A022) offered by Ms. Kelly (IL). (consideration: CR H1276; text: CR H1276)
+- 2015-02-26 — Amendment (A023) offered by Ms. Bonamici. (consideration: CR H1276-1278; text: CR H1276-1277)
+- 2015-02-26 — Amendment (A024) offered by Mr. Polis. (consideration: CR H1278-1279; text: CR H1278)
+- 2015-02-26 — Amendment (A025) offered by Ms. Jackson Lee. (consideration: CR H1279-1280; text: CR H1279)
+- 2015-02-26 — Amendment (A026) offered by Ms. Wilson (FL). (consideration: CR H1280-1281; text: CR H1280)
+- 2015-02-26 — Amendment (A027) offered by Mr. Courtney. (consideration: CR H1281; text: CR H1281)
+- 2015-02-26 — Amendment (A028) offered by Mr. Nolan. (consideration: CR H1281-1283; text: CR H1281)
+- 2015-02-26 — Amendment (A029) offered by Mrs. Davis (CA). (consideration: CR H1283; text: CR H1283)
+- 2015-02-26 — Amendment (A030) offered by Mr. Zeldin. (consideration: CR H1283-1285; text: CR H1283)
+- 2015-02-26 — Amendment (A031) offered by Mr. Hurd (TX). (consideration: CR H1285; text: CR H1285)
+- 2015-02-26 — Amendment (A032) offered by Mr. Grayson. (consideration: CR H1285-1286; text: CR H1286)
+- 2015-02-26 — Amendment (A033) offered by Ms. Wilson (FL). (consideration: CR H1286-1289; text: CR H1286-1289)
+- 2015-02-26 — Amendment (A034) offered by Mr. Castro (TX). (consideration: CR H1289-1290; text: CR H1289)
+- 2015-02-26 — Amendment (A035) offered by Mr. Carson (IN). (consideration: CR H1290-1291; text: CR H1290)
+- 2015-02-26 — Amendment (A036) offered by Mr. Collins (GA). (consideration: CR H1291; text: CR H1291)
+- 2015-02-26 — Amendment (A037) offered by Mr. Dold. (consideration: CR H1291-1292; text: CR H1291)
+- 2015-02-26 — Amendment (A038) offered by Mr. Flores. (consideration: CR H1292-1293; text: CR H1292)
+- 2015-02-26 — Amendment (A039) offered by Ms. Brownley (CA). (consideration: CR H1293-1295; text: CR H1293-1294)
+- 2015-02-26 — Amendment (A040) offered by Mr. Loebsack. (consideration: CR H1295-1297; text: CR H1295-1296)
+- 2015-02-26 — Amendment (A041) offered by Mr. Polis. (consideration: CR H1297-1299; text: CR H1297-1298)
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment agreed to Committee of the Whole
+- 2015-02-26 — Amendment failed in Committee of the Whole
+- 2015-02-26 — Amendment failed in Committee of the Whole
+- 2015-02-26 — Amendment failed in Committee of the Whole
+- 2015-02-26 — Amendment failed in Committee of the Whole
+- 2015-02-26 — Amendment failed in Committee of the Whole
+- 2015-02-26 — By unanimous consent, the Courtney amendment was withdrawn. (consideration: CR H1281)
+- 2015-02-26 — By unanimous consent, the Fudge amendment was withdrawn. (consideration: CR H1263)
+- 2015-02-26 — By unanimous consent, the Meeks amendment was withdrawn. (consideration: CR H1257)
+- 2015-02-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2015-02-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2015-02-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2015-02-26 — Considered as unfinished business. (consideration: CR H1193-1266; text of amendment in the nature of a substitute: CR H1194-1252)
+- 2015-02-26 — Considered as unfinished business. (consideration: CR H1266-1285)
+- 2015-02-26 — Considered as unfinished business. (consideration: CR H1285-1299)
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Barletta Part B Amendment No. 8.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici part B amendment No. 23.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Brownley part B amendment No. 39.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Carson part B amendment No. 35.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) Part B Amendment No. 6.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Castro part B amendment No. 34.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Clark(MA) Part B Amendment No. 17.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen Part B amendment No. 18.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Collins (GA) part B amendment No. 36.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney part B amendment No. 27.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Davis (CA) part B amendment No. 29.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Davis, Rodney (IL) Part B Amendment No. 12.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier Part B Amendment No. 11.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Delaney Part B Amendment No. 15.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Dold part B amendment No. 37.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Flores part B amendment No. 38.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Fudge Part B Amendment No. 10.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte Part B Amendment No. 5.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson part B amendment No. 32.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman Part B Amendment No. 2.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Hurd part B amendment No. 31.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee part B amendment No. 25.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries Part B Amendment No. 16.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (IL) part B amendment No. 22.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin Part B Amendment No. 7.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence Part B Amendment No. 4.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Loebsack part B amendment No. 40.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley Part B Amendment No. 14.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Meeks Part B Amendment No. 3.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Moore Part B Amendment No. 13.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan part B amendment No. 28.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Polis part B amendment No. 20.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Polis part B amendment No. 21.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Polis part B amendment No. 24.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Polis part B amendment No. 41.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley Part B Amendment No. 9.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (FL) part B amendment No. 19.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (FL) part B amendment No. 26.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (FL) part B amendment.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin part B amendment No. 30.
+- 2015-02-26 — DEBATE - Pursuant to the provisions of H.Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Kennedy Part B Amendment No. 1.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Barletta amendment (A008) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Bonamici amendment (A023) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Castro (TX) amendment (A034) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Clark (MA) amendment (A017) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Cohen amendment (A018) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Collins (GA) amendment (A036) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Davis (CA) amendment (A029) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A012) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A011) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Delaney amendment (A015) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Dold amendment (A037) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Flores amendment (A038) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Goodlatte amendment (A005) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A025) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Jeffries amendment (A016) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Kelly (IL) amendment (A022) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Lawrence amendment (A004) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the McKinley amendment (A014) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Nolan amendment (A028) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Polis amendment (A020) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Polis amendment (A021) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Polis amendment (A024) Agreed to by voice vote.
+- 2015-02-26 — House amendment agreed to: On agreeing to the Quigley amendment (A009) Agreed to by recorded vote: 218 - 201 (Roll no. 98).
+- 2015-02-26 — House amendment agreed to: On agreeing to the Wilson (FL) amendment (A019) Agreed to by voice vote.
+- 2015-02-26 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A006) Failed by recorded vote: 182 - 243 (Roll no. 97).
+- 2015-02-26 — House amendment not agreed to: On agreeing to the Grothman amendment (A002) Failed by recorded vote: 114 - 311 (Roll no. 96).
+- 2015-02-26 — House amendment not agreed to: On agreeing to the Kennedy amendment (A001) Failed by recorded vote: 204 - 217 (Roll no. 95).
+- 2015-02-26 — House amendment not agreed to: On agreeing to the Moore amendment (A013) Failed by recorded vote: 185 - 239 (Roll no. 99).
+- 2015-02-26 — House amendment not agreed to: On agreeing to the Wilson (FL) amendment (A026) Failed by voice vote.
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered
+- 2015-02-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Kennedy.(consideration: CR H1253-1255, H1266-1267; text: CR H1253-1254)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A002) offered by Mr. Grothman.(consideration: CR H1255-1256, H1267; text: CR H1255)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A003) offered by Mr. Meeks.(consideration: CR H1256-1257; text: CR H1256)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A004) offered by Mrs. Lawrence.(consideration: CR H1257; text: CR H1257)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A005) offered by Mr. Goodlatte.(consideration: CR H1257-1259; text: CR H1257)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A006) offered by Mr. Castro (TX).(consideration: CR H1259, H1268; text: CR H1259)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A007) offered by Mr. Langevin.(consideration: CR H1259-1260; text: CR H1259)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A008) offered by Mr. Barletta.(consideration: CR H1260-1261; text: CR H1260)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A009) offered by Mr. Quigley.(consideration: CR H1261-1262, H1268-1269; text: CR H1261)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A010) offered by Ms. Fudge.(consideration: CR H1262-1263; text: CR H1262)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A011) offered by Mr. DeSaulnier.(consideration: CR H1263; text: CR H1263)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A012) offered by Mr. Davis, Rodney.(consideration: CR H1263-1264; text: CR H1263-1264)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A013) offered by Ms. Moore.(consideration: CR H1264-1265, H1269-1270; text: CR H1265)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A014) offered by Mr. McKinley.(consideration: CR H1265-1266; text: CR H1265)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A015) offered by Mr. Delaney.(consideration: CR H1270-1271; text: CR H1270)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A016) offered by Mr. Jeffries.(consideration: CR H1271-1272; text: CR H1271)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A017) offered by Ms. Clark (MA).(consideration: CR H1272-1273; text: CR H1272)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A018) offered by Mr. Cohen.(consideration: CR H1273-1274; text: CR H1273)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A019) offered by Ms. Wilson (FL).(consideration: CR H1274; text: CR H1274)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A020) offered by Mr. Polis.(consideration: CR H1274-1275; text: CR H1274)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A021) offered by Mr. Polis.(consideration: CR H1275-1276; text: CR H1275)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A022) offered by Ms. Kelly (IL).(consideration: CR H1276; text: CR H1276)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A023) offered by Ms. Bonamici.(consideration: CR H1276-1278; text: CR H1276-1277)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A024) offered by Mr. Polis.(consideration: CR H1278-1279; text: CR H1278)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A025) offered by Ms. Jackson Lee.(consideration: CR H1279-1280; text: CR H1279)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A026) offered by Ms. Wilson (FL).(consideration: CR H1280-1281; text: CR H1280)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A027) offered by Mr. Courtney.(consideration: CR H1281; text: CR H1281)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A028) offered by Mr. Nolan.(consideration: CR H1281-1283; text: CR H1281)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A029) offered by Mrs. Davis (CA).(consideration: CR H1283; text: CR H1283)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A030) offered by Mr. Zeldin.(consideration: CR H1283-1285; text: CR H1283)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A031) offered by Mr. Hurd (TX).(consideration: CR H1285; text: CR H1285)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A032) offered by Mr. Grayson.(consideration: CR H1285-1286; text: CR H1286)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A033) offered by Ms. Wilson (FL).(consideration: CR H1286-1289; text: CR H1286-1289)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A034) offered by Mr. Castro (TX).(consideration: CR H1289-1290; text: CR H1289)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A035) offered by Mr. Carson (IN).(consideration: CR H1290-1291; text: CR H1290)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A036) offered by Mr. Collins (GA).(consideration: CR H1291; text: CR H1291)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A037) offered by Mr. Dold.(consideration: CR H1291-1292; text: CR H1291)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A038) offered by Mr. Flores.(consideration: CR H1292-1293; text: CR H1292)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A039) offered by Ms. Brownley (CA).(consideration: CR H1293-1295; text: CR H1293-1294)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A040) offered by Mr. Loebsack.(consideration: CR H1295-1297; text: CR H1295-1296)
+- 2015-02-26 — House amendment offered/reported by : Amendment (A041) offered by Mr. Polis.(consideration: CR H1297-1299; text: CR H1297-1298)
+- 2015-02-26 — Mr. Kline moved that the Committee rise.
+- 2015-02-26 — Mr. Kline moved that the Committee rise.
+- 2015-02-26 — Mr. Rokita moved that the Committee now rise.
+- 2015-02-26 — On agreeing to the Barletta amendment (A008) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Bonamici amendment (A023) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Castro (TX) amendment (A006) Failed by recorded vote: 182 - 243 (Roll no. 97).
+- 2015-02-26 — On agreeing to the Castro (TX) amendment (A034) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Clark (MA) amendment (A017) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Cohen amendment (A018) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Collins (GA) amendment (A036) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Davis (CA) amendment (A029) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Davis, Rodney amendment (A012) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the DeSaulnier amendment (A011) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Delaney amendment (A015) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Dold amendment (A037) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Flores amendment (A038) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Goodlatte amendment (A005) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Grothman amendment (A002) Failed by recorded vote: 114 - 311 (Roll no. 96).
+- 2015-02-26 — On agreeing to the Jackson Lee amendment (A025) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Jeffries amendment (A016) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Kelly (IL) amendment (A022) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Kennedy amendment (A001) Failed by recorded vote: 204 - 217 (Roll no. 95).
+- 2015-02-26 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Lawrence amendment (A004) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the McKinley amendment (A014) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Moore amendment (A013) Failed by recorded vote: 185 - 239 (Roll no. 99).
+- 2015-02-26 — On agreeing to the Nolan amendment (A028) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Polis amendment (A020) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Polis amendment (A021) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Polis amendment (A024) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Quigley amendment (A009) Agreed to by recorded vote: 218 - 201 (Roll no. 98).
+- 2015-02-26 — On agreeing to the Wilson (FL) amendment (A019) Agreed to by voice vote.
+- 2015-02-26 — On agreeing to the Wilson (FL) amendment (A026) Failed by voice vote.
+- 2015-02-26 — On motion that the Committee now rise Agreed to by voice vote.
+- 2015-02-26 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-02-26 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brownley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Brownley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Carson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Castro (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grayson (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grayson (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grothman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hurd amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hurd demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kennedy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Kennedy demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Loebsack amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Loebsack demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wilson (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Wilson (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Zeldin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-26 — Roll call votes on amendments in House
+- 2015-02-26 — Roll call votes on amendments in House
+- 2015-02-26 — Roll call votes on amendments in House
+- 2015-02-26 — Roll call votes on amendments in House
+- 2015-02-26 — Roll call votes on amendments in House
+- 2015-02-26 — Rule H. Res. 125 passed House.
+- 2015-02-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-02-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-02-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-02-27 — Amendment (A042) offered by Mr. Thompson (MS). (consideration: CR H1393-1394; text: CR H1393)
+- 2015-02-27 — Amendment (A043) in the nature of a substitute offered by Mr. Scott (VA). (consideration: CR H1394-1397; text: CR H1394-1479)
+- 2015-02-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2015-02-27 — Considered as unfinished business. (consideration: CR H1393-1483)
+- 2015-02-27 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (MS) Part B Amendment No. 43.
+- 2015-02-27 — DEBATE - Pursuant to the provisions of H. Res. 125, the Committee of the Whole proceeded with 20 minutes of debate on the Scott (VA) Part B Amendment No. 44.
+- 2015-02-27 — House amendment offered
+- 2015-02-27 — House amendment offered
+- 2015-02-27 — House amendment offered/reported by : Amendment (A042) offered by Mr. Thompson (MS).(consideration: CR H1393-1394; text: CR H1393)
+- 2015-02-27 — House amendment offered/reported by : Amendment (A043) in the nature of a substitute offered by Mr. Scott (VA).(consideration: CR H1394-1397; text: CR H1394-1479)
+- 2015-02-27 — Mr. Kline moved that the Committee now rise.
+- 2015-02-27 — On motion that the Committee now rise Agreed to by voice vote.
+- 2015-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (MS) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Thompson (MS) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2015-02-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-07-07 — Rules Committee Resolution H. Res. 347 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Providing for consideration of H.R. 5 and H.R. 2647.
+- 2015-07-08 — Amendment (A044) offered by Mr. Rokita. (consideration: CR H4908-4910; text: CR H4908)
+- 2015-07-08 — Amendment (A045) offered by Mr. Walker. (consideration: CR H4910-4912, H4930-4931; text: CR H4910-4911)
+- 2015-07-08 — Amendment (A046) offered by Mr. Salmon. (consideration: CR H4912-4913, H4931-4932; text: CR H4912)
+- 2015-07-08 — Amendment (A047) offered by Mr. Polis. (consideration: CR H4913-4924; text: CR H4913-4923)
+- 2015-07-08 — Amendment agreed to Committee of the Whole
+- 2015-07-08 — Amendment agreed to Committee of the Whole
+- 2015-07-08 — Amendment agreed to Committee of the Whole
+- 2015-07-08 — Amendment agreed to Committee of the Whole
+- 2015-07-08 — Amendment agreed to Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — Amendment failed in Committee of the Whole
+- 2015-07-08 — By unanimous consent, the Polis amendment was withdrawn. (consideration: CR H4924)
+- 2015-07-08 — CLERK TO CORRECT AUTHORITY - Mr. Curbelo asked unanimous consent that, in the engrossment of H.R. 5, the Clerk be authorized to correct section numbers, section headings, cross references, punctuation, and indentation, and to make any other technical and conforming change necessary to reflect the actions of the House. Agreed to without objection.
+- 2015-07-08 — Considered as unfinished business. (consideration: CR H4908-4935)
+- 2015-07-08 — DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 48.
+- 2015-07-08 — DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Salmon amendment No. 47.
+- 2015-07-08 — DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Walker amendment No. 46.
+- 2015-07-08 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Rokita amendment No. 45.
+- 2015-07-08 — DEBATE - The House proceeded with 10 minutes of debate on the Esty motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment that would guarantee educational opportunities for children with disabilities by requiring that each state: (1) demonstrate their laws do not result in a lower standard of education than for those students without disabilities; (2) grant students with disabilities access to a regular secondary school diploma; (3) give parents the right to informed consent about their childs education; (4) cannot lower expectations or academic achievement for students with disabilities; or (5) give educational opportunities for any student, including those from racial and ethnic minorities. Additionally, the motion requires the Secretary of Education to regulate learning environments                in order to protect children with disabilitie s from abusive                seclusion and restraint practi ces.
+- 2015-07-08 — House amendment agreed to: On agreeing to the Hurd (TX) amendment (A031) Agreed to by recorded vote: 424 - 2 (Roll No. 411).(consideration: CR H4925-4926)
+- 2015-07-08 — House amendment agreed to: On agreeing to the Loebsack amendment (A040) Agreed to by recorded vote: 218 - 213 (Roll no. 416).(consideration: CR H4928-4929)
+- 2015-07-08 — House amendment agreed to: On agreeing to the Rokita amendment (A044) Agreed to by voice vote.
+- 2015-07-08 — House amendment agreed to: On agreeing to the Salmon amendment (A046) Agreed to by recorded vote: 251 - 178 (Roll no. 420).
+- 2015-07-08 — House amendment agreed to: On agreeing to the Zeldin amendment (A030) Agreed to by recorded vote: 373 - 57 (Roll no. 410).(consideration: CR H4924-4925)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Brownley (CA) amendment (A039) Failed by recorded vote: 191 - 239 (Roll no. 415).(consideration: CR H4928)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Carson (IN) amendment (A035) Failed by recorded vote: 186 - 245 (Roll no. 414).(consideration: CR H4927-4928)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Grayson amendment (A032) Failed by recorded vote: 199 - 228 (Roll no. 412).(consideration: CR H4926)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Polis amendment (A041) Failed by recorded vote: 205 - 224 (Roll no. 417).(consideration: CR H4929)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Scott (VA) amendment (A043) Failed by recorded vote: 187 - 244 (Roll no. 421).(consideration: CR H4932)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Thompson (MS) amendment (A042) Failed by recorded vote: 189 - 241 (Roll no. 418).(consideration: CR H4930)
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Walker amendment (A045) Failed by recorded vote: 195 - 235 (Roll no. 419).
+- 2015-07-08 — House amendment not agreed to: On agreeing to the Wilson (FL) amendment (A033) Failed by recorded vote: 192 - 237 (Roll no. 413).(consideration: CR H4926-4927)
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered
+- 2015-07-08 — House amendment offered/reported by : Amendment (A044) offered by Mr. Rokita.(consideration: CR H4908-4910; text: CR H4908)
+- 2015-07-08 — House amendment offered/reported by : Amendment (A045) offered by Mr. Walker.(consideration: CR H4910-4912, H4930-4931; text: CR H4910-4911)
+- 2015-07-08 — House amendment offered/reported by : Amendment (A046) offered by Mr. Salmon.(consideration: CR H4912-4913, H4931-4932; text: CR H4912)
+- 2015-07-08 — House amendment offered/reported by : Amendment (A047) offered by Mr. Polis.(consideration: CR H4913-4924; text: CR H4913-4923)
+- 2015-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-08 — Ms. Esty moved to recommit with instructions to the Committee on Education and the Workforce. (consideration: CR H4932-4934; text: CR H4932-4933)
+- 2015-07-08 — ORDER OF PROCEDURE - Pursuant to the provisions of H. Res. 347, it shall be in order to consider the further amendments printed in part A of House Report 114-192 as if such amendments had been printed in part B of House Report 114-29. Each such amendment may be offered only in the order printed in the report, by a Member designated in the report, shall be considered read, shall be debatable for the time specified in the report, equally divided and controlled by the proponent and the opponent, shall not be subject to amendment, and shall not be subject to a demand for division of the question.
+- 2015-07-08 — On agreeing to the Brownley (CA) amendment (A039) Failed by recorded vote: 191 - 239 (Roll no. 415). (consideration: CR H4928)
+- 2015-07-08 — On agreeing to the Carson (IN) amendment (A035) Failed by recorded vote: 186 - 245 (Roll no. 414). (consideration: CR H4927-4928)
+- 2015-07-08 — On agreeing to the Grayson amendment (A032) Failed by recorded vote: 199 - 228 (Roll no. 412). (consideration: CR H4926)
+- 2015-07-08 — On agreeing to the Hurd (TX) amendment (A031) Agreed to by recorded vote: 424 - 2 (Roll No. 411). (consideration: CR H4925-4926)
+- 2015-07-08 — On agreeing to the Loebsack amendment (A040) Agreed to by recorded vote: 218 - 213 (Roll no. 416). (consideration: CR H4928-4929)
+- 2015-07-08 — On agreeing to the Polis amendment (A041) Failed by recorded vote: 205 - 224 (Roll no. 417). (consideration: CR H4929)
+- 2015-07-08 — On agreeing to the Rokita amendment (A044) Agreed to by voice vote.
+- 2015-07-08 — On agreeing to the Salmon amendment (A046) Agreed to by recorded vote: 251 - 178 (Roll no. 420).
+- 2015-07-08 — On agreeing to the Scott (VA) amendment (A043) Failed by recorded vote: 187 - 244 (Roll no. 421). (consideration: CR H4932)
+- 2015-07-08 — On agreeing to the Thompson (MS) amendment (A042) Failed by recorded vote: 189 - 241 (Roll no. 418). (consideration: CR H4930)
+- 2015-07-08 — On agreeing to the Walker amendment (A045) Failed by recorded vote: 195 - 235 (Roll no. 419).
+- 2015-07-08 — On agreeing to the Wilson (FL) amendment (A033) Failed by recorded vote: 192 - 237 (Roll no. 413). (consideration: CR H4926-4927)
+- 2015-07-08 — On agreeing to the Zeldin amendment (A030) Agreed to by recorded vote: 373 - 57 (Roll no. 410). (consideration: CR H4924-4925)
+- 2015-07-08 — On motion to recommit with instructions Failed by recorded vote: 185 - 244 (Roll no. 422).
+- 2015-07-08 — On passage Passed by recorded vote: 218 - 213 (Roll no. 423).
+- 2015-07-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Salmon amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Salmon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walker amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-08 — Passed/agreed to in House: On passage Passed by recorded vote: 218 - 213 (Roll no. 423).
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — Roll call votes on amendments in House
+- 2015-07-08 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2015-07-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-07-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
+- 2015-07-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4934)
+- 2015-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4932)
+- 2015-07-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished buisness was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.

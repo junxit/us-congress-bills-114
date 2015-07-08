@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-440 amendatory instructions. 226 executed, 214 stated and not applied.
+445 amendatory instructions. 227 executed, 218 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -671,6 +671,15 @@ to guess them.
 |---|---|
 | Removed | `Head Start, Reading First, Early Reading First, Even Start, the Home Instruction Programs for Preschool Youngsters, the Parents as Teachers Program, and public preschool and other` |
 | Inserted | `other Federal, State, and local` |
+
+### 20 U.S.C. § 6319
+
+> in subsection (b), as redesignated by paragraph (3), by striking “Subsections (c) and (d)” and inserting “Subsection (a)”; and
+
+| | |
+|---|---|
+| Removed | `Subsections (c) and (d)` |
+| Inserted | `Subsection (a)` |
 
 ### 20 U.S.C. § 6321
 
@@ -2107,10 +2116,15 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6318` | strike | in subparagraph (D), by striking “, such as” and all that follows through “preschool programs”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6318` | amend | by amending subsection (c)(4)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6318` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6319` | repeal | The Act is amended by repealing section 1119 (20 U.S.C. 6319). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6319` | strike | by striking subsections (a), (b), (d), (i), (j), (k), and (l); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6319` | redesignate | by redesignating subsection (c) as subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6319` | redesignate | by redesignating subsections (e) through (h) as subsections (b) through (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6319` | redesignate | in subsection (a), as redesignated by paragraph (2), by striking “hired after the date of enactment of the No Child Left Behind Act of 2001 and”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6319` | strike | in the section heading, by striking “teachers and”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6320` | amend | Section 1120 (20 U.S.C. 6320) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6321` | redesignate | by striking subsection (a) and redesignating subsections (b), (c), and (d) as subsections (a), (b), and (c), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6322` | strike | in subsection (a), by striking “such as the Early Reading First program”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | strike | by striking “such as the Early Reading First program”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | add-at-end | by adding at the end the following new sentence: “Each local educational agency shall develop agreements with such Head Start agencies and other entities to carry out such activities.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6322` | strike | in the matter preceding paragraph (1), by striking “, such as the Early Reading First program,”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6322` | strike | in paragraphs (1) through (3), by striking “such as the Early Reading First program” each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6322` | strike | in paragraph (4), by striking “Early Reading First program staff,”; and | the bill quotes the text struck but describes what replaces it |
@@ -2218,8 +2232,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7703` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7703` | insert | by inserting at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7703` | amend | Paragraph (2) of section 8003(c) (20 U.S.C. 7703(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7703` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7703` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7703` | amend | Section 8003(e) (20 U.S.C. 7703(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7703` | strike | Section 8003 (20 U.S.C. 7703) is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 8004(e)(9) is amended by striking “Bureau of Indian Affairs” both places such term appears and inserting “Bureau of Indian Education”. | the bill names no machine-readable US Code section |
 | `20 U.S.C. § 7705` | strike | Section 8005(b) (20 U.S.C. 7705(b)) is amended in the matter preceding paragraph (1) by striking “and shall contain such information,”. | the bill quotes the text struck but describes what replaces it |
