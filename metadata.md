@@ -1,7 +1,7 @@
 ---
 measure: S. 1359
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1359
@@ -16,8 +16,9 @@ E-Warranty Act of 2015
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
+- Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
@@ -32,3 +33,11 @@ E-Warranty Act of 2015
 - 2015-07-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-77.
 - 2015-07-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-77.
 - 2015-07-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.
+- 2015-07-09 — Amendment SA 2214 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2214 proposed by Senator McConnell for Senator Fischer. (consideration: CR S4983; text: CR S4983) To improve the bill.
+- 2015-07-09 — Measure laid before Senate by unanimous consent.
+- 2015-07-09 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4983-4984; text as passed Senate: CR S4983-4984)
+- 2015-07-09 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S4983-4984; text as passed Senate: CR S4983-4984)
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2214 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2214 proposed by Senator McConnell for Senator Fischer.(consideration: CR S4983; text: CR S4983)
+- 2015-07-09 — Senate amendment submitted
