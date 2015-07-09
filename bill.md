@@ -1,0 +1,24 @@
+---
+legis-num: S. 1746
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1746
+
+> To require the Office of Personnel Management to provide complimentary, comprehensive identity protection coverage to all individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies.
+
+## § 1. Short title
+
+This Act may be cited as the “Reducing the Effects of the Cyberattack on OPM Victims Emergency Response Act of 2015” or the “RECOVER Act”.
+
+## § 2. Identity protection coverage for individuals affected by Federal agency data breaches
+
+- **(a)** *Definition* In this section, the term affected individual means any individual whose personally identifiable information was compromised during—
+  - **(1)** the data breach of personnel records of current and former Federal employees, at a network maintained by the Department of the Interior, that was announced by the Office of Personnel Management on June 4, 2015; or
+  - **(2)** the data breach of systems of the Office of Personnel Management containing information related to the background investigations of current, former, and prospective Federal employees, and of other individuals.
+- **(b)** *Identity protection coverage* The Office of Personnel Management shall provide to each affected individual complimentary identity protection coverage that—
+  - **(1)** is not less comprehensive than the complimentary identify protection coverage that the Office provided to affected individuals before the date of enactment of this Act;
+  - **(2)** is effective for the remainder of the life of the individual; and
+  - **(3)** includes not less than $5,000,000 in identity theft insurance.
