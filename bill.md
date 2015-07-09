@@ -118,6 +118,6 @@ This Act may be cited as the “Integrated Public Alert and Warning System Moder
       - **(ii)** of the Federal Communications Commission; or
       - **(iii)** provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
     - **(B)** to provide the Secretary of Homeland Security with authority to require any action by the Department of Commerce, the Federal Communications Commission, or any nongovernmental entity;
-    - **(C)** to apply to, or to provide the Administrator of the Federal Emergency Management Agency with authority over, any participating commercial mobile service provider; or
-    - **(D)** to alter in any way the wireless emergency alerts service established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.) or any related orders issued by the Federal Communications Commission after October 13, 2006.2006; or
+    - **(C)** to apply to, or to provide the Administrator of the Federal Emergency Management Agency with authority over, any participating commercial mobile service provider;
+    - **(D)** to alter in any way the wireless emergency alerts service established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.) or any related orders issued by the Federal Communications Commission after October 13, 2006; or
     - **(E)** to provide the Federal Emergency Management Agency with authority to require a State or local jurisdiction to use the integrated public alert and warning system of the United States.
