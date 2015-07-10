@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6
@@ -254,6 +254,12 @@ version: Reported in House
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2015-07-10 — [House 114-1-431](votes/house-114-1-0431.md) — On Agreeing to the Amendment — **Failed** (141–281)
+- 2015-07-10 — [House 114-1-432](votes/house-114-1-0432.md) — On Agreeing to the Amendment — **Failed** (176–245)
+- 2015-07-10 — [House 114-1-433](votes/house-114-1-0433.md) — On Passage — **Passed** (344–77)
+
 ## Actions
 
 - 2015-05-19 — Committee Consideration and Mark-up Session Held.
@@ -269,3 +275,80 @@ version: Reported in House
 - 2015-07-07 — Placed on the Union Calendar, Calendar No. 142.
 - 2015-07-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-190, Part I.
 - 2015-07-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-190, Part I.
+- 2015-07-08 — Rules Committee Resolution H. Res. 350 Reported to House. Rule provides for consideration of H.R. 6 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2015-07-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 6 as unfinished business.
+- 2015-07-09 — Considered under the provisions of rule H. Res. 350. (consideration: CR H5008-5016)
+- 2015-07-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 6.
+- 2015-07-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 350 and Rule XVIII.
+- 2015-07-09 — Mr. Upton moved that the Committee now rise.
+- 2015-07-09 — On motion that the Committee now rise. Agreed to by voice vote.
+- 2015-07-09 — Rule H. Res. 350 passed House.
+- 2015-07-09 — Rule provides for consideration of H.R. 6 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2015-07-09 — The Speaker designated the Honorable Cresent Hardy to act as Chairman of the Committee.
+- 2015-07-10 — Amendment (A001) offered by Mr. Brat. (consideration: CR H5069-5070, H5080-5081; text: CR H5069)
+- 2015-07-10 — Amendment (A002) offered by Mr. Young (IN). (consideration: CR H5071-5072; text: CR H5071)
+- 2015-07-10 — Amendment (A003) offered by Ms. Lee. (consideration: CR H5072-5074, H5081; text: CR H5072)
+- 2015-07-10 — Amendment (A004) offered by Mr. Castro (TX). (consideration: CR H5074; text: CR H5074)
+- 2015-07-10 — Amendment (A005) offered by Ms. Slaughter. (consideration: CR H5074-5076; text: CR H5074)
+- 2015-07-10 — Amendment (A006) offered by Mr. Fitzpatrick. (consideration: CR H5076-5077; text: CR H5076)
+- 2015-07-10 — Amendment (A007) offered by Mr. Polis. (consideration: CR H5077-5078; text: CR H5077)
+- 2015-07-10 — Amendment (A008) offered by Ms. Jackson Lee. (consideration: CR H5078-5080; text: CR H5078)
+- 2015-07-10 — Amendment agreed to Committee of the Whole
+- 2015-07-10 — Amendment agreed to Committee of the Whole
+- 2015-07-10 — Amendment agreed to Committee of the Whole
+- 2015-07-10 — Amendment agreed to Committee of the Whole
+- 2015-07-10 — Amendment agreed to Committee of the Whole
+- 2015-07-10 — Amendment failed in Committee of the Whole
+- 2015-07-10 — Amendment failed in Committee of the Whole
+- 2015-07-10 — By unanimous consent, the Polis amendment was withdrawn. (consideration: CR H5078)
+- 2015-07-10 — Considered as unfinished business. (consideration: CR H5035-5082)
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Brat amendment No. 1.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 4.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 6.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 8.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 3.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 7.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Slaughter amendment No. 5.
+- 2015-07-10 — DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Young (IN) amendment No. 2.
+- 2015-07-10 — House amendment agreed to: On agreeing to the Castro (TX) amendment (A004) Agreed to by voice vote.
+- 2015-07-10 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A006) Agreed to by voice vote.
+- 2015-07-10 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A008) Agreed to by voice vote.
+- 2015-07-10 — House amendment agreed to: On agreeing to the Slaughter amendment (A005) Agreed to by voice vote.
+- 2015-07-10 — House amendment agreed to: On agreeing to the Young (IN) amendment (A002) Agreed to by voice vote.
+- 2015-07-10 — House amendment not agreed to: On agreeing to the Brat amendment (A001) Failed by recorded vote: 141 - 281 (Roll no. 431).
+- 2015-07-10 — House amendment not agreed to: On agreeing to the Lee amendment (A003) Failed by recorded vote: 176 - 245 (Roll no. 432).
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered
+- 2015-07-10 — House amendment offered/reported by : Amendment (A001) offered by Mr. Brat.(consideration: CR H5069-5070, H5080-5081; text: CR H5069)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A002) offered by Mr. Young (IN).(consideration: CR H5071-5072; text: CR H5071)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A003) offered by Ms. Lee.(consideration: CR H5072-5074, H5081; text: CR H5072)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A004) offered by Mr. Castro (TX).(consideration: CR H5074; text: CR H5074)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A005) offered by Ms. Slaughter.(consideration: CR H5074-5076; text: CR H5074)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A006) offered by Mr. Fitzpatrick.(consideration: CR H5076-5077; text: CR H5076)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A007) offered by Mr. Polis.(consideration: CR H5077-5078; text: CR H5077)
+- 2015-07-10 — House amendment offered/reported by : Amendment (A008) offered by Ms. Jackson Lee.(consideration: CR H5078-5080; text: CR H5078)
+- 2015-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-10 — On agreeing to the Brat amendment (A001) Failed by recorded vote: 141 - 281 (Roll no. 431).
+- 2015-07-10 — On agreeing to the Castro (TX) amendment (A004) Agreed to by voice vote.
+- 2015-07-10 — On agreeing to the Fitzpatrick amendment (A006) Agreed to by voice vote.
+- 2015-07-10 — On agreeing to the Jackson Lee amendment (A008) Agreed to by voice vote.
+- 2015-07-10 — On agreeing to the Lee amendment (A003) Failed by recorded vote: 176 - 245 (Roll no. 432).
+- 2015-07-10 — On agreeing to the Slaughter amendment (A005) Agreed to by voice vote.
+- 2015-07-10 — On agreeing to the Young (IN) amendment (A002) Agreed to by voice vote.
+- 2015-07-10 — On passage Passed by recorded vote: 344 - 77 (Roll no. 433).
+- 2015-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brat amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Brat demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-10 — Passed/agreed to in House: On passage Passed by recorded vote: 344 - 77 (Roll no. 433).
+- 2015-07-10 — Roll call votes on amendments in House
+- 2015-07-10 — Roll call votes on amendments in House
+- 2015-07-10 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (text of bill as amended: CR H5035-5069)
+- 2015-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-07-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6.
+- 2015-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H5082)
+- 2015-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
