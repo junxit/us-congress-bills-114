@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5
@@ -473,3 +473,4 @@ Student Success Act
 - 2015-07-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4934)
 - 2015-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4932)
 - 2015-07-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished buisness was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2015-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
