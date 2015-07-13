@@ -1,7 +1,7 @@
 ---
 measure: S. 1359
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1359
@@ -21,9 +21,10 @@ E-Warranty Act of 2015
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ E-Warranty Act of 2015
 - 2015-07-09 — Senate amendment agreed to: Amendment SA 2214 agreed to in Senate by Unanimous Consent.
 - 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2214 proposed by Senator McConnell for Senator Fischer.(consideration: CR S4983; text: CR S4983)
 - 2015-07-09 — Senate amendment submitted
+- 2015-07-10 — Message on Senate action sent to the House.
+- 2015-07-13 — Received in the House.
+- 2015-07-13 — Referred to the House Committee on Energy and Commerce.
