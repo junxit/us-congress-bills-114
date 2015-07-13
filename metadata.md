@@ -1,7 +1,7 @@
 ---
 measure: S. 1359
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1359
@@ -26,6 +26,10 @@ E-Warranty Act of 2015
 - Senate — Commerce, Science, and Transportation Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2015-09-08 — [House 114-1-490](votes/house-114-1-0490.md) — On Motion to Suspend the Rules and Pass — **Passed** (388–2)
+
 ## Actions
 
 - 2015-05-14 — Introduced in Senate
@@ -45,3 +49,18 @@ E-Warranty Act of 2015
 - 2015-07-10 — Message on Senate action sent to the House.
 - 2015-07-13 — Received in the House.
 - 2015-07-13 — Referred to the House Committee on Energy and Commerce.
+- 2015-07-17 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2015-09-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-09-08 — Considered as unfinished business. (consideration: CR H5805-5806)
+- 2015-09-08 — Considered under suspension of the rules. (consideration: CR H5804-5805)
+- 2015-09-08 — DEBATE - The House proceeded with forty minutes of debate on S. 1359.
+- 2015-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-08 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2015-09-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 2 (Roll no. 490). (text: CR H5804)
+- 2015-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 2 (Roll no. 490).(text: CR H5804)
+- 2015-09-15 — Presented to President.
+- 2015-09-15 — Presented to President.
+- 2015-09-24 — Became Public Law No: 114-51.
+- 2015-09-24 — Became Public Law No: 114-51.
+- 2015-09-24 — Signed by President.
+- 2015-09-24 — Signed by President.
