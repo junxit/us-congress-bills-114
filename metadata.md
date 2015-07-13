@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2647
@@ -32,10 +32,11 @@ Emergency Wildfire and Forest Management Act of 2016
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (2)
 
@@ -114,3 +115,4 @@ Emergency Wildfire and Forest Management Act of 2016
 - 2015-07-09 — The previous question was ordered pursuant to the rule. (consideration: CR H5006)
 - 2015-07-09 — The title of the measure was amended. Agreed to without objection.
 - 2015-07-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and which further proceedings had been postponed.
+- 2015-07-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
