@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6
@@ -249,10 +249,11 @@ version: Engrossed in House
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Duckworth, Tammy [D-IL-8] (D000622)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -352,3 +353,4 @@ version: Engrossed in House
 - 2015-07-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6.
 - 2015-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H5082)
 - 2015-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-07-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
