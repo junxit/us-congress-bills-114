@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 208
 
-> To require the Administrator of the Small Business Administration to establish a program to make loans to certain businesses, homeowners, and renters affected by Superstorm Sandy.
+> To improve the disaster assistance programs of the Small Business Administration.
 
 ## § 1. Short title
 
