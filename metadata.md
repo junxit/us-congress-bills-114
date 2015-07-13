@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2670
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2670
@@ -38,3 +38,9 @@ Microloan Modernization Act of 2015
 - 2015-06-25 — Placed on the Union Calendar, Calendar No. 140.
 - 2015-06-25 — Reported by the Committee on Small Business. H. Rept. 114-188.
 - 2015-06-25 — Reported by the Committee on Small Business. H. Rept. 114-188.
+- 2015-07-13 — Considered under suspension of the rules. (consideration: CR H5099-5101)
+- 2015-07-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2670.
+- 2015-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-13 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2015-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5099)
+- 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5099)

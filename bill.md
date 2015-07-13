@@ -43,7 +43,7 @@ Not later than 120 days after the date of enactment of this Act, the Comptroller
 
 - **(1)** The operations (including services provided, structure, size, and area of operation) of a representative sample of—
   - **(A)** intermediaries that are eligible for participation in the microloan program under section 7(m) of the Small Business Act and that do participate; and
-  - **(B)** intermediaries (including those operated for profit, operated as non-profits, and those affiliated with a United States institution of higher learning) that are so eligible and that do not participate.
+  - **(B)** intermediaries (including those operated for profit, operated as nonprofits, and those affiliated with a United States institution of higher learning) that are so eligible and that do not participate.
 - **(2)** The reasons why intermediaries described in paragraph (1)(B) choose not to participate.
 - **(3)** Recommendations on how to encourage increased participation in the microloan program by intermediaries described in paragraph (1)(B).
 - **(4)** Recommendations on how to decrease the costs associated with participation in the microloan program for eligible intermediaries.
