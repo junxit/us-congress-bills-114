@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2499
@@ -29,6 +29,10 @@ Veterans Entrepreneurship Act of 2015
 
 - House — Small Business Committee
 
+## Recorded votes (1)
+
+- 2015-07-13 — [House 114-1-434](votes/house-114-1-0434.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–1)
+
 ## Actions
 
 - 2015-05-21 — Introduced in House
@@ -39,3 +43,11 @@ Veterans Entrepreneurship Act of 2015
 - 2015-06-25 — Placed on the Union Calendar, Calendar No. 139.
 - 2015-06-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-187.
 - 2015-06-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-187.
+- 2015-07-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-13 — Considered as unfinished business. (consideration: CR H5104-5105)
+- 2015-07-13 — Considered under suspension of the rules. (consideration: CR H5101-5102)
+- 2015-07-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2499.
+- 2015-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-13 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
+- 2015-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 434). (text: CR H5101)
+- 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 434).(text: CR H5101)
