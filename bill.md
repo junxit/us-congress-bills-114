@@ -1,0 +1,31 @@
+---
+legis-num: S. 1749
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1749
+
+> To amend the Internal Revenue Code of 1986 to allow allocation of certain renewable energy tax credits to Indian tribes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal Tax Incentive for Renewable Energy Act of 2015”.
+
+## § 2. Allocation of renewable energy tax credits to Indian tribes
+
+- **(a)** *In general* Subsection (a) of section 48 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(6)** *Allocation of credit to Indian tribes*
+  >   - **(A)** *Election to allocate*
+  >     - **(i)** *In general* In the case of an Indian tribe, any portion of the credit determined under this subsection for the taxable year may, at the election of such tribe, be transferred to another taxpayer.
+  >     - **(ii)** *Form and effect of election* An election under clause (i) for any taxable year shall—
+  >       - **(I)** specify the TIN of each taxpayer to whom credit is allocated,
+  >       - **(II)** specify the percentage of the credit determined under this subsection to be allocated to each such taxpayer, and
+  >       - **(III)** not take effect unless the Indian tribe designates the transfer as such in a written notice sent to such taxpayer.
+  >   - **(B)** *Allocation to other taxpayers* The amount of credit transferred to any taxpayer under subparagraph (A)—
+  >     - **(i)** shall not be included in the amount determined under this subsection with respect to the Indian tribe for the taxable year, and
+  >     - **(ii)** shall be included in the amount determined under this subsection for the taxable year of such taxpayer ending on or after the date on which the taxpayer receives the written designation under subparagraph (A)(ii)(III).
+  >   - **(C)** *Definition of Indian tribe* For purposes of this paragraph, the term Indian tribe has the meaning given such term by section 45A(c)(6).
+
+- **(b)** *Effective date* The amendment made by this section shall apply to facilities placed in service on or after the date of enactment of this Act.
