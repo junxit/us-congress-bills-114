@@ -1,0 +1,16 @@
+---
+legis-num: S. 1761
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1761
+
+> To take certain Federal land located in Lassen County, California, into trust for the benefit of the Susanville Indian Rancheria, and for other purposes.
+
+## § 1. Land into trust for the Susanville Indian Rancheria
+
+- **(a)** *In general* The land described in subsection (b) is taken into trust for the benefit of the Susanville Indian Rancheria, subject to valid existing rights.
+- **(b)** *Land description* The land taken into trust under subsection (a) is the approximately 301 acres of Federal land under the administrative jurisdiction of the Bureau of Land Management identified as “Conveyance Boundary” on the map titled “Susanville Indian Rancheria Land Conveyance” and dated December 31, 2014.
+- **(c)** *Gaming* Class II gaming and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be allowed at any time on the land taken into trust under subsection (a).
