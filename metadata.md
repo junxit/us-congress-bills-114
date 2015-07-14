@@ -1,7 +1,7 @@
 ---
 measure: H.R. 387
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 387
@@ -25,9 +25,10 @@ Economic Development Through Tribal Land Exchange Act
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Economic Development Through Tribal Land Exchange Act
 - 2015-07-13 — Mr. Cook moved to suspend the rules and pass the bill.
 - 2015-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5103)
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5103)
+- 2015-07-14 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
