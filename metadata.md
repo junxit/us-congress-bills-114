@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1023
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1023
@@ -53,3 +53,4 @@ Small Business Investment Company Capital Act of 2015
 - 2015-07-13 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2015-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5095)
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5095)
+- 2015-07-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
