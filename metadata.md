@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2670
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2670
@@ -24,9 +24,10 @@ Microloan Modernization Act of 2015
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Microloan Modernization Act of 2015
 - 2015-07-13 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2015-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5099)
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5099)
+- 2015-07-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
