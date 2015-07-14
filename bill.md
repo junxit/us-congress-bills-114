@@ -7,42 +7,39 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1408
 
-> To require certain Federal banking agencies to conduct a study of the appropriate capital requirements for mortgage servicing assets for nonsystemic banking institutions, and for other purposes.
+> To require certain Federal banking agencies to conduct a study of the appropriate capital requirements for mortgage servicing assets for banking institutions, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Mortgage Servicing Asset Capital Requirements Act of 2015”.
 
-## § 2. Community financial institution mortgage servicing asset capital requirements study
+## § 2. Study of mortgage servicing assets
 
-- **(a)** *Definitions* For purposes of this section:
-  - **(1)** *Banking institution* The term banking institution means an insured depository institution, Federal credit union, State credit union, bank holding company, or savings and loan holding company.
-  - **(2)** *Basel III capital requirements* The term Basel III capital requirements means the Global Regulatory Framework for More Resilient Banks and Banking Systems issued by the Basel Committee on Banking Supervision on December 16, 2010, as revised on June 1, 2011.
-  - **(3)** *Federal banking agencies* The term Federal banking agencies means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
-  - **(4)** *Mortgage servicing asset* The term mortgage servicing asset means those assets that result from contracts to service loans secured by real estate, where such loans are owned by third parties.
-  - **(5)** *NCUA capital requirements* The term NCUA capital requirements means the proposed rule of the National Credit Union Administration titled “Risk-Based Capital” (80 Fed. Reg. 4340; January 27, 2015).
-  - **(6)** *Nonsystemic banking institution* The term nonsystemic banking institution means any banking institution other than an institution identified by the Financial Stability Board as a “global systemically important bank”.
-  - **(7)** *Other definitions*
-    - **(A)** *Banking definitions* The terms bank holding company, insured depository institution, and savings and loan holding company have the meanings given such terms, respectively, under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
-    - **(B)** *Credit union definitions* The terms Federal credit union and State credit union have the meanings given such terms, respectively, under section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
+- **(a)** *Definitions* In this section:
+  - **(1)** *Banking institution* The term “banking institution” means an insured depository institution, Federal credit union, State credit union, bank holding company, or savings and loan holding company.
+  - **(2)** *Basel iii capital requirements* The term “Basel III capital requirements” means the Global Regulatory Framework for More Resilient Banks and Banking Systems issued by the Basel Committee on Banking Supervision on December 16, 2010, as revised on June 1, 2011.
+  - **(3)** *Federal banking agencies* The term “Federal banking agencies” means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
+  - **(4)** *Mortgage servicing assets* The term “mortgage servicing assets” means those assets that result from contracts to service loans secured by real estate, where such loans are owned by third parties.
+  - **(5)** *NCUA capital requirements* The term “NCUA capital requirements” means the proposed rule of the National Credit Union Administration entitled “Risk-Based Capital” (80 Fed. Reg. 4340 (January 27, 2015)).
+  - **(6)** *Other definitions*
+    - **(A)** *Banking definitions* The terms “bank holding company”, “insured depository institution”, and “savings and loan holding company” have the meanings given those terms in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+    - **(B)** *Credit union definitions* The terms “Federal credit union” and “State credit union” have the meanings given those terms in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
 - **(b)** *Study of the appropriate capital for mortgage servicing assets*
-  - **(1)** *In general* The Federal banking agencies shall, jointly, conduct a study of the appropriate capital requirements for mortgage servicing assets for nonsystemic banking institutions.
-  - **(2)** *Issues to be studied* The study required by this subsection shall include, with a specific focus on nonsystemic banking institutions—
+  - **(1)** *In general* The Federal banking agencies shall jointly conduct a study of the appropriate capital requirements for mortgage servicing assets for banking institutions.
+  - **(2)** *Issues to be studied* The study required under paragraph (1) shall include, with a specific focus on banking institutions—
     - **(A)** the risk to banking institutions of holding mortgage servicing assets;
-    - **(B)** the history of the market for mortgage servicing assets, including particularly the market for such assets in the period of the financial crisis;
-    - **(C)** the ability of banking institutions to establish a value for their mortgage servicing assets through periodic sales or other means;
-    - **(D)** regulatory approaches to mortgage servicing assets in addition to capital requirements that could be used to address concerns about the value of and ability to sell mortgage servicing assets;
-    - **(E)** the impact of imposing the Basel III capital requirements and the NCUA capital requirements on nonsystemic banking institutions on their ability to compete in the mortgage servicing business, including the need for economies of scale to compete in that business, and on their ability to provide service to consumers to whom they have made a mortgage loan;
+    - **(B)** the history of the market for mortgage servicing assets, including in particular the market for those assets in the period of the financial crisis;
+    - **(C)** the ability of banking institutions to establish a value for mortgage servicing assets of the institution through periodic sales or other means;
+    - **(D)** regulatory approaches to mortgage servicing assets and capital requirements that may be used to address concerns about the value of and ability to sell mortgage servicing assets;
+    - **(E)** the impact of imposing the Basel III capital requirements and the NCUA capital requirements on banking institutions on the ability of those institutions—
+      - **(i)** to compete in the mortgage servicing business, including the need for economies of scale to compete in that business; and
+      - **(ii)** to provide service to consumers to whom the institutions have made mortgage loans;
     - **(F)** an analysis of what the mortgage servicing marketplace would look like if the Basel III capital requirements and the NCUA capital requirements on mortgage servicing assets—
       - **(i)** were fully implemented; and
       - **(ii)** applied to both banking institutions and nondepository residential mortgage loan servicers;
     - **(G)** the significance of problems with mortgage servicing assets, if any, in banking institution failures and problem banking institutions, including specifically identifying failed banking institutions where mortgage servicing assets contributed to the failure; and
-    - **(H)** an analysis of the relevance of the Basel III capital requirements and the NCUA capital requirements on mortgage servicing assets to the banking systems of other significant developed countries.
-  - **(3)** *Report to Congress* Not later than the end of the 6-month period beginning on the date of the enactment of this Act, the Federal banking agencies shall issue a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing—
-    - **(A)** the results of the study required under paragraph (1); and
-    - **(B)** any analysis on the specific issue of mortgage servicing assets undertaken by the Federal banking agencies prior to finalizing regulations implementing the Basel III capital requirements and the NCUA capital requirements.
-- **(c)** *Delay of rulemaking*
-  - **(1)** *Rules on mortgage servicing assets* Notwithstanding any other provision of law, no regulation to implement the Basel III capital requirements or the NCUA capital requirements with respect to mortgage servicing assets for nonsystemic banking institutions shall take effect before the end of the 3-month period beginning on the date the report is issued under subsection (b)(3).
-  - **(2)** *Final rule requirements* Before any final rule is issued by a Federal banking agency with respect to capital requirements on mortgage servicing assets for nonsystemic banking institutions, the Federal banking agency shall—
-    - **(A)** if the related proposed rule was issued before the date on which the report is issued under subsection (b)(3), issue a new proposed rule for public comment; and
-    - **(B)** consider regulatory approaches to mortgage servicing assets that could address concerns about the value of and ability to sell mortgage servicing assets.
+    - **(H)** an analysis of the relevance of the Basel III capital requirements and the NCUA capital requirements on mortgage servicing assets to the banking systems of other significantly developed countries.
+  - **(3)** *Report to congress* Not later than 180 days after the date of enactment of this Act, the Federal banking agencies shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing—
+    - **(A)** the results of the study required under paragraph (1);
+    - **(B)** any analysis on the specific issue of mortgage servicing assets undertaken by the Federal banking agencies before finalizing regulations implementing the Basel III capital requirements and the NCUA capital requirements; and
+    - **(C)** any recommendations for legislative or regulatory actions that would address concerns about the value of and ability to sell and the ability of banking institutions to hold mortgage servicing assets.

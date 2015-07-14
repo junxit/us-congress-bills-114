@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1408
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1408
@@ -16,9 +16,10 @@ Mortgage Servicing Asset Capital Requirements Act of 2015
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Hill, J. French [R-AR-2] (H001072)
 
 ## Committees (1)
 
@@ -29,3 +30,13 @@ Mortgage Servicing Asset Capital Requirements Act of 2015
 - 2015-03-17 — Introduced in House
 - 2015-03-17 — Introduced in House
 - 2015-03-17 — Referred to the House Committee on Financial Services.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-26 — Committee Consideration and Mark-up Session Held.
+- 2015-03-26 — Ordered to be Reported by the Yeas and Nays: 49 - 9.
+- 2015-07-14 — Considered under suspension of the rules. (consideration: CR H5137-5140)
+- 2015-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1408.
+- 2015-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill, as amended.
+- 2015-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5137-5138)
+- 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5137-5138)
+- 2015-07-14 — The title of the measure was amended. Agreed to without objection.
