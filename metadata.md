@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 756
@@ -37,3 +37,5 @@ Syrian War Crimes Accountability Act of 2015
 - 2015-06-11 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2015-06-11 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
+- 2015-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5088-5089; text as passed Senate: CR S5088-5089)
+- 2015-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5088-5089; text as passed Senate: CR S5088-5089)
