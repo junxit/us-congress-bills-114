@@ -1,7 +1,7 @@
 ---
 measure: H.R. 208
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 208
@@ -24,9 +24,10 @@ RISE After Disaster Act of 2015
 - Rep. Crowley, Joseph [D-NY-14] (C001038)
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ RISE After Disaster Act of 2015
 - 2015-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5096-5097)
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5096-5097)
 - 2015-07-13 — The title of the measure was amended. Agreed to without objection.
+- 2015-07-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
