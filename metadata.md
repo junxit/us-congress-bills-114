@@ -1,7 +1,7 @@
 ---
 measure: S. 1300
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1300
@@ -16,7 +16,7 @@ Adoptive Family Relief Act
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (19)
+## Cosponsors (21)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -37,6 +37,8 @@ Adoptive Family Relief Act
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -50,3 +52,5 @@ Adoptive Family Relief Act
 - 2015-07-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-07-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
+- 2015-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5057; text as passed Senate: CR S5057)
+- 2015-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5057; text as passed Senate: CR S5057)
