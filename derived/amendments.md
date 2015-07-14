@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1847
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 2 executed, 8 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,18 +24,9 @@ to guess them.
 
 ## Executed
 
-### 7 U.S.C. § 24a
-
-> in the matter preceding subparagraph (A), by striking “all” and inserting “swap”; and
-
-| | |
-|---|---|
-| Removed | `all` |
-| Inserted | `swap` |
-
 ### 15 U.S.C. § 78m
 
-> in the matter preceding clause (i), by striking “all” and inserting “security-based swap”; and
+> Section 13(n)(5)(G) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(n)(5)(G)) is amended by striking “all” and inserting “security-based swap”.
 
 | | |
 |---|---|
@@ -52,10 +43,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a–1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 24a` | strike | in clause (ii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 24a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 24a` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78m` | replace | in subclause (II), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 78m` | replace | in subclause (III), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78m` | replace | by striking subparagraph (H) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 24a` | amend | Section 21(d) of the Commodity Exchange Act (7 U.S.C. 24a(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | amend | Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(n)(5)(H)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
