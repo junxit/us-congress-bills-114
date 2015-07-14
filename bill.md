@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 361
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 361
+
+> Expressing the sense of the House of Representatives concerning the need to explore emerging technologies that are mobile and capable of supplying high volumes of sterile, pathogenic-free water, and for other purposes.
+
+## Preamble
+
+- Whereas small communities are severely burdened when the Environmental Protection Agency closes their wastewater treatment plants;
+- Whereas flood waters can disable wastewater and drinking water facilities;
+- Whereas natural disasters, such as hurricanes, tornadoes, and earthquakes, can leave entire cities without power and, therefore, without potable water; and
+- Whereas due to the growing population of the United States, there are more pathogens entering the Nation’s water systems: Now, therefore, be it
+
+That it is the sense of the House of Representatives that in order to respond to situations in which water systems are closed as a result of Environmental Protection Agency induced shutdowns, disease outbreaks, epidemics, pandemics, or natural disasters, the Environmental Protection Agency and the Department of Homeland Security should explore emerging technologies that are mobile and capable of supplying affected communities and hospitals with high volumes of sterile, pathogenic-free water.
