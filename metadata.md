@@ -1,7 +1,7 @@
 ---
 measure: S. 1300
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1300
@@ -54,3 +54,18 @@ Adoptive Family Relief Act
 - 2015-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
 - 2015-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5057; text as passed Senate: CR S5057)
 - 2015-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5057; text as passed Senate: CR S5057)
+- 2015-07-15 — Held at the desk.
+- 2015-07-15 — Message on Senate action sent to the House.
+- 2015-07-15 — Received in the House.
+- 2015-10-06 — Considered under suspension of the rules. (consideration: CR H6815-6817)
+- 2015-10-06 — DEBATE - The House proceeded with forty minutes of debate on S. 1300.
+- 2015-10-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-06 — Mr. Franks (AZ) moved to suspend the rules and pass the bill.
+- 2015-10-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6815-6816)
+- 2015-10-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6815-6816)
+- 2015-10-08 — Presented to President.
+- 2015-10-08 — Presented to President.
+- 2015-10-16 — Became Public Law No: 114-70.
+- 2015-10-16 — Became Public Law No: 114-70.
+- 2015-10-16 — Signed by President.
+- 2015-10-16 — Signed by President.
