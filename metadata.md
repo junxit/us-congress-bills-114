@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1847
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1847
@@ -22,10 +22,11 @@ Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015
 - 2015-07-14 — Placed on the Union Calendar, Calendar No. 151.
 - 2015-07-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-202, Part I.
 - 2015-07-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-202, Part I.
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
