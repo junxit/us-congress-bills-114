@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1723
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1723
@@ -20,9 +20,10 @@ Small Company Simple Registration Act of 2015
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Small Company Simple Registration Act of 2015
 - 2015-07-14 — Placed on the Union Calendar, Calendar No. 150.
 - 2015-07-14 — Reported by the Committee on Financial Services. H. Rept. 114-201.
 - 2015-07-14 — Reported by the Committee on Financial Services. H. Rept. 114-201.
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
