@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2482
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2482
@@ -16,9 +16,10 @@ Preservation Enhancement and Savings Opportunity Act of 2015
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Preservation Enhancement and Savings Opportunity Act of 2015
 - 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2015-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5134)
 - 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5134)
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
