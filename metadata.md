@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 251
@@ -45,9 +45,10 @@ Homes for Heroes Act of 2015
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Homes for Heroes Act of 2015
 - 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2015-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 435). (text: CR H5130)
 - 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 435).(text: CR H5130)
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
