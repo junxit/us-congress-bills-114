@@ -1,0 +1,16 @@
+---
+legis-num: H. CON. RES. 63
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 63
+
+> To express the sense of the Congress that any Executive order that infringes on the powers and duties of the Congress under article I, section 8 of the Constitution, or that would require the expenditure of Federal funds not specifically appropriated for the purpose of the Executive order, is advisory only and has no force or effect unless enacted as law.
+
+## Preamble
+
+- Whereas some Executive orders have infringed on the prerogatives of the Congress and resulted in the expenditure of Federal funds not appropriated for the specific purposes of those Executive orders: Now, therefore, be it
+
+That it is the sense of the Congress that any Executive order issued by the President before, on, or after the date of the approval of this resolution that infringes on the powers and duties of the Congress under article I, section 8 of the Constitution, or that would require the expenditure of Federal funds not specifically appropriated for the purpose of the Executive order, is advisory only and has no force or effect unless enacted as law.
