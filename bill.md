@@ -1,0 +1,31 @@
+---
+legis-num: S. 1774
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1774
+
+> To amend title 11 of the United States Code to treat Puerto Rico as a State for purposes of chapter 9 of such title relating to the adjustment of debts of municipalities.
+
+## § 1. Short title
+
+This Act may be cited as the “Puerto Rico Chapter 9 Uniformity Act of 2015”.
+
+## § 2. Amendment
+
+Section 101(52) of title 11, United States Code, is amended to read as follows:
+
+> - **(52)** The term “State” includes Puerto Rico and, except for the purpose of defining who may be a debtor under chapter 9 of this title, includes the District of Columbia.
+
+## § 3. Effective date; application of amendment
+
+- **(a)** *Effective date* Except as provided in subsection (b), this Act and the amendment made by this Act shall take effect on the date of the enactment of this Act.
+- **(b)** *Application of amendment* The amendment made by this Act shall apply with respect to—
+  - **(1)** cases commenced under title 11 of the United States Code on or after the date of the enactment of this Act; and
+  - **(2)** debts, claims, and liens created before, on, or after such date.
+
+## § 4. Severability
+
+If any provision of this Act or any amendment made by this Act, or the application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, or the application of that provision or amendment to other persons or circumstances, shall not be affected.
