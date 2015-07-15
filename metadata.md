@@ -1,7 +1,7 @@
 ---
 measure: S. 984
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 984
@@ -42,3 +42,18 @@ Steve Gleason Act of 2015
 - 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-04-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-04-24 — Referred to the Subcommittee on Health.
+- 2015-04-27 — Referred to the Subcommittee on Health.
+- 2015-06-02 — Committee Consideration and Mark-up Session Held.
+- 2015-06-02 — Ordered to be Reported by Voice Vote.
+- 2015-06-24 — Reported by the Committee on Ways and Means. H. Rept. 114-178, Part I.
+- 2015-06-24 — Reported by the Committee on Ways and Means. H. Rept. 114-178, Part I.
+- 2015-07-15 — Committee on Energy and Commerce discharged.
+- 2015-07-15 — Committee on Energy and Commerce discharged.
+- 2015-07-15 — Considered under suspension of the rules. (consideration: CR H5214-5217)
+- 2015-07-15 — DEBATE - The House proceeded with forty minutes of debate on S. 984.
+- 2015-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-15 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
+- 2015-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5214)
+- 2015-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5214)
+- 2015-07-15 — Placed on the Union Calendar, Calendar No. 154.
