@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1408
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1408
@@ -21,9 +21,10 @@ Mortgage Servicing Asset Capital Requirements Act of 2015
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Mortgage Servicing Asset Capital Requirements Act of 2015
 - 2015-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5137-5138)
 - 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5137-5138)
 - 2015-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
