@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2997
@@ -22,9 +22,10 @@ Private Investment in Housing Act of 2015
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Private Investment in Housing Act of 2015
 - 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2015-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 28 (Roll no. 436). (text: CR H5135-5136)
 - 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 28 (Roll no. 436).(text: CR H5135-5136)
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
