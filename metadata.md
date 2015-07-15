@@ -1,7 +1,7 @@
 ---
 measure: H.R. 432
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 432
@@ -28,9 +28,10 @@ SBIC Advisers Relief Act of 2015
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ SBIC Advisers Relief Act of 2015
 - 2015-07-14 — Placed on the Union Calendar, Calendar No. 148.
 - 2015-07-14 — Reported by the Committee on Financial Services. H. Rept. 114-199.
 - 2015-07-14 — Reported by the Committee on Financial Services. H. Rept. 114-199.
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
