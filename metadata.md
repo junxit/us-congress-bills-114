@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 756
@@ -25,9 +25,10 @@ Syrian War Crimes Accountability Act of 2015
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Syrian War Crimes Accountability Act of 2015
 - 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
 - 2015-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5088-5089; text as passed Senate: CR S5088-5089)
 - 2015-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5088-5089; text as passed Senate: CR S5088-5089)
+- 2015-07-15 — Message on Senate action sent to the House.
+- 2015-07-15 — Received in the House.
+- 2015-07-15 — Referred to the House Committee on Foreign Affairs.
