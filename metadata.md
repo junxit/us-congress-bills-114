@@ -1,7 +1,7 @@
 ---
 measure: S. 984
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 984
@@ -57,3 +57,9 @@ Steve Gleason Act of 2015
 - 2015-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5214)
 - 2015-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5214)
 - 2015-07-15 — Placed on the Union Calendar, Calendar No. 154.
+- 2015-07-22 — Presented to President.
+- 2015-07-22 — Presented to President.
+- 2015-07-30 — Became Public Law No: 114-40.
+- 2015-07-30 — Became Public Law No: 114-40.
+- 2015-07-30 — Signed by President.
+- 2015-07-30 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: S. 984
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
