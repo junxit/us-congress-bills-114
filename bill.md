@@ -1,0 +1,21 @@
+---
+legis-num: S. 1781
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1781
+
+> To amend title 23, United States Code, to modify a provision relating to the obligation and release of funds.
+
+## § 1. Obligation and release of funds
+
+Section 118(c)(2) of title 23, United States Code, is amended—
+
+- **(1)** in the matter preceding subparagraph (A), by striking “Any funds” and inserting the following:
+  > - **(A)** *In general* Any funds
+
+- **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately; and
+- **(3)** by adding at the end the following:
+  > - **(B)** *Same class of funds no longer authorized* If the same class of funds described in subparagraph (A)(i) is no longer authorized in the most recent authorizing law, the funds may be credited to a similar class of funds, as determined by the Secretary.
