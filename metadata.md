@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1047
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1047
@@ -22,9 +22,10 @@ Housing Assistance Efficiency Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Housing Assistance Efficiency Act
 - 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2015-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5132)
 - 2015-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5132)
+- 2015-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
