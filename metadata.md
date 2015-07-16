@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2722
@@ -356,3 +356,14 @@ Breast Cancer Awareness Commemorative Coin Act
 - 2015-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 9, 1 Present (Roll no. 442).
 - 2015-07-15 — UNANIMOUS CONSENT - Mr. Luetkemeyer asked unanimous consent that the text of H.R. 2722, as proposed to be passed under suspension of the rules, be modified by the amendment at the desk. Agreed to without objection.
 - 2015-07-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2016-04-19 — Passed Senate without amendment by Unanimous Consent.
+- 2016-04-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-04-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S2202)
+- 2016-04-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S2202)
+- 2016-04-20 — Message on Senate action sent to the House.
+- 2016-04-20 — Presented to President.
+- 2016-04-20 — Presented to President.
+- 2016-04-29 — Became Public Law No: 114-148.
+- 2016-04-29 — Became Public Law No: 114-148.
+- 2016-04-29 — Signed by President.
+- 2016-04-29 — Signed by President.
