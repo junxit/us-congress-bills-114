@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1599
@@ -28,3 +28,7 @@ Criminal Antitrust Anti-Retaliation Act of 2015
 
 - 2015-06-17 — Introduced in Senate
 - 2015-06-17 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S4252)
+- 2015-07-16 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-07-16 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2015-07-16 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2015-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.
