@@ -24,7 +24,7 @@ This Act may be cited as the “Presidential Allowance Modernization Act”.
   >     - **(A)** commence on the day after the individual becomes a former President;
   >     - **(B)** terminate on the last day of the month before the former President dies; and
   >     - **(C)** be payable by the Secretary of the Treasury on a monthly basis.
-  >   - **(2)** The annuity and allowance under subsection (a) shall not be payable for any period during which the former President holds an appointive or elective position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
+  >   - **(2)** The annuity and allowance under subsection (a) shall not be payable for any period during which the former President holds an appointive or elective position in or under the Federal Government to which is attached a rate of pay other than a nominal rate.
   > - **(c)** Effective December 1 of each year, each annuity and allowance under subsection (a) having a commencement date that precedes such December 1 shall be increased by the same percentage as the percentage by which benefit amounts under title II of the Social Security Act (42 U.S.C. 401 and following) are increased, effective as of such December 1, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
   > - **(d)**
   >   - **(1)** Notwithstanding any other provision of this section, the monetary allowance payable under subsection (a)(2) to a former President for any 12-month period may not exceed the amount by which—
@@ -42,7 +42,9 @@ This Act may be cited as the “Presidential Allowance Modernization Act”.
     - **(A)** in the first sentence, by striking “$20,000 per annum,” and inserting “$100,000 per year (subject to paragraph (4)),”; and
     - **(B)** in the second sentence—
       - **(i)** in paragraph (2), by striking “and” at the end;
-      - **(ii)** in paragraph (3), by striking the period and inserting “; and”; and
+      - **(ii)** in paragraph (3)—
+        - **(I)** by striking “or the government of the District of Columbia”; and
+        - **(II)** by striking the period and inserting “; and”; and
       - **(iii)** by adding after paragraph (3) the following:
         > - **(4)** shall, after its commencement date, be increased at the same time that, and by the same percentage as the percentage by which, annuities of former Presidents are increased under subsection (c).
 
