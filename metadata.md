@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2722
@@ -16,7 +16,7 @@ Breast Cancer Awareness Commemorative Coin Act
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Cosponsors (306)
+## Cosponsors (309)
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
@@ -324,11 +324,19 @@ Breast Cancer Awareness Commemorative Coin Act
 - Rep. Becerra, Xavier [D-CA-34] (B000287)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
+
+## Recorded votes (1)
+
+- 2015-07-15 — [House 114-1-442](votes/house-114-1-0442.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (421–9)
 
 ## Actions
 
@@ -338,3 +346,13 @@ Breast Cancer Awareness Commemorative Coin Act
 - 2015-06-10 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-06-10 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-06-10 — Sponsor introductory remarks on measure. (CR E867)
+- 2015-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-14 — Considered under suspension of the rules. (consideration: CR H5127-5130; text of measure as introduced: CR H5127-5128)
+- 2015-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2722.
+- 2015-07-14 — Mr. Luetkemeyer moved to suspend the rules and pass the bill, as amended.
+- 2015-07-15 — Considered as unfinished business. (consideration: CR H5183-5184, H5213-5214; text of modification by amendment: CR H5183-5184)
+- 2015-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 9, 1 Present (Roll no. 442).
+- 2015-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 9, 1 Present (Roll no. 442).
+- 2015-07-15 — UNANIMOUS CONSENT - Mr. Luetkemeyer asked unanimous consent that the text of H.R. 2722, as proposed to be passed under suspension of the rules, be modified by the amendment at the desk. Agreed to without objection.
+- 2015-07-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
