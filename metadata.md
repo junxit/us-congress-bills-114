@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2395
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2395
@@ -30,3 +30,8 @@ Inspector General Empowerment Act of 2016
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Introduced in House
 - 2015-05-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-05-19 — Committee Consideration and Mark-up Session Held.
+- 2015-05-19 — Ordered to be Reported by Voice Vote.
+- 2015-07-16 — Placed on the Union Calendar, Calendar No. 158.
+- 2015-07-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-210.
+- 2015-07-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-210.
