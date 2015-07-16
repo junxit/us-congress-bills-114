@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1607
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1154 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter VI of chapter 11 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 703` | replace | Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended by striking the period at the end and inserting the following: “, of which, during fiscal years 2016 through 2… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
