@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1599
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,18 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 321` | add-at-end | Section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | add-at-end | Section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 341` | add-at-end | Chapter IV of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 341 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | strike | by striking “or” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 343-1` | replace | by striking the period at the end of paragraph (5) and inserting a comma; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | replace | by striking the section designation and enumerator and all that follows through “(a) Except” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | replace | in subsection (b), by striking “(b) Upon petition” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 343` | add-at-end | Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 341` | add-at-end | Chapter IV of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 341 et seq.), as amended by section 102 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | add-at-end | Section 403A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | add-at-end | Section 403A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343` | add-at-end | Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343), as amended by section 103 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 343-1` | add-at-end | Section 403A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)), as amended by section 104 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 350l` | insert | Chapter IV of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 423 of such Act (21 U.S.C. 350l) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7701` | add-at-end | The Plant Protection Act (7 U.S.C. 7701 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1621` | add-at-end | The Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 343` | add-at-end | Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 343-1` | strike | in paragraph (4), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 343-1` | replace | in paragraph (5), by striking the period and inserting a comma; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 343-1` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
