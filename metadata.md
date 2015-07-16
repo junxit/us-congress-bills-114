@@ -1,7 +1,7 @@
 ---
 measure: S. 1177
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1177
@@ -16,9 +16,347 @@ Every Student Succeeds Act
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
+## Cosponsors (306)
+
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (26)
+
+- 2015-07-08 — [Senate 114-1-222](votes/senate-114-1-0222.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2015-07-08 — [Senate 114-1-223](votes/senate-114-1-0223.md) — On the Amendment — **Amendment Rejected** (47–50)
+- 2015-07-08 — [Senate 114-1-224](votes/senate-114-1-0224.md) — On the Amendment — **Amendment Agreed to** (56–41)
+- 2015-07-08 — [Senate 114-1-225](votes/senate-114-1-0225.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2015-07-09 — [Senate 114-1-226](votes/senate-114-1-0226.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2015-07-09 — [Senate 114-1-227](votes/senate-114-1-0227.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2015-07-09 — [Senate 114-1-228](votes/senate-114-1-0228.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2015-07-13 — [Senate 114-1-231](votes/senate-114-1-0231.md) — On the Amendment — **Amendment Agreed to** (89–0)
+- 2015-07-14 — [Senate 114-1-232](votes/senate-114-1-0232.md) — On the Amendment — **Amendment Rejected** (45–51)
+- 2015-07-14 — [Senate 114-1-233](votes/senate-114-1-0233.md) — On the Amendment — **Amendment Agreed to** (56–40)
+- 2015-07-14 — [Senate 114-1-234](votes/senate-114-1-0234.md) — On the Amendment — **Amendment Agreed to** (97–0)
+- 2015-07-14 — [Senate 114-1-235](votes/senate-114-1-0235.md) — On the Amendment — **Amendment Rejected** (32–64)
+- 2015-07-14 — [Senate 114-1-236](votes/senate-114-1-0236.md) — On the Amendment — **Amendment Rejected** (52–45)
+- 2015-07-15 — [Senate 114-1-237](votes/senate-114-1-0237.md) — On the Cloture Motion — **Cloture Motion Agreed to** (86–12)
+- 2015-07-15 — [Senate 114-1-238](votes/senate-114-1-0238.md) — On the Amendment — **Amendment Rejected** (44–53)
+- 2015-07-15 — [Senate 114-1-239](votes/senate-114-1-0239.md) — On the Amendment — **Amendment Rejected** (58–39)
+- 2015-07-15 — [Senate 114-1-240](votes/senate-114-1-0240.md) — On the Amendment — **Amendment Rejected** (46–50)
+- 2015-07-15 — [Senate 114-1-241](votes/senate-114-1-0241.md) — On the Amendment — **Amendment Rejected** (43–54)
+- 2015-07-16 — [Senate 114-1-242](votes/senate-114-1-0242.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2015-07-16 — [Senate 114-1-243](votes/senate-114-1-0243.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2015-07-16 — [Senate 114-1-244](votes/senate-114-1-0244.md) — On the Amendment — **Amendment Agreed to** (68–30)
+- 2015-07-16 — [Senate 114-1-245](votes/senate-114-1-0245.md) — On the Amendment — **Amendment Agreed to** (59–39)
+- 2015-07-16 — [Senate 114-1-246](votes/senate-114-1-0246.md) — On the Amendment — **Amendment Agreed to** (53–44)
+- 2015-07-16 — [Senate 114-1-247](votes/senate-114-1-0247.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2015-07-16 — [Senate 114-1-248](votes/senate-114-1-0248.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–18)
+- 2015-07-16 — [Senate 114-1-249](votes/senate-114-1-0249.md) — On Passage of the Bill — **Bill Passed** (81–17)
 
 ## Actions
 
@@ -26,3 +364,591 @@ Every Student Succeeds Act
 - 2015-04-30 — Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Alexander. Without written report.
 - 2015-04-30 — Introduced in Senate
 - 2015-04-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 63. (Sponsor introductory remarks on measure: CR S2165-2166)
+- 2015-07-07 — Amendment SA 2078 proposed by Senator Alexander for Senator Rounds to Amendment SA 2089. (consideration: CR S4674, S4675; text: CR S4675) To require the Secretary of Education and the Secretary of the Interior to conduct a study regarding elementary and secondary education in rural or poverty areas of Indian country.
+- 2015-07-07 — Amendment SA 2079 proposed by Senator Alexander for Senator Fischer to Amendment SA 2089. (consideration: CR S4674-4675; text: CR S4675) To ensure local governance of education.
+- 2015-07-07 — Amendment SA 2085 proposed by Senator Murray for Senator Reed to Amendment SA 2089. (consideration: CR S4674, S4675; text: CR S4675) To amend the Elementary and Secondary Education Act of 1965 regarding school librarians and effective school library programs.
+- 2015-07-07 — Amendment SA 2086 proposed by Senator Murray for Senator Warner to Amendment SA 2089. (consideration: CR S4674, S4675-4677; text: CR S4677) To enable the use of certain State and local administrative funds for fiscal support teams.
+- 2015-07-07 — Amendment SA 2089 proposed by Senator Alexander. (consideration: CR S4669) In the nature of a substitute.
+- 2015-07-07 — Amendment SA 2094 proposed by Senator Toomey to Amendment SA 2089. (consideration: CR S4675, S4676-4677; text: CR S4676-4677) To ensure that States have policies or procedures that prohibit aiding or abetting of sexual abuse, and for other purposes.
+- 2015-07-07 — Amendment SA 2095 proposed by Senator Murray for Senator Peters to Amendment SA 2089. (consideration: CR S4674, S4675; text: CR S4675) To allow local educational agencies to use parent and family engagement funds for financial literacy activities.
+- 2015-07-07 — Measure laid before Senate by unanimous consent. (consideration: CR S4661-4677)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2078 proposed by Senator Alexander for Senator Rounds to Amendment SA 2089.(consideration: CR S4674, S4675; text: CR S4675)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2079 proposed by Senator Alexander for Senator Fischer to Amendment SA 2089.(consideration: CR S4674-4675; text: CR S4675)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2085 proposed by Senator Murray for Senator Reed to Amendment SA 2089.(consideration: CR S4674, S4675; text: CR S4675)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2086 proposed by Senator Murray for Senator Warner to Amendment SA 2089.(consideration: CR S4674, S4675-4677; text: CR S4677)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2089 proposed by Senator Alexander.(consideration: CR S4669)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2094 proposed by Senator Toomey to Amendment SA 2089.(consideration: CR S4675, S4676-4677; text: CR S4676-4677)
+- 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 2095 proposed by Senator Murray for Senator Peters to Amendment SA 2089.(consideration: CR S4674, S4675; text: CR S4675)
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-07 — Senate amendment submitted
+- 2015-07-08 — Amendment SA 2078 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Amendment SA 2085 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 222.
+- 2015-07-08 — Amendment SA 2086 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Amendment SA 2107 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 224.
+- 2015-07-08 — Amendment SA 2107 proposed by Senator Murray for Senator Tester to Amendment SA 2089. (consideration: CR S4827, S4830-4831; text: CR S4827) To restore sections of the Elementary and Secondary Education Act of 1965.
+- 2015-07-08 — Amendment SA 2109 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 223.
+- 2015-07-08 — Amendment SA 2109 proposed by Senator Murray for Senator Hirono to Amendment SA 2089. (consideration: CR S4809, S4827, S4830; text: CR S4827) To amend section 1111(b)(2)(B)(xi) to provide for additional disaggregation for local educational agencies with a total of not less than 1,000 Asian and Native Hawaiian or Pacific Islander students.
+- 2015-07-08 — Amendment SA 2115 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Amendment SA 2115 proposed by Senator Murray for Senator Bennet to Amendment SA 2089. (consideration: CR S4827, S4828, S4831; text: CR S4828) To provide for a study on increasing the effectiveness of existing services and programs intended to benefit children.
+- 2015-07-08 — Amendment SA 2124 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Amendment SA 2124 proposed by Senator Murray to Amendment SA 2089. (consideration: CR S4827, S4828, S4831; text: CR S4828) To require schools to collect and report data on interscholastic sports.
+- 2015-07-08 — Amendment SA 2139 proposed by Senator Alexander to Amendment SA 2089. (consideration: CR S4827, S4831) To allow States to let Federal funds for the education of disadvantaged children follow low-income children to the accredited or otherwise State-approved public school, private school, or supplemental educational services program they attend.
+- 2015-07-08 — Amendment SA 2139, under the order of 7/8/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 225.
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806, S4814, S4815, S4816)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806, S4814, S4816)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806, S4816)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806, S4828-4829)
+- 2015-07-08 — Considered by Senate. (consideration: CR S4806-4816, S4816-4831)
+- 2015-07-08 — Roll call votes on amendments in Senate: Amendment SA 2085 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 222.
+- 2015-07-08 — Roll call votes on amendments in Senate: Amendment SA 2107 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 224.
+- 2015-07-08 — Roll call votes on amendments in Senate: Amendment SA 2109 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 223.
+- 2015-07-08 — Roll call votes on amendments in Senate: Amendment SA 2139, under the order of 7/8/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 225.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2078 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2085 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 222.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2086 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2107 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 224.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2115 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Senate amendment agreed to: Amendment SA 2124 agreed to in Senate by Voice Vote.
+- 2015-07-08 — Senate amendment not agreed to: Amendment SA 2109 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 223.
+- 2015-07-08 — Senate amendment not agreed to: Amendment SA 2139, under the order of 7/8/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 225.
+- 2015-07-08 — Senate amendment proposed (on the floor): Amendment SA 2107 proposed by Senator Murray for Senator Tester to Amendment SA 2089.(consideration: CR S4827, S4830-4831; text: CR S4827)
+- 2015-07-08 — Senate amendment proposed (on the floor): Amendment SA 2109 proposed by Senator Murray for Senator Hirono to Amendment SA 2089.(consideration: CR S4809, S4827, S4830; text: CR S4827)
+- 2015-07-08 — Senate amendment proposed (on the floor): Amendment SA 2115 proposed by Senator Murray for Senator Bennet to Amendment SA 2089.(consideration: CR S4827, S4828, S4831; text: CR S4828)
+- 2015-07-08 — Senate amendment proposed (on the floor): Amendment SA 2124 proposed by Senator Murray to Amendment SA 2089.(consideration: CR S4827, S4828, S4831; text: CR S4828)
+- 2015-07-08 — Senate amendment proposed (on the floor): Amendment SA 2139 proposed by Senator Alexander to Amendment SA 2089.(consideration: CR S4827, S4831)
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-08 — Senate amendment submitted
+- 2015-07-09 — Amendment SA 2079 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2080 proposed by Senator Alexander for Senator Hatch to Amendment SA 2089. (consideration: CR S4923-4925, S4926; text: CR S4925) To establish a committee on student privacy policy.
+- 2015-07-09 — Amendment SA 2083 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2083 proposed by Senator Alexander for Senator Gardner to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) To enable local educational agencies to use funds under part A of title I for dual or concurrent enrollment programs at eligible schools.
+- 2015-07-09 — Amendment SA 2087 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2087 proposed by Senator Murray for Senator Feinstein to Amendment SA 2089. (consideration: CR S4906, S4912-4913, S4915; text: CR S4913) To provide for additional means of certifying children, youth, parents, and families as homeless.
+- 2015-07-09 — Amendment SA 2092 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2092 proposed by Senator Murray for Senator McCaskill to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) Enabling States, as a consortium, to use certain grant funds to voluntarily develop a process that allows teachers who are licensed or certified in a participating State to teach in other participating States.
+- 2015-07-09 — Amendment SA 2093 proposed by Senator Murray for Senator Franken to Amendment SA 2089. (consideration: CR S4925-4926; text: CR S4925) To end discrimination based on actual or perceived sexual orientation or gender identity in public schools.
+- 2015-07-09 — Amendment SA 2094 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 228.
+- 2015-07-09 — Amendment SA 2096 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2096 proposed by Senator Murray for Senator Kaine to Amendment SA 2089. (consideration: CR S4906, S4912, S4914-4915, S4915; text: CR S4912) To add career and technical education as a core academic subject.
+- 2015-07-09 — Amendment SA 2099 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 227.
+- 2015-07-09 — Amendment SA 2099 proposed by Senator Murray for Senator Brown to Amendment SA 2089. (consideration: CR S4906, S4912, S4913-4914; text: CR S4912) To amend part A of title IV of the Elementary and Secondary Education Act of 1965 to allow funds provided under such part to be used for a site resource coordinator.
+- 2015-07-09 — Amendment SA 2103 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2103 proposed by Senator Murray for Senator Manchin to Amendment SA 2089. (consideration: CR S4906, S4912, S4915; text: CR S4912) To enable local educational agencies to use funds under part A of title IV of the Elementary and Secondary Education Act of 1965 for programs and activities that promote volunteerism and community service.
+- 2015-07-09 — Amendment SA 2108 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2108 proposed by Senator Murray for Senator Gillibrand to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) To amend the program under part E of title II to ensure increased access to science, technology, engineering, and mathematics subject fields for underrepresented students, and for other purposes.
+- 2015-07-09 — Amendment SA 2110 proposed by Senator Daines to Amendment SA 2089. (consideration: CR S4906, S4909-4912, S4913; text: CR S4909-4910) To allow a State to submit a declaration of intent to the Secretary of Education to combine certain funds to improve the academic achievement of students.
+- 2015-07-09 — Amendment SA 2110, under the order of 7/9/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 226.
+- 2015-07-09 — Amendment SA 2118 proposed by Senator Murray for Senator Kaine to Amendment SA 2089. (consideration: CR S4925-4926; text: CR S4925-4926) To amend the State accountability system under section 1113(b)(3) regarding the measures used to ensure that students are ready to enter postsecondary education or the workforce without the need for postsecondary remediation.
+- 2015-07-09 — Amendment SA 2119 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2119 proposed by Senator Alexander for Senator Gardner to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) To include charter school representatives in the list of entities with whom a State and local educational agency shall consult in the development of plans under title I.
+- 2015-07-09 — Amendment SA 2120 proposed by Senator Murray for Senator Warren to Amendment SA 2089. (consideration: CR S4906, S4912, S4913; text: CR S4912) To amend section 1111(d) of the Elementary and Secondary Education Act of 1965 regarding the cross-tabulation of student data.
+- 2015-07-09 — Amendment SA 2121 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2121 proposed by Senator Alexander for Senator Heller to Amendment SA 2089. (consideration: CR S4906, S4912, S4915; text: CR S4912) To ensure timely and meaningful consultation between State educational agencies and Governors in the development of State plans under titles I and II and section 9302.
+- 2015-07-09 — Amendment SA 2131 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2131 proposed by Senator Murray for Senator Casey to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) To improve the bill relating to appropriate accommodations for children with disabilities.
+- 2015-07-09 — Amendment SA 2132 proposed by Senator Alexander for Senator Scott to Amendment SA 2089. (consideration: CR S4923-4925; text: CR S4924-4925) To expand opportunity by allowing Title I funds to follow low-income children.
+- 2015-07-09 — Amendment SA 2138 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Amendment SA 2138 proposed by Senator Murray for Senator Klobuchar to Amendment SA 2089. (consideration: CR S4922-4923; text: CR S4923) To amend the Elementary and Secondary Education Act of 1965 relating to improving student academic achievement in science, technology, engineering, and mathematics.
+- 2015-07-09 — Amendment SA 2147 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Amendment SA 2147 proposed by Senator Alexander for Senator Portman to Amendment SA 2089. (consideration: CR S4906, S4912, S4914, S4915; text: CR S4912) To promote recovery support services for students.
+- 2015-07-09 — Amendment SA 2161 proposed by Senator Alexander for Senator Kirk to Amendment SA 2089. (consideration: CR S4923-4925; text: CR S4924) To ensure that States measure and report on indicators of student access to critical educational resources and identify disparities in such resources, and for other purposes.
+- 2015-07-09 — Considered by Senate. (consideration: CR S4904)
+- 2015-07-09 — Considered by Senate. (consideration: CR S4904)
+- 2015-07-09 — Considered by Senate. (consideration: CR S4904, S4906-4907, S4908, S4914; text as modified: CR S4906-4907)
+- 2015-07-09 — Considered by Senate. (consideration: CR S4904, S4915)
+- 2015-07-09 — Considered by Senate. (consideration: CR S4904-4915, S4920-4926)
+- 2015-07-09 — Notwithstanding the adoption of amendment SA 2119, the amendment is modified by Unanimous Consent. (consideration: CR S4926)
+- 2015-07-09 — Roll call votes on amendments in Senate: Amendment SA 2094 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 228.
+- 2015-07-09 — Roll call votes on amendments in Senate: Amendment SA 2099 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 227.
+- 2015-07-09 — Roll call votes on amendments in Senate: Amendment SA 2110, under the order of 7/9/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 226.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2079 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2083 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2087 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2092 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2094 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 228.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2096 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2099 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 227.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2103 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2108 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2119 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2121 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2131 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2138 agreed to in Senate by Unanimous Consent.
+- 2015-07-09 — Senate amendment agreed to: Amendment SA 2147 agreed to in Senate by Voice Vote.
+- 2015-07-09 — Senate amendment not agreed to: Amendment SA 2110, under the order of 7/9/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 226.
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2080 proposed by Senator Alexander for Senator Hatch to Amendment SA 2089.(consideration: CR S4923-4925, S4926; text: CR S4925)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2083 proposed by Senator Alexander for Senator Gardner to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2087 proposed by Senator Murray for Senator Feinstein to Amendment SA 2089.(consideration: CR S4906, S4912-4913, S4915; text: CR S4913)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2092 proposed by Senator Murray for Senator McCaskill to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2093 proposed by Senator Murray for Senator Franken to Amendment SA 2089.(consideration: CR S4925-4926; text: CR S4925)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2096 proposed by Senator Murray for Senator Kaine to Amendment SA 2089.(consideration: CR S4906, S4912, S4914-4915, S4915; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2099 proposed by Senator Murray for Senator Brown to Amendment SA 2089.(consideration: CR S4906, S4912, S4913-4914; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2103 proposed by Senator Murray for Senator Manchin to Amendment SA 2089.(consideration: CR S4906, S4912, S4915; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2108 proposed by Senator Murray for Senator Gillibrand to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2110 proposed by Senator Daines to Amendment SA 2089.(consideration: CR S4906, S4909-4912, S4913; text: CR S4909-4910)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2118 proposed by Senator Murray for Senator Kaine to Amendment SA 2089.(consideration: CR S4925-4926; text: CR S4925-4926)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2119 proposed by Senator Alexander for Senator Gardner to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2120 proposed by Senator Murray for Senator Warren to Amendment SA 2089.(consideration: CR S4906, S4912, S4913; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2121 proposed by Senator Alexander for Senator Heller to Amendment SA 2089.(consideration: CR S4906, S4912, S4915; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2131 proposed by Senator Murray for Senator Casey to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2132 proposed by Senator Alexander for Senator Scott to Amendment SA 2089.(consideration: CR S4923-4925; text: CR S4924-4925)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2138 proposed by Senator Murray for Senator Klobuchar to Amendment SA 2089.(consideration: CR S4922-4923; text: CR S4923)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2147 proposed by Senator Alexander for Senator Portman to Amendment SA 2089.(consideration: CR S4906, S4912, S4914, S4915; text: CR S4912)
+- 2015-07-09 — Senate amendment proposed (on the floor): Amendment SA 2161 proposed by Senator Alexander for Senator Kirk to Amendment SA 2089.(consideration: CR S4923-4925; text: CR S4924)
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-09 — Senate amendment submitted
+- 2015-07-13 — Amendment SA 2080 agreed to in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 231.
+- 2015-07-13 — Amendment SA 2118 agreed to in Senate by Voice Vote.
+- 2015-07-13 — Cloture motion on amendment SA 2089 presented in Senate. (consideration: CR S5002; text: CR S5002)
+- 2015-07-13 — Cloture motion on the measure presented in Senate. (consideration: CR S5002; text: CR S5002)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994, S4997-4998, S4998)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994, S4998)
+- 2015-07-13 — Considered by Senate. (consideration: CR S4994-5002)
+- 2015-07-13 — Roll call votes on amendments in Senate: Amendment SA 2080 agreed to in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 231.
+- 2015-07-13 — Senate amendment agreed to: Amendment SA 2080 agreed to in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 231.
+- 2015-07-13 — Senate amendment agreed to: Amendment SA 2118 agreed to in Senate by Voice Vote.
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-13 — Senate amendment submitted
+- 2015-07-14 — Amendment SA 2093, under the order of 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 236.
+- 2015-07-14 — Amendment SA 2132, under the order 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 232.
+- 2015-07-14 — Amendment SA 2137 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Amendment SA 2137 proposed by Senator Alexander for Senator Portman to Amendment SA 2089. (consideration: CR S5033-5034, S5035; text: CR S5033-5034) To provide for early college high school and dual or concurrent enrollment opportunities.
+- 2015-07-14 — Amendment SA 2159 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Amendment SA 2159 proposed by Senator Bennet to Amendment SA 2089. (consideration: CR S5033, S5035; text: CR S5033) To amend title IV regarding family engagement in education programs.
+- 2015-07-14 — Amendment SA 2162 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 235.
+- 2015-07-14 — Amendment SA 2162 proposed by Senator Lee to Amendment SA 2089. (consideration: CR S5038-5039, S5045-5046; text: CR S5038) To amend the Elementary and Secondary Education Act of 1965 relating to parental notification and opt-out of assessments.
+- 2015-07-14 — Amendment SA 2169 agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 233.
+- 2015-07-14 — Amendment SA 2169 proposed by Senator Bennet for Senator Booker to Amendment SA 2089. (consideration: CR S5033, S5034-5035; text: CR S5033) To require a State's report card to include information on the graduation rates of homeless children and children in foster care.
+- 2015-07-14 — Amendment SA 2194 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 234.
+- 2015-07-14 — Amendment SA 2194 proposed by Senator Isakson to Amendment SA 2089. (consideration: CR S5039-5040, S5045; text: CR S5039) To require local educational agencies to inform parents of any State or local educational agency policy, procedure, or parental right regarding student participation in any mandated assessments for that school year.
+- 2015-07-14 — Amendment SA 2210 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Amendment SA 2210 proposed by Senator Bennet to Amendment SA 2089. (consideration: CR S5033, S5045; text: CR S5033) To require States to establish a limit on the aggregate amount of time spent on assessments.
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023, S5027-5033, S5034)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023, S5033; text: CR S5033)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023, S5040-5045, S5046-5047)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023, S5049-5057)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023-5035, S5035-5057, S5058-5059)
+- 2015-07-14 — Considered by Senate. (consideration: CR S5023; text: CR S5039)
+- 2015-07-14 — Roll call votes on amendments in Senate: Amendment SA 2093, under the order of 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 236.
+- 2015-07-14 — Roll call votes on amendments in Senate: Amendment SA 2132, under the order 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 232.
+- 2015-07-14 — Roll call votes on amendments in Senate: Amendment SA 2162 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 235.
+- 2015-07-14 — Roll call votes on amendments in Senate: Amendment SA 2169 agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 233.
+- 2015-07-14 — Roll call votes on amendments in Senate: Amendment SA 2194 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 234.
+- 2015-07-14 — Senate amendment agreed to: Amendment SA 2137 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Senate amendment agreed to: Amendment SA 2159 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Senate amendment agreed to: Amendment SA 2169 agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 233.
+- 2015-07-14 — Senate amendment agreed to: Amendment SA 2194 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 234.
+- 2015-07-14 — Senate amendment agreed to: Amendment SA 2210 agreed to in Senate by Voice Vote.
+- 2015-07-14 — Senate amendment not agreed to: Amendment SA 2093, under the order of 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 236.
+- 2015-07-14 — Senate amendment not agreed to: Amendment SA 2132, under the order 7/14/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 232.
+- 2015-07-14 — Senate amendment not agreed to: Amendment SA 2162 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 235.
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2137 proposed by Senator Alexander for Senator Portman to Amendment SA 2089.(consideration: CR S5033-5034, S5035; text: CR S5033-5034)
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2159 proposed by Senator Bennet to Amendment SA 2089.(consideration: CR S5033, S5035; text: CR S5033)
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2162 proposed by Senator Lee to Amendment SA 2089.(consideration: CR S5038-5039, S5045-5046; text: CR S5038)
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2169 proposed by Senator Bennet for Senator Booker to Amendment SA 2089.(consideration: CR S5033, S5034-5035; text: CR S5033)
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2194 proposed by Senator Isakson to Amendment SA 2089.(consideration: CR S5039-5040, S5045; text: CR S5039)
+- 2015-07-14 — Senate amendment proposed (on the floor): Amendment SA 2210 proposed by Senator Bennet to Amendment SA 2089.(consideration: CR S5033, S5045; text: CR S5033)
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-14 — Senate amendment submitted
+- 2015-07-15 — Amendment SA 2082 proposed by Senator Alexander for Senator Hatch to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5099) To amend the Elementary and Secondary Education Act of 1965 relating to early learning.
+- 2015-07-15 — Amendment SA 2100 proposed by Senator Murray for Senator Brown to Amendment SA 2089. (consideration: CR S5098-5104) To amend title V of the Elementary and Secondary Education Act of 1965 to establish a full-service community schools grant program.
+- 2015-07-15 — Amendment SA 2106 proposed by Senator Murray for Senator Warren to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5099) To amend title II of the Elementary and Secondary Education Act of 1965 to include specialized instructional support personnel in the literacy development of children.
+- 2015-07-15 — Amendment SA 2111 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2111 proposed by Senator Alexander for Senator McCain to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5094-5095) To express the sense of Congress that John Arthur "Jack" Johnson should receive a posthumous pardon for the racially-motivated conviction in 1913 that diminished the athletic, cultural, and historical significance of Jack Johnson and unduly tarnished his reputation.
+- 2015-07-15 — Amendment SA 2130 proposed by Senator Murray for Senator Schatz to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5102) To amend title I to support assessments of school facilities.
+- 2015-07-15 — Amendment SA 2141 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2141 proposed by Senator Murray for Senator Bennet to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5095) To provide for shared services strategies and models.
+- 2015-07-15 — Amendment SA 2144 proposed by Senator Alexander for Senator Wicker to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5102) To provide States and local educational agencies with resources on climate theory to promote improved science education.
+- 2015-07-15 — Amendment SA 2145 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2145 proposed by Senator Alexander for Senator Ayotte to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5095) To allow States to use State activity funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 for certain evidence-based mental health awareness programs.
+- 2015-07-15 — Amendment SA 2149 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2149 proposed by Senator Murray for Senator Udall to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5095) To allow the Bureau of Indian Education to apply for certain competitive grants under the Elementary and Secondary Education Act of 1965.
+- 2015-07-15 — Amendment SA 2150 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2150 proposed by Senator Murray for Senator Feinstein to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5095) To allow eligible entities to use funds provided under part A of title III of the Elementary and Secondary Education Act of 1965 for bilingual paraprofessionals and linguistically responsive materials.
+- 2015-07-15 — Amendment SA 2151 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5095)
+- 2015-07-15 — Amendment SA 2151 proposed by Senator Murray for Senator Carper to Amendment SA 2089. (consideration: CR S5094-5097) To amend part A of title II of the Elementary and Secondary Education Act of 1965 to improve preparation programs and strengthen support for principals and other school leaders.
+- 2015-07-15 — Amendment SA 2154 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2154 proposed by Senator Murray for Senator King to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5095-5096) To authorize the Institute of Education Sciences to conduct a study on student access to digital learning resources outside of the school day.
+- 2015-07-15 — Amendment SA 2155 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2155 proposed by Senator Alexander for Senator Thune to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To require a report on responses to Indian student suicides.
+- 2015-07-15 — Amendment SA 2156 proposed by Senator Alexander for Senator Capito to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103) To amend the State report card under section 1111 of the Elementary and Secondary Education Act of 1965 to include the rates of enrollment in postsecondary education, and remediation rates, for high schools.
+- 2015-07-15 — Amendment SA 2157 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2157 proposed by Senator Alexander for Senator Flake to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To reserve funds for an evaluation of early learning alignment and improve grants.
+- 2015-07-15 — Amendment SA 2161, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 240.
+- 2015-07-15 — Amendment SA 2170 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2170 proposed by Senator Murray for Senator Booker to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To amend the early learning alignment and improvement grant program under part I of title V of the Elementary and Secondary Education Act of 1965 to ensure that States support early childhood education programs that maintain disciplinary policies that do not include expulsion or suspension of participating children.
+- 2015-07-15 — Amendment SA 2171 proposed by Senator Murray for Senator Heitkamp to Amendment SA 2089. (consideration: CR S5098-5104, S5115-5116; text: CR S5099) To reinstate grants to improve the mental health of children.
+- 2015-07-15 — Amendment SA 2171, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 239.
+- 2015-07-15 — Amendment SA 2176 proposed by Senator Murray for Senator Markey to Amendment SA 2089. (consideration: CR S5098-5104, S5115; text: CR S5102) To establish a climate change education program.
+- 2015-07-15 — Amendment SA 2176, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 238.
+- 2015-07-15 — Amendment SA 2177 proposed by Senator Murray for Senator Sanders to Amendment SA 2089. (consideration: CR S5098-5104, S5112-5114) To provide for youth jobs, and for other purposes.
+- 2015-07-15 — Amendment SA 2178 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2178 proposed by Senator Murray for Senator Coons to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To encourage increasing the amount of funds available for parent and family engagement.
+- 2015-07-15 — Amendment SA 2180 proposed by Senator Alexander for Senator Cruz to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5098-5099) To provide for State-determined assessment and accountability systems, and for other purposes.
+- 2015-07-15 — Amendment SA 2181 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2181 proposed by Senator Alexander for Senator McCain to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To allow States to use funding under part A of title I of the Elementary and Secondary Education Act of 1965 to replicate and expand successful practices from high-performing public schools.
+- 2015-07-15 — Amendment SA 2185 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2185 proposed by Senator Murray for Senator Whitehouse to Amendment SA 2089. (consideration: CR S5094-5097) To support innovation schools.
+- 2015-07-15 — Amendment SA 2186 proposed by Senator Murray for Senator Murphy to Amendment SA 2089. (consideration: CR S5098-5104) To establish the Promise Neighborhoods program.
+- 2015-07-15 — Amendment SA 2188 proposed by Senator Murray for Senator Baldwin to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103) To ensure States will ensure the unique needs of students at all levels of schooling.
+- 2015-07-15 — Amendment SA 2195 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2195 proposed by Senator Alexander for Senator Blunt to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096) To amend section 1113(c) of the Elementary and Secondary Education Act of 1965 to allow local educational agencies to address the needs of children in schools served by schoolwide programs by providing school-based mental health programs.
+- 2015-07-15 — Amendment SA 2199 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2199 proposed by Senator Alexander for Senator Graham to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5097) To include entrepreneurship as a local educational agency allowable use of funds under title II.
+- 2015-07-15 — Amendment SA 2201 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2201 proposed by Senator Alexander to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5097) To provide that State assessments not evaluate or assess personal or family beliefs and attitudes, or publicly disclose personally identifiable information.
+- 2015-07-15 — Amendment SA 2215 proposed by Senator Murray for Senator Nelson to Amendment SA 2089. (consideration: CR S5098-5104; text as modified: CR S5102-5103) To include partnering with current and recently retired STEM professionals and tailoring educational resources to engage students and teachers in STEM.
+- 2015-07-15 — Amendment SA 2216 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2216 proposed by Senator Murray for Senator Gillibrand to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5096-5097) To require a report on cybersecurity education.
+- 2015-07-15 — Amendment SA 2222 proposed by Senator Murray for Senator Manchin to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103) To amend the State plan requirements of section 1111 of the Elementary and Secondary Education Act of 1965 in order to support children facing substance abuse in the home.
+- 2015-07-15 — Amendment SA 2224 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2224 proposed by Senator Murray for Senator Booker to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5097) To assess and improve educator support and working conditions.
+- 2015-07-15 — Amendment SA 2225 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2225 proposed by Senator Murray for Senator Bennet to Amendment SA 2089. (consideration: CR S5094-5097; text: CR S5097) To improve title I by including information about assessments in the categories of information that parents have a right to know about.
+- 2015-07-15 — Amendment SA 2227 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2227 proposed by Senator Alexander for Senator Cornyn to Amendment SA 2089. (consideration: CR S5094-5097) To reauthorize the Education Flexibility Partnership Act of 1999.
+- 2015-07-15 — Amendment SA 2231 proposed by Senator Alexander for Senator Boozman to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103) To support professional development to help students prepare for postsecondary education and the workforce
+- 2015-07-15 — Amendment SA 2232 proposed by Senator Alexander for Senator Thune to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103) To allow extended services Project SERV grants under part A of title IV of the Elementary and Secondary Education Act of 1965 to be available for violence prevention activities.
+- 2015-07-15 — Amendment SA 2234 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Amendment SA 2234 proposed by Senator Alexander for Senator Lee to Amendment SA 2089. (consideration: CR S5094-5097l text: CR S5096) To establish a rule of construction regarding travel to and from school.
+- 2015-07-15 — Amendment SA 2240 proposed by Senator Murray for Senator Schatz to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5104) To provide resources needed to study and review Native American language medium schools and programs.
+- 2015-07-15 — Amendment SA 2241 proposed by Senator Murray for Senator Murphy to Amendment SA 2089. (consideration: CR S5098-5104, S5106-5108, S5114-5115, S5117) To amend the accountability provisions.
+- 2015-07-15 — Amendment SA 2241, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 241.
+- 2015-07-15 — Amendment SA 2242 proposed by Senator Murray for Senator Casey to Amendment SA 2089. (consideration: CR S5098-5104, S5111-5112) To establish a Federal-State partnership to provide access to high-quality public prekindergarten programs from low-income and moderate-income families to ensure that they enter kindergarten prepared for success, and for other purposes.
+- 2015-07-15 — Amendment SA 2243 proposed by Senator Murray for Senator Coons to Amendment SA 2089. (consideration: CR S5098-5104) To authorize the establishment of American Dream Accounts.
+- 2015-07-15 — Amendment SA 2247 proposed by Senator Alexander for Senator Burr to Amendment SA 2089. (consideration: CR S5098-5104, S5108-5111, S5117; text as modified: CR S5099-5102) To amend the allocation of funds under subpart 2 of part A of title I of the Elementary and Secondary Education Act of 1965.
+- 2015-07-15 — Amendment SA 2249 proposed by Senator Murray for Senator Warren to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5144-5145) To amend section 1111(c) of the ESEA to require States to provide an assurance regarding cross-tabulation of student data.
+- 2015-07-15 — Amendment SA 2256 proposed by Senator Murray for Senator King to Amendment SA 2089. (consideration: CR S5098-5104; text: CR S5103-5104) To amend the definitions of eligible technology and technology readiness survey and to provide a restriction on funds.
+- 2015-07-15 — Cloture invoked in Senate by Yea-Nay Vote. 86 - 12. Record Vote Number: 237. (consideration: CR S5098; text: CR S5098)
+- 2015-07-15 — Considered by Senate. (consideration: CR S5092-5125)
+- 2015-07-15 — Considered by Senate. (consideration: CR S5093)
+- 2015-07-15 — Considered by Senate. (consideration: CR S5093)
+- 2015-07-15 — Considered by Senate. (consideration: CR S5093)
+- 2015-07-15 — Considered by Senate. (consideration: CR S5093, S5116-5117)
+- 2015-07-15 — Proposed amendment SA 2120 withdrawn in Senate. (consideration: CR S5104)
+- 2015-07-15 — Proposed amendment SA 2144 withdrawn in Senate. (consideration: CR S5115)
+- 2015-07-15 — Roll call votes on amendments in Senate: Amendment SA 2161, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 240.
+- 2015-07-15 — Roll call votes on amendments in Senate: Amendment SA 2171, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 239.
+- 2015-07-15 — Roll call votes on amendments in Senate: Amendment SA 2176, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 238.
+- 2015-07-15 — Roll call votes on amendments in Senate: Amendment SA 2241, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 241.
+- 2015-07-15 — Roll call votes on amendments in Senate: Cloture invoked in Senate by Yea-Nay Vote. 86 - 12. Record Vote Number: 237.(consideration: CR S5098; text: CR S5098)
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2111 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2141 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2145 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2149 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2150 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2151 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5095)
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2154 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2155 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2157 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2170 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2178 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2181 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2185 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2195 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2199 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2201 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2216 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2224 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2225 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2227 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment agreed to: Amendment SA 2234 agreed to in Senate by Unanimous Consent.
+- 2015-07-15 — Senate amendment not agreed to: Amendment SA 2161, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 240.
+- 2015-07-15 — Senate amendment not agreed to: Amendment SA 2171, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 239.
+- 2015-07-15 — Senate amendment not agreed to: Amendment SA 2176, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 238.
+- 2015-07-15 — Senate amendment not agreed to: Amendment SA 2241, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 241.
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2082 proposed by Senator Alexander for Senator Hatch to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5099)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2100 proposed by Senator Murray for Senator Brown to Amendment SA 2089.(consideration: CR S5098-5104)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2106 proposed by Senator Murray for Senator Warren to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5099)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2111 proposed by Senator Alexander for Senator McCain to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5094-5095)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2130 proposed by Senator Murray for Senator Schatz to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5102)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2141 proposed by Senator Murray for Senator Bennet to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5095)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2144 proposed by Senator Alexander for Senator Wicker to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5102)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2145 proposed by Senator Alexander for Senator Ayotte to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5095)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2149 proposed by Senator Murray for Senator Udall to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5095)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2150 proposed by Senator Murray for Senator Feinstein to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5095)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2151 proposed by Senator Murray for Senator Carper to Amendment SA 2089.(consideration: CR S5094-5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2154 proposed by Senator Murray for Senator King to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5095-5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2155 proposed by Senator Alexander for Senator Thune to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2156 proposed by Senator Alexander for Senator Capito to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2157 proposed by Senator Alexander for Senator Flake to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2170 proposed by Senator Murray for Senator Booker to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2171 proposed by Senator Murray for Senator Heitkamp to Amendment SA 2089.(consideration: CR S5098-5104, S5115-5116; text: CR S5099)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2176 proposed by Senator Murray for Senator Markey to Amendment SA 2089.(consideration: CR S5098-5104, S5115; text: CR S5102)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2177 proposed by Senator Murray for Senator Sanders to Amendment SA 2089.(consideration: CR S5098-5104, S5112-5114)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2178 proposed by Senator Murray for Senator Coons to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2180 proposed by Senator Alexander for Senator Cruz to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5098-5099)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2181 proposed by Senator Alexander for Senator McCain to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2185 proposed by Senator Murray for Senator Whitehouse to Amendment SA 2089.(consideration: CR S5094-5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2186 proposed by Senator Murray for Senator Murphy to Amendment SA 2089.(consideration: CR S5098-5104)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2188 proposed by Senator Murray for Senator Baldwin to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2195 proposed by Senator Alexander for Senator Blunt to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2199 proposed by Senator Alexander for Senator Graham to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2201 proposed by Senator Alexander to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2215 proposed by Senator Murray for Senator Nelson to Amendment SA 2089.(consideration: CR S5098-5104; text as modified: CR S5102-5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2216 proposed by Senator Murray for Senator Gillibrand to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5096-5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2222 proposed by Senator Murray for Senator Manchin to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2224 proposed by Senator Murray for Senator Booker to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2225 proposed by Senator Murray for Senator Bennet to Amendment SA 2089.(consideration: CR S5094-5097; text: CR S5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2227 proposed by Senator Alexander for Senator Cornyn to Amendment SA 2089.(consideration: CR S5094-5097)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2231 proposed by Senator Alexander for Senator Boozman to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2232 proposed by Senator Alexander for Senator Thune to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2234 proposed by Senator Alexander for Senator Lee to Amendment SA 2089.(consideration: CR S5094-5097l text: CR S5096)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2240 proposed by Senator Murray for Senator Schatz to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5104)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2241 proposed by Senator Murray for Senator Murphy to Amendment SA 2089.(consideration: CR S5098-5104, S5106-5108, S5114-5115, S5117)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2242 proposed by Senator Murray for Senator Casey to Amendment SA 2089.(consideration: CR S5098-5104, S5111-5112)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2243 proposed by Senator Murray for Senator Coons to Amendment SA 2089.(consideration: CR S5098-5104)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2247 proposed by Senator Alexander for Senator Burr to Amendment SA 2089.(consideration: CR S5098-5104, S5108-5111, S5117; text as modified: CR S5099-5102)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2249 proposed by Senator Murray for Senator Warren to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5144-5145)
+- 2015-07-15 — Senate amendment proposed (on the floor): Amendment SA 2256 proposed by Senator Murray for Senator King to Amendment SA 2089.(consideration: CR S5098-5104; text: CR S5103-5104)
+- 2015-07-15 — Senate amendment submitted
+- 2015-07-16 — Amendment SA 2082 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2089 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2095 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2100 agreed to in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 246.
+- 2015-07-16 — Amendment SA 2106 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2130 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2156 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2177, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 243.
+- 2015-07-16 — Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 242.
+- 2015-07-16 — Amendment SA 2186 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2188 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2215 as modified agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2222 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2231 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2232 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2240 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2242, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 247.
+- 2015-07-16 — Amendment SA 2243, under the order of 7/15/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 244.
+- 2015-07-16 — Amendment SA 2247 as modified agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 245.
+- 2015-07-16 — Amendment SA 2249 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Amendment SA 2256 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 248. (consideration: CR S5149; text; CR S5149)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5134, S5139)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5134, S5140)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5134, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5134, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5134-5150)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5139-5140)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5140-5141, S5148-5149)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5142)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5142-5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143, S5145-5148)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5143-5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5144)
+- 2015-07-16 — Considered by Senate. (consideration: CR S5135, S5144, S5144-5145)
+- 2015-07-16 — Passed Senate with an amendment by Yea-Nay Vote. 81 - 17. Record Vote Number: 249.
+- 2015-07-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 81 - 17. Record Vote Number: 249.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2100 agreed to in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 246.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2177, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 243.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 242.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2242, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 247.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2243, under the order of 7/15/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 244.
+- 2015-07-16 — Roll call votes on amendments in Senate: Amendment SA 2247 as modified agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 245.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2082 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2089 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2095 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2100 agreed to in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 246.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2106 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2130 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2156 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2186 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2188 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2215 as modified agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2222 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2231 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2232 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2240 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2243, under the order of 7/15/15, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 244.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2247 as modified agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 245.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2249 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment agreed to: Amendment SA 2256 agreed to in Senate by Voice Vote.
+- 2015-07-16 — Senate amendment not agreed to: Amendment SA 2177, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 243.
+- 2015-07-16 — Senate amendment not agreed to: Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 242.
+- 2015-07-16 — Senate amendment not agreed to: Amendment SA 2242, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 247.
