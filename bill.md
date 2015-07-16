@@ -19,25 +19,25 @@ There is established in the executive branch a commission to be known as the “
 
 ## § 3. Members of the Commission
 
-- **(a)** *Number and appointment* The Commission shall be comprised of 15 members as follows:
+- **(a)** *Number and Appointment* The Commission shall be comprised of 15 members as follows:
   - **(1)** Three shall be appointed by the President, of whom—
-    - **(A)** 1 shall be an academic researcher, data expert, or have experience in administering programs;
-    - **(B)** 1 shall have expertise in database management, confidentiality, and privacy matters; and
-    - **(C)** 1 shall be the Director of the Office of Management and Budget (or the Director’s designee).
+    - **(A)** one shall be an academic researcher, data expert, or have experience in administering programs;
+    - **(B)** one shall have expertise in database management, confidentiality, and privacy matters; and
+    - **(C)** one shall be the Director of the Office of Management and Budget (or the Director’s designee).
   - **(2)** Three shall be appointed by the Speaker of the House of Representatives, of whom—
-    - **(A)** 2 shall be academic researchers, data experts, or have experience in administering programs; and
-    - **(B)** 1 shall have expertise in database management, confidentiality, and privacy matters.
+    - **(A)** two shall be academic researchers, data experts, or have experience in administering programs; and
+    - **(B)** one shall have expertise in database management, confidentiality, and privacy matters.
   - **(3)** Three shall be appointed by the Minority Leader of the House of Representatives, of whom—
-    - **(A)** 2 shall be academic researchers, data experts, or have experience in administering programs; and
-    - **(B)** 1 shall have expertise in database management, confidentiality, and privacy matters.
+    - **(A)** two shall be academic researchers, data experts, or have experience in administering programs; and
+    - **(B)** one shall have expertise in database management, confidentiality, and privacy matters.
   - **(4)** Three shall be appointed by the Majority Leader of the Senate, of whom—
-    - **(A)** 2 shall be academic researchers, data experts, or have experience in administering programs; and
-    - **(B)** 1 shall have expertise in database management, confidentiality, and privacy matters.
+    - **(A)** two shall be academic researchers, data experts, or have experience in administering programs; and
+    - **(B)** one shall have expertise in database management, confidentiality, and privacy matters.
   - **(5)** Three shall be appointed by the Minority Leader of the Senate, of whom—
-    - **(A)** 2 shall be academic researchers, data experts, or have experience in administering programs; and
-    - **(B)** 1 shall have expertise in database management, confidentiality, and privacy matters.
+    - **(A)** two shall be academic researchers, data experts, or have experience in administering programs; and
+    - **(B)** one shall have expertise in database management, confidentiality, and privacy matters.
 - **(b)** *Expertise* In making appointments under this section, consideration should be given to individuals with expertise in economics, statistics, program evaluation, data security, confidentiality, or database management.
-- **(c)** *Chairperson and Co-Chairperson* The President shall select the chairperson of the Commission and the Speaker of the House of Representatives shall select the co-chairperson.
+- **(c)** *Chairperson and co-chairperson* The President shall select the chairperson of the Commission and the Speaker of the House of Representatives shall select the co-chairperson.
 - **(d)** *Timing of appointments* Appointments to the Commission shall be made not later than 45 days after the date of enactment of this Act.
 - **(e)** *Terms; vacancies* Each member shall be appointed for the duration of the Commission. Any vacancy in the Commission shall not affect its powers, and shall be filled in the manner in which the original appointment was made.
 - **(f)** *Compensation* Members of the Commission shall serve without pay.
@@ -45,22 +45,22 @@ There is established in the executive branch a commission to be known as the “
 
 ## § 4. Duties of the Commission
 
-- **(a)** *Study of data* The Commission shall conduct a comprehensive study of the data inventory, data infrastructure, and statistical protocols related to Federal policymaking and the statistical and programmatic agencies responsible for maintaining that data to—
+- **(a)** *Study of data* The Commission shall conduct a comprehensive study of the data inventory, data infrastructure, and statistical protocols related to Federal policymaking and the agencies responsible for maintaining that data to—
   - **(1)** determine the optimal arrangement for which administrative data on Federal programs and tax expenditures and related data series may be integrated and made available to facilitate program evaluation, continuous improvement, policy-relevant research, and cost-benefit analyses by qualified researchers and institutions;
   - **(2)** make recommendations on how data infrastructure and protocols should be modified to best fulfill the objectives identified in paragraph (1); and
   - **(3)** make recommendations on how best to incorporate outcomes measurement, institutionalize randomized controlled trials, and rigorous impact analysis into program design.
-- **(b)** *Clearinghouse* In undertaking the study required by subsection (a), the Commission shall consider if and how to create a clearinghouse for program and survey data, which shall include evaluation of—
-  - **(1)** what administrative data that are relevant for program evaluation and Federal policy-making should be included in a potential clearinghouse;
+- **(b)** *Clearinghouse* In undertaking the study required by subsection (a), the Commission shall consider whether a clearinghouse for program and survey data should be established and how to create such a clearinghouse. The Commission shall evaluate—
+  - **(1)** what administrative data are relevant for program evaluation and Federal policy-making and should be included in a potential clearinghouse;
   - **(2)** which survey data the administrative data identified in paragraph (1) may be linked to, in addition to linkages across administrative data series;
   - **(3)** what are the legal and administrative barriers to including or linking these data series;
   - **(4)** what data-sharing infrastructure should be used to facilitate data merging and access for research purposes;
   - **(5)** how a clearinghouse could be self-funded;
-  - **(6)** which types of qualified researchers, officials, and institutions should have access to data;
+  - **(6)** which types of researchers, officials, and institutions should have access to data and what their qualifications should be;
   - **(7)** what limitations should be placed on the use of data provided;
   - **(8)** how to protect information and ensure individual privacy and confidentiality;
-  - **(9)** how the data and results of research can be used to inform program administrators and policymakers to improve program design; and
+  - **(9)** how data and results of research can be used to inform program administrators and policymakers to improve program design; and
   - **(10)** what incentives may facilitate interagency sharing of information to improve programmatic effectiveness and enhance data accuracy and comprehensiveness.
-- **(c)** *Report* Upon the affirmative vote of at least three-quarters of the members of the Commission, the Commission shall submit to the President and Congress a detailed statement of its findings and conclusions as a result of the study required by subsection (a), together with its recommendations for such legislation or administrative actions as the Commission considers appropriate in light of the results of the study.
+- **(c)** *Report* Upon the affirmative vote of at least three-quarters of the members of the Commission, the Commission shall submit to the President and Congress a detailed statement of its findings and conclusions as a result of the activities required by subsections (a) and (b), together with its recommendations for such legislation or administrative actions as the Commission considers appropriate in light of the results of the study.
 - **(d)** *Deadline* The report under subsection (c) shall be submitted not later than the date that is 15 months after the date a majority of the members of the Commission are appointed pursuant to section 3.
 - **(e)** *Definition* In this section, the term “administrative data” means data—
   - **(1)** held by an agency or a contractor or grantee of an agency (including a State or unit of local government); and
@@ -68,7 +68,7 @@ There is established in the executive branch a commission to be known as the “
 
 ## § 5. Operation and powers of the Commission
 
-- **(a)** *Administrative assistance* The heads of the following agencies shall advise and consult with the Commission on matters within their respective areas of responsibility:
+- **(a)** *Executive branch assistance* The heads of the following agencies shall advise and consult with the Commission on matters within their respective areas of responsibility:
   - **(1)** The Bureau of the Census.
   - **(2)** The Internal Revenue Service.
   - **(3)** The Department of Health and Human Services.
@@ -99,7 +99,7 @@ Subject to the availability of appropriations—
 
 - **(a)** *Director* The Commission shall have a Director who shall be appointed by the chairperson with the concurrence of the co-chairperson. The Director shall be paid at a rate of pay established by the chairperson and co-chairperson, not to exceed the annual rate of basic pay payable for level V of the Executive Schedule (section 5316 of title 5, United States Code).
 - **(b)** *Staff* The Director may appoint and fix the pay of additional staff as the Director considers appropriate.
-- **(c)** *Experts and Consultants* The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not to exceed the daily equivalent of the annual rate of basic pay for a comparable position paid under the General Schedule.
+- **(c)** *Experts and consultants* The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not to exceed the daily equivalent of the annual rate of basic pay for a comparable position paid under the General Schedule.
 
 ## § 8. Termination
 
