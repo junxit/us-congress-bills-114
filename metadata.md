@@ -1,7 +1,7 @@
 ---
 measure: S. 139
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 139
@@ -34,9 +34,11 @@ Ensuring Access to Clinical Trials Act of 2015
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -46,3 +48,8 @@ Ensuring Access to Clinical Trials Act of 2015
 - 2015-07-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5175; text as passed Senate: CR S5175)
 - 2015-07-16 — Senate Committee on Finance discharged by Unanimous Consent.
 - 2015-07-16 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2015-07-17 — Message on Senate action sent to the House.
+- 2015-07-20 — Received in the House.
+- 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
