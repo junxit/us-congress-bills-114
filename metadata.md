@@ -1,7 +1,7 @@
 ---
 measure: S. 139
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 139
@@ -53,3 +53,17 @@ Ensuring Access to Clinical Trials Act of 2015
 - 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-07-20 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-21 — Referred to the Subcommittee on Health.
+- 2015-07-24 — Referred to the Subcommittee on Health.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6276-6279)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 139.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Ryan (WI) moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6276)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6276)
+- 2015-09-30 — Presented to President.
+- 2015-09-30 — Presented to President.
+- 2015-10-07 — Became Public Law No: 114-63.
+- 2015-10-07 — Became Public Law No: 114-63.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
