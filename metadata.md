@@ -1,7 +1,7 @@
 ---
 measure: S. 192
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 192
@@ -45,9 +45,10 @@ Older Americans Act Reauthorization Act of 2016
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -59,3 +60,6 @@ Older Americans Act Reauthorization Act of 2016
 - 2015-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
 - 2015-07-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S5158-5163; text as passed Senate: CR S5158-5162)
 - 2015-07-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5158-5163; text as passed Senate: CR S5158-5162)
+- 2015-07-17 — Message on Senate action sent to the House.
+- 2015-07-20 — Received in the House.
+- 2015-07-20 — Referred to the House Committee on Education and the Workforce.
