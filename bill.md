@@ -50,17 +50,17 @@ Section 301(b) of the Notification and Federal Employee Antidiscrimination and R
   - **(B)** in subparagraph (B)(ii), by striking the period at the end and inserting “, and”; and
   - **(C)** by adding at the end the following:
     > - **(C)** for each such finding counted under subparagraph (A), the agency shall specify—
-    >   - **(i)** the date of the finding,
-    >   - **(ii)** the affected agency,
-    >   - **(iii)** the law violated, and
+    >   - **(i)** the date of the finding;
+    >   - **(ii)** the affected agency;
+    >   - **(iii)** the law violated; and
     >   - **(iv)** whether a decision has been made regarding necessary disciplinary action as a result of the finding.
 
 - **(2)** by adding at the end the following:
   > - **(11)** Data regarding each class action complaint filed against the agency alleging discrimination or retaliation, including—
-  >   - **(A)** information regarding the date on which each complaint was filed,
-  >   - **(B)** a general summary of the allegations alleged in the complaint,
-  >   - **(C)** an estimate of the total number of plaintiffs joined in the complaint if known,
-  >   - **(D)** the current status of the complaint, including whether the class has been certified, and
+  >   - **(A)** information regarding the date on which each complaint was filed;
+  >   - **(B)** a general summary of the allegations alleged in the complaint;
+  >   - **(C)** an estimate of the total number of plaintiffs joined in the complaint if known;
+  >   - **(D)** the current status of the complaint, including whether the class has been certified; and
   >   - **(E)** the case numbers for the civil actions in which discrimination or retaliation has been found.
 
 ## § 6. Data to be posted by the equal employment opportunity commission
@@ -83,7 +83,7 @@ Section 302(b) of the Notification and Federal Employee Antidiscrimination and R
   - **(1)** by inserting after the item relating to section 206 the following:
   - **(2)** by adding at the end the following:
 
-## § 8. Non-disclosure agreement limitation
+## § 8. Nondisclosure agreement limitation
 
 Section 2302(b) of title 5, United States Code is amended—
 
