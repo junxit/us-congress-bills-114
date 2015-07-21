@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Regulations From the Executive in Need of Scrutiny Act of 2015”.
+This Act may be cited as the “Regulations from the Executive in Need of Scrutiny Act of 2015”.
 
 ## § 2. Purpose
 
@@ -26,3 +26,11 @@ Chapter 8 of title 5, United States Code, is amended to read as follows:
 Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new subparagraph:
 
 > - **(E)** *Budgetary effects of rules subject to section 802 of title 5, United States Code* Any rules subject to the congressional approval procedure set forth in section 802 of chapter 8 of title 5, United States Code, affecting budget authority, outlays, or receipts shall be assumed to be effective unless it is not approved in accordance with such section.
+
+## § 5. Government Accountability Office study of rules
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study to determine, as of the date of the enactment of this Act—
+  - **(1)** how many rules (as such term is defined in section 804 of title 5, United States Code) were in effect;
+  - **(2)** how many major rules (as such term is defined in section 804 of title 5, United States Code) were in effect; and
+  - **(3)** the total estimated economic cost imposed by all such rules.
+- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to Congress that contains the findings of the study conducted under subsection (a).

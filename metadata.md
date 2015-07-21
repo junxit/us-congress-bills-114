@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 427
@@ -16,7 +16,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 
 - Rep. Young, Todd [R-IN-9] (Y000064)
 
-## Cosponsors (133)
+## Cosponsors (171)
 
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
@@ -151,6 +151,44 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
 
 ## Committees (3)
 
@@ -166,3 +204,14 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - 2015-01-21 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-21 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-01-21 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-02-05 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2015-04-14 — Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 10.
+- 2015-07-21 — Committee on Rules discharged.
+- 2015-07-21 — Committee on Rules discharged.
+- 2015-07-21 — Committee on the Budget discharged.
+- 2015-07-21 — Committee on the Budget discharged.
+- 2015-07-21 — Placed on the Union Calendar, Calendar No. 161.
+- 2015-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-214, Part I.
+- 2015-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-214, Part I.
