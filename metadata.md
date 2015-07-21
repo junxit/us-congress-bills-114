@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3038
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3038
@@ -59,3 +59,5 @@ Highway and Transportation Funding Act of 2015, Part II
 - 2015-07-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5212)
 - 2015-07-15 — The previous question was ordered pursuant to the rule. (consideration: CR H5210)
 - 2015-07-15 — The rule provide for consideration of the bills H.R. 2898 and H.R. 3038. The rule provides for 1 hour of general debate on both bills. The resolution makes in order further amendments printed in the report on H.R. 2898. For H.R. 3038, the resolution provides for consideration under a closed rule. The resolution provides for one motion to recommit with or without instructions on both bills.
+- 2015-07-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-07-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
