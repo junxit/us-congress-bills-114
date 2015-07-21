@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 19
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 19
@@ -28,3 +28,6 @@ A joint resolution to express the disfavor of Congress regarding the proposed ag
 
 - 2015-07-15 — Introduced in Senate
 - 2015-07-15 — Read twice and referred to the Committee on Foreign Relations.
+- 2015-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
+- 2015-07-21 — Senate Committee on Foreign Relations discharged pursant to 42 U.S.C. 2159(i) and Section 601(b)(4) of P.L. 94-329. (consideration: CR S5180)
+- 2015-07-21 — Senate Committee on Foreign Relations discharged pursant to 42 U.S.C. 2159(i) and Section 601(b)(4) of P.L. 94-329.(consideration: CR S5180)
