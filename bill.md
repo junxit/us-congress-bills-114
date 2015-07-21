@@ -13,18 +13,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “FTO Passport Revocation Act of 2015”.
 
-## § 2. Revocation or denial of passports and passport cards to individuals affiliated with foreign terrorist organizations
+## § 2. Revocation or denial of passports to individuals affiliated with foreign terrorist organizations
 
 The Act entitled “An Act to regulate the issue and validity of passports, and for other purposes”, approved July 3, 1926 (22 U.S.C. 211a et seq.), commonly known as the “Passport Act of 1926”, is amended by adding at the end the following:
 
-> ## § 4. Authority to deny or revoke passport and passport card
+> ## § 4. Authority to deny or revoke passport
 >
 > - **(a)** *Ineligibility*
->   - **(1)** *Issuance* Except as provided under subsection (b), the Secretary of State may not issue a passport or passport card to any individual whom the Secretary has determined is a member of or is otherwise affiliated with, or is aiding, assisting, abetting, or is otherwise helping an organization the Secretary has designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
->   - **(2)** *Revocation* The Secretary of State shall revoke a passport or passport card previously issued to any individual described in paragraph (1).
-> - **(b)** *Exceptions*
->   - **(1)** *Emergency and humanitarian situations* Notwithstanding subsection (a), the Secretary of State may issue a passport or passport card, in emergency circumstances or for humanitarian reasons, to an individual described in paragraph (1) of such subsection.
->   - **(2)** *Limitation for return to United States* Notwithstanding subsection (a)(2), the Secretary of State, before revocation, may—
->     - **(A)** limit a previously issued passport or passport card only for return travel to the United States; or
->     - **(B)** issue a limited passport or passport card that only permits return travel to the United States.
-> - **(c)** *Report* If the Secretary of State issues or limits a passport or passport card under subsection (b), the Secretary shall, not later than 30 days after such issuance or limitation, submit to Congress a report on such issuance or limitation, as the case may be.
+>   - **(1)** *Issuance* Except as provided under subsection (b), the Secretary of State may refuse to issue a passport to any individual whom the Secretary has determined has aided, assisted, abetted, or otherwise helped an organization the Secretary has designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+>   - **(2)** *Revocation* The Secretary of State may revoke a passport previously issued to any individual described in paragraph (1).
+> - **(b)** *Report*
+>   - **(1)** *In general* If the Secretary of State refuses to issue or revokes a passport pursuant to subsection (a), the Secretary shall, not later than 30 days after such refusal or revocation, submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on such refusal or revocation, as the case may be.
+>   - **(2)** *Form* The report submitted under paragraph (1) may be submitted in classified or unclassified form.
