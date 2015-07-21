@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2256
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2256
@@ -20,6 +20,10 @@ Veterans Information Modernization Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2015-07-21 — [House 114-1-449](votes/house-114-1-0449.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–0)
+
 ## Actions
 
 - 2015-05-12 — Introduced in House
@@ -33,3 +37,12 @@ Veterans Information Modernization Act
 - 2015-07-07 — Placed on the Union Calendar, Calendar No. 143.
 - 2015-07-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-191.
 - 2015-07-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-191.
+- 2015-07-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-21 — Considered as unfinished business. (consideration: CR H5316)
+- 2015-07-21 — Considered under suspension of the rules. (consideration: CR H5304-5308)
+- 2015-07-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2256.
+- 2015-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-21 — Mr. Benishek moved to suspend the rules and pass the bill, as amended.
+- 2015-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 449). (text: CR H5304-5306)
+- 2015-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 449).(text: CR H5304-5306)
+- 2015-07-21 — The title of the measure was amended. Agreed to without objection.

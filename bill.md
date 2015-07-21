@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2256
 
-> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit an annual report on the Veterans Health Administration and the furnishing of hospital care, medical services, and nursing home care by the Department of Veterans Affairs.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit an annual report on the Veterans Health Administration, to provide for the identification and tracking of biological implants used in Department of Veterans Affairs facilities, and for other purposes.
 
 ## § 1. Short title
 
@@ -18,7 +18,7 @@ This Act may be cited a the “Veterans Information Modernization Act”.
 - **(a)** *In general* Subchapter II of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section:
   > ## § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care
   >
-  > - **(a)** *Report required* Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the furnishing of hospital care, medical services, and nursing home care under the laws administered by the Secretary and on the administration of the provision of such care and services by the Veterans Health Administration during the calendar year preceding the calendar year during which the report is submitted.
+  > - **(a)** *Report required* Not later than March 1 during each of years 2016 through 2020, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the furnishing of hospital care, medical services, and nursing home care under the laws administered by the Secretary, and on the administration of the provision of such care and services by the Veterans Health Administration during the calendar year preceding the calendar year during which the report is submitted.
   > - **(b)** *Contents of report* Each report required by subsection (a) shall include each of the following for the year covered by the report:
   >   - **(1)** An evaluation of the effectiveness of the Veterans Health Administration program in increasing the access of veterans eligible for hospital care, medical services, and nursing home care furnished by the Secretary to such care.
   >   - **(2)** An evaluation of the effectiveness of the Veterans Health Administration in improving the quality of health care provided to such veterans, without increasing the costs incurred by the Government or such veterans, which includes the relevant information for each medical center and Veterans Integrated Service Network of the Department set forth separately.
@@ -29,7 +29,7 @@ This Act may be cited a the “Veterans Information Modernization Act”.
   >     - **(D)** the productivity of physicians and other employees of the Veterans Health Administration;
   >     - **(E)** the percentage of hospital care, medical services, and nursing home care provided to such veterans in Department facilities and in non-Department facilities and any changes in such percentages compared to the year preceding the year covered by the report;
   >     - **(F)** pharmaceutical prices; and
-  >     - **(G)** third party health billings owed to the Department, including the total amount of such billings and the total amounts collected, set forth separately for claims greater than $1000 and for claims equal to or less than $1000.
+  >     - **(G)** third-party health billings owed to the Department, including the total amount of such billings and the total amounts collected, set forth separately for claims greater than $1,000 and for claims equal to or less than $1,000.
   > - **(c)** *Definitions* In this section, the terms “hospital care”, “medical services”, “nursing home care”, and “non-Department facilities” have the meanings given such terms in section 1701 of this title.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7330A the following new item:
@@ -106,7 +106,7 @@ Section 2002(1) of title 38, United States Code, is amended by inserting “or (
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end of the items relating to such subchapter the following new item:
 - **(b)** *Effective date* Section 8129 of title 38, United States Code, as added by subsection (a), shall take effect on the date that is 180 days after the date on which the tracking system required under subsection (b) of section 7330C of such title, as added by section 4(a) is implemented.
-- **(c)** *Special rule for cryopreserved products* During the three-year period beginning on the effective date of section 8129 of title 38, United States Code, as added by subsection (a), biological implants produced and labeled before that date may be procured by the Department of Veterans Affairs without relabeling under the standard identification system adopted or implemented under section 7330C of such title, as added by section 4(a).
+- **(c)** *Special rule for cryopreserved products* During the 3-year period beginning on the effective date of section 8129 of title 38, United States Code, as added by subsection (a), biological implants produced and labeled before that date may be procured by the Department of Veterans Affairs without relabeling under the standard identification system adopted or implemented under section 7330C of such title, as added by section 4(a).
 
 ## § 6. Extension of rounding down of percentage increases of rates of certain educational assistance
 
