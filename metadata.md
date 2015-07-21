@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2898
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2898
@@ -45,10 +45,11 @@ Western Water and American Food Security Act of 2015
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -155,3 +156,4 @@ Western Water and American Food Security Act of 2015
 - 2015-07-16 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
 - 2015-07-16 — The previous question was ordered pursuant to the rule. (consideration: CR H5281)
 - 2015-07-16 — The rule provide for consideration of the bills H.R. 2898 and H.R. 3038. The rule provides for 1 hour of general debate on both bills. The resolution makes in order further amendments printed in the report on H.R. 2898. For H.R. 3038, the resolution provides for consideration under a closed rule. The resolution provides for one motion to recommit with or without instructions on both bills.
+- 2015-07-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
