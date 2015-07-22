@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 998
@@ -36,3 +36,13 @@ Preclearance Authorization Act of 2015
 - 2015-02-13 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-13 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-02-13 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-03-12 — Referred to the Subcommittee on Border and Maritime Security.
+- 2015-03-12 — Referred to the Subcommittee on Transportation Security.
+- 2015-03-27 — Referred to the Subcommittee on Trade.
+- 2015-06-25 — Committee Consideration and Mark-up Session Held.
+- 2015-06-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-07-22 — Committee on Ways and Means discharged.
+- 2015-07-22 — Committee on Ways and Means discharged.
+- 2015-07-22 — Placed on the Union Calendar, Calendar No. 165.
+- 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-219, Part I.
+- 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-219, Part I.

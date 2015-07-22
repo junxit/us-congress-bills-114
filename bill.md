@@ -30,7 +30,7 @@ Pursuant to section 1629 of title 19, United States Code, and subject to section
 ## § 4. Notification and certification to Congress
 
 - **(a)** *Notification* Not later than 180 days before entering into an agreement with the government of a foreign country to establish U.S. Customs and Border Protection preclearance operations in such foreign country, the Secretary of Homeland Security shall provide to the appropriate congressional committees the following:
-  - **(1)** A copy of the proposed agreement to establish such preclearance operations, including an identification of the foreign country with which U.S. Customs and Border Protection intends to enter into a preclearance agreement, and the location at which such preclearance operations will be conducted.
+  - **(1)** A copy of the proposed agreement to establish such preclearance operations, including an identification of the foreign country with which U.S. Customs and Border Protection intends to enter into a preclearance agreement, the location at which such preclearance operations will be conducted, and the terms and conditions for U.S. Customs and Border Protection personnel operating at the location.
   - **(2)** An estimate of the date on which U.S. Customs and Border Protection intends to establish preclearance operations under such agreement.
   - **(3)** The anticipated funding sources for preclearance operations under such agreement, and other funding sources considered.
   - **(4)** An assessment of the impact such preclearance operations will have on legitimate trade and travel, including potential impacts on passengers traveling to the United States.
