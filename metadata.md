@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1734
@@ -67,6 +67,15 @@ Improving Coal Combustion Residuals Regulation Act of 2015
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (6)
+
+- 2015-07-22 — [House 114-1-453](votes/house-114-1-0453.md) — On Agreeing to the Amendment — **Failed** (177–244)
+- 2015-07-22 — [House 114-1-454](votes/house-114-1-0454.md) — On Agreeing to the Amendment — **Failed** (177–245)
+- 2015-07-22 — [House 114-1-455](votes/house-114-1-0455.md) — On Agreeing to the Amendment — **Failed** (192–231)
+- 2015-07-22 — [House 114-1-456](votes/house-114-1-0456.md) — On Agreeing to the Amendment — **Failed** (180–240)
+- 2015-07-22 — [House 114-1-457](votes/house-114-1-0457.md) — On Motion to Recommit with Instructions — **Failed** (184–240)
+- 2015-07-22 — [House 114-1-458](votes/house-114-1-0458.md) — On Passage — **Passed** (258–166)
+
 ## Actions
 
 - 2015-04-13 — Introduced in House
@@ -79,3 +88,69 @@ Improving Coal Combustion Residuals Regulation Act of 2015
 - 2015-06-09 — Placed on the Union Calendar, Calendar No. 103.
 - 2015-06-09 — Reported by the Committee on Energy and Commerce. H. Rept. 114-143.
 - 2015-06-09 — Reported by the Committee on Energy and Commerce. H. Rept. 114-143.
+- 2015-07-21 — Rules Committee Resolution H. Res. 369 Reported to House. Resolution provides for consideration of H.R. 1599 and H.R. 1734.
+- 2015-07-22 — Amendment (A001) offered by Mr. Shimkus. (consideration: CR H5370; text: CR H5370)
+- 2015-07-22 — Amendment (A002) offered by Mr. Pallone. (consideration: CR H5370-5371, H5375-5376; text: CR H5370)
+- 2015-07-22 — Amendment (A003) offered by Ms. Castor (FL). (consideration: CR H5371; text: CR H5371)
+- 2015-07-22 — Amendment (A004) offered by Mr. Connolly. (consideration: CR H5371-5372, H5376-5377; text: CR H5372)
+- 2015-07-22 — Amendment (A005) offered by Ms. Adams. (consideration: CR H5373-5374, H5377; text: CR H5373)
+- 2015-07-22 — Amendment (A006) offered by Mr. Butterfield. (consideration: CR H5374-5375; H5377-5378; text: CR H5374)
+- 2015-07-22 — Amendment agreed to Committee of the Whole
+- 2015-07-22 — Amendment agreed to Committee of the Whole
+- 2015-07-22 — Amendment failed in Committee of the Whole
+- 2015-07-22 — Amendment failed in Committee of the Whole
+- 2015-07-22 — Amendment failed in Committee of the Whole
+- 2015-07-22 — Amendment failed in Committee of the Whole
+- 2015-07-22 — Considered under the provisions of rule H. Res. 369. (consideration: H5358-5380; text as reported CR H5365-5370)
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Adams amendment No. 5.
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Butterfield amendment No. 6.
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 3.
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 4.
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 2.
+- 2015-07-22 — DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Shimkus amendment No. 1.
+- 2015-07-22 — DEBATE - The House proceeded with 10 minutes of debate on the Foster motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require an agency implementing any coal ash permit ensure that all disposal sites meet criteria for design, construction, operation, and maintenance sufficient to prevent contamination of groundwater and sources of drinking water, including the Great Lakes. Subsequently, the reservation was removed.
+- 2015-07-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1734.
+- 2015-07-22 — House amendment agreed to: On agreeing to the Castor (FL) amendment (A003) Agreed to by voice vote.
+- 2015-07-22 — House amendment agreed to: On agreeing to the Shimkus amendment (A001) Agreed to by voice vote.
+- 2015-07-22 — House amendment not agreed to: On agreeing to the Adams amendment (A005) Failed by recorded vote: 192 - 231 (Roll no. 455).
+- 2015-07-22 — House amendment not agreed to: On agreeing to the Butterfield amendment (A006) Failed by recorded vote: 180 - 240 (Roll no. 456).
+- 2015-07-22 — House amendment not agreed to: On agreeing to the Connolly amendment (A004) Failed by recorded vote: 177 - 245 (Roll no. 454).
+- 2015-07-22 — House amendment not agreed to: On agreeing to the Pallone amendment (A002) Failed by recorded vote: 177 - 244 (Roll no. 453).
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered
+- 2015-07-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. Shimkus.(consideration: CR H5370; text: CR H5370)
+- 2015-07-22 — House amendment offered/reported by : Amendment (A002) offered by Mr. Pallone.(consideration: CR H5370-5371, H5375-5376; text: CR H5370)
+- 2015-07-22 — House amendment offered/reported by : Amendment (A003) offered by Ms. Castor (FL).(consideration: CR H5371; text: CR H5371)
+- 2015-07-22 — House amendment offered/reported by : Amendment (A004) offered by Mr. Connolly.(consideration: CR H5371-5372, H5376-5377; text: CR H5372)
+- 2015-07-22 — House amendment offered/reported by : Amendment (A005) offered by Ms. Adams.(consideration: CR H5373-5374, H5377; text: CR H5373)
+- 2015-07-22 — House amendment offered/reported by : Amendment (A006) offered by Mr. Butterfield.(consideration: CR H5374-5375; H5377-5378; text: CR H5374)
+- 2015-07-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 369 and Rule XVIII.
+- 2015-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-22 — Mr. Foster moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: H5378-5380; text: CR H5378)
+- 2015-07-22 — On agreeing to the Adams amendment (A005) Failed by recorded vote: 192 - 231 (Roll no. 455).
+- 2015-07-22 — On agreeing to the Butterfield amendment (A006) Failed by recorded vote: 180 - 240 (Roll no. 456).
+- 2015-07-22 — On agreeing to the Castor (FL) amendment (A003) Agreed to by voice vote.
+- 2015-07-22 — On agreeing to the Connolly amendment (A004) Failed by recorded vote: 177 - 245 (Roll no. 454).
+- 2015-07-22 — On agreeing to the Pallone amendment (A002) Failed by recorded vote: 177 - 244 (Roll no. 453).
+- 2015-07-22 — On agreeing to the Shimkus amendment (A001) Agreed to by voice vote.
+- 2015-07-22 — On motion to recommit with instructions Failed by recorded vote: 184 - 240 (Roll no. 457). (consideration: CR H5379-5380)
+- 2015-07-22 — On passage Passed by recorded vote: 258 - 166 (Roll no. 458).
+- 2015-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Adams amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Adams demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Butterfield amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Butterfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-22 — Passed/agreed to in House: On passage Passed by recorded vote: 258 - 166 (Roll no. 458).
+- 2015-07-22 — Resolution provides for consideration of H.R. 1599 and H.R. 1734.
+- 2015-07-22 — Roll call votes on amendments in House
+- 2015-07-22 — Roll call votes on amendments in House
+- 2015-07-22 — Roll call votes on amendments in House
+- 2015-07-22 — Roll call votes on amendments in House
+- 2015-07-22 — Rule H. Res. 369 passed House.
+- 2015-07-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1734.
+- 2015-07-22 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2015-07-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5379)
+- 2015-07-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5378)
