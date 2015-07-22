@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1557
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1557
@@ -23,9 +23,10 @@ Federal Employee Antidiscrimination Act of 2015
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Federal Employee Antidiscrimination Act of 2015
 - 2015-07-21 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2015-07-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 448). (text: CR H5308-5310)
 - 2015-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 448).(text: CR H5308-5310)
+- 2015-07-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
