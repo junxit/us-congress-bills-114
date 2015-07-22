@@ -1,7 +1,7 @@
 ---
 measure: S. 286
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 286
@@ -24,9 +24,10 @@ Department of the Interior Tribal Self-Governance Act of 2015
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,7 @@ Department of the Interior Tribal Self-Governance Act of 2015
 - 2015-07-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
 - 2015-07-07 — Senate amendment agreed to: Amendment SA 1471 agreed to in Senate by Unanimous Consent.
 - 2015-07-07 — Senate amendment proposed (on the floor): Amendment SA 1471 proposed by Senator McConnell for Senator Barrasso.(consideration: CR S4802)
+- 2015-07-08 — Held at the desk.
+- 2015-07-08 — Message on Senate action sent to the House.
+- 2015-07-08 — Received in the House.
+- 2015-07-22 — Referred to the House Committee on Natural Resources.
