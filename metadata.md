@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2256
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2256
@@ -16,9 +16,10 @@ Veterans Information Modernization Act
 
 - Rep. Benishek, Dan [R-MI-1] (B001271)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Veterans Information Modernization Act
 - 2015-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 449). (text: CR H5304-5306)
 - 2015-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 449).(text: CR H5304-5306)
 - 2015-07-21 — The title of the measure was amended. Agreed to without objection.
+- 2015-07-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
