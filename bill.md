@@ -27,3 +27,7 @@ Congress finds the following:
 
 - **(a)** *In general* Title XVI of the Homeland Security Act of 2002 (6 U.S.C. 561 et seq.) is amended by adding at the end the following:
 - **(b)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1616 the following:
+
+## § 4. Inspector General assessment
+
+Not later than one year after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall assess implementation of the requirements under this Act and the amendments made by this Act, and provide findings and recommendations with respect to the provision of training to Administration personnel, equipment maintenance technicians, and other personnel under section 1621 of the Homeland Security Act of 2002 (as added by section 3 of this Act) and the availability and utilization of equipment maintenance technicians employed by the Administration.
