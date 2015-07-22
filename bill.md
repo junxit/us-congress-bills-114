@@ -20,11 +20,11 @@ The Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 10
 > ## § 216. Anti-retaliation protection for whistleblowers
 >
 > - **(a)** *Whistleblower protections for employees, contractors, subcontractors, and agents*
->   - **(1)** *In general* No employer may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against a covered individual in the terms and conditions of employment of the covered individual because—
->     - **(A)** the covered individual provided or caused to be provided to the employer or the Federal Government information relating to—
+>   - **(1)** *In general* No employer may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against a covered individual in the terms and conditions of employment of the covered individual because of any lawful act done by the covered individual—
+>     - **(A)** to provide or cause to be provided to the employer or the Federal Government information relating to—
 >       - **(i)** any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
 >       - **(ii)** any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws; or
->     - **(B)** the covered individual filed, caused to be filed, testified, participated in, or otherwise assisted an investigation or a proceeding filed or about to be filed (with any knowledge of the employer) relating to—
+>     - **(B)** to cause to be filed, testify in, participate in, or otherwise assist a Federal Government investigation or a Federal Government proceeding filed or about to be filed (with any knowledge of the employer) relating to—
 >       - **(i)** any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
 >       - **(ii)** any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws.
 >   - **(2)** *Limitation on protections* Paragraph (1) shall not apply to any covered individual if—
@@ -35,7 +35,10 @@ The Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 10
 >     - **(A)** *Antitrust laws* The term antitrust laws means section 1 or 3 of the Sherman Act (15 U.S.C. 1 and 3).
 >     - **(B)** *Covered individual* The term covered individual means an employee, contractor, subcontractor, or agent of an employer.
 >     - **(C)** *Employer* The term employer means a person, or any officer, employee, contractor, subcontractor, or agent of such person.
->     - **(D)** *Person* The term person has the same meaning as in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)).
+>     - **(D)** *Federal Government* The term Federal Government means—
+>       - **(i)** a Federal regulatory or law enforcement agency; or
+>       - **(ii)** any Member of Congress or committee of Congress.
+>     - **(E)** *Person* The term person has the same meaning as in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)).
 >   - **(4)** *Rule of construction* The term violation, with respect to the antitrust laws, shall not be construed to include a civil violation of any law that is not also a criminal violation.
 > - **(b)** *Enforcement action*
 >   - **(1)** *In general* A covered individual who alleges discharge or other discrimination by any employer in violation of subsection (a) may seek relief under subsection (c) by—
