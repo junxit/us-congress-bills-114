@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2843
@@ -30,3 +30,9 @@ TSA PreCheck Expansion Act
 - 2015-06-19 — Introduced in House
 - 2015-06-19 — Introduced in House
 - 2015-06-19 — Referred to the House Committee on Homeland Security.
+- 2015-06-23 — Referred to the Subcommittee on Transportation Security.
+- 2015-06-25 — Committee Consideration and Mark-up Session Held.
+- 2015-06-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-07-22 — Placed on the Union Calendar, Calendar No. 167.
+- 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.
+- 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.
