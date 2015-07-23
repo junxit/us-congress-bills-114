@@ -1,7 +1,7 @@
 ---
 measure: S. 834
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 834
@@ -30,3 +30,7 @@ Sport Fish Restoration and Recreational Boating Safety Act
 
 - 2015-03-23 — Introduced in Senate
 - 2015-03-23 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-03-25 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-91.
+- 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-91.
+- 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.
