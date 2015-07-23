@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 720
@@ -51,3 +51,7 @@ Gerardo Hernandez Airport Security Act of 2015
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 70).(text: CR H894-895)
 - 2015-02-11 — Received in the Senate.
 - 2015-02-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-92.
+- 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-92.
+- 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
