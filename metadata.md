@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2499
@@ -64,3 +64,15 @@ Veterans Entrepreneurship Act of 2015
 - 2015-07-23 — Senate amendment agreed to: Amendment SA 2326 agreed to in Senate by Unanimous Consent.
 - 2015-07-23 — Senate amendment proposed (on the floor): Amendment SA 2326 proposed by Senator Sullivan for Senator Vitter.(consideration: CR S5558; text: CR S5558)
 - 2015-07-23 — Senate amendment submitted
+- 2015-07-24 — Message on Senate action sent to the House.
+- 2015-07-27 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree in the Senate amendment to H.R. 2499.
+- 2015-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-27 — Mr. Chabot moved that the House suspend the rules and agree to the Senate amendment. (consideration:  CR H5508-5510)
+- 2015-07-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H5508)
+- 2015-07-27 — Presented to President.
+- 2015-07-27 — Presented to President.
+- 2015-07-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H5508)
+- 2015-07-28 — Became Public Law No: 114-38.
+- 2015-07-28 — Became Public Law No: 114-38.
+- 2015-07-28 — Signed by President.
+- 2015-07-28 — Signed by President.
