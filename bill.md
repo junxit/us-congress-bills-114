@@ -1,0 +1,33 @@
+---
+legis-num: S. 1851
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1851
+
+> To amend the Juvenile Justice and Delinquency Prevention Act of 1974 to require States to eliminate the use of restraints on pregnant juveniles in State correction facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Human Rights for Girls Act”.
+
+## § 2. Prohibition on use of restraints
+
+Section 223(a) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(a)) is amended—
+
+- **(1)** in paragraph (7)(B)—
+  - **(A)** in clause (iii), by striking “and” at the end;
+  - **(B)** in clause (iv), by adding “and” and the end; and
+  - **(C)** by inserting after clause (iv) the following:
+    > - **(v)** not later than 1 year after the date of enactment of the Human Rights for Girls Act, a plan, which shall be implemented not later than 2 years after the date of enactment of the Human Rights for Girls Act, to—
+    >   - **(I)** eliminate the use of restraints of known pregnant juveniles housed in secure juvenile detention and correction facilities, during labor, delivery, and post-partum recovery, unless credible, reasonable grounds exist to believe the detainee presents an immediate and serious threat of hurting herself, staff, or others; and
+    >   - **(II)** eliminate the use of abdominal restraints, leg and ankle restraints, wrist restraints behind the back, and four-point restraints on known pregnant juveniles, unless—
+    >     - **(aa)** credible, reasonable grounds exist to believe the detainee presents an immediate and serious threat of hurting herself, staff, or others; or
+    >     - **(bb)** reasonable grounds exist to believe the detainee presents an immediate and credible risk of escape that cannot be reasonably minimized through any other method;
+
+- **(2)** in paragraph (27), by striking “and” at the end;
+- **(3)** in paragraph (28), by striking the period at the end and inserting “; and”; and
+- **(4)** by adding at the end the following:
+  > - **(29)** describe the policies, procedures, and training in effect for the staff of juvenile State correctional facilities to eliminate the use of dangerous practices regarding known pregnant juveniles, including unreasonable restraints.
