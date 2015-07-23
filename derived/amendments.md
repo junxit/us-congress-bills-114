@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

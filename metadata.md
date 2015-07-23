@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 23
@@ -59,3 +59,15 @@ National Windstorm Impact Reduction Act Reauthorization of 2015
 - 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
 - 2015-07-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5557-5558; text as passed Senate: CR S5557-5558)
 - 2015-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5557-5558; text as passed Senate: CR S5557-5558)
+- 2015-07-24 — Message on Senate action sent to the House.
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 23.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5987-5990)
+- 2015-09-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H5987-5988)
+- 2015-09-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H5987-5988)
+- 2015-09-21 — Presented to President.
+- 2015-09-21 — Presented to President.
+- 2015-09-30 — Became Public Law No: 114-52.
+- 2015-09-30 — Became Public Law No: 114-52.
+- 2015-09-30 — Signed by President.
+- 2015-09-30 — Signed by President.
