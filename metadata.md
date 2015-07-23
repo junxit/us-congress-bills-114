@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1734
@@ -154,3 +154,4 @@ Improving Coal Combustion Residuals Regulation Act of 2015
 - 2015-07-22 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
 - 2015-07-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5379)
 - 2015-07-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5378)
+- 2015-07-23 — Received in the Senate.
