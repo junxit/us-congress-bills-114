@@ -1,0 +1,27 @@
+---
+legis-num: H.J. RES. 61
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 61
+
+> Amending the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.
+
+## § 1. Short title
+
+This joint resolution may be cited as the “Hire More Heroes Act of 2015”.
+
+## § 2. Employees with health coverage under TRICARE or the Veterans Administration not taken into account in determining employers to which the employer mandate applies under Patient Protection and Affordable Care Act
+
+- **(a)** *In general* Section 4980H(c)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+  > - **(F)** *Exemption for health coverage under TRICARE or the Veterans Administration* Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+  >   - **(i)** chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
+  >   - **(ii)** under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to months beginning after December 31, 2013.
+
+## § 3. Budgetary effects; statutory pay-as-you-go (PAYGO) scorecards
+
+The budgetary effects of this joint resolution shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(d)).
