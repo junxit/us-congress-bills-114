@@ -1,7 +1,7 @@
 ---
 measure: S. 242
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 242
@@ -28,3 +28,7 @@ Wounded Warriors Federal Leave Act of 2015
 
 - 2015-01-22 — Introduced in Senate
 - 2015-01-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-03-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-89.
+- 2015-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-89.
+- 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.
