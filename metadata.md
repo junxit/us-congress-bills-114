@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 23
@@ -57,3 +57,5 @@ National Windstorm Impact Reduction Act Reauthorization of 2015
 - 2015-06-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-62.
 - 2015-06-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-62.
 - 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
+- 2015-07-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5557-5558; text as passed Senate: CR S5557-5558)
+- 2015-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5557-5558; text as passed Senate: CR S5557-5558)
