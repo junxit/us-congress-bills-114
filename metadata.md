@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1599
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1599
@@ -125,10 +125,11 @@ Safe and Accurate Food Labeling Act of 2015
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (5)
 
@@ -209,3 +210,4 @@ Safe and Accurate Food Labeling Act of 2015
 - 2015-07-23 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2015-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H5438)
 - 2015-07-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2015-07-24 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
