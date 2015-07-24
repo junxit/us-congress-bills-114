@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3009
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3009
@@ -63,9 +63,10 @@ Enforce the Law for Sanctuary Cities Act
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -91,3 +92,4 @@ Enforce the Law for Sanctuary Cities Act
 - 2015-07-23 — Rule provides for consideration of H.R. 3009 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2015-07-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5450)
 - 2015-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H5449)
+- 2015-07-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
