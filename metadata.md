@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1831
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1831
@@ -35,3 +35,9 @@ Evidence-Based Policymaking Commission Act of 2016
 - 2015-07-16 — Placed on the Union Calendar, Calendar No. 159.
 - 2015-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-211.
 - 2015-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-211.
+- 2015-07-27 — Considered under suspension of the rules. (consideration: CR H5486-5488)
+- 2015-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1831.
+- 2015-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-27 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5486-5487)
+- 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5486-5487)

@@ -37,7 +37,7 @@ There is established in the executive branch a commission to be known as the “
     - **(A)** two shall be academic researchers, data experts, or have experience in administering programs; and
     - **(B)** one shall have expertise in database management, confidentiality, and privacy matters.
 - **(b)** *Expertise* In making appointments under this section, consideration should be given to individuals with expertise in economics, statistics, program evaluation, data security, confidentiality, or database management.
-- **(c)** *Chairperson and co-chairperson* The President shall select the chairperson of the Commission and the Speaker of the House of Representatives shall select the co-chairperson.
+- **(c)** *Chairperson and co-Chairperson* The President shall select the chairperson of the Commission and the Speaker of the House of Representatives shall select the co-chairperson.
 - **(d)** *Timing of appointments* Appointments to the Commission shall be made not later than 45 days after the date of enactment of this Act.
 - **(e)** *Terms; vacancies* Each member shall be appointed for the duration of the Commission. Any vacancy in the Commission shall not affect its powers, and shall be filled in the manner in which the original appointment was made.
 - **(f)** *Compensation* Members of the Commission shall serve without pay.
@@ -46,11 +46,11 @@ There is established in the executive branch a commission to be known as the “
 ## § 4. Duties of the Commission
 
 - **(a)** *Study of data* The Commission shall conduct a comprehensive study of the data inventory, data infrastructure, and statistical protocols related to Federal policymaking and the agencies responsible for maintaining that data to—
-  - **(1)** determine the optimal arrangement for which administrative data on Federal programs and tax expenditures and related data series may be integrated and made available to facilitate program evaluation, continuous improvement, policy-relevant research, and cost-benefit analyses by qualified researchers and institutions;
-  - **(2)** make recommendations on how data infrastructure and protocols should be modified to best fulfill the objectives identified in paragraph (1); and
+  - **(1)** determine the optimal arrangement for which administrative data on Federal programs and tax expenditures, survey data, and related statistical data series may be integrated and made available to facilitate program evaluation, continuous improvement, policy-relevant research, and cost-benefit analyses by qualified researchers and institutions;
+  - **(2)** make recommendations on how data infrastructure and statistical protocols should be modified to best fulfill the objectives identified in paragraph (1); and
   - **(3)** make recommendations on how best to incorporate outcomes measurement, institutionalize randomized controlled trials, and rigorous impact analysis into program design.
 - **(b)** *Clearinghouse* In undertaking the study required by subsection (a), the Commission shall consider whether a clearinghouse for program and survey data should be established and how to create such a clearinghouse. The Commission shall evaluate—
-  - **(1)** what administrative data are relevant for program evaluation and Federal policy-making and should be included in a potential clearinghouse;
+  - **(1)** what administrative data and survey data are relevant for program evaluation and Federal policy-making and should be included in a potential clearinghouse;
   - **(2)** which survey data the administrative data identified in paragraph (1) may be linked to, in addition to linkages across administrative data series;
   - **(3)** what are the legal and administrative barriers to including or linking these data series;
   - **(4)** what data-sharing infrastructure should be used to facilitate data merging and access for research purposes;
@@ -90,10 +90,10 @@ There is established in the executive branch a commission to be known as the “
 
 ## § 6. Funding
 
-Subject to the availability of appropriations—
-
-- **(1)** at the request of the Director of the Census, the agencies identified as “Principal Statistical Agencies” in the report, published by the Office of Management and Budget, entitled “Statistical Programs of the United States Government, Fiscal Year 2015” shall provide funds, in a total amount not to exceed $3,000,000, to the Director for purposes of carrying out the activities of the Commission as provided in this Act; and
-- **(2)** the Bureau of the Census shall provide administrative support to the Commission, which may include providing physical space at, and access to, the headquarters of the Bureau of the Census, located in Suitland, Maryland.
+- **(a)** *In general* Subject to subsection (b) and the availability of appropriations—
+  - **(1)** at the request of the Director of the Census, the agencies identified as “Principal Statistical Agencies” in the report, published by the Office of Management and Budget, entitled “Statistical Programs of the United States Government, Fiscal Year 2015” shall transfer funds, as specified in advance in appropriations Acts and in a total amount not to exceed $3,000,000, to the Bureau of the Census for purposes of carrying out the activities of the Commission as provided in this Act; and
+  - **(2)** the Bureau of the Census shall provide administrative support to the Commission, which may include providing physical space at, and access to, the headquarters of the Bureau of the Census, located in Suitland, Maryland.
+- **(b)** *Prohibition on new funding* No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise available for the Bureau of the Census or the agencies described in subsection (a)(1).
 
 ## § 7. Personnel
 
