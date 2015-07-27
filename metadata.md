@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2770
@@ -31,6 +31,10 @@ Keeping our Travelers Safe and Secure Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-07-27 — [House 114-1-469](votes/house-114-1-0469.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (380–0)
+
 ## Actions
 
 - 2015-06-15 — Introduced in House
@@ -44,3 +48,11 @@ Keeping our Travelers Safe and Secure Act
 - 2015-07-22 — Placed on the Union Calendar, Calendar No. 164.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-218.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-218.
+- 2015-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-27 — Considered as unfinished business. (consideration: CR H5512-5513)
+- 2015-07-27 — Considered under suspension of the rules. (consideration: CR H5499-5501)
+- 2015-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2770.
+- 2015-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-27 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 469). (text: CR H5499-5500)
+- 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 469).(text: CR H5499-5500)
