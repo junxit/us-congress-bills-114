@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Presidential Transitions Improvements Act of 2015”.
+This Act may be cited as the “Edward ‘Ted’ Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015”.
 
 ## § 2. Presidential transition improvements
 
@@ -109,3 +109,73 @@ Section 2203(g) of title 44, United States Code, is amended—
 - **(1)** by redesignating paragraph (3) as paragraph (4); and
 - **(2)** by inserting after paragraph (2) the following:
   > - **(3)** When the President considers it practicable and in the public interest, the President shall include in the President's budget transmitted to Congress, for each fiscal year in which the term of office of the President will expire, such funds as may be necessary for carrying out the authorities of this subsection.
+
+## § 4. Reports on political appointees appointed to nonpolitical permanent positions
+
+- **(a)** *Definitions* In this section—
+  - **(1)** the term agency has the meaning given the term Executive agency in section 105 of title 5, United States Code;
+  - **(2)** the term covered civil service position means a position in the civil service (as defined in section 2101 of title 5, United States Code) that is not—
+    - **(A)** a temporary position; or
+    - **(B)** a political position;
+  - **(3)** the term former political appointee means an individual who—
+    - **(A)** is not serving in an appointment to a political position; and
+    - **(B)** served as a political appointee during the 5-year period ending on the date of the request for an appointment to a covered civil service position in any agency;
+  - **(4)** the term political appointee means an individual serving in an appointment to a political position; and
+  - **(5)** the term political position means—
+    - **(A)** a position described under sections 5312 through 5316 of title 5, United States Code (relating to the Executive Schedule);
+    - **(B)** a noncareer appointment in the Senior Executive Service, as defined under paragraph (7) of section 3132(a) of title 5, United States Code; or
+    - **(C)** a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations.
+- **(b)** *Reporting on current or recent political appointees appointed to covered civil service positions* The Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a quarterly report regarding requests by agencies to appoint political appointees or former political appointees to covered civil service positions, which shall—
+  - **(1)** for each request by an agency that a political appointee be appointed to a covered civil service position during the period covered by the quarterly report, provide—
+    - **(A)** the date on which the request was received by the Office of Personnel Management;
+    - **(B)** subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+    - **(C)** the date on which the individual was first appointed to a political position in the agency in which the individual is serving as a political appointee;
+    - **(D)** the grade and rate of basic pay for the individual as a political appointee;
+    - **(E)** the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+    - **(F)** whether the Office of Personnel Management approved or denied the request; and
+    - **(G)** the date on which the individual was appointed to a covered civil service position, if applicable; and
+  - **(2)** for each request by an agency that a former political appointee be appointed to a covered civil service position during the period covered by the quarterly report, provide—
+    - **(A)** the date on which the request was received by the Office of Personnel Management;
+    - **(B)** subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+    - **(C)** the date on which the individual was first appointed to any political position;
+    - **(D)** the grade and rate of basic pay for the individual as a political appointee;
+    - **(E)** the date on which the individual ceased to serve in a political position;
+    - **(F)** the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+    - **(G)** whether the Office of Personnel Management approved or denied the request; and
+    - **(H)** the date on which the individual was first appointed to a covered civil service position, if applicable.
+- **(c)** *Names and titles of certain appointees* If determined appropriate by the Director of the Office of Personnel Management, a report submitted under subsection (b) may exclude the name or title of a political appointee or former political appointee—
+  - **(1)** who—
+    - **(A)** was requested to be appointed to a covered civil service position; and
+    - **(B)** was not appointed to a covered civil service position; or
+  - **(2)** relating to whom a request to be appointed to a covered civil service position is pending at the end of the period covered by that report.
+
+## § 5. Report on regulations promulgated near the end of presidential terms
+
+- **(a)** *Definitions* In this section—
+  - **(1)** the term covered presidential transition period means—
+    - **(A)** the 120-day period ending on January 20, 1993.
+    - **(B)** the 120-day period ending on January 20, 2001;
+    - **(C)** the 120-day period ending on January 20, 2009; and
+    - **(D)** the 120-day period ending on January 20, 2017;
+  - **(2)** the term covered regulation means a final regulation promulgated by an Executive department; and
+  - **(3)** the term Executive department has the meaning given that term under section 101 of title 5, United States Code.
+- **(b)** *Reports*
+  - **(1)** *In general* The Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report regarding covered regulations promulgated during the covered presidential transition periods described in subparagraph (A), (B), or (C) of subsection (a)(1).
+  - **(2)** *Next presidential transition* The Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report regarding covered regulations promulgated during the covered presidential transition period described in subsection (a)(1)(D).
+  - **(3)** *Contents of reports* The reports required under paragraphs (1) and (2) shall, for each covered presidential transition period covered by the report—
+    - **(A)** compare the number, scope, and cost (if possible) of, and type of rulemaking procedure used for, covered regulations promulgated during the covered presidential transition period to the number, scope, and cost of, and type of rulemaking procedure used for, covered regulations promulgated during the 120-day periods ending on January 20 of each year after 1988, other than 1993, 2001, and 2009;
+    - **(B)** determine the statistical significance of any differences identified under subparagraph (A) and whether and to what extent such differences indicate any patterns;
+    - **(C)** evaluate the size, scope, and effect of the covered regulations promulgated during the covered presidential transition period; and
+    - **(D)** assess the extent to which the regularly required processes for the promulgation of covered regulations were followed during the covered presidential transition period, including compliance with the requirements under—
+      - **(i)** chapter 8 of title 5, United States Code (commonly known as the “Congressional Review Act”);
+      - **(ii)** the Small Business Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 note);
+      - **(iii)** chapter 6 of title 5, United States Code (commonly known as the “Regulatory Flexibility Act”); and
+      - **(iv)** chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”).
+
+## § 6. Analysis of threats and vulnerabilities
+
+- **(a)** *In general* Not later than February 15, 2016, the Secretary of Homeland Security shall submit to Congress a report analyzing the threats and vulnerabilities facing the United States during a presidential transition, which—
+  - **(1)** shall identify and discuss vulnerabilities related to border security and threats related to terrorism, including from weapons of mass destruction;
+  - **(2)** shall identify steps being taken to address the threats and vulnerabilities during a presidential transition; and
+  - **(3)** may include recommendations for actions by components and agencies within the Department of Homeland Security.
+- **(b)** *Form* The report submitted under subsection (a) shall be prepared in unclassified form, but may contain a classified annex.
