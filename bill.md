@@ -37,11 +37,11 @@ This Act may be cited as the “Representative Payee Fraud Prevention Act of 201
   - **(1)** *CSRS* Section 8345 of title 5, United States Code, is amended by inserting after subsection (e) the following:
     > - **(f)** The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (e) if that person has been convicted of a violation of—
     >   - **(1)** section 8345a or 8466a;
-    >   - **(2)** section 208 or 1632 of the Social Security Act (42 U.S.C. 408 and 1632); or
+    >   - **(2)** section 208 or 1632 of the Social Security Act (42 U.S.C. 408 and 1632 1383a); or
     >   - **(3)** section 6101 of title 38, United States Code.
 
   - **(2)** *FERS* Section 8466 of title 5, United States Code, is amended by adding at the end the following:
     > - **(d)** The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (c) if that person has been convicted of a violation of—
     >   - **(1)** section 8345a or 8466a;
-    >   - **(2)** section 208 or 1632 of the Social Security Act (42 U.S.C. 408 and 1632); or
+    >   - **(2)** section 208 or 1632 of the Social Security Act (42 U.S.C. 408 and 1632 1383a); or
     >   - **(3)** section 6101 of title 38, United States Code.
