@@ -30,7 +30,18 @@ Section 1752(a) of title 18, United States Code, is amended—
 
 ## § 4. Threats against former vice presidents
 
-Section 879(a)(4) of title 18, United States Code, is amended by striking “section 3056(a)(6)” and inserting “paragraph (6) or (8) of section 3056(a)”.
+Section 879 of title 18, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
+  - **(B)** by inserting after paragraph (1) the following:
+    > - **(2)** a former Vice President or a member of the immediate family of a former Vice President;
+
+- **(2)** in subsection (b)(1)—
+  - **(A)** in subparagraph (A)—
+    - **(i)** by striking “subsection (a)(1)” and inserting “paragraphs (1) and (2) of subsection (a)”; and
+    - **(ii)** by inserting “or former Vice President” after “former President” each place it appears; and
+  - **(B)** in subparagraph (B), by striking “subsection (a)(2) and (a)(3)” and inserting “paragraphs (3) and (4) of subsection (a)”.
 
 ## § 5. Increased training
 
@@ -86,7 +97,7 @@ The Director of the Secret Service shall evaluate the practicability of equippin
 
 ## § 12. Establishment of Ethics Program Office
 
-Subject to the oversight of the Office of Chief Counsel of the United States Secret Service, the Director of the Secret Service shall establish an Ethics Program Office, consisting of a minimum of two employees, to administer the provisions of the Ethics in Government Act of 1978, as amended, and to provide increased training to employees of the United States Secret Service.
+Subject to the oversight of the Office of Chief Counsel of the United States Secret Service, the Director of the Secret Service shall establish an Ethics Program Office, consisting of a minimum of 2 employees, to administer the provisions of the Ethics in Government Act of 1978, as amended, and to provide increased training to employees of the United States Secret Service.
 
 ## § 13. Sense of Congress
 
