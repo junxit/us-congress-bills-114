@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 1138
@@ -41,3 +41,12 @@ Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act
 - 2015-07-27 — Received in the Senate, read twice.
 - 2015-07-27 — Reported by the Committee on Natural Resources. H. Rept. 114-229.
 - 2015-07-27 — Reported by the Committee on Natural Resources. H. Rept. 114-229.
+- 2015-08-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6270-6271)
+- 2015-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6270-6271)
+- 2015-08-05 — Message on Senate action sent to the House.
+- 2015-08-06 — Presented to President.
+- 2015-08-06 — Presented to President.
+- 2015-08-07 — Became Public Law No: 114-46.
+- 2015-08-07 — Became Public Law No: 114-46.
+- 2015-08-07 — Signed by President.
+- 2015-08-07 — Signed by President.
