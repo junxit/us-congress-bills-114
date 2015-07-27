@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2843
@@ -36,3 +36,9 @@ TSA PreCheck Expansion Act
 - 2015-07-22 — Placed on the Union Calendar, Calendar No. 167.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.
+- 2015-07-27 — Considered under suspension of the rules. (consideration: CR H5501-5502)
+- 2015-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2843.
+- 2015-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-27 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5501)
+- 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5501)
