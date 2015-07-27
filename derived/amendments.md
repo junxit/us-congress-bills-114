@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 114
-version: Received in Senate
+version: Reported in House
 derived: true
 ---
 
