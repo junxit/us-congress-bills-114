@@ -40,7 +40,7 @@ Pursuant to section 1629 of title 19, United States Code, and subject to section
   - **(8)** Information on the anticipated homeland security benefits associated with establishing such preclearance operations.
   - **(9)** Information on potential security vulnerabilities associated with commencing such preclearance operations, and mitigation plans to address such potential security vulnerabilities.
   - **(10)** A U.S. Customs and Border Protection staffing model for such preclearance operations, and plans for how such positions would be filled.
-  - **(11)** Information on the anticipated costs over the next five fiscal years associated with commencing such preclearance operations.
+  - **(11)** Information on the anticipated costs over the next 5 fiscal years associated with commencing such preclearance operations.
   - **(12)** A copy of the agreement referred to in subsection (a) of section 5.
   - **(13)** Other factors that the Secretary of Homeland Security determines to be necessary for Congress to comprehensively assess the appropriateness of commencing such preclearance operations.
 - **(b)** *Certifications relating to preclearance operations established at airports* In the case of an airport, in addition to the notification requirements under subsection (a), not later than 90 days before entering into an agreement with the government of a foreign country to establish U.S. Customs and Border Protection preclearance operations at an airport in such foreign country, the Secretary of Homeland Security shall provide to the appropriate congressional committees the following:
