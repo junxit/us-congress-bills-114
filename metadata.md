@@ -1,7 +1,7 @@
 ---
 measure: S. 614
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 614
@@ -42,3 +42,18 @@ Federal Improper Payments Coordination Act of 2015
 - 2015-07-28 — Senate amendment agreed to: Amendment SA 2541 agreed to in Senate by Unanimous Consent.
 - 2015-07-28 — Senate amendment proposed (on the floor): Amendment SA 2541 proposed by Senator McConnell for Senator Carper.(consideration: CR S6084-6085; text: CR S6084-6085)
 - 2015-07-28 — Senate amendment submitted
+- 2015-07-29 — Held at the desk.
+- 2015-07-29 — Message on Senate action sent to the House.
+- 2015-07-29 — Received in the House.
+- 2015-12-07 — Considered under suspension of the rules. (consideration: CR H9018-9021)
+- 2015-12-07 — DEBATE - The House proceeded with forty minutes of debate on S. 614.
+- 2015-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-07 — Mr. Mulvaney moved to suspend the rules and pass the bill.
+- 2015-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9018-9019)
+- 2015-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9018-9019)
+- 2015-12-09 — Presented to President.
+- 2015-12-09 — Presented to President.
+- 2015-12-18 — Became Public Law No: 114-109.
+- 2015-12-18 — Became Public Law No: 114-109.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
