@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1656
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1656
@@ -23,9 +23,10 @@ Secret Service Improvements Act of 2016
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Secret Service Improvements Act of 2016
 - 2015-07-27 — Placed on the Union Calendar, Calendar No. 174.
 - 2015-07-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-231.
 - 2015-07-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-231.
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
