@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1634
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1634
@@ -32,9 +32,10 @@ Border Security Technology Accountability Act of 2015
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Border Security Technology Accountability Act of 2015
 - 2015-07-27 — Placed on the Union Calendar, Calendar No. 171.
 - 2015-07-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-226.
 - 2015-07-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-226.
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
