@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 3243
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3243
+
+> To amend title XI of the Social Security Act to clarify waiver authority regarding programs of all-inclusive care for the elderly (PACE programs).
+
+## § 1. Clarification of waiver authority regarding PACE programs
+
+Subsection (d)(1) of section 1115A of the Social Security Act (42 U.S.C. 1315a) is amended by striking “and 1903(m)(2)(A)(iii)” and inserting “1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)”.
