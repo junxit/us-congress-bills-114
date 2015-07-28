@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2843
@@ -21,9 +21,10 @@ TSA PreCheck Expansion Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ TSA PreCheck Expansion Act
 - 2015-07-27 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5501)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5501)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
