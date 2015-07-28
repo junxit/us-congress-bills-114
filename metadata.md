@@ -1,7 +1,7 @@
 ---
 measure: H.R. 774
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 774
@@ -91,3 +91,14 @@ Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5479-5484)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5479-5484)
 - 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-10-21 — Passed Senate without amendment by Unanimous Consent.
+- 2015-10-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-10-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S7407)
+- 2015-10-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S7407)
+- 2015-10-22 — Message on Senate action sent to the House.
+- 2015-10-26 — Presented to President.
+- 2015-10-26 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-81.
+- 2015-11-05 — Became Public Law No: 114-81.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 774
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
