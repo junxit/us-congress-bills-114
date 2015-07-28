@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2770
@@ -27,9 +27,10 @@ Keeping our Travelers Safe and Secure Act
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Keeping our Travelers Safe and Secure Act
 - 2015-07-27 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 469). (text: CR H5499-5500)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 469).(text: CR H5499-5500)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
