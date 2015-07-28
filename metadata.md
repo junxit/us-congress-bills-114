@@ -1,7 +1,7 @@
 ---
 measure: H.R. 675
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 675
@@ -28,6 +28,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2015-07-28 — [House 114-1-472](votes/house-114-1-0472.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–0)
+
 ## Actions
 
 - 2015-02-03 — Introduced in House
@@ -42,3 +46,12 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 - 2015-07-16 — Placed on the Union Calendar, Calendar No. 155.
 - 2015-07-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-206.
 - 2015-07-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-206.
+- 2015-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-27 — Considered under suspension of the rules. (consideration: CR H5513-5517)
+- 2015-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 675.
+- 2015-07-27 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2015-07-28 — Considered as unfinished business. (consideration: CR H5545)
+- 2015-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 472). (text: CR 7/27/2015 H5513-5515)
+- 2015-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 472).(text: CR 7/27/2015 H5513-5515)
+- 2015-07-28 — The title of the measure was amended. Agreed to without objection.
