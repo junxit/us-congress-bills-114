@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2206
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2206
@@ -22,9 +22,10 @@ State Wide Interoperable Communications Enhancement Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ State Wide Interoperable Communications Enhancement Act
 - 2015-07-27 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5506)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5506)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
