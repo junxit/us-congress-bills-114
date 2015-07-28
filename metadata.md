@@ -1,7 +1,7 @@
 ---
 measure: H.R. 774
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 774
@@ -58,11 +58,12 @@ Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
 - House — Judiciary Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015
 - 2015-07-27 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5479-5484)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5479-5484)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
