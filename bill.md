@@ -18,6 +18,9 @@ This Act may be cited as the “Northern Border Security Review Act”.
 - **(a)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the appropriate congressional committees a northern border threat analysis. Such analysis, at a minimum, shall include the following:
   - **(1)** An analysis of current and potential terrorism threats posed by individuals seeking to enter the United States through the northern border.
   - **(2)** An analysis of improvements needed at ports of entry along the northern border to prevent terrorists and instruments of terror from entering the United States.
-  - **(3)** An analysis of gaps in law, policy, international agreements, or tribal agreements that hinder the border security and counterterrorism efforts along the northern border.
-  - **(4)** An analysis of illegal cross border activity between ports of entry, including the maritime borders of the Great Lakes.
+  - **(3)** An analysis of the number of additional U.S. Customs and Border Protection agents and officers needed at and between ports of entry along the northern border.
+  - **(4)** An analysis of gaps in law, policy, international agreements, or tribal agreements that hinder the border security and counterterrorism efforts along the northern border.
+  - **(5)** An analysis of illegal cross border activity between ports of entry, including the maritime borders of the Great Lakes.
+  - **(6)** An analysis of the scope of border security challenges that shall include the terrain, population density, and climate along the northern border.
+  - **(7)** An analysis of whether additional preclearance and pre-inspection by U.S. Customs and Border Protection at ports of entry along the northern border could help prevent terrorists and their instruments from entering the United States.
 - **(b)** *Classified threat analysis* The threat analysis required under subsection (a) may be submitted in classified form, if the Secretary of Homeland Security determines that such is appropriate.
