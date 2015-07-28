@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 427
@@ -196,6 +196,19 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - House — Rules Committee
 - House — Judiciary Committee
 
+## Recorded votes (10)
+
+- 2015-07-28 — [House 114-1-473](votes/house-114-1-0473.md) — On Agreeing to the Amendment — **Agreed to** (250–159)
+- 2015-07-28 — [House 114-1-474](votes/house-114-1-0474.md) — On Agreeing to the Amendment — **Agreed to** (242–167)
+- 2015-07-28 — [House 114-1-475](votes/house-114-1-0475.md) — On Agreeing to the Amendment — **Failed** (163–246)
+- 2015-07-28 — [House 114-1-476](votes/house-114-1-0476.md) — On Agreeing to the Amendment — **Failed** (166–244)
+- 2015-07-28 — [House 114-1-477](votes/house-114-1-0477.md) — On Agreeing to the Amendment — **Failed** (166–242)
+- 2015-07-28 — [House 114-1-478](votes/house-114-1-0478.md) — On Agreeing to the Amendment — **Failed** (167–243)
+- 2015-07-28 — [House 114-1-479](votes/house-114-1-0479.md) — On Agreeing to the Amendment — **Failed** (167–241)
+- 2015-07-28 — [House 114-1-480](votes/house-114-1-0480.md) — On Agreeing to the Amendment — **Failed** (167–239)
+- 2015-07-28 — [House 114-1-481](votes/house-114-1-0481.md) — On Motion to Recommit with Instructions — **Failed** (167–241)
+- 2015-07-28 — [House 114-1-482](votes/house-114-1-0482.md) — On Passage — **Passed** (243–165)
+
 ## Actions
 
 - 2015-01-21 — Introduced in House
@@ -215,3 +228,105 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - 2015-07-21 — Placed on the Union Calendar, Calendar No. 161.
 - 2015-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-214, Part I.
 - 2015-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-214, Part I.
+- 2015-07-27 — Rules Committee Resolution H. Res. 380 Reported to House. Rule provides for consideration of H.R. 427 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. Resolution also provides for proceedings of the House during the period from July 30, 2015, through September 7, 2015.
+- 2015-07-28 — Amendment (A001) offered by Mr. Young (IA). (consideration: CR H5555-5556, H5564-5565; text: CR H5555)
+- 2015-07-28 — Amendment (A002) offered by Mr. Smith (MO). (consideration: CR H5556-5557, H5565-5566; text: CR H5556)
+- 2015-07-28 — Amendment (A003) offered by Mr. Davis, Rodney. (consideration: CR H5557-5558; text: CR H5557)
+- 2015-07-28 — Amendment (A004) offered by Mr. Johnson (GA). (consideration: CR H5558-5559, H5566; text: CR H5558)
+- 2015-07-28 — Amendment (A005) offered by Mrs. Capps. (consideration: CR H5559-5560, H5566-5567; text: CR H5559)
+- 2015-07-28 — Amendment (A006) offered by Mr. Cicilline. (consideration: CR H5560-5561, H5567-5568; text: CR H5560)
+- 2015-07-28 — Amendment (A007) offered by Mr. Cicilline. (consideration: CR H5561, H5568; text: CR H5561)
+- 2015-07-28 — Amendment (A008) offered by Mr. Nadler. (consideration: CR H5561-5563, H5568-5569; text: CR H5561-5562)
+- 2015-07-28 — Amendment (A009) offered by Mr. Pocan. (consideration: CR H5563-5564, H5569-5570; text: CR H5563)
+- 2015-07-28 — Amendment agreed to Committee of the Whole
+- 2015-07-28 — Amendment agreed to Committee of the Whole
+- 2015-07-28 — Amendment agreed to Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Amendment failed in Committee of the Whole
+- 2015-07-28 — Committee of the Whole House on the state of the Union rises leaving H.R. 427 as unfinished business.
+- 2015-07-28 — Considered as unfinished business. (consideration: CR H5564-5572)
+- 2015-07-28 — Considered under the provisions of rule H. Res. 380. (consideration: CR H5545-5564)
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H. Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 6.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H. Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 7.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H. Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment No. 9.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H. Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 10.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H.Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment No. 5.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H.Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson(GA) amendment No. 4.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H.Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis(IL) amendment No. 3.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H.Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Smith(MO) amendment No. 2.
+- 2015-07-28 — DEBATE - Pursuant to the provisions of H.Res. 380, the Committee of the Whole proceeded with 10 minutes of debate on the Young(IA) amendment No. 1.
+- 2015-07-28 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Nolan motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that rules to protect Social Security and Medicare would not be undermined by the underlying legislation such as: rules that would prevent an increase in Social Security the retirement age, rules that would restrict Medicare benefit changes, or rules that would prohibit the transformation of Medicare into a voucher system.
+- 2015-07-28 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 427.
+- 2015-07-28 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A003) Agreed to by voice vote.
+- 2015-07-28 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A002) Agreed to by recorded vote: 242 - 167 (Roll no. 474).
+- 2015-07-28 — House amendment agreed to: On agreeing to the Young (IA) amendment (A001) Agreed to by recorded vote: 250 - 159 (Roll no. 473).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Capps amendment (A005) Failed by recorded vote: 166 - 244 (Roll no. 476).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Cicilline amendment (A006) Failed by recorded vote: 166 - 242 (Roll no. 477).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Cicilline amendment (A007) Failed by recorded vote: 167 - 243 (Roll no. 478).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A004) Failed by recorded vote: 163 - 246 (Roll no. 475).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Nadler amendment (A008) Failed by recorded vote: 167 - 241 (Roll no. 479).
+- 2015-07-28 — House amendment not agreed to: On agreeing to the Pocan amendment (A009) Failed by recorded vote: 167 - 239 (Roll no. 480).
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered
+- 2015-07-28 — House amendment offered/reported by : Amendment (A001) offered by Mr. Young (IA).(consideration: CR H5555-5556, H5564-5565; text: CR H5555)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A002) offered by Mr. Smith (MO).(consideration: CR H5556-5557, H5565-5566; text: CR H5556)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A003) offered by Mr. Davis, Rodney.(consideration: CR H5557-5558; text: CR H5557)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A004) offered by Mr. Johnson (GA).(consideration: CR H5558-5559, H5566; text: CR H5558)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A005) offered by Mrs. Capps.(consideration: CR H5559-5560, H5566-5567; text: CR H5559)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A006) offered by Mr. Cicilline.(consideration: CR H5560-5561, H5567-5568; text: CR H5560)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A007) offered by Mr. Cicilline.(consideration: CR H5561, H5568; text: CR H5561)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A008) offered by Mr. Nadler.(consideration: CR H5561-5563, H5568-5569; text: CR H5561-5562)
+- 2015-07-28 — House amendment offered/reported by : Amendment (A009) offered by Mr. Pocan.(consideration: CR H5563-5564, H5569-5570; text: CR H5563)
+- 2015-07-28 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 380 and Rule XVIII.
+- 2015-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-28 — Mr. Goodlatte moved that the Committee rise.
+- 2015-07-28 — Mr. Nolan moved to recommit with instructions to the Committee on the Judiciary. (consideration: CR H5570-5571; text: CR H5570)
+- 2015-07-28 — On agreeing to the Capps amendment (A005) Failed by recorded vote: 166 - 244 (Roll no. 476).
+- 2015-07-28 — On agreeing to the Cicilline amendment (A006) Failed by recorded vote: 166 - 242 (Roll no. 477).
+- 2015-07-28 — On agreeing to the Cicilline amendment (A007) Failed by recorded vote: 167 - 243 (Roll no. 478).
+- 2015-07-28 — On agreeing to the Davis, Rodney amendment (A003) Agreed to by voice vote.
+- 2015-07-28 — On agreeing to the Johnson (GA) amendment (A004) Failed by recorded vote: 163 - 246 (Roll no. 475).
+- 2015-07-28 — On agreeing to the Nadler amendment (A008) Failed by recorded vote: 167 - 241 (Roll no. 479).
+- 2015-07-28 — On agreeing to the Pocan amendment (A009) Failed by recorded vote: 167 - 239 (Roll no. 480).
+- 2015-07-28 — On agreeing to the Smith (MO) amendment (A002) Agreed to by recorded vote: 242 - 167 (Roll no. 474).
+- 2015-07-28 — On agreeing to the Young (IA) amendment (A001) Agreed to by recorded vote: 250 - 159 (Roll no. 473).
+- 2015-07-28 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-07-28 — On motion to recommit with instructions Failed by recorded vote: 167 - 241 (Roll no. 481).
+- 2015-07-28 — On passage Passed by recorded vote: 243 - 165 (Roll no. 482).
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cicilline demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson(GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Johnson(GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pocan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pocan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith(MO) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith(MO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Edwards demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-28 — Passed/agreed to in House: On passage Passed by recorded vote: 243 - 165 (Roll no. 482).
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Roll call votes on amendments in House
+- 2015-07-28 — Rule H. Res. 380 passed House.
+- 2015-07-28 — Rule provides for consideration of H.R. 427 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. Resolution also provides for proceedings of the House during the period from July 30, 2015, through September 7, 2015.
+- 2015-07-28 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5552-5555)
+- 2015-07-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-07-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 427.
+- 2015-07-28 — The Speaker designated the Honorable Kenny Marchant to act as Chairman of the Committee.
+- 2015-07-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5571)
+- 2015-07-28 — The previous question was ordered pursuant to the rule. (consideration: CR H5570)
+- 2015-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

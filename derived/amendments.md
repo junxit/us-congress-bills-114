@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
