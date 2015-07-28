@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2786
@@ -29,3 +29,10 @@ Cross-Border Rail Security Act of 2015
 - 2015-06-15 — Introduced in House
 - 2015-06-15 — Introduced in House
 - 2015-06-15 — Referred to the House Committee on Homeland Security.
+- 2015-06-23 — Referred to the Subcommittee on Border and Maritime Security.
+- 2015-06-23 — Referred to the Subcommittee on Transportation Security.
+- 2015-06-25 — Committee Consideration and Mark-up Session Held.
+- 2015-06-25 — Ordered to be Reported by Voice Vote.
+- 2015-07-28 — Placed on the Union Calendar, Calendar No. 176.
+- 2015-07-28 — Reported by the Committee on Homeland Security. H. Rept. 114-233.
+- 2015-07-28 — Reported by the Committee on Homeland Security. H. Rept. 114-233.
