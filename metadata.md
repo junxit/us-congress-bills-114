@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 998
@@ -24,10 +24,11 @@ Preclearance Authorization Act of 2015
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Preclearance Authorization Act of 2015
 - 2015-07-27 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5495-5496)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5495-5496)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
