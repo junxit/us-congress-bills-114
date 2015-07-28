@@ -1,7 +1,7 @@
 ---
 measure: S. 614
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 3321` | strike | in the paragraph heading, by striking “by agencies”; and | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 3321` | add-at-end | by adding at the end the following: “States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 3321` | strike | in the paragraph heading, by striking “by agencies”; | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 3321` | replace | by striking “For purposes” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 3321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 3321` | strike | in subparagraph (B), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 3321` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 3321` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 614
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 614
@@ -16,10 +16,11 @@ Federal Improper Payments Coordination Act of 2015
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (1)
 
@@ -33,3 +34,11 @@ Federal Improper Payments Coordination Act of 2015
 - 2015-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-86.
 - 2015-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-86.
 - 2015-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
+- 2015-07-28 — Amendment SA 2541 agreed to in Senate by Unanimous Consent.
+- 2015-07-28 — Amendment SA 2541 proposed by Senator McConnell for Senator Carper. (consideration: CR S6084-6085; text: CR S6084-6085) In the nature of a substitute.
+- 2015-07-28 — Measure laid before Senate by unanimous consent. (consideration: CR S6084-6085)
+- 2015-07-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-07-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-07-28 — Senate amendment agreed to: Amendment SA 2541 agreed to in Senate by Unanimous Consent.
+- 2015-07-28 — Senate amendment proposed (on the floor): Amendment SA 2541 proposed by Senator McConnell for Senator Carper.(consideration: CR S6084-6085; text: CR S6084-6085)
+- 2015-07-28 — Senate amendment submitted
