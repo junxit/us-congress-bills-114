@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2750
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2750
@@ -24,9 +24,10 @@ Improved Security Vetting for Aviation Workers Act of 2015
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Improved Security Vetting for Aviation Workers Act of 2015
 - 2015-07-27 — Placed on the Union Calendar, Calendar No. 172.
 - 2015-07-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-227.
 - 2015-07-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-227.
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
