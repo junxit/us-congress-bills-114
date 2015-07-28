@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1607
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1607
@@ -50,9 +50,10 @@ Ruth Moore Act of 2015
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Ruth Moore Act of 2015
 - 2015-07-27 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5517-5518)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5517-5518)
+- 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
