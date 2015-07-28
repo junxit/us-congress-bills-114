@@ -63,7 +63,15 @@ Section 209(b)(2) (33 U.S.C. 1128(b)(2)) is amended—
 
 Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter before paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”.
 
-## § 8. Authorization of appropriations for National Sea Grant College Program
+## § 8. Direct hire authority; Dean John A. Knauss Marine Policy Fellowship
+
+- **(a)** *In general* During fiscal year 2016 and thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards.
+- **(b)** *Dean John A. Knauss Marine Policy Fellowship* Subsection (a) applies with respect to a former recipient of a Dean John A. Knauss Marine Policy Fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)) who—
+  - **(1)** earned a graduate or post-graduate degree in a field related to ocean, coastal and Great Lakes resources or policy from an accredited institution of higher education; and
+  - **(2)** successfully fulfilled the requirements of the fellowship within the executive or legislative branch of the United States Government.
+- **(c)** *Limitation* The direct hire authority under this section shall be exercised with respect to a specific qualified candidate not later than 2 years after the date that the candidate completed the fellowship.
+
+## § 9. Authorization of appropriations for National Sea Grant College Program
 
 - **(a)** *In general* Section 212(a) (33 U.S.C. 1131(a)) is amended—
   - **(1)** in paragraph (1)—
@@ -105,7 +113,7 @@ Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter before paragraph (1
     - **(A)** by striking subsection (c); and
     - **(B)** by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.
 
-## § 9. Technical corrections
+## § 10. Technical corrections
 
 The National Sea Grant College Program Act (33 U.S.C. 1121 et seq.) is amended—
 
