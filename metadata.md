@@ -1,7 +1,7 @@
 ---
 measure: S. 764
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 764
@@ -22,9 +22,10 @@ A bill to reauthorize and amend the National Sea Grant College Program Act, and 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ A bill to reauthorize and amend the National Sea Grant College Program Act, and 
 - 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
 - 2015-07-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6085-6086; text as passed Senate: CR S6085-6086)
 - 2015-07-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6085-6086; text as passed Senate: CR S6085-6086)
+- 2015-07-29 — Message on Senate action sent to the House.
+- 2015-07-29 — Received in the House.
+- 2015-07-29 — Referred to the House Committee on Natural Resources.
