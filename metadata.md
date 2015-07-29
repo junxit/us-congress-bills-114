@@ -1,7 +1,7 @@
 ---
 measure: H.R. 675
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 675
@@ -24,9 +24,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 - 2015-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 472). (text: CR 7/27/2015 H5513-5515)
 - 2015-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 472).(text: CR 7/27/2015 H5513-5515)
 - 2015-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2015-07-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
