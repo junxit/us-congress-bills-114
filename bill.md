@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 3430
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3430
+
+> To amend the Internal Revenue Code of 1986 to provide for a reduction in improper claims of refundable credits by directing the Secretary of the Treasury to ensure consistency of requirements for self and paid tax return preparers, and for other purposes.
+
+## § 1. Reduction of improper claims
+
+- **(a)** *Earned income credit* Section 32 of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+  > - **(n)** *Procedures To reduce improper claims* The Secretary shall ensure that all procedures and questions (as prescribed through forms and instructions) used to determine eligibility for the credit allowed by this section are substantially the same regardless of method used for preparing and filing the return of tax.
+
+- **(b)** *Child credit* Section 24 of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+  > - **(g)** *Procedures To reduce improper claims* The Secretary shall ensure that all procedures and questions (as prescribed through forms and instructions) used to determine eligibility for the credit allowed by this section are substantially the same regardless of method used for preparing and filing the return of tax.
+
+- **(c)** *American opportunity, hope, and lifetime learning tax credits* Section 25A of the Internal Revenue Code of 1986 is amended by redesignating subsection (j) as subsection (k) and by inserting after subjection (i) the following:
+  > - **(j)** *Procedures To reduce improper claims* The Secretary shall ensure that all procedures and questions (as prescribed through forms and instructions) used to determine eligibility for the credit allowed by this section are substantially the same regardless of method used for preparing and filing the return of tax.
+
+- **(d)** *Due diligence requirements* Section 6695(g) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “section 32”and inserting “section 24, 25A, or 32”, and
+  - **(2)** in the heading by inserting “child tax credit; American opportunity, hope, and lifetime learning tax credits; and” before “earned income credit”.
+- **(e)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2015.
