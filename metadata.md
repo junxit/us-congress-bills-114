@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 20
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 20
@@ -54,8 +54,23 @@ A concurrent resolution recognizing and honoring the 25th anniversary of the dat
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
+## Committees (4)
+
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
+- House — Transportation and Infrastructure Committee
+- House — Education and the Workforce Committee
+
 ## Actions
 
 - 2015-07-28 — Introduced in Senate
 - 2015-07-28 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S6087; text as passed Senate: CR S6078)
 - 2015-07-28 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6087; text as passed Senate: CR S6078)
+- 2015-07-29 — Message on Senate action sent to the House.
+- 2015-07-29 — Received in the House.
+- 2015-07-29 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-29 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-29 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-29 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-29 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-07-29 — Referred to the Subcommittee on Highways and Transit.
