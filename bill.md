@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 3387
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3387
+
+> To amend the Freedom of Information Act, the Privacy Act, and the Federal Advisory Committee Act to apply the requirements of such Acts to the Smithsonian Institution, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Open and Transparent Smithsonian Act of 2015”.
+
+## § 2. Application of open government laws to Smithsonian Institution
+
+- **(a)** *Freedom of Information Act* Section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act) is amended by adding at the end the following new subsection:
+  > - **(m)** For purposes of this section, the Smithsonian Institution shall be considered an agency, and the Secretary of the Smithsonian Institution shall be considered the head of the agency.
+
+- **(b)** *Privacy Act* Section 552a(a)(1) of title 5, United States Code (commonly referred to as the Privacy Act), is amended by striking the semicolon at the end and inserting “, except that such term also includes the Smithsonian Institution;”.
+- **(c)** *Requiring Open Meetings* Section 552b of title 5, United States Code (relating to open meetings) is amended by striking the semicolon at the end and inserting “, except that such term also includes the Smithsonian Institution;”.
+- **(d)** *Federal Advisory Committee Act* Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following new subsection:
+  > - **(d)** The Smithsonian Institution shall be considered an advisory committee for purposes of this Act, other than section 14.
+
+## § 3. Effective date and application
+
+- **(a)** *Effective Date* This Act and the amendments made by this Act shall take effect on the date of enactment of this Act.
+- **(b)** *Application* This Act shall apply to—
+  - **(1)** all actions taken by the Board of Regents of the Smithsonian Institution or any officer or employee of the Smithsonian Institution before, on, or after the date of enactment of this Act;
+  - **(2)** any record created before, on, or after that date; and
+  - **(3)** any meeting held before, on, or after that date.
