@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 61
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 61
@@ -39,3 +39,5 @@ Hire More Heroes Act of 2015
 - 2015-07-27 — Mr. Ryan (WI) moved to suspend the rules and pass the resolution. (consideration: CR S6441; text: CR S6441)
 - 2015-07-27 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H5488)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H5488)
+- 2015-07-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-07-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.

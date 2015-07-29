@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 61
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
