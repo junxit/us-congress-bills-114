@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3388
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3388
+
+> To amend title 37, United States Code, to impose a statute of limitations on the ability of the Department of Defense to recover certain indebtedness owed to the United States by members of the uniformed services, including retired and former members, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Statute Of Limitations for DOD Inactive Employee Repossessions Act” or the “SOLDIER Act”.
+
+## § 2. Statute of limitations on Department of Defense recovery of amounts owed to the United States by members of the uniformed services, including retired and former members
+
+Section 1007(c)(3) of title 37, United States Code, is amended by adding at the end the following new subparagraph:
+
+> - **(C)** If the indebtedness of a member of the uniformed services to the United States occurs, through no fault of the member, as a result of the overpayment of pay or allowances to the member or upon the settlement of the member’s accounts, the Secretary concerned may not recover the indebtedness from the member, including a retired or former member, using deductions from the pay of the member, deductions from retired or separation pay, or any other collection method unless recovery of the indebtedness commences before the end of the 10-year period beginning on the date on which the indebtedness was incurred.
