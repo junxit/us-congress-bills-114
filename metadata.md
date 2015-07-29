@@ -1,7 +1,7 @@
 ---
 measure: S. 284
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 284
@@ -16,7 +16,7 @@ Global Magnitsky Human Rights Accountability Act
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -26,6 +26,8 @@ Global Magnitsky Human Rights Accountability Act
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ Global Magnitsky Human Rights Accountability Act
 
 - 2015-01-28 — Introduced in Senate
 - 2015-01-28 — Read twice and referred to the Committee on Foreign Relations.
+- 2015-07-29 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2015-07-29 — Committee on Foreign Relations. Reported by Senator Corker with an amendment. Without written report.
+- 2015-07-29 — Committee on Foreign Relations. Reported by Senator Corker with an amendment. Without written report.
+- 2015-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.

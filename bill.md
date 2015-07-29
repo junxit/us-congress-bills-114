@@ -60,6 +60,7 @@ In this Act:
   - **(2)** the person has been prosecuted appropriately for the activity for which sanctions were imposed; or
   - **(3)** the person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a) in the future.
 - **(i)** *Regulatory authority* The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+- **(j)** *Identification of sanctionable foreign persons* The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
 
 ## § 4. Reports to Congress
 
