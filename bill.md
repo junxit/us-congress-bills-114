@@ -209,3 +209,32 @@ Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Publ
 
 - **(a)** *Study required* Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study on the amount of time spent by Department of Veterans Affairs employees carrying out organizing activities relating to labor organizations and the amount of space in Department facilities used for such activities. The study shall include a cost-benefit analysis of the use of such time and space for such activities.
 - **(b)** *Report to Congress* Not later than 90 days after the completion of the study required under subsection (a), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the results of the study.
+
+## § 11. Accountability of Secretary of Veterans Affairs to Inspector General of the Department of Veterans Affairs
+
+- **(a)** *In general* Chapter 7 of title 38, United States Code, as amended by section 8, is amended by adding at the end the following new section:
+  > ## § 727. Accountability of Secretary to Inspector General
+  >
+  > - **(a)** *Submission of reports*
+  >   - **(1)** At the same time as the Inspector General of the Department submits to the Secretary a covered report, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a copy of such covered report.
+  >   - **(2)** The Inspector General shall include in each covered report submitted under paragraph (1)—
+  >     - **(A)** an explanation of any changes to the covered report recommended by the Secretary during the period in which the Inspector General was preparing the covered report; and
+  >     - **(B)** a list of the names of each responsible manager.
+  >   - **(3)** The Inspector General may not make public the names of responsible managers submitted under paragraph (2)(B).
+  > - **(b)** *Performance of responsible managers*
+  >   - **(1)** The Secretary shall—
+  >     - **(A)** promptly notify each responsible manager of a covered issue by not later than seven days after the date on which the Inspector General submits a covered report to the Secretary;
+  >     - **(B)** direct such manager to resolve such issue; and
+  >     - **(C)** provide such manager with appropriate counseling and a mitigation plan with respect to resolving such issue.
+  >   - **(2)** The Secretary shall ensure that any performance review of a responsible manager includes an evaluation of whether the manager took appropriate actions during the period covered by the review to respond to a covered issue.
+  >   - **(3)** The Secretary may not pay to a responsible manager any bonus or award under chapter 45 or 53 of title 5 or any other bonus or award authorized under such title or this title if a covered issue is unresolved.
+  > - **(c)** *Role of Inspector General* Any authority of the Inspector General provided under this section is in addition to any responsibility or authority provided to the Inspector General in the Inspector General Act of 1978 (5 U.S.C. App.).
+  > - **(d)** *Definitions* In this section:
+  >   - **(1)** The term covered issue means, with respect to a responsible manager, an issue described in a covered report for which the manager is or was responsible.
+  >   - **(2)** The term covered report means a report by the Inspector General of the Department of Veterans Affairs that recommends actions to the Secretary of Veterans Affairs (or other official or employee of the Department) to address an issue in the Department with respect to public health or safety relating to misconduct, or alleged misconduct, by an employee of the Department.
+  >   - **(3)** The term responsible manager means an individual who—
+  >     - **(A)** is an employee of the Department;
+  >     - **(B)** is or was responsible for an issue included in a covered report; and
+  >     - **(C)** in being so responsible, is or was employed in a management position, regardless of whether the employee is in the competitive civil service, Senior Executive Service, or other type of civil service.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter, as amended by section 8, is amended by inserting after the item relating to section 725 the following new item:

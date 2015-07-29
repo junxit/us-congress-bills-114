@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1994
@@ -123,6 +123,12 @@ VA Accountability Act of 2015
 - House — Veterans' Affairs Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (3)
+
+- 2015-07-29 — [House 114-1-487](votes/house-114-1-0487.md) — On Agreeing to the Amendment — **Failed** (191–233)
+- 2015-07-29 — [House 114-1-488](votes/house-114-1-0488.md) — On Motion to Recommit with Instructions — **Failed** (184–241)
+- 2015-07-29 — [House 114-1-489](votes/house-114-1-0489.md) — On Passage — **Passed** (256–170)
+
 ## Actions
 
 - 2015-04-23 — Introduced in House
@@ -141,3 +147,45 @@ VA Accountability Act of 2015
 - 2015-07-23 — Placed on the Union Calendar, Calendar No. 170.
 - 2015-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-225, Part I.
 - 2015-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-225, Part I.
+- 2015-07-27 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 114-225, Part II.
+- 2015-07-27 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 114-225, Part II.
+- 2015-07-28 — Rules Committee Resolution H. Res. 388 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against consideration of the bills are waived. For H.R. 1994, The committee amendment in the nature of a substitute shall be considered as read. No amendment will be in order except those printed in the report accompanying the resolution .
+- 2015-07-29 — Amendment (A001) offered by Mr. Benishek. (consideration: CR H5635-5637; text: CR H5635-5636)
+- 2015-07-29 — Amendment (A002) in the nature of a substitute offered by Mr. Takano. (consideration: CR H5637-5640, H5650-5651; text: CR H5637-5638)
+- 2015-07-29 — Amendment agreed to Committee of the Whole
+- 2015-07-29 — Amendment failed in Committee of the Whole
+- 2015-07-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 1994 as unfinished business.
+- 2015-07-29 — Considered as unfinished business. (consideration: CR H5650-5653)
+- 2015-07-29 — Considered under the provisions of rule H. Res. 388. (consideration: CR H5623-5627, H5627-5640)
+- 2015-07-29 — DEBATE - Pursuant to the provisions of H. Res. 388, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment No. 1.
+- 2015-07-29 — DEBATE - Pursuant to the provisions of H. Res. 388, the Committee of the Whole proceeded with 20 minutes of debate on the Takano amendment in the nature of a substitute No. 2.
+- 2015-07-29 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Takano motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that the Secretary of Veterans' Affairs may not remove or demote an individual that has filed a whistleblower complaint or sought corrective action from the Office of Special Counsel or the Inspector General regarding a threat to the health or safety of the public or regarding a prohibited personnel practice.
+- 2015-07-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1994.
+- 2015-07-29 — GENERAL DEBATE - The Committee of the Whole resumed its sitting.
+- 2015-07-29 — House amendment agreed to: On agreeing to the Benishek amendment (A001) Agreed to by voice vote.
+- 2015-07-29 — House amendment not agreed to: On agreeing to the Takano amendment (A002) Failed by recorded vote: 191 - 233 (Roll no. 487).
+- 2015-07-29 — House amendment offered
+- 2015-07-29 — House amendment offered
+- 2015-07-29 — House amendment offered/reported by : Amendment (A001) offered by Mr. Benishek.(consideration: CR H5635-5637; text: CR H5635-5636)
+- 2015-07-29 — House amendment offered/reported by : Amendment (A002) in the nature of a substitute offered by Mr. Takano.(consideration: CR H5637-5640, H5650-5651; text: CR H5637-5638)
+- 2015-07-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 388 and Rule XVIII.
+- 2015-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-29 — Mr. Miller (FL) moved that the Committee rise.
+- 2015-07-29 — Mr. Takano moved to recommit with instructions to the Committee on Veterans' Affairs. (consideration: CR H5651-5653; text: CR H5651)
+- 2015-07-29 — On agreeing to the Benishek amendment (A001) Agreed to by voice vote.
+- 2015-07-29 — On agreeing to the Takano amendment (A002) Failed by recorded vote: 191 - 233 (Roll no. 487).
+- 2015-07-29 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-07-29 — On motion to recommit with instructions Failed by recorded vote: 184 - 241 (Roll no. 488).
+- 2015-07-29 — On passage Passed by the Yeas and Nays: 256 - 170 (Roll no. 489).
+- 2015-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment in the nature of a substitute the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 256 - 170 (Roll no. 489).
+- 2015-07-29 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against consideration of the bills are waived. For H.R. 1994, The committee amendment in the nature of a substitute shall be considered as read. No amendment will be in order except those printed in the report accompanying the resolution .
+- 2015-07-29 — Roll call votes on amendments in House
+- 2015-07-29 — The Committee rose informally to recieve a message from the President.
+- 2015-07-29 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5631-5635)
+- 2015-07-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-07-29 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1994.
+- 2015-07-29 — The Speaker designated the Honorable Jeff Fortenberry to act as Chairman of the Committee.
+- 2015-07-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5652)
+- 2015-07-29 — The previous question was ordered pursuant to the rule. (consideration: CR H5651)
+- 2015-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.

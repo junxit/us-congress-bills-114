@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 0 executed, 26 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,3 +57,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | Chapter 7 of title 38, United States Code, is further amended by inserting after section 723, as added by section 7, the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is further amended by inserting after the item relating to section 723, as added by section 7, the following new item: | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 703` | amend | Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 7 of title 38, United States Code, as amended by section 8, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter, as amended by section 8, is amended by inserting after the item relating to section 725 the following new item: | the bill names no machine-readable US Code section |
