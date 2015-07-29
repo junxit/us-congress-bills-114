@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1300
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1300
@@ -74,6 +74,10 @@ First Responder Anthrax Preparedness Act
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-07-29 — [House 114-1-485](votes/house-114-1-0485.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (424–0)
+
 ## Actions
 
 - 2015-03-04 — Introduced in House
@@ -91,3 +95,11 @@ First Responder Anthrax Preparedness Act
 - 2015-07-22 — Placed on the Union Calendar, Calendar No. 168.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-222, Part I.
 - 2015-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-222, Part I.
+- 2015-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-07-27 — Considered under suspension of the rules. (consideration:  CR H5504-5506)
+- 2015-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1300.
+- 2015-07-27 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2015-07-29 — Considered as unfinished business. (consideration: CR H5623)
+- 2015-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 485). (text: CR 7/27/2015 H5504)
+- 2015-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 485).(text: CR 7/27/2015 H5504)
