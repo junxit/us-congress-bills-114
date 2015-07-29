@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 427
@@ -330,3 +330,4 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - 2015-07-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5571)
 - 2015-07-28 — The previous question was ordered pursuant to the rule. (consideration: CR H5570)
 - 2015-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-07-29 — Received in the Senate.
