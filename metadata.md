@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9
@@ -16,7 +16,7 @@ Innovation Act
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (19)
+## Cosponsors (27)
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
@@ -37,13 +37,32 @@ Innovation Act
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Hardy, Cresent [R-NV-4] (H001070)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2015-02-05 — Introduced in House
 - 2015-02-05 — Introduced in House
 - 2015-02-05 — Referred to the House Committee on the Judiciary.
+- 2015-03-17 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
+- 2015-03-18 — Committee on the Judiciary. Hearings held.
+- 2015-03-19 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2015-04-13 — Subcommittee on Courts, Intellectual Property, and the Internet Discharged.
+- 2015-04-14 — Committee Hearings Held.
+- 2015-06-11 — Committee Consideration and Mark-up Session Held.
+- 2015-06-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 8.
+- 2015-07-29 — Placed on the Union Calendar, Calendar No. 177.
+- 2015-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-235.
+- 2015-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-235.

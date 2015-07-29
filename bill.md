@@ -29,22 +29,20 @@ In this Act:
     >
     > - **(a)** *Pleading requirements* Except as provided in subsection (b), in a civil action in which a party asserts a claim for relief arising under any Act of Congress relating to patents, a party alleging infringement shall include in the initial complaint, counterclaim, or cross-claim for patent infringement, unless the information is not reasonably accessible to such party, the following:
     >   - **(1)** An identification of each patent allegedly infringed.
-    >   - **(2)** An identification of each claim of each patent identified under paragraph (1) that is allegedly infringed.
-    >   - **(3)** For each claim identified under paragraph (2), an identification of each accused process, machine, manufacture, or composition of matter (referred to in this section as an accused instrumentality) alleged to infringe the claim.
+    >   - **(2)** An identification of all claims necessary to produce the identification (under paragraph (3)) of each process, machine, manufacture, or composition of matter (referred to in this section as an ‘accused instrumentality’) that is alleged to infringe any claim of each patent that is identified under paragraph (1).
+    >   - **(3)** For each claim identified under paragraph (2), an identification of each accused instrumentality alleged to infringe the claim.
     >   - **(4)** For each accused instrumentality identified under paragraph (3), an identification with particularity, if known, of—
-    >     - **(A)** the name or model number of each accused instrumentality; or
+    >     - **(A)** the name or model number (or a representative model number) of each accused instrumentality; or
     >     - **(B)** if there is no name or model number, a description of each accused instrumentality.
     >   - **(5)** For each accused instrumentality identified under paragraph (3), a clear and concise statement of—
     >     - **(A)** where each element of each claim identified under paragraph (2) is found within the accused instrumentality; and
     >     - **(B)** with detailed specificity, how each limitation of each claim identified under paragraph (2) is met by the accused instrumentality.
     >   - **(6)** For each claim of indirect infringement, a description of the acts of the alleged indirect infringer that contribute to or are inducing the direct infringement.
     >   - **(7)** A description of the authority of the party alleging infringement to assert each patent identified under paragraph (1) and of the grounds for the court’s jurisdiction.
-    >   - **(8)** A clear and concise description of the principal business, if any, of the party alleging infringement.
-    >   - **(9)** A list of each complaint filed, of which the party alleging infringement has knowledge, that asserts or asserted any of the patents identified under paragraph (1).
-    >   - **(10)** For each patent identified under paragraph (1), whether a standard-setting body has specifically declared such patent to be essential, potentially essential, or having potential to become essential to that standard-setting body, and whether the United States Government or a foreign government has imposed specific licensing requirements with respect to such patent.
-    > - **(b)** *Information not readily accessible* If information required to be disclosed under subsection (a) is not readily accessible to a party, that information may instead be generally described, along with an explanation of why such undisclosed information was not readily accessible, and of any efforts made by such party to access such information.
-    > - **(c)** *Confidential information* A party required to disclose information described under subsection (a) may file, under seal, information believed to be confidential, with a motion setting forth good cause for such sealing. If such motion is denied by the court, the party may seek to file an amended complaint.
-    > - **(d)** *Exemption* A civil action that includes a claim for relief arising under section 271(e)(2) shall not be subject to the requirements of subsection (a).
+    > - **(b)** *Information not readily accessible* If information required to be disclosed under subsection (a) is not readily accessible to a party after an inquiry reasonable under the circumstances, as required by Rule 11 of the Federal Rules of Civil Procedure, that information may instead be generally described, along with an explanation of why such undisclosed information was not readily accessible, and of any efforts made by such party to access such information.
+    > - **(c)** *Amendment of pleadings* Nothing in this section shall be construed to affect a party’s ability to amend pleadings as specified in the Federal Rules of Civil Procedure. Amendments permitted by the court are subject to the pleading requirements set forth in this section.
+    > - **(d)** *Confidential information* A party required to disclose information described under subsection (a) may file, under seal, information believed to be confidential, with a motion setting forth good cause for such sealing. If such motion is denied by the court, the party may seek to file an amended complaint.
+    > - **(e)** *Exemption* A civil action that includes a claim for relief arising under section 271(e)(2) shall not be subject to the requirements of subsection (a).
 
   - **(2)** *Conforming amendment* The table of sections for chapter 29 of title 35, United States Code, is amended by inserting after the item relating to section 281 the following new item:
 - **(b)** *Fees and other expenses*
@@ -53,15 +51,18 @@ In this Act:
     >
     > - **(a)** *Award* The court shall award, to a prevailing party, reasonable fees and other expenses incurred by that party in connection with a civil action in which any party asserts a claim for relief arising under any Act of Congress relating to patents, unless the court finds that the position and conduct of the nonprevailing party or parties were reasonably justified in law and fact or that special circumstances (such as severe economic hardship to a named inventor) make an award unjust.
     > - **(b)** *Certification and recovery* Upon motion of any party to the action, the court shall require another party to the action to certify whether or not the other party will be able to pay an award of fees and other expenses if such an award is made under subsection (a). If a nonprevailing party is unable to pay an award that is made against it under subsection (a), the court may make a party that has been joined under section 299(d) with respect to such party liable for the unsatisfied portion of the award.
-    > - **(c)** *Covenant Not To Sue* A party to a civil action that asserts a claim for relief arising under any Act of Congress relating to patents against another party, and that subsequently unilaterally extends to such other party a covenant not to sue for infringement with respect to the patent or patents at issue, shall be deemed to be a nonprevailing party (and the other party the prevailing party) for purposes of this section, unless the party asserting such claim would have been entitled, at the time that such covenant was extended, to voluntarily dismiss the action or claim without a court order under Rule 41 of the Federal Rules of Civil Procedure.
+    > - **(c)** *Covenant not to sue* A party to a civil action who asserts a claim for relief arising under any Act of Congress relating to patents against another party, and who subsequently unilaterally (i) seeks dismissal of the action without consent of the other party and (ii) extends to such other party a covenant not to sue for infringement with respect to the patent or patents at issue, may be the subject of a motion for attorneys fees under subsection (a) as if it were a non-prevailing party, unless the party asserting such claim would have been entitled, at the time that such covenant was extended, to dismiss voluntarily the action without a court order under Rule 41 of the Federal Rules of Civil Procedure, or the interests of justice require otherwise.
 
   - **(2)** *Conforming amendment and amendment*
     - **(A)** *Conforming amendment* The item relating to section 285 of the table of sections for chapter 29 of title 35, United States Code, is amended to read as follows:
-    - **(B)** *Amendment* Section 273 of title 35, United States Code, is amended by striking subsections (f) and (g).
-  - **(3)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after the first day of the 6-month period ending on that effective date.
+    - **(B)** *Amendment* Section 273 of title 35, United States Code, is amended by striking subsection (f).
+    - **(C)** *Amendment*
+      - **(i)** *In general* Section 273 of title 35, United States Code, as amended by subparagraph (B), is further amended by striking subsection (g).
+      - **(ii)** *Effective date* The amendment made by this subparagraph shall be effective as if included in the amendment made by section 3(b)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
+  - **(3)** *Effective date* Except as otherwise provided in this subsection, the amendments made by this subsection shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after the first day of the 6-month period ending on that effective date.
 - **(c)** *Joinder of interested parties* Section 299 of title 35, United States Code, is amended by adding at the end the following new subsection:
   > - **(d)** *Joinder of interested parties*
-  >   - **(1)** *Joinder* In a civil action arising under any Act of Congress relating to patents in which fees and other expenses have been awarded under section 285 to a prevailing party defending against an allegation of infringement of a patent claim, and in which the nonprevailing party alleging infringement is unable to pay the award of fees and other expenses, the court shall grant a motion by the prevailing party to join an interested party if such prevailing party shows that the nonprevailing party has no substantial interest in the subject matter at issue other than asserting such patent claim in litigation.
+  >   - **(1)** *Joinder* Except as otherwise provided under this subsection, in a civil action arising under any Act of Congress relating to patents in which fees and other expenses have been awarded under section 285 to a prevailing party defending against an allegation of infringement of a patent claim, and in which the nonprevailing party alleging infringement is unable to pay the award of fees and other expenses, the court shall grant a motion by the prevailing party to join an interested party if such prevailing party shows that the nonprevailing party has no substantial interest in the subject matter at issue other than asserting such patent claim in litigation.
   >   - **(2)** *Limitation on joinder*
   >     - **(A)** *Discretionary denial of motion* The court may deny a motion to join an interested party under paragraph (1) if—
   >       - **(i)** the interested party is not subject to service of process; or
@@ -69,33 +70,55 @@ In this Act:
   >     - **(B)** *Required denial of motion* The court shall deny a motion to join an interested party under paragraph (1) if—
   >       - **(i)** the interested party did not timely receive the notice required by paragraph (3); or
   >       - **(ii)** within 30 days after receiving the notice required by paragraph (3), the interested party renounces, in writing and with notice to the court and the parties to the action, any ownership, right, or direct financial interest (as described in paragraph (4)) that the interested party has in the patent or patents at issue.
-  >   - **(3)** *Notice requirement* An interested party may not be joined under paragraph (1) unless it has been provided actual notice, within 30 days after the date on which it has been identified in the initial disclosure provided under section 290(b), that it has been so identified and that such party may therefore be an interested party subject to joinder under this subsection. Such notice shall be provided by the party who subsequently moves to join the interested party under paragraph (1), and shall include language that—
+  >   - **(3)** *Notice requirement* An interested party may not be joined under paragraph (1) unless it has been provided actual notice, within 30 days after the expiration of the time period during which a certification under paragraph (4)(B) is required to be filed, that the interested party has been identified in the initial disclosure under section 290(b) and that such party may therefore be an interested party subject to joinder under this subsection. Such notice shall be provided by the party who subsequently moves to join the interested party under paragraph (1), and shall include language that—
   >     - **(A)** identifies the action, the parties thereto, the patent or patents at issue, and the pleading or other paper that identified the party under section 290(b); and
   >     - **(B)** informs the party that it may be joined in the action and made subject to paying an award of fees and other expenses under section 285(b) if—
   >       - **(i)** fees and other expenses are awarded in the action against the party alleging infringement of the patent or patents at issue under section 285(a);
   >       - **(ii)** the party alleging infringement is unable to pay the award of fees and other expenses;
   >       - **(iii)** the party receiving notice under this paragraph is determined by the court to be an interested party; and
   >       - **(iv)** the party receiving notice under this paragraph has not, within 30 days after receiving such notice, renounced in writing, and with notice to the court and the parties to the action, any ownership, right, or direct financial interest (as described in paragraph (4)) that the interested party has in the patent or patents at issue.
-  >   - **(4)** *Interested party defined* In this subsection, the term interested party means a person, other than the party alleging infringement, that—
+  >   - **(4)** *Additional requirements for joinder*
+  >     - **(A)** *Initial statement* This subsection shall not apply to an action unless a party defending against an allegation of infringement of a patent claim files, not later than 14 days before the date on which a scheduling conference is held or the date on which a scheduling order is due under Rule 16(b) of the Federal Rules of Civil Procedure, a statement that such party holds a good faith belief, based on publicly available information and any other information known to such party, that the party alleging infringement has no substantial interest in the subject matter at issue other than asserting the patent in litigation.
+  >     - **(B)** *Certification* This subsection shall not apply to an action if the party alleging infringement files, not later than 45 days after the date on which such party is served with the initial statement described under subparagraph (A), a certification that—
+  >       - **(i)** establishes and certifies to the court, under oath, that such party will have sufficient funds available to satisfy any award of reasonable attorney’s fees and expenses under section 285 if an award is assessed;
+  >       - **(ii)** demonstrates that such party has a substantial interest in the subject matter at issue other than asserting the patent in litigation; or
+  >       - **(iii)** is made under oath that there are no other interested parties.
+  >   - **(5)** *Exception for university technology transfer organizations* This subsection shall not apply to a technology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))) if such technology transfer organization is alleging infringement on behalf of an entity that would not be subject to this subsection.
+  >   - **(6)** *Interested party defined* In this subsection, the term interested party means a person, other than the party alleging infringement, that—
   >     - **(A)** is an assignee of the patent or patents at issue;
   >     - **(B)** has a right, including a contingent right, to enforce or sublicense the patent or patents at issue; or
   >     - **(C)** has a direct financial interest in the patent or patents at issue, including the right to any part of an award of damages or any part of licensing revenue, except that a person with a direct financial interest does not include—
-  >       - **(i)** an attorney or law firm providing legal representation in the civil action described in paragraph (1) if the sole basis for the financial interest of the attorney or law firm in the patent or patents at issue arises from the attorney or law firm’s receipt of compensation reasonably related to the provision of the legal representation; or
-  >       - **(ii)** a person whose sole financial interest in the patent or patents at issue is ownership of an equity interest in the party alleging infringement, unless such person also has the right or ability to influence, direct, or control the civil action.
+  >       - **(i)** an employee of the party alleging infringement—
+  >         - **(I)** whose principal source of income or employment is employment with the party alleging infringement; or
+  >         - **(II)** whose sole financial interest in the patent or patents at issue is a salary or hourly wage paid by the party alleging infringement;
+  >       - **(ii)** an attorney or law firm providing legal representation in the civil action described in paragraph (1) if the sole basis for the financial interest of the attorney or law firm in the patent or patents at issue arises from the attorney or law firm’s receipt of compensation reasonably related to the provision of the legal representation; or
+  >       - **(iii)** a person whose sole financial interest in the patent or patents at issue is ownership of an equity or security interest in the party alleging infringement, unless such person also has the right or ability to direct or control (membership on the board of directors alone is not sufficient to demonstrate such right or ability) the civil action.
+  >   - **(7)** *Substantial interest* In this subsection, the term substantial interest includes an interest in the subject matter of a patent at issue if the party—
+  >     - **(A)** invented the subject matter; or
+  >     - **(B)** commercially practices or implements, made substantial preparations directed particularly to commercially practicing or implementing, or is engaged in research and development in, technology in the field of the subject matter.
 
-- **(d)** *Discovery limits*
-  - **(1)** *Amendment* Chapter 29 of title 35, United States Code, is amended by adding at the end the following new section:
-    > ## § 299A. Discovery in patent infringement action
+- **(d)** *Discovery stay*
+  - **(1)** *Amendment* Chapter 29 of title 35, United States Code, as amended by subsection (a), is further amended by inserting after section 281A (as added by such subsection) the following new section:
+    > ## § 281B. Stay of discovery pending a preliminary motion.
     >
-    > - **(a)** *Discovery in patent infringement action* Except as provided in subsections (b) and (c), in a civil action arising under any Act of Congress relating to patents, if the court determines that a ruling relating to the construction of terms used in a patent claim asserted in the complaint is required, discovery shall be limited, until such ruling is issued, to information necessary for the court to determine the meaning of the terms used in the patent claim, including any interpretation of those terms used to support the claim of infringement.
-    > - **(b)** *Discretion To expand scope of discovery*
-    >   - **(1)** *Timely resolution of actions* In the case of an action under any provision of Federal law (including an action that includes a claim for relief arising under section 271(e)), for which resolution within a specified period of time of a civil action arising under any Act of Congress relating to patents will necessarily affect the rights of a party with respect to the patent, the court shall permit discovery, in addition to the discovery authorized under subsection (a), before the ruling described in subsection (a) is issued as necessary to ensure timely resolution of the action.
-    >   - **(2)** *Resolution of motions* When necessary to resolve a motion properly raised by a party before a ruling relating to the construction of terms described in subsection (a) is issued, the court may allow limited discovery in addition to the discovery authorized under subsection (a) as necessary to resolve the motion.
-    >   - **(3)** *Special circumstances* In special circumstances that would make denial of discovery a manifest injustice, the court may permit discovery, in addition to the discovery authorized under subsection (a), as necessary to prevent the manifest injustice.
-    >   - **(4)** *Actions seeking relief based on competitive harm* The limitation on discovery provided under subsection (a) shall not apply to an action seeking a preliminary injunction to redress harm arising from the use, sale, or offer for sale of any allegedly infringing instrumentality that competes with a product sold or offered for sale, or a process used in manufacture, by a party alleging infringement.
-    > - **(c)** *Exclusion from discovery limitation* The parties may voluntarily consent to be excluded, in whole or in part, from the limitation on discovery provided under subsection (a) if at least one plaintiff and one defendant enter into a signed stipulation, to be filed with and signed by the court. With regard to any discovery excluded from the requirements of subsection (a) under the signed stipulation, with respect to such parties, such discovery shall proceed according to the Federal Rules of Civil Procedure.
+    > - **(a)** *In general* Except as provided in subsection (d), in an action for patent infringement under section 271 or an action for a declaratory judgement that a patent is invalid or not infringed, discovery shall be stayed if—
+    >   - **(1)** the defendant moves to—
+    >     - **(A)** sever a claim or drop a party for misjoinder under Rule 21 of the Federal Rules of Civil Procedure;
+    >     - **(B)** transfer the action under section 1404(a) of title 28;
+    >     - **(C)** transfer or dismiss the action under section 1406(a) of title 28; or
+    >     - **(D)** dismiss the action pursuant to Federal Rule of Civil Procedure 12(b); and
+    >   - **(2)** such motion is filed within 90 days after service of the complaint and includes a declaration or other evidence in support of the motion.
+    > - **(b)** *Expiration of stay* A stay entered under subsection (a) shall expire when all motions that are the basis for the stay are decided by the court.
+    > - **(c)** *Priority of decision* In an action described in subsection (a), the court shall decide a motion to sever a claim or drop a party for misjoinder under Rule 21 of the Federal Rules of Civil Procedure, to transfer under section 1404(a) to title 28, to transfer or dismiss under 1406(a) of title 28, or to dismiss the action pursuant to Federal Rule of Civil Procedure 12(b) before the earlier of the date on which the court—
+    >   - **(1)** decides any other substantive motion, provided however that the court may decide a question of its own jurisdiction at any time; or
+    >   - **(2)** issues a scheduling order under Rule 16(b) of the Federal Rules of Civil Procedure.
+    > - **(d)** *Exception*
+    >   - **(1)** *Discovery necessary to decide motion* Notwithstanding subsection (a), the court may allow such discovery as the court determines to be necessary to decide a motion to sever, drop a party, dismiss, or transfer.
+    >   - **(2)** *Competitive harm* Subsections (a) and (c) shall not apply to an action in which the patentee is granted a preliminary injunction to prevent harm arising from the manufacture, use, sale, offer for sale, or importation of an allegedly infringing product or process that competes with a product or process made, sold, or offered for sale by the patentee.
+    >   - **(3)** *Consent of the parties* The patentee and an opposing party shall be excluded, in whole or in part, from the limitations of subsections (a) and (c) upon such parties’ filing with the court a signed stipulation agreeing to such exclusion.
+    >   - **(4)** *FDA and biological product application* Subsections (a) and (c) shall not apply to an action that includes a cause of action described under section 271(e)(2).
 
-  - **(2)** *Conforming amendment* The table of sections for chapter 29 of title 35, United States Code, is amended by adding at the end the following new item:
+  - **(2)** *Conforming amendment* The table of sections for chapter 29 of title 35, United States Code, is amended by inserting after the item relating to section 281A, as added by subsection (a), the following new item:
 - **(e)** *Sense of Congress* It is the sense of Congress that it is an abuse of the patent system and against public policy for a party to send out purposely evasive demand letters to end users alleging patent infringement. Demand letters sent should, at the least, include basic information about the patent in question, what is being infringed, and how it is being infringed. Any actions or litigation that stem from these types of purposely evasive demand letters to end users should be considered a fraudulent or deceptive practice and an exceptional circumstance when considering whether the litigation is abusive.
 - **(f)** *Demand letters* Section 284 of title 35, United States Code, is amended—
   - **(1)** in the first undesignated paragraph, by striking “Upon finding” and inserting “(a) In general.—Upon finding”;
@@ -104,7 +127,23 @@ In this Act:
     > - **(c)** *Willful infringement* A claimant seeking to establish willful infringement may not rely on evidence of pre-suit notification of infringement unless that notification identifies with particularity the asserted patent, identifies the product or process accused, identifies the ultimate parent entity of the claimant, and explains with particularity, to the extent possible following a reasonable investigation or inquiry, how the product or process infringes one or more claims of the patent.
 
   - **(4)** in the last undesignated paragraph, by striking “The court” and inserting “(d) Expert testimony.—The court”.
-- **(g)** *Effective date* Except as otherwise provided in this section, the amendments made by this section shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after that date.
+- **(g)** *Venue*
+  - **(1)** *Amendment* Subsection (b) of section 1400 of title 28, United States Code, is amended to read as follows:
+    > - **(b)** *Venue for action relating to patents* Notwithstanding subsections (b) and (c) of section 1391 of this title, any civil action for patent infringement or any action for a declaratory judgment that a patent is invalid or not infringed may be brought only in a judicial district—
+    >   - **(1)** where the defendant has its principal place of business or is incorporated;
+    >   - **(2)** where the defendant has committed an act of infringement of a patent in suit and has a regular and established physical facility that gives rise to the act of infringement;
+    >   - **(3)** where the defendant has agreed or consented to be sued in the instant action;
+    >   - **(4)** where an inventor named on the patent in suit conducted research or development that led to the application for the patent in suit;
+    >   - **(5)** where a party has a regular and established physical facility that such party controls and operates, not primarily for the purpose of creating venue, and has—
+    >     - **(A)** engaged in management of significant research and development of an invention claimed in a patent in suit prior to the effective filing date of the patent;
+    >     - **(B)** manufactured a tangible product that is alleged to embody an invention claimed in a patent in suit; or
+    >     - **(C)** implemented a manufacturing process for a tangible good in which the process is alleged to embody an invention claimed in a patent in suit; or
+    >   - **(6)** for foreign defendants that do not meet the requirements of paragraphs (1) or (2), according to section 1391(d) of this title.
+
+  - **(2)** *Mandamus relief* For the purpose of determining whether relief may issue under section 1651 of title 28, United States Code, a clearly and indisputably erroneous denial of a motion under section 1406(a) of such title to dismiss or transfer a case on the basis of section 1400(b) of such title shall be deemed to cause irremediable interim harm.
+  - **(3)** *Retailers not eligible for customer stay* If a defendant does not meet the definition of a retailer under section 296(a)(6) of title 35, United States Code, as added by section 5, solely because the defendant manufacturers or causes the manufacture of the covered product or process in suit, the retail facilities of such defendant shall not constitute a regular and established physical facility for purposes of section 1400(b)(2) of title 28, United Code, as added by paragraph (1).
+  - **(4)** *Teleworkers* The dwelling or residence of an employee or contractor of a defendant who works at such dwelling or residence shall not constitute a regular and established physical facility of the defendant for purposes of section 1400(b)(2) of title 28, United Code, as added by paragraph (1).
+- **(h)** *Effective date* Except as otherwise provided in this section, the amendments made by this section shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after that date.
 
 ## § 4. Transparency of patent ownership
 
@@ -118,6 +157,9 @@ In this Act:
     >     - **(B)** Any entity with a right to sublicense or enforce the patent or patents at issue.
     >     - **(C)** Any entity, other than the plaintiff, that the plaintiff knows to have a financial interest in the patent or patents at issue or the plaintiff.
     >     - **(D)** The ultimate parent entity of any assignee identified under subparagraph (A) and any entity identified under subparagraph (B) or (C).
+    >     - **(E)** A clear and concise description of the principal business, if any, of the party alleging infringement.
+    >     - **(F)** A list of each complaint filed, of which the party alleging infringement has knowledge, that asserts or asserted any of the patents identified under subparagraph (A).
+    >     - **(G)** For each patent identified under subparagraph (A), whether a standard-setting body has specifically declared such patent to be essential, potentially essential, or having potential to become essential to that standard-setting body, and whether the United States Government or a foreign government has imposed specific licensing requirements with respect to such patent.
     >   - **(2)** *Exemption* The requirements of paragraph (1) shall not apply with respect to a civil action filed under subsection (a) that includes a cause of action described under section 271(e)(2).
     > - **(c)** *Disclosure compliance*
     >   - **(1)** *Publicly traded* For purposes of subsection (b)(1)(C), if the financial interest is held by a corporation traded on a public stock exchange, an identification of the name of the corporation and the public exchange listing shall satisfy the disclosure requirement.
@@ -152,81 +194,65 @@ In this Act:
 - **(a)** *Amendment* Section 296 of title 35, United States Code, is amended to read as follows:
   > ## § 296. Stay of action against customer
   >
-  > - **(a)** *Stay of action against customer* Except as provided in subsection (d), in any civil action arising under any Act of Congress relating to patents, the court shall grant a motion to stay at least the portion of the action against a covered customer related to infringement of a patent involving a covered product or process if the following requirements are met:
-  >   - **(1)** The covered manufacturer and the covered customer consent in writing to the stay.
-  >   - **(2)** The covered manufacturer is a party to the action or to a separate action involving the same patent or patents related to the same covered product or process.
-  >   - **(3)** The covered customer agrees to be bound by any issues that the covered customer has in common with the covered manufacturer and are finally decided as to the covered manufacturer in an action described in paragraph (2).
-  >   - **(4)** The motion is filed after the first pleading in the action but not later than the later of—
-  >     - **(A)** the 120th day after the date on which the first pleading in the action is served that specifically identifies the covered product or process as a basis for the covered customer’s alleged infringement of the patent and that specifically identifies how the covered product or process is alleged to infringe the patent; or
+  > - **(a)** *Definitions* In this section:
+  >   - **(1)** *Covered customer* The term covered customer means a retailer or end user that is accused of infringing a patent or patents in dispute based on—
+  >     - **(A)** the sale, or offer for sale, of a covered product or covered process without material modification of the product or process in a manner that is alleged to infringe a patent or patents in dispute; or
+  >     - **(B)** the use by such retailer, the retailer’s end user customer, or an end user of a covered product or covered process without material modification of the product or process in a manner that is alleged to infringe a patent or patents in dispute.
+  >   - **(2)** *Covered manufacturer* The term covered manufacturer means a person that manufactures or supplies, or causes the manufacture or supply of, a covered product or covered process, or a relevant part thereof.
+  >   - **(3)** *Covered process* The term covered process means a process, method, or a relevant part thereof, that is alleged to infringe a patent or patents in dispute where such process, method, or relevant part thereof is implemented by an apparatus, material, system, software, or other instrumentality that is provided by the covered manufacturer.
+  >   - **(4)** *Covered product* The term covered product means a product, system, service, component, material, or apparatus, or relevant part thereof, that—
+  >     - **(A)** is alleged to infringe a patent or patents in dispute; or
+  >     - **(B)** implements a process alleged to infringe the patent or patents in dispute.
+  >   - **(5)** *End user* The term end user includes an affiliate of an end user, but does not include an entity that manufacturers or causes the manufacture of a covered product or covered process, or a relevant part thereof.
+  >   - **(6)** *Retailer* The term retailer means an entity that generates revenues predominately through the sale to the public of consumer goods or services, or an affiliate of such entity, but does not include an entity that manufacturers or causes the manufacturer of a covered product or covered process, or a relevant part thereof.
+  > - **(b)** *Stay of action against customer* Except as provided in subsection (d), in any civil action in which a party asserts a claim for relief arising under any Act of Congress relating to patents, the court shall grant a motion to stay at least the portion of the action against a covered customer related to infringement of a patent involving a covered product or covered process if the following requirements are met:
+  >   - **(1)** *Party to the action* The covered manufacturer is a party to the action or to a separate action (in which a party asserts a claim for relief arising under any Act of Congress relating to patents) involving the same patent or patents related to the same covered product or covered process.
+  >   - **(2)** *Agreement to be bound by issues determined* The covered customer agrees to be bound as to issues determined in an action described in paragraph (1) without a full and fair opportunity to separately litigate any such issue, but only as to those issues for which all other elements of the common law doctrine of issue preclusion are met.
+  >   - **(3)** *Deadline to file motion* The motion is filed after the first pleading in the action but not later than the later of—
+  >     - **(A)** the 120th day after the date on which the first pleading or paper in the action is served that specifically identifies the covered product or covered process as a basis for the covered customer’s alleged infringement of the patent and that specifically identifies how the covered product or covered process is alleged to infringe the patent; or
   >     - **(B)** the date on which the first scheduling order in the case is entered.
-  > - **(b)** *Applicability of stay* A stay issued under subsection (a) shall apply only to the patents, products, systems, or components accused of infringement in the action.
+  >   - **(4)** *Manufacturer consent in certain cases* In a case in which the covered manufacturer has been made a party to the action on motion by the covered customer, the covered manufacturer and the covered customer consent in writing to the stay.
   > - **(c)** *Lift of stay*
   >   - **(1)** *In general* A stay entered under this section may be lifted upon grant of a motion based on a showing that—
-  >     - **(A)** the action involving the covered manufacturer will not resolve a major issue in suit against the covered customer; or
-  >     - **(B)** the stay unreasonably prejudices and would be manifestly unjust to the party seeking to lift the stay.
-  >   - **(2)** *Separate manufacturer action involved* In the case of a stay entered based on the participation of the covered manufacturer in a separate action involving the same patent or patents related to the same covered product or process, a motion under this subsection may only be made if the court in such separate action determines the showing required under paragraph (1) has been met.
+  >     - **(A)** the action involving the covered manufacturer will not resolve a major issue in the suit against the covered customer (such as a covered product or covered process identified in the motion to lift the stay is not a material part of the claimed invention or inventions in the patent or patents in dispute); or
+  >     - **(B)** the stay unreasonably prejudices or would be manifestly unjust to the party seeking to lift the stay.
+  >   - **(2)** *Separate manufacturer action involved* In the case of a stay entered under this section based on the participation of the covered manufacturer in a separate action described in subsection (b)(1), a motion under paragraph (1) may only be granted if the court in such separate action determines that the showing required under paragraph (1) has been made.
   > - **(d)** *Exemption* This section shall not apply to an action that includes a cause of action described under section 271(e)(2).
-  > - **(e)** *Consent judgment* If, following the grant of a motion to stay under this section, the covered manufacturer seeks or consents to entry of a consent judgment relating to one or more of the common issues that gave rise to the stay, or declines to prosecute through appeal a final decision as to one or more of the common issues that gave rise to the stay, the court may, upon grant of a motion, determine that such consent judgment or unappealed final decision shall not be binding on the covered customer with respect to one or more of such common issues based on a showing that such an outcome would unreasonably prejudice and be manifestly unjust to the covered customer in light of the circumstances of the case.
+  > - **(e)** *Waiver of estoppel effect* The court may, upon motion, determine that a consent judgment or an unappealed final order shall not be binding on the covered customer with respect to one or more of the issues that gave rise to the stay based on a showing that such consent judgment or unappealed final order would unreasonably prejudice or be manifestly unjust to the covered customer in light of the circumstances of the case if, following the grant of a motion to stay under this section, the covered manufacturer described in subsection (b)(1)—
+  >   - **(1)** obtains or consents to entry of a consent judgment relating to such issue that gave rise to the stay; or
+  >   - **(2)** fails to prosecute to a final, non-appealable judgment such issue that gave rise to the stay.
   > - **(f)** *Rule of construction* Nothing in this section shall be construed to limit the ability of a court to grant any stay, expand any stay granted under this section, or grant any motion to intervene, if otherwise permitted by law.
-  > - **(g)** *Definitions* In this section:
-  >   - **(1)** *Covered customer* The term covered customer means a party accused of infringing a patent or patents in dispute based on a covered product or process.
-  >   - **(2)** *Covered manufacturer* The term covered manufacturer means a person that manufactures or supplies, or causes the manufacture or supply of, a covered product or process or a relevant part thereof.
-  >   - **(3)** *Covered product or process* The term covered product or process means a product, process, system, service, component, material, or apparatus, or relevant part thereof, that—
-  >     - **(A)** is alleged to infringe the patent or patents in dispute; or
-  >     - **(B)** implements a process alleged to infringe the patent or patents in dispute.
 
 - **(b)** *Conforming amendment* The table of sections for chapter 29 of title 35, United States Code, is amended by striking the item relating to section 296 and inserting the following:
 - **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after the first day of the 30-day period that ends on that date.
 
 ## § 6. Procedures and practices to implement recommendations of the Judicial Conference
 
-- **(a)** *Judicial Conference rules and procedures on discovery burdens and costs*
-  - **(1)** *Rules and procedures* The Judicial Conference of the United States, using existing resources, shall develop rules and procedures to implement the issues and proposals described in paragraph (2) to address the asymmetries in discovery burdens and costs in any civil action arising under any Act of Congress relating to patents. Such rules and procedures shall include how and when payment for document discovery in addition to the discovery of core documentary evidence is to occur, and what information must be presented to demonstrate financial capacity before permitting document discovery in addition to the discovery of core documentary evidence.
-  - **(2)** *Rules and procedures to be considered* The rules and procedures required under paragraph (1) should address each of the following issues and proposals:
-    - **(A)** *Discovery of core documentary evidence* Whether and to what extent each party to the action is entitled to receive core documentary evidence and shall be responsible for the costs of producing core documentary evidence within the possession or control of each such party, and whether and to what extent each party to the action may seek nondocumentary discovery as otherwise provided in the Federal Rules of Civil Procedure.
-    - **(B)** *Electronic communication* If the parties determine that the discovery of electronic communication is appropriate, whether such discovery shall occur after the parties have exchanged initial disclosures and core documentary evidence and whether such discovery shall be in accordance with the following:
-      - **(i)** Any request for the production of electronic communication shall be specific and may not be a general request for the production of information relating to a product or business.
-      - **(ii)** Each request shall identify the custodian of the information requested, the search terms, and a time frame. The parties shall cooperate to identify the proper custodians, the proper search terms, and the proper time frame.
-      - **(iii)** A party may not submit production requests to more than 5 custodians, unless the parties jointly agree to modify the number of production requests without leave of the court.
-      - **(iv)** The court may consider contested requests for up to 5 additional custodians per producing party, upon a showing of a distinct need based on the size, complexity, and issues of the case.
-      - **(v)** If a party requests the discovery of electronic communication for additional custodians beyond the limits agreed to by the parties or granted by the court, the requesting party shall bear all reasonable costs caused by such additional discovery.
-    - **(C)** *Additional document discovery* Whether the following should apply:
-      - **(i)** *In general* Each party to the action may seek any additional document discovery otherwise permitted under the Federal Rules of Civil Procedure, if such party bears the reasonable costs, including reasonable attorney’s fees, of the additional document discovery.
-      - **(ii)** *Requirements for additional document discovery* Unless the parties mutually agree otherwise, no party may be permitted additional document discovery unless such a party posts a bond, or provides other security, in an amount sufficient to cover the expected costs of such additional document discovery, or makes a showing to the court that such party has the financial capacity to pay the costs of such additional document discovery.
-      - **(iii)** *Limits on additional document discovery* A court, upon motion, may determine that a request for additional document discovery is excessive, irrelevant, or otherwise abusive and may set limits on such additional document discovery.
-      - **(iv)** *Good cause modification* A court, upon motion and for good cause shown, may modify the requirements of subparagraphs (A) and (B) and any definition under paragraph (3). Not later than 30 days after the pretrial conference under Rule 16 of the Federal Rules of Civil Procedure, the parties shall jointly submit any proposed modifications of the requirements of subparagraphs (A) and (B) and any definition under paragraph (3), unless the parties do not agree, in which case each party shall submit any proposed modification of such party and a summary of the disagreement over the modification.
-      - **(v)** *Computer code* A court, upon motion and for good cause shown, may determine that computer code should be included in the discovery of core documentary evidence. The discovery of computer code shall occur after the parties have exchanged initial disclosures and other core documentary evidence.
-    - **(D)** *Discovery sequence and scope* Whether the parties shall discuss and address in the written report filed pursuant to Rule 26(f) of the Federal Rules of Civil Procedure the views and proposals of each party on the following:
+- **(a)** *Pilot program for rules and procedures on discovery burdens and costs and case management*
+  - **(1)** *Definitions* In this subsection, the term electronic communication means any form of electronic communication, including email, text message, and instant message.
+  - **(2)** *Development of rules and procedures* Not later than 3 months after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall designate not fewer than 6 of the district courts of the United States that are participating in the patent cases pilot program established under section 1 of Public Law 111–349 (28 U.S.C.137 note) to develop rules and procedures to implement the proposals described in paragraphs (3) through (5) to address the asymmetries in discovery burdens and costs, and to establish case management procedures, in any civil action arising under any Act of Congress relating to patents.
+  - **(3)** *Types of discovery rules and procedures to be considered* The discovery rules and procedures required under paragraph (2) shall address each of the following:
+    - **(A)** *Discovery of core documentary evidence* Whether and to what extent each party to the action is entitled to receive core documentary evidence and should be responsible for the costs of producing core documentary evidence within the possession or control of each such party, and whether and to what extent each party may seek non-core documentary discovery as otherwise provided in the Federal Rules of Civil Procedure.
+    - **(B)** *Electronic communication* If the parties request discovery of electronic communication, how such discovery should be phased to occur relative to the exchange of initial disclosures and core documentary evidence, and appropriate limitations to apply to such discovery.
+    - **(C)** *Scope of documentary evidence* The kinds of evidence that should constitute “core documentary evidence”.
+  - **(4)** *Specific discovery rules and procedures to be considered for additional document discovery* The discovery rules and procedures required under paragraph (2) shall address whether the following provisions, or variations on the following provisions, should apply:
+    - **(A)** *In general* Whether each party to the action may seek any additional document discovery otherwise permitted under the Federal Rules of Civil Procedure beyond core documentary evidence, if such party bears the reasonable costs, including reasonable attorney’s fees, of the additional document discovery.
+    - **(B)** *Requirements for additional document discovery* Whether, unless the parties mutually agree otherwise, no party may be permitted additional document discovery unless such a party posts a bond, or provides other security, in an amount sufficient to cover the expected costs of such additional document discovery, or makes a showing to the court that such party has the financial capacity to pay the costs of such additional document discovery.
+    - **(C)** *Good cause modification* Whether a court, upon motion and for good cause shown, may modify the requirements of subparagraphs (A) and (B) and any definition of core documentary evidence.
+    - **(D)** *Computer code* Whether a court, upon motion and for good cause shown, may determine that computer code should be included in the discovery of core documentary evidence, and whether the discovery of computer code shall occur after the parties have exchanged initial disclosures and other core documentary evidence.
+    - **(E)** *Discovery sequence and scope* Whether the parties shall discuss and address in the written report filed pursuant to rule 26(f) of the Federal Rules of Civil Procedure the views and proposals of each party on the following:
       - **(i)** When the discovery of core documentary evidence should be completed.
-      - **(ii)** Whether additional document discovery will be sought under subparagraph (C).
-      - **(iii)** Any issues about infringement, invalidity, or damages that, if resolved before the additional discovery described in subparagraph (C) commences, might simplify or streamline the case, including the identification of any terms or phrases relating to any patent claim at issue to be construed by the court and whether the early construction of any of those terms or phrases would be helpful.
-  - **(3)** *Definitions* In this subsection:
-    - **(A)** *Core documentary evidence* The term core documentary evidence—
-      - **(i)** includes—
-        - **(I)** documents relating to the conception of, reduction to practice of, and application for, the patent or patents at issue;
-        - **(II)** documents sufficient to show the technical operation of the product or process identified in the complaint as infringing the patent or patents at issue;
-        - **(III)** documents relating to potentially invalidating prior art;
-        - **(IV)** documents relating to any licensing of, or other transfer of rights to, the patent or patents at issue before the date on which the complaint is filed;
-        - **(V)** documents sufficient to show profit attributable to the claimed invention of the patent or patents at issue;
-        - **(VI)** documents relating to any knowledge by the accused infringer of the patent or patents at issue before the date on which the complaint is filed;
-        - **(VII)** documents relating to any knowledge by the patentee of infringement of the patent or patents at issue before the date on which the complaint is filed;
-        - **(VIII)** documents relating to any licensing term or pricing commitment to which the patent or patents may be subject through any agency or standard-setting body; and
-        - **(IX)** documents sufficient to show any marking or other notice provided of the patent or patents at issue; and
-      - **(ii)** does not include computer code, except as specified in paragraph (2)(C)(v).
-    - **(B)** *Electronic communication* The term electronic communication means any form of electronic communication, including email, text message, or instant message.
-  - **(4)** *Implementation by the District Courts* Not later than 6 months after the date on which the Judicial Conference has developed the rules and procedures required by this subsection, each United States district court and the United States Court of Federal Claims shall revise the applicable local rules for such court to implement such rules and procedures.
-  - **(5)** *Authority for Judicial Conference to review and modify*
-    - **(A)** *Study of efficacy of rules and procedures* The Judicial Conference shall study the efficacy of the rules and procedures required by this subsection during the 4-year period beginning on the date on which such rules and procedures by the district courts and the United States Court of Federal Claims are first implemented. The Judicial Conference may modify such rules and procedures following such 4-year period.
-    - **(B)** *Initial modifications* Before the expiration of the 4-year period described in subparagraph (A), the Judicial Conference may modify the requirements under this subsection—
-      - **(i)** by designating categories of “core documentary evidence”, in addition to those designated under paragraph (3)(A), as the Judicial Conference determines to be appropriate and necessary; and
-      - **(ii)** as otherwise necessary to prevent a manifest injustice, the imposition of a requirement the costs of which clearly outweigh its benefits, or a result that could not reasonably have been intended by the Congress.
-- **(b)** *Judicial Conference patent case management* The Judicial Conference of the United States, using existing resources, shall develop case management procedures to be implemented by the United States district courts and the United States Court of Federal Claims for any civil action arising under any Act of Congress relating to patents, including initial disclosure and early case management conference practices that—
-  - **(1)** will identify any potential dispositive issues of the case; and
-  - **(2)** focus on early summary judgment motions when resolution of issues may lead to expedited disposition of the case.
-- **(c)** *Revision of form for patent infringement*
+      - **(ii)** Whether additional document discovery described in subparagraphs (A) and (B) will be sought.
+      - **(iii)** Any issues about infringement, invalidity, or damages that, if resolved before the additional document discovery described in subparagraphs (A) and (B) commences, might simplify or streamline the case.
+  - **(5)** *Case management rules and procedures to be considered* The rules and procedures required under paragraph (2) shall also address case management procedures for any civil action arising under any Act of Congress relating to patents, including initial disclosure and early case management conference practices that—
+    - **(A)** will identify any potential dispositive issues of the case; and
+    - **(B)** focus on early summary judgment motions when resolution of issues may lead to expedited disposition of the case.
+- **(b)** *Implementation of rules and procedures* Within 18 months after the designation by the Director of the Administrative Office of the 6 district courts to develop the rules and procedures pursuant to subsection (a), the 6 district courts shall complete the development of the rules and procedures, and begin to implement them.
+- **(c)** *Expansion of pilot program for rules and procedures on discovery burdens and costs and case management* After the rules and procedures developed by the pilot program pursuant to subsection (a) have been in effect for at least 2 years, the Judicial Conference of the United States, using existing resources, may expand the application of some or all of those rules and procedures to be implemented by all the district courts, and the United States Court of Federal Claims, for any civil action arising under any Act of Congress relating to patents.
+- **(d)** *Revision of form for patent infringement*
   - **(1)** *Elimination of form* The Supreme Court, using existing resources, shall eliminate Form 18 in the Appendix to the Federal Rules of Civil Procedure (relating to Complaint for Patent Infringement), effective on the date of the enactment of this Act.
   - **(2)** *Revised form* The Supreme Court may prescribe a new form or forms setting out model allegations of patent infringement that, at a minimum, notify accused infringers of the asserted claim or claims, the products or services accused of infringement, and the plaintiff’s theory for how each accused product or service meets each limitation of each asserted claim. The Judicial Conference should exercise the authority under section 2073 of title 28, United States Code, to make recommendations with respect to such new form or forms.
-- **(d)** *Protection of intellectual-Property licenses in bankruptcy*
+- **(e)** *Protection of intellectual-Property licenses in bankruptcy*
   - **(1)** *In general* Section 1522 of title 11, United States Code, is amended by adding at the end the following:
     > - **(e)** Section 365(n) shall apply to cases under this chapter. If the foreign representative rejects or repudiates a contract under which the debtor is a licensor of intellectual property, the licensee under such contract shall be entitled to make the election and exercise the rights described in section 365(n).
 
@@ -243,9 +269,20 @@ In this Act:
         - **(II)** by striking “and” after the semicolon;
       - **(ii)** in subparagraph (C), by striking the period at the end of clause (ii) and inserting “; and”; and
       - **(iii)** by adding at the end the following new subparagraph:
-        > - **(D)** in the case of a trademark, service mark, or trade name, the trustee shall not be relieved of a contractual obligation to monitor and control the quality of a licensed product or service.
+        > - **(D)** in the case of a trademark, service mark, or trade name, the licensee shall not be relieved of any of its obligations to maintain the quality of the products and services offered under or in connection with the licensed trademark, service mark, or trade name, and the trustee shall retain the right to oversee and enforce quality control for such products or services, or both.
 
   - **(3)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and shall apply to any case that is pending on, or for which a petition or complaint is filed on or after, such date of enactment.
+- **(f)** *In general* Not later than 12 months after the date of the enactment of this Act, the Judicial Conference of the United States, with the assistance of the Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts, shall prepare and transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on discovery proceedings in cases pertaining to litigation involving patent laws of the United States. The report shall contain, after looking at data compiled for the previous two years before the date of the enactment of this Act, the following:
+  - **(1)** The percentage of courts that have distinct phases of discovery in the court rules.
+  - **(2)** A description of at least two of the definitions of such phases.
+  - **(3)** Identify by name any court that does not have such distinct phases and a description of why such courts have not implemented such phases.
+  - **(4)** With regard to proceedings in courts that have phases, in the case of a discovery proceeding that extends beyond the core documents phase, a description of—
+    - **(A)** what additional discovery was requested and any consistent pattern or trend in the reasons or justifications for the request;
+    - **(B)** how much longer, on average, the proceedings lasted than those settled within the first phase; and
+    - **(C)** any patterns for the courts that repeatedly have extended requests.
+  - **(5)** Looking at proceedings in the courts that do not have phase rules, a description of—
+    - **(A)** how long, on average, the discovery proceedings last; and
+    - **(B)** the scope of the requests.
 
 ## § 7. Small business education, outreach, and information access
 
@@ -307,63 +344,118 @@ In this Act:
 ## § 9. Improvements and technical corrections to the Leahy-Smith America Invents Act
 
 - **(a)** *Post-Grant review amendment* Section 325(e)(2) of title 35, United States Code is amended by striking “or reasonably could have raised”.
-- **(b)** *Use of district-Court claim construction in post-Grant and inter partes reviews*
+- **(b)** *Reform of Patent Trial and Appeal Board proceedings*
   - **(1)** *Inter partes review* Section 316(a) of title 35, United States Code, is amended—
     - **(A)** in paragraph (12), by striking “; and” and inserting a semicolon;
-    - **(B)** in paragraph (13), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following new paragraph:
+    - **(B)** in paragraph (13), by striking the period at the end and inserting a semicolon; and
+    - **(C)** by adding at the end the following new paragraphs:
       > - **(14)** providing that for all purposes under this chapter—
       >   - **(A)** each claim of a patent shall be construed as such claim would be in a civil action to invalidate a patent under section 282(b), including construing each claim of the patent in accordance with the ordinary and customary meaning of such claim as understood by one of ordinary skill in the art and the prosecution history pertaining to the patent; and
-      >   - **(B)** if a court has previously construed the claim or a claim term in a civil action in which the patent owner was a party, the Office shall consider such claim construction.
+      >   - **(B)** if a court has previously construed the claim or a claim term in a civil action in which the patent owner was a party, the Office shall consider such claim construction; and
+      > - **(15)** providing that a review may not be instituted unless the petitioner certifies that the petitioner and the real parties in interest of the petitioner—
+      >   - **(A)** do not own and will not acquire a financial instrument (including a prepaid variable forward contract, equity swap, collar, or exchange fund) that is designed to hedge or offset any decrease in the market value of an equity security of the patent owner or an affiliate of the patent owner, during a period following the filing of the petition to be determined by the Director; and
+      >   - **(B)** have not demanded payment, monetary or otherwise, from the patent owner or an affiliate of the patent owner in exchange for a commitment not to file a petition under section 311 with respect to the patent that is the subject of the petition, unless the petitioner or the real party in interest of the petitioner has been sued for or charged with infringement of the patent, during a period to be determined by the Director.
 
   - **(2)** *Post-grant review* Section 326(a) of title 35, United States Code, is amended—
     - **(A)** in paragraph (11), by striking “; and” and inserting a semicolon;
-    - **(B)** in paragraph (12), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following new paragraph:
+    - **(B)** in paragraph (12), by striking the period at the end and inserting a semicolon; and
+    - **(C)** by adding at the end the following new paragraphs:
       > - **(13)** providing that for all purposes under this chapter—
       >   - **(A)** each claim of a patent shall be construed as such claim would be in a civil action to invalidate a patent under section 282(b), including construing each claim of the patent in accordance with the ordinary and customary meaning of such claim as understood by one of ordinary skill in the art and the prosecution history pertaining to the patent; and
-      >   - **(B)** if a court has previously construed the claim or a claim term in a civil action in which the patent owner was a party, the Office shall consider such claim construction.
+      >   - **(B)** if a court has previously construed the claim or a claim term in a civil action in which the patent owner was a party, the Office shall consider such claim construction; and
+      > - **(14)** providing that a review may not be instituted unless the petitioner certifies that the petitioner and the real parties in interest of the petitioner—
+      >   - **(A)** do not own and will not acquire a financial instrument (including a prepaid variable forward contract, equity swap, collar, or exchange fund) that is designed to hedge or offset any decrease in the market value of an equity security of the patent owner or an affiliate of the patent owner, during a period following the filing of the petition to be determined by the Director; and
+      >   - **(B)** have not demanded payment, monetary or otherwise, from the patent owner or an affiliate of the patent owner in exchange for a commitment not to file a petition under section 311 with respect to the patent that is the subject of the petition, unless the petitioner or the real party in interest of the petitioner has been sued for or charged with infringement of the patent, during a period to be determined by the Director.
 
   - **(3)** *Technical and conforming amendment* Section 18(a)(1)(A) of the Leahy-Smith America Invents Act (Public Law 112–29; 126 Stat. 329; 35 U.S.C. 321 note) is amended by striking “Section 321(c)” and inserting “Sections 321(c) and 326(a)(13)”.
-  - **(4)** *Effective date* The amendments made by this subsection shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act, and shall apply to any proceeding under chapter 31 or 32 of title 35, United States Code, as the case may be, for which the petition for review is filed on or after such effective date.
-- **(c)** *Codification of the double-Patenting doctrine for first-Inventor-To-File patents*
-  - **(1)** *Amendment* Chapter 10 of title 35, United States Code, is amended by adding at the end the following new section:
-    > ## § 106. Prior art in cases of double patenting
-    >
-    > A claimed invention of a patent issued under section 151 (referred to as the first patent) that is not prior art to a claimed invention of another patent (referred to as the second patent) shall be considered prior art to the claimed invention of the second patent for the purpose of determining the nonobviousness of the claimed invention of the second patent under section 103 if—
-    >
-    > - **(1)** the claimed invention of the first patent was effectively filed under section 102(d) on or before the effective filing date of the claimed invention of the second patent;
-    > - **(2)** either—
-    >   - **(A)** the first patent and second patent name the same individual or individuals as the inventor; or
-    >   - **(B)** the claimed invention of the first patent would constitute prior art to the claimed invention of the second patent under section 102(a)(2) if an exception under section 102(b)(2) were deemed to be inapplicable and the claimed invention of the first patent was, or were deemed to be, effectively filed under section 102(d) before the effective filing date of the claimed invention of the second patent; and
-    > - **(3)** the patentee of the second patent has not disclaimed the rights to enforce the second patent independently from, and beyond the statutory term of, the first patent.
+  - **(4)** *Declaration evidence*
+    - **(A)** *Preliminary response to petition for inter partes review* Section 313 of title 35, United States Code, is amended by striking the period at the end and inserting “, including affidavits or declarations of supporting evidence and opinions.”.
+    - **(B)** *Preliminary response to petition for post-grant review* Section 323 of title 35, United States Code, is amended by striking the period at the end and inserting “, including affidavits or declarations of supporting evidence and opinions.”.
+  - **(5)** *Right of due process*
+    - **(A)** *Inter partes review* Section 316(b) of title 35, United States Code, is amended by striking “and the ability” and inserting “the rights to due process of the patent owner and the petitioner, and the ability”.
+    - **(B)** *Post-grant review* Section 326(b) of title 35, United States Code, is amended by striking “and the ability” and inserting “the rights to due process of the patent owner and the petitioner, and the ability”.
+  - **(6)** *Serial or redundant petitions* The Director shall designate as precedential (and may change the designation as the Director determines to be appropriate), with respect to the application of subsections (d) and (e) of section 325 of title 35, United States Code, the decisions of the Patent Trial and Appeal Board in each of the following decisions:
+    - **(A)** Dell Inc. v. Electronics and Telecomms. Research Inst., IPR2015–00549, Paper 10 (PTAB Mar. 26, 2015).
+    - **(B)** Zimmer Holdings, Inc. v. Bonutti Skeletal Innovations LLC, IPR2014–01080, Paper 17 (PTAB Oct. 31, 2014).
+    - **(C)** Prism Pharma Co., Ltd. v. Choongwae Pharma Corp., IPR2014–00315, Paper 14 (PTAB July 8, 2014).
+    - **(D)** Unilever, Inc. v. The Procter & Gamble Co., IPR2014–00506, Paper 17 (PTAB July 7, 2014).
+  - **(7)** *Preliminary response to inter partes review amendment*
+    - **(A)** *Amendment* Section 313 of title 35, United States Code, is amended by adding at the end the following new sentence: “The Director may accept a reply by the petitioner to new issues raised in the preliminary response, upon request by the petitioner to file such reply, within a time period set by the Director.”
+    - **(B)** *Conforming amendments* Section 314 of title 35, United States Code, is amended—
+      - **(i)** in subsection (a), by striking “any response” and inserting “any response or reply”; and
+      - **(ii)** in subsection (b)—
+        - **(I)** in paragraph (1), by striking “receiving a preliminary response to the petition” and inserting “receiving the later of a preliminary response to the petition or a reply to such preliminary response”; and
+        - **(II)** by amending paragraph (2) to read as follows:
+          > - **(2)** if—
+          >   - **(A)** no such preliminary response is filed, the last date on which such response may be filed; and
+          >   - **(B)** such preliminary response is filed and no such reply is requested, the last day on which such reply may be requested.
 
-  - **(2)** *Regulations* The Director shall promulgate regulations setting forth the form and content of any disclaimer required for a patent to be issued in compliance with section 106 of title 35, United States Code, as added by paragraph (1). Such regulations shall apply to any disclaimer filed after a patent has issued. A disclaimer, when filed, shall be considered for the purpose of determining the validity of the patent under section 106 of title 35, United States Code.
-  - **(3)** *Conforming amendment* The table of sections for chapter 10 of title 35, United States Code, is amended by adding at the end the following new item:
-  - **(4)** *Exclusive rule* A patent subject to section 106 of title 35, United States Code, as added by paragraph (1), shall not be held invalid on any nonstatutory, double-patenting ground based on a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note).
-  - **(5)** *Effective date* The amendments made by this subsection shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act and shall apply to a patent or patent application only if both the first and second patents described in section 106 of title 35, United States Code, as added by paragraph (1), are patents or patent applications that are described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note).
+  - **(8)** *Effective date, regulations, and transition for short sales*
+    - **(A)** *Effective date* Sections 316(a)(15) and 326(a)(14) of title 35, United States Code, as added by paragraphs (1) and (2) shall take effect on the date of the enactment of this Act.
+    - **(B)** *Regulations required* Not later than one year after the date of the enactment of this Act, the Director shall issue regulations to carry out sections 316(a)(15) and 326(a)(14) of title 35, United States Code, as added by paragraphs (1) and (2).
+    - **(C)** *Transition* During the period that begins on the date of the enactment of this Act and ends on the date of the issuance of the regulations required pursuant to subparagraph (B), a petition filed under chapter 31 or 32 of title 35, United States Code, on or after the date of the enactment of this Act may not be instituted unless the petitioner certifies that the petitioner and the real parties in interest of such petitioner—
+      - **(i)** do not own a financial instrument described in sections 316(a)(15) and 326(a)(14) of title 35, United States Code, as added by paragraphs (1) and (2), during the one-week period following the date on which the petition is filed; and
+      - **(ii)** have not demanded anything of value from the patent owner or an affiliate of the patent owner during the period between September 16, 2012, and the date of the filing of the petition.
+  - **(9)** *Effective date* Except as otherwise provided, the amendments made by this subsection shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act, and shall apply to any proceeding under chapter 31 or 32 of title 35, United States Code, as the case may be, for which the petition for review is filed on or after such effective date.
+- **(c)** *Codification of the double-patenting doctrine*
+  - **(1)** *Amendments*
+    - **(A)** *Conditions for patentability; novelty* Section 102 of title 35, United States Code, is amended by inserting at the end the following new subsection:
+      > - **(e)** *Double-patenting prior art* If a first claimed invention in a first patent was effectively filed on or before the effective filing date of a second claimed invention in a second patent or in the application on which the second patent issues, and the first claimed invention is not otherwise prior art to the second claimed invention under this section, then the first claimed invention shall, notwithstanding the other subsections of this section, constitute prior art to the second claimed invention under this subsection unless—
+      >   - **(1)** the second claimed invention is consonant with a requirement for restriction under the first sentence of section 121 with respect to the claims issued in the first patent; or
+      >   - **(2)** an election has been recorded in the Office by the owner of the second patent or the application on which the second patent issues disclaiming the right to bring or maintain a civil action under section 281 to enforce the second patent, except that such disclaimer shall not apply if—
+      >     - **(A)** the relief being sought in the civil action would not constitute a cause of action barred by res judicata had the asserted claims of the second patent been issued in the first patent; and
+      >     - **(B)** the owner of the first patent or the application on which the first patent issues has recorded an election limiting the enforcement of the first patent relative to the second patent in the manner described in this paragraph, the owner of the first patent is a party to the civil action, or a separate action under section 281 to enforce the first patent can no longer be brought or maintained.
+
+    - **(B)** *Divisional applications* Section 121 of title 35, United States Code, is amended by striking the third sentence.
+    - **(C)** *Limitations* Paragraph (2) of section 154(b) of title 35, United States Code, is amended by inserting at the end the following new subparagraph:
+      > - **(D)** *Patents subject to election* If a patent is subject to an election as described in section 102(e)(2) with respect to one or more other patents, the adjusted term of the patent under this subsection may not exceed a period of 17 years from the date of issuance of any of such other patents and the portion of any adjustment of the term of the patent under this subsection that extends beyond the expiration of such 17-year period years shall be void.
+
+  - **(2)** *Effective date, implementation, and other transition provisions*
+    - **(A)** *In general* The amendments made by paragraph (1) shall be effective as if included in the amendment made by section 3(b)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
+    - **(B)** *Savings clause* If a second claimed invention in a second patent issued before the date of the enactment of this Act is subject to the amendments made by paragraph (1) and would not have been invalid had the amendments made by paragraph (1) and the provisions of this paragraph not been enacted, then, notwithstanding section 102(e) of title 35, United States Code, as added by paragraph (1), prior art under such section 102(e) may not be considered in determining the validity of such second claimed invention.
+    - **(C)** *Provisional rejections to continue* If a first claimed invention in a first application for patent subject to the amendments under paragraph (1) would, if issued as a patent, constitute prior art under section 102(e) of title 35, United States Code, as added by paragraph (1), with respect to a second claimed invention in a second application, the first claimed invention may be provisionally cited by the Office as prior art in a notice under section 132 of title 35, United States Code, in connection with the examination of the second claimed invention.
+    - **(D)** *Patent term; rule of construction*
+      - **(i)** *In general* If the term of a patent is based upon the amendments made to subsection (a) of section 154, title 35, United States Code, by the Uruguay Round Agreements Act (Public Law 103–465; 108 Stat. 4809)—
+        - **(I)** the patent term as provided under subsection (a) of such section 154, any adjustment to said term as provided under subsection (b) of such section 154, and any extension of such term as provided under section 156 of title 35, United States Code, shall not constitute, nor be deemed by the Office or the courts to constitute, an unjustified period of protection under the patent or an unjustified extension of the right to exclude under the patent relative to an earlier-expiring patent;
+        - **(II)** the Office shall not condition the issuance of such a patent on a disclaimer of any portion of the term of the patent; and
+        - **(III)** the Office may condition the issuance of such a patent on the making of an election as described in section 102(e)(2) of title 35, United States Code, as added by paragraph (1) in lieu of the filing of a disclaimer with respect to the ownership or separate enforcement of the patent that would otherwise be required by the Office in cases of non-statutory double patenting.
+      - **(ii)** *Disclaimers in pending applications* A terminal disclaimer made in connection with an application for patent with respect to one or more other applications or patents shall be given no effect and shall be treated as having never been made if—
+        - **(I)** within one year after the date of the enactment of this Act, an election as described in section 102(e)(2) of title 35, United State Code, as added by paragraph (1), has been made in connection with the application or any patent issuing thereon and has effect with respect to each such other application or patent with respect to which the disclaimer was made;
+        - **(II)** the application was pending before the Office on or after July 1, 2015; and
+        - **(III)** the term of a patent issued on the application would be based upon the amendments made to subsection (a) of section 154 of title 35, United States Code, by the Uruguay Round Agreements Act.
+      - **(iii)** *Disclaimers otherwise unaffected* Except as provided in clause (ii), nothing in this subsection shall be construed to negate the effect of a terminal disclaimer limiting the enforcement of a patent issued on or before the date of the enactment of this Act.
+      - **(iv)** *Terminal disclaimer defined* In this subparagraph, the term terminal disclaimer has the meaning as such term is described in section 1.321 of title 37, Code of Federal Regulations.
+    - **(E)** *Exclusive rules*
+      - **(i)** *First-inventor-to-file patents* A claimed invention of a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note) and issued before, on, or after the date of the enactment of this Act may not be held invalid on any nonstatutory double-patenting ground.
+      - **(ii)** *First-to-invent patents* A claimed invention of a patent not described in section 3(n)(1) of the Leahy-Smith America Invents Act and issued before, on, or after the date of the enactment of this Act may not be held invalid with respect to a claimed invention of another patent based on any nonstatutory double patenting ground if one of the claimed inventions is prior art to the other claimed invention under section 102 of title 35, United States Code, as in effect on the day prior to the effective date of the amendments made by section 3(b)(1) of the Leahy-Smith America Invents Act.
+    - **(F)** *Effect of rule of construction and exclusive rules* Subparagraphs (D) and (E) shall take effect on the date of the enactment of this Act, except that they shall not apply to any defense raised in a civil action brought before such date.
 - **(d)** *PTO patent reviews*
   - **(1)** *Clarification*
     - **(A)** *Scope of prior art* Section 18(a)(1)(C)(i) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note) is amended by striking “section 102(a)” and inserting “subsection (a) or (e) of section 102”.
     - **(B)** *Effective date* The amendment made by subparagraph (A) shall take effect on the date of the enactment of this Act and shall apply to any proceeding pending on, or filed on or after, such date of enactment.
   - **(2)** *Authority to waive fee* Subject to available resources, the Director may waive payment of a filing fee for a transitional proceeding described under section 18(a) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note).
-- **(e)** *Clarification of limits on patent term adjustment*
-  - **(1)** *Amendments* Section 154(b)(1)(B) of title 35, United States Code, is amended—
-    - **(A)** in the matter preceding clause (i), by striking “not including—” and inserting “the term of the patent shall be extended 1 day for each day after the end of that 3-year period until the patent is issued, not including—”;
-    - **(B)** in clause (i), by striking “consumed by continued examination of the application requested by the applicant” and inserting “consumed after continued examination of the application is requested by the applicant”;
-    - **(C)** in clause (iii), by striking the comma at the end and inserting a period; and
-    - **(D)** by striking the matter following clause (iii).
-  - **(2)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and apply to any patent application that is pending on, or filed on or after, such date of enactment.
-- **(f)** *Clarification of jurisdiction*
-  - **(1)** *In general* The Federal interest in preventing inconsistent final judicial determinations as to the legal force or effect of the claims in a patent presents a substantial Federal issue that is important to the Federal system as a whole.
+  - **(3)** *Proceeding consolidation clarification* Section 315(c) of title 35, United States Code, is amended to read as follows:
+    > - **(c)** *Joinder*
+    >   - **(1)** *Joinder of party* If the Director institutes an inter partes review, the Director, in his or her discretion, may join as a party to that inter partes review any person who meets the requirement of properly filing a petition under section 311 that the Director, after receiving a preliminary response under section 313 or the expiration of the time for filing such a response, determines warrants the institution of an inter partes review under section 314.
+    >   - **(2)** *Joinder of later filed petition* For good cause shown, the Director may allow a party who files a petition that meets the requirement described in paragraph (1) and concerns the patent of a pending inter partes review to join the petition to the pending review.
+
+- **(e)** *Clarification of jurisdiction*
+  - **(1)** *In general* An action or claim arises under an Act of Congress relating to patents if such action or claim—
+    - **(A)** necessarily requires resolution of a disputed question as to the validity of a patent or the scope of a patent claim; or
+    - **(B)** is an action or claim for legal malpractice that arises from an attorney’s conduct in relation to an action or claim arising under an Act of Congress relating to patents (including as described in paragraph (1)).
   - **(2)** *Applicability* Paragraph (1)—
     - **(A)** shall apply to all cases filed on or after, or pending on, the date of the enactment of this Act; and
     - **(B)** shall not apply to a case in which a Federal court has issued a ruling on whether the case or a claim arises under any Act of Congress relating to patents or plant variety protection before the date of the enactment of this Act.
-- **(g)** *Patent Pilot Program in Certain District Courts Duration*
+- **(f)** *Patent Pilot Program in Certain District Courts Duration*
   - **(1)** *Duration* Section 1(c) of Public Law 111–349 (124 Stat. 3674; 28 U.S.C. 137 note) is amended to read as follows:
     > - **(c)** *Duration* The program established under subsection (a) shall be maintained using existing resources, and shall terminate 20 years after the end of the 6-month period described in subsection (b).
 
   - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect on the date of the enactment of this Act.
+- **(g)** *Management of the United States Patent and Trademark Office*
+  - **(1)** *In general* Section 3(b)(1) of title 35, United States Code, is amended in the first sentence—
+    - **(A)** by striking “be vested with the authority to act in the capacity of the” and inserting “serve as Acting,”; and
+    - **(B)** by inserting before the period “or in the event of a vacancy in the office of the Director”.
+  - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect on the date of the enactment of this Act and shall apply with respect to appointments and vacancies occurring before, on, or after the date of the enactment of this Act.
 - **(h)** *Technical corrections*
   - **(1)** *Novelty*
     - **(A)** *Amendment* Section 102(b)(1)(A) of title 35, United States Code, is amended by striking “the inventor or joint inventor or by another” and inserting “the inventor or a joint inventor or another”.
@@ -380,7 +472,7 @@ In this Act:
     - **(B)** *Effective date* The amendment made by subparagraph (A) shall be effective as if included in the amendment made by section 3(h)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
   - **(5)** *Specification* Notwithstanding section 4(e) of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 297), the amendments made by subsections (c) and (d) of section 4 of such Act shall apply to any proceeding or matter that is pending on, or filed on or after, the date of the enactment of this Act.
   - **(6)** *Time limit for commencing misconduct proceedings*
-    - **(A)** *Amendment* The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “18 months”.
+    - **(A)** *Amendment* Section 32 of title 35, United States Code, is amended by striking the fourth sentence and inserting the following new sentences: “A proceeding under this section shall be commenced not later than the earlier of either the date that is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 18 months after the date on which the Director of the Office of Enrollment and Discipline received a written grievance (as prescribed in the regulations established under section 2(b)(2)(D)) about a specified individual that describes the misconduct forming the basis for the proceeding. If the misconduct that forms the basis for the proceeding under this section is at issue in a court or administrative-agency proceeding, the 18-month period for commencing the proceeding under this section shall be tolled until the court or agency’s decision regarding the misconduct becomes final and non-appealable. The 18-month period for commencing a proceeding under this section also may be tolled by agreement between the parties.”
     - **(B)** *Effective date* The amendment made by this paragraph shall take effect on the date of the enactment of this Act and shall apply to any action in which the Office files a complaint on or after such date of enactment.
   - **(7)** *Patent owner response*
     - **(A)** *Conduct of inter partes review* Paragraph (8) of section 316(a) of title 35, United States Code, is amended by striking “the petition under section 313” and inserting “the petition under section 311”.
@@ -391,6 +483,22 @@ In this Act:
       - **(i)** by striking paragraph (7); and
       - **(ii)** by redesignating paragraphs (8) and (9) as paragraphs (7) and (8), respectively.
     - **(B)** *Effective date* The amendments made by subparagraph (A) shall be effective as if included in title II of the Patent Law Treaties Implementation Act of 2012 (Public Law 112–21).
+  - **(9)** *Global worksharing*
+    - **(A)** *Amendment* Section 122 of title 35, United States Code, is amended by adding at the end the following new subsection:
+      > - **(f)** *Foreign or International Filing*
+      >   - **(1)** *Provision of information* The Director may provide information concerning an application for patent to a foreign or international intellectual property office if a corresponding application is filed with such foreign or international intellectual property office. If the corresponding application is an international application, such information may also be provided to an International Searching Authority, an International Preliminary Examining Authority, or the International Bureau.
+      >   - **(2)** *Definitions* For purposes of this subsection, the terms international application, International Searching Authority, International Preliminary Examining Authority, and International Bureau have the same meaning given those terms under section 351.
+
+    - **(B)** *Conforming amendment* Section 122(a) of title 35, United States Code, is amended by striking “subsection (b)” and inserting “subsections (b) and (f)”.
+    - **(C)** *Effective date* The amendments made by this paragraph shall take effect on the date of the enactment of this Act and shall apply to applications for patent that are pending on, or filed on or after, such effective date.
+  - **(10)** *Jurisdiction for appeals of trademark cases*
+    - **(A)** *Court of appeals* Section 1295(a)(4)(C) of title 28, United States Code, is amended by striking “title 35” and inserting “title 35 or section 21(b) of the Act of July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) (15 U.S.C. 1071(b))”;
+    - **(B)** *Conforming amendment* Section 39(a) of the Act of July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) (15 U.S.C. 1121(a)) is amended by striking “under this Act” and inserting “under this Act (except as provided in section 1295(a)(4) of title 28, United States Code)”.
+    - **(C)** *Effective date* The amendment made by subparagraph (A) shall apply in any case in which a final judgment is entered by the district court on or after the date of enactment of this Act.
+  - **(11)** *Officers and employees amendment*
+    - **(A)** *Amendment* Section 3(b)(3)(A) of title 35, United States Code, is amended by striking “appoint” and inserting “appoint, or nominate for appointment by the Secretary of Commerce,”.
+    - **(B)** *Applicability* Section 3(b)(3)(B) of title 35, United States Code, as added by subparagraph (A) shall apply to all officers nominated for appointment by the Secretary of Commerce before, on, or after the date of the enactment of this Act.
+- **(i)** *Extension of fee-setting authority* Section 10(i)(2) of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 319; 35 U.S.C. 41 note) is amended by striking “7-year” and inserting “17-year”.
 
 ## § 10. Effective date
 
