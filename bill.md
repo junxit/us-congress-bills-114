@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3345
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3345
+
+> To amend the Radiation Exposure Compensation Act for purposes of making claims under such Act based on exposure to atmospheric nuclear testing, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Downwinders Compensation Act of 2015”.
+
+## § 2. Inclusion under the Radiation Exposure Compensation Act
+
+Section 4(b)(1) of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note; Public Law 101–426) is amended—
+
+- **(1)** in subparagraph (B)—
+  - **(A)** by striking “that portion of”; and
+  - **(B)** by striking “that consists of townships 13 through 16 at ranges 63 through 71”; and
+- **(2)** in subparagraph (C), by inserting “all acreage in any county all or part of which is located in” before “that part”.
+
+## § 3. Denial of charitable deduction for contributions that have a prerequisite for purchasing tickets to a college sporting event
+
+- **(a)** *In general* Section 170(f) of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+  > - **(1)** *Contributions that have a prerequisite for purchasing tickets to a college sporting event* No deduction shall be allowed under subsection (a) for any contribution that has a prerequisite for purchasing tickets to a college sporting event.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to contributions made after the date of the enactment of this Act in taxable years ending after the date of the enactment of this Act.
