@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3116
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3116
@@ -25,3 +25,9 @@ Quarterly Financial Report Reauthorization Act
 - 2015-07-20 — Introduced in House
 - 2015-07-20 — Introduced in House
 - 2015-07-20 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-07-22 — Committee Consideration and Mark-up Session Held.
+- 2015-07-23 — Committee Consideration and Mark-up Session Held.
+- 2015-07-23 — Ordered to be Reported by Voice Vote.
+- 2015-07-29 — Placed on the Union Calendar, Calendar No. 179.
+- 2015-07-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-237.
+- 2015-07-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-237.
