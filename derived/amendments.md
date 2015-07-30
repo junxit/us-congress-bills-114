@@ -1,7 +1,7 @@
 ---
 measure: S. 1253
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,3 +38,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-3` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-3` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | strike | by striking “and” before “(Z)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “, and (AA) with respect to an applicable disposable device (as defined in paragraph (2) of section 1834(s)) furnished to an individual pursuant to paragraph (1) of such section… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | Section 1861(m)(5) of the Social Security Act (42 U.S.C. 1395x(m)(5)) is amended by inserting “and applicable disposable devices (as defined in section 1834(s)(2))” after “durable medical equipment”. | the bill quotes the text inserted but describes where it goes |
