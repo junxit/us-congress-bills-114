@@ -1,7 +1,7 @@
 ---
 measure: S. 1172
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1172
@@ -16,8 +16,9 @@ Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements A
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
+- Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (1)
@@ -32,3 +33,12 @@ Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements A
 - 2015-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-94.
 - 2015-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-94.
 - 2015-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
+- 2015-07-30 — Amendment SA 2543 agreed to in Senate by Unanimous Consent.
+- 2015-07-30 — Amendment SA 2543 proposed by Senator McConnell for Senator Carper. (consideration: CR S6207; text: CR S6207) To improve the bill.
+- 2015-07-30 — Measure laid before Senate by unanimous consent. (consideration: CR S6205-6209)
+- 2015-07-30 — Passed Senate with amendments by Unanimous Consent. (text: CR S6207-6209)
+- 2015-07-30 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S6207-6209)
+- 2015-07-30 — Senate amendment agreed to: Amendment SA 2543 agreed to in Senate by Unanimous Consent.
+- 2015-07-30 — Senate amendment proposed (on the floor): Amendment SA 2543 proposed by Senator McConnell for Senator Carper.(consideration: CR S6207; text: CR S6207)
+- 2015-07-30 — Senate amendment submitted
+- 2015-07-30 — The committee amendments agreed to by Unanimous Consent. (consideration: CR S6207; text of measure as reported in Senate: CR S6207)

@@ -57,10 +57,10 @@ This Act may be cited as the “Edward ‘Ted’ Kaufman and Michael Leavitt Pre
     >     - **(D)** ensure agencies adequately prepare career employees who are designated to fill non-career positions under subsection (f) during a Presidential transition; and
     >     - **(E)** consult with the President's Management Council, or any successor thereto, in carrying out the duties of the agency transition directors council.
     >   - **(3)** *Membership* The members of the agency transition directors council shall include—
-    >     - **(A)** the Federal Transition Coordinator, who shall serve as Chairperson of the agency transition directors council;
-    >     - **(B)** a senior employee serving in the Executive Office of the President, who shall be appointed by the President;
+    >     - **(A)** the Federal Transition Coordinator and the Deputy Director for Management of the Office of Management and Budget, who shall serve as Co-Chairpersons of the agency transition directors council;
+    >     - **(B)** other senior employees serving in the Executive Office of the President, as determined by the President;
     >     - **(C)** a senior representative from each agency described in section 901(b)(1) of title 31, United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
-    >     - **(D)** a senior representative from any other agency determined by the Federal Transition Coordinator to be an agency that has significant responsibilities relating to the Presidential transition process; and
+    >     - **(D)** a senior representative from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
     >     - **(E)** during a year during which a Presidential election will be held, a transition representative for each eligible candidate, who shall serve in an advisory capacity.
     >   - **(4)** *Meetings* The agency transition directors council shall meet—
     >     - **(A)** subject to subparagraph (B), not less than once per year; and
