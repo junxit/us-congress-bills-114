@@ -1,7 +1,7 @@
 ---
 measure: S. 1461
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1461
@@ -16,11 +16,15 @@ A bill to provide for the extension of the enforcement instruction on supervisio
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -30,3 +34,7 @@ A bill to provide for the extension of the enforcement instruction on supervisio
 
 - 2015-05-22 — Introduced in Senate
 - 2015-05-22 — Read twice and referred to the Committee on Finance.
+- 2015-06-24 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-109.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-109.
+- 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
