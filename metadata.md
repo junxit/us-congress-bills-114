@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 22
@@ -16,7 +16,7 @@ FAST Act
 
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Cosponsors (118)
+## Cosponsors (460)
 
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -136,15 +136,367 @@ FAST Act
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Bost, Mike [R-IL-12] (B001295)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Flake, Jeff [R-AZ] (F000444)
 
 ## Committees (2)
 
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (1)
+## Recorded votes (11)
 
 - 2015-01-06 — [House 114-1-7](votes/house-114-1-0007.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–0)
+- 2015-07-21 — [Senate 114-1-250](votes/senate-114-1-0250.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (41–56)
+- 2015-07-22 — [Senate 114-1-251](votes/senate-114-1-0251.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (62–36)
+- 2015-07-24 — [Senate 114-1-252](votes/senate-114-1-0252.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–26)
+- 2015-07-26 — [Senate 114-1-253](votes/senate-114-1-0253.md) — On the Cloture Motion — **Cloture Motion Rejected** (49–43)
+- 2015-07-26 — [Senate 114-1-254](votes/senate-114-1-0254.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–26)
+- 2015-07-27 — [Senate 114-1-256](votes/senate-114-1-0256.md) — On the Amendment — **Amendment Agreed to** (64–29)
+- 2015-07-27 — [Senate 114-1-257](votes/senate-114-1-0257.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–32)
+- 2015-07-29 — [Senate 114-1-258](votes/senate-114-1-0258.md) — On the Amendment — **Amendment Agreed to** (62–38)
+- 2015-07-29 — [Senate 114-1-259](votes/senate-114-1-0259.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–35)
+- 2015-07-30 — [Senate 114-1-260](votes/senate-114-1-0260.md) — On Passage of the Bill — **Bill Passed** (65–34)
 
 ## Actions
 
@@ -163,3 +515,382 @@ FAST Act
 - 2015-02-12 — Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-3.
 - 2015-02-12 — Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-3.
 - 2015-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
+- 2015-07-14 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5057; text: CR S5057)
+- 2015-07-14 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5057)
+- 2015-07-14 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S5057)
+- 2015-07-16 — Senate amendment submitted
+- 2015-07-21 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 250. (consideration: CR S5188; text: CR S5188)
+- 2015-07-21 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 250) entered in Senate.
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-21 — Senate amendment submitted
+- 2015-07-22 — Motion by Senator McConnell to reconsider the vote by which the motion to invoke cloture on the motion to proceed to the measure was not invoked (Record Vote No. 250) agreed to in Senate by Voice Vote.
+- 2015-07-22 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 250) agreed to in Senate by Voice Vote. (consideration: CR S5451)
+- 2015-07-22 — Motion to proceed to measure considered in Senate. (consideration: CR S5451)
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Senate amendment submitted
+- 2015-07-22 — Upon reconsideration, cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 62 - 36. Record Vote Number: 251. (consideration: CR S5451; text: CR S5451)
+- 2015-07-23 — Motion to proceed to measure considered in Senate. (consideration: CR S5478-5513)
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-23 — Senate amendment submitted
+- 2015-07-24 — Amendment SA 2266 proposed by Senator McConnell. (consideration: CR S5566-5671; text: CR S5566-5671) In the nature of a substitute.
+- 2015-07-24 — Amendment SA 2327 proposed by Senator McConnell for Senator Kirk to Amendment SA 2266. (consideration: CR S5671) To reauthorize and reform the Export-Import Bank of the United States.
+- 2015-07-24 — Amendment SA 2328 proposed by Senator McConnell to Amendment SA 2327. (consideration: CR S5671; text: CR S5671) To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 entirely.
+- 2015-07-24 — Amendment SA 2329 proposed by Senator McConnell to language proposed to be stricken by amendment no. 2266. (consideration: CR S5671) Of a perfecting nature.
+- 2015-07-24 — Amendment SA 2330 proposed by Senator McConnell to Amendment SA 2329. (consideration: CR S5671; text: CR S5671) To change the enactment date.
+- 2015-07-24 — Cloture motion on amendment SA 2266, as modified, presented in Senate. (consideration: CR S5672; text: CR S5672)
+- 2015-07-24 — Cloture motion on amendment SA 2327 presented in Senate. (consideration: CR S5671-5672; text: CR S5672)
+- 2015-07-24 — Cloture motion on amendment SA 2328 presented in Senate. (consideration: CR S5671; text: CR S5671)
+- 2015-07-24 — Cloture motion on the measure presented in Senate. (consideration: CR S5672; text: CR S5672)
+- 2015-07-24 — Measure laid before Senate by motion. (consideration: CR S5566-5681)
+- 2015-07-24 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 26. Record Vote Number: 252.
+- 2015-07-24 — Motion to proceed to measure considered in Senate. (consideration: CR S5565-5566)
+- 2015-07-24 — Ruling of the Chair that Cruz amendment SA 2301 is not in order. (consideration: CR S5675)
+- 2015-07-24 — Senate amendment proposed (on the floor): Amendment SA 2266 proposed by Senator McConnell.(consideration: CR S5566-5671; text: CR S5566-5671)
+- 2015-07-24 — Senate amendment proposed (on the floor): Amendment SA 2327 proposed by Senator McConnell for Senator Kirk to Amendment SA 2266.(consideration: CR S5671)
+- 2015-07-24 — Senate amendment proposed (on the floor): Amendment SA 2328 proposed by Senator McConnell to Amendment SA 2327.(consideration: CR S5671; text: CR S5671)
+- 2015-07-24 — Senate amendment proposed (on the floor): Amendment SA 2329 proposed by Senator McConnell to language proposed to be stricken by amendment no. 2266.(consideration: CR S5671)
+- 2015-07-24 — Senate amendment proposed (on the floor): Amendment SA 2330 proposed by Senator McConnell to Amendment SA 2329.(consideration: CR S5671; text: CR S5671)
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senate amendment submitted
+- 2015-07-24 — Senator Cruz moved to appeal the ruling of the Chair.
+- 2015-07-26 — Cloture on amendment SA 2327 invoked in Senate by Yea-Nay Vote. 67 - 26. Record Vote Number: 254. (consideration: CR S5709; text: CR S5709)
+- 2015-07-26 — Cloture on amendment SA 2328 not invoked in Senate by Yea-Nay Vote. 49 - 43. Record Vote Number: 253. (consideration: CR S5709; text: CR S5709)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703, S5704-5705, S5709)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703, S5705, S5709, S5710)
+- 2015-07-26 — Considered by Senate. (consideration: CR S5703-5710)
+- 2015-07-26 — Roll call votes on amendments in Senate: Cloture on amendment SA 2327 invoked in Senate by Yea-Nay Vote. 67 - 26. Record Vote Number: 254.(consideration: CR S5709; text: CR S5709)
+- 2015-07-26 — Roll call votes on amendments in Senate: Cloture on amendment SA 2328 not invoked in Senate by Yea-Nay Vote. 49 - 43. Record Vote Number: 253.(consideration: CR S5709; text: CR S5709)
+- 2015-07-26 — Ruling of the Chair that Lee amendment SA 2282 is not in order. (consideration: CR S5710)
+- 2015-07-26 — Ruling of the Chair that amendment SA 2282 is not in order to be proposed sustained by Voice Vote.
+- 2015-07-26 — Ruling of the Chair that amendment SA 2301 is not in order to be proposed sustained by Voice Vote. (consideration: CR S5703, S5709, S5710)
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senate amendment submitted
+- 2015-07-26 — Senator Lee moved to appeal the ruling of the Chair.
+- 2015-07-27 — Amendment SA 2327 agreed to in Senate by Yea-Nay Vote. 64 - 29. Record Vote Number: 256.
+- 2015-07-27 — Amendment SA 2328 ruled non-germane by the chair.
+- 2015-07-27 — Amendment SA 2417 proposed by Senator McConnell to language proposed to be stricken by amendment no. 2266 as modified. (consideration: CR S5922; text: CR S5922) Of a perfecting nature.
+- 2015-07-27 — Amendment SA 2418 proposed by Senator McConnell to Amendment SA 2417. (consideration: CR S5922; text: CR S5922) Of a perfecting nature.
+- 2015-07-27 — Amendment SA 2421 proposed by Senator McConnell to Amendment SA 2266. (consideration: CR S5922) Of a perfecting nature.
+- 2015-07-27 — Amendment SA 2533 proposed by Senator McConnell for Senator Inhofe to Amendment SA 2421. (consideration: CR S5922) To improve the amendment.
+- 2015-07-27 — Cloture on amendment SA 2266 as modified invoked in Senate by Yea-Nay Vote. 62 - 32. Record Vote Number: 257. (consideration: CR S5922; text: CR S5922)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5907-5919, S5921-5922)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5921)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5921)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5921)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5921-5922)
+- 2015-07-27 — Considered by Senate. (consideration: CR S5893, S5922)
+- 2015-07-27 — Motion to table amendment SA 2329 agreed to in Senate by Voice Vote. (consideration: CR S5921)
+- 2015-07-27 — Point of order raised in Senate with respect to amendment SA 2328.
+- 2015-07-27 — Roll call votes on amendments in Senate: Amendment SA 2327 agreed to in Senate by Yea-Nay Vote. 64 - 29. Record Vote Number: 256.
+- 2015-07-27 — Roll call votes on amendments in Senate: Cloture on amendment SA 2266 as modified invoked in Senate by Yea-Nay Vote. 62 - 32. Record Vote Number: 257.(consideration: CR S5922; text: CR S5922)
+- 2015-07-27 — SA 2330 fell when SA 2329 was tabled. (consideration: CR S5921)
+- 2015-07-27 — Senate amendment agreed to: Amendment SA 2327 agreed to in Senate by Yea-Nay Vote. 64 - 29. Record Vote Number: 256.
+- 2015-07-27 — Senate amendment proposed (on the floor): Amendment SA 2417 proposed by Senator McConnell to language proposed to be stricken by amendment no. 2266 as modified.(consideration: CR S5922; text: CR S5922)
+- 2015-07-27 — Senate amendment proposed (on the floor): Amendment SA 2418 proposed by Senator McConnell to Amendment SA 2417.(consideration: CR S5922; text: CR S5922)
+- 2015-07-27 — Senate amendment proposed (on the floor): Amendment SA 2421 proposed by Senator McConnell to Amendment SA 2266.(consideration: CR S5922)
+- 2015-07-27 — Senate amendment proposed (on the floor): Amendment SA 2533 proposed by Senator McConnell for Senator Inhofe to Amendment SA 2421.(consideration: CR S5922)
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-27 — Senate amendment submitted
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046)
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046)
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046)
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046)
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046)
+- 2015-07-28 — Considered by Senate. (consideration: CR S6046-6055, S6055-6067)
+- 2015-07-28 — Senate amendment submitted
+- 2015-07-28 — Senate amendment submitted
+- 2015-07-28 — Senate amendment submitted
+- 2015-07-29 — Amendment SA 2266 as modified agreed to in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 258.
+- 2015-07-29 — Amendment SA 2421 agreed to in Senate by Voice Vote.
+- 2015-07-29 — Amendment SA 2533 agreed to in Senate by Voice Vote.
+- 2015-07-29 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 35. Record Vote Number: 259. (consideration: CR S6092; text: CR S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091, S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091, S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091, S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091, S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091, S6092)
+- 2015-07-29 — Considered by Senate. (consideration: CR S6091-6092)
+- 2015-07-29 — Motion to table amendment SA 2417 agreed to in Senate by Voice Vote.
+- 2015-07-29 — Roll call votes on amendments in Senate: Amendment SA 2266 as modified agreed to in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 258.
+- 2015-07-29 — SA 2418 fell when SA 2417 was tabled. (consideration: CR S6092)
+- 2015-07-29 — Senate amendment agreed to: Amendment SA 2266 as modified agreed to in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 258.
+- 2015-07-29 — Senate amendment agreed to: Amendment SA 2421 agreed to in Senate by Voice Vote.
+- 2015-07-29 — Senate amendment agreed to: Amendment SA 2533 agreed to in Senate by Voice Vote.
+- 2015-07-30 — Amendment SA 2542 agreed to in Senate by Unanimous Consent.
+- 2015-07-30 — Amendment SA 2542 proposed by Senator McConnell. (consideration CR S6205; text: CR S6205) To amend the title.
+- 2015-07-30 — Considered by Senate.
+- 2015-07-30 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 65 - 34. Record Vote Number: 260.
+- 2015-07-30 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 65 - 34. Record Vote Number: 260.
+- 2015-07-30 — Senate amendment agreed to: Amendment SA 2542 agreed to in Senate by Unanimous Consent.
+- 2015-07-30 — Senate amendment proposed (on the floor): Amendment SA 2542 proposed by Senator McConnell.(consideration CR S6205; text: CR S6205)
+- 2015-07-30 — Senate amendment submitted

@@ -2,22 +2,40 @@
 legis-num: H.R. 22
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 22
 
-> To amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.
+That the bill from the House of Representatives (H.R. 22) entitled “An Act to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Hire More Heroes Act of 2015”.
+This Act may be cited as the “Developing a Reliable and Innovative Vision for the Economy Act” or the “DRIVE Act”.
 
-## § 2. Employees with health coverage under TRICARE or the Veterans Administration not taken into account in determining employers to which the employer mandate applies under Patient Protection and Affordable Care Act
+## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *In general* Section 4980H(c)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following:
-  > - **(F)** *Exemption for health coverage under TRICARE or the Veterans Administration* Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
-  >   - **(i)** chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
-  >   - **(ii)** under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+- **(a)** *Divisions* This Act is organized into 9 divisions as follows:
+  - **(1)** Division A–Federal-aid Highways and Highway Safety Construction Programs.
+  - **(2)** Division B–Public Transportation.
+  - **(3)** Division C–Comprehensive Transportation and Consumer Protection Act of 2015.
+  - **(4)** Division D–Freight and Major Projects.
+  - **(5)** Division E–Finance.
+  - **(6)** Division F–Miscellaneous.
+  - **(7)** Division G–Surface Transportation Extension.
+  - **(8)** Division H–Budgetary Effects.
+  - **(9)** Division I–Export-Import Bank of the United States.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply to months beginning after December 31, 2013.
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Department* The term Department means the Department of Transportation.
+- **(2)** *Secretary* The term Secretary means the Secretary of Transportation.
+
+## § 4. Effective date
+
+Except as otherwise provided, divisions A, B, C, and D, including the amendments made by those divisions, take effect on October 1, 2015.
