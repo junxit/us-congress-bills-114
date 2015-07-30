@@ -1,7 +1,7 @@
 ---
 measure: S. 599
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 599
@@ -16,10 +16,22 @@ Improving Access to Emergency Psychiatric Care Act
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (2)
+## Cosponsors (14)
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
 
@@ -29,3 +41,7 @@ Improving Access to Emergency Psychiatric Care Act
 
 - 2015-02-26 — Introduced in Senate
 - 2015-02-26 — Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S1168-1169; text of measure as introduced: CR S1169-1170)
+- 2015-06-24 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-101.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-101.
+- 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
