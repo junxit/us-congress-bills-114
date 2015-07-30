@@ -1,7 +1,7 @@
 ---
 measure: S. 313
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1395u` | strike | by striking “and” before “(H)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395u` | insert | by inserting before the period at the end the following: “, and (I) in the case of outpatient physical therapy services furnished by physical therapists, subparagraph (D) of this sentence shall apply to such services and therapists in th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395u` | strike | by striking “and” before “(H)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395u` | insert | by inserting before the period at the end the following: “, and (I) in the case of outpatient physical therapy services furnished by physical therapists in a health professional shortage area (as defined in section 332(a)(1)(A) of the Pu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
