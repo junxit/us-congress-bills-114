@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 5 executed, 0 stated and not applied.
+14 amendatory instructions. 10 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,62 @@ to guess them.
 |---|---|
 | Removed | `Not later than 6 months after the completion` |
 | Inserted | `Not later than 2 years prior to the completion` |
+
+### 42 U.S.C. § 1395ww
+
+> in subsection (a)(5), by striking “5-year extension period” and inserting “10-year extension period”; and
+
+| | |
+|---|---|
+| Removed | `5-year extension period` |
+| Inserted | `10-year extension period` |
+
+### 42 U.S.C. § 1395ww
+
+> in the subsection heading, by striking “Five-Year” and inserting “Ten-Year”;
+
+| | |
+|---|---|
+| Removed | `Five-Year` |
+| Inserted | `Ten-Year` |
+
+### 42 U.S.C. § 1395ww
+
+> in paragraph (1), by striking “additional 5-year” and inserting “additional 10-year”;
+
+| | |
+|---|---|
+| Removed | `additional 5-year` |
+| Inserted | `additional 10-year` |
+
+### 42 U.S.C. § 1395ww
+
+> by striking “5-year extension period” and inserting “10-year extension period” each place it appears;
+
+| | |
+|---|---|
+| Removed | `5-year extension period` |
+| Inserted | `10-year extension period` |
+
+### 42 U.S.C. § 1395ww
+
+> Subsection (e) of such section 410A is amended by striking “Not later than 6 months after the completion” and inserting “Not later than August 1, 2018”.
+
+| | |
+|---|---|
+| Removed | `Not later than 6 months after the completion` |
+| Inserted | `Not later than August 1, 2018` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 1395ww` | add-at-end | in paragraph (3), by adding at the end the following new sentence: “Notwithstanding the preceding sentence, after the date of the enactment of this sentence, only hospitals described in paragraph (4) or (5) may participate in demonstrati… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | insert | in the matter preceding clause (i), by inserting “each 5-year period in” after “hospital during”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ww` | insert | in clause (i), by inserting “each applicable 5-year period in” after “the first day of”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
