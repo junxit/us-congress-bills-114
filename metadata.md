@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3236
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3236
@@ -67,3 +67,9 @@ Surface Transportation and Veterans Health Care Choice Improvement Act of 2015
 - 2015-07-30 — Message on Senate action sent to the House.
 - 2015-07-30 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed (under the order of 7/29/15, having achieved 60 votes in the affirmative) without amendment by Yea-Nay Vote. 91 - 4. Record Vote Number: 261.(consideration CR S6165-6166)
 - 2015-07-30 — Received in the Senate, read twice, considered, read the third time, and passed (under the order of 7/29/15, having achieved 60 votes in the affirmative) without amendment by Yea-Nay Vote. 91 - 4. Record Vote Number: 261. (consideration CR S6165-6166)
+- 2015-07-31 — Became Public Law No: 114-41.
+- 2015-07-31 — Became Public Law No: 114-41.
+- 2015-07-31 — Presented to President.
+- 2015-07-31 — Presented to President.
+- 2015-07-31 — Signed by President.
+- 2015-07-31 — Signed by President.
