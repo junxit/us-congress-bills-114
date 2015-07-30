@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1994
@@ -118,10 +118,11 @@ VA Accountability Act of 2015
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Oversight and Accountability Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (3)
 
@@ -189,3 +190,4 @@ VA Accountability Act of 2015
 - 2015-07-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5652)
 - 2015-07-29 — The previous question was ordered pursuant to the rule. (consideration: CR H5651)
 - 2015-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.
+- 2015-07-30 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
