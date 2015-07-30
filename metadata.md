@@ -1,7 +1,7 @@
 ---
 measure: S. 466
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 466
@@ -16,7 +16,7 @@ Quality Care for Moms and Babies Act
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Boxer, Barbara [D-CA] (B000711)
@@ -24,6 +24,8 @@ Quality Care for Moms and Babies Act
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -33,3 +35,7 @@ Quality Care for Moms and Babies Act
 
 - 2015-02-11 — Introduced in Senate
 - 2015-02-11 — Read twice and referred to the Committee on Finance.
+- 2015-06-24 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-100.
+- 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-100.
+- 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.
