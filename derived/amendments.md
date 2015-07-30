@@ -1,7 +1,7 @@
 ---
 measure: S. 1362
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -27,6 +27,15 @@ to guess them.
 ### 42 U.S.C. § 1315a
 
 > by striking “and 1903(m)(2)(A)(iii)” and inserting “1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)”.
+
+| | |
+|---|---|
+| Removed | `and 1903(m)(2)(A)(iii)` |
+| Inserted | `1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)` |
+
+### 42 U.S.C. § 1315a
+
+> Subsection (d)(1) of section 1115A of the Social Security Act (42 U.S.C. 1315a) is amended by striking “and 1903(m)(2)(A)(iii)” and inserting “1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)”.
 
 | | |
 |---|---|
