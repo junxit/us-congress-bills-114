@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 72
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 72
@@ -25,3 +25,6 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2015-08-04 — On agreeing to the resolution Agreed to without objection. (text: CR H5785)
 - 2015-08-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5785)
 - 2015-08-04 — Received in the Senate.
+- 2015-08-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6356; text as passed Senate: CR S6356)
+- 2015-08-05 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6356; text as passed Senate: CR S6356)
+- 2015-08-06 — Message on Senate action sent to the House.
