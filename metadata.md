@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1020
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1020
@@ -51,3 +51,7 @@ STEM Education Act of 2015
 - 2015-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 88). (text: CR 2/24/2015 H1098-1100)
 - 2015-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 88).(text: CR 2/24/2015 H1098-1100)
 - 2015-02-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-115.
+- 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-115.
+- 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
