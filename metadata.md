@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 719
@@ -48,3 +48,7 @@ Continuing Appropriations Act, 2016
 - 2015-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 69).(text: CR H892-893)
 - 2015-02-11 — Received in the Senate.
 - 2015-02-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-111.
+- 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-111.
+- 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
