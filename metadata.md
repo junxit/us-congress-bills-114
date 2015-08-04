@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1531
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1531
@@ -57,3 +57,7 @@ Land Management Workforce Flexibility Act
 - 2015-07-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4782)
 - 2015-07-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4782)
 - 2015-07-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
