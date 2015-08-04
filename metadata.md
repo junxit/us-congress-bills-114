@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 232
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 232
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that August 30, 2015, be observe
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (17)
+## Cosponsors (21)
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -35,6 +35,10 @@ A resolution expressing the sense of the Senate that August 30, 2015, be observe
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (1)
 
@@ -44,3 +48,7 @@ A resolution expressing the sense of the Senate that August 30, 2015, be observe
 
 - 2015-07-27 — Introduced in Senate
 - 2015-07-27 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S5933)
+- 2015-08-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-08-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-08-04 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S6325)
+- 2015-08-04 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S6325)
