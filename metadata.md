@@ -1,7 +1,7 @@
 ---
 measure: S. 1297
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1297
@@ -36,3 +36,5 @@ U.S. Commercial Space Launch Competitiveness Act
 - 2015-07-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-88.
 - 2015-07-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-88.
 - 2015-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
+- 2015-08-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6323-6325; text as passed Senate: S6323-6325)
+- 2015-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6323-6325; text as passed Senate: S6323-6325)

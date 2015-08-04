@@ -46,7 +46,7 @@ Section 50906 is amended—
 
 ## § 6. Licensing report
 
-Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on approaches for streamlining the licensing and permitting process of launch vehicles, reentry vehicles, or components of launch or reentry vehicles, to enable non-launch flight operations related to space transportation. The report shall include approaches to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints.
+Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on approaches for streamlining the licensing and permitting process of launch vehicles, reentry vehicles, or components of launch or reentry vehicles, to enable non-launch flight operations related to space transportation. The report shall include approaches to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints. The report shall also include an assessment of existing private and government infrastructure, as appropriate, in future licensing activities.
 
 ## § 7. Space authority
 
