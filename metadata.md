@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1073
@@ -16,9 +16,27 @@ Critical Infrastructure Protection Act
 
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 
-## Cosponsors (1)
+## Cosponsors (19)
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. King, Steve [R-IA-4] (K000362)
 
 ## Committees (1)
 
@@ -29,3 +47,9 @@ Critical Infrastructure Protection Act
 - 2015-02-25 — Introduced in House
 - 2015-02-25 — Introduced in House
 - 2015-02-25 — Referred to the House Committee on Homeland Security.
+- 2015-03-12 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2015-06-25 — Committee Consideration and Mark-up Session Held.
+- 2015-06-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-08-04 — Placed on the Union Calendar, Calendar No. 181.
+- 2015-08-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-240.
+- 2015-08-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-240.
