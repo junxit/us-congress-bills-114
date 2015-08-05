@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 114
-version: Reference Change Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 

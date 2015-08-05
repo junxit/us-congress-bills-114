@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 114
-version: Reference Change Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 710
@@ -30,3 +30,8 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2015-06-04 — Committee on Indian Affairs. Reported by Senator Barrasso with amendments. Without written report.
 - 2015-06-04 — Committee on Indian Affairs. Reported by Senator Barrasso with amendments. Without written report.
 - 2015-06-04 — Referred to the Committee on Banking, Housing, and Urban Affairs pursuant to the order of May 27, 1988 for a period not to exceed 60 days.
+- 2015-08-05 — By Senator Barrasso from Committee on Indian Affairs filed written report. Report No. 114-117.
+- 2015-08-05 — By Senator Barrasso from Committee on Indian Affairs filed written report. Report No. 114-117.
+- 2015-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
+- 2015-08-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged pursuant to the order of May 27, 1988.
+- 2015-08-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged pursuant to the order of May 27, 1988.
