@@ -1,7 +1,7 @@
 ---
 measure: S. 1362
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,29 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 1315a
 
-> by striking “and 1903(m)(2)(A)(iii)” and inserting “1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)”.
-
-| | |
-|---|---|
-| Removed | `and 1903(m)(2)(A)(iii)` |
-| Inserted | `1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)` |
-
-### 42 U.S.C. § 1315a
-
 > Subsection (d)(1) of section 1115A of the Social Security Act (42 U.S.C. 1315a) is amended by striking “and 1903(m)(2)(A)(iii)” and inserting “1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)”.
 
 | | |
 |---|---|
 | Removed | `and 1903(m)(2)(A)(iii)` |
 | Inserted | `1903(m)(2)(A)(iii), and 1934 (other than subsections (b)(1)(A) and (c)(5) of such section)` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `42 U.S.C. § 1315a` | insert | by inserting “(other than subsections (b)(1)(A) and (c)(5) of section 1894)” after “XVIII”; and | the bill quotes the text inserted but describes where it goes |
