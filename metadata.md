@@ -1,7 +1,7 @@
 ---
 measure: S. 1347
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1347
@@ -36,3 +36,5 @@ Electronic Health Fairness Act of 2015
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-106.
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-106.
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.
+- 2015-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6425; text as passed Senate: CR S6425)
+- 2015-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6425; text as passed Senate: CR S6425)

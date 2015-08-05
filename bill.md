@@ -27,5 +27,5 @@ Congress finds the following:
 Section 1848(o)(2) of the Social Security Act (42 U.S.C. 1395w–4(o)(2)) is amended by adding at the end of the following new subparagraph:
 
 > - **(E)** *Treatment of patient encounters at ambulatory surgical centers*
->   - **(i)** *In general* Subject to clause (ii), any patient encounter of an eligible professional occurring at an ambulatory surgical center (described in section 1832(i)(1)(A)) shall not be treated as a patient encounter in determining whether an eligible professional qualifies as a meaningful EHR user.
->   - **(ii)** *Sunset* Clause (i) shall no longer apply as of the first year that begins more than 3 years after the date the Secretary certifies EHR technology for the ambulatory surgical center setting.
+>   - **(i)** *In general* Subject to clause (ii), for a payment year after 2015, any patient encounter of an eligible professional occurring at an ambulatory surgical center (described in section 1833(i)(1)(A)) shall not be treated as a patient encounter in determining whether an eligible professional qualifies as a meaningful EHR user. Notwithstanding any other provision of law, the Secretary may implement this clause by program instruction or otherwise.
+>   - **(ii)** *Sunset* Clause (i) shall no longer apply as of the first payment year that begins more than 3 years after the date the Secretary determines, through notice and comment rulemaking, that certified EHR technology is applicable to the ambulatory surgical center setting.
