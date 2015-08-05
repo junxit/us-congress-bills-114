@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 720
@@ -57,3 +57,15 @@ Gerardo Hernandez Airport Security Act of 2015
 - 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
 - 2015-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6422-6423; text as passed Senate: CR S6422-6423)
 - 2015-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6422-6423; text as passed Senate: CR S6422-6423)
+- 2015-08-06 — Message on Senate action sent to the House.
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 720.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. Katko moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5990-5993)
+- 2015-09-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H5990-5991)
+- 2015-09-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H5990-5991)
+- 2015-09-17 — Presented to President.
+- 2015-09-17 — Presented to President.
+- 2015-09-24 — Became Public Law No: 114-50.
+- 2015-09-24 — Became Public Law No: 114-50.
+- 2015-09-24 — Signed by President.
+- 2015-09-24 — Signed by President.
