@@ -1,7 +1,7 @@
 ---
 measure: S. 1576
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1576
@@ -33,3 +33,5 @@ Representative Payee Fraud Prevention Act of 2015
 - 2015-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-95.
 - 2015-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-95.
 - 2015-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
+- 2015-08-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)
+- 2015-08-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)
