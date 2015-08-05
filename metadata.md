@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 720
@@ -55,3 +55,5 @@ Gerardo Hernandez Airport Security Act of 2015
 - 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-92.
 - 2015-07-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-92.
 - 2015-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
+- 2015-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6422-6423; text as passed Senate: CR S6422-6423)
+- 2015-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6422-6423; text as passed Senate: CR S6422-6423)
