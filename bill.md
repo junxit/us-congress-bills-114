@@ -28,7 +28,7 @@ Section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330) is amend
 
 - **(2)** by striking subsection (i) and inserting the following:
   > - **(i)** *Authorization of appropriations*
-  >   - **(1)** *In general* There is authorized to be appropriated to the Administrator $27,000,000 for each of fiscal years 2016 through 2020 for—
+  >   - **(1)** *In general* There is authorized to be appropriated to the Administrator $26,000,000 for each of fiscal years 2016 through 2020 for—
   >     - **(A)** making grants and awards under subsection (g); and
   >     - **(B)** expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, subject to the condition that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year.
   >   - **(2)** *Allocations*
