@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 230
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 230
@@ -16,7 +16,7 @@ A resolution designating September 25, 2015, as "National Lobster Day".
 
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -24,6 +24,7 @@ A resolution designating September 25, 2015, as "National Lobster Day".
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ A resolution designating September 25, 2015, as "National Lobster Day".
 
 - 2015-07-27 — Introduced in Senate
 - 2015-07-27 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5932)
+- 2015-08-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-08-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-08-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6426)
+- 2015-08-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6426)
