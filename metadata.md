@@ -1,7 +1,7 @@
 ---
 measure: S. 833
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 833
@@ -28,3 +28,7 @@ Department of Veterans Affairs Medical Facility Earthquake Protection and Improv
 
 - 2015-03-23 — Introduced in Senate
 - 2015-03-23 — Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S1710)
+- 2015-07-22 — Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.
+- 2015-08-06 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 with an amendment. Without written report.
+- 2015-08-06 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 with an amendment. Without written report.
+- 2015-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.
