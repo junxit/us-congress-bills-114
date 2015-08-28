@@ -1,7 +1,7 @@
 ---
 measure: S. 1493
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1493
@@ -41,3 +41,7 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 
 - 2015-06-03 — Introduced in Senate
 - 2015-06-03 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2015-07-22 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2015-08-28 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 without amendment. With written report No. 114-122.
+- 2015-08-28 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 without amendment. With written report No. 114-122.
+- 2015-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
