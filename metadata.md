@@ -1,7 +1,7 @@
 ---
 measure: S. 1576
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1576
@@ -35,3 +35,6 @@ Representative Payee Fraud Prevention Act of 2015
 - 2015-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
 - 2015-08-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)
 - 2015-08-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6423-6424; text of measure as reported in Senate: CR S6423-6424; text as passed Senate: CR S6424)
+- 2015-08-06 — Message on Senate action sent to the House.
+- 2015-09-08 — Received in the House.
+- 2015-09-08 — Referred to the House Committee on Oversight and Government Reform.
