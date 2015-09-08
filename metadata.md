@@ -1,7 +1,7 @@
 ---
 measure: S. 267
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 267
@@ -32,3 +32,6 @@ General of the Army Omar Bradley Property Transfer Act of 2015
 - 2015-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6325)
 - 2015-08-04 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6325)
 - 2015-08-04 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6325)
+- 2015-08-05 — Message on Senate action sent to the House.
+- 2015-09-08 — Received in the House.
+- 2015-09-08 — Referred to the House Committee on Armed Services.
