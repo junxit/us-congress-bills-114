@@ -1,7 +1,7 @@
 ---
 measure: S. 1137
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1137
@@ -33,3 +33,8 @@ PATENT Act
 
 - 2015-04-29 — Introduced in Senate
 - 2015-04-29 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2532-2533; text of measure as introduced: CR S2533-2539)
+- 2015-05-07 — Committee on the Judiciary. Hearings held.
+- 2015-06-04 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-09-08 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2015-09-08 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2015-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 203.
