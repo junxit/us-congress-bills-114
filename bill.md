@@ -24,10 +24,4 @@ Congress finds the following:
 
 ## § 2. Training and employment for veterans and members of Armed Forces in curation and historic preservation
 
-- **(a)** *Training and employment* The Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans’ Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities.
-- **(b)** *Authorization of appropriation* There is authorized to be appropriated to carry out this section—
-  - **(1)** $5,000,000 for fiscal year 2016;
-  - **(2)** $6,000,000 for fiscal year 2017;
-  - **(3)** $7,000,000 for fiscal year 2018;
-  - **(4)** $8,000,000 for fiscal year 2019; and
-  - **(5)** $9,000,000 for fiscal year 2020.
+Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans’ Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities.
