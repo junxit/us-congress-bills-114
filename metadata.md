@@ -1,7 +1,7 @@
 ---
 measure: S. 261
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 261
@@ -41,3 +41,15 @@ A bill to designate the United States courthouse located at 200 NW 4th Street in
 - 2015-09-08 — Placed on the House Calendar, Calendar No. 55.
 - 2015-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-248.
 - 2015-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-248.
+- 2015-09-24 — Considered under suspension of the rules. (consideration: CR H6198)
+- 2015-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 261.
+- 2015-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-24 — Mr. Crawford moved to suspend the rules and pass the bill.
+- 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6198)
+- 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6198)
+- 2015-09-29 — Presented to President.
+- 2015-09-29 — Presented to President.
+- 2015-10-07 — Became Public Law No: 114-64.
+- 2015-10-07 — Became Public Law No: 114-64.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
