@@ -1,7 +1,7 @@
 ---
 measure: S. 1362
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1362
@@ -26,9 +26,11 @@ A bill to amend title XI of the Social Security Act to clarify waiver authority 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -45,3 +47,16 @@ A bill to amend title XI of the Social Security Act to clarify waiver authority 
 - 2015-09-08 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-08 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-08 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-11 — Referred to the Subcommittee on Health.
+- 2015-10-21 — Considered under suspension of the rules. (consideration: CR H7079-7080)
+- 2015-10-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1362.
+- 2015-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-21 — Mr. Brady (TX) moved to suspend the rules and pass the bill.
+- 2015-10-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7079)
+- 2015-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7079)
+- 2015-10-26 — Presented to President.
+- 2015-10-26 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-85.
+- 2015-11-05 — Became Public Law No: 114-85.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.
