@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
