@@ -1,7 +1,7 @@
 ---
 measure: H.R. 959
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 959
@@ -25,3 +25,12 @@ Medgar Evers House Study Act
 - 2015-02-12 — Introduced in House
 - 2015-02-12 — Introduced in House
 - 2015-02-12 — Referred to the House Committee on Natural Resources.
+- 2015-03-16 — Referred to the Subcommittee on Federal Lands.
+- 2015-06-16 — Subcommittee Hearings Held.
+- 2015-07-08 — Committee Consideration and Mark-up Session Held.
+- 2015-07-09 — Committee Consideration and Mark-up Session Held.
+- 2015-07-09 — Ordered to be Reported by Unanimous Consent.
+- 2015-07-09 — Subcommittee on Federal Lands Discharged.
+- 2015-09-08 — Placed on the Union Calendar, Calendar No. 190.
+- 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-251.
+- 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-251.
