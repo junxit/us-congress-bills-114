@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1937
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1937
@@ -16,7 +16,7 @@ National Strategic and Critical Minerals Production Act of 2015
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Cosponsors (37)
+## Cosponsors (48)
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
@@ -55,6 +55,17 @@ National Strategic and Critical Minerals Production Act of 2015
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
 ## Committees (2)
 
@@ -68,3 +79,15 @@ National Strategic and Critical Minerals Production Act of 2015
 - 2015-04-22 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-04-22 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-04-22 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-05-15 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2015-05-19 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2015-06-25 — Subcommittee Hearings Held.
+- 2015-07-08 — Committee Consideration and Mark-up Session Held.
+- 2015-07-09 — Committee Consideration and Mark-up Session Held.
+- 2015-07-09 — Ordered to be Reported by the Yeas and Nays: 23 - 14.
+- 2015-07-09 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2015-09-08 — Committee on the Judiciary discharged.
+- 2015-09-08 — Committee on the Judiciary discharged.
+- 2015-09-08 — Placed on the Union Calendar, Calendar No. 192.
+- 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-253, Part I.
+- 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-253, Part I.
