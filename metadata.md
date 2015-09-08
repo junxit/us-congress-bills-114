@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 501
@@ -46,3 +46,15 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 - 2015-09-08 — Placed on the Union Calendar, Calendar No. 194.
 - 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-255.
 - 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-255.
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H6002)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on S. 501.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6002)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6002)
+- 2015-09-21 — Presented to President.
+- 2015-09-21 — Presented to President.
+- 2015-09-30 — Became Public Law No: 114-57.
+- 2015-09-30 — Became Public Law No: 114-57.
+- 2015-09-30 — Signed by President.
+- 2015-09-30 — Signed by President.
