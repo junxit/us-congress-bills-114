@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1725
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -160,9 +160,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280g-3` | redesignate | by redesignating subsections (h) through (n) as subsections (j) through (p), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-3` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-3` | insert | in clause (ii), by inserting “; established or strengthened initiatives to ensure linkages to substance use disorder services;” before “or affected patient access”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 280g-3` | insert | in clause (iii), by inserting “and between controlled substance monitoring programs and health information technology systems” before “, including an assessment”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280g-3` | insert | in clause (iii), by inserting “and between controlled substance monitoring programs and health information technology systems,” before “, including an assessment”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g-3` | redesignate | by striking subsection (m) (relating to preference), as redesignated by paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g-3` | redesignate | by redesignating subsections (n) through (p), as redesignated by paragraph (7), as subsections (m) through (o), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g-3` | redesignate | by redesignating subsections (m) through (o), as redesignated by paragraph (7), as subsections (l) through (o), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-3` | replace | by striking “means the ability” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 280g-3` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
