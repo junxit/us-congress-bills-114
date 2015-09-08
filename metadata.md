@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3154
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3154
@@ -29,3 +29,9 @@ E-Warranty Act of 2015
 - 2015-07-22 — Introduced in House
 - 2015-07-22 — Introduced in House
 - 2015-07-22 — Referred to the House Committee on Energy and Commerce.
+- 2015-07-24 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2015-07-29 — Committee Consideration and Mark-up Session Held.
+- 2015-07-29 — Ordered to be Reported by Voice Vote.
+- 2015-09-08 — Placed on the Union Calendar, Calendar No. 184.
+- 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-243.
+- 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-243.
