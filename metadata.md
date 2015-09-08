@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 243
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 243
@@ -34,3 +34,7 @@ A resolution celebrating the 35th anniversary of the Small Business Development 
 
 - 2015-08-05 — Introduced in Senate
 - 2015-08-05 — Referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S6402)
+- 2015-09-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6469)
+- 2015-09-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6469)
+- 2015-09-08 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2015-09-08 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
