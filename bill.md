@@ -32,13 +32,13 @@ Congress finds that—
   - **(1)** evaluate the national significance of the site;
   - **(2)** determine the suitability and feasibility of designating the site as a unit of the National Park System;
   - **(3)** include cost estimates for any necessary acquisition, development, operation, and maintenance of the site;
-  - **(4)** consult with interested Federal, State, or local governmental entities, private and nonprofit organizations, or other interested individuals;
+  - **(4)** consult with interested Federal, State, or local governmental entities, private and nonprofit organizations, or other interested individuals; and
   - **(5)** include an analysis of the effect of the site on—
     - **(A)** existing commercial and recreational activities;
     - **(B)** the authorization, construction, operation, maintenance, or improvement of energy production and transmission or other infrastructure in the area; and
     - **(C)** the authority of State and local governments to manage the activities described in subparagraphs (A) and (B);
   - **(6)** include an identification of any authorities (including condemnation) that would compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-Federal land if the site is designated as a unit of the National Park System; and
-  - **(7)** identify alternatives for the management, administration, and protection of the site.
+  - **(7) (5)** identify alternatives for the management, administration, and protection of the site.
 - **(d)** *Report* Not later than 3 years after the date on which funds are made available to carry out the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
   - **(1)** the findings and conclusions of the study; and
   - **(2)** any recommendations of the Secretary.
