@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2820
@@ -41,9 +41,10 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2015
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2015
 - 2015-09-08 — Placed on the Union Calendar, Calendar No. 183.
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-242.
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-242.
+- 2015-09-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
