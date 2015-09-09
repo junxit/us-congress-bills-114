@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1462
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1462
@@ -141,3 +141,4 @@ Protecting Our Infants Act of 2015
 - 2015-09-08 — Placed on the Union Calendar, Calendar No. 185.
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-244.
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-244.
+- 2015-09-09 — Received in the Senate.
