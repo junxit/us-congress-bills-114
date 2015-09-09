@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 70
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 70
@@ -34,3 +34,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2015-09-08 — On agreeing to the resolution Agreed to without objection. (text: CR H5806)
 - 2015-09-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5806)
 - 2015-09-08 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2015-09-09 — Received in the Senate.
