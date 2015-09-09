@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 74
@@ -32,3 +32,4 @@ Authorizing the use of the Capitol Grounds for an event to commemorate the 20th 
 - 2015-09-08 — On agreeing to the resolution Agreed to without objection. (text: CR H5806-5807)
 - 2015-09-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5806-5807)
 - 2015-09-08 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-09-09 — Received in the Senate.
