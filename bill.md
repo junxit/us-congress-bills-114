@@ -1,0 +1,23 @@
+---
+legis-num: S. 2018
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2018
+
+> To convey, without consideration, the reversionary interests of the United States in and to certain non-Federal land in Glennallen, Alaska.
+
+## § 1. Conveyance of reversionary interest, Glennallen, Alaska
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Landowner*
+    - **(A)** *In general* The term landowner means SEND North, located in Anchorage, Alaska.
+    - **(B)** *Inclusion* The term landowner includes any successor in interest to the entity referred to in subparagraph (A).
+  - **(2)** *Non-Federal land* The term non-Federal land means the parcels of land located in the city of Glennallen, Alaska, and owned by the landowner, more particularly described as an area of 210 acres, as described according to the official plat of the survey of that land on file with the Bureau of Land Management as a tract at Copper River Meridian, Alaska, T. 4 N., R. 2 W., sec. 23, NW1/4, SE1/4, NE1/4, NW1/4, NE1/4, SE1/4.
+  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(b)** *Conveyance of reversionary interests*
+  - **(1)** *In general* Notwithstanding any other provision of law, the Secretary shall convey to the landowner, without consideration, the reversionary interests of the United States in and to the non-Federal land for the purpose of unencumbering the title to the non-Federal land to enable economic development of the non-Federal land.
+  - **(2)** *Legal descriptions* As soon as practicable after the date of enactment of this Act, the exact legal descriptions of the non-Federal land shall be determined in a manner satisfactory to the Secretary.
+  - **(3)** *Costs* The landowner shall pay all costs associated with the conveyance under paragraph (1), including the costs of any surveys, recording costs, and other reasonable costs.
