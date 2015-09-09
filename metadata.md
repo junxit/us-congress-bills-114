@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1603
@@ -16,7 +16,7 @@ Born-Alive Abortion Survivors Protection Act
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -28,6 +28,8 @@ Born-Alive Abortion Survivors Protection Act
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -41,3 +43,12 @@ Born-Alive Abortion Survivors Protection Act
 - 2015-08-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-116.
 - 2015-08-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-116.
 - 2015-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
+- 2015-09-09 — Amendment SA 2648 agreed to in Senate by Unanimous Consent.
+- 2015-09-09 — Amendment SA 2648 proposed by Senator Fischer for Senator Johnson. (consideration: CR S6539-6540; text: CR S6539-6540) In the nature of a substitute.
+- 2015-09-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6539-6040; text of measure as reported in Senate: CR S6539)
+- 2015-09-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-09-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-09-09 — Senate amendment agreed to: Amendment SA 2648 agreed to in Senate by Unanimous Consent.
+- 2015-09-09 — Senate amendment proposed (on the floor): Amendment SA 2648 proposed by Senator Fischer for Senator Johnson.(consideration: CR S6539-6540; text: CR S6539-6540)
+- 2015-09-09 — Senate amendment submitted
+- 2015-09-09 — The committee reported substitute amendment was withdrawn by Unanimous Consent. (consideration: CR S6539)
