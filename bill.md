@@ -17,7 +17,7 @@ This Act may be cited as the “Cerros del Norte Conservation Act”.
 
 In this Act:
 
-- **(1)** *Map* The term map means the map entitled “Río Grande del Norte National Monument Proposed Wilderness Areas” and dated May 2, 2013.
+- **(1)** *Map* The term map means the map entitled “Río Grande del Norte National Monument Proposed Wilderness Areas” and dated May 2, 2013 July 28, 2015.
 - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(3)** *Wilderness area* The term “wilderness area” means a wilderness area designated by section 3(a).
 
@@ -25,7 +25,7 @@ In this Act:
 
 - **(a)** *In general* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following areas in the Río Grande del Norte National Monument are designated as wilderness and as components of the National Wilderness Preservation System:
   - **(1)** *Cerro del yuta wilderness* Certain land administered by the Bureau of Land Management in Taos County, New Mexico, comprising approximately 13,420 acres as generally depicted on the map, which shall be known as the “Cerro del Yuta Wilderness”.
-  - **(2)** *Río san antonio wilderness* Certain land administered by the Bureau of Land Management in Río Arriba County, New Mexico, comprising approximately 8,000 acres, as generally depicted on the map, which shall be known as the “Río San Antonio Wilderness”.
+  - **(2)** *Río san antonio wilderness* Certain land administered by the Bureau of Land Management in Río Arriba County, New Mexico, comprising approximately 8,000 8,120 acres, as generally depicted on the map, which shall be known as the “Río San Antonio Wilderness”.
 - **(b)** *Management of wilderness areas* Subject to valid existing rights, the wilderness areas shall be administered in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and this Act, except that with respect to the wilderness areas designated by this Act—
   - **(1)** any reference to the effective date of the Wilderness Act shall be considered to be a reference to the date of enactment of this Act; and
   - **(2)** any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary.
