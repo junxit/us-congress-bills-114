@@ -1,7 +1,7 @@
 ---
 measure: S. 720
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 720
@@ -16,7 +16,7 @@ Energy Savings and Industrial Competitiveness Act of 2015
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -30,6 +30,7 @@ Energy Savings and Industrial Competitiveness Act of 2015
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -39,3 +40,8 @@ Energy Savings and Industrial Competitiveness Act of 2015
 
 - 2015-03-11 — Introduced in Senate
 - 2015-03-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2015-04-30 — Committee on Energy and Natural Resources. Hearings held.
+- 2015-07-30 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2015-09-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-130.
+- 2015-09-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-130.
+- 2015-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
