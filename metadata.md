@@ -1,7 +1,7 @@
 ---
 measure: S. 593
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 593
@@ -28,3 +28,8 @@ Bureau of Reclamation Transparency Act
 
 - 2015-02-26 — Introduced in Senate
 - 2015-02-26 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2015-06-18 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-399.
+- 2015-07-30 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2015-09-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-128.
+- 2015-09-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-128.
+- 2015-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.
