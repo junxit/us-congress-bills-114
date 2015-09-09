@@ -19,3 +19,7 @@ Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amen
 
 - **(1)** by striking “thirty two hundred miles, extending from eastern New York State” and inserting “4,600 miles, extending from the Appalachian Trail in Vermont”; and
 - **(2)** by striking “Proposed North Country Trail” and all that follows through “June 1975.” and inserting ““North Country National Scenic Trail, Authorized Route” dated February 2014, and numbered 649/116870.”.
+
+## § 3. No condemnation
+
+Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amended by adding at the end the following: “No land or interest in land outside of the exterior boundary of any Federally administered area may be acquired by the Federal Government for the trail by condemnation.”.
