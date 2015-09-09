@@ -79,7 +79,7 @@ Congress finds that—
     - **(ii)** a fire at the homestead at Lake Clark;
 - **(25)** Hammond was survived by—
   - **(A)** his wife, Bella; and
-  - **(B)** his daughters, Heidi and Dana;
+  - **(B)** his daughters, Heidi and Dana, Dana, and Wendy;
 - **(26)** Hammond—
   - **(A)** was well-respected for reaching across the aisle to forge bipartisan alliances; and
   - **(B)** enjoyed many close friendships—
