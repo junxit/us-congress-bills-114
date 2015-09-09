@@ -2,7 +2,7 @@
 legis-num: H.R. 1725
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1725
@@ -91,11 +91,11 @@ Section 399O of the Public Health Service Act (42 U.S.C. 280g–3) is amended—
 
 - **(10)** in subsection (l)(2)(A), as redesignated by paragraph (7)—
   - **(A)** in clause (ii), by inserting “; established or strengthened initiatives to ensure linkages to substance use disorder services;” before “or affected patient access”; and
-  - **(B)** in clause (iii), by inserting “and between controlled substance monitoring programs and health information technology systems,” before “, including an assessment”;
+  - **(B)** in clause (iii), by inserting “and between controlled substance monitoring programs and health information technology systems” before “, including an assessment”;
 - **(11)** by striking subsection (m) (relating to preference), as redesignated by paragraph (7);
-- **(12)** by redesignating subsections (m) through (o), as redesignated by paragraph (7), as subsections (l) through (o), respectively;
+- **(12)** by redesignating subsections (n) through (p), as redesignated by paragraph (7), as subsections (m) through (o), respectively;
 - **(13)** in subsection (m)(1), as redesignated by paragraph (12), by striking “establishment, implementation, or improvement” and inserting “establishment, improvement, or maintenance”;
-- **(14)** in subsection (n)—
+- **(14)** in subsection (n), as redesignated by paragraph (12)—
   - **(A)** in paragraph (5)—
     - **(i)** by striking “means the ability” and inserting the following:
       > means—
