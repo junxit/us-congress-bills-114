@@ -1,7 +1,7 @@
 ---
 measure: S. 349
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 349
@@ -21,9 +21,10 @@ Special Needs Trust Fairness Act of 2015
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Special Needs Trust Fairness Act of 2015
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.
 - 2015-09-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6539; text as passed Senate: CR S6539)
 - 2015-09-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6539; text as passed Senate: CR S6539)
+- 2015-09-10 — Message on Senate action sent to the House.
+- 2015-09-10 — Received in the House.
+- 2015-09-10 — Referred to the House Committee on Energy and Commerce.
