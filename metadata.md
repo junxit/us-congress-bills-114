@@ -1,7 +1,7 @@
 ---
 measure: S. 35
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 35
@@ -28,3 +28,7 @@ Little Shell Tribe of Chippewa Indians Restoration Act of 2015
 
 - 2015-01-06 — Introduced in Senate
 - 2015-01-06 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-03-18 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2015-09-10 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-139. Additional views filed.
+- 2015-09-10 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-139. Additional views filed.
+- 2015-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
