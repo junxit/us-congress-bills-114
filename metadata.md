@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1603
@@ -16,7 +16,7 @@ Born-Alive Abortion Survivors Protection Act
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -30,10 +30,13 @@ Born-Alive Abortion Survivors Protection Act
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -52,3 +55,7 @@ Born-Alive Abortion Survivors Protection Act
 - 2015-09-09 — Senate amendment proposed (on the floor): Amendment SA 2648 proposed by Senator Fischer for Senator Johnson.(consideration: CR S6539-6540; text: CR S6539-6540)
 - 2015-09-09 — Senate amendment submitted
 - 2015-09-09 — The committee reported substitute amendment was withdrawn by Unanimous Consent. (consideration: CR S6539)
+- 2015-09-10 — Message on Senate action sent to the House.
+- 2015-09-10 — Received in the House.
+- 2015-09-10 — Referred to the Committee on Homeland Security, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-10 — Referred to the Committee on Homeland Security, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
