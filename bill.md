@@ -17,7 +17,7 @@ This Act may be cited as the “Tribal Labor Sovereignty Act of 2015”.
 
 Section 2 of the National Labor Relations Act (29 U.S.C. 152) is amended—
 
-- **(1)** in paragraph (2), by inserting “or any enterprise or institution owned and operated by an Indian tribe and located on its Indian lands,” after “subdivision thereof”; and
+- **(1)** in paragraph (2), by inserting “or any Indian tribe, or any enterprise or institution owned and operated by an Indian tribe and located on its Indian lands,” after “subdivision thereof,”; and
 - **(2)** by adding at the end the following:
   > - **(15)** The term Indian tribe means any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
   > - **(16)** The term Indian means any individual who is a member of an Indian tribe.
