@@ -1,7 +1,7 @@
 ---
 measure: S. 1629
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1629
@@ -32,3 +32,5 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 - 2015-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-110.
 - 2015-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-110.
 - 2015-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
+- 2015-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6610-6611; text as passed Senate: CR S6610-6611)
+- 2015-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6610-6611; text as passed Senate: CR S6610-6611)
