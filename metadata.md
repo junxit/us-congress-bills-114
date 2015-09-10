@@ -1,7 +1,7 @@
 ---
 measure: S. 248
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 248
@@ -16,7 +16,7 @@ Tribal Labor Sovereignty Act of 2015
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Fischer, Deb [R-NE] (F000463)
@@ -25,6 +25,10 @@ Tribal Labor Sovereignty Act of 2015
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -34,3 +38,8 @@ Tribal Labor Sovereignty Act of 2015
 
 - 2015-01-22 — Introduced in Senate
 - 2015-01-22 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-04-29 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-105.
+- 2015-06-10 — Committee on Indian Affairs. Ordered to be reported favorably.
+- 2015-09-10 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-140.
+- 2015-09-10 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-140.
+- 2015-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.
