@@ -1,7 +1,7 @@
 ---
 measure: S. 1461
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1461
@@ -38,3 +38,5 @@ A bill to provide for the extension of the enforcement instruction on supervisio
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-109.
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-109.
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
+- 2015-09-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6610; text as passed Senate: CR S6610)
+- 2015-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6610; text as passed Senate: CR S6610)

@@ -13,5 +13,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 Section 1 of Public Law 113–198 is amended—
 
-- **(1)** in the section heading, by striking “2014” and inserting “2015”; and
-- **(2)** by striking “calendar year 2014” and inserting “calendar year 2015”.
+- **(1)** in the section heading, by inserting “and 2015” after “2014”; and
+- **(2)** by striking “calendar year 2014” and inserting “calendar years 2014 and 2015”.

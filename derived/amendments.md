@@ -1,7 +1,7 @@
 ---
 measure: S. 1461
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the section heading, by striking “2014” and inserting “2015”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “calendar year 2014” and inserting “calendar year 2015”. | the bill names no machine-readable US Code section |
 | — | insert | in the section heading, by inserting “and 2015” after “2014”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “calendar year 2014” and inserting “calendar years 2014 and 2015”. | the bill names no machine-readable US Code section |
