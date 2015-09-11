@@ -1,7 +1,7 @@
 ---
 measure: S. 1629
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1629
@@ -20,9 +20,10 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 - 2015-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
 - 2015-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6610-6611; text as passed Senate: CR S6610-6611)
 - 2015-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6610-6611; text as passed Senate: CR S6610-6611)
+- 2015-09-11 — Message on Senate action sent to the House.
+- 2015-09-11 — Received in the House.
+- 2015-09-11 — Referred to the House Committee on Oversight and Government Reform.
