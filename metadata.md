@@ -1,7 +1,7 @@
 ---
 measure: S. 1461
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1461
@@ -47,3 +47,20 @@ A bill to provide for the extension of the enforcement instruction on supervisio
 - 2015-09-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-14 — Referred to the Subcommittee on Health.
+- 2015-09-18 — Referred to the Subcommittee on Health.
+- 2015-12-08 — Committee on Energy and Commerce discharged. (consideration: CR H9062)
+- 2015-12-08 — Committee on Energy and Commerce discharged.(consideration: CR H9062)
+- 2015-12-08 — Committee on Ways and Means discharged. (consideration: CR H9062)
+- 2015-12-08 — Committee on Ways and Means discharged.(consideration: CR H9062)
+- 2015-12-08 — Considered by unanimous consent. (consideration: CR H9062-9063)
+- 2015-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-08 — Mr. Burgess asked unanimous consent to discharge from committee and consider. (consideration: CR H9062)
+- 2015-12-08 — On passage Passed without objection. (text: CR H9063)
+- 2015-12-08 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9063)
+- 2015-12-09 — Presented to President.
+- 2015-12-09 — Presented to President.
+- 2015-12-18 — Became Public Law No: 114-112.
+- 2015-12-18 — Became Public Law No: 114-112.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
