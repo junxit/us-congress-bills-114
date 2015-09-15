@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3460
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3460
@@ -53,3 +53,4 @@ To suspend until January 21, 2017, the authority of the President to waive, susp
 - 2015-09-11 — Passed/agreed to in House: On passage Passed by recorded vote: 247 - 186 (Roll no. 494).(text: CR H5947)
 - 2015-09-11 — Resolution provides for consideration of 3 measures: H. Res. 411; H.R.3460; and H.R. 3461.
 - 2015-09-11 — The previous question was ordered pursuant to the rule. (consideration: CR H5967)
+- 2015-09-15 — Received in the Senate.
