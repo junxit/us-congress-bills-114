@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 245
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 245
@@ -16,7 +16,7 @@ A resolution designating the week beginning September 13, 2015, as "National Dir
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -31,6 +31,9 @@ A resolution designating the week beginning September 13, 2015, as "National Dir
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -40,3 +43,7 @@ A resolution designating the week beginning September 13, 2015, as "National Dir
 
 - 2015-08-05 — Introduced in Senate
 - 2015-08-05 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S6403-6404; text of measure as introduced: CR S6403)
+- 2015-09-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6659-6660)
+- 2015-09-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6659-6660)
