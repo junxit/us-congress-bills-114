@@ -1,0 +1,27 @@
+---
+legis-num: S. RES. 253
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 253
+
+> Welcoming King Felipe VI and Queen Letizia of Spain on their official visit to the United States, including visits to Miami and St. Augustine, Florida.
+
+## Preamble
+
+- Whereas King Felipe VI and Queen Letizia of Spain are visiting St. Augustine, Florida, to celebrate the 450th Commemoration of the city and to participate in the annual United States-Spain Council forum;
+- Whereas Spanish explorer Ponce de León landed on the east coast of Florida in 1513 and named the land he discovered La Florida;
+- Whereas St. Augustine was founded by Spanish admiral Pedro Menéndez de Avilés on September 8, 1565;
+- Whereas St. Augustine is the oldest continuously occupied European settlement in the United States;
+- Whereas the United States-Spain Council serves an important purpose in bringing the United States and Spain closer through trade, investment, education, and culture, as well as by fostering military cooperation between the 2 countries;
+- Whereas the United States-Spain Council is holding its annual forum in St. Augustine from September 18–20, 2015;
+- Whereas the people and Governments of the United States and Spain have both benefitted from strong economic and cultural ties;
+- Whereas Spain has played a special role in the history and culture of St. Augustine and Florida; and
+- Whereas King Felipe VI and Queen Letizia met with President Barack Obama on September 15, 2015, for their first official visit to the White House: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** welcomes King Felipe VI and Queen Letizia of Spain during their visit to the United States; and
+- **(2)** expresses its appreciation for the efforts of King Felipe VI and Queen Letizia to strengthen the bonds between the people and Governments of the United States and Spain.
