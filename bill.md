@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2036
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
