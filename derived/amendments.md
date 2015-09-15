@@ -1,7 +1,7 @@
 ---
 measure: S. 1400
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 657b` | replace | in clause (v), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 657b` | replace | in clause (vi), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 657b` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 657b` | add-at-end | Section 32 of the Small Business Act (15 U.S.C. 657b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
