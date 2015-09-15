@@ -1,7 +1,7 @@
 ---
 measure: S. 1866
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1866
@@ -16,9 +16,10 @@ Veterans Small Business Ownership Improvements Act of 2015
 
 - Sen. Vitter, David [R-LA] (V000127)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Veterans Small Business Ownership Improvements Act of 2015
 
 - 2015-07-27 — Introduced in Senate
 - 2015-07-27 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2015-07-29 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment favorably.
+- 2015-09-15 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-09-15 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
