@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1214
@@ -27,6 +27,10 @@ National Forest Small Tracts Act Amendments Act of 2015
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2015-09-16 — [House 114-1-495](votes/house-114-1-0495.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (403–0)
+
 ## Actions
 
 - 2015-03-03 — Introduced in House
@@ -45,3 +49,11 @@ National Forest Small Tracts Act Amendments Act of 2015
 - 2015-06-08 — Placed on the Union Calendar, Calendar No. 100.
 - 2015-06-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-140, Part I.
 - 2015-06-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-140, Part I.
+- 2015-09-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-09-16 — Considered as unfinished business. (consideration: CR H6003-6004)
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H5995-5996)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1214.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2015-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 495). (text: CR H5995)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 495).(text: CR H5995)

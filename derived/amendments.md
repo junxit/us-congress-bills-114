@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 2 executed, 6 stated and not applied.
+12 amendatory instructions. 6 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,42 @@ to guess them.
 |---|---|
 | Removed | `$150,000` |
 | Inserted | `$500,000` |
+
+### 16 U.S.C. § 521e
+
+> in the matter preceding paragraph (1), by striking “which are—” and inserting “which involve any one of the following:”;
+
+| | |
+|---|---|
+| Removed | `which are—` |
+| Inserted | `which involve any one of the following:` |
+
+### 16 U.S.C. § 521e
+
+> by striking “parcels” and inserting “Parcels”; and
+
+| | |
+|---|---|
+| Removed | `parcels` |
+| Inserted | `Parcels` |
+
+### 16 U.S.C. § 521e
+
+> by striking “parcels” the first place it appears and inserting “Parcels”; and
+
+| | |
+|---|---|
+| Removed | `parcels` |
+| Inserted | `Parcels` |
+
+### 16 U.S.C. § 521e
+
+> in paragraph (3), by striking “road” and inserting “Road”; and
+
+| | |
+|---|---|
+| Removed | `road` |
+| Inserted | `Road` |
 
 ### 16 U.S.C. § 521d
 
@@ -51,8 +87,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 521e` | replace | by striking “; or” at the end of paragraph (2) and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 521e` | replace | by striking the period at the end of paragraph (3) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521e` | replace | by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521e` | replace | by striking “; or” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 521e` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 521d` | replace | by striking “The Secretary is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 521d` | replace | by striking “The Secretary shall insert” and inserting the following: | the bill quotes the text struck but describes what replaces it |
