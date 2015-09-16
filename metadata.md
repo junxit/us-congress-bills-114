@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2223
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2223
@@ -38,3 +38,9 @@ Crags, Colorado Land Exchange Act of 2015
 - 2015-09-09 — Placed on the Union Calendar, Calendar No. 196.
 - 2015-09-09 — Reported by the Committee on Natural Resources. H. Rept. 114-258.
 - 2015-09-09 — Reported by the Committee on Natural Resources. H. Rept. 114-258.
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H6005-6006)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2223.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. Lamborn moved to suspend the rules and pass the bill.
+- 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6005-6006)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6005-6006)

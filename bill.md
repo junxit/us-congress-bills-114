@@ -17,8 +17,8 @@ This Act may be cited as the “Crags, Colorado Land Exchange Act of 2015”.
 
 The purposes of this Act are—
 
-- **(1)** to authorize, direct, expedite and facilitate the land exchange set forth herein; and
-- **(2)** to promote enhanced public outdoor recreational and natural resource conservation opportunities in the Pike National Forest near Pikes Peak, Colorado via acquisition of the non-Federal land and trail easement.
+- **(1)** to authorize, direct, expedite, and facilitate the land exchange set forth herein; and
+- **(2)** to promote enhanced public outdoor recreational and natural resource conservation opportunities in the Pike National Forest near Pikes Peak, Colorado, via acquisition of the non-Federal land and trail easement.
 
 ## § 3. Definitions
 
@@ -65,7 +65,7 @@ In this Act:
   - **(2)** *Withdrawal revocation* Any public land order that withdraws the Federal land from appropriation or disposal under a public land law shall be revoked to the extent necessary to permit disposal of the Federal land parcel to BHI.
   - **(3)** *Withdrawal of Federal land* All Federal land authorized to be exchanged under this Act, if not already withdrawn or segregated from appropriation or disposal under the public lands laws upon enactment of this Act, is hereby so withdrawn, subject to valid existing rights, until the date of conveyance of the Federal land to BHI.
 - **(b)** *Postexchange land management* Land acquired by the Secretary under this Act shall become part of the Pike-San Isabel National Forest and be managed in accordance with the laws, rules, and regulations applicable to the National Forest System.
-- **(c)** *Exchange timetable* It is the intent of Congress that the land exchange directed by this Act be consummated no later than one year after the date of the enactment of this Act.
+- **(c)** *Exchange timetable* It is the intent of Congress that the land exchange directed by this Act be consummated no later than 1 year after the date of the enactment of this Act.
 - **(d)** *Maps, estimates, and descriptions*
   - **(1)** *Minor errors* The Secretary and BHI may by mutual agreement make minor boundary adjustments to the Federal and non-Federal lands involved in the exchange, and may correct any minor errors in any map, acreage estimate, or description of any land to be exchanged.
   - **(2)** *Conflict* If there is a conflict between a map, an acreage estimate, or a description of land under this Act, the map shall control unless the Secretary and BHI mutually agree otherwise.
