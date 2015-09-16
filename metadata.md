@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1289
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1289
@@ -67,3 +67,9 @@ John Muir National Historic Site Expansion Act
 - 2015-07-21 — Placed on the Union Calendar, Calendar No. 160.
 - 2015-07-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-213.
 - 2015-07-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-213.
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H5996-5997)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1289.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2015-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5996)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5996)
