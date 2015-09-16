@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1554
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1554
@@ -38,3 +38,9 @@ Elkhorn Ranch and White River National Forest Conveyance Act of 2015
 - 2015-09-09 — Placed on the Union Calendar, Calendar No. 195.
 - 2015-09-09 — Reported by the Committee on Natural Resources. H. Rept. 114-257.
 - 2015-09-09 — Reported by the Committee on Natural Resources. H. Rept. 114-257.
+- 2015-09-16 — Considered under suspension of the rules. (consideration: CR H5997-5998)
+- 2015-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1554.
+- 2015-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5997-5998)
+- 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5997-5998)
