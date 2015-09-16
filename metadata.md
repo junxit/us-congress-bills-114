@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 36
@@ -239,3 +239,5 @@ Pain-Capable Unborn Child Protection Act
 - 2015-05-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2937)
 - 2015-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2936)
 - 2015-05-14 — Received in the Senate.
+- 2015-09-15 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-09-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
