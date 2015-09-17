@@ -1,7 +1,7 @@
 ---
 measure: H.R. 959
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 959
@@ -16,9 +16,10 @@ Medgar Evers House Study Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Medgar Evers House Study Act
 - 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2015-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5994)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5994)
+- 2015-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
