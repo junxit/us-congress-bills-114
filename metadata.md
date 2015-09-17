@@ -1,7 +1,7 @@
 ---
 measure: S. 1090
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1090
@@ -24,9 +24,10 @@ Emergency Information Improvement Act of 2015
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -36,3 +37,8 @@ Emergency Information Improvement Act of 2015
 - 2015-09-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-142.
 - 2015-09-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-142.
 - 2015-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.
+- 2015-09-17 — Message on Senate action sent to the House.
+- 2015-09-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6819; text as passed Senate: CR S6819)
+- 2015-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6819; text as passed Senate: CR S6819)
+- 2015-09-17 — Received in the House.
+- 2015-09-17 — Referred to the House Committee on Transportation and Infrastructure.
