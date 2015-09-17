@@ -1,7 +1,7 @@
 ---
 measure: H.R. 487
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 487
@@ -16,9 +16,10 @@ To allow the Miami Tribe of Oklahoma to lease or transfer certain lands.
 
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To allow the Miami Tribe of Oklahoma to lease or transfer certain lands.
 - 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5993)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5993)
+- 2015-09-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
