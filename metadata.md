@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 253
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 253
@@ -21,7 +21,15 @@ A resolution welcoming King Felipe VI and Queen Letizia of Spain on their offici
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Kaine, Tim [D-VA] (K000384)
 
+## Committees (1)
+
+- Senate — Foreign Relations Committee
+
 ## Actions
 
 - 2015-09-15 — Introduced in Senate
 - 2015-09-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6656-6657)
+- 2015-09-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-17 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S6818)
+- 2015-09-17 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S6818)
