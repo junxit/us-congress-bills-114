@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2791
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2791
@@ -45,3 +45,4 @@ Western Oregon Tribal Fairness Act
 - 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6000-6001)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6000-6001)
+- 2015-09-17 — Received in the Senate.
