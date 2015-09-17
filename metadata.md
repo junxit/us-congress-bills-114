@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1289
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1289
@@ -50,9 +50,10 @@ John Muir National Historic Site Expansion Act
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ John Muir National Historic Site Expansion Act
 - 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2015-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5996)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5996)
+- 2015-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
