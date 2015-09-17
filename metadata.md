@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 719
@@ -52,3 +52,13 @@ Continuing Appropriations Act, 2016
 - 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-111.
 - 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-111.
 - 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
+- 2015-09-17 — Amendment SA 2666 agreed to in Senate by Unanimous Consent.
+- 2015-09-17 — Amendment SA 2666 proposed by Senator McConnell for Senator Thune. (consideration: CR S6820; text: CR S6820) To require the Assistant Secretary to submit certain materials and information to the Committee on the Judiciary of the Senate and the Inspector General of the Department of Homeland Security to submit a study to the Committee on Homeland Security and Governmental Affairs of the Senate.
+- 2015-09-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6819-6820)
+- 2015-09-17 — Message on Senate action sent to the House.
+- 2015-09-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-09-17 — Senate amendment agreed to: Amendment SA 2666 agreed to in Senate by Unanimous Consent.
+- 2015-09-17 — Senate amendment proposed (on the floor): Amendment SA 2666 proposed by Senator McConnell for Senator Thune.(consideration: CR S6820; text: CR S6820)
+- 2015-09-17 — Senate amendment submitted
+- 2015-09-17 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S6819-6820)
