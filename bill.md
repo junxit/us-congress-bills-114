@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3552
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3552
+
+> To amend the Internal Revenue Code of 1986 to provide equitable treatment for residents of Puerto Rico with respect to the refundable portion of the child tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Child Tax Credit Equity for Puerto Rico Act of 2015”.
+
+## § 2. Equitable treatment for residents of Puerto Rico with respect to the refundable portion of the child tax credit
+
+- **(a)** *In general* Section 24(d)(1) of the Internal Revenue Code of 1986 is amended by inserting “or section 933” after “section 112”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2015.
