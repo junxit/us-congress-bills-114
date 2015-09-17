@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Committee Discharged Senate
+version: Reported to Senate
 derived: true
 ---
 

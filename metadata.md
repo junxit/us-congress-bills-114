@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Committee Discharged Senate
+version: Reported to Senate
 ---
 
 # S. 32
@@ -16,13 +16,17 @@ Transnational Drug Trafficking Act of 2015
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (5)
+## Cosponsors (9)
 
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (2)
 
@@ -36,3 +40,7 @@ Transnational Drug Trafficking Act of 2015
 - 2015-01-13 — Referred to the Committee on the Judiciary by unanimous consent.
 - 2015-01-13 — Senate Committee on Finance discharged by Unanimous Consent.
 - 2015-01-13 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2015-09-17 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2015-09-17 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-09-17 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
