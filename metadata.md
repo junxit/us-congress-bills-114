@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1554
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1554
@@ -20,9 +20,10 @@ Elkhorn Ranch and White River National Forest Conveyance Act of 2015
 
 - Rep. Polis, Jared [D-CO-2] (P000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Elkhorn Ranch and White River National Forest Conveyance Act of 2015
 - 2015-09-16 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5997-5998)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5997-5998)
+- 2015-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
