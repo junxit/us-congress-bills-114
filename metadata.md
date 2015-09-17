@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2051
@@ -44,3 +44,7 @@ Agriculture Reauthorizations Act of 2015
 - 2015-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3929-3930)
 - 2015-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3929-3930)
 - 2015-06-10 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2015-09-17 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-09-17 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
+- 2015-09-17 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
+- 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
