@@ -1,7 +1,7 @@
 ---
 measure: S. 136
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 136
@@ -44,3 +44,15 @@ Gold Star Fathers Act of 2015
 - 2015-09-18 — Placed on the Union Calendar, Calendar No. 199.
 - 2015-09-18 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-263.
 - 2015-09-18 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-263.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6267-6268)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 136.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Walberg moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6267)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6267)
+- 2015-09-30 — Presented to President.
+- 2015-09-30 — Presented to President.
+- 2015-10-07 — Became Public Law No: 114-62.
+- 2015-10-07 — Became Public Law No: 114-62.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
