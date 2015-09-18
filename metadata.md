@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1603
@@ -59,3 +59,6 @@ Born-Alive Abortion Survivors Protection Act
 - 2015-09-10 — Received in the House.
 - 2015-09-10 — Referred to the Committee on Homeland Security, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-10 — Referred to the Committee on Homeland Security, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-14 — Referred to the Subcommittee on Border and Maritime Security.
+- 2015-09-18 — Passed House with amendment pursuant to H. Res. 421.
+- 2015-09-18 — Passed/agreed to in House: Passed House with amendment pursuant to H. Res. 421.

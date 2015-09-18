@@ -2,60 +2,54 @@
 legis-num: S. 1603
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1603
 
-> To actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.
+That the bill from the Senate (S. 1603) entitled “An Act to actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Border Jobs for Veterans Act of 2015”.
+This Act may be cited as the “Born-Alive Abortion Survivors Protection Act”.
 
 ## § 2. Findings
 
-Congress finds the following:
+Congress finds as follows:
 
-- **(1)** Customs and Border Protection Officers at United States ports of entry carry out critical law enforcement duties associated with screening foreign visitors, returning United States citizens, and imported cargo entering the United States.
-- **(2)** It is in the national interest for United States ports of entry to be adequately staffed with Customs and Border Protection Officers in a timely fashion, including meeting the congressionally funded staffing target of 23,775 officers for fiscal year 2015.
-- **(3)** An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
-- **(4)** Recruiting efforts and expedited hiring procedures must be enhanced to ensure that qualified individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection Officer positions.
+- **(1)** If an abortion results in the live birth of an infant, the infant is a legal person for all purposes under the laws of the United States, and entitled to all the protections of such laws.
+- **(2)** Any infant born alive after an abortion or within a hospital, clinic, or other facility has the same claim to the protection of the law that would arise for any newborn, or for any person who comes to a hospital, clinic, or other facility for screening and treatment or otherwise becomes a patient within its care.
 
-## § 3. Expedited hiring of appropriate separating service members
+## § 3. Born-alive infants protection
 
-- **(a)** *Identification of transferable qualifications* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security, in conjunction with the Secretary of Defense, shall identify Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection Officers.
-- **(b)** *Hiring* The Secretary of Homeland Security shall consider hiring qualified candidates with the Military Occupational Specialty Codes, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies identified as transferable under subsection (a) who are eligible for veterans recruitment appointment authorized under section 4214 of title 38, United States Code.
+- **(a)** *Requirements pertaining to born-Alive abortion survivors* Chapter 74 of title 18, United States Code, is amended by inserting after section 1531 the following:
+  > ## § 1532. Requirements pertaining to born-alive abortion survivors
+  >
+  > - **(a)** *Requirements for health care practitioners* In the case of an abortion or attempted abortion that results in a child born alive (as defined in section 8 of title 1, United States Code (commonly known as the “Born-Alive Infants Protection Act”)):
+  >   - **(1)** *Degree of care required; immediate admission to a hospital* Any health care practitioner present at the time the child is born alive shall—
+  >     - **(A)** exercise the same degree of professional skill, care, and diligence to preserve the life and health of the child as a reasonably diligent and conscientious health care practitioner would render to any other child born alive at the same gestational age; and
+  >     - **(B)** following the exercise of skill, care, and diligence required under subparagraph (A), ensure that the child born alive is immediately transported and admitted to a hospital.
+  >   - **(2)** *Mandatory reporting of violations* A health care practitioner or any employee of a hospital, a physician’s office, or an abortion clinic who has knowledge of a failure to comply with the requirements of paragraph (1) shall immediately report the failure to an appropriate State or Federal law enforcement agency, or to both.
+  > - **(b)** *Penalties*
+  >   - **(1)** *In general* Whoever violates subsection (a) shall be fined under this title or imprisoned for not more than 5 years, or both.
+  >   - **(2)** *Intentional killing of child born alive* Whoever intentionally performs or attempts to perform an overt act that kills a child born alive described under subsection (a), shall be punished as under section 1111 of this title for intentionally killing or attempting to kill a human being.
+  > - **(c)** *Bar to prosecution* The mother of a child born alive described under subsection (a) may not be prosecuted under this section, for conspiracy to violate this section, or for an offense under section 3 or 4 of this title based on such a violation.
+  > - **(d)** *Civil remedies*
+  >   - **(1)** *Civil action by a woman on whom an abortion is performed* If a child is born alive and there is a violation of subsection (a), the woman upon whom the abortion was performed or attempted may, in a civil action against any person who committed the violation, obtain appropriate relief.
+  >   - **(2)** *Appropriate relief* Appropriate relief in a civil action under this subsection includes—
+  >     - **(A)** objectively verifiable money damage for all injuries, psychological and physical, occasioned by the violation of subsection (a);
+  >     - **(B)** statutory damages equal to 3 times the cost of the abortion or attempted abortion; and
+  >     - **(C)** punitive damages.
+  >   - **(3)** *Attorney’s fee for plaintiff* The court shall award a reasonable attorney’s fee to a prevailing plaintiff in a civil action under this subsection.
+  >   - **(4)** *Attorney’s fee for defendant* If a defendant in a civil action under this subsection prevails and the court finds that the plaintiff’s suit was frivolous, the court shall award a reasonable attorney’s fee in favor of the defendant against the plaintiff.
+  > - **(e)** *Definitions* In this section the following definitions apply:
+  >   - **(1)** *Abortion* The term abortion means the use or prescription of any instrument, medicine, drug, or any other substance or device—
+  >     - **(A)** to intentionally kill the unborn child of a woman known to be pregnant; or
+  >     - **(B)** to intentionally terminate the pregnancy of a woman known to be pregnant, with an intention other than—
+  >       - **(i)** after viability, to produce a live birth and preserve the life and health of the child born alive; or
+  >       - **(ii)** to remove a dead unborn child.
+  >   - **(2)** *Attempt* The term attempt, with respect to an abortion, means conduct that, under the circumstances as the actor believes them to be, constitutes a substantial step in a course of conduct planned to culminate in performing an abortion.
 
-## § 4. Enhancements to existing programs to recruit service members separating from military service for Customs and Border Protection Officer vacancies
-
-- **(a)** *In general* The Secretary of Homeland Security, in conjunction with the Secretary of Defense, and acting through existing programs, authorities, and agreements, where applicable, shall enhance the efforts of the Department of Homeland Security to recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.
-- **(b)** *Elements* The enhanced recruiting efforts under subsection (a) shall—
-  - **(1)** include Customs and Border Protection Officer opportunities in relevant job assistance efforts under the Transition Assistance Program;
-  - **(2)** place U.S. Customs and Border Protection officials or other relevant Department of Homeland Security officials at recruiting events and jobs fairs involving members of the Armed Forces who are separating from military service;
-  - **(3)** provide opportunities for local U.S. Customs and Border Protection field offices to partner with military bases in the region;
-  - **(4)** include outreach efforts to educate members of the Armed Forces with Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection Officers of available hiring opportunities to become Customs and Border Protection Officers;
-  - **(5)** require the Secretary of Homeland Security and the Secretary of Defense to work cooperatively to identify shared activities and opportunities for reciprocity related to steps in hiring U.S. Customs and Border Patrol officers with the goal of minimizing the time required to hire qualified applicants;
-  - **(6)** require the Secretary of Defense and the Secretary of Homeland Security to work cooperatively to ensure the streamlined interagency transfer of relevant background investigations and security clearances; and
-  - **(7)** include such other elements as may be necessary to ensure that members of the Armed Forces who are separating from military service are aware of opportunities to fill vacant Customs and Border Protection Officer positions.
-
-## § 5. Report to Congress
-
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and not later than December 31 of each of the 3 successive years, the Secretary of Homeland Security and the Secretary of Defense shall jointly submit a report to the appropriate congressional committees that includes a description and assessment of the efforts of the Department of Homeland Security to hire separating service members as Customs and Border Protection Officers.
-- **(b)** *Content* The report required under subsection (a) shall include—
-  - **(1)** a detailed description of the proposed efforts under section 4, including—
-    - **(A)** elements of the enhanced recruiting efforts;
-    - **(B)** goals associated with those elements; and
-    - **(C)** a description of how the elements and goals will assist in meeting statutorily mandated staffing levels and agency hiring benchmarks;
-  - **(2)** a detailed description of the efforts that have been undertaken under section 4;
-  - **(3)** the number of separating service members made aware of Customs and Border Protection Officer vacancies;
-  - **(4)** the Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies identified as transferable under section 3(a) and a rationale for such identifications;
-  - **(5)** the number of Customs and Border Protection Officer vacancies filled with separating service members; and
-  - **(6)** the number of Customs and Border Protection Officer vacancies filled with separating service members under veterans recruitment appointment authorized under section 4214 of title 38, United States Code.
-
-## § 6. Rules of construction
-
-Nothing in this Act may be construed—
-
-- **(a)** to supersede, alter, or amend existing Federal veterans’ hiring preferences or Federal hiring authorities; or
-- **(b)** to authorize the appropriation of additional amounts to carry out this Act.
+- **(b)** *Clerical amendment* The table of sections for chapter 74 of title 18, United States Code, is amended by inserting after the item pertaining to section 1531 the following:
