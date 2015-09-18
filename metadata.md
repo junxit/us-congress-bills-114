@@ -1,7 +1,7 @@
 ---
 measure: S. 764
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 764
@@ -40,3 +40,6 @@ A bill to reauthorize and amend the National Sea Grant College Program Act, and 
 - 2015-07-29 — Message on Senate action sent to the House.
 - 2015-07-29 — Received in the House.
 - 2015-07-29 — Referred to the House Committee on Natural Resources.
+- 2015-08-31 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2015-09-18 — Passed House with amendment pursuant to H. Res. 421.
+- 2015-09-18 — Passed/agreed to in House: Passed House with amendment pursuant to H. Res. 421.

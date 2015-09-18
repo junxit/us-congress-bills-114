@@ -2,121 +2,41 @@
 legis-num: S. 764
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 764
 
-> To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.
+That the bill from the Senate (S. 764) entitled “An Act to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “National Sea Grant College Program Amendments Act of 2015”.
+This Act may be cited as the “Defund Planned Parenthood Act of 2015”.
 
-## § 2. References to the National Sea Grant College Program Act
+## § 2. Findings
 
-Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the National Sea Grant College Program Act (33 U.S.C. 1121 et seq.).
+Congress finds the following:
 
-## § 3. Modification of Dean John A. Knauss Marine Policy Fellowship
+- **(1)** State and county health departments, community health centers, hospitals, physicians offices, and other entities currently provide, and will continue to provide, health services to women. Such health services include relevant diagnostic laboratory and radiology services, well-child care, prenatal and postpartum care, immunization, family planning services (including contraception), cervical and breast cancer screenings and referrals, and sexually transmitted disease testing.
+- **(2)** Many such entities provide services to all persons, regardless of the person’s ability to pay, and provide services in medically underserved areas and to medically underserved populations.
+- **(3)** All funds that are no longer available to Planned Parenthood Federation of America, Inc. and its affiliates and clinics pursuant to this Act will continue to be made available to other eligible entities to provide women’s health care services.
+- **(4)** Funds authorized to be appropriated, and appropriated, by section 4 are offset by the funding limitation under section 3(a).
 
-- **(a)** *In general* Section 208(b) (33 U.S.C. 1127(b)) is amended by striking “may” and inserting “shall”.
-- **(b)** *Placements in Congress* Such section is further amended—
-  - **(1)** in the first sentence, by striking “The Secretary” and inserting the following:
-    > - **(1)** *In general* The Secretary
+## § 3. Moratorium on Federal funding to Planned Parenthood Federation of America, Inc
 
-  - **(2)** in paragraph (1), as designated by paragraph (1), in the second sentence, by striking “A fellowship” and inserting the following:
-    > - **(2)** *Placement priorities*
-    >   - **(A)** *In general* In each year in which the Secretary awards a legislative fellowship under this subsection, when considering the placement of fellows, the Secretary shall prioritize placement of fellows in the following:
-    >     - **(i)** Positions in offices of, or with members on, committees of Congress that have jurisdiction over the National Oceanic and Atmospheric Administration.
-    >     - **(ii)** Positions in offices of members of Congress that have a demonstrated interest in ocean, coastal, or Great Lakes resources.
-    >   - **(B)** *Equitable distribution* In placing fellows in offices described in subparagraph (A), the Secretary shall ensure, to the maximum degree practicable, that placements are equitably distributed among the political parties.
-    > - **(3)** *Duration* A fellowship
+- **(a)** *In general* For the one-year period beginning on the date of the enactment of this Act, subject to subsection (b), no funds authorized or appropriated by Federal law may be made available for any purpose to Planned Parenthood Federation of America, Inc., or any affiliate or clinic of Planned Parenthood Federation of America, Inc., unless such entities certify that Planned Parenthood Federation of America affiliates and clinics will not perform, and will not provide any funds to any other entity that performs, an abortion during such period.
+- **(b)** *Exception* Subsection (a) shall not apply to an abortion—
+  - **(1)** if the pregnancy is the result of an act of rape or incest; or
+  - **(2)** in the case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself.
+- **(c)** *Repayment* The Secretary of Health and Human Services and the Secretary of Agriculture shall seek repayment of any Federal assistance received by Planned Parenthood Federation of America, Inc., or any affiliate or clinic of Planned Parenthood Federation of America, Inc., if it violates the terms of the certification required by subsection (a) during the period specified in subsection (a).
 
-- **(c)** *Effective date* The amendments made by subsection (b) shall apply with respect to the first calendar year beginning after the date of enactment of this Act.
-- **(d)** *Sense of Congress concerning Federal hiring of former fellows* It is the sense of Congress that in recognition of the competitive nature of the fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)), and of the exceptional qualifications of fellowship awardees, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, should encourage participating Federal agencies to consider opportunities for fellowship awardees at the conclusion of their fellowship for workforce positions appropriate for their education and experience.
+## § 4. Funding for community health center program
 
-## § 4. Modification of authority of Secretary of Commerce to accept donations for National Sea Grant College Program
+- **(a)** *In general* There is authorized to be appropriated, and appropriated, $235,000,000 for the community health center program under section 330 of the Public Health Service Act (42 U.S.C. 254b), in addition to any other funds made available to such program, for the period for which the funding limitation under section 3(a) applies.
+- **(b)** *Limitation* None of the funds authorized or appropriated pursuant to subsection (a) may be expended for an abortion other than as described in section 3(b).
 
-- **(a)** *In general* Section 204(c)(4)(E) (33 U.S.C. 1123(c)(4)(E)) is amended to read as follows:
-  > - **(E)** accept donations of money and, notwithstanding section 1342 of title 31, United States Code, of voluntary and uncompensated services;
+## § 5. Rule of construction
 
-- **(b)** *Priorities* The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall establish priorities for the use of donations accepted under section 204(c)(4)(E) of the National Sea Grant College Program Act (33 U.S.C. 1123(c)(4)(E)), and shall consider among those priorities the possibility of expanding the Dean John A. Knauss Marine Policy Fellowship's placement of additional fellows in relevant legislative offices under section 208(b) of that Act (33 U.S.C. 1127(b)), in accordance with the recommendations under subsection (c) of this section.
-- **(c)** *Report* Not later than 180 days after the date of the enactment of this Act, the Director of the National Sea Grant College Program, in consultation with the National Sea Grant Advisory Board and the Sea Grant Association, shall—
-  - **(1)** develop recommendations for the optimal use of any donations accepted under section 204(c)(4)(E) of the National Sea Grant College Program Act (33 U.S.C. 1123(c)(4)(E)); and
-  - **(2)** submit to Congress a report on the recommendations developed under paragraph (1).
-- **(d)** *Construction* Nothing in this section shall be construed to limit or otherwise affect any other amounts available for marine policy fellowships under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)), including amounts—
-  - **(1)** accepted under section 204(c)(4)(F) of that Act (33 U.S.C. 1123(c)(4)(F)); or
-  - **(2)** appropriated under section 212 of that Act (33 U.S.C. 1131).
-
-## § 5. Repeal of requirement for report on coordination of oceans and coastal research activities
-
-Section 9 of the National Sea Grant College Program Act Amendments of 2002 (33 U.S.C. 857–20) is repealed.
-
-## § 6. Reduction in frequency required for National Sea Grant Advisory Board report
-
-Section 209(b)(2) (33 U.S.C. 1128(b)(2)) is amended—
-
-- **(1)** in the heading, by striking “Biennial” and inserting “Periodic”; and
-- **(2)** in the first sentence, by striking “The Board shall report to the Congress every two years” and inserting “Not less frequently than once every 3 years, the Board shall submit to Congress a report”.
-
-## § 7. Modification of elements of National Sea Grant College Program
-
-Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter before paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”.
-
-## § 8. Direct hire authority; Dean John A. Knauss Marine Policy Fellowship
-
-- **(a)** *In general* During fiscal year 2016 and thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards.
-- **(b)** *Dean John A. Knauss Marine Policy Fellowship* Subsection (a) applies with respect to a former recipient of a Dean John A. Knauss Marine Policy Fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)) who—
-  - **(1)** earned a graduate or post-graduate degree in a field related to ocean, coastal and Great Lakes resources or policy from an accredited institution of higher education; and
-  - **(2)** successfully fulfilled the requirements of the fellowship within the executive or legislative branch of the United States Government.
-- **(c)** *Limitation* The direct hire authority under this section shall be exercised with respect to a specific qualified candidate not later than 2 years after the date that the candidate completed the fellowship.
-
-## § 9. Authorization of appropriations for National Sea Grant College Program
-
-- **(a)** *In general* Section 212(a) (33 U.S.C. 1131(a)) is amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** in subparagraph (E), by striking “and” at the end;
-    - **(B)** in subparagraph (F), by striking the period at the end and inserting “;”; and
-    - **(C)** by adding at the end the following:
-      > - **(G)** $72,000,000 for fiscal year 2015;
-      > - **(H)** $75,600,000 for fiscal year 2016;
-      > - **(I)** $79,380,000 for fiscal year 2017;
-      > - **(J)** $83,350,000 for fiscal year 2018;
-      > - **(K)** $87,520,000 for fiscal year 2019;
-      > - **(L)** $91,900,000 for fiscal year 2020; and
-      > - **(M)** $96,500,000 for fiscal year 2021.
-
-  - **(2)** in the heading for paragraph (2), by inserting “for fiscal years 2009 through 2014” after “Priority activities”; and
-  - **(3)** by adding at the end the following:
-    > - **(3)** *Priority activities for fiscal years 2015 through 2020* In addition to the amounts authorized under paragraph (1), there is authorized to be appropriated $6,000,000 for each of fiscal years 2015 through 2020 for competitive grants for the following:
-    >   - **(A)** University research on the biology, prevention, and control of aquatic nonnative species.
-    >   - **(B)** University research on oyster diseases, oyster restoration, and oyster-related human health risks.
-    >   - **(C)** University research on the biology, prevention, and forecasting of harmful algal blooms.
-    >   - **(D)** University research, education, training, and extension services and activities focused on coastal resilience and U.S. working waterfronts and other regional or national priority issues identified in the strategic plan under section 204(c)(1).
-    >   - **(E)** University research on sustainable aquaculture techniques and technologies.
-    >   - **(F)** Fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
-
-- **(b)** *Modification of limitations on amounts for administration* Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows:
-  > - **(1)** *Administration*
-  >   - **(A)** *In general* There may not be used for administration of programs under this title in a fiscal year more than 5.5 percent of the lesser of—
-  >     - **(i)** the amount authorized to be appropriated under this title for the fiscal year; or
-  >     - **(ii)** the amount appropriated under this title for the fiscal year.
-  >   - **(B)** *Critical staffing requirements*
-  >     - **(i)** *In general* The Director shall use the authority under subchapter VI of chapter 33 of title 5, United States Code, to meet any critical staffing requirement while carrying out the activities authorized in this title.
-  >     - **(ii)** *Exception from cap* For purposes of subparagraph (A), any costs incurred as a result of an exercise of authority as described in clause (i) shall not be considered an amount used for administration of programs under this title in a fiscal year.
-
-- **(c)** *Allocation of funding*
-  - **(1)** *In general* Section 204(d)(3) (33 U.S.C. 1123(d)(3)) is amended—
-    - **(A)** in the matter before subparagraph (A), by striking “With respect to sea grant colleges and sea grant institutes” and inserting “With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects”; and
-    - **(B)** in subparagraph (B), in the matter before clause (i), by striking “funding among sea grant colleges and sea grant institutes” and inserting “funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects”.
-  - **(2)** *Repeal of requirements concerning distribution of excess amounts* Section 212 (33 U.S.C. 1131) is amended—
-    - **(A)** by striking subsection (c); and
-    - **(B)** by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.
-
-## § 10. Technical corrections
-
-The National Sea Grant College Program Act (33 U.S.C. 1121 et seq.) is amended—
-
-- **(1)** in section 204(d)(3)(B) (33 U.S.C. 1123(d)(3)(B)), by moving clause (vi) two ems to the right; and
-- **(2)** in section 209(b)(2) (33 U.S.C. 1128(b)(2)), as amended by section 6, in the third sentence, by striking “The Secretary shall” and inserting the following:
-  > - **(3)** *Availability of resources of Department of Commerce* The Secretary shall
+Nothing in this Act shall be construed to reduce overall Federal funding available in support of women’s health.
