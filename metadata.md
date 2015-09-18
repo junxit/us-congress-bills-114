@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3504
@@ -16,7 +16,7 @@ Born-Alive Abortion Survivors Protection Act
 
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 
-## Cosponsors (82)
+## Cosponsors (98)
 
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 - Rep. Collins, Doug [R-GA-9] (C001093)
@@ -100,10 +100,30 @@ Born-Alive Abortion Survivors Protection Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2015-09-18 — [House 114-1-506](votes/house-114-1-0506.md) — On Passage — **Passed** (248–177)
 
 ## Actions
 
@@ -111,3 +131,14 @@ Born-Alive Abortion Survivors Protection Act
 - 2015-09-15 — Introduced in House
 - 2015-09-15 — Referred to the House Committee on the Judiciary.
 - 2015-09-15 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2015-09-16 — Rules Committee Resolution H. Res. 421 Reported to House. Rule provides for consideration of H.R. 3134 and H.R. 3504.
+- 2015-09-17 — Rule H. Res. 421 passed House.
+- 2015-09-18 — Considered as unfinished business. (consideration: CR H6167)
+- 2015-09-18 — Considered under the provisions of rule H. Res. 421. (consideration: CR H6143-6152)
+- 2015-09-18 — DEBATE - The House proceeded with one hour of debate on H.R. 3504.
+- 2015-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-18 — On passage Passed by the Yeas and Nays: 248 - 177, 1 Present (Roll no. 506). (text: CR H6143-6144)
+- 2015-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3504, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Ms. Chu demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.
+- 2015-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 248 - 177, 1 Present (Roll no. 506).(text: CR H6143-6144)
+- 2015-09-18 — Rule provides for consideration of H.R. 3134 and H.R. 3504.
+- 2015-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H6152)
