@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3134
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3134
@@ -16,7 +16,7 @@ Defund Planned Parenthood Act of 2015
 
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Cosponsors (80)
+## Cosponsors (179)
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
@@ -98,13 +98,131 @@ Defund Planned Parenthood Act of 2015
 - Rep. Roby, Martha [R-AL-2] (R000591)
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Hardy, Cresent [R-NV-4] (H001070)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (2)
+
+- 2015-09-18 — [House 114-1-504](votes/house-114-1-0504.md) — On Motion to Recommit with Instructions — **Failed** (183–245)
+- 2015-09-18 — [House 114-1-505](votes/house-114-1-0505.md) — On Passage — **Passed** (241–187)
 
 ## Actions
 
 - 2015-07-21 — Introduced in House
 - 2015-07-21 — Introduced in House
 - 2015-07-21 — Referred to the House Committee on Energy and Commerce.
+- 2015-07-24 — Referred to the Subcommittee on Health.
+- 2015-09-16 — Rules Committee Resolution H. Res. 421 Reported to House. Rule provides for consideration of H.R. 3134 and H.R. 3504.
+- 2015-09-18 — Considered under the provisions of rule H. Res. 421. (consideration: CR H6152-6167)
+- 2015-09-18 — DEBATE - The House proceeded with 10 minutes of debate on the Esty motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end of the bill a section pertaining to No Impact on Funding for Organizations Providing Women's Health Services, pending a reservation of a point of order. Subsequently, the reservation was removed.
+- 2015-09-18 — DEBATE - The House proceeded with one hour of debate on H.R. 3134.
+- 2015-09-18 — House amendment offered
+- 2015-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-18 — Ms. Esty moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: CR H6165-6166; text: CR H6165)
+- 2015-09-18 — On motion to recommit with instructions Failed by the Yeas and Nays: 183 - 245 (Roll no. 504).
+- 2015-09-18 — On passage Passed by recorded vote: 241 - 187, 1 Present (Roll no. 505). (text: CR H6152)
+- 2015-09-18 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 187, 1 Present (Roll no. 505).(text: CR H6152)
+- 2015-09-18 — Rule provides for consideration of H.R. 3134 and H.R. 3504.
+- 2015-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6165)
+- 2015-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H6164)
