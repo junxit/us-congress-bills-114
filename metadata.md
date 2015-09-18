@@ -1,7 +1,7 @@
 ---
 measure: S. 136
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 136
@@ -39,3 +39,8 @@ Gold Star Fathers Act of 2015
 - 2015-05-12 — Message on Senate action sent to the House.
 - 2015-05-12 — Received in the House.
 - 2015-05-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-07-22 — Committee Consideration and Mark-up Session Held.
+- 2015-07-22 — Ordered to be Reported by Voice Vote.
+- 2015-09-18 — Placed on the Union Calendar, Calendar No. 199.
+- 2015-09-18 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-263.
+- 2015-09-18 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-263.
