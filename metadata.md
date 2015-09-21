@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 257
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 257
@@ -65,3 +65,7 @@ A resolution congratulating Captain Kristen Griest and First Lieutenant Shaye Ha
 
 - 2015-09-17 — Introduced in Senate
 - 2015-09-17 — Referred to the Committee on Armed Services. (Sponsor introductory remarks on measure: CR S6816; text of measure as introduced: CR S6816)
+- 2015-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-21 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6855)
+- 2015-09-21 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6855)
