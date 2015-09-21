@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 758
@@ -25,9 +25,10 @@ Lawsuit Abuse Reduction Act of 2015
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -61,3 +62,4 @@ Lawsuit Abuse Reduction Act of 2015
 - 2015-09-17 — Rule provides for consideration of H.R. 348 and H.R. 758. The resolution provides for one hour debate on H.R. 348 and H.R. 758. The resolution provides that it shall be in order at any time on the legislative day of September 24, 2015, for the Speaker to entertain motions that the House suspend the rules.
 - 2015-09-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6119)
 - 2015-09-17 — The previous question was ordered pursuant to the rule. (consideration: CR H6118)
+- 2015-09-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
