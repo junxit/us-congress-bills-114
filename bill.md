@@ -20,12 +20,18 @@ This Act may be cited as the “Truth in Settlements Act of 2015”.
     > ## § 307. Information regarding settlement agreements
     >
     > - **(a)** *Definitions* In this section—
-    >   - **(1)** the term covered settlement agreement means a settlement agreement (including a consent decree) that—
-    >     - **(A)** is entered into by an Executive agency;
-    >     - **(B)** relates to an alleged violation of Federal civil or criminal law; and
-    >     - **(C)** requires the payment of a total of not less than $1,000,000 by 1 or more non-Federal persons;
-    >   - **(2)** the term entity within the Federal Government includes an officer or employee of the Federal Government acting in an official capacity; and
-    >   - **(3)** the term non-Federal person means a person that is not an entity within the Federal Government.
+    >   - **(1)** the term covered settlement agreement means a settlement agreement (including a consent decree)—
+    >     - **(A)** that is entered into by an Executive agency; and
+    >     - **(B)**
+    >       - **(i)** that—
+    >         - **(I)** relates to an alleged violation of Federal civil or criminal law; and
+    >         - **(II)** requires the payment of a total of not less than $1,000,000 by 1 or more non-Federal persons; or
+    >       - **(ii)** that—
+    >         - **(I)** relates to the rule making process of the Executive agency or an alleged failure by the Executive agency to engage in a rule making process; and
+    >         - **(II)** requires the payment of a total of not less than $200,000 in attorney fees, costs, or expenses by the Executive agency or entity within the Federal Government to a non-Federal person;
+    >   - **(2)** the term entity within the Federal Government includes an officer or employee of the Federal Government acting in an official capacity;
+    >   - **(3)** the term non-Federal person means a person that is not an entity within the Federal Government; and
+    >   - **(4)** the term rule making has the meaning given that term under section 551(5).
     > - **(b)** *Information To be posted online*
     >   - **(1)** *Requirement*
     >     - **(A)** *In general* Subject to subparagraph (B), the head of each Executive agency shall make publicly available in a searchable format in a prominent location on the Web site of the Executive agency—
@@ -34,10 +40,11 @@ This Act may be cited as the “Truth in Settlements Act of 2015”.
     >         - **(II)** the names of the parties that settled claims under the covered settlement agreement;
     >         - **(III)** a description of the claims each party settled under the covered settlement agreement;
     >         - **(IV)** the amount each party settling a claim under the covered settlement agreement is obligated to pay under the settlement agreement;
-    >         - **(V)** the total amount the settling parties are obligated to pay under the settlement agreement; and
+    >         - **(V)** the total amount the settling parties are obligated to pay under the settlement agreement;
     >         - **(VI)** for each settling party—
     >           - **(aa)** the amount, if any, the settling party is obligated to pay that is expressly specified under the covered settlement agreement as a civil or criminal penalty or fine; and
     >           - **(bb)** the amount, if any, that is expressly specified under the covered settlement agreement as not deductible for purposes of the Internal Revenue Code of 1986; and
+    >         - **(VII)** a description of where amounts collected under the covered settlement agreement will be deposited, including, if applicable, the deposit of such amounts in an account available for use for 1 or more programs of the Federal Government; and
     >       - **(ii)** a copy of each covered settlement agreement entered into by the Executive agency.
     >     - **(B)** *Confidentiality provisions* The requirement to disclose information or a copy of a covered settlement agreement under subparagraph (A) shall apply to the extent that the information or copy (or portion thereof) is not subject to a confidentiality provision that prohibits disclosure of the information or copy (or portion thereof).
     >   - **(2)** *Period* The head of each Executive agency shall ensure that—
@@ -58,17 +65,13 @@ This Act may be cited as the “Truth in Settlements Act of 2015”.
     >     - **(B)** any payments or compensation the non-Federal person shall make to other non-Federal persons under the covered settlement agreement.
     > - **(e)** *Confidentiality* The requirement to disclose information under subsection (d) shall apply to the extent that the information to be disclosed (or portion thereof) is not subject to a confidentiality provision that prohibits disclosure of the information (or portion thereof).
     > - **(f)** *Reporting*
-    >   - **(1)** *In general* Not later than January 15 of each year, the head of an Executive agency that entered into a covered settlement agreement during the previous fiscal year shall submit to each committee of Congress with jurisdiction over the activities of the Executive agency a report indicating—
+    >   - **(1)** *In general* Not later than January 15 of each year, the head of an Executive agency that entered into a covered settlement agreement or that entered into a settlement agreement that involves regulatory action or regulatory changes during the previous fiscal year shall submit to each committee of Congress with jurisdiction over the activities of the Executive agency a report indicating—
     >     - **(A)** how many covered settlement agreements the Executive agency entered into during that fiscal year;
-    >     - **(B)** how many covered settlement agreements the Executive agency entered into during that fiscal year that had any terms or conditions that are required to be kept confidential; and
-    >     - **(C)** how many covered settlement agreements the Executive agency entered into during that fiscal year for which all terms and conditions are required to be kept confidential.
+    >     - **(B)** how many covered settlement agreements the Executive agency entered into during that fiscal year that had any terms or conditions that are required to be kept confidential;
+    >     - **(C)** how many covered settlement agreements the Executive agency entered into during that fiscal year for which all terms and conditions are required to be kept confidential;
+    >     - **(D)** the total amount of attorney fees, costs, and expenses paid to non-Federal persons under settlement agreements (including consent decrees) of the Executive agency during that fiscal year; and
+    >     - **(E)** the number of settlement agreements (including consent decrees) between the Executive agency and non-Federal persons that involve regulatory action or regulatory changes, including the promulgation of new rules, during that fiscal year.
     >   - **(2)** *Availability of reports* The head of an Executive agency that is required to submit a report under paragraph (1) shall make the report publicly available in a searchable format in a prominent location on the Web site of the Executive agency.
 
   - **(2)** *Technical and conforming amendment* The table of sections for chapter 3 of title 5, United States Code, is amended by adding at the end the following:
-- **(b)** *Securities reporting*
-  - **(1)** *In general* Each issuer of securities that is required to file annual or other periodic reports with the Commission under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m and 78o(d)) shall describe in such a report any claim filed for a deduction under the Internal Revenue Code of 1986 during the reporting period that relates to a payment required under a covered settlement agreement.
-  - **(2)** *Definitions* As used in this subsection—
-    - **(A)** the term Commission means the Securities and Exchange Commission;
-    - **(B)** the term covered settlement agreement has the meaning given that term in section 307 of title 5, United States Code, as added by subsection (a); and
-    - **(C)** the term issuer has the same meaning as in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
-- **(c)** *Review of confidentiality of settlement agreements* Not later than 6 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report regarding how Executive agencies (as defined under section 105 of title 5, United States Code) determine whether the terms of a settlement agreement or the existence of a settlement agreement will be treated as confidential, which shall include recommendations, if any, for legislative or administrative action to increase the transparency of Government settlements while continuing to protect the legitimate interests that confidentiality provisions serve.
+- **(b)** *Review of confidentiality of settlement agreements* Not later than 6 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report regarding how Executive agencies (as defined under section 105 of title 5, United States Code) determine whether the terms of a settlement agreement or the existence of a settlement agreement will be treated as confidential, which shall include recommendations, if any, for legislative or administrative action to increase the transparency of Government settlements while continuing to protect the legitimate interests that confidentiality provisions serve.
