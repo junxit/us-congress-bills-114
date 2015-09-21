@@ -1,12 +1,15 @@
 ---
 legis-num: H.R. 2051
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2051
 
-That the bill from the House of Representatives (H.R. 2051) entitled “An Act to amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.”, do pass with the following
+> To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Agriculture Reauthorizations Act of 2015”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:

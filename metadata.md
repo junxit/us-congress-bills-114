@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2051
@@ -50,3 +50,17 @@ Agriculture Reauthorizations Act of 2015
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
 - 2015-09-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6852-6855; text as passed Senate: CR S6853-6854)
 - 2015-09-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6852-6855; text as passed Senate: CR S6853-6854)
+- 2015-09-22 — Message on Senate action sent to the House.
+- 2015-09-28 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 2051.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Conaway moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6287-6290)
+- 2015-09-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6287-6289)
+- 2015-09-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6287-6289)
+- 2015-09-29 — Presented to President.
+- 2015-09-29 — Presented to President.
+- 2015-09-30 — Became Public Law No: 114-54.
+- 2015-09-30 — Became Public Law No: 114-54.
+- 2015-09-30 — Signed by President.
+- 2015-09-30 — Signed by President.
+- 2016-02-08 — By Senator Roberts from Committee on Agriculture, Nutrition, and Forestry filed written report. Report No. 114-206.
+- 2016-02-08 — By Senator Roberts from Committee on Agriculture, Nutrition, and Forestry filed written report. Report No. 114-206.
