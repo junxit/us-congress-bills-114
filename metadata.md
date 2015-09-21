@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2051
@@ -48,3 +48,5 @@ Agriculture Reauthorizations Act of 2015
 - 2015-09-17 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
 - 2015-09-17 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
+- 2015-09-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6852-6855; text as passed Senate: CR S6853-6854)
+- 2015-09-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6852-6855; text as passed Senate: CR S6853-6854)
