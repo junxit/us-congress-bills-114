@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 623
@@ -51,3 +51,7 @@ DHS Social Media Improvement Act of 2015
 - 2015-02-02 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
 - 2015-02-02 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
 - 2015-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-145.
+- 2015-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-145.
+- 2015-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
