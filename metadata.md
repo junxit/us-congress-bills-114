@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3134
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3134
@@ -226,3 +226,5 @@ Defund Planned Parenthood Act of 2015
 - 2015-09-18 — Rule provides for consideration of H.R. 3134 and H.R. 3504.
 - 2015-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6165)
 - 2015-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H6164)
+- 2015-09-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-09-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
