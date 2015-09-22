@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3593
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3593
+
+> To direct the Administrator of the Federal Aviation Administration to issue or revise regulations to ensure that a person who holds a private pilot certificate may communicate with the public to facilitate certain shared cost flights, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Aviation Cost and Expenses Sharing Act of 2015”.
+
+## § 2. Private pilot privileges and limitations
+
+- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall issue or revise regulations to ensure that a person who holds a private pilot certificate may communicate with the public, in any manner the person determines appropriate, to facilitate a covered flight.
+- **(b)** *Covered flight defined* In this section, the term covered flight means an aircraft flight for which the pilot and passengers share operating expenses in accordance with section 61.113(c) of title 14, Code of Federal Regulations.
