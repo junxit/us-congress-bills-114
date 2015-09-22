@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 34
@@ -43,3 +43,8 @@ version: Referred in Senate
 - 2015-01-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H87-90)
 - 2015-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H87-90)
 - 2015-01-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-02-26 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-09-22 — An errata sheet on written report No. 114-146 was printed.
+- 2015-09-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-146.
+- 2015-09-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-146.
+- 2015-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
