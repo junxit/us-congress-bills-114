@@ -1,7 +1,7 @@
 ---
 measure: S. 1632
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1632
@@ -16,7 +16,7 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -33,6 +33,10 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -46,3 +50,12 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 - 2015-07-29 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2015-07-29 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2015-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
+- 2015-09-22 — Amendment SA 2677 agreed to in Senate by Unanimous Consent.
+- 2015-09-22 — Amendment SA 2677 proposed by Senator McConnell for Senator Lankford. (consideration: CR S6905; text: CR S6905) To require that the Director of National Intelligence assess the capability of the United States Government to help implement the 5-year strategy to counter the regional threat of Boko Haram.
+- 2015-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR S6905-6906; text of measure as reported in Senate: CR S6905)
+- 2015-09-22 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6905-6906)
+- 2015-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6905-6906)
+- 2015-09-22 — Senate amendment agreed to: Amendment SA 2677 agreed to in Senate by Unanimous Consent.
+- 2015-09-22 — Senate amendment proposed (on the floor): Amendment SA 2677 proposed by Senator McConnell for Senator Lankford.(consideration: CR S6905; text: CR S6905)
+- 2015-09-22 — Senate amendment submitted
+- 2015-09-22 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S6905)
