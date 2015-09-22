@@ -1,7 +1,7 @@
 ---
 measure: S. 986
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 986
@@ -32,3 +32,5 @@ Albuquerque Indian School Land Transfer Act
 - 2015-08-04 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-114.
 - 2015-08-04 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-114.
 - 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
+- 2015-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6906; text as passed Senate: CR S6906)
+- 2015-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6906; text as passed Senate: CR S6906)
