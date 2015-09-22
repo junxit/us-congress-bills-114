@@ -1,7 +1,7 @@
 ---
 measure: S. 1170
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1170
@@ -16,7 +16,7 @@ Breast Cancer Research Stamp Reauthorization Act of 2015
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (24)
+## Cosponsors (25)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -42,6 +42,7 @@ Breast Cancer Research Stamp Reauthorization Act of 2015
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
 
 ## Committees (1)
 
@@ -55,3 +56,5 @@ Breast Cancer Research Stamp Reauthorization Act of 2015
 - 2015-09-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-144.
 - 2015-09-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-144.
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
+- 2015-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6906-6907; text as passed Senate: CR S6907)
+- 2015-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6906-6907; text as passed Senate: CR S6907)
