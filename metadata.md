@@ -1,7 +1,7 @@
 ---
 measure: S. 1109
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1109
@@ -21,9 +21,10 @@ Truth in Settlements Act of 2015
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ Truth in Settlements Act of 2015
 - 2015-09-21 — Senate amendment agreed to: Amendment SA 2668 agreed to in Senate by Unanimous Consent.
 - 2015-09-21 — Senate amendment proposed (on the floor): Amendment SA 2668 proposed by Senator Lankford for Senator Vitter.(consideration: CR S6851; text: CR S6851)
 - 2015-09-21 — Senate amendment submitted
+- 2015-09-22 — Message on Senate action sent to the House.
+- 2015-09-22 — Received in the House.
+- 2015-09-22 — Referred to the House Committee on Oversight and Government Reform.
