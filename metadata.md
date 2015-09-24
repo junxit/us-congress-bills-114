@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1020
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1020
@@ -63,3 +63,14 @@ STEM Education Act of 2015
 - 2015-09-24 — Senate amendment agreed to: Amendment SA 2694 agreed to in Senate by Unanimous Consent.
 - 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2694 proposed by Senator McConnell for Senator Thune.(consideration: CR S6948-6949; text: CR S6949)
 - 2015-09-24 — Senate amendment submitted
+- 2015-09-25 — Message on Senate action sent to the House.
+- 2015-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-01 — Mr. Smith (TX) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H6780)
+- 2015-10-01 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6780)
+- 2015-10-01 — Presented to President.
+- 2015-10-01 — Presented to President.
+- 2015-10-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H6780)
+- 2015-10-07 — Became Public Law No: 114-59.
+- 2015-10-07 — Became Public Law No: 114-59.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
