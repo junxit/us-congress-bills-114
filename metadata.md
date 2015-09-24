@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 719
@@ -62,3 +62,25 @@ Continuing Appropriations Act, 2016
 - 2015-09-17 — Senate amendment proposed (on the floor): Amendment SA 2666 proposed by Senator McConnell for Senator Thune.(consideration: CR S6820; text: CR S6820)
 - 2015-09-17 — Senate amendment submitted
 - 2015-09-17 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S6819-6820)
+- 2015-09-24 — Amendment SA 2689 proposed by Senator McConnell for Senator Cochran. (consideration: CR S6931) Making continuing appropriations for the fiscal year ending September 30, 2016, and for other purposes.
+- 2015-09-24 — Amendment SA 2690 proposed by Senator McConnell to Amendment SA 2689. (consideration: CR S6931-6932; text: CR S6932) To change the enactment date.
+- 2015-09-24 — Amendment SA 2691 proposed by Senator McConnell. (consideration: CR S6932; text: CR S6932) To change the enactment date.
+- 2015-09-24 — Amendment SA 2692 proposed by Senator McConnell to Amendment SA 2691 (the instructions of the motion to refer). (consideration: CR S6932; text: CR S6932) Of a perfecting nature.
+- 2015-09-24 — Amendment SA 2693 proposed by Senator McConnell to Amendment SA 2692. (consideration: CR S6932; text: CR S6932) Of a perfecting nature.
+- 2015-09-24 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 719 with amendment SA 2689 presented in Senate. (consideration: CR S6932; text: CR S6932)
+- 2015-09-24 — House agreed to Senate amendment with amendment pursuant to H. Res. 434. (consideration: CR H6195-6197; text as House agreed to Senate amendment with an amendment: CR H6195-6196)
+- 2015-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S6931-6932)
+- 2015-09-24 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2015-09-24 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment with an amendment (SA 2689) made in Senate. (consideration: CR S6931)
+- 2015-09-24 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message on H.R. 719 with instructions to report back forthwith with the following amendment (SA 2691) made in Senate. (consideration: CR S6932)
+- 2015-09-24 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 434.(consideration: CR H6195-6197; text as House agreed to Senate amendment with an amendment: CR H6195-6196)
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2689 proposed by Senator McConnell for Senator Cochran.(consideration: CR S6931)
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2690 proposed by Senator McConnell to Amendment SA 2689.(consideration: CR S6931-6932; text: CR S6932)
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2691 proposed by Senator McConnell.(consideration: CR S6932; text: CR S6932)
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2692 proposed by Senator McConnell to Amendment SA 2691 (the instructions of the motion to refer).(consideration: CR S6932; text: CR S6932)
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2693 proposed by Senator McConnell to Amendment SA 2692.(consideration: CR S6932; text: CR S6932)
+- 2015-09-24 — Senate amendment submitted
+- 2015-09-24 — Senate amendment submitted
+- 2015-09-24 — Senate amendment submitted
+- 2015-09-24 — Senate amendment submitted
+- 2015-09-24 — Senate amendment submitted
