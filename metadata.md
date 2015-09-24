@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1442
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1442
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 90 Corn
 
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -43,6 +43,7 @@ To designate the facility of the United States Postal Service located at 90 Corn
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
 ## Committees (1)
 
@@ -53,3 +54,10 @@ To designate the facility of the United States Postal Service located at 90 Corn
 - 2015-03-18 — Introduced in House
 - 2015-03-18 — Introduced in House
 - 2015-03-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-05-19 — Ordered to be Reported by Unanimous Consent.
+- 2015-09-24 — Considered under suspension of the rules. (consideration: CR H6200-6201)
+- 2015-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1442.
+- 2015-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-24 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6200)
+- 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6200)
