@@ -1,7 +1,7 @@
 ---
 measure: S. 1632
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1632
@@ -38,9 +38,11 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Foreign Relations Committee
+- House — Intelligence (Permanent Select) Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -59,3 +61,8 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 - 2015-09-22 — Senate amendment proposed (on the floor): Amendment SA 2677 proposed by Senator McConnell for Senator Lankford.(consideration: CR S6905; text: CR S6905)
 - 2015-09-22 — Senate amendment submitted
 - 2015-09-22 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S6905)
+- 2015-09-24 — Message on Senate action sent to the House.
+- 2015-09-24 — Received in the House.
+- 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
