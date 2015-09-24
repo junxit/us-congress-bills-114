@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1020
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1020
@@ -55,3 +55,11 @@ STEM Education Act of 2015
 - 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-115.
 - 2015-08-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-115.
 - 2015-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
+- 2015-09-24 — Amendment SA 2694 agreed to in Senate by Unanimous Consent.
+- 2015-09-24 — Amendment SA 2694 proposed by Senator McConnell for Senator Thune. (consideration: CR S6948-6949; text: CR S6949) To make a conforming amendment.
+- 2015-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S6948-6949)
+- 2015-09-24 — Passed Senate with an amendment by Voice Vote.
+- 2015-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2015-09-24 — Senate amendment agreed to: Amendment SA 2694 agreed to in Senate by Unanimous Consent.
+- 2015-09-24 — Senate amendment proposed (on the floor): Amendment SA 2694 proposed by Senator McConnell for Senator Thune.(consideration: CR S6948-6949; text: CR S6949)
+- 2015-09-24 — Senate amendment submitted

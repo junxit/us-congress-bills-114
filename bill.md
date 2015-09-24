@@ -2,47 +2,13 @@
 legis-num: H.R. 1020
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1020
 
-> To define STEM education to include computer science, and to support existing STEM education programs at the National Science Foundation.
+That the bill from the House of Representatives (H.R. 1020) entitled “An Act to define STEM education to include computer science, and to support existing STEM education programs at the National Science Foundation.”, do pass with the following
 
-## § 1. Short title
+*On page 5, strike lines 3 through 4 and insert the following:*
 
-This Act may be cited as the “STEM Education Act of 2015”.
-
-## § 2. Definition of STEM education
-
-For purposes of carrying out STEM education activities at the National Science Foundation, the Department of Energy, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and the Environmental Protection Agency, the term “STEM education” means education in the subjects of science, technology, engineering, and mathematics, including computer science.
-
-## § 3. Informal STEM education
-
-- **(a)** *Grants* The Director of the National Science Foundation, through the Directorate for Education and Human Resources, shall continue to award competitive, merit-reviewed grants to support—
-  - **(1)** research and development of innovative out-of-school STEM learning and emerging STEM learning environments in order to improve STEM learning outcomes and engagement in STEM; and
-  - **(2)** research that advances the field of informal STEM education.
-- **(b)** *Uses of funds* Activities supported by grants under this section may encompass a single STEM discipline, multiple STEM disciplines, or integrative STEM initiatives and shall include—
-  - **(1)** research and development that improves our understanding of learning and engagement in informal environments, including the role of informal environments in broadening participation in STEM; and
-  - **(2)** design and testing of innovative STEM learning models, programs, and other resources for informal learning environments to improve STEM learning outcomes and increase engagement for K–12 students, K–12 teachers, and the general public, including design and testing of the scalability of models, programs, and other resources.
-
-## § 4. Noyce scholarship program amendments
-
-- **(a)** *Amendments* Section 10A of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1a) is amended—
-  - **(1)** in subsection (a)(2)(B), by inserting “or bachelor’s” after “master’s”;
-  - **(2)** in subsection (c)—
-    - **(A)** by striking “and” at the end of paragraph (2)(B);
-    - **(B)** in paragraph (3)—
-      - **(i)** by inserting “for teachers with master’s degrees in their field” after “Teaching Fellowships”; and
-      - **(ii)** by striking the period at the end of subparagraph (B) and inserting “; and”; and
-    - **(C)** by adding at the end the following new paragraph:
-      > - **(4)** in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor’s degrees in their field and working toward a master’s degree—
-      >   - **(A)** offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
-      >   - **(B)** offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields.
-
-  - **(3)** in subsection (e), by striking “subsection (g)” and inserting “subsection (h)”;
-  - **(4)** by redesignating subsections (g) through (i) as subsections (h) through (j), respectively; and
-  - **(5)** by inserting after subsection (f) the following new subsection:
-    > - **(g)** *Support for Master Teaching Fellows while enrolled in a master’s degree program* A National Science Foundation Master Teacher Fellow may receive a maximum of 1 year of fellowship support while enrolled in a master’s degree program as described in subsection (c)(4)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
-
-- **(b)** *Definition* Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1(i)(5)) is amended by inserting “computer science,” after “means a science,”.
+- **(3)** in subsections (e) and (f), by striking “subsection (g)” each place it appears, and inserting “subsection (h)”;
