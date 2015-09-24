@@ -1,7 +1,7 @@
 ---
 measure: S. 1632
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1632
@@ -66,3 +66,18 @@ A bill to require a regional strategy to address the threat posed by Boko Haram.
 - 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-24 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-12-07 — Committee on Foreign Affairs discharged.
+- 2016-12-07 — Committee on Foreign Affairs discharged.
+- 2016-12-07 — Committee on Intelligence (Permanent) discharged.
+- 2016-12-07 — Committee on Intelligence (Permanent) discharged.
+- 2016-12-07 — Considered by unanimous consent. (consideration: CR H7328)
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Ms. Ros-Lehtinen asked unanimous consent to discharge from committee and consider.
+- 2016-12-07 — On passage Passed without objection. (text: CR H7328)
+- 2016-12-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7328)
+- 2016-12-12 — Presented to President.
+- 2016-12-12 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-266.
+- 2016-12-14 — Became Public Law No: 114-266.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
