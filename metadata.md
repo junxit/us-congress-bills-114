@@ -1,7 +1,7 @@
 ---
 measure: S. 1170
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1170
@@ -44,9 +44,12 @@ Breast Cancer Research Stamp Reauthorization Act of 2015
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Armed Services Committee
+- House — Energy and Commerce Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -58,3 +61,9 @@ Breast Cancer Research Stamp Reauthorization Act of 2015
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
 - 2015-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6906-6907; text as passed Senate: CR S6907)
 - 2015-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6906-6907; text as passed Senate: CR S6907)
+- 2015-09-24 — Message on Senate action sent to the House.
+- 2015-09-24 — Received in the House.
+- 2015-09-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
