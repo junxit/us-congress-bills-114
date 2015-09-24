@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 323
@@ -35,3 +35,10 @@ To designate the facility of the United States Postal Service located at 55 Gras
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-07-23 — Ordered to be Reported by Unanimous Consent.
+- 2015-09-24 — Considered under suspension of the rules. (consideration: CR H6202-6203)
+- 2015-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 323.
+- 2015-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-24 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6202)
+- 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6202)
