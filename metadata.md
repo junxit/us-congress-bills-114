@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3116
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3116
@@ -16,9 +16,10 @@ Quarterly Financial Report Reauthorization Act
 
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Quarterly Financial Report Reauthorization Act
 - 2015-09-24 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6198)
 - 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6198)
+- 2015-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
