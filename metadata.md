@@ -1,7 +1,7 @@
 ---
 measure: H.R. 322
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 322
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 16105 S
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 16105 S
 - 2015-09-24 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 507). (text: CR H6201)
 - 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 507).(text: CR H6201)
+- 2015-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
