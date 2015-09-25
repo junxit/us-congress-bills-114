@@ -28,3 +28,7 @@ Notwithstanding any other provision of law, to promote the efficient exploration
 ## § 4. Study and recommendations
 
 Not later than 120 days after the date of enactment of this Act, the Secretary of Energy shall conduct a study and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate recommendations on the appropriate size, composition, and purpose of the Strategic Petroleum Reserve.
+
+## § 5. Savings clause
+
+Nothing in this Act limits the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.) to prohibit exports.
