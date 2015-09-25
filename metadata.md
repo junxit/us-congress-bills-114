@@ -1,7 +1,7 @@
 ---
 measure: H.R. 558
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 558
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 55 Sout
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 55 Sout
 - 2015-09-24 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6204)
 - 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6204)
+- 2015-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
