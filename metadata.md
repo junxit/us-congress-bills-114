@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 213
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 213
@@ -16,7 +16,7 @@ A resolution designating October 30, 2015, as a national day of remembrance for 
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Corker, Bob [R-TN] (C001071)
@@ -27,6 +27,7 @@ A resolution designating October 30, 2015, as a national day of remembrance for 
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ A resolution designating October 30, 2015, as a national day of remembrance for 
 
 - 2015-06-24 — Introduced in Senate
 - 2015-06-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4607)
+- 2015-09-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6959)
+- 2015-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6959)
