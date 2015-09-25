@@ -1,7 +1,7 @@
 ---
 measure: S. 2082
 congress: 114
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -463,8 +463,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395` | strike | in section 3313(e)(2)(A)(iii), by striking the second period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | insert | in section 3313(g)(3)(A)(iii), by inserting a comma after “books”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | strike | in section 4102A(c)(9)(A)(ii)(III), by striking the quotation mark at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1712A` | amend | by amending the enumerator and section heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1712A` | strike | in subsection (b), by striking “(as that term is defined in section 1712A(a)(2)(B) of this title)”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395` | amend | by amending the enumerator and section heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395` | strike | in subsection (b), by striking “(as that term is defined in section 1712A(a)(2)(B) of this title)”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395` | insert | in section 7309(c)(1), by inserting “the” before “Veterans Health Administration”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395` | strike | in section 7401(3)(A)(ii), by striking “that”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395` | insert | in section 7683(d), by inserting a period at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
