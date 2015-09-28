@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 313
@@ -66,3 +66,9 @@ Wounded Warriors Federal Leave Act of 2015
 - 2015-06-25 — Placed on the Union Calendar, Calendar No. 132.
 - 2015-06-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-180.
 - 2015-06-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-180.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6268-6269)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 313.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Walberg moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6268)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6268)

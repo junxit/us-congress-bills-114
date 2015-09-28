@@ -29,7 +29,7 @@ This Act may be cited as the “Wounded Warriors Federal Leave Act of 2015”.
   >   - **(3)** the term “veteran” has the meaning given such term in section 101(2) of such title.
 
 - **(b)** *Clerical amendment* The table of sections for chapter 63 of title 5, United States Code, is amended by adding after the item relating to section 6328 the following:
-- **(c)** *Application* The amendments made by subsection (a) shall apply with respect to any employee (as that term is defined in section 6329(d)(1) of title 5, United States Code, as added by subsection (a)) hired on or after the date that is one year after the date of enactment of this Act.
+- **(c)** *Application* The amendments made by subsection (a) shall apply with respect to any employee (as that term is defined in section 6329(d)(1) of title 5, United States Code, as added by subsection (a)) hired on or after the date that is 1 year after the date of enactment of this Act.
 - **(d)** *Regulations* Not later than 9 months after the date of enactment of this Act—
   - **(1)** the Director of the Office of Personnel Management shall prescribe regulations with respect to the leave provided by the amendment in subsection (a) for employees, but not including employees of the United States Postal Service or the Postal Regulatory Commission; and
   - **(2)** the Postmaster General shall prescribe regulations for such leave with respect to officers and employees of the United States Postal Service and the Postal Regulatory Commission.
