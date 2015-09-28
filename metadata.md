@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3089
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3089
@@ -35,3 +35,9 @@ Grants Oversight and New Efficiency Act
 - 2015-09-18 — Placed on the Union Calendar, Calendar No. 200.
 - 2015-09-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-264.
 - 2015-09-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-264.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6271-6272)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3089.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2015-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6271)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6271)
