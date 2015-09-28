@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2786
@@ -24,6 +24,10 @@ Cross-Border Rail Security Act of 2015
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-09-28 — [House 114-1-520](votes/house-114-1-0520.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–0)
+
 ## Actions
 
 - 2015-06-15 — Introduced in House
@@ -36,3 +40,11 @@ Cross-Border Rail Security Act of 2015
 - 2015-07-28 — Placed on the Union Calendar, Calendar No. 176.
 - 2015-07-28 — Reported by the Committee on Homeland Security. H. Rept. 114-233.
 - 2015-07-28 — Reported by the Committee on Homeland Security. H. Rept. 114-233.
+- 2015-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-09-28 — Considered as unfinished business. (consideration: CR H6291)
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6284-6285)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2786.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Ms. McSally moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 520). (text: CR H6284)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 520).(text: CR H6284)
