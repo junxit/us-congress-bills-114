@@ -9,6 +9,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Fair Minimum Wage Act of 2007 to postpone a scheduled increase in the minimum wage applicable to American Samoa.
 
-## § 1. Minimum wage applicable to American Samoa
+## § 1. Minimum Wage for American Samoa
 
-Section 8103(b)(2)(C) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206(b)(2)(C) note) is amended by striking “and 2014” and inserting “2014, 2015, 2016, and 2017”.
+- **(a)** *Minimum wage* Paragraph (2) of section 8103(b) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206 note) is amended to read as follows:
+  > - **(2)** the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
+  >   - **(A)** the applicable wage rate in effect for each industry and classification as of September 29, 2015; and
+  >   - **(B)** increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning on December 31, 2016, and on December 31 of every third year thereafter, until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section.
+
+- **(b)** *GAO reports* Section 8104 of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206 note) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking “September 1, 2011” and inserting “April 1, 2017”; and
+    - **(B)** by striking the second sentence and inserting the following: “The Government Accountability Office shall submit a subsequent report not later than April 1, 2020.”;
+  - **(2)** in subsection (b), by striking “the study under subsection (a)” and inserting “any report under subsection (a)”; and
+  - **(3)** by adding at the end the following:
+    > - **(c)** *Report on alternative methods of increasing the minimum wage in American Samoa* Not later than 1 year after the date of enactment of this subsection, the Government Accountability Office shall transmit to Congress a report on alternative ways of increasing the minimum wage in American Samoa to keep pace with the cost of living in American Samoa and to eventually equal the minimum wage set forth in section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)).

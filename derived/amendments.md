@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,31 @@ to guess them.
 
 ### 29 U.S.C. § 206
 
-> Section 8103(b)(2)(C) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206(b)(2)(C) note) is amended by striking “and 2014” and inserting “2014, 2015, 2016, and 2017”.
+> by striking “September 1, 2011” and inserting “April 1, 2017”; and
 
 | | |
 |---|---|
-| Removed | `and 2014` |
-| Inserted | `2014, 2015, 2016, and 2017` |
+| Removed | `September 1, 2011` |
+| Inserted | `April 1, 2017` |
+
+### 29 U.S.C. § 206
+
+> in subsection (b), by striking “the study under subsection (a)” and inserting “any report under subsection (a)”; and
+
+| | |
+|---|---|
+| Removed | `the study under subsection (a)` |
+| Inserted | `any report under subsection (a)` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `29 U.S.C. § 206` | amend | Paragraph (2) of section 8103(b) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 206` | replace | by striking the second sentence and inserting the following: “The Government Accountability Office shall submit a subsequent report not later than April 1, 2020.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 206` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
