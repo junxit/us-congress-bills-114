@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3614
@@ -34,3 +34,10 @@ Airport and Airway Extension Act of 2015
 - 2015-09-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-09-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-09-28 — Considered under suspension of the rules. (consideration: CR H6272-6275)
+- 2015-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3614.
+- 2015-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-09-28 — Mr. LoBiondo moved to suspend the rules and pass the bill.
+- 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6272-6273)
+- 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6272-6273)
+- 2015-09-28 — Referred to the Subcommittee on Aviation.
