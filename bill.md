@@ -26,3 +26,5 @@ This Act may be cited as the “Protecting Affordable Coverage for Employees Act
   - **(2)** in paragraph (4), by striking “100” and inserting “50”; and
   - **(3)** by adding at the end the following new paragraph:
     > - **(7)** *State option to extend definition of small employer* Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+
+- **(c)** *Deposit of savings into Medicare Improvement Fund* Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$0” and inserting “$205,000,000”.
