@@ -1,7 +1,7 @@
 ---
 measure: H.R. 348
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 348
@@ -40,10 +40,11 @@ Responsibly And Professionally Invigorating Development Act of 2015
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Webster, Daniel [R-FL-10] (W000806)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Judiciary Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (11)
 
@@ -187,3 +188,4 @@ Responsibly And Professionally Invigorating Development Act of 2015
 - 2015-09-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2015-09-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 348.
 - 2015-09-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6255)
+- 2015-09-28 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
