@@ -1,7 +1,7 @@
 ---
 measure: S. 599
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 599
@@ -45,3 +45,5 @@ Improving Access to Emergency Psychiatric Care Act
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-101.
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-101.
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
+- 2015-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6979-6980; text as passed Senate: CR S6979-6980)
+- 2015-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6979-6980; text as passed Senate: CR S6979-6980)
