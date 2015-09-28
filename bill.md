@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2835
 
-> To actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.
+> To actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection officers.
 
 ## § 1. Short title
 
@@ -17,43 +17,38 @@ This Act may be cited as the “Border Jobs for Veterans Act of 2015”.
 
 Congress finds the following:
 
-- **(1)** Customs and Border Protection Officers at United States ports of entry carry out critical law enforcement duties associated with screening foreign visitors, returning United States citizens, and imported cargo entering the United States.
-- **(2)** It is in the national interest for United States ports of entry to be adequately staffed with Customs and Border Protection Officers in a timely fashion, including meeting the congressionally funded staffing target of 23,775 officers for fiscal year 2015.
+- **(1)** Customs and Border Protection officers at United States ports of entry carry out critical law enforcement duties associated with screening foreign visitors, returning United States citizens, and imported cargo entering the United States.
+- **(2)** It is in the national interest for United States ports of entry to be adequately staffed with Customs and Border Protection officers in a timely fashion, including meeting the congressionally funded staffing target of 23,775 officers for fiscal year 2015.
 - **(3)** An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
-- **(4)** Recruiting efforts and expedited hiring procedures should be undertaken to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection Officer positions.
+- **(4)** Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
 
 ## § 3. Expedited hiring of appropriate separating service members
 
-- **(a)** *Identification of transferable qualifications* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security, in conjunction with the Secretary of Defense, shall jointly identify Military Occupational Specialty Codes, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection Officers.
-- **(b)** *Hiring* The Secretary of Homeland Security shall consider hiring qualified candidates with the Military Occupational Specialty Codes, Air Force Specialty Codes, and Naval Enlisted Classifications and Officer Designators identified as transferable under subsection (a) who are eligible for veterans recruitment appointment authorized under section 4214 of title 38, United States Code.
+The Secretary of Homeland Security shall consider the expedited hiring of qualified candidates who have the ability to perform the essential functions of the position of a Customs and Border Protection officer and who are eligible for a veterans recruitment appointment authorized under section 4214 of title 38, United States Code.
 
-## § 4. Establishing a program for recruiting service members separating from military service for Customs and Border Protection Officer vacancies
+## § 4. Enhancements to existing programs to recruit service members separating from military service for Customs and Border Protection officer vacancies
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in conjunction with the Secretary of Defense, shall establish a program to actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.
-- **(b)** *Elements* The program established under subsection (a) shall—
-  - **(1)** include Customs and Border Protection Officer opportunities in relevant job assistance efforts under the Transition Assistance Program;
+- **(a)** *In general* The Secretary of Homeland Security, in consultation with the Secretary of Defense, and acting through existing programs, authorities, and agreements, where applicable, shall enhance the efforts of the Department of Homeland Security to recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection officers.
+- **(b)** *Elements* The enhanced recruiting efforts under subsection (a) shall—
+  - **(1)** include Customs and Border Protection officer opportunities in relevant job assistance efforts under the Transition Assistance Program;
   - **(2)** place U.S. Customs and Border Protection officials or other relevant Department of Homeland Security officials at recruiting events and jobs fairs involving members of the Armed Forces who are separating from military service;
   - **(3)** provide opportunities for local U.S. Customs and Border Protection field offices to partner with military bases in the region;
-  - **(4)** conduct outreach efforts to educate members of the Armed Forces with Military Occupational Specialty Codes, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection Officers;
-  - **(5)** require the Secretary of Defense and the Secretary of Homeland Security to work cooperatively to identify shared activities and opportunities for reciprocity related to steps in hiring U.S. Customs and Border Patrol officers with the goal of minimizing the time required to hire qualified applicants;
-  - **(6)** require the Secretary of Defense and the Secretary of Homeland Security to work cooperatively to ensure the streamlined interagency transfer of relevant background investigations and security clearances; and
-  - **(7)** include such other elements as may be necessary to ensure that members of the Armed Forces who are separating from military service are aware of opportunities to fill vacant Customs and Border Protection Officer positions.
+  - **(4)** include outreach efforts to educate members of the Armed Forces with Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection officers of available hiring opportunities to become Customs and Border Protection officers;
+  - **(5)** identify shared activities and opportunities for reciprocity related to steps in hiring Customs and Border Protection officers with the goal of minimizing the time required to hire qualified applicants;
+  - **(6)** ensure the streamlined interagency transfer of relevant background investigations and security clearances; and
+  - **(7)** include such other elements as may be necessary to ensure that members of the Armed Forces who are separating from military service are aware of opportunities to fill vacant Customs and Border Protection officer positions.
 
 ## § 5. Report to Congress
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and by December 31 of each year thereafter, the Secretary of Homeland Security and the Secretary of Defense shall jointly submit a report to the appropriate congressional committees that includes a description and assessment of the program established under section 4.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and by December 31 of each of the next 3 years thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on Homeland Security and the Committee on Armed Services of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate that includes a description and assessment of the efforts of the Department of Homeland Security to hire members of the Armed Forces who are separating from military service as Customs and Border Protection officers under section 4.
 - **(b)** *Content* The report required under subsection (a) shall include—
-  - **(1)** a detailed description of the program established under section 4, including—
-    - **(A)** programmatic elements;
-    - **(B)** goals associated with those elements; and
-    - **(C)** a description of how the elements and goals will assist in meeting statutorily mandated staffing levels and agency hiring benchmarks;
-  - **(2)** a detailed description of the program elements that have been implemented under section 4;
-  - **(3)** a detailed summary of the actions taken under section 4 to implement such program elements;
-  - **(4)** the number of separating service members made aware of Customs and Border Protection Officer vacancies;
-  - **(5)** the Military Occupational Specialty Codes, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies identified as transferable under section 3(a) and a rationale for such identifications;
-  - **(6)** the number of Customs and Border Protection Officer vacancies filled with separating service members;
-  - **(7)** the number of Customs and Border Protection Officer vacancies filled with separating service members under Veterans Recruitment Appointment authorized under section 4214 of title 38, United States Code; and
-  - **(8)** the results of any evaluations or considerations of additional elements included or not included in the program established under section 4.
+  - **(1)** a detailed description of the efforts to implement section 4, including—
+    - **(A)** elements of the enhanced recruiting efforts and the goals associated with such elements; and
+    - **(B)** a description of how the elements and goals referred to in subparagraph (A) will assist in meeting statutorily mandated staffing levels and agency hiring benchmarks;
+  - **(2)** a detailed description of the efforts that have been undertaken under section 4;
+  - **(3)** the estimated number of separating service members made aware of Customs and Border Protection officer vacancies;
+  - **(4)** the number of Customs and Border Protection officer vacancies filled with separating service members; and
+  - **(5)** the number of Customs and Border Protection officer vacancies filled with separating service members under Veterans Recruitment Appointment authorized under section 4214 of title 38, United States Code.
 
 ## § 6. Rules of construction
 
