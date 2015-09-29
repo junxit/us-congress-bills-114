@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1624
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1624
@@ -270,3 +270,4 @@ Protecting Affordable Coverage for Employees Act
 - 2015-09-28 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2015-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6265)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6265)
+- 2015-09-29 — Received in the Senate, read twice.
