@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2061
@@ -195,9 +195,10 @@ Equitable Access to Care and Health Act
 - Rep. O'Rourke, Beto [D-TX-16] (O000170)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -215,3 +216,4 @@ Equitable Access to Care and Health Act
 - 2015-09-28 — Placed on the Union Calendar, Calendar No. 204.
 - 2015-09-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-268.
 - 2015-09-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-268.
+- 2015-09-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
