@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

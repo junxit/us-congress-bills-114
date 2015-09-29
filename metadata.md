@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 313
@@ -52,9 +52,10 @@ Wounded Warriors Federal Leave Act of 2015
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Wounded Warriors Federal Leave Act of 2015
 - 2015-09-28 — Mr. Walberg moved to suspend the rules and pass the bill.
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6268)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6268)
+- 2015-09-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
