@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3495
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 1396a
 
-> by striking “or by a provider or supplier” and inserting “, by a provider or supplier”; and
+> in subsection (a)(23), by striking “subsection (g)” and inserting “subsection (g), subsection (ll),”; and
 
 | | |
 |---|---|
-| Removed | `or by a provider or supplier` |
-| Inserted | `, by a provider or supplier` |
+| Removed | `subsection (g)` |
+| Inserted | `subsection (g), subsection (ll),` |
 
 ## Stated, not applied
 
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1396a` | insert | by inserting before the semicolon at the end “, or by any individual or entity based on the individual’s or entity’s involvement in abortions”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -13,9 +13,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Women’s Public Health and Safety Act”.
 
-## § 2. Increasing State flexibility in excluding providers who are involved in abortions
+## § 2. Increasing State flexibility in determining participation of providers who perform, or participate in the performance of, abortions
 
-Section 1902(a)(23) of the Social Security Act (42 U.S.C. 1396a(a)(23)) is amended—
+Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended—
 
-- **(1)** by striking “or by a provider or supplier” and inserting “, by a provider or supplier”; and
-- **(2)** by inserting before the semicolon at the end “, or by any individual or entity based on the individual’s or entity’s involvement in abortions”.
+- **(1)** in subsection (a)(23), by striking “subsection (g)” and inserting “subsection (g), subsection (ll),”; and
+- **(2)** by adding at the end the following new subsection:
+  > - **(ll)** *Rules with respect to determination of participation of providers who perform, or participate in the performance of, abortions*
+  >   - **(1)** *In general* Beginning October 1, 2015, subject to paragraph (2), for purposes of this title, a State, at its option, may establish criteria with respect to the participation under the State plan (or under a waiver of the plan) of an institution, agency, entity, or person who performs, or participates in the performance of, abortions.
+  >   - **(2)** *Exception* Paragraph (1) shall not apply to an abortion—
+  >     - **(A)** if the pregnancy is the result of an act of rape or incest; or
+  >     - **(B)** in the case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself.
+  >   - **(3)** *Definitions* For purposes of this subsection, the terms “institution”, “agency”, or “entity” mean the entire legal institution, agency, or entity, or any part thereof, including any institution, agency, or entity that controls, is controlled by, or is under common control with such institution, agency, or entity.
