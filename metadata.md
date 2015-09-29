@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3594
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3594
@@ -51,3 +51,4 @@ Federal Perkins Loan Program Extension Act of 2015
 - 2015-09-28 — Mr. Bishop (MI) moved to suspend the rules and pass the bill.
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6279)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6279)
+- 2015-09-29 — Received in the Senate, read twice.

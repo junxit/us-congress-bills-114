@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3594
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
