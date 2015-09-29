@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 313
@@ -74,3 +74,14 @@ Wounded Warriors Federal Leave Act of 2015
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6268)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6268)
 - 2015-09-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-26 — Passed Senate without amendment by Unanimous Consent.
+- 2015-10-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2015-10-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7495)
+- 2015-10-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7495)
+- 2015-10-27 — Message on Senate action sent to the House.
+- 2015-10-28 — Presented to President.
+- 2015-10-28 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-75.
+- 2015-11-05 — Became Public Law No: 114-75.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.
