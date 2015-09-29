@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2617
@@ -31,3 +31,4 @@ An act to amend the Fair Minimum Wage Act of 2007 to reduce a scheduled increase
 - 2015-09-28 — Mr. Bishop (MI) moved to suspend the rules and pass the bill, as amended.
 - 2015-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6281)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6281)
+- 2015-09-29 — Received in the Senate, read twice.
