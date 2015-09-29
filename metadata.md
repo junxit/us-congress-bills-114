@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3614
@@ -41,3 +41,6 @@ Airport and Airway Extension Act of 2015
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6272-6273)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6272-6273)
 - 2015-09-28 — Referred to the Subcommittee on Aviation.
+- 2015-09-29 — Message on Senate action sent to the House.
+- 2015-09-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6989)
+- 2015-09-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6989)
