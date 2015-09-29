@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2786
@@ -20,9 +20,10 @@ Cross-Border Rail Security Act of 2015
 
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Cross-Border Rail Security Act of 2015
 - 2015-09-28 — Ms. McSally moved to suspend the rules and pass the bill.
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 520). (text: CR H6284)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 520).(text: CR H6284)
+- 2015-09-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
