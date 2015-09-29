@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3614
@@ -44,3 +44,9 @@ Airport and Airway Extension Act of 2015
 - 2015-09-29 — Message on Senate action sent to the House.
 - 2015-09-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6989)
 - 2015-09-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6989)
+- 2015-09-30 — Became Public Law No: 114-55.
+- 2015-09-30 — Became Public Law No: 114-55.
+- 2015-09-30 — Presented to President.
+- 2015-09-30 — Presented to President.
+- 2015-09-30 — Signed by President.
+- 2015-09-30 — Signed by President.
