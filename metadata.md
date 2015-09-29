@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2835
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2835
@@ -64,3 +64,4 @@ Border Jobs for Veterans Act of 2015
 - 2015-09-28 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
 - 2015-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 519). (text: CR H6285)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 519).(text: CR H6285)
+- 2015-09-29 — Received in the Senate, read twice.
