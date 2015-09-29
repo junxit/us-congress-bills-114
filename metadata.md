@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1624
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1624
@@ -271,3 +271,12 @@ Protecting Affordable Coverage for Employees Act
 - 2015-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6265)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6265)
 - 2015-09-29 — Received in the Senate, read twice.
+- 2015-10-01 — Message on Senate action sent to the House.
+- 2015-10-01 — Passed Senate without amendment by Voice Vote. (consideration: CR S7084)
+- 2015-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7084)
+- 2015-10-05 — Presented to President.
+- 2015-10-05 — Presented to President.
+- 2015-10-07 — Became Public Law No: 114-60.
+- 2015-10-07 — Became Public Law No: 114-60.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
