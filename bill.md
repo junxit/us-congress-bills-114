@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3645
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3645
+
+> To amend the Migratory Bird Hunting and Conservation Stamp Act to give the Secretary of the Interior, with the approval of the Migratory Bird Conservation Commission, the authority to periodically increase the price of Migratory Bird Hunting and Conservation Stamps to account for inflation in funding the acquisition of interests in land for the conservation of migratory birds, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Duck Stamp Price Stability Act of 2015”.
+
+## § 2. Periodic increase in price of migratory bird hunting and conservation stamp to account for inflation
+
+Section 2 of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718b) is amended—
+
+- **(1)** in subsection (b), by striking “The Postal” and inserting “Except as provided in subsections (c) and (d), the Postal”; and
+- **(2)** by adding at the end of the following:
+  > - **(d)** *Increase in price of stamp*
+  >   - **(1)** *Increase authorized* The Secretary may, after notice and public comment, increase the price of each stamp sold under this section by an amount not to exceed $10 for a hunting year if the Secretary determines the increase—
+  >     - **(A)** is commensurate with the level of inflation as determined by the adjustments in the Consumer Price Index since the last increase; and
+  >     - **(B)** is approved unanimously by the Migratory Bird Conservation Commission.
+  >   - **(2)** *Effective date of increase* An increase in price under paragraph (1) shall take effect—
+  >     - **(A)** no earlier than 2 years after the effective date of the last increase in price; and
+  >     - **(B)** no later than January 1 of the calendar year preceding the hunting year.
