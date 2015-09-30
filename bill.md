@@ -1,0 +1,23 @@
+---
+legis-num: S. 2108
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2108
+
+> To amend title XVIII of the Social Security Act to provide for an extension of certain long-term care hospital payment rules and the moratorium on the establishment of certain hospitals and facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Preserving Patient Access to Post-Acute Hospital Care Act of 2015”.
+
+## § 2. Extension of certain LTCH payment rules and moratorium on the establishment of certain hospitals and facilities
+
+- **(a)** *Extension of certain payment rules*
+  - **(1)** *Payment for hospitals-within-hospitals* Paragraph (2)(C) of section 114(c) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (42 U.S.C. 1395ww note), as amended by sections 3106(a) and 10312(a) of Public Law 111–148 and section 1206(b)(1)(A) of the Pathway for SGR Reform Act of 2013 (division B of Public Law 113–67), is amended by striking “for a 9-year period” and inserting “and before October 1, 2018”.
+  - **(2)** *25 percent patient threshold payment adjustment* Section 114(c)(1)(A) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (42 U.S.C. 1395ww note), as amended by sections 3106(a) and 10312(a) of Public Law 111–148 and section 1206(b)(1)(B) of the Pathway for SGR Reform Act of 2013 (division B of Public Law 113–67), is amended by striking “for a 9-year period” and inserting “and before October 1, 2018”.
+- **(b)** *Extension of moratorium on establishment of and increase in beds for LTCHs* Section 114(d) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (42 U.S.C. 1395ww note), as amended by sections 3106(b) and 10312(b) of Public Law 111–148, section 1206(b)(2) of the Pathway for SGR Reform Act of 2013 (division B of Public Law 113–67), and section 112 of the Protecting Access to Medicare Act of 2014 (Public Law 113–93), is amended—
+  - **(1)** in paragraph (1), in the matter preceding subparagraph (A), by striking “September 30, 2017” and inserting “September 30, 2019”; and
+  - **(2)** in paragraph (6), by striking “September 30, 2017” and inserting “September 30, 2019”.
