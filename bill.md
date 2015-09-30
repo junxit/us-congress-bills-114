@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2617
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2617
 
-That the bill from the House of Representatives (H.R. 2617) entitled “An Act to amend the Fair Minimum Wage Act of 2007 to postpone a scheduled increase in the minimum wage applicable to American Samoa.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Fair Minimum Wage Act of 2007 to reduce a scheduled increase in the minimum wage applicable to American Samoa.
 
 ## § 1. Minimum wage for American Samoa
 

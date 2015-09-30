@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2617
@@ -45,3 +45,14 @@ An act to amend the Fair Minimum Wage Act of 2007 to reduce a scheduled increase
 - 2015-09-30 — Senate amendment proposed (on the floor): Amendment SA 2706 proposed by Senator McConnell for Senator Isakson.(consideration: CR S7052; text: CR S7052)
 - 2015-09-30 — Senate amendment submitted
 - 2015-09-30 — Senate amendment submitted
+- 2015-10-01 — Message on Senate action sent to the House.
+- 2015-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-01 — Mr. Thompson (PA) asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H6779-6780)
+- 2015-10-01 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendments: CR H6779-6780)
+- 2015-10-01 — Presented to President.
+- 2015-10-01 — Presented to President.
+- 2015-10-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendments: CR H6779-6780)
+- 2015-10-07 — Became Public Law No: 114-61.
+- 2015-10-07 — Became Public Law No: 114-61.
+- 2015-10-07 — Signed by President.
+- 2015-10-07 — Signed by President.
