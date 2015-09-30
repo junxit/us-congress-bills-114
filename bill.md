@@ -2,7 +2,7 @@
 legis-num: H. RES. 448
 congress: 114th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 448
