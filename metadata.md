@@ -1,7 +1,7 @@
 ---
 measure: S. 2078
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2078
@@ -26,3 +26,5 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - 2015-09-24 — Committee on Foreign Relations. Original measure reported to Senate by Senator Corker. Without written report.
 - 2015-09-24 — Introduced in Senate
 - 2015-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 238.
+- 2015-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7051-7052; text as passed Senate: CR S7051-7052)
+- 2015-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7051-7052; text as passed Senate: CR S7051-7052)
