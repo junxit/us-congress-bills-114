@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1101a` | insert | Section 303903(3) of title 54, United States Code, is amended by inserting “to Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a))),” after “universities,”. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1101a` | insert | Section 303903(3) of title 54, United States Code, is amended by inserting “to Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a))) and Asian American and Native American P… | the bill quotes the text inserted but describes where it goes |
