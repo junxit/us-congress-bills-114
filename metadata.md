@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3495
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3495
@@ -76,3 +76,4 @@ Women's Public Health and Safety Act
 - 2015-09-29 — Rule provides for consideration of H.R. 3495 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2015-09-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6335)
 - 2015-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H6334)
+- 2015-09-30 — Received in the Senate.
