@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
