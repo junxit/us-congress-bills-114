@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 6809` | replace | Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) is amended by striking all that follows after “shall terminate” and inserting “September 30, 2017.”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) is amended by striking all that follows after “shall terminate” and inserting “September 30, 2017.”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3096(2) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 is amended by inserting “for fiscal year 2015” after “$37,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of section 163 of Public Law 111–242, as amended, is further amended by striking “2015–2016” and inserting “2016–2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 101 shall be applied by assuming that section 139 of Public Law 113–164 was enacted as part of division G of Public Law 113–235, and section 139 of Public Law 113–164 shall be applied by adding at the end the following: “and of t… | the bill names no machine-readable US Code section |

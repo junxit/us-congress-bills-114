@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 719
