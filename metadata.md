@@ -1,7 +1,7 @@
 ---
 measure: S. 750
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 750
@@ -28,3 +28,7 @@ Arizona Borderlands Protection and Preservation Act
 
 - 2015-03-17 — Introduced in Senate
 - 2015-03-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-05-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-150. Additional views filed.
+- 2015-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-150. Additional views filed.
+- 2015-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
