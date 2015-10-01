@@ -15,8 +15,17 @@ This Act may be cited as the “Justice for Victims of Iranian Terrorism Act”.
 
 ## § 2. Prohibition on lifting of sanctions on Iran pending payment of certain judgments
 
-- **(a)** *In general* The President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of statutory sanctions with respect to Iran under any provision of law, or refrain from applying any such sanctions pursuant to an agreement described in section 135(a) of the Atomic Energy Act of 1954 (42 U.S.C. 2160e(a)), until the President has certified to the Congress that the Government of Iran has paid each judgment against Iran (whether or not the judgment was also entered against another defendant) that is described in subsection (b).
-- **(b)** *Judgments* A judgment is a judgment described in this subsection if the judgment relates to a claim—
-  - **(1)** that was brought against Iran, or Iran and any other country;
-  - **(2)** for which Iran was not immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28, United States Code; and
-  - **(3)** that was entered during the period beginning on March 4, 2000, and ending on May 22, 2015.
+- **(a)** *In general* Notwithstanding any other provision of law, the President may not take any of the actions described in subsection (b) until the President has certified to the Congress that the Government of Iran has paid each judgment against Iran that is described in subsection (c).
+- **(b)** *Actions described*
+  - **(1)** *In general* The actions described in this subsection are the following:
+    - **(A)** To waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions described in paragraph (2) or refrain from applying any such sanctions.
+    - **(B)** To remove a foreign person listed in Attachment 3 or Attachment 4 to Annex II of the Joint Comprehensive Plan of Action from the list of specially designated nationals and blocked persons maintained by the Office of Foreign Asset Control of the Department of the Treasury.
+  - **(2)** *Sanctions described* The sanctions described in this paragraph are—
+    - **(A)** the sanctions described in sections 4 through 7.9 of Annex II of the Joint Comprehensive Plan of Action; and
+    - **(B)** the sanctions described in any other agreement related to the nuclear program of Iran that includes the United States, commits the United States to take action, or pursuant to which the United States commits or otherwise agrees to take action, regardless of the form it takes, whether a political commitment or otherwise, and regardless of whether it is legally binding or not.
+- **(c)** *Judgments* A judgment is a judgment described in this subsection if it is a final judgment entered by the courts of the United States or of the States—
+  - **(1)** that relates to a claim—
+    - **(A)** that was brought against Iran or its political subdivisions, agencies, or instrumentalities (regardless of whether the claim was also brought, or the resulting judgment was also entered, against another defendant); and
+    - **(B)** for which the court determined that Iran (or its political subdivisions, agencies, or instrumentalities, as the case may be) was not immune from the jurisdiction of the courts of the United States or of the States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28, United States Code; and
+  - **(2)** that was entered during the period beginning on April 24, 1996, and ending on the date of the enactment of this Act.
+- **(d)** *Joint Comprehensive Plan of Action Described* In this section, the term “Joint Comprehensive Plan of Action” means the Joint Comprehensive Plan of Action, agreed to at Vienna on July 14, 2015, by Iran and by the People’s Republic of China, France, Germany, the Russian Federation, the United Kingdom and the United States, with the High Representative of the European Union for Foreign Affairs and Security Policy, and all implementing materials and agreements related to the Joint Comprehensive Plan of Action.
