@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 81
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 81
@@ -26,3 +26,6 @@ Providing for corrections to the enrollment of the bill H.R. 1735.
 - 2015-10-01 — On agreeing to the resolution Agreed to without objection. (text: CR H6779)
 - 2015-10-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6779)
 - 2015-10-01 — Received in the Senate.
+- 2015-10-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S7225)
+- 2015-10-07 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S7225)
+- 2015-10-08 — Message on Senate action sent to the House.
