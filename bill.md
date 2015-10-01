@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3665
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3665
+
+> To authorize appropriations for the university transportation centers program for fiscal years 2016 through 2021, and for other purposes.
+
+## § 1. University transportation centers program
+
+- **(a)** *In general* There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out the university transportation centers program under section 5505 of title 49, United States Code, $72,500,000 for each of fiscal years 2016 through 2021.
+- **(b)** *Administration* The Federal Highway Administration shall administer the program described in subsection (a).
+- **(c)** *Applicability of title 23, United States Code* Funds authorized to be appropriated by subsection (a) shall—
+  - **(1)** be available for obligation in the same manner as if those funds were apportioned under chapter 1 of title 23, United States Code;
+  - **(2)** remain available until expended; and
+  - **(3)** not be transferable.
