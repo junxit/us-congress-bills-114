@@ -1,7 +1,7 @@
 ---
 measure: S. 1893
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1893
@@ -16,7 +16,7 @@ Mental Health Awareness and Improvement Act of 2015
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (18)
+## Cosponsors (22)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
@@ -36,6 +36,10 @@ Mental Health Awareness and Improvement Act of 2015
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (1)
 
@@ -45,3 +49,7 @@ Mental Health Awareness and Improvement Act of 2015
 
 - 2015-07-29 — Introduced in Senate
 - 2015-07-29 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2015-09-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-10-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2015-10-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2015-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
