@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 449
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 449
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 3457) to prohibit the lifting of s
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2015-10-01 — [House 114-1-529](votes/house-114-1-0529.md) — On Ordering the Previous Question — **Passed** (237–180)
+- 2015-10-01 — [House 114-1-530](votes/house-114-1-0530.md) — On Agreeing to the Resolution — **Passed** (241–181)
+
 ## Actions
 
 - 2015-09-30 — Introduced in House
@@ -27,3 +32,10 @@ Providing for consideration of the bill (H.R. 3457) to prohibit the lifting of s
 - 2015-09-30 — The House Committee on Rules reported an original measure, H. Rept. 114-273, by Mr. Byrne.
 - 2015-09-30 — The House Committee on Rules reported an original measure, H. Rept. 114-273, by Mr. Byrne.
 - 2015-09-30 — The resolution provides for consideration of H.R. 3457, consideration of the conference report to accompany H.R. 1735 and for motions to suspend the rules.
+- 2015-10-01 — Considered as privileged matter. (consideration: CR H6752-6761)
+- 2015-10-01 — DEBATE - The House proceeded with one hour of debate on H. Res. 449.
+- 2015-10-01 — DEBATE - The House resumed with debate on H. Res. 449.
+- 2015-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-01 — On agreeing to the resolution Agreed to by recorded vote: 241 - 181 (Roll no. 530). (text: CR H6752)
+- 2015-10-01 — On ordering the previous question Agreed to by the Yeas and Nays: 237 - 180 (Roll no. 529). (consideration: CR H6759-6760)
+- 2015-10-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 241 - 181 (Roll no. 530).(text: CR H6752)
