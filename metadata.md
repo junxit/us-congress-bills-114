@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3192
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3192
@@ -29,3 +29,9 @@ Homebuyers Assistance Act
 - 2015-07-23 — Introduced in House
 - 2015-07-23 — Introduced in House
 - 2015-07-23 — Referred to the House Committee on Financial Services.
+- 2015-07-28 — Committee Consideration and Mark-up Session Held.
+- 2015-07-29 — Committee Consideration and Mark-up Session Held.
+- 2015-07-29 — Ordered to be Reported by the Yeas and Nays: 45 - 13.
+- 2015-10-01 — Placed on the Union Calendar, Calendar No. 210.
+- 2015-10-01 — Reported by the Committee on Financial Services. H. Rept. 114-278.
+- 2015-10-01 — Reported by the Committee on Financial Services. H. Rept. 114-278.
