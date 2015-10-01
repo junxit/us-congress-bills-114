@@ -16,37 +16,48 @@ This Act may be cited as the “Supporting Transparent Regulatory and Environmen
 ## § 2. Publication of scientific products for rules and related environmental impact statements, environmental assessments, and economic assessments
 
 - **(a)** *Requirement* Title V of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1251 et seq.) is amended by adding at the end the following:
-  > ## § 530. Publication of scientific products for proposed rules and related environmental impact statements, environmental assessments, and economic assessments
+  > ## § 530. Publication of scientific products for rules and related environmental analyses, and economic assessments
   >
   > - **(a)** *Requirement*
-  >   - **(1)** *In general* The Secretary shall make publicly available, by online publication and in the Federal Register, 90 days before the publication of any draft, supplemental, final, or emergency rule under this Act, or any related environmental analysis or economic assessment, each scientific product the Secretary relied on in developing the rule, environmental analysis, or economic assessment.
-  >   - **(2)** *Federally funded scientific products* For those scientific products receiving Federal funds in part, or in full, the Secretary shall also make publicly available—
-  >     - **(A)** the raw data used for the federally funded scientific product; and
-  >     - **(B)** background information of the authors of the scientific study.
+  >   - **(1)** *In general* The Secretary shall make publicly available 90 days before the publication of any draft, proposed, supplemental, final, or emergency rule under this Act, or any related environmental analysis, economic assessment, policy, or guidance, each scientific product the Secretary relied on in developing the rule, environmental analysis, economic assessment, policy, or guidance.
+  >   - **(2)** *Federally funded scientific products* For those scientific products receiving Federal funds in part, or in full, the Secretary shall also make publicly available the raw data used for the federally funded scientific product.
   > - **(b)** *Compliance*
-  >   - **(1)** *In general* Failure to make publicly available any scientific product 90 days prior to the publication of—
-  >     - **(A)** any draft, or supplemental rule, environmental analysis, or economic assessment shall extend by one day the notice and comment period for each day such scientific study is not made available; or
-  >     - **(B)** any final or emergency rule shall delay the effective date of the final rule by 60 days plus each day the scientific product is withheld.
-  >   - **(2)** *Delay longer than 6 months* If the Secretary withholds any scientific product for longer than 6 months, the Secretary shall withdraw the rule, environmental analysis, or economic assessment.
+  >   - **(1)** *In general* Failure to make publicly available any scientific product 90 days before the publication of—
+  >     - **(A)** any draft, proposed, or supplemental rule, environmental analysis, economic assessment, policy or guidance shall extend by one day the comment period for each day such scientific product is not made available; or
+  >     - **(B)** any final or emergency rule shall delay the effective date of the final or emergency rule by 60 days plus each day the scientific product is withheld.
+  >   - **(2)** *Delay longer than 6 months* If the Secretary fails to make publicly available any scientific product for longer than 6 months, the Secretary shall withdraw the rule, environmental analysis, economic assessment, policy, or guidance.
+  >   - **(3)** *Exception* This subsection shall not apply if a delay in the publication of a rule will pose an imminent and severe threat to human life.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** *Publicly available* The term “publicly available” means published on the Internet via a publicly accessible website under the Secretary’s control.
+  >   - **(2)** *Environmental analysis* The term “environmental analysis” means environmental impact statements and environmental assessments prepared pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+  >   - **(3)** *Scientific product* The term “scientific product” means any product that—
+  >     - **(A)** employs the scientific method for inventorying, monitoring, experimenting, studying, researching, or modeling purposes; and
+  >     - **(B)** is relied upon by the Secretary in the development of any rule, environmental analysis, economic assessment, policy, or guidance.
+  >   - **(4)** *Raw data* The term “raw data”—
+  >     - **(A)** except as provided in subparagraph (B), means any computational process, or quantitative or qualitative data, that is relied on in a scientific product to support a finding or observation; and
+  >     - **(B)** does not include such data or processes—
+  >       - **(i)** that are protected by copyright;
+  >       - **(ii)** that contain personally identifiable information, sensitive intellectual property, trade secrets, or business-sensitive information; or
+  >       - **(iii)** to the extent that such data and processes are covered by the provisions of part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.), regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note), and the provisions of subtitle D of title XIII of the Health Information Technology for Economic and Clinical Health Act (42 U.S.C. 17921 et seq.).
 
 - **(b)** *Clerical amendment* The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following:
 
-## § 3. Study of the “Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values” final rule published June 30, 1983 (48 Fed. Reg. 30312 et seq.), and amended September 30, 1983 (48 Fed. Reg. 44777 et seq.)
+## § 3. Study of the effectiveness of certain rule
 
 - **(a)** *Requirement* Title VII of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1291 et seq.) is amended by adding at the end the following:
-  > ## § 722. Study of the “Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values” final rule published June 30, 1983 (48 Fed. Reg. 30312 et seq.), and amended September 30, 1983 (48 Fed. Reg. 44777 et seq.)
+  > ## § 722. Study of the effectiveness of certain rule
   >
-  > - **(a)** *Study* No later than 90 days after the date of the enactment of the STREAM Act, the Secretary of the Interior, in consultation with the Interstate Mining Compact Commission, shall contract with the National Academy of Sciences, for execution by the Board on Earth Sciences and Resources, to conduct a detailed, comprehensive study of the effectiveness of the “Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values” Final Rule published June 30, 1983 (48 Fed. Reg. 30312 et seq.), and amended September 30, 1983 (48 Fed. Reg. 44777 et seq.), in protecting perennial and intermittent streams through the use of stream buffer zones.
-  > - **(b)** *Report* Not later than 2 years after execution of the contract under subsection (a), the Board on Earth Sciences and Resources shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, appropriate Federal agencies, and the Governor of each of the States represented on the Interstate Mining Compact Commission a report containing—
-  >   - **(1)** the findings of the study conducted under subsection (a); and
-  >   - **(2)** recommendations, if any, regarding changes that would improve the effectiveness of the permitted activities as covered by the rule described in subsection (a).
+  > - **(a)** *Study* No later than 90 days after the date of the enactment of the STREAM Act, the Secretary of the Interior, in consultation with the Interstate Mining Compact Commission and its State members, shall enter into an arrangement with the National Academy of Sciences, for execution by the Board on Earth Sciences and Resources, to conduct a comprehensive study on the regulatory effectiveness of the “Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values” Final Rule published June 30, 1983 (48 Fed. Reg. 30312), and amended September 30, 1983 (48 Fed. Reg. 44777), in protecting perennial and intermittent streams through the use of stream buffer zones. If the study determines the existence of regulatory inefficiencies, then the study shall include suggestions and recommendations for increasing the effectiveness of the rule.
+  > - **(b)** *Results of the study* Not later than 2 years after execution of the arrangements under subsection (a), the Board on Earth Sciences and Resources shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, appropriate Federal agencies, and the Governor of each of the States represented on the Interstate Mining Compact Commission the results of the study conducted under subsection (a).
   > - **(c)** *Funding* There is authorized to be appropriated to the Secretary of the Interior $1,000,000 for fiscal year 2016 and $1,000,000 for fiscal year 2017 for the purposes of this section.
-  > - **(d)** *Prohibition on new regulations* The Secretary may not issue any proposed or final regulations under this Act relating to stream buffer zones or stream protection until one year after the publication of the report described in subsection (b). If the Secretary proposes any such regulations after the date of publication of the report, the Secretary shall take into consideration the findings and recommendations of the report.
+  > - **(d)** *Prohibition on new regulations* The Secretary shall not issue any final or other regulations pertaining to the proposed rule entitled “Stream Protection Rule” (80 Fed. Reg. 44436) or relating to stream buffer zones, until one year after the Secretary has submitted the results of the study in accordance with subsection (b). If the Secretary proposes any such regulations after such submission, the Secretary shall take into consideration the findings of the study.
 
 - **(b)** *Clerical amendment* The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following:
 
-## § 4. Amendment to surface mining control and reclamation act of 1977
+## § 4. Compliance with other Federal laws
 
-Section 702 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1292) is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by inserting after subsection (b) the following:
+Section 702 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1291) is amended—
 
-> - **(c)** *Compliance with other Federal laws* Nothing in this Act authorizes the Secretary to take any action by rule, regulation, notice, or order that duplicates, enforces, or determines compliance with any of the Acts listed in subsection (a) or any regulation or rule promulgated thereunder.
+- **(1)** by redesignating subsections (c) and (d) as subsection (d) and (e), respectively; and
+- **(2)** by inserting after subsection (b) the following:
+  > - **(c)** *Compliance with other federal laws* Nothing in this Act authorizes the Secretary to take any action by rule, regulation, notice, policy, guidance, or order that duplicates, implements, interprets, enforces, or determines any action taken under an Act referred to in subsection (a) or any regulation or rule promulgated thereunder.

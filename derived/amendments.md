@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,4 +35,5 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 1251` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1291` | add-at-end | Title VII of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1291 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1291` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1292` | redesignate | Section 702 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1292) is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1291` | redesignate | by redesignating subsections (c) and (d) as subsection (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1291` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
