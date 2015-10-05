@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3457
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3457
@@ -137,9 +137,10 @@ Justice for Victims of Iranian Terrorism Act
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -161,3 +162,4 @@ Justice for Victims of Iranian Terrorism Act
 - 2015-10-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 251 - 173 (Roll no. 533).(text: CR H6761)
 - 2015-10-01 — The previous question was ordered pursuant to the rule. (consideration: CR H6768)
 - 2015-10-01 — The resolution provides for consideration of H.R. 3457, consideration of the conference report to accompany H.R. 1735 and for motions to suspend the rules.
+- 2015-10-05 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
