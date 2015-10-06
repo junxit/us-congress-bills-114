@@ -15,11 +15,11 @@ This Act may be cited as the “Disclosure Modernization and Simplification Act 
 
 ## § 2. Summary page for form 10–K
 
-Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.
+Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 C.F.R. 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.
 
 ## § 3. Improvement of regulation S–K
 
-Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
+Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 C.F.R. 229.10 et seq.)—
 
 - **(1)** to further scale or eliminate requirements of regulation S–K, in order to reduce the burden on emerging growth companies, accelerated filers, smaller reporting companies, and other smaller issuers, while still providing all material information to investors;
 - **(2)** to eliminate provisions of regulation S–K, required for all issuers, that are duplicative, overlapping, outdated, or unnecessary; and
@@ -27,7 +27,7 @@ Not later than the end of the 180-day period beginning on the date of the enactm
 
 ## § 4. Study on modernization and simplification of regulation S–K
 
-- **(a)** *Study* The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 CFR 229.10 et seq.). Such study shall—
+- **(a)** *Study* The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 C.F.R. 229.10 et seq.). Such study shall—
   - **(1)** determine how best to modernize and simplify such requirements in a manner that reduces the costs and burdens on issuers while still providing all material information;
   - **(2)** emphasize a company by company approach that allows relevant and material information to be disseminated to investors without boilerplate language or static requirements while preserving completeness and comparability of information across registrants; and
   - **(3)** evaluate methods of information delivery and presentation and explore methods for discouraging repetition and the disclosure of immaterial information.
