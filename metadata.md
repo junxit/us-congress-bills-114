@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 34
@@ -48,3 +48,12 @@ version: Reported to Senate
 - 2015-09-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-146.
 - 2015-09-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-146.
 - 2015-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
+- 2015-10-06 — Amendment SA 2709 agreed to in Senate by Unanimous Consent.
+- 2015-10-06 — Amendment SA 2709 proposed by Senator Daines for Senator Thune. (consideration: CR S7171) In the nature of a substitute.
+- 2015-10-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7167-7171)
+- 2015-10-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-10-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-10-06 — Senate amendment agreed to: Amendment SA 2709 agreed to in Senate by Unanimous Consent.
+- 2015-10-06 — Senate amendment proposed (on the floor): Amendment SA 2709 proposed by Senator Daines for Senator Thune.(consideration: CR S7171)
+- 2015-10-06 — Senate amendment submitted
+- 2015-10-06 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S7167-7171)
