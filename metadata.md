@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2288
@@ -26,3 +26,11 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2015-05-13 — Introduced in House
 - 2015-05-13 — Referred to the House Committee on Natural Resources.
 - 2015-05-13 — Sponsor introductory remarks on measure. (CR E691)
+- 2015-06-04 — Referred to the Subcommittee on Federal Lands.
+- 2015-09-09 — Committee Consideration and Mark-up Session Held.
+- 2015-09-10 — Committee Consideration and Mark-up Session Held.
+- 2015-09-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2015-09-10 — Subcommittee on Federal Lands Discharged.
+- 2015-10-06 — Placed on the Union Calendar, Calendar No. 218.
+- 2015-10-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-286.
+- 2015-10-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-286.
