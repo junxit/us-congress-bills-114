@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 77d` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77d` | redesignate | by redesignating the second subsection (b) (relating to securities offered and sold in compliance with Rule 506 of Regulation D) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 77d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77r` | redesignate | by redesignating the second subparagraph (D) and subparagraph (E) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77r` | redesignate | in subparagraph (E), as so redesignated, by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77r` | redesignate | in subparagraph (F), as so redesignated, by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
