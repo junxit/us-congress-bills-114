@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 272
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 272
@@ -28,3 +28,7 @@ A resolution congratulating the University of Kansas for 150 years of outstandin
 
 - 2015-09-30 — Introduced in Senate
 - 2015-09-30 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7050)
+- 2015-10-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7171-7172)
+- 2015-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7171-7172)
