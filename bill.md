@@ -22,7 +22,7 @@ This Act may be cited as the “National Energy Security Corridors Act”.
       >   - **(1)** For the purposes of this section “Federal lands”—
       >     - **(A)** except as provided in subparagraph (B), means
 
-    - **(B)** by adding at the end of paragraph (1) the following:
+    - **(B)** by striking the period at the end of paragraph (1) and inserting “; and” and by adding at the end of paragraph (1) the following:
       > - **(B)** for purposes of granting an application for a natural gas pipeline right-of-way, means all lands owned by the United States except—
       >   - **(i)** such lands held in trust for an Indian or Indian tribe; and
       >   - **(ii)** lands on the Outer Continental Shelf.
@@ -31,7 +31,7 @@ This Act may be cited as the “National Energy Security Corridors Act”.
   - **(3)** By inserting after subsection (a) the following:
     > - **(b)** *National Energy Security Corridors*
     >   - **(1)** *Designation* In addition to other authorities under this section, the Secretary shall—
-    >     - **(A)** identify and designate suitable Federal lands as National Energy Security Corridors (in this subsection referred to as a “Corridor”), which shall be used for natural gas transmission facilities; and
+    >     - **(A)** identify and designate suitable Federal lands as National Energy Security Corridors (in this subsection referred to as a “Corridor”), which shall be used for construction, operation, and maintenance of natural gas transmission facilities; and
     >     - **(B)** incorporate such Corridors upon designation into the relevant agency land use and resource management plans or equivalent plans.
     >   - **(2)** *Considerations* In evaluating Federal lands for designation as a National Energy Security Corridor, the Secretary shall—
     >     - **(A)** employ the principle of multiple use to ensure route decisions balance national energy security needs with existing land use principles;
@@ -43,7 +43,7 @@ This Act may be cited as the “National Energy Security Corridors Act”.
     >     - **(B)** require an approval time of not more than 1 year after the date of receipt of an application for a right-of-way; and
     >     - **(C)** require, upon receipt of such an application, notice to the applicant of a predictable timeline for consideration of the application, that clearly delineates important milestones in the process of such consideration.
     >   - **(4)** *State input*
-    >     - **(A)** *Requests authorized* The Governor of a State may submit a request to the Secretary of the Interior to designate a Corridor on Federal land in that State.
+    >     - **(A)** *Requests authorized* The Governor of a State may submit requests to the Secretary of the Interior to designate Corridors on Federal land in that State.
     >     - **(B)** *Consideration of requests* After receiving such a request, the Secretary shall respond in writing, within 30 days—
     >       - **(i)** acknowledging receipt of the request; and
     >       - **(ii)** setting forth a timeline in which the Secretary shall grant, deny, or modify such request and state the reasons for doing so.
@@ -54,6 +54,7 @@ This Act may be cited as the “National Energy Security Corridors Act”.
     >   - **(6)** *Not a major Federal action* Designation of a Corridor under this subsection, and incorporation of Corridors into agency plans under paragraph (1)(B), shall not be treated as a major Federal action for purpose of section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
     >   - **(7)** *No limit on number or length of Corridors* Nothing in this subsection limits the number or physical dimensions of Corridors that the Secretary may designate under this subsection.
     >   - **(8)** *Other authority not affected* Nothing in this subsection affects the authority of the Secretary to issue rights-of-way on Federal land that is not located in a Corridor designated under this subsection.
+    >   - **(9)** *NEPA clarification* All applications for rights-of-way for natural gas transmission facilities across Corridors designated under this subsection shall be subject to the environmental protections outlined in subsection (h).
 
 - **(b)** *Applications received before designation of Corridors* Any application for a right-of-way under section 28 of the Mineral Leasing Act (30 U.S.C. 185) that is received by the Secretary of the Interior before designation of National Energy Security Corridors under the amendment made by subsection (a) of this section shall be reviewed and acted upon independently by the Secretary without regard to the process for such designation.
 - **(c)** *Deadline* Within 2 years after the date of the enactment of this Act, the Secretary of the Interior shall designate at least 10 National Energy Security Corridors under the amendment made by subsection (a) in contiguous States referred to in section 368(b) of the Energy Policy Act of 2005 (42 U.S.C. 15926(b)).

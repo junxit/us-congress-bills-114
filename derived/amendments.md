@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2295
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `30 U.S.C. § 185` | replace | by striking “(b)(1) For the purposes of this section Federal lands means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 185` | add-at-end | by adding at the end of paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 185` | add-at-end | by striking the period at the end of paragraph (1) and inserting “; and” and by adding at the end of paragraph (1) the following: | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 185` | redesignate | By redesignating subsection (b), as so amended, as subsection (z), and transferring such subsection to appear after subsection (y) of that section. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4332` | insert | By inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
