@@ -1,15 +1,21 @@
 ---
 legis-num: H.R. 3116
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3116
 
-That the bill from the House of Representatives (H.R. 3116) entitled “An Act to extend by 15 years the authority of the Secretary of Commerce to conduct the quarterly financial report program.”, do pass with the following
+> To extend by 15 years the authority of the Secretary of Commerce to conduct the quarterly financial report program.
 
-*At the appropriate place, insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “Quarterly Financial Report Reauthorization Act”.
+
+## § 2. Extension of authority for Secretary of Commerce to conduct quarterly financial report program
+
+Section 4(b) of the Act entitled “An Act to amend title 13, United States Code, to transfer responsibility for the quarterly financial report from the Federal Trade Commission to the Secretary of Commerce, and for other purposes”, approved January 12, 1983 (Public Law 97–454; 13 U.S.C. 91 note), is amended by striking “2015” and inserting “2030”.
 
 ## § 3. Report on data security procedures of the Bureau of the Census
 

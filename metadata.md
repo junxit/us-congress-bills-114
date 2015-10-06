@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3116
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3116
@@ -49,3 +49,14 @@ Quarterly Financial Report Reauthorization Act
 - 2015-10-06 — Senate amendment agreed to: Amendment SA 2710 agreed to in Senate by Unanimous Consent.
 - 2015-10-06 — Senate amendment proposed (on the floor): Amendment SA 2710 proposed by Senator Daines for Senator Sasse.(consideration: CR S7171; text: CR S7171)
 - 2015-10-06 — Senate amendment submitted
+- 2015-10-07 — Message on Senate action sent to the House.
+- 2015-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-21 — Mr. Chaffetz asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H7060-7061)
+- 2015-10-21 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H7060-7061)
+- 2015-10-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H7060-7061)
+- 2015-10-22 — Became Public Law No: 114-72.
+- 2015-10-22 — Became Public Law No: 114-72.
+- 2015-10-22 — Presented to President.
+- 2015-10-22 — Presented to President.
+- 2015-10-22 — Signed by President.
+- 2015-10-22 — Signed by President.
