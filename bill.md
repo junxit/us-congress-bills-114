@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3701
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3701
+
+> To require that the Secretary of the Treasury make available an Internet platform for Form 1099 filings.
+
+## § 1. Short title
+
+This Act may be cited as the “1099 Filing Simplification Act”.
+
+## § 2. Internet platform for Form 1099 filings
+
+- **(a)** *In general* Not later than 3 years after the date of the enactment of this Act, the Secretary of the Treasury (or such Secretary's delegate) shall make available an Internet Web site or other electronic media, similar to the Business Services Online Suite of Services provided by the Social Security Administration, that will provide taxpayers access to resources and guidance provided by the Internal Revenue Service and will allow taxpayers to—
+  - **(1)** prepare and file (in batches of not more than 50) Forms 1099;
+  - **(2)** prepare Forms 1099 for distribution to recipients other than the Internal Revenue Service; and
+  - **(3)** create and maintain necessary taxpayer records.
+- **(b)** *Early implementation for Forms 1099–MISC* Not later than 1 year after the date of the enactment of this Act, the Internet Web site under subsection (a) shall be available in a partial form that will allow taxpayers to take the actions described in such subsection with respect to Forms 1099–MISC required to be filed or distributed by such taxpayers.
