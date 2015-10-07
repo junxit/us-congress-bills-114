@@ -2,7 +2,7 @@
 legis-num: H.R. 3102
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3102
@@ -25,7 +25,7 @@ This Act may be cited as the “Airport Access Control Security Improvement Act 
   >     - **(C)** provide a means to differentiate between individuals authorized to have access to an entire secure area and individuals authorized access to only a particular portion of a secure area.
   >   - **(2)** *Factors* The Administrator shall consider the following factors when establishing the screening model described in paragraph (1):
   >     - **(A)** Whether and how often employees at airports require employment-related access to Secure Identification Display Areas, Airport Operations Areas, or secure areas.
-  >     - **(B)** The ability of each airport operator to reduce employee entry and exit points to a mutually agreed upon minimum number of such entry and exit points necessary to maintain airport operations.
+  >     - **(B)** The ability of each airport operator to reduce employee entry and exit points to a mutually agreed-upon minimum number of such entry and exit points necessary to maintain airport operations.
   >     - **(C)** In consultation with airport operators, the ability of the Administration to create a randomization plan for screening at the defined operational minimum entry and exit points at airports which maximizes the deterrent effect of screening efforts.
   > - **(b)** *Disqualifying offenses*
   >   - **(1)** *In general* Not later than 180 days after the date of the enactment of this section, the Administrator, in consultation with the Director of the Federal Bureau of Investigation, labor organizations representing aviation, ground, and cabin crew workers, and the Aviation Security Advisory Committee, shall conduct an aviation security risk-based review of the disqualifying criminal offenses codified in sections 1542.209 and 1544.229 of title 49, Code of Federal Regulations, to determine the appropriateness of such offenses as a basis for denying to an employee a credential that allows unescorted access to Secure Identification Display Areas of airports. Such review shall consider the following:
@@ -33,7 +33,7 @@ This Act may be cited as the “Airport Access Control Security Improvement Act 
   >     - **(B)** If such codified disqualifying offenses should be tailored to address the current aviation security threat environment, particularly the terrorism insider threat, by excluding or including other offenses.
   >     - **(C)** The potential security benefits, drawbacks, and challenges associated with identifying patterns of misdemeanors or of other non-disqualifying offenses that could jeopardize aviation security.
   >     - **(D)** The feasibility of integrating similar departmental eligibility requirements for access to Secure Identification Display Areas of airports.
-  >     - **(E)** If the ten year look-back period for disqualifying offenses is appropriate, in light of the current aviation security threat environment, particularly the terrorism insider threat.
+  >     - **(E)** If the 10-year look-back period for disqualifying offenses is appropriate, in light of the current aviation security threat environment, particularly the terrorism insider threat.
   >   - **(2)** *Waiver* Not later than 180 days after the date of the enactment of this section, the Administrator shall provide an adequate redress process for an employee who is subject to an adverse employment decision, including removal or suspension of such employee, due to a disqualifying offense referred to in paragraph (1), that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation workers at ports under section 70105(c) of title 46, United States Code.
   >   - **(3)** *Notice* Any changes to the Secure Identification Display area badge program, such as changes considered pursuant to subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be subject to notice of proposed rulemaking.
   >   - **(4)** *Briefing to Congress* Upon completion of the aviation security risk-based review required under paragraph (1), the Administrator shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate on the results of such review.
@@ -63,7 +63,7 @@ This Act may be cited as the “Airport Access Control Security Improvement Act 
   >       - **(iii)** Explosives trace detection swabbing.
   >       - **(iv)** Advanced imaging technology.
   >       - **(v)** X-ray bag screening technology.
-  >   - **(2)** *Contents* The study required under paragraph (1) shall include information related to the employee screening costs of those airports which have already implemented practices of screening one-hundred percent of employees entering secure areas of airports, including the following:
+  >   - **(2)** *Contents* The study required under paragraph (1) shall include information related to the employee screening costs of those airports which have already implemented practices of screening 100 percent of employees entering secure areas of airports, including the following:
   >     - **(A)** Costs associated with establishing an operational minimum number of employee entry and exit points.
   >     - **(B)** A comparison of costs associated with implementing the requirements specified in paragraph (1), based on whether such implementation was carried out by the Administration or airports.
   >   - **(3)** *Comptroller General assessment*

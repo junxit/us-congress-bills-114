@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3102
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3102
@@ -21,9 +21,10 @@ Airport Access Control Security Improvement Act of 2015
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Airport Access Control Security Improvement Act of 2015
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 215.
 - 2015-10-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-283.
 - 2015-10-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-283.
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
