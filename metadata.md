@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 623
@@ -55,3 +55,5 @@ DHS Social Media Improvement Act of 2015
 - 2015-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-145.
 - 2015-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-145.
 - 2015-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
+- 2015-10-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7223-7224; text as passed Senate: CR S7223-7224)
+- 2015-10-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7223-7224; text as passed Senate: CR S7223-7224)
