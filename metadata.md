@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1553
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1553
@@ -38,9 +38,10 @@ Small Bank Exam Cycle Reform Act of 2015
 - Rep. Heck, Denny [D-WA-10] (H001064)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Small Bank Exam Cycle Reform Act of 2015
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 212.
 - 2015-10-06 — Reported by the Committee on Financial Services. H. Rept. 114-280.
 - 2015-10-06 — Reported by the Committee on Financial Services. H. Rept. 114-280.
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
