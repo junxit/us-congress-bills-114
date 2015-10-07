@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1839
@@ -20,9 +20,10 @@ Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE
 
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 213.
 - 2015-10-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-281.
 - 2015-10-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-281.
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
