@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 623
@@ -57,3 +57,15 @@ DHS Social Media Improvement Act of 2015
 - 2015-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
 - 2015-10-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7223-7224; text as passed Senate: CR S7223-7224)
 - 2015-10-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7223-7224; text as passed Senate: CR S7223-7224)
+- 2015-10-08 — Message on Senate action sent to the House.
+- 2015-10-28 — DEBATE - The House proceeded with forty minutes of debate on the motion to agree to the Senate amendment to H.R. 623.
+- 2015-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-28 — Mr. Costello (PA) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7314-7316)
+- 2015-10-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7314-7315)
+- 2015-10-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7314-7315)
+- 2015-11-02 — Presented to President.
+- 2015-11-02 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-80.
+- 2015-11-05 — Became Public Law No: 114-80.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.
