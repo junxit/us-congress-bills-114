@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3699
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3699
+
+> To amend title 31, United States Code, to require an annual report from the Financial Management Service within the Department of the Treasury regarding amounts paid or payable by Federal agencies to the judgement fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Judgement Fund Taxpayer Accountability Act”.
+
+## § 2. Report from the Financial Management Service
+
+Section 1304 of title 31, United States Code, is amended by adding at the end the following:
+
+> - **(d)** Not later than January 1 of each year, the Financial Management Service shall report to Congress the following information with regard to each agency (as defined in section 551 of title 5) on account of payments made from sums appropriated by this section:
+>   - **(1)** The total amount paid in reimbursement by that agency during the preceding fiscal year on account of each such payment.
+>   - **(2)** The total amount still due from that agency in reimbursement for each such payment, as of the end of the preceding fiscal year.
+>   - **(3)** For each of the amounts described in paragraph (1) or (2), the name of the plaintiff or claimant to whom the payment was made from sums so appropriated.
