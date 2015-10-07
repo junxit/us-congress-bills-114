@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2091
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2091
@@ -24,9 +24,10 @@ Child Support Assistance Act of 2015
 - Rep. Murphy, Patrick [D-FL-18] (M001191)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Child Support Assistance Act of 2015
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 214.
 - 2015-10-06 — Reported by the Committee on Financial Services. H. Rept. 114-282.
 - 2015-10-06 — Reported by the Committee on Financial Services. H. Rept. 114-282.
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
