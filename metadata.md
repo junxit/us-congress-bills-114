@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 32
@@ -44,3 +44,5 @@ Transnational Drug Trafficking Act of 2015
 - 2015-09-17 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-09-17 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
+- 2015-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7223; text as passed Senate: CR S7223)
+- 2015-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7223; text as passed Senate: CR S7223)
