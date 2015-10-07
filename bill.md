@@ -2,7 +2,7 @@
 legis-num: H. RES. 461
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 461
@@ -13,7 +13,7 @@ That there is hereby established a Select Investigative Panel of the Committee o
 
 ## § 2.
 
-- **(a)** The select panel shall be composed of not more than 13 Members, Delegates, or the Resident Commissioner appointed by the Speaker, of whom not more than five shall be appointed on the recommendation of the minority leader. Any vacancy in the select panel shall be filled in the same manner as the original appointment.
+- **(a)** The select panel shall be composed of not more than 14 Members, Delegates, or the Resident Commissioner appointed by the Speaker, of whom not more than six shall be appointed on the recommendation of the minority leader. Any vacancy in the select panel shall be filled in the same manner as the original appointment.
 - **(b)** Each member appointed to the select panel shall be treated as though a member of the Committee on Energy and Commerce for purposes of the select panel.
 - **(c)** No member may serve on the select panel in an ex officio capacity.
 - **(d)** The Speaker shall designate as chair of the select panel a member elected to the Committee on Energy and Commerce.
@@ -33,7 +33,7 @@ That there is hereby established a Select Investigative Panel of the Committee o
 
 Rule XI and the rules of the Committee on Energy and Commerce shall apply to the select panel in the same manner as a subcommittee except as follows:
 
-- **(1)** The chair of the select panel may authorize and issue subpoenas pursuant to clause 2(m) of rule XI in the investigation and study conducted pursuant to section 3, including for the purpose of taking depositions.
+- **(1)** The chair of the select panel, consistent with the notification, consultation, and reporting requirements of rule 16 of the rules of the Committee on Energy and Commerce, may authorize and issue subpoenas pursuant to clause 2(m) of rule XI in the investigation and study conducted pursuant to section 3, including for the purpose of taking depositions.
 - **(2)** The chair of the select panel, upon consultation with the ranking minority member, may order the taking of depositions, under oath and pursuant to notice or subpoena, by a member of the select panel or a counsel of the select panel. Such depositions shall be governed by the regulations issued by the chair of the Committee on Rules pursuant to section 3(b)(2) of House Resolution 5, One Hundred Fourteenth Congress, and printed in the Congressional Record. The select panel shall be deemed to be a committee for purposes of such regulations.
 - **(3)** The chair of the select panel may, after consultation with the ranking minority member, recognize—
   - **(A)** members of the select panel to question a witness for periods longer than five minutes as though pursuant to clause 2(j)(2)(B) of rule XI; and
