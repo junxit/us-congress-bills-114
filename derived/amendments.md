@@ -1,7 +1,7 @@
 ---
 measure: S. 2116
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 631` | redesignate | by redesignating section 47 as section 48; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | insert | by inserting after section 46 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | insert | in the matter preceding clause (i), by inserting “accessing broadband and other emerging information technology,” after “technology transfer,”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 648` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 648` | amend | in clause (iii), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | redesignate | by redesignating section 47 as section 48; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | insert | by inserting after section 46 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | insert | in the matter preceding clause (i), by inserting “accessing broadband and other emerging information technology,” after “technology transfer,”; | the bill quotes the text inserted but describes where it goes |
