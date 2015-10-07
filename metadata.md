@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3510
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3510
@@ -22,9 +22,10 @@ Department of Homeland Security Cybersecurity Strategy Act of 2015
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Department of Homeland Security Cybersecurity Strategy Act of 2015
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 216.
 - 2015-10-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-284.
 - 2015-10-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-284.
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

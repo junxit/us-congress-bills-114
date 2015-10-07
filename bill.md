@@ -2,7 +2,7 @@
 legis-num: H.R. 3510
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3510
@@ -39,14 +39,14 @@ This Act may be cited as the “Department of Homeland Security Cybersecurity St
   > - **(e)** *Congressional oversight* The Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate for assessment the following:
   >   - **(1)** A copy of the strategy required under subsection (a) upon issuance.
   >   - **(2)** A copy of the implementation plan required under subsection (d) upon issuance, together with detailed information on any associated legislative or budgetary proposals.
-  > - **(f)** *Prohibition on reorganization* In the event that the strategy required under subsection (a) or implementation plan required under subsection (d) includes actions to reorganize departmental components or offices, such actions may not be executed without prior congressional authorization.
-  > - **(g)** *Classified information* The strategy required under subsection (a) shall be in an unclassified form but may contain a classified annex.
-  > - **(h)** *Rule of construction* Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.
-  > - **(i)** *Definitions* In this section:
+  > - **(f)** *Classified information* The strategy required under subsection (a) shall be in an unclassified form but may contain a classified annex.
+  > - **(g)** *Rule of construction* Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.
+  > - **(h)** *Definitions* In this section:
   >   - **(1)** *Cybersecurity risk* The term “cybersecurity risk” has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.
   >   - **(2)** *Homeland Security Enterprise* The term “Homeland Security Enterprise” means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.
   >   - **(3)** *Incident* The term “incident” has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding at the end of the list of items for subtitle C of title II the following new item:
-- **(c)** *Amendment to definition* Paragraph (2) of subsection (a) of the second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center) is amended to read as follows:
+- **(b)** *Prohibition on reorganization* The Secretary of Homeland Security may not change the location or reporting structure of the National Protection and Programs Directorate of the Department of Homeland Security, or the location or reporting structure of any office or component of the Directorate, unless the Secretary receives prior authorization from Congress permitting such change.
+- **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding at the end of the list of items for subtitle C of title II the following new item:
+- **(d)** *Amendment to definition* Paragraph (2) of subsection (a) of the second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center) is amended to read as follows:
   > - **(2)** the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
