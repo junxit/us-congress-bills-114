@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2168
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2168
@@ -25,9 +25,10 @@ West Coast Dungeness Crab Management Act
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ West Coast Dungeness Crab Management Act
 - 2015-10-06 — Mr. Newhouse moved to suspend the rules and pass the bill, as amended.
 - 2015-10-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6819)
 - 2015-10-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6819)
+- 2015-10-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
