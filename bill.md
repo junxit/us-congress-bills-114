@@ -153,7 +153,7 @@ The Secretary of Homeland Security shall—
     - **(A)** the National Center for Border Security and Immigration;
     - **(B)** the head of a national laboratory within the Department of Homeland Security laboratory network with prior expertise in border security; and
     - **(C)** a Federally Funded Research and Development Center sponsored by the Department of Homeland Security.
-- **(b)** *GAO report* Not later than 270 days after receiving the first report under subsection (a)(1), and biannually thereafter for the following 10 years, the Comptroller General of the United States, shall submit a report to the appropriate congressional committees that—
+- **(b)** *GAO report* Not later than 270 days after receiving the first report under subsection (a)(1), and biannually biennially thereafter for the following 10 years, the Comptroller General of the United States, shall submit a report to the appropriate congressional committees that—
   - **(1)** analyzes the suitability and statistical validity of the data and methodology contained in such report; and
   - **(2)** includes recommendations to Congress on—
     - **(A)** the feasibility of other suitable metrics that may be used to measure the effectiveness of border security; and
