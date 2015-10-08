@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
