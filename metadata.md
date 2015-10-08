@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 148
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 148
@@ -16,11 +16,29 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Cosponsors (3)
+## Cosponsors (21)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -30,3 +48,7 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 
 - 2015-04-23 — Introduced in Senate
 - 2015-04-23 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2405)
+- 2015-10-08 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2015-10-08 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2015-10-08 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2015-10-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.
