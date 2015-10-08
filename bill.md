@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3714
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3714
+
+> To amend the Small Business Act to allow the Small Business Administration to establish size standards for small agricultural enterprises using the same process for establishing size standards for small business concerns, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Agriculture Producer Size Standards Improvements Act of 2015”.
+
+## § 2. Amendment to definition of agricultural enterprises
+
+Paragraph (1) of section 18(b) of the Small Business Act (15 U.S.C. 647(b)(1)) is amended by striking “businesses” and inserting “small business concerns”.
+
+## § 3. Equal treatment of small farms
+
+Paragraph (1) of section 3(a) of the Small Business Act (15 U.S.C. 632(a)(1)) is amended by striking “operation: Provided,” and all that follows through the period at the end and inserting “operation.”.
+
+## § 4. Updated size standards
+
+- **(a)** *In general* Not later than 18 months after the date of enactment of this Act, the Administrator of the Small Business Administration shall, by rule, establish size standards in accordance with section 3 of the Small Business Act (15 U.S.C. 632) for agricultural enterprises (as such term is defined in section 18(b)(1) of such Act).
+- **(b)** *Review* Size standards established under subsection (a) are subject to the rolling review procedures established under section 1344(a) of the Small Business Jobs Act of 2010 (15 U.S.C. 632 note).
