@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2162
@@ -23,8 +23,15 @@ Librarian of Congress Succession Modernization Act of 2015
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2015-10-07 — Introduced in Senate
 - 2015-10-07 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7224; text as passed Senate: CR S7224)
 - 2015-10-07 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7224; text as passed Senate: CR S7224)
+- 2015-10-08 — Message on Senate action sent to the House.
+- 2015-10-08 — Received in the House.
+- 2015-10-08 — Referred to the House Committee on House Administration.
