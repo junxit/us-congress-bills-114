@@ -1,7 +1,7 @@
 ---
 measure: S. 1811
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | add-at-end | Section 7(d) of the Small Business Act (15 U.S.C. 636(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | replace | Section 7(b)(1)(A) of the Small Business Act (15 U.S.C. 636(b)(1)(A)) is amended by striking “mitigating measures” and all that follows through “modifying structures” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (10) (as added by section 5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (9)(10) (as added by section 5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (11) (as added by section 6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (12) (as added by section 7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (13) (as added by section 8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

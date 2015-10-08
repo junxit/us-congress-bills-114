@@ -28,10 +28,11 @@ Congress finds the following:
 Section 7(d) of the Small Business Act (15 U.S.C. 636(d)) is amended by adding at the end the following:
 
 > - **(8)** *Disaster loans for Superstorm Sandy*
->   - **(A)** *In general* Notwithstanding any other provision of law, and subject to the same requirements and procedures that are used to make loans pursuant to subsection (b), a small business concern, homeowner, or renter that was located within an area and during the time period with respect to which a major disaster was declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) by reason of Superstorm Sandy may apply to the Administrator—
+>   - **(A)** *In general* Notwithstanding any other provision of law, and subject to the same requirements and procedures that are used to make loans pursuant to subsection (b), a small business concern, homeowner, nonprofit entity, or renter that was located within an area and during the time period with respect to which a major disaster was declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) by reason of Superstorm Sandy may apply to the Administrator—
 >     - **(i)** for a loan to repair, rehabilitate, or replace property damaged or destroyed by reason of Superstorm Sandy; or
 >     - **(ii)** if such a small business concern has suffered substantial economic injury by reason of Superstorm Sandy, for a loan to assist such a small business concern.
->   - **(B)** *Timing* The Administrator shall select loan recipients and make available loans for a period of not less than 1 year after the date on which the Administrator carries out this authority.
+>   - **(B)** *Timing* The Administrator shall select loan recipients and make available loans for a period of not less than 1 year after the date on which the Administrator carries begins carrying out this authority.
+>   - **(C)** *Inspector General review* Not later than 6 months after the date on which the Administrator begins carrying out this authority, the Inspector General of the Administration shall initiate a review of the controls for ensuring applicant eligibility for loans made under this paragraph.
 
 ## § 4. Use of physical damage disaster loans to construct safe rooms
 
@@ -40,7 +41,7 @@ Section 7(b)(1)(A) of the Small Business Act (15 U.S.C. 636(b)(1)(A)) is amended
 > mitigating measures, including—
 > - **(i)** construction of retaining walls and sea walls;
 > - **(ii)** grading and contouring land; and
-> - **(iii)** relocating utilities and modifying structures, including construction of a safe room or similar storm shelter designed to protect property and occupants from tornadoes or other natural disasters
+> - **(iii)** relocating utilities and modifying structures, including construction of a safe room or similar storm shelter designed to protect property and occupants from tornadoes or other natural disasters, if such safe room or similar storm shelter is constructed in accordance with applicable standards issued by the Federal Emergency Management Agency
 
 ## § 5. Collateral requirements for small business concerns
 
@@ -50,11 +51,11 @@ Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by insertin
 >   - **(A)** other collateral exists, including assets related to the operation of a business; and
 >   - **(B)** such an option does not delay the Administrator’s processing of disaster applications for a disaster.
 
-## § 6. Reducing delays on closing and disbursement of loans
+## § 65. Reducing delays on closing and disbursement of loans
 
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (10) (as added by section 5) the following:
+Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (9)(10) (as added by section 5) the following:
 
-> - **(11)** *Reducing closing and disbursement delays* The Administrator shall provide a clear and concise notification on all application materials for loans made under this subsection and on relevant websites notifying an applicant that the applicant may submit all documentation necessary for the approval of the loan at the time of application and that failure to submit all documentation could delay the approval and disbursement of the loan.
+> - **(11)(10)** *Reducing closing and disbursement delays* The Administrator shall provide a clear and concise notification on all application materials for loans made under this subsection and on relevant websites notifying an applicant that the applicant may submit all documentation necessary for the approval of the loan at the time of application and that failure to submit all documentation could delay the approval and disbursement of the loan.
 
 ## § 7. Increasing transparency in loan approvals
 
@@ -74,7 +75,7 @@ Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by 
 
 > - **(14)** *Reporting on disaster performance measures* The Administrator shall report the average processing time for all other disaster loan applications, including disaggregated data on disaster loan applications that were declined by the Administration’s automated disaster processing system and applications in which the Administrator performed loss verification. For each disaster described in paragraph (2), the Administrator shall report such average processing times on its website and to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate.
 
-## § 10. Disaster plan improvements
+## § 106. Disaster plan improvements
 
 The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration’s response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing.
 
