@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3059
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3059
@@ -41,3 +41,7 @@ To designate the facility of the United States Postal Service located at 4500 SE
 - 2015-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6206)
 - 2015-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6206)
 - 2015-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-10-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-10-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2015-10-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
