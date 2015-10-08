@@ -1,7 +1,7 @@
 ---
 measure: S. 2126
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 15 U.S.C. § 656
 
-> in paragraph (1) by striking “the recipient organization” and inserting “an eligible entity”;
+> in paragraph (1), by striking “the recipient organization” and inserting “an eligible entity”;
 
 | | |
 |---|---|
@@ -80,12 +80,12 @@ to guess them.
 
 ### 15 U.S.C. § 656
 
-> by striking “recipient” and inserting “eligible entity”; and
+> by striking “the recipient” and inserting “the eligible entity”; and
 
 | | |
 |---|---|
-| Removed | `recipient` |
-| Inserted | `eligible entity` |
+| Removed | `the recipient` |
+| Inserted | `the eligible entity` |
 
 ### 15 U.S.C. § 656
 

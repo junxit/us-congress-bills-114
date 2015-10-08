@@ -18,7 +18,7 @@ This Act may be cited as the “Women's Small Business Ownership Act of 2015”.
 In this Act—
 
 - **(1)** the terms Administration and Administrator mean the Small Business Administration and the Administrator thereof, respectively;
-- **(2)** the term small business concern and small business development center have the meanings given those terms in section 3 of the Small Business Act (15 U.S.C. 632); and
+- **(2)** the term terms small business concern and small business development center have the meanings given those terms in section 3 of the Small Business Act (15 U.S.C. 632); and
 - **(3)** the term women's business center has the meaning given that term in section 29(a) of the Small Business Act (15 U.S.C. 656(a)), as added by section 4(a)(1) of this Act.
 
 ## § 3. Office of Women’s Business Ownership
@@ -109,13 +109,13 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
       >   - **(B)** recommendations to improve the policies and procedures for governing the general operations and administration of the women’s business center program, including grant program improvements under subsection (g)(4).
 
   - **(3)** in subsection (c)—
-    - **(A)** in paragraph (1) by striking “the recipient organization” and inserting “an eligible entity”;
+    - **(A)** in paragraph (1), by striking “the recipient organization” and inserting “an eligible entity”;
     - **(B)** in paragraph (3), in the second sentence, by striking “a recipient organization” and inserting “an eligible entity”;
     - **(C)** in paragraph (4)—
       - **(i)** by striking “recipient of assistance” and inserting “eligible entity”;
       - **(ii)** by striking “during any project, it shall not be eligible thereafter” and inserting “during any project for 2 consecutive years, the eligible entity shall not be eligible at any time after that 2-year period”;
       - **(iii)** by striking “such organization” and inserting “the eligible entity”; and
-      - **(iv)** by striking “recipient” and inserting “eligible entity”; and
+      - **(iv)** by striking “the recipient” and inserting “the eligible entity”; and
     - **(D)** by adding at end the following:
       > - **(5)** *Separation of project and funds* An eligible entity shall—
       >   - **(A)** carry out a project under this section separately from other projects, if any, of the eligible entity; and
@@ -129,7 +129,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
     > - **(f)** *Applications and criteria for initial financial assistance*
     >   - **(1)** *Application* Each eligible entity desiring financial assistance under subsection (b) shall submit to the Administrator an application that contains—
     >     - **(A)** a certification that the eligible entity—
-    >       - **(i)** has designated an executive director or program manager, who may be compensated using financial assistance under subsection (b) or other sources, to manage the center;
+    >       - **(i)** has designated an executive director or program manager, who may be compensated using financial assistance under subsection (b) or other sources, to manage the women's business center for which assistance under subsection (b) is sought;
     >       - **(ii)** as a condition of receiving financial assistance under subsection (b), agrees—
     >         - **(I)** to receive a site visit at the discretion of the Administrator as part of the final selection process;
     >         - **(II)** to undergo an annual programmatic and financial examination; and
@@ -141,7 +141,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
     >       - **(i)** conducting financial, management, and marketing assistance programs, as described in subsection (b)(2), which are designed to teach or upgrade the business skills of women who are business owners or potential business owners;
     >       - **(ii)** providing training and services to a representative number of women who are socially or economically disadvantaged; and
     >       - **(iii)** working with resource partners of the Administration and other entities, such as universities; and
-    >     - **(E)** a 5-year plan that describes the ability of the women's business center for which financial assistance is sought—
+    >     - **(E)** a 5-year plan that describes the ability of the women's business center for which financial assistance under subsection (b) is sought—
     >       - **(i)** to serve women who are business owners or potential business owners by conducting training and counseling activities; and
     >       - **(ii)** to provide training and services to a representative number of women who are socially or economically disadvantaged.
     >   - **(2)** *Review and approval of applications for initial financial assistance*
@@ -164,7 +164,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
     >           - **(aa)** women are underserved; or
     >           - **(bb)** significant groups of women are underserved due to language or other social, cultural, and economic barriers.
     >     - **(C)** *Proximity* If the principal place of business of an applicant for financial assistance under subsection (b) is located less than 50 miles from the principal place of business of a women’s business center that received funds under this section on or before the date of the application, the applicant shall not be eligible for the financial assistance, unless the applicant—
-    >       - **(i)** submits a detailed written justification of the need for an additional center in the area in which the applicant is located, including information demonstrating that the applicant is not providing services that are redundant or duplicative of those provided by that existing or current women's business center;
+    >       - **(i)** submits a detailed written justification of the need for an additional women's business center in the area in which the applicant is located, including information demonstrating that the applicant is not providing services that are redundant or duplicative of those provided by that existing or current women's business center;
     >       - **(ii)** submits a detailed plan for how the applicant plans to reach clients outside of the geographic area in which the existing or current women's business center is located; and
     >       - **(iii)** demonstrates that the applicant has a pre-existing presence in other parts of the geographic area in which the existing or current women's business center is located.
     >     - **(D)** *Record retention*
@@ -183,7 +183,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
       >         - **(aa)** to receive a site visit as part of the final selection process, at the discretion of the Administrator; and
       >         - **(bb)** to remedy any problem identified pursuant to the site visit under item (aa);
       >     - **(ii)** information demonstrating that the applicant has the ability and resources to meet the needs of the market to be served by the women's business center for which a grant under this subsection is sought, including the ability to obtain the non-Federal contribution required under paragraph (4)(C);
-      >     - **(iii)** information relating to assistance to be provided by the women's business center in the area served by the women's business center for which a grant under this subsection is sought;
+      >     - **(iii)** information relating to assistance to be provided by the women's business center in the geographic area served by the women's business center for which a grant under this subsection is sought;
       >     - **(iv)** information demonstrating that the applicant is not providing services redundant or duplicative of those provided by a women's business center receiving funds under this subsection that is located less than 50 miles from the principal place of business of the applicant;
       >     - **(v)** information demonstrating that the applicant has worked with resource partners of the Administration and other entities;
       >     - **(vi)** a 3-year plan that describes the services provided by the women's business center for which a grant under this subsection is sought—
@@ -210,7 +210,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
       >     - **(iii)** *Conditions for continued funding* In determining whether to make a grant under this subsection, the Administrator—
       >       - **(I)** shall consider the results of the most recent evaluation of the women's business center for which a grant under this subsection is sought, and, to a lesser extent, previous evaluations; and
       >       - **(II)** may withhold a grant under this subsection, if the Administrator determines that the applicant has failed to provide the information required to be provided under this paragraph, or the information provided by the applicant is inadequate.
-      >   - **(D)** *Notification* Not later than 60 days after the date of each deadline to submit applications, the Administrator shall approve or deny any application under this paragraph and notify the applicant for each such application of the approval or denial.
+      >   - **(D)** *Notification* Not later than 60 days after the date of each deadline to submit applications under this paragraph, the Administrator shall approve or deny any each submitted application under this paragraph and notify the applicant for each such application of the approval or denial.
       >   - **(E)** *Record retention*
       >     - **(i)** *In general* The Administrator shall maintain a copy of each application submitted under this paragraph for not less than 5 years.
       >     - **(ii)** *Paperwork reduction* The Administrator shall take steps to reduce, to the maximum extent practicable, the paperwork burden associated with carrying out clause (i).
@@ -245,7 +245,7 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
   - **(5)** by redesignating subsections (m), (n), and (o), as amended by this Act, as subsections (l), (m), and (n), respectively.
 - **(c)** *Effect on existing grants*
   - **(1)** *Terms and conditions* A nonprofit organization receiving a grant under section 29(m) of the Small Business Act (15 U.S.C. 656(m)), as in effect on the day before the date of enactment of this Act, shall continue to receive the grant under the terms and conditions in effect for the grant on the day before the date of enactment of this Act, except that the nonprofit organization may not apply for a renewal of the grant under section 29(m)(5) of the Small Business Act (15 U.S.C. 656(m)(5)), as in effect on the day before the date of enactment of this Act.
-  - **(2)** *Length of renewal grant* The Administrator may award a grant under section 29(l) of the Small Business Act, as so redesignated by subsection (a)(5) of this section, to a nonprofit organization receiving a grant under section 29(m) of the Small Business Act (15 U.S.C. 656(m)), as in effect on the day before the date of enactment of this Act, for the period—
+  - **(2)** *Length of renewal grant* The Administrator may award a grant under section 29(l) of the Small Business Act, as so redesignated by subsection (a)(5) (b)(5) of this section, to a nonprofit organization receiving a grant under section 29(m) of the Small Business Act (15 U.S.C. 656(m)), as in effect on the day before the date of enactment of this Act, for the period—
     - **(A)** beginning on the day after the last day of the grant agreement under such section 29(m); and
     - **(B)** ending at the end of the third fiscal year beginning after the date of enactment of this Act.
 
@@ -255,15 +255,15 @@ Section 29(g) of the Small Business Act (15 U.S.C. 656(g)) is amended—
   - **(1)** in paragraph (1), by striking “As a condition” and inserting “Subject to paragraph (6), as a condition”; and
   - **(2)** by adding at the end the following:
     > - **(6)** *Waiver of non-Federal share*
-    >   - **(A)** *In general* Upon request by a recipient organization, and in accordance with this paragraph, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under this subsection for counseling and training activities of the recipient organization carried out using financial assistance under this section for a fiscal year. The Administrator may not waive the requirement for a recipient organization to obtain non-Federal funds under this paragraph for more than a total of 2 consecutive fiscal years.
+    >   - **(A)** *In general* Upon request by a recipient organization an eligible entity, and in accordance with this paragraph, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under this subsection for counseling and training activities of the recipient organization eligible entity carried out using financial assistance under this section for a fiscal year. The Administrator may not waive the requirement for a recipient organization an eligible entity to obtain non-Federal funds under this paragraph for more than a total of 2 consecutive fiscal years.
     >   - **(B)** *Considerations* In determining whether to waive the requirement to obtain non-Federal funds under this paragraph, the Administrator shall consider—
-    >     - **(i)** the economic conditions affecting the recipient organization;
-    >     - **(ii)** the impact a waiver under this clause would have on the credibility of the women's business center program under this section;
-    >     - **(iii)** the demonstrated ability of the recipient organization to raise non-Federal funds; and
-    >     - **(iv)** the performance of the recipient organization.
+    >     - **(i)** the economic conditions affecting the recipient organization eligible entity;
+    >     - **(ii)** the impact a waiver under this clause paragraph would have on the credibility of the women's business center program under this section;
+    >     - **(iii)** the demonstrated ability of the recipient organization eligible entity to raise non-Federal funds; and
+    >     - **(iv)** the performance of the recipient organization eligible entity.
     >   - **(C)** *Limitation* The Administrator may not waive the requirement to obtain non-Federal funds under this paragraph if granting the waiver would undermine the credibility of the women's business center program under this section.
-    > - **(7)** *Solicitation* Notwithstanding any other provision of law, a recipient organization may—
-    >   - **(A)** solicit cash and in-kind contributions from private individuals and entities to be used to carry out the activities of the recipient organization under the project conducted under this section; and
+    > - **(7)** *Solicitation* Notwithstanding any other provision of law, a recipient organization an eligible entity may—
+    >   - **(A)** solicit cash and in-kind contributions from private individuals and entities to be used to carry out the activities of the recipient organization eligible entity under the project conducted under this section; and
     >   - **(B)** use amounts made available by the Administration under this section for the cost of such solicitation and management of the contributions received.
     > - **(8)** *Excess non-Federal dollars* The amount of non-Federal dollars obtained by an eligible entity that is above the amount that is required to be obtained by the eligible entity under this subsection and is not used as matching funds for purposes of implementing the women's business center program under this section shall not be subject to the requirements of part 200 of title 2, Code of Federal Regulations, or any successor thereto.
 
