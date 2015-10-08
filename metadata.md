@@ -1,7 +1,7 @@
 ---
 measure: H.R. 324
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 324
@@ -48,3 +48,12 @@ To designate the facility of the United States Postal Service located at 11662 G
 - 2015-10-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2015-10-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2015-10-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
+- 2015-10-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7366)
+- 2015-10-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7366)
+- 2015-10-21 — Message on Senate action sent to the House.
+- 2015-10-26 — Presented to President.
+- 2015-10-26 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-78.
+- 2015-11-05 — Became Public Law No: 114-78.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.
