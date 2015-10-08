@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2162
@@ -35,3 +35,16 @@ Librarian of Congress Succession Modernization Act of 2015
 - 2015-10-08 — Message on Senate action sent to the House.
 - 2015-10-08 — Received in the House.
 - 2015-10-08 — Referred to the House Committee on House Administration.
+- 2015-10-20 — Committee on House Administration discharged. (consideration: CR H7012)
+- 2015-10-20 — Committee on House Administration discharged.(consideration: CR H7012)
+- 2015-10-20 — Considered by unanimous consent. (consideration: CR H7012)
+- 2015-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-20 — Mr. Harper asked unanimous consent to discharge from committee and consider. (consideration: CR H7012)
+- 2015-10-20 — On passage Passed without objection. (text: CR H7012)
+- 2015-10-20 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7012)
+- 2015-10-26 — Presented to President.
+- 2015-10-26 — Presented to President.
+- 2015-11-05 — Became Public Law No: 114-86.
+- 2015-11-05 — Became Public Law No: 114-86.
+- 2015-11-05 — Signed by President.
+- 2015-11-05 — Signed by President.
