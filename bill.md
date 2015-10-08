@@ -44,7 +44,9 @@ As soon as practicable after the date of the enactment of this Act, the Secretar
 Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is amended by inserting “(a) In general.—” before the first sentence, and by adding at the end the following:
 
 > - **(b)** *Review of major Federal actions on Indian lands*
->   - **(1)** *In general* For any major Federal action on Indian lands of an Indian tribe requiring the preparation of a statement under subsection (a)(2)(C), the statement shall only be available for review and comment by the members of the Indian tribe and by any other individual residing within the affected area.
+>   - **(1)** *Review and comment*
+>     - **(A)** *In general* Except as provided in subparagraph (B), the statement required under subsection (a)(2)(C) for a major Federal action regarding an activity on Indian lands of an Indian tribe shall only be available for review and comment by the members of the Indian tribe, other individuals residing within the affected area, and State, federally recognized tribal, and local governments within the affected area.
+>     - **(B)** *Exception* Subparagraph (A) shall not apply to a statement for a major Federal action regarding an activity on Indian lands of an Indian tribe related to gaming under the Indian Gaming Regulatory Act.
 >   - **(2)** *Regulations* The Chairman of the Council on Environmental Quality shall develop regulations to implement this section, including descriptions of affected areas for specific major Federal actions, in consultation with Indian tribes.
 >   - **(3)** *Definitions* In this subsection, each of the terms Indian land and Indian tribe has the meaning given that term in section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501).
 >   - **(4)** *Clarification of authority* Nothing in the Native American Energy Act, except section 6 of that Act, shall give the Secretary any additional authority over energy projects on Alaska Native Claims Settlement Act lands.
@@ -55,7 +57,7 @@ Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is
 - **(b)** *District court venue and deadline* All energy related actions—
   - **(1)** shall be brought in the United States District Court for the District of Columbia; and
   - **(2)** shall be resolved as expeditiously as possible, and in any event not more than 180 days after such cause of action is filed.
-- **(c)** *Appellate review* An interlocutory order or final judgment, decree or order of the district court in an energy related action may be reviewed by the U.S. Court of Appeals for the District of Columbia Circuit. The D.C. Circuit Court of Appeals shall resolve such appeal as expeditiously as possible, and in any event not more than 180 days after such interlocutory order or final judgment, decree or order of the district court was issued.
+- **(c)** *Appellate review* An interlocutory order or final judgment, decree or order of the district court in an energy related action may be reviewed by the United States Court of Appeals for the District of Columbia Circuit. The District of Columbia Circuit Court of Appeals shall resolve such appeal as expeditiously as possible, and in any event not more than 180 days after such interlocutory order or final judgment, decree or order of the district court was issued.
 - **(d)** *Limitation on certain payments* Notwithstanding section 1304 of title 31, United States Code, no award may be made under section 504 of title 5, United States Code, or under section 2412 of title 28, United States Code, and no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay any fees or other expenses under such sections, to any person or party in an energy related action.
 - **(e)** *Legal fees* In any energy related action in which the plaintiff does not ultimately prevail, the court shall award to the defendant (including any intervenor-defendants), other than the United States, fees and other expenses incurred by that party in connection with the energy related action, unless the court finds that the position of the plaintiff was substantially justified or that special circumstances make an award unjust. Whether or not the position of the plaintiff was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the energy related action for which fees and other expenses are sought.
 - **(f)** *Definitions* For the purposes of this section, the following definitions apply:
@@ -100,6 +102,10 @@ The Tribal Forest Protection Act of 2004 is amended by inserting after section 2
 > - **(i)** *Term* A stewardship contract or other agreement entered into under this section—
 >   - **(1)** shall be for a term of not more than 20 years; and
 >   - **(2)** may be renewed in accordance with this section for not more than an additional 10 years.
+>
+> ## § 4. Tribal forest management demonstration project
+>
+> The Secretary of the Interior and the Secretary of Agriculture may carry out demonstration projects by which federally recognized Indian tribes or tribal organizations may contract to perform administrative, management, and other functions of programs of the Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a et seq.) through contracts entered into under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 ## § 7. Tribal resource management plans
 
