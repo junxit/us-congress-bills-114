@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 32
@@ -28,10 +28,12 @@ Transnational Drug Trafficking Act of 2015
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (2)
+## Committees (4)
 
 - Senate — Finance Committee
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -46,3 +48,8 @@ Transnational Drug Trafficking Act of 2015
 - 2015-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
 - 2015-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7223; text as passed Senate: CR S7223)
 - 2015-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7223; text as passed Senate: CR S7223)
+- 2015-10-08 — Message on Senate action sent to the House.
+- 2015-10-08 — Received in the House.
+- 2015-10-08 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-10-08 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-10-08 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
