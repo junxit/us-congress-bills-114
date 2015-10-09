@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3749
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3749
+
+> To amend title 18, United States Code, to prohibit interference with communication frequencies used by emergency response providers.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Responder Radio Communications Protection Act of 2015”.
+
+## § 2. Interference with communication frequencies used by emergency response providers prohibited
+
+- **(a)** *Prohibition* Chapter 65 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 1370. Communication frequencies used by emergency response providers
+  >
+  > - **(a)** *Offense* Whoever knowingly—
+  >   - **(1)** interferes in any way with the working or use of a communication frequency; or
+  >   - **(2)** obstructs, hinders, or delays the transmission of any communication over any such communication frequency,
+  > - **(b)** *Definitions* In this section—
+  >   - **(1)** the term communication frequency means any radio frequency used by emergency response providers in their official capacity; and
+  >   - **(2)** the term emergency response providers has the meaning given such term in section 2(6) of the Homeland Security Act of 2002.
+
+- **(b)** *Clerical amendment* The table of sections for chapter 65 of such title is amended by adding at the end the following:
