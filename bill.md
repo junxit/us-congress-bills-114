@@ -11,11 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Findings
 
-The Congress finds that—
+The Congress finds the following:
 
-- **(1)** the United States has enjoyed a renaissance in energy production, establishing the United States as the world’s leading oil producer;
-- **(2)** the United States upholds a commitment to free trade and open markets and has consistently opposed attempts by other nations to restrict the free flow of energy; and
-- **(3)** the United States should remove all restrictions on the export of crude oil, which will provide domestic economic benefits, enhanced energy security, and flexibility in foreign diplomacy.
+- **(1)** The United States has enjoyed a renaissance in energy production, establishing the United States as the world’s leading oil producer.
+- **(2)** By authorizing crude oil exports, the Congress can spur domestic energy production, create and preserve jobs, help maintain and strengthen our independent shipping fleet that is essential to national defense, and generate State and Federal revenues.
+- **(3)** An energy-secure United States that is a net exporter of energy has the potential to transform the security environment around the world, notably in Europe and the Middle East.
+- **(4)** For our European allies and Israel, the presence of more United States oil in the market will offer more secure supply options, which will strengthen United States strategic alliances and help curtail the use of energy as a political weapon.
+- **(5)** The 60-ship Maritime Security Fleet is a vital element of our military’s strategic sealift and global response capability. It assures United States-flag ships and United States crews will be available to support the United States military when it needs to mobilize to protect our allies, and is the most prudent and economical solution to meet current and projected sealift requirements for the United States.
+- **(6)** The Maritime Security Fleet program provides a labor base of skilled American mariners who are available to crew the United States Government-owned strategic sealift fleet, as well as the United States commercial fleet, in both peace and war.
+- **(7)** The United States has reduced its oil consumption over the past decade, and increasing investment in clean energy technology and energy efficiency will lower energy prices, reduce greenhouse gas emissions, and increase national security.
 
 ## § 2. Repeal
 
@@ -27,8 +31,54 @@ Notwithstanding any other provision of law, to promote the efficient exploration
 
 ## § 4. Study and recommendations
 
-Not later than 120 days after the date of enactment of this Act, the Secretary of Energy shall conduct a study and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate recommendations on the appropriate size, composition, and purpose of the Strategic Petroleum Reserve.
+- **(a)** *Strategic Petroleum Reserve* Not later than 120 days after the date of enactment of this Act, the Secretary of Energy shall conduct a study and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate recommendations on the appropriate size, composition, and purpose of the Strategic Petroleum Reserve.
+- **(b)** *Greenhouse gas emissions* Not later than 120 days after the date of enactment of this Act, the Secretary of Energy shall conduct, and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the results of, a study on the net greenhouse gas emissions that will result from the repeal of the crude oil export ban under section 2.
+- **(c)** *Strategic Petroleum Reserve Study* Not later than 120 days after the date of enactment of this Act, the Secretary of Energy shall conduct a study and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate recommendations on the appropriate size, composition, and purpose of the Strategic Petroleum Reserve.
+- **(d)** *Crude oil export study*
+  - **(1)** *In general* The Department of Commerce, in consultation with the Department of Energy, and other departments as appropriate, shall conduct a study of the State and national implications of lifting the crude oil export ban with respect to consumers and the economy.
+  - **(2)** *Contents* The study conducted under paragraph (1) shall include an analysis of—
+    - **(A)** the economic impact that exporting crude oil will have on the economy of the United States;
+    - **(B)** the economic impact that exporting crude oil will have on consumers, taking into account impacts on energy prices;
+    - **(C)** the economic impact that exporting crude oil will have on domestic manufacturing, taking into account impacts on employment; and
+    - **(D)** the economic impact that exporting crude oil will have on the refining sector, taking into account impacts on employment.
+  - **(3)** *Report to congress* Not later than 1 year after the date of enactment of this Act, the Bureau of Industry and Security shall submit to Congress a report containing the results of the study conducted under paragraph (1).
 
 ## § 5. Savings clause
 
-Nothing in this Act limits the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.) to prohibit exports.
+Nothing in this Act limits the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
+
+## § 6. National Defense Sealift Enhancement
+
+- **(a)** *Payments* Section 53106(a)(1) of title 46, United States Code, is amended—
+  - **(1)** in subparagraph (B), by striking the comma before “for each”;
+  - **(2)** in subparagraph (C), by striking “2016, 2017, and 2018;” and inserting “and 2016”;
+  - **(3)** by redesignating subparagraph (E) as subparagraph (G); and
+  - **(4)** by striking subparagraph (D) and inserting the following:
+    > - **(D)** $4,999,950 for fiscal year 2017;
+    > - **(E)** $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+    > - **(F)** $5,233,463 for fiscal year 2021; and
+
+- **(b)** *Authorization of appropriations* Section 53111 of title 46, United States Code, is amended—
+  - **(1)** in paragraph (3), by striking “2016, 2017, and 2018;” and inserting “and 2016”;
+  - **(2)** by redesignating paragraph (5) as paragraph (7); and
+  - **(3)** by striking paragraph (4) and inserting the following:
+    > - **(4)** $299,997,000 for fiscal year 2017;
+    > - **(5)** $300,000,000 for each of fiscal years 2018, 2019, and 2020;
+    > - **(6)** $314,007,780 for fiscal year 2021; and
+
+## § 7. Partnerships with minority serving institutions
+
+- **(a)** *In general* The Department of Energy shall continue to develop and broaden partnerships with minority serving institutions, including Hispanic Serving Institutions (HSI) and Historically Black Colleges and Universities (HBCUs) in the areas of oil and gas exploration, production, midstream, and refining.
+- **(b)** *Public-Private partnerships* The Department of Energy shall encourage public-private partnerships between the energy sector and minority serving institutions, including Hispanic Serving Institutions and Historically Black Colleges and Universities.
+
+## § 8. Report
+
+Not later than 10 years after the date of enactment of this Act, the Secretary of Energy and the Secretary of Commerce shall jointly transmit to Congress a report that reviews the impact of lifting the oil export ban under this Act as it relates to promoting United States energy and national security.
+
+## § 9. Report to Congress
+
+Not later than 180 days after the date of enactment of this Act, the Secretary of Energy and the Secretary of Commerce shall jointly transmit to Congress a report analyzing how lifting the ban on crude oil exports will help create opportunities for veterans and women in the United States, while promoting energy and national security.
+
+## § 10. Prohibition on exports of crude oil, refined petroleum products, and petrochemical products to the Islamic Republic of Iran
+
+Nothing in this Act shall be construed to authorize the export of crude oil, refined petroleum products, and petrochemical products by or through any entity or person, wherever located, subject to the jurisdiction of the United States to any entity or person located in, subject to the jurisdiction of, or sponsored by the Islamic Republic of Iran.

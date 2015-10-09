@@ -1,7 +1,7 @@
 ---
 measure: H.R. 702
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 702
@@ -161,6 +161,14 @@ To adapt to changing crude oil market conditions.
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (5)
+
+- 2015-10-09 — [House 114-1-545](votes/house-114-1-0545.md) — On Agreeing to the Amendment — **Failed** (109–306)
+- 2015-10-09 — [House 114-1-546](votes/house-114-1-0546.md) — On Agreeing to the Amendment — **Agreed to** (414–1)
+- 2015-10-09 — [House 114-1-547](votes/house-114-1-0547.md) — On Agreeing to the Amendment — **Agreed to** (419–0)
+- 2015-10-09 — [House 114-1-548](votes/house-114-1-0548.md) — On Motion to Recommit with Instructions — **Failed** (179–242)
+- 2015-10-09 — [House 114-1-549](votes/house-114-1-0549.md) — On Passage — **Passed** (261–159)
+
 ## Actions
 
 - 2015-02-04 — Introduced in House
@@ -180,3 +188,93 @@ To adapt to changing crude oil market conditions.
 - 2015-09-25 — Placed on the Union Calendar, Calendar No. 203.
 - 2015-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-267, Part I.
 - 2015-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-267, Part I.
+- 2015-10-01 — Mr. Barton asked unanimous consent that the Committee on Energy and Commerce be authorized to file a supplemental report on H.R. 702. Agreed to without objection. (consideration: CR H6780)
+- 2015-10-01 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 114-267, Part II.
+- 2015-10-01 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 114-267, Part II.
+- 2015-10-07 — Rules Committee Resolution H. Res. 466 Reported to House. For H.R. 538, resolution provides for one hour of debate, makes specified amendments in order and allows one motion to recommit, with or without instructions. For H.R. 702, resolution provides for one hour of debate, makes specified amendments in order and allows one motion to recommit, with or without instructions.
+- 2015-10-08 — Rule H. Res. 466 passed House.
+- 2015-10-09 — Amendment (A001) offered by Mr. Amash. (consideration: CR H6952-6953, H6961; text: CR H6952)
+- 2015-10-09 — Amendment (A002) offered by Mr. Delaney. (consideration: CR H6953-6954; text: CR H6953)
+- 2015-10-09 — Amendment (A003) offered by Mr. Huffman. (consideration: CR H6954-6955; text: CR H6954)
+- 2015-10-09 — Amendment (A004) offered by Mrs. Lawrence. (consideration: CR H6955; text: CR H6955)
+- 2015-10-09 — Amendment (A005) offered by Mr. Messer. (consideration: CR H6955-6956, H6961-6962; text: CR H6955)
+- 2015-10-09 — Amendment (A006) offered by Mr. Messer. (consideration: CR H6956-6957, H6962-6963; text: CR H6956)
+- 2015-10-09 — Amendment (A007) offered by Mr. Cuellar. (consideration: CR H6957-6958; text: CR H6957)
+- 2015-10-09 — Amendment (A008) offered by Ms. Jackson Lee. (consideration: CR H6958-6959; text: CR H6958)
+- 2015-10-09 — Amendment (A009) offered by Ms. Jackson Lee. (consideration: CR H6959-6960; text: CR H6959)
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment agreed to Committee of the Whole
+- 2015-10-09 — Amendment failed in Committee of the Whole
+- 2015-10-09 — Considered under the provisions of rule H. Res. 466. (consideration: CR H6941-6965; text of amendment in the nature of a substitute: CR H6951-6952)
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Amash amendment No. 1.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment No. 7.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Delaney amendment No. 2.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 3.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 10.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 9.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 4.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Messer amendment No. 5.
+- 2015-10-09 — DEBATE - Pursuant to the provisions of H.Res. 466, the Committee of the Whole proceeded with 10 minutes of debate on the Messer amendment No. 6.
+- 2015-10-09 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to reqire the bill to be reported back to the House with an amendment to add language preventing provisions in H.R. 702 from preventing the President or any other Federal official from enforcing certain Federal laws or regulations.
+- 2015-10-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 702.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Cuellar amendment (A007) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Delaney amendment (A002) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Huffman amendment (A003) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A008) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A009) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Lawrence amendment (A004) Agreed to by voice vote.
+- 2015-10-09 — House amendment agreed to: On agreeing to the Messer amendment (A005) Agreed to by recorded vote: 414 - 1 (Roll no. 546).
+- 2015-10-09 — House amendment agreed to: On agreeing to the Messer amendment (A006) Agreed to by recorded vote: 419 - 0 (Roll no. 547).
+- 2015-10-09 — House amendment not agreed to: On agreeing to the Amash amendment (A001) Failed by recorded vote: 109 - 306 (Roll no. 545).
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered
+- 2015-10-09 — House amendment offered/reported by : Amendment (A001) offered by Mr. Amash.(consideration: CR H6952-6953, H6961; text: CR H6952)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A002) offered by Mr. Delaney.(consideration: CR H6953-6954; text: CR H6953)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A003) offered by Mr. Huffman.(consideration: CR H6954-6955; text: CR H6954)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A004) offered by Mrs. Lawrence.(consideration: CR H6955; text: CR H6955)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A005) offered by Mr. Messer.(consideration: CR H6955-6956, H6961-6962; text: CR H6955)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A006) offered by Mr. Messer.(consideration: CR H6956-6957, H6962-6963; text: CR H6956)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A007) offered by Mr. Cuellar.(consideration: CR H6957-6958; text: CR H6957)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A008) offered by Ms. Jackson Lee.(consideration: CR H6958-6959; text: CR H6958)
+- 2015-10-09 — House amendment offered/reported by : Amendment (A009) offered by Ms. Jackson Lee.(consideration: CR H6959-6960; text: CR H6959)
+- 2015-10-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 466 and Rule XVIII.
+- 2015-10-09 — MOMENT OF SILENCE - The Committee stood in a moment of silence for the victims of the El Faro Cargo ship tragedy.
+- 2015-10-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-09 — Mr. Huffman moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: CR H6963-6964; text: CR H6963)
+- 2015-10-09 — On agreeing to the Amash amendment (A001) Failed by recorded vote: 109 - 306 (Roll no. 545).
+- 2015-10-09 — On agreeing to the Cuellar amendment (A007) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Delaney amendment (A002) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Huffman amendment (A003) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Jackson Lee amendment (A008) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Jackson Lee amendment (A009) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Lawrence amendment (A004) Agreed to by voice vote.
+- 2015-10-09 — On agreeing to the Messer amendment (A005) Agreed to by recorded vote: 414 - 1 (Roll no. 546).
+- 2015-10-09 — On agreeing to the Messer amendment (A006) Agreed to by recorded vote: 419 - 0 (Roll no. 547).
+- 2015-10-09 — On motion to recommit with instructions Failed by recorded vote: 179 - 242 (Roll no. 548).
+- 2015-10-09 — On passage Passed by recorded vote: 261 - 159 (Roll no. 549).
+- 2015-10-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amash amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Amash demanded a recorded vote and the Chair further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-10-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Messer amendment No. 5 Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-10-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Messer amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-10-09 — Passed/agreed to in House: On passage Passed by recorded vote: 261 - 159 (Roll no. 549).
+- 2015-10-09 — Roll call votes on amendments in House
+- 2015-10-09 — Roll call votes on amendments in House
+- 2015-10-09 — Roll call votes on amendments in House
+- 2015-10-09 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2015-10-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 702.
+- 2015-10-09 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2015-10-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6964)
+- 2015-10-09 — The previous question was ordered pursuant to the rule. (consideration: CR H6963)
+- 2015-10-09 — The rule provides for one hour debate on H.R. 538, makes specified amendments in order and allows one motion to recommit, with or without instructions. For H.R. 702, the resolution provides for one hour of debate, makes specified amendments in order and allows one motion to recommit, with or without instructions.
