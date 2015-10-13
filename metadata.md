@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 21
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 21
@@ -21,9 +21,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -40,3 +41,5 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2015-10-08 — Senate amendment agreed to: Amendment SA 2711 agreed to in Senate by Unanimous Consent.
 - 2015-10-08 — Senate amendment proposed (on the floor): Amendment SA 2711 proposed by Senator McConnell for Senator Booker.(consideration: CR S7281; text: CR S7281)
 - 2015-10-08 — Senate amendment submitted
+- 2015-10-13 — Message on Senate action sent to the House.
+- 2015-10-13 — Referred to the House Committee on House Administration.
