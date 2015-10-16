@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3756
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3756
+
+> To amend the Water Resources Reform and Development Act of 2014 to remove a financial assistance limitation for certain water projects, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “WIFIA Improvement Act”.
+
+## § 2. Removal of financial assistance limitation for certain water projects
+
+- **(a)** *In general* Section 5028(a) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 3907(a)) is amended—
+  - **(1)** by striking paragraph (5); and
+  - **(2)** by redesignating paragraphs (6) and (7) as paragraphs (5) and (6), respectively.
+- **(b)** *Conforming amendment* Section 5034(b)(2)(A) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 3913(b)(2)(A)) is amended by inserting “, as such limitation was in effect on the day before the date of enactment of the WIFIA Reauthorization Act,” after “5028(a)(5)”.
