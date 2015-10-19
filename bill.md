@@ -23,8 +23,26 @@ This Act may be cited as the “Department of Veterans Affairs Accountability Ac
   >   - **(2)** demote the individual by means of—
   >     - **(A)** a reduction in grade for which the individual is qualified and that the Secretary determines is appropriate; or
   >     - **(B)** a reduction in annual rate of pay that the Secretary determines is appropriate.
+  > - **(a)** *In general*
+  >   - **(1)** The Secretary may remove or demote an individual who is an employee of the Department if the Secretary determines the performance or misconduct of the individual warrants such removal or demotion.
+  >   - **(2)** A determination under paragraph (1) that the performance or misconduct of an individual warrants removal or demotion may consist of a determination of any of the following:
+  >     - **(A)** The individual neglected a duty of the position in which the individual was employed.
+  >     - **(B)** The individual engaged in malfeasance.
+  >     - **(C)** The individual failed to accept a directed reassignment or to accompany a position in a transfer of function.
+  >     - **(D)** The individual violated a policy of the Department.
+  >     - **(E)** The individual violated a provision of law.
+  >     - **(F)** The individual engaged in insubordination.
+  >     - **(G)** The individual over prescribed medication.
+  >     - **(H)** The individual contributed to the purposeful omission of the name of one or more veterans waiting for health care from an electronic wait list for a medical facility of the Department.
+  >     - **(I)** The individual was the supervisor of an employee of the Department, or was a supervisor of the supervisor, at any level, who contributed to a purposeful omission as described in subparagraph (H) and knew, or reasonably should have known, that the employee contributed to such purposeful omission.
+  >     - **(J)** Such other performance or misconduct as the Secretary determines warrants the removal or demotion of the individual under paragraph (1).
+  >   - **(3)** If the Secretary removes or demotes an individual as described in paragraph (1), the Secretary may—
+  >     - **(A)** remove the individual from the civil service (as defined in section 2101 of title 5); or
+  >     - **(B)** demote the individual by means of—
+  >       - **(i)** a reduction in grade for which the individual is qualified and that the Secretary determines is appropriate; or
+  >       - **(ii)** a reduction in annual rate of pay that the Secretary determines is appropriate.
   > - **(b)** *Pay of certain demoted individuals*
-  >   - **(1)** Notwithstanding any other provision of law, any individual subject to a demotion under subsection (a)(2)(A) shall, beginning on the date of such demotion, receive the annual rate of pay applicable to such grade.
+  >   - **(1)** Notwithstanding any other provision of law, any individual subject to a demotion under subsection (a)(2)(A) (a)(3)(B)(i) shall, beginning on the date of such demotion, receive the annual rate of pay applicable to such grade.
   >   - **(2)** An individual so demoted may not be placed on administrative leave or any other category of paid leave during the period during which an appeal (if any) under this section is ongoing, and may only receive pay if the individual reports for duty. If an individual so demoted does not report for duty, such individual shall not receive pay or other benefits pursuant to subsection (e)(5).
   > - **(c)** *Notice to Congress* Not later than 30 days after removing or demoting an individual under subsection (a), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives notice in writing of such removal or demotion and the reason for such removal or demotion.
   > - **(d)** *Procedure*
@@ -39,6 +57,14 @@ This Act may be cited as the “Department of Veterans Affairs Accountability Ac
   >   - **(4)** The Merit Systems Protection Board or administrative judge may not stay any removal or demotion under this section.
   >   - **(5)** During the period beginning on the date on which an individual appeals a removal from the civil service under subsection (d) and ending on the date that the administrative judge issues a final decision on such appeal, such individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits.
   >   - **(6)** To the maximum extent practicable, the Secretary shall provide to the Merit Systems Protection Board, and to any administrative law judge to whom an appeal under this section is referred, such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
+  > - **(f)** *Whistleblower protection*
+  >   - **(1)** In the case of an individual seeking corrective action (or on behalf of whom corrective action is sought) from the Office of Special Counsel based on an alleged prohibited personnel practice described in section 2302(b) of title 5, the Secretary may not remove or demote such individual under subsection (a) without the approval of the Special Counsel under section 1214(f) of title 5.
+  >   - **(2)** The Office of Special Counsel shall establish—
+  >     - **(A)** a mechanism to expedite cases for corrective action under paragraph (1); and
+  >     - **(B)** a standard for the approval under paragraph (1) of removal or demotion under subsection (a), which may include a determination as to whether the removal or demotion is a prohibited personnel action.
+  >   - **(3)**
+  >     - **(A)** Notwithstanding any other provision of law, the Special Counsel may terminate an investigation of a prohibited personnel practice alleged by an individual in connection with a removal or demotion of the individual under subsection (a) only after the Special Counsel provides to the individual a written statement of the reasons for the termination of the investigation.
+  >     - **(B)** The written statement provided to the individual under subparagraph (A) may not be admissible as evidence in any judicial or administrative proceeding without the consent of such individual.
   > - **(f)** *Limitation on removal or demotion* In the case of an individual seeking corrective action (or on behalf of whom corrective action is sought) from the Office of Special Counsel based on an alleged prohibited personnel practice described in section 2302(b) of title 5, the Secretary may not remove or demote such individual under subsection (a) without the approval of the Special Counsel under section 1214(f) of title 5.
   > - **(g)** *Relation to other provisions of law*
   >   - **(1)** The authority provided by this section is in addition to the authority provided by subchapter V of chapter 75 of title 5 and chapter 43 of such title.
