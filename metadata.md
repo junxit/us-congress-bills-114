@@ -1,7 +1,7 @@
 ---
 measure: S. 1203
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1203
@@ -16,7 +16,7 @@ version: Introduced in Senate
 
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -26,6 +26,8 @@ version: Introduced in Senate
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -35,3 +37,8 @@ version: Introduced in Senate
 
 - 2015-05-06 — Introduced in Senate
 - 2015-05-06 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2015-05-13 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 114-182.
+- 2015-07-22 — Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-10-19 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-153.
+- 2015-10-19 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-153.
+- 2015-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 267.
