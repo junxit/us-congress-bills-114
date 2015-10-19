@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 538
@@ -20,9 +20,10 @@ Native American Energy Act
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (2)
 
@@ -73,3 +74,4 @@ Native American Energy Act
 - 2015-10-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 538.
 - 2015-10-08 — The Speaker designated the Honorable David Rouzer to act as Chairman of the Committee.
 - 2015-10-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6919)
+- 2015-10-19 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
