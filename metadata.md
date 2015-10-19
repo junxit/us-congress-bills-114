@@ -1,7 +1,7 @@
 ---
 measure: H.R. 702
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 702
@@ -156,10 +156,11 @@ To adapt to changing crude oil market conditions.
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -278,3 +279,4 @@ To adapt to changing crude oil market conditions.
 - 2015-10-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6964)
 - 2015-10-09 — The previous question was ordered pursuant to the rule. (consideration: CR H6963)
 - 2015-10-09 — The rule provides for one hour debate on H.R. 538, makes specified amendments in order and allows one motion to recommit, with or without instructions. For H.R. 702, the resolution provides for one hour of debate, makes specified amendments in order and allows one motion to recommit, with or without instructions.
+- 2015-10-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
