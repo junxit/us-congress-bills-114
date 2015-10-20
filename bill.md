@@ -31,3 +31,7 @@ This Act may be cited as the “Securing the Cities Act of 2015”.
   > - **(e)** *Prohibition on additional funding* No funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available for such purpose.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1907 the following new item:
+
+## § 3. Model exercises
+
+Not later than 120 days after the date of the enactment of this Act, the Director for Domestic Nuclear Detection of the Department of Homeland Security shall report to the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate on the feasibility of the Director developing model exercises to test the preparedness of jurisdictions participating in the Securing the Cities program under section 1908 of the Homeland Security Act of 2002 (as added by section 2 of this Act) in meeting the challenges that may be posed by a range of nuclear and radiological threats.
