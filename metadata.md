@@ -1,7 +1,7 @@
 ---
 measure: H.R. 598
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 598
@@ -16,12 +16,18 @@ Taxpayers Right-To-Know Act
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Cosponsors (4)
+## Cosponsors (10)
 
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Ryan, Paul D. [R-WI-1] (R000570)
+- Rep. Costa, Jim [D-CA-16] (C001059)
 
 ## Committees (1)
 
@@ -32,3 +38,9 @@ Taxpayers Right-To-Know Act
 - 2015-01-28 — Introduced in House
 - 2015-01-28 — Introduced in House
 - 2015-01-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-02-04 — Sponsor introductory remarks on measure. (CR H765)
+- 2015-07-22 — Committee Consideration and Mark-up Session Held.
+- 2015-07-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-10-20 — Placed on the Union Calendar, Calendar No. 227.
+- 2015-10-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-298.
+- 2015-10-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-298.

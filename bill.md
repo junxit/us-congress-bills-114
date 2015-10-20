@@ -13,48 +13,60 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Taxpayers Right-To-Know Act”.
 
-## § 2. Cost and performance of Government programs
+## § 2. Inventory of government programs
 
 - **(a)** *In general* Section 1122(a) of title 31, United States Code, is amended—
   - **(1)** by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;
   - **(2)** by inserting before paragraph (2), as so redesignated, the following:
-    > - **(1)** *Definition of program* For purposes of this subsection, the term program means an organized set of activities by 1 or more agencies directed toward a common purpose or goal.
+    > - **(1)** *Definition of program* For purposes of this subsection, the term “program” means an organized set of activities by 1 or more agencies directed toward a common purpose or goal.
 
   - **(3)** in paragraph (2), as so redesignated—
-    - **(A)** by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”; and
+    - **(A)** by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”;
     - **(B)** by striking subparagraph (C) and inserting the following:
       > - **(C)** include on the website—
-      >   - **(i)** a program inventory that shall identify each program of the Federal Government, which shall include—
-      >     - **(I)** any activity that is commonly referred to as a program;
-      >     - **(II)** any activity specifically created by law, or referenced in law, as a program;
-      >     - **(III)** each program that has an application process;
-      >     - **(IV)** each program for which financial awards are made on a competitive basis; and
-      >     - **(V)** any activity identified as a program activity in a budget request; and
+      >   - **(i)** a program inventory that shall identify each program of the Federal Government for which there is more than $1,000,000 in annual budget authority, which shall include—
+      >     - **(I)** any activity that is commonly referred to as a program by a Federal agency in communications with Congress, including any activity identified as a program in a budget request;
+      >     - **(II)** any activity that is commonly referred to as a program by a Federal agency in communications with the public, including each program for which financial awards are made on a competitive basis; and
+      >     - **(III)** any activity referenced in law as a program after June 30, 2018; and
       >   - **(ii)** for each program identified in the program inventory, the information required under paragraph (3).
 
   - **(4)** in paragraph (3), as so redesignated—
     - **(A)** in the matter preceding subparagraph (A), by striking “described under paragraph (1)” and inserting “identified in the program inventory required under paragraph (2)”;
-    - **(B)** by striking subparagraph (A) and inserting the following:
-      > - **(A)** the program activities that are considered a program by the agency;
+    - **(B)** by striking subparagraph (C);
+    - **(C)** by redesignating subparagraph (B) as subparagraph (D);
+    - **(D)** by striking subparagraph (A) and inserting the following:
+      > - **(A)** an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;
+      > - **(B)** for each program activity described in subparagraph (A), the amount of funding for the current fiscal year and previous 2 fiscal years;
+      > - **(C)** to the maximum extent practicable, the amount of funding for each program, determined using the pro rata share of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;
 
-    - **(C)** in subparagraph (B), by striking “and” at the end;
-    - **(D)** in subparagraph (C), by striking the period at the end and inserting a semicolon; and
-    - **(E)** by adding at the end the following:
-      > - **(D)** an identification of the specific statute that authorizes the program and any regulations specific to the program;
-      > - **(E)** for any program that provides grants or other financial assistance to individuals or entities, for the most recent fiscal year—
-      >   - **(i)** an estimate of the number of individuals served by the program and beneficiaries who received financial assistance under the program; and
-      >   - **(ii)** an estimate of—
-      >     - **(I)** the number of full-time equivalents who administer the program; and
-      >     - **(II)** the number of full-time equivalents whose salary is paid in part or full by the Federal Government through a grant, contract, cooperative agreement, or another form of financial award or assistance who administer or assist in any way in administering the program;
-      > - **(F)** links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office (including program performance reports required under section 1116) released during the preceding 5 years; and
-      > - **(G)** to the extent available, financial information for each program required to be reported under section 3(b) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note), or a direct link to such information for a specific program on the website established under section 2 of that Act.
+    - **(E)** in subparagraph (D), as so redesignated, by striking “and” at the end; and
+    - **(F)** by adding at the end the following:
+      > - **(E)** an identification of the statutes that authorize the program and any major regulations specific to the program;
+      > - **(F)** for any program that provides grants or other financial assistance to individuals or entities, for the most recent fiscal year—
+      >   - **(i)** a description of the individuals served by the program and beneficiaries who received financial assistance under the program, including an estimate of the number of individuals and beneficiaries, to the extent practicable;
+      >   - **(ii)** for each program for which the head of an agency determines it is not practicable to provide an estimate of the number of individuals and beneficiaries served by the program—
+      >     - **(I)** an explanation of why data regarding the number of such individuals and beneficiaries cannot be provided; and
+      >     - **(II)** a discussion of the measures that could be taken to gather the data required to provide such an estimate; and
+      >   - **(iii)** a description of—
+      >     - **(I)** the Federal employees who administer the program, including the number of full-time equivalents with a pro rata estimate for full-time equivalents associated with multiple programs; and
+      >     - **(II)** other individuals whose salary is paid in part or full by the Federal Government through a grant, contract, cooperative agreement, or another form of financial award or assistance who administer or assist in any way in administering the program, including the number of full-time equivalents, to the extent practicable;
+      > - **(G)** links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office (including program performance reports required under section 1116) released during the preceding 5 years; and
+      > - **(H)** to the extent practicable, financial and other information for each program activity required to be reported under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
-- **(b)** *Guidance* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Management and Budget—
-  - **(1)** shall issue guidance to agencies to identify how the program activities used in budget or appropriations accounts correspond with programs identified in the program inventory required under section 1122(a)(2)(A) of title 31, United States Code, as amended by subsection (a); and
-  - **(2)** may issue guidance to agencies on more closely aligning program activities to the programs in the program inventory for purposes of the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code.
-- **(c)** *Expired grant funding* Not later than February 1 of each fiscal year, the Director of the Office of Management and Budget shall publish on the public website of the Office of Management and Budget the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.
+  - **(5)** by adding at the end the following:
+    > - **(4)** *Archiving* After the end of each fiscal year, the Director of the Office of Management and Budget shall archive and preserve the information included in the program inventory required under paragraph (2) relating to that fiscal year.
 
-## § 3. Regulations and implementation
+- **(b)** *Expired grant funding* Not later than February 1 of each fiscal year, the Director of the Office of Management and Budget shall publish on a public website the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.
 
-- **(a)** *Regulations* Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall prescribe regulations or other guidance to implement this Act, and the amendments made by this Act.
-- **(b)** *Implementation* This Act, and the amendments made by this Act, shall be implemented not later than 1 year after the date of enactment of this Act.
+## § 3. Guidance and implementation
+
+- **(a)** *Guidance* Not later than June 30, 2017, the Director of the Office of Management and Budget—
+  - **(1)** shall prescribe guidance to implement this Act, and the amendments made by this Act;
+  - **(2)** shall issue guidance to agencies to identify how the program activities used for reporting under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) are associated with programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by subsection (a);
+  - **(3)** may issue guidance to agencies to ensure that the programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by subsection (a), are presented at a similar level of detail across agencies and are not duplicative or overlapping; and
+  - **(4)** may, based on an analysis of the costs of implementation, and after submitting to Congress a notification of the action by the Director—
+    - **(A)** exempt from the requirements under section 1122(a) of title 31, United States Code, an agency that—
+      - **(i)** is not listed in section 901(b) of title 31, United States Code; and
+      - **(ii)** for the fiscal year during which the exemption is made, has budget authority (as defined in section 3 of the Congressional Budget Act of 1974 (2 U.S.C. 622)) of not more than $10,000,000; and
+    - **(B)** extend the implementation deadline under subsection (b) by not more than 1 year.
+- **(b)** *Implementation* This Act, and the amendments made by this Act, shall be implemented not later than June 30, 2018.
