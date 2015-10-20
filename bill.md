@@ -2,7 +2,7 @@
 legis-num: H. RES. 348
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 348
@@ -11,27 +11,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas a pro-democratic reform government emerged in Ukraine after then-President Viktor Yanukovych signed an agreement on February 21, 2014, transferring power to the opposition and then fled the country;
-- Whereas following the resignation of President Yanukovych, Russian President Vladimir Putin ordered the forcible and illegal occupation of the Crimean region of Ukraine in March 2014;
-- Whereas Russian-led separatists have forcibly seized large areas of Ukraine and continue their attacks on Ukrainian forces;
+- Whereas after President Yanukovych had fled Kyiv, Russian President Vladimir Putin ordered the forcible and illegal occupation of Crimea in March 2014;
+- Whereas Russian-led separatists have forcibly seized large areas of Ukraine and continue their attacks on Ukraine’s forces;
 - Whereas the Russian Federation has continued to engage in relentless political, economic, and military aggression to subvert the independence and violate the territorial integrity of Ukraine;
-- Whereas the United States has supported the democratically elected Government of Ukraine, as it represents the will of the people of Ukraine, and Congress has passed multiple pieces of legislation to provide support to Ukraine;
+- Whereas the United States has supported the democratically elected Government of Ukraine, which represents the will of the people of Ukraine, and Congress has passed multiple pieces of legislation to provide support to Ukraine;
 - Whereas Congress passed the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014 (Public Law 113–95), which authorized loan guarantees for the Government of Ukraine;
-- Whereas Congress passed the Ukraine Freedom Support Act of 2014 (Public Law 113–272), which authorized the Administration to provide the Ukrainian Government with support to facilitate necessary reforms, and stated that it is U.S. policy to assist the Government of Ukraine in restoring its sovereignty and territorial integrity;
-- Whereas in September 2014, a cease-fire agreement was brokered between the Government of Ukraine, Russian officials, and Russian-led insurgents, but fighting has continued and the agreement was never fully implemented;
-- Whereas in February 2015, Ukraine, Russia, and Russian-led insurgents agreed to an additional cease-fire, known as the Minsk Implementation Agreement or Minsk 2;
-- Whereas pursuant to the Minsk agreements, local elections are to be held by the end of 2015 in regions controlled by Russian-led insurgents and legal and constitutional reforms are to be negotiated to give a special status to the region;
-- Whereas the United States continues to receive reports of extensive violations by Russia and Russian-led forces in the eastern region of Ukraine;
+- Whereas Congress passed the Ukraine Freedom Support Act of 2014 (Public Law 113–272), which authorized the Administration to provide Ukraine’s Government with support to facilitate necessary reforms, and stated that it is United States policy to assist the Government of Ukraine in restoring its sovereignty and territorial integrity;
+- Whereas in September 2014, a cease-fire agreement was brokered between Ukraine, Russia, and Russian-led separatists, but the agreement was never fully implemented;
+- Whereas in February 2015, an additional cease-fire, known as the Minsk Implementation Agreement or Minsk 2, was agreed upon;
 - Whereas the United States has assisted in many elections around the world, including Ukraine’s Presidential election in May 25, 2014, to ensure that international election standards are upheld;
-- Whereas early parliamentary elections were held on October 26, 2014, but 29 of the 450 seats in parliament were not filled due to the inability to hold elections in districts controlled by separatists;
-- Whereas, despite the disenfranchisement of people living in separatist-controlled regions, international election observers declared the parliamentary elections to have met international standards;
-- Whereas Ukraine and Russia are members of the Organization for Security and Cooperation in Europe and party to its commitments, including the 1990 Copenhagen Document which states that member states “will respect each other’s right freely to choose and develop, in accordance with international human rights standards, their political, social, economic and cultural systems” and that “free elections that will be held at reasonable intervals by secret ballot or by equivalent free voting procedure, under conditions which ensure in practice the free expression of the opinion of the electors in the choice of their representatives”;
+- Whereas early parliamentary elections were held on October 26, 2014, but 29 of the 450 seats in parliament were not filled due to the inability to hold elections in areas controlled by separatists;
+- Whereas, despite the disenfranchisement of people living in separatist-controlled areas, international election observers declared the parliamentary elections in the rest of the country to have met international standards;
+- Whereas Ukraine and Russia are participating States of the Organization for Security and Cooperation in Europe and party to its commitments, including the 1990 Copenhagen Document which states that States “will respect each other’s right freely to choose and develop, in accordance with international human rights standards, their political, social, economic and cultural systems” and that “free elections that will be held at reasonable intervals by secret ballot or by equivalent free voting procedure, under conditions which ensure in practice the free expression of the opinion of the electors in the choice of their representatives”;
 - Whereas the next local elections are scheduled to take place in Ukraine on October 25, 2015;
-- Whereas these elections are critical to continued legislative and constitutional reform in Ukraine; and
+- Whereas these elections are critical to continued legislative and constitutional reform in Ukraine;
+- Whereas the Russian-led separatists in eastern Ukraine continue to refuse to implement Ukrainian law and to permit Ukrainian authorities to conduct elections in the areas they control and have therefore made free and fair elections in those areas impossible;
+- Whereas Ukraine’s government has therefore been forced to postpone the local elections in those areas; and
 - Whereas the United States is supporting efforts to promote citizen engagement in the constitutional reform process, educating voters, and election monitoring: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** strongly supports the right of the people of Ukraine to freely elect their government and determine their future;
 - **(2)** urges the Administration to expedite assistance to Ukraine to facilitate the political, economic, and social reforms necessary for free and fair elections that meet international standards; and
-- **(3)** condemns attempts on the part of any outside forces, including the Government of Russia, its agents or supporters, to interfere in Ukraine’s elections, including through interference, intimidation, violence, or coercion.
+- **(3)** condemns attempts on the part of outside forces, specifically the Government of Russia, its agents and supporters, to interfere in Ukraine’s elections, including through intimidation, violence, or coercion.
