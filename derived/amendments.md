@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2320
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -38,4 +38,4 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 3321` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 3321` | replace | in section 5(a)(2), by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 3321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 3321` | add-at-end | Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 3321` | add-at-end | Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

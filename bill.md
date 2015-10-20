@@ -13,13 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Federal Improper Payments Coordination Act of 2015”.
 
-## § 2. Availability of the Do Not Pay Initiative to the judicial and legislative branches and states
+## § 2. Availability of the do not pay initiative to the judicial and legislative branches and states
 
 Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) is amended—
 
 - **(1)** in subsection (b)(3)—
   - **(A)** in the paragraph heading, by striking “by agencies”; and
-  - **(B)** by adding at the end the following: “States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility for payments (as defined in section (2)(g)(3) of the Improper Payments Information Act of 2002, 31 U.S.C. 3321 note) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.”; and
+  - **(B)** by adding at the end the following: “States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable. To ensure consistency with the principles of section 552a of title 5, United States Code (commonly known as the Privacy Act of 1974) the Director of the Office of Management and Budget may issue guidance that establishes privacy and other requirements that shall be incorporated into Do Not Pay Initiative access agreements with States, including any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States.”; and
 - **(2)** in subsection (d)(2)—
   - **(A)** in subparagraph (B), by striking “and” after the semicolon;
   - **(B)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
@@ -36,9 +36,9 @@ The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C
 - **(2)** by adding at the end the following:
   > ## § 7. Improving the use of data by government agencies for curbing improper payments
   >
-  > - **(a)** *Prompt reporting of death information by the Department of State and the Department of Defense* Not later than 1 year after the date of the enactment of this section, the Secretary of State and the Secretary of Defense shall establish a procedure under which each Secretary shall, promptly and on a regular basis, submit information relating to the deaths of individuals to each agency for which the Director of the Office of Management and Budget determines receiving and using such information would be relevant and necessary.
+  > - **(a)** *Prompt reporting of death information by the department of state and the department of defense* Not later than 1 year after the date of enactment of this section, the Secretary of State and the Secretary of Defense shall establish a procedure under which each Secretary shall, promptly and on a regular basis, submit information relating to the deaths of individuals to each agency for which the Director of the Office of Management and Budget determines receiving and using such information would be relevant and necessary.
   > - **(b)** *Guidance to agencies regarding data access and use for improper payments purposes*
-  >   - **(1)** *In general* Not later than 6 months after the date of the enactment of this section, and in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, the Director of the Office of Management and Budget shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
+  >   - **(1)** *In general* Not later than 12 months after the date of enactment of this section, the Director of the Office of Management and Budget, in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, as appropriate, shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
   >     - **(A)** the Department of the Treasury; and
   >     - **(B)** each agency or component of an agency—
   >       - **(i)** that operates or maintains a database of information described in section 5(a)(2); or
@@ -47,14 +47,14 @@ The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C
   >     - **(A)** address the implementation of subsection (a); and
   >     - **(B)** include the establishment of deadlines for access to and use of the databases described in section 5(a)(2) under the Do Not Pay Initiative.
 
-## § 4. Data Analytics
+## § 4. Data analytics
 
-Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), as amended by section 2, is further amended by adding at the end the following:
+Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), is amended by adding at the end the following:
 
-> - **(h)** *Report on improper payments data analysis* Not later than 180 days after the date of the enactment of the Federal Improper Payments Coordination Act of 2015, the Secretary of the Treasury shall submit to Congress a report that includes a description of—
->   - **(1)** data analytics performed as part of the Do Not Pay Initiative for the purpose of detecting, preventing, and recovering improper payments through pre-award, post-award, pre-payment, and post-payment analysis, which shall include a description of any analysis or investigations incorporating—
+> - **(h)** *Report on improper payments data analysis* Not later than 180 days after the date of enactment of the Federal Improper Payments Coordination Act of 2015, the Secretary of the Treasury shall submit to Congress a report which shall include a description of—
+>   - **(1)** data analytics performed as part of the Do Not Pay Business Center operated by the Department of the Treasury for the purpose of detecting, preventing, and recovering improper payments through preaward, postaward prepayment, and postpayment analysis, which shall include a description of any analysis or investigations incorporating—
 >     - **(A)** review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
->     - **(B)** review of multiple agencies and programs for which comparison of data could show payment duplication; and
->     - **(C)** review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple agencies or programs;
+>     - **(B)** review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
+>     - **(C)** review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple Federal agencies or programs;
 >   - **(2)** the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improper awards; and
->   - **(3)** the target dates for implementing the data analytics operations performed as part of the Do Not Pay Initiative.
+>   - **(3)** the target dates for implementing the data analytics operations performed as part of the Do Not Pay Business Center.
