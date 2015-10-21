@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 692
@@ -135,6 +135,10 @@ Default Prevention Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2015-10-21 — [House 114-1-557](votes/house-114-1-0557.md) — On Passage — **Passed** (235–194)
+
 ## Actions
 
 - 2015-02-03 — Introduced in House
@@ -146,3 +150,14 @@ Default Prevention Act
 - 2015-09-18 — Placed on the Union Calendar, Calendar No. 201.
 - 2015-09-18 — Reported by the Committee on Ways and Means. H. Rept. 114-265.
 - 2015-09-18 — Reported by the Committee on Ways and Means. H. Rept. 114-265.
+- 2015-10-20 — Rules Committee Resolution H. Res. 480 Reported to House. Resolution provides for consideration of both H.R. 10 and H.R. 692.
+- 2015-10-21 — Considered as unfinished business. (consideration: CR H7077)
+- 2015-10-21 — Considered under the provisions of rule H. Res. 480. (consideration: CR H7053-7060)
+- 2015-10-21 — DEBATE - The House proceeded with one hour of debate on H.R. 692.
+- 2015-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-21 — On passage Passed by the Yeas and Nays: 235 - 194 (Roll no. 557). (text: CR H7053-7054)
+- 2015-10-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 692, the Chair put the question on adoption the bill, and by voice vote announced that the ayes had prevailed. Mr. Levin demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
+- 2015-10-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 194 (Roll no. 557).(text: CR H7053-7054)
+- 2015-10-21 — Resolution provides for consideration of both H.R. 10 and H.R. 692.
+- 2015-10-21 — Rule H. Res. 480 passed House.
+- 2015-10-21 — The previous question was ordered pursuant to the rule. (consideration: CR H7060)
