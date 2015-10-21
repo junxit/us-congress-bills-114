@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 108
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 108
@@ -16,7 +16,7 @@ A resolution commemorating the discovery of the polio vaccine and supporting eff
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -28,6 +28,7 @@ A resolution commemorating the discovery of the polio vaccine and supporting eff
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (1)
 
@@ -37,3 +38,7 @@ A resolution commemorating the discovery of the polio vaccine and supporting eff
 
 - 2015-03-24 — Introduced in Senate
 - 2015-03-24 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S1784)
+- 2015-10-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-21 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7425)
+- 2015-10-21 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S7425)
