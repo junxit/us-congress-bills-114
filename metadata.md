@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3350
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3350
@@ -21,9 +21,10 @@ Know the CBRN Terrorism Threats to Transportation Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Know the CBRN Terrorism Threats to Transportation Act
 - 2015-10-20 — Placed on the Union Calendar, Calendar No. 225.
 - 2015-10-20 — Reported by the Committee on Homeland Security. H. Rept. 114-296.
 - 2015-10-20 — Reported by the Committee on Homeland Security. H. Rept. 114-296.
+- 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
