@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1315
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1315
@@ -16,9 +16,10 @@ To amend section 1105(a) of title 31, United States Code, to require that annual
 
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To amend section 1105(a) of title 31, United States Code, to require that annual
 - 2015-10-20 — Mr. Messer moved to suspend the rules and pass the bill.
 - 2015-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7005)
 - 2015-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7005)
+- 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on the Budget.
