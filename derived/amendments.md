@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 20 U.S.C. § 6316
 
-> in subparagraph (A), by striking “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” and inserting “identified as a low-achieving school according to the Office of the State Superintendent of Education of the District of Columbia”; and
+> in subparagraph (A), by striking “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” and inserting “identified as one of the lowest-performing schools under the District of Columbia’s accountability system”; and
 
 | | |
 |---|---|
 | Removed | `identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)` |
-| Inserted | `identified as a low-achieving school according to the Office of the State Superintendent of Education of the District of Columbia` |
+| Inserted | `identified as one of the lowest-performing schools under the District of Columbia’s accountability system` |
 
 ### 20 U.S.C. § 6316
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 20 U.S.C. § 6316
 
-> Section 3007(c) (sec. 38–1853.07(c), D.C. Official Code), as redesignated by subsection (c)(2), is amended by striking “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” and inserting “identified as a low-achieving school according to the Office of the State Superintendent of Education of the District of Columbia”.
+> Section 3007(c) (sec. 38–1853.07(c), D.C. Official Code), as redesignated by subsection (c)(2), is amended by striking “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” and inserting “identified as one of the lowest-performing schools under the District of Columbia’s accountability system”.
 
 | | |
 |---|---|
 | Removed | `identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)` |
-| Inserted | `identified as a low-achieving school according to the Office of the State Superintendent of Education of the District of Columbia` |
+| Inserted | `identified as one of the lowest-performing schools under the District of Columbia’s accountability system` |
 
 ## Stated, not applied
 
