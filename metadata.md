@@ -1,7 +1,7 @@
 ---
 measure: H.R. 208
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 208
@@ -57,3 +57,15 @@ RISE After Disaster Act of 2015
 - 2015-10-21 — Senate amendment agreed to: Amendment SA 2747 agreed to in Senate by Unanimous Consent.
 - 2015-10-21 — Senate amendment proposed (on the floor): Amendment SA 2747 proposed by Senator Vitter.(consideration: CR S7406-7407)
 - 2015-10-21 — Senate amendment submitted
+- 2015-10-22 — Message on Senate action sent to the House.
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on the Chabot motion to suspend the rules and agree to the Senate amendments to H.R. 208.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Chabot moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8223-8227)
+- 2015-11-16 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H8223-8226)
+- 2015-11-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H8223-8226)
+- 2015-11-19 — Presented to President.
+- 2015-11-19 — Presented to President.
+- 2015-11-25 — Became Public Law No: 114-88.
+- 2015-11-25 — Became Public Law No: 114-88.
+- 2015-11-25 — Signed by President.
+- 2015-11-25 — Signed by President.
