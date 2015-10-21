@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3572
@@ -21,9 +21,10 @@ DHS Headquarters Reform and Improvement Act of 2015
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ DHS Headquarters Reform and Improvement Act of 2015
 - 2015-10-20 — Placed on the Union Calendar, Calendar No. 226.
 - 2015-10-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-297.
 - 2015-10-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-297.
+- 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

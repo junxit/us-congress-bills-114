@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 114
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-75 amendatory instructions. 4 executed, 71 stated and not applied.
+76 amendatory instructions. 4 executed, 72 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -86,9 +86,10 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 142` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the items relating to title VI and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | insert | by inserting after the item relating to section 890A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 459` | repeal | Section 879 of the Homeland Security Act of 2002 (6 U.S.C. 459), and the item relating to such section in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 459` | repeal | Subsection 879 of the Homeland Security Act of 2002 (6 U.S.C. 459), and the item relating to such section in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 607` | repeal | Subsection (b) of section 2006 of the Homeland Security Act of 2002 (6 U.S.C. 607) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 631` | repeal | Section 801 of the Homeland Security Act of 2002 (6 U.S.C. 631), and the item relating to that section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 112` | repeal | Section 102(f) of the Homeland Security Act of 2002 (6 U.S.C. 112(f)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | redesignate | in paragraph (1), by striking subparagraph (I) and redesignating subparagraph (J) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 112` | add-at-end | Section 102(b) of the Homeland Security Act of 2002 (6 U.S.C. 112(b)) is amended by striking “and” after the semicolon at the end of paragraph (2), striking the period at the end of paragraph (3) and inserting “; and”, and adding at the … | the bill quotes text on both sides, but not as a single substitution this could carry out |
