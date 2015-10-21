@@ -1,7 +1,7 @@
 ---
 measure: H.R. 208
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 208
@@ -47,3 +47,13 @@ RISE After Disaster Act of 2015
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5096-5097)
 - 2015-07-13 — The title of the measure was amended. Agreed to without objection.
 - 2015-07-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2015-10-21 — Amendment SA 2747 agreed to in Senate by Unanimous Consent.
+- 2015-10-21 — Amendment SA 2747 proposed by Senator Vitter. (consideration: CR S7406-7407) To improve the bill.
+- 2015-10-21 — Measure laid before Senate by unanimous consent. (consideration: CR S7406-7407)
+- 2015-10-21 — Passed Senate with amendments by Unanimous Consent.
+- 2015-10-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2015-10-21 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: CR S7406)
+- 2015-10-21 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.(consideration: CR S7406)
+- 2015-10-21 — Senate amendment agreed to: Amendment SA 2747 agreed to in Senate by Unanimous Consent.
+- 2015-10-21 — Senate amendment proposed (on the floor): Amendment SA 2747 proposed by Senator Vitter.(consideration: CR S7406-7407)
+- 2015-10-21 — Senate amendment submitted

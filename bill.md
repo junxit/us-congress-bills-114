@@ -2,84 +2,50 @@
 legis-num: H.R. 208
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 208
 
-> To improve the disaster assistance programs of the Small Business Administration.
+That the bill from the House of Representatives (H.R. 208) entitled “An Act to improve the disaster assistance programs of the Small Business Administration.”, do pass with the following
 
-## § 1. Short title
+*(1)On page 2, strike lines 1 through 5 and insert the following:*
 
-This Act may be cited as the “Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015”.
+## § 1. Short title; table of contents
 
-## § 2. Findings
+- **(a)** *Short title* This Act may be cited as the “Recovery Improvements for Small Entities After Disaster Act of 2015” or the “RISE After Disaster Act of 2015”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-Congress finds the following:
+*(2)On page 3, strike line 5 and insert the following:*
 
-- **(1)** In 2012, Superstorm Sandy caused substantial physical and economic damage to the United States, and New York in particular.
-- **(2)** For businesses and homeowners, the primary means of obtaining long-term Federal financial assistance in the wake of disasters such as Superstorm Sandy is through the Small Business Administration’s Disaster Loan Program.
-- **(3)** With regard to the Small Business Administration’s operation of the Disaster Loan Program after Superstorm Sandy, the Government Accountability Office found that the Administration did not meet its timeliness goals for processing business loan applications.
-- **(4)** According to the Government Accountability Office, the Small Business Administration stated that it was challenged by an unexpectedly high volume of loan applications that it received early in its response to Superstorm Sandy.
-- **(5)** As a result, many businesses and homeowners affected by Superstorm Sandy were unable to apply for financing from the Small Business Administration.
+*(3)On page 3, line 14, insert “nonprofit entity,” after “homeowner,”.*
 
-## § 3. Revised disaster deadline
+*(4)On page 4, line 9, strike the quotation marks and the second period and insert the following:*
 
-Section 7(d) of the Small Business Act (15 U.S.C. 636(d)) is amended by adding at the end the following:
+> - **(C)** *Inspector General review* Not later than 6 months after the date on which the Administrator begins carrying out this authority, the Inspector General of the Administration shall initiate a review of the controls for ensuring applicant eligibility for loans made under this paragraph.
 
-> - **(8)** *Disaster loans for Superstorm Sandy*
->   - **(A)** *In general* Notwithstanding any other provision of law, and subject to the same requirements and procedures that are used to make loans pursuant to subsection (b), a small business concern, homeowner, or renter that was located within an area and during the time period with respect to which a major disaster was declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) by reason of Superstorm Sandy may apply to the Administrator—
->     - **(i)** for a loan to repair, rehabilitate, or replace property damaged or destroyed by reason of Superstorm Sandy; or
->     - **(ii)** if such a small business concern has suffered substantial economic injury by reason of Superstorm Sandy, for a loan to assist such a small business concern.
->   - **(B)** *Timing* The Administrator shall select loan recipients and make available loans for a period of not less than 1 year after the date on which the Administrator carries out this authority.
+*(5)On page 4, line 10, strike “Sec. 4.” and insert “Sec. 1102.”.*
 
-## § 4. Use of physical damage disaster loans to construct safe rooms
+*(6)On page 4, line 24, insert “, if such safe room or similar storm shelter is constructed in accordance with applicable standards issued by the Federal Emergency Management Agency” after “disasters”.*
 
-Section 7(b)(1)(A) of the Small Business Act (15 U.S.C. 636(b)(1)(A)) is amended by striking “mitigating measures” and all that follows through “modifying structures” and inserting the following:
+*(7)On page 5, strike lines 1 through 21 and insert the following:*
 
-> mitigating measures, including—
-> - **(i)** construction of retaining walls and sea walls;
-> - **(ii)** grading and contouring land; and
-> - **(iii)** relocating utilities and modifying structures, including construction of a safe room or similar storm shelter designed to protect property and occupants from tornadoes or other natural disasters
+## § 1103. Reducing delays on closing and disbursement of loans
 
-## § 5. Collateral requirements for small business concerns
+Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting before the undesignated matter following paragraph (9) the following:
 
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting after paragraph (9) the following:
+*(8)On page 5, line 22, strike “(11)” and insert “(10)”.*
 
-> - **(10)** *Collateral requirements for small businesses* In the case of a loan made pursuant to this subsection in an amount not greater than $250,000, the Administrator may not require a borrower to pledge his or her primary residence as collateral if—
->   - **(A)** other collateral exists, including assets related to the operation of a business; and
->   - **(B)** such an option does not delay the Administrator’s processing of disaster applications for a disaster.
+*(9)On page 6, strike lines 5 through 8 and insert the following:*
 
-## § 6. Reducing delays on closing and disbursement of loans
+## § 1104. Safeguarding taxpayer interests and increasing transparency in loan approvals
 
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (10) (as added by section 5) the following:
+Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting before the undesignated matter following paragraph (10), as added by section 1103 of this Act, the following:
 
-> - **(11)** *Reducing closing and disbursement delays* The Administrator shall provide a clear and concise notification on all application materials for loans made under this subsection and on relevant websites notifying an applicant that the applicant may submit all documentation necessary for the approval of the loan at the time of application and that failure to submit all documentation could delay the approval and disbursement of the loan.
+*(10)On page 6, line 9, strike “(12)” and insert “(11)”.*
 
-## § 7. Increasing transparency in loan approvals
+*(11)Beginning on page 6, strike line 14 and all that follows through page 7, line 20, and insert the following:*
 
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (11) (as added by section 6) the following:
+## § 1105. Disaster plan improvements
 
-> - **(12)** *Increasing transparency in loan approvals* The Administrator shall establish and implement clear, written policies and procedures for analyzing the ability of a loan applicant to repay a loan made under this subsection.
-
-## § 8. Safeguarding taxpayers’ interests
-
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (12) (as added by section 7) the following:
-
-> - **(13)** *Ensuring accountability in loan approvals* The Administrator shall establish requirements for the approval of economic injury disaster loan assistance made available pursuant to paragraph (2), which shall include the review of applicant eligibility and shall require that all supporting documentation is submitted prior to loan approval. The Administrator shall require that personnel involved in the approval of such loans be trained on such procedures.
-
-## § 9. Disaster performance measures
-
-Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is further amended by inserting after paragraph (13) (as added by section 8) the following:
-
-> - **(14)** *Reporting on disaster performance measures* The Administrator shall report the average processing time for all other disaster loan applications, including disaggregated data on disaster loan applications that were declined by the Administration’s automated disaster processing system and applications in which the Administrator performed loss verification. For each disaster described in paragraph (2), the Administrator shall report such average processing times on its website and to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate.
-
-## § 10. Disaster plan improvements
-
-The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration’s response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing.
-
-## § 11. Report to Congress on implementation of certain programs
-
-- **(a)** *Initial report* The Administrator of the Small Business Administration shall report to Congress not later than 30 days after the date of enactment of this Act on the implementation and status of the private disaster loan program established in section 7(c) of the Small Business Act (15 U.S.C. 636(c)), the Immediate Disaster Assistance program established in section 42 of such Act (15 U.S.C. 657n), and the expedited disaster assistance business loan program established in section 12085 of the Small Business Disaster Response and Loan Improvements Act of 2008 (15 U.S.C. 636j).
-- **(b)** *Required consultation with depository institutions and credit unions* The Administrator shall require the Associate Administrator for the Office of Disaster Assistance to consult with depository institutions (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) and credit unions regarding their potential participation in any of the programs described in subsection (a).
-- **(c)** *Report on consultation* Not later than 6 months after date of enactment of this Act, the Administrator shall report to Congress on the consultation required under subsection (b).
+*(12)Beginning on page 8, strike line 6 and all that follows through page 9, line 6, and insert the following:*
