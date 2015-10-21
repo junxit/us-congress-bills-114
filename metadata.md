@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1428
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1428
@@ -22,10 +22,11 @@ Judicial Redress Act of 2015
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Judicial Redress Act of 2015
 - 2015-10-20 — Placed on the Union Calendar, Calendar No. 223.
 - 2015-10-20 — Reported by the Committee on Judiciary. H. Rept. 114-294, Part I.
 - 2015-10-20 — Reported by the Committee on Judiciary. H. Rept. 114-294, Part I.
+- 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
