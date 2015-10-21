@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3493
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3493
@@ -22,9 +22,10 @@ Securing the Cities Act of 2015
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Securing the Cities Act of 2015
 - 2015-10-20 — Placed on the Union Calendar, Calendar No. 224.
 - 2015-10-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-295.
 - 2015-10-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-295.
+- 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
