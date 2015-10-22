@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 10
@@ -83,3 +83,4 @@ Scholarships for Opportunity and Results Reauthorization Act
 - 2015-10-21 — The Speaker designated the Honorable George Holding to act as Chairman of the Committee.
 - 2015-10-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7077)
 - 2015-10-21 — The previous question was ordered pursuant to the rule. (consideration: CR H7076)
+- 2015-10-22 — Received in the Senate.
