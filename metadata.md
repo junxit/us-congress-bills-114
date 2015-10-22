@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 288
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 288
@@ -28,3 +28,7 @@ A resolution commemorating October 22, 2015, as the 50th anniversary of the enac
 
 - 2015-10-19 — Introduced in Senate
 - 2015-10-19 — Referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S7305)
+- 2015-10-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2015-10-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7477)
+- 2015-10-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7477)
