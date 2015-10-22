@@ -19,7 +19,7 @@ Congress finds the following:
 
 - **(1)** The industrialization of developing nations has driven demand for nonfuel minerals necessary for telecommunications, military technologies, healthcare technologies, and conventional and renewable energy technologies.
 - **(2)** The availability of minerals and mineral materials are essential for economic growth, national security, technological innovation, and the manufacturing and agricultural supply chain.
-- **(3)** The exploration, production, processing, use, and recycling of minerals contribute significantly to the economic well-being, security and general welfare of the Nation.
+- **(3)** The exploration, production, processing, use, and recycling of minerals contribute significantly to the economic well-being, security, and general welfare of the Nation.
 - **(4)** The United States has vast mineral resources, but is becoming increasingly dependent upon foreign sources of these mineral materials, as demonstrated by the following:
   - **(A)** Twenty-five years ago the United States was dependent on foreign sources for 45 nonfuel mineral materials, 8 of which the United States imported 100 percent of the Nation’s requirements, and for another 19 commodities the United States imported more than 50 percent of the Nation’s needs.
   - **(B)** By 2014 the United States import dependence for nonfuel mineral materials increased from 45 to 65 commodities, 19 of which the United States imported for 100 percent of the Nation’s requirements, and an additional 24 of which the United States imported for more than 50 percent of the Nation’s needs.

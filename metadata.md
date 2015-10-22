@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1937
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1937
@@ -72,6 +72,15 @@ National Strategic and Critical Minerals Production Act of 2015
 - House — Judiciary Committee
 - House — Natural Resources Committee
 
+## Recorded votes (6)
+
+- 2015-10-22 — [House 114-1-560](votes/house-114-1-0560.md) — On Agreeing to the Amendment — **Failed** (176–253)
+- 2015-10-22 — [House 114-1-561](votes/house-114-1-0561.md) — On Agreeing to the Amendment — **Failed** (181–248)
+- 2015-10-22 — [House 114-1-562](votes/house-114-1-0562.md) — On Agreeing to the Amendment — **Failed** (184–245)
+- 2015-10-22 — [House 114-1-563](votes/house-114-1-0563.md) — On Agreeing to the Amendment — **Failed** (183–246)
+- 2015-10-22 — [House 114-1-564](votes/house-114-1-0564.md) — On Motion to Recommit with Instructions — **Failed** (184–246)
+- 2015-10-22 — [House 114-1-565](votes/house-114-1-0565.md) — On Passage — **Passed** (254–177)
+
 ## Actions
 
 - 2015-04-22 — Introduced in House
@@ -91,3 +100,68 @@ National Strategic and Critical Minerals Production Act of 2015
 - 2015-09-08 — Placed on the Union Calendar, Calendar No. 192.
 - 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-253, Part I.
 - 2015-09-08 — Reported by the Committee on Natural Resources. H. Rept. 114-253, Part I.
+- 2015-10-20 — Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 1937 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2015-10-21 — Rule H. Res. 481 passed House.
+- 2015-10-22 — Amendment (A001) offered by Mr. Lowenthal. (consideration: CR H7114-7115, H7120; text: CR H7114)
+- 2015-10-22 — Amendment (A002) offered by Mrs. Dingell. (consideration: CR H7115-7116, H7120-7121; text: CR H7115)
+- 2015-10-22 — Amendment (A003) offered by Mr. Cartwright. (consideration: CR H7116-7117, H7121; text: CR H7116)
+- 2015-10-22 — Amendment (A004) offered by Mr. Pearce. (consideration: CR H7117-7118; text: CR H7117)
+- 2015-10-22 — Amendment (A005) offered by Mr. Hastings. (consideration: CR H7118-7119, H7121-7122; text: CR H7118)
+- 2015-10-22 — Amendment agreed to Committee of the Whole
+- 2015-10-22 — Amendment failed in Committee of the Whole
+- 2015-10-22 — Amendment failed in Committee of the Whole
+- 2015-10-22 — Amendment failed in Committee of the Whole
+- 2015-10-22 — Amendment failed in Committee of the Whole
+- 2015-10-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 1937 as unfinished business.
+- 2015-10-22 — Considered as unfinished business. (consideration: CR H7119-7124)
+- 2015-10-22 — Considered under the provisions of rule H. Res. 481. (consideration: CR H7107-7119)
+- 2015-10-22 — DEBATE - Pursuant to the provisions of H.Res. 481, the Committee of the Whole House proceeded with 10 minutes of debate on the Cartwright amendment No. 3.
+- 2015-10-22 — DEBATE - Pursuant to the provisions of H.Res. 481, the Committee of the Whole House proceeded with 10 minutes of debate on the Dingell amendment No. 2.
+- 2015-10-22 — DEBATE - Pursuant to the provisions of H.Res. 481, the Committee of the Whole House proceeded with 10 minutes of debate on the Hastings amendment No. 5.
+- 2015-10-22 — DEBATE - Pursuant to the provisions of H.Res. 481, the Committee of the Whole House proceeded with 10 minutes of debate on the Lowenthal amendment No. 1.
+- 2015-10-22 — DEBATE - Pursuant to the provisions of H.Res. 481, the Committee of the Whole House proceeded with 10 minutes of debate on the Pearce amendment No. 4.
+- 2015-10-22 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Peters motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit or limit the agency responsible for issuing a mineral exploration or mine permit from assessing the extent to which the authorized activity contributes to climate change.
+- 2015-10-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1937.
+- 2015-10-22 — House amendment agreed to: On agreeing to the Pearce amendment (A004) Agreed to by voice vote.
+- 2015-10-22 — House amendment not agreed to: On agreeing to the Cartwright amendment (A003) Failed by recorded vote: 184 - 245 (Roll no. 562).
+- 2015-10-22 — House amendment not agreed to: On agreeing to the Dingell amendment (A002) Failed by recorded vote: 181 - 248 (Roll no. 561).
+- 2015-10-22 — House amendment not agreed to: On agreeing to the Hastings amendment (A005) Failed by recorded vote: 183 - 246 (Roll no. 563).
+- 2015-10-22 — House amendment not agreed to: On agreeing to the Lowenthal amendment (A001) Failed by recorded vote: 176 - 253 (Roll no. 560).
+- 2015-10-22 — House amendment offered
+- 2015-10-22 — House amendment offered
+- 2015-10-22 — House amendment offered
+- 2015-10-22 — House amendment offered
+- 2015-10-22 — House amendment offered
+- 2015-10-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. Lowenthal.(consideration: CR H7114-7115, H7120; text: CR H7114)
+- 2015-10-22 — House amendment offered/reported by : Amendment (A002) offered by Mrs. Dingell.(consideration: CR H7115-7116, H7120-7121; text: CR H7115)
+- 2015-10-22 — House amendment offered/reported by : Amendment (A003) offered by Mr. Cartwright.(consideration: CR H7116-7117, H7121; text: CR H7116)
+- 2015-10-22 — House amendment offered/reported by : Amendment (A004) offered by Mr. Pearce.(consideration: CR H7117-7118; text: CR H7117)
+- 2015-10-22 — House amendment offered/reported by : Amendment (A005) offered by Mr. Hastings.(consideration: CR H7118-7119, H7121-7122; text: CR H7118)
+- 2015-10-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 481 and Rule XVIII.
+- 2015-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-22 — Mr. Lamborn moved that the committee rise.
+- 2015-10-22 — Mr. Peters moved to recommit with instructions to the Committee on Natural Resources. (consideration: CR H7122-7124; text: CR H7122)
+- 2015-10-22 — On agreeing to the Cartwright amendment (A003) Failed by recorded vote: 184 - 245 (Roll no. 562).
+- 2015-10-22 — On agreeing to the Dingell amendment (A002) Failed by recorded vote: 181 - 248 (Roll no. 561).
+- 2015-10-22 — On agreeing to the Hastings amendment (A005) Failed by recorded vote: 183 - 246 (Roll no. 563).
+- 2015-10-22 — On agreeing to the Lowenthal amendment (A001) Failed by recorded vote: 176 - 253 (Roll no. 560).
+- 2015-10-22 — On agreeing to the Pearce amendment (A004) Agreed to by voice vote.
+- 2015-10-22 — On motion that the committee rise Agreed to by voice vote.
+- 2015-10-22 — On motion to recommit with instructions Failed by recorded vote: 184 - 246 (Roll no. 564).
+- 2015-10-22 — On passage Passed by the Yeas and Nays: 254 - 177 (Roll no. 565).
+- 2015-10-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Cartwright demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2015-10-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dingell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mrs. Dingell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2015-10-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Hastings demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2015-10-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowenthal amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Lowenthal demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2015-10-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 254 - 177 (Roll no. 565).
+- 2015-10-22 — Roll call votes on amendments in House
+- 2015-10-22 — Roll call votes on amendments in House
+- 2015-10-22 — Roll call votes on amendments in House
+- 2015-10-22 — Roll call votes on amendments in House
+- 2015-10-22 — Rule provides for consideration of H.R. 1937 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2015-10-22 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union. (text of measure as amended in House: CR H7113-7114)
+- 2015-10-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-10-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1937.
+- 2015-10-22 — The Speaker designated the Honorable Kenny Marchant to act as Chairman of the Committee.
+- 2015-10-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7123)
+- 2015-10-22 — The previous question was ordered pursuant to the rule. (consideration: CR H7122)
