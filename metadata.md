@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 692
@@ -161,3 +161,4 @@ Default Prevention Act
 - 2015-10-21 — Resolution provides for consideration of both H.R. 10 and H.R. 692.
 - 2015-10-21 — Rule H. Res. 480 passed House.
 - 2015-10-21 — The previous question was ordered pursuant to the rule. (consideration: CR H7060)
+- 2015-10-22 — Received in the Senate.
