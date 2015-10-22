@@ -1,7 +1,7 @@
 ---
 measure: S. 799
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 799
@@ -58,3 +58,15 @@ Protecting Our Infants Act of 2015
 - 2015-10-22 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7439-7441; text as passed Senate: CR S7439-7440)
 - 2015-10-22 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7439-7441; text as passed Senate: CR S7439-7440)
 - 2015-10-22 — Received in the House.
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8180-8182)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 799.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Pitts moved to suspend the rules and pass the bill.
+- 2015-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8180)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8180)
+- 2015-11-19 — Presented to President.
+- 2015-11-19 — Presented to President.
+- 2015-11-25 — Became Public Law No: 114-91.
+- 2015-11-25 — Became Public Law No: 114-91.
+- 2015-11-25 — Signed by President.
+- 2015-11-25 — Signed by President.
