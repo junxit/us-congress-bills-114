@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 283
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 283
@@ -16,7 +16,7 @@ A resolution designating October 2015 as "Filipino American History Month".
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -31,6 +31,7 @@ A resolution designating October 2015 as "Filipino American History Month".
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Schatz, Brian [D-HI] (S001194)
 
 ## Committees (1)
 
@@ -40,3 +41,7 @@ A resolution designating October 2015 as "Filipino American History Month".
 
 - 2015-10-08 — Introduced in Senate
 - 2015-10-08 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7277-7278)
+- 2015-10-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7476)
+- 2015-10-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7476)
+- 2015-10-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2015-10-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
