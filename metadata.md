@@ -1,7 +1,7 @@
 ---
 measure: S. 1493
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1493
@@ -16,7 +16,7 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (14)
+## Cosponsors (20)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -32,6 +32,12 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Roberts, Pat [R-KS] (R000307)
 
 ## Committees (1)
 
@@ -45,3 +51,6 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2015
 - 2015-08-28 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 without amendment. With written report No. 114-122.
 - 2015-08-28 — Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 without amendment. With written report No. 114-122.
 - 2015-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
+- 2015-09-30 — Senate amendment submitted
+- 2015-10-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7476: text as passed Senate: CR S7476)
+- 2015-10-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7476: text as passed Senate: CR S7476)
