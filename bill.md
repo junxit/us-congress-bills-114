@@ -7,68 +7,54 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 799
 
-> To combat the rise of prenatal opioid abuse and neonatal abstinence syndrome.
+> To address problems related to prenatal opioid use.
 
 ## § 1. Short title
 
 This Act may be cited as the “Protecting Our Infants Act of 2015”.
 
-## § 2. Findings
+## § 2. Addressing problems related to prenatal opioid use
 
-Congress finds as follows:
-
-- **(1)** Opioid prescription rates have risen dramatically over the past several years. According to the Centers for Disease Control and Prevention, in some States, there are as many as 96 to 143 prescriptions for opioids per 100 adults per year.
-- **(2)** In recent years, there has been a steady rise in the number of overdose deaths involving heroin. According to the Centers for Disease Control and Prevention, the death rate for heroin overdose doubled from 2010 to 2012.
-- **(3)** At the same time, there has been an increase in cases of neonatal abstinence syndrome (referred to in this section as “NAS”). In the United States, the incidence of NAS has risen from 1.20 per 1,000 hospital births in 2000 to 3.39 per 1,000 hospital births in 2009.
-- **(4)** NAS refers to medical issues associated with drug withdrawal in newborns due to exposure to opioids or other drugs in utero.
-- **(5)** The average cost of treatment in a hospital for NAS increased from $39,400 in 2000 to $53,400 in 2009. Most of these costs are born by the Medicaid program.
-- **(6)** Preventing opioid abuse among pregnant women and women of childbearing age is crucial.
-- **(7)** Medically-appropriate opioid use in pregnancy is not uncommon, and opioids are often the safest and most appropriate treatment for moderate to severe pain for pregnant women.
-- **(8)** Addressing NAS effectively requires a focus on women of childbearing age, pregnant women, and infants from preconception through early childhood.
-- **(9)** NAS can result from the use of prescription drugs as prescribed for medical reasons, from the abuse of prescription drugs, or from the use of illegal opioids like heroin.
-- **(10)** For pregnant women who are abusing opioids, it is most appropriate to treat and manage maternal substance use in a non-punitive manner.
-- **(11)** According to a report of the Government Accountability Office (referred to in this section as the “GAO report”), more research is needed to optimize the identification and treatment of babies with NAS and to better understand long-term impacts on children.
-- **(12)** According to the GAO report, the Department of Health and Human Services does not have a focal point to lead planning and coordinating efforts to address prenatal opioid use and NAS across the department.
-- **(13)** According to the GAO report, “given the increasing use of heroin and abuse of opioids prescribed for pain management, as well as the increased rate of NAS in the United States, it is important to improve the efficiency and effectiveness of planning and coordination of Federal efforts on prenatal opioid use and NAS”.
-
-## § 3. Developing recommendations for preventing and treating prenatal opioid abuse and neonatal abstinence syndrome
-
-- **(a)** *In general* The Secretary of Health and Human Services (referred to in this Act as the “Secretary”), acting through the Director of the Agency for Healthcare Research and Quality (referred to in this section as the “Director”), shall conduct a study and develop recommendations for preventing and treating prenatal opioid abuse and neonatal abstinence syndrome, soliciting input from nongovernmental entities, including organizations representing patients, health care providers, hospitals, other treatment facilities, and other entities, as appropriate.
-- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Director shall publish on the Internet Web site of the Agency for Healthcare Research and Quality a report on the study and recommendations under subsection (a). Such report shall address each of the issues described in paragraphs (1) through (3) of subsection (c).
-- **(c)** *Contents* The study described in subsection (a) and the report under subsection (b) shall include—
-  - **(1)** a comprehensive assessment of existing research with respect to the prevention, identification, treatment, and long-term outcomes of neonatal abstinence syndrome, including the identification and treatment of pregnant women or women who may become pregnant who use opioids or other drugs;
-  - **(2)** an evaluation of—
-    - **(A)** the causes of and risk factors for opioid use disorders among women of reproductive age, including pregnant women;
-    - **(B)** the barriers to identifying and treating opioid use disorders among women of reproductive age, including pregnant and postpartum women and women with young children;
-    - **(C)** current practices in the health care system to respond to and treat pregnant women with opioid use disorders and infants born with neonatal abstinence syndrome;
-    - **(D)** medically indicated use of opioids during pregnancy;
-    - **(E)** access to treatment for opioid use disorders in pregnant and postpartum women; and
-    - **(F)** access to treatment for infants with neonatal abstinence syndrome; and
-  - **(3)** recommendations on—
-    - **(A)** preventing, identifying, and treating neonatal abstinence syndrome in infants;
-    - **(B)** treating pregnant women who are dependent on opioids; and
-    - **(C)** preventing opioid dependence among women of reproductive age, including pregnant women, who may be at risk of developing opioid dependence.
-
-## § 4. Improving prevention and treatment for prenatal opioid abuse and neonatal abstinence syndrome
-
-- **(a)** *Review of programs* The Secretary shall lead a review of planning and coordination within the Department of Health and Human Services related to prenatal opioid use and neonatal abstinence syndrome.
-- **(b)** *Strategy to close gaps in research and programming* In carrying out subsection (a), the Secretary shall develop a strategy to address research and program gaps, including such gaps identified in findings made by reports of the Government Accountability Office. Such strategy shall address—
+- **(a)** *Review of programs* The Secretary of Health and Human Services (referred to in this Act as the “Secretary”) shall conduct a review of planning and coordination related to prenatal opioid use, including neonatal abstinence syndrome, within the agencies of the Department of Health and Human Services.
+- **(b)** *Strategy* In carrying out subsection (a), the Secretary shall develop a strategy to address gaps in research and gaps, overlap, and duplication among Federal programs, including those identified in findings made by reports of the Government Accountability Office. Such strategy shall address—
   - **(1)** gaps in research, including with respect to—
     - **(A)** the most appropriate treatment of pregnant women with opioid use disorders;
     - **(B)** the most appropriate treatment and management of infants with neonatal abstinence syndrome; and
-    - **(C)** the long-term effects of prenatal opioid exposure on children; and
-  - **(2)** gaps in programs, including—
-    - **(A)** the availability of treatment programs for pregnant and postpartum women and for newborns with neonatal abstinence syndrome; and
-    - **(B)** guidance and coordination in Federal efforts to address prenatal opioid use or neonatal abstinence syndrome.
-- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the review described in subsection (a) and the strategy developed under subsection (b).
+    - **(C)** the long-term effects of prenatal opioid exposure on children;
+  - **(2)** gaps, overlap, or duplication in—
+    - **(A)** substance use disorder treatment programs for pregnant and postpartum women; and
+    - **(B)** treatment program options for newborns with neonatal abstinence syndrome;
+  - **(3)** gaps, overlap, or duplication in Federal efforts related to education about, and prevention of, neonatal abstinence syndrome; and
+  - **(4)** coordination of Federal efforts to address neonatal abstinence syndrome.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning the findings of the review conducted under subsection (a) and the strategy developed under subsection (b).
 
-## § 5. Improving data on and public health response to neonatal abstinence syndrome
+## § 3. Developing recommendations for preventing and treating prenatal opioid use disorders
 
-- **(a)** *Data and surveillance* The Director of the Centers for Disease Control and Prevention shall, as appropriate—
-  - **(1)** provide technical assistance to States to improve the availability and quality of data collection and surveillance activities regarding neonatal abstinence syndrome, including—
-    - **(A)** the incidence and prevalence of neonatal abstinence syndrome;
-    - **(B)** the identification of causes for neonatal abstinence syndrome, including new and emerging trends; and
-    - **(C)** the demographics and other relevant information associated with neonatal abstinence syndrome;
-  - **(2)** collect available surveillance data described in paragraph (1) from States, as applicable; and
-  - **(3)** make surveillance data collected pursuant to paragraph (2) publically available on an appropriate Internet Web site.
-- **(b)** *Public health response* The Director of the Centers for Disease Control and Prevention shall encourage increased utilization of effective public health measures to reduce neonatal abstinence syndrome.
+- **(a)** *In general* The Secretary shall conduct a study and develop recommendations for preventing and treating prenatal opioid use disorders, including the effects of such disorders on infants. In carrying out this subsection the Secretary shall—
+  - **(1)** take into consideration—
+    - **(A)** the review and strategy conducted and developed under section 2; and
+    - **(B)** the lessons learned from previous opioid epidemics; and
+  - **(2)** solicit input from States, localities, and Federally recognized Indian tribes or tribal organizations (as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)), and nongovernmental entities, including organizations representing patients, health care providers, hospitals, other treatment facilities, and other entities, as appropriate.
+- **(b)** *Report* Not later than 18 months after the date of enactment of this Act, the Secretary shall make available on the appropriate Internet Website of the Department of Health and Human Services a report on the recommendations under subsection (a). Such report shall address each of the issues described in subsection (c).
+- **(c)** *Contents* The recommendations described in subsection (a) and the report under subsection (b) shall include—
+  - **(1)** a comprehensive assessment of existing research with respect to the prevention, identification, treatment, and long-term outcomes of neonatal abstinence syndrome, including the identification and treatment of pregnant women or women who may become pregnant who use opioids or have opioid use disorders;
+  - **(2)** an evaluation of—
+    - **(A)** the causes of, and risk factors for, opioid use disorders among women of reproductive age, including pregnant women;
+    - **(B)** the barriers to identifying and treating opioid use disorders among women of reproductive age, including pregnant and postpartum women and women with young children;
+    - **(C)** current practices in the health care system to respond to, and treat, pregnant women with opioid use disorders and infants affected by such disorders;
+    - **(D)** medically indicated uses of opioids during pregnancy;
+    - **(E)** access to treatment for opioid use disorders in pregnant and postpartum women; and
+    - **(F)** access to treatment for infants with neonatal abstinence syndrome; and
+    - **(G)** differences in prenatal opioid use and use disorders in pregnant women between demographic groups; and
+  - **(3)** recommendations on—
+    - **(A)** preventing, identifying, and treating the effects of prenatal opioid use on infants;
+    - **(B)** treating pregnant women who have opioid use disorders;
+    - **(C)** preventing opioid use disorders among women of reproductive age, including pregnant women, who may be at risk of developing opioid use disorders; and
+    - **(D)** reducing disparities in opioid use disorders among pregnant women.
+
+## § 4. Improving data and the public health response
+
+The Secretary may continue activities, as appropriate, related to—
+
+- **(1)** providing technical assistance to support States and Federally recognized Indian Tribes in collecting information on neonatal abstinence syndrome through the utilization of existing surveillance systems and collaborating with States and Federally recognized Indian Tribes to improve the quality, consistency, and collection of such data; and
+- **(2)** providing technical assistance to support States in implementing effective public health measures, such as disseminating information to educate the public, health care providers, and other stakeholders on prenatal opioid use and neonatal abstinence syndrome.

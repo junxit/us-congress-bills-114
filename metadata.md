@@ -1,7 +1,7 @@
 ---
 measure: S. 799
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 799
@@ -16,7 +16,7 @@ Protecting Our Infants Act of 2015
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -39,6 +39,7 @@ Protecting Our Infants Act of 2015
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Alexander, Lamar [R-TN] (A000360)
 
 ## Committees (1)
 
@@ -52,3 +53,8 @@ Protecting Our Infants Act of 2015
 - 2015-10-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2015-10-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2015-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
+- 2015-10-22 — Held at the desk.
+- 2015-10-22 — Message on Senate action sent to the House.
+- 2015-10-22 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7439-7441; text as passed Senate: CR S7439-7440)
+- 2015-10-22 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7439-7441; text as passed Senate: CR S7439-7440)
+- 2015-10-22 — Received in the House.
