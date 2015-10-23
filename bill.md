@@ -27,7 +27,4 @@ This Act may be cited as the “Educator Tax Relief Act of 2015”.
     > - **(i)** by reason of the participation of the educator in professional development courses related to the curriculum in which the educator provides instruction or to the students for which the educator provides instruction, and
     > - **(ii)** in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
-- **(d)** *Eligible Educator Technical Amendment* Section 62(d)(1)(A) of such Code is amended by inserting “ending during the taxable year” before the period.
-- **(e)** *Effective Date*
-  - **(1)** *In general* The amendments made by subsections (a), (b), and (c) shall apply to taxable years beginning after December 31, 2014.
-  - **(2)** *Technical amendment* The amendment made by subsection (d) shall apply to taxable years beginning after December 31, 2001.
+- **(d)** *Effective Date* The amendments made by this section shall apply to taxable years beginning after December 31, 2014.

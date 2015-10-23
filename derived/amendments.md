@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2940
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,4 +53,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `26 U.S.C. § 62` | add-at-end | Section 62(d) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | insert | Section 62(d)(1)(A) of such Code is amended by inserting “ending during the taxable year” before the period. | the bill quotes the text inserted but describes where it goes |
