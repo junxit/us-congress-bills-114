@@ -15,5 +15,5 @@ This Act may be cited as the “Permanent CFC Look-Through Act of 2015”.
 
 ## § 2. Look-through treatment of payments between related controlled foreign corporations made permanent
 
-- **(a)** *In general* Section 954(c)(6) of the Internal Revenue Code of 1986 is amended by striking subparagraph (C).
+- **(a)** *In general* Paragraph (6) of section 954(c) of the Internal Revenue Code of 1986 is amended by striking subparagraph (C).
 - **(b)** *Effective date* The amendment made by this section shall apply to taxable years of foreign corporations beginning after December 31, 2014, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
