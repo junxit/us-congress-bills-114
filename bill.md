@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Restaurant and Retail Jobs and Growth Act”.
+This Act may be cited as the “Restaurant and Retail Jobs and Growth Act of 2015”.
 
 ## § 2. Permanent extension of treatment of qualified leasehold improvement property as 15-year property for purposes of depreciation deduction
 
