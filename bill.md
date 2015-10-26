@@ -26,3 +26,7 @@ This Act may be cited as the “Dignified Interment of Our Veterans Act of 2015�
 - **(c)** *Methodology*
   - **(1)** *Number of unclaimed remains* In estimating the number of unclaimed remains of veterans under subsection (b)(1), the Secretary may review such subset of applicable entities as the Secretary considers appropriate, including a subset of funeral homes and coroner offices that possess unclaimed veterans remains.
   - **(2)** *Assessment of State and local laws* In assessing State and local laws under subsection (b)(3), the Secretary may assess such sample of applicable State and local laws as the Secretary considers appropriate in lieu of reviewing all applicable State and local laws.
+
+## § 3. Limitation on awards and bonuses paid to senior executive employees of Department of Veterans Affairs
+
+Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended by striking the period at the end and inserting the following: “, of which, during fiscal year 2016, not more than an aggregate amount of $2,000,000 may be paid to employees of the Department of Veterans Affairs who are members of the Senior Executive Service.”.
