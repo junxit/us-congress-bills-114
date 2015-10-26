@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1937
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1937
@@ -67,10 +67,11 @@ National Strategic and Critical Minerals Production Act of 2015
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (6)
 
@@ -165,3 +166,4 @@ National Strategic and Critical Minerals Production Act of 2015
 - 2015-10-22 — The Speaker designated the Honorable Kenny Marchant to act as Chairman of the Committee.
 - 2015-10-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7123)
 - 2015-10-22 — The previous question was ordered pursuant to the rule. (consideration: CR H7122)
+- 2015-10-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
