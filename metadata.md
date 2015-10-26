@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 639
@@ -59,3 +59,14 @@ Improving Regulatory Transparency for New Medical Therapies Act
 - 2015-10-26 — Senate amendment agreed to: Amendment SA 2748 agreed to in Senate by Unanimous Consent.
 - 2015-10-26 — Senate amendment proposed (on the floor): Amendment SA 2748 proposed by Senator Portman for Senator Alexander.(consideration: CR S7495)
 - 2015-10-26 — Senate amendment submitted
+- 2015-10-27 — Message on Senate action sent to the House.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Griffith asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H8212-8213)
+- 2015-11-16 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H8212-8213)
+- 2015-11-16 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H8212-8213)
+- 2015-11-19 — Presented to President.
+- 2015-11-19 — Presented to President.
+- 2015-11-25 — Became Public Law No: 114-89.
+- 2015-11-25 — Became Public Law No: 114-89.
+- 2015-11-25 — Signed by President.
+- 2015-11-25 — Signed by President.

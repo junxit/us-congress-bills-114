@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 639
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 639
 
-That the bill from the House of Representatives (H.R. 639) entitled “An Act to amend the Controlled Substances Act with respect to drug scheduling recommendations by the Secretary of Health and Human Services, and with respect to registration of manufacturers and distributors seeking to conduct clinical testing.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Controlled Substances Act with respect to drug scheduling recommendations by the Secretary of Health and Human Services, and with respect to registration of manufacturers and distributors seeking to conduct clinical testing.
 
 ## § 1. Short title
 
@@ -88,7 +86,7 @@ Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by addin
 
 Section 1003 of the Controlled Substances Import and Export Act (21 U.S.C. 953) is amended—
 
-- **(1)** in subsection(f)—
+- **(1)** in subsection (f)—
   - **(A)** in paragraph (5)—
     - **(i)** by striking “(5)” and inserting “(5)(A)”;
     - **(ii)** by inserting “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before the period at the end; and
