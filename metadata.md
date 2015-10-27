@@ -1,7 +1,7 @@
 ---
 measure: S. 754
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 754
@@ -16,9 +16,103 @@ To improve cybersecurity in the United States through enhanced sharing of inform
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
+## Cosponsors (79)
+
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Heller, Dean [R-NV] (H001041)
+
 ## Committees (1)
 
 - Senate — Intelligence (Select) Committee
+
+## Recorded votes (9)
+
+- 2015-10-22 — [Senate 114-1-281](votes/senate-114-1-0281.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–14)
+- 2015-10-22 — [Senate 114-1-282](votes/senate-114-1-0282.md) — On the Amendment — **Amendment Rejected** (32–65)
+- 2015-10-27 — [Senate 114-1-285](votes/senate-114-1-0285.md) — On the Amendment — **Amendment Rejected** (41–55)
+- 2015-10-27 — [Senate 114-1-286](votes/senate-114-1-0286.md) — On the Amendment — **Amendment Rejected** (47–49)
+- 2015-10-27 — [Senate 114-1-287](votes/senate-114-1-0287.md) — On the Amendment — **Amendment Rejected** (37–59)
+- 2015-10-27 — [Senate 114-1-288](votes/senate-114-1-0288.md) — On the Amendment — **Amendment Rejected** (35–60)
+- 2015-10-27 — [Senate 114-1-289](votes/senate-114-1-0289.md) — On the Amendment — **Amendment Rejected** (41–54)
+- 2015-10-27 — [Senate 114-1-290](votes/senate-114-1-0290.md) — On the Amendment — **Amendment Rejected** (22–73)
+- 2015-10-27 — [Senate 114-1-291](votes/senate-114-1-0291.md) — On Passage of the Bill — **Bill Passed** (74–21)
 
 ## Actions
 
@@ -26,3 +120,237 @@ To improve cybersecurity in the United States through enhanced sharing of inform
 - 2015-03-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.
 - 2015-03-17 — Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.
 - 2015-03-17 — Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.
+- 2015-04-15 — By Senator Burr from Select Committee on Intelligence filed written report. Report No. 114-32. Additional views filed.
+- 2015-04-15 — By Senator Burr from Select Committee on Intelligence filed written report. Report No. 114-32. Additional views filed.
+- 2015-08-03 — Cloture motion on the motion to proceed to consideration of the measure presented in Senate. (consideration: CR S6228; text: CR S6228)
+- 2015-08-03 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6228)
+- 2015-08-03 — Senate amendment submitted
+- 2015-08-03 — Senate amendment submitted
+- 2015-08-03 — Senate amendment submitted
+- 2015-08-03 — Senate amendment submitted
+- 2015-08-04 — Motion to proceed to measure considered in Senate. (consideration: CR S6256, S6257-6262, S6263-6264, S6266-6267, S6271-6272, S6279)
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-04 — Senate amendment submitted
+- 2015-08-05 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (consideration: CR S6342)
+- 2015-08-05 — Motion to proceed to measure considered in Senate. (consideration: CR S6329-6348, S6350-6351; text: CR S5329)
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-08-05 — Senate amendment submitted
+- 2015-10-19 — Senate amendment submitted
+- 2015-10-20 — Amendment SA 2548 proposed by Senator Burr for Senator Heller to Amendment SA 2716. (consideration: CR S7335; text as modified: CR S7335) To protect information that is reasonably believed to be personal information or information that identifies a specific person.
+- 2015-10-20 — Amendment SA 2552 proposed by Senator Feinstein for Senator Coons to Amendment SA 2716. (consideration: CR S7333-7334; text as modified: CR S7333-7334) To modify section 105 to require DHS to review all cyber threat indicators and countermeasures in order to remove certain personal information.
+- 2015-10-20 — Amendment SA 2557 proposed by Senator Feinstein for Senator Mikulski to Amendment SA 2716. (consideration: CR S7335; text: CR S7335) To provide amounts necessary for accelerated cybersecurity in response to data breaches.
+- 2015-10-20 — Amendment SA 2564 proposed by Senator Burr for Senator Paul to Amendment SA 2716. (consideration: CR S7335; text as modified: CR S7335) To prohibit liability immunity to applying to private entities that break user or privacy agreements with customers.
+- 2015-10-20 — Amendment SA 2581 proposed by Senator Burr for Senator Cotton to Amendment SA 2716. (consideration: CR S7333; text as modified: CR S7333) To exempt from the capability and process within the Department of Homeland Security communication between a private entity and the Federal Bureau of Investigation or the United States Secret Service regarding cybersecurity threats.
+- 2015-10-20 — Amendment SA 2582 proposed by Senator Burr for Senator Flake to Amendment SA 2716. (consideration: CR S7334; text: CR S7334) To terminate the provisions of the Act after ten years.
+- 2015-10-20 — Amendment SA 2587 proposed by Senator Feinstein for Senator Leahy to Amendment SA 2716. (consideration: CR S7335; text as modified: CR S7335) To strike the FOIA exemption.
+- 2015-10-20 — Amendment SA 2612 proposed by Senator Feinstein for Senator Franken to Amendment SA 2716. (consideration: CR S7334-7335; text as modified: CR S7334-7335) To improve the definitions of cybersecurity threat and cyber threat indicator.
+- 2015-10-20 — Amendment SA 2621 proposed by Senator Feinstein for Senator Wyden to Amendment SA 2716. (consideration: CR S7336; text as modified: CR S7336) To improve the requirements relating to removal of personal information from cyber threat indicators before sharing.
+- 2015-10-20 — Amendment SA 2626 proposed by Senator Feinstein for Senator Whitehouse to Amendment SA 2716. (consideration: CR S7335-7336, S7339-7340; text: CR S7335-7336; text as modified: CR S7339-7340) To amend title 18, United States Code, to protect Americans from cybercrime.
+- 2015-10-20 — Amendment SA 2716 proposed by Senator Burr. (consideration: CR S7333) In the nature of a substitute.
+- 2015-10-20 — Cloture motion on amendment SA 2716 presented in Senate. (consideration: CR S7342; text: CR S7342)
+- 2015-10-20 — Cloture motion on the measure presented in Senate. (consideration: CR S7342; text: CR S7342)
+- 2015-10-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7332-7342)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2548 proposed by Senator Burr for Senator Heller to Amendment SA 2716.(consideration: CR S7335; text as modified: CR S7335)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2552 proposed by Senator Feinstein for Senator Coons to Amendment SA 2716.(consideration: CR S7333-7334; text as modified: CR S7333-7334)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2557 proposed by Senator Feinstein for Senator Mikulski to Amendment SA 2716.(consideration: CR S7335; text: CR S7335)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2564 proposed by Senator Burr for Senator Paul to Amendment SA 2716.(consideration: CR S7335; text as modified: CR S7335)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2581 proposed by Senator Burr for Senator Cotton to Amendment SA 2716.(consideration: CR S7333; text as modified: CR S7333)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2582 proposed by Senator Burr for Senator Flake to Amendment SA 2716.(consideration: CR S7334; text: CR S7334)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2587 proposed by Senator Feinstein for Senator Leahy to Amendment SA 2716.(consideration: CR S7335; text as modified: CR S7335)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2612 proposed by Senator Feinstein for Senator Franken to Amendment SA 2716.(consideration: CR S7334-7335; text as modified: CR S7334-7335)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2621 proposed by Senator Feinstein for Senator Wyden to Amendment SA 2716.(consideration: CR S7336; text as modified: CR S7336)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2626 proposed by Senator Feinstein for Senator Whitehouse to Amendment SA 2716.(consideration: CR S7335-7336, S7339-7340; text: CR S7335-7336; text as modified: CR S7339-7340)
+- 2015-10-20 — Senate amendment proposed (on the floor): Amendment SA 2716 proposed by Senator Burr.(consideration: CR S7333)
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-20 — Senate amendment submitted
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7381-7387)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7381; text as further modified: CR S7381)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7387-7388)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7388-7397)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7397-7398)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7404-7405)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374, S7407-7408)
+- 2015-10-21 — Considered by Senate. (consideration: CR S7374-7406, S7407-7408)
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-21 — Senate amendment submitted
+- 2015-10-22 — Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 282.
+- 2015-10-22 — Cloture on amendment SA 2716 invoked in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 281. (consideration: CR S7434; text: CR S7434)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430, S7434)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430, S7434-7435; text as modified: CR S7435)
+- 2015-10-22 — Considered by Senate. (consideration: CR S7430-7439, S7441-7445)
+- 2015-10-22 — Roll call votes on amendments in Senate: Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 282.
+- 2015-10-22 — Roll call votes on amendments in Senate: Cloture on amendment SA 2716 invoked in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 281.(consideration: CR S7434; text: CR S7434)
+- 2015-10-22 — Senate amendment not agreed to: Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 282.
+- 2015-10-27 — Amendment SA 2548 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 286.
+- 2015-10-27 — Amendment SA 2552 not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 289.
+- 2015-10-27 — Amendment SA 2557 ruled non-germane by the chair.
+- 2015-10-27 — Amendment SA 2581 not agreed to in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 290.
+- 2015-10-27 — Amendment SA 2582 as modified agreed to in Senate by Voice Vote.
+- 2015-10-27 — Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 287.
+- 2015-10-27 — Amendment SA 2612 not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 288.
+- 2015-10-27 — Amendment SA 2621 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 285.
+- 2015-10-27 — Amendment SA 2626 ruled non-germane by the chair.
+- 2015-10-27 — Amendment SA 2716 agreed to in Senate by Voice Vote.
+- 2015-10-27 — Amendment SA 2749 agreed to in Senate by Unanimous Consent.
+- 2015-10-27 — Amendment SA 2749 proposed by Senator Burr to Amendment SA 2716. (consideration: CR S7521) To improve the substitute amendment.
+- 2015-10-27 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S7520)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7502-7503, S7504-7505)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7503)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7503)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7503, S7504)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7503, S7521)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7505, S7507-7508)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7508-7509, S7520; text as modified: CR S7508-7509; text as further modified: CR S7520)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7509-7510)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7511-7512, S7519-7520, S7520-7521)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498, S7520)
+- 2015-10-27 — Considered by Senate. (consideration: CR S7498-7510, S7510-7522)
+- 2015-10-27 — Passed Senate with an amendment by Yea-Nay Vote. 74 - 21. Record Vote Number: 291. (text: CR S7522-7534)
+- 2015-10-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 74 - 21. Record Vote Number: 291.(text: CR S7522-7534)
+- 2015-10-27 — Point of order raised in Senate with respect to amendment SA 2557.
+- 2015-10-27 — Point of order raised in Senate with respect to amendment SA 2626.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2548 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 286.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2552 not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 289.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2581 not agreed to in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 290.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 287.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2612 not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 288.
+- 2015-10-27 — Roll call votes on amendments in Senate: Amendment SA 2621 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 285.
+- 2015-10-27 — Senate amendment agreed to: Amendment SA 2582 as modified agreed to in Senate by Voice Vote.
+- 2015-10-27 — Senate amendment agreed to: Amendment SA 2716 agreed to in Senate by Voice Vote.
+- 2015-10-27 — Senate amendment agreed to: Amendment SA 2749 agreed to in Senate by Unanimous Consent.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2548 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 286.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2552 not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 289.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2581 not agreed to in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 290.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 287.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2612 not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 288.
+- 2015-10-27 — Senate amendment not agreed to: Amendment SA 2621 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 285.
+- 2015-10-27 — Senate amendment proposed (on the floor): Amendment SA 2749 proposed by Senator Burr to Amendment SA 2716.(consideration: CR S7521)
+- 2015-10-27 — Senate amendment submitted
