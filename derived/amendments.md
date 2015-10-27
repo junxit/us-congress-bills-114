@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -308,7 +308,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A) by striking “and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5336(h)(1) of title 49, United States Code, is amended by striking “and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $4,180,328 for the period beginning on October 1,… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1) by striking “and $681,024,590 for the period beginning on October 1, 2015, and ending on October 29, 2015” and inserting “and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “and $681,024,590 for the period beginning on October 1, 2015, and ending on October 29, 2015” and inserting “and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “and $10,205,464 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $17,947,541 for the period beginning on October 1, 2015, and ending on November 20, 2015,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “and $792,350 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $1,393,443 for the period beginning on October 1, 2015, and ending on November 20, 2015,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “and $353,281,011 for the period beginning on October 1, 2015, and ending on October 29, 2015,” and inserting “and $621,287,295 for the period beginning on October 1, 2015, and ending on November 20, 2015,”; | the bill names no machine-readable US Code section |
