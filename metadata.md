@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1090
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1090
@@ -58,6 +58,11 @@ Retail Investor Protection Act
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2015-10-27 — [House 114-1-574](votes/house-114-1-0574.md) — On Agreeing to the Amendment — **Failed** (184–246)
+- 2015-10-27 — [House 114-1-575](votes/house-114-1-0575.md) — On Passage — **Passed** (245–186)
+
 ## Actions
 
 - 2015-02-25 — Introduced in House
@@ -75,3 +80,20 @@ Retail Investor Protection Act
 - 2015-10-22 — Placed on the Union Calendar, Calendar No. 230.
 - 2015-10-22 — Reported by the Committee on Financial Services. H. Rept. 114-304, Part I.
 - 2015-10-22 — Reported by the Committee on Financial Services. H. Rept. 114-304, Part I.
+- 2015-10-26 — Rules Committee Resolution H. Res. 491 Reported to House. Rule provides for consideration of H.R. 1090 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-31 shall be considered as adopted. The further amendment printed in the report accompanying the resolution shall be considered as read, shall be debatable for 10 minutes, and shall not be subject to a demand for division of the question.
+- 2015-10-27 — Amendment (A002) offered by Mr. Lynch. (consideration: CR H7241-7243; text: CR H7241)
+- 2015-10-27 — Amendment failed by House: On agreeing to the Lynch amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 574).
+- 2015-10-27 — Considered under the provisions of rule H. Res. 491. (consideration: CR H7231-7243)
+- 2015-10-27 — DEBATE - Pursuant to the provisions of H. Res. 491, the House proceeded with 10 minutes of debate on the Lynch amendment no. 1.
+- 2015-10-27 — DEBATE - The House proceeded with one hour of debate on H.R. 1090.
+- 2015-10-27 — House amendment not agreed to: On agreeing to the Lynch amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 574).
+- 2015-10-27 — House amendment offered
+- 2015-10-27 — House amendment offered
+- 2015-10-27 — House amendment offered/reported by : Amendment (A002) offered by Mr. Lynch.(consideration: CR H7241-7243; text: CR H7241)
+- 2015-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-27 — On agreeing to the Lynch amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 574).
+- 2015-10-27 — On passage Passed by the Yeas and Nays: 245 - 186 (Roll no. 575). (text: CR H7231)
+- 2015-10-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 186 (Roll no. 575).(text: CR H7231)
+- 2015-10-27 — Roll call votes on amendments in House
+- 2015-10-27 — Rule H. Res. 491 passed House.
+- 2015-10-27 — Rule provides for consideration of H.R. 1090 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-31 shall be considered as adopted. The further amendment printed in the report accompanying the resolution shall be considered as read, shall be debatable for 10 minutes, and shall not be subject to a demand for division of the question.
