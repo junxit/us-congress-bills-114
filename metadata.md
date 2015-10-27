@@ -1,7 +1,7 @@
 ---
 measure: H.R. 597
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 597
@@ -16,7 +16,7 @@ Export-Import Bank Reform and Reauthorization Act of 2015
 
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
-## Cosponsors (57)
+## Cosponsors (61)
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -75,10 +75,18 @@ Export-Import Bank Reform and Reauthorization Act of 2015
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2015-10-27 — [House 114-1-576](votes/house-114-1-0576.md) — On Passage — **Passed** (313–118)
 
 ## Actions
 
@@ -86,3 +94,19 @@ Export-Import Bank Reform and Reauthorization Act of 2015
 - 2015-01-28 — Introduced in House
 - 2015-01-28 — Referred to the House Committee on Financial Services.
 - 2015-01-28 — Sponsor introductory remarks on measure. (CR E129)
+- 2015-10-27 — Considered as unfinished business. (consideration: CR H7243-7244)
+- 2015-10-27 — Considered under the provisions of H. Res. 450. (consideration: CR H7217-7231)
+- 2015-10-27 — DEBATE - The House proceeded with 10 minutes of debate on the Norton motion to recommit, pending reservation of a point of order. Subsequently, the reservation of a point of order was withdrawn.
+- 2015-10-27 — DEBATE - The House proceeded with one hour of debate on H.R. 597.
+- 2015-10-27 — House amendment offered
+- 2015-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-27 — Ms. Norton moved to recommit to Financial Services. (consideration: CR H7229-7230)
+- 2015-10-27 — ORDER OF PROCEDURE - Mr. Collins (GA) asked unanimous consent that the question of adoption of a motion to recommit on H.R. 597 may be postponed as though under clause 8, rule XX. Agreed to without objection.
+- 2015-10-27 — On motion to recommit Failed by voice vote.
+- 2015-10-27 — On passage Passed by the Yeas and Nays: 313 - 118 (Roll no. 576). (text: CR H7217-7219)
+- 2015-10-27 — POSTPONED PROCEEDINGS - The Chair put the question on passage of the bill, and by voice vote announced that the noes had prevailed. Ms. Maxine Waters (CA) demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.
+- 2015-10-27 — POSTPONED ROLL CALL VOTE - The Chair put the question on the motion to recommit and by voice vote announced that the noes had prevailed. Mr. Hensarling demanded the yeas and nays and pursuant to a previous order of the House, the Chair postponed further proceedings on the question of adopting the motion to recommit until a time to be announced.
+- 2015-10-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 313 - 118 (Roll no. 576).(text: CR H7217-7219)
+- 2015-10-27 — The previous question on the motion to recommit was ordered without objection. (consideration: CR H7230)
+- 2015-10-27 — The previous question was ordered pursuant to the rule. (consideration: CR H7229)
+- 2015-10-27 — WITHDRAWAL OF DEMAND FOR YEAS AND NAYS - Mr. Hensarling asked unanimous consent to withdraw his demand for the yeas and nays on the motion to recommit H.R. 597, to the end that the motion to recommit be rejected on the basis of the earlier voice vote. Agreed to without objection.

@@ -9,10 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To reauthorize the Export-Import Bank of the United States, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Reform Exports and Expand the American Economy Act”.
-
-## § 2. Table of contents
-
-The table of contents of this Act is as follows:
+- **(a)** *Short title* This Act may be cited as the “Export-Import Bank Reform and Reauthorization Act of 2015”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
