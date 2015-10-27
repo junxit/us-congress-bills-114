@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3819
@@ -48,3 +48,12 @@ Surface Transportation Extension Act of 2015
 - 2015-10-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7207-7211)
 - 2015-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7207-7211)
 - 2015-10-27 — Received in the Senate, read twice.
+- 2015-10-28 — Message on Senate action sent to the House.
+- 2015-10-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S7574)
+- 2015-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7574)
+- 2015-10-29 — Became Public Law No: 114-73.
+- 2015-10-29 — Became Public Law No: 114-73.
+- 2015-10-29 — Presented to President.
+- 2015-10-29 — Presented to President.
+- 2015-10-29 — Signed by President.
+- 2015-10-29 — Signed by President.
