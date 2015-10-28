@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1090
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1090
@@ -53,10 +53,11 @@ Retail Investor Protection Act
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -97,3 +98,4 @@ Retail Investor Protection Act
 - 2015-10-27 — Roll call votes on amendments in House
 - 2015-10-27 — Rule H. Res. 491 passed House.
 - 2015-10-27 — Rule provides for consideration of H.R. 1090 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-31 shall be considered as adopted. The further amendment printed in the report accompanying the resolution shall be considered as read, shall be debatable for 10 minutes, and shall not be subject to a demand for division of the question.
+- 2015-10-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
