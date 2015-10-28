@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1314
@@ -16,10 +16,11 @@ Bipartisan Budget Act of 2015
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Cosponsors (250)
+## Cosponsors (251)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Reed, Tom [R-NY-23] (R000585)
+- Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -273,7 +274,7 @@ Bipartisan Budget Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (16)
+## Recorded votes (19)
 
 - 2015-05-12 — [Senate 114-1-176](votes/senate-114-1-0176.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (52–45)
 - 2015-05-14 — [Senate 114-1-180](votes/senate-114-1-0180.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–33)
@@ -291,6 +292,9 @@ Bipartisan Budget Act of 2015
 - 2015-06-12 — [House 114-1-361](votes/house-114-1-0361.md) — Concurring in portion of Senate Amdt comprising title II (except section 212) — **Failed** (126–302)
 - 2015-06-12 — [House 114-1-362](votes/house-114-1-0362.md) — Concurring in portion of senate amendment preceding title II — **Passed** (219–211)
 - 2015-10-28 — [House 114-1-579](votes/house-114-1-0579.md) — On Motion that the House Concur in the Senate Amendment with an Amendment — **Passed** (266–167)
+- 2015-10-30 — [Senate 114-1-292](votes/senate-114-1-0292.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–35)
+- 2015-10-30 — [Senate 114-1-293](votes/senate-114-1-0293.md) — On the Motion — **Motion Agreed to** (64–35)
+- 2015-10-30 — [Senate 114-1-294](votes/senate-114-1-0294.md) — On the Motion — **Motion Agreed to** (64–35)
 
 ## Actions
 
@@ -681,3 +685,39 @@ Bipartisan Budget Act of 2015
 - 2015-10-28 — Senate amendment submitted
 - 2015-10-28 — The Chair recongized Mr. Rogers (KY) for a motion.
 - 2015-10-28 — The previous question was ordered pursuant to the rule. (consideration: CR H7312)
+- 2015-10-29 — Considered by Senate (Message from the House considered). (consideration: CR S7604-7621, S7622-7624, S7625-7643, S7643-7652)
+- 2015-10-29 — Considered by Senate. (consideration: CR S7604)
+- 2015-10-29 — Considered by Senate. (consideration: CR S7604)
+- 2015-10-29 — Considered by Senate. (consideration: CR S7604)
+- 2015-10-29 — Considered by Senate. (consideration: CR S7604)
+- 2015-10-29 — Considered by Senate. (consideration: CR S7604)
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-29 — Senate amendment submitted
+- 2015-10-30 — Cloture on the motion to concur in the House amendment to the Senate amendment invoked in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 292. (consideration: CR S7668; text: CR S7668)
+- 2015-10-30 — Considered by Senate (Message from the House considered). (consideration: CR S7665-7675)
+- 2015-10-30 — Considered by Senate. (consideration: CR S7665, S7668, S7674)
+- 2015-10-30 — Considered by Senate. (consideration: CR S7665, S7674)
+- 2015-10-30 — Considered by Senate. (consideration: CR S7665, S7674)
+- 2015-10-30 — Considered by Senate. (consideration: CR S7665, S7674)
+- 2015-10-30 — Considered by Senate. (consideration: CR S7665, S7674)
+- 2015-10-30 — Message on Senate action sent to the House.
+- 2015-10-30 — Motion by Senator McConnell to refer to Senate Committee on Finance the House message to accompany H.R. 1314 with instructions to report back forthwith with the following amendment (SA 2752) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S7668)
+- 2015-10-30 — Motion to table amendment SA 2750 agreed to in Senate by Voice Vote. (consideration: CR S7674)
+- 2015-10-30 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 293. (consideration: CR S7674)
+- 2015-10-30 — Point of order that the House message to accompany H.R. 1314 violates S.Con.Res. 11 raised in Senate. (consideration: CR S7674)
+- 2015-10-30 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 1314 by Yea-Nay Vote. 64 - 35. Record Vote Number: 294.(consideration: CR S7674-7675)
+- 2015-10-30 — SA 2751 fell when SA 2750 tabled. (consideration: CR S7674)
+- 2015-10-30 — SA 2752 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to accompany H.R. 1314. (consideration: CR S7668)
+- 2015-10-30 — SA 2753 (the instructions of the motion to refer) fell when SA 2752 fell. (consideration: CR S7668)
+- 2015-10-30 — SA 2754 fell when SA 2753 fell. (consideration: CR S7668)
+- 2015-10-30 — Senate agreed to the House amendment to the Senate amendment to H.R. 1314 by Yea-Nay Vote. 64 - 35. Record Vote Number: 294. (consideration: CR S7674-7675)
+- 2015-11-02 — Became Public Law No: 114-74.
+- 2015-11-02 — Became Public Law No: 114-74.
+- 2015-11-02 — Presented to President.
+- 2015-11-02 — Presented to President.
+- 2015-11-02 — Signed by President.
+- 2015-11-02 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
