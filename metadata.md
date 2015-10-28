@@ -1,7 +1,7 @@
 ---
 measure: H.R. 455
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 455
@@ -39,3 +39,9 @@ Northern Border Security Review Act
 - 2015-07-28 — Placed on the Union Calendar, Calendar No. 175.
 - 2015-07-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-232.
 - 2015-07-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-232.
+- 2015-10-28 — Considered under suspension of the rules. (consideration: CR H7316-7319)
+- 2015-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 455.
+- 2015-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-28 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2015-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7316-7317)
+- 2015-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7316-7317)
