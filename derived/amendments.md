@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2510
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -106,4 +106,4 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 168` | strike | Section 168(e)(8) of such Code is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | add-at-end | Section 168(k) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | add-at-end | Section 263A(c) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 168` | strike | Section 168(k) of such Code is amended by striking “acquired after December 31, 2007, and before January 1, 2014” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 168` | strike | Section 168(k) of such Code is amended by striking “acquired after December 31, 2007, and before January 1, 2015” in the heading thereof. | the bill quotes the text struck but describes what replaces it |

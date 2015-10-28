@@ -123,9 +123,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(7)** *Coordination with section 168(k)(5)* This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
 
   - **(9)** Section 460(c)(6)(B) of such Code is amended by striking “which—” and all that follows and inserting “which has a recovery period of 7 years or less.”.
-  - **(10)** Section 168(k) of such Code is amended by striking “acquired after December 31, 2007, and before January 1, 2014” in the heading thereof.
+  - **(10)** Section 168(k) of such Code is amended by striking “acquired after December 31, 2007, and before January 1, 2015” in the heading thereof.
 - **(e)** *Effective dates*
-  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this subsection shall apply to property placed in service after December 31, 2014, in taxable years ending after such date.
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to property placed in service after December 31, 2014, in taxable years ending after such date.
   - **(2)** *Expansion of election to accelerate amt credits in lieu of bonus depreciation*
     - **(A)** *In general* The amendment made by subsection (b) shall apply to taxable years ending after December 31, 2014.
     - **(B)** *Transitional rule* In the case of any taxable year beginning before January 1, 2015, and ending after December 31, 2014, the limitation under section 168(k)(4)(B)(ii) of the Internal Revenue Code of 1986 (as amended by this section) shall be the sum of—
