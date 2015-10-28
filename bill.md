@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3845
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3845
+
+> To amend the Federal Crop Insurance Act to repeal the changes regarding the Standard Reinsurance Agreement enacted as part of the Bipartisan Budget Act of 2015.
+
+## § 1. Short title
+
+This Act may be cited as the “Crop Insurance Restoration Act”.
+
+## § 2. Standard Reinsurance Agreement
+
+Section 508(k)(8) of the Federal Crop Insurance Act (7 U.S.C. 1508(k)(8)), as amended by section 201 of the Bipartisan Budget Act of 2015, is further amended—
+
+- **(1)** in subparagraph (A), by striking “shall renegotiate” and all that follows through the end of clause (ii) and inserting “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement once during each period of 5 reinsurance years after the 2015 reinsurance year.”;
+- **(2)** in subparagraphs (C) and (F), by striking “subparagraph (A)(ii)” each place it appears and inserting “subparagraph (A)”; and
+- **(3)** by striking subparagraph (E).
