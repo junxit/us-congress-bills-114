@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 495
 congress: 114
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 495
