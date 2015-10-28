@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1314
@@ -273,7 +273,7 @@ Bipartisan Budget Act of 2015
 
 - House — Ways and Means Committee
 
-## Recorded votes (13)
+## Recorded votes (16)
 
 - 2015-05-12 — [Senate 114-1-176](votes/senate-114-1-0176.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (52–45)
 - 2015-05-14 — [Senate 114-1-180](votes/senate-114-1-0180.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–33)
@@ -288,6 +288,9 @@ Bipartisan Budget Act of 2015
 - 2015-05-22 — [Senate 114-1-191](votes/senate-114-1-0191.md) — On the Amendment — **Amendment Agreed to** (62–37)
 - 2015-05-22 — [Senate 114-1-192](votes/senate-114-1-0192.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
 - 2015-05-22 — [Senate 114-1-193](votes/senate-114-1-0193.md) — On Passage of the Bill — **Bill Passed** (62–37)
+- 2015-06-12 — [House 114-1-361](votes/house-114-1-0361.md) — Concurring in portion of Senate Amdt comprising title II (except section 212) — **Failed** (126–302)
+- 2015-06-12 — [House 114-1-362](votes/house-114-1-0362.md) — Concurring in portion of senate amendment preceding title II — **Passed** (219–211)
+- 2015-10-28 — [House 114-1-579](votes/house-114-1-0579.md) — On Motion that the House Concur in the Senate Amendment with an Amendment — **Passed** (266–167)
 
 ## Actions
 
@@ -635,3 +638,46 @@ Bipartisan Budget Act of 2015
 - 2015-05-22 — Senate amendment not agreed to: Amendment SA 1327 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 188.
 - 2015-05-22 — Senate amendment submitted
 - 2015-05-22 — Senate amendment submitted
+- 2015-06-10 — Message on Senate action sent to the House.
+- 2015-06-12 — Considered as unfinished business. (consideration: CR H4265-4271, H4333-4335)
+- 2015-06-12 — DEBATE - Pursuant to the provisions of H. Res. 305, the House proceeded with one hour of debate on the Ryan (WI) motion to concur in the Senate amendment to H.R. 1314. At the conclusion of debate on the Ryan (WI) motion to concur in the Senate amendment to H.R. 1314 and pursuant to the provisions of H.Res. 305, the question will be divided.
+- 2015-06-12 — DEBATE - The House resumed debate on the Ryan (WI) motion to agree to the Senate amendment to H.R. 1314.
+- 2015-06-12 — MOTION TO RECONSIDER - Mr. Boehner moved to reconsider the vote by which the portion of the Senate amendment comprising title II (except for section 212) was rejected. The Chair put the question on the motion to reconsider and by voice vote, announced that the ayes had prevailed. Mr. Levin demanded a recorded vote and the Chair postponed further proceedings on the motion to reconsider until a time to be announced.
+- 2015-06-12 — Mr. Ryan (WI) moved that the House agree to the Senate amendment. (consideration: CR H4247-4265; text of Senate amendment as received in House: CR H4247-4261)
+- 2015-06-12 — On motion to concur in portion of Senate adt comprising title II (except sec 212) Failed by recorded vote: 126 - 302 (Roll no. 361). (consideration: CR H4333-4334)
+- 2015-06-12 — On motion to concur in portion of Senate amendment preceding title II Agreed to by recorded vote: 219 - 211 (Roll no. 362). (consideration: CR H4334-4335)
+- 2015-06-12 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on the Ryan (WI) motion to concur in Senate amendment to H.R. 1314 were postponed.
+- 2015-06-12 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on the Ryan (WI) motion to concur in Senate amendment to H.R. 1314 were postponed.
+- 2015-06-12 — Pursuant to the provisions of H. Res. 305, the Chair announced that the question of concurring in the Senate amendment to H.R. 1314 would be divided into portions and the questions on each portion would be put as follows: (1) Concurring in that portion of the Senate amendment comprising title II (except section 212); and (2) concurring in that portion of the Senate amendment comprising the remaider of title II.
+- 2015-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H4333)
+- 2015-06-25 — TABLING MOTION TO CONCUR - The Chair announced that, without objection, the pending motion to reconsider the vote on the question of concurring in that portion of the Senate amendment to H.R. 1314 comprising title II (except for section 212) is laid upon the table.
+- 2015-10-28 — Amendment SA 2750 proposed by Senator McConnell. (consideration: CR S7585; text: CR S7585) To change the enactment date.
+- 2015-10-28 — Amendment SA 2751 proposed by Senator McConnell to Amendment SA 2750. (consideration: CR S7585-7586; text: CR S7586) To change the enactment date.
+- 2015-10-28 — Amendment SA 2752 proposed by Senator McConnell. (consideration: CR S7586; text: CR S7586) To change the enactment date.
+- 2015-10-28 — Amendment SA 2753 proposed by Senator McConnell to Amendment SA 2752 (the instructions of the motion to refer). (consideration: CR S7586; text: CR S7586) To change the enactment date.
+- 2015-10-28 — Amendment SA 2754 proposed by Senator McConnell to Amendment SA 2753. (consideration: CR S7586; text: CR S7586) To change the enactment date.
+- 2015-10-28 — Cloture motion on the motion to concur in the House amendment to the Senate amendment presented in Senate. (consideration: CR S7585; text: CR S7585)
+- 2015-10-28 — DEBATE - The House proceeded with one hour of debate on the Rogers (KY) motion that the House concur in the Senate amendment to H.R. 1314 with an amendment printed in part A of House Report 114-315 modified by the amendment printed in part B.
+- 2015-10-28 — Measure laid before Senate by unanimous consent. (consideration: CR S7585-7586)
+- 2015-10-28 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2015-10-28 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment made in Senate. (consideration: CR S7585)
+- 2015-10-28 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment with an amendment (SA 2750) made in Senate. (consideration: CR S7585)
+- 2015-10-28 — Motion by Senator McConnell to refer to Senate Committee on Finance the House message to accompany H.R. 1314 with instructions to report back forthwith with the following amendment (SA 2752) made in Senate. (consideration: CR S7586)
+- 2015-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-10-28 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 266 - 167 (Roll No. 579). (text as House agreed to Senate amendment with amendment: CR H7273-7302)
+- 2015-10-28 — Pursuant to the provisions of H. Res. 495, Mr. Rogers (KY) moved to concur in the Senate amendment to H.R. 1314 with an amendment. (consideration: CR H7273-7312)
+- 2015-10-28 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 266 - 167 (Roll No. 579).(text as House agreed to Senate amendment with amendment: CR H7273-7302)
+- 2015-10-28 — Rule H. Res. 495 passed House.
+- 2015-10-28 — Rules Committee Resolution H. Res. 495 Reported to House. Rule provides for consideration of H.R. 1314 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. The resolution provides for consideration of the Senate amendment to H.R. 1314.
+- 2015-10-28 — Senate amendment proposed (on the floor): Amendment SA 2750 proposed by Senator McConnell.(consideration: CR S7585; text: CR S7585)
+- 2015-10-28 — Senate amendment proposed (on the floor): Amendment SA 2751 proposed by Senator McConnell to Amendment SA 2750.(consideration: CR S7585-7586; text: CR S7586)
+- 2015-10-28 — Senate amendment proposed (on the floor): Amendment SA 2752 proposed by Senator McConnell.(consideration: CR S7586; text: CR S7586)
+- 2015-10-28 — Senate amendment proposed (on the floor): Amendment SA 2753 proposed by Senator McConnell to Amendment SA 2752 (the instructions of the motion to refer).(consideration: CR S7586; text: CR S7586)
+- 2015-10-28 — Senate amendment proposed (on the floor): Amendment SA 2754 proposed by Senator McConnell to Amendment SA 2753.(consideration: CR S7586; text: CR S7586)
+- 2015-10-28 — Senate amendment submitted
+- 2015-10-28 — Senate amendment submitted
+- 2015-10-28 — Senate amendment submitted
+- 2015-10-28 — Senate amendment submitted
+- 2015-10-28 — Senate amendment submitted
+- 2015-10-28 — The Chair recongized Mr. Rogers (KY) for a motion.
+- 2015-10-28 — The previous question was ordered pursuant to the rule. (consideration: CR H7312)
