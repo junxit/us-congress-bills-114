@@ -1,7 +1,7 @@
 ---
 measure: S. 1500
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1500
@@ -16,7 +16,7 @@ Sensible Environmental Protection Act of 2015
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -32,6 +32,7 @@ Sensible Environmental Protection Act of 2015
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -41,3 +42,7 @@ Sensible Environmental Protection Act of 2015
 
 - 2015-06-03 — Introduced in Senate
 - 2015-06-03 — Read twice and referred to the Committee on Environment and Public Works.
+- 2015-08-05 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2015-10-29 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-160. Minority views filed.
+- 2015-10-29 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-160. Minority views filed.
+- 2015-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 284.
