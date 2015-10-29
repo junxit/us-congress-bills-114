@@ -1,7 +1,7 @@
 ---
 measure: H.R. 597
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 597
@@ -110,3 +110,5 @@ Export-Import Bank Reform and Reauthorization Act of 2015
 - 2015-10-27 — The previous question on the motion to recommit was ordered without objection. (consideration: CR H7230)
 - 2015-10-27 — The previous question was ordered pursuant to the rule. (consideration: CR H7229)
 - 2015-10-27 — WITHDRAWAL OF DEMAND FOR YEAS AND NAYS - Mr. Hensarling asked unanimous consent to withdraw his demand for the yeas and nays on the motion to recommit H.R. 597, to the end that the motion to recommit be rejected on the basis of the earlier voice vote. Agreed to without objection.
+- 2015-10-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-10-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
