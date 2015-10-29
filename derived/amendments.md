@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2643
 congress: 114
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

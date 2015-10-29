@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2643
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2643
@@ -61,10 +61,11 @@ State Licensing Efficiency Act of 2015
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ State Licensing Efficiency Act of 2015
 - 2015-10-28 — Placed on the Union Calendar, Calendar No. 239.
 - 2015-10-28 — Reported by the Committee on Financial Services. H. Rept. 114-316, Part I.
 - 2015-10-28 — Reported by the Committee on Financial Services. H. Rept. 114-316, Part I.
+- 2015-10-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
