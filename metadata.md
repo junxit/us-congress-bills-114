@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 20
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 20
@@ -24,3 +24,6 @@ A joint resolution relating to the approval of the proposed Agreement for Cooper
 
 - 2015-07-28 — Introduced in Senate
 - 2015-07-28 — Read twice and referred to the Committee on Foreign Relations.
+- 2015-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.
+- 2015-10-29 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159(i) and section 601(b)(4) of Public Law 94-329.
+- 2015-10-29 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159(i) and section 601(b)(4) of Public Law 94-329.
