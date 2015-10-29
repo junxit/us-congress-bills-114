@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3763
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3763
@@ -31,3 +31,8 @@ Surface Transportation Reauthorization and Reform Act of 2015
 - 2015-10-20 — Introduced in House
 - 2015-10-20 — Introduced in House
 - 2015-10-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-10-22 — Committee Consideration and Mark-up Session Held.
+- 2015-10-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-10-29 — Placed on the Union Calendar, Calendar No. 241.
+- 2015-10-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-318.
+- 2015-10-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-318.
