@@ -50,10 +50,16 @@ The Secretary of Veterans Affairs shall conduct a program of training and educat
 - **(1)** Personnel of the Department of Veterans Affairs who are supporting or administering a program under chapter 20 of title 38, United States Code.
 - **(2)** Recipients of grants or other amounts for purposes of carrying out such a program.
 
-## § 6. Regulations
+## § 6. Authorization of per diem payments for furnishing care to dependents of certain homeless veterans
+
+Section 2012(a) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(4)** Services for which a recipient of a grant under section 2011 of this title (or an entity described in paragraph (1)) may receive per diem payments under this subsection may include furnishing care for a dependent of a homeless veteran who is under the care of such homeless veteran while such homeless veteran receives services from the grant recipient (or entity).
+
+## § 7. Regulations
 
 Not later than 270 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations, including such modifications to section 3.12 of title 38, Code of Federal Regulations (or any successor regulation), as the Secretary considers appropriate, to ensure that the Department of Veterans Affairs is in full compliance with this Act and the amendments made by this Act.
 
-## § 7. Effective date
+## § 8. Effective date
 
 This Act and the amendments made by this Act shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act.
