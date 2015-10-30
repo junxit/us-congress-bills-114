@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 22
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (46)
+## Cosponsors (49)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -64,6 +64,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
 
 ## Committees (1)
 
@@ -73,3 +76,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2015-09-17 — Introduced in Senate
 - 2015-09-17 — Read twice and referred to the Committee on Environment and Public Works.
+- 2015-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
+- 2015-10-30 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S7675; text: CR S7675)
+- 2015-10-30 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S7675; text: CR S7675)
