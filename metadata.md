@@ -1,0 +1,33 @@
+---
+measure: H.R. 3875
+congress: 114
+version: Introduced in House
+---
+
+# H.R. 3875
+
+Department of Homeland Security CBRNE Defense Act of 2015
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+
+## Cosponsors (3)
+
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+
+## Committees (1)
+
+- House — Homeland Security Committee
+
+## Actions
+
+- 2015-11-02 — Introduced in House
+- 2015-11-02 — Introduced in House
+- 2015-11-02 — Referred to the House Committee on Homeland Security.
