@@ -20,18 +20,13 @@ Congress finds the following:
 - **(1)** Poaching and the illicit trade in endangered and threatened wildlife are among the most lucrative criminal activities worldwide, worth an estimated $7 to $10 billion annually.
 - **(2)** Poaching and wildlife trafficking have escalated in scale, sophistication and violence, risking the potential extinction of some of the world’s most iconic species.
 - **(3)** Wildlife poaching and trafficking threaten elephants, rhinoceros, and tigers greatly, but also have devastating impact on a number of other species, including sharks, great apes, and turtles.
-- **(4)** Researchers conservatively estimate that some 22,000 African elephants were poached in 2012 alone, leaving the current population of elephants around 400,000, down from approximately 1.3 million in 1979.
-- **(5)** An average of 14 rhinos were killed annually by poachers in South Africa between 1990 and 2005, but more than 1,200 rhinos were poached in South Africa alone in 2014.
-- **(6)** Fewer than 3,200 tigers remain in the wild and these remaining wild tigers are under heavy threat of poaching for their skins, bones and other body parts.
-- **(7)** The high demand for rare wildlife products has driven prices to historically high levels.
-- **(8)** Much of the demand for wildlife products comes from Asia and is fueled by the perceived medicinal value and social status associated with these products.
-- **(9)** Reporting indicates that a number of rebel groups and terrorist organizations, including Sudan’s Janjaweed militia, the Lord’s Resistance Army, the Seleka rebel movement in the Central African Republic, and Somalia’s al-Shabaab, either participate in or draw funding from illicit wildlife trafficking networks.
-- **(10)** Analyses suggest the high demand for illegal wildlife products, combined with weak law enforcement and security measures and corruption and governance failures, has led to the increased involvement of transnational organized crime in wildlife trafficking.
-- **(11)** The United Nations Security Council has authorized multilateral sanctions against individuals and entities supporting armed groups through the illicit trade in wildlife, in addition to other natural resources, in the Democratic Republic of Congo and the Central African Republic.
-- **(12)** A National Intelligence Council analysis of wildlife poaching threats found that certain African government officials facilitated the movement of wildlife products, and that these governments’ ability to reduce poaching and trafficking was hindered by corruption and weak rule of law.
-- **(13)** On November 13, 2013, the Secretary of State announced the first reward under the Transnational Organized Crime Rewards Program for information leading to the dismantling of the Xaysavang Network, a large wildlife trafficking syndicate that is based in Laos and spans Africa and Asia.
-- **(14)** On July 1, 2013, the President issued Executive Order 13648 on combating wildlife trafficking, establishing a Presidential Task Force which was responsible for producing a national strategy to combat wildlife trafficking.
-- **(15)** On February 13, 2014, more than 40 countries, including the United States, European Union, and countries from Africa, Asia, the Middle East, and Latin America, participated in the London Conference on the Illegal Wildlife Trade and committed to a declaration which recognized the significant scale and detrimental economic, social and environmental consequences of the illegal trade in wildlife.
+- **(4)** The high demand for rare wildlife products has driven prices to historically high levels.
+- **(5)** Much of the demand for wildlife products comes from Asia and is fueled by the perceived medicinal value and social status associated with these products.
+- **(6)** Reporting indicates that a number of rebel groups and terrorist organizations, including Sudan’s Janjaweed militia, the Lord’s Resistance Army, the Seleka rebel movement in the Central African Republic, and Somalia’s al-Shabaab, either participate in or draw funding from illicit wildlife trafficking networks.
+- **(7)** Analyses suggest the high demand for illegal wildlife products, combined with weak law enforcement and security measures and corruption and governance failures, has led to the increased involvement of transnational organized crime in wildlife trafficking.
+- **(8)** The United Nations Security Council has authorized multilateral sanctions against individuals and entities supporting armed groups through the illicit trade in wildlife, in addition to other natural resources, in the Democratic Republic of Congo and the Central African Republic.
+- **(9)** A National Intelligence Council analysis of wildlife poaching threats found that certain African government officials facilitated the movement of wildlife products, and that these governments’ ability to reduce poaching and trafficking was hindered by corruption and weak rule of law.
+- **(10)** On November 13, 2013, the Secretary of State announced the first reward under the Transnational Organized Crime Rewards Program for information leading to the dismantling of the Xaysavang Network, a large wildlife trafficking syndicate that is based in Laos and spans Africa and Asia.
 
 ## § 3. Expansion of wildlife enforcement networks
 
@@ -47,8 +42,9 @@ Congress finds the following:
   - **(4)** strengthen cooperation and the capacity of law enforcement agencies of the wildlife enforcement network;
   - **(5)** facilitate the sharing of intelligence and relevant case information within the agencies of a wildlife enforcement network;
   - **(6)** support the cooperation and coordination between different regional wildlife enforcement networks;
-  - **(7)** incorporate and utilize expertise from international bodies and civil society organizations that have appropriate subject matter expertise; and
-  - **(8)** eventually create an institutionalized, sustainable, and self-sufficient platform.
+  - **(7)** incorporate and utilize expertise from international bodies and civil society organizations that have appropriate subject matter expertise;
+  - **(8)** eventually create an institutionalized, sustainable, and self-sufficient platform; and
+  - **(9)** recognize that lawful, well regulated hunting can contribute to sustainability and economic development, and that enforcement policies should not discourage or impede this activity.
 
 ## § 4. Supporting the professionalization of the wildlife law enforcement sector
 
@@ -59,7 +55,7 @@ The Secretary of State, the Administrator of the United States Agency for Intern
 - **(3)** Legal reforms, where necessary, to provide rangers with authority to detain and arrest suspects, process crime scenes, present evidence in court, and defend themselves in life threatening situations.
 - **(4)** The development and institutionalization of reward and promotion systems for rangers based on performance and set competencies.
 - **(5)** The development and institutionalization of national systems to provide insurance to rangers and their families and compensation for those rangers killed in the line of duty.
-- **(6)** Cooperation and coordination between local law enforcement tasked with wildlife or park protection and defense forces, where appropriate, including training opportunities, logistical support, or provision of equipment.
+- **(6)** Cooperation and coordination between local law enforcement tasked with wildlife or park protection and local defense forces, where appropriate, including training opportunities, logistical support, or provision of equipment.
 
 ## § 5. Designation of major wildlife trafficking countries and authority to withhold certain assistance
 
@@ -72,18 +68,12 @@ The Secretary of State, the Administrator of the United States Agency for Intern
 - **(e)** *Notification* The Secretary of State shall notify—
   - **(1)** the government of each foreign country that is listed in the report required under subsection (a) that the country has been so listed; and
   - **(2)** the government of each foreign country that is specially designated under subsection (b) and is subject to the withholding of assistance described in subsection (c).
+- **(f)** *Reporting cost offset* Section 8 of Public Law 107–245 (50 U.S.C. 1701 note) is repealed.
+- **(g)** *Sunset* This section shall terminate on the date that is 5 years after the date of the enactment of this Act.
 
-## § 6. Authority to provide security assistance to counter wildlife trafficking and poaching in Africa
+## § 6. Sense of Congress regarding security assistance to counter wildlife trafficking and poaching in Africa
 
-- **(a)** *In general* The President is authorized to provide defense articles, defense services, and related training to security forces of countries of Africa for the purpose of countering wildlife trafficking and poaching.
-- **(b)** *Types of assistance* Assistance provided under subsection (a) may include intelligence and surveillance assets, communications and electronic equipment, mobility assets, night vision and thermal imaging devices, and organizational clothing and individual equipment, pursuant to the applicable provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), and other relevant provisions of law.
-- **(c)** *Special rule* Assistance provided under subsection (a) shall be in addition to any other assistance provided to the countries referred to in such subsection under any other provision of law.
-- **(d)** *Prohibition on assistance*
-  - **(1)** *In general* No assistance may be provided under subsection (a) to a unit of a security force of a country of Africa if the President determines that the unit has been found to engage in wildlife trafficking or poaching.
-  - **(2)** *Exception* The prohibition in paragraph (1) shall not apply with respect to a unit of a security force of a country of Africa if the President determines that the government of the country is taking effective steps to hold the unit accountable and prevent the unit from engaging in trafficking and poaching.
-- **(e)** *Definitions* In this section:
-  - **(1)** *Defense article, defense service, and training* The terms “defense article”, “defense service”, and “training” have the meanings given such terms in section 47 of the Arms Export Control Act (22 U.S.C. 2794 note).
-  - **(2)** *Security force* The term “security force” means a military, law enforcement, gendarmerie, park ranger, or any other security force with responsibility for protecting wildlife and natural habitats.
+It is the sense of Congress that the United States should continue to provide defense articles (not including significant military equipment), defense services, and related training to appropriate security forces of countries of Africa for the purposes of countering wildlife trafficking and poaching.
 
 ## § 7. Updates to the Fishermen’s Protective Act of 1967
 
@@ -92,7 +82,7 @@ Section 8 of the Fishermen’s Protective Act of 1967 (22 U.S.C. 1978) is amende
 - **(1)** in subsection (a)—
   - **(A)** in paragraph (1), by inserting “, in consultation with the Secretary of State,” after “Secretary of Commerce”;
   - **(B)** in paragraph (2), by inserting “, in consultation with the Secretary of State,” before “finds”;
-  - **(C)** in paragraph (3), by inserting “in consultation with the Secretary of State,” after “, as appropriate,”; and
+  - **(C)** in paragraph (3), by inserting “in consultation with the Secretary of State,” after “, as appropriate,”;
   - **(D)** by redesignating paragraph (4) as paragraph (5), and by inserting after paragraph (3) the following:
     > - **(4)** The Secretary of Commerce and the Secretary of the Interior shall each report to the Congress each certification to the President made by such Secretary under this subsection, within 15 days after making such certification.
 
@@ -105,7 +95,7 @@ Section 8 of the Fishermen’s Protective Act of 1967 (22 U.S.C. 1978) is amende
     - **(A)** by striking “or (3)” and inserting “(3)”; and
     - **(B)** by striking “of this title and (ii)” and inserting the following: “of this title, or (4) any act that is a criminal violation of section 9(a)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)(1)), section 2203 of the African Elephant Conservation Act (16 U.S.C. 4223), or section 7(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5305a(a)), if the endangered or threatened species, products, items, or substances involved in the violation and relevant conduct, as applicable, have a total value of more than $10,000 and (ii)”; and
   - **(2)** by adding at the end the following:
-    > - **(f)** *Use of amounts from fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under this section that involves an unlawful activity described in subsection (b)(i)(4) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used for the benefit of the species impacted by the applicable violation.
+    > - **(f)** *Use of amounts from fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under this section that involves an unlawful activity described in subsection (b)(i)(4) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used as provided in advance in appropriations Acts for the benefit of the species impacted by the applicable violation.
 
 - **(b)** *Money laundering* Section 1956 of title 18, United States Code, is amended—
   - **(1)** in subsection (c)(7)—
@@ -115,19 +105,27 @@ Section 8 of the Fishermen’s Protective Act of 1967 (22 U.S.C. 1978) is amende
       > - **(G)** any act or acts constituting a criminal violation of section 9(a)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)(1)), section 2203 of the African Elephant Conservation Act (16 U.S.C. 4223), or section 7(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5305a(a)), if the endangered or threatened species, products, items, or substances involved in the violation and relevant conduct, as applicable, have a total value of more than $10,000;
 
   - **(2)** by adding at the end the following:
-    > - **(j)** *Use of amounts from civil penalties, fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under this section that involves an unlawful activity described in subsection (c)(7)(G) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used for the benefit of the species impacted by the applicable violation.
+    > - **(j)** *Use of amounts from civil penalties, fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under this section that involves an unlawful activity described in subsection (c)(7)(G) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used as provided in advance in appropriations Acts for the benefit of the species impacted by the applicable violation.
 
 - **(c)** *RICO* Chapter 96 of title 18, United States Code, is amended—
   - **(1)** in section 1961(1)—
     - **(A)** by striking “or (G)” and inserting “(G)”; and
     - **(B)** by inserting before the semicolon at the end the following: “, or (H) any act constituting a criminal violation of section 9(a)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)(1)), section 2203 of the African Elephant Conservation Act (16 U.S.C. 4223), or section 7(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5305a(a)), if the endangered or threatened species, products, items, or substances involved in the violation and relevant conduct, as applicable, have a total value of more than $10,000”; and
   - **(2)** in section 1963, by adding at the end the following:
-    > - **(n)** *Use of amounts from fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under section 1962 that is based on racketeering activity described in section 1961(1)(H) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used for the benefit of the species impacted by the applicable violation.
+    > - **(n)** *Use of amounts from fines, forfeitures, and restitution relating to wildlife trafficking violations* Any amounts received by the United States as fines, forfeitures of property or assets, or restitution to the Government for any violation under section 1962 that is based on racketeering activity described in section 1961(1)(H) shall be transferred by the Secretary of the Treasury, to the extent practicable, to the Multinational Species Conservation Fund and used as provided in advance in appropriations Acts for the benefit of the species impacted by the applicable violation.
 
 - **(d)** *Technical and conforming amendments*
   - **(1)** *Use of amounts from fines* Section 1402(b)(1)(A) of the Victims of Crime Act of 1984 (42 U.S.C. 10601(b)(1)(A)) is amended—
     - **(A)** in clause (i), by striking “and” at the end; and
     - **(B)** by adding at the end the following:
-      > - **(iii)** sections 1952(e), 1956(j), and 1963(n) of title 18, United States Code; and
+      > - **(iii)** sections 1952(f), 1956(j), and 1963(n) of title 18, United States Code; and
 
-  - **(2)** *Use of amounts from forfeitures* Section 524(c)(4)(A) of title 28, United States Code, is amended by inserting before “or the Postmaster General” the following: “under section 1952(f), 1956(j), or 1963(n) of title 18,”.
+  - **(2)** *Use of amounts from forfeitures* Section 524(c)(4)(A) of title 28, United States Code, is amended by inserting before “or the Postmaster General” the following: “or section 1952(f), 1956(j), or 1963(n) of title 18,”.
+
+## § 9. Other actions relating to wildlife trafficking programs
+
+It is the sense of Congress that the Secretary of State should dedicate sufficient program resources to—
+
+- **(1)** conduct monitoring and evaluation, with a special emphasis where feasible on impact evaluations, of wildlife trafficking programs consistent with the Department of State’s January 2015 Evaluation Policy;
+- **(2)** publish program information on wildlife trafficking programs on the Department of State’s Internet website, “ForeignAssistance.gov” in a digital format consistent with the United States commitment to the International Aid Transparency Initiative (IATI); and
+- **(3)** develop and implement a learning agenda to improve the performance and impact of wildlife trafficking programs and to share best practices among relevant executive branch agencies.
