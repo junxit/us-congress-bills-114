@@ -2,7 +2,7 @@
 legis-num: H. RES. 293
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 293
@@ -12,27 +12,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the 1995 Interim Agreement on the West Bank and the Gaza Strip, commonly referred to as Oslo II, specifically details that Israel and the Palestinian Authority shall “abstain from incitement, including hostile propaganda, against each other and, without derogating from the principle of freedom of expression, shall take legal measures to prevent such incitement by any organizations, groups or individuals within their jurisdiction”;
-- Whereas in spite of the Oslo II agreement, the President of the Palestinian Authority, Mahmoud Abbas repeatedly describes released Palestinian terrorists as “heroes” and Fatah’s military wing publicly threatens to kidnap soldiers and launch missiles at Israel on the Fatah Facebook page and website;
-- Whereas the Palestinian Authority pays monthly “salaries” to families of Palestinian terrorists incarcerated in Israel;
+- Whereas the Oslo II agreement further states that Israel and the Palestinian Authority “will ensure that their respective educational systems contribute to the peace between the Israeli and Palestinian peoples and to peace in the entire region”;
+- Whereas Palestinian Authority incitement against Israelis has continued unabated for many years despite periods of negotiations between Israel and the Palestinian Authority;
+- Whereas this incitement takes on many forms, and has included the glorification of terrorists who have murdered Israeli civilians; advocating struggle against Israel despite entering into negotiations with Israel; the demonization of Jews and Israelis, including by the use of anti-Semitic motifs; the denial of Israel’s existence and its delegitimization as evidenced by the absence of Israel on official maps used in Palestinian Authority institutions; and false claims that Israel or the Jews are endangering Muslim holy sites, such as the Al-Aqsa mosque/Temple Mount in Jerusalem;
 - Whereas in June 2013, Abbas referenced Israeli acts which “indicate an evil and dangerous plot to destroy Al-Aqsa and build the alleged temple”;
-- Whereas in a November 2014 address commemorating the 10th anniversary of Yasser Arafat’s death, Abbas said that as Israel has no claim to Jerusalem, he will not allow the Temple Mount to be “contaminated by Jews”, and threatened that Jewish prayer at the site would cause a “devastating religious war”;
-- Whereas in November 2014, jailed terrorist and Fatah leader Marwan Barghouti called for “comprehensive resistance and the rifle” against Israel;
-- Whereas Palestinian Authority Deputy Minister of Information Al-Mutawakkil Taha told official Palestian Authority daily newspaper Al Hayat Al Jadida in early 2012 that, “Israel has gone beyond all forms of oppression practiced by fascism throughout history” and that it“does more than racist discrimination and ethnic cleansing”;
-- Whereas official Palestinian websites and Facebook pages, including those of Abbas’ Presidential Guards and Palestinian Authority schools, recurrently show maps of the land without reference to Israel and in November 2012, the Palestinian Authority erected a statue in central Bethlehem square that displayed a map of the “state of Palestine” covering all of Israel;
-- Whereas the Oslo II agreement further dictates that Israel and the Palestinian Authority “will ensure that their respective educational systems contribute to the peace between the Israeli and Palestinian peoples and to peace in the entire region”;
-- Whereas Zayzafuna, a monthly educational magazine for children sponsored by the Palestinian National Committee for Education, Culture and Sciences, regularly presents Adolf Hitler as a role model and in January 2012, Facebook pages of several Palestinian Authority high schools posted images of Hitler with his quotation, “I could have killed all the Jews in the world, but I left a few so that you would know why I killed them”;
-- Whereas a teacher in a summer camp near Nablus in July 2013 can be seen in video footage leading children in a call and response saying, “Palestine is an Arab land from the river to the sea. We want Haifa, we want Acre”;
-- Whereas in July 2013, Palestinian official television aired a video of two girls reciting a poem that calls Jews “barbaric monkeys, wretched pigs” and asserts that Jerusalem is not for Jews, because Jerusalem “vomits” out the Jews who are said to be “filth” and “impure”;
-- Whereas section 7040 (e) of the Consolidated and Further Continuing Appropriations Act, 2015, requires the Secretary of State, if the President waives section 7040 (a) of that same Act, to “certify and report to the Committees on Appropriations prior to the obligation of funds that … the Palestinian Authority is acting to counter incitement of violence against Israelis and is supporting activities aimed at promoting peace, coexistence, and security cooperation with Israel”;
+- Whereas on September 16, 2015, Abbas stated on Palestinian television that “we welcome every drop of blood spilled in Jerusalem. This is pure blood, clean blood, blood on its way to Allah. With the help of Allah, every martyr will be in heaven, and every wounded will get his reward”;
+- Whereas since mid-September 2015 there has been a wave of Palestinian violence in Israel and the West Bank, including stabbings, shootings, and other terrorist acts;
+- Whereas this situation has been inflamed by statements made by Palestinian President Abbas, other Palestinian officials, clerics, and official Palestinian Authority media, and frequently amplified on social media platforms;
+- Whereas these statements have included repeated false claims that Israel seeks to change the “status quo” on the Temple Mount/al-Aqsa Mosque compound;
+- Whereas despite the incitement-induced wave of terrorism, the Palestinian Authority security forces and the Israel Defense Forces have continued security cooperation;
+- Whereas section 7038 of the Consolidated and Further Continuing Appropriations Act, 2015 states that “none of the funds appropriated or otherwise made available by this Act may be used to provide equipment, technical support, consulting services, or any other form of assistance to the Palestinian Broadcasting Corporation”;
+- Whereas section 7040(e) of the Consolidated and Further Continuing Appropriations Act, 2015 requires the Secretary of State, if the President waives section 7040(a) of that Act, to “certify and report to the Committees on Appropriations prior to the obligation of funds that * * * the Palestinian Authority is acting to counter incitement of violence against Israelis and is supporting activities aimed at promoting peace, coexistence, and security cooperation with Israel”; and
 - Whereas the Palestinian Authority has not fully lived up to its prior agreements with Israel to end incitement and should do more to prepare the Palestinian people for peace with Israel: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** expresses support and admiration for individuals and organizations working to encourage cooperation between Israelis and Palestinians, including—
-  - **(A)** Professor Mohammed Dajani Daoudi, who took students from al-Quds University in Jerusalem to visit Auschwitz in March 2014 only to return to death threats by fellow Palestinians and expulsion from his teacher’s union;
-  - **(B)** the Israel Palestine Center for Research and Information, the only joint Israeli-Palestinian public policy think-tank;
-  - **(C)** United Hatzalah, a nonprofit, fully volunteer Emergency Medical Services organization that, mobilizing volunteers who are religious or secular Jews, Arabs, Muslims, and Christians, provides EMS services to all people in Israel regardless of race, religion, or national origin; and
-  - **(D)** Breaking the Impasse, an apolitical initiative of Palestinian and Israeli business and civil society leaders who advocate for a two-state solution and an urgent diplomatic solution to the conflict;
-- **(2)** reiterates strong condemnation of anti-Israel and anti-Semitic incitement in the Palestinian Authority as antithetical to the cause of peace;
-- **(3)** urges President Abbas and Palestinian Authority officials to discontinue all official incitement and exert influence to discourage anti-Israel and anti-Semitic incitement in Palestinian civil society; and
-- **(4)** directs the United States Department of State to regularly monitor and publish information on all official incitement by the Palestinian Authority against Jews and the State of Israel.
+- **(1)** expresses support and admiration for individuals and organizations working to encourage cooperation between Israelis and Palestinians;
+- **(2)** strongly condemns the wave of violent attacks in Israel and the West Bank;
+- **(3)** reiterates the strong condemnation of anti-Israel and anti-Semitic incitement to violence in the Palestinian Authority as antithetical to the cause of peace;
+- **(4)** calls on the Palestinian Authority to—
+  - **(A)** immediately discontinue incitement to violence in all Palestinian Authority-controlled media outlets, and officially and publicly repudiate attacks against Israelis and engage in a sustained effort to publicly and officially rebuke anti-Israel incitement to violence;
+  - **(B)** continue important security cooperation with Israel; and
+  - **(C)** agree to unconditionally renew direct talks with the Israelis, including the reconstitution of the Trilateral Commission on Incitement;
+- **(5)** encourages responsible nations to condemn in the strongest possible terms incitement to violence by the Palestinian Authority;
+- **(6)** expresses support for the Government of Israel in its fight against terror;
+- **(7)** directs the Department of State to regularly monitor and publish information on all official incitement by the Palestinian Authority against Jews and the State of Israel; and
+- **(8)** calls on the Administration to continue publicly repudiating and raising the issue of Palestinian anti-Israel incitement to violence in all appropriate bilateral and international forums.
