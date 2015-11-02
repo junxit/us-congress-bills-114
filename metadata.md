@@ -1,7 +1,7 @@
 ---
 measure: S. 1731
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1731
@@ -22,9 +22,10 @@ Homeless Veterans Services Protection Act of 2015
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,5 @@ Homeless Veterans Services Protection Act of 2015
 - 2015-10-29 — Senate amendment agreed to: Amendment SA 2760 agreed to in Senate by Unanimous Consent.
 - 2015-10-29 — Senate amendment proposed (on the floor): Amendment SA 2760 proposed by Senator Murray for Senator Heller.(consideration: CR S7622; text: CR S7622)
 - 2015-10-29 — Senate amendment submitted
+- 2015-11-02 — Received in the House.
+- 2015-11-02 — Referred to the House Committee on Veterans' Affairs.
