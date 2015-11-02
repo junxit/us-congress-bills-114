@@ -19,13 +19,14 @@ The Administrator of the Transportation Security Administration shall consult, t
 
 ## § 3. Report on the Transportation Security Oversight Board
 
-Not later than 120 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration shall submit to the Transportation Security Oversight Board (established pursuant to section 115 of title 49, United States Code), the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report that includes general information on how often the Board has met, the current composition of the Board, and what activities the Board has undertaken, consistent with the duties specified in subsection (c) of such section. The Administrator may include in such report recommendations for changes to such section in consideration of the provisions of section 44946 of title 49, United States Code.
+Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Transportation Security Oversight Board (established pursuant to section 115 of title 49, United States Code), the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report that includes general information on how often the Board has met, the current composition of the Board, and what activities the Board has undertaken, consistent with the duties specified in subsection (c) of such section. The Administrator may include in such report recommendations for changes to such section in consideration of the provisions of section 44946 of title 49, United States Code.
 
-## § 4. Technical correction
+## § 4. Technical corrections
 
-Subparagraph (A) of section 4946(c)(2) of title 49, United States Code, is amended to read as follows:
+- **(a)** *Terms* Subparagraph (A) of section 44946(c)(2) of title 49, United States Code, is amended to read as follows:
+  > - **(A)** *Terms* The term of each member of the Advisory Committee shall be two years but may continue until such time as a successor member begins serving on the Advisory Committee. A member of the Advisory Committee may be reappointed.
 
-> - **(A)** *Terms* The term of each member of the Advisory Committee shall be two years but may continue until such time as a successor member begins serving on the Advisory Committee. A member of the Advisory Committee may be reappointed.
+- **(b)** *Clarification* Paragraph (5) of section 44946(b) of title 49, United States Code, is amended by striking “under paragraph (4)” and inserting “under this subsection”.
 
 ## § 5. Definition
 

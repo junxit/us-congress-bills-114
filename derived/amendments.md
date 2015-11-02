@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3144
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Subparagraph (A) of section 4946(c)(2) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subparagraph (A) of section 44946(c)(2) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (5) of section 44946(b) of title 49, United States Code, is amended by striking “under paragraph (4)” and inserting “under this subsection”. | the bill names no machine-readable US Code section |
