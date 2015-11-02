@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3876
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3876
+
+> To protect consumer privacy during the development and use of autonomous vehicle technologies.
+
+## § 1. Short title
+
+This Act may be cited as the “Autonomous Vehicle Privacy Protection Act of 2015”.
+
+## § 2. GAO report
+
+The Comptroller General of the United States shall make available to the public a report that assesses the organizational readiness of the Department of Transportation to address autonomous vehicle technology challenges, including consumer privacy protections.
