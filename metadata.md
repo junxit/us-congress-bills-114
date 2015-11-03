@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3505
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3505
@@ -16,9 +16,10 @@ Department of Homeland Security Clearance Management and Administration Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Department of Homeland Security Clearance Management and Administration Act
 - 2015-11-02 — Placed on the Union Calendar, Calendar No. 246.
 - 2015-11-02 — Reported by the Committee on Homeland Security. H. Rept. 114-323.
 - 2015-11-02 — Reported by the Committee on Homeland Security. H. Rept. 114-323.
+- 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
