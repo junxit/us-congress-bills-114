@@ -22,7 +22,8 @@ Section 8(d)(9) of the Small Business Act (15 U.S.C. 637(d)(9)) is amended—
 
 - **(2)** in subparagraph (A), by striking “subsection, or” and inserting “subsection,”;
 - **(3)** in subparagraph (B), by striking “subcontract,” and inserting “subcontract, or”; and
-- **(4)** by inserting after subparagraph (B) the following:
+- **(4)** by moving subparagraphs (A) and (B) 2 ems to the right; and
+- **(45)** by inserting after subparagraph (B) the following:
   > - **(C)** assurances provided under paragraph (6)(E),
 
 ## § 3. Authority of the Administrator of the Small Business Administration
@@ -32,7 +33,8 @@ Section 8(d)(11) of the Small Business Act (15 U.S.C. 637(d)(11)) is amended—
 - **(1)** by striking “(11) In the case of” and inserting the following:
   > - **(11)** *Authority of administration* In the case of
 
-- **(2)** in subparagraph (B), by striking “, which shall be advisory in nature,”.
+- **(2)** in subparagraph (B), by striking “, which shall be advisory in nature,”.; and
+- **(3)** by moving subparagraphs (A), (B), and (C) 2 ems to the right.
 
 ## § 4. Improving subcontracting plans
 
@@ -57,4 +59,4 @@ Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding a
 
 ## § 5. Good faith compliance
 
-Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue regulations providing examples of activities that would be considered a failure to make a good faith effort to comply with the requirements imposed on an entity, other than a small business concern, (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), that is awarded a prime contract containing the clauses required under paragraphs (4) or (5) of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue regulations providing examples of activities that would be considered a failure to make a good faith effort to comply with the requirements imposed on an entity, other than a small business concern, (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), that is awarded a prime contract containing the clauses required under paragraphs paragraph (4) or (5) of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).

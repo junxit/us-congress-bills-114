@@ -1,7 +1,7 @@
 ---
 measure: S. 2138
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -54,5 +54,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 637` | replace | by striking “(9) The failure” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 637` | replace | by striking “(11) In the case of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 637` | strike | in subparagraph (B), by striking “, which shall be advisory in nature,”. | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 637` | strike | in subparagraph (B), by striking “, which shall be advisory in nature,”.; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | add-at-end | Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
