@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3901
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3901
+
+> To amend the Internal Revenue Code of 1986 to extend for two years the credit for thermal energy property.
+
+## § 1. Extension of credit for thermal energy property
+
+- **(a)** *In general* Section 48(a)(3)(A)(vii) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2017” and inserting “January 1, 2019”.
+- **(b)** *Effective date* The amendments made by this section shall apply to periods after December 31, 2016, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of Revenue Reconciliation Act of 1990).
