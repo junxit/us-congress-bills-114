@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1853
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1853
@@ -140,9 +140,10 @@ To direct the President to develop a strategy to obtain observer status for Taiw
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Boyle, Brendan F. [D-PA-13] (B001296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -166,3 +167,4 @@ To direct the President to develop a strategy to obtain observer status for Taiw
 - 2015-11-02 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
 - 2015-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 582). (text: CR H7364)
 - 2015-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 582).(text: CR H7364)
+- 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
