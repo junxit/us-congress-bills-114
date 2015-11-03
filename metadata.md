@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3503
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3503
@@ -23,9 +23,10 @@ Department of Homeland Security Support to Fusion Centers Act of 2015
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Department of Homeland Security Support to Fusion Centers Act of 2015
 - 2015-11-02 — Placed on the Union Calendar, Calendar No. 245.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-322.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-322.
+- 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
