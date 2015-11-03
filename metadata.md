@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3598
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3598
@@ -21,9 +21,10 @@ Fusion Center Enhancement Act of 2015
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Fusion Center Enhancement Act of 2015
 - 2015-11-02 — Placed on the Union Calendar, Calendar No. 247.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-324.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-324.
+- 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

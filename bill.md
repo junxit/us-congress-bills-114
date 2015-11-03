@@ -2,7 +2,7 @@
 legis-num: H.R. 3598
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3598
@@ -45,7 +45,7 @@ This Act may be cited as the “Fusion Center Enhancement Act of 2015”.
       >   - **(1)** *Information sharing and personnel assignment*
       >     - **(A)** *Information sharing* The Under Secretary for Intelligence and Analysis shall ensure that, as appropriate—
       >       - **(i)** fusion centers in the National Network of Fusion Centers have access to homeland security information sharing systems; and
-      >       - **(ii)** Department personnel are deployed to support fusion centers in the National Network of Fusion Centers.
+      >       - **(ii)** Department personnel are deployed to support fusion centers in the National Network of Fusion Centers in a manner consistent with the Department’s mission and existing statutory limits.
       >     - **(B)** *Personnel assignment* Department personnel referred to in subparagraph (A)(ii) may include the following:
       >       - **(i)** Intelligence officers.
       >       - **(ii)** Intelligence analysts.
@@ -65,9 +65,9 @@ This Act may be cited as the “Fusion Center Enhancement Act of 2015”.
       >       - **(v)** U.S. Immigration and Customs Enforcement.
       >       - **(vi)** The Coast Guard.
       >       - **(vii)** Other components or offices of the Department, as determined by the Secretary.
-      >     - **(B)** *Coordination with other Federal agencies* The Under Secretary for Intelligence and Analysis shall coordinate with appropriate officials throughout the Federal Government to ensure the deployment to fusion centers in the National Network of Fusion Centers of representatives with relevant expertise of other Federal departments and agencies.
+      >     - **(B)** *Coordination with other federal agencies* The Under Secretary for Intelligence and Analysis shall coordinate with appropriate officials throughout the Federal Government to ensure the deployment to fusion centers in the National Network of Fusion Centers of representatives with relevant expertise of other Federal departments and agencies.
       >   - **(3)** *Resource allocation criteria*
-      >     - **(A)** *In general* The Secretary shall make available criteria for sharing information and deploying personnel to support a fusion center in the National Network of Fusion Centers pursuant to paragraph (1).
+      >     - **(A)** *In general* The Secretary shall make available criteria for sharing information and deploying personnel to support a fusion center in the National Network of Fusion Centers in a manner consistent with the Department’s mission and existing statutory limits.
 
     - **(B)** in paragraph (4)(B), in the matter preceding clause (i), by inserting “in which such fusion center is located” after “region”;
   - **(5)** in subsection (d)—
@@ -90,6 +90,6 @@ This Act may be cited as the “Fusion Center Enhancement Act of 2015”.
       > - **(5)** the term “National Network of Fusion Centers” means a decentralized arrangement of fusion centers intended to enhance individual State and urban area fusion centers’ ability to leverage the capabilities and expertise of all fusion centers for the purpose of enhancing analysis and homeland security information sharing nationally; and
 
   - **(8)** by striking subsection (k).
-- **(b)** *Accountability report* Not later than one year after the date of the enactment of this Act and annually thereafter through 2022, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the efforts of the Office of Intelligence and Analysis of the Department and other relevant components and offices of the Department to enhance support provided to fusion centers in the National Network of Fusion Centers, including meeting the requirements specified in section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h), as amended by subsection (a) of this section.
+- **(b)** *Accountability report* Not later than 1 year after the date of the enactment of this Act and annually thereafter through 2022, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall report to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate on the efforts of the Office of Intelligence and Analysis of the Department and other relevant components and offices of the Department to enhance support provided to fusion centers in the National Network of Fusion Centers, including meeting the requirements specified in section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h), as amended by subsection (a) of this section.
 - **(c)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by striking the item relating to section 210A and inserting the following new item:
 - **(d)** *Reference* Any reference in any law, rule, or regulation to the “Department of Homeland Security State, Local, and Regional Fusion Center Initiative” shall be deemed to be a reference to the “Department of Homeland Security Fusion Center Initiative”.
