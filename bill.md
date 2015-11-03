@@ -2,18 +2,18 @@
 legis-num: H. RES. 507
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 507
 
 > Providing for consideration of the Senate amendments to the bill (H.R. 22) to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act; providing for proceedings during the period from November 6, 2015, through November 13, 2015; and providing for consideration of motions to suspend the rules.
 
-That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the State of the Union for consideration of the Senate amendment to the text of the bill (H.R. 22) to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act. All points of order against consideration of the Senate amendment are waived. General debate shall be confined to the Senate amendment and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure. After general debate, the Senate amendment shall be considered for amendment under the five-minute rule. The amendment printed in part A of the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and in the Committee of the Whole.
+That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the State of the Union for consideration of the Senate amendment to the text of the bill (H.R. 22) to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act. The first reading of the Senate amendment shall be dispensed with. All points of order against consideration of the Senate amendment are waived. General debate shall be confined to the Senate amendment and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure. After general debate, the Senate amendment shall be considered for amendment under the five-minute rule. The amendment printed in part A of the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and in the Committee of the Whole. The Senate amendment, as amended, shall be considered as read.
 
 ## § 2.
 
-(a) No further amendment to the Senate amendment, as amended, shall be in order except for an amendment consisting of the text of Rules Committee Print 114-32, which shall be considered as pending, shall be considered as read, shall not be debatable, shall not be subject to amendment except as specified in subsection (b), and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole.
+(a) No further amendment to the Senate amendment, as amended, shall be in order except for an amendment consisting of the text of Rules Committee Print 114–32, which shall be considered as pending, shall be considered as read, shall not be debatable, shall not be subject to amendment except as specified in subsection (b), and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole.
 
 - **(b)** No amendment to the further amendment referred to in subsection (a) shall be in order except those printed in part B of the report of the Committee on Rules accompanying this resolution. Each such amendment may be offered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to amendment, and shall not be subject to a demand for division of the question.
 - **(c)** All points of order against amendments referred to in subsections (a) and (b) are waived.
@@ -36,3 +36,7 @@ The Speaker may appoint Members to perform the duties of the Chair for the durat
 ## § 6.
 
 It shall be in order at any time on the legislative day of November 5, 2015, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure authorizing appropriations for fiscal year 2016 for the Department of Defense.
+
+## § 7.
+
+The amendments specified in Rules Committee Print 114–33 shall be considered as though printed in part B of House Report 114–325.
