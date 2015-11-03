@@ -2,7 +2,7 @@
 legis-num: H.R. 3361
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3361
@@ -24,7 +24,7 @@ This Act may be cited as the “Department of Homeland Security Insider Threat a
   >   - **(3)** conduct risk mitigation activities for insider threats.
   > - **(b)** *Steering Committee*
   >   - **(1)** *In general* The Secretary shall establish a Steering Committee within the Department. The Under Secretary for Intelligence and Analysis shall serve as the Chair of the Steering Committee. The Chief Security Officer shall serve as the Vice Chair. The Steering Committee shall be comprised of representatives of the Office of Intelligence and Analysis, the Office of the Chief Information Officer, the Office of the General Counsel, the Office for Civil Rights and Civil Liberties, the Privacy Office, the Office of the Chief Human Capital Officer, the Office of the Chief Financial Officer, the Federal Protective Service, the Office of the Chief Procurement Officer, the Science and Technology Directorate, and other components or offices of the Department as appropriate. Such representatives shall meet on a regular basis to discuss cases and issues related to insider threats to the Department’s critical assets, in accordance with subsection (a).
-  >   - **(2)** *Responsibilities* Not later than one year after the date of the enactment of this section, the Under Secretary for Intelligence and Analysis and the Chief Security Officer, in coordination with the Steering Committee established pursuant to paragraph (1), shall—
+  >   - **(2)** *Responsibilities* Not later than 1 year after the date of the enactment of this section, the Under Secretary for Intelligence and Analysis and the Chief Security Officer, in coordination with the Steering Committee established pursuant to paragraph (1), shall—
   >     - **(A)** develop a holistic strategy for Department-wide efforts to identify, prevent, mitigate, and respond to insider threats to the Department’s critical assets;
   >     - **(B)** develop a plan to implement the insider threat measures identified in the strategy developed under subparagraph (A) across the components and offices of the Department;
   >     - **(C)** document insider threat policies and controls;
@@ -33,7 +33,7 @@ This Act may be cited as the “Department of Homeland Security Insider Threat a
   >     - **(F)** develop a timeline for deploying workplace monitoring technologies, employee awareness campaigns, and education and training programs related to identifying, preventing, mitigating, and responding to potential insider threats to the Department’s critical assets;
   >     - **(G)** require the Chair and Vice Chair of the Steering Committee to consult with the Under Secretary for Science and Technology and other appropriate stakeholders to ensure the Insider Threat Program is informed, on an ongoing basis, by current information regarding threats, beset practices, and available technology; and
   >     - **(H)** develop, collect, and report metrics on the effectiveness of the Department’s insider threat mitigation efforts.
-  > - **(c)** *Report* Not later than two years after the date of the enactment of this section and the biennially thereafter for the next four years, the Secretary shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report on how the Department and its components and offices have implemented the strategy developed under subsection (b)(2)(A), the status of the Department’s risk assessment of critical assets, the types of insider threat training conducted, the number of Department employees who have received such training, and information on the effectiveness of the Insider Threat Program, based on metrics under subsection (b)(2)(H).
+  > - **(c)** *Report* Not later than 2 years after the date of the enactment of this section and the biennially thereafter for the next 4 years, the Secretary shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report on how the Department and its components and offices have implemented the strategy developed under subsection (b)(2)(A), the status of the Department’s risk assessment of critical assets, the types of insider threat training conducted, the number of Department employees who have received such training, and information on the effectiveness of the Insider Threat Program, based on metrics under subsection (b)(2)(H).
   > - **(d)** *Definitions* In this section:
   >   - **(1)** *Critical assets* The term “critical assets” means the people, facilities, information, and technology required for the Department to fulfill its mission.
   >   - **(2)** *Insider* The term “insider” means—
