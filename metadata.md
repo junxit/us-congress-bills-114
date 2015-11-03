@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2494
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2494
@@ -132,11 +132,12 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -156,3 +157,4 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 - 2015-11-02 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2015-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7367-7369)
 - 2015-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7367-7369)
+- 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
