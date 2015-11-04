@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 22
@@ -72,6 +72,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (2)
+
+- 2015-11-03 — [Senate 114-1-296](votes/senate-114-1-0296.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (55–43)
+- 2015-11-04 — [Senate 114-1-297](votes/senate-114-1-0297.md) — On the Joint Resolution — **Joint Resolution Passed** (53–44)
+
 ## Actions
 
 - 2015-09-17 — Introduced in Senate
@@ -79,3 +84,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
 - 2015-10-30 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S7675; text: CR S7675)
 - 2015-10-30 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S7675; text: CR S7675)
+- 2015-11-03 — Measure laid before Senate by motion. (consideration: CR S7703)
+- 2015-11-03 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 296.
+- 2015-11-04 — Considered by Senate. (consideration: CR S7703-7715, S7735-7743)
+- 2015-11-04 — Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 297. (text: CR S7743)
+- 2015-11-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 297.(text: CR S7743)
