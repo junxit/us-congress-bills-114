@@ -2,7 +2,7 @@
 legis-num: H. RES. 512
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 512
@@ -36,7 +36,7 @@ The Chair may postpone further consideration of the Senate amendments in the Hou
 
 ## § 6.
 
-Upon adoption of the further amendment or amendments in the House pursuant to section 4(b) of this resolution —
+Upon adoption of the further amendment or amendments in the House pursuant to section 4(b) of this resolution—
 
 - **(a)** a motion that the House concur in the Senate amendment to the text, as amended, with such further amendment or amendments shall be considered as adopted;
 - **(b)** the Clerk shall engross the action of the House under subsection (a) as a single amendment in the nature of a substitute;
