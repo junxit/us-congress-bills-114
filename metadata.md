@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 22
@@ -72,10 +72,12 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2015-11-03 — [Senate 114-1-296](votes/senate-114-1-0296.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (55–43)
 - 2015-11-04 — [Senate 114-1-297](votes/senate-114-1-0297.md) — On the Joint Resolution — **Joint Resolution Passed** (53–44)
+- 2016-01-13 — [House 114-2-45](votes/house-114-2-0045.md) — On Passage — **Passed** (253–166)
+- 2016-01-21 — [Senate 114-2-5](votes/senate-114-2-0005.md) — On the Cloture Motion — **Cloture Motion Rejected** (52–40)
 
 ## Actions
 
@@ -89,3 +91,26 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-11-04 — Considered by Senate. (consideration: CR S7703-7715, S7735-7743)
 - 2015-11-04 — Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 297. (text: CR S7743)
 - 2015-11-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 297.(text: CR S7743)
+- 2015-11-05 — Message on Senate action sent to the House.
+- 2015-11-16 — Held at the desk.
+- 2015-11-16 — Received in the House.
+- 2016-01-11 — Rules Committee Resolution H. Res. 583 Reported to House. The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-13 — Considered as unfinished business. (consideration: CR H355-356)
+- 2016-01-13 — Considered under the provisions of rule H. Res. 583. (consideration: CR H335-346)
+- 2016-01-13 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 22.
+- 2016-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-13 — On passage Passed by the Yeas and Nays: 253 - 166 (Roll no. 45). (text: CR H335)
+- 2016-01-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on S.J.Res. 22, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Gibbs demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2016-01-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 253 - 166 (Roll no. 45).(text: CR H335)
+- 2016-01-13 — The previous question was ordered pursuant to the rule. (consideration: CR H346)
+- 2016-01-13 — The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-19 — Presented to President.
+- 2016-01-19 — Presented to President.
+- 2016-01-20 — Cloture motion on the veto message presented in Senate. (consideration: CR S111-112; text: CR S111)
+- 2016-01-20 — Veto Message considered in Senate. (consideration: CR S100, S111-112)
+- 2016-01-20 — Veto message received in Senate. Ordered held at the desk.
+- 2016-01-20 — Vetoed by President.
+- 2016-01-20 — Vetoed by President.
+- 2016-01-21 — Cloture on the veto message not invoked in Senate by Yea-Nay Vote. 52 - 40. Record Vote Number: 5. (consideration: CR S146-147; text: CR S146)
+- 2016-01-21 — Veto Message considered in Senate. (consideration: CR S143-147)
+- 2016-01-21 — Veto message indefinitely postponed by Senate by Unanimous Consent. (consideration: CR S147)
