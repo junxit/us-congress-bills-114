@@ -1,0 +1,17 @@
+---
+legis-num: H. CON. RES. 91
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 91
+
+> Providing for a conditional adjournment of the House of Representatives.
+
+That when the House adjourns on any legislative day from Thursday, November 5, 2015, through Thursday, November 12, 2015, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand adjourned until 2 p.m. on Monday, November 16, 2015, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first.
+
+## § 2.
+
+- **(a)** The Speaker or his designee, after consultation with the Minority Leader of the House, shall notify the Members of the House to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+- **(b)** After reassembling pursuant to subsection (a), when the House adjourns on a motion offered pursuant to this subsection by its Majority Leader or his designee, the House shall again stand adjourned pursuant to the first section of this concurrent resolution.
