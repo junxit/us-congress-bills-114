@@ -15,16 +15,16 @@ This Act may be cited as the “Electrify Africa Act of 2015”.
 
 ## § 2. Purpose
 
-The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction.
+The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for inclusive economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction.
 
 ## § 3. Statement of policy
 
 It is the policy of the United States to partner, consult, and coordinate with the governments of sub-Saharan African countries, international financial institutions, and African regional economic communities, cooperatives, and the private sector, in a concerted effort to—
 
 - **(1)** promote first-time access to power and power services for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas;
-- **(2)** encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive economic growth;
-- **(3)** promote reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
-- **(4)** promote policies to facilitate public-private partnerships to provide electrical service to rural and underserved populations;
+- **(2)** encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive inclusive economic growth;
+- **(3)** promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
+- **(4)** promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
 - **(5)** encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
 - **(6)** promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution;
 - **(7)** promote policies to displace kerosene lighting with other technologies; and
@@ -34,7 +34,7 @@ It is the policy of the United States to partner, consult, and coordinate with t
 
 - **(a)** *Strategy required*
   - **(1)** *In general* The President shall establish a comprehensive, integrated, multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation consistent with the policy stated in section 3.
-  - **(2)** *Flexibility and responsiveness* The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to technological innovation in the power sector.
+  - **(2)** *Flexibility and responsiveness* The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to concerns and interests of affected local communities and technological innovation in the power sector.
 - **(b)** *Report required* Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that contains the strategy required under subsection (a) and includes a discussion of the following elements:
   - **(1)** The objectives of the strategy and the criteria for determining the success of the strategy.
   - **(2)** A general description of efforts in sub-Saharan Africa to—
@@ -44,15 +44,15 @@ It is the policy of the United States to partner, consult, and coordinate with t
     - **(D)** improve the reliability of power;
     - **(E)** maintain the affordability of power;
     - **(F)** maximize the financial sustainability of the power sector; and
-    - **(G)** improve access to power.
+    - **(G)** improve access to power non-discriminatory access to power that is done in consultation with affected communities.
   - **(3)** A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs.
-  - **(4)** A description of plans to support efforts to reduce waste and corruption and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate.
+  - **(4)** A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate.
   - **(5)** An analysis of existing mechanisms for ensuring, and recommendations to promote—
     - **(A)** commercial cost recovery;
     - **(B)** commercialization of electric service through distribution service providers, including cooperatives, to consumers;
     - **(C)** improvements in revenue cycle management, power pricing, and fees assessed for service contracts and connections;
     - **(D)** reductions in technical losses and commercial losses; and
-    - **(E)** access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services.
+    - **(E)** non-discriminatory access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services.
   - **(6)** A description of the reforms being undertaken or planned by countries in sub-Saharan Africa to ensure the long-term economic viability of power projects and to increase access to power, including—
     - **(A)** reforms designed to allow third parties to connect power generation to the grid;
     - **(B)** policies to ensure there is a viable and independent utility regulator;
@@ -63,7 +63,8 @@ It is the policy of the United States to partner, consult, and coordinate with t
     - **(G)** policies to unbundle power services;
     - **(H)** regulations to eliminate conflicts of interest in the utility sector;
     - **(I)** efforts to develop standardized power purchase agreements and other contracts to streamline project development; and
-    - **(J)** efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector.
+    - **(J)** efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector. sector; and
+    - **(K)** policies that promote local community consultation with respect to the development of power generation and transmission projects.
   - **(7)** A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa.
   - **(8)** A description of the mechanisms to be established for—
     - **(A)** selection of partner countries for focused engagement on the power sector;
@@ -93,11 +94,11 @@ It is the policy of the United States to partner, consult, and coordinate with t
   - **(1)** maximizing the number of people with new access to power and power services;
   - **(2)** improving and expanding the generation, transmission and distribution of power;
   - **(3)** providing reliable power to people and businesses in urban and rural communities;
-  - **(4)** addressing the energy needs of people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas;
+  - **(4)** addressing the energy needs of marginalized people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas;
   - **(5)** reducing transmission and distribution losses and improving end-use efficiency and demand-side management;
   - **(6)** reducing energy-related impediments to business productivity and investment; and
   - **(7)** building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution.
-- **(b)** *Effectiveness measurement* In pri­or­i­tizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3.
+- **(b)** *Effectiveness measurement* In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3.
 - **(c)** *Rule of construction* Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions.
 
 ## § 6. Leveraging international support
@@ -120,7 +121,7 @@ In implementing the strategy described in section 4, the President should direct
     - **(B)** an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors;
     - **(C)** the amount of financing provided or guaranteed by the United States Government for the project;
     - **(D)** an estimate of United States Government resources for the project, itemized by funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
-    - **(E)** an estimate of the number of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
+    - **(E)** an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
     - **(F)** an assessment of the increase in the number of people and businesses with access to power, and in the operating electrical power capacity in megawatts as a result of the project between the date of the enactment of this Act and the date of the report;
     - **(G)** a description of efforts to gain meaningful local consultation for projects associated with this Act and any significant estimated noneconomic effects of the efforts carried out pursuant to this Act; and
     - **(H)** a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act.
