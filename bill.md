@@ -1,0 +1,72 @@
+---
+legis-num: H.R. 3973
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3973
+
+> To reform the Federal Crop Insurance Act and reduce Federal spending on crop insurance.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Assisting Family Farmers through Insurance Reform Measures Act” or the “AFFIRM Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Adjusted gross income and per person limitations on share of insurance premiums paid by Corporation
+
+Section 508(e)(1) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)(1)) is amended—
+
+- **(1)** by striking “For the purpose” and inserting the following:
+  > - **(A)** *Payment authority* For the purpose
+
+- **(2)** by adding at the end the following new subparagraphs:
+  > - **(B)** *Adjusted gross income limitation* The Corporation shall not pay a part of the premium for additional coverage for any person or legal entity that has an average adjusted gross income (as defined in section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a)) in excess of $250,000.
+  > - **(C)** *Per person limitation* The Corporation shall not pay more than $40,000 per reinsurance year to any person or legal entity for premiums under this section.
+
+## § 3. Cap on overall rate of return for crop insurance providers
+
+Section 508(k)(3) of the Federal Crop Insurance Act (7 U.S.C. 1508(k)(3)) is amended—
+
+- **(1)** by designating paragraph (3) as subparagraph (A) (and adjusting the margin two ems to the right);
+- **(2)** by inserting before subparagraph (A) (as so designated) the following:
+  > - **(3)** *Risk*
+
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(B)** *Cap on overall rate of return* The target rate of return for all the companies combined for the 2015 and subsequent reinsurance years shall be 8.9 percent of retained premium.
+
+## § 4. Cap on reimbursements for administrative and operating expenses of crop insurance providers
+
+Section 508(k)(4) of the Federal Crop Insurance Act (7 U.S.C. 1508(k)(4)) is amended by adding at the end the following new subparagraph:
+
+> - **(G)** *Additional cap on reimbursements* Notwithstanding subparagraphs (A) through (F), total reimbursements for administrative and operating costs for the 2015 insurance year for all types of policies and plans of insurance shall not exceed $900,000,000. For each subsequent insurance year, the dollar amount in effect pursuant to the preceding sentence shall be increased by the same inflation factor as established for the administrative and operating costs cap in the 2011 Standard Reinsurance Agreement.
+
+## § 5. Renegotiation of Standard Reinsurance Agreement
+
+Section 508(k)(8) of the Federal Crop Insurance Act (7 U.S.C. 1508(k)(8)) is amended by striking subparagraph (F).
+
+## § 6. Prohibition on premium subsidy for harvest price policies
+
+Section 508(e) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)) is amended by adding at the end the following:
+
+> - **(9)** *Prohibition on premium subsidy for harvest price policies* Notwithstanding any other provision of law and beginning with the 2016 reinsurance year, the Corporation may not pay any amount of premium subsidy in the case of a policy or plan of insurance that is based on the actual market price of an agricultural commodity at the time of harvest.
+
+## § 7. Crop insurance premium subsidies disclosure in the public interest
+
+Section 502(c)(2) of the Federal Crop Insurance Act (7 U.S.C. 1502(c)(2)) is amended—
+
+- **(1)** by redesignating subparagraphs (A) and (B) as subparagraphs (C) and (D) respectively; and
+- **(2)** by inserting before subparagraph (C) (as so redesignated) the following:
+  > - **(A)** *Disclosure in the public interest* Notwithstanding paragraph (1) or any other provision of law, except as provided in subparagraph (B), the Secretary shall on an annual basis make available to the public—
+  >   - **(i)**
+  >     - **(I)** the name of each individual or entity who obtained a federally subsidized crop insurance, livestock, or forage policy or plan of insurance during the previous fiscal year;
+  >     - **(II)** the amount of premium subsidy received by the individual or entity from the Corporation; and
+  >     - **(III)** the amount of any Federal portion of indemnities paid in the event of a loss during that fiscal year for each policy associated with that individual or entity; and
+  >   - **(ii)** for each private insurance provider, by name—
+  >     - **(I)** the underwriting gains earned through participation in the federally subsidized crop insurance program; and
+  >     - **(II)** the amount paid under this subtitle for—
+  >       - **(aa)** administrative and operating expenses;
+  >       - **(bb)** any Federal portion of indemnities and reinsurance; and
+  >       - **(cc)** any other purpose.
+  > - **(B)** *Limitation* The Secretary shall not disclose information pertaining to individuals and entities covered by a catastrophic risk protection plan offered under section 508(b).
