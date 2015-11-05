@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 92
