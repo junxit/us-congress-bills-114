@@ -1,12 +1,35 @@
 ---
 legis-num: S. 1356
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1356
 
-That the bill from the Senate (S. 1356) entitled “An Act to clarify that certain provisions of the Border Patrol Agent Pay Reform Act of 2014 will not take effect until after the Director of the Office of Personnel Management promulgates and makes effective regulations relating to such provisions.”, do pass with the following
+> To authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2016”.
+
+## § 2. Organization of Act into divisions; table of contents
+
+- **(a)** *Divisions* This Act is organized into four divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Funding Tables.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 3. Congressional defense committees
+
+In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+
+## § 4. Budgetary effects of this Act
+
+The budgetary effects of this Act, for the purposes of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on the conference report or amendment between the Houses.
+
+## § 5. Explanatory statement
+
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about November 5, 2015, by the Chairman of the Committee on Armed Services of the House of Representatives and the Chairman of the Committee on Armed Services of the Senate, shall have the same effect with respect to the implementation of this Act as if it were a joint explanatory statement of a committee of conference.
