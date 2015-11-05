@@ -1,0 +1,35 @@
+---
+legis-num: S. 2249
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2249
+
+> To amend title 18, United States Code, to impose criminal penalties for the unsafe operation of unmanned aircraft.
+
+## § 1. Short title
+
+This Act may be cited as the “Drone Operator Safety Act”.
+
+## § 2. Unsafe operation of unmanned aircraft
+
+- **(a)** *In general* Chapter 2 of title 18, United States Code, is amended—
+  - **(1)** in section 31—
+    - **(A)** in subsection (a)—
+      - **(i)** by redesignating paragraph (10) as paragraph (11); and
+      - **(ii)** by inserting after paragraph (9) the following:
+        > - **(10)** *Unmanned aircraft* The term unmanned aircraft has the meaning given such term in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).
+
+    - **(B)** in subsection (b), by inserting “airport, ” before “appliance”; and
+  - **(2)** by inserting after section 39A the following:
+    > ## § 39B. Unsafe operation of unmanned aircraft
+    >
+    > - **(a)** *Offense* Any person who operates an unmanned aircraft in a manner that interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States shall be punished as provided in subsection (b).
+    > - **(b)** *Penalty*
+    >   - **(1)** *In general* Except as provided in paragraph (2), the punishment for an offense under subsection (a) shall be a fine under this title, imprisonment for not more than 1 year, or both.
+    >   - **(2)** *Serious bodily injury or death* The punishment for an offense under subsection (a) during which the offender attempts to cause, or intentionally or recklessly causes, serious bodily injury or death shall be a fine under this title, imprisonment for any term of years or for life, or both.
+    > - **(c)** *Operation of unmanned aircraft in flight path of airport* The operation of an unmanned aircraft within the arrival or departure flight path of any airport without the permission of the airport operator or airport traffic control tower shall be considered a violation of subsection (a).
+
+- **(b)** *Clerical amendment* The table of sections for chapter 2 of title 18, United States Code, is amended by inserting after the item relating to section 39A the following:
