@@ -15,10 +15,5 @@ This Act may be cited as the “Fairness in Class Action Litigation Act of 2015�
 
 ## § 2. Class member injury required
 
-- **(a)** *In general* Title 28, United States Code, is amended by adding at the end the following:
-  > ## § 1716. Limitation on certification of class
-  >
-  > - **(a)** *In general* No Federal court shall certify any proposed class unless the party seeking to maintain a class action affirmatively demonstrates through admissible evidentiary proof that each proposed class member suffered an injury of the same type and extent as the injury of the named class representative or representatives.
-  > - **(b)** *Definition* In this section, the term “injury” means the alleged impact of the defendant’s actions on the plaintiff’s body or property.
-
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 114 of title 28, United States Code, is amended by adding at the end the following new item:
+- **(a)** *In general* No Federal court shall certify any proposed class seeking monetary relief for personal injury or economic loss unless the party seeking to maintain such a class action affirmatively demonstrates that each proposed class member suffered the same type and scope of injury as the named class representative or representatives.
+- **(b)** *Certification order* An order issued under Rule 23(c)(1) of the Federal Rules of Civil Procedure that certifies a class seeking monetary relief for personal injury or economic loss shall include a determination, based on a rigorous analysis of the evidence presented, that the requirement in subsection (a) of this section is satisfied.
