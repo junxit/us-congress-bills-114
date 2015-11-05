@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 92
-congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 92
