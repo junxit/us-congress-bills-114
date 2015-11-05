@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 22
@@ -479,12 +479,13 @@ FAST Act
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - Senate — Finance Committee
+- House — Transportation and Infrastructure Committee
 
-## Recorded votes (47)
+## Recorded votes (52)
 
 - 2015-01-06 — [House 114-1-7](votes/house-114-1-0007.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–0)
 - 2015-07-21 — [Senate 114-1-250](votes/senate-114-1-0250.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (41–56)
@@ -533,6 +534,11 @@ FAST Act
 - 2015-11-05 — [House 114-1-622](votes/house-114-1-0622.md) — On Agreeing to the Amendment — **Agreed to** (354–72)
 - 2015-11-05 — [House 114-1-623](votes/house-114-1-0623.md) — On Agreeing to the Amendments En gros — **Passed** (363–64)
 - 2015-11-05 — [House 114-1-624](votes/house-114-1-0624.md) — On Motion to go to Conference — **Passed** (371–54)
+- 2015-11-10 — [Senate 114-1-303](votes/senate-114-1-0303.md) — On the Cloture Motion — **Cloture Motion Agreed to** (82–7)
+- 2015-11-10 — [Senate 114-1-304](votes/senate-114-1-0304.md) — On the Motion — **Motion Agreed to** (56–31)
+- 2015-12-03 — [House 114-1-673](votes/house-114-1-0673.md) — On Agreeing to the Conference Report — **Passed** (359–65)
+- 2015-12-03 — [Senate 114-1-330](votes/senate-114-1-0330.md) — On the Motion — **Motion Agreed to** (77–22)
+- 2015-12-03 — [Senate 114-1-331](votes/senate-114-1-0331.md) — On the Conference Report — **Conference Report Agreed to** (83–16)
 
 ## Actions
 
@@ -1695,3 +1701,50 @@ FAST Act
 - 2015-11-05 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the House amendment and the Senate amendment, and modifications committed to conference: Shuster, Duncan of Tennessee, Graves of Missouri, Miller of Michigan, Crawford, Barletta, Farenthold, Gibbs, Denham, Ribble, Perry, Woodall, Katko, Babin, Hardy, Graves of Louisiana, DeFazio, Norton, Nadler, Brown of Florida, Eddie Bernice Johnson of Texas, Cummings, Larsen of Washington, Capuano, Napolitano, Lipinski, Cohen, and Sires. (consideration: CR H8136)
 - 2015-11-05 — The previous question was ordered pursuant to the rule. (consideration: CR H8132)
 - 2015-11-05 — The previous question was ordered without objection. (consideration: CR H8135)
+- 2015-11-10 — Cloture motion on the motion to disagree to the House amendment to the Senate amendment, agree to the request for conference, and authorize the Presiding Officer to appoint conferees presented in Senate. (consideration: CR S7881; text: CR S7881)
+- 2015-11-10 — Cloture on the motion to disagree to the House amendment to the Senate amendment, agree to the request for conference, and authorize the Presiding Officer to appoint conferees invoked in Senate by Yea-Nay Vote. 82 - 7. Record Vote Number: 303. (consideration: CR S7886)
+- 2015-11-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7881-7887)
+- 2015-11-10 — Message on House action received in Senate and at desk: House amendment to Senate amendment and House requests a conference.
+- 2015-11-10 — Message on Senate action sent to the House.
+- 2015-11-10 — Motion by Senator Blumenthal to instruct Senate conferees (rail safety provisions) agreed to in Senate by Voice Vote. (consideration: CR S7887)
+- 2015-11-10 — Motion by Senator Blumenthal to instruct Senate conferees made in Senate. (consideration: CR S7887)
+- 2015-11-10 — Motion by Senator Wicker to instruct Senate conferees (combination length limitations) agreed to in Senate by Yea-Nay Vote. 56 - 31. Record Vote Number: 304. (consideration: CR S7886-7887)
+- 2015-11-10 — Motion by Senator Wicker to instruct Senate conferees made in Senate. (consideration: CR S7886)
+- 2015-11-10 — Motion to disagree to the House amendment to the Senate amendment, agree to the request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Motion to disagree to the House amendment to the Senate amendment, agree to the request for conference, and authorize the Presiding Officer to appoint conferees made in Senate. (consideration: CR S7881)
+- 2015-11-10 — Senate appointed conferees Inhofe, Thune, Hatch, Murkowski, Fischer, Barrasso, Cornyn, Boxer, Brown, Nelson, Wyden, Durbin, Schumer. (consideration: CR S7887)
+- 2015-11-10 — Senate disagrees to the House amendment to the Senate amendment, agrees to the request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2015-11-17 — SENATE NOTIFICATION - The Chair announced that the Senate would be notified of the appointment of additional conferees.
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Armed Services, for consideration of sec. 1111 of the House amendment, and modifications committed to conference: Thornberry, Rogers (AL), and Sanchez, Loretta. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Energy and Commerce, for consideration of secs. 1109, 1201, 1202, 3003, Division B, secs. 31101, 31201, and Division F of the House amendment and secs. 11005, 11006, 11013, 21003, 21004, subtitles B and D of title XXXIV, secs. 51101 and 51201 of the Senate amendment, and modifications committed to conference: Upton, Mullin, and Pallone. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Financial Services, for consideration of sec. 32202 and Division G of the House amendment and secs. 52203 and 52205 of the Senate amendment, and modifications committed to conference: Hensarling, Neugebauer, and Waters, Maxine. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Natural Resources, for consideration of secs. 1114-16, 1120, 1301, 1302, 1304, 1305, 1307, 1308, 1310-13, 1316, 1317, 10001, and 10002 of the House amendment and secs. 11024-27, 11101-13, 11116-18, 15006, 31103-05, and 73103 of the Senate amendment and modifications committed to conference: Thompson (PA), LaHood, and Grijalva. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Oversight and Government Reform, for consideration of secs. 5106, 5223, 5504, 5505, 61003, and 61004 of the House amendment and secs. 12004, 21019, 31203, 32401, 32508, 32606, 35203, 35311, and 35312 of the Senate amendment, and modifications committed to conference: Mica, Hurd (TX), and Connolly. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Science, Space, and Technology, for consideration of secs. 3008, 3015, 4003, and title VI of the House amendment and secs. 11001, 12001, 12002, 12004, 12102, 21009, 21017, subtitle B of title XXXI, secs. 35105 and 72003 of the Senate amendment, and modifications committed to conference: Smith (TX), Comstock, and Edwards. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on Ways and Means, for consideration of secs. 31101, 31201, and 31203 of the House amendment, and secs. 51101, 51201, 51203, 52101, 52103-05, 52108, 62001, and 74001 of the Senate amendment, and modifications committed to conference: Brady (TX), Reichert, and Levin. (consideration: CR H8278)
+- 2015-11-17 — The Speaker appointed additional conferees - from the Committee on the Judiciary, for consideration of secs. 1313, 24406, and 43001 of the House amendment and secs. 32502 and 35437 of the Senate amendment, and modifications committed to conference: Goodlatte, Marino, and Lofgren. (consideration: CR H8278)
+- 2015-11-18 — Conference committee actions: Conference held.
+- 2015-11-18 — Conference held.
+- 2015-12-01 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2015-12-01 — Conference report H. Rept. 114-357 filed. (text of conference report: CR H8679-8822)
+- 2015-12-01 — Conference report filed: Conference report H. Rept. 114-357 filed.(text of conference report: CR H8679-8822)
+- 2015-12-02 — Rules Committee Resolution H. Res. 546 Reported to House. Rule provides for consideration of the conference report to H.R. 22. Resolution waives all points of order against the conference report and against its consideration. Conference report is considered as read and debatable for one hour. A motion to recommit is allowed if applicable.
+- 2015-12-03 — Conference papers: message on House action held at the desk in Senate.
+- 2015-12-03 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 65 (Roll no. 673).(consideration: CR H8999)
+- 2015-12-03 — Conference report agreed to in Senate: Senate agreed to conference report, under the order of 12/3/2015, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 83 - 16. Record Vote Number: 331.
+- 2015-12-03 — Conference report considered in Senate. (consideration: CR S8357-8366)
+- 2015-12-03 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 22.
+- 2015-12-03 — Motion to waive Rule XXVIII relative to section 32205 with respect to the conference report agreed to by Yea-Nay Vote. 77 - 22. Record Vote Number: 330. (consideration: CR S8363-8364)
+- 2015-12-03 — Motions to reconsider laid on the table Agreed to without objection.
+- 2015-12-03 — Mr. Shuster brought up conference report H. Rept. 114-357 for consideration pursuant to H. Res. 546. (consideration: CR H8988-9000)
+- 2015-12-03 — On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 65 (Roll no. 673). (consideration: CR H8999)
+- 2015-12-03 — Point of order that section 32205 of the conference report violates the scope of conference under Rule XXVIII raised in Senate.
+- 2015-12-03 — Rule H. Res. 546 passed House.
+- 2015-12-03 — Senate agreed to conference report, under the order of 12/3/2015, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 83 - 16. Record Vote Number: 331.
+- 2015-12-03 — The previous question was ordered pursuant to the rule. (consideration: CR H8999)
+- 2015-12-04 — Became Public Law No: 114-94.
+- 2015-12-04 — Became Public Law No: 114-94.
+- 2015-12-04 — Message on Senate action sent to the House.
+- 2015-12-04 — Presented to President.
+- 2015-12-04 — Presented to President.
+- 2015-12-04 — Signed by President.
