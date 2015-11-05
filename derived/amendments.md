@@ -1,7 +1,7 @@
 ---
 measure: S. 1298
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | add-at-end | Chapter 63 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 6307(b)(1) of title 49, United States Code, is amended by inserting “or section 6314(b)” after “section 6302(b)(3)(B)” each place it appears. | the bill names no machine-readable US Code section |
+| — | insert | Section 6307(b)(2)(A) of title 49, United States Code, is amended by inserting “or section 6314(b)” after “section 6302(b)(3)(B)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 63 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 63 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 6307(b)(1) of title 49, United States Code, is amended by inserting “or section 6314(b)” after “section 6302(b)(3)(B)” each place it appears. | the bill names no machine-readable US Code section |
 | — | insert | Section 6307(b)(2)(A) of title 49, United States Code, is amended by inserting “or section 6314(b)” after “section 6302(b)(3)(B)”. | the bill names no machine-readable US Code section |
