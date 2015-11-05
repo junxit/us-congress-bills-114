@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 22
@@ -484,7 +484,7 @@ FAST Act
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (11)
+## Recorded votes (47)
 
 - 2015-01-06 — [House 114-1-7](votes/house-114-1-0007.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–0)
 - 2015-07-21 — [Senate 114-1-250](votes/senate-114-1-0250.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (41–56)
@@ -497,6 +497,42 @@ FAST Act
 - 2015-07-29 — [Senate 114-1-258](votes/senate-114-1-0258.md) — On the Amendment — **Amendment Agreed to** (62–38)
 - 2015-07-29 — [Senate 114-1-259](votes/senate-114-1-0259.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–35)
 - 2015-07-30 — [Senate 114-1-260](votes/senate-114-1-0260.md) — On Passage of the Bill — **Bill Passed** (65–34)
+- 2015-11-03 — [House 114-1-586](votes/house-114-1-0586.md) — On Agreeing to the Amendment — **Failed** (181–237)
+- 2015-11-03 — [House 114-1-587](votes/house-114-1-0587.md) — On Agreeing to the Amendment — **Failed** (196–225)
+- 2015-11-03 — [House 114-1-588](votes/house-114-1-0588.md) — On Agreeing to the Amendment — **Failed** (187–236)
+- 2015-11-03 — [House 114-1-589](votes/house-114-1-0589.md) — On Agreeing to the Amendment — **Agreed to** (216–207)
+- 2015-11-03 — [House 114-1-590](votes/house-114-1-0590.md) — On Agreeing to the Amendment — **Failed** (160–263)
+- 2015-11-03 — [House 114-1-591](votes/house-114-1-0591.md) — On Agreeing to the Amendment — **Failed** (174–248)
+- 2015-11-03 — [House 114-1-592](votes/house-114-1-0592.md) — On Agreeing to the Amendment — **Failed** (160–263)
+- 2015-11-03 — [House 114-1-593](votes/house-114-1-0593.md) — On Agreeing to the Amendment — **Failed** (113–310)
+- 2015-11-04 — [House 114-1-594](votes/house-114-1-0594.md) — On Agreeing to the Amendment — **Failed** (172–255)
+- 2015-11-04 — [House 114-1-595](votes/house-114-1-0595.md) — On Agreeing to the Amendment — **Failed** (185–240)
+- 2015-11-04 — [House 114-1-596](votes/house-114-1-0596.md) — On Agreeing to the Amendment — **Failed** (169–257)
+- 2015-11-04 — [House 114-1-599](votes/house-114-1-0599.md) — On Agreeing to the Amendment — **Failed** (171–252)
+- 2015-11-04 — [House 114-1-600](votes/house-114-1-0600.md) — On Agreeing to the Amendment — **Failed** (173–255)
+- 2015-11-04 — [House 114-1-601](votes/house-114-1-0601.md) — On Agreeing to the Amendment — **Agreed to** (248–180)
+- 2015-11-04 — [House 114-1-602](votes/house-114-1-0602.md) — On Agreeing to the Amendment — **Failed** (188–238)
+- 2015-11-04 — [House 114-1-603](votes/house-114-1-0603.md) — On Agreeing to the Amendment — **Failed** (116–313)
+- 2015-11-04 — [House 114-1-604](votes/house-114-1-0604.md) — On Agreeing to the Amendment — **Failed** (181–248)
+- 2015-11-04 — [House 114-1-605](votes/house-114-1-0605.md) — On Agreeing to the Amendment — **Failed** (200–228)
+- 2015-11-04 — [House 114-1-606](votes/house-114-1-0606.md) — On Agreeing to the Amendment — **Failed** (118–310)
+- 2015-11-04 — [House 114-1-607](votes/house-114-1-0607.md) — On Agreeing to the Amendment — **Failed** (121–303)
+- 2015-11-04 — [House 114-1-608](votes/house-114-1-0608.md) — On Agreeing to the Amendment — **Failed** (117–309)
+- 2015-11-04 — [House 114-1-609](votes/house-114-1-0609.md) — On Agreeing to the Amendment — **Failed** (124–302)
+- 2015-11-04 — [House 114-1-610](votes/house-114-1-0610.md) — On Agreeing to the Amendment — **Failed** (116–308)
+- 2015-11-04 — [House 114-1-611](votes/house-114-1-0611.md) — On Agreeing to the Amendment — **Failed** (117–308)
+- 2015-11-04 — [House 114-1-612](votes/house-114-1-0612.md) — On Agreeing to the Amendment — **Failed** (114–314)
+- 2015-11-04 — [House 114-1-613](votes/house-114-1-0613.md) — On Agreeing to the Amendment — **Failed** (115–313)
+- 2015-11-04 — [House 114-1-614](votes/house-114-1-0614.md) — On Agreeing to the Amendment — **Failed** (183–244)
+- 2015-11-04 — [House 114-1-615](votes/house-114-1-0615.md) — On Agreeing to the Amendment — **Failed** (133–295)
+- 2015-11-04 — [House 114-1-616](votes/house-114-1-0616.md) — On Agreeing to the Amendment — **Failed** (129–298)
+- 2015-11-04 — [House 114-1-617](votes/house-114-1-0617.md) — On Agreeing to the Amendment — **Agreed to** (236–192)
+- 2015-11-05 — [House 114-1-619](votes/house-114-1-0619.md) — On Agreeing to the Amendment — **Failed** (176–251)
+- 2015-11-05 — [House 114-1-620](votes/house-114-1-0620.md) — On Agreeing to the Amendment — **Agreed to** (246–178)
+- 2015-11-05 — [House 114-1-621](votes/house-114-1-0621.md) — On Agreeing to the Amendment — **Agreed to** (235–192)
+- 2015-11-05 — [House 114-1-622](votes/house-114-1-0622.md) — On Agreeing to the Amendment — **Agreed to** (354–72)
+- 2015-11-05 — [House 114-1-623](votes/house-114-1-0623.md) — On Agreeing to the Amendments En gros — **Passed** (363–64)
+- 2015-11-05 — [House 114-1-624](votes/house-114-1-0624.md) — On Motion to go to Conference — **Passed** (371–54)
 
 ## Actions
 
@@ -894,3 +930,768 @@ FAST Act
 - 2015-07-30 — Senate amendment agreed to: Amendment SA 2542 agreed to in Senate by Unanimous Consent.
 - 2015-07-30 — Senate amendment proposed (on the floor): Amendment SA 2542 proposed by Senator McConnell.(consideration CR S6205; text: CR S6205)
 - 2015-07-30 — Senate amendment submitted
+- 2015-07-31 — Message on Senate action sent to the House.
+- 2015-11-03 — Amendment (A002) offered by Mr. Shuster to the Rules amendment (A001). (consideration: CR H7579; text: CR H7579)
+- 2015-11-03 — Amendment (A003) offered by Mr. Swalwell (CA) to the Rules amendment (A001). (consideration: CR H7579-7580, H7608-7609; text: CR H7579)
+- 2015-11-03 — Amendment (A004) offered by Mr. Walden to the Rules amendment (A001). (consideration: CR H7580-7581; text: CR H7580)
+- 2015-11-03 — Amendment (A005) offered by Mr. Gosar to the Rules amendment (A001). (consideration: CR H7581-7582, H7609-7610; text: CR H7581)
+- 2015-11-03 — Amendment (A006) offered by Mr. Babin to the Rules amendment (A001). (consideration: CR H7582; text: CR H7582)
+- 2015-11-03 — Amendment (A007) offered by Mr. Massie to the Rules amendment (A001). (consideration: CR H7582-7584; text: CR H7583)
+- 2015-11-03 — Amendment (A008) offered by Mr. Fleischmann to the Rules amendment (A001). (consideration: CR H7584; text: CR H7584)
+- 2015-11-03 — Amendment (A009) offered by Mr. Gibbs to the Rules amendment (A001). (consideration: CR H7584-7585; text: CR H7584)
+- 2015-11-03 — Amendment (A010) offered by Mr. Gibson to the Rules amendment (A001). (consideration: CR H7585; text: CR H7585)
+- 2015-11-03 — Amendment (A011) offered by Mr. Guinta to the Rules amendment (A001). (consideration: CR H7585-7586; text: CR H7585)
+- 2015-11-03 — Amendment (A012) offered by Mr. Hanna to the Rules amendment (A001). (consideration: CR H7586; text: CR H7586)
+- 2015-11-03 — Amendment (A013) offered by Mr. Mullin to the Rules amendment (A001). (consideration: CR H7586-7587; text: CR H7586-7587)
+- 2015-11-03 — Amendment (A014) offered by Mr. Ribble to the Rules amendment (A001). (consideration: CR H7587-7590, H7610; text: CR H7587)
+- 2015-11-03 — Amendment (A015) offered by Ms. Brown (FL) to the Rules amendment (A001). (consideration: CR H7590-7592, H7610-7611; text: CR H7590-7591)
+- 2015-11-03 — Amendment (A016) offered by Mr. DeSaulnier to the Rules amendment (A001). (consideration: CR H7592; text: CR H7592)
+- 2015-11-03 — Amendment (A017) offered by Mr. Scott (VA) to the Rules amendment (A001). (consideration: CR H7592-7593; text: CR H7592-7593)
+- 2015-11-03 — Amendment (A018) offered by Ms. Johnson, E. B. to the Rules amendment (A001). (consideration: CR H7593; text: CR H7593)
+- 2015-11-03 — Amendment (A019) offered by Mr. Welch to the Rules amendment (A001). (consideration: CR H7593-7594; text: CR H7593)
+- 2015-11-03 — Amendment (A020) offered by Ms. Sewell (AL) to the Rules amendment (A001). (consideration: CR H7594-7595; text: CR H7594)
+- 2015-11-03 — Amendment (A021) offered by Ms. Sewell (AL) to the Rules amendment (A001). (consideration: CR H7595-7597; text: CR H7595)
+- 2015-11-03 — Amendment (A022) offered by Mr. Blumenauer to the Rules amendment (A001). (consideration: CR H7597; text: CR H7597)
+- 2015-11-03 — Amendment (A023) offered by Mrs. Kirkpatrick to the Rules amendment (A001). (consideration: CR H7597-7598; text: CR H7597-75988)
+- 2015-11-03 — Amendment (A024) offered by Miss Rice (NY) to the Rules amendment (A001). (consideration: CR H7598-7599; text: CR H7598)
+- 2015-11-03 — Amendment (A025) offered by Mr. Duncan (TN) to the Rules amendment (A001). (consideration: CR H7599; text: CR H7599)
+- 2015-11-03 — Amendment (A026) offered by Mrs. Comstock to the Rules amendment (A001). (consideration: CR H7599-7601; text: CR H7600)
+- 2015-11-03 — Amendment (A027) offered by Mr. Barletta to the Rules amendment (A001). (consideration: CR H7601-7602; text: CR H7601)
+- 2015-11-03 — Amendment (A028) offered by Mr. Lynch to the Rules amendment (A001). (consideration: CR H7602-7603, H7611-7612; text: CR H7602)
+- 2015-11-03 — Amendment (A029) offered by Mr. Lewis to the Rules amendment (A001). (consideration: CR H7603-7604; text: CR H7603)
+- 2015-11-03 — Amendment (A030) offered by Mr. Takano to the Rules amendment (A001). (consideration: CR H7604-7605, H7612; text: CR H7604)
+- 2015-11-03 — Amendment (A031) offered by Ms. Brownley (CA) to the Rules amendment (A001). (consideration: CR H7605-7606, H7612-7613; text: CR H7605)
+- 2015-11-03 — Amendment (A032) offered by Mr. Costello (PA) to the Rules amendment (A001). (consideration: CR H7606; text: CR H7606)
+- 2015-11-03 — Amendment (A034) offered by Ms. Edwards to the Rules amendment (A001). (consideration: CR H7607-7608; text: CR H7607)
+- 2015-11-03 — Amendment (A035) offered by Mr. Calvert to the Rules amendment (A001). (consideration: CR H7608; text: CR H7608)
+- 2015-11-03 — Amendment (A036) offered by Mrs. Hartzler to the Rules amendment (A001). (consideration: CR H7614-7615; text: CR H7614)
+- 2015-11-03 — Amendment (A037) offered by Mr. Farenthold to the Rules amendment (A001). (consideration: CR H7615; text: CR H7615)
+- 2015-11-03 — Amendment (A038) offered by Mr. Rooney (FL) to the Rules amendment (A001). (consideration: CR H7615-7616; text: CR H7615)
+- 2015-11-03 — Amendment (A039) offered by Mr. Rothfus to the Rules amendment (A001). (consideration: CR H7616-7617; text: CR H7616)
+- 2015-11-03 — Amendment (A040) offered by Mr. DeSaulnier to the Rules amendment (A001). (consideration: CR H7617-7618; text: CR H7617)
+- 2015-11-03 — Amendment (A041) offered by Mr. Beyer to the Rules amendment (A001). (consideration: CR H7618-7619; text: CR H7618)
+- 2015-11-03 — Amendment (A042) offered by Mr. Mica to the Rules amendment (A001). (consideration: CR H7619; text: CR H7619)
+- 2015-11-03 — Amendment (A043) offered by Ms. DelBene to the Rules amendment (A001). (consideration: CR H7619-7620; text: CR H7619)
+- 2015-11-03 — Amendment (A044) offered by Mrs. Napolitano to the Rules amendment (A001). (consideration: CR H7620-7621; text: CR H7620)
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment agreed to Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment failed in Committee of the Whole
+- 2015-11-03 — Amendment made in order by the House Committee on Rules. (consideration: CR H7517-7579; text: CR H7517-7579)
+- 2015-11-03 — Amendment offered by Mrs. Radewagen of American Samoa to the Rules amendment (A001). (consideration: CR H7606-7607, H7613-7614; text: CR H7606)
+- 2015-11-03 — By unanimous consent, the Lewis amendment was withdrawn. (consideration: CR H7604)
+- 2015-11-03 — By unanimous consent, the Mica amendment was withdrawn. (consideration: CR H7619)
+- 2015-11-03 — By unanimous consent, the Rice (NY) amendment was withdrawn. (consideration: CR H7599)
+- 2015-11-03 — Committee of the Whole House on the state of the Union rises leaving H.R. 22 as unfinished business.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Babin Part B amendment No. 6.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Barletta Part B amendment No. 28.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B amendment No. 22.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (FL) Part B amendment No. 15.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Brownley (CA) Part B amendment No. 32.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Calvert Part B amendment No. 36.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Comstock Part B amendment No. 27.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Costello (PA) Part B amendment No. 33.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier Part B amendment No. 16.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier of California Part B amendment No. 41.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the DelBene Part B amendment No. 44.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (TN) Part B amendment No. 26.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the E.B. Johnson Part B amendment No. 18.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards Part B amendment No. 35.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Farenthold Part B amendment No. 38.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Fleischmann Part B amendment No. 8.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Gibbs Part B amendment No. 9.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Gibson Part B amendment No. 10.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar Part B amendment No. 5.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Guinta Part B amendment No. 11.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Hanna Part B amendment No. 12.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler Part B amendment No. 37, as modified.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Kirkpatrick Part B amendment No. 23.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis Part B amendment No. 30.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch Part B amendment No. 29.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Massie Part B amendment No. 7.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Mica Part B amendment No. 43
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Napolitano Part B amendment No. 45.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Mullin amendment No. 13.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Radewagen Part B amendment No. 34.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Ribble Part B amendment No. 14.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Rice (NY) Part B amendment No. 24.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Rooney (FL) Part B amendment No. 39.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus Part B Amendment No. 40.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) Part B amendment No. 17.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell (AL) Part B amendment No. 20.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell (AL) Part B amendment No. 21.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster Part B amendment No. 1.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell Part B amendment No. 2.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Takano Part B amendment No. 31.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Walden Part B amendment No. 3.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceeded with 10 minutes of debate on the Welch Part B amendment No. 19.
+- 2015-11-03 — DEBATE - Pursuant to the provisions of H. Res. 507, the Committee of the Whole proceedes with 10 minutes of debate on the Beyer amendment No. 42.
+- 2015-11-03 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on the Senate amendment to H.R. 22. Pursuant to the provisions of H. Res. 507, the Senate amendment shall be considered for amendment under the five minute rule and pursuant to H. Res. 507 is amended by the amendment printed in part A of House Report 114-325. No further amendment to the Senate amendment, as amended, shall be in order except for an amendment consisting of the text of Rules Committee print 114-32, which shall be considered as pending.
+- 2015-11-03 — Hartzler amendment (A036) modified by unanimous consent. (text as modified: CR H7614)
+- 2015-11-03 — House amendment agreed to: On agreeing to the Babin amendment (A006) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Barletta amendment (A027) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Beyer amendment (A041) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Brown (FL) amendment (A015) Agreed to by recorded vote: 216 - 207 (Roll no. 589).
+- 2015-11-03 — House amendment agreed to: On agreeing to the Calvert amendment (A035) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Comstock amendment (A026) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Costello (PA) amendment (A032) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A016) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the DelBene amendment (A043) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Duncan (TN) amendment (A025) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Edwards amendment (A034) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Farenthold amendment (A037) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Fleischmann amendment (A008) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Gibbs amendment (A009) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Gibson amendment (A010) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Hanna amendment (A012) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A018) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Kirkpatrick amendment (A023) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Massie amendment (A007) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Napolitano amendment (A044) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Scott (VA) amendment (A017) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Sewell (AL) amendment (A020) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Sewell (AL) amendment (A021) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Shuster amendment (A002) Agreed to by voice vote.
+- 2015-11-03 — House amendment agreed to: On agreeing to the Walden amendment (A004) Agreed to by voice vote.
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A022) Failed by voice vote.
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Brownley (CA) amendment (A031) Failed by recorded vote: 160 - 263 (Roll no. 592).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Gosar amendment (A005) Failed by recorded vote: 196 - 225 (Roll no. 587).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Guinta amendment (A011) Failed by voice vote.
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Lynch amendment (A028) Failed by recorded vote: 160 - 263 (Roll no. 590).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Mullin amendment (A013) Failed by voice vote.
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Radewagen amendment (A033) Failed by recorded vote: 113 - 310 (Roll no. 593).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Ribble amendment (A014) Failed by recorded vote: 187 - 236 (Roll no. 588).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Swalwell (CA) amendment (A003) Failed by recorded vote: 181 - 237 (Roll no. 586).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Takano amendment (A030) Failed by recorded vote: 174 - 248 (Roll no. 591).
+- 2015-11-03 — House amendment not agreed to: On agreeing to the Welch amendment (A019) Failed by voice vote.
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered
+- 2015-11-03 — House amendment offered/reported by : Amendment (A002) offered by Mr. Shuster to the Rules amendment (A001).(consideration: CR H7579; text: CR H7579)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A003) offered by Mr. Swalwell (CA) to the Rules amendment (A001).(consideration: CR H7579-7580, H7608-7609; text: CR H7579)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A004) offered by Mr. Walden to the Rules amendment (A001).(consideration: CR H7580-7581; text: CR H7580)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A005) offered by Mr. Gosar to the Rules amendment (A001).(consideration: CR H7581-7582, H7609-7610; text: CR H7581)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A006) offered by Mr. Babin to the Rules amendment (A001).(consideration: CR H7582; text: CR H7582)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A007) offered by Mr. Massie to the Rules amendment (A001).(consideration: CR H7582-7584; text: CR H7583)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A008) offered by Mr. Fleischmann to the Rules amendment (A001).(consideration: CR H7584; text: CR H7584)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A009) offered by Mr. Gibbs to the Rules amendment (A001).(consideration: CR H7584-7585; text: CR H7584)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A010) offered by Mr. Gibson to the Rules amendment (A001).(consideration: CR H7585; text: CR H7585)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A011) offered by Mr. Guinta to the Rules amendment (A001).(consideration: CR H7585-7586; text: CR H7585)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A012) offered by Mr. Hanna to the Rules amendment (A001).(consideration: CR H7586; text: CR H7586)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A013) offered by Mr. Mullin to the Rules amendment (A001).(consideration: CR H7586-7587; text: CR H7586-7587)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A014) offered by Mr. Ribble to the Rules amendment (A001).(consideration: CR H7587-7590, H7610; text: CR H7587)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A015) offered by Ms. Brown (FL) to the Rules amendment (A001).(consideration: CR H7590-7592, H7610-7611; text: CR H7590-7591)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A016) offered by Mr. DeSaulnier to the Rules amendment (A001).(consideration: CR H7592; text: CR H7592)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A017) offered by Mr. Scott (VA) to the Rules amendment (A001).(consideration: CR H7592-7593; text: CR H7592-7593)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A018) offered by Ms. Johnson, E. B. to the Rules amendment (A001).(consideration: CR H7593; text: CR H7593)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A019) offered by Mr. Welch to the Rules amendment (A001).(consideration: CR H7593-7594; text: CR H7593)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A020) offered by Ms. Sewell (AL) to the Rules amendment (A001).(consideration: CR H7594-7595; text: CR H7594)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A021) offered by Ms. Sewell (AL) to the Rules amendment (A001).(consideration: CR H7595-7597; text: CR H7595)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A022) offered by Mr. Blumenauer to the Rules amendment (A001).(consideration: CR H7597; text: CR H7597)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A023) offered by Mrs. Kirkpatrick to the Rules amendment (A001).(consideration: CR H7597-7598; text: CR H7597-75988)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A024) offered by Miss Rice (NY) to the Rules amendment (A001).(consideration: CR H7598-7599; text: CR H7598)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A025) offered by Mr. Duncan (TN) to the Rules amendment (A001).(consideration: CR H7599; text: CR H7599)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A026) offered by Mrs. Comstock to the Rules amendment (A001).(consideration: CR H7599-7601; text: CR H7600)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A027) offered by Mr. Barletta to the Rules amendment (A001).(consideration: CR H7601-7602; text: CR H7601)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A028) offered by Mr. Lynch to the Rules amendment (A001).(consideration: CR H7602-7603, H7611-7612; text: CR H7602)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A029) offered by Mr. Lewis to the Rules amendment (A001).(consideration: CR H7603-7604; text: CR H7603)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A030) offered by Mr. Takano to the Rules amendment (A001).(consideration: CR H7604-7605, H7612; text: CR H7604)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A031) offered by Ms. Brownley (CA) to the Rules amendment (A001).(consideration: CR H7605-7606, H7612-7613; text: CR H7605)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A032) offered by Mr. Costello (PA) to the Rules amendment (A001).(consideration: CR H7606; text: CR H7606)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A034) offered by Ms. Edwards to the Rules amendment (A001).(consideration: CR H7607-7608; text: CR H7607)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A035) offered by Mr. Calvert to the Rules amendment (A001).(consideration: CR H7608; text: CR H7608)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A036) offered by Mrs. Hartzler to the Rules amendment (A001).(consideration: CR H7614-7615; text: CR H7614)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A037) offered by Mr. Farenthold to the Rules amendment (A001).(consideration: CR H7615; text: CR H7615)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A038) offered by Mr. Rooney (FL) to the Rules amendment (A001).(consideration: CR H7615-7616; text: CR H7615)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A039) offered by Mr. Rothfus to the Rules amendment (A001).(consideration: CR H7616-7617; text: CR H7616)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A040) offered by Mr. DeSaulnier to the Rules amendment (A001).(consideration: CR H7617-7618; text: CR H7617)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A041) offered by Mr. Beyer to the Rules amendment (A001).(consideration: CR H7618-7619; text: CR H7618)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A042) offered by Mr. Mica to the Rules amendment (A001).(consideration: CR H7619; text: CR H7619)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A043) offered by Ms. DelBene to the Rules amendment (A001).(consideration: CR H7619-7620; text: CR H7619)
+- 2015-11-03 — House amendment offered/reported by : Amendment (A044) offered by Mrs. Napolitano to the Rules amendment (A001).(consideration: CR H7620-7621; text: CR H7620)
+- 2015-11-03 — House amendment offered/reported by : Amendment made in order by the House Committee on Rules.(consideration: CR H7517-7579; text: CR H7517-7579)
+- 2015-11-03 — House amendment offered/reported by : Amendment offered by Mrs. Radewagen of American Samoa to the Rules amendment (A001).(consideration: CR H7606-7607, H7613-7614; text: CR H7606)
+- 2015-11-03 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 507 and Rule XVIII. (consideration: CR H7412-7621; text of Senate amendment as received in House: CR H7418-7517)
+- 2015-11-03 — Mr. Shuster moved that the Committee rise.
+- 2015-11-03 — On agreeing to the Babin amendment (A006) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Barletta amendment (A027) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Beyer amendment (A041) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Blumenauer amendment (A022) Failed by voice vote.
+- 2015-11-03 — On agreeing to the Brown (FL) amendment (A015) Agreed to by recorded vote: 216 - 207 (Roll no. 589).
+- 2015-11-03 — On agreeing to the Brownley (CA) amendment (A031) Failed by recorded vote: 160 - 263 (Roll no. 592).
+- 2015-11-03 — On agreeing to the Calvert amendment (A035) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Comstock amendment (A026) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Costello (PA) amendment (A032) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the DeSaulnier amendment (A016) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the DelBene amendment (A043) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Duncan (TN) amendment (A025) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Edwards amendment (A034) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Farenthold amendment (A037) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Fleischmann amendment (A008) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Gibbs amendment (A009) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Gibson amendment (A010) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Gosar amendment (A005) Failed by recorded vote: 196 - 225 (Roll no. 587).
+- 2015-11-03 — On agreeing to the Guinta amendment (A011) Failed by voice vote.
+- 2015-11-03 — On agreeing to the Hanna amendment (A012) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Johnson, E. B. amendment (A018) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Kirkpatrick amendment (A023) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Lynch amendment (A028) Failed by recorded vote: 160 - 263 (Roll no. 590).
+- 2015-11-03 — On agreeing to the Massie amendment (A007) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Mullin amendment (A013) Failed by voice vote.
+- 2015-11-03 — On agreeing to the Napolitano amendment (A044) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Radewagen amendment (A033) Failed by recorded vote: 113 - 310 (Roll no. 593).
+- 2015-11-03 — On agreeing to the Ribble amendment (A014) Failed by recorded vote: 187 - 236 (Roll no. 588).
+- 2015-11-03 — On agreeing to the Scott (VA) amendment (A017) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Sewell (AL) amendment (A020) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Sewell (AL) amendment (A021) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Shuster amendment (A002) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Swalwell (CA) amendment (A003) Failed by recorded vote: 181 - 237 (Roll no. 586).
+- 2015-11-03 — On agreeing to the Takano amendment (A030) Failed by recorded vote: 174 - 248 (Roll no. 591).
+- 2015-11-03 — On agreeing to the Walden amendment (A004) Agreed to by voice vote.
+- 2015-11-03 — On agreeing to the Welch amendment (A019) Failed by voice vote.
+- 2015-11-03 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brown (FL) amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Ms. Brown demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brownley (CA) amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Ms. Brownley demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. DeSaulnier demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. DeFazio demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hartzler amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mrs. Hartzler demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lynch amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Lynch demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Radewagen amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mrs. Radewagen demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ribble amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Ribble demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rooney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Rooney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Rooney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Takano demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-03 — Resolution provides for consideration of the Senate amendments to H.R. 22; provides for proceedings during the period from Nov. 6, 2015 through Nov. 13, 2015; and provides for motions to suspend the rules.
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Roll call votes on amendments in House
+- 2015-11-03 — Rules Committee Resolution H. Res. 512 Reported to House. Rule provides for consideration of Senate amendments to H.R. 22. Resolution provides for consideration of further amendments to the Senate amendments to H.R. 22.
+- 2015-11-03 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2015-11-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-11-04 — Amendment (A045) offered by Mr. Ryan (OH) to the Rules amendment (A001). (consideration: CR H7654-7655; text: CR H7654)
+- 2015-11-04 — Amendment (A046) offered by Mr. Hunter to the Rules amendment (A001). (consideration: CR H7655-7656; text: CR H7655)
+- 2015-11-04 — Amendment (A047) offered by Mr. DeSaulnier to the Rules amendment (A001). (consideration: CR H7656-7657, H7687; text: CR H7656)
+- 2015-11-04 — Amendment (A048) offered by Mr. Cartwright to the Rules amendment (A001). (consideration: CR H7657-7658; text: CR H7657)
+- 2015-11-04 — Amendment (A049) offered by Mr. Hunter to the Rules amendment (A001). (consideration: CR H7658-7659, H7687-7688; text: CR H7658)
+- 2015-11-04 — Amendment (A050) offered by Mr. Denham to the Rules amendment (A001). (consideration: CR H7659-7661, H7688-7689; text: CR H7659)
+- 2015-11-04 — Amendment (A051) offered by Mr. Aguilar to the Rules amendment (A001). (consideration: CR H7661; text: CR H7661)
+- 2015-11-04 — Amendment (A052) offered by Ms. Hahn to the Rules amendment (A001). (consideration: CR H7661-7663; text: CR H7661)
+- 2015-11-04 — Amendment (A053) offered by Mr. Heck (WA) to the Rules amendment (A001). (consideration: CR H7663-7664; text: CR H7663)
+- 2015-11-04 — Amendment (A054) offered by Mr. King (IA) to the Rules amendment (A001). (consideration: CR H7664-7665, H7689; text: CR H7664)
+- 2015-11-04 — Amendment (A055) offered by Mr. Larsen (WA) to the Rules amendment (A001). (consideration: CR H7666; text: CR H7666)
+- 2015-11-04 — Amendment (A056) offered by Mr. Culberson to the Rules amendment (A001). (consideration: CR H7666-7668, H7689-7690; text: CR H7666)
+- 2015-11-04 — Amendment (A057) offered by Ms. Meng to the Rules amendment (A001). (consideration: CR H7668; text: CR H7668)
+- 2015-11-04 — Amendment (A058) offered by Mr. Russell to the Rules amendment (A001). (consideration: CR H7668-7669; text: CR H7668)
+- 2015-11-04 — Amendment (A059) offered by Ms. Edwards to the Rules amendment (A001). (consideration: CR H7669-7671; text: CR H7670)
+- 2015-11-04 — Amendment (A060) offered by Ms. Frankel (FL) to the Rules amendment (A001). (consideration: CR H7671; text: CR H7671)
+- 2015-11-04 — Amendment (A061) offered by Mr. Duncan (TN) to the Rules amendment (A001). (consideration: CR H7671-7672; text: CR H7671)
+- 2015-11-04 — Amendment (A062) offered by Mr. Lewis to the Rules amendment (A001). (consideration: CR H7672-7673, H7690-7691; text: CR H7672)
+- 2015-11-04 — Amendment (A063) offered by Mr. Johnson (GA) to the Rules amendment (A001). (consideration: CR H7673-7674; text: CR H7673)
+- 2015-11-04 — Amendment (A064) offered by Mr. Ribble to the Rules amendment (A001). (consideration: CR H7674; text: CR H7674)
+- 2015-11-04 — Amendment (A065) offered by Mr. Schweikert to the Rules amendment (A001). (consideration: CR H7674-7675; text: CR H7674)
+- 2015-11-04 — Amendment (A066) offered by Mr. Schweikert to the Rules amendment (A001). (consideration: CR H7675; text: CR H7675)
+- 2015-11-04 — Amendment (A067) offered by Mr. Reichert to the Rules amendment (A001). (consideration: CR H7675-7677, H7691; text: CR H7675-7676)
+- 2015-11-04 — Amendment (A068) offered by Mr. Newhouse to the Rules amendment (A001). (consideration: CR H7677-7678; text: CR H7677)
+- 2015-11-04 — Amendment (A069) offered by Mr. DeSantis to the Rules amendment (A001). (consideration: CR H7678-7680; text: CR H7678)
+- 2015-11-04 — Amendment (A071) offered by Ms. Herrera Beutler to the Rules amendment (A001). (consideration: CR H7684-7685; text: CR H7684-7685)
+- 2015-11-04 — Amendment (A072) offered by Mr. Chabot to the Rules amendment (A001). (consideration: CR H7685-7686; text: CR H7685-7686)
+- 2015-11-04 — Amendment (A073) offered by Mr. Perry. (consideration: CR H7692-7694, H7712; text: CR H7692)
+- 2015-11-04 — Amendment (A074) offered by Mr. Mulvaney. (consideration: CR H7694-7695, H7712-7713; text: CR H7694)
+- 2015-11-04 — Amendment (A075) offered by Mr. Mulvaney. (consideration: CR H7695-7697, H7713-7714; text: CR H7695-7696)
+- 2015-11-04 — Amendment (A076) offered by Mr. Mulvaney. (consideration: CR H7697-7699, H7714; text: CR H7697)
+- 2015-11-04 — Amendment (A077) offered by Mr. Mulvaney. (consideration: CR H7699-7701, H7714-7715; text: CR H7699)
+- 2015-11-04 — Amendment (A078) offered by Mr. Mulvaney. (consideration: CR H7701-7703, H7715-7716; text: CR H7701)
+- 2015-11-04 — Amendment (A079) offered by Mr. Rothfus. (consideration: CR H7703-7705, H7716; text: CR H7703)
+- 2015-11-04 — Amendment (A080) offered by Mr. Royce. (consideration: CR H7705-7707, H7716-7717; text: CR H7705)
+- 2015-11-04 — Amendment (A081) offered by Mr. Schweikert. (consideration: CR H7707-7708, H7717-7718; text: CR H7707)
+- 2015-11-04 — Amendment (A082) offered by Mr. Westmoreland. (consideration: CR H7708-7710, H7718; text: CR H7708)
+- 2015-11-04 — Amendment (A083) offered by Mr. Young (IA). (consideration: CR H7710-7712, H7718-7719; text: CR H7710)
+- 2015-11-04 — Amendment (A084) offered by Mr. Pompeo. (consideration: CR H7719; text: CR H7719)
+- 2015-11-04 — Amendment (A085) offered by Mr. Foster. (consideration: CR H7719-7720; text: CR H7719-7720)
+- 2015-11-04 — Amendment (A086) offered by Mr. Williams. (consideration: CR H7721-7722; text: CR H7721)
+- 2015-11-04 — Amendment (A087) offered by Mr. Kinzinger (IL). (consideration: CR H7722-7723; text: CR H7722)
+- 2015-11-04 — Amendment (A088) offered by Ms. Schakowsky. (consideration: CR H7723-7725; text: CR H7723-7724)
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment agreed to Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendment failed in Committee of the Whole
+- 2015-11-04 — Amendments en bloc (A070) offered by Mr. Shuster to the Rules amendment (A001). (consideration: CR H7680-7684; text: CR H7680-7682)
+- 2015-11-04 — By unanimous consent, the Cartwright amendment was withdrawn. (consideration: CR H7658)
+- 2015-11-04 — By unanimous consent, the Chabot amendment was withdrawn. (consideration: CR H7686)
+- 2015-11-04 — By unanimous consent, the Duncan (TN) amendment was withdrawn. (consideration: CR H7672)
+- 2015-11-04 — By unanimous consent, the Hahn amendment was withdrawn.
+- 2015-11-04 — By unanimous consent, the Heck (WA) amendment was withdrawn. (consideration: CR H7663)
+- 2015-11-04 — By unanimous consent, the Newhouse amendment was withdrawn. (consideration: CR H7678)
+- 2015-11-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 22 as unfinished business.
+- 2015-11-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 22 as unfinished business.
+- 2015-11-04 — Considered as unfinished business. (consideration: CR H7650-7652)
+- 2015-11-04 — Considered as unfinished business. (consideration: CR H7654-7686, H7686-7740)
+- 2015-11-04 — Considered under the provisions of rule H. Res. 512.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Aguilar Part A amendment No. 9.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright Part A amendment No. 6.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Chabot Part A amendment No. 58.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Culberson amendment No. 14.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the DeSantis amendment No. 29.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier Part A amendment No. 5.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Denham Part A amendment No. 8.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (TN) amendment No. 20, as modified.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards amendment No. 18.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel amendment No. 19.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Hahn Part A amendment No. 10.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Heck (WA) Part A amendment.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera-Beutler amendment No. 57.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter Part A amendment No. 3.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter Part A amendment No. 7.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 22.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 12.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Kinzinger Part B amendment No. 14.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Larsen (WA) amendment No. 13, as modified.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis amendment No. 21.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 16.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney Part B amendment No. 2.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney Part B amendment No. 3.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney Part B amendment No. 4 to the Senate amendment to the text.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney Part B amendment No. 5.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney Part B amendment No. 6.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment No. 27.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Foster amendment No. 12.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Westmoreland amendment No. 23.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Young (IA) amendment No. 10.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Pompeo Part B amendment No. 11.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Reichert amendment No. 26.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Ribble amendment No. 23.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus Part B amendment No. 7.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Royce Part B amendment No. 8.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Russell amendment No. 17.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Schakowsky Part B amendment No. 15.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert Part B amendment No. 9.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 24.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 25.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Tim Ryan Part A amendment No. 2.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Williams Part B amendment No. 13.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 20 minutes of debate on the Shuster en bloc amendment No. 1.
+- 2015-11-04 — DEBATE - Pursuant to the provisions of H.Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Perry Part B amendment No. 1.
+- 2015-11-04 — Duncan (TN) amendment (A061) modified by unanimous consent. (text as modified: CR H7672)
+- 2015-11-04 — House amendment agreed to: On agreeing to amendment consisting of Rules committee print 114-32, as amended Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Aguilar amendment (A051) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Denham amendment (A050) Agreed to by recorded vote: 248 - 180 (Roll no. 601).
+- 2015-11-04 — House amendment agreed to: On agreeing to the Edwards amendment (A059) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Foster amendment (A085) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Herrera Beutler amendment (A071) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Hunter amendment (A046) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Kinzinger (IL) amendment (A087) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Larsen (WA) amendment as modified Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Meng amendment (A057) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Pompeo amendment (A084) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Ribble amendment (A064) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Rothfus amendment (A039) Agreed to by voice vote.(consideration: CR H7650)
+- 2015-11-04 — House amendment agreed to: On agreeing to the Ryan (OH) amendment (A045) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Schweikert amendment (A066) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Shuster amendments (A070) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Williams amendment (A086) Agreed to by voice vote.
+- 2015-11-04 — House amendment agreed to: On agreeing to the Young (IA) amendment (A083) Agreed to by recorded vote: 236 - 192 (Roll no. 617).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Culberson amendment Failed by recorded vote: 116 - 313 (Roll no. 603).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the DeSantis amendment (A069) Failed by recorded vote: 118 - 310 (Roll no. 606).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the DeSaulnier amendment (A040) Failed by recorded vote: 169 - 257 (Roll no. 596).(consideration: CR H7651-7652)
+- 2015-11-04 — House amendment not agreed to: On agreeing to the DeSaulnier amendment (A047) Failed by recorded vote: 171 - 252 (Roll no. 599).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Frankel (FL) amendment (A060) Failed by voice vote.
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Hartzler amendment (A036) as modified Failed by recorded vote: 172 - 255 (Roll no. 594).(consideration: CR H7650-7651)
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Hunter amendment (A049) Failed by recorded vote: 173 - 255 (Roll no. 600).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A063) Failed by voice vote.
+- 2015-11-04 — House amendment not agreed to: On agreeing to the King (IA) amendment (A054) Failed by recorded vote: 188 - 238 (Roll no. 602).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Lewis amendment (A062) Failed by recorded vote: 181 - 248 (Roll no. 604).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A074) Failed by recorded vote: 117 - 309 (Roll no. 608).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A075) Failed by recorded vote: 124 - 302 (Roll no. 609).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A076) Failed by recorded vote: 116 - 308 (Roll no. 610).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A077) Failed by recorded vote: 117 - 308 (Roll no. 611).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A078) Failed by recorded vote: 114 - 314 (Roll no. 612).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Perry amendment (A073) Failed by recorded vote: 121 - 303 (Roll no. 607).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Reichert amendment (A067) Failed by recorded vote: 200 - 228 (Roll no. 605).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Rooney (FL) amendment (A038) Failed by recorded vote: 185 - 240 (Roll no. 595).(consideration: CR H7651)
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Rothfus amendment (A079) Failed by recorded vote: 115 - 313 (Roll no. 613).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Royce amendment (A080) Failed by recorded vote: 183 - 244 (Roll no. 614).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Russell amendment (A058) Failed by voice vote.
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Schweikert amendment (A065) Failed by voice vote.
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Schweikert amendment (A081) Failed by recorded vote: 133 - 295 (Roll no. 615).
+- 2015-11-04 — House amendment not agreed to: On agreeing to the Westmoreland amendment (A082) Failed by recorded vote: 129 - 298 (Roll no. 616).
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered
+- 2015-11-04 — House amendment offered/reported by : Amendment (A045) offered by Mr. Ryan (OH) to the Rules amendment (A001).(consideration: CR H7654-7655; text: CR H7654)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A046) offered by Mr. Hunter to the Rules amendment (A001).(consideration: CR H7655-7656; text: CR H7655)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A047) offered by Mr. DeSaulnier to the Rules amendment (A001).(consideration: CR H7656-7657, H7687; text: CR H7656)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A048) offered by Mr. Cartwright to the Rules amendment (A001).(consideration: CR H7657-7658; text: CR H7657)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A049) offered by Mr. Hunter to the Rules amendment (A001).(consideration: CR H7658-7659, H7687-7688; text: CR H7658)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A050) offered by Mr. Denham to the Rules amendment (A001).(consideration: CR H7659-7661, H7688-7689; text: CR H7659)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A051) offered by Mr. Aguilar to the Rules amendment (A001).(consideration: CR H7661; text: CR H7661)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A052) offered by Ms. Hahn to the Rules amendment (A001).(consideration: CR H7661-7663; text: CR H7661)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A053) offered by Mr. Heck (WA) to the Rules amendment (A001).(consideration: CR H7663-7664; text: CR H7663)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A054) offered by Mr. King (IA) to the Rules amendment (A001).(consideration: CR H7664-7665, H7689; text: CR H7664)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A055) offered by Mr. Larsen (WA) to the Rules amendment (A001).(consideration: CR H7666; text: CR H7666)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A056) offered by Mr. Culberson to the Rules amendment (A001).(consideration: CR H7666-7668, H7689-7690; text: CR H7666)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A057) offered by Ms. Meng to the Rules amendment (A001).(consideration: CR H7668; text: CR H7668)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A058) offered by Mr. Russell to the Rules amendment (A001).(consideration: CR H7668-7669; text: CR H7668)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A059) offered by Ms. Edwards to the Rules amendment (A001).(consideration: CR H7669-7671; text: CR H7670)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A060) offered by Ms. Frankel (FL) to the Rules amendment (A001).(consideration: CR H7671; text: CR H7671)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A061) offered by Mr. Duncan (TN) to the Rules amendment (A001).(consideration: CR H7671-7672; text: CR H7671)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A062) offered by Mr. Lewis to the Rules amendment (A001).(consideration: CR H7672-7673, H7690-7691; text: CR H7672)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A063) offered by Mr. Johnson (GA) to the Rules amendment (A001).(consideration: CR H7673-7674; text: CR H7673)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A064) offered by Mr. Ribble to the Rules amendment (A001).(consideration: CR H7674; text: CR H7674)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A065) offered by Mr. Schweikert to the Rules amendment (A001).(consideration: CR H7674-7675; text: CR H7674)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A066) offered by Mr. Schweikert to the Rules amendment (A001).(consideration: CR H7675; text: CR H7675)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A067) offered by Mr. Reichert to the Rules amendment (A001).(consideration: CR H7675-7677, H7691; text: CR H7675-7676)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A068) offered by Mr. Newhouse to the Rules amendment (A001).(consideration: CR H7677-7678; text: CR H7677)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A069) offered by Mr. DeSantis to the Rules amendment (A001).(consideration: CR H7678-7680; text: CR H7678)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A071) offered by Ms. Herrera Beutler to the Rules amendment (A001).(consideration: CR H7684-7685; text: CR H7684-7685)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A072) offered by Mr. Chabot to the Rules amendment (A001).(consideration: CR H7685-7686; text: CR H7685-7686)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A073) offered by Mr. Perry.(consideration: CR H7692-7694, H7712; text: CR H7692)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A074) offered by Mr. Mulvaney.(consideration: CR H7694-7695, H7712-7713; text: CR H7694)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A075) offered by Mr. Mulvaney.(consideration: CR H7695-7697, H7713-7714; text: CR H7695-7696)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A076) offered by Mr. Mulvaney.(consideration: CR H7697-7699, H7714; text: CR H7697)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A077) offered by Mr. Mulvaney.(consideration: CR H7699-7701, H7714-7715; text: CR H7699)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A078) offered by Mr. Mulvaney.(consideration: CR H7701-7703, H7715-7716; text: CR H7701)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A079) offered by Mr. Rothfus.(consideration: CR H7703-7705, H7716; text: CR H7703)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A080) offered by Mr. Royce.(consideration: CR H7705-7707, H7716-7717; text: CR H7705)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A081) offered by Mr. Schweikert.(consideration: CR H7707-7708, H7717-7718; text: CR H7707)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A082) offered by Mr. Westmoreland.(consideration: CR H7708-7710, H7718; text: CR H7708)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A083) offered by Mr. Young (IA).(consideration: CR H7710-7712, H7718-7719; text: CR H7710)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A084) offered by Mr. Pompeo.(consideration: CR H7719; text: CR H7719)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A085) offered by Mr. Foster.(consideration: CR H7719-7720; text: CR H7719-7720)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A086) offered by Mr. Williams.(consideration: CR H7721-7722; text: CR H7721)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A087) offered by Mr. Kinzinger (IL).(consideration: CR H7722-7723; text: CR H7722)
+- 2015-11-04 — House amendment offered/reported by : Amendment (A088) offered by Ms. Schakowsky.(consideration: CR H7723-7725; text: CR H7723-7724)
+- 2015-11-04 — House amendment offered/reported by : Amendments en bloc (A070) offered by Mr. Shuster to the Rules amendment (A001).(consideration: CR H7680-7684; text: CR H7680-7682)
+- 2015-11-04 — Larsen (WA) amendment (A055) modified by unanimous consent. (text as modified: CR H7666)
+- 2015-11-04 — Mr. Shuster moved that the committee rise.
+- 2015-11-04 — ORDER OF PROCEDURE - Mr. Shuster asked unanimous consent that during further consideration of the Senate amendments to H.R. 22, pursuant to H.Res. 512, amendment number 1 printed in Part A of House Report 114-326 may be considered out of sequence. Agreed to without objection.
+- 2015-11-04 — ORDER OF PROCEDURE - Pursuant to the order of the House of today, the Chair announced that it was now in order to consider Part B amendment No. 23.
+- 2015-11-04 — On agreeing to amendment consisting of Rules committee print 114-32, as amended Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Aguilar amendment (A051) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Culberson amendment Failed by recorded vote: 116 - 313 (Roll no. 603).
+- 2015-11-04 — On agreeing to the DeSantis amendment (A069) Failed by recorded vote: 118 - 310 (Roll no. 606).
+- 2015-11-04 — On agreeing to the DeSaulnier amendment (A040) Failed by recorded vote: 169 - 257 (Roll no. 596). (consideration: CR H7651-7652)
+- 2015-11-04 — On agreeing to the DeSaulnier amendment (A047) Failed by recorded vote: 171 - 252 (Roll no. 599).
+- 2015-11-04 — On agreeing to the Denham amendment (A050) Agreed to by recorded vote: 248 - 180 (Roll no. 601).
+- 2015-11-04 — On agreeing to the Edwards amendment (A059) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Foster amendment (A085) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Frankel (FL) amendment (A060) Failed by voice vote.
+- 2015-11-04 — On agreeing to the Hartzler amendment (A036) as modified Failed by recorded vote: 172 - 255 (Roll no. 594). (consideration: CR H7650-7651)
+- 2015-11-04 — On agreeing to the Herrera Beutler amendment (A071) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Hunter amendment (A046) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Hunter amendment (A049) Failed by recorded vote: 173 - 255 (Roll no. 600).
+- 2015-11-04 — On agreeing to the Johnson (GA) amendment (A063) Failed by voice vote.
+- 2015-11-04 — On agreeing to the King (IA) amendment (A054) Failed by recorded vote: 188 - 238 (Roll no. 602).
+- 2015-11-04 — On agreeing to the Kinzinger (IL) amendment (A087) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Larsen (WA) amendment as modified Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Lewis amendment (A062) Failed by recorded vote: 181 - 248 (Roll no. 604).
+- 2015-11-04 — On agreeing to the Meng amendment (A057) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Mulvaney amendment (A074) Failed by recorded vote: 117 - 309 (Roll no. 608).
+- 2015-11-04 — On agreeing to the Mulvaney amendment (A075) Failed by recorded vote: 124 - 302 (Roll no. 609).
+- 2015-11-04 — On agreeing to the Mulvaney amendment (A076) Failed by recorded vote: 116 - 308 (Roll no. 610).
+- 2015-11-04 — On agreeing to the Mulvaney amendment (A077) Failed by recorded vote: 117 - 308 (Roll no. 611).
+- 2015-11-04 — On agreeing to the Mulvaney amendment (A078) Failed by recorded vote: 114 - 314 (Roll no. 612).
+- 2015-11-04 — On agreeing to the Perry amendment (A073) Failed by recorded vote: 121 - 303 (Roll no. 607).
+- 2015-11-04 — On agreeing to the Pompeo amendment (A084) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Reichert amendment (A067) Failed by recorded vote: 200 - 228 (Roll no. 605).
+- 2015-11-04 — On agreeing to the Ribble amendment (A064) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Rooney (FL) amendment (A038) Failed by recorded vote: 185 - 240 (Roll no. 595). (consideration: CR H7651)
+- 2015-11-04 — On agreeing to the Rothfus amendment (A039) Agreed to by voice vote. (consideration: CR H7650)
+- 2015-11-04 — On agreeing to the Rothfus amendment (A079) Failed by recorded vote: 115 - 313 (Roll no. 613).
+- 2015-11-04 — On agreeing to the Royce amendment (A080) Failed by recorded vote: 183 - 244 (Roll no. 614).
+- 2015-11-04 — On agreeing to the Russell amendment (A058) Failed by voice vote.
+- 2015-11-04 — On agreeing to the Ryan (OH) amendment (A045) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Schweikert amendment (A065) Failed by voice vote.
+- 2015-11-04 — On agreeing to the Schweikert amendment (A066) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Schweikert amendment (A081) Failed by recorded vote: 133 - 295 (Roll no. 615).
+- 2015-11-04 — On agreeing to the Shuster amendments (A070) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Westmoreland amendment (A082) Failed by recorded vote: 129 - 298 (Roll no. 616).
+- 2015-11-04 — On agreeing to the Williams amendment (A086) Agreed to by voice vote.
+- 2015-11-04 — On agreeing to the Young (IA) amendment (A083) Agreed to by recorded vote: 236 - 192 (Roll no. 617).
+- 2015-11-04 — On motion that the committee rise Agreed to by voice vote.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Culberson amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Culberson demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSantis amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. DeSantis demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. DeSaulnier demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Denham amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Denham demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Hunter demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. DeFazio demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lewis amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Lewis demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Maxine Waters demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Maxine Waters demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Reichert amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Reichert demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Rothfus demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Royce amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Waters demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schakowsky amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Ms. Schakowsky demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schweikert amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Schweikert demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Westmoreland amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Westmoreland demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (IA) amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Moore demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-04 — Pursuant to the rule the committee rose.
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Roll call votes on amendments in House
+- 2015-11-04 — Rule H. Res. 512 passed House.
+- 2015-11-04 — Rule provides for consideration of Senate amendments to H.R. 22. Resolution provides for consideration of further amendments to the Senate amendments to H.R. 22.
+- 2015-11-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-11-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-11-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-11-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-11-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-11-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2015-11-04 — WITHDRAWAL OF DEMAND FOR RECORDED VOTE - Mr. Rothfus asked unanimous consent to withdraw his demand for a recorded vote on the question of adoption of the Rothfus Part B Amendment No. 40, to the end that the amendment be adopted on the basis of the earlier voice vote. Agreed to without objection.
+- 2015-11-05 — APPOINTMENT OF FURTHER CONFEREES - The Chair announced that further appointments of conferees would occur at a subsequent time.
+- 2015-11-05 — Amendment (A089) offered by Mr. Mullin. (consideration: CR 11/4/2015 H7725-7726; text: CR 11/4/2015 H7725)
+- 2015-11-05 — Amendment (A090) offered by Mr. Burgess. (consideration: CR 11/4/2015 H7726-7728; text:  CR 11/4/2015  H7726-7727)
+- 2015-11-05 — Amendment (A091) offered by Mr. Neugebauer. (consideration: CR 11/4/2015 H7728-7730; text: CR 11/4/2015 H7728)
+- 2015-11-05 — Amendment (A092) offered by Mr. Gosar. (consideration: CR 11/4/2015 H7730; text:  CR 11/4/2015 H7730)
+- 2015-11-05 — Amendment (A093) offered by Mr. Goodlatte. (consideration: CR 11/4/2015 H7730-7732; text:  CR 11/4/2015  H7730-7731)
+- 2015-11-05 — Amendment (A094) offered by Mr. Hensarling. (consideration: CR 11/4/2015 H7732-7737; text: CR 11/4/2015 H7732-7736)
+- 2015-11-05 — Amendment (A095) offered by Mr. Mullin. (consideration: CR 11/4/2015 H7737-7740; text:  CR 11/4/2015 H7737-7740)
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment agreed to Committee of the Whole
+- 2015-11-05 — Amendment failed in Committee of the Whole
+- 2015-11-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 22 as unfinished business.
+- 2015-11-05 — Considered as unfinished business. (consideration: CR H8129-8133, H8133-8136)
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess Part B amendment No. 17.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte Part B amendment No. 20.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling Part B amendment No. 21.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer Part B amendment No. 18.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Gosar amendment No. 19.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Mullin amendment No. 16.
+- 2015-11-05 — DEBATE - Pursuant to the provisions of H. Res. 512, the Committee of the Whole proceeded with 10 minutes of debate on the Part B Mullin amendment No. 22.
+- 2015-11-05 — DEBATE - The House proceeded with one hour of debate on the Huffman motion to instruct conferees on H.R. 22. The instructions contained in the motion seek to require the managers on the part of the House to agree to the provisions of the Senate amendment that establish the total amount of funding to be provided for each of fiscal years 2016 through 2021 out of the Highway Trust Fund for surface transportation programs; and insist on section 1414(b) of the House amendment (relating to adjustments to contract authority).
+- 2015-11-05 — House amendment agreed to: On agreeing to the Burgess amendment (A090) Agreed to by recorded vote: 235 - 192 (Roll no. 621).(consideration: CR H8130-8131)
+- 2015-11-05 — House amendment agreed to: On agreeing to the Goodlatte amendment (A093) Agreed to by voice vote.
+- 2015-11-05 — House amendment agreed to: On agreeing to the Gosar amendment (A092) Agreed to by voice vote.
+- 2015-11-05 — House amendment agreed to: On agreeing to the Hensarling amendment (A094) Agreed to by voice vote.
+- 2015-11-05 — House amendment agreed to: On agreeing to the Mullin amendment (A089) Agreed to by recorded vote: 246 - 178 (Roll no. 620).(consideration: CR H8130)
+- 2015-11-05 — House amendment agreed to: On agreeing to the Mullin amendment (A095) Agreed to by voice vote.
+- 2015-11-05 — House amendment agreed to: On agreeing to the Neugebauer amendment (A091) Agreed to by recorded vote: 354 - 72 (Roll no. 622).(consideration: CR H8131-8132)
+- 2015-11-05 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A088) Failed by recorded vote: 176 - 251 (Roll no. 619).(consideration: CR H8129-8130)
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered
+- 2015-11-05 — House amendment offered/reported by : Amendment (A089) offered by Mr. Mullin.(consideration: CR 11/4/2015 H7725-7726; text: CR 11/4/2015 H7725)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A090) offered by Mr. Burgess.(consideration: CR 11/4/2015 H7726-7728; text:  CR 11/4/2015  H7726-7727)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A091) offered by Mr. Neugebauer.(consideration: CR 11/4/2015 H7728-7730; text: CR 11/4/2015 H7728)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A092) offered by Mr. Gosar.(consideration: CR 11/4/2015 H7730; text:  CR 11/4/2015 H7730)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A093) offered by Mr. Goodlatte.(consideration: CR 11/4/2015 H7730-7732; text:  CR 11/4/2015  H7730-7731)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A094) offered by Mr. Hensarling.(consideration: CR 11/4/2015 H7732-7737; text: CR 11/4/2015 H7732-7736)
+- 2015-11-05 — House amendment offered/reported by : Amendment (A095) offered by Mr. Mullin.(consideration: CR 11/4/2015 H7737-7740; text:  CR 11/4/2015 H7737-7740)
+- 2015-11-05 — Mr. Huffman moved that the House instruct conferees. (consideration: CR H8134-8135; text: CR H8134)
+- 2015-11-05 — Mr. Mullin moved that the Committee rise.
+- 2015-11-05 — Mr. Shuster moved that the House agree with an amendment to the Senate amendments, insist upon its amendment to the Senate amendments, and request a conference. (consideration: CR H8133-8134)
+- 2015-11-05 — On agreeing to the Burgess amendment (A090) Agreed to by recorded vote: 235 - 192 (Roll no. 621). (consideration: CR H8130-8131)
+- 2015-11-05 — On agreeing to the Goodlatte amendment (A093) Agreed to by voice vote.
+- 2015-11-05 — On agreeing to the Gosar amendment (A092) Agreed to by voice vote.
+- 2015-11-05 — On agreeing to the Hensarling amendment (A094) Agreed to by voice vote.
+- 2015-11-05 — On agreeing to the Mullin amendment (A089) Agreed to by recorded vote: 246 - 178 (Roll no. 620). (consideration: CR H8130)
+- 2015-11-05 — On agreeing to the Mullin amendment (A095) Agreed to by voice vote.
+- 2015-11-05 — On agreeing to the Neugebauer amendment (A091) Agreed to by recorded vote: 354 - 72 (Roll no. 622). (consideration: CR H8131-8132)
+- 2015-11-05 — On agreeing to the Schakowsky amendment (A088) Failed by recorded vote: 176 - 251 (Roll no. 619). (consideration: CR H8129-8130)
+- 2015-11-05 — On motion that the Committee rise Agreed to by voice vote.
+- 2015-11-05 — On motion that the House agree with an amendment to the Senate amendments, insist upon its amendment to the Senate amendments, and request a conference Agreed to by recorded vote: 371 - 54 (Roll No. 624).
+- 2015-11-05 — On motion to agree to the House amendments en gros Agreed to by recorded vote: 363 - 64 (Roll no. 623). (consideration: CR H8132-8133)
+- 2015-11-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Schakowsky demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Schakowsky demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Waters demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2015-11-05 — Pursuant to H.Res. 512, the Chair put the question on adoption of the amendments en gros.
+- 2015-11-05 — Pursuant to Section 6 of H.Res. 512, the Chair announced that a motion that the House concur in the Senate amendment to the text of H.R. 22 with an amendment is adopted, and a motion that the House concur in the Senate amendment to the title of H.R. 22 is adopted.
+- 2015-11-05 — Pursuant to the rule the committee rose.
+- 2015-11-05 — Roll call votes on amendments in House
+- 2015-11-05 — Roll call votes on amendments in House
+- 2015-11-05 — Roll call votes on amendments in House
+- 2015-11-05 — Roll call votes on amendments in House
+- 2015-11-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-11-05 — The House rose from the Committee of the Whole House on the state of the Union to report House amendments to Senate amendment to H.R.22.
+- 2015-11-05 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the House amendment and the Senate amendment, and modifications committed to conference: Shuster, Duncan of Tennessee, Graves of Missouri, Miller of Michigan, Crawford, Barletta, Farenthold, Gibbs, Denham, Ribble, Perry, Woodall, Katko, Babin, Hardy, Graves of Louisiana, DeFazio, Norton, Nadler, Brown of Florida, Eddie Bernice Johnson of Texas, Cummings, Larsen of Washington, Capuano, Napolitano, Lipinski, Cohen, and Sires. (consideration: CR H8136)
+- 2015-11-05 — The previous question was ordered pursuant to the rule. (consideration: CR H8132)
+- 2015-11-05 — The previous question was ordered without objection. (consideration: CR H8135)
