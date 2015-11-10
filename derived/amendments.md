@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

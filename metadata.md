@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2262
@@ -36,10 +36,11 @@ U.S. Commercial Space Launch Competitiveness Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Recorded votes (2)
 
@@ -128,3 +129,15 @@ U.S. Commercial Space Launch Competitiveness Act
 - 2015-11-10 — Senate amendment agreed to: Amendment SA 2805 agreed to in Senate by Unanimous Consent.
 - 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2805 proposed by Senator Murkowski for Senator Cruz.(consideration: CR S7954)
 - 2015-11-10 — Senate amendment submitted
+- 2015-11-16 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2262.
+- 2015-11-16 — Message on Senate action sent to the House.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. McCarthy moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8185-8196)
+- 2015-11-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H8185-8190)
+- 2015-11-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H8185-8190)
+- 2015-11-19 — Presented to President.
+- 2015-11-19 — Presented to President.
+- 2015-11-25 — Became Public Law No: 114-90.
+- 2015-11-25 — Became Public Law No: 114-90.
+- 2015-11-25 — Signed by President.
+- 2015-11-25 — Signed by President.
