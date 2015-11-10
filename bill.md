@@ -2,11 +2,11 @@
 legis-num: H.R. 2029
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2029
 
-> Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.
+That the bill from the House of Representatives (H.R. 2029) entitled “An Act making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.”, do pass with the following
 
-That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes, namely:
+*Strike all after the enacting clause and insert the following:*

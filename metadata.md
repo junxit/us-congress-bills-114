@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2029
@@ -16,12 +16,36 @@ Consolidated Appropriations Act, 2016
 
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
+## Cosponsors (21)
+
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (11)
+## Recorded votes (14)
 
 - 2015-04-29 — [House 114-1-178](votes/house-114-1-0178.md) — On Sustaining the Ruling of the Chair — **Passed** (237–180)
 - 2015-04-30 — [House 114-1-184](votes/house-114-1-0184.md) — On Agreeing to the Amendment — **Failed** (191–229)
@@ -34,6 +58,9 @@ Consolidated Appropriations Act, 2016
 - 2015-04-30 — [House 114-1-191](votes/house-114-1-0191.md) — On Agreeing to the Amendment — **Failed** (186–235)
 - 2015-04-30 — [House 114-1-192](votes/house-114-1-0192.md) — On Motion to Recommit with Instructions — **Failed** (181–236)
 - 2015-04-30 — [House 114-1-193](votes/house-114-1-0193.md) — On Passage — **Passed** (255–163)
+- 2015-10-01 — [Senate 114-1-273](votes/senate-114-1-0273.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (50–44)
+- 2015-11-05 — [Senate 114-1-299](votes/senate-114-1-0299.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (93–0)
+- 2015-11-10 — [Senate 114-1-302](votes/senate-114-1-0302.md) — On Passage of the Bill — **Bill Passed** (93–0)
 
 ## Actions
 
@@ -369,3 +396,132 @@ Consolidated Appropriations Act, 2016
 - 2015-05-21 — Committee on Appropriations. Reported by Senator Kirk with an amendment in the nature of a substitute. With written report No. 114-57.
 - 2015-05-21 — Committee on Appropriations. Reported by Senator Kirk with an amendment in the nature of a substitute. With written report No. 114-57.
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
+- 2015-07-30 — Committee on Appropriations Senate Subcommittee on Military Construction and Veterans Affairs, and Related Agencies. Hearings held. With printed Hearing: S.Hrg. 114-609.
+- 2015-09-30 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7014; text: CR S7014)
+- 2015-09-30 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7014-7043)
+- 2015-10-01 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 44. Record Vote Number: 273. (consideration: CR S7074; text: CR S7074)
+- 2015-10-01 — Motion to proceed to measure considered in Senate. (consideration: CR S7062-7065, S7067-7075)
+- 2015-11-05 — Amendment SA 2763 proposed by Senator Kirk. (consideration: CR S7793-7794) In the nature of a substitute.
+- 2015-11-05 — Amendment SA 2764 proposed by Senator Kirk to Amendment SA 2763. (consideration: CR S7794; text: CR S7794) To clarify the term "congressional defense committees."
+- 2015-11-05 — Measure laid before Senate by motion. (consideration: CR S7786-7811; text of measure as reported in Senate: CR S7786-7793)
+- 2015-11-05 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 93 - 0. Record Vote Number: 299. (consideration: CR S7786)
+- 2015-11-05 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7779-7786)
+- 2015-11-05 — Senate amendment proposed (on the floor): Amendment SA 2763 proposed by Senator Kirk.(consideration: CR S7793-7794)
+- 2015-11-05 — Senate amendment proposed (on the floor): Amendment SA 2764 proposed by Senator Kirk to Amendment SA 2763.(consideration: CR S7794; text: CR S7794)
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-05 — Senate amendment submitted
+- 2015-11-06 — Committee on Appropriations Senate Subcommittee on Military Construction and Veterans Affairs, and Related Agencies. Hearings held. With printed Hearing: S.Hrg. 114-609.
+- 2015-11-09 — Amendment SA 2766 agreed to in Senate by Voice Vote.
+- 2015-11-09 — Amendment SA 2766 proposed by Senator Kirk for Senator Heller to Amendment SA 2763. (consideration: CR S7853; text: CR S7853) To prohibit the use of funds to transfer amounts from the Filipino Veterans Equity Compensation Fund to any other account in the Treasury of the United States.
+- 2015-11-09 — Amendment SA 2772 agreed to in Senate by Voice Vote.
+- 2015-11-09 — Amendment SA 2772 proposed by Senator Tester for Senator Shaheen to Amendment SA 2763. (consideration: CR S7853; text: CR S7853) To require the Comptroller General of the United States to conduct audits relating to the timely access of veterans to hospital care, medical services, and other health care from the Department of Veterans Affairs.
+- 2015-11-09 — Considered by Senate. (consideration: CR S7847)
+- 2015-11-09 — Considered by Senate. (consideration: CR S7847)
+- 2015-11-09 — Considered by Senate. (consideration: CR S7847-7852, S7853)
+- 2015-11-09 — Senate amendment agreed to: Amendment SA 2766 agreed to in Senate by Voice Vote.
+- 2015-11-09 — Senate amendment agreed to: Amendment SA 2772 agreed to in Senate by Voice Vote.
+- 2015-11-09 — Senate amendment proposed (on the floor): Amendment SA 2766 proposed by Senator Kirk for Senator Heller to Amendment SA 2763.(consideration: CR S7853; text: CR S7853)
+- 2015-11-09 — Senate amendment proposed (on the floor): Amendment SA 2772 proposed by Senator Tester for Senator Shaheen to Amendment SA 2763.(consideration: CR S7853; text: CR S7853)
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-09 — Senate amendment submitted
+- 2015-11-10 — Amendment SA 2763 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Amendment SA 2774 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2774 proposed by Senator Kirk for Senator Moran to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To prohibit the use of funds to pay for the transfers or relocations of senior executives of the Department of Veterans Affairs.
+- 2015-11-10 — Amendment SA 2775 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2775 proposed by Senator McConnell for Senator Murkowski to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To require the Comptroller General of the United States to submit to Congress a report evaluating the implementation by the Department of Veterans Affairs of section 101 of the Veterans Access, Choice, and Accountability Act of 2014.
+- 2015-11-10 — Amendment SA 2776 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2776 proposed by Senator McConnell for Senator Murkowski to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To require the Secretary of Veterans Affairs to submit to Congress a report on the provision of health care to veterans in Alaska through the use of non-Department of Veterans Affairs health care providers.
+- 2015-11-10 — Amendment SA 2779 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2779 proposed by Senator Tester for Senator Blumenthal to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To require that amounts appropriated to the Department of Veterans Affairs for medical and prosthetic research are used to ensure the provision of gender appropriate prosthetics and to conduct research related to toxic exposure.
+- 2015-11-10 — Amendment SA 2781 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2781 proposed by Senator Tester for Senator Blumenthal to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To require that amounts appropriated to the Department of Veterans Affairs for medical supplies and equipment are used to procure gender appropriate prosthetics.
+- 2015-11-10 — Amendment SA 2785 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2785 proposed by Senator Kirk for Senator Toomey to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To prohibit the use of funds to carry out Fast Letter 13-10 or create or maintain certain patient record-keeping systems.
+- 2015-11-10 — Amendment SA 2786 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2786 proposed by Senator Kirk for Senator Sullivan to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7879) To require the Comptroller General of the United States to submit to Congress a report on the recruitment and retention of health care providers by the Department of Veterans Affairs.
+- 2015-11-10 — Amendment SA 2787 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2787 proposed by Senator Kirk for Senator Sullivan to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To require the Secretary of Veterans Affairs to submit to Congress a report on the implementation by the Department of Veterans Affairs of section 101 of the Veterans Access, Choice, and Accountability Act of 2014 in rural areas.
+- 2015-11-10 — Amendment SA 2788 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2788 proposed by Senator Kirk for Senator Collins to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To require a report on the use of social security numbers by the Department of Veterans Affairs and the plans of the Secretary of Veterans Affairs to discontinue such use.
+- 2015-11-10 — Amendment SA 2789 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2789 proposed by Senator Kirk for Senator Cornyn to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To require the Secretary of Veterans Affairs to submit to Congress a report on wait times for medical appointments at the South Texas Veterans Health Care System of the Department of Veterans Affairs.
+- 2015-11-10 — Amendment SA 2794 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2794 proposed by Senator Tester for Senator Durbin to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To modify the amounts appropriated to the Department of Veterans Affairs for medical services and medical and prosthetic research.
+- 2015-11-10 — Amendment SA 2795 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2795 proposed by Senator Tester for Senator Bennet to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To require the Secretary of Veterans Affairs to conduct a study on the impact of combat service on suicide rates and other mental health issues among members of the Armed Forces and veterans.
+- 2015-11-10 — Amendment SA 2798 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Amendment SA 2798 proposed by Senator Tester for Senator Boxer to Amendment SA 2763. (consideration: CR S7878-7881; text: CR S7880) To make available $5,000,000 for a pilot program on awarding grants to provide furniture, household items, and other assistance to formerly homeless veterans moving into permanent housing.
+- 2015-11-10 — Amendment SA 2801 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Amendment SA 2801 proposed by Senator Tester for Senator Brown to Amendment SA 2763. (consideration: CR S7880-7881; text: CR S7880-7881) To require the Secretary of Veterans Affairs to develop and publish an action plan for improving the vocational rehabilitation services and assistance provided by the Department of Veterans Affairs.
+- 2015-11-10 — Considered by Senate. (consideration: CR S7871)
+- 2015-11-10 — Considered by Senate. (consideration: CR S7871)
+- 2015-11-10 — Considered by Senate. (consideration: CR S7871-7875, S7878-7881, S7955)
+- 2015-11-10 — Passed Senate with an amendment by Yea-Nay Vote. 93 - 0. Record Vote Number: 302.
+- 2015-11-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 93 - 0. Record Vote Number: 302.
+- 2015-11-10 — Proposed amendment SA 2764 withdrawn in Senate. (consideration: CR S7881)
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2763 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2774 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2775 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2776 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2779 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2781 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2785 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2786 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2787 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2788 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2789 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2794 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2795 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2798 agreed to in Senate by Voice Vote.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2801 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2774 proposed by Senator Kirk for Senator Moran to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2775 proposed by Senator McConnell for Senator Murkowski to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2776 proposed by Senator McConnell for Senator Murkowski to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2779 proposed by Senator Tester for Senator Blumenthal to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2781 proposed by Senator Tester for Senator Blumenthal to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2785 proposed by Senator Kirk for Senator Toomey to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2786 proposed by Senator Kirk for Senator Sullivan to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7879)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2787 proposed by Senator Kirk for Senator Sullivan to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2788 proposed by Senator Kirk for Senator Collins to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2789 proposed by Senator Kirk for Senator Cornyn to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2794 proposed by Senator Tester for Senator Durbin to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2795 proposed by Senator Tester for Senator Bennet to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2798 proposed by Senator Tester for Senator Boxer to Amendment SA 2763.(consideration: CR S7878-7881; text: CR S7880)
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2801 proposed by Senator Tester for Senator Brown to Amendment SA 2763.(consideration: CR S7880-7881; text: CR S7880-7881)
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — The committee substitute, notwithstanding the passage of H.R. 2029, was withdrawn by Unanimous Consent. (consideration: CR S7955)
