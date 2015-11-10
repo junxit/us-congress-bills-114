@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 90
@@ -25,3 +25,11 @@ Directing the Secretary of the Senate to make a technical correction in the enro
 - 2015-11-05 — On agreeing to the resolution Agreed to without objection. (text: CR H8133)
 - 2015-11-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8133)
 - 2015-11-05 — Received in the Senate.
+- 2015-11-10 — Amendment SA 2796 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Amendment SA 2796 proposed by Senator McCain. (consideration: CR S7878) To modify the resolution.
+- 2015-11-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7878)
+- 2015-11-10 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2015-11-10 — Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2796 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2796 proposed by Senator McCain.(consideration: CR S7878)
+- 2015-11-10 — Senate amendment submitted
