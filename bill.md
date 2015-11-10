@@ -22,7 +22,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas there have been approximately 69 such attacks since the beginning of October 2015, leaving 11 Israelis dead and another 145 wounded;
 - Whereas United States citizens have lost their lives as a result of these terrorist attacks, including Richard Lakin and Eitam Henkin;
 - Whereas these random, gruesome attacks are intended to instill a sense of fear among the people of Israel leading their normal lives, and also destabilize security for both Palestinians and Israelis;
-- Whereas President Barack Obama condemned in the strongest terms Palestinian violence against innocent Israeli citizens and expressed his “strong belief that Israel has not just the right, but the obligation to protect itself”;
 - Whereas Israel, Jordan, and the United States have reached an agreement regarding the installation of surveillance cameras on the Temple Mount in accordance with the respective responsibilities of the Israeli authorities and the Jordanian Waqf;
 - Whereas President Abbas has helped to fuel the current violence in recent weeks by falsely casting Israel as the brutal aggressor in multiple public speeches, refusing to condemn the lethal terror attacks, and failing to acknowledge Israel’s right to self-defense;
 - Whereas President Abbas’ statements are part of a pattern of incitement among Palestinian leaders that includes denial of the Jewish heritage of Jerusalem, paying monthly salaries to the families of imprisoned Palestinian terrorists, praising slain terrorists as martyrs, demonizing Jews in official Palestinian Authority media, and encouraging attacks on social media; and
@@ -32,7 +31,7 @@ That the Senate—
 
 - **(1)** condemns these brutal attacks in the harshest terms possible;
 - **(2)** welcomes Israel’s commitment to the continued maintenance of the status quo on the Temple Mount;
-- **(3)** urges the international community to join in forcefully condemning these Palestinian terror attacks;
+- **(3)** urges the President and the international community to join in forcefully condemning these Palestinian terror attacks;
 - **(4)** clarifies that there is no justification for these types of attacks and that there is a direct correlation between the recent upsurge in violence and Arab incitement regarding the Temple Mount;
 - **(5)** stands with the people of Israel during these difficult days;
 - **(6)** supports Israel’s right to self-defense and rejects any suggestion of the moral equivalence of Israeli security personnel protecting its citizens from senseless violence and terrorists intent to deliberately take innocent lives;

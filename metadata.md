@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 302
 congress: 114
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 302
