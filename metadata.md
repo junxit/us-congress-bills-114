@@ -1,7 +1,7 @@
 ---
 measure: S. 1203
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1203
@@ -42,3 +42,12 @@ version: Reported to Senate
 - 2015-10-19 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-153.
 - 2015-10-19 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-153.
 - 2015-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 267.
+- 2015-11-10 — Amendment SA 2806 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Amendment SA 2806 proposed by Senator Murkowski for Senator Isakson. (consideration: CR S7946-7947) To improve the bill.
+- 2015-11-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7939-7954)
+- 2015-11-10 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2015-11-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2015-11-10 — Senate amendment agreed to: Amendment SA 2806 agreed to in Senate by Unanimous Consent.
+- 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2806 proposed by Senator Murkowski for Senator Isakson.(consideration: CR S7946-7947)
+- 2015-11-10 — Senate amendment submitted
+- 2015-11-10 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S7939-7954)

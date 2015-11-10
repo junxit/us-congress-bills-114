@@ -1,7 +1,7 @@
 ---
 measure: S. 1203
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 0 executed, 50 stated and not applied.
+38 amendatory instructions. 0 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,15 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1144 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” before “In the case”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second sentence and inserting the following new paragraph: | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (e); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (d) and (f) as subsections (f) and (g), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (c) the following new subsections (d) and (e): | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1), as redesignated by paragraph (2), by striking “An appellant may request” and all that follows through “office of the Department” and inserting “In a case in which a hearing before the Board is to be conducted in per… | the bill names no machine-readable US Code section |
-| `38 U.S.C. § 5101` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 5101` | insert | by inserting after subsection (b) the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Subparagraph (F) of section 1701(9) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1701 of such title is amended by adding after paragraph (9) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -54,9 +45,6 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1784` | insert | Subchapter VIII of chapter 17 of title 38, United States Code, is amended by inserting after section 1784 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1784` | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1784 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 7402(b)(11)(A) of title 38, United States Code, is amended by inserting “or doctoral degree” after “master's degree”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph (B): | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), as redesignated by paragraph (1), by striking “and registered nurse” and inserting “registered nurse, and physician assistant”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (e); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (f) as subsections (f) and (g), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following new subsections (d) and (e): | the bill names no machine-readable US Code section |
