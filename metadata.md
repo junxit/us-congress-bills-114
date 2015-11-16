@@ -1,7 +1,7 @@
 ---
 measure: S. 1203
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1203
@@ -51,3 +51,10 @@ version: Engrossed in Senate
 - 2015-11-10 — Senate amendment proposed (on the floor): Amendment SA 2806 proposed by Senator Murkowski for Senator Isakson.(consideration: CR S7946-7947)
 - 2015-11-10 — Senate amendment submitted
 - 2015-11-10 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S7939-7954)
+- 2015-11-12 — Message on Senate action sent to the House.
+- 2015-11-16 — Received in the House.
+- 2015-11-16 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-11-16 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-11-16 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-11-16 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-11-16 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
