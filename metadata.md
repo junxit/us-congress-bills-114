@@ -1,7 +1,7 @@
 ---
 measure: S. 599
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 599
@@ -47,3 +47,12 @@ Improving Access to Emergency Psychiatric Care Act
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
 - 2015-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6979-6980; text as passed Senate: CR S6979-6980)
 - 2015-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6979-6980; text as passed Senate: CR S6979-6980)
+- 2015-09-29 — Held at the desk.
+- 2015-09-29 — Message on Senate action sent to the House.
+- 2015-09-29 — Received in the House.
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8176-8180)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 599.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8176-8177)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8176-8177)
