@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4004
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4004
+
+> To amend the Higher Education Act of 1965 to repeal the suspension of eligibility for grants, loans, and work assistance for drug-related offenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Unfair Collateral Consequences from Ending Student Success Act” or “SUCCESS Act”.
+
+## § 2. Repeal of suspension of eligibility under the Higher Education Act of 1965 for grants, loans, and work assistance for drug-related offenses
+
+- **(a)** *Repeal* Subsection (r) of section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091(r)) is repealed.
+- **(b)** *Conforming amendments* The Higher Education Act of 1965 is amended—
+  - **(1)** in section 428(b)(3) (20 U.S.C. 1078(b)(3))—
+    - **(A)** in subparagraph (C), by striking “485(l)” and inserting “485(k)”; and
+    - **(B)** in subparagraph (D), by striking “485(l)” and inserting “485(k)”;
+  - **(2)** in section 435(d)(5) (20 U.S.C. 1085(d)(5))—
+    - **(A)** in subparagraph (E), by striking “485(l)” and inserting “485(k)”; and
+    - **(B)** in subparagraph (F), by striking “485(l)” and inserting “485(k)”;
+  - **(3)** in section 484 (20 U.S.C. 1091), by redesignating subsections (s) and (t) as subsections (r) and (s), respectively; and
+  - **(4)** in section 485 (20 U.S.C. 1092)—
+    - **(A)** by striking subsection (k); and
+    - **(B)** by redesignating subsections (l) and (m) as subsections (k) and (l), respectively.
