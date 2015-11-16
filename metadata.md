@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3875
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3875
@@ -31,3 +31,8 @@ Department of Homeland Security CBRNE Defense Act of 2015
 - 2015-11-02 — Introduced in House
 - 2015-11-02 — Introduced in House
 - 2015-11-02 — Referred to the House Committee on Homeland Security.
+- 2015-11-04 — Committee Consideration and Mark-up Session Held.
+- 2015-11-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-11-16 — Placed on the Union Calendar, Calendar No. 255.
+- 2015-11-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-334.
+- 2015-11-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-334.
