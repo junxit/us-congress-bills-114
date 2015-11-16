@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2270
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2270
@@ -16,7 +16,7 @@ Billy Frank Jr. Tell Your Story Act
 
 - Rep. Heck, Denny [D-WA-10] (H001064)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
@@ -34,6 +34,9 @@ Billy Frank Jr. Tell Your Story Act
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
 
 ## Committees (1)
 
@@ -44,3 +47,13 @@ Billy Frank Jr. Tell Your Story Act
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Referred to the House Committee on Natural Resources.
+- 2015-05-14 — Sponsor introductory remarks on measure. (CR H2967)
+- 2015-06-04 — Referred to the Subcommittee on Federal Lands.
+- 2015-07-14 — Subcommittee Hearings Held.
+- 2015-10-07 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2015-10-08 — Subcommittee on Federal Lands Discharged.
+- 2015-11-16 — Placed on the Union Calendar, Calendar No. 256.
+- 2015-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-335.
+- 2015-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-335.
