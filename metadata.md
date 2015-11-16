@@ -1,7 +1,7 @@
 ---
 measure: S. 1004
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1004
@@ -38,3 +38,6 @@ Veterans Day Moment of Silence Act
 - 2015-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7866)
 - 2015-11-09 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7866)
 - 2015-11-09 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7866)
+- 2015-11-10 — Message on Senate action sent to the House.
+- 2015-11-16 — Received in the House.
+- 2015-11-16 — Referred to the House Committee on Veterans' Affairs.
