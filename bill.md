@@ -11,11 +11,72 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Treatment of affiliate transactions
 
-- **(a)** *In general*
-  - **(1)** *Commodity Exchange Act amendment* Section 2(h)(7)(D)(i) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)(i)) is amended to read as follows:
-    > - **(i)** *In general* An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of such commercial risk is addressed by entering into a swap with a swap dealer or major swap participant, an appropriate credit support measure or other mechanism must be utilized.
+- **(a)** *Commodity Exchange Act amendments* Section 2(h)(7)(D) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)) is amended—
+  - **(1)** by redesignating clause (iii) as clause (v);
+  - **(2)** by striking clauses (i) and (ii) and inserting the following:
+    > - **(i)** *In general* An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
+    >   - **(I)** enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+    >   - **(II)** is directly and wholly-owned by another affiliate qualified for the exception under this subparagraph or an entity that is not a financial entity;
+    >   - **(III)** is not indirectly majority-owned by a financial entity;
+    >   - **(IV)** is not ultimately owned by a parent company that is a financial entity; and
+    >   - **(V)** does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 102 of the Financial Stability Act of 2010).
+    > - **(ii)** *Limitation on qualifying affiliates* The exception in clause (i) shall not apply if the affiliate is—
+    >   - **(I)** a swap dealer;
+    >   - **(II)** a security-based swap dealer;
+    >   - **(III)** a major swap participant;
+    >   - **(IV)** a major security-based swap participant;
+    >   - **(V)** a commodity pool;
+    >   - **(VI)** a bank holding company;
+    >   - **(VII)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80–b–2(a));
+    >   - **(VIII)** an employee benefit plan or government plan, as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002);
+    >   - **(IX)** an insured depository institution;
+    >   - **(X)** a farm credit system institution;
+    >   - **(XI)** a credit union;
+    >   - **(XII)** a nonbank financial company supervised by the Board of Governors (as defined under section 102 of the Financial Stability Act of 2010); or
+    >   - **(XIII)** an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+    > - **(iii)** *Limitation on affiliates’ affiliates* Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in clause (i) shall not apply with respect to an affiliate if the affiliate is itself affiliated with—
+    >   - **(I)** a major security-based swap participant;
+    >   - **(II)** a security-based swap dealer;
+    >   - **(III)** a major swap participant; or
+    >   - **(IV)** a swap dealer.
+    > - **(iv)** *Conditions on transactions* With respect to an affiliate that qualifies for the exception in clause (i)—
+    >   - **(I)** the affiliate may not enter into any swap other than for the purpose of hedging or mitigating commercial risk; and
+    >   - **(II)** neither the affiliate nor any person affiliated with the affiliate that is not a financial entity may enter into a swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under clause (i).
 
-  - **(2)** *Securities Exchange Act of 1934 amendment* Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)(A)) is amended to read as follows:
-    > - **(A)** *In general* An affiliate of a person that qualifies for an exception under paragraph (1) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, provided that if the hedge or mitigation of such commercial risk is addressed by entering into a security-based swap with a security-based swap dealer or major security-based swap participant, an appropriate credit support measure or other mechanism must be utilized.
+  - **(3)** by adding at the end the following:
+    > - **(vi)** *Risk management program* Any swap entered into by an affiliate that qualifies for the exception in clause (i) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the swap and to identify each of the affiliates on whose behalf a swap was entered into.
 
-- **(b)** *Applicability of credit support measure requirement* The requirements in section 2(h)(7)(D)(i) of the Commodity Exchange Act and section 3C(g)(4)(A) of the Securities Exchange Act of 1934, as amended by subsection (a), requiring that a credit support measure or other mechanism be utilized if the transfer of commercial risk referred to in such sections is addressed by entering into a swap with a swap dealer or major swap participant or a security-based swap with a security-based swap dealer or major security-based swap participant, as appropriate, shall not apply with respect to swaps or security-based swaps, as appropriate, entered into before the date of the enactment of this Act.
+- **(b)** *Securities Exchange Act of 1934 amendment* Section 3C(g)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)) is amended—
+  - **(1)** by redesignating subparagraph (C) as subparagraph (E);
+  - **(2)** by striking subparagraphs (A) and (B) and inserting the following:
+    > - **(A)** *In general* An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
+    >   - **(i)** enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+    >   - **(ii)** is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+    >   - **(iii)** is not indirectly majority-owned by a financial entity;
+    >   - **(iv)** is not ultimately owned by a parent company that is a financial entity; and
+    >   - **(v)** does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 102 of the Financial Stability Act of 2010).
+    > - **(B)** *Limitation on qualifying affiliates* The exception in subparagraph (A) shall not apply if the affiliate is—
+    >   - **(i)** a swap dealer;
+    >   - **(ii)** a security-based swap dealer;
+    >   - **(iii)** a major swap participant;
+    >   - **(iv)** a major security-based swap participant;
+    >   - **(v)** a commodity pool;
+    >   - **(vi)** a bank holding company;
+    >   - **(vii)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80–b–2(a));
+    >   - **(viii)** an employee benefit plan or government plan, as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002);
+    >   - **(ix)** an insured depository institution;
+    >   - **(x)** a farm credit system institution;
+    >   - **(xi)** a credit union;
+    >   - **(xii)** a nonbank financial company supervised by the Board of Governors (as defined under section 102 of the Financial Stability Act of 2010); or
+    >   - **(xiii)** an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+    > - **(C)** *Limitation on affiliates’ affiliates* Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in subparagraph (A) shall not apply with respect to an affiliate if such affiliate is itself affiliated with—
+    >   - **(i)** a major security-based swap participant;
+    >   - **(ii)** a security-based swap dealer;
+    >   - **(iii)** a major swap participant; or
+    >   - **(iv)** a swap dealer.
+    > - **(D)** *Conditions on transactions* With respect to an affiliate that qualifies for the exception in subparagraph (A)—
+    >   - **(i)** such affiliate may not enter into any security-based swap other than for the purpose of hedging or mitigating commercial risk; and
+    >   - **(ii)** neither such affiliate nor any person affiliated with such affiliate that is not a financial entity may enter into a security-based swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of security-based swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under subparagraph (A).
+
+  - **(3)** by adding at the end the following:
+    > - **(F)** *Risk management program* Any security-based swap entered into by an affiliate that qualifies for the exception in subparagraph (A) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the security-based swap and to identify each of the affiliates on whose behalf a security-based swap was entered into.
