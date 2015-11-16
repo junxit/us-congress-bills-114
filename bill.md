@@ -15,7 +15,7 @@ This Act may be cited as the “Dignified Interment of Our Veterans Act of 2015�
 
 ## § 2. Department of Veterans Affairs study on matters relating to burial of unclaimed remains of veterans in national cemeteries
 
-- **(a)** *Study and report required* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
+- **(a)** *Study and report required* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
   - **(1)** complete a study on matters relating to the interring of unclaimed remains of veterans in national cemeteries under the control of the National Cemetery Administration; and
   - **(2)** submit to Congress a report on the findings of the Secretary with respect to the study required under paragraph (1).
 - **(b)** *Matters studied* The matters studied under subsection (a)(1) shall include the following:

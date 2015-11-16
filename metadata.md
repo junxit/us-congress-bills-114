@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1338
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1338
@@ -121,6 +121,10 @@ Dignified Interment of Our Veterans Act of 2015
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2015-11-16 — [House 114-1-627](votes/house-114-1-0627.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–0)
+
 ## Actions
 
 - 2015-03-06 — Introduced in House
@@ -135,3 +139,11 @@ Dignified Interment of Our Veterans Act of 2015
 - 2015-10-26 — Placed on the Union Calendar, Calendar No. 237.
 - 2015-10-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-312.
 - 2015-10-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-312.
+- 2015-11-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-11-16 — Considered as unfinished business. (consideration: CR H8210-8211)
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8174-8175)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1338.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 627). (text: CR H8174)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 627).(text: CR H8174)
