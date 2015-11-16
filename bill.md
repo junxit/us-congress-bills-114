@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Critical Infrastructure Protection Act” or “CIPA” .
+This Act may be cited as the “Critical Infrastructure Protection Act” or the “CIPA”.
 
 ## § 2. EMP planning, research and development, and protection and preparedness
 
@@ -55,12 +55,12 @@ This Act may be cited as the “Critical Infrastructure Protection Act” or “
 - **(b)** *Clerical amendments* The table of contents in section 1(b) of such Act is amended—
   - **(1)** by adding at the end of the items relating to title V the following:
   - **(2)** by adding at the end of the items relating to title III the following:
-- **(c)** *Deadline for recommended strategy* The Secretary of Homeland Security shall submit the recommended strategy required under the amendment made by subsection (a)(4) by not later than one year after the date of the enactment of this Act.
+- **(c)** *Deadline for recommended strategy* The Secretary of Homeland Security shall submit the recommended strategy required under the amendment made by subsection (a)(4) by not later than 1 year after the date of the enactment of this Act.
 - **(d)** *Report* The Secretary shall submit a report to Congress by not later than 180 days after the date of the enactment of this Act describing the progress made in, and an estimated date by which the Department of Homeland Security will have completed—
   - **(1)** including EMP (as defined in the amendment made by subsection (a)(1)) threats in national planning frameworks;
   - **(2)** research and development described in the amendment made by subsection (a)(3);
   - **(3)** development of the comprehensive plan required under the amendment made by subsection (a)(4); and
-  - **(4)** outreach to educate owners and operators of critical infrastructure, emergency planners and emergency response providers at all levels of government regarding the threat of EMP events.
+  - **(4)** outreach to educate owners and operators of critical infrastructure, emergency planners, and emergency response providers at all levels of government regarding the threat of EMP events.
 
 ## § 3. No regulatory authority
 

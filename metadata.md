@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1073
@@ -53,3 +53,9 @@ Critical Infrastructure Protection Act
 - 2015-08-04 — Placed on the Union Calendar, Calendar No. 181.
 - 2015-08-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-240.
 - 2015-08-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-240.
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8171-8174)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1073.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
+- 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8171-8172)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8171-8172)
