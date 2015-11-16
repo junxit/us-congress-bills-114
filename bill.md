@@ -47,9 +47,10 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >     - **(A)** establish procedures for allowing a bipartisan majority of Commissioners to place an order, decision, report, or action on the agenda of an open meeting;
   >     - **(B)** establish procedures for informing all Commissioners of a reasonable number of options available to the Commission for resolving a petition, complaint, application, rulemaking, or other proceeding;
   >     - **(C)** establish procedures for ensuring that all Commissioners have adequate time, prior to being required to decide a petition, complaint, application, rulemaking, or other proceeding (including at a meeting held pursuant to section 5(d)), to review the proposed Commission decision document, including the specific language of any proposed rule or any proposed amendment of an existing rule;
-  >     - **(D)** establish deadlines (relative to the date of filing) for disposition of applications for a license under section 1.913 of title 47, Code of Federal Regulations;
-  >     - **(E)** assign resources needed in order to meet the deadlines described in subparagraph (D), including whether the Commission’s ability to meet such deadlines would be enhanced by assessing a fee from applicants for such a license; and
-  >     - **(F)** publish each order, decision, report, or action not later than 30 days after the date of the adoption of such order, decision, report, or action.
+  >     - **(D)** establish procedures for publishing the text of agenda items to be voted on at an open meeting in advance of such meeting so that the public has the opportunity to read the text before a vote is taken;
+  >     - **(E)** establish deadlines (relative to the date of filing) for disposition of applications for a license under section 1.913 of title 47, Code of Federal Regulations;
+  >     - **(F)** assign resources needed in order to meet the deadlines described in subparagraph (E), including whether the Commission’s ability to meet such deadlines would be enhanced by assessing a fee from applicants for such a license; and
+  >     - **(G)** publish each order, decision, report, or action not later than 30 days after the date of the adoption of such order, decision, report, or action.
   >   - **(4)** *Data for performance measures* The Commission shall develop a performance measure or proposed performance measure required by this subsection to rely, where possible, on data already collected by the Commission.
   >   - **(5)** *GAO audit* Not less frequently than every 6 months, the Comptroller General of the United States shall audit the cost estimates provided by the Commission under paragraph (2)(D)(iii) during the preceding 6-month period.
   > - **(b)** *Periodic review* On the date that is 5 years after the completion of the rulemaking proceeding under subsection (a)(1), and every 5 years thereafter, the Commission shall initiate a new rulemaking proceeding to continue to consider such procedural changes to its rules as may be in the public interest to maximize opportunities for public participation and efficient decisionmaking.
@@ -62,32 +63,24 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >     - **(A)** a list of the persons who attended such meeting; and
   >     - **(B)** a summary of the matters discussed at such meeting, except for such matters as the Commission determines may be withheld under section 552b(c) of title 5, United States Code.
   >   - **(3)** *Preservation of open meetings requirements for agency action* Nothing in this subsection shall limit the applicability of section 552b of title 5, United States Code, with respect to a meeting of Commissioners other than that described in paragraph (1).
-  > - **(d)** *Publication of documents in advance of FCC voting*
-  >   - **(1)** *In general* The Commission may not adopt any order, decision, report, or action by vote of the Commission, unless the Chairman causes the Commission to publish on the Internet website of the Commission the text of such order, decision, report, or action—
-  >     - **(A)** not later than 24 hours after the time such text is placed on circulation for review by the Commissioners; or
-  >     - **(B)** not later than 21 days before the date on which the vote is to occur.
-  >   - **(2)** *Text to be published; effect* The text published pursuant to paragraph (1) shall be the text intended at the time of the publishing to be subject to a vote. Nothing in this subsection may be construed to prevent the Commission from making changes to the text after the publishing.
-  >   - **(3)** *Exception* This subsection shall not apply to a portion of any order, decision, report, or action if the publishing of such portion is likely to lead to a result described in a paragraph of section 552b(c) of title 5, United States Code.
-  >   - **(4)** *Not agency action* Publication pursuant to this subsection shall not constitute “agency action” as defined in section 551 of title 5, United States Code.
-  > - **(e)** *Timely availability of changes to rules of the Commission* Not later than 24 hours after adopting a provision that will appear in the Code of Federal Regulations, or an amendment to or repeal of a provision that appears in the Code of Federal Regulations, the Commission shall publish on the Internet website of the Commission the text of the provision adopted or repealed, or the text indicating how the provision is being amended, as the case may be.
-  > - **(f)** *Access to certain information on Commission’s website* The Commission shall provide direct access from the homepage of its website to—
+  > - **(d)** *Access to certain information on Commission’s website* The Commission shall provide direct access from the homepage of its website to—
   >   - **(1)** detailed information regarding—
   >     - **(A)** the budget of the Commission for the current fiscal year;
   >     - **(B)** the appropriations for the Commission for such fiscal year; and
   >     - **(C)** the total number of full-time equivalent employees of the Commission; and
   >   - **(2)** the performance plan most recently made available by the Commission under section 1115(b) of title 31, United States Code.
-  > - **(g)** *Internet publication of certain FCC policies and procedures* The chairman of the Commission shall—
+  > - **(e)** *Internet publication of certain FCC policies and procedures* The chairman of the Commission shall—
   >   - **(1)** publish on the Internet website of the Commission any policies or procedures of the Commission that—
   >     - **(A)** are established by the chairman; and
   >     - **(B)** relate to the functioning of the Commission or the handling of the agenda of the Commission; and
   >   - **(2)** update such publication not later than 48 hours after the chairman makes changes to any such policies or procedures.
-  > - **(h)** *Federal Register publication*
+  > - **(f)** *Federal Register publication*
   >   - **(1)** *In general* In the case of any document adopted by the Commission that the Commission is required, under any provision of law, to publish in the Federal Register, the Commission shall, not later than the date described in paragraph (2), complete all Commission actions necessary for such document to be so published.
   >   - **(2)** *Date described* The date described in this paragraph is the earlier of—
   >     - **(A)** the day that is 45 days after the date of the release of the document; or
   >     - **(B)** the day by which such actions must be completed to comply with any deadline under any other provision of law.
   >   - **(3)** *No effect on deadlines for publication in other form* In the case of a deadline that does not specify that the form of publication is publication in the Federal Register, the Commission may comply with such deadline by publishing the document in another form. Such other form of publication does not relieve the Commission of any Federal Register publication requirement applicable to such document, including the requirement of paragraph (1).
-  > - **(i)** *Consumer complaint database*
+  > - **(g)** *Consumer complaint database*
   >   - **(1)** *In general* In evaluating and processing consumer complaints, the Commission shall present information about such complaints in a publicly available, searchable database on its website that—
   >     - **(A)** facilitates easy use by consumers; and
   >     - **(B)** to the extent practicable, is sortable and accessible by—
@@ -96,18 +89,18 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >       - **(iii)** the party complained of; and
   >       - **(iv)** other elements that the Commission considers in the public interest.
   >   - **(2)** *Duplicative complaints* In the case of multiple complaints arising from the same alleged misconduct, the Commission shall be required to include only information concerning one such complaint in the database described in paragraph (1).
-  > - **(j)** *Form of publication*
+  > - **(h)** *Form of publication*
   >   - **(1)** *In general* In complying with a requirement of this section to publish a document, the Commission shall publish such document on its website, in addition to publishing such document in any other form that the Commission is required to use or is permitted to and chooses to use.
   >   - **(2)** *Exception* The Commission shall by rule establish procedures for redacting documents required to be published by this section so that the published versions of such documents do not contain—
   >     - **(A)** information the publication of which would be detrimental to national security, homeland security, law enforcement, or public safety; or
   >     - **(B)** information that is proprietary or confidential.
-  > - **(k)** *Transparency relating to performance in meeting FOIA requirements* The Commission shall take additional steps to inform the public about its performance and efficiency in meeting the disclosure and other requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), including by doing the following:
+  > - **(i)** *Transparency relating to performance in meeting FOIA requirements* The Commission shall take additional steps to inform the public about its performance and efficiency in meeting the disclosure and other requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), including by doing the following:
   >   - **(1)** Publishing on the Commission’s website the Commission’s logs for tracking, responding to, and managing requests submitted under such section, including the Commission’s fee estimates, fee categories, and fee request determinations.
   >   - **(2)** Releasing to the public all decisions made by the Commission (including decisions made by the Commission’s Bureaus and Offices) granting or denying requests filed under such section, including any such decisions pertaining to the estimate and application of fees assessed under such section.
   >   - **(3)** Publishing on the Commission’s website electronic copies of documents released under such section.
   >   - **(4)** Presenting information about the Commission’s handling of requests under such section in the Commission’s annual budget estimates submitted to Congress and the Commission’s annual performance and financial reports. Such information shall include the number of requests under such section the Commission received in the most recent fiscal year, the number of such requests granted and denied, a comparison of the Commission’s processing of such requests over at least the previous 3 fiscal years, and a comparison of the Commission’s results with the most recent average for the United States Government as published on www.foia.gov.
-  > - **(l)** *Prompt release of statistical reports and reports to Congress* Not later than January 15th of each year, the Commission shall identify, catalog, and publish an anticipated release schedule for all statistical reports and reports to Congress that are regularly or intermittently released by the Commission and will be released during such year.
-  > - **(m)** *Annual scorecard reports*
+  > - **(j)** *Prompt release of statistical reports and reports to Congress* Not later than January 15th of each year, the Commission shall identify, catalog, and publish an anticipated release schedule for all statistical reports and reports to Congress that are regularly or intermittently released by the Commission and will be released during such year.
+  > - **(k)** *Annual scorecard reports*
   >   - **(1)** *In general* For the 1-year period beginning on January 1st of each year, the Commission shall prepare a report on the performance of the Commission in conducting its proceedings and meeting the deadlines established under subsection (a)(2)(E) and the guidelines established under subsection (a)(2)(F).
   >   - **(2)** *Contents* Each report required by paragraph (1) shall contain detailed statistics on such performance, including, with respect to each Bureau of the Commission—
   >     - **(A)** with respect to each type of filing specified in subsection (a)(2)(E) or (a)(2)(F)—
@@ -119,11 +112,11 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >       - **(ii)** the number of such proceedings pending on the last day of such period; and
   >     - **(C)** the number of independent studies or analyses published by the Commission during such period.
   >   - **(3)** *Publication and submission* The Commission shall publish and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate each report required by paragraph (1) not later than the date that is 30 days after the last day of the period covered by such report.
-  > - **(n)** *Definitions* In this section:
+  > - **(l)** *Definitions* In this section:
   >   - **(1)** *Amendment* The term amendment includes, when used with respect to an existing rule, the deletion of such rule.
   >   - **(2)** *Bipartisan majority* The term bipartisan majority means, when used with respect to a group of Commissioners, that such group—
-  >     - **(A)** is a group of 3 or more Commissioners; and
-  >     - **(B)** includes, for each political party of which any Commissioner is a member, at least 1 Commissioner who is a member of such political party, and, if any Commissioner has no political party affiliation, at least one unaffiliated Commissioner.
+  >     - **(A)** is a group of three or more Commissioners; and
+  >     - **(B)** includes, for each political party of which any Commissioner is a member, at least one Commissioner who is a member of such political party, and, if any Commissioner has no political party affiliation, at least one unaffiliated Commissioner.
   >   - **(3)** *Performance measure* The term performance measure means an objective and quantifiable outcome measure or output measure (as such terms are defined in section 1115 of title 31, United States Code).
   >   - **(4)** *Program activity* The term program activity has the meaning given such term in section 1115 of title 31, United States Code, except that such term also includes any annual collection or distribution or related series of collections or distributions by the Commission of an amount that is greater than or equal to $100,000,000.
   >   - **(5)** *Other definitions* The terms agency action, ex parte communication, and rule have the meanings given such terms in section 551 of title 5, United States Code.
@@ -131,11 +124,9 @@ This Act may be cited as the “Federal Communications Commission Process Reform
 - **(b)** *Effective dates and implementing rules*
   - **(1)** *Effective dates*
     - **(A)** *Nonpublic collaborative discussions* Subsection (c) of section 13 of the Communications Act of 1934, as added by subsection (a), shall apply beginning on the first date on which all of the procedural changes to the rules of the Federal Communications Commission required by subsection (a)(1) of such section have taken effect.
-    - **(B)** *Publication of documents in advance of FCC voting* Subsection (d) of such section 13 shall apply with respect to an order, decision, report, or action the text of which is placed on circulation after the date that is 90 days after the date of the enactment of this Act.
-    - **(C)** *Timely availability of changes to rules of the Commission* Subsection (e) of such section 13 shall apply with respect to a provision, or an amendment to or repeal of a provision, that is adopted after the date that is 30 days after the date of the enactment of this Act.
-    - **(D)** *Internet publication of certain FCC policies and procedures* Subsection (g) of such section 13 shall apply beginning on the date that is 30 days after the date of the enactment of this Act.
-    - **(E)** *Report release schedules* Subsection (l) of such section 13 shall apply with respect to 2016 and any year thereafter.
-    - **(F)** *Annual scorecard reports* Subsection (m) of such section 13 shall apply with respect to 2015 and any year thereafter.
+    - **(B)** *Report release schedules* Subsection (j) of such section 13 shall apply with respect to 2016 and any year thereafter.
+    - **(C)** *Annual scorecard reports* Subsection (k) of such section 13 shall apply with respect to 2015 and any year thereafter.
+    - **(D)** *Internet publication of certain FCC policies and procedures* Subsection (e) of such section 13 shall apply beginning on the date that is 30 days after the date of the enactment of this Act.
   - **(2)** *Rules* Except as otherwise provided in such section 13, the Federal Communications Commission shall promulgate any rules necessary to carry out such section not later than 1 year after the date of the enactment of this Act.
 
 ## § 3. Categorization of TCPA inquiries and complaints in quarterly report
@@ -157,12 +148,7 @@ Not later than 1 year after the date of the enactment of this Act, the Federal C
 - **(1)** actions that the Commission will take to improve the participation of small businesses in the proceedings of the Commission; and
 - **(2)** recommendations for any legislation that the Commission considers appropriate to improve such participation.
 
-## § 7. Identification and description of items to be decided on authority delegated by the Commission
+## § 7. Exclusion from PAYGO scorecards
 
-- **(a)** *In general* Section 5(c) of the Communications Act of 1934 (47 U.S.C. 155(c)) is amended by adding at the end the following:
-  > - **(10)** Not later than 48 hours before the time when an order, decision, report, or action is made or taken pursuant to delegation under paragraph (1), such order, decision, report, or action shall be identified and briefly described on the Internet website of the Commission, unless the authority to which the delegation is made for good cause finds that such identification and description are likely to lead to a result described in a paragraph of section 552b(c) of title 5, United States Code. Identification and description pursuant to this paragraph shall not constitute “agency action” as defined in section 551 of title 5, United States Code. This paragraph shall not apply with respect to an order, decision, report, or action that—
-  >   - **(A)** does not receive a delegated authority number pursuant to the procedures of the Commission;
-  >   - **(B)** is made or taken on authority delegated to an administrative law judge; or
-  >   - **(C)** is made or taken to address an immediate threat to health or safety that constitutes an emergency requiring an expedited response from the Commission.
-
-- **(b)** *Effective date* The amendment made by this section shall apply with respect to an order, decision, report, or action made or taken after the date that is 90 days after the date of the enactment of this Act.
+- **(a)** *Statutory Pay-As-You-Go scorecards* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+- **(b)** *Senate PAYGO scorecards* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 201 of S. Con. Res. 21 (110th Congress).

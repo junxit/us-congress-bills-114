@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2583
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2583
@@ -36,3 +36,9 @@ Federal Communications Commission Process Reform Act of 2015
 - 2015-10-22 — Placed on the Union Calendar, Calendar No. 231.
 - 2015-10-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-305.
 - 2015-10-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-305.
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8182-8185)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2583.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8182-8184)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8182-8184)

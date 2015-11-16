@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2583
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `47 U.S.C. § 151` | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2016” each place it appears and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
-| `47 U.S.C. § 155` | add-at-end | Section 5(c) of the Communications Act of 1934 (47 U.S.C. 155(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
