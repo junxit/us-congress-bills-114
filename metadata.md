@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 23
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 23
@@ -74,3 +74,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2015-10-26 — Introduced in Senate
 - 2015-10-26 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S7492)
+- 2015-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
+- 2015-11-16 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S7965; text: CR S7965)
+- 2015-11-16 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S7965; text: CR S7965)
