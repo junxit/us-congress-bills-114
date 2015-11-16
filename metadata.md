@@ -1,7 +1,7 @@
 ---
 measure: S. 2280
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2280
@@ -27,3 +27,6 @@ POWER Act
 - 2015-11-10 — Introduced in Senate
 - 2015-11-10 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7954-7955; text as passed Senate: CR S7954-7955)
 - 2015-11-10 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7954-7955; text as passed Senate: CR S7954-7955)
+- 2015-11-16 — Message on Senate action sent to the House.
+- 2015-11-16 — Received in the House.
+- 2015-11-16 — Referred to the House Committee on the Judiciary.
