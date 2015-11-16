@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 24
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 24
@@ -27,3 +27,11 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2015-11-05 — Introduced in Senate
 - 2015-11-05 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7843; text as passed Senate: CR S7823)
 - 2015-11-05 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7843; text as passed Senate: CR S7823)
+- 2015-11-06 — Message on Senate action sent to the House.
+- 2015-11-16 — Considered by unanimous consent. (consideration: CR H8213)
+- 2015-11-16 — Held at the desk.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mrs. Comstock asked unanimous consent to take from the Speaker's table and consider. (consideration: CR H8213)
+- 2015-11-16 — On agreeing to the resolution Agreed to without objection. (text: CR H8213)
+- 2015-11-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8213)
+- 2015-11-16 — Received in the House.
