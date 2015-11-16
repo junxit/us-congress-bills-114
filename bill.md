@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(IV)** a major security-based swap participant;
     >   - **(V)** a commodity pool;
     >   - **(VI)** a bank holding company;
-    >   - **(VII)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80–b–2(a));
+    >   - **(VII)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80-b-2(a));
     >   - **(VIII)** an employee benefit plan or government plan, as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002);
     >   - **(IX)** an insured depository institution;
     >   - **(X)** a farm credit system institution;
@@ -62,7 +62,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(iv)** a major security-based swap participant;
     >   - **(v)** a commodity pool;
     >   - **(vi)** a bank holding company;
-    >   - **(vii)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80–b–2(a));
+    >   - **(vii)** a private fund, as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80-b-2(a));
     >   - **(viii)** an employee benefit plan or government plan, as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002);
     >   - **(ix)** an insured depository institution;
     >   - **(x)** a farm credit system institution;
