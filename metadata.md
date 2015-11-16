@@ -1,7 +1,7 @@
 ---
 measure: S. 1004
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1004
@@ -26,9 +26,10 @@ Veterans Day Moment of Silence Act
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,17 @@ Veterans Day Moment of Silence Act
 - 2015-11-10 — Message on Senate action sent to the House.
 - 2015-11-16 — Received in the House.
 - 2015-11-16 — Referred to the House Committee on Veterans' Affairs.
+- 2015-12-03 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2016-09-27 — Committee on Veterans' Affairs discharged.
+- 2016-09-27 — Committee on Veterans' Affairs discharged.
+- 2016-09-27 — Considered by unanimous consent. (consideration: CR H5946-5947)
+- 2016-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-27 — Mr. Miller (FL) asked unanimous consent to discharge from committee and consider.
+- 2016-09-27 — On passage Passed without objection. (text: CR H5946)
+- 2016-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5946)
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-240.
+- 2016-10-07 — Became Public Law No: 114-240.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
