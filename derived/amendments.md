@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3189
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 7 executed, 37 stated and not applied.
+46 amendatory instructions. 9 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 12 U.S.C. § 248
 
-> in subsection (e), by striking “the third undesignated paragraph of section 13” and inserting “section 13(3)”;
+> in subsection (e), by striking “the third undesignated paragraph of section 13” and inserting “section 13(3)”; and
 
 | | |
 |---|---|
@@ -62,12 +62,12 @@ to guess them.
 
 ### 12 U.S.C. § 248
 
-> in paragraph (4)(A), by striking “has the same meaning as in section 714(f)(1)(A) of title 31, United States Code” and inserting “means a program or facility, including any special purpose vehicle or other entity established by or on behalf of the Board of Governors of the Federal Reserve System or a Federal reserve bank, authorized by the Board of Governors under section 13(3), that is not subject to audit under section 712(e) of title 31, United States Code”;
+> in paragraph (4)(A), by striking “has the same meaning as in section 714(f)(1)(A) of title 31, United States Code” and inserting “means a program or facility, including any special purpose vehicle or other entity established by or on behalf of the Board of Governors of the Federal Reserve System or a Federal reserve bank, authorized by the Board of Governors under section 13(3), that is not subject to audit under section 714(e) of title 31, United States Code”;
 
 | | |
 |---|---|
 | Removed | `has the same meaning as in section 714(f)(1)(A) of title 31, United States Code` |
-| Inserted | `means a program or facility, including any special purpose vehicle or other entity established by or on behalf of the Board of Governors of the Federal Reserve System or a Federal reserve bank, authorized by the Board of Governors under section 13(3), that is not subject to audit under section 712(e) of title 31, United States Code` |
+| Inserted | `means a program or facility, including any special purpose vehicle or other entity established by or on behalf of the Board of Governors of the Federal Reserve System or a Federal reserve bank, authorized by the Board of Governors under section 13(3), that is not subject to audit under section 714(e) of title 31, United States Code` |
 
 ### 12 U.S.C. § 248
 
@@ -86,6 +86,24 @@ to guess them.
 |---|---|
 | Removed | `and section 13(3)(C), section 714(f)(3)(C) of title 31, United States Code, and` |
 | Inserted | `, section 13(3)(C), and` |
+
+### 12 U.S.C. § 302
+
+> in the eleventh undesignated paragraph (relating to Class B), by striking “and consumers” and inserting “consumers, and traditionally underserved communities and populations”; and
+
+| | |
+|---|---|
+| Removed | `and consumers` |
+| Inserted | `consumers, and traditionally underserved communities and populations` |
+
+### 12 U.S.C. § 302
+
+> in the twelfth undesignated paragraph (relating to Class C), by striking “and consumers” and inserting “consumers, and traditionally underserved communities and populations”.
+
+| | |
+|---|---|
+| Removed | `and consumers` |
+| Inserted | `consumers, and traditionally underserved communities and populations` |
 
 ## Stated, not applied
 
