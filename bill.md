@@ -24,7 +24,7 @@ Not later than 120 days after the date of the enactment of this Act, the Secreta
 ## § 4. Technical corrections
 
 - **(a)** *Terms* Subparagraph (A) of section 44946(c)(2) of title 49, United States Code, is amended to read as follows:
-  > - **(A)** *Terms* The term of each member of the Advisory Committee shall be two years but may continue until such time as a successor member begins serving on the Advisory Committee. A member of the Advisory Committee may be reappointed.
+  > - **(A)** *Terms* The term of each member of the Advisory Committee shall be 2 years but may continue until such time as a successor member begins serving on the Advisory Committee. A member of the Advisory Committee may be reappointed.
 
 - **(b)** *Clarification* Paragraph (5) of section 44946(b) of title 49, United States Code, is amended by striking “under paragraph (4)” and inserting “under this subsection”.
 

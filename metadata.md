@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3144
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3144
@@ -39,3 +39,9 @@ Partners for Aviation Security Act
 - 2015-11-02 — Placed on the Union Calendar, Calendar No. 243.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-320.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-320.
+- 2015-11-16 — Considered under suspension of the rules. (consideration: CR H8170-8171)
+- 2015-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3144.
+- 2015-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-16 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
+- 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8170)
+- 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8170)
