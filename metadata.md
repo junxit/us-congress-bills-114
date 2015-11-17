@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3032
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3032
@@ -21,9 +21,10 @@ Securities and Exchange Commission Reporting Modernization Act
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Securities and Exchange Commission Reporting Modernization Act
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 258.
 - 2015-11-16 — Reported by the Committee on Financial Services. H. Rept. 114-337.
 - 2015-11-16 — Reported by the Committee on Financial Services. H. Rept. 114-337.
+- 2015-11-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
