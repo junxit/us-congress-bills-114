@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 16901
+
+> in subsections (c) and (d), as redesignated, by striking “subsection (a)” each place it appears and inserting “subsection (a) or (b)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (a) or (b)` |
 
 ## Stated, not applied
 
@@ -32,3 +43,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `22 U.S.C. § 7106` | add-at-end | Section 108(b)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)(4)) is amended by adding at the end before the period the following: “, including severe forms of trafficking in persons related to sex tourism”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16914` | redesignate | by redesignating paragraph (7) as paragraph (8); and; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16914` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16914` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16901` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16901` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title II of Public Law 110–457 is amended by adding at the end the following: | the bill names no machine-readable US Code section |

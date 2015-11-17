@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 515
@@ -58,3 +58,7 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-01-27 — ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make a correction in the engrossment to H.R. 515 in a form placed at the desk.
 - 2015-01-28 — Received in the Senate.
 - 2015-02-04 — Read twice and referred to the Committee on Foreign Relations.
+- 2015-11-10 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2015-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
