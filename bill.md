@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 4026
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4026
+
+> To provide that a concealed handgun license shall be treated as a verifying identity document for purposes of aircraft passenger security screening, and to prohibit the Federal Government from collecting or storing information about an individual relating to a concealed handgun license.
+
+## § 1. Short title
+
+This Act may be cited as the “Nondiscriminatory Transportation Screening Act” or the “TSA Act”.
+
+## § 2. Treatment of concealed handgun license as verifying identity document for purposes of aircraft passenger security screening
+
+For purposes of part 1560 of title 49, Code of Federal Regulations, a concealed handgun license shall be treated as a verifying identity document.
+
+## § 3. Prohibition on Federal recordkeeping relating to concealed handgun licenses
+
+The Federal Government may not collect or store information about an individual relating to a concealed handgun license.
+
+## § 4. Concealed handgun license defined
+
+In this Act the term “concealed handgun license” means a license, permit, or other document issued by a State or a political subdivision of a State that authorizes an individual to carry a concealed handgun.
