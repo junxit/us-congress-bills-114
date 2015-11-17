@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 93
@@ -69,6 +69,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2015-11-16 — Committee on House Administration discharged. (consideration: CR H8213)
@@ -81,3 +85,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2015-11-16 — On agreeing to the resolution Agreed to without objection. (text: CR H8213)
 - 2015-11-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8213)
 - 2015-11-16 — Referred to the House Committee on House Administration.
+- 2015-11-17 — Received in the Senate.
