@@ -2,7 +2,7 @@
 legis-num: H. RES. 524
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 524
@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas on Friday, November 13, 2015, three groups of Islamist terrorists launched coordinated attacks against six sites across Paris, France, resulting in the loss of at least 129 innocent lives and the severe wounding of many hundreds;
 - Whereas the attacks on the Bataclan concert hall, the Stade de France, Le Petit Cambodge restaurant, Le Belle Equipe bar, and on the Avenue de la Republique in the 10th district, represent the largest terrorist attack in Europe since the Madrid, Spain, train bombings of 2004;
-- Whereas American student Nohemi Gonzalez, 23, of Long Beach, California, is among the innocent lives lost in these terrorist attacks, with several Americans injured;
+- Whereas American student Nohemi Gonzalez, 23, of El Monte, California, is among the innocent lives lost in these terrorist attacks, with several Americans injured;
 - Whereas French first responders and law enforcement reacted swiftly and heroically, in one instance blocking entrance of a suicide bomber to the Stade de France, doubtlessly saving dozens of lives;
 - Whereas seven terrorists were killed, most in suicide bombings and one in a shoot-out with police, and French intelligence and law enforcement are still pursuing those possibly connected to the attacks;
 - Whereas French President Francois Hollande vowed that “we will fight, and we will be ruthless”;
 - Whereas NATO Secretary General Jens Stoltenberg stated that the Alliance would stand with France and remain “strong and united” against terrorism;
-- Whereas President Barack Obama stated, “Once again we’ve seen an outrageous attempt to terrorize innocent civilians. This attack is not just on Paris … this is an attack on all of humanity and the universal values that we share. We stand prepared and ready to provide whatever assistance that the Government and the people of France need to respond.”;
+- Whereas President Barack Obama stated, “Once again we’ve seen an outrageous attempt to terrorize innocent civilians. This attack is not just on Paris * * * this is an attack on all of humanity and the universal values that we share. We stand prepared and ready to provide whatever assistance that the Government and the people of France need to respond.”;
 - Whereas the so-called “Islamic State of Iraq and Syria” (ISIS) claimed responsibility for the attack;
 - Whereas the precise coordination of these attacks at multiple sites across Paris, along with the recent downing of a Russian airline in Egypt and the double suicide bombing in a shopping district in Beirut—brutal attacks also claimed by ISIS—indicates the planning, operational, and logistical capabilities of ISIS appear to have advanced significantly, and their focus now includes large scale external attacks;
 - Whereas the continued and enhanced coordination of law enforcement and intelligence efforts amongst European countries is critical to inhibiting the movement and support for ISIS-affiliated terrorist cells;
