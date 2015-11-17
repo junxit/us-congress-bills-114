@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1478
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1478
@@ -54,9 +54,10 @@ Policyholder Protection Act of 2015
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Policyholder Protection Act of 2015
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 260.
 - 2015-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-338.
 - 2015-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-338.
+- 2015-11-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
