@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 24
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 24
@@ -71,6 +71,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2015-11-17 — [Senate 114-1-306](votes/senate-114-1-0306.md) — On the Joint Resolution — **Joint Resolution Passed** (52–46)
+
 ## Actions
 
 - 2015-10-26 — Introduced in Senate
@@ -78,3 +82,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.
 - 2015-11-16 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S7965; text: CR S7965)
 - 2015-11-16 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S7965; text: CR S7965)
+- 2015-11-17 — Measure laid before Senate by motion. (consideration: CR S7979-7992, S7992-8012)
+- 2015-11-17 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2015-11-17 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7979)
+- 2015-11-17 — Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 306. (text: CR S8012)
+- 2015-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 306.(text: CR S8012)
