@@ -1,7 +1,7 @@
 ---
 measure: S. 1177
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1177
@@ -329,7 +329,7 @@ Every Student Succeeds Act
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (26)
+## Recorded votes (30)
 
 - 2015-07-08 — [Senate 114-1-222](votes/senate-114-1-0222.md) — On the Amendment — **Amendment Agreed to** (98–0)
 - 2015-07-08 — [Senate 114-1-223](votes/senate-114-1-0223.md) — On the Amendment — **Amendment Rejected** (47–50)
@@ -357,6 +357,10 @@ Every Student Succeeds Act
 - 2015-07-16 — [Senate 114-1-247](votes/senate-114-1-0247.md) — On the Amendment — **Amendment Rejected** (45–52)
 - 2015-07-16 — [Senate 114-1-248](votes/senate-114-1-0248.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–18)
 - 2015-07-16 — [Senate 114-1-249](votes/senate-114-1-0249.md) — On Passage of the Bill — **Bill Passed** (81–17)
+- 2015-11-18 — [Senate 114-1-308](votes/senate-114-1-0308.md) — On the Cloture Motion — **Cloture Motion Agreed to** (91–6)
+- 2015-12-02 — [House 114-1-665](votes/house-114-1-0665.md) — On Agreeing to the Conference Report — **Passed** (359–64)
+- 2015-12-08 — [Senate 114-1-333](votes/senate-114-1-0333.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–12)
+- 2015-12-09 — [Senate 114-1-334](votes/senate-114-1-0334.md) — On the Conference Report — **Conference Report Agreed to** (85–12)
 
 ## Actions
 
@@ -960,3 +964,46 @@ Every Student Succeeds Act
 - 2015-11-17 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 526, S. 1177 is considered passed House as amended.
 - 2015-11-17 — Pursuant to the provisions of H. Res. 526, S. 1177 is considered passed House as amended.
 - 2015-11-17 — The Speaker appointed conferees: Kline, Foxx, Roe of Tennessee, Thompson of Pennsylvania, Guthrie, Rokita, Messer, Grothman, Russell, Curbelo of Florida, Scott of Virginia, Davis of California, Fudge, Polis, Wilson of Florida, Bonamici, and Clark of Massachusetts. (consideration: CR H8272)
+- 2015-11-18 — Cloture motion on the motion to disagree to the House amendment to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint conferees presented in Senate. (consideration: CR S8029-8030; text: CR S8030)
+- 2015-11-18 — Cloture on the motion to disagree to the House amendment to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint conferees invoked in Senate by Yea-Nay Vote. 91 - 6. Record Vote Number: 308. (consideration: CR S8033-8034; text: CR S8033)
+- 2015-11-18 — Conference committee actions: Conference held.
+- 2015-11-18 — Conference held.
+- 2015-11-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8029-8034)
+- 2015-11-18 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2015-11-18 — Message on Senate action sent to the House.
+- 2015-11-18 — Motion to disagree to the House amendment to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Voice Vote.
+- 2015-11-18 — Motion to disagree to the House amendment to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint conferees made in Senate. (consideration: CR S8029)
+- 2015-11-18 — Senate appointed conferees: Alexander, Enzi, Burr, Isakson, Paul, Collins, Murkowski, Kirk, Scott, Hatch, Roberts, Cassidy, Murray, Mikulski, Sanders, Casey, Franken, Bennet, Whitehouse, Baldwin, Murphy, Warren. (consideration: CR S8034)
+- 2015-11-18 — Senate disagrees to the House amendment to the Senate bill, agrees to the request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2015-11-19 — Conferees agreed to file conference report.
+- 2015-11-19 — Conference committee actions: Conferees agreed to file conference report.
+- 2015-11-30 — Conference report H. Rept. 114-354 filed. (text of conference report: CR H8444-8634)
+- 2015-11-30 — Conference report filed: Conference report H. Rept. 114-354 filed.(text of conference report: CR H8444-8634)
+- 2015-12-01 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2015-12-01 — Rules Committee Resolution H. Res. 542 Reported to House. Resolution provides for further amendment consideration of H.R. 8 and also provides for consideration of the conference report to accompany S. 1177.
+- 2015-12-02 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 64 (Roll No. 665).
+- 2015-12-02 — Considered as unfinished business. (consideration: CR H8951-8952)
+- 2015-12-02 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany S. 1177.
+- 2015-12-02 — Motions to reconsider laid on the table Agreed to without objection.
+- 2015-12-02 — Mr. Kline brought up conference report H. Rept. 114-354 for consideration under the provisions of H. Res. 542. (consideration: CR H8884-8894)
+- 2015-12-02 — On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 64 (Roll No. 665).
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany S. 1177, the Chair put the question on adoption of the conference report and by voice vote, announced that the ayes had prevailed. Mr. Kline demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the conference report until a time to be announced.
+- 2015-12-02 — Rule H. Res. 542 passed House.
+- 2015-12-02 — The previous question was ordered pursuant to the rule. (consideration: CR H8894)
+- 2015-12-03 — Cloture motion on the conference report to accompany S. 1177 presented in Senate. (consideration: CR S8425-8426; text: CR S8425-8426)
+- 2015-12-03 — Conference papers: message on House action held at the desk in Senate.
+- 2015-12-03 — Conference report considered in Senate. (consideration: CR S8425-8426)
+- 2015-12-08 — Cloture on the conference report to accompany S.1177 invoked in Senate by Yea-Nay Vote. 84 - 12. Record Vote Number: 333. (consideration: CR S8453; text: CR S8453)
+- 2015-12-08 — Conference report considered in Senate. (consideration: CR S8447-8457, S8457-8479)
+- 2015-12-09 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 85 - 12. Record Vote Number: 334.
+- 2015-12-09 — Conference report considered in Senate. (consideration: CR S8509-8513)
+- 2015-12-09 — Message on Senate action sent to the House.
+- 2015-12-09 — Presented to President.
+- 2015-12-09 — Presented to President.
+- 2015-12-09 — Senate agreed to conference report by Yea-Nay Vote. 85 - 12. Record Vote Number: 334.
+- 2015-12-10 — Became Public Law No: 114-95.
+- 2015-12-10 — Became Public Law No: 114-95.
+- 2015-12-10 — Signed by President.
+- 2015-12-10 — Signed by President.
+- 2016-03-17 — By Senator Alexander from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 114-231. Additional views filed.
+- 2016-03-17 — By Senator Alexander from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 114-231. Additional views filed.
