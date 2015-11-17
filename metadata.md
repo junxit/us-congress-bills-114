@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1384
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1384
@@ -151,9 +151,10 @@ Honor America's Guard-Reserve Retirees Act
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -181,3 +182,4 @@ Honor America's Guard-Reserve Retirees Act
 - 2015-11-16 — Mr. Costello (PA) moved to suspend the rules and pass the bill.
 - 2015-11-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 628). (text: CR H8175-8176)
 - 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 628).(text: CR H8175-8176)
+- 2015-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
