@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 310
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 310
@@ -16,12 +16,13 @@ A resolution condemning the ongoing sexual violence against women and children f
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Perdue, David [R-GA] (P000612)
 
 ## Committees (1)
 
@@ -31,3 +32,6 @@ A resolution condemning the ongoing sexual violence against women and children f
 
 - 2015-11-09 — Introduced in Senate
 - 2015-11-09 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7862)
+- 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2015-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.
