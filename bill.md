@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2297
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2297
 
-That the bill from the House of Representatives (H.R. 2297) entitled “An Act to prevent Hezbollah and associated entities from gaining access to international financial and other institutions, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To prevent Hizballah and associated entities from gaining access to international financial and other institutions, and for other purposes.
 
 ## § 1. Short title; table of contents
 

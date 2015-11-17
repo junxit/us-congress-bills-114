@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2297
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2297
@@ -16,7 +16,7 @@ Hizballah International Financing Prevention Act of 2015
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (23)
+## Cosponsors (27)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
@@ -28,6 +28,10 @@ Hizballah International Financing Prevention Act of 2015
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 - Rep. Jolly, David W. [R-FL-13] (J000296)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -48,9 +52,10 @@ Hizballah International Financing Prevention Act of 2015
 - House — Foreign Affairs Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-05-14 — [House 114-1-227](votes/house-114-1-0227.md) — On Motion to Suspend the Rules and Pass — **Passed** (423–0)
+- 2015-12-16 — [House 114-1-698](votes/house-114-1-0698.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (425–0)
 
 ## Actions
 
@@ -83,3 +88,17 @@ Hizballah International Financing Prevention Act of 2015
 - 2015-11-17 — Senate amendment proposed (on the floor): Amendment SA 2811 proposed by Senator Daines for Senator Rubio.(consideration: CR S8027; text: CR S8027)
 - 2015-11-17 — Senate amendment submitted
 - 2015-11-17 — Senate amendment submitted
+- 2015-11-18 — Message on Senate action sent to the House.
+- 2015-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2015-12-16 — Considered as unfinished business. (consideration: CR H9356)
+- 2015-12-16 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2297.
+- 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-16 — Mr. Royce moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H9341-9346)
+- 2015-12-16 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 698). (text as House agreed to Senate amendment: CR H9341-9343)
+- 2015-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 698).(text as House agreed to Senate amendment: CR H9341-9343)
+- 2015-12-18 — Became Public Law No: 114-102.
+- 2015-12-18 — Became Public Law No: 114-102.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
