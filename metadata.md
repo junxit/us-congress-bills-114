@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 511
@@ -77,6 +77,10 @@ Tribal Labor Sovereignty Act of 2015
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2015-11-17 — [House 114-1-633](votes/house-114-1-0633.md) — On Passage — **Passed** (249–177)
+
 ## Actions
 
 - 2015-01-22 — Introduced in House
@@ -89,3 +93,15 @@ Tribal Labor Sovereignty Act of 2015
 - 2015-09-10 — Placed on the Union Calendar, Calendar No. 197.
 - 2015-09-10 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-260.
 - 2015-09-10 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-260.
+- 2015-11-16 — Rules Committee Resolution H. Res. 526 Reported to House. Rule provides for consideration of H.R. 1737 and H.R. 511. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. For the purposes of requesting a conference with the Senate, the resolution provides that the House has taken S. 1177 from the Speaker's table, adopts an amendment in the nature of a substitute consisting of the text of H.R. 5, as passed by the House and adopts S. 1177, as amendend. The resolution makes in order only those amendments to H.R. 1737 printed inthe report. H.R. 511 shall be considered under a closed rule.
+- 2015-11-17 — Considered as unfinished business. (consideration: CR H8272)
+- 2015-11-17 — Considered under the provisions of rule H. Res. 526. (consideration: CR H8260-8271)
+- 2015-11-17 — DEBATE - The House proceeded with one hour of debate on H.R. 511.
+- 2015-11-17 — House amendment offered
+- 2015-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-17 — On passage Passed by the Yeas and Nays: 249 - 177 (Roll no. 633). (text: CR H8260-8261)
+- 2015-11-17 — POSTPONED PROCEEDINGS - Pursuant to clause 8 of rule 20, the Speaker postponed further proceedings on H.R. 511.
+- 2015-11-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 249 - 177 (Roll no. 633).(text: CR H8260-8261)
+- 2015-11-17 — Rule H. Res. 526 passed House.
+- 2015-11-17 — Rule provides for consideration of H.R. 1737 and H.R. 511. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. For the purposes of requesting a conference with the Senate, the resolution provides that the House has taken S. 1177 from the Speaker's table, adopts an amendment in the nature of a substitute consisting of the text of H.R. 5, as passed by the House and adopts S. 1177, as amended. The resolution makes in order only those amendments to H.R. 1737 printed in the report. H.R. 511 shall be considered under a closed rule.
+- 2015-11-17 — The previous question was ordered pursuant to the rule. (consideration: CR H8271)
