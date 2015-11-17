@@ -1,7 +1,7 @@
 ---
 measure: S. 1177
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1177
@@ -952,3 +952,11 @@ Every Student Succeeds Act
 - 2015-07-16 — Senate amendment not agreed to: Amendment SA 2177, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 243.
 - 2015-07-16 — Senate amendment not agreed to: Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 242.
 - 2015-07-16 — Senate amendment not agreed to: Amendment SA 2242, under the order of 7/15/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 247.
+- 2015-07-21 — Held at the desk.
+- 2015-07-21 — Message on Senate action sent to the House.
+- 2015-07-21 — Received in the House.
+- 2015-11-17 — Mr. Kline moved that the House insist upon its amendment, and request a conference. (consideration: CR H8271-8272)
+- 2015-11-17 — On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote.
+- 2015-11-17 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 526, S. 1177 is considered passed House as amended.
+- 2015-11-17 — Pursuant to the provisions of H. Res. 526, S. 1177 is considered passed House as amended.
+- 2015-11-17 — The Speaker appointed conferees: Kline, Foxx, Roe of Tennessee, Thompson of Pennsylvania, Guthrie, Rokita, Messer, Grothman, Russell, Curbelo of Florida, Scott of Virginia, Davis of California, Fudge, Polis, Wilson of Florida, Bonamici, and Clark of Massachusetts. (consideration: CR H8272)
