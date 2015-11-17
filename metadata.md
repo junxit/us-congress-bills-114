@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1338
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1338
@@ -117,9 +117,10 @@ Dignified Interment of Our Veterans Act of 2015
 - Rep. Roby, Martha [R-AL-2] (R000591)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -147,3 +148,4 @@ Dignified Interment of Our Veterans Act of 2015
 - 2015-11-16 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2015-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 627). (text: CR H8174)
 - 2015-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 627).(text: CR H8174)
+- 2015-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
