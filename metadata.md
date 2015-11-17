@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1317
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1317
@@ -22,10 +22,11 @@ To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to s
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to s
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 259.
 - 2015-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-311, Part II.
 - 2015-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-311, Part II.
+- 2015-11-17 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
