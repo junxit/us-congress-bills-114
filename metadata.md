@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 24
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 24
@@ -71,9 +71,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-11-17 — [Senate 114-1-306](votes/senate-114-1-0306.md) — On the Joint Resolution — **Joint Resolution Passed** (52–46)
+- 2015-12-01 — [House 114-1-650](votes/house-114-1-0650.md) — On Passage — **Passed** (242–180)
 
 ## Actions
 
@@ -87,3 +88,20 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2015-11-17 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7979)
 - 2015-11-17 — Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 306. (text: CR S8012)
 - 2015-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 306.(text: CR S8012)
+- 2015-11-18 — Held at the desk.
+- 2015-11-18 — Message on Senate action sent to the House.
+- 2015-11-18 — Received in the House.
+- 2015-11-30 — Rules Committee Resolution H. Res. 539 Reported to House. Resolution provides for one hour of general debate only on H.R. 8; resolution provides for one hour of general debate on S.J. Res. 23 and S.J. Res. 24 as well as one motion to commit on each joint resolution.
+- 2015-12-01 — Considered under the provisions of rule H. Res. 539. (consideration: CR H8829-8837)
+- 2015-12-01 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 24.
+- 2015-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-01 — On passage Passed by the Yeas and Nays: 242 - 180 (Roll no. 650). (text: CR H8829)
+- 2015-12-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 242 - 180 (Roll no. 650).(text: CR H8829)
+- 2015-12-01 — Resolution provides for one hour of general debate only on H.R. 8; resolution provides for one hour of general debate on S.J. Res. 23 and S.J. Res. 24 as well as one motion to commit on each joint resolution.
+- 2015-12-01 — Rule H. Res. 539 passed House.
+- 2015-12-01 — The previous question was ordered pursuant to the rule. (consideration: CR H8837)
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Vetoed by President.
+- 2015-12-18 — Vetoed by President.
+- 2016-01-11 — Veto message received in Senate. Ordered held at the desk. (text of veto message: CR 01/11/2016 S28-29)
