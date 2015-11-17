@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3996
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3996
@@ -46,3 +46,4 @@ Surface Transportation Extension Act of 2015, Part II
 - 2015-11-16 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Ways and Means, Natural Resources, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-11-16 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Ways and Means, Natural Resources, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-11-16 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Ways and Means, Natural Resources, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-11-17 — Received in the Senate, read twice.
