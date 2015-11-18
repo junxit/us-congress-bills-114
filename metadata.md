@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1694
@@ -25,10 +25,11 @@ Fairness to Veterans for Infrastructure Investment Act of 2015
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Small Business Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Fairness to Veterans for Infrastructure Investment Act of 2015
 - 2015-11-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-11-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 285 - 138 (Roll no. 631). (text: CR 11/16/2015 H8164)
 - 2015-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 285 - 138 (Roll no. 631).(text: CR 11/16/2015 H8164)
+- 2015-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
