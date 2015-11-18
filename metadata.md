@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 511
@@ -105,3 +105,4 @@ Tribal Labor Sovereignty Act of 2015
 - 2015-11-17 — Rule H. Res. 526 passed House.
 - 2015-11-17 — Rule provides for consideration of H.R. 1737 and H.R. 511. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. For the purposes of requesting a conference with the Senate, the resolution provides that the House has taken S. 1177 from the Speaker's table, adopts an amendment in the nature of a substitute consisting of the text of H.R. 5, as passed by the House and adopts S. 1177, as amended. The resolution makes in order only those amendments to H.R. 1737 printed in the report. H.R. 511 shall be considered under a closed rule.
 - 2015-11-17 — The previous question was ordered pursuant to the rule. (consideration: CR H8271)
+- 2015-11-18 — Received in the Senate.
