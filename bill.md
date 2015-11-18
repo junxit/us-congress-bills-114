@@ -26,4 +26,8 @@ Section 1022(b) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512
 >   - **(B)** make available to the public, including on the website of the Bureau, all studies, data, methodologies, analyses, and other information relied on by the Bureau in preparing such guidance;
 >   - **(C)** redact any information that is exempt from disclosure under paragraph (3), (4), (6), (7), or (8) of section 552(b) of title 5, United States Code;
 >   - **(D)** consult with the Board of Governors of the Federal Reserve System, the Federal Trade Commission, and the Department of Justice; and
->   - **(E)** conduct a study on the costs and impacts of such guidance to consumers and women-owned, minority-owned, and small businesses.
+>   - **(E)** conduct a study on the costs and impacts of such guidance to consumers and women-owned, minority-owned, veteran-owned, and small businesses, including consumers and small businesses in rural areas.
+
+## § 4. Rule of construction
+
+Nothing in this Act shall be construed to apply to guidance issued by the Bureau of Consumer Financial Protection that is not primarily related to indirect auto financing.

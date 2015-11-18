@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1737
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1737
@@ -189,6 +189,10 @@ Reforming CFPB Indirect Auto Financing Guidance Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2015-11-18 — [House 114-1-637](votes/house-114-1-0637.md) — On Passage — **Passed** (332–96)
+
 ## Actions
 
 - 2015-04-13 — Introduced in House
@@ -200,3 +204,38 @@ Reforming CFPB Indirect Auto Financing Guidance Act
 - 2015-11-09 — Placed on the Union Calendar, Calendar No. 250.
 - 2015-11-09 — Reported by the Committee on Financial Services. H. Rept. 114-329.
 - 2015-11-09 — Reported by the Committee on Financial Services. H. Rept. 114-329.
+- 2015-11-16 — Rules Committee Resolution H. Res. 526 Reported to House. Rule provides for consideration of H.R. 1737 and H.R. 511. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. For the purposes of requesting a conference with the Senate, the resolution provides that the House has taken S. 1177 from the Speaker's table, adopts an amendment in the nature of a substitute consisting of the text of H.R. 5, as passed by the House and adopts S. 1177, as amendend. The resolution makes in order only those amendments to H.R. 1737 printed inthe report. H.R. 511 shall be considered under a closed rule.
+- 2015-11-18 — Amendment (A001) offered by Mr. Gosar. (consideration: CR H8309-8310; text: CR H8309)
+- 2015-11-18 — Amendment (A002) offered by Mr. Smith (MO). (consideration: CR H8310; text: CR H8310)
+- 2015-11-18 — Amendment (A003) offered by Ms. Sewell (AL). (consideration: CR H8310-8311; text: CR H8311)
+- 2015-11-18 — Amendment agreed to Committee of the Whole
+- 2015-11-18 — Amendment agreed to Committee of the Whole
+- 2015-11-18 — Amendment agreed to Committee of the Whole
+- 2015-11-18 — Considered as unfinished business. (consideration: CR H8322)
+- 2015-11-18 — Considered under the provisions of rule H. Res. 526. (consideration: CR H8297-8311; text of measure as reported in House: CR H8309)
+- 2015-11-18 — DEBATE - Pursuant to the provisions of H. Res. 526, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 1.
+- 2015-11-18 — DEBATE - Pursuant to the provisions of H. Res. 526, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell amendment No. 3.
+- 2015-11-18 — DEBATE - Pursuant to the provisions of H. Res. 526, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 2.
+- 2015-11-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1737.
+- 2015-11-18 — House amendment agreed to: On agreeing to the Gosar amendment (A001) Agreed to by voice vote.
+- 2015-11-18 — House amendment agreed to: On agreeing to the Sewell (AL) amendment (A003) Agreed to by voice vote.
+- 2015-11-18 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A002) Agreed to by voice vote.
+- 2015-11-18 — House amendment offered
+- 2015-11-18 — House amendment offered
+- 2015-11-18 — House amendment offered
+- 2015-11-18 — House amendment offered/reported by : Amendment (A001) offered by Mr. Gosar.(consideration: CR H8309-8310; text: CR H8309)
+- 2015-11-18 — House amendment offered/reported by : Amendment (A002) offered by Mr. Smith (MO).(consideration: CR H8310; text: CR H8310)
+- 2015-11-18 — House amendment offered/reported by : Amendment (A003) offered by Ms. Sewell (AL).(consideration: CR H8310-8311; text: CR H8311)
+- 2015-11-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 526 and Rule XVIII.
+- 2015-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-18 — On agreeing to the Gosar amendment (A001) Agreed to by voice vote.
+- 2015-11-18 — On agreeing to the Sewell (AL) amendment (A003) Agreed to by voice vote.
+- 2015-11-18 — On agreeing to the Smith (MO) amendment (A002) Agreed to by voice vote.
+- 2015-11-18 — On passage Passed by the Yeas and Nays: 332 - 96 (Roll no. 637).
+- 2015-11-18 — POSTPONED ROLL CALL VOTE - The Chair put the question on passage of H.R. 1737 and by voice vote, announced that the ayes had prevailed. Mr. Guinta demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2015-11-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 332 - 96 (Roll no. 637).
+- 2015-11-18 — Rule provides for consideration of H.R. 1737 and H.R. 511. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. For the purposes of requesting a conference with the Senate, the resolution provides that the House has taken S. 1177 from the Speaker's table, adopts an amendment in the nature of a substitute consisting of the text of H.R. 5, as passed by the House and adopts S. 1177, as amended. The resolution makes in order only those amendments to H.R. 1737 printed in the report. H.R. 511 shall be considered under a closed rule.
+- 2015-11-18 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2015-11-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1737.
+- 2015-11-18 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
+- 2015-11-18 — The previous question was ordered pursuant to the rule. (consideration: CR H8311)
