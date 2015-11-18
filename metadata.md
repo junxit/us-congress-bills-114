@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 529
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 529
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 1210) to amend the Truth in Lendin
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2015-11-18 — [House 114-1-634](votes/house-114-1-0634.md) — On Agreeing to the Resolution — **Passed** (243–184)
+
 ## Actions
 
 - 2015-11-17 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 1210) to amend the Truth in Lendin
 - 2015-11-17 — Rule provides that H.R. 1210 shall be amended by the text of Rules Committee Print 114-34 and that the amendment printed in part A of the report from the Committee on Rules shall be separately debatable for 10 minutes. H.R. 3189 shall be amended by the text of Rules Committee Print 114-35 and modified by the amendment printed in Part B of the report. No further amendments other than those printed in Part C of the report shall be in order for H.R. 3189.
 - 2015-11-17 — The House Committee on Rules reported an original measure, H. Rept. 114-341, by Mr. Stivers.
 - 2015-11-17 — The House Committee on Rules reported an original measure, H. Rept. 114-341, by Mr. Stivers.
+- 2015-11-18 — Considered as privileged matter. (consideration: CR H8292-8297)
+- 2015-11-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 529.
+- 2015-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 184 (Roll no. 634). (text: CR H8292-8293)
+- 2015-11-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 184 (Roll no. 634).(text: CR H8292-8293)
+- 2015-11-18 — The previous question was ordered without objection. (consideration: CR H8296)
