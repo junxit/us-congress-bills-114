@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1210
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1210
@@ -78,6 +78,11 @@ Portfolio Lending and Mortgage Access Act
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (2)
+
+- 2015-11-18 — [House 114-1-635](votes/house-114-1-0635.md) — On Motion to Recommit with Instructions — **Failed** (184–242)
+- 2015-11-18 — [House 114-1-636](votes/house-114-1-0636.md) — On Passage — **Passed** (255–174)
+
 ## Actions
 
 - 2015-03-03 — Introduced in House
@@ -91,3 +96,15 @@ Portfolio Lending and Mortgage Access Act
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 251.
 - 2015-11-16 — Reported by the Committee on Financial Services. H. Rept. 114-330.
 - 2015-11-16 — Reported by the Committee on Financial Services. H. Rept. 114-330.
+- 2015-11-17 — Rules Committee Resolution H. Res. 529 Reported to House. Rule provides for consideration of H.R. 1210 and H.R. 3189. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Rule provides that H.R. 1210 shall be amended by the text of Rules Committee Print 114-34 and that the amendment printed in part A of the report from the Committee on Rules shall be separately debatable for 10 minutes. H.R. 3189 shall be amended by the text of Rules Committee Print 114-35 and modified by the amendment printed in Part B of the report. No further amendments other than those printed in Part C of the report shall be in order for H.R. 3189.
+- 2015-11-18 — Considered under the provisions of rule H. Res. 529. (consideration: CR H8311-8322)
+- 2015-11-18 — DEBATE - Pursuant to the provisions of H. Res. 529, the House proceeded with one hour of general debate on H.R. 1210.
+- 2015-11-18 — DEBATE - The House proceeded with 10 minutes of debate on the Thompson (CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment pending a reservation of a point of order. Subsequently, the reservation was removed. The amendment retains features of the Qualified Mortgage rule with respect to consumers who are veterans and members of the Armed Forces.
+- 2015-11-18 — House amendment offered
+- 2015-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-18 — Mr. Thompson (CA) moved to recommit with instructions to the Committee on Financial Services. (consideration: CR H8319-8321; text: CR H8319)
+- 2015-11-18 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 242 (Roll no. 635).
+- 2015-11-18 — On passage Passed by the Yeas and Nays: 255 - 174 (Roll no. 636). (text: CR H8312)
+- 2015-11-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 255 - 174 (Roll no. 636).(text: CR H8312)
+- 2015-11-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8320)
+- 2015-11-18 — The previous question was ordered pursuant to the rule. (consideration: CR H8319)

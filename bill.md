@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1210
 
-> To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution’s portfolio, and for other purposes.
+> To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.
 
 ## § 1. Short title
 
