@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3114
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3114
@@ -25,9 +25,10 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - 2015-11-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 632). (text: CR 11/16/2015 H8169)
 - 2015-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 632).(text: CR 11/16/2015 H8169)
+- 2015-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
