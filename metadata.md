@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 611
@@ -38,9 +38,10 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Donnelly, Joe [D-IN] (D000607)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -55,3 +56,13 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - 2015-06-10 — Message on Senate action sent to the House.
 - 2015-06-10 — Received in the House.
 - 2015-06-10 — Referred to the House Committee on Energy and Commerce.
+- 2015-06-12 — Referred to the Subcommittee on Environment and the Economy.
+- 2015-10-22 — Subcommittee Hearings Held.
+- 2015-10-28 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2015-10-28 — Subcommittee Consideration and Mark-up Session Held.
+- 2015-11-17 — Committee Consideration and Mark-up Session Held.
+- 2015-11-18 — Committee Consideration and Mark-up Session Held.
+- 2015-11-18 — Ordered to be Reported by Voice Vote.
+- 2015-11-19 — Placed on the Union Calendar, Calendar No. 264.
+- 2015-11-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-346.
+- 2015-11-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-346.
