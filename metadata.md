@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 95
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 95
@@ -26,3 +26,4 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2015-11-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8402)
 - 2015-11-19 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S8175; text as passed Senate: CR S8175)
 - 2015-11-19 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S8175; text as passed Senate: CR S8175)
+- 2015-11-20 — Message on Senate action sent to the House.
