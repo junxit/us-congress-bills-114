@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 4108
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4108
+
+> To prohibit the use of funds for the provision of assistance to Syrian opposition groups and individuals.
+
+## § 1. Prohibition on provision of assistance to Syrian opposition groups and individuals
+
+Notwithstanding any other provision of law, funds available to the Central Intelligence Agency, the Department of Defense, or any other agency or entity of the United States involved in intelligence activities, or to the National Security Council or its staff may not be obligated or expended to provide assistance, including training, equipment, supplies, stipends, construction of training and associated facilities, and sustainment, to any element of the Syrian opposition or to any other Syrian group or individual seeking to overthrow the government of the Syrian Arab Republic, unless, after the date of the enactment of this Act, funds are specifically authorized to be appropriated and appropriated by law for such purpose.
