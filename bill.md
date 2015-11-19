@@ -1,0 +1,30 @@
+---
+legis-num: H. CON. RES. 99
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 99
+
+> Commemorating the 100th anniversary of the United States Army Reserve Officers’ Training Corps.
+
+## Preamble
+
+- Whereas, June 3, 2016, marks the 100th anniversary of the United States Army Reserve Officers’ Training Corps (ROTC);
+- Whereas Congress established the United States Army Reserve Officers’ Training Corps program in the National Defense Act of 1916;
+- Whereas Army ROTC has commissioned more than 500,000 second lieutenants;
+- Whereas Army ROTC serves as a critical component for the training of men and women to take command, protecting our national security and way of life;
+- Whereas Army ROTC provides the next generation of innovative and adaptive leaders while providing them with essential collegiate educational opportunities;
+- Whereas Army ROTC commissioned 5,536 officers in 2014;
+- Whereas Army ROTC has produced 21 4-star generals since 2000;
+- Whereas Army ROTC is available at over 1,100 colleges and universities in all 50 States and territories;
+- Whereas the Army has included programs like Green to Gold and Simultaneous Membership program to allow enlisted servicemembers to gain a college education and become an officer;
+- Whereas women have been an integral part of Army ROTC since the academic year of 1972–1973; and
+- Whereas Army ROTC serves as a way for individuals to gain college education and serve the United States: Now, therefore, be it
+
+That it is the sense of Congress that—
+
+- **(1)** the Army Reserve Officers’ Training Corps continues to train the next generation of military leaders who are well equipped to defeat the enemies of today and those that may emerge;
+- **(2)** Congress is encouraged by the quality of leaders that Army ROTC has and will continue to produce; and
+- **(3)** Army ROTC produces more Army officers than any other source.
