@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3762
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3762
@@ -40,3 +40,5 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 - 2015-10-23 — Passed/agreed to in House: On passage Passed by recorded vote: 240 - 189 (Roll no. 568).(text: CR H7143-7144)
 - 2015-10-23 — Rule provides for consideration of H.R. 3762 with 2 hours of general debate. The resolution provides that the amendment printed in the report shall be considered as adopted for H.R. 3762. The resolution waives clause 6(a) of rule XIII and provides that it shall be in order at any time on the legislative day of Oct. 22, 2015 or Oct. 23, 2015 for the Speaker to entertain motions to suspend the rules.
 - 2015-10-23 — The previous question was ordered pursuant to the rule. (consideration: CR H7163)
+- 2015-11-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-11-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
