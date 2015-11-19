@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1210
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1210
@@ -108,3 +108,4 @@ Portfolio Lending and Mortgage Access Act
 - 2015-11-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 255 - 174 (Roll no. 636).(text: CR H8312)
 - 2015-11-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8320)
 - 2015-11-18 — The previous question was ordered pursuant to the rule. (consideration: CR H8319)
+- 2015-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
