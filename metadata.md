@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 611
@@ -66,3 +66,15 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - 2015-11-19 — Placed on the Union Calendar, Calendar No. 264.
 - 2015-11-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-346.
 - 2015-11-19 — Reported by the Committee on Energy and Commerce. H. Rept. 114-346.
+- 2015-11-30 — Considered under suspension of the rules. (consideration: CR H8418-8420)
+- 2015-11-30 — DEBATE - The House proceeded with forty minutes of debate on S. 611.
+- 2015-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-30 — Mr. Shimkus moved to suspend the rules and pass the bill.
+- 2015-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8418)
+- 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8418)
+- 2015-12-02 — Presented to President.
+- 2015-12-02 — Presented to President.
+- 2015-12-11 — Became Public Law No: 114-98.
+- 2015-12-11 — Became Public Law No: 114-98.
+- 2015-12-11 — Signed by President.
+- 2015-12-11 — Signed by President.
