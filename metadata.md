@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1737
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1737
@@ -185,9 +185,10 @@ Reforming CFPB Indirect Auto Financing Guidance Act
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Farr, Sam [D-CA-20] (F000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -239,3 +240,4 @@ Reforming CFPB Indirect Auto Financing Guidance Act
 - 2015-11-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1737.
 - 2015-11-18 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2015-11-18 — The previous question was ordered pursuant to the rule. (consideration: CR H8311)
+- 2015-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
