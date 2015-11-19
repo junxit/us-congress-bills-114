@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3189
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 9 executed, 37 stated and not applied.
+50 amendatory instructions. 10 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -105,6 +105,15 @@ to guess them.
 | Removed | `and consumers` |
 | Inserted | `consumers, and traditionally underserved communities and populations` |
 
+### 12 U.S.C. § 289
+
+> in paragraph (2), by striking “deposited in the surplus fund of the bank” and inserting “transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury”; and
+
+| | |
+|---|---|
+| Removed | `deposited in the surplus fund of the bank` |
+| Inserted | `transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -151,3 +160,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 248` | strike | Subsection (b) of section 714 of title 31, United States Code, is amended by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 248` | strike | in subsection (d)(3), by striking “or (f)” each place such term appears; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 248` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 289` | strike | in the heading of such subsection, by striking “and surplus funds”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 289` | strike | by striking the first subsection (b) (relating to a transfer for fiscal year 2000). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 263` | add-at-end | Section 12A of the Federal Reserve Act (12 U.S.C. 263), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

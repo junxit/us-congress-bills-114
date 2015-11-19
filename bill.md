@@ -54,8 +54,9 @@ The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after se
 >     - **(A)** an explanation of the extent to which it departs from the Reference Policy Rule;
 >     - **(B)** a detailed justification for that departure; and
 >     - **(C)** a description of the circumstances under which the Directive Policy Rule may be amended in the future;
->   - **(7)** include a certification that such Rule is expected to support the economy in achieving stable prices and maximum natural employment over the long term; and
->   - **(8)** include a calculation that describes with mathematical precision the expected annual inflation rate over a 5-year period.
+>   - **(7)** include a certification that such Rule is expected to support the economy in achieving stable prices and maximum natural employment over the long term;
+>   - **(8)** include a calculation that describes with mathematical precision the expected annual inflation rate over a 5-year period; and
+>   - **(9)** include a plan to use the most accurate data, subject to all historical revisions, for inputs into the Directive Policy Rule and the Reference Policy Rule.
 > - **(d)** *GAO report* The Comptroller General of the United States shall compare the Directive Policy Rule submitted under subsection (b) with the rule that was most recently submitted to determine whether the Directive Policy Rule has materially changed. If the Directive Policy Rule has materially changed, the Comptroller General shall, not later than 7 days after each meeting of the Federal Open Market Committee, prepare and submit a compliance report to the appropriate congressional committees specifying whether the Directive Policy Rule submitted after that meeting and the Federal Open Market Committee are in compliance with this section.
 > - **(e)** *Changing market conditions*
 >   - **(1)** *Rule of construction* Nothing in this Act shall be construed to require that the plans with respect to the systematic quantitative adjustment of the Policy Instrument Target described under subsection (c)(2) be implemented if the Federal Open Market Committee determines that such plans cannot or should not be achieved due to changing market conditions.
@@ -236,7 +237,7 @@ Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247(b)) is am
   >     - **(C)** consult with the committees described under subparagraph (A) with respect to the nature of the agreement and any anticipated effects such agreement will have on the economy.
   >   - **(4)** *Definition* For purposes of this subsection, the term process shall include any official proceeding or meeting on financial regulation of a recognized international organization with authority to set financial standards on a global or regional level, including the Financial Stability Board, the Basel Committee on Banking Supervision (or a similar organization), and the International Association of Insurance Supervisors (or a similar organization).
 
-- **(d)** *OCC requirements* Chapter 1 of title LXII of the Revised Statutes of the United States (12 U.S.C. 21 et seq.) is amended—
+- **(d)** *OCC requirements* Chapter one of title LXII of the Revised Statutes of the United States (12 U.S.C. 21 et seq.) is amended—
   - **(1)** by adding at the end the following new section:
     > ## § 5156B. International processes
     >
@@ -306,9 +307,9 @@ Subparagraph (A) of section 19(b)(12) of the Federal Reserve Act (12 U.S.C. 461(
 
 ## § 13. Audit reform and transparency for the Board of Governors of the Federal Reserve System
 
-- **(a)** *In general* Notwithstanding section 714 of title 31, United States Code, or any other provision of law, the Comptroller General of the United States shall complete an audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks under subsection (b) of such section 714 within 12 months after the date of the enactment of this Act.
+- **(a)** *In general* Notwithstanding section 714 of title 31, United States Code, or any other provision of law, the Comptroller General of the United States shall annually complete an audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks under subsection (b) of such section 714 within 12 months after the date of the enactment of this Act.
 - **(b)** *Report*
-  - **(1)** *In general* Not later than 90 days after the audit required pursuant to subsection (a) is completed, the Comptroller General—
+  - **(1)** *In general* Not later than 90 days after each audit required pursuant to subsection (a) is completed, the Comptroller General—
     - **(A)** shall submit to Congress a report on such audit; and
     - **(B)** shall make such report available to the Speaker of the House, the majority and minority leaders of the House of Representatives, the majority and minority leaders of the Senate, the Chairman and Ranking Member of the committee and each subcommittee of jurisdiction in the House of Representatives and the Senate, and any other Member of Congress who requests the report.
   - **(2)** *Contents* The report under paragraph (1) shall include a detailed description of the findings and conclusion of the Comptroller General with respect to the audit that is the subject of the report, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
@@ -336,3 +337,101 @@ Section 4 of the Federal Reserve Act (12 U.S.C. 302) is amended—
 
 - **(1)** in the eleventh undesignated paragraph (relating to Class B), by striking “and consumers” and inserting “consumers, and traditionally underserved communities and populations”; and
 - **(2)** in the twelfth undesignated paragraph (relating to Class C), by striking “and consumers” and inserting “consumers, and traditionally underserved communities and populations”.
+
+## § 16. Establishment of a Centennial Monetary Commission
+
+- **(a)** *Short title* This section may be cited as the “Centennial Monetary Commission Act of 2015”.
+- **(b)** *Findings* Congress finds the following:
+  - **(1)** The Constitution endows Congress with the power “to coin money, regulate the value thereof”.
+  - **(2)** Following the financial crisis known as the Panic of 1907, Congress established the National Monetary Commission to provide recommendations for the reform of the financial and monetary systems of the United States.
+  - **(3)** Incorporating several of the recommendations of the National Monetary Commission, Congress created the Federal Reserve System in 1913. As currently organized, the Federal Reserve System consists of the Board of Governors in Washington, District of Columbia, and the Federal Reserve Banks organized into 12 districts around the United States. The stockholders of the 12 Federal Reserve Banks include national and certain State-chartered commercial banks, which operate on a fractional reserve basis.
+  - **(4)** Originally, Congress gave the Federal Reserve System a monetary mandate to provide an elastic currency, within the context of a gold standard, in response to seasonal fluctuations in the demand for currency.
+  - **(5)** Congress also gave the Federal Reserve System a financial stability mandate to serve as the lender of last resort to solvent but illiquid banks during a financial crisis.
+  - **(6)** In 1977, Congress changed the monetary mandate of the Federal Reserve System to a dual mandate for maximum employment and stable prices.
+  - **(7)** Empirical studies and historical evidence, both within the United States and in other countries, demonstrate that price stability is desirable because both inflation and deflation damage the economy.
+  - **(8)** The economic challenge of recent years—most notably the bursting of the housing bubble, the financial crisis of 2008, and the ensuing anemic recovery—have occurred at great cost in terms of lost jobs and output.
+  - **(9)** Policymakers are reexamining the structure and functioning of financial institutions and markets to determine what, if any, changes need to be made to place the financial system on a stronger, more sustainable path going forward.
+  - **(10)** The Federal Reserve System has taken extraordinary actions in response to the recent economic challenges.
+  - **(11)** The Federal Open Market Committee has engaged in multiple rounds of quantitative easing, providing unprecedented liquidity to financial markets, while committing to holding short-term interest rates low for a seemingly indefinite period, and pursuing a policy of credit allocation by purchasing Federal agency debt and mortgage-backed securities.
+  - **(12)** In the wake of the recent extraordinary actions of the Federal Reserve System, Congress—consistent with its constitutional responsibilities and as it has done periodically throughout the history of the United States—has once again renewed its examination of monetary policy.
+  - **(13)** Central in such examination has been a renewed look at what is the most proper mandate for the Federal Reserve System to conduct monetary policy in the 21st century.
+- **(c)** *Establishment of a Centennial Monetary Commission* There is established a commission to be known as the “Centennial Monetary Commission” (in this section referred to as the “Commission”).
+- **(d)** *Study and report on monetary policy*
+  - **(1)** *Study* The Commission shall—
+    - **(A)** examine how United States monetary policy since the creation of the Board of Governors of the Federal Reserve System in 1913 has affected the performance of the United States economy in terms of output, employment, prices, and financial stability over time;
+    - **(B)** evaluate various operational regimes under which the Board of Governors of the Federal Reserve System and the Federal Open Market Committee may conduct monetary policy in terms achieving the maximum sustainable level of output and employment and price stability over the long term, including—
+      - **(i)** discretion in determining monetary policy without an operational regime;
+      - **(ii)** price level targeting;
+      - **(iii)** inflation rate targeting;
+      - **(iv)** nominal gross domestic product targeting (both level and growth rate);
+      - **(v)** the use of monetary policy rules; and
+      - **(vi)** the gold standard;
+    - **(C)** evaluate the use of macro-prudential supervision and regulation as a tool of monetary policy in terms of achieving the maximum sustainable level of output and employment and price stability over the long term;
+    - **(D)** evaluate the use of the lender-of-last-resort function of the Board of Governors of the Federal Reserve System as a tool of monetary policy in terms of achieving the maximum sustainable level of output and employment and price stability over the long term;
+    - **(E)** recommend a course for United States monetary policy going forward, including—
+      - **(i)** the legislative mandate;
+      - **(ii)** the operational regime;
+      - **(iii)** the securities used in open market operations; and
+      - **(iv)** transparency issues; and
+    - **(F)** consider the effects of the GDP output and employment targets of the “dual mandate” (both from the creation of the dual mandate in 1977 until the present time and estimates of the future effect of the dual mandate ) on—
+      - **(i)** United States economic activity;
+      - **(ii)** Federal Reserve actions; and
+      - **(iii)** Federal debt.
+  - **(2)** *Report* Not later than December 1, 2016, the Commission shall submit to Congress and make publicly available a report containing a statement of the findings and conclusions of the Commission in carrying out the study under paragraph (1), together with the recommendations the Commission considers appropriate. In making such report, the Commission shall specifically report on the considerations required under paragraph (1)(F).
+- **(e)** *Membership*
+  - **(1)** *Number and appointment*
+    - **(A)** *Appointed voting members* The Commission shall contain 12 voting members as follows:
+      - **(i)** Six members appointed by the Speaker of the House of Representatives, with four members from the majority party and two members from the minority party.
+      - **(ii)** Six members appointed by the President Pro Tempore of the Senate, with four members from the majority party and two members from the minority party.
+    - **(B)** *Chairman* The Speaker of the House of Representatives and the majority leader of the Senate shall jointly designate one of the members of the Commission as Chairman.
+    - **(C)** *Non-voting members* The Commission shall contain 2 non-voting members as follows:
+      - **(i)** One member appointed by the Secretary of the Treasury.
+      - **(ii)** One member who is the president of a district Federal reserve bank appointed by the Chair of the Board of Governors of the Federal Reserve System.
+  - **(2)** *Period of Appointment* Each member shall be appointed for the life of the Commission.
+  - **(3)** *Timing of appointment* All members of the Commission shall be appointed not later than 30 days after the date of the enactment of this section.
+  - **(4)** *Vacancies* A vacancy in the Commission shall not affect its powers, and shall be filled in the manner in which the original appointment was made.
+  - **(5)** *Meetings*
+    - **(A)** *Initial meeting* The Commission shall hold its initial meeting and begin the operations of the Commission as soon as is practicable.
+    - **(B)** *Further Meetings* The Commission shall meet upon the call of the Chair or a majority of its members.
+  - **(6)** *Quorum* Seven voting members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+  - **(7)** *Member of Congress Defined* In this subsection, the term “Member of Congress” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.
+- **(f)** *Powers*
+  - **(1)** *Hearings and sessions* The Commission or, on the authority of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, receive evidence, or administer oaths as the Commission or such subcommittee or member thereof considers appropriate.
+  - **(2)** *Contract authority* To the extent or in the amounts provided in advance in appropriation Acts, the Commission may contract with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this section, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).
+  - **(3)** *Obtaining official data*
+    - **(A)** *In general* The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, any information, including suggestions, estimates, or statistics, for the purposes of this section.
+    - **(B)** *Requesting official data* The head of such department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the government shall, to the extent authorized by law, furnish such information upon request made by—
+      - **(i)** the Chair;
+      - **(ii)** the Chair of any subcommittee created by a majority of the Commission; or
+      - **(iii)** any member of the Commission designated by a majority of the commission to request such information.
+  - **(4)** *Assistance From Federal Agencies*
+    - **(A)** *General services administration* The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services for the performance of the functions of the Commission.
+    - **(B)** *Other departments and agencies* In addition to the assistance prescribed in subparagraph (A), at the request of the Commission, departments and agencies of the United States shall provide such services, funds, facilities, staff, and other support services as may be authorized by law.
+  - **(5)** *Postal service* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+- **(g)** *Commission personnel*
+  - **(1)** *Appointment and compensation of staff*
+    - **(A)** *In General* Subject to rules prescribed by the Commission, the Chair may appoint and fix the pay of the executive director and other personnel as the Chair considers appropriate.
+    - **(B)** *Applicability of civil service laws* The staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of level V of the Executive Schedule.
+  - **(2)** *Consultants* The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the rate of pay for a person occupying a position at level IV of the Executive Schedule.
+  - **(3)** *Staff of federal agencies* Upon request of the Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of such department or agency to the Commission to assist it in carrying out its duties under this section.
+- **(h)** *Termination of commission*
+  - **(1)** *In general* The Commission shall terminate on June 1, 2017.
+  - **(2)** *Administrative Activities before termination* The Commission may use the period between the submission of its report and its termination for the purpose of concluding its activities, including providing testimony to the committee of Congress concerning its report.
+- **(i)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $1,000,000, which shall remain available until the date on which the Commission terminates.
+
+## § 17. Elimination of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7 of the Federal Reserve Act (12 U.S.C. 289 et seq.) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in the heading of such subsection, by striking “and surplus funds”;
+    - **(B)** in paragraph (2), by striking “deposited in the surplus fund of the bank” and inserting “transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury”; and
+    - **(C)** by striking the first subsection (b) (relating to a transfer for fiscal year 2000).
+- **(b)** *Transfer to the Treasury* The Federal reserve banks shall transfer all of the funds of the surplus funds of such banks to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
+
+## § 18. Public transcripts of FOMC meetings
+
+Section 12A of the Federal Reserve Act (12 U.S.C. 263), as amended by this Act, is further amended by adding at the end the following:
+
+> - **(e)** *Public transcripts of meetings* The Committee shall—
+>   - **(1)** record all meetings of the Committee; and
+>   - **(2)** make the full transcript of such meetings available to the public.
