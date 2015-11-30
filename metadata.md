@@ -1,7 +1,7 @@
 ---
 measure: S. 2328
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2328
@@ -27,3 +27,6 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - 2015-11-19 — Introduced in Senate
 - 2015-11-19 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S8173-8174; text as passed Senate: CR S8173-8174)
 - 2015-11-19 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8173-8174; text as passed Senate: CR S8173-8174)
+- 2015-11-20 — Message on Senate action sent to the House.
+- 2015-11-30 — Received in the House.
+- 2015-11-30 — Referred to the House Committee on Natural Resources.
