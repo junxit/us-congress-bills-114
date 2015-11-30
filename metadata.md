@@ -1,7 +1,7 @@
 ---
 measure: S. 1550
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1550
@@ -42,3 +42,6 @@ Program Management Improvement Accountability Act
 - 2015-11-19 — Senate amendment proposed (on the floor): Amendment SA 2873 proposed by Senator McConnell for Senator Ernst.(consideration: CR S8172; text: CR S8172)
 - 2015-11-19 — Senate amendment submitted
 - 2015-11-19 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S8171-8172)
+- 2015-11-20 — Message on Senate action sent to the House.
+- 2015-11-30 — Received in the House.
+- 2015-11-30 — Referred to the House Committee on Oversight and Government Reform.
