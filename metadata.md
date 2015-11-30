@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2270
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2270
@@ -42,6 +42,10 @@ Billy Frank Jr. Tell Your Story Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2015-11-30 — [House 114-1-645](votes/house-114-1-0645.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (413–2)
+
 ## Actions
 
 - 2015-05-12 — Introduced in House
@@ -57,3 +61,12 @@ Billy Frank Jr. Tell Your Story Act
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 256.
 - 2015-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-335.
 - 2015-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-335.
+- 2015-11-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-11-30 — Considered as unfinished business. (consideration: CR H8433)
+- 2015-11-30 — Considered under suspension of the rules. (consideration: CR H8429-8431)
+- 2015-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2270.
+- 2015-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
+- 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 645). (text: CR H8430)
+- 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 645).(text: CR H8430)
+- 2015-11-30 — The title of the measure was amended. Agreed to without objection.

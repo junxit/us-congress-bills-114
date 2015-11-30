@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2270
 
-> To redesignate the Nisqually National Wildlife Refuge, located in the State of Washington, as the Billy Frank Jr. Nisqually National Wildlife Refuge, to establish the Medicine Creek Treaty National Historic Site within the wildlife refuge, and for other purposes.
+> To redesignate the Nisqually National Wildlife Refuge, located in the State of Washington, as the Billy Frank Jr. Nisqually National Wildlife Refuge, to establish the Medicine Creek Treaty National Memorial within the wildlife refuge, and for other purposes.
 
 ## § 1. Short title
 
