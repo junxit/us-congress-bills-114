@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1541
@@ -47,3 +47,9 @@ Preservation Research at Institutions Serving Minorities Act
 - 2015-09-30 — Placed on the Union Calendar, Calendar No. 207.
 - 2015-09-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-275.
 - 2015-09-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-275.
+- 2015-11-30 — Considered under suspension of the rules. (consideration: CR H8428-8429)
+- 2015-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1541.
+- 2015-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
+- 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8428)
+- 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8428)
