@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1755
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the matter preceding paragraph (1), by striking “The purposes of the corporation are—” and inserting “The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include—”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “The purposes of the corporation are” and inserting “The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include—”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (7) as paragraph (9); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (6) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 503 of such title is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 503 of such title is amended by inserting after the item relating to section 50308 the following: | the bill names no machine-readable US Code section |
