@@ -1,7 +1,7 @@
 ---
 measure: S. 2093
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2093
@@ -30,3 +30,7 @@ A bill to provide that the Secretary of Transportation shall have sole authority
 
 - 2015-09-29 — Introduced in Senate
 - 2015-09-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-170.
+- 2015-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-170.
+- 2015-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
