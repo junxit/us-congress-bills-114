@@ -1,7 +1,7 @@
 ---
 measure: S. 2128
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2128
@@ -28,3 +28,7 @@ Inspector General Mandates Reporting Act of 2015
 
 - 2015-10-05 — Introduced in Senate
 - 2015-10-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2015-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 114-171.
+- 2015-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 114-171.
+- 2015-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.

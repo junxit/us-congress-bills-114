@@ -19,7 +19,7 @@ This Act may be cited as the “Inspector General Mandates Reporting Act of 2015
 - **(b)** *Report by Inspectors General to CIGIE* Not later than 60 days after the date of enactment of this Act, each Office of Inspector General shall submit to the Council of Inspectors General on Integrity and Efficiency a report, which—
   - **(1)** shall include a list of each reporting requirement for the Office of Inspector General; and
   - **(2)** may include a list of each reporting requirement that the Office of Inspector General recommends should be modified or repealed.
-- **(c)** *Report by CIGIE to Congress* Not later than 60 days after the date on which the Council of Inspectors General on Integrity and Efficiency receives the reports required to be submitted under subsection (a), the Council shall submit to Congress a report, which—
+- **(c)** *Report by CIGIE to Congress* Not later than 60 days after the date on which the Council of Inspectors General on Integrity and Efficiency receives the reports required to be submitted under subsection (a)(b), the Council shall submit to Congress a report, which—
   - **(1)** shall include—
     - **(A)** a list of each reporting requirement that is common to more than 1 Office of Inspector General; and
     - **(B)** a list, by Office of Inspector General, of each reporting requirement that is unique to that Office of Inspector General; and
