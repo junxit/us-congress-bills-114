@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2288
@@ -20,6 +20,10 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2015-11-30 — [House 114-1-644](votes/house-114-1-0644.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–0)
+
 ## Actions
 
 - 2015-05-13 — Introduced in House
@@ -34,3 +38,11 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2015-10-06 — Placed on the Union Calendar, Calendar No. 218.
 - 2015-10-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-286.
 - 2015-10-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-286.
+- 2015-11-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-11-30 — Considered as unfinished business. (consideration: CR H8432-8433)
+- 2015-11-30 — Considered under suspension of the rules. (consideration: CR H8427-8428)
+- 2015-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2288.
+- 2015-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
+- 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644). (text: CR H8427)
+- 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644).(text: CR H8427)
