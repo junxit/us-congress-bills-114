@@ -1,7 +1,7 @@
 ---
 measure: S. 1698
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1698
@@ -28,3 +28,8 @@ Treatment of Certain Payments in Eugenics Compensation Act
 - 2015-06-25 — Introduced in Senate
 - 2015-06-25 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Sponsor introductory remarks on measure: CR S4652-4653)
 - 2015-07-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
+- 2015-11-30 — Message on Senate action sent to the House.
+- 2015-11-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8195; text as passed Senate: CR S8195)
+- 2015-11-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8195; text as passed Senate: CR S8195)
+- 2015-11-30 — Received in the House.
+- 2015-11-30 — Referred to the House Committee on Oversight and Government Reform.
