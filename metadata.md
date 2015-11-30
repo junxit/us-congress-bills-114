@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3189
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3189
@@ -120,3 +120,4 @@ FORM Act of 2015
 - 2015-11-19 — On passage Passed by recorded vote: 241 - 185 (Roll no. 641).
 - 2015-11-19 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 185 (Roll no. 641).
 - 2015-11-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8379)
+- 2015-11-30 — Received in the Senate.
