@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1755
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1755
@@ -40,3 +40,14 @@ To amend title 36, United States Code, to make certain improvements in the congr
 - 2015-11-30 — Reported by the Committee on Judiciary. H. Rept. 114-350.
 - 2015-11-30 — Reported by the Committee on Judiciary. H. Rept. 114-350.
 - 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2016-03-08 — Passed Senate without amendment by Unanimous Consent.
+- 2016-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-03-08 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1349)
+- 2016-03-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1349)
+- 2016-03-09 — Message on Senate action sent to the House.
+- 2016-03-15 — Presented to President.
+- 2016-03-15 — Presented to President.
+- 2016-03-18 — Became Public Law No: 114-135.
+- 2016-03-18 — Became Public Law No: 114-135.
+- 2016-03-18 — Signed by President.
+- 2016-03-18 — Signed by President.
