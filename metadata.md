@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2212
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2212
@@ -20,9 +20,10 @@ To take certain Federal lands located in Lassen County, California, into trust f
 
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To take certain Federal lands located in Lassen County, California, into trust f
 - 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
 - 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8429)
 - 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8429)
+- 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
