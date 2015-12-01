@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2288
@@ -16,9 +16,10 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
 - 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644). (text: CR H8427)
 - 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644).(text: CR H8427)
+- 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
