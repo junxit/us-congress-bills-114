@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3279
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3279
@@ -26,9 +26,10 @@ Open Book on Equal Access to Justice Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Trott, David A. [R-MI-11] (T000475)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Open Book on Equal Access to Justice Act
 - 2015-11-30 — Placed on the Union Calendar, Calendar No. 270.
 - 2015-11-30 — Reported by the Committee on Judiciary. H. Rept. 114-351.
 - 2015-11-30 — Reported by the Committee on Judiciary. H. Rept. 114-351.
+- 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

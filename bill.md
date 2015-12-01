@@ -2,7 +2,7 @@
 legis-num: H.R. 3279
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3279
@@ -20,11 +20,11 @@ This Act may be cited as the “Open Book on Equal Access to Justice Act”.
   - **(2)** by redesignating subsection (f) as subsection (i); and
   - **(3)** by striking subsection (e) and inserting the following:
     > - **(e)**
-    >   - **(1)** The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report to the Congress, not later than March 31 of each year, on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online.
+    >   - **(1)** The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report to the Congress, not later than March 31 of each year through the sixth calendar year beginning after the initial report under this subsection is submitted, on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online.
     >   - **(2)**
     >     - **(A)** The report required by paragraph (1) shall account for all payments of fees and other expenses awarded under this section that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is sealed or otherwise subject to nondisclosure provisions.
     >     - **(B)** The disclosure of fees and other expenses required under subparagraph (A) does not affect any other information that is subject to nondisclosure provisions in the settlement agreement.
-    > - **(f)** The Chairman of the Administrative Conference shall create and maintain online a searchable database containing the following information with respect to each award of fees and other expenses under this section:
+    > - **(f)** The Chairman of the Administrative Conference shall create and maintain, during the period beginning on the date the initial report under subsection (e) is submitted and ending 1 year after the date on which the final report under that subsection is submitted, online a searchable database containing the following information with respect to each award of fees and other expenses under this section:
     >   - **(1)** The case name and number of the adversary adjudication, if available.
     >   - **(2)** The name of the agency involved in the adversary adjudication.
     >   - **(3)** A description of the claims in the adversary adjudication.
@@ -36,7 +36,7 @@ This Act may be cited as the “Open Book on Equal Access to Justice Act”.
 
 - **(b)** *Court cases* Section 2412(d) of title 28, United States Code, is amended by adding at the end the following:
   > - **(5)**
-  >   - **(A)** The Chairman of the Administrative Conference of the United States shall submit to the Congress, not later than March 31 of each year, a report on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in each controversy, and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online.
+  >   - **(A)** The Chairman of the Administrative Conference of the United States shall submit to the Congress, not later than March 31 of each year through the sixth calendar year beginning after the initial report under this paragraph is submitted, a report on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in each controversy, and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online.
   >   - **(B)**
   >     - **(i)** The report required by subparagraph (A) shall account for all payments of fees and other expenses awarded under this subsection that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is sealed or otherwise subject to nondisclosure provisions.
   >     - **(ii)** The disclosure of fees and other expenses required under clause (i) does not affect any other information that is subject to nondisclosure provisions in the settlement agreement.
@@ -44,7 +44,7 @@ This Act may be cited as the “Open Book on Equal Access to Justice Act”.
   >     - **(i)** any amounts paid from section 1304 of title 31 for a judgment in the case;
   >     - **(ii)** the amount of the award of fees and other expenses; and
   >     - **(iii)** the statute under which the plaintiff filed suit.
-  > - **(6)** The Chairman of the Administrative Conference shall create and maintain online a searchable database containing the following information with respect to each award of fees and other expenses under this subsection:
+  > - **(6)** The Chairman of the Administrative Conference shall create and maintain, during the period beginning on the date the initial report under paragraph (5) is submitted and ending 1 year after the date on which the final report under that paragraph is submitted, online a searchable database containing the following information with respect to each award of fees and other expenses under this subsection:
   >   - **(A)** The case name and number.
   >   - **(B)** The name of the agency involved in the case.
   >   - **(C)** The name of each party to whom the award was made, as such party is identified in the order or other court document making the award.
