@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2270
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2270
@@ -71,3 +71,12 @@ Billy Frank Jr. Tell Your Story Act
 - 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 645).(text: CR H8430)
 - 2015-11-30 — The title of the measure was amended. Agreed to without objection.
 - 2015-12-01 — Received in the Senate, read twice.
+- 2015-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8640)
+- 2015-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8640)
+- 2015-12-15 — Message on Senate action sent to the House.
+- 2015-12-16 — Presented to President.
+- 2015-12-16 — Presented to President.
+- 2015-12-18 — Became Public Law No: 114-101.
+- 2015-12-18 — Became Public Law No: 114-101.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.

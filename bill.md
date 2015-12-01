@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2270
-congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2270
@@ -16,7 +16,7 @@ This Act may be cited as the “Billy Frank Jr. Tell Your Story Act”.
 ## § 2. Redesignation of the Nisqually National Wildlife Refuge
 
 - **(a)** *Redesignation* The Nisqually National Wildlife Refuge, located in the State of Washington, is redesignated as the “Billy Frank Jr. Nisqually National Wildlife Refuge”.
-- **(b)** *References* Any reference in any statute, rule, regulation, Executive Order, publication, map, paper, or other document of the United States to the Nisqually National Wildlife Refuge is deemed to refer to the Billy Frank Jr. Nisqually National Wildlife Refuge.
+- **(b)** *References* Any reference in any statute, rule, regulation, Executive order, publication, map, paper, or other document of the United States to the Nisqually National Wildlife Refuge is deemed to refer to the Billy Frank Jr. Nisqually National Wildlife Refuge.
 
 ## § 3. Medicine Creek Treaty National Memorial, Washington
 
