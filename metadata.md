@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1541
@@ -30,9 +30,10 @@ Preservation Research at Institutions Serving Minorities Act
 - Rep. Rangel, Charles B. [D-NY-13] (R000053)
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Preservation Research at Institutions Serving Minorities Act
 - 2015-11-30 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
 - 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8428)
 - 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8428)
+- 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
