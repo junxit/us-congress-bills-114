@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3490
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3490
@@ -22,10 +22,11 @@ Strengthening State and Local Cyber Crime Fighting Act
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Strengthening State and Local Cyber Crime Fighting Act
 - 2015-11-30 — Placed on the Union Calendar, Calendar No. 268.
 - 2015-11-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-345, Part II.
 - 2015-11-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-345, Part II.
+- 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
