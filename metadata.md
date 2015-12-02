@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4127
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4127
@@ -44,3 +44,4 @@ Intelligence Authorization Act for Fiscal Year 2016
 - 2015-12-01 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 364 - 58 (Roll no. 649). (text: CR H8663-8671)
 - 2015-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (consideration: CR H8676)
 - 2015-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 364 - 58 (Roll no. 649).(text: CR H8663-8671)
+- 2015-12-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
