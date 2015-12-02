@@ -46,13 +46,13 @@ This Act may be cited as the “Small Contractors Improve Competition Act of 201
     >   - **(4)** section 15(j);
     >   - **(5)** section 31; or
     >   - **(6)** section 36.
-    > - **(c)** *Limitations on using reverse auctions* In the case of the award of a contract made under paragraphs (1) through (6) of subsection (b) that is not a covered contract, a reverse auction may be used for the award of such a contract only if the following requirements are met:
+    > - **(c)** *Limitations on using reverse auctions* In the case of the award of a contract made under a provision of law described in paragraphs (1) through (6) of subsection (b) that is not a covered contract, a reverse auction may be used for the award of such a contract only if the following requirements are met:
     >   - **(1)** *Decisions regarding use of a reverse auction* Subject to paragraph (2), the following decisions with respect to such a contract shall only be made by a contracting officer:
     >     - **(A)** A decision to use a reverse auction as part of the competition for award of such a contract.
     >     - **(B)** Any decision made after the decision described in subparagraph (A) regarding the appropriate evaluation criteria, the inclusion of vendors, the acceptability of vendor submissions (including decisions regarding timeliness), and the selection of the winner.
     >   - **(2)** *Training required*
     >     - **(A)** *In general* Only a contracting officer who has received training on the appropriate use and supervision of reverse auctions may use or supervise a reverse auction for the award of such a contract.
-    >     - **(B)** *Training* The training described in subparagraph (A) shall be provided by, or similar to the training provided by, the Defense Acquisition University as described in section 824 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 127 Stat. 3436).
+    >     - **(B)** *Training* The training described in subparagraph (A) shall be provided by, or similar to the training provided by, the Defense Acquisition University as described in section 824 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 127 Stat. 3436) (10 U.S.C. 2304 note).
     >   - **(3)** *Number of offers; revisions to bids* A Federal agency may not award such a contract using a reverse auction if—
     >     - **(A)** only 1 offer is received; or
     >     - **(B)** offerors do not have the ability to submit revised bids with lower prices throughout the course of the auction.
@@ -63,3 +63,18 @@ This Act may be cited as the “Small Contractors Improve Competition Act of 201
     >     - **(B)** information on the past contract performance of offerors created by the third-party agent and shared with the Federal agency is collected, maintained, and shared in compliance with section 1126 of title 41, United States Code;
     >     - **(C)** information on whether an offeror is a responsible source that is created by the third-party agent and shared with the Federal agency is shared with the offeror and complies with section 8(b)(7); and
     >     - **(D)** disputes between the third-party agent and an offeror may not be used to justify a determination that an offeror is not a responsible source or to otherwise restrict the ability of an offeror to compete for the award of a contract or task.
+
+## § 3. Surety bond requirements and amount of guarantee
+
+- **(a)** *Surety bond requirements* Chapter 93 of title 31, United States Code, is amended—
+  - **(1)** by adding at the end the following:
+    > ## § 9310. Individual sureties
+    >
+    > If another applicable Federal law or regulation permits the acceptance of a bond from a surety that is not subject to sections 9305 and 9306 and is based on a pledge of assets by the surety, the assets pledged by such surety shall—
+    >
+    > - **(1)** consist of eligible obligations described under section 9303(a); and
+    > - **(2)** be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+
+  - **(2)** in the table of sections, by adding at the end the following:
+- **(b)** *Amount of surety bond guarantee from Small Business Administration* Section 411(c)(1) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(c)(1)) is amended by striking “70” and inserting “90”.
+- **(c)** *Effective date* The amendments made by this section shall take effect 1 year after the date of enactment of this Act.
