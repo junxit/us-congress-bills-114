@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4154
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4154
+
+> To direct the President to submit to Congress a time frame for the transfer of certain naval vessels to Taiwan pursuant to section 102(b) of the Naval Vessel Transfer Act of 2013, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Taiwan Naval Support Act”.
+
+## § 2. Time frame for transfer of certain naval vessels to Taiwan
+
+- **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a time frame for the transfer of naval vessels to Taiwan pursuant to section 102(b) of the Naval Vessel Transfer Act of 2013 (Public Law 113–276; 128 Stat. 2989).
+- **(b)** *Form* The time frame required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.
+- **(c)** *Definition* In this section, the term appropriate congressional committees has the meaning given such term in section 1 of Public Law 113–276.
