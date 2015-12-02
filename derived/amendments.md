@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 

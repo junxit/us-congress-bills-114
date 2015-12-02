@@ -1,7 +1,7 @@
 ---
 measure: H.R. 427
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 427
@@ -331,3 +331,5 @@ Regulations from the Executive in Need of Scrutiny Act of 2015
 - 2015-07-28 — The previous question was ordered pursuant to the rule. (consideration: CR H5570)
 - 2015-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2015-07-29 — Received in the Senate.
+- 2015-12-01 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2015-12-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
