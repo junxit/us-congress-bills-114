@@ -1,7 +1,7 @@
 ---
 measure: S. 1629
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1629
@@ -38,3 +38,7 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 - 2015-09-11 — Message on Senate action sent to the House.
 - 2015-09-11 — Received in the House.
 - 2015-09-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-10-09 — Ordered to be Reported by Unanimous Consent.
+- 2015-12-03 — Placed on the Union Calendar, Calendar No. 281.
+- 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-368.
+- 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-368.
