@@ -1,7 +1,7 @@
 ---
 measure: S. 2136
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2136
@@ -16,9 +16,10 @@ Improving Small Business Innovative Research and Technologies Act of 2015
 
 - Sen. Vitter, David [R-LA] (V000127)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Improving Small Business Innovative Research and Technologies Act of 2015
 
 - 2015-10-06 — Introduced in Senate
 - 2015-10-06 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2015-10-07 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-12-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-12-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2015-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.

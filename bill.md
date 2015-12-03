@@ -90,8 +90,9 @@ Section 9 of the Small Business Act (15 U.S.C. 638) is amended—
 
 ## § 3. FAST program
 
--  Section 34 of the Small Business Act (15 U.S.C. 657d) is amended—
-  - **(1)** in subsection (h)—
-    - **(A)** in paragraph (1), by striking “2001 through 2005” and inserting “2016 and 2017”; and
-    - **(B)** in paragraph (2), by striking “fiscal years 2001 through 2005” and inserting “each of fiscal years 2016 and 2017”; and
-  - **(2)** in subsection (i), by striking “September 30, 2005” and inserting “September 30, 2017”.
+Section 34 of the Small Business Act (15 U.S.C. 657d) is amended—
+
+- **(1)** in subsection (h)—
+  - **(A)** in paragraph (1), by striking “2001 through 2005” and inserting “2016 and 2017”; and
+  - **(B)** in paragraph (2), by striking “fiscal years 2001 through 2005” and inserting “each of fiscal years 2016 and 2017”; and
+- **(2)** in subsection (i), by striking “September 30, 2005” and inserting “September 30, 2017”.
