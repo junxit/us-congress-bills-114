@@ -18,8 +18,21 @@ This Act may be cited as the “Construction Reform Act of 2015”.
 - **(a)** *Project management* Section 8103 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(e)** In the case of any super construction project (as such term is defined in section 8104(a)(4)(C)), the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes. Such agreement shall provide that the Secretary shall reimburse such Federal entity for all costs associated with the provision of project management services under the agreement.
 
-- **(b)** *Application of industry standards* Section 8103 of title 38, United States Code, as amended by subsection (a) is further amended by adding at the end the following new subsection:
+- **(b)** *Application of industry standards; assistance* Section 8103 of title 38, United States Code, as amended by subsection (a), is further amended by adding at the end the following new subsections:
   > - **(f)** To the maximum extent practicable, the Secretary shall use industry standards, standard designs, and best practices in carrying out the construction of medical facilities.
+  > - **(g)**
+  >   - **(1)** The Secretary shall provide to a non-Department Federal entity with which the Secretary has entered into an agreement under subsection (e)—
+  >     - **(A)** design, planning, and construction assistance before the entity issues a request for proposals for the design or construction of the super construction project covered by the agreement;
+  >     - **(B)** any documents or information needed for the entity to carry out the responsibilities of the entity with respect to the super construction project; and
+  >     - **(C)** upon the request of the entity, any other assistance that the entity determines necessary to carry out such responsibilities.
+  >   - **(2)** Any assistance provided under paragraph (1) shall be provided to the non-Department Federal entity on a non-reimbursable basis.
+  > - **(h)**
+  >   - **(1)** With respect to a proposed change to a contract entered into by a non-Department Federal entity with which the Secretary has entered into an agreement under subsection (e) that is estimated at a value of less than $250,000, the non-Department Federal entity shall issue a final decision regarding such change not later than 30 days after the date on which the change is proposed.
+  >   - **(2)** With respect to a proposed change to such a contract that is estimated at a value of $250,000 or more—
+  >     - **(A)** the Secretary may provide to the entity the recommendations of the Secretary regarding such change;
+  >     - **(B)** during the 30-day period beginning on the date on which the entity furnishes to the Secretary information regarding such change, the Secretary may issue the final decision regarding such change; and
+  >     - **(C)** if the Secretary does not issue a final decision under subparagraph (B), during the 30-day period following the period described in such paragraph, the entity shall issue a final decision regarding such a change no later than 90 days from when the entity furnished information regarding such a change to the Secretary.
+  > - **(i)** The Secretary shall ensure that each employee of the Department with responsibilities relating to the construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.
 
 - **(c)** *Limitation on planning and design for super construction projects*
   - **(1)** *In general* Section 8104(a) of title 38, United States Code, is amended—
@@ -33,7 +46,11 @@ This Act may be cited as the “Construction Reform Act of 2015”.
   - **(2)** *Applicability* The amendments made by paragraph (1) shall take effect on the date of the enactment of this Act and shall apply with respect to a construction project that is initiated on or after that date.
 - **(d)** *Congressional approval of certain projects*
   - **(1)** *Projects that exceed specified amount* Subsection (c) of section 8104 of title 38, United States Code, is amended to read as follows:
-    > - **(c)** The Secretary may not obligate funds for a major medical facility project or a super construction project approved by a law described in subsection (a)(2) in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent unless the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives each approve in writing the obligation of those funds.
+    > - **(c)**
+    >   - **(1)** The Secretary may not obligate funds for a major medical facility project or a super construction project approved by a law described in subsection (a)(2) in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent unless the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives each approve in writing the obligation of those funds.
+    >   - **(2)** The Secretary shall—
+    >     - **(A)** enter into a contract with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external forensic audit of the expenditures relating to any major medical facility or super construction project for which the total expenditures exceed the amount specified in the law for the project by more than 25 percent; and
+    >     - **(B)** enter into a contract with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external audit of the medical center construction project in Aurora, Colorado.
 
   - **(2)** *Use of extra amounts* Subsection (d) of such section is amended—
     - **(A)** in paragraph (2)(B), in the matter preceding clause (i), by striking “Whenever” and inserting “Before”; and
@@ -69,13 +86,40 @@ This Act may be cited as the “Construction Reform Act of 2015”.
 
 ## § 3. Modification of authorization of fiscal year 2008 major medical facility project at Department medical center in Tampa, Florida
 
-In chapter 3 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 122 Stat. 2326), in the matter under the heading “Department of Veterans Affairs–Departmental Administration–Construction, Major Projects”, after “Five Year Capital Plan” insert the following: “and for constructing a new bed tower at the Department of Veterans Affairs medical center in Tampa, Florida, in lieu of providing bed tower upgrades at such medical center”.
+- **(a)** *Modification of authorization* In chapter 3 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 122 Stat. 2326), in the matter under the heading “Department of Veterans Affairs–Departmental Administration–Construction, Major Projects”, after “Five Year Capital Plan” insert the following: “and for constructing a new bed tower at the Department of Veterans Affairs medical center in Tampa, Florida, in lieu of providing bed tower upgrades at such medical center”.
+- **(b)** *Emergency designation*
+  - **(1)** *In general* Subsection (a) is designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(g)).
+  - **(2)** *Designation in Senate* In the Senate, subsection (a) is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
 
 ## § 4. Authorization of fiscal year 2015 major medical facility projects
 
-- **(a)** *Authorization* The Secretary of Veterans Affairs may carry out the following major medical facility projects in fiscal year 2015, with each project to be carried out in an amount not to exceed the amount specified for that project:
+- **(a)** *Authorization* The Secretary of Veterans Affairs may carry out the following major medical facility projects, with each project to be carried out in an amount not to exceed the amount specified for that project:
   - **(1)** Construction of a community living center, outpatient clinic, renovated domiciliary, and renovation of existing buildings in Canandaigua, New York, in an amount not to exceed $158,980,000.
   - **(2)** Seismic corrections to the mental health and community living center in Long Beach, California, in an amount not to exceed $126,100,000.
   - **(3)** Seismic correction of 12 buildings in West Los Angeles, California, in an amount not to exceed $70,500,000.
   - **(4)** Construction of a spinal cord injury building and seismic corrections in San Diego, California, in an amount not to exceed $205,840,000.
 - **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2015 or the year in which funds are appropriated for the Construction, Major Projects, account, a total of $561,420,000 for the projects authorized in subsection (a).
+- **(c)** *Limitation* The projects authorized under this section may only be carried out using—
+  - **(1)** funds appropriated for fiscal year 2015 pursuant to the authorization of appropriations in subsection (b);
+  - **(2)** funds available for Construction, Major Projects for a fiscal year before fiscal year 2015 that remain available for obligation;
+  - **(3)** funds available for Construction, Major Projects, for a fiscal year after fiscal year 2015 that remain available for obligation;
+  - **(4)** funds appropriated for Construction, Major Projects, for fiscal year 2015 for a category of activity not specific to a project;
+  - **(5)** funds appropriated for Construction, Major Projects, for a fiscal year before 2015 for a category of activity not specific to a project; and
+  - **(6)** funds appropriated for Construction, Major Projects, for a fiscal year after 2015 for a category of activity not specific to a project.
+
+## § 5. Assistant Inspector General for Construction
+
+- **(a)** *In general* Chapter 3 of title 38, United States Code, is amended by inserting after section 312 the following new section:
+  > ## § 312A. Assistant Inspector General for Construction
+  >
+  > - **(a)** *In general* There is in the Office of Inspector General an Assistant Inspector General for Construction. The Assistant Inspector General for Construction is responsible for conducting, supervising, and coordinating audits, evaluations, and investigations of the planning, design, contracting, execution, and construction of facilities and infrastructure of the Department, including major and minor construction projects and leases.
+  > - **(b)** *Qualifications* Each individual appointed as Assistant Inspector General for Construction shall be an individual who has expertise in construction and facilities management.
+  > - **(c)** *Reports*
+  >   - **(1)** Not later than 60 days after the appointment of an individual as the Assistant Inspector General for Construction, and every calendar quarter thereafter, the Assistant Inspector General for Construction shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the activities of the Assistant Inspector General for Construction during the 120-day period ending on the date of such report.
+  >   - **(2)** In addition to the report required in paragraph (1), and the requirements contained in section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Assistant Inspector General for Construction shall promptly provide to the Committees on Veterans’ Affairs of the Senate and House of Representatives the findings of any investigation undertaken by the Assistant Inspector General for Construction, and shall notify the Committees promptly if the Assistant Inspector General for Construction identifies any serious or flagrant problem or deficiency relating to the administration or operation of any construction program of the Department, if, during the course of any investigation, the Assistant Inspector General for Construction determines that Congress should take immediate action.
+  >   - **(3)** Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
+  >     - **(A)** specifically prohibited from disclosure by any other provision of law;
+  >     - **(B)** specifically required by Executive Order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
+  >     - **(C)** a part of an ongoing criminal investigation.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 312 the following new item:
