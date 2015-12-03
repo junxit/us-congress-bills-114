@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2915
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (D), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 17 of title 38, United States Code, is amended by adding at the end the following section: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 1720G the following new item: | the bill names no machine-readable US Code section |
