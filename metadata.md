@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1107
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1107
@@ -16,7 +16,7 @@ Bureau of Reclamation Transparency Act
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Cosponsors (21)
+## Cosponsors (25)
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Barton, Joe [R-TX-6] (B000213)
@@ -39,6 +39,10 @@ Bureau of Reclamation Transparency Act
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Costa, Jim [D-CA-16] (C001059)
 
 ## Committees (1)
 
@@ -49,3 +53,12 @@ Bureau of Reclamation Transparency Act
 - 2015-02-26 — Introduced in House
 - 2015-02-26 — Introduced in House
 - 2015-02-26 — Referred to the House Committee on Natural Resources.
+- 2015-03-23 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2015-06-25 — Subcommittee Hearings Held.
+- 2015-10-07 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2015-10-08 — Subcommittee on Water, Power and Oceans Discharged.
+- 2015-12-03 — Placed on the Union Calendar, Calendar No. 279.
+- 2015-12-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-366.
+- 2015-12-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-366.

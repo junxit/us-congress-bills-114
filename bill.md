@@ -70,7 +70,7 @@ In this Act:
 
 ## § 5. Asset management report enhancements for transferred works
 
-- **(a)** *In general* The Secretary shall coordinate with the non-Federal entities responsible for the operation and maintenance of transferred works in developing reporting requirements for Asset Management Reports with respect to the condition of, and planned maintenance for, transferred works that are similar to the reporting requirements described in section 4(b).
+- **(a)** *In general* The Secretary shall coordinate with the non-Federal entities responsible for the operation and maintenance of transferred works in developing reporting requirements for Asset Management Reports with respect to major repair and rehabilitation needs for transferred works that are similar to the reporting requirements described in section 4(b).
 - **(b)** *Guidance*
-  - **(1)** *In general* After considering input from water and power contractors of the Bureau of Reclamation, the Secretary shall develop and implement a rating system for transferred works that incorporates, to the maximum extent practicable, the rating system for reserved works developed under section 4(b)(3).
+  - **(1)** *In general* After considering input from water and power contractors of the Bureau of Reclamation, the Secretary shall develop and implement a rating system for transferred works that incorporates, to the maximum extent practicable, the rating system for major repair and rehabilitation needs for reserved works developed under section 4(b)(3).
   - **(2)** *Updates* The ratings system developed under paragraph (1) shall be included in the updated Asset Management Reports under section 4(c).
