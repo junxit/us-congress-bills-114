@@ -1,0 +1,32 @@
+---
+legis-num: S. 2350
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2350
+
+> To amend the Internal Revenue Code of 1986 to provide for full expensing of tangible property.
+
+## § 1. Short title
+
+This Act may be cited as the “Full Expensing Act of 2015”.
+
+## § 2. Permanent expansion of election to expense certain depreciable assets
+
+- **(a)** *Expansion of types of property subject to election* Paragraph (1) of section 179(d) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(1)** *Section 179 property* For purposes of this section, the term section 179 property means property—
+  >   - **(A)** which is—
+  >     - **(i)** tangible property, or
+  >     - **(ii)** computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i),
+  >   - **(B)** which is acquired by purchase—
+  >     - **(i)** for use in a trade or business, or
+  >     - **(ii)** for the production of income, and
+  >   - **(C)** which was originally placed in service after the date of the enactment of the Full Expensing Act of 2015.
+
+- **(b)** *Repeal of dollar limitations* Section 179 of the Internal Revenue Code of 1986 is amended by striking subsection (b).
+- **(c)** *Conforming amendments* Section 179 of such Code is amended—
+  - **(1)** in subsection (c)(2), by striking “and before 2015”, and
+  - **(2)** by striking subsections (e) and (f).
+- **(d)** *Effective date* The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
