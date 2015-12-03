@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8
@@ -23,6 +23,23 @@ North American Energy Security and Infrastructure Act of 2015
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+
+## Recorded votes (14)
+
+- 2015-12-02 — [House 114-1-656](votes/house-114-1-0656.md) — On Agreeing to the Amendment — **Agreed to** (246–177)
+- 2015-12-02 — [House 114-1-657](votes/house-114-1-0657.md) — On Agreeing to the Amendment — **Failed** (179–244)
+- 2015-12-02 — [House 114-1-658](votes/house-114-1-0658.md) — On Agreeing to the Amendment — **Agreed to** (263–158)
+- 2015-12-02 — [House 114-1-659](votes/house-114-1-0659.md) — On Agreeing to the Amendment — **Failed** (172–246)
+- 2015-12-02 — [House 114-1-660](votes/house-114-1-0660.md) — On Agreeing to the Amendment — **Failed** (183–239)
+- 2015-12-02 — [House 114-1-661](votes/house-114-1-0661.md) — On Agreeing to the Amendment — **Failed** (198–224)
+- 2015-12-02 — [House 114-1-662](votes/house-114-1-0662.md) — On Agreeing to the Amendment — **Failed** (175–247)
+- 2015-12-02 — [House 114-1-663](votes/house-114-1-0663.md) — On Agreeing to the Amendment — **Failed** (206–216)
+- 2015-12-02 — [House 114-1-664](votes/house-114-1-0664.md) — On Agreeing to the Amendment — **Agreed to** (255–168)
+- 2015-12-03 — [House 114-1-668](votes/house-114-1-0668.md) — On Agreeing to the Amendment — **Agreed to** (252–170)
+- 2015-12-03 — [House 114-1-669](votes/house-114-1-0669.md) — On Agreeing to the Amendment — **Agreed to** (247–177)
+- 2015-12-03 — [House 114-1-670](votes/house-114-1-0670.md) — On Agreeing to the Amendment — **Failed** (181–243)
+- 2015-12-03 — [House 114-1-671](votes/house-114-1-0671.md) — On Motion to Recommit with Instructions — **Failed** (180–243)
+- 2015-12-03 — [House 114-1-672](votes/house-114-1-0672.md) — On Passage — **Passed** (249–174)
 
 ## Actions
 
@@ -49,3 +66,313 @@ North American Energy Security and Infrastructure Act of 2015
 - 2015-11-19 — Placed on the Union Calendar, Calendar No. 265.
 - 2015-11-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-347, Part I.
 - 2015-11-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-347, Part I.
+- 2015-11-30 — Rules Committee Resolution H. Res. 539 Reported to House. Resolution provides for one hour of general debate only on H.R. 8; resolution provides for one hour of general debate on S.J. Res. 23 and S.J. Res. 24 as well as one motion to commit on each joint resolution.
+- 2015-12-01 — Committee of the Whole House on the state of the Union rises leaving H.R. 8 as unfinished business.
+- 2015-12-01 — Considered under the provisions of rule H. Res. 539. (consideration: CR H8839-8846)
+- 2015-12-01 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8.
+- 2015-12-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 539 and Rule XVIII.
+- 2015-12-01 — Rules Committee Resolution H. Res. 542 Reported to House. Resolution provides for further amendment consideration of H.R. 8 and also provides for consideration of the conference report to accompany S. 1177.
+- 2015-12-01 — The Speaker designated the Honorable Evan H. Jenkins to act as Chairman of the Committee.
+- 2015-12-02 — Amendment (A001) offered by Mr. Upton. (consideration: CR H8919-8923, H8945-8946; text: CR H8919-8922)
+- 2015-12-02 — Amendment (A002) offered by Mr. Tonko. (consideration: CR H8923-8924, H8946; text: CR H8923)
+- 2015-12-02 — Amendment (A003) offered by Mr. Peters. (consideration: CR H8924-8925; text: CR H8924)
+- 2015-12-02 — Amendment (A004) offered by Mr. Franks (AZ). (consideration: CR H8925-8926; text: CR H8925)
+- 2015-12-02 — Amendment (A005) offered by Mr. Poliquin. (consideration: CR H8926-8927; text: CR H8926)
+- 2015-12-02 — Amendment (A006) offered by Mr. Veasey. (consideration: CR H8927; text: CR H8927)
+- 2015-12-02 — Amendment (A007) offered by Mr. McKinley. (consideration: CR H8927-8928; text: CR H8927)
+- 2015-12-02 — Amendment (A008) offered by Mrs. Ellmers (NC). (consideration: CR H8928-8929; text: CR H8928)
+- 2015-12-02 — Amendment (A009) offered by Ms. Jackson Lee. (consideration: CR H8929-8930)
+- 2015-12-02 — Amendment (A010) offered by Mr. Kildee. (consideration: CR H8930-8931; text: CR H8930)
+- 2015-12-02 — Amendment (A011) offered by Mr. Garamendi. (consideration: CR H8931-8932; text: CR H8931)
+- 2015-12-02 — Amendment (A012) offered by Mr. McKinley. (consideration: CR H8932; text: CR H8932)
+- 2015-12-02 — Amendment (A013) offered by Mr. Green, Gene. (consideration: CR H8932-8934, H8947; text: CR H8932-8933)
+- 2015-12-02 — Amendment (A014) offered by Mr. Takano. (consideration: CR H8934-8935; text: CR H8934)
+- 2015-12-02 — Amendment (A015) offered by Mr. Beyer. (consideration: CR H8935-8936, H8947-8948; text: CR H8935)
+- 2015-12-02 — Amendment (A016) offered by Mr. Peters. (consideration: CR H8936; text: CR H8936)
+- 2015-12-02 — Amendment (A017) offered by Ms. Schakowsky. (consideration: CR H8936-8937, H8948-8949; text: CR H8936)
+- 2015-12-02 — Amendment (A018) offered by Mrs. Brooks (IN). (consideration: CR H8937-8938; text: CR H8937)
+- 2015-12-02 — Amendment (A019) offered by Mr. Upton. (consideration: CR H8938; text: CR H8938)
+- 2015-12-02 — Amendment (A020) offered by Mr. Tonko. (consideration: CR H8938-8940, H8949; text: CR H8938-8939)
+- 2015-12-02 — Amendment (A021) offered by Ms. Castor (FL). (consideration: CR H8940-8942, H8949-8950; text: CR H8940-8941)
+- 2015-12-02 — Amendment (A022) offered by Mr. Polis. (consideration: CR H8942-8943, H8950; text: CR H8942)
+- 2015-12-02 — Amendment (A023) offered by Mr. Barton. (consideration: CR H8943-8945, H8951; text: CR H8943-8944)
+- 2015-12-02 — Amendment (A024) offered by Mr. Cramer. (consideration: CR H8953; text: CR H8953)
+- 2015-12-02 — Amendment (A025) offered by Mr. Duffy. (consideration: CR H8953-8954; text: CR H8953-8954)
+- 2015-12-02 — Amendment (A026) offered by Mr. Gosar. (consideration: CR H8954-8956; text: CR H8954-8955)
+- 2015-12-02 — Amendment (A027) offered by Mr. Upton. (consideration: CR H8956; text: CR H8956)
+- 2015-12-02 — Amendment (A028) offered by Mr. Rouzer. (consideration: CR H8956-8957; text: CR H8956)
+- 2015-12-02 — Amendment (A029) offered by Ms. Castor (FL). (consideration: CR H8957-8958; text: CR H8957-8958)
+- 2015-12-02 — Amendment (A030) offered by Mr. DeSaulnier. (consideration: CR H8958-8959; text: CR H8958-8959)
+- 2015-12-02 — Amendment (A031) offered by Mr. Deutch. (consideration: CR H8959-8960; text: CR H8959-8960)
+- 2015-12-02 — Amendment (A032) offered by Mr. Grayson. (consideration: CR H8960-8961; text: CR H8960-8961)
+- 2015-12-02 — Amendment (A033) offered by Ms. Jackson Lee. (consideration: CR H8961-8963; text: CR H8961)
+- 2015-12-02 — Amendment (A034) offered by Ms. Meng. (consideration: CR H8963; text: CR H8963)
+- 2015-12-02 — Amendment (A035) offered by Mr. Pallone. (consideration: CR H8963-8964; text: CR H8963)
+- 2015-12-02 — Amendment (A036) offered by Mr. Norcross. (consideration: CR H8964-8965; text: CR H8964)
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment agreed to Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Amendment failed in Committee of the Whole
+- 2015-12-02 — Committee of the Whole House on the state of the Union rises leaving H.R. 8 as unfinished business.
+- 2015-12-02 — Committee of the Whole House on the state of the Union rises leaving H.R. 8 as unfinished business.
+- 2015-12-02 — Considered under the provisions of rule H. Res. 542. (consideration: CR H8875-8884,H8894-8951, H8952-8965; text of amendment in the nature of a substitute: CR H8984-8919)
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Barton amendment No. 25.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Beyer amendment No. 17.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Brooks (IN) amendment No. 20.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Castor (FL) amendment No. 23.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Castor (FL) amendment No. 31.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Cramer amendment No. 26.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the DeSaulnier amendment No. 32.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Deutch amendment No. 33.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Duffy amendment No. 27.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Ellmers (NC) amendment No. 8.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Franks amendment No. 4.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Garamendi amendment No. 12.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Gosar amendment No. 28.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Grayson amendment No. 34.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Green, Gene amendment No. 14.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Jackson Lee amendment No. 35.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Jackson Lee amendment No. 9, as modified.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Kildee amendment No. 10.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the McKinley amendment No. 13.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the McKinley amendment No. 7.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Meng amendment No. 36.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Pallone amendment No. 37.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Peters amendment No. 18.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Poliquin amendment No. 5.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Polis amendment No. 24.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Rouzer amendment No. 30.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Schakowsky amendment No. 19.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Takano amendment No. 16.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Tonko amendment No. 22.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Upton amendment No. 21.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Upton amendment No. 29.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceed with 10 minutes of debate on the Veasey amendment No. 6.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceeded with 10 minutes of debate on the Norcross amendment No. 38.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 3.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko amendment No. 2.
+- 2015-12-02 — DEBATE - Pursuant to the provisions of H. Res. 542, the Committee of the Whole proceeded with 10 minutes of debate on the Upton amendment No. 1.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Barton amendment (A023) Agreed to by recorded vote: 255 - 168 (Roll no. 664).
+- 2015-12-02 — House amendment agreed to: On agreeing to the Brooks (IN) amendment (A018) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Castor (FL) amendment (A029) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A030) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Deutch amendment (A031) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Duffy amendment (A025) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Ellmers (NC) amendment (A008) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Franks (AZ) amendment (A004) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Garamendi amendment (A011) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Gosar amendment (A026) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Grayson amendment (A032) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Green, Gene amendment (A013) Agreed to by recorded vote: 263 - 158 (Roll no. 658).
+- 2015-12-02 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A009) as modified Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A033) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Kildee amendment (A010) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the McKinley amendment (A007) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the McKinley amendment (A012) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Meng amendment (A034) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Norcross amendment (A036) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Peters amendment (A016) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Poliquin amendment (A005) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Takano amendment (A014) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Upton amendment (A001) Agreed to by recorded vote: 246 - 177 (Roll no. 656).
+- 2015-12-02 — House amendment agreed to: On agreeing to the Upton amendment (A019) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Upton amendment (A027) Agreed to by voice vote.
+- 2015-12-02 — House amendment agreed to: On agreeing to the Veasey amendment (A006) Agreed to by voice vote.
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Beyer amendment (A015) Failed by recorded vote: 172 - 246 (Roll no. 659).
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Castor (FL) amendment (A021) Failed by recorded vote: 175 - 247 (Roll no. 662).
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Polis amendment (A022) Failed by recorded vote: 206 - 216 (Roll no. 663).
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A017) Failed by recorded vote: 183 - 239 (Roll no. 660).
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Tonko amendment (A002) Failed by recorded vote: 179 - 244 (Roll no. 657).
+- 2015-12-02 — House amendment not agreed to: On agreeing to the Tonko amendment (A020) Failed by recorded vote: 198 - 224 (Roll no. 661).
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered
+- 2015-12-02 — House amendment offered/reported by : Amendment (A001) offered by Mr. Upton.(consideration: CR H8919-8923, H8945-8946; text: CR H8919-8922)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A002) offered by Mr. Tonko.(consideration: CR H8923-8924, H8946; text: CR H8923)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A003) offered by Mr. Peters.(consideration: CR H8924-8925; text: CR H8924)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A004) offered by Mr. Franks (AZ).(consideration: CR H8925-8926; text: CR H8925)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A005) offered by Mr. Poliquin.(consideration: CR H8926-8927; text: CR H8926)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A006) offered by Mr. Veasey.(consideration: CR H8927; text: CR H8927)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A007) offered by Mr. McKinley.(consideration: CR H8927-8928; text: CR H8927)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Ellmers (NC).(consideration: CR H8928-8929; text: CR H8928)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A009) offered by Ms. Jackson Lee.(consideration: CR H8929-8930)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A010) offered by Mr. Kildee.(consideration: CR H8930-8931; text: CR H8930)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A011) offered by Mr. Garamendi.(consideration: CR H8931-8932; text: CR H8931)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A012) offered by Mr. McKinley.(consideration: CR H8932; text: CR H8932)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A013) offered by Mr. Green, Gene.(consideration: CR H8932-8934, H8947; text: CR H8932-8933)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A014) offered by Mr. Takano.(consideration: CR H8934-8935; text: CR H8934)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A015) offered by Mr. Beyer.(consideration: CR H8935-8936, H8947-8948; text: CR H8935)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A016) offered by Mr. Peters.(consideration: CR H8936; text: CR H8936)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A017) offered by Ms. Schakowsky.(consideration: CR H8936-8937, H8948-8949; text: CR H8936)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A018) offered by Mrs. Brooks (IN).(consideration: CR H8937-8938; text: CR H8937)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A019) offered by Mr. Upton.(consideration: CR H8938; text: CR H8938)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A020) offered by Mr. Tonko.(consideration: CR H8938-8940, H8949; text: CR H8938-8939)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A021) offered by Ms. Castor (FL).(consideration: CR H8940-8942, H8949-8950; text: CR H8940-8941)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A022) offered by Mr. Polis.(consideration: CR H8942-8943, H8950; text: CR H8942)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A023) offered by Mr. Barton.(consideration: CR H8943-8945, H8951; text: CR H8943-8944)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A024) offered by Mr. Cramer.(consideration: CR H8953; text: CR H8953)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A025) offered by Mr. Duffy.(consideration: CR H8953-8954; text: CR H8953-8954)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A026) offered by Mr. Gosar.(consideration: CR H8954-8956; text: CR H8954-8955)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A027) offered by Mr. Upton.(consideration: CR H8956; text: CR H8956)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A028) offered by Mr. Rouzer.(consideration: CR H8956-8957; text: CR H8956)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A029) offered by Ms. Castor (FL).(consideration: CR H8957-8958; text: CR H8957-8958)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A030) offered by Mr. DeSaulnier.(consideration: CR H8958-8959; text: CR H8958-8959)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A031) offered by Mr. Deutch.(consideration: CR H8959-8960; text: CR H8959-8960)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A032) offered by Mr. Grayson.(consideration: CR H8960-8961; text: CR H8960-8961)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A033) offered by Ms. Jackson Lee.(consideration: CR H8961-8963; text: CR H8961)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A034) offered by Ms. Meng.(consideration: CR H8963; text: CR H8963)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A035) offered by Mr. Pallone.(consideration: CR H8963-8964; text: CR H8963)
+- 2015-12-02 — House amendment offered/reported by : Amendment (A036) offered by Mr. Norcross.(consideration: CR H8964-8965; text: CR H8964)
+- 2015-12-02 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 542 and Rule XVIII.
+- 2015-12-02 — Jackson Lee amendment (A009) modified by unanimous consent. (text as modified: CR H8929)
+- 2015-12-02 — Mr. Upton moved that the Committee now rise.
+- 2015-12-02 — Mr. Upton moved that the committee rise.
+- 2015-12-02 — ORDER OF PROCEDURE - Mr. Upton asked unanimous consent to offer the amendment numbered 21, printed in House Report 114-359. Agreed to without objection.
+- 2015-12-02 — On agreeing to the Barton amendment (A023) Agreed to by recorded vote: 255 - 168 (Roll no. 664).
+- 2015-12-02 — On agreeing to the Beyer amendment (A015) Failed by recorded vote: 172 - 246 (Roll no. 659).
+- 2015-12-02 — On agreeing to the Brooks (IN) amendment (A018) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Castor (FL) amendment (A021) Failed by recorded vote: 175 - 247 (Roll no. 662).
+- 2015-12-02 — On agreeing to the Castor (FL) amendment (A029) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the DeSaulnier amendment (A030) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Deutch amendment (A031) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Duffy amendment (A025) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Ellmers (NC) amendment (A008) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Franks (AZ) amendment (A004) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Garamendi amendment (A011) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Gosar amendment (A026) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Grayson amendment (A032) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Green, Gene amendment (A013) Agreed to by recorded vote: 263 - 158 (Roll no. 658).
+- 2015-12-02 — On agreeing to the Jackson Lee amendment (A009) as modified Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Jackson Lee amendment (A033) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Kildee amendment (A010) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the McKinley amendment (A007) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the McKinley amendment (A012) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Meng amendment (A034) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Norcross amendment (A036) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Peters amendment (A016) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Poliquin amendment (A005) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Polis amendment (A022) Failed by recorded vote: 206 - 216 (Roll no. 663).
+- 2015-12-02 — On agreeing to the Schakowsky amendment (A017) Failed by recorded vote: 183 - 239 (Roll no. 660).
+- 2015-12-02 — On agreeing to the Takano amendment (A014) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Tonko amendment (A002) Failed by recorded vote: 179 - 244 (Roll no. 657).
+- 2015-12-02 — On agreeing to the Tonko amendment (A020) Failed by recorded vote: 198 - 224 (Roll no. 661).
+- 2015-12-02 — On agreeing to the Upton amendment (A001) Agreed to by recorded vote: 246 - 177 (Roll no. 656).
+- 2015-12-02 — On agreeing to the Upton amendment (A019) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Upton amendment (A027) Agreed to by voice vote.
+- 2015-12-02 — On agreeing to the Veasey amendment (A006) Agreed to by voice vote.
+- 2015-12-02 — On motion that the Committee now rise Agreed to by voice vote.
+- 2015-12-02 — On motion that the committee rise Agreed to by voice vote.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Barton amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Whitfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor (FL) amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Castor (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cramer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Green, Gene amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rouzer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schakowsky amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Latta demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tonko amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tonko amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Upton amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2015-12-02 — Resolution provides for further amendment consideration of H.R. 8 and also provides for consideration of the conference report to accompany S. 1177.
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — Roll call votes on amendments in House
+- 2015-12-02 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-12-02 — The Speaker designated the Honorable Robert J. Dold to act as Chairman of the Committee.
+- 2015-12-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2015-12-03 — Amendment agreed to Committee of the Whole
+- 2015-12-03 — Amendment agreed to Committee of the Whole
+- 2015-12-03 — Amendment failed in Committee of the Whole
+- 2015-12-03 — Considered as unfinished business. (consideration: CR H8983-8988)
+- 2015-12-03 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section stating that in response to scientific consensus, climate change is real and that United States energy policy should seek to remove market barriers that inhibit the development of renewable energy infrastructure.
+- 2015-12-03 — House amendment agreed to: On agreeing to the Cramer amendment (A024) Agreed to by recorded vote: 252 - 170 (Roll no. 668).(consideration: CR H8983-8984)
+- 2015-12-03 — House amendment agreed to: On agreeing to the Rouzer amendment (A028) Agreed to by recorded vote: 247 - 177 (Roll no. 669).(consideration: CR H8984-8985)
+- 2015-12-03 — House amendment not agreed to: On agreeing to the Pallone amendment (A035) Failed by recorded vote: 181 - 243 (Roll no. 670).(consideration: CR H8985)
+- 2015-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-03 — Mr. Cartwright moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: CR H8986; text: CR H8986)
+- 2015-12-03 — On agreeing to the Cramer amendment (A024) Agreed to by recorded vote: 252 - 170 (Roll no. 668). (consideration: CR H8983-8984)
+- 2015-12-03 — On agreeing to the Pallone amendment (A035) Failed by recorded vote: 181 - 243 (Roll no. 670). (consideration: CR H8985)
+- 2015-12-03 — On agreeing to the Rouzer amendment (A028) Agreed to by recorded vote: 247 - 177 (Roll no. 669). (consideration: CR H8984-8985)
+- 2015-12-03 — On motion to recommit with instructions Failed by recorded vote: 180 - 243 (Roll no. 671).
+- 2015-12-03 — On passage Passed by recorded vote: 249 - 174 (Roll no. 672).
+- 2015-12-03 — Passed/agreed to in House: On passage Passed by recorded vote: 249 - 174 (Roll no. 672).
+- 2015-12-03 — Roll call votes on amendments in House
+- 2015-12-03 — Roll call votes on amendments in House
+- 2015-12-03 — Roll call votes on amendments in House
+- 2015-12-03 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8.
+- 2015-12-03 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H8985)
+- 2015-12-03 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2015-12-03 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8.
+- 2015-12-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8986)
+- 2015-12-03 — UNFINISHED BUSINESS - The Chair announced that the unvinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.

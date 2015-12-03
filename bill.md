@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8
 
-> To modernize energy infrastructure, build a 21st century energy and manufacturing workforce, bolster America’s energy security and diplomacy, and promote energy efficiency and government accountability, and for other purposes.
+> To modernize energy infrastructure, build a 21st century energy and manufacturing workforce, bolster America's energy security and diplomacy, and promote energy efficiency and government accountability, and for other purposes.
 
 ## § 1. Short title; table of contents
 
