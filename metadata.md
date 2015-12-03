@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2820
@@ -66,3 +66,7 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2015
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-242.
 - 2015-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 114-242.
 - 2015-09-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2015-11-18 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-12-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2015-12-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2015-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.

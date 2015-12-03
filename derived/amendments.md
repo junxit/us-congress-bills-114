@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 2 executed, 2 stated and not applied.
+19 amendatory instructions. 5 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,33 @@ to guess them.
 | Removed | `2011 through 2014` |
 | Inserted | `2016 through 2020` |
 
+### 42 U.S.C. § 274k
+
+> by striking “remote collection” and inserting “collection”; and
+
+| | |
+|---|---|
+| Removed | `remote collection` |
+| Inserted | `collection` |
+
+### 42 U.S.C. § 274k
+
+> in paragraph (1), by striking “paragraphs (2) and (3)” and inserting “paragraphs (2), (3), and (4)”;
+
+| | |
+|---|---|
+| Removed | `paragraphs (2) and (3)` |
+| Inserted | `paragraphs (2), (3), and (4)` |
+
+### 42 U.S.C. § 274k
+
+> in paragraph (2)(B), by striking “subsection (d)” and inserting “subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsection (c)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -53,3 +80,15 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 274k` | strike | by striking “$23,000,000 for each of fiscal years 2011 through 2014 and”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 274k` | insert | by inserting before the period at the end the following: “and $23,000,000 for each of fiscal years 2016 through 2020”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | insert | by inserting “including remote collection,” after “cord blood units,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 274m` | strike | by striking “$30,000,000 for each of fiscal years 2011 through 2014 and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 274m` | insert | by inserting “and $30,000,000 for each of fiscal years 2016 through 2020” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 274k` | strike | in subsection (a), by striking “one-time”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 274k` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | redesignate | by redesignating subsections (d) through (h) as subsections (c) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | strike | by striking “$23,000,000 for each of fiscal years 2011 through 2014 and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 274k` | insert | by inserting “and $23,000,000 for each of fiscal years 2016 through 2020” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 274k` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
