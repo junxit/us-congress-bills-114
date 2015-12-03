@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3762
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3762
@@ -16,13 +16,107 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 
 - Rep. Price, Tom [R-GA-6] (P000591)
 
+## Cosponsors (72)
+
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gardner, Cory [R-CO] (G000562)
+
 ## Committees (1)
 
 - House — Budget Committee
 
-## Recorded votes (1)
+## Recorded votes (20)
 
 - 2015-10-23 — [House 114-1-568](votes/house-114-1-0568.md) — On Passage — **Passed** (240–189)
+- 2015-12-03 — [Senate 114-1-311](votes/senate-114-1-0311.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2015-12-03 — [Senate 114-1-312](votes/senate-114-1-0312.md) — On the Amendment — **Amendment Rejected** (56–44)
+- 2015-12-03 — [Senate 114-1-313](votes/senate-114-1-0313.md) — On the Motion — **Motion Rejected** (45–55)
+- 2015-12-03 — [Senate 114-1-314](votes/senate-114-1-0314.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2015-12-03 — [Senate 114-1-315](votes/senate-114-1-0315.md) — On the Motion — **Motion Rejected** (46–54)
+- 2015-12-03 — [Senate 114-1-316](votes/senate-114-1-0316.md) — On the Amendment — **Amendment Agreed to** (90–10)
+- 2015-12-03 — [Senate 114-1-317](votes/senate-114-1-0317.md) — On the Motion — **Motion Rejected** (47–52)
+- 2015-12-03 — [Senate 114-1-318](votes/senate-114-1-0318.md) — On the Motion — **Motion Rejected** (55–44)
+- 2015-12-03 — [Senate 114-1-319](votes/senate-114-1-0319.md) — On the Motion — **Motion Rejected** (45–54)
+- 2015-12-03 — [Senate 114-1-320](votes/senate-114-1-0320.md) — On the Motion — **Motion Rejected** (53–46)
+- 2015-12-03 — [Senate 114-1-321](votes/senate-114-1-0321.md) — On the Motion — **Motion Rejected** (48–50)
+- 2015-12-03 — [Senate 114-1-322](votes/senate-114-1-0322.md) — On the Motion — **Motion Rejected** (47–52)
+- 2015-12-03 — [Senate 114-1-323](votes/senate-114-1-0323.md) — On the Amendment — **Amendment Rejected** (10–89)
+- 2015-12-03 — [Senate 114-1-324](votes/senate-114-1-0324.md) — On the Amendment — **Amendment Agreed to** (60–39)
+- 2015-12-03 — [Senate 114-1-325](votes/senate-114-1-0325.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2015-12-03 — [Senate 114-1-326](votes/senate-114-1-0326.md) — On the Motion — **Motion Rejected** (52–47)
+- 2015-12-03 — [Senate 114-1-327](votes/senate-114-1-0327.md) — On the Motion — **Motion Rejected** (45–54)
+- 2015-12-03 — [Senate 114-1-328](votes/senate-114-1-0328.md) — On the Motion — **Motion Rejected** (46–53)
+- 2015-12-03 — [Senate 114-1-329](votes/senate-114-1-0329.md) — On Passage of the Bill — **Bill Passed** (52–47)
 
 ## Actions
 
@@ -42,3 +136,178 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 - 2015-10-23 — The previous question was ordered pursuant to the rule. (consideration: CR H7163)
 - 2015-11-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-11-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
+- 2015-12-01 — Amendment SA 2874 proposed by Senator McConnell. (consideration: CR S8233-8234; text: CR S8233-8234) In the nature of a substitute.
+- 2015-12-01 — Measure laid before Senate by motion. (consideration: CR S8233-8234)
+- 2015-12-01 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S8233)
+- 2015-12-01 — Senate amendment proposed (on the floor): Amendment SA 2874 proposed by Senator McConnell.(consideration: CR S8233-8234; text: CR S8233-8234)
+- 2015-12-01 — Senate amendment submitted
+- 2015-12-02 — Amendment SA 2875 proposed by Senator Johnson to Amendment SA 2874. (consideration: CR S8254-8255, S8264-8266, S8268-8283; text: CR S8254) To amend the Patient Protection and Affordable Care Act to ensure that individuals can keep their health insurance coverage.
+- 2015-12-02 — Amendment SA 2876 proposed by Senator Murray to Amendment SA 2874. (consideration: CR S8253-8254, S8255-8264) To ensure that this Act does not increase the number of uninsured women or increase the number of unintended pregnancies by establishing a women's health care and clinic security and safety fund.
+- 2015-12-02 — Considered by Senate. (consideration: CR S8250)
+- 2015-12-02 — Considered by Senate. (consideration: CR S8250-8266, S8268-8283)
+- 2015-12-02 — Senate amendment proposed (on the floor): Amendment SA 2875 proposed by Senator Johnson to Amendment SA 2874.(consideration: CR S8254-8255, S8264-8266, S8268-8283; text: CR S8254)
+- 2015-12-02 — Senate amendment proposed (on the floor): Amendment SA 2876 proposed by Senator Murray to Amendment SA 2874.(consideration: CR S8253-8254, S8255-8264)
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-02 — Senate amendment submitted
+- 2015-12-03 — Amendment SA 2874 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Amendment SA 2875, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 312.
+- 2015-12-03 — Amendment SA 2882 agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 316.
+- 2015-12-03 — Amendment SA 2882 proposed by Senator Heller to Amendment SA 2874. (consideration: CR S8344; text: CR S8344) To strike the reinstatement of the tax on employee health insurance premiums and health plan benefits.
+- 2015-12-03 — Amendment SA 2883 proposed by Senator Brown to Amendment SA 2874. (consideration: CR S8342-8343) To maintain the 100 percent FMAP for the Medicaid expansion population.
+- 2015-12-03 — Amendment SA 2883 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2884 proposed by Senator McCain to Amendment SA 2874. (consideration: CR S8350-8351; text: CR S8350-8351) To amend the Federal Food, Drug, and Cosmetic Act to allow for the personal importation of safe and affordable drugs from approved pharmacies in Canada.
+- 2015-12-03 — Amendment SA 2885 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 314.
+- 2015-12-03 — Amendment SA 2885 proposed by Senator Collins to Amendment SA 2874. (consideration: CR S8343; text: CR S8343) To improve the bill.
+- 2015-12-03 — Amendment SA 2888 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 324.
+- 2015-12-03 — Amendment SA 2888 proposed by Senator Coats to Amendment SA 2874. (consideration: CR S8352-8353; text: CR S8352) To amend the Internal Revenue Code of 1986 to extend the special rule for seniors relating to the income level for deduction of medical care expenses, and for other purposes.
+- 2015-12-03 — Amendment SA 2892 proposed by Senator Shaheen to Amendment SA 2874. (consideration: CR S8345) To improve mental health and substance use prevention and treatment.
+- 2015-12-03 — Amendment SA 2892 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2893 proposed by Senator Casey to Amendment SA 2874. (consideration: CR S8343-8344) To amend the Internal Revenue Code of 1986 to establish a credit for married couples who are both employed and have young children, and for other purposes.
+- 2015-12-03 — Amendment SA 2893 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2899 proposed by Senator Paul to Amendment SA 2874. (consideration: CR S8350) To prevent the entry of extremists into the United States under the refugee program, and for other purposes.
+- 2015-12-03 — Amendment SA 2899, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 89. Record Vote Number: 323.
+- 2015-12-03 — Amendment SA 2907 proposed by Senator Bennet to Amendment SA 2874. (consideration: CR S8348-8350; text: CR S8348-8349) To provide additional amounts to the Department of Veterans Affairs to increase the access of veterans to care and improve the physical infrastructure of the Department of Veterans Affairs and to impose a fair share tax on high-income taxpayers.
+- 2015-12-03 — Amendment SA 2907 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2908 proposed by Senator Manchin to Amendment SA 2874. (consideration: CR S8348) To protect Second Amendment rights, ensure that all individuals who should be prohibited from buying a firearm are listed in the National Instant Criminal Background Check System, and provide a responsible and consistent background check process.
+- 2015-12-03 — Amendment SA 2908 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2910 proposed by Senator Feinstein to Amendment SA 2874. (consideration: CR S8346-8347) To increase public safety by permitting the Attorney General to deny the transfer of firearms or the issuance of firearms and explosives licenses to known or suspected dangerous terrorists.
+- 2015-12-03 — Amendment SA 2910 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2912 proposed by Senator Cornyn to Amendment SA 2874. (consideration: CR S8345-8346) Relating to the Protect America Act of 2015.
+- 2015-12-03 — Amendment SA 2912 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2913 not agreed to in Senate by Voice Vote.
+- 2015-12-03 — Amendment SA 2913 proposed by Senator Cardin to Amendment SA 2874. (consideration: CR S8351-8352; text: CR S8351-8352) To amend the Internal Revenue Code of 1986 to extend the special rule for seniors relating to the income level for deduction of medical care expenses and to require high-income taxpayers to pay a fair share of taxes.
+- 2015-12-03 — Amendment SA 2914 proposed by Senator Grassley to Amendment SA 2874. (consideration: CR S8347-8348) To address gun violence, improve the availability of records to the National Instant Criminal Background Check System, address mental illness in the criminal justice system, and end straw purchases and trafficking of illegal firearms, and for other purposes.
+- 2015-12-03 — Amendment SA 2914 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2915 proposed by Senator Paul to Amendment SA 2874. (consideration: CR S8353) To restore Second Amendment rights in the District of Columbia.
+- 2015-12-03 — Amendment SA 2915, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 325.
+- 2015-12-03 — Amendment SA 2916 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Amendment SA 2916 proposed by Senator Enzi for Senator McConnell to Amendment SA 2874. (consideration: CR S8353-8354, S8356) In the nature of a substitute.
+- 2015-12-03 — Amendment SA 2917 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Amendment SA 2917 proposed by Senator Reid to Amendment SA 2916. (consideration: CR S8354; text: CR S8354) To strike the reinstatement of the tax on employee health insurance premiums and health plan benefits.
+- 2015-12-03 — Amendment SA 2918 proposed by Senator Murphy to Amendment SA 2916. (consideration: CR S8355-8356) To protect victims of violence or disease, veterans, workers who have lost their health insurance and their jobs, and other vulnerable populations from the repeal of the advanced premium tax credit.
+- 2015-12-03 — Amendment SA 2918 ruled out of order by the chair.
+- 2015-12-03 — Amendment SA 2919 proposed by Senator Baldwin to Amendment SA 2916. (consideration: CR S8354-8355) To ensure that individuals can keep their health insurance coverage.
+- 2015-12-03 — Amendment SA 2919 ruled out of order by the chair.
+- 2015-12-03 — Considered by Senate. (consideration: CR S8326, S8341-8342)
+- 2015-12-03 — Considered by Senate. (consideration: CR S8326, S8342)
+- 2015-12-03 — Considered by Senate. (consideration: CR S8326, S8356-8357)
+- 2015-12-03 — Considered by Senate. (consideration: CR S8326-8357)
+- 2015-12-03 — Motion to table amendment SA 2876 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 311. (consideration: CR S8341-8342)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2883 rejected in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 313. (consideration: CR S8343)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2892 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 317. (consideration: CR S8345)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2893 rejected in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 315. (consideration: CR S8344)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2907 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 322. (consideration: CR S8349-8350)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2908 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 321. (consideration: CR S8348)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2910 rejected in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 319. (consideration: CR S8347)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2912 rejected in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 318. (consideration: CR S8346)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2914 rejected in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 320. (consideration: CR S8347-8348)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2916 (section 105(b) within the amendment) rejected in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 326. (consideration: CR S8354)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2918 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 328. (consideration: CR S8356)
+- 2015-12-03 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2919 rejected in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 327. (consideration: CR S8355)
+- 2015-12-03 — Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 329.
+- 2015-12-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 329.
+- 2015-12-03 — Point of order that section 105(b) of the amendment violates section 313(b)(1)(d) of the CBA raised in Senate with respect to amendment SA 2916.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2883.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2892.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2893.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2907.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2918.
+- 2015-12-03 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 2919.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 2899.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 2908.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 2910.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 2912.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 2914.
+- 2015-12-03 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA withdrawn in Senate with respect to amendment SA 2899.
+- 2015-12-03 — Proposed amendment SA 2884 withdrawn in Senate. (consideration: CR S8351)
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2875, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 312.
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2882 agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 316.
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2885 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 314.
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2888 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 324.
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2899, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 89. Record Vote Number: 323.
+- 2015-12-03 — Roll call votes on amendments in Senate: Amendment SA 2915, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 325.
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to table amendment SA 2876 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 311.(consideration: CR S8341-8342)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2883 rejected in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 313.(consideration: CR S8343)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2892 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 317.(consideration: CR S8345)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2893 rejected in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 315.(consideration: CR S8344)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2907 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 322.(consideration: CR S8349-8350)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2908 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 321.(consideration: CR S8348)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2910 rejected in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 319.(consideration: CR S8347)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2912 rejected in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 318.(consideration: CR S8346)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2914 rejected in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 320.(consideration: CR S8347-8348)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2916 (section 105(b) within the amendment) rejected in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 326.(consideration: CR S8354)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2918 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 328.(consideration: CR S8356)
+- 2015-12-03 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2919 rejected in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 327.(consideration: CR S8355)
+- 2015-12-03 — Section 105(b) within the amendment was stricken.
+- 2015-12-03 — Senate amendment agreed to: Amendment SA 2874 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Senate amendment agreed to: Amendment SA 2882 agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 316.
+- 2015-12-03 — Senate amendment agreed to: Amendment SA 2888 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 324.
+- 2015-12-03 — Senate amendment agreed to: Amendment SA 2916 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Senate amendment agreed to: Amendment SA 2917 agreed to in Senate by Voice Vote.
+- 2015-12-03 — Senate amendment not agreed to: Amendment SA 2875, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 312.
+- 2015-12-03 — Senate amendment not agreed to: Amendment SA 2885 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 314.
+- 2015-12-03 — Senate amendment not agreed to: Amendment SA 2899, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 89. Record Vote Number: 323.
+- 2015-12-03 — Senate amendment not agreed to: Amendment SA 2913 not agreed to in Senate by Voice Vote.
+- 2015-12-03 — Senate amendment not agreed to: Amendment SA 2915, under the order of 12/3/15, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 325.
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2882 proposed by Senator Heller to Amendment SA 2874.(consideration: CR S8344; text: CR S8344)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2883 proposed by Senator Brown to Amendment SA 2874.(consideration: CR S8342-8343)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2884 proposed by Senator McCain to Amendment SA 2874.(consideration: CR S8350-8351; text: CR S8350-8351)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2885 proposed by Senator Collins to Amendment SA 2874.(consideration: CR S8343; text: CR S8343)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2888 proposed by Senator Coats to Amendment SA 2874.(consideration: CR S8352-8353; text: CR S8352)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2892 proposed by Senator Shaheen to Amendment SA 2874.(consideration: CR S8345)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2893 proposed by Senator Casey to Amendment SA 2874.(consideration: CR S8343-8344)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2899 proposed by Senator Paul to Amendment SA 2874.(consideration: CR S8350)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2907 proposed by Senator Bennet to Amendment SA 2874.(consideration: CR S8348-8350; text: CR S8348-8349)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2908 proposed by Senator Manchin to Amendment SA 2874.(consideration: CR S8348)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2910 proposed by Senator Feinstein to Amendment SA 2874.(consideration: CR S8346-8347)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2912 proposed by Senator Cornyn to Amendment SA 2874.(consideration: CR S8345-8346)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2913 proposed by Senator Cardin to Amendment SA 2874.(consideration: CR S8351-8352; text: CR S8351-8352)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2914 proposed by Senator Grassley to Amendment SA 2874.(consideration: CR S8347-8348)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2915 proposed by Senator Paul to Amendment SA 2874.(consideration: CR S8353)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2916 proposed by Senator Enzi for Senator McConnell to Amendment SA 2874.(consideration: CR S8353-8354, S8356)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2917 proposed by Senator Reid to Amendment SA 2916.(consideration: CR S8354; text: CR S8354)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2918 proposed by Senator Murphy to Amendment SA 2916.(consideration: CR S8355-8356)
+- 2015-12-03 — Senate amendment proposed (on the floor): Amendment SA 2919 proposed by Senator Baldwin to Amendment SA 2916.(consideration: CR S8354-8355)
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted
+- 2015-12-03 — Senate amendment submitted

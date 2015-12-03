@@ -2,14 +2,11 @@
 legis-num: H.R. 3762
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3762
 
-> To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.
+That the bill from the House of Representatives (H.R. 3762) entitled “An Act to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.”, do pass with the following
 
-## § 1. Short title; table of contents
-
-- **(a)** *Short title* This Act may be cited as the “Restoring Americans’ Healthcare Freedom Reconciliation Act of 2015”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+*Strike all after the enacting clause and insert the following:*
