@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 195
@@ -25,3 +25,8 @@ Election Assistance Commission Termination Act
 - 2015-01-07 — Introduced in House
 - 2015-01-07 — Introduced in House
 - 2015-01-07 — Referred to the House Committee on House Administration.
+- 2015-03-04 — Committee Consideration and Mark-up Session Held.
+- 2015-03-04 — Ordered to be Reported by Voice Vote.
+- 2015-12-03 — Placed on the Union Calendar, Calendar No. 275.
+- 2015-12-03 — Reported by the Committee on House Administration. H. Rept. 114-361.
+- 2015-12-03 — Reported by the Committee on House Administration. H. Rept. 114-361.
