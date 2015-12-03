@@ -1,7 +1,7 @@
 ---
 measure: S. 1629
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 1629
@@ -42,3 +42,15 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 - 2015-12-03 — Placed on the Union Calendar, Calendar No. 281.
 - 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-368.
 - 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-368.
+- 2016-01-11 — Considered under suspension of the rules. (consideration: CR H242-244)
+- 2016-01-11 — DEBATE - The House proceeded with forty minutes of debate on S. 1629.
+- 2016-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2016-01-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H242-244)
+- 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H242-244)
+- 2016-01-19 — Presented to President.
+- 2016-01-19 — Presented to President.
+- 2016-01-28 — Became Public Law No: 114-118.
+- 2016-01-28 — Became Public Law No: 114-118.
+- 2016-01-28 — Signed by President.
+- 2016-01-28 — Signed by President.
