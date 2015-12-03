@@ -1,7 +1,7 @@
 ---
 measure: S. 1580
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1580
@@ -43,3 +43,7 @@ Competitive Service Act of 2015
 - 2015-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6819; text as passed Senate: CR S6819)
 - 2015-09-17 — Received in the House.
 - 2015-09-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-10-09 — Ordered to be Reported by Unanimous Consent.
+- 2015-12-03 — Placed on the Union Calendar, Calendar No. 280.
+- 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-367.
+- 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-367.
