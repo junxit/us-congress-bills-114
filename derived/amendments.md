@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3762
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3762
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3762
@@ -95,7 +95,7 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 
 - House — Budget Committee
 
-## Recorded votes (20)
+## Recorded votes (22)
 
 - 2015-10-23 — [House 114-1-568](votes/house-114-1-0568.md) — On Passage — **Passed** (240–189)
 - 2015-12-03 — [Senate 114-1-311](votes/senate-114-1-0311.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
@@ -117,6 +117,8 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 - 2015-12-03 — [Senate 114-1-327](votes/senate-114-1-0327.md) — On the Motion — **Motion Rejected** (45–54)
 - 2015-12-03 — [Senate 114-1-328](votes/senate-114-1-0328.md) — On the Motion — **Motion Rejected** (46–53)
 - 2015-12-03 — [Senate 114-1-329](votes/senate-114-1-0329.md) — On Passage of the Bill — **Bill Passed** (52–47)
+- 2016-01-06 — [House 114-2-6](votes/house-114-2-0006.md) — On Motion to Concur in the Senate Amendment — **Passed** (240–181)
+- 2016-02-02 — [House 114-2-53](votes/house-114-2-0053.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (241–186)
 
 ## Actions
 
@@ -311,3 +313,30 @@ To provide for reconciliation pursuant to section 2002 of the concurrent resolut
 - 2015-12-03 — Senate amendment submitted
 - 2015-12-03 — Senate amendment submitted
 - 2015-12-03 — Senate amendment submitted
+- 2015-12-04 — Message on Senate action sent to the House.
+- 2016-01-06 — DEBATE - Pursuant to the provisions of H. Res. 579, the House proceeded with one hour of debate on the motion that the House agree to Senate amendment to H.R.3762.
+- 2016-01-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-06 — Mr. Price, Tom moved that the House concur in the Senate amendment. (consideration: CR H52-67; text of the motion: CR H54)
+- 2016-01-06 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 6). (text as House agreed to the Senate amendment: CR H52-54)
+- 2016-01-06 — Pursuant to the provisions of H. Res. 579, Mr. Price, Tom was recognized for a motion. (consideration: CR H52)
+- 2016-01-06 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 6).(text as House agreed to the Senate amendment: CR H52-54)
+- 2016-01-06 — The previous question was ordered pursuant to the rule. (consideration: CR H66)
+- 2016-01-07 — Presented to President.
+- 2016-01-07 — Presented to President.
+- 2016-01-08 — Floor summary: DEBATE - The House proceeded with one hour of debate on the Scalise motion to postpone consideration of the veto message.
+- 2016-01-08 — Mr. Scalise moved to postpone consideration of the veto message until Jan. 26. (consideration: CR H211)
+- 2016-01-08 — On motion to postpone consideration of the veto message until Jan. 26. Agreed to by voice vote.
+- 2016-01-08 — The Chair announced that the objections of the President to H.R. 3762 would be spread at large upon the Journal and the veto message would be printed as a House document (114-91). (consideration: CR H211)
+- 2016-01-08 — The Chair laid before the House the veto message from the President. (consideration: CR H210-211)
+- 2016-01-08 — The previous question on the motion to postpone consideration of the veto message was ordered without objection. (consideration: CR H211)
+- 2016-01-08 — Vetoed by President. (text of veto message: CR H210-211)
+- 2016-01-08 — Vetoed by President.(text of veto message: CR H210-211)
+- 2016-01-25 — Notwithstanding the order of the House on January 8, 2016, the Chair announced that further consideration of the veto message on H.R. 3762 shall be postponed until Tuesday, February 2, 2016. Agreed to without objection.
+- 2016-02-02 — Considered as unfinished business. (consideration: CR H482)
+- 2016-02-02 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 3762, the objections of the President to the contrary, notwithstanding.
+- 2016-02-02 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 241 - 186 (Roll no. 53).(consideration: CR H482)
+- 2016-02-02 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 241 - 186 (Roll no. 53). (consideration: CR H482)
+- 2016-02-02 — POSTPONED PROCEEDINGS - Pursuant to rule 8, clause 20, the Chair postponed further proceedings on the question of passage of H.R. 3762, the objections of the President to the contrary notwithstanding, until later in the legislative day.
+- 2016-02-02 — Pursuant to the order of the House of January 25, 2016, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.R. 3762.
+- 2016-02-02 — The Chair announced that the bill and accompanying veto message were referred to the Committee on the Budget. The Chair directed the Clerk to notify the Senate of the action to the House.
+- 2016-02-02 — The Chair announced the unfinished business to be the consideration of the veto.
