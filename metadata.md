@@ -1,7 +1,7 @@
 ---
 measure: S. 2109
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2109
@@ -24,3 +24,7 @@ Directing Dollars to Disaster Relief Act of 2015
 
 - 2015-09-30 — Introduced in Senate
 - 2015-09-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-173.
+- 2015-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-173.
+- 2015-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
