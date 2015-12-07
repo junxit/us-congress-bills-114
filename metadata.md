@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8
@@ -16,13 +16,14 @@ North American Energy Security and Infrastructure Act of 2015
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Oversight and Accountability Committee
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (14)
 
@@ -376,3 +377,4 @@ North American Energy Security and Infrastructure Act of 2015
 - 2015-12-03 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8.
 - 2015-12-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8986)
 - 2015-12-03 — UNFINISHED BUSINESS - The Chair announced that the unvinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2015-12-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
