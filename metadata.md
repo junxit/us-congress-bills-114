@@ -1,7 +1,7 @@
 ---
 measure: S. 2032
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2032
@@ -31,9 +31,10 @@ National Bison Legacy Act
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ National Bison Legacy Act
 - 2015-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8426)
 - 2015-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8426)
 - 2015-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8426)
+- 2015-12-04 — Message on Senate action sent to the House.
+- 2015-12-07 — Received in the House.
+- 2015-12-07 — Referred to the House Committee on Oversight and Government Reform.
