@@ -15,9 +15,12 @@ This Act may be cited as the “First Responder Identification of Emergency Need
 
 ## § 2. Circumstances which may impact first responders during a terrorist event
 
-Not later than 260 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on factors that would result in first responders failing to meet expectations based upon training and planning for terrorist incidents. The report—
-
-- **(1)** may include information on first responder performance and availability before, during, or after a terrorist threat or event; and
-- **(2)** shall—
-  - **(A)** include first responder input on how the presence of family in the impacted area, the adequacy of personal protective equipment, and training gaps may influence performance and availability; and
-  - **(B)** contain recommendations to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that describes select State and local programs and policies, as appropriate, related to the preparedness and protection of first responders. The report may include information on—
+  - **(1)** the degree to which such programs and policies include consideration of the presence of a first responder’s family in an area impacted by a terrorist attack;
+  - **(2)** the availability of personal protective equipment for first responders;
+  - **(3)** the availability of home Medkits for first responders and their families for biological incident response; and
+  - **(4)** other related factors.
+- **(b)** *Context* In preparing the report required under subsection (a), the Comptroller General of the United States may, as appropriate, provide information—
+  - **(1)** in a format that delineates high risk urban areas from rural communities; and
+  - **(2)** on the degree to which the selected State and local programs and policies included in the report were developed or are being executed with funding from the Department of Homeland Security, including grant funding from the State Homeland Security Grant Program or the Urban Area Security Initiative under sections 2002 and 2003, respectively, of the Homeland Security Act of 2002 (6 U.S.C. 603 and 604).
+- **(c)** *Homeland security consideration* After issuance of the report required under subsection (a), the Secretary of Homeland Security shall consider the report’s findings and assess its applicability for Federal first responders.

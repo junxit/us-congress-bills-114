@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2795
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2795
@@ -42,3 +42,9 @@ First Responder Identification of Emergency Needs in Disaster Situations
 - 2015-06-16 — Introduced in House
 - 2015-06-16 — Introduced in House
 - 2015-06-16 — Referred to the House Committee on Homeland Security.
+- 2015-06-19 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2015-11-04 — Committee Consideration and Mark-up Session Held.
+- 2015-11-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2015-12-07 — Placed on the Union Calendar, Calendar No. 282.
+- 2015-12-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-370.
+- 2015-12-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-370.
