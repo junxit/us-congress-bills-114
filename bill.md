@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1321
 
-> To amend the Federal Food, Drug, and Cosmetic Act to prohibit the manufacture and introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing intentionally-added plastic microbeads.
+> To prohibit the sale or distribution of cosmetics containing synthetic plastic microbeads.
 
 ## § 1. Short title
 
