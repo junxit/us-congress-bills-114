@@ -2,12 +2,12 @@
 legis-num: H.R. 1321
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1321
 
-> To prohibit the sale or distribution of cosmetics containing synthetic plastic microbeads.
+> To amend the Federal Food, Drug, and Cosmetic Act to prohibit the manufacture and introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing intentionally-added plastic microbeads.
 
 ## § 1. Short title
 
