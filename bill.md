@@ -15,9 +15,9 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
 
 ## § 2. Science and technology in support of homeland security
 
-- **(a)** *In general* Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended—
-  - **(1)** in section 301—
-    - **(A)** by striking “There” and inserting the following new subsection:
+- **(a)** *In general* Title III of the Homeland Security Act of 2002 is amended—
+  - **(1)** in section 301 (6 U.S.C. 181)—
+    - **(A)** by striking “There” and inserting the following:
       > - **(a)** *In general* There
 
     - **(B)** by adding at the end the following new subsection:
@@ -26,11 +26,11 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
       >   - **(2)** seek innovative, system-based solutions to complex homeland security problems; and
       >   - **(3)** build partnerships and leverage technology solutions developed by other Federal agencies and laboratories, State, local, and tribal governments, universities, and the private sector.
 
-  - **(2)** in section 302—
-    - **(A)** in the matter preceding paragraph (1), by striking “The Secretary” and inserting the following new subsection:
-      > - **(a)** *In general* The Secretary
+  - **(2)** in section 302 (6 U.S.C. 182)—
+    - **(A)** in the matter preceding paragraph (1), by striking “The Secretary, acting through the Under Secretary for Science and Technology, shall” and inserting the following:
+      > - **(a)** *In general* The Secretary, acting through the Under Secretary for Science and Technology, shall carry out the mission described in subsection (b) of section 301 and shall
 
-    - **(B)** in subsection (a), as so amended by subparagraph (A) of this paragraph—
+    - **(B)** in subsection (a), as so designated by subparagraph (A) of this paragraph—
       - **(i)** in paragraph (1), by inserting “and serving as the senior scientific advisor to the Secretary” before the semicolon at the end;
       - **(ii)** in paragraph (2)—
         - **(I)** by striking “national”;
@@ -39,12 +39,12 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
       - **(iii)** in paragraph (3), by striking “the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” and inserting “components and offices of the Department”;
       - **(iv)** in paragraph (4), by striking “except that such responsibility does not extend to human health-related research and development activities” and inserting the following:
         > including coordinating with relevant components and offices of the Department appropriate to—
-        > - **(A)** identify and prioritize technical capability requirements and create solutions that include researchers and operational end users, and
+        > - **(A)** identify and prioritize technical capability requirements and create solutions that include researchers, the private sector, and operational end users, and
         > - **(B)** develop capabilities to address issues on research, development, testing, evaluation, technology, and standards for the first responder community,
 
       - **(v)** in paragraph (5)(A), by striking “biological,,” and inserting “biological,”;
       - **(vi)** by amending paragraph (12) to read as follows:
-        > - **(12)** coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department, including through a centralized Federal clearinghouse established pursuant to paragraph (1) of section 313(b), and providing advice, as necessary, regarding major acquisition programs;
+        > - **(12)** coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department, including through a centralized Federal clearinghouse established pursuant to paragraph (1) of section 313(b) for information relating to technologies that would further the mission of the Department, and providing advice, as necessary, regarding major acquisition programs;
 
       - **(vii)** in paragraph (13), by striking “and” at the end;
       - **(viii)** in paragraph (14), by striking the period at the end and inserting a semicolon; and
@@ -65,26 +65,41 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
         >   - **(C)** assist in evaluating new and emerging technologies against capability gaps;
         >   - **(D)** support evaluation of alternatives;
         >   - **(E)** improve the use of technology Department-wide; and
-        >   - **(F)** provide technical assistance in the development of acquisition lifecycle cost for technologies; and
-        > - **(18)** identifying technologies that address an existing or imminent homeland security capability gap within the Department, identifying and supporting incremental improvements, and increasing the utilization of such technologies through partnerships and development efforts.
+        >   - **(F)** provide technical assistance in the development of acquisition lifecycle cost for technologies;
+        > - **(18)** acting as a coordinating office for technology development for the Department by helping components and offices define technological requirements, and building partnerships with appropriate entities (such as within the Department and with other Federal agencies and laboratories, State, local, and tribal governments, universities, and the private sector) to help each such component and office attain the technology solutions it needs; and
+        > - **(19)** coordinating with organizations that provide venture capital to businesses, particularly small businesses, as appropriate, to assist in the commercialization of innovative homeland security technologies that are expected to be ready for commercialization in the near term and within 36 months.
 
-    - **(C)** by adding at the end the following new subsections:
+    - **(C)** by adding at the end the following new subsection:
       > - **(b)** *Review of responsibilities* Not later than 180 days after the date of the enactment of this subsection, the Under Secretary for Science and Technology shall submit to the appropriate congressional committees a report on the implementation of paragraphs (2) (including how the policy and strategic plan under such paragraph may serve as a basis for a national strategy referred to in such paragraph), (11), (12), (13), (16), and (17) of subsection (a).
 
-  - **(3)** in section 303(1), by striking subparagraph (F);
-  - **(4)** in section 305—
-    - **(A)** by striking “The” and inserting the following new subsection:
+  - **(3)** in section 303(1) (6 U.S.C. 183(1)), by striking subparagraph (F);
+  - **(4)** in section 305 (6 U.S.C. 185)—
+    - **(A)** by striking “The” and inserting the following:
       > - **(a)** *Establishment* The
 
     - **(B)** by adding at the end the following new subsection:
       > - **(b)** *Conflicts of interest* The Secretary shall review and revise, as appropriate, the policies of the Department relating to personnel conflicts of interest to ensure that such policies specifically address employees of federally funded research and development centers established pursuant to subsection (a) who are in a position to make or materially influence research findings or agency decision making.
 
-  - **(5)** in section 306(c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the appropriate congressional committees prior to such issuance.”;
-  - **(6)** in section 308—
-    - **(A)** in subsection (b)(2)(B)—
-      - **(i)** in clause (iv), by striking “and nuclear countermeasures or detection” and inserting “nuclear, and explosives countermeasures or detection”; and
-      - **(ii)** by adding after clause (xiv) the following new clause:
-        > - **(xv)** Cybersecurity.
+  - **(5)** in section 306 (6 U.S.C. 186)—
+    - **(A)** in subsection (c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the appropriate congressional committees prior to such issuance.”; and
+    - **(B)** by amending subsection (d) to read as follows:
+      > - **(d)** *Personnel* In hiring personnel for the Directorate of Science and Technology, the Secretary shall have the hiring and management authorities described in section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of such section may not exceed five years before the granting of any extension under subsection (c)(2) of such section.
+
+  - **(6)** in section 308 (6 U.S.C. 188)—
+    - **(A)** in subsection (b)(2)—
+      - **(i)** in subparagraph (B)—
+        - **(I)** in clause (iv), by striking “and nuclear countermeasures or detection” and inserting “nuclear, and explosives countermeasures or detection (which may include research into remote sensing and remote imaging)”; and
+        - **(II)** by adding after clause (xiv) the following new clause:
+          > - **(xv)** Cybersecurity.
+
+      - **(ii)** by amending subparagraph (D) to read as follows:
+        > - **(D)** *Annual report to Congress* Not later than one year after the date of the enactment of this subparagraph and annually thereafter, the Secretary shall submit to Congress a report on the implementation of this section. Each such report shall—
+        >   - **(i)** indicate which center or centers have been designated pursuant to this section;
+        >   - **(ii)** describe how such designation or designations enhance homeland security;
+        >   - **(iii)** provide information on any decisions to revoke or modify such designation or designations;
+        >   - **(iv)** describe research that has been tasked and completed by each center that has been designated during the preceding year;
+        >   - **(v)** describe funding provided by the Secretary for each center under clause (iv) for that year; and
+        >   - **(vi)** describe plans for utilization of each center or centers in the forthcoming year.
 
     - **(B)** by adding at the end the following new subsection:
       > - **(d)** *Test, evaluation, and standards division*
@@ -100,13 +115,16 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
       >   - **(4)** *Limitation* The Test, Evaluation, and Standards Division is not required to carry out operational testing of major acquisition programs.
       >   - **(5)** *Evaluation of Department of Defense technologies* The Director of Test, Evaluation, and Standards may evaluate technologies currently in use or being developed by the Department of Defense to assess whether such technologies can be leveraged to address homeland security capability gaps.
 
-  - **(7)** in section 310, by adding at the end the following new subsection:
+  - **(7)** in section 309(a) (6 U.S.C. 189(a)), by adding at the end the following new paragraph:
+    > - **(3)** *Treatment of certain funds* Notwithstanding any other provision of law, any funds provided to a Department of Energy national laboratory by the Department may not be treated as an assisted acquisition.
+
+  - **(8)** in section 310 (6 U.S.C. 190), by adding at the end the following new subsection:
     > - **(e)** *Successor facility* Any successor facility to the Plum Island Animal Disease Center, including the National Bio and Agro-Defense Facility (NBAF) under construction as of the date of the enactment of this subsection, which is intended to the replace the Plum Island Animal Disease Center shall be subject to the requirements of this section in the same manner and to the same extent as the Plum Island Animal Disease Center under this section.
 
-  - **(8)** in section 311—
+  - **(9)** in section 311 (6 U.S.C. 191)—
     - **(A)** in subsection (b)—
-      - **(i)** in paragraph (1)—
-        - **(I)** by striking “20 members” and inserting “not fewer than 15 and not more than 30”; and
+      - **(i)** in paragraph (1), in the first sentence—
+        - **(I)** by striking “20 members” and inserting “not fewer than 15 members and not more than 30 members”; and
         - **(II)** by inserting “academia, national labs, private industry, and” after “representatives of”;
       - **(ii)** by redesignating paragraph (2) as paragraph (3); and
       - **(iii)** by inserting after paragraph (1) the following new paragraph:
@@ -121,17 +139,26 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
       - **(i)** in paragraph (1)—
         - **(I)** in the first sentence—
           - **(aa)** by striking “render” and inserting “submit”; and
-          - **(bb)** by striking “Congress” and inserting “the appropriate congressional committees”; and
+          - **(bb)** by striking “Congress” and inserting “the appropriate congressional committees”;
         - **(II)** in the second sentence, by inserting “, and incorporate the findings and recommendations of the Advisory Committee subcommittees,” before “during”; and
       - **(ii)** in paragraph (2)—
         - **(I)** striking “render” and inserting “submit”; and
         - **(II)** by striking “Congress” and inserting “the appropriate congressional committees”;
-    - **(E)** in subsection (i), by inserting “, except that the Advisory Committee shall file a charter with Congress every two years in accordance with subsection (b)(2) of such section (14)”; and
-    - **(F)** in subsection (j), by striking “2008” and inserting “2020”; and
-  - **(9)** by adding after section 317 the following new sections:
+    - **(E)** in subsection (i), by inserting before the period at the end the following: “, except that the Advisory Committee shall file a charter with Congress every two years in accordance with subsection (b)(2) of such section 14”;
+    - **(F)** in subsection (j), by striking “2008” and inserting “2020”;
+  - **(10)** in section 313 (6 U.S.C. 193)—
+    - **(A)** by redesignating subsection (c) as subsection (d); and
+    - **(B)** by inserting after subsection (b) the following new subsection:
+      > - **(c)** *Application of program* The Secretary, acting through the Under Secretary for Science and Technology, shall use the program established under subsection (a) to—
+      >   - **(1)** enhance the cooperation between components and offices of the Department on projects that have similar goals, timelines, or outcomes;
+      >   - **(2)** ensure the coordination of technologies to eliminate unnecessary duplication of research and development;
+      >   - **(3)** ensure technologies are accessible for component and office use on a Department website; and
+      >   - **(4)** carry out any additional purpose the Secretary determines necessary.
+
+  - **(11)** by adding after section 317 (6 U.S.C. 195c) the following new sections:
     > ## § 318. Identification and prioritization of research and development
     >
-    > - **(a)** *In general* Not later than 180 days after the date of the enactment of this section, the Under Secretary for Science and Technology shall establish a process to define, identify, prioritize, fund, and task the basic and applied homeland security research and development activities of the Directorate of Science and Technology.
+    > - **(a)** *In general* Not later than 180 days after the date of the enactment of this section, the Under Secretary for Science and Technology shall establish a process to define, identify, prioritize, fund, and task the basic and applied homeland security research and development activities of the Directorate of Science and Technology to meet the needs of the components and offices of the Department, the first responder community, and the Homeland Security Enterprise (as such term is defined in section 322).
     > - **(b)** *Process* The process established under subsection (a) shall—
     >   - **(1)** be responsive to near-, mid-, and long-term needs, including unanticipated needs to address emerging threats;
     >   - **(2)** utilize gap analysis and risk assessment tools where available and applicable;
@@ -140,30 +167,30 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
     >     - **(B)** communication and collaboration for research and development activities pursued by other executive agencies, to determine if technology can be leveraged to identify and address homeland security capability gaps and avoid unnecessary duplication of efforts;
     >   - **(4)** provide for documented and validated research and development requirements;
     >   - **(5)** strengthen first responder participation to identify and prioritize homeland security technological gaps, including by—
-    >     - **(A)** soliciting feedback from appropriate national associations and advisory groups representing the first responder community and first responders within the components of the Department; and
+    >     - **(A)** soliciting feedback from appropriate national associations and advisory groups representing the first responder community and first responders within the components and offices of the Department; and
     >     - **(B)** establishing and promoting a publicly accessible portal to allow the first responder community to help the Directorate of Science and Technology develop homeland security research and development goals;
     >   - **(6)** institute a mechanism to publicize the Department’s homeland security technology priorities for the purpose of informing Federal, State, and local governments, first responders, and the private sector;
-    >   - **(7)** establish considerations to be used by the Directorate in selecting appropriate research entities, including the national laboratories, federally funded research and development centers, university-based centers, and the private sector, to carry out research and development requirements; and
-    >   - **(8)** include any other criteria or measures the Under Secretary for Science and Technology considers necessary for the identification and prioritization of research requirements.
+    >   - **(7)** establish considerations to be used by the Directorate in selecting appropriate research entities, including the national laboratories, federally funded research and development centers, university-based centers, and the private sector, to carry out research and development requirements;
+    >   - **(8)** incorporate feedback derived as a result of the mechanism established in section 323, ensuring the Directorate is utilizing regular communication with components and offices of the Department; and
+    >   - **(9)** include any other criteria or measures the Under Secretary for Science and Technology considers necessary for the identification and prioritization of research requirements.
     >
-    > ## § 319. Reporting requirements
+    > ## § 319. Development of Directorate strategy and research and development plan
     >
     > - **(a)** *Strategy*
-    >   - **(1)** *In general* Not later than one year after the date of the enactment of this section, the Under Secretary for Science and Technology shall develop and submit to the appropriate congressional committees a strategy to guide the activities of the Directorate of Science and Technology. Such strategy shall be updated at least once every five years and shall identify priorities and objectives for the development of science and technology solutions and capabilities addressing homeland security operational needs. Such strategy shall take into account the priorities and needs of stakeholders in the Homeland Security Enterprise (as such term is defined in section 322). In developing such strategy, efforts shall be made to support collaboration and avoid unnecessary duplication across the Federal Government. Such strategy shall be risk-based and aligned with other strategic guidance provided by—
+    >   - **(1)** *In general* Not later than one year after the date of the enactment of this section, the Under Secretary for Science and Technology shall develop and submit to the appropriate congressional committees a strategy to guide the activities of the Directorate of Science and Technology. Such strategy shall be updated at least once every five years and shall identify priorities and objectives for the development of science and technology solutions and capabilities addressing homeland security operational needs. Such strategy shall include the coordination of such priorities and activities within the Department. Such strategy shall take into account the priorities and needs of stakeholders in the Homeland Security Enterprise (as such term is defined in section 322). In developing such strategy, efforts shall be made to support collaboration and avoid unnecessary duplication across the Federal Government. Such strategy shall be risk-based and aligned with other strategic guidance provided by—
     >     - **(A)** the National Strategy for Homeland Security;
     >     - **(B)** the Quadrennial Homeland Security Review; and
     >     - **(C)** any other relevant strategic planning documents, as determined by the Under Secretary.
     >   - **(2)** *Contents* The strategy required under paragraph (1) shall be prepared in accordance with applicable Federal requirements and guidelines, and shall include the following:
     >     - **(A)** An identification of the long-term strategic goals, objectives, and metrics of the Directorate.
-    >     - **(B)** The role of risk analysis activities and programs of the Directorate.
-    >     - **(C)** A technology transition strategy for the programs of the Directorate.
-    >     - **(D)** Short- and long-term strategic goals, and objectives for increasing the number of designations and certificates issued under subtitle G of title VIII, including cybersecurity technologies that could significantly reduce, or mitigate the effects of, cybersecurity risks (as such term is defined in subsection (a)(1) of the second section 226, relating to the national cybersecurity and communications integration center), without compromising the quality of the evaluation of applications for such designations and certificates.
-    > - **(b)** *Five-Year research and development plan*
+    >     - **(B)** A technology transition strategy for the programs of the Directorate.
+    >     - **(C)** Short- and long-term strategic goals, and objectives for increasing the number of designations and certificates issued under subtitle G of title VIII, including cybersecurity technologies that could significantly reduce, or mitigate the effects of, cybersecurity risks (as such term is defined in subsection (a)(1) of the second section 226, relating to the national cybersecurity and communications integration center), without compromising the quality of the evaluation of applications for such designations and certificates.
+    > - **(b)** *Five-year research and development plan*
     >   - **(1)** *In general* The Under Secretary for Science and Technology shall develop, and update at least once every five years, a five-year research and development plan for the activities of the Directorate of Science and Technology. The Under Secretary shall develop the first such plan by the date that is not later than one year after the date of the enactment of this section.
     >   - **(2)** *Contents* Each five-year research and development plan developed and revised under subsection (a) shall—
-    >     - **(A)** define the Directorate’s research, development, testing, and evaluation activities, priorities, performance metrics, and key milestones and deliverables for, as the case may be, the five-fiscal-year period from 2016 through 2020, and for each five-fiscal-year period thereafter;
+    >     - **(A)** define the Directorate of Science and Technology’s research, development, testing, and evaluation activities, priorities, performance metrics, and key milestones and deliverables for, as the case may be, the five-fiscal-year period from 2016 through 2020, and for each five-fiscal-year period thereafter;
     >     - **(B)** describe, for the activities of the strategy developed under subsection (a), the planned annual funding levels for the period covered by each such five-year research and development plan;
-    >     - **(C)** indicate joint investments with other Federal partners where applicable;
+    >     - **(C)** indicate joint investments with other Federal partners where applicable, and enhanced coordination with organizations as specified in paragraph (19) of section 302, as appropriate;
     >     - **(D)** analyze how the research programs of the Directorate support achievement of the strategic goals and objectives identified in the strategy required under subsection (a);
     >     - **(E)** describe how the activities and programs of the Directorate meet the requirements or homeland security capability gaps identified by customers within and outside of the Department, including the first responder community; and
     >     - **(F)** describe the policies of the Directorate regarding the management, organization, and personnel of the Directorate.
@@ -171,8 +198,8 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
     >     - **(A)** reflects input from a wide range of stakeholders; and
     >     - **(B)** takes into account how research and development by other Federal, State, private sector, and nonprofit institutions contributes to the achievement of the priorities identified in each plan, and avoids unnecessary duplication with such efforts.
     >   - **(4)** *Reports* At the time the President submits each annual budget request under section 1105(a) of title 31, United States Code, the Under Secretary for Science and Technology shall submit to the appropriate congressional committees a report on the status and results to date of implementation of the current five-year research and development plan, including—
-    >     - **(A)** a summary of the research and development activities for the previous fiscal year in each topic area, together with the results of the process specified in paragraph (15) of section 302;
-    >     - **(B)** the annual expenditures in each topic area;
+    >     - **(A)** a summary of the research and development activities for the previous fiscal year in each topic area, including such activities to address homeland security risks, including threats, vulnerabilities, and consequences, and a summary of the coordination activities undertaken by the Directorate of Science and Technology for components and offices of the Department, together with the results of the process specified in paragraph (15) of section 302;
+    >     - **(B)** clear links between the Directorate’s budget and each topic area or program, including those topic areas or programs to address homeland security risks, including threats, vulnerabilities, and consequences, specifying which topic areas or programs fall under which budget lines, and clear links between Directorate coordination work and priorities and annual expenditures for such work and priorities, including joint investments with other Federal partners, where applicable;
     >     - **(C)** an assessment of progress of the research and development activities based on the performance metrics and milestones set forth in such plan; and
     >     - **(D)** any changes to such plan.
     >
@@ -202,7 +229,7 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
     >     - **(B)** for the use of a component or office of the Department outside the Directorate, under a memorandum of agreement with the head of such a component or office under which such component or office will reimburse the Directorate for the costs of such employment.
     >   - **(2)** *Responsibilities* Under an agreement referred to in subparagraph (B) of paragraph (1)—
     >     - **(A)** the Under Secretary for Science and Technology and the Under Secretary for Management shall—
-    >       - **(i)** solicit and accept applications from individuals who are currently enrolled in or who are graduates of postgraduate programs in scientific and engineering fields related to the promotion of securing the homeland;
+    >       - **(i)** solicit and accept applications from individuals who are currently enrolled in or who are graduates of postgraduate programs in scientific and engineering fields related to the promotion of securing the homeland or critical infrastructure sectors;
     >       - **(ii)** screen applicants and interview them as appropriate to ensure that such applicants possess the appropriate level of scientific and engineering expertise and qualifications;
     >       - **(iii)** provide a list of qualified applicants to the heads of components and offices of the Department seeking to utilize qualified fellows;
     >       - **(iv)** subject to the availability of appropriations, pay financial compensation to such fellows;
@@ -216,18 +243,21 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
     >
     > ## § 322. Cybersecurity research and development
     >
-    > - **(a)** *In general* The Under Secretary for Science and Technology shall support research, development, testing, evaluation, and transition of cybersecurity technology, including fundamental, long-term research to improve the sharing of information related to cybersecurity risks and incidents, consistent with current law.
+    > - **(a)** *In general* The Under Secretary for Science and Technology shall support research, development, testing, evaluation, and transition of cybersecurity technology, including fundamental research to improve the sharing of information, analytics, and methodologies related to cybersecurity risks and incidents, consistent with current law.
     > - **(b)** *Activities* The research and development supported under subsection (a) shall serve the components of the Department and shall—
     >   - **(1)** advance the development and accelerate the deployment of more secure information systems;
     >   - **(2)** improve and create technologies for detecting attacks or intrusions, including real-time continuous diagnostics and real-time analytic technologies;
     >   - **(3)** improve and create mitigation and recovery methodologies, including techniques and policies for real-time containment of attacks, and development of resilient networks and information systems;
-    >   - **(4)** develop and support infrastructure and tools to support cybersecurity research and development efforts, including modeling, testbeds, and data sets for assessment of new cybersecurity technologies;
-    >   - **(5)** assist the development and support of technologies to reduce vulnerabilities in industrial control systems; and
-    >   - **(6)** develop and support cyber forensics and attack attribution.
+    >   - **(4)** support, in coordination with private sector, the review of source code that underpins critical infrastructure information systems;
+    >   - **(5)** develop and support infrastructure and tools to support cybersecurity research and development efforts, including modeling, testbeds, and data sets for assessment of new cybersecurity technologies;
+    >   - **(6)** assist the development and support of technologies to reduce vulnerabilities in industrial control systems; and
+    >   - **(7)** develop and support cyber forensics and attack attribution.
     > - **(c)** *Coordination* In carrying out this section, the Under Secretary for Science and Technology shall coordinate activities with—
-    >   - **(1)** the Under Secretary appointed pursuant to section 103(a)(1)(H); and
-    >   - **(2)** the heads of other relevant Federal departments and agencies, including the National Science Foundation, the Defense Advanced Research Projects Agency, the Information Assurance Directorate of the National Security Agency, the National Institute of Standards and Technology, the Department of Commerce, the Networking and Information Technology Research and Development Program Office, and other appropriate working groups established by the President to identify unmet needs and cooperatively support activities, as appropriate.
-    > - **(d)** *Definitions* In this section:
+    >   - **(1)** the Under Secretary appointed pursuant to section 103(a)(1)(H);
+    >   - **(2)** the heads of other relevant Federal departments and agencies, including the National Science Foundation, the Defense Advanced Research Projects Agency, the Information Assurance Directorate of the National Security Agency, the National Institute of Standards and Technology, the Department of Commerce, the Networking and Information Technology Research and Development Program Office, Sector Specific Agencies for critical infrastructure, and other appropriate working groups established by the President to identify unmet needs and cooperatively support activities, as appropriate; and
+    >   - **(3)** industry and academia.
+    > - **(d)** *Transition to practice* The Under Secretary for Science and Technology shall support projects through the full life cycle of such projects, including research, development, testing, evaluation, pilots, and transitions. The Under Secretary shall identify mature technologies that address existing imminent cybersecurity gaps in public or private information systems and networks of information systems, identify and support necessary improvements identified during pilot programs and testing and evaluation activities, and introduce new cybersecurity technologies throughout the Homeland Security Enterprise through partnerships and commercialization. The Under Secretary shall target federally funded cybersecurity research that demonstrates a high probability of successful transition to the commercial market within two years and that is expected to have notable impact on the cybersecurity of the information systems or networks of information systems of the United States.
+    > - **(e)** *Definitions* In this section:
     >   - **(1)** *Cybersecurity risk* The term “cybersecurity risk” has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.
     >   - **(2)** *Homeland Security Enterprise* The term “Homeland Security Enterprise” means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.
     >   - **(3)** *Incident* The term “incident” has the meaning given such term in the second section 226, relating to the national cybersecurity and communications integration center.
@@ -242,6 +272,23 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
     >   - **(4)** Identifying unnecessary redundancy in departmental research and development activities within a specific mission area.
     >   - **(5)** Informing the Secretary and the annual budget process regarding whether certain technological solutions are able to address homeland security capability gaps within a specific mission area.
     > - **(b)** *Congressional oversight* Not later than two years after the date of enactment of this section, the Secretary shall provide to the appropriate congressional committees information on the impact and effectiveness of the mechanism described in subsection (a) on research and development efforts, component relationships, and how the process has informed the research and development budget and enhanced decision making, including acquisition decision making, at the Department. The Secretary shall seek feedback from the Under Secretary for Science and Technology, Under Secretary for Management, and the senior leadership of operational components regarding the impact and effectiveness of such mechanism and include such feedback in the information provided under this subsection.
+    >
+    > ## § 324. Homeland Security-STEM summer internship program
+    >
+    > - **(a)** *In general* The Under Secretary for Science and Technology shall establish a Homeland Security-STEM internship program (in this section referred to as the “program”) to carry out the objectives of this subtitle.
+    > - **(b)** *Program* The program shall provide students with exposure to Department mission-relevant research areas to encourage such students to pursue STEM careers in homeland security related fields. Internships offered under the program shall be for up to ten weeks during the summer.
+    > - **(c)** *Eligibility* The Under Secretary for Science and Technology shall develop criteria for participation in the program, including the following:
+    >   - **(1)** At the time of application, an intern shall—
+    >     - **(A)** have successfully completed not less than one academic year of study at an institution of higher education in a STEM field;
+    >     - **(B)** be enrolled in a course of study in a STEM field at an institution of higher education; and
+    >     - **(C)** plan to continue such course of study or pursue an additional course of study in a STEM field at an institution of higher education in the academic year following the internship.
+    >   - **(2)** An intern shall be pursuing career goals aligned with the Department’s mission, goals, and objectives.
+    >   - **(3)** Any other criteria the Under Secretary determines appropriate.
+    > - **(d)** *Cooperation* The program shall be administered in cooperation with the university-based centers for homeland security under section 308. Interns in the program shall be provided hands-on research experience and enrichment activities focused on Department research areas.
+    > - **(e)** *Academic requirements; Operation* The Under Secretary for Science and Technology shall determine the academic requirements, other selection criteria, and standards for successful completion of each internship period in the program. The Under Secretary shall be responsible for the design, implementation, and operation of the program.
+    > - **(f)** *Research mentors* The Under Secretary for Science and Technology shall ensure that each intern in the program is assigned a research mentor to act as counselor and advisor and provide career-focused advice.
+    > - **(g)** *Outreach to certain under-represented students* The Under Secretary for Science and Technology shall conduct outreach to students who are members of groups under-represented in STEM careers to encourage their participation in the program.
+    > - **(h)** *Institution of higher education defined* In this section, the term “institution of higher education” has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), except that the term does not include institutions described in subparagraph (C) of such section 102(a)(1).
 
 - **(b)** *Effective date* The amendments made by subsection (a) shall take effect on the date that is 30 days after the date of the enactment of this section.
 - **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 317 the following new items:
@@ -255,7 +302,7 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
   - **(2)** in subsection (c)—
     - **(A)** in paragraph (1), in the matter preceding subparagraph (A), by striking “2015” and inserting “2020”; and
     - **(B)** by amending paragraph (2) to read as follows:
-      > - **(2)** *Report* The Secretary shall annually submit to the appropriate congressional committees a report detailing the projects for which the authority granted by subsection (a) was used, the rationale for such use, the funds spent using such authority, the extent of cost-sharing for such projects among Federal and non-Federal sources, the extent to which use of such authority has addressed a homeland security capability gap identified by the Department, the total amount of payments, if any, that were received by the Federal Government as a result of the use of such authority during the period covered by each such report, the outcome of each project for which such authority was used, and the results of any audits of such projects.
+      > - **(2)** *Report* The Secretary shall annually submit to the appropriate congressional committees a report detailing the projects for which the authority granted by subsection (a) was used, the rationale for such use, the funds spent using such authority, the extent of cost-sharing for such projects among Federal and non-federal sources, the extent to which use of such authority has addressed a homeland security capability gap identified by the Department, the total amount of payments, if any, that were received by the Federal Government as a result of the use of such authority during the period covered by each such report, the outcome of each project for which such authority was used, and the results of any audits of such projects.
 
   - **(3)** by adding at the end the following new subsections:
     > - **(e)** *Training* The Secretary shall develop a training program for acquisitions staff in the use of other transaction authority to help ensure the appropriate use of such authority.
@@ -264,5 +311,16 @@ This Act may be cited as the “DHS Science and Technology Reform and Improvemen
 - **(e)** *Amendment to definition* Paragraph (2) of subsection (a) of the second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center) is amended to read as follows:
   > - **(2)** *Incident* The term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system.
 
-- **(f)** *Prize authority* The Under Secretary for Science and Technology of the Department of Homeland Security shall utilize, as appropriate, prize authority granted pursuant to current law.
-- **(g)** *Prohibition on new funding* No funds are authorized to be appropriated to carry out this section and the amendments made by this section. Such section and amendments shall be carried out using amounts otherwise appropriated or made available for such purposes.
+- **(f)** *GAO study of university-based centers*
+  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a study to assess the university-based centers for homeland security program authorized by section 308(b)(2) of the Homeland Security Act of 2002 (6 U.S.C. 188(b)(2)), and provide recommendations to the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate for appropriate improvements.
+  - **(2)** *Subject matters* The study required under subsection (a) shall include the following:
+    - **(A)** A review of the Department of Homeland Security’s efforts to identify key areas of study needed to support the homeland security mission, and criteria that the Department utilized to determine such key areas for which the Department should maintain, establish, or eliminate university-based centers.
+    - **(B)** A review of the method by which university-based centers, federally funded research and development centers, and Department of Energy national laboratories receive tasking from the Department of Homeland Security, including a review of how university-based research is identified, prioritized, and funded.
+    - **(C)** A review of selection criteria for designating university-based centers and a weighting of such criteria.
+    - **(D)** An examination of best practices from other departments’ and agencies’ efforts to organize and use university-based research to support their missions.
+    - **(E)** A review of the Department of Homeland Security’s criteria and metrics to measure demonstrable progress achieved by university-based centers in fulfilling Department taskings, and mechanisms for delivering and disseminating the research results of designated university-based centers within the Department and to other Federal, State, and local agencies.
+    - **(F)** An examination of the means by which academic institutions that are not designated or associated with the designated university-based centers can optimally contribute to the research mission of the Directorate of Science and Technology of the Department of Homeland Security.
+    - **(G)** An assessment of the interrelationship between the different university-based centers and the degree to which outreach and collaboration among a diverse array of academic institutions is encouraged by the Department of Homeland Security, particularly with historically Black colleges and universities and minority-serving institutions.
+    - **(H)** A review of any other essential elements of the programs determined in the conduct of the study.
+- **(g)** *Prize authority* The Under Secretary for Science and Technology of the Department of Homeland Security shall utilize, as appropriate, prize authority granted pursuant to current law.
+- **(h)** *Prohibition on new funding* No funds are authorized to be appropriated to carry out this section and the amendments made by this section. Such section and amendments shall be carried out using amounts otherwise appropriated or made available for such purposes.

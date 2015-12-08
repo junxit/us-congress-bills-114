@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 12 executed, 34 stated and not applied.
+51 amendatory instructions. 12 executed, 39 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 182
 
 > by striking “biological,,” and inserting “biological,”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `biological,,` |
 | Inserted | `biological,` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 182
 
 > in paragraph (3), by striking “the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” and inserting “components and offices of the Department”;
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection` |
 | Inserted | `components and offices of the Department` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 182
 
 > in paragraph (5)(A), by striking “biological,,” and inserting “biological,”;
 
@@ -51,25 +51,25 @@ to guess them.
 | Removed | `biological,,` |
 | Inserted | `biological,` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 188
 
-> in clause (iv), by striking “and nuclear countermeasures or detection” and inserting “nuclear, and explosives countermeasures or detection”; and
+> in clause (iv), by striking “and nuclear countermeasures or detection” and inserting “nuclear, and explosives countermeasures or detection (which may include research into remote sensing and remote imaging)”; and
 
 | | |
 |---|---|
 | Removed | `and nuclear countermeasures or detection` |
-| Inserted | `nuclear, and explosives countermeasures or detection` |
+| Inserted | `nuclear, and explosives countermeasures or detection (which may include research into remote sensing and remote imaging)` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 191
 
-> by striking “20 members” and inserting “not fewer than 15 and not more than 30”; and
+> by striking “20 members” and inserting “not fewer than 15 members and not more than 30 members”; and
 
 | | |
 |---|---|
 | Removed | `20 members` |
-| Inserted | `not fewer than 15 and not more than 30` |
+| Inserted | `not fewer than 15 members and not more than 30 members` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 191
 
 > in paragraph (2), as so redesignated, by striking “be appointed” and inserting “serve”;
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `be appointed` |
 | Inserted | `serve` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 191
 
 > by striking “render” and inserting “submit”; and
 
@@ -87,16 +87,7 @@ to guess them.
 | Removed | `render` |
 | Inserted | `submit` |
 
-### 6 U.S.C. § 181
-
-> by striking “Congress” and inserting “the appropriate congressional committees”; and
-
-| | |
-|---|---|
-| Removed | `Congress` |
-| Inserted | `the appropriate congressional committees` |
-
-### 6 U.S.C. § 181
+### 6 U.S.C. § 191
 
 > by striking “Congress” and inserting “the appropriate congressional committees”;
 
@@ -105,9 +96,18 @@ to guess them.
 | Removed | `Congress` |
 | Inserted | `the appropriate congressional committees` |
 
-### 6 U.S.C. § 181
+### 6 U.S.C. § 191
 
-> in subsection (j), by striking “2008” and inserting “2020”; and
+> by striking “Congress” and inserting “the appropriate congressional committees”;
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `the appropriate congressional committees` |
+
+### 6 U.S.C. § 191
+
+> in subsection (j), by striking “2008” and inserting “2020”;
 
 | | |
 |---|---|
@@ -141,34 +141,39 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 181` | replace | by striking “There” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 181` | replace | by striking “There” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 181` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | replace | in the matter preceding paragraph (1), by striking “The Secretary” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | insert | in paragraph (1), by inserting “and serving as the senior scientific advisor to the Secretary” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | strike | by striking “national”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | insert | by inserting “that may serve as a basis of a national strategy” after “terrorist threats”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | replace | in paragraph (4), by striking “except that such responsibility does not extend to human health-related research and development activities” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | amend | by amending paragraph (12) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | strike | in section 303(1), by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | replace | by striking “The” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | in section 306(c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the appropriate congressional committees prior to such issuance.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | amend | by adding after clause (xiv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | in section 310, by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | insert | by inserting “academia, national labs, private industry, and” after “representatives of”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | insert | in paragraph (1), by inserting “on a rotating basis” before the period at the end; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | strike | in subsection (e), in the second sentence, by striking “the call of”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 181` | insert | in the second sentence, by inserting “, and incorporate the findings and recommendations of the Advisory Committee subcommittees,” before “during”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | insert | in subsection (i), by inserting “, except that the Advisory Committee shall file a charter with Congress every two years in accordance with subsection (b)(2) of such section (14)”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 181` | amend | by adding after section 317 the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | replace | in the matter preceding paragraph (1), by striking “The Secretary, acting through the Under Secretary for Science and Technology, shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 182` | insert | in paragraph (1), by inserting “and serving as the senior scientific advisor to the Secretary” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 182` | strike | by striking “national”; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 182` | insert | by inserting “that may serve as a basis of a national strategy” after “terrorist threats”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 182` | replace | in paragraph (4), by striking “except that such responsibility does not extend to human health-related research and development activities” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 182` | amend | by amending paragraph (12) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 182` | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 183` | strike | in section 303(1) (6 U.S.C. 183(1)), by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 185` | replace | by striking “The” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 185` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 186` | add-at-end | in subsection (c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the appropriate congressional committees prior to such issuance.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 3104` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 188` | amend | by adding after clause (xiv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 188` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 188` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 189` | add-at-end | in section 309(a) (6 U.S.C. 189(a)), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 190` | add-at-end | in section 310 (6 U.S.C. 190), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 191` | insert | by inserting “academia, national labs, private industry, and” after “representatives of”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 191` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 191` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 191` | insert | in paragraph (1), by inserting “on a rotating basis” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 191` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 191` | strike | in subsection (e), in the second sentence, by striking “the call of”; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 191` | insert | in the second sentence, by inserting “, and incorporate the findings and recommendations of the Advisory Committee subcommittees,” before “during”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 191` | insert | in subsection (i), by inserting before the period at the end the following: “, except that the Advisory Committee shall file a charter with Congress every two years in accordance with subsection (b)(2) of such section 14”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 193` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 193` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 195c` | amend | by adding after section 317 (6 U.S.C. 195c) the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 181` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 317 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 391` | strike | in paragraph (1), by striking the last sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 391` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
