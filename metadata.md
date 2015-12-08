@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1452
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1452
@@ -25,3 +25,11 @@ To authorize Escambia County, Florida, to convey certain property that was forme
 - 2015-03-18 — Introduced in House
 - 2015-03-18 — Introduced in House
 - 2015-03-18 — Referred to the House Committee on Natural Resources.
+- 2015-04-07 — Referred to the Subcommittee on Federal Lands.
+- 2015-10-07 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Ordered to be Reported by Voice Vote.
+- 2015-10-08 — Subcommittee on Federal Lands Discharged.
+- 2015-12-08 — Placed on the Union Calendar, Calendar No. 286.
+- 2015-12-08 — Reported by the Committee on Natural Resources. H. Rept. 114-374.
+- 2015-12-08 — Reported by the Committee on Natural Resources. H. Rept. 114-374.
