@@ -66,13 +66,13 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(A)** by striking the enumerator, the paragraph heading, and the matter preceding subparagraph (A) and inserting the following:
       > - **(1)** *In general* Except as provided under paragraph (2), there are the following officers, appointed by the President, by and with the advice and consent of the Senate:
 
-    - **(B)** in subparagraph (C), by striking “An Under Secretary for Border and Transportation Security” and inserting “A Commissioner of United States Customs and Border Protection”;
-    - **(C)** in subparagraph (E), by striking “the Bureau of” and inserting “United States”;
-    - **(D)** in subparagraph (G), by striking “A Director of the Office of Counternarcotics Enforcement” and inserting “A Director of United States Immigration and Customs Enforcement”;
-    - **(E)** by redesignating subparagraphs (H) through (J) as subparagraphs (J) through (L), respectively; and
-    - **(F)** by inserting after subparagraph (G) the following new subparagraphs:
-      > - **(H)** An Administrator of the Transportation Security Administration.
-      > - **(I)** A Commandant of the Coast Guard.
+    - **(B)** by moving the margins of subparagraphs (A) through (J) two ems to the right;
+    - **(C)** in subparagraph (C), by striking “An Under Secretary for Border and Transportation Security” and inserting “A Commissioner of United States Customs and Border Protection”;
+    - **(D)** in subparagraph (E), by striking “the Bureau of” and inserting “United States”;
+    - **(E)** in subparagraph (G), by striking “A Director of the Office of Counternarcotics Enforcement” and inserting “A Director of United States Immigration and Customs Enforcement”;
+    - **(F)** by inserting after subparagraph (J) the following new subparagraphs:
+      > - **(K)** An Administrator of the Transportation Security Administration.
+      > - **(L)** A Commandant of the Coast Guard.
 
 - **(c)** *Title II* Title II (6 U.S.C. 121 et seq.) is amended as follows:
   - **(1)** In section 202 (6 U.S.C. 122)—
@@ -91,20 +91,20 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(B)** by redesignating subsection (d) as subsection (c).
   - **(5)** By redesignating sections 227 (6 U.S.C. 149) and 228 (6 U.S.C. 150) as sections 228 and 229, respectively.
   - **(6)** By redesignating the second section 226 (6 U.S.C. 148) (relating to “National Cybersecurity and Communications Integration Center”) as section 227.
-  - **(7)** In section 228 (6 U.S.C. 149), as redesignated by paragraph (6), by striking “section 226” and inserting “227(a)(1)”.
+  - **(7)** In section 228 (6 U.S.C. 149), as redesignated by paragraph (6), by striking “section 226” and inserting “section 227(a)(1)”.
 - **(d)** *Title III* Section 302 (6 U.S.C. 182) is amended by striking “biological,,” both places it appears and inserting “biological,”.
 - **(e)** *Title IV* Title IV (6 U.S.C. 201 et seq.) is amended as follows:
   - **(1)** By striking the title heading and inserting the following:
   - **(2)** By striking the heading for subtitle A and inserting the following:
   - **(3)** By striking section 401 (6 U.S.C. 201).
   - **(4)** In section 402 (6 U.S.C. 202)—
-    - **(A)** by striking the section heading and inserting the following: “Border, maritime, and transportation responsibilities”; and
+    - **(A)** by striking the section heading and inserting the following: “Border, maritime, and transportation responsibilities.”; and
     - **(B)** in the matter preceding paragraph (1), by striking “, acting through the Under Secretary for Border and Transportation Security,”.
   - **(5)** By striking the heading for subtitle B and inserting the following:
   - **(6)** In section 411 (6 U.S.C. 211)—
-    - **(A)** by striking the section heading and inserting the following: “Establishment of United States Customs and Border Protection”;
+    - **(A)** by striking the section heading and inserting the following: “Establishment of United States Customs and Border Protection.”;
     - **(B)** in subsection (a)—
-      - **(i)** by striking “the United States Customs Service” and inserting “an agency to be known as “United States Customs and Border Protection””; and
+      - **(i)** by striking “the United States Customs Service” and inserting “the United States Customs and Border Protection”; and
       - **(ii)** by striking “the Under Secretary for Border and Transportation Security” and inserting “the Secretary”; and
     - **(C)** in subsection (b)—
       - **(i)** in the subsection heading, by striking “of customs”;
@@ -140,7 +140,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(F)** by striking “the Bureau of Citizenship and Immigration Services” both places it appears and inserting “United States Citizenship and Immigration Services”;
     - **(G)** in subsection (a)—
       - **(i)** in the subsection heading, by striking “of Bureau”;
-      - **(ii)** in paragraph (1) by striking “a bureau” and inserting “an agency”;
+      - **(ii)** in paragraph (1) by striking “a bureau to be known as the “Bureau of Border Security”” and inserting “the Bureau of Border Security”;
       - **(iii)** in paragraph (2), in the paragraph heading, by striking “Assistant Secretary” and inserting “Director”; and
       - **(iv)** by striking paragraph (5) and inserting the following:
         > - **(5)** *Managerial rotation program* Not later than 1 year after the date on which the transfer of functions specified under section 441 takes effect, the Director of United States Immigration and Customs Enforcement shall design and implement a managerial rotation program under which employees of United States Immigration and Customs Enforcement holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, United States Code, as a GS–14 or above, shall—
@@ -161,12 +161,12 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(A)** in the section heading, by striking “Bureau of” and inserting “United States”;
     - **(B)** by striking “the Bureau of Citizenship and Immigration Services” each place it appears and inserting “United States Citizenship and Immigration Services”;
     - **(C)** by striking “Bureau of Citizenship and Immigration Services” each place it appears and inserting “United States Citizenship and Immigration Services”;
-    - **(D)** by striking “the Bureau of Border Security” each place it appears and inserting “United States Customs and Border Protection”;
+    - **(D)** by striking “the Bureau of Border Security” each place it appears and inserting “United States Immigration and Customs Enforcement”;
     - **(E)** in subsection (a)—
       - **(i)** in the subsection heading, by striking “of Bureau”;
       - **(ii)** in paragraph (1)—
-        - **(I)** by striking “a bureau” and inserting “an agency”; and
-        - **(II)** by striking “the “Bureau of Citizenship and Immigration Services”” and inserting ““United States Citizenship and Immigration Services””;
+        - **(I)** by striking “a bureau to be known as the “Bureau of Citizenship and Immigration Services”” and inserting “the Bureau of Citizenship and Immigration Services”; and
+        - **(II)** by striking “the “Bureau of Citizenship and Immigration Services”” and inserting ““the United States Citizenship and Immigration Services””;
       - **(iii)** in paragraph (2)(C), by striking “Assistant Secretary” and inserting “Director”; and
       - **(iv)** by striking paragraph (4) and inserting the following:
         > - **(4)** *Managerial rotation program* Not later than 1 year after the effective date specified in section 455, the Director of United States Citizenship and Immigration Services shall design and implement a managerial rotation program under which employees of United States Citizenship and Immigration Services holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, United States Code, as a GS–14 or above, shall—

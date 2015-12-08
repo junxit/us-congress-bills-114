@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3859
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-140 amendatory instructions. 60 executed, 80 stated and not applied.
+139 amendatory instructions. 60 executed, 79 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,12 +80,12 @@ to guess them.
 
 ### 6 U.S.C. § 149
 
-> In section 228 (6 U.S.C. 149), as redesignated by paragraph (6), by striking “section 226” and inserting “227(a)(1)”.
+> In section 228 (6 U.S.C. 149), as redesignated by paragraph (6), by striking “section 226” and inserting “section 227(a)(1)”.
 
 | | |
 |---|---|
 | Removed | `section 226` |
-| Inserted | `227(a)(1)` |
+| Inserted | `section 227(a)(1)` |
 
 ### 6 U.S.C. § 182
 
@@ -98,12 +98,12 @@ to guess them.
 
 ### 6 U.S.C. § 211
 
-> by striking “the United States Customs Service” and inserting “an agency to be known as United States Customs and Border Protection”; and
+> by striking “the United States Customs Service” and inserting “the United States Customs and Border Protection”; and
 
 | | |
 |---|---|
 | Removed | `the United States Customs Service` |
-| Inserted | `an agency to be known as United States Customs and Border Protection` |
+| Inserted | `the United States Customs and Border Protection` |
 
 ### 6 U.S.C. § 211
 
@@ -215,12 +215,12 @@ to guess them.
 
 ### 6 U.S.C. § 252
 
-> in paragraph (1) by striking “a bureau” and inserting “an agency”;
+> in paragraph (1) by striking “a bureau to be known as the Bureau of Border Security” and inserting “the Bureau of Border Security”;
 
 | | |
 |---|---|
-| Removed | `a bureau` |
-| Inserted | `an agency` |
+| Removed | `a bureau to be known as the Bureau of Border Security` |
+| Inserted | `the Bureau of Border Security` |
 
 ### 6 U.S.C. § 252
 
@@ -305,30 +305,30 @@ to guess them.
 
 ### 6 U.S.C. § 201
 
-> by striking “the Bureau of Border Security” each place it appears and inserting “United States Customs and Border Protection”;
+> by striking “the Bureau of Border Security” each place it appears and inserting “United States Immigration and Customs Enforcement”;
 
 | | |
 |---|---|
 | Removed | `the Bureau of Border Security` |
-| Inserted | `United States Customs and Border Protection` |
+| Inserted | `United States Immigration and Customs Enforcement` |
 
 ### 6 U.S.C. § 201
 
-> by striking “a bureau” and inserting “an agency”; and
+> by striking “a bureau to be known as the Bureau of Citizenship and Immigration Services” and inserting “the Bureau of Citizenship and Immigration Services”; and
 
 | | |
 |---|---|
-| Removed | `a bureau` |
-| Inserted | `an agency` |
+| Removed | `a bureau to be known as the Bureau of Citizenship and Immigration Services` |
+| Inserted | `the Bureau of Citizenship and Immigration Services` |
 
 ### 6 U.S.C. § 201
 
-> by striking “the Bureau of Citizenship and Immigration Services” and inserting “United States Citizenship and Immigration Services”;
+> by striking “the Bureau of Citizenship and Immigration Services” and inserting “the United States Citizenship and Immigration Services”;
 
 | | |
 |---|---|
 | Removed | `the Bureau of Citizenship and Immigration Services` |
-| Inserted | `United States Citizenship and Immigration Services` |
+| Inserted | `the United States Citizenship and Immigration Services` |
 
 ### 6 U.S.C. § 201
 
@@ -584,8 +584,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 101` | replace | By striking the item relating to section 451 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | By striking the item relating to section 2103 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | replace | by striking the enumerator, the paragraph heading, and the matter preceding subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 113` | redesignate | by redesignating subparagraphs (H) through (J) as subparagraphs (J) through (L), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 113` | insert | by inserting after subparagraph (G) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 113` | insert | by inserting after subparagraph (J) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124l` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124l` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 143` | strike | by striking “in coordination with the Under Secretary for Emergency Preparedness and Response,”; and | the bill quotes the text struck but describes what replaces it |
@@ -598,10 +597,10 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 201` | replace | By striking the title heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 201` | replace | By striking the heading for subtitle A and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 201` | strike | By striking section 401 (6 U.S.C. 201). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 202` | replace | by striking the section heading and inserting the following: “Border, maritime, and transportation responsibilities”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 202` | replace | by striking the section heading and inserting the following: “Border, maritime, and transportation responsibilities.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 202` | strike | in the matter preceding paragraph (1), by striking “, acting through the Under Secretary for Border and Transportation Security,”. | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 201` | replace | By striking the heading for subtitle B and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 211` | replace | by striking the section heading and inserting the following: “Establishment of United States Customs and Border Protection”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 211` | replace | by striking the section heading and inserting the following: “Establishment of United States Customs and Border Protection.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | strike | in the subsection heading, by striking “of customs”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 211` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 213` | strike | In section 413 (6 U.S.C. 213), by striking “available to the United States Customs Service or”. | the bill quotes the text struck but describes what replaces it |
