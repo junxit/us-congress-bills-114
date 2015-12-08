@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2693
@@ -39,3 +39,11 @@ To designate the arboretum at the Hunter Holmes McGuire VA Medical Center in Ric
 - 2015-06-09 — Introduced in House
 - 2015-06-09 — Introduced in House
 - 2015-06-09 — Referred to the House Committee on Veterans' Affairs.
+- 2015-06-30 — Referred to the Subcommittee on Health.
+- 2015-12-08 — Committee on Veterans' Affairs discharged. (consideration: CR H9063)
+- 2015-12-08 — Committee on Veterans' Affairs discharged.(consideration: CR H9063)
+- 2015-12-08 — Considered by unanimous consent. (consideration: CR H9063)
+- 2015-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-08 — Mr. Miller (FL) asked unanimous consent to discharge from committee and consider. (consideration: CR H9063)
+- 2015-12-08 — On passage Passed without objection. (text: CR H9063)
+- 2015-12-08 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9063)
