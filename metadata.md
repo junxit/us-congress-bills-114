@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3842
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3842
@@ -29,6 +29,10 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - House — Judiciary Committee
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-12-08 — [House 114-1-680](votes/house-114-1-0680.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–2)
+
 ## Actions
 
 - 2015-10-28 — Introduced in House
@@ -44,3 +48,12 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - 2015-11-19 — Placed on the Union Calendar, Calendar No. 262.
 - 2015-11-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-343, Part I.
 - 2015-11-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-343, Part I.
+- 2015-12-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-12-08 — Considered as unfinished business. (consideration: CR H9062)
+- 2015-12-08 — Considered under suspension of the rules. (consideration: CR H9037-9040, H9041)
+- 2015-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3842.
+- 2015-12-08 — DEBATE - The House resumed debate on the motion to suspend the rules and pass H.R. 3842.
+- 2015-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-08 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
+- 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680). (text: CR H9037-9038)
+- 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680).(text: CR H9037-9038)
