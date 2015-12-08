@@ -25,7 +25,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, according to the Committee to Protect Journalists, the 5 countries with the highest number of journalist murders that go unpunished, measured from 2004 to 2014, are Iraq, Somalia, the Philippines, Sri Lanka, and Syria;
 - Whereas, according to Reporters Without Borders, 853 journalists and 122 citizen journalists were arrested in 2014;
 - Whereas, according to the Committee to Protect Journalists, 221 journalists worldwide were in prison as of December 1, 2014;
-- Whereas, according to Reporters Without Borders, the 5 countries with the highest number of journalists in prison as of December 8, 2014, were China, Eritrea, Iran, Egypt, and Syria;
+- Whereas, according to Reporters Without Borders, the 5 countries with the highest number of journalists in prison as of December 1, 2014, were China, Eritrea, Iran, Ethiopia, and Vietnam;
 - Whereas, according to Reporters Without Borders’ 2015 World Press Freedom Index, Eritrea, North Korea, Turkmenistan, Syria, and China ranked lowest according to a range of criteria that include “media pluralism and independence, respect for the safety and freedom of journalists, and the legislative, institutional and in­fra­struc­tur­al environment in which the media operate”;
 - Whereas, according to the Committee to Protect Journalists, in 2014 Syria was the world’s deadliest country for journalists for the third year in a row;
 - Whereas, according to the International Federation of Journalists, more than 40 journalists and media staff have been killed since January 2015;

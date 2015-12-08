@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 207
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 207
@@ -34,3 +34,11 @@ A resolution recognizing threats to freedom of the press and expression around t
 - 2015-06-25 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-06-25 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 135.
+- 2015-12-08 — Amendment SA 2921 agreed to in Senate by Unanimous Consent.
+- 2015-12-08 — Amendment SA 2921 proposed by Senator McConnell for Senator Casey. (consideration: CR S8500; text: CR S8500) To amend the preamble.
+- 2015-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S8500-8501)
+- 2015-12-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S8500-8501)
+- 2015-12-08 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S8500-8501)
+- 2015-12-08 — Senate amendment agreed to: Amendment SA 2921 agreed to in Senate by Unanimous Consent.
+- 2015-12-08 — Senate amendment proposed (on the floor): Amendment SA 2921 proposed by Senator McConnell for Senator Casey.(consideration: CR S8500; text: CR S8500)
+- 2015-12-08 — Senate amendment submitted
