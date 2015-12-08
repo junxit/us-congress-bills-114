@@ -7,40 +7,128 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 158
 
-> To clarify the grounds for ineligibility for travel to the United States regarding terrorism risk, to expand the criteria by which a country may be removed from the Visa Waiver Program, to require the Secretary of Homeland Security to submit a report on strengthening the Electronic System for Travel Authorization to better secure the international borders of the United States and prevent terrorists and instruments of terrorism from entering the United States, and for other purposes.
+> To amend the Immigration and Nationality Act to provide enhanced security measures for the visa waiver program, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Visa Waiver Program Improvement Act of 2015”.
+This Act may be cited as the “Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015”.
 
-## § 2. Grounds for ineligibility for travel to the United States; Reports on law enforcement and security interests; Continuing qualification and designation terminations; Report on strengthening the Electronic System for Travel Authorization
+## § 2. Electronic passport requirement
 
-- **(a)** *Grounds for ineligibility for travel to the United States; Period of validity* Section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) is amended—
-  - **(1)** in subsection (a)(11), by inserting “, including terrorism risk,” after “security risk”; and
-  - **(2)** in subsection (h)(3)—
-    - **(A)** in subparagraph (A), by inserting “, including terrorism risk,” after “security risk”;
-    - **(B)** in subparagraph (C), in the second sentence, by inserting before the period at the end the following: “, or, if the Secretary determines that such is appropriate, may limit such period of eligibility”; and
-    - **(C)** by adding at the end the following new subparagraph:
-      > - **(E)** *Additional reports*
-      >   - **(i)** *Reports on certain limitations on travel* Not later than 30 days after the date of the enactment of this subparagraph and annually thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report on the number of individuals, identified by their countries of citizenship or nationality, who were denied eligibility to travel under the System or whose eligibility for such travel was revoked during the previous year if such individual was determined, in accordance with subsection (a)(6), to represent a threat to the security of the United States.
-      >   - **(ii)** *Reports on certain threat assessments* Beginning with the first report under clause (i) of subsection (c)(5)(A) that is submitted after the date of the enactment of this subparagraph and periodically thereafter (together with subsequent reports submitted under such clause (i)), the Secretary of Homeland Security, in consultation with the Director of National Intelligence, shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report that contains a threat assessment regarding the compliance of foreign governments with the agreements described in subparagraphs (D) and (F) of subsection (c)(2).
+- **(a)** *Requirement for alien To possess electronic passport* Section 217(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1187(a)(3)) is amended to read as follows:
+  > - **(3)** *Passport requirements* The alien, at the time of application for admission, is in possession of a valid unexpired passport that satisfies the following:
+  >   - **(A)** *Machine readable* The passport is a machine-readable passport that is tamper-resistant, incorporates document authentication identifiers, and otherwise satisfies the internationally accepted standard for machine readability.
+  >   - **(B)** *Electronic* Beginning on April 1, 2016, the passport is an electronic passport that is fraud-resistant, contains relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfies internationally accepted standards for electronic passports.
 
-- **(b)** *Reports on law enforcement and security interests; Continuing qualification and designation terminations* Subsection (c) of section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) is amended—
+- **(b)** *Requirement for program country To validate passports* Section 217(c)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(B)) is amended to read as follows:
+  > - **(B)** *Passport program*
+  >   - **(i)** *Issuance of passports* The government of the country certifies that it issues to its citizens passports described in subparagraph (A) of subsection (a)(3), and on or after April 1, 2016, passports described in subparagraph (B) of subsection (a)(3).
+  >   - **(ii)** *Validation of passports* Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port of entry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
+
+- **(c)** *Conforming amendment* Section 303(c) of the Enhanced Border Security and Visa Entry Reform Act of 2002 is repealed (8 U.S.C. 1732(c)).
+
+## § 3. Restriction on use of visa waiver program for aliens who travel to certain countries
+
+Section 217(a) of the Immigration and Nationality Act (8 U.S.C. 1187(a)), as amended by this Act, is further amended by adding at the end the following:
+
+> - **(12)** *Not present in Iraq, Syria, or any other country or area of concern*
+>   - **(A)** *In general* Except as provided in subparagraphs (B) and (C)—
+>     - **(i)** the alien has not been present, at any time on or after March 1, 2011—
+>       - **(I)** in Iraq or Syria;
+>       - **(II)** in a country that is designated by the Secretary of State under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. 2405) (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 40 of the Arms Export Control Act (22 U.S.C. 2780), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+>       - **(III)** in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
+>     - **(ii)** regardless of whether the alien is a national of a program country, the alien is not a national of—
+>       - **(I)** Iraq or Syria;
+>       - **(II)** a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. 2405) (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 40 of the Arms Export Control Act (22 U.S.C. 2780), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+>       - **(III)** any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
+>   - **(B)** *Certain military personnel and government employees* Subparagraph (A)(i) shall not apply in the case of an alien if the Secretary of Homeland Security determines that the alien was present—
+>     - **(i)** in order to perform military service in the armed forces of a program country; or
+>     - **(ii)** in order to carry out official duties as a full-time employee of the government of a program country.
+>   - **(C)** *Waiver* The Secretary of Homeland Security may waive the application of subparagraph (A) to an alien if the Secretary determines that such a waiver is in the law enforcement or national security interests of the United States.
+>   - **(D)** *Countries or areas of concern*
+>     - **(i)** *In general* Not later than 60 days after the date of the enactment of this paragraph, the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
+>     - **(ii)** *Criteria* In making a determination under clause (i), the Secretary shall consider—
+>       - **(I)** whether the presence of an alien in the country or area increases the likelihood that the alien is a credible threat to the national security of the United States;
+>       - **(II)** whether a foreign terrorist organization has a significant presence in the country or area; and
+>       - **(III)** whether the country or area is a safe haven for terrorists.
+>     - **(iii)** *Annual review* The Secretary shall conduct a review, on an annual basis, of any determination made under clause (i).
+>   - **(E)** *Report* Beginning not later than 1 year after the date of the enactment of this paragraph, and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on the Judiciary of the Senate a report on each instance in which the Secretary exercised the waiver authority under subparagraph (C) during the previous year.
+
+## § 4. Designation requirements for program countries
+
+- **(a)** *Reporting lost and stolen passports* Section 217(c)(2)(D) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(D)), as amended by this Act, is further amended by striking “within a strict time limit” and inserting “not later than 24 hours after becoming aware of the theft or loss”.
+- **(b)** *Interpol Screening* Section 217(c)(2) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)), as amended by this Act, is further amended by adding at the end the following:
+  > - **(G)** *Interpol screening* Not later than 270 days after the date of the enactment of this subparagraph, except in the case of a country in which there is not an international airport, the government of the country certifies to the Secretary of Homeland Security that, to the maximum extent allowed under the laws of the country, it is screening, for unlawful activity, each person who is not a citizen or national of that country who is admitted to or departs that country, by using relevant databases and notices maintained by Interpol, or other means designated by the Secretary of Homeland Security. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
+
+- **(c)** *Implementation of passenger information exchange agreement* Section 217(c)(2)(F) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(F)), as amended by this Act, is further amended by inserting before the period at the end the following: “, and fully implements such agreement”.
+- **(d)** *Termination of designation* Section 217(f) of the Immigration and Nationality Act (8 U.S.C. 1187(f)) is amended by adding at the end the following:
+  > - **(6)** *Failure to share information*
+  >   - **(A)** *In general* If the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not sharing information, as required by subsection (c)(2)(F), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+  >   - **(B)** *Redesignation* In the case of a termination under this paragraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to paragraph (2) or (3) of subsection (c) or paragraphs (1) through (4), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that the country is sharing information, as required by subsection (c)(2)(F).
+  > - **(7)** *Failure to screen*
+  >   - **(A)** *In general* Beginning on the date that is 270 days after the date of the enactment of this paragraph, if the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+  >   - **(B)** *Redesignation* In the case of a termination under this paragraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to paragraph (2) or (3) of subsection (c) or paragraphs (1) through (4), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that the country is conducting the screening required by subsection (c)(2)(G).
+
+## § 5. Reporting requirements
+
+- **(a)** *In general* Section 217(c) of the Immigration and Nationality Act (8 U.S.C. 1187(c)), as amended by this Act, is further amended—
   - **(1)** in paragraph (2)(C)(iii)—
     - **(A)** by striking “and the Committee on International Relations” and inserting “, the Committee on Foreign Affairs, and the Committee on Homeland Security”; and
     - **(B)** by striking “and the Committee on Foreign Relations” and inserting “, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs”; and
-  - **(2)** in paragraph (5)—
-    - **(A)** in subparagraph (A)(i)—
-      - **(i)** in subclause (III), by striking “and” at the end;
-      - **(ii)** in subclause (IV), by striking the period at the end and inserting “; and”; and
-      - **(iii)** by adding after subclause (IV) the following new subclause:
-        > - **(V)** shall submit to Congress a report regarding the security parameters described in paragraph (9).
+  - **(2)** in paragraph (5)(A)(i)—
+    - **(A)** in subclause (III)—
+      - **(i)** by inserting after “the Committee on Foreign Affairs,” the following: “the Permanent Select Committee on Intelligence,”;
+      - **(ii)** by inserting after “the Committee on Foreign Relations,” the following: “the Select Committee on Intelligence”; and
+      - **(iii)** by striking “and” at the end;
+    - **(B)** in subclause (IV), by striking the period at the end and inserting the following: “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(V)** shall submit to the committees described in subclause (III), a report that includes an assessment of the threat to the national security of the United States of the designation of each country designated as a program country, including the compliance of the government of each such country with the requirements under subparagraphs (D) and (F) of paragraph (2), as well as each such government’s capacity to comply with such requirements.
 
-    - **(B)** in subparagraph (B), by adding at the end the following new clause:
-      > - **(v)** *Additional program suspension authority* If the Secretary of Homeland Security, in consultation with the Secretary of State, determines that a country participating in the visa waiver program has failed to comply with an agreement under subparagraph (F) of paragraph (2), the Secretary of Homeland Security—
-      >   - **(I)** may suspend a country from the visa waiver program without prior notice;
-      >   - **(II)** shall notify any country suspended under subclause (I) and provide justification for the suspension; and
-      >   - **(III)** shall restore the suspended country’s participation in the visa waiver program upon a determination that the country is in compliance with the agreement at issue.
+- **(b)** *Date of submission of first report* The Secretary of Homeland Security shall submit the first report described in subclause (V) of section 217(c)(5)(A)(i) of the Immigration and Nationality Act (8 U.S.C. (c)(5)(A)(i)), as added by subsection (a), not later than 90 days after the date of the enactment of this Act.
 
-- **(c)** *Report on strengthening the Electronic System for Travel Authorization* Not later than 30 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on the Judiciary, and the Committee on Foreign Affairs of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Foreign Relations of the Senate a report on steps to strengthen the automated electronic travel authorization system (commonly referred to as the “Electronic System for Travel Authorization”) under paragraph (3) of section 217(h) of the Immigration and Nationality Act (8 U.S.C. 1187(h)) to better secure the international borders of the United States and prevent terrorists and instruments of terrorism from entering the United States.
-- **(d)** *Time for report* The first report required under subclause (V) of section 217(c)(5)(A)(i) of the Immigration and Nationality Act (as added by subsection (b)(2)(A)(iii) of this section) shall be submitted at the same time the next report required under subclause (IV) of such section 217(c)(5)(A)(i) is submitted after the date of the enactment of this Act.
+## § 6. High risk program countries
+
+Section 217(c) of the Immigration and Nationality Act (8 U.S.C. 1187(c)), as amended by this Act, is further amended by adding at the end the following:
+
+> - **(12)** *Designation of high risk program countries*
+>   - **(A)** *In general* The Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall evaluate program countries on an annual basis based on the criteria described in subparagraph (B) and shall identify any program country, the admission of nationals from which under the visa waiver program under this section, the Secretary determines presents a high risk to the national security of the United States.
+>   - **(B)** *Criteria* In evaluating program countries under subparagraph (A), the Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall consider the following criteria:
+>     - **(i)** The number of nationals of the country determined to be ineligible to travel to the United States under the program during the previous year.
+>     - **(ii)** The number of nationals of the country who were identified in United States Government databases related to the identities of known or suspected terrorists during the previous year.
+>     - **(iii)** The estimated number of nationals of the country who have traveled to Iraq or Syria at any time on or after March 1, 2011, to engage in terrorism.
+>     - **(iv)** The capacity of the country to combat passport fraud.
+>     - **(v)** The level of cooperation of the country with the counter-terrorism efforts of the United States.
+>     - **(vi)** The adequacy of the border and immigration control of the country.
+>     - **(vii)** Any other criteria the Secretary of Homeland Security determines to be appropriate.
+>   - **(C)** *Suspension of designation* The Secretary of Homeland Security, in consultation with the Secretary of State, may suspend the designation of a program country based on a determination that the country presents a high risk to the national security of the United States under subparagraph (A) until such time as the Secretary determines that the country no longer presents such a risk.
+>   - **(D)** *Report* Not later than 60 days after the date of the enactment of this paragraph, and annually thereafter, the Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on the Judiciary of the Senate a report, which includes an evaluation and threat assessment of each country determined to present a high risk to the national security of the United States under subparagraph (A).
+
+## § 7. Enhancements to the electronic system for travel authorization
+
+- **(a)** *In general* Section 217(h)(3) of the Immigration and Nationality Act (8 U.S.C. 1187(h)(3)) is amended—
+  - **(1)** in subparagraph (C)(i), by inserting after “any such determination” the following: “or shorten the period of eligibility under any such determination”;
+  - **(2)** by striking subparagraph (D) and inserting the following:
+    > - **(D)** *Fraud detection* The Secretary of Homeland Security shall research opportunities to incorporate into the System technology that will detect and prevent fraud and deception in the System.
+    > - **(E)** *Additional and previous countries of citizenship* The Secretary of Homeland Security shall collect from an applicant for admission pursuant to this section information on any additional or previous countries of citizenship of that applicant. The Secretary shall take any information so collected into account when making determinations as to the eligibility of the alien for admission pursuant to this section.
+    > - **(F)** *Report on certain limitations on travel* Not later than 30 days after the date of the enactment of this subparagraph and annually thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on the Judiciary, and the Committee on Foreign Affairs of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Foreign Relations of the Senate a report on the number of individuals who were denied eligibility to travel under the program, or whose eligibility for such travel was revoked during the previous year, and the number of such individuals determined, in accordance with subsection (a)(6), to represent a threat to the national security of the United States, and shall include the country or countries of citizenship of each such individual.
+
+- **(b)** *Report* Not later than 30 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on the Judiciary, and the Committee on Foreign Affairs of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Foreign Relations of the Senate a report on steps to strengthen the electronic system for travel authorization authorized under section 217(h)(3) of the Immigration and Nationality Act (8 U.S.C. 1187(h)(3))) in order to better secure the international borders of the United States and prevent terrorists and instruments of terrorism from entering the United States.
+
+## § 8. Provision of assistance to non-program countries
+
+The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide assistance in a risk-based manner to countries that do not participate in the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) to assist those countries in—
+
+- **(1)** submitting to Interpol information about the theft or loss of passports of citizens or nationals of such a country; and
+- **(2)** issuing, and validating at the ports of entry of such a country, electronic passports that are fraud-resistant, contain relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfy internationally accepted standards for electronic passports.
+
+## § 9. Clerical amendments
+
+- **(a)** *Secretary of Homeland Security* Section 217 of the Immigration and Nationality Act (8 U.S.C. 1187), as amended by this Act, is further amended by striking “Attorney General” each place such term appears (except in subsection (c)(11)(B)) and inserting “Secretary of Homeland Security”.
+- **(b)** *Electronic system for travel authorization* Section 217 of the Immigration and Nationality Act (8 U.S.C. 1187), as amended this Act, is further amended—
+  - **(1)** by striking “electronic travel authorization system” each place it appears and inserting “electronic system for travel authorization”;
+  - **(2)** in the heading in subsection (a)(11), by striking “electronic travel authorization system” and inserting “electronic system for travel authorization”; and
+  - **(3)** in the heading in subsection (h)(3), by striking “electronic travel authorization system” and inserting “electronic system for travel authorization”.
+
+## § 10. Sense of Congress
+
+It is the sense of Congress that the International Civil Aviation Organization, the specialized agency of the United Nations responsible for establishing international standards, specifications, and best practices related to the administration and governance of border controls and inspection formalities, should establish standards for the introduction of electronic passports (referred to in this section as “e-passports”), and obligate member countries to utilize such e-passports as soon as possible. Such e-passports should be a combined paper and electronic passport that contains biographic and biometric information that can be used to authenticate the identity of travelers through an embedded chip.
