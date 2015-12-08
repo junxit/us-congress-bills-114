@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1321
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1321
@@ -80,3 +80,12 @@ Microbead-Free Waters Act of 2015
 - 2015-12-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-371.
 - 2015-12-07 — The title of the measure was amended. Agreed to without objection.
 - 2015-12-08 — Received in the Senate, read twice.
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8861)
+- 2015-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8861)
+- 2015-12-22 — Presented to President.
+- 2015-12-22 — Presented to President.
+- 2015-12-28 — Became Public Law No: 114-114.
+- 2015-12-28 — Became Public Law No: 114-114.
+- 2015-12-28 — Signed by President.
+- 2015-12-28 — Signed by President.
