@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2820
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2820
 
-That the bill from the House of Representatives (H.R. 2820) entitled “An Act to reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.
 
 ## § 1. Short title
 

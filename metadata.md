@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2820
@@ -46,6 +46,10 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2015
 - House — Energy and Commerce Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2015-12-16 — [House 114-1-695](votes/house-114-1-0695.md) — On Motion to Suspend the Rules and concur in the Senate Amendment — **Passed** (421–0)
+
 ## Actions
 
 - 2015-06-18 — Introduced in House
@@ -72,3 +76,16 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2015
 - 2015-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
 - 2015-12-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8560; text as passed Senate: CR S8560)
 - 2015-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8560; text as passed Senate: CR S8560)
+- 2015-12-10 — Message on Senate action sent to the House.
+- 2015-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2015-12-16 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 2820.
+- 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-16 — Mr. Pitts moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9333-9335, H9339)
+- 2015-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 695). (text as House agreed to Senate amendment: CR H9333)
+- 2015-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 695).(text as House agreed to Senate amendment: CR H9333)
+- 2015-12-18 — Became Public Law No: 114-104.
+- 2015-12-18 — Became Public Law No: 114-104.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
