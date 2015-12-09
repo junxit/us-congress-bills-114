@@ -1,7 +1,7 @@
 ---
 measure: S. 1719
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1719
@@ -30,9 +30,10 @@ RAISE Family Caregivers Act
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ RAISE Family Caregivers Act
 - 2015-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.
 - 2015-12-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8499-8500; text as passed Senate: CR S8499-8500)
 - 2015-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8499-8500; text as passed Senate: CR S8499-8500)
+- 2015-12-09 — Message on Senate action sent to the House.
+- 2015-12-09 — Received in the House.
+- 2015-12-09 — Referred to the House Committee on Education and the Workforce.
