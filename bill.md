@@ -23,12 +23,12 @@ This Act may be cited as the “Red River Private Property Protection Act”.
 - **(a)** *Survey required* To identify the South Bank boundary line in the affected area, the Secretary shall commission a survey. The survey shall—
   - **(1)** adhere to the gradient boundary survey method;
   - **(2)** span the entire length of the affected area;
-  - **(3)** be conducted by Licensed State Land Surveyors chosen by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office;
+  - **(3)** be conducted by Licensed State Land Surveyors chosen by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office and each affected federally recognized Indian tribe;
   - **(4)** be completed not later than 2 years after the date of the enactment of this Act; and
   - **(5)** not be submitted to the Bureau of Land Management for approval.
-- **(b)** *Approval of the survey* After the survey is completed, the Secretary shall submit the survey to be approved by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office.
+- **(b)** *Approval of the survey* After the survey is completed, the Secretary shall submit the survey to be approved by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office and each affected federally recognized Indian tribe.
 - **(c)** *Surveys of individual parcels*
-  - **(1)** *In general* Parcels surveyed as required by this section shall be surveyed and approved on an individual basis by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office.
+  - **(1)** *In general* Parcels surveyed as required by this section shall be surveyed and approved on an individual basis by the Texas General Land Office, in consultation with the Oklahoma Commissioners of the Land Office and each affected federally recognized Indian tribe.
   - **(2)** *Surveys of individual parcels not submitted to the Bureau of Land Management* Surveys of individual parcels shall not be submitted to the Bureau of Land Management for approval.
 - **(d)** *Notice*
   - **(1)** *Notification to the Secretary* Not later than 30 days after a survey for a parcel is approved by the Texas General Land Office under subsection (c), such office shall provide to the Secretary the following:
@@ -37,23 +37,28 @@ This Act may be cited as the “Red River Private Property Protection Act”.
   - **(2)** *Notification to adjacent landowners* Not later than 30 days after the date on which the Secretary receives notification relating to a parcel under paragraph (1), the Secretary shall provide to landowners adjacent to such parcel the following:
     - **(A)** Notice of the approval of such survey.
     - **(B)** A copy of such survey and field notes relating to such parcel.
-    - **(C)** Notice that the landowner may file an appeal under section 4.
+    - **(C)** Notice that the landowner may file an appeal and seek further judicial review under section 4.
     - **(D)** Notice that the landowner may apply for a patent under section 5.
     - **(E)** Any additional information considered appropriate by the Secretary.
 
 ## § 4. Appeal
 
-Not later than 1 year after the date on which a landowner receives notification under section 3(d)(2), a landowner who claims to hold right, title, or interest in the affected area may appeal the determination of the survey to an administrative law judge of the Department of the Interior.
+- **(a)** *Appeal to administrative law judge* Not later than 1 year after the date on which a landowner receives notification under section 3(d)(2), a landowner who claims to hold right, title, or interest in the affected area may appeal the determination of the survey to an administrative law judge of the Department of the Interior.
+- **(b)** *Further judicial review*
+  - **(1)** *In general* A landowner who filed an appeal under subsection (a) and is adversely affected by the final decision may, not later than 120 days after the date of the final decision, file a civil action in the United States district court for the district—
+    - **(A)** in which the person resides; or
+    - **(B)** in which the affected area is located.
+  - **(2)** *Standard of review* The district court may review the case de novo and may enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, the decision of the administrative law judge.
 
 ## § 5. Red River surface rights
 
 - **(a)** *Notification of application period for patents*
-  - **(1)** *In general* On the date that is 18 months after the date on which the Secretary receives notification relating to a parcel under section 3(d)(1), the Secretary shall determine whether such parcel is subject to appeal.
-  - **(2)** *Parcel not subject to appeal* Not later than 30 days after the date on which the Secretary determines a parcel is not subject to appeal, the Secretary shall—
-    - **(A)** notify landowners adjacent to such parcel that the Secretary shall accept applications for patents for that parcel under subsection (b) for a period of 210 days; and
+  - **(1)** *In general* On the date that is 18 months after the date on which the Secretary receives notification relating to a parcel under section 3(d)(1), the Secretary shall determine whether such parcel is subject to appeal or further judicial review.
+  - **(2)** *Parcel not subject to appeal or judicial review* Not later than 30 days after the date on which the Secretary determines a parcel is not subject to appeal or judicial review, the Secretary shall—
+    - **(A)** notify federally recognized Indian tribes with jurisdiction over lands adjacent to such parcel that the Secretary shall accept applications for patents for that parcel under subsection (b) for a period of 210 days; and
     - **(B)** begin accepting applications for patents for that parcel under subsection (b) for a period of 210 days.
-  - **(3)** *Parcel subject to appeal* If the Secretary determines a parcel is subject to appeal, the Secretary shall, not less than once every 6 months, check the status of the appeals relating to such parcel, until the Secretary determines such parcel is not subject to appeal.
-- **(b)** *Patents for lands in the affected area* If the Secretary receives an application for a patent for a parcel of identified Federal lands during the period for applications for such parcel under subsection (a)(2)(B) and determines that the parcel has been held in good faith and in peaceful adverse possession by an applicant, or the ancestors or grantors of such applicant, for more than 20 years under claim (including through a State land grant or deed or color of title), the Secretary may issue a patent for the surface rights to such parcel to the applicant, on the payment of $1.25 per acre, if the patent includes the following conditions:
+  - **(3)** *Parcel subject to appeal or judicial review* If the Secretary determines a parcel is subject to appeal or further judicial review, the Secretary shall, not less than once every 6 months, check the status of the appeals or judicial reviews relating to such parcel, until the Secretary determines such parcel is not subject to appeal or further judicial review.
+- **(b)** *Patents for lands in the affected area* If the Secretary receives an application for a patent for a parcel of identified Federal lands during the period for applications for such parcel under subsection (a)(2)(B) and determines that the parcel has been held in good faith and in peaceful adverse possession by an applicant, or the ancestors or grantors of such applicant, for more than 20 years under claim (including through a State land grant), the Secretary may issue a patent for the surface rights to such parcel to the applicant, on the payment of fair market value per acre, if the patent includes the following conditions:
   - **(1)** All minerals contained in the parcel are reserved to the United States and subject to sale or disposal by the United States under applicable leasing and mineral land laws.
   - **(2)** Permittees, lessees, or grantees of the United States have the right to enter the parcel for the purpose of prospecting for and mining deposits.
 - **(c)** *Pending requests for patents* The Secretary shall not offer a parcel of identified Federal land for purchase under section 6 if a patent request for that parcel is pending under this section.
@@ -63,17 +68,19 @@ Not later than 1 year after the date on which a landowner receives notification 
 - **(a)** *Right of refusal*
   - **(1)** *Offers to purchase* After the expiration of the period for applications under section 5(a)(2)(B), the Secretary shall offer for purchase for a period of 60 days for each right of refusal—
     - **(A)** the surface rights to the remaining identified Federal lands located north of the vegetation line of the South Bank to—
-      - **(i)** the adjacent owner of land located in Oklahoma to the north with the first right of refusal;
-      - **(ii)** if applicable, the adjacent owner of land located in Texas to the south with the second right of refusal;
-      - **(iii)** if applicable, the adjacent owner of land located to the east with the third right of refusal; and
-      - **(iv)** if applicable, the adjacent owner of land located to the west with the fourth right of refusal; and
+      - **(i)** the federally recognized Indian tribes holding reservation or allotment land on June 5, 1906, with the first right of refusal;
+      - **(ii)** the adjacent owner of land located in Oklahoma to the north with the second right of refusal;
+      - **(iii)** if applicable, the adjacent owner of land located in Texas to the south with the third right of refusal;
+      - **(iv)** if applicable, the adjacent owner of land located to the east with the fourth right of refusal; and
+      - **(v)** if applicable, the adjacent owner of land located to the west with the fifth right of refusal; and
     - **(B)** the surface rights to the remaining identified Federal lands located south of the vegetation line of the South Bank to—
-      - **(i)** the adjacent owner of land located in Texas to the south with the first right of refusal;
-      - **(ii)** if applicable, the adjacent owner of land located in Oklahoma to the north with the second right of refusal;
-      - **(iii)** if applicable, the adjacent owner of land located to the east with the third right of refusal; and
-      - **(iv)** if applicable, the adjacent owner of land located to the west with the fourth right of refusal.
+      - **(i)** the federally recognized Indian tribes holding reservation or allotment land on June 5, 1906, with the first right of refusal;
+      - **(ii)** the adjacent owner of land located in Texas to the south with the second right of refusal;
+      - **(iii)** if applicable, the adjacent owner of land located in Oklahoma to the north with the third right of refusal;
+      - **(iv)** if applicable, the adjacent owner of land located to the east with the fourth right of refusal; and
+      - **(v)** if applicable, the adjacent owner of land located to the west with the fifth right of refusal.
   - **(2)** *Remaining identified Federal lands defined* In this subsection, the term “remaining identified Federal lands” means any parcel of identified Federal lands—
-    - **(A)** not subject to appeal under section 4;
+    - **(A)** not subject to appeal or further judicial review under section 4;
     - **(B)** not determined by an administrative law judge of the Department of the Interior or a Federal court to be the property of an adjacent landowner; and
     - **(C)** not patented or subject to a pending request for a patent under section 5.
 - **(b)** *Disposal by competitive sale* If a parcel offered under subsection (a) is not purchased, the Secretary shall offer the parcel for disposal by competitive sale for not less than fair market value as determined by an appraisal conducted in accordance with nationally recognized appraisal standards, including the Uniform Appraisal Standards for Federal Land Acquisitions and the Uniform Standards of Professional Appraisal Practice.
@@ -92,6 +99,9 @@ The Secretary may not treat a parcel of identified Federal lands as Federal land
 - **(a)** *Lands located north of the South Bank boundary line* Nothing in this Act shall be construed to modify the interest of Texas or Oklahoma or sovereignty rights of any federally recognized Indian tribe over lands located to the north of the South Bank boundary line as established by the survey.
 - **(b)** *Patents under the Color of Title Act* Nothing in this Act shall be construed to modify land patented under the Act of December 22, 1928 (Public Law 70–645; 45 Stat. 1069; 43 U.S.C. 1068; commonly known as the Color of Title Act), before the date of the enactment of this Act.
 - **(c)** *Red River Boundary Compact* Nothing in this Act shall be construed to modify the Red River Boundary Compact as enacted by the States of Texas and Oklahoma and consented to by the United States Congress by Public Law 106–288 (114 Stat. 919).
+- **(d)** *Tribal allotments* Nothing in this Act shall be construed to alter the present median line of the Red River as it relates to the surface or mineral interests of tribal allottees north of the present median line.
+- **(e)** *Tribal reservations* Nothing in this Act shall be construed to create or reinstate a tribal reservation or any portion of a tribal reservation.
+- **(f)** *Tribal mineral interests* Nothing in this Act shall be construed to alter the valid rights of the Kiowa, Comanche, and Apache Nations to the mineral interest trust fund created pursuant to the Act of June 12, 1926.
 
 ## § 9. Definitions
 
