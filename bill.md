@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 559
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 559
+
+> Disapproving of Executive Order 13688 (regarding Federal support for local law enforcement equipment acquisition) issued by President Obama on January 16, 2015.
+
+## Preamble
+
+- Whereas the terrorist attack in San Bernardino shows that our local authorities are front and center in the fight against ISIS and other terror networks;
+- Whereas local law enforcement officials have stated the President’s plan to remove these vehicles will “leave communities at risk”;
+- Whereas if there is an act of terrorism or if there is an active shooter in a mall or a school, local law enforcement are the first responders;
+- Whereas the President is making it more challenging for budget-strapped authorities to respond to a potentially deadly attack in their communities; and
+- Whereas tracked armored vehicles are used in rescue and response situations and are employed in a responsible manner, only coming out when absolutely necessary: Now, therefore, be it
+
+That the House of Representatives does not favor Executive Order 13688 (regarding Federal support for local law enforcement equipment acquisition) issued by President Obama on January 16, 2015.
