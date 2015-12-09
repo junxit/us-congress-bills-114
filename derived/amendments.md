@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3842
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

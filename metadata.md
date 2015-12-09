@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3842
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3842
@@ -24,10 +24,11 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - 2015-12-08 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
 - 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680). (text: CR H9037-9038)
 - 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680).(text: CR H9037-9038)
+- 2015-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
