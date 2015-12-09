@@ -1,7 +1,7 @@
 ---
 measure: H.R. 158
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 158
@@ -143,3 +143,4 @@ Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015
 - 2015-12-08 — ORDER OF PROCEDURE - Mr. Goodlate asked unanimous consent that debate on the motion to suspend the rules and pass H.R. 158, as amended, be extended by ten minutes on each side of the aisle. Agreed to without objection.
 - 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 19 (Roll no. 679). (text: CR H9047-9049)
 - 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 19 (Roll no. 679).(text: CR H9047-9049)
+- 2015-12-09 — Received in the Senate.
