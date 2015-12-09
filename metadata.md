@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3766
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3766
@@ -59,3 +59,4 @@ Foreign Aid Transparency and Accountability Act of 2016
 - 2015-12-08 — Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended.
 - 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9063-9065)
 - 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9063-9065)
+- 2015-12-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 318.
