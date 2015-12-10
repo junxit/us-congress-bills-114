@@ -1,14 +1,14 @@
 ---
 legis-num: H.R. 2250
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2250
 
-That the bill from the House of Representatives (H.R. 2250) entitled “An Act making appropriations for the Legislative Branch for the fiscal year ending September 30, 2016, and for other purposes.”, do pass with the following
+> Further Continuing Appropriations Act, 2016
 
-*Strike all after the enacting clause and insert the following:*
+That the Continuing Appropriations Act, 2016 (Public Law 114–53) is amended by striking the date specified in section 106(3) and inserting “December 16, 2015”.
 
--  This Act may be cited as the “Further Continuing Appropriations Act, 2016”.
+This Act may be cited as the “Further Continuing Appropriations Act, 2016”.

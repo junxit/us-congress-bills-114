@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2250
@@ -88,3 +88,16 @@ Further Continuing Appropriations Act, 2016
 - 2015-12-10 — Senate amendment submitted
 - 2015-12-10 — Senate amendment submitted
 - 2015-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8586)
+- 2015-12-11 — Became Public Law No: 114-96.
+- 2015-12-11 — Became Public Law No: 114-96.
+- 2015-12-11 — DEBATE - Pursuant to the provisions of H. Res. 560, the House proceeded with one hour of debate on the Rogers (KY) motion to agree to the Senate amendments to H.R. 2250.
+- 2015-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-11 — Mr. Rogers (KY) moved that the House agree to the Senate amendments. (consideration: CR H9295-9296)
+- 2015-12-11 — On motion that the House agree to the Senate amendments Agreed to by voice vote. (consideration: CR H9295-9296; text as House agree to the Senate amendment: CR H9295)
+- 2015-12-11 — Presented to President.
+- 2015-12-11 — Presented to President.
+- 2015-12-11 — Pursuant to the provisions of H. Res. 560, Mr. Rogers (KY) called up H.R. 2250 from the Speaker's table with the Senate amendments thereto, and was recognized to offer a motion.
+- 2015-12-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by voice vote.(consideration: CR H9295-9296; text as House agree to the Senate amendment: CR H9295)
+- 2015-12-11 — Signed by President.
+- 2015-12-11 — Signed by President.
+- 2015-12-11 — The previous question was ordered pursuant to the rule. (consideration: CR H9296)
