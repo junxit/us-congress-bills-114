@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2393
-congress: 114th CONGRESS
-session: 1st Session
+congress: One Hundred Fourteenth Congress of the United States of America
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
