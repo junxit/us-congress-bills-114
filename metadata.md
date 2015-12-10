@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2795
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2795
@@ -37,6 +37,10 @@ First Responder Identification of Emergency Needs in Disaster Situations
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2015-12-10 — [House 114-1-689](votes/house-114-1-0689.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (396–12)
+
 ## Actions
 
 - 2015-06-16 — Introduced in House
@@ -48,3 +52,11 @@ First Responder Identification of Emergency Needs in Disaster Situations
 - 2015-12-07 — Placed on the Union Calendar, Calendar No. 282.
 - 2015-12-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-370.
 - 2015-12-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-370.
+- 2015-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-12-10 — Considered as unfinished business. (consideration: CR H9264-9265)
+- 2015-12-10 — Considered under suspension of the rules. (consideration: CR H9257-9262)
+- 2015-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2795.
+- 2015-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-10 — Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.
+- 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 12 (Roll no. 689). (text: CR H9257-9258)
+- 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 12 (Roll no. 689).(text: CR H9257-9258)
