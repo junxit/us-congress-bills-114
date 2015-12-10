@@ -1,7 +1,7 @@
 ---
 measure: S. 2308
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
