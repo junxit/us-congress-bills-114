@@ -1,7 +1,7 @@
 ---
 measure: S. 2393
 congress: 114
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
