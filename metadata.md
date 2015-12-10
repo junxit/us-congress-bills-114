@@ -1,7 +1,7 @@
 ---
 measure: S. 993
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 993
@@ -16,7 +16,7 @@ Comprehensive Justice and Mental Health Act of 2015
 
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Cosponsors (20)
+## Cosponsors (33)
 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -38,6 +38,19 @@ Comprehensive Justice and Mental Health Act of 2015
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -52,3 +65,11 @@ Comprehensive Justice and Mental Health Act of 2015
 - 2015-04-30 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-04-30 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2015-04-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
+- 2015-12-10 — Amendment SA 2926 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Amendment SA 2926 proposed by Senator McConnell for Senator Franken. (consideration: CR S8614; text: CR S8614) To modify the authorization of appropriations.
+- 2015-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S8614-8617)
+- 2015-12-10 — Passed Senate with amendments by Voice Vote. (text: CR S8614-8617)
+- 2015-12-10 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S8614-8617)
+- 2015-12-10 — Senate amendment agreed to: Amendment SA 2926 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2926 proposed by Senator McConnell for Senator Franken.(consideration: CR S8614; text: CR S8614)
+- 2015-12-10 — Senate amendment submitted

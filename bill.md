@@ -228,7 +228,7 @@ Subsection (n) of section 2991 of the Omnibus Crime Control and Safe Streets Act
   - **(A)** in subparagraph (B), by striking “and” at the end;
   - **(B)** in subparagraph (C), by striking the period and inserting “; and”; and
   - **(C)** by adding at the end the following:
-    > - **(D)** $30,000,000 for each of fiscal years 2016 through 2020.
+    > - **(D)** $18,000,000 for each of fiscal years 2016 through 2020.
 
 - **(2)** by adding at the end the following:
-  > - **(3)** *Limitation* Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (j) (relating to veterans).
+  > - **(3)** *Limitation* Not more than 28 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (j) (relating to veterans).
