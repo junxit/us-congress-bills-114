@@ -1,7 +1,7 @@
 ---
 measure: S. 142
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 142
@@ -69,3 +69,18 @@ Child Nicotine Poisoning Prevention Act of 2015
 - 2015-12-10 — Senate amendment submitted
 - 2015-12-10 — Senate amendment submitted
 - 2015-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8614)
+- 2015-12-11 — Held at the desk.
+- 2015-12-11 — Message on Senate action sent to the House.
+- 2015-12-11 — Received in the House.
+- 2016-01-11 — Considered under suspension of the rules. (consideration: CR H227-229)
+- 2016-01-11 — DEBATE - The House proceeded with forty minutes of debate on S. 142.
+- 2016-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-11 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
+- 2016-01-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H227)
+- 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H227)
+- 2016-01-19 — Presented to President.
+- 2016-01-19 — Presented to President.
+- 2016-01-28 — Became Public Law No: 114-116.
+- 2016-01-28 — Became Public Law No: 114-116.
+- 2016-01-28 — Signed by President.
+- 2016-01-28 — Signed by President.
