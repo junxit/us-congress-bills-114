@@ -7,13 +7,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3869
 
-> To amend the Homeland Security Act of 2002 to require State and local coordination on cybersecurity with the national cybersecurity and communications integration center, and for other purposes.
+> To amend the Homeland Security Act of 2002 to assist State and local coordination on cybersecurity with the national cybersecurity and communications integration center, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “State and Local Cyber Protection Act of 2015”.
 
-## § 2. State and local coordination on cybersecurity with the national cybersecurity and communications integration center
+## § 2. State and local coordination on cybersecurity with the National Cybersecurity and Communications Integration Center
 
 - **(a)** *In general* The second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center) is amended by adding at the end the following new subsection:
   > - **(g)** *State and local coordination on cybersecurity*
@@ -41,4 +41,4 @@ This Act may be cited as the “State and Local Cyber Protection Act of 2015”.
   >     - **(F)** protect the confidentiality of cyber threat indicators and defensive measures associated with specific persons to the greatest extent practicable; and
   >     - **(G)** ensure all relevant constitutional, legal, and privacy protections are observed.
 
-- **(b)** *Congressional oversight* Not later than two years after the date of the enactment of this Act, the national cybersecurity and communications integration center of the Department of Homeland Security shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the activities and effectiveness of such activities under subsection (g) of the second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center), as added by subsection (a) of this section, on State and local information security. The center shall seek feedback from State and local governments regarding the effectiveness of such activities and include such feedback in the information required to be provided under this subsection.
+- **(b)** *Congressional oversight* Not later than 2 years after the date of the enactment of this Act, the national cybersecurity and communications integration center of the Department of Homeland Security shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the activities and effectiveness of such activities under subsection (g) of the second section 226 of the Homeland Security Act of 2002 (6 U.S.C. 148; relating to the national cybersecurity and communications integration center), as added by subsection (a) of this section, on State and local information security. The center shall seek feedback from State and local governments regarding the effectiveness of such activities and include such feedback in the information required to be provided under this subsection.

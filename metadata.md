@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3869
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3869
@@ -38,3 +38,10 @@ State and Local Cyber Protection Act of 2015
 - 2015-12-03 — Placed on the Union Calendar, Calendar No. 276.
 - 2015-12-03 — Reported by the Committee on Homeland Security. H. Rept. 114-363.
 - 2015-12-03 — Reported by the Committee on Homeland Security. H. Rept. 114-363.
+- 2015-12-10 — Considered under suspension of the rules. (consideration: CR H9255-9257)
+- 2015-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3869.
+- 2015-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-10 — Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.
+- 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9255)
+- 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9255)
+- 2015-12-10 — The title of the measure was amended. Agreed to without objection.
