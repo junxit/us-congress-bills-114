@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-98 amendatory instructions. 31 executed, 67 stated and not applied.
+97 amendatory instructions. 30 executed, 67 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,7 +62,7 @@ to guess them.
 
 ### 25 U.S.C. § 450
 
-> in the matter preceding subclause (I), by striking “includes” and all that follows through “section—” and inserting “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—”; and
+> in the matter preceding subclause (I), by striking “includes” and all that follows through “section—” and inserting “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—”;
 
 | | |
 |---|---|
@@ -71,21 +71,12 @@ to guess them.
 
 ### 25 U.S.C. § 450
 
-> in clause (iii)(I), by striking “proposed action” and inserting “approval of the lease, business agreement, or right-of-way”;
-
-| | |
-|---|---|
-| Removed | `proposed action` |
-| Inserted | `approval of the lease, business agreement, or right-of-way` |
-
-### 25 U.S.C. § 450
-
-> in subparagraph (D)(ii), by striking “subparagraph (B)(iii)(XVI)” and inserting “subparagraph (B)(iv)(XV)”; and
+> in subparagraph (D)(ii), by striking “subparagraph (B)(iii)(XVI)” and inserting “subparagraph (B)(iv)(XI)”; and
 
 | | |
 |---|---|
 | Removed | `subparagraph (B)(iii)(XVI)` |
-| Inserted | `subparagraph (B)(iv)(XV)` |
+| Inserted | `subparagraph (B)(iv)(XI)` |
 
 ### 25 U.S.C. § 450
 
@@ -334,16 +325,15 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3504` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | replace | by striking “(2)(A)” and all that follows through the end of subparagraph (A) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | by striking “(B)” and all that follows through “if—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | redesignate | by redesignating clause (iii) as clause (iv) and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | in subclause (XVI)(bb), by striking “or tribal”; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | insert | in the matter preceding clause (i), by inserting “the approval of” after “with respect to”; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 450` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 450` | replace | by striking “(B)” and all that follows through clause (ii) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 450` | strike | by striking subclauses (I), (II), (V), (VIII), and (XV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | redesignate | by redesignating clauses (III), (IV), (VI), (VII), (IX) through (XIV), and (XVI) as clauses (I), (II), (III), (IV), (V) through (X), and (XI), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | strike | by striking “or tribal”; and | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 450` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | strike | by striking clauses (i) and (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | redesignate | by redesignating clauses (iii) through (v) as clauses (ii) through (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | redesignate | by inserting before clause (ii) (as redesignated by subclause (II)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | replace | in paragraph (4), by striking “date of disapproval” and all that follows through the end of subparagraph (C) and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 450` | replace | by striking “(B) Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -351,6 +341,8 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 450` | add-at-end | in subparagraph (D), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | replace | in clause (i), by striking “determine” and all that follows through the end of the clause and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (A) through (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 450` | amend | in clause (ii), by adding “and” after the semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -359,10 +351,9 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 450` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3502` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3502` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3501` | replace | Section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501) is amended by striking paragraph (11) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | insert | in subclause (XIV), by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3504` | strike | by striking subclause (XV); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | redesignate | by redesignating subclause (XVI) as subclause (XV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | redesignate | by redesignating paragraphs (9) through (12) as paragraphs (10) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 477` | redesignate | by striking paragraph (12) (as redesignated by paragraph (1)) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3504` | replace | by striking “(3) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 3504` | strike | by striking “for approval”; | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 3504` | replace | in paragraph (4), by striking “(4) If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |

@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 209
 
-> To amend the Indian Tribal Energy Development and Self-Determination Act of 2005, and for other purposes.
+> To amend the Indian Tribal Energy Development and Self Determination Act of 2005, and for other purposes.
 
 ## § 1. Short title
 

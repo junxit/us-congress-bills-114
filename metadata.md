@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 209
@@ -40,3 +40,11 @@ Indian Tribal Energy Development and Self-Determination Act Amendments of 2015
 - 2015-09-30 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-149.
 - 2015-09-30 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-149.
 - 2015-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 242.
+- 2015-10-20 — Senate amendment submitted
+- 2015-12-10 — Amendment SA 2714 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Amendment SA 2714 proposed by Senator McConnell for Senator Barrasso. (consideration: CR S8617) In the nature of a substitute.
+- 2015-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S8617)
+- 2015-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2015-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2015-12-10 — Senate amendment agreed to: Amendment SA 2714 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2714 proposed by Senator McConnell for Senator Barrasso.(consideration: CR S8617)
