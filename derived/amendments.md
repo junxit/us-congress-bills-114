@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3875
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -125,21 +125,21 @@ to guess them.
 
 ### 6 U.S.C. § 596a
 
-> by striking “each year” each place it appears and inserting “every two years”;
+> by striking “each year” each place it appears and inserting “every 2 years”;
 
 | | |
 |---|---|
 | Removed | `each year` |
-| Inserted | `every two years` |
+| Inserted | `every 2 years` |
 
 ### 6 U.S.C. § 596a
 
-> by striking “previous year” each place it appears and inserting “previous two years”;
+> by striking “previous year” each place it appears and inserting “previous 2 years”;
 
 | | |
 |---|---|
 | Removed | `previous year` |
-| Inserted | `previous two years` |
+| Inserted | `previous 2 years` |
 
 ### 6 U.S.C. § 596a
 
