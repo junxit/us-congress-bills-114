@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2406
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 15 executed, 41 stated and not applied.
+57 amendatory instructions. 15 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,21 +71,21 @@ to guess them.
 
 ### 43 U.S.C. § 2305
 
-> by striking “subparagraph (C)” and inserting “subparagraph (D)”;
+> by striking “purchases” and inserting “land purchases and performance of deferred maintenance activities”;
+
+| | |
+|---|---|
+| Removed | `purchases` |
+| Inserted | `land purchases and performance of deferred maintenance activities` |
+
+### 43 U.S.C. § 2305
+
+> by striking “subparagraph (C)” and inserting “subparagraph (B)”; and
 
 | | |
 |---|---|
 | Removed | `subparagraph (C)` |
-| Inserted | `subparagraph (D)` |
-
-### 43 U.S.C. § 2305
-
-> in subparagraph (E), as so redesignated, by striking “(C)” and inserting “(D)”; and
-
-| | |
-|---|---|
-| Removed | `(C)` |
-| Inserted | `(D)` |
+| Inserted | `subparagraph (B)` |
 
 ### 43 U.S.C. § 2306
 
@@ -98,7 +98,7 @@ to guess them.
 
 ### 16 U.S.C. § 4245
 
-> Section 2306(a) of the African Elephant Conservation Act (16 U.S.C. 4245(a)) is amended by striking “2007 through 2012” and inserting “2016 through 2020”.
+> Section 2306(a) (16 U.S.C. 4245(a)) is amended by striking “2007 through 2012” and inserting “2016 through 2020”.
 
 | | |
 |---|---|
@@ -182,15 +182,16 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1374` | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 661` | add-at-end | The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 668dd` | redesignate | by redesignating subparagraphs (C) and (D) and subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 668dd` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 668dd` | insert | by inserting after subparagraph (B), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 704` | replace | Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1712` | replace | in subsection (a), by striking “section 206” and all that follows through the period and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (A) through (D) as subparagraphs (B) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 2305` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 2305` | strike | in clause (i), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 2305` | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 2305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | Subchapter II of chapter 1015 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | The table of sections for title 54, United States Code, is amended by inserting after the item relating to section 101512 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | replace | in subsection (a), by striking “section 206” and all that follows through the period and inserting the following: “section 206— | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 2305` | amend | by amending section 206(c)(1) (43 U.S.C. 2305(c)(1)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B), (C), and (D) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | insert | by inserting “for the activities outlined in paragraph (2)” after “generated”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 2305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -203,9 +204,9 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 4223` | insert | by inserting “and subsection (b) of this section” after “2202(e)”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1538` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 4211` | add-at-end | Part I (16 U.S.C. 4211 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 4222` | add-at-end | Section 2202 of the African Elephant Conservation Act (16 U.S.C. 4222) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4222` | add-at-end | Section 2202 (16 U.S.C. 4222) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 4223` | add-at-end | Section 2203 (16 U.S.C. 4223) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 4223` | add-at-end | Section 2203 (16 U.S.C. 4223) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 4211` | redesignate | Section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211) is amended by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4211` | redesignate | Section 2101 (16 U.S.C. 4211) is amended by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
