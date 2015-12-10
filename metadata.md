@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2130
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2130
@@ -26,9 +26,10 @@ Red River Private Property Protection Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -84,3 +85,4 @@ Red River Private Property Protection Act
 - 2015-12-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2130.
 - 2015-12-09 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2015-12-09 — The previous question was ordered pursuant to the rule. (consideration: CR H9181)
+- 2015-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
