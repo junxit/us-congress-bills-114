@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2250
@@ -73,3 +73,18 @@ Further Continuing Appropriations Act, 2016
 - 2015-06-11 — Committee on Appropriations. Reported by Senator Capito with an amendment in the nature of a substitute. With written report No. 114-64.
 - 2015-06-11 — Committee on Appropriations. Reported by Senator Capito with an amendment in the nature of a substitute. With written report No. 114-64.
 - 2015-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
+- 2015-12-10 — Amendment SA 2922 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Amendment SA 2922 proposed by Senator McConnell. (consideration: CR S8586; text: CR S8586) Making further continuing appropriations for fiscal year 2016, and for other purposes.
+- 2015-12-10 — Amendment SA 2923 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Amendment SA 2923 proposed by Senator McConnell. (consideration: CR S8586; text: CR S8586) To amend the title.
+- 2015-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S8581-8586; text of measure as reported in Senate: CR S8581-8586)
+- 2015-12-10 — Message on Senate action sent to the House.
+- 2015-12-10 — Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2015-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2015-12-10 — Senate amendment agreed to: Amendment SA 2922 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Senate amendment agreed to: Amendment SA 2923 agreed to in Senate by Unanimous Consent.
+- 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2922 proposed by Senator McConnell.(consideration: CR S8586; text: CR S8586)
+- 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2923 proposed by Senator McConnell.(consideration: CR S8586; text: CR S8586)
+- 2015-12-10 — Senate amendment submitted
+- 2015-12-10 — Senate amendment submitted
+- 2015-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8586)
