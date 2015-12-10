@@ -15,7 +15,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the people of Burma have, by their vigorous participation in electoral campaigning and public debate, strengthened the foundations of a free and democratic way of life;
 - Whereas preliminary reports indicate that voter turnout exceeded 80 percent;
 - Whereas international observers have reported that election day was largely free and fair and conducted in an orderly and peaceful fashion despite broader structural concerns such as the disenfranchisement of the Rohingya;
-- Whereas the ruling military-backed Union Solidarity Development Party suffered a dramatic loss at the polls, and the National League for Democracy won a sizable majority in both chambers of Burma’s Union Parliament, the Pyidaungsu Hluttaw, and will select Burma’s next President;
+- Whereas the ruling military-backed Union Solidarity and Development Party suffered a dramatic loss at the polls, and the National League for Democracy won a sizable majority in both chambers of Burma’s Union Parliament, the Pyidaungsu Hluttaw, and will select Burma’s next President;
 - Whereas Nobel Peace Prize Laureate Aung San Suu Kyi has symbolized the struggle for freedom and democracy in Burma and has actively supported democratic reform through her leadership of the National League for Democracy;
 - Whereas the National League for Democracy espouses a policy of nonviolent movement towards multi-party democracy in Burma, supports national reconciliation, and endorses strengthening democratic institutions, protecting human rights, implementing free market economic reforms, and reinforcing rule of law;
 - Whereas President Thein Sein and Commander-in-Chief Min Aug Hlaing made public commitments to respect the election results and vowed to abide by the law to ensure an orderly and prompt transition to a new government; and
@@ -33,3 +33,17 @@ That the Senate—
 - **(8)** supports negotiations between the Government of Burma and ethnic-based peoples and organizations;
 - **(9)** encourages the President of the United States to take further steps toward normalization of relations with Burma and consider the potential relaxation of restrictions should the Union Solidarity Development Party respect the election results and proceed with a prompt and orderly transition in power; and
 - **(10)** reaffirms that the people of the United States will continue to stand with the people of Burma in support of democracy, partnership, and peace.
+
+That the Senate—
+
+- **(1)** congratulates the people of Burma for embracing democracy through their participation in the November 8, 2015, general elections, and for their continuing efforts in developing a free, democratic society that respects internationally recognized human rights;
+- **(2)** recognizes the National League for Democracy’s victory as a reflection of the will of the Burmese people;
+- **(3)** calls on the Union Solidarity and Development Party to undertake a peaceful transfer of power and abide by the law to ensure an orderly and prompt transition to a new government;
+- **(4)** encourages all parties to pursue national reconciliation talks and work together in the spirit of national unity to seek what is best for the country;
+- **(5)** recognizes that while the Government of Burma has made important progress towards democratization, there remain serious challenges and impediments to the realization of full democratic and civilian government, including the reservation of unelected seats for the military and the disenfranchisement of groups of people including the Rohingya;
+- **(6)** expresses hope that newly elected members of parliament will contribute to the ongoing political transformation and will herald a new generation of responsible democratic leadership in Burma;
+- **(7)** calls on the Government of Burma to support meaningful efforts to reform the 2008 Constitution of Burma, with the full and unfettered participation of all the people of Burma and in a manner that promotes and protects democratic development of Burma and safeguards against arbitrary interference by the military;
+- **(8)** calls on the Government of Burma to release all political prisoners;
+- **(9)** supports negotiations between the Government of Burma and ethnic groups and organizations toward a genuine national ceasefire;
+- **(10)** encourages the President of the United States, in close and timely consultation with Congress, to continue to support efforts to promote genuine democratic transition and to ensure that any changes in United States policy toward Burma, including the consideration of any potential relaxation of restrictions, are aligned with support for a genuine and sustainable democratic transition; and
+- **(11)** reaffirms that the people of the United States will continue to stand with the people of Burma in support of democracy, partnership, and peace.

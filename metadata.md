@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 320
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 320
@@ -16,10 +16,11 @@ A resolution congratulating the people of Burma on their commitment to peaceful 
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution congratulating the people of Burma on their commitment to peaceful 
 
 - 2015-11-19 — Introduced in Senate
 - 2015-11-19 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8165-8166)
+- 2015-12-08 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2015-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.
