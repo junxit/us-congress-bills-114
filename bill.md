@@ -17,5 +17,5 @@ This Act may be cited as the “Securing Fairness in Regulatory Timing Act of 20
 
 Section 1853(b)(2) of the Social Security Act (42 U.S.C. 1395w–23(b)(2)) is amended—
 
-- **(1)** by inserting “(or, for 2017 and each subsequent year, at least 60 days)” after “45 days”; and
-- **(2)** by inserting “(for 2017 and each subsequent year, of no less than 30 days)” after “opportunity”.
+- **(1)** by inserting “(or, in 2017 and each subsequent year, at least 60 days)” after “45 days”; and
+- **(2)** by inserting “(in 2017 and each subsequent year, of no less than 30 days)” after “opportunity”.

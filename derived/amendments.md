@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3831
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395w-23` | insert | by inserting “(or, for 2017 and each subsequent year, at least 60 days)” after “45 days”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | by inserting “(for 2017 and each subsequent year, of no less than 30 days)” after “opportunity”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-23` | insert | by inserting “(or, in 2017 and each subsequent year, at least 60 days)” after “45 days”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-23` | insert | by inserting “(in 2017 and each subsequent year, of no less than 30 days)” after “opportunity”. | the bill quotes the text inserted but describes where it goes |
