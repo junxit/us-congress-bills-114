@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 12 executed, 39 stated and not applied.
+52 amendatory instructions. 12 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 6 U.S.C. § 182
 
-> in paragraph (3), by striking “the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” and inserting “components and offices of the Department”;
+> by striking “the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” and inserting “components and offices of the Department”; and
 
 | | |
 |---|---|
@@ -62,12 +62,12 @@ to guess them.
 
 ### 6 U.S.C. § 191
 
-> by striking “20 members” and inserting “not fewer than 15 members and not more than 30 members”; and
+> by striking “20 members” and inserting “not fewer than 15 and not more than 30”; and
 
 | | |
 |---|---|
 | Removed | `20 members` |
-| Inserted | `not fewer than 15 members and not more than 30 members` |
+| Inserted | `not fewer than 15 and not more than 30` |
 
 ### 6 U.S.C. § 191
 
@@ -89,7 +89,7 @@ to guess them.
 
 ### 6 U.S.C. § 191
 
-> by striking “Congress” and inserting “the appropriate congressional committees”;
+> by striking “Congress” and inserting “the appropriate congressional committees”; and
 
 | | |
 |---|---|
@@ -98,12 +98,12 @@ to guess them.
 
 ### 6 U.S.C. § 191
 
-> by striking “Congress” and inserting “the appropriate congressional committees”;
+> by striking “Congress” and inserting “the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate”;
 
 | | |
 |---|---|
 | Removed | `Congress` |
-| Inserted | `the appropriate congressional committees` |
+| Inserted | `the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate` |
 
 ### 6 U.S.C. § 191
 
@@ -141,22 +141,23 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 181` | replace | by striking “There” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 181` | replace | by striking “There” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 181` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 182` | replace | in the matter preceding paragraph (1), by striking “The Secretary, acting through the Under Secretary for Science and Technology, shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 182` | replace | in the matter preceding paragraph (1), by striking “The Secretary, acting through the Under Secretary for Science and Technology, shall” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 182` | insert | in paragraph (1), by inserting “and serving as the senior scientific advisor to the Secretary” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 182` | strike | by striking “national”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 182` | insert | by inserting “that may serve as a basis of a national strategy” after “terrorist threats”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 182` | insert | by inserting “terrorist” before “threats”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 182` | replace | in paragraph (4), by striking “except that such responsibility does not extend to human health-related research and development activities” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 182` | amend | by amending paragraph (12) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 182` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 182` | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 182` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 182` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 183` | strike | in section 303(1) (6 U.S.C. 183(1)), by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 185` | replace | by striking “The” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 185` | replace | by striking “The” and inserting the following new subsection: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 185` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 186` | add-at-end | in subsection (c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the appropriate congressional committees prior to such issuance.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 186` | add-at-end | in subsection (c), by adding at the end the following new sentence: “If such regulations are issued, the Under Secretary shall report to the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 3104` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 188` | amend | by adding after clause (xiv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 188` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -170,7 +171,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 191` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 191` | strike | in subsection (e), in the second sentence, by striking “the call of”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 191` | insert | in the second sentence, by inserting “, and incorporate the findings and recommendations of the Advisory Committee subcommittees,” before “during”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 191` | insert | in subsection (i), by inserting before the period at the end the following: “, except that the Advisory Committee shall file a charter with Congress every two years in accordance with subsection (b)(2) of such section 14”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 191` | insert | in subsection (i), by inserting “, except that the Advisory Committee shall file a charter with Congress every 2 years in accordance with subsection (b)(2) of such section (14)”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 193` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 193` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 195c` | amend | by adding after section 317 (6 U.S.C. 195c) the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
