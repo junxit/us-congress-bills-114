@@ -1,7 +1,7 @@
 ---
 measure: S. 993
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 993
@@ -52,9 +52,10 @@ Comprehensive Justice and Mental Health Act of 2015
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -73,3 +74,6 @@ Comprehensive Justice and Mental Health Act of 2015
 - 2015-12-10 — Senate amendment agreed to: Amendment SA 2926 agreed to in Senate by Unanimous Consent.
 - 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2926 proposed by Senator McConnell for Senator Franken.(consideration: CR S8614; text: CR S8614)
 - 2015-12-10 — Senate amendment submitted
+- 2015-12-11 — Message on Senate action sent to the House.
+- 2015-12-11 — Received in the House.
+- 2015-12-11 — Referred to the House Committee on the Judiciary.
