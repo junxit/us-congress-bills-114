@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 209
@@ -28,9 +28,11 @@ Indian Tribal Energy Development and Self-Determination Act Amendments of 2015
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Indian Affairs Committee
+- House — Energy and Commerce Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +50,8 @@ Indian Tribal Energy Development and Self-Determination Act Amendments of 2015
 - 2015-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
 - 2015-12-10 — Senate amendment agreed to: Amendment SA 2714 agreed to in Senate by Unanimous Consent.
 - 2015-12-10 — Senate amendment proposed (on the floor): Amendment SA 2714 proposed by Senator McConnell for Senator Barrasso.(consideration: CR S8617)
+- 2015-12-11 — Message on Senate action sent to the House.
+- 2015-12-11 — Received in the House.
+- 2015-12-11 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-12-11 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-12-11 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
