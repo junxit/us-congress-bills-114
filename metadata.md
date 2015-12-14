@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2795
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2795
@@ -33,9 +33,10 @@ First Responder Identification of Emergency Needs in Disaster Situations
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ First Responder Identification of Emergency Needs in Disaster Situations
 - 2015-12-10 — Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 12 (Roll no. 689). (text: CR H9257-9258)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 12 (Roll no. 689).(text: CR H9257-9258)
+- 2015-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
