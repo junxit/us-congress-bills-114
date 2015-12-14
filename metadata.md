@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3831
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3831
@@ -44,3 +44,4 @@ Securing Fairness in Regulatory Timing Act of 2015
 - 2015-12-10 — Mr. Tiberi moved to suspend the rules and pass the bill, as amended.
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9217)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9217)
+- 2015-12-14 — Received in the Senate, read twice.
