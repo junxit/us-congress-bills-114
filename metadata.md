@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3875
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3875
@@ -22,9 +22,10 @@ Department of Homeland Security CBRNE Defense Act of 2015
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Department of Homeland Security CBRNE Defense Act of 2015
 - 2015-12-10 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9242-9246)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9242-9246)
+- 2015-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
