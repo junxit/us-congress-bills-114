@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3831
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

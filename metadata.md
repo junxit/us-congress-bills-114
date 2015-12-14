@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3831
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3831
@@ -45,3 +45,12 @@ Securing Fairness in Regulatory Timing Act of 2015
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9217)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9217)
 - 2015-12-14 — Received in the Senate, read twice.
+- 2015-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8728)
+- 2015-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8728)
+- 2015-12-17 — Message on Senate action sent to the House.
+- 2015-12-18 — Became Public Law No: 114-106.
+- 2015-12-18 — Became Public Law No: 114-106.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
