@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3869
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3869
@@ -24,9 +24,10 @@ State and Local Cyber Protection Act of 2015
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ State and Local Cyber Protection Act of 2015
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9255)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9255)
 - 2015-12-10 — The title of the measure was amended. Agreed to without objection.
+- 2015-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
