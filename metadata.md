@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3578
@@ -21,9 +21,10 @@ DHS Science and Technology Reform and Improvement Act of 2015
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ DHS Science and Technology Reform and Improvement Act of 2015
 - 2015-12-10 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2015-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 687). (text: CR H9248-9253)
 - 2015-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 687).(text: CR H9248-9253)
+- 2015-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
