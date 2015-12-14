@@ -17,31 +17,40 @@ This Act may be cited as the “Consumer Review Freedom Act of 2015”.
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Commission* The term Commission means the Federal Trade Commission.
-  - **(2)** *Covered communication* The term covered communication means a written, verbal, or pictorial review, performance assessment of, or other similar analysis of, the products, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
-  - **(3)** *Form contract* The term form contract means a standardized contract used by a person and imposed on an individual without a meaningful opportunity for such individual to negotiate the standardized terms, but does not include a contract establishing an employer-employee or independent contractor relationship.
-  - **(4)** *Pictorial* The term pictorial includes pictures, photographs, and video provided by electronic means.
-  - **(5)** *Verbal* The term verbal includes speech provided by electronic means.
-  - **(6)** *Written* The term written includes words provided by electronic means.
+  - **(2)** *Covered communication* The term covered communication means a written, oral, or pictorial review, performance assessment of, or other similar analysis of, including by electronic means, the goods, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
+  - **(3)** *Form contract*
+    - **(A)** *In general* Except as provided in subparagraph (B), the term form contract means a contract with standardized terms—
+      - **(i)** used by a person in the course of selling or leasing the person's goods or services; and
+      - **(ii)** imposed on an individual without a meaningful opportunity for such individual to negotiate the standardized terms.
+    - **(B)** *Exception* The term form contract does not include an employer-employee or independent contractor contract.
+  - **(4)** *Pictorial* The term pictorial includes pictures, photographs, video, illustrations, and symbols.
 - **(b)** *Invalidity of contracts that impede consumer reviews*
   - **(1)** *In general* Except as provided in paragraphs (2) and (3), a provision of a form contract is void from the inception of such contract if such provision—
     - **(A)** prohibits or restricts the ability of an individual who is a party to the form contract to engage in a covered communication;
     - **(B)** imposes a penalty or fee against an individual who is a party to the form contract for engaging in a covered communication; or
-    - **(C)** transfers or requires an individual who is a party to the form contract to transfer to any person any intellectual property rights that the individual may have in any otherwise lawful covered communication about such person or the goods or services provided by such person.
+    - **(C)** transfers or requires an individual who is a party to the form contract to transfer to any person any intellectual property rights in review or feedback content, with the exception of a non-exclusive license to use the content, that the individual may have in any otherwise lawful covered communication about such person or the goods or services provided by such person.
   - **(2)** *Rule of construction* Nothing in paragraph (1) shall be construed to affect—
-    - **(A)** any duty of confidentiality imposed by law (including agency guidance); or
-    - **(B)** any civil action for defamation, libel, or slander, or any similar cause of action.
-  - **(3)** *Exceptions* Paragraph (1) shall not apply to the extent that a provision of a form contract prohibits disclosure of the following:
-    - **(A)** Trade secrets or commercial or financial information obtained from a person and considered privileged or confidential.
-    - **(B)** Personnel and medical files and similar information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
-    - **(C)** Records or information compiled for law enforcement purposes, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
-- **(c)** *Prohibition* It shall be unlawful for a person to offer or enter into a form contract containing a provision described as void in subsection (b).
+    - **(A)** any duty of confidentiality imposed by law (including agency guidance);
+    - **(B)** any civil cause of action for defamation, libel, or slander, or any similar cause of action;
+    - **(C)** any party’s right to remove or refuse to display publicly on an Internet website or webpage owned, operated, or otherwise controlled by such party any content of a covered communication that—
+      - **(i)** contains the personal information or likeness of another person or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, or inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic;
+      - **(ii)** is unrelated to the goods or services offered by or available at such party's Internet website or webpage; or
+      - **(iii)** is clearly false or misleading; or
+    - **(D)** a party’s right to establish terms and conditions with respect to the creation of photographs or video of such party’s property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
+  - **(3)** *Exceptions* Paragraph (1) shall not apply to the extent that a provision of a form contract prohibits disclosure or submission of, or reserves the right of a person or business that hosts online consumer reviews or comments to remove—
+    - **(A)** trade secrets or commercial or financial information obtained from a person and considered privileged or confidential;
+    - **(B)** personnel and medical files and similar information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+    - **(C)** records or information compiled for law enforcement purposes, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+    - **(D)** content that is unlawful or otherwise meets the requirements of paragraph (2)(C); or
+    - **(E)** content that contains any computer viruses, worms, or other potentially damaging computer code, processes, programs, applications, or files.
+- **(c)** *Prohibition* It shall be unlawful for a person to offer a form contract containing a provision described as void in subsection (b).
 - **(d)** *Enforcement by Commission*
   - **(1)** *Unfair or deceptive acts or practices* A violation of subsection (c) by a person with respect to which the Commission is empowered under section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 45(a)(2)) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
   - **(2)** *Powers of commission*
     - **(A)** *In general* The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
     - **(B)** *Privileges and immunities* Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 - **(e)** *Enforcement by States*
-  - **(1)** *In general* In any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (c) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+  - **(1)** *Authorization* Subject to subparagraph (B), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (c) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
   - **(2)** *Rights of Federal Trade Commission*
     - **(A)** *Notice to Federal Trade Commission*
       - **(i)** *In general* Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action against a person described in subsection (d)(1).
@@ -62,13 +71,10 @@ This Act may be cited as the “Consumer Review Freedom Act of 2015”.
       - **(i)** is an inhabitant; or
       - **(ii)** may be found.
   - **(6)** *Actions by other State officials*
-    - **(A)** *In general* In addition to civil actions brought by attorneys general under paragraph (1), any other officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+    - **(A)** *In general* In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
     - **(B)** *Savings provision* Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
-  - **(7)** *Prohibition on entering into contingency fee agreement with outside counsel for State enforcement*
-    - **(A)** *Contingency fee agreement defined* For purposes of this paragraph, the term contingency fee agreement means a contract or other agreement to provide services under which the amount or the payment of the fee for services is contingent in whole or in part on the outcome of the matter for which the services were obtained.
-    - **(B)** *Prohibition* An attorney general of a State, or any State or local law enforcement agency, may not enter into a contingency fee agreement for legal or expert witness services relating to an action commenced under paragraph (1).
 - **(f)** *Education and Outreach for Businesses* Not later than 60 days after the date of the enactment of this Act, the Commission shall commence conducting education and outreach that provides businesses with non-binding best practices for compliance with this Act.
 - **(g)** *Relation to State causes of action* Nothing in this section shall be construed to affect any cause of action brought by a person that exists or may exist under State law.
 - **(h)** *Effective dates* This section shall take effect on the date of the enactment of this Act, except that—
-  - **(1)** subsections (b) and (c) shall apply with respect to contracts in effect on or after the date of the enactment of this Act; and
+  - **(1)** subsections (b) and (c) shall apply with respect to contracts in effect on or after the date that is 90 days after the date of the enactment of this Act; and
   - **(2)** subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after the date of the enactment of this Act.
