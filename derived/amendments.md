@@ -1,7 +1,7 @@
 ---
 measure: S. 1318
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-54 amendatory instructions. 6 executed, 48 stated and not applied.
+63 amendatory instructions. 6 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -135,3 +135,12 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 2332b(g)(5)(B)(i) of title 18, United States Code, is amended by inserting “2332i (relating to acts of nuclear terrorism),” after “2332h (relating to radiological dispersal devices),”. | the bill names no machine-readable US Code section |
 | — | insert | Section 2339A(a) of title 18, United States Code, is amended by inserting “2332i,” after “2332f,”. | the bill names no machine-readable US Code section |
 | — | insert | Section 2516(1)(q) of title 18, United States Code, as amended by section 103 of this Act, is further amended by inserting “, 2332i,” after “2332h”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2280a(a)(1) of title 18, United States Code, is amended, in the undesignated matter following subparagraph (E), by inserting “punished by death or” before “imprisoned for any term”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2281a(a)(1) of such title is amended, in the undesignated matter following subparagraph (C), by inserting “punished by death or” before “imprisoned for any term”. | the bill names no machine-readable US Code section |
+| — | amend | Section 2332i(c) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “2280a,” after “2280,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “2281a,” after “2281,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2339A(a) of such title, as amended by subsection (a), is further amended by inserting “2332i,” after “2332f,”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (p), by striking “or” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (q), by inserting “, section 2280, 2280a, 2281, or 2281a (relating to maritime safety),” after “weapons)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2516(1)(q) of such title, as amended by subsection (a)(2), is further amended by inserting “, 2332i,” after “2332h”. | the bill names no machine-readable US Code section |
