@@ -1,7 +1,7 @@
 ---
 measure: S. 571
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 571
@@ -16,7 +16,7 @@ Pilot's Bill of Rights 2
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (69)
+## Cosponsors (71)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -87,6 +87,8 @@ Pilot's Bill of Rights 2
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -100,3 +102,12 @@ Pilot's Bill of Rights 2
 - 2015-12-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2015-12-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2015-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 319.
+- 2015-12-15 — Amendment SA 2928 agreed to in Senate by Unanimous Consent.
+- 2015-12-15 — Amendment SA 2928 proposed by Senator Inhofe for Senator Feinstein. (consideration: CR S8678; text: CR S8678) To clarify the administrative authorities and to improve the physician certification.
+- 2015-12-15 — Measure laid before Senate by unanimous consent. (consideration: CR S8674-8682)
+- 2015-12-15 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8678-8682)
+- 2015-12-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S8678-8682)
+- 2015-12-15 — Senate amendment agreed to: Amendment SA 2928 agreed to in Senate by Unanimous Consent.
+- 2015-12-15 — Senate amendment proposed (on the floor): Amendment SA 2928 proposed by Senator Inhofe for Senator Feinstein.(consideration: CR S8678; text: CR S8678)
+- 2015-12-15 — Senate amendment submitted
+- 2015-12-15 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S8674-8678)
