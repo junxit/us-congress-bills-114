@@ -1,7 +1,7 @@
 ---
 measure: S. 2044
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2044
@@ -16,7 +16,7 @@ Consumer Review Freedom Act of 2015
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -25,6 +25,7 @@ Consumer Review Freedom Act of 2015
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Daines, Steve [R-MT] (D000618)
@@ -53,3 +54,6 @@ Consumer Review Freedom Act of 2015
 - 2015-12-14 — Senate amendment proposed (on the floor): Amendment SA 2927 proposed by Senator McConnell for Senator Thune.(consideration: CR S8639-8640)
 - 2015-12-14 — Senate amendment submitted
 - 2015-12-14 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8639-8640; text as reported to Senate: CR S8639)
+- 2015-12-15 — Message on Senate action sent to the House.
+- 2015-12-15 — Received in the House.
+- 2015-12-15 — Referred to the House Committee on Energy and Commerce.
