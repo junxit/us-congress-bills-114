@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 998
@@ -54,3 +54,7 @@ Preclearance Authorization Act of 2015
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5495-5496)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5495-5496)
 - 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2015-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-180.
+- 2015-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-180.
+- 2015-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
