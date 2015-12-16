@@ -1,7 +1,7 @@
 ---
 measure: H.R. 373
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 373
@@ -64,3 +64,8 @@ Good Samaritan Search and Recovery Act
 - 2015-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 174). (text: CR H2485-2486)
 - 2015-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 174).(text: CR H2485-2486)
 - 2015-04-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2015-05-21 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-380.
+- 2015-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-193.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-193.
+- 2015-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
