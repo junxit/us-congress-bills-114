@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 76
@@ -26,3 +26,12 @@ Appointing the day for the convening of the second session of the One Hundred Fo
 - 2015-12-15 — On passage Passed without objection. (text: CR H9322)
 - 2015-12-15 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9322)
 - 2015-12-16 — Received in the Senate, read twice.
+- 2015-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8830; text as passed Senate: CR S8830)
+- 2015-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8830; text as passed Senate: CR S8830)
+- 2015-12-18 — Became Public Law No: 114-108.
+- 2015-12-18 — Became Public Law No: 114-108.
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
