@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3878
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3878
@@ -41,3 +41,9 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - 2015-12-15 — Placed on the Union Calendar, Calendar No. 288.
 - 2015-12-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-379, Part I.
 - 2015-12-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-379, Part I.
+- 2015-12-16 — Considered under suspension of the rules. (consideration: CR H9352-9355)
+- 2015-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3878.
+- 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-16 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
+- 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9353)
+- 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9353)

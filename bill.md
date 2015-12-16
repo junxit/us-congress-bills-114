@@ -36,4 +36,4 @@ Title 46, United States Code, is amended—
 
 - **(1)** in section 70102(b)(1)(C), by inserting “cybersecurity,” after “physical security,”; and
 - **(2)** in section 70103(c)(3)(C), by striking “and” after the semicolon at the end of clause (iv), by redesignating clause (v) as clause (vi), and by inserting after clause (iv) the following:
-  > - **(v)** cybersecurity; and
+  > - **(v)** prevention, management, and response to cybersecurity risks; and
