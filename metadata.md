@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 320
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 320
@@ -34,3 +34,5 @@ A resolution congratulating the people of Burma on their commitment to peaceful 
 - 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2015-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.
+- 2015-12-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(consideration: CR S8729-8730; text as passed Senate: CR S8729-8730)
+- 2015-12-16 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S8729-8730; text as passed Senate: CR S8729-8730)
