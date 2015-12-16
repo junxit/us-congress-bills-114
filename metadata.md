@@ -1,7 +1,7 @@
 ---
 measure: S. 571
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 571
@@ -90,9 +90,10 @@ Pilot's Bill of Rights 2
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -111,3 +112,6 @@ Pilot's Bill of Rights 2
 - 2015-12-15 — Senate amendment proposed (on the floor): Amendment SA 2928 proposed by Senator Inhofe for Senator Feinstein.(consideration: CR S8678; text: CR S8678)
 - 2015-12-15 — Senate amendment submitted
 - 2015-12-15 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S8674-8678)
+- 2015-12-16 — Message on Senate action sent to the House.
+- 2015-12-16 — Received in the House.
+- 2015-12-16 — Referred to the House Committee on Transportation and Infrastructure.
