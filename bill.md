@@ -20,7 +20,7 @@ This Act may be cited as the “Tracking Foreign Fighters in Terrorist Safe Have
   - **(1)** The total number of foreign fighters who have traveled or are suspected of having traveled to the terrorist safe haven since 2011, including the countries of origin of such foreign fighters.
   - **(2)** The total number of United States citizens present in the terrorist safe haven.
   - **(3)** The total number of foreign fighters who have left the terrorist safe haven or whose whereabouts are unknown.
-- **(c)** *Form* The reports submitted under subsection (a) may be submitted in classified form.
+- **(c)** *Form* The reports submitted under subsection (a) may be submitted in classified form. If such a report is submitted in classified form, such report shall also include an unclassified summary.
 - **(d)** *Sunset* The requirement to submit reports under subsection (a) shall terminate on the date that is two years after the date of the enactment of this Act.
 - **(e)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** in the Senate—

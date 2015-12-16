@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4239
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4239
@@ -29,8 +29,20 @@ Tracking Foreign Fighters in Terrorist Safe Havens Act
 
 - House — Intelligence (Permanent Select) Committee
 
+## Recorded votes (1)
+
+- 2015-12-16 — [House 114-1-700](votes/house-114-1-0700.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (423–0)
+
 ## Actions
 
 - 2015-12-11 — Introduced in House
 - 2015-12-11 — Introduced in House
 - 2015-12-11 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2015-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-12-16 — Considered as unfinished business. (consideration: CR H9357-9358)
+- 2015-12-16 — Considered under suspension of the rules. (consideration: CR H9349-9352)
+- 2015-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4239.
+- 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-16 — Mr. LoBiondo moved to suspend the rules and pass the bill, as amended.
+- 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 700). (text: CR H9349)
+- 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 700).(text: CR H9349)
