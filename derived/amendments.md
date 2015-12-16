@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3750
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 214` | insert | Subsection (a) of section 1 of the Passport Act of June 4, 1920 (22 U.S.C. 214), is amended, in the third sentence, by inserting after “to attend a funeral or memorial service for such member;” the following: “from an individual who has … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 214` | insert | Subsection (a) of section 1 of the Passport Act of June 4, 1920 (22 U.S.C. 214), is amended, in the third sentence, by inserting after “to attend a funeral or memorial service for such member;” the following: “from an individual who is o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
