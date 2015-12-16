@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 76
@@ -25,3 +25,4 @@ Appointing the day for the convening of the second session of the One Hundred Fo
 - 2015-12-15 — Mr. McCarthy asked unanimous consent to consider as introduced.
 - 2015-12-15 — On passage Passed without objection. (text: CR H9322)
 - 2015-12-15 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9322)
+- 2015-12-16 — Received in the Senate, read twice.
