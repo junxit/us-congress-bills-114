@@ -17,37 +17,41 @@ This Act may be cited as the “Saving Federal Dollars Through Better Use of Gov
 
 In this Act:
 
-- **(1)** *Strategic sourcing* The term strategic sourcing means analyzing and modifying a Federal agency’s spending patterns to better leverage its purchasing power, reduce costs, and improve overall performance.
-- **(2)** *Improper payment* The term improper payment has the meaning given the term in section 2 of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note).
+- **(1)** *Improper payment* The term improper payment has the meaning given the term in section 2 of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note).
+- **(2)** *Questionable transaction* The term questionable transaction means a charge card transaction that from initial card data appears to be high risk and may therefore be improper due to non-compliance with applicable law, regulation or policy.
+- **(3)** *Strategic sourcing* The term strategic sourcing means analyzing and modifying a Federal agency’s spending patterns to better leverage its purchasing power, reduce costs, and improve overall performance.
 
-## § 3. Office of Federal Charge Card Analytics and Review
+## § 3. Expanded use of data analytics
 
-- **(a)** *Establishment* The Administrator of General Services shall establish an Office of Federal Charge Card Analytics and Review for improving the use and oversight of purchase and travel card transactions by Federal agencies and programs, including for the general purposes of—
-  - **(1)** identifying, preventing, and recovering improper payments (including fraud), and identifying and preventing other inappropriate use of purchase and travel cards that do not conform with Federal or agency purchase laws, policies, rules, or best practices; and
-  - **(2)** determining opportunities for strategic sourcing.
-- **(b)** *Duties* The Office shall carry out the following duties:
-  - **(1)** *Interagency Review for Improper Payments and Strategic Sourcing* The review of purchase and travel card transaction data of all Federal agencies for the purposes described in subsection (a). The review shall include transactions for individual Federal agencies as well as across multiple Federal agencies and programs. Findings of potential improper payments (including fraud), opportunities for strategic sourcing, or issues of interest shall be communicated to the appropriate agency officials. The office may, as appropriate, use existing General Services Administration databases of purchase and travel card transaction for the interagency review. This analysis by the Office shall not end the requirement for individual agency oversight as described in the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194), but shall be considered as complementary and used in coordination with the individual agency.
-  - **(2)** *Analytics library* The establishment of a library of analytics tools and data sources for use by all Federal agencies (including inspectors general) for the purposes described in subsection (a).
+- **(a)** *Strategy* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator for General Services, shall develop a strategy to expand the use of data analytics in managing government purchase and travel charge card programs. These analytics may employ existing General Services Administration capabilities, and may be in conjunction with agencies’ capabilities, for the purpose of—
+  - **(1)** identifying examples or patterns of questionable transactions and developing enhanced tools and methods for agency use in—
+    - **(A)** identifying questionable purchase and travel card transactions; and
+    - **(B)** recovering improper payments made with purchase and travel cards;
+  - **(2)** identifying potential opportunities for agencies to further leverage administrative process streamlining and cost reduction from purchase and travel card use, including additional agency opportunities for card-based strategic sourcing;
+  - **(3)** developing a set of purchase and travel card metrics and benchmarks for high risk activities, which shall assist agencies in identifying potential emphasis areas for their purchase and travel card management and oversight activities, including those required by the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194); and
+  - **(4)** developing a plan, which may be based on existing capabilities, to create a library of analytics tools and data sources for use by Federal agencies (including inspectors general of those agencies).
 
 ## § 4. Guidance on improving information sharing to curb improper payments
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and agency heads, and the interagency task force established under section 5, shall issue guidance on improving information sharing by government agencies (including inspectors general) for the purposes of section 3(a)(1).
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the interagency charge card data management group established under section 5, shall issue guidance on improving information sharing by government agencies (including inspectors general) for the purposes of section 3(a)(1).
 - **(b)** *Elements* The guidance issued under subsection (a) shall—
-  - **(1)** require relevant officials at Federal agencies to identify high-risk merchants and communicate that information to the appropriate level of administration within the agencies;
-  - **(2)** ensure that appropriate officials at Federal agencies review the reports issued by charge card-issuing contractors of potential fraudulent or otherwise inappropriate activity, including the suspension of purchase and travel card accounts, travel card activity outside of the official government travel location, transactions that occur with high risk merchant, and suspicious levels of cash withdrawals;
-  - **(3)** provide for the appropriate sharing of information related to potential fraudulent transactions, fraud schemes, and high risk merchants with the Office of Federal Charge Card Analytics and Review established under section 3 and the appropriate officials in Federal agencies; and
-  - **(4)** other requirements determined appropriate by the Director for the purposes of carrying out this Act.
+  - **(1)** require relevant officials at Federal agencies to identify high-risk activities and communicate that information to the appropriate management levels within the agencies;
+  - **(2)** require that appropriate officials at Federal agencies review the reports issued by charge card-issuing banks on questionable transaction activity (such as purchase and travel card pre-suspension and suspension reports, delinquency reports, and exception reports), including transactions that occur with high risk activities, and suspicious timing or amounts of cash withdrawals or advances;
+  - **(3)** provide for the appropriate sharing of information related to potential questionable transactions, fraud schemes, and high risk activities with General Services Administration Office of Charge Card Management and the appropriate officials in Federal agencies; and
+  - **(4)** include other requirements determined appropriate by the Director for the purposes of carrying out this Act.
 
-## § 5. Interagency task force
+## § 5. Interagency Charge Card Data Management Group
 
-- **(a)** *Establishment* The Administrator of General Services and the Director of the Office of Management and Budget shall establish and co-chair an interagency task force to develop and share best practices for the purposes described in section 3(a).
+- **(a)** *Establishment* The Administrator of General Services and the Director of the Office of Management and Budget shall establish a purchase and travel charge card data management group to develop and share best practices for the purposes described in section 3(a).
 - **(b)** *Elements* The best practices developed under subsection (a) shall—
-  - **(1)** cover rules, edits, and task order or contract modifications related to charge card-issuing contractors;
-  - **(2)** include the review of purchase and travel card transaction data of all Federal agencies for the purpose of determining strategic sourcing opportunities; and
+  - **(1)** cover rules, edits, and task order or contract modifications related to charge card-issuing banks;
+  - **(2)** include the review of accounts payable information and purchase and travel card transaction data of agencies for the purpose of identifying potential strategic sourcing and other additional opportunities (such as recurring payments, utility payments, and grant payments) for which the charge cards or related payment products could be used as a payment method; and
   - **(3)** include other best practices as determined by the Administrator and Director.
-- **(c)** *Meetings* The interagency task force shall meet regularly as determined by the co-chairs, for a duration of three years, and include those agencies as described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) and others identified by the co-chairs.
+- **(c)** *Membership* The purchase and travel charge card data management group shall meet regularly as determined by the co-chairs, for a duration of three years, and include those agencies as described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) and others identified by the Administrator and Director.
 
 ## § 6. Reporting requirements
 
-- **(a)** *General services administration report* Not later than one year after the date of the enactment of this Act, the Administrator for General Services shall submit a report to Congress on the implementation of this Act, including the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improved strategic sourcing.
-- **(b)** *Agency reports* Not later than one year after the date of the enactment of this Act, the head of each Federal agency described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) shall submit a report to Congress on its activities to implement this Act.
+- **(a)** *General Services Administration report* Not later than one year after the date of the enactment of this Act, the Administrator for General Services shall submit a report to Congress on the implementation of this Act, including the metrics used in determining whether the analytic and benchmarking efforts have reduced, or contributed to the reduction of, questionable or improper payments as well as improved utilization of card-based payment products.
+- **(b)** *Agency reports and consolidated report to Congress* Not later than one year after the date of the enactment of this Act, the head of each Federal agency described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) shall submit a report to the Director of the Office of Management and Budget on that agency’s activities to implement this Act.
+- **(c)** *Office of Management and Budget report to Congress* The Director of the Office of Management and Budget shall submit to Congress a consolidated report of agency activities to implement this Act, which may be included as part of another report submitted to Congress by the Director.
+- **(d)** *Report on additional savings opportunities* Not later than one year after the date of the enactment of this Act, the Administrator of General Services shall submit a report to Congress identifying and exploring further potential savings opportunities for government agencies under the Federal charge card programs. This report may be combined with the report required under subsection (a).
