@@ -1,7 +1,7 @@
 ---
 measure: S. 2083
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2083
@@ -28,3 +28,8 @@ A bill to extend the deadline for commencement of construction of a hydroelectri
 
 - 2015-09-28 — Introduced in Senate
 - 2015-09-28 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2015-10-08 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 114-381.
+- 2015-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-192.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-192.
+- 2015-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.
