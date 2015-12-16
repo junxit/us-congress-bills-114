@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3594
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3594
@@ -16,7 +16,7 @@ Federal Perkins Loan Program Extension Act of 2015
 
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 
-## Cosponsors (17)
+## Cosponsors (23)
 
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
@@ -35,6 +35,12 @@ Federal Perkins Loan Program Extension Act of 2015
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -52,3 +58,12 @@ Federal Perkins Loan Program Extension Act of 2015
 - 2015-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6279)
 - 2015-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6279)
 - 2015-09-29 — Received in the Senate, read twice.
+- 2015-12-16 — Amendment SA 2929 agreed to in Senate by Unanimous Consent.
+- 2015-12-16 — Amendment SA 2929 proposed by Senator Alexander. (consideration: CR S8708; text: CR S8708) In the nature of a substitute.
+- 2015-12-16 — Measure laid before Senate by unanimous consent. (consideration: CR S8708-8709)
+- 2015-12-16 — Message on Senate action sent to the House.
+- 2015-12-16 — Passed Senate with an amendment by Voice Vote.
+- 2015-12-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2015-12-16 — Senate amendment agreed to: Amendment SA 2929 agreed to in Senate by Unanimous Consent.
+- 2015-12-16 — Senate amendment proposed (on the floor): Amendment SA 2929 proposed by Senator Alexander.(consideration: CR S8708; text: CR S8708)
+- 2015-12-16 — Senate amendment submitted
