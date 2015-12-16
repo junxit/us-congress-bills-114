@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4246
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4246
@@ -45,3 +45,12 @@ National Guard and Reservist Debt Relief Extension Act of 2015
 - 2015-12-16 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2015-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 696). (text: CR H9336)
 - 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 696).(text: CR H9336)
+- 2015-12-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
+- 2015-12-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
+- 2015-12-18 — Became Public Law No: 114-107.
+- 2015-12-18 — Became Public Law No: 114-107.
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
