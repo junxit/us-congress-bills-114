@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 189
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 189
@@ -35,3 +35,5 @@ A resolution expressing the sense of the Senate regarding the 25th anniversary o
 - 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-12-10 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2015-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.
+- 2015-12-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8729)
+- 2015-12-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8729)
