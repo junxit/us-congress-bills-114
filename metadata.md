@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3594
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3594
@@ -67,3 +67,13 @@ Federal Perkins Loan Program Extension Act of 2015
 - 2015-12-16 — Senate amendment agreed to: Amendment SA 2929 agreed to in Senate by Unanimous Consent.
 - 2015-12-16 — Senate amendment proposed (on the floor): Amendment SA 2929 proposed by Senator Alexander.(consideration: CR S8708; text: CR S8708)
 - 2015-12-16 — Senate amendment submitted
+- 2015-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-17 — Mr. Bishop (MI) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H9676)
+- 2015-12-17 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H9676)
+- 2015-12-17 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H9676)
+- 2015-12-18 — Became Public Law No: 114-105.
+- 2015-12-18 — Became Public Law No: 114-105.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.

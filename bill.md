@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3594
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3594
 
-That the bill from the House of Representatives (H.R. 3594) entitled “An Act to extend temporarily the Federal Perkins Loan program, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To extend temporarily the Federal Perkins Loan program, and for other purposes.
 
 ## § 1. Short title
 
