@@ -20,17 +20,16 @@ This Act may be cited as the “Combat Terrorist Use of Social Media Act of 2015
   - **(1)** An evaluation of what role social media plays in radicalization in the United States and elsewhere.
   - **(2)** An analysis of how terrorists and terrorist organizations are using social media, including trends.
   - **(3)** A summary of the Federal Government’s efforts to disrupt and counter the use of social media by terrorists and terrorist organizations, an evaluation of the success of such efforts, and recommendations for improvement.
-  - **(4)** A classified assessment of the intelligence value of social media posts by terrorists and terrorist organizations.
-  - **(5)** A classified overview of social media training available to law enforcement and intelligence personnel that enables such personnel to understand and combat the use of social media by terrorists and terrorist organizations, as well as recommendations for improving or expanding existing training opportunities.
-- **(c)** *Form* The report required by subsection (a) should be submitted in sensitive but unclassified form, and may include a classified annex.
+  - **(4)** An analysis of how social media is being used for counter-radicalization and counter-propaganda purposes, irrespective of whether or not such efforts are made by the Federal Government.
+  - **(5)** An assessment of the value of social media posts by terrorists and terrorist organizations to law enforcement.
+  - **(6)** An overview of social media training available to law enforcement and intelligence personnel that enables such personnel to understand and combat the use of social media by terrorists and terrorist organizations, as well as recommendations for improving or expanding existing training opportunities.
+- **(c)** *Form* The report required by subsection (a) should be submitted in unclassified form, and may include a classified annex in accordance with the protection of intelligence sources and methods.
 
 ## § 3. Policy and comprehensive strategy to counter terrorists’ and terrorist organizations’ use of social media
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a report that contains the following:
-  - **(1)** A policy that enhances the exchange of information and dialogue between the Federal Government and social media companies as it relates to the use of social media platforms by terrorists.
-  - **(2)** A comprehensive strategy to counter terrorists’ and terrorist organizations’ use of social media, as committed to in the President’s 2011 “Strategic Implementation Plan for Empowering Local Partners to Prevent Violent Extremism in the United States”.
-- **(b)** *Form* The report required by subsection (a) should be submitted in sensitive but unclassified form, and may include a classified annex.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a report that contains a comprehensive strategy to counter terrorists’ and terrorist organizations’ use of social media, as committed to in the President’s 2011 “Strategic Implementation Plan for Empowering Local Partners to Prevent Violent Extremism in the United States”.
+- **(b)** *Form* The report required by subsection (a) should be submitted in unclassified form, and may include a classified annex in accordance with the protection of intelligence sources and methods.
 
 ## § 4. Appropriate congressional committees defined
 
-In this Act, the term appropriate congressional committees means the Committee on Foreign Affairs, the Committee on the Armed Services, the Committee on Homeland Security, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate.
+In this Act, the term appropriate congressional committees means the Committee on Foreign Affairs, the Committee on the Armed Services, the Committee on Homeland Security, the Committee on the Judiciary, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Select Committee on Intelligence of the Senate.
