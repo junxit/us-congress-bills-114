@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 78
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
