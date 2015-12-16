@@ -22,8 +22,8 @@ Section 1206(a) of the Omnibus Public Land Management Act of 2009 (Public Law 11
   - **(B)** in subparagraph (E)(ii), by inserting “improvements,” after “buildings,”; and
 - **(2)** in paragraph (2)—
   - **(A)** by amending the text of subparagraph (C) to read as follows: “As a condition of the land exchange under this subsection, title to the non-Federal land to be acquired by the Secretary under this subsection shall be acceptable to the Secretary.”;
-  - **(B)** in subparagraph (D)—
-    - **(i)** in clause (i), by striking “As soon as practicable after the date of enactment of this Act, the Secretary and Mt. Hood Meadows shall select” and inserting “Not later than 60 days after the date of the enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act, the Secretary and Mt. Hood Meadows shall jointly select”;
+  - **(B) (A)** in subparagraph (D)—
+    - **(i)** in clause (i), by striking “As soon as practicable after the date of enactment of this Act, the Secretary and Mt. Hood Meadows shall select” and inserting “Not later than 60 120 days after the date of the enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act, the Secretary and Mt. Hood Meadows shall jointly select”;
     - **(ii)** in clause (ii), in the matter preceding subclause (I), by striking “An appraisal under clause (i) shall” and inserting “Except as provided under clause (iii), an appraisal under clause (i) shall assign a separate value to each tax lot to allow for the equalization of values and”; and
     - **(iii)** by adding at the end the following:
       > - **(iii)** *Final appraised value*
@@ -31,10 +31,13 @@ Section 1206(a) of the Omnibus Public Land Management Act of 2009 (Public Law 11
       >   - **(II)** *Exception* Subclause (I) shall not apply if the condition of either the Federal land or the non-Federal land referred to in subclause (I) is significantly and substantially altered by fire, windstorm, or other events.
       > - **(iv)** *Public review* Before completing the land exchange under this Act, the Secretary shall make available for public review the complete appraisals of the land to be exchanged.
 
-  - **(C)** in subparagraph (F), by striking “16 months after the date of enactment of this Act” and inserting “1 year after the date of the enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act”; and
-  - **(D)** by striking subparagraph (G) and inserting the following:
+  - **(C) (B)** in subparagraph (F), by striking “16 months after the date of enactment of this Act” and inserting “1 year after the date of the enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act”; and
+  - **(D) (C)** by striking subparagraph (G) and inserting the following:
     > - **(G)** *Required conveyance conditions* Prior to the exchange of the Federal and non-Federal land—
     >   - **(i)** in full satisfaction of Executive Order 11990, Mt. Hood Meadows shall obtain the concurrence of the Oregon Department of State Lands with the identification of wetland boundaries on the Federal land as designated on a wetland delineation report prepared by an independent professional engineer registered in the State of Oregon so as to provide protection of the identified wetland according to applicable law; and
+    >   - **(i)** the Secretary and Mt. Hood Meadows may mutually agree for the Secretary to reserve a conservation easement to protect the identified wetland in accordance with applicable law, subject to the requirements that—
+    >     - **(I)** the conservation easement shall be consistent with the terms of the September 30, 2015, mediation between the Secretary and Mt. Hood Meadows; and
+    >     - **(II)** in order to take effect, the conservation easement shall be finalized not later than 120 days after the date of enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act; and
     >   - **(ii)** the Secretary shall reserve a 24-foot-wide nonexclusive trail easement at the existing trail locations on the Federal land that retains for the United States existing rights to construct, reconstruct, maintain, and permit nonmotorized use by the public of existing trails subject to the right of the owner of the Federal land—
     >     - **(I)** to cross the trails with roads, utilities, and infrastructure facilities; and
     >     - **(II)** to improve or relocate the trails to accommodate development of the Federal land.

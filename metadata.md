@@ -1,7 +1,7 @@
 ---
 measure: S. 2069
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2069
@@ -28,3 +28,8 @@ Mount Hood Cooper Spur Land Exchange Clarification Act
 
 - 2015-09-22 — Introduced in Senate
 - 2015-09-22 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S6897-6898; text of measure as introduced: CR S6897-6898)
+- 2015-10-08 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-490.
+- 2015-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-191.
+- 2015-12-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-191.
+- 2015-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 336.
