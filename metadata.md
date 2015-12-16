@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4246
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4246
@@ -26,6 +26,10 @@ National Guard and Reservist Debt Relief Extension Act of 2015
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2015-12-16 — [House 114-1-696](votes/house-114-1-0696.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–1)
+
 ## Actions
 
 - 2015-12-15 — Introduced in House
@@ -33,3 +37,11 @@ National Guard and Reservist Debt Relief Extension Act of 2015
 - 2015-12-15 — Referred to the House Committee on the Judiciary.
 - 2015-12-15 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
 - 2015-12-15 — Sponsor introductory remarks on measure. (CR E1753)
+- 2015-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2015-12-16 — Considered as unfinished business. (consideration: CR H9339-9340)
+- 2015-12-16 — Considered under suspension of the rules. (consideration: CR H9335-9337)
+- 2015-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4246.
+- 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2015-12-16 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2015-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 696). (text: CR H9336)
+- 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 696).(text: CR H9336)
