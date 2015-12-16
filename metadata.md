@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 102
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 102
@@ -24,3 +24,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2015-12-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-12-15 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9322)
 - 2015-12-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9322)
+- 2015-12-16 — Received in the Senate.
