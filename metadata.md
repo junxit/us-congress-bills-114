@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3750
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3750
@@ -46,9 +46,10 @@ First Responders Passport Act of 2015
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ First Responders Passport Act of 2015
 - 2015-12-16 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 699). (text: CR H9346-9347)
 - 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 699).(text: CR H9346-9347)
+- 2015-12-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.

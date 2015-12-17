@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3750
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
