@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 102
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 102
@@ -25,3 +25,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2015-12-15 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9322)
 - 2015-12-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9322)
 - 2015-12-16 — Received in the Senate.
+- 2015-12-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8830)
+- 2015-12-17 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8830)
