@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 515
@@ -16,7 +16,7 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
@@ -33,6 +33,7 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
 ## Committees (3)
 
@@ -62,3 +63,11 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2015-11-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2015-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
+- 2015-12-17 — Amendment SA 2936 agreed to in Senate by Unanimous Consent.
+- 2015-12-17 — Amendment SA 2936 proposed by Senator McConnell for Senator Corker. (consideration: CR S8834; text: CR S8834) To modify the authorization of appropriations.
+- 2015-12-17 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2015-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2015-12-17 — Senate amendment agreed to: Amendment SA 2936 agreed to in Senate by Unanimous Consent.
+- 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2936 proposed by Senator McConnell for Senator Corker.(consideration: CR S8834; text: CR S8834)
+- 2015-12-17 — Senate amendment submitted
+- 2015-12-17 — The committee substitute agreed to by Unanimous Consent. (consideration: CR S8831-8834; text of measure as reported in Senate: CR S8832-8834)
