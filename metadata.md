@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2576
@@ -16,7 +16,7 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 
 - Rep. Shimkus, John [R-IL-15] (S000364)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -34,6 +34,8 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -65,3 +67,11 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-176.
 - 2015-06-24 — Received in the Senate.
 - 2015-07-08 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.
+- 2015-12-17 — Amendment SA 2932 agreed to in Senate by Unanimous Consent.
+- 2015-12-17 — Amendment SA 2932 proposed by Senator Inhofe. (consideration: CR S8781) In the nature of a substitute.
+- 2015-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8781-8782)
+- 2015-12-17 — Passed Senate with an amendment by Voice Vote.
+- 2015-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2015-12-17 — Senate amendment agreed to: Amendment SA 2932 agreed to in Senate by Unanimous Consent.
+- 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2932 proposed by Senator Inhofe.(consideration: CR S8781)
+- 2015-12-17 — Senate amendment submitted
