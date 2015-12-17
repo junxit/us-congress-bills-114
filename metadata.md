@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3189
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 3189
@@ -39,10 +39,11 @@ FORM Act of 2015
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -121,3 +122,4 @@ FORM Act of 2015
 - 2015-11-19 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 185 (Roll no. 641).
 - 2015-11-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8379)
 - 2015-11-30 — Received in the Senate.
+- 2015-12-17 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
