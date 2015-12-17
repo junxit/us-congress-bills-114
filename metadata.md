@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 515
@@ -71,3 +71,16 @@ International Megan's Law to Prevent Child Exploitation and Other Sexual Crimes 
 - 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2936 proposed by Senator McConnell for Senator Corker.(consideration: CR S8834; text: CR S8834)
 - 2015-12-17 — Senate amendment submitted
 - 2015-12-17 — The committee substitute agreed to by Unanimous Consent. (consideration: CR S8831-8834; text of measure as reported in Senate: CR S8832-8834)
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Notwithstanding the passage of H.R. 515, the committee reported title amendment was agreed to by Unanimous Consent.
+- 2016-02-01 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 515.
+- 2016-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-01 — Mr. Smith (NJ) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H387-394)
+- 2016-02-01 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H387-390)
+- 2016-02-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H387-390)
+- 2016-02-04 — Presented to President.
+- 2016-02-04 — Presented to President.
+- 2016-02-08 — Became Public Law No: 114-119.
+- 2016-02-08 — Became Public Law No: 114-119.
+- 2016-02-08 — Signed by President.
+- 2016-02-08 — Signed by President.
