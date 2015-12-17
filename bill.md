@@ -2,7 +2,7 @@
 legis-num: H. RES. 566
 congress: 114th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 566
@@ -21,8 +21,8 @@ That upon adoption of this resolution it shall be in order to take from the Spea
 
 The amendments referred to in the first and second sections of this resolution are as follows:
 
-- **(a)** An amendment consisting of the text of Rules Committee Print 114-39 modified by the amendment printed in the report of the Committee on Rules accompanying this resolution.
-- **(b)** An amendment consisting of the text of Rules Committee Print 114-40.
+- **(a)** An amendment consisting of the text of Rules Committee Print 114–39 modified by the amendment printed in the report of the Committee on Rules accompanying this resolution.
+- **(b)** An amendment consisting of the text of Rules Committee Print 114–40.
 
 ## § 4.
 
