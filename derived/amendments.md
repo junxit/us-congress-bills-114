@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -521,11 +521,11 @@ to guess them.
 
 ### 20 U.S.C. § 9562
 
-> by striking “preparation of a biennial report” and inserting “preparation and dissemination of each evaluation report”; and
+> by striking “preparation of a biennial report,” and inserting “preparation and dissemination of each evaluation report”; and
 
 | | |
 |---|---|
-| Removed | `preparation of a biennial report` |
+| Removed | `preparation of a biennial report,` |
 | Inserted | `preparation and dissemination of each evaluation report` |
 
 ### 20 U.S.C. § 9562
@@ -973,7 +973,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7801` | insert | The table of contents in section 1 of the Act of November 5, 2002 (Public Law 107–279; 116 Stat. 1940), is amended by inserting after the item relating to section 1 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9501` | strike | by striking paragraphs (13) and (18); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9501` | redesignate | by redesignating paragraphs (2) through (11), (12), (14), (15), (16), (17), and (19) through (23), as paragraphs (3) through (12), (14), (15), (16), (18), (20), and (22) through (26), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9202` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9501` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9501` | insert | by inserting “or other information, in a timely manner and” after “evaluations,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9501` | insert | by inserting “school leaders,” after “teachers,”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7801` | redesignate | by inserting after paragraph (12), as redesignated by paragraph (2), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1006,7 +1006,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9514` | insert | by inserting after subsection (g), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9514` | strike | by striking “the products and”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9514` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9515` | insert | by inserting “ensuring that all students have the ability to obtain a high-quality education, particularly” before “closing”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 9515` | insert | by inserting “ensuring that all students have the ability to obtain a high-quality education, particularly by” before “closing”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9515` | strike | by striking “especially achievement gaps between”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9515` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9515` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
