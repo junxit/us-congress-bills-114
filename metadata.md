@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3654
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3654
@@ -38,11 +38,12 @@ Combat Terrorist Use of Social Media Act of 2015
 - Rep. Boyle, Brendan F. [D-PA-13] (B001296)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Combat Terrorist Use of Social Media Act of 2015
 - 2015-12-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/15/2015 H9314)
 - 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/15/2015 H9314)
+- 2015-12-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
