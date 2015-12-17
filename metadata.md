@@ -1,7 +1,7 @@
 ---
 measure: S. 2261
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2261
@@ -29,3 +29,7 @@ Rural ACO Provider Equity Act of 2015
 
 - 2015-11-09 — Introduced in Senate
 - 2015-11-09 — Read twice and referred to the Committee on Finance.
+- 2015-12-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S8835)
+- 2015-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8835)
+- 2015-12-17 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S8834-8835)
+- 2015-12-17 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8834-8835)
