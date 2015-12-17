@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4239
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4239
@@ -25,9 +25,10 @@ Tracking Foreign Fighters in Terrorist Safe Havens Act
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Tracking Foreign Fighters in Terrorist Safe Havens Act
 - 2015-12-16 — Mr. LoBiondo moved to suspend the rules and pass the bill, as amended.
 - 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 700). (text: CR H9349)
 - 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 700).(text: CR H9349)
+- 2015-12-17 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
