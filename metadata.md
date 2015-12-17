@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3878
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3878
@@ -22,10 +22,11 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - 2015-12-16 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
 - 2015-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9353)
 - 2015-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9353)
+- 2015-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
