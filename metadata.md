@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3231
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3231
@@ -16,10 +16,11 @@ Federal Intern Protection Act of 2016
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Meng, Grace [D-NY-6] (M001188)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Federal Intern Protection Act of 2016
 - 2015-07-28 — Introduced in House
 - 2015-07-28 — Introduced in House
 - 2015-07-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-10-09 — Committee Consideration and Mark-up Session Held.
+- 2015-10-09 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2015-12-18 — Placed on the Union Calendar, Calendar No. 289.
+- 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-383.
+- 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-383.
