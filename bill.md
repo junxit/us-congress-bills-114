@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2029
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2029
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2029) entitled ‘‘An Act making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.’’, with the following
-
-*(1)In lieu of the matter proposed to be inserted by the Senate amendment, insert the following:*
+> Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.
 
 ## § 1. Short title
 
@@ -50,5 +48,3 @@ This Act may be cited as the “Consolidated Appropriations Act, 2016”.
 ## § 9. Adjustments to compensation
 
 Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016.
-
-*(2)At the end of House amendment numbered 1, insert the following:*

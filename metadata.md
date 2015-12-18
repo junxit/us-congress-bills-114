@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2029
