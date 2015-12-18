@@ -16,7 +16,7 @@ This Act may be cited as the “Patient Access and Medicare Protection Act”.
 ## § 2. Non-application of Medicare fee schedule adjustments for wheelchair accessories and seat and back cushions when furnished in connection with complex rehabilitative power wheelchairs
 
 - **(a)** *Non-application*
-  - **(1)** *In general* Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2017, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3)) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with Group 3 complex rehabilitative power wheelchairs.
+  - **(1)** *In general* Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2017, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with Group 3 complex rehabilitative power wheelchairs.
   - **(2)** *Implementation* Notwithstanding any other provision of law, the Secretary may implement this subsection by program instruction or otherwise.
 - **(b)** *GAO study and report*
   - **(1)** *Study*
