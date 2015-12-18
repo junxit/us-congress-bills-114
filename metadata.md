@@ -1,7 +1,7 @@
 ---
 measure: S. 1115
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1115
@@ -43,3 +43,17 @@ GONE Act
 - 2015-12-18 — Senate amendment proposed (on the floor): Amendment SA 2940 proposed by Senator Perdue for Senator Fischer.(consideration: CR S8907; text: CR S8907)
 - 2015-12-18 — Senate amendment submitted
 - 2015-12-18 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8907)
+- 2016-01-04 — Held at the desk.
+- 2016-01-04 — Received in the House.
+- 2016-01-11 — Considered under suspension of the rules. (consideration: CR H244-246)
+- 2016-01-11 — DEBATE - The House proceeded with forty minutes of debate on S. 1115.
+- 2016-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2016-01-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H244-245)
+- 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H244-245)
+- 2016-01-19 — Presented to President.
+- 2016-01-19 — Presented to President.
+- 2016-01-28 — Became Public Law No: 114-117.
+- 2016-01-28 — Became Public Law No: 114-117.
+- 2016-01-28 — Signed by President.
+- 2016-01-28 — Signed by President.
