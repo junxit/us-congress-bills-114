@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4310
+congress: 114th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4310
+
+> To amend the Immigration and Nationality Act to direct the Secretary of Homeland Security to check an alien’s interactions on and posting of material to the Internet prior to the issuance of a visa, and for other purposes.
+
+## § 1. Short Title
+
+This Act may be cited as the “Vet Electronic Trails Act of 2015”.
+
+## § 2. Interactions on and posting of material to the Internet checked prior to issuance of visa
+
+Chapter 2 of title I of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by adding after section 219 the following:
+
+> ## § 220. Interactions on and posting of material to the Internet checked prior to issuance of visa
+>
+> Prior to the issuance of an immigrant or nonimmigrant visa to any alien, the Secretary of Homeland Security, in consultation with the Secretary of State, shall check the alien’s interactions on and posting of material to the Internet (including social media services) in order to ensure that the alien is not a threat to the security of the United States.
+
+## § 3. GAO Report
+
+On the date that is 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report which includes—
+
+- **(1)** a description of the implementation of the requirement under section 220 of the Immigration and Nationality Act, as added by this Act; and
+- **(2)** an assessment of whether the implementation of such requirement has prevented the issuance of a visa to any alien who—
+  - **(A)** is not a threat to the national security of the United States; or
+  - **(B)** is a threat to the national security of the United States.
