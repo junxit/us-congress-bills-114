@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2241
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2241
