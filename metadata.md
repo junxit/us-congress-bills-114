@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 104
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 104
