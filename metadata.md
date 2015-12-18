@@ -1,7 +1,7 @@
 ---
 measure: S. 2261
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2261
@@ -21,9 +21,11 @@ Rural ACO Provider Equity Act of 2015
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -33,3 +35,10 @@ Rural ACO Provider Equity Act of 2015
 - 2015-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8835)
 - 2015-12-17 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S8834-8835)
 - 2015-12-17 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8834-8835)
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Received in the House.
+- 2015-12-18 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-12-18 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-12-18 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-12-18 — Referred to the Subcommittee on Health.
+- 2015-12-18 — Referred to the Subcommittee on Health.
