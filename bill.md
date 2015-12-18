@@ -35,14 +35,16 @@ This Act may be cited as the Mental Health Awareness and Improvement Act of 2015
     - **(J)** in paragraph (10), by inserting “conducting” before “other”; and
   - **(6)** by striking subsection (e) and inserting the following:
     > - **(c)** *Authorization of appropriations* For the purpose of carrying out this section, there are authorized to be appropriated $6,000,000 for each of fiscal years 2016 through 2020.
+    > - **(d)** *Annual report* Not later than 2 years after the date of enactment of this subsection, the Secretary shall submit to Congress a report on the activities carried out by the center established under subsection (a) during the year involved, including the potential impacts of such activities, and the States, organizations, and institutions that have worked with the center.
 
 - **(b)** *Youth suicide early intervention and prevention strategies* Section 520E of the Public Health Service Act (42 U.S.C. 290bb–36) is amended—
   - **(1)** in paragraph (1) of subsection (a) and in subsection (c), by striking “substance abuse” each place such term appears and inserting “substance use disorder”;
   - **(2)** in subsection (b)(2)—
     - **(A)** by striking “each State is awarded only 1 grant or cooperative agreement under this section” and inserting “a State does not receive more than 1 grant or cooperative agreement under this section at any 1 time”; and
     - **(B)** by striking “been awarded” and inserting “received”; and
-  - **(3)** by striking subsection (m) and inserting the following:
-    > - **(m)** *Authorization of appropriations* For the purpose of carrying out this section, there are authorized to be appropriated $23,500,000 for each of fiscal years 2016 through 2020.
+  - **(3)** in subsection (g)(2), by striking “2 years after the date of enactment of this section,” and insert “2 years after the date of enactment of the Mental Health Awareness and Improvement Act of 2015,”.
+  - **(4)** by striking subsection (m) and inserting the following:
+    > - **(m)** *Authorization of appropriations* For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2016 through 2020.
 
 - **(c)** *Mental health and substance use disorder services* Section 520E–2 of the Public Health Service Act (42 U.S.C. 290bb–36b) is amended—
   - **(1)** in the section heading, by striking “and behavioral health” and inserting “health and substance use disorder”;
@@ -125,6 +127,7 @@ Section 582 of the Public Health Service Act (42 U.S.C. 290hh–1) is amended—
   - **(2)** The identification of outcome and quality measures relevant to integrated health care, evaluation of the data collection burden on behavioral health care providers, and any alternative methods for evaluation.
   - **(3)** An analysis of the degree to which electronic data standards, including interoperability and meaningful use includes behavioral health measures, and an analysis of strategies to address barriers to health information exchange posed by part 2 of title 42, Code of Federal Regulations.
   - **(4)** An analysis of the degree to which Federal rules and regulations for behavioral and physical health care are aligned, including recommendations to address any identified barriers.
+  - **(5)** An analysis of the challenges to behavioral health and primary care integration faced by providers in rural areas.
 
 ## § 6. Increasing education and awareness of treatments for opioid use disorders
 
@@ -148,7 +151,7 @@ Section 582 of the Public Health Service Act (42 U.S.C. 290hh–1) is amended—
   - **(2)** the extent to which children are prescribed psychotropic medications in the United States including the frequency of concurrent medication usage; and
   - **(3)** the tools, assessments, and medications that are available and used to diagnose and treat children with mental health disorders.
 
-## § 8. Evidence-based practices for older adults
+## § 8. Evidence based practices for older adults
 
 Section 520A(e) of the Public Health Service Act (42 U.S.C. 290bb–32(e)) is amended by adding at the end the following:
 
@@ -164,6 +167,14 @@ The Secretary of Health and Human Services, acting through the Director of the C
 - **(b)** *Content* The report submitted to the committees of Congress under subsection (a) shall review and assess—
   - **(1)** the extent to which the recommendations in the report that include participation by the Department of Health and Human Services were implemented;
   - **(2)** whether there are any barriers to implementation of such recommendations; and
-  - **(3)** identification of any additional actions the Federal Government can take to support States and local communities and ensure that the Federal Government and Federal law are not obstacles to addressing at the community level—
+  - **(3)** identification of any additional actions the Federal government can take to support States and local communities and ensure that the Federal government and Federal law are not obstacles to addressing at the community level—
     - **(A)** school violence; and
     - **(B)** mental illness.
+
+## § 11. Performance metrics
+
+- **(a)** *Evaluation of current programs*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services shall conduct an evaluation of the impact of activities related to the prevention and treatment of mental illness and substance use disorders conducted by the Substance Abuse and Mental Health Services Administration.
+  - **(2)** *Assessment of performance metrics* The evaluation conducted under paragraph (1) shall include an assessment of the use of performance metrics to evaluate activities carried out by entities receiving grants, contracts, or cooperative agreements related to mental illness or substance use disorders under title V or title XIX of the Public Health Service Act (42 U.S.C. 290aa et seq.; 42 U.S.C. 300w et seq.).
+  - **(3)** *Recommendations* The evaluation conducted under paragraph (1) shall include recommendations for the use of performance metrics to improve the quality of programs related to the prevention and treatment of mental illness and substance use disorders.
+- **(b)** *Use of performance metrics* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall advance, through existing programs, the use of performance metrics, taking into consideration the recommendations under subsection (a)(3), to improve programs related to the prevention and treatment of mental illness and substance use disorders.
