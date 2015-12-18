@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2029
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2029
@@ -16,8 +16,26 @@ Consolidated Appropriations Act, 2016
 
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Cosponsors (21)
+## Cosponsors (39)
 
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. McCaskill, Claire [D-MO] (M001170)
@@ -45,7 +63,7 @@ Consolidated Appropriations Act, 2016
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (14)
+## Recorded votes (20)
 
 - 2015-04-29 — [House 114-1-178](votes/house-114-1-0178.md) — On Sustaining the Ruling of the Chair — **Passed** (237–180)
 - 2015-04-30 — [House 114-1-184](votes/house-114-1-0184.md) — On Agreeing to the Amendment — **Failed** (191–229)
@@ -61,6 +79,12 @@ Consolidated Appropriations Act, 2016
 - 2015-10-01 — [Senate 114-1-273](votes/senate-114-1-0273.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (50–44)
 - 2015-11-05 — [Senate 114-1-299](votes/senate-114-1-0299.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (93–0)
 - 2015-11-10 — [Senate 114-1-302](votes/senate-114-1-0302.md) — On Passage of the Bill — **Bill Passed** (93–0)
+- 2015-12-17 — [House 114-1-703](votes/house-114-1-0703.md) — On Concurring in Senate Amdt with Amdt Specified in Section 3(b) of H.Res. 566 — **Passed** (318–109)
+- 2015-12-18 — [House 114-1-705](votes/house-114-1-0705.md) — On Concurring in Senate Amdt with Amdt Specified in Section 3(a) of H.Res. 566 — **Passed** (316–113)
+- 2015-12-18 — [Senate 114-1-336](votes/senate-114-1-0336.md) — On the Cloture Motion — **Cloture Motion Agreed to** (72–26)
+- 2015-12-18 — [Senate 114-1-337](votes/senate-114-1-0337.md) — On the Motion to Table — **Motion to Table Failed** (31–67)
+- 2015-12-18 — [Senate 114-1-338](votes/senate-114-1-0338.md) — On the Motion — **Motion Agreed to** (73–25)
+- 2015-12-18 — [Senate 114-1-339](votes/senate-114-1-0339.md) — On the Motion — **Motion Agreed to** (65–33)
 
 ## Actions
 
@@ -525,3 +549,35 @@ Consolidated Appropriations Act, 2016
 - 2015-11-10 — Senate amendment submitted
 - 2015-11-10 — Senate amendment submitted
 - 2015-11-10 — The committee substitute, notwithstanding the passage of H.R. 2029, was withdrawn by Unanimous Consent. (consideration: CR S7955)
+- 2015-11-12 — Message on Senate action sent to the House.
+- 2015-12-17 — DEBATE - Pursuant to H. Res. 566, the question shall be divided among the two House amendments. Pursuant to section 2(a) of H. Res. 566, the portion of the divided question comprising the amendment specified in section 3(b) of H.Res. 566 (Tax Extenders) shall be considered first. The amendment is debatable for one hour.
+- 2015-12-17 — DEBATE - Pursuant to the provisions of H. Res. 566, the House proceeded with one hour of debate on the motion to concur in the Senate amendment with the amendment printed in sec. 3(a) (Consolidated Appropriations) of H. Res. 566.
+- 2015-12-17 — On motion to concur in the Senate amendment with an amendment specified in section 3(b) of H.Res. 566 Agreed to by the Yeas and Nays: 318 - 109 (Roll no. 703). (consideration: CR H9399-9433; text: CR H9434-9660)
+- 2015-12-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers(KY) motion to concur in the Senate amendment with the amendment printed in sec. 3(a) of H. Res. 566, the Chair put the question on adoption of the motion, and by voice vote the Chair announced that the ayes had prevailed. Mr. Rogers (KY) demanded the yeas and nays, and pursuant to sec. 2 of H.Res. 566 and clause 8 of Rule XX, the Chair postponed further proceedings on the Rogers (KY) motion until a time to be announced.
+- 2015-12-17 — Pursuant to H. Res. 566, Mr. Brady (TX) was recognized to move that the House concur in the Senate amendment to H.R. 2029 with the amendments specified in sec. 3(a) and sec. 3(b) of H. Res. 566. (consideration: CR H9390-9433, H9434-9676, H9693-10160, H10161-10471; text of Senate amendment as received in House: CR H9390-9399)
+- 2015-12-17 — Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on the motion to concur in the Senate amendment with amendments would be postponed.
+- 2015-12-17 — Resolving differences -- House actions: On motion to concur in the Senate amendment with an amendment specified in section 3(b) of H.Res. 566 Agreed to by the Yeas and Nays: 318 - 109 (Roll no. 703).(consideration: CR H9399-9433; text: CR H9434-9660)
+- 2015-12-17 — The Chair announced that, pursuant to clause 1(c) of rule XIX, further proceedings were resumed on the motion to concur in the Senate amendment with amendments.
+- 2015-12-17 — The previous question was ordered pursuant to the rule. (consideration: CR H9432)
+- 2015-12-17 — The previous question was ordered pursuant to the rule. (consideration: CR H9676)
+- 2015-12-18 — Became Public Law No: 114-113.
+- 2015-12-18 — Became Public Law No: 114-113.
+- 2015-12-18 — Cloture motion on the motion to concur in the House amendments to the Senate amendment presented in Senate. (consideration: CR S8857-8858; text: CR S8857, S8858)
+- 2015-12-18 — Cloture on the motion to concur in the House amendments to the Senate amendment invoked in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 336.
+- 2015-12-18 — Considered as unfinished business (consideration: CR H10696)
+- 2015-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8844)
+- 2015-12-18 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Motion by Senator McConnell to concur in the House amendments to the Senate amendment made in Senate. (consideration: CR S8844-8859)
+- 2015-12-18 — Motion to table the first House amendment to the Senate amendment to H.R. 2029 rejected in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 337. (consideration: CR S8858)
+- 2015-12-18 — Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendments to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 338. (consideration: CR S8858-8859)
+- 2015-12-18 — On motion to concur in the Senate amendment with an amendment specified in section 3(a) of H.Res. 566 Agreed to by the Yeas and Nays: 316 - 113 (Roll no. 705). (text: CR 12/17/2015 H9399-9423)
+- 2015-12-18 — Point of order that the motion to concur in the House amendments to the Senate amendment violates section 311(a)(2)(b) of the CBA raised in Senate.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Presented to President.
+- 2015-12-18 — Resolving differences -- House actions: On motion to concur in the Senate amendment with an amendment specified in section 3(a) of H.Res. 566 Agreed to by the Yeas and Nays: 316 - 113 (Roll no. 705).(text: CR 12/17/2015 H9399-9423)
+- 2015-12-18 — Resolving differences -- Senate actions: Senate agreed to the House amendments to the Senate amendment to H.R. 2029 by Yea-Nay Vote. 65 - 33. Record Vote Number: 339.(consideration: CR S8859)
+- 2015-12-18 — Senate agreed to the House amendments to the Senate amendment to H.R. 2029 by Yea-Nay Vote. 65 - 33. Record Vote Number: 339. (consideration: CR S8859)
+- 2015-12-18 — Senate amendment submitted
+- 2015-12-18 — Signed by President.
+- 2015-12-18 — Signed by President.
