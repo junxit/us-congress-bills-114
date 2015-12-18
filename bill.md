@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4188
-congress: 114th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4188
 
-That the bill from the House of Representatives (H.R. 4188) entitled “An Act to authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.
 
 ## § 1. Short title
 

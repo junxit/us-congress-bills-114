@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4188
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4188
@@ -48,3 +48,14 @@ Coast Guard Authorization Act of 2015
 - 2015-12-18 — Senate amendment agreed to: Amendment SA 2941 agreed to in Senate by Unanimous Consent.
 - 2015-12-18 — Senate amendment proposed (on the floor): Amendment SA 2941 proposed by Senator Perdue for Senator Thune.(consideration: CR S8908)
 - 2015-12-18 — Senate amendment submitted
+- 2016-02-01 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4188.
+- 2016-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-01 — Mr. Hunter moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H402-420)
+- 2016-02-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H402-418)
+- 2016-02-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H402-418)
+- 2016-02-04 — Presented to President.
+- 2016-02-04 — Presented to President.
+- 2016-02-08 — Became Public Law No: 114-120.
+- 2016-02-08 — Became Public Law No: 114-120.
+- 2016-02-08 — Signed by President.
+- 2016-02-08 — Signed by President.
