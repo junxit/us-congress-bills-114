@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2152
@@ -69,3 +69,15 @@ Electrify Africa Act of 2015
 - 2015-12-18 — Senate amendment proposed (on the floor): Amendment SA 2939 proposed by Senator McConnell for Senator Corker.(consideration: CR S8863; text: CR S8863)
 - 2015-12-18 — Senate amendment submitted
 - 2015-12-18 — The committee amendments agreed to by Unanimous Consent. (text: CR S8861-8863)
+- 2016-02-01 — Considered under suspension of the rules. (consideration: CR H396-400)
+- 2016-02-01 — DEBATE - The House proceeded with forty minutes of debate on S. 2152.
+- 2016-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-01 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2016-02-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H396-398)
+- 2016-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H396-398)
+- 2016-02-03 — Presented to President.
+- 2016-02-03 — Presented to President.
+- 2016-02-08 — Became Public Law No: 114-121.
+- 2016-02-08 — Became Public Law No: 114-121.
+- 2016-02-08 — Signed by President.
+- 2016-02-08 — Signed by President.
