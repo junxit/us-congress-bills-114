@@ -7,24 +7,34 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1115
 
-> To close out expired, empty grant accounts.
+> To close out expired grants.
 
 ## § 1. Short title
 
 This Act may be cited as the “Grants Oversight and New Efficiency Act” or the “GONE Act”.
 
-## § 2. Identifying and closing out expired, empty grant accounts
+## § 2. Identifying and closing out expired Federal grant awards
 
-- **(a)** *Inspectors General report*
-  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Council of the Inspectors General on Integrity and Efficiency shall submit to Congress and the head of each agency a report that—
-    - **(A)** lists each covered grant account held by the United States Government;
-    - **(B)** recommends which of the covered grant accounts described in subparagraph (A) should be immediately closed; and
-    - **(C)** for each covered grant account that has been expired for more than 90 days, explains why the covered grant account has not been closed out.
-  - **(2)** *Consideration* In determining which grant accounts held by the United States Government are covered grant accounts, the Council of the Inspectors General on Integrity and Efficiency shall compare the information made available in the cash payment management system and the grants program management database to ensure that grant accounts for grant awards that are not expired are not listed under paragraph (1)(A).
-- **(b)** *Closure of accounts required; notice*
-  - **(1)** *In general* Not later than 180 days after the report is submitted under subsection (a), the head of each agency with a covered grant account recommended for closure in the report described in subsection (a) shall close out each expired grant award associated with each covered grant account that is managed by the agency.
-  - **(2)** *Notice from agencies* Not later than 90 days after the date on which the 180-day period described in paragraph (1) ends, the head of each agency required to close a covered grant account under paragraph (1) shall provide notice the Council of the Inspectors General on Integrity and Efficiency specifying whether the head of the agency has closed out grant awards associated with all of the covered grant accounts required to be closed under paragraph (1).
-  - **(3)** *Notice to Congress* Not later than 90 days after the date on which the 90-day period described in paragraph (2) ends, the Council of the Inspectors General on Integrity and Efficiency shall submit to Congress and the committees of jurisdiction a report on the status of all the covered grant accounts required to be closed under paragraph (1).
-- **(c)** *Definitions* In this section—
-  - **(1)** the term agency has the meaning given that term in section 551 of title 5, United States Code; and
-  - **(2)** the term covered grant account means a grant account in a Federal agency payment management system held by the United States Government that has a zero balance for more than 180 days and for which the grant award period has expired.
+- **(a)** *Expired Federal grant award report*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall instruct the head of each agency, in coordination with the Secretary, to submit to Congress and the Secretary a report, not later than December 31 of the first calendar year beginning after the date of the enactment of this Act, that—
+    - **(A)** lists each Federal grant award held by such agency;
+    - **(B)** provides the total number of Federal grant awards, including the number of grants—
+      - **(i)** by time period of expiration;
+      - **(ii)** with zero dollar balances; and
+      - **(iii)** with undisbursed balances;
+    - **(C)** for an agency with Federal grant awards, describes the challenges leading to delays in grant closeout; and
+    - **(D)** for the 30 oldest Federal grant awards of an agency, explains why each Federal grant award has not been closed out.
+  - **(2)** *Use of data systems* An agency may use existing multiagency data systems in order to submit the report required under paragraph (1).
+  - **(3)** *Explanation of missing information* If the head of an agency is unable to submit all of the information required to be included in the report under paragraph (1), the report shall include an explanation of why the information was not available, including any shortcomings with and plans to improve existing grant systems, including data systems.
+- **(b)** *Notice from agencies*
+  - **(1)** *In general* Not later than 1 year after the date on which the head of an agency submits the report required under subsection (a), the head of such agency shall provide notice to the Secretary specifying whether the head of the agency has closed out grant awards associated with all of the Federal grant awards in the report and which Federal grant awards in the report have not been closed out.
+  - **(2)** *Notice to Congress* Not later than 90 days after the date on which all of the notices required pursuant to paragraph (1) have been provided or March 31 of the calendar year following the calendar year described in subsection (a)(1), whichever is sooner, the Secretary shall compile the notices submitted pursuant to paragraph (1) and submit to Congress a report on such notices.
+- **(c)** *Inspector General Review* Not later than 1 year after the date on which the head of an agency provides notice to Congress under subsection (b)(2), the Inspector General of an agency with more than $500,000,000 in annual grant funding shall conduct a risk assessment to determine if an audit or review of the agency’s grant closeout process is warranted.
+- **(d)** *Report on accountability and oversight* Not later than 6 months after the date on which the second report is submitted pursuant to subsection (b)(2), the Director of Office of Management and Budget, in consultation with the Secretary, shall submit to Congress a report on recommendations, if any, for legislation to improve accountability and oversight in grants management, including the timely closeout of a Federal grant award.
+- **(e)** *Definitions* In this section:
+  - **(1)** *Agency* The term agency has the meaning given that term in section 551 of title 5, United States Code.
+  - **(2)** *Closeout* The term closeout means a closeout of a Federal grant award conducted in accordance with part 200 of title 2, Code of Federal Regulations, including sections 200.16 and 200.343 of such title, or any successor thereto.
+  - **(3)** *Federal grant award* The term Federal grant award means a Federal grant award (as defined in section 200.38(a)(1) of title 2, Code of Federal Regulations, or any successor thereto), including a cooperative agreement, in an agency cash payment management system held by the United States Government for which—
+    - **(A)** the grant award period of performance, including any extensions, has been expired for more than 2 years; and
+    - **(B)** closeout has not yet occurred in accordance with section 200.343 of title 2, Code of Federal Regulations, or any successor thereto.
+  - **(4)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
