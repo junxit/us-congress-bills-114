@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4188
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-208 amendatory instructions. 47 executed, 161 stated and not applied.
+199 amendatory instructions. 47 executed, 152 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -197,7 +197,7 @@ to guess them.
 
 ### 33 U.S.C. § 499
 
-> Section 5 of the Act entitled “An Act making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors, and for other purposes”, approved August 18, 1894 (33 U.S.C. 499), is amended by striking “Secretary of Transportation” each place it appears and inserting “Secretary of the department in which the Coast Guard is operating”.
+> Section 5 of the Act entitled “An Act making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors, and for other purposes”, approved August 18, 1894 (33 U.S.C. 499) is amended by striking “Secretary of Transportation” each place it appears and inserting “Secretary of the department in which the Coast Guard is operating”.
 
 | | |
 |---|---|
@@ -431,7 +431,7 @@ to guess them.
 
 ### 46 U.S.C. § 8103
 
-> Section 421(d) of the Coast Guard and Maritime Transportation Act of 2006 (46 U.S.C. 8103 note) is amended by striking “On March 1, 2007, and annually thereafter” and inserting “Not later than July 1 of each year”.
+> Section 421(d) of the Coast Guard and Maritime Transportation Act of 2006 (46 U.S.C. 8103 note) is amended by striking “On March 1, 2007, and annually thereafter” and inserting “Not later than July 1 of each year” .
 
 | | |
 |---|---|
@@ -490,7 +490,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after subparagraph (C), as redesignated by paragraph (2) of this subsection, the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “completion;” and inserting “completion based on the proposed appropriations included in the budget;”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “at the projected funding levels;” and inserting “based on the proposed appropriations included in the budget;”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “at the projected funding levels;” and inserting “based on the proposed appropriations included in the budget;”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (c), and inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by amending subsection (c), as so redesignated, to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (g); and | the bill names no machine-readable US Code section |
@@ -557,7 +557,7 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 53706` | add-at-end | in section 53702(b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1801` | insert | by inserting before the period the following: “, in fisheries that are under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservat… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1801` | add-at-end | by adding at the end the following: “Any fishing vessel operated in fisheries under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 4302 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4302 of title 46, United States Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 151` | amend | by adding a period at the end of the item relating to section 3507; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 151` | amend | by adding a period at the end of the item relating to section 3508; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 151` | replace | in section 3715(a)(2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -600,16 +600,6 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1161` | redesignate | by redesignating subsection (e) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1151` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the table of contents in section 2, by striking the item relating to such section and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “all claims in a class action suit by seamen” and inserting “each claim by a seaman”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the seamen” and inserting “the seaman”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “class action”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “, by a seaman who is a claimant in the suit,” and inserting “by the seaman”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “all claims in a class action suit by seamen” and inserting “each claim by a seaman”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the seamen” and inserting “the seaman”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “class action”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “, by a seaman who is a claimant in the suit,” and inserting “by the seaman”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(a) In General.—” before the first sentence; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1861` | replace | Section 311(d) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(d)) is amended by striking the second sentence and inserting “In the case of Hawaii or any possession of the United States in the Pacific Ocea… | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Chapter 17 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -617,3 +607,4 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Subsection 559(e) of the Department of Homeland Security Appropriations Act, 2010 (Public Law 111–83; 123 Stat. 2180) is repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 93(a) of title 14, United States Code, is amended by striking “and” after the semicolon at the end of paragraph (23), by striking the period at the end of paragraph (24) and inserting “; and”, and by adding at the end the followi… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 611(a) of the Howard Coble Coast Guard and Maritime Transportation Act of 2014 (Public Law 113–281; 128 Stat. 3064) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5102(b) of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
