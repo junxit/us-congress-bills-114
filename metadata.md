@@ -1,7 +1,7 @@
 ---
 measure: S. 152
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 152
@@ -28,3 +28,7 @@ Keep the Promise Act of 2015
 
 - 2015-01-13 — Introduced in Senate
 - 2015-01-13 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-04-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2015-12-18 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-199. Additional views filed.
+- 2015-12-18 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-199. Additional views filed.
+- 2015-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
