@@ -1,7 +1,7 @@
 ---
 measure: S. 1172
 congress: 114
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
@@ -71,7 +71,7 @@ to guess them.
 
 ### 3 U.S.C. § 102
 
-> in section (7)(a)(2), as redesignated by subsection (a) of this section, by striking “section 4” and inserting “section 5”.
+> in section 7(a)(2), as redesignated by subsection (a) of this section, by striking “section 4” and inserting “section 5”.
 
 | | |
 |---|---|

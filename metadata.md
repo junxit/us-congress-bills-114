@@ -1,7 +1,7 @@
 ---
 measure: S. 1172
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1172
@@ -49,3 +49,11 @@ Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements A
 - 2015-07-31 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-07-31 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-07-31 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2015-08-08 — Referred to the Subcommittee on Oversight and Management Efficiency.
+- 2015-10-09 — Committee Consideration and Mark-up Session Held.
+- 2015-10-09 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2015-12-18 — Committee on Homeland Security discharged.
+- 2015-12-18 — Committee on Homeland Security discharged.
+- 2015-12-18 — Placed on the Union Calendar, Calendar No. 290.
+- 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-384, Part I.
+- 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-384, Part I.
