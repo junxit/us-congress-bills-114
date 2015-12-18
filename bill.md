@@ -15,7 +15,7 @@ This Act may be cited as the “Global Health Innovation Act of 2015”.
 
 ## § 2. Annual report
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Administrator of the United States Agency for International Development shall submit to Congress a report on the development and use of global health innovations in the programs, projects, and activities of the Agency.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for a period of 4 years, the Administrator of the United States Agency for International Development shall submit to Congress a report on the development and use of global health innovations in the programs, projects, and activities of the Agency.
 - **(b)** *Matters To Be Included* The report required by subsection (a) shall include the following:
   - **(1)** A description of—
     - **(A)** the extent to which global health innovations described in subsection (a) include drugs, diagnostics, devices, vaccines, electronic and mobile health technologies, and related behavior change and service delivery innovations;
