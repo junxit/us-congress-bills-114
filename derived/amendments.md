@@ -1,7 +1,7 @@
 ---
 measure: S. 2425
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
