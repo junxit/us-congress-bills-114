@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 227
@@ -20,9 +20,10 @@ Strengthening Education through Research Act
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Strengthening Education through Research Act
 - 2015-12-17 — Senate amendment agreed to: Amendment SA 2933 agreed to in Senate by Unanimous Consent.
 - 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2933 proposed by Senator McConnell for Senator Alexander.(consideration: CR S8831)
 - 2015-12-17 — Senate amendment submitted
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Received in the House.
+- 2015-12-18 — Referred to the House Committee on Education and the Workforce.
