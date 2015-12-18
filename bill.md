@@ -27,8 +27,9 @@ It is the policy of the United States to partner, consult, and coordinate with t
 - **(4)** promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
 - **(5)** encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
 - **(6)** promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution;
-- **(7)** promote policies to displace kerosene lighting with other technologies; and
-- **(8)** promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy.
+- **(7)** promote policies to displace kerosene lighting with other technologies;
+- **(8)** promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy; and
+- **(9)** promote and increase the use of private financing and seek ways to remove barriers to private financing and assistance for projects, including through charitable organizations.
 
 ## § 4. Development of comprehensive, multiyear strategy
 
@@ -44,7 +45,7 @@ It is the policy of the United States to partner, consult, and coordinate with t
     - **(D)** improve the reliability of power;
     - **(E)** maintain the affordability of power;
     - **(F)** maximize the financial sustainability of the power sector; and
-    - **(G)** improve access to power non-discriminatory access to power that is done in consultation with affected communities.
+    - **(G)** improve non-discriminatory access to power that is done in consultation with affected communities.
   - **(3)** A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs.
   - **(4)** A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate.
   - **(5)** An analysis of existing mechanisms for ensuring, and recommendations to promote—
@@ -62,8 +63,8 @@ It is the policy of the United States to partner, consult, and coordinate with t
     - **(F)** policies that ensure compensation for power provided to the electrical grid by on-site producers;
     - **(G)** policies to unbundle power services;
     - **(H)** regulations to eliminate conflicts of interest in the utility sector;
-    - **(I)** efforts to develop standardized power purchase agreements and other contracts to streamline project development; and
-    - **(J)** efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector. sector; and
+    - **(I)** efforts to develop standardized power purchase agreements and other contracts to streamline project development;
+    - **(J)** efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector; and
     - **(K)** policies that promote local community consultation with respect to the development of power generation and transmission projects.
   - **(7)** A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa.
   - **(8)** A description of the mechanisms to be established for—
@@ -81,6 +82,9 @@ It is the policy of the United States to partner, consult, and coordinate with t
     - **(C)** an analysis of the efficacy of efforts by the Overseas Private Investment Corporation and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and
     - **(D)** a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa.
   - **(11)** A description of plans to ensure that small and medium enterprises based in sub-Saharan Africa can fairly compete for energy development and energy access opportunities associated with this Act.
+  - **(12)** A description of how United States investments to increase access to energy in sub-Saharan Africa may reduce the need for foreign aid and development assistance in the future.
+  - **(13)** A description of policies or regulations, both domestically and internationally, that create barriers to private financing of the projects undertaken in this Act.
+  - **(14)** A description of the specific national security benefits to the United States that will be derived from increased energy access in sub-Saharan Africa.
 - **(c)** *Interagency working group*
   - **(1)** *In general* The President may, as appropriate, establish an Interagency Working Group to coordinate the activities of relevant United States Government departments and agencies involved in carrying out the strategy required under this section.
   - **(2)** *Functions* The Interagency Working Group may, among other things—
@@ -99,7 +103,8 @@ It is the policy of the United States to partner, consult, and coordinate with t
   - **(6)** reducing energy-related impediments to business productivity and investment; and
   - **(7)** building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution.
 - **(b)** *Effectiveness measurement* In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3.
-- **(c)** *Rule of construction* Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions.
+- **(c)** *Promotion of use of private financing and assistance* In carrying out policies under this section, such institutions shall promote the use of private financing and assistance and seek ways to remove barriers to private financing for projects and programs under this Act, including through charitable organizations.
+- **(d)** *Rule of construction* Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions.
 
 ## § 6. Leveraging international support
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2152
@@ -16,7 +16,7 @@ Electrify Africa Act of 2015
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Cosponsors (18)
+## Cosponsors (23)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -36,10 +36,16 @@ Electrify Africa Act of 2015
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. McCain, John [R-AZ] (M000303)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -49,3 +55,17 @@ Electrify Africa Act of 2015
 - 2015-11-05 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
 - 2015-11-05 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
 - 2015-11-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
+- 2015-12-08 — By Senator Corker from Committee on Foreign Relations filed written report. Report No. 114-176.
+- 2015-12-08 — By Senator Corker from Committee on Foreign Relations filed written report. Report No. 114-176.
+- 2015-12-18 — Amendment SA 2939 agreed to in Senate by Unanimous Consent.
+- 2015-12-18 — Amendment SA 2939 proposed by Senator McConnell for Senator Corker. (consideration: CR S8863; text: CR S8863) To improve the bill.
+- 2015-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8861-8865)
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Passed Senate with amendments by Unanimous Consent. (text: CR S8863-8865)
+- 2015-12-18 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S8863-8865)
+- 2015-12-18 — Received in the House.
+- 2015-12-18 — Referred to the House Committee on Foreign Affairs.
+- 2015-12-18 — Senate amendment agreed to: Amendment SA 2939 agreed to in Senate by Unanimous Consent.
+- 2015-12-18 — Senate amendment proposed (on the floor): Amendment SA 2939 proposed by Senator McConnell for Senator Corker.(consideration: CR S8863; text: CR S8863)
+- 2015-12-18 — Senate amendment submitted
+- 2015-12-18 — The committee amendments agreed to by Unanimous Consent. (text: CR S8861-8863)
