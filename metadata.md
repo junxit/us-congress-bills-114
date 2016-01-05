@@ -1,7 +1,7 @@
 ---
 measure: S. 1893
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1893
@@ -52,9 +52,10 @@ Mental Health Awareness and Improvement Act of 2015
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -79,3 +80,6 @@ Mental Health Awareness and Improvement Act of 2015
 - 2015-12-18 — Senate amendment submitted
 - 2015-12-18 — Senate amendment submitted
 - 2015-12-18 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S8911-8913; text of committee substitute as amended: CR S8908-8910)
+- 2016-01-04 — Held at the desk.
+- 2016-01-04 — Received in the House.
+- 2016-01-05 — Referred to the House Committee on Energy and Commerce.
