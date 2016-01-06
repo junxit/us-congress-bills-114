@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 451
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -37,9 +37,10 @@ This Act may be cited as the “Safe and Secure Federal Websites Act of 2015”.
   - **(7)** *Secure* The term secure means, with respect to a new Federal PII website, that the following requirements are met:
     - **(A)** The website is in compliance with subchapter II of chapter 35 of title 44, United States Code.
     - **(B)** The website ensures that personally identifiable information elicited, collected, stored, or maintained in connection with the website is captured at the latest possible step in a user input sequence.
-    - **(C)** The responsible agency for the website has taken reasonable efforts to minimize domain name confusion, including through additional domain registrations.
-    - **(D)** The responsible agency requires all personnel who have access to personally identifiable information in connection with the website to have completed a Standard Form 85P and signed a non-disclosure agreement with respect to personally identifiable information, and the agency takes proper precautions to ensure only trustworthy persons may access such information.
-    - **(E)** The responsible agency maintains (either directly or through contract) sufficient personnel to respond in a timely manner to issues relating to the proper functioning and security of the website, and to monitor on an ongoing basis existing and emerging security threats to the website.
+    - **(C)** The responsible agency for the website has encrypted, masked, or taken other similar actions to protect personally identifiable information elicited, collected, stored, or maintained in connection with the website.
+    - **(D)** The responsible agency for the website has taken reasonable efforts to minimize domain name confusion, including through additional domain registrations.
+    - **(E)** The responsible agency requires all personnel who have access to personally identifiable information in connection with the website to have completed a Standard Form 85P and signed a non-disclosure agreement with respect to personally identifiable information, and the agency takes proper precautions to ensure that only the fewest reasonable number of trustworthy persons may access such information.
+    - **(F)** The responsible agency maintains (either directly or through contract) sufficient personnel to respond in a timely manner to issues relating to the proper functioning and security of the website, and to monitor on an ongoing basis existing and emerging security threats to the website.
   - **(8)** *State* The term State means each State of the United States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
 
 ## § 3. Privacy breach requirements
