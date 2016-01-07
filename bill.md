@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1155
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,6 +11,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015” or as the “SCRUB Act of 2015”.
+This Act may be cited as the “Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2016” or as the “SCRUB Act of 2016”.
 
 ## § 2. Table of contents
