@@ -1,7 +1,7 @@
 ---
 measure: H.R. 653
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 8 executed, 23 stated and not applied.
+32 amendatory instructions. 9 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 12 U.S.C. § 5211
 
-> by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format” each place it appears;
+> by striking “for public inspection and copying” each place it appears and inserting “in an electronic, publicly accessible format”;
 
 | | |
 |---|---|
@@ -59,6 +59,15 @@ to guess them.
 |---|---|
 | Removed | `make publicly available upon request` |
 | Inserted | `make available in an electronic, publicly accessible format` |
+
+### 12 U.S.C. § 5211
+
+> Section 552(a)(4)(E)(i) of title 5, United States Code, is amended by striking “The court may” and inserting “The court shall”.
+
+| | |
+|---|---|
+| Removed | `The court may` |
+| Inserted | `The court shall` |
 
 ### 12 U.S.C. § 5211
 
@@ -114,7 +123,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5211` | insert | in the matter following paragraph (9), by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would caus… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5211` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5211` | replace | in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of— | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | replace | in clause (ii), by striking the period and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5211` | replace | in clause (ii), by striking the period at the end and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5211` | add-at-end | Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5211` | insert | by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 5211` | replace | in subparagraph (N), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
