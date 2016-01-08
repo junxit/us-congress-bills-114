@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1927
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,9 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fairness in Class Action Litigation Act of 2015”.
+This Act may be cited as the “Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2016”.
 
-## § 2. Class member injury required
+## § 2. Fairness in Class Action Litigation
 
 - **(a)** *In general* No Federal court shall certify any proposed class seeking monetary relief for personal injury or economic loss unless the party seeking to maintain such a class action affirmatively demonstrates that each proposed class member suffered the same type and scope of injury as the named class representative or representatives.
 - **(b)** *Certification order* An order issued under Rule 23(c)(1) of the Federal Rules of Civil Procedure that certifies a class seeking monetary relief for personal injury or economic loss shall include a determination, based on a rigorous analysis of the evidence presented, that the requirement in subsection (a) of this section is satisfied.
+
+## § 3. Furthering Asbestos Claim Transparency
+
+- **(a)** *Amendments to title 11, United States Code* Section 524(g) of title 11, United States Code, is amended by adding at the end the following:
+  > - **(8)** A trust described in paragraph (2) shall, subject to section 107—
+  >   - **(A)** file with the bankruptcy court, not later than 60 days after the end of every quarter, a report that shall be made available on the court’s public docket and with respect to such quarter—
+  >     - **(i)** describes each demand the trust received from, including the name and exposure history of, a claimant and the basis for any payment from the trust made to such claimant; and
+  >     - **(ii)** does not include any confidential medical record or the claimant’s full social security number; and
+  >   - **(B)** upon written request, and subject to payment (demanded at the option of the trust) for any reasonable cost incurred by the trust to comply with such request, provide in a timely manner any information related to payment from, and demands for payment from, such trust, subject to appropriate protective orders, to any party to any action in law or equity if the subject of such action concerns liability for asbestos exposure.
+
+- **(b)** *Effective date; application of amendments*
+  - **(1)** *Effective date* Except as provided in paragraph (2), this section and the amendments made by this section take effect on the date of the enactment of this Act.
+  - **(2)** *Application of amendments* The amendments made by this section shall apply with respect to cases commenced under title 11 of the United States Code before, on, or after the date of the enactment of this Act.
