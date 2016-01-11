@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1069
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Presidential Library Donation Reform Act of 2015”.
+This Act may be cited as the “Presidential Library Donation Reform Act of 2016”.
 
 ## § 2. Presidential libraries
 
@@ -49,3 +49,7 @@ This Act may be cited as the “Presidential Library Donation Reform Act of 2015
 - **(b)** *Applicability* Section 2112(h) of title 44, United States Code (as added by subsection (a))—
   - **(1)** shall apply to an organization established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at a Presidential archival depository or any facilities relating to a Presidential archival depository before, on, or after the date of the enactment of this Act; and
   - **(2)** shall only apply with respect to contributions (whether monetary or in-kind) made after the date of the enactment of this Act.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
