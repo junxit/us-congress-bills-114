@@ -1,7 +1,7 @@
 ---
 measure: H.R. 653
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 9 executed, 23 stated and not applied.
+44 amendatory instructions. 10 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > by striking “for public inspection and copying” each place it appears and inserting “in an electronic, publicly accessible format”;
 
@@ -33,16 +33,16 @@ to guess them.
 | Removed | `for public inspection and copying` |
 | Inserted | `in an electronic, publicly accessible format` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
-> by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”; and
+> by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”;
 
 | | |
 |---|---|
 | Removed | `subparagraph (D)` |
 | Inserted | `subparagraphs (D) and (E)` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > by striking “subparagraph (E)” and inserting “subparagraph (F)”; and
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `subparagraph (E)` |
 | Inserted | `subparagraph (F)` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > in subsection (g), by striking “make publicly available upon request” and inserting “make available in an electronic, publicly accessible format”; and
 
@@ -60,7 +60,16 @@ to guess them.
 | Removed | `make publicly available upon request` |
 | Inserted | `make available in an electronic, publicly accessible format` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
+
+> in paragraph (6), by striking “similar files” and inserting “personal information such as contact information or financial information”; and
+
+| | |
+|---|---|
+| Removed | `similar files` |
+| Inserted | `personal information such as contact information or financial information` |
+
+### 50 U.S.C. § 3003
 
 > Section 552(a)(4)(E)(i) of title 5, United States Code, is amended by striking “The court may” and inserting “The court shall”.
 
@@ -69,7 +78,7 @@ to guess them.
 | Removed | `The court may` |
 | Inserted | `The court shall` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > in subsection (a)(4)(A)(i), by striking “the Director of the Office of Management and Budget” and inserting “the Director of the Office of Management and Budget, in consultation with the Director of the Office of Government Information Services,”; and
 
@@ -78,7 +87,7 @@ to guess them.
 | Removed | `the Director of the Office of Management and Budget` |
 | Inserted | `the Director of the Office of Management and Budget, in consultation with the Director of the Office of Government Information Services,` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > by striking “Committee on Government Reform and Oversight” and inserting “Committee on Oversight and Government Reform”;
 
@@ -87,7 +96,7 @@ to guess them.
 | Removed | `Committee on Government Reform and Oversight` |
 | Inserted | `Committee on Oversight and Government Reform` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > by striking “Governmental Affairs” and inserting “Homeland Security and Governmental Affairs”; and
 
@@ -96,7 +105,7 @@ to guess them.
 | Removed | `Governmental Affairs` |
 | Inserted | `Homeland Security and Governmental Affairs` |
 
-### 12 U.S.C. § 5211
+### 50 U.S.C. § 3003
 
 > by striking “April 1” and inserting “March 1”;
 
@@ -114,26 +123,37 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5211` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | replace | by striking subparagraph (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | strike | in subparagraph (A), by striking “that will take longer than ten days to process”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | insert | in subparagraph (B), by inserting “automated” after “provides”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 5211` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | insert | in paragraph (5), by inserting after “with the agency” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | insert | in the matter following paragraph (9), by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would caus… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | replace | in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of— | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | replace | in clause (ii), by striking the period at the end and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | add-at-end | Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | insert | by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 5211` | replace | in subparagraph (N), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | replace | in subparagraph (O), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | insert | by inserting “and the Director of the Office of Government Information Services” after “the Director of the Office of Management and Budget”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 5211` | strike | by striking “by October 1, 1997”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5211` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | add-at-end | Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | replace | by striking subparagraph (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | strike | by striking “that will take longer than ten days to process”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | insert | by inserting “automated” after “provides”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3003` | replace | by striking the period at the end of clause (ii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3003` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | in paragraph (5), by inserting after “with the agency” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would cause specific identifiable harm to an inte… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting before “If technically feasible,” the following: “For each record withheld in whole or in part under paragraph (3), the agency shall identify the statute that exempts the record from disclosure.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | Section 552(a)(6)(C)(i) of title 5, United States Code, is amended by striking the fourth sentence and inserting at the end the following: “Any notification of denial or partial denial of any request for records under this subsection sha… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | Section 552(d) of title 5, United States Code, is amended by adding at the end the following: “In responding to requests from Congress for information, an agency may not assert that information may be withheld from Congress under this se… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of— | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | replace | in clause (ii), by striking the period at the end and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | by redesignating clause (iv) as clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting after clause (iii) the following new clause (iv): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | in subparagraph (F), by striking “any such estimate to the person making the request, unless providing such estimate would harm an interest protected by the exemption in subsection (b) pursuant to which the denial is made.” and inserting… | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | add-at-end | Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3003` | replace | in subparagraph (N), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | replace | in subparagraph (O), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting “and the Director of the Office of Government Information Services” after “the Director of the Office of Management and Budget”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3003` | strike | by striking “by October 1, 1997”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | Section 552(a)(4)(A) of title 5, United States Code, is amended by striking clause (viii) and inserting the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5211` | amend | Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | strike | by striking subsections (j) and (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5211` | insert | by inserting after subsection (i), the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | strike | by striking subsections (j) and (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting after subsection (i), the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | Section 552(c) of title 5, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | Section 552 of title 5, United States Code, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

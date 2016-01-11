@@ -1,7 +1,7 @@
 ---
 measure: H.R. 653
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 653
@@ -88,3 +88,9 @@ FOIA Oversight and Implementation Act of 2016
 - 2016-01-07 — Placed on the Union Calendar, Calendar No. 294.
 - 2016-01-07 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-391.
 - 2016-01-07 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-391.
+- 2016-01-11 — Considered under suspension of the rules. (consideration: CR H249-255)
+- 2016-01-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 653.
+- 2016-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H249-252)
+- 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H249-252)

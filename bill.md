@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “FOIA Oversight and Implementation Act of 2015” or the “FOIA Act”.
+This Act may be cited as the “FOIA Oversight and Implementation Act of 2016” or the “FOIA Act”.
 
 ## § 2. Freedom of Information Act amendments
 
@@ -25,32 +25,50 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
         > - **(F)** a general index of the records referred to under subparagraphs (D) and (E);
 
       - **(iv)** in the matter following subparagraph (F) (as added by clause (iii) of this subparagraph)—
-        - **(I)** by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”; and
+        - **(I)** by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”;
         - **(II)** by striking “subparagraph (E)” and inserting “subparagraph (F)”; and
     - **(B)** in paragraph (7)—
-      - **(i)** in subparagraph (A), by striking “that will take longer than ten days to process”; and
-      - **(ii)** in subparagraph (B), by inserting “automated” after “provides”;
+      - **(i)** in subparagraph (A)—
+        - **(I)** by striking “that will take longer than ten days to process”; and
+        - **(II)** by striking “; and” and inserting a semicolon;
+      - **(ii)** in subparagraph (B)—
+        - **(I)** by inserting “automated” after “provides”; and
+        - **(II)** by striking the period at the end of clause (ii) and inserting “; and”; and
+      - **(iii)** by adding at the end the following new subparagraph:
+        > - **(C)** provide a name, phone number, and email address for an agency employee who can provide current information about the status of each request received.
+
   - **(2)** in subsection (g), by striking “make publicly available upon request” and inserting “make available in an electronic, publicly accessible format”; and
   - **(3)** by adding at the end the following new subsection:
     > - **(m)** *Electronic submission of requests*
     >   - **(1)** *Consolidated online request portal* The Director of the Office of Management and Budget, in consultation with the Attorney General, shall ensure the operation of a consolidated online request portal that allows a member of the public to submit a request for records under subsection (a) to any agency from a single website. The portal may include any additional tools the Director of the Office of Management and Budget finds will improve the implementation of this section.
     >   - **(2)** *Rule of construction* This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processing software used by agencies subject to this section.
-    >   - **(3)** *Email request required* Each agency shall accept requests for records under subsection (a) through an email address and shall publish such email address on the website of the agency.
+    >   - **(3)** *Email request required* At a minimum, each agency shall accept requests for records under subsection (a) through an email address and shall publish such email address on the website of the agency.
 
-- **(b)** *Presumption of openness* Section 552(b) of title 5, United States Code, is amended—
-  - **(1)** in paragraph (5), by inserting after “with the agency” the following:
-    > , excluding—
-    > - **(A)** opinions that are controlling interpretations of law;
-    > - **(B)** final reports or memoranda created by an entity other than the agency, including other Governmental entities, at the request of the agency and used to make a final policy decision;
-    > - **(C)** guidance documents used by the agency to respond to the public; and
-    > - **(D)** records or information created 25 years or more before the date on which a request is made under subsection (a)(3)
+- **(b)** *Presumption of openness*
+  - **(1)** *Amendments* Section 552(b) of title 5, United States Code, is amended—
+    - **(A)** in paragraph (5), by inserting after “with the agency” the following:
+      > , excluding—
+      > - **(A)** opinions that are controlling interpretations of law;
+      > - **(B)** final reports or memoranda created by an entity other than the agency, including other Governmental entities, at the request of the agency and used to make a final policy decision;
+      > - **(C)** guidance documents used by the agency to respond to the public; and
+      > - **(D)** records or information created 25 years or more before the date on which a request is made under subsection (a)(3);
 
-  - **(2)** in the matter following paragraph (9), by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would cause specific identifiable harm to an interest protected by an exemption, or if disclosure is prohibited by law.”.
-- **(c)** *Assessment of attorney fees and other litigation costs* Section 552(a)(4)(E)(i) of title 5, United States Code, is amended by striking “The court may” and inserting “The court shall”.
-- **(d)** *The Office of Government Information Services* Section 552 of title 5, United States Code, is amended—
+    - **(B)** in paragraph (6), by striking “similar files” and inserting “personal information such as contact information or financial information”; and
+    - **(C)** in the matter following paragraph (9)—
+      - **(i)** by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would cause specific identifiable harm to an interest protected by an exemption, or if disclosure is prohibited by law.”; and
+      - **(ii)** by inserting before “If technically feasible,” the following: “For each record withheld in whole or in part under paragraph (3), the agency shall identify the statute that exempts the record from disclosure.”.
+  - **(2)** *Rules of construction*
+    - **(A)** *Intelligence sources and methods* Nothing in the amendments made by this Act to section 552(b) of title 5, United States Code, shall be construed to require the disclosure of information that—
+      - **(i)** is exempt under paragraph (1) of such section; or
+      - **(ii)** would adversely affect intelligence sources and methods that are protected by an exemption under such section.
+    - **(B)** *Personal privacy* For purposes of section 552(b)(6) of title 5, United States Code, as amended by this Act, the term personal privacy may not be construed to include the name of a Federal employee engaged in an official duty of such employee.
+  - **(3)** *Exemption decision transparency* Section 552(a)(6)(C)(i) of title 5, United States Code, is amended by striking the fourth sentence and inserting at the end the following: “Any notification of denial or partial denial of any request for records under this subsection shall set forth each name and title or position of each person responsible for the denial or partial denial or any decision to withhold a responsive record under subsection (b).”.
+- **(c)** *Requests from Congress* Section 552(d) of title 5, United States Code, is amended by adding at the end the following: “In responding to requests from Congress for information, an agency may not assert that information may be withheld from Congress under this section.”.
+- **(d)** *Assessment of attorney fees and other litigation costs* Section 552(a)(4)(E)(i) of title 5, United States Code, is amended by striking “The court may” and inserting “The court shall”.
+- **(e)** *Office of Government Information Services* Section 552 of title 5, United States Code, is amended—
   - **(1)** in subsection (a)(4)(A)(i), by striking “the Director of the Office of Management and Budget” and inserting “the Director of the Office of Management and Budget, in consultation with the Director of the Office of Government Information Services,”; and
   - **(2)** by amending subsection (h) to read as follows:
-    > - **(h)** *The Office of Government Information Services*
+    > - **(h)** *Office of Government Information Services*
     >   - **(1)** *Establishment* There is established the Office of Government Information Services within the National Archives and Records Administration. The head of the Office is the Director of the Office of Government Information Services.
     >   - **(2)** *Review of FOIA policy, procedure, and compliance* The Office of Government Information Services shall—
     >     - **(A)** review policies and procedures of agencies under this section;
@@ -63,22 +81,46 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
     >   - **(3)** *Mediation services* The Office of Government Information Services shall offer mediation services to resolve disputes between persons making requests under this section and agencies as a non-exclusive alternative to litigation and may issue advisory opinions at the discretion of the Office or upon request of any party to such mediation services.
     >   - **(4)** *Submission of report*
     >     - **(A)** *In general* The Office of Government Information Services shall not less than annually submit to the committees described in subparagraph (C) and the President a report on the findings from the information reviewed and identified under paragraph (2), a summary of the Office’s activities under paragraph (3) (including any advisory opinions issued), and legislative and regulatory recommendations to improve the administration of this section.
-    >     - **(B)** *Electronic availability of reports* The Office shall make available any report submitted under paragraph (A) in a publicly accessible format.
+    >     - **(B)** *Electronic availability of reports* The Office shall make available any report submitted under subparagraph (A) in an electronic, publicly accessible format.
     >     - **(C)** *Congressional submission of report* The committees described in this subparagraph are the following:
     >       - **(i)** The Committee on Oversight and Government Reform of the House of Representatives.
     >       - **(ii)** The Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate.
-    >     - **(D)** *Direct submission of reports and testimony* Any report submitted under paragraph (A), any testimony, or any other communication to Congress shall be submitted directly to the committees and the President, without any requirement that any officer or employee outside of the Office of Government Information Services, including the Archivist of the United States and the Director of the Office of Management and Budget, review such report, testimony, or other communication.
+    >     - **(D)** *Direct submission of reports and testimony* Any report submitted under subparagraph (A), any testimony, or any other communication to Congress shall be submitted directly to the committees and the President, without any requirement that any officer or employee outside of the Office of Government Information Services, including the Archivist of the United States and the Director of the Office of Management and Budget, review such report, testimony, or other communication.
     >   - **(5)** *Submission of additional information* The Director of the Office of Government Information Services may submit additional information to Congress and the President that the Director determines to be appropriate.
     >   - **(6)** *Annual meeting required* Not less than once a year, the Office of Government Information Services shall hold a meeting that is open to the public on the review and reports by the Office and permit interested persons to appear and present oral or written statements at such meeting.
 
-- **(e)** *Public resources* Section 552(a)(6)(A) of title 5, United States Code, is amended—
-  - **(1)** in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of—
-    > - **(I)** such determination and the reasons therefor;
-    > - **(II)** the right of such person to seek assistance from the agency FOIA Public Liaison; and
-    > - **(III)** the right of such person to appeal to the head of the agency any adverse determination, within a period determined by the agency that is not less than 90 days after the receipt of such adverse determination; and
+- **(f)** *Public resources* Section 552(a)(6) of title 5, United States Code, is amended—
+  - **(1)** in subparagraph (A)—
+    - **(A)** in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of—
+      > - **(I)** such determination and the reasons therefor;
+      > - **(II)** the right of such person to seek assistance from the agency FOIA Public Liaison; and
+      > - **(III)** the right of such person to appeal to the head of the agency any adverse determination, within a period determined by the agency that is not less than 90 days after the receipt of such adverse determination; and
 
-  - **(2)** in clause (ii), by striking the period at the end and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.”
-- **(f)** *Additional disclosure of information requirements* Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs:
+    - **(B)** in clause (ii), by striking the period at the end and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.”;
+  - **(2)** in subparagraph (B)—
+    - **(A)** by redesignating clause (iv) as clause (v); and
+    - **(B)** by inserting after clause (iii) the following new clause (iv):
+      > - **(iv)** When an agency consults with an entity with substantial interests in the determination of a request (in this clause referred to as the “consulted entity”):
+      >   - **(I)** The agency shall notify the requestor of the consultation in writing, including each of the following:
+      >     - **(aa)** A brief description of the consultation process.
+      >     - **(bb)** The name of each consulted entity, unless otherwise prohibited by law.
+      >     - **(cc)** An approximate number of pages, or other description of the volume of records, that each consulted entity is reviewing.
+      >   - **(II)** The agency shall notify the consulted entity of the need to consult in writing, including each of the following:
+      >     - **(aa)** An approximate number of pages, or other description of the volume of records, that the entity is requested to review.
+      >     - **(bb)** A request to provide a complete response within 15 days after the date on which the notification is sent and a notice that after the expiration of that time period the agency will proceed with the compliance of the request if a completed response is not received.
+      >     - **(cc)** If the number of records in the consultation under this clause exceeds 3,000 pages, a notification that the consulted entity shall have 15 days after the date on which the notice is sent to submit a substantial response and that a response on at least 3,000 pages not less than every 5 days thereafter is required to continue the consultation period.
+      >     - **(dd)** If the consulted entity is unable or anticipates that the entity will be unable to complete the consultation within the time period described, a notification that the consulted entity may request mediation services at the Office of Government Information Services to set an alternative consultation schedule.
+      >   - **(III)** If the requesting agency has not received a completed request within the time period described in the consultation notice, the agency shall request that the consulted entity engage in mediation services with the Office of Government Information Services. If the consulted entity is an agency, the consulted agency shall agree to participate in mediation services.
+      >   - **(IV)** If the consulted entity requests or agrees to engage in mediation services, the requesting agency shall notify the requester of the mediation and the opportunity to participate in the mediation, if participation is not otherwise prohibited by law. The parties in the mediation shall determine a reasonable schedule of completion and a date by which the requesting agency shall complete the response to the request.
+      >   - **(V)** If the consulted entity does not respond or rejects the offer to mediate an alternative schedule, the requesting agency shall complete the response to the requester.
+      >   - **(VI)** The previous provisions of this clause shall not apply when the consulted entity is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))).
+
+  - **(3)** in subparagraph (F), by striking “any such estimate to the person making the request, unless providing such estimate would harm an interest protected by the exemption in subsection (b) pursuant to which the denial is made.” and inserting the following:
+    > to the person making the request the following:
+    > - **(i)** Any such estimate, unless providing such estimate would harm an interest protected by the exemption in subsection (b) pursuant to which the denial is made.
+    > - **(ii)** A list of all records requested the provision of which was denied, unless the disclosure of such record is prohibited by law.
+
+- **(g)** *Additional disclosure of information requirements* Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs:
   > - **(8)** *Disclosure of information for increased public understanding of the Government* Each agency shall—
   >   - **(A)** review the records of such agency to determine whether the release of the records would be in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Government;
   >   - **(B)** for records determined to be in the public interest under subparagraph (A), reasonably segregate and redact any information exempted from disclosure under subsection (b); and
@@ -89,8 +131,8 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
   >     - **(ii)** ensure timely disclosure of information; and
   >   - **(B)** establish procedures for identifying categories of records that may be disclosed regularly and additional records of interest to the public that are appropriate for public disclosure, and for posting such records in an electronic, publicly accessible format.
 
-- **(g)** *Report on categories of information for disclosure* Not later than one year after the date of the enactment of this Act, and every two years thereafter, the Director of the Office of Information Policy of the Department of Justice, after consultation with agencies selected by the Director, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate a report that identifies categories of records that would be appropriate for proactive disclosure, and shall make such report available in an electronic, publicly accessible format.
-- **(h)** *Agency FOIA report* Section 552(e) of title 5, United States Code, is amended—
+- **(h)** *Report on categories of information for disclosure* Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter, the Director of the Office of Information Policy of the Department of Justice, after consultation with agencies selected by the Director, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate a report that identifies categories of records that would be appropriate for proactive disclosure, and shall make such report available in an electronic, publicly accessible format.
+- **(i)** *Agency FOIA report* Section 552(e) of title 5, United States Code, is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”;
     - **(B)** in subparagraph (N), by striking “; and” and inserting a semicolon;
@@ -117,9 +159,13 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
   - **(5)** by amending paragraph (6) to read as follows:
     > - **(6)** *Attorney General FOIA report*
     >   - **(A)** *In general* The Attorney General of the United States shall submit to Congress and the President an annual report on or before March 1 of each calendar year which shall include for the prior calendar year—
-    >     - **(i)** a listing of the number of cases arising under this section;
-    >     - **(ii)** each subsection under this section, each paragraph of the subsection, and any exemption, if applicable, involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4); and
-    >     - **(iii)** a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
+    >     - **(i)** a listing of the number of cases arising under this section, including for each case, as applicable—
+    >       - **(I)** each subsection under this section;
+    >       - **(II)** each paragraph of each such subsection;
+    >       - **(III)** any exemption;
+    >       - **(IV)** the disposition of such case; and
+    >       - **(V)** the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4); and
+    >     - **(ii)** a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
     >   - **(B)** *Electronic availability* The Attorney General of the United States—
     >     - **(i)** shall make each report described under subparagraph (A) available in an electronic, publicly accessible format; and
     >     - **(ii)** shall make the raw statistical data used in each report available in an electronic, publicly accessible format, which shall be—
@@ -127,14 +173,32 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
     >       - **(II)** capable of being searched and aggregated; and
     >       - **(III)** permitted to be downloaded, including downloaded in bulk.
 
-- **(i)** *Search or duplication fees* Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) shall provide written notice to the requester of the circumstance that justifies the fees. If an agency fails to provide such notice, the agency may not assess search or duplication fees.”.
-- **(j)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
+- **(j)** *Search or duplication fees* Section 552(a)(4)(A) of title 5, United States Code, is amended by striking clause (viii) and inserting the following new clause:
+  > - **(viii)**
+  >   - **(I)** Except as provided in subclause (II), an agency shall not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency fails to comply with any time limit described in paragraph (6).
+  >   - **(II)**
+  >     - **(aa)** If an agency has determined that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provided a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
+  >     - **(bb)** If an agency has determined that unusual circumstances apply and more than 3,000 pages are necessary to respond to the request, an agency may charge search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) if the agency has provided a timely written notice to the requester in accordance with paragraph (6)(B) and the agency has discussed with the requester via written mail, electronic mail, or telephone (or made not less than 3 good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with paragraph (6)(B)(ii).
+  >     - **(cc)** If a court has determined that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
+  > - **(ix)** When assessing or estimating fees, agencies shall provide a detailed explanation of the fee calculation, including—
+  >   - **(I)** the actual or estimated number, as appropriate, of—
+  >     - **(aa)** records duplicated;
+  >     - **(bb)** hours of searching;
+  >     - **(cc)** files searched;
+  >     - **(dd)** records searched;
+  >     - **(ee)** custodians searched;
+  >     - **(ff)** records reviewed; and
+  >     - **(gg)** hours of review;
+  >   - **(II)** citations to the fee schedule for each category of fee assessed; and
+  >   - **(III)** in the case of an estimate, the basis for such estimate.
+
+- **(k)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
   > - **(i)** *Government Accountability Office* The Government Accountability Office shall—
   >   - **(1)** conduct audits of administrative agencies on compliance with and implementation of the requirements of this section and issue reports detailing the results of such audits;
   >   - **(2)** catalog the number of exemptions under subsection (b)(3) and agency use of such exemptions; and
   >   - **(3)** review and prepare a report on the processing of requests by agencies for information pertaining to an entity that has received assistance under title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) during any period in which the Government owns or owned more than 50 percent of the stock of such entity.
 
-- **(k)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code, is amended—
+- **(l)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code, is amended—
   - **(1)** by striking subsections (j) and (k); and
   - **(2)** by inserting after subsection (i), the following new subsections:
     > - **(j)** *Chief FOIA Officer*
@@ -142,7 +206,7 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
     >   - **(2)** *Duties* The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency—
     >     - **(A)** have agency-wide responsibility for efficient and appropriate compliance with this section;
     >     - **(B)** monitor implementation of this section throughout the agency and keep the head of the agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency’s performance in implementing this section;
-    >     - **(C)** recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve its implementation of this section;
+    >     - **(C)** recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve the implementation of this section;
     >     - **(D)** review and report to the Attorney General, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency’s performance in implementing this section;
     >     - **(E)** facilitate public understanding of the purposes of the statutory exemptions of this section by including concise descriptions of the exemptions in both the agency’s handbook issued under subsection (g), and the agency’s annual report on this section, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply;
     >     - **(F)** serve as the primary agency liaison with the Office of Government Information Services and the Office of Information Policy; and
@@ -179,24 +243,40 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2015”
     >     - **(D)** *Public availability of Council records* Except as provided in subsection (b), the records, reports, transcripts, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by the Council shall be made publicly available.
     >     - **(E)** *Minutes* Detailed minutes of each meeting of the Council shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all reports received, issued, or approved by the Council.
 
-- **(l)** *Regulations*
+- **(m)** *Excluded records* Section 552(c) of title 5, United States Code, is amended by adding at the end the following new paragraph:
+  > - **(4)** An agency shall notify the Department of Justice in each instance records responsive to a request have been identified that the agency determines are not subject to the requirements of this section under paragraph (1), (2), or (3) and shall provide the Department of Justice with a detailed justification for such determination for each such instance. The Department of Justice shall maintain records of each notification and justification received. An agency may treat records created under this paragraph as not subject to the requirements under this section.
+
+- **(n)** *Agency performance; adverse actions*
+  - **(1)** *In general* Section 552 of title 5, United States Code, is further amended by adding at the end the following new subsection:
+    > - **(n)** *Agency performance*
+    >   - **(1)** *Performance reviews* Performance appraisals under chapter 43 of this title shall include consideration of the employee’s responsibility for, and compliance with, this section as appropriate.
+    >   - **(2)** *Agency-wide training* Each agency shall ensure agency employees receive annual training on the responsibilities of the agency under this section, including the specific responsibilities of each employee, such as responding promptly to requests for records and providing all records that may be responsive to the request.
+    >   - **(3)** *FOIA officer training* Each agency shall ensure agency employees directly responsible for fulfilling the requirements under this section receive annual training on such requirements. The annual training shall include statutory requirements (such as time limits to respond to requests for records, limitations on exemptions, and opportunities for discretionary disclosure) and any changes to this section or any interpretation of this section (such as a regulation issued under this section).
+    >   - **(4)** *Violation of FOIA*
+    >     - **(A)** *Intentional* An intentional violation of any provision of this section, including any rule, regulation, or other implementing guideline, by an officer or employee of an agency, as determined by the appropriate supervisor, shall be forwarded to the Inspector General of the agency for a verification of the violation, and upon verification, such officer or employee shall be subject to the suspension and removal provisions under subchapter II or V of chapter 75.
+    >     - **(B)** *Unauthorized withholding* The withholding of information in contravention of the requirements of this section, including any rule, regulation, or other implementing guideline, as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75, as the case may be.
+
+  - **(2)** *Regulations* The Office of Personnel Management shall ensure that any performance appraisal system established pursuant to chapter 43 of title 5, United States Code, shall include the requirements of section 552(n)(1) of such title (as added by paragraph (1)).
+- **(o)** *Regulations; GAO study; system of record notice*
   - **(1)** *Revision of regulations* Not later than 180 days after the date of the enactment of this Act, the head of each agency shall review the regulations of such agency and shall issue regulations on procedures for the disclosure of records under section 552 of title 5, United States Code, in accordance with the amendments made by this section. The regulations of each agency shall include—
     - **(A)** procedures for engaging in dispute resolution; and
     - **(B)** procedures for engaging with the Office of Government Information Services.
-  - **(2)** *Office of Government Information Services report* Not later than 270 days after the date of the enactment of this Act, the Office of Government Information Services shall submit to Congress a report on agency compliance with the requirements of this subsection.
-  - **(3)** *Report on noncompliance* The head of any agency that does not meet the requirements of paragraph (1) shall submit to Congress a report on the reason for noncompliance not later than 270 days after the date of the enactment of this Act.
-  - **(4)** *Inspector General review for noncompliance* Any agency that fails to comply with the requirements of this subsection shall be reviewed by the Office of Inspector General of such agency for compliance with section 552 of title 5, United States Code.
-  - **(5)** *Agency defined* In this section, the term agency has the meaning given such term in section 552(f) of title 5, United States Code.
+  - **(2)** *GAO non-custodian study* Not later than 18 months after the date of the enactment of this Act, the Comptroller General shall—
+    - **(A)** conduct a study of not less than five agencies to assess the feasibility of implementing a policy requiring non-custodians to search for records to meet the requirements of section 552 of title 5, United States Code, and requests for documents from Congress; and
+    - **(B)** submit a report on such assessment to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on the Judiciary of the Senate detailing the results of such study.
+  - **(3)** *Office of Government Information Services report* Not later than 270 days after the date of the enactment of this Act, the Office of Government Information Services shall submit to Congress a report on agency compliance with the requirements of this subsection.
+  - **(4)** *Agency system of records notice required* Not later than 90 days after the date of the enactment of this Act, the head of each agency shall publish in the Federal Register a system of records notice as defined in section 552a of title 5, United States Code, which allows the Office of Government Information Services access to records to the extent necessary to meet the requirements of this Act, and the amendments made by this Act.
+  - **(5)** *Report on noncompliance* Not later than 270 days after the date of the enactment of this Act, the head of an agency that does not meet the requirements of paragraph (1) shall submit to Congress a report on the reason for noncompliance.
+  - **(6)** *Inspector General review for noncompliance* Any agency that fails to comply with the requirements of this subsection shall be reviewed by the Office of Inspector General of such agency for compliance with section 552 of title 5, United States Code.
+  - **(7)** *Agency defined* In this section, the term agency has the meaning given such term in section 552(f) of title 5, United States Code.
 
-## § 3. Inspector general review; adverse actions
+## § 3. Inspector General review
 
-- **(a)** *Inspector general review*
-  - **(1)** *In general* The Inspector General of each agency shall—
-    - **(A)** periodically review compliance with the requirements of section 552 of title 5, United States Code, including the timely processing of requests, assessment of fees and fee waivers, and the use of exemptions under subsection (b) of such section; and
-    - **(B)** make recommendations the Inspector General determines to be necessary to the head of the agency, including recommendations for disciplinary action.
-  - **(2)** *Agency defined* In this subsection, the term agency has the meaning given that term under section 552(f) of title 5, United States Code.
-- **(b)** *Adverse actions* The withholding of information in a manner inconsistent with the requirements of section 552 of title 5, United States Code (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of such title, as the case may be.
+- **(a)** *Periodic review* The Inspector General of each agency (as such term is defined in section 552(f) of this title 5, United States Code) shall—
+  - **(1)** periodically review compliance with the requirements of section 552 of title 5, United States Code, including the timely processing of requests, assessment of fees and fee waivers, and the use of exemptions under subsection (b) of such section; and
+  - **(2)** make recommendations the Inspector General determines to be necessary to the head of the agency, including recommendations for disciplinary action.
+- **(b)** *Required frequency for certain agencies* The Inspector General of each agency (as such term is defined in section 901 of title 31, United States Code) shall complete the review and make the recommendations required under subsection (a) not less than once every 2 years.
 
 ## § 4. No additional funds authorized
 
-No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized or appropriated.
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
