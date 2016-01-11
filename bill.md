@@ -1,17 +1,17 @@
 ---
 legis-num: H.R. 3231
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3231
 
-> To amend title 5, United States Code, to protect unpaid interns in the Federal government from workplace harassment and discrimination, and for other purposes.
+> To amend title 5, United States Code, to protect unpaid interns in the Federal Government from workplace harassment and discrimination, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Intern Protection Act of 2015”.
+This Act may be cited as the “Federal Intern Protection Act of 2016”.
 
 ## § 2. Prohibited personnel practices
 
