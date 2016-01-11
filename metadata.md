@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3242
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3242
@@ -29,3 +29,9 @@ Child Nicotine Poisoning Prevention Act of 2015
 - 2015-07-28 — Introduced in House
 - 2015-07-28 — Introduced in House
 - 2015-07-28 — Referred to the House Committee on Energy and Commerce.
+- 2015-09-29 — Committee Consideration and Mark-up Session Held.
+- 2015-09-30 — Committee Consideration and Mark-up Session Held.
+- 2015-09-30 — Ordered to be Reported by Voice Vote.
+- 2016-01-11 — Placed on the Union Calendar, Calendar No. 297.
+- 2016-01-11 — Reported by the Committee on Energy and Commerce. H. Rept. 114-394.
+- 2016-01-11 — Reported by the Committee on Energy and Commerce. H. Rept. 114-394.
