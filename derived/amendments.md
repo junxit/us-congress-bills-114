@@ -1,7 +1,7 @@
 ---
 measure: H.R. 598
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 31 U.S.C. § 6101
 
-> in the matter preceding subparagraph (A), by striking “described under paragraph (1)” and inserting “identified in the program inventory required under paragraph (2)”;
+> in the matter preceding subparagraph (A), by striking “Information.—Information for each program described under paragraph (1)” and inserting “Information for larger programs.—Information for each program identified in the program inventory required under paragraph (2) for which there is more than $10,000,000 in annual budget authority”;
 
 | | |
 |---|---|
-| Removed | `described under paragraph (1)` |
-| Inserted | `identified in the program inventory required under paragraph (2)` |
+| Removed | `Information.—Information for each program described under paragraph (1)` |
+| Inserted | `Information for larger programs.—Information for each program identified in the program inventory required under paragraph (2) for which there is more than $10,000,000 in annual budget authority` |
 
 ## Stated, not applied
 

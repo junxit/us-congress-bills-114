@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 598
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Taxpayers Right-To-Know Act”.
 
-## § 2. Inventory of government programs
+## § 2. Inventory of Government programs
 
 - **(a)** *In general* Section 1122(a) of title 31, United States Code, is amended—
   - **(1)** by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;
   - **(2)** by inserting before paragraph (2), as so redesignated, the following:
-    > - **(1)** *Definition of program* For purposes of this subsection, the term “program” means an organized set of activities by 1 or more agencies directed toward a common purpose or goal.
+    > - **(1)** *Definition of program* For purposes of this subsection, the term program means an organized set of activities by one or more agencies directed toward a common purpose or goal.
 
   - **(3)** in paragraph (2), as so redesignated—
     - **(A)** by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”;
@@ -27,17 +27,17 @@ This Act may be cited as the “Taxpayers Right-To-Know Act”.
       >   - **(i)** a program inventory that shall identify each program of the Federal Government for which there is more than $1,000,000 in annual budget authority, which shall include—
       >     - **(I)** any activity that is commonly referred to as a program by a Federal agency in communications with Congress, including any activity identified as a program in a budget request;
       >     - **(II)** any activity that is commonly referred to as a program by a Federal agency in communications with the public, including each program for which financial awards are made on a competitive basis; and
-      >     - **(III)** any activity referenced in law as a program after June 30, 2018; and
-      >   - **(ii)** for each program identified in the program inventory, the information required under paragraph (3).
+      >     - **(III)** any activity referenced in law as a program after June 30, 2019; and
+      >   - **(ii)** for each program identified in the program inventory, the information required under paragraph (3) or paragraph (4), as applicable.
 
   - **(4)** in paragraph (3), as so redesignated—
-    - **(A)** in the matter preceding subparagraph (A), by striking “described under paragraph (1)” and inserting “identified in the program inventory required under paragraph (2)”;
+    - **(A)** in the matter preceding subparagraph (A), by striking “Information.—Information for each program described under paragraph (1)” and inserting “Information for larger programs.—Information for each program identified in the program inventory required under paragraph (2) for which there is more than $10,000,000 in annual budget authority”;
     - **(B)** by striking subparagraph (C);
     - **(C)** by redesignating subparagraph (B) as subparagraph (D);
     - **(D)** by striking subparagraph (A) and inserting the following:
       > - **(A)** an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;
       > - **(B)** for each program activity described in subparagraph (A), the amount of funding for the current fiscal year and previous 2 fiscal years;
-      > - **(C)** to the maximum extent practicable, the amount of funding for each program, determined using the pro rata share of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;
+      > - **(C)** an estimate of the amount of funding for the program;
 
     - **(E)** in subparagraph (D), as so redesignated, by striking “and” at the end; and
     - **(F)** by adding at the end the following:
@@ -54,13 +54,19 @@ This Act may be cited as the “Taxpayers Right-To-Know Act”.
       > - **(H)** to the extent practicable, financial and other information for each program activity required to be reported under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
   - **(5)** by adding at the end the following:
-    > - **(4)** *Archiving* After the end of each fiscal year, the Director of the Office of Management and Budget shall archive and preserve the information included in the program inventory required under paragraph (2) relating to that fiscal year.
+    > - **(4)** *Information for smaller programs* Information for each program identified in the program inventory required under paragraph (2) for which there is more than $1,000,000 and not more than $10,000,000 in annual budget authority shall, at a minimum, include—
+    >   - **(A)** an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;
+    >   - **(B)** for each program activity described in subparagraph (A), the amount of funding for the current fiscal year and previous 2 fiscal years;
+    >   - **(C)** an identification of the statutes that authorize the program and any major regulations specific to the program;
+    >   - **(D)** for any program that provides grants or other financial assistance to individuals or entities, a description of the individuals served by the program and beneficiaries who received financial assistance under the program for the most recent fiscal year; and
+    >   - **(E)** links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office (including program performance reports required under section 1116) released during the preceding 5 years.
+    > - **(5)** *Archiving* After the end of each fiscal year, the Director of the Office of Management and Budget shall archive and preserve the information included in the program inventory required under paragraph (2) relating to that fiscal year.
 
 - **(b)** *Expired grant funding* Not later than February 1 of each fiscal year, the Director of the Office of Management and Budget shall publish on a public website the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.
 
 ## § 3. Guidance and implementation
 
-- **(a)** *Guidance* Not later than June 30, 2017, the Director of the Office of Management and Budget—
+- **(a)** *Guidance* Not later than June 30, 2018, the Director of the Office of Management and Budget—
   - **(1)** shall prescribe guidance to implement this Act, and the amendments made by this Act;
   - **(2)** shall issue guidance to agencies to identify how the program activities used for reporting under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) are associated with programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by subsection (a);
   - **(3)** may issue guidance to agencies to ensure that the programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by subsection (a), are presented at a similar level of detail across agencies and are not duplicative or overlapping; and
@@ -69,4 +75,8 @@ This Act may be cited as the “Taxpayers Right-To-Know Act”.
       - **(i)** is not listed in section 901(b) of title 31, United States Code; and
       - **(ii)** for the fiscal year during which the exemption is made, has budget authority (as defined in section 3 of the Congressional Budget Act of 1974 (2 U.S.C. 622)) of not more than $10,000,000; and
     - **(B)** extend the implementation deadline under subsection (b) by not more than 1 year.
-- **(b)** *Implementation* This Act, and the amendments made by this Act, shall be implemented not later than June 30, 2018.
+- **(b)** *Implementation* This Act, and the amendments made by this Act, shall be implemented not later than June 30, 2019.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
