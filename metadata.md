@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3662
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3662
@@ -16,7 +16,7 @@ Iran Terror Finance Transparency Act
 
 - Rep. Russell, Steve [R-OK-5] (R000604)
 
-## Cosponsors (20)
+## Cosponsors (62)
 
 - Rep. Brat, Dave [R-VA-7] (B001290)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
@@ -38,6 +38,48 @@ Iran Terror Finance Transparency Act
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
 
 ## Committees (2)
 
@@ -51,3 +93,11 @@ Iran Terror Finance Transparency Act
 - 2015-10-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-10-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2015-10-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-01-07 — Committee Consideration and Mark-up Session Held.
+- 2016-01-07 — Ordered to be Reported by Voice Vote.
+- 2016-01-11 — Committee on Financial Services discharged.
+- 2016-01-11 — Committee on Financial Services discharged.
+- 2016-01-11 — Placed on the Union Calendar, Calendar No. 296.
+- 2016-01-11 — Reported by the Committee on Foreign Affairs. H. Rept. 114-393, Part I.
+- 2016-01-11 — Reported by the Committee on Foreign Affairs. H. Rept. 114-393, Part I.
+- 2016-01-11 — Rules Committee Resolution H. Res. 583 Reported to House. The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
