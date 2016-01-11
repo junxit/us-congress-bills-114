@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1155
@@ -28,10 +28,11 @@ SCRUB Act of 2016
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (8)
 
@@ -168,3 +169,4 @@ SCRUB Act of 2016
 - 2016-01-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H150)
 - 2016-01-07 — The previous question was ordered pursuant to the rule. (consideration: CR H150)
 - 2016-01-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-01-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
