@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1777
@@ -35,3 +35,9 @@ Presidential Allowance Modernization Act of 2016
 - 2015-07-16 — Placed on the Union Calendar, Calendar No. 157.
 - 2015-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-209.
 - 2015-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-209.
+- 2016-01-11 — Considered under suspension of the rules. (consideration: CR H241-242)
+- 2016-01-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1777.
+- 2016-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H241)
+- 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H241)
