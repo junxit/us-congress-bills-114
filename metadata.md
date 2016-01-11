@@ -1,7 +1,7 @@
 ---
 measure: H.R. 712
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 712
@@ -41,9 +41,10 @@ Sunshine for Regulations and Regulatory Decrees and Settlements Act of 2016
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (6)
 
@@ -141,3 +142,4 @@ Sunshine for Regulations and Regulatory Decrees and Settlements Act of 2016
 - 2016-01-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H144)
 - 2016-01-07 — The previous question was ordered pursuant to the rule. (consideration: CR H143)
 - 2016-01-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-01-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
