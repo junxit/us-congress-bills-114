@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1927
@@ -20,9 +20,10 @@ Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency A
 
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (11)
 
@@ -156,3 +157,4 @@ Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency A
 - 2016-01-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H208)
 - 2016-01-08 — The previous question was ordered pursuant to the rule. (consideration: CR H207)
 - 2016-01-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-01-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
