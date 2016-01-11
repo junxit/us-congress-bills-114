@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,5 +35,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “or the International Emergency Economic Powers Act” and inserting “, the International Emergency Economic Powers Act”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end before the semicolon the following: “, or the North Korea Sanctions Enforcement Act of 2015”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “or section 92 of the Atomic Energy Act of 1954” and inserting “section 92 of the Atomic Energy Act of 1954”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2015”. | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2015;”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7814` | insert | Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
