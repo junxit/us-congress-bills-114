@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “North Korea Sanctions Enforcement Act of 2015”.
+- **(a)** *Short title* This Act may be cited as the “North Korea Sanctions Enforcement Act of 2016”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings
@@ -36,7 +36,7 @@ Congress finds the following:
 In this Act:
 
 - **(1)** *Applicable Executive order* The term applicable Executive order means—
-  - **(A)** Executive Order No. 13382 (2005), 13466 (2008), 13551 (2010), or 13570 (2011), to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea; or
+  - **(A)** Executive Order No. 13382 (2005), 13466 (2008), 13551 (2010), 13570 (2011), or 13687 (2015) to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea; or
   - **(B)** any Executive order adopted on or after the date of the enactment of this Act, to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea.
 - **(2)** *Applicable United Nations Security Council resolution* The term applicable United Nations Security Council resolution means—
   - **(A)** United Nations Security Council Resolution 1695 (2006), 1718 (2006), 1874 (2009), 2087 (2013), or 2094 (2013); or
@@ -59,7 +59,7 @@ In this Act:
 - **(10)** *Other stores of value* The term other stores of value means—
   - **(A)** prepaid access devices, tangible or intangible prepaid access devices, or other instruments or devices for the storage or transmission of value, as defined in part 1010 of title 31, Code of Federal Regulations; and
   - **(B)** any covered goods, as defined in section 1027.100 of title 31, Code of Federal Regulations, and any instrument or tangible or intangible access device used for the storage and transmission of a representation of covered goods, or other device, as defined in section 1027.100 of title 31, Code of Federal Regulations.
-- **(11)** *Person* The term person means an individual or entity as determined by the Secretary of State and the Secretary of the Treasury.
+- **(11)** *Person* The term person has the meaning given such term in section 510.306 of title 31, Code of Federal Regulations.
 - **(12)** *Significant activities undermining cyber security* The term “significant activities undermining cyber security” means—
   - **(A)** significant efforts to—
     - **(i)** deny access to or degrade, disrupt, or destroy an information and communications technology system or network; or
@@ -67,6 +67,4 @@ In this Act:
   - **(B)** significant destructive malware attacks;
   - **(C)** significant denial of service activities; or
   - **(D)** such other significant activities as may be described in regulations promulgated to implement section 104.
-- **(13)** *United states person* The term United States person means—
-  - **(A)** a natural person who is a citizen of the United States or who owes permanent allegiance to the United States; and
-  - **(B)** a corporation or other legal entity which is organized under the laws of the United States, any State or territory thereof, or the District of Columbia, if natural persons described in subparagraph (A) own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
+- **(13)** *United states person* The term United States person has the meaning given such term in section 510.311 of title 31, Code of Federal Regulations.

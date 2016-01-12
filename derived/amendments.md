@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 22 U.S.C. § 7814
+
+> in subsection (a), by striking “radios capable of receiving broadcasting” and inserting “radio, Internet, and electronic mass communications capable of receiving content”; and
+
+| | |
+|---|---|
+| Removed | `radios capable of receiving broadcasting` |
+| Inserted | `radio, Internet, and electronic mass communications capable of receiving content` |
 
 ## Stated, not applied
 
@@ -33,7 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “or the International Emergency Economic Powers Act” and inserting “, the International Emergency Economic Powers Act”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end before the semicolon the following: “, or the North Korea Sanctions Enforcement Act of 2015”. | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end before the semicolon the following: “, or the North Korea Sanctions Enforcement Act of 2016”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “or section 92 of the Atomic Energy Act of 1954” and inserting “section 92 of the Atomic Energy Act of 1954”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2015;”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 7814` | insert | Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016;”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 7814` | amend | by adding after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

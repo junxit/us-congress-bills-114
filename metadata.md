@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 757
@@ -63,6 +63,10 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-01-12 — [House 114-2-43](votes/house-114-2-0043.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–2)
+
 ## Actions
 
 - 2015-02-05 — Introduced in House
@@ -91,3 +95,7 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - 2016-01-11 — Placed on the Union Calendar, Calendar No. 295.
 - 2016-01-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-392, Part I.
 - 2016-01-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-392, Part I.
+- 2016-01-12 — Considered as unfinished business. (consideration: CR H323-324)
+- 2016-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43). (text: CR 1/11/2016 H229-235)
+- 2016-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43).(text: CR 1/11/2016 H229-235)
