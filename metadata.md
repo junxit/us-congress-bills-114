@@ -1,7 +1,7 @@
 ---
 measure: S. 1761
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1761
@@ -28,3 +28,8 @@ A bill to take certain Federal land located in Lassen County, California, into t
 
 - 2015-07-14 — Introduced in Senate
 - 2015-07-14 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-10-07 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-260.
+- 2015-10-21 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-202.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-202.
+- 2016-01-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
