@@ -1,7 +1,7 @@
 ---
 measure: H.R. 387
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 387
@@ -50,3 +50,8 @@ Economic Development Through Tribal Land Exchange Act
 - 2015-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5103)
 - 2015-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5103)
 - 2015-07-14 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2015-10-07 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-260.
+- 2015-10-21 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-204.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-204.
+- 2016-01-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 348.
