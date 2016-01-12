@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1777
@@ -21,9 +21,10 @@ Presidential Allowance Modernization Act of 2016
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Presidential Allowance Modernization Act of 2016
 - 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H241)
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H241)
+- 2016-01-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
