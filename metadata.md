@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 583
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 583
@@ -20,6 +20,11 @@ Providing for consideration of bill (H.R. 1644) to amend the Surface Mining Cont
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2016-01-12 — [House 114-2-36](votes/house-114-2-0036.md) — On Ordering the Previous Question — **Passed** (233–173)
+- 2016-01-12 — [House 114-2-37](votes/house-114-2-0037.md) — On Agreeing to the Resolution — **Passed** (239–183)
+
 ## Actions
 
 - 2016-01-11 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of bill (H.R. 1644) to amend the Surface Mining Cont
 - 2016-01-11 — The House Committee on Rules reported an original measure, H. Rept. 114-395, by Mr. Newhouse.
 - 2016-01-11 — The House Committee on Rules reported an original measure, H. Rept. 114-395, by Mr. Newhouse.
 - 2016-01-11 — The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016,
+- 2016-01-12 — Considered as privileged matter. (consideration: CR H297-308)
+- 2016-01-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 583.
+- 2016-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-12 — On agreeing to the resolution Agreed to by recorded vote: 239 - 183 (Roll no. 37). (text: CR H297)
+- 2016-01-12 — On ordering the previous question Agreed to by the Yeas and Nays: 233 - 173 (Roll no. 36). (consideration: CR H307)
+- 2016-01-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 239 - 183 (Roll no. 37).(text: CR H297)
