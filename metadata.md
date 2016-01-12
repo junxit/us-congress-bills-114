@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3231
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3231
@@ -49,3 +49,4 @@ Federal Intern Protection Act of 2016
 - 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 35). (text: CR H255)
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 35).(text: CR H255)
 - 2016-01-11 — The title of the measure was amended. Agreed to without objection.
+- 2016-01-12 — Received in the Senate.
