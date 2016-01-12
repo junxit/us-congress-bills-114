@@ -1,7 +1,7 @@
 ---
 measure: H.R. 487
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 487
@@ -42,3 +42,7 @@ To allow the Miami Tribe of Oklahoma to lease or transfer certain lands.
 - 2015-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5993)
 - 2015-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5993)
 - 2015-09-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2015-10-07 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-205.
+- 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-205.
+- 2016-01-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
