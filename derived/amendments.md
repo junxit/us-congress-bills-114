@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,5 +35,5 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 1251` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1291` | add-at-end | Title VII of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1291 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1291` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1291` | redesignate | by redesignating subsections (c) and (d) as subsection (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1291` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1292` | redesignate | by redesignating subsections (c) and (d) as subsection (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1292` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

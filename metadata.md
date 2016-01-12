@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1644
@@ -57,6 +57,14 @@ STREAM Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (5)
+
+- 2016-01-12 — [House 114-2-38](votes/house-114-2-0038.md) — On Agreeing to the Amendment — **Failed** (189–223)
+- 2016-01-12 — [House 114-2-39](votes/house-114-2-0039.md) — On Agreeing to the Amendment — **Failed** (203–219)
+- 2016-01-12 — [House 114-2-40](votes/house-114-2-0040.md) — On Agreeing to the Amendment — **Failed** (190–235)
+- 2016-01-12 — [House 114-2-41](votes/house-114-2-0041.md) — On Motion to Recommit with Instructions — **Failed** (186–237)
+- 2016-01-12 — [House 114-2-42](votes/house-114-2-0042.md) — On Passage — **Passed** (235–188)
+
 ## Actions
 
 - 2015-03-26 — Introduced in House
@@ -71,3 +79,53 @@ STREAM Act
 - 2015-10-01 — Placed on the Union Calendar, Calendar No. 209.
 - 2015-10-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-277.
 - 2015-10-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-277.
+- 2016-01-11 — Rules Committee Resolution H. Res. 583 Reported to House. The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-12 — Amendment (A001) offered by Mr. Lamborn. (consideration: CR H316; text: CR H316)
+- 2016-01-12 — Amendment (A002) offered by Mr. Kildee. (consideration: CR H316-317, H319-320; text: CR H316)
+- 2016-01-12 — Amendment (A003) offered by Mr. Cartwright. (consideration: CR H317-318, H320; text: CR H317)
+- 2016-01-12 — Amendment (A004) offered by Ms. Sewell (AL). (consideration: CR H318-319, H320-321; text: CR H318)
+- 2016-01-12 — Amendment agreed to Committee of the Whole
+- 2016-01-12 — Amendment failed in Committee of the Whole
+- 2016-01-12 — Amendment failed in Committee of the Whole
+- 2016-01-12 — Amendment failed in Committee of the Whole
+- 2016-01-12 — Considered under the provisions of rule H. Res. 583. (consideration: CR H308-323)
+- 2016-01-12 — DEBATE - Pursuant to the provisions of H. Res. 583, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment No. 3.
+- 2016-01-12 — DEBATE - Pursuant to the provisions of H. Res. 583, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 2.
+- 2016-01-12 — DEBATE - Pursuant to the provisions of H. Res. 583, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 1.
+- 2016-01-12 — DEBATE - Pursuant to the provisions of H. Res. 583, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell amendment No. 4.
+- 2016-01-12 — DEBATE - The House proceeded with 10 minutes of debate on the Kildee motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert language stating that either an imminent or long-term threat to human life or increase the incidence or prevalence of lung cancer, heart or kidney disease, birth defects, or heavy metal contaimination in communities in the vicinities of mountaintop removal cola mining projects.
+- 2016-01-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1644.
+- 2016-01-12 — House amendment agreed to: On agreeing to the Lamborn amendment (A001) Agreed to by voice vote.
+- 2016-01-12 — House amendment not agreed to: On agreeing to the Cartwright amendment (A003) Failed by recorded vote: 203 - 219 (Roll no. 39).
+- 2016-01-12 — House amendment not agreed to: On agreeing to the Kildee amendment (A002) Failed by recorded vote: 189 - 223 (Roll no. 38).
+- 2016-01-12 — House amendment not agreed to: On agreeing to the Sewell (AL) amendment (A004) Failed by recorded vote: 190 - 235 (Roll no. 40).
+- 2016-01-12 — House amendment offered
+- 2016-01-12 — House amendment offered
+- 2016-01-12 — House amendment offered
+- 2016-01-12 — House amendment offered
+- 2016-01-12 — House amendment offered/reported by : Amendment (A001) offered by Mr. Lamborn.(consideration: CR H316; text: CR H316)
+- 2016-01-12 — House amendment offered/reported by : Amendment (A002) offered by Mr. Kildee.(consideration: CR H316-317, H319-320; text: CR H316)
+- 2016-01-12 — House amendment offered/reported by : Amendment (A003) offered by Mr. Cartwright.(consideration: CR H317-318, H320; text: CR H317)
+- 2016-01-12 — House amendment offered/reported by : Amendment (A004) offered by Ms. Sewell (AL).(consideration: CR H318-319, H320-321; text: CR H318)
+- 2016-01-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 583 and Rule XVIII.
+- 2016-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-01-12 — Mr. Kildee moved to recommit with instructions to the Committee on Natural Resources. (consideration: CR H321-322; text: CR H321)
+- 2016-01-12 — On agreeing to the Cartwright amendment (A003) Failed by recorded vote: 203 - 219 (Roll no. 39).
+- 2016-01-12 — On agreeing to the Kildee amendment (A002) Failed by recorded vote: 189 - 223 (Roll no. 38).
+- 2016-01-12 — On agreeing to the Lamborn amendment (A001) Agreed to by voice vote.
+- 2016-01-12 — On agreeing to the Sewell (AL) amendment (A004) Failed by recorded vote: 190 - 235 (Roll no. 40).
+- 2016-01-12 — On motion to recommit with instructions Failed by recorded vote: 186 - 237 (Roll no. 41).
+- 2016-01-12 — On passage Passed by recorded vote: 235 - 188 (Roll no. 42).
+- 2016-01-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cartwright demanded a recorded voted and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-01-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Kildee demanded a recorded voted and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-01-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sewell amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Sewell demanded a recorded voted and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-01-12 — Passed/agreed to in House: On passage Passed by recorded vote: 235 - 188 (Roll no. 42).
+- 2016-01-12 — Roll call votes on amendments in House
+- 2016-01-12 — Roll call votes on amendments in House
+- 2016-01-12 — Roll call votes on amendments in House
+- 2016-01-12 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H315-316)
+- 2016-01-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1644.
+- 2016-01-12 — The Speaker designated the Honorable Erik Paulsen to act as Chairman of the Committee.
+- 2016-01-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H322)
+- 2016-01-12 — The previous question was ordered pursuant to the rule. (consideration: CR H321)
+- 2016-01-12 — The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.

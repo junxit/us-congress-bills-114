@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1644
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,8 +31,9 @@ This Act may be cited as the “Supporting Transparent Regulatory and Environmen
   >   - **(1)** *Publicly available* The term “publicly available” means published on the Internet via a publicly accessible website under the Secretary’s control.
   >   - **(2)** *Environmental analysis* The term “environmental analysis” means environmental impact statements and environmental assessments prepared pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
   >   - **(3)** *Scientific product* The term “scientific product” means any product that—
-  >     - **(A)** employs the scientific method for inventorying, monitoring, experimenting, studying, researching, or modeling purposes; and
-  >     - **(B)** is relied upon by the Secretary in the development of any rule, environmental analysis, economic assessment, policy, or guidance.
+  >     - **(A)** employs the scientific method for inventorying, monitoring, experimenting, studying, researching, or modeling purposes;
+  >     - **(B)** is relied upon by the Secretary in the development of any rule, environmental analysis, economic assessment, policy, or guidance; and
+  >     - **(C)** is not protected under copyright laws.
   >   - **(4)** *Raw data* The term “raw data”—
   >     - **(A)** except as provided in subparagraph (B), means any computational process, or quantitative or qualitative data, that is relied on in a scientific product to support a finding or observation; and
   >     - **(B)** does not include such data or processes—
@@ -50,13 +51,13 @@ This Act may be cited as the “Supporting Transparent Regulatory and Environmen
   > - **(a)** *Study* No later than 90 days after the date of the enactment of the STREAM Act, the Secretary of the Interior, in consultation with the Interstate Mining Compact Commission and its State members, shall enter into an arrangement with the National Academy of Sciences, for execution by the Board on Earth Sciences and Resources, to conduct a comprehensive study on the regulatory effectiveness of the “Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values” Final Rule published June 30, 1983 (48 Fed. Reg. 30312), and amended September 30, 1983 (48 Fed. Reg. 44777), in protecting perennial and intermittent streams through the use of stream buffer zones. If the study determines the existence of regulatory inefficiencies, then the study shall include suggestions and recommendations for increasing the effectiveness of the rule.
   > - **(b)** *Results of the study* Not later than 2 years after execution of the arrangements under subsection (a), the Board on Earth Sciences and Resources shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, appropriate Federal agencies, and the Governor of each of the States represented on the Interstate Mining Compact Commission the results of the study conducted under subsection (a).
   > - **(c)** *Funding* There is authorized to be appropriated to the Secretary of the Interior $1,000,000 for fiscal year 2016 and $1,000,000 for fiscal year 2017 for the purposes of this section.
-  > - **(d)** *Prohibition on new regulations* The Secretary shall not issue any final or other regulations pertaining to the proposed rule entitled “Stream Protection Rule” (80 Fed. Reg. 44436) or relating to stream buffer zones, until one year after the Secretary has submitted the results of the study in accordance with subsection (b). If the Secretary proposes any such regulations after such submission, the Secretary shall take into consideration the findings of the study.
+  > - **(d)** *Prohibition on new regulations* The Secretary shall not issue any final or other regulations pertaining to the proposed rule entitled “Stream Protection Rule” (80 Fed. Reg. 44436) or relating to stream buffer zones, until 1 year after the Secretary has submitted the results of the study in accordance with subsection (b). If the Secretary proposes any such regulations after such submission, the Secretary shall take into consideration the findings of the study.
 
 - **(b)** *Clerical amendment* The table of contents in the first section of such Act is amended by adding at the end of the items relating to such title the following:
 
 ## § 4. Compliance with other Federal laws
 
-Section 702 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1291) is amended—
+Section 702 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1292) is amended—
 
 - **(1)** by redesignating subsections (c) and (d) as subsection (d) and (e), respectively; and
 - **(2)** by inserting after subsection (b) the following:
