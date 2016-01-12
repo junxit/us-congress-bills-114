@@ -1,7 +1,7 @@
 ---
 measure: H.R. 653
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 653
@@ -74,9 +74,10 @@ FOIA Oversight and Implementation Act of 2016
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ FOIA Oversight and Implementation Act of 2016
 - 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H249-252)
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H249-252)
+- 2016-01-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
