@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 107
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 107
@@ -24,3 +24,4 @@ Providing for a conditional adjournment of the House of Representatives.
 - 2016-01-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-01-13 — On agreeing to the resolution Agreed to without objection. (text: CR H361-362)
 - 2016-01-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H361-362)
+- 2016-01-14 — Received in the Senate.
