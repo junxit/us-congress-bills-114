@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 757
@@ -55,13 +55,14 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - Rep. Ellmers, Renee L. [R-NC-2] (E000291)
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 
-## Committees (5)
+## Committees (6)
 
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -99,3 +100,4 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - 2016-01-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43). (text: CR 1/11/2016 H229-235)
 - 2016-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43).(text: CR 1/11/2016 H229-235)
+- 2016-01-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
