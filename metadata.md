@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1644
@@ -53,9 +53,10 @@ STREAM Act
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -129,3 +130,4 @@ STREAM Act
 - 2016-01-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H322)
 - 2016-01-12 — The previous question was ordered pursuant to the rule. (consideration: CR H321)
 - 2016-01-12 — The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
