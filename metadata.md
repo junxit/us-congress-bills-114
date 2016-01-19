@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1069
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1069
@@ -41,3 +41,5 @@ Presidential Library Donation Reform Act of 2016
 - 2016-01-11 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H247-248)
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H247-248)
+- 2016-01-12 — Received in the Senate.
+- 2016-01-19 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
