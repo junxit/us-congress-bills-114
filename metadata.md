@@ -1,7 +1,7 @@
 ---
 measure: S. 2422
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2422
@@ -29,3 +29,7 @@ Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction 
 
 - 2015-12-18 — Introduced in Senate
 - 2015-12-18 — Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S8885)
+- 2016-01-20 — Passed Senate without amendment by Unanimous Consent. (text: CR S139)
+- 2016-01-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S139)
+- 2016-01-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S139)
+- 2016-01-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S139)
