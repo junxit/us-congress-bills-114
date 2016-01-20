@@ -1,0 +1,32 @@
+---
+legis-num: S. 2453
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2453
+
+> To consolidate duplicative and overlapping Federal programs and reduce spending.
+
+## § 1. Short title
+
+This Act may be cited as the “Duplication Reduction and Scoring Act of 2016”.
+
+## § 2. Consolidating unnecessary duplicative and overlapping government programs
+
+- **(a)** *Definition* In this section, the term GAO duplication and overlap reports means—
+  - **(1)** the March 2011 Government Accountability Office report to Congress entitled “Opportunities to Reduce Potential Duplication in Government Programs, Save Tax Dollars, and Enhance Revenue” (GAO–11–318SP);
+  - **(2)** the February 2012 Government Accountability Office report to Congress entitled “2012 Annual Report: Opportunities to Reduce Potential Duplication in Government Programs, Save Tax Dollars, and Enhance Revenue” (GAO–12–342SP);
+  - **(3)** the April 2013 Government Accountability Office report to Congress entitled “2013 Annual Report: Actions Needed to Reduce Fragmentation, Overlap, and Duplication and Achieve Other Financial Benefits” (GAO–13–279SP);
+  - **(4)** the April 2014 Government Accountability Office report to Congress entitled “2014 Annual Report: Additional Opportunities to Reduce Fragmentation, Overlap, and Duplication and Achieve Other Financial Benefits” (GAO–14–343SP); and
+  - **(5)** the April 2015 Government Accountability Office report to Congress entitled “2015 Annual Report: Additional Opportunities to Reduce Fragmentation, Overlap, and Duplication and Achieve Other Financial Benefits” (GAO–15–404SP).
+- **(b)** *Reducing duplication and overlap* Notwithstanding any other provision of law and not later than 150 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall coordinate with the heads of the relevant department and agencies to—
+  - **(1)** use available administrative authority to eliminate, consolidate, or streamline Government programs and agencies with duplicative and overlapping missions identified in the GAO duplication and overlap reports;
+  - **(2)** identify and report to Congress any legislative changes required to further eliminate, consolidate, or streamline Government programs and agencies with duplicative and overlapping missions identified in the GAO duplication and overlap reports;
+  - **(3)** determine the total cost savings that shall result to each agency, office, and department from the actions described in paragraph (1); and
+  - **(4)** rescind from the appropriate accounts and apply the savings towards deficit reduction the greater of—
+    - **(A)** $10,000,000,000; or
+    - **(B)** the total amount of cost savings estimated by paragraph (3).
+- **(c)** *Analysis of reported bills by CBO* Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following:
+  > - **(3)** *Duplicative and overlapping Government programs* For each bill or joint resolution of a public character reported by any committee (including the Committee on Appropriations and the Committee on the Budget) the Congressional Budget Office shall submit to Congress an analysis of whether the bill or joint resolution creates any new Federal program, office, or initiative that would duplicate or overlap with any existing Federal program, office, or initiative with similar mission, purpose, goals, or activities along with a listing of all of the overlapping or duplicative Federal program or programs, office or offices, or initiative or initiatives.
