@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 29
 congress: 114
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 29
