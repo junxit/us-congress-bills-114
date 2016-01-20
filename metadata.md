@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 607
@@ -16,7 +16,7 @@ Rural Community Hospital Demonstration Extension Act of 2015
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -32,6 +32,9 @@ Rural Community Hospital Demonstration Extension Act of 2015
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sanders, Bernard [I-VT] (S000033)
 
 ## Committees (1)
 
@@ -45,3 +48,12 @@ Rural Community Hospital Demonstration Extension Act of 2015
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-102.
 - 2015-07-30 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-102.
 - 2015-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.
+- 2016-01-20 — Amendment SA 2952 agreed to in Senate by Unanimous Consent.
+- 2016-01-20 — Amendment SA 2952 proposed by Senator McConnell for Senator Grassley. (consideration: CR S138; text: CR S138) To improve the bill.
+- 2016-01-20 — Measure laid before Senate by unanimous consent. (consideration: CR S138-139; text of measure as reported in Senate: CR S138)
+- 2016-01-20 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-01-20 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-01-20 — Senate amendment agreed to: Amendment SA 2952 agreed to in Senate by Unanimous Consent.
+- 2016-01-20 — Senate amendment proposed (on the floor): Amendment SA 2952 proposed by Senator McConnell for Senator Grassley.(consideration: CR S138; text: CR S138)
+- 2016-01-20 — Senate amendment submitted
+- 2016-01-20 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S138-139)

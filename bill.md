@@ -1,13 +1,13 @@
 ---
 legis-num: S. 607
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 607
 
-> To amend title XVIII of the Social Security Act to provide for a five-year extension of the rural community hospital demonstration program, and for other purposes.
+> To provide for a five-year extension of the Medicare rural community hospital demonstration program.
 
 ## § 1. Short title
 
@@ -19,6 +19,21 @@ This Act may be cited as the “Rural Community Hospital Demonstration Extension
   - **(1)** in subsection (a)(5), by striking “5-year extension period” and inserting “10-year extension period”; and
   - **(2)** in subsection (g)—
     - **(A)** in the subsection heading, by striking “Five-Year” and inserting “Ten-Year”;
-    - **(B)** in paragraph (1), by striking “additional 5-year” and inserting “additional 10-year”; and
-    - **(C)** by striking “5-year extension period” and inserting “10-year extension period” each place it appears .
-- **(b)** *Change in timing for report* Subsection (e) of such section 410A is amended by striking “Not later than 6 months after the completion” and inserting “Not later than 2 years prior to the completion”.
+    - **(B)** in paragraph (1), by striking “additional 5-year” and inserting “additional 10-year”;
+    - **(C)** by striking “5-year extension period” and inserting “10-year extension period” each place it appears;
+    - **(D)** in paragraph (4)(B)—
+      - **(i)** in the matter preceding clause (i), by inserting “each 5-year period in” after “hospital during”; and
+      - **(ii)** in clause (i), by inserting “each applicable 5-year period in” after “the first day of”; and
+    - **(E)** by adding at the end the following new paragraphs:
+      > - **(5)** *Other hospitals in demonstration program* During the second 5 years of the 10-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2014, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).
+      > - **(6)** *Expansion of demonstration program to rural areas in any State*
+      >   - **(A)** *In general* The Secretary shall, notwithstanding subsection (a)(2) or paragraph (2) of this subsection, not later than 120 days after the date of the enactment of this paragraph, issue a solicitation for applications to select up to the maximum number of additional rural community hospitals located in any State to participate in the demonstration program under this section for the second 5 years of the 10-year extension period without exceeding the limitation under paragraph (3) of this subsection.
+      >   - **(B)** *Priority* In determining which rural community hospitals that submitted an application pursuant to the solicitation under subparagraph (A) to select for participation in the demonstration program, the Secretary—
+      >     - **(i)** shall give priority to rural community hospitals located in one of the 20 States with the lowest population densities (as determined by the Secretary using the 2015 Statistical Abstract of the United States); and
+      >     - **(ii)** may consider—
+      >       - **(I)** closures of hospitals located in rural areas in the State in which the rural community hospital is located during the 5-year period immediately preceding the date of the enactment of this paragraph; and
+      >       - **(II)** the population density of the State in which the rural community hospital is located.
+
+- **(b)** *Change in timing for report* Subsection (e) of such section 410A is amended—
+  - **(1)** by striking “Not later than 6 months after the completion of the demonstration program under this section” and inserting “Not later than August 1, 2018”; and
+  - **(2)** by striking “such program” and inserting “the demonstration program under this section”.
