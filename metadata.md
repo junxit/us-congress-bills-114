@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 607
@@ -36,9 +36,10 @@ Rural Community Hospital Demonstration Extension Act of 2015
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Sanders, Bernard [I-VT] (S000033)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -57,3 +58,6 @@ Rural Community Hospital Demonstration Extension Act of 2015
 - 2016-01-20 — Senate amendment proposed (on the floor): Amendment SA 2952 proposed by Senator McConnell for Senator Grassley.(consideration: CR S138; text: CR S138)
 - 2016-01-20 — Senate amendment submitted
 - 2016-01-20 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S138-139)
+- 2016-01-21 — Message on Senate action sent to the House.
+- 2016-01-25 — Received in the House.
+- 2016-01-25 — Referred to the House Committee on Ways and Means.
