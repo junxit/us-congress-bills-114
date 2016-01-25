@@ -1,7 +1,7 @@
 ---
 measure: S. 2422
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2422
@@ -21,9 +21,10 @@ Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction 
 - 2016-01-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S139)
 - 2016-01-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S139)
 - 2016-01-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S139)
+- 2016-01-21 — Message on Senate action sent to the House.
+- 2016-01-25 — Received in the House.
+- 2016-01-25 — Referred to the House Committee on Veterans' Affairs.
