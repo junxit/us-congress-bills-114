@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 347
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 347
@@ -16,7 +16,7 @@ A resolution honoring the memory and legacy of Anita Ashok Datar and condemning 
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
-## Cosponsors (10)
+## Cosponsors (13)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
@@ -28,6 +28,9 @@ A resolution honoring the memory and legacy of Anita Ashok Datar and condemning 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
 
 ## Committees (1)
 
@@ -37,3 +40,7 @@ A resolution honoring the memory and legacy of Anita Ashok Datar and condemning 
 
 - 2016-01-20 — Introduced in Senate
 - 2016-01-20 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S134-135)
+- 2016-01-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-01-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-01-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
