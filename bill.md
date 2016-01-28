@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2354
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,3 +24,4 @@ This Act may be cited as the “Streamlining Excessive and Costly Regulations Re
   - **(4)** amend or repeal any regulation described in subparagraph (A) or (B) of paragraph (2), as determined by Commission vote pursuant to such paragraph.
 - **(b)** *Definition* As used in this Act and for purposes of the review required by subsection (a) the term significant regulation has the meaning given the term major rule in section 804(2) of title 5, United States Code.
 - **(c)** *Report to Congress* Not later than 45 days after any final Commission vote described in subsection (a)(2), the Commission shall transmit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the Commission’s review under subsection (a), its vote or votes, and the actions taken pursuant to paragraph (3) of such subsection. If the Commission determines that legislation is necessary to amend or repeal any regulation described in subparagraph (A) or (B) of subsection (a)(2), the Commission shall include in the report recommendations for such legislation.
+- **(d)** *Not subject to judicial review* Any vote by the Commission made pursuant to subsection (a)(2) shall be final and not subject to judicial review.

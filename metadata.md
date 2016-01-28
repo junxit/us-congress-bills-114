@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2354
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2354
@@ -16,9 +16,10 @@ Streamlining Excessive and Costly Regulations Review Act
 
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Posey, Bill [R-FL-8] (P000599)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Streamlining Excessive and Costly Regulations Review Act
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Referred to the House Committee on Financial Services.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 16.
+- 2016-01-28 — Placed on the Union Calendar, Calendar No. 306.
+- 2016-01-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-403.
+- 2016-01-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-403.
