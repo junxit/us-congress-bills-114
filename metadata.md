@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2356
@@ -30,3 +30,8 @@ Fair Access to Investment Research Act of 2015
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Referred to the House Committee on Financial Services.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported by the Yeas and Nays: 48 - 9.
+- 2016-01-28 — Placed on the Union Calendar, Calendar No. 304.
+- 2016-01-28 — Reported by the Committee on Financial Services. H. Rept. 114-401.
+- 2016-01-28 — Reported by the Committee on Financial Services. H. Rept. 114-401.
