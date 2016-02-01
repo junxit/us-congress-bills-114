@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3382
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -95,11 +95,12 @@ Section 4 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 235
 >       - **(v)** allowing for economic development; and
 >     - **(B)** helps achieve, maintain, and identify ways to expand the environmental threshold carrying capacities established by the Planning Agency.
 >   - **(3)** *Cost-Benefit determination* Notwithstanding paragraph (2)(A), the promotion of multiple management benefits shall not be required if the Secretary determines that management for multiple benefits would excessively increase the cost of a program in relation to the additional benefits gained from the management activity. The Secretary shall make each cost-benefit determination made under this paragraph publicly available.
->   - **(4)** *Availability of categorical exclusion* A forest management activity conducted in the Lake Tahoe Basin Management Unit for the purpose of reducing forest fuels is categorically excluded from the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.) if the activity—
->     - **(A)** is developed—
+>   - **(4)** *Availability of categorical exclusion for certain forest management projects* A forest management activity conducted in the Lake Tahoe Basin Management Unit for the purpose of reducing forest fuels is categorically excluded from the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.) if the forest management activity—
+>     - **(A)** notwithstanding section 423 of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2009 (division E of Public Law 111–8; 123 Stat. 748), does not exceed 10,000 acres, including no more than 3,000 acres of mechanical thinning;
+>     - **(B)** is developed—
 >       - **(i)** in coordination with impacted parties, specifically including representatives of local governments, such as county supervisors or county commissioners; and
 >       - **(ii)** in consultation with other interested parties; and
->     - **(B)** is consistent with the Lake Tahoe Basin Management Unit land and resource management plan.
+>     - **(C)** is consistent with the Lake Tahoe Basin Management Unit land and resource management plan.
 > - **(d)** *Arbitration process*
 >   - **(1)** *In general* Any challenge to a forest management activity in the Lake Tahoe Basin Management Unit shall be addressed using arbitration consistent with this subsection.
 >   - **(2)** *Who may seek* Any person who sought administrative review for the forest management activity and who is not satisfied with the decision made under the administrative review process may file a demand for arbitration regarding the covered active management project in accordance with chapter 1 of title 9, United States Code. The demand for arbitration under paragraph (1) shall—
@@ -153,7 +154,7 @@ Section 5 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 235
 >       - **(ii)** document in all requests for Federal funding, and include in the total project budget, evidence of the commitment to provide the non-Federal share through in-kind contributions.
 > - **(c)** *Invasive species management*
 >   - **(1)** *In general* Of the amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (a) of section 12, as amended by section 8 of the Lake Tahoe Restoration Act of 2015, not less than $800,000 shall be transferred to the Director of the United States Fish and Wildlife Service for the Aquatic Invasive Species Program and for the watercraft inspections and decontaminations described in paragraph (2).
->   - **(2)** *Description of activities* The Director of the United States Fish and Wildlife Service, in coordination with the Planning Agency, the California Department of Fish and Game, and the Nevada Department of Wildlife, shall deploy strategies consistent with the Lake Tahoe Aquatic Invasive Species Management Plan to prevent the introduction of the quagga mussel into the Lake Tahoe Basin.
+>   - **(2)** *Description of activities* The Director of the United States Fish and Wildlife Service, in coordination with the Planning Agency, the California Department of Fish and Game, and the Nevada Department of Wildlife, shall deploy strategies consistent with the Lake Tahoe Aquatic Invasive Species Management Plan to prevent the introduction and spread of aquatic invasive species into the Lake Tahoe Basin.
 >   - **(3)** *Required elements of strategies* The strategies referred to in paragraph (2) shall provide for the following:
 >     - **(A)** Combined inspection and decontamination stations shall be established in the Lake Tahoe Basin. As provided in paragraph (4), these stations may be operated by the States of California and Nevada, local governments, or private entities.
 >     - **(B)** Watercraft shall not be allowed to launch in waters of the Lake Tahoe Basin unless the watercraft has been inspected in accordance with the Lake Tahoe Aquatic Invasive Species Management Plan.
@@ -222,9 +223,9 @@ Section 12 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 23
 >     - **(A)** *Deposit* Fees collected for recreation and non-recreation special uses within the Lake Tahoe Basin Management Unit shall be deposited in a special fund in the Treasury, which shall be available to the Secretary as provided in subparagraph (B).
 >     - **(B)** *Availability and use* Fees deposited under subparagraph (A) shall be available to the Secretary, in such amounts as may be provided in an Act making appropriations for the Forest Service for a fiscal year, for the purpose of providing additional funds to carry out this Act in excess of amounts appropriated pursuant to the authorization of appropriations in subsection (a).
 >     - **(C)** *Obligation limit* The obligation and expenditure of fees deposited under subparagraph (A) shall be subject to appropriation and such fiscal-year limitation as may be specified in an Act making appropriations for the Forest Service for a fiscal year.
->   - **(2)** *Use of retained fees* Of the fees deposited under paragraph (1) and appropriated for a fiscal year, the Secretary shall use—
->     - **(A)** at least 50 percent to establish, maintain, and expand recreation improvements, specifically existing and traditional uses, within the Lake Tahoe Basin Management Unit, including trails, interpretation, and on-the-ground presence of Forest Service personnel; and
->     - **(B)** the remainder to support other activities authorized by this Act.
+>   - **(2)** *Use of retained fees*
+>     - **(A)** *Fees collected for recreation special uses* In the case of fees collected for recreation special uses within the Lake Tahoe Basin Management Unit that are deposited under paragraph (1) and appropriated for a fiscal year, the Secretary shall use the funds to establish, maintain, and expand recreation improvements, specifically existing and traditional uses, within the Lake Tahoe Basin Management Unit, including trails, facilities, activities, interpretation, and on-the-ground presence of Forest Service personnel.
+>     - **(B)** *Fees collected for non-recreation special uses* In the case of fees collected for non-recreation special uses within the Lake Tahoe Basin Management Unit that are deposited under paragraph (1) and appropriated for a fiscal year, the Secretary shall use the funds to support other activities authorized by this Act.
 >   - **(3)** *Collaborative process* The Secretary shall make decisions under paragraph (2) regarding the use of fees appropriated for a fiscal year through a collaborative process with representatives from local governments, such as county supervisors and county commissioners, with jurisdiction over lands within the Lake Tahoe Basin Management Unit.
 > - **(d)** *Effect on other funds* Amounts made available to carry out this Act—
 >   - **(1)** shall be in addition to any other amounts made available to the Secretary, the Administrator, or the Directors for expenditure in the Lake Tahoe Basin; and
@@ -251,14 +252,16 @@ Section 12 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 23
     >   - **(C)** *Use of land* The land conveyance authorized under this paragraph shall—
     >     - **(i)** be for the purpose of consolidating Federal and State ownerships and improving management efficiencies; and
     >     - **(ii)** not result in any substantial reduction in public access or reduction in availability of existing and traditional public recreation uses.
+    >   - **(D)** *Continuation of special use permits* The land conveyance authorized under this paragraph shall be subject to the condition that the State of California accept all special use permits applicable, as of the date of the enactment of this subparagraph, to the National Forest System land described in subparagraph (B)(ii) for the duration of such permits, and subject to the terms and conditions of such permits.
 
 - **(b)** *Nevada conveyance* Section 3(b) of Public Law 96–586 (94 Stat. 3384; commonly known as the Santini-Burton Act) is further amended by inserting after paragraph (2), as added by subsection (a)(2), the following new paragraph:
   > - **(3)** *Conveyance to Nevada*
   >   - **(A)** *In general* At the request of the State of Nevada, the Secretary of Agriculture may convey, without consideration, the land or interests in land described in subparagraph (B) to the State, subject to appropriate deed restrictions to protect public access and existing or traditional public recreational uses of the conveyed land.
-  >   - **(B)** *Description of land* The land referred to in subsection (a) includes the approximately 39 acres of National Forest System land identified on the map entitled “State of Nevada Conveyances” as “Van Sickle Unit USFS Inholding”.
+  >   - **(B)** *Description of land* The land referred to in subparagraph (A) includes the approximately 39 acres of National Forest System land identified on the map entitled “State of Nevada Conveyances” as “Van Sickle Unit USFS Inholding”.
   >   - **(C)** *Use of land* The land conveyance authorized under this paragraph shall—
   >     - **(i)** be for the purpose of consolidating Federal and State ownerships and improving management efficiencies; and
   >     - **(ii)** not result in any substantial reduction in public access or reduction in availability of existing and traditional public recreation uses.
+  >   - **(D)** *Continuation of special use permits* The land conveyance authorized under this paragraph shall be subject to the condition that the State of Nevada accept all special use permits applicable, as of the date of the enactment of this subparagraph, to the National Forest System land described in subparagraph (B) for the duration of such permits, and subject to the terms and conditions of such permits.
 
 - **(c)** *Authorization for conveyance of Forest Service urban lots*
   - **(1)** *Conveyance authority* The Secretary of Agriculture is authorized to convey all urban lots within the Lake Tahoe Basin under the administrative jurisdiction of the Forest Service.
@@ -282,3 +285,9 @@ Section 12 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 23
   > - **(4)** *Additional requirements related to acquisitions in Lake Tahoe Basin Management Unit* With respect to any land acquisition under this subsection within the Lake Tahoe Basin Management Unit that is proposed after the date of the enactment of the Lake Tahoe Restoration Act of 2015, the Secretary of Agriculture shall, before executing the land acquisition—
   >   - **(A)** obtain the consent of each county within whose boundaries the parcel of land is located; and
   >   - **(B)** certify that, in addition to being environmentally sensitive land, the parcel of land will provide critical access for recreational use and resolve significant inholding issues in that the parcel is wholly surrounded by National Forest System land.
+
+## § 11. Availability of categorical exclusion for Lake Tahoe herbicide applications to control certain aquatic weeds
+
+- **(a)** *Finding* Congress finds that ongoing efforts to eradicate Eurasian watermilfoil and curlyleaf pondweed in Lake Tahoe, using mechanical methods has had only limited success, threatening the rest of Lake Tahoe with the spread of these non-native aquatic invasive plants.
+- **(b)** *Availability of categorical exclusion* Any project to be conducted by the Tahoe Regional Planning Agency that will use a registered herbicide to eradicate Eurasian watermilfoil and curlyleaf pondweed from the south end of Lake Tahoe, known as the Lake Tahoe Keys, is categorically excluded from the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.).
+- **(c)** *Registered herbicide defined* In this section, the term “registered herbicide” means a herbicide that is approved by the United States Environmental Protection Agency and the California Environmental Protection Agency for aquatic use.
