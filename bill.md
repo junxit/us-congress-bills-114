@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3784
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “SEC Small Business Advocate Act of 2015”.
+This Act may be cited as the “SEC Small Business Advocate Act of 2016”.
 
 ## § 2. Establishment of Office of the Advocate for Small Business Capital Formation and Small Business Capital Formation Advisory Committee
 
@@ -28,7 +28,7 @@ This Act may be cited as the “SEC Small Business Advocate Act of 2015”.
   >   - **(4)** *Functions of the advocate for small business capital formation* The Advocate for Small Business Capital Formation shall—
   >     - **(A)** assist small businesses and small business investors in resolving significant problems such businesses and investors may have with the Commission or with self-regulatory organizations;
   >     - **(B)** identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
-  >     - **(C)** identify problems that small businesses have with securing access to capital;
+  >     - **(C)** identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
   >     - **(D)** analyze the potential impact on small businesses and small business investors of—
   >       - **(i)** proposed regulations of the Commission that are likely to have a significant economic impact on small businesses and small business capital formation; and
   >       - **(ii)** proposed rules that are likely to have a significant economic impact on small businesses and small business capital formation of self-regulatory organizations registered under this title;
@@ -42,7 +42,7 @@ This Act may be cited as the “SEC Small Business Advocate Act of 2015”.
   >     - **(B)** *Contents* Each report required under subparagraph (A) shall include—
   >       - **(i)** appropriate statistical information and full and substantive analysis;
   >       - **(ii)** information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
-  >       - **(iii)** a summary of the most serious issues encountered by small businesses and small business investors during the reporting period;
+  >       - **(iii)** a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
   >       - **(iv)** an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
   >         - **(I)** identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
   >         - **(II)** the length of time that each item has remained on such inventory; and
@@ -74,15 +74,16 @@ This Act may be cited as the “SEC Small Business Advocate Act of 2015”.
   >         - **(I)** emerging companies engaging in private and limited securities offerings or considering initial public offerings (“IPO”) (including the companies’ officers and directors);
   >         - **(II)** the professional advisors of such companies (including attorneys, accountants, investment bankers, and financial advisors); and
   >         - **(III)** the investors in such companies (including angel investors, venture capital funds, and family offices);
-  >       - **(ii)** who represent—
+  >       - **(ii)** who are officers or directors of minority-owned small businesses or women-owned small businesses;
+  >       - **(iii)** who represent—
   >         - **(I)** smaller public companies (including the companies’ officers and directors);
   >         - **(II)** the professional advisors of such companies (including attorneys, auditors, underwriters, and financial advisors); and
   >         - **(III)** the pre-IPO and post-IPO investors in such companies (both institutional, such as venture capital funds, and individual, such as angel investors); and
-  >       - **(iii)** who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
-  >     - **(C)** 3 non-voting members—
-  >       - **(i)** 1 of whom shall be appointed by the Investor Advocate;
-  >       - **(ii)** 1 of whom shall be appointed by the North American Securities Administrators Association; and
-  >       - **(iii)** 1 of whom shall be appointed by the Administrator of the Small Business Administration.
+  >       - **(iv)** who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
+  >     - **(C)** three non-voting members—
+  >       - **(i)** one of whom shall be appointed by the Investor Advocate;
+  >       - **(ii)** one of whom shall be appointed by the North American Securities Administrators Association; and
+  >       - **(iii)** one of whom shall be appointed by the Administrator of the Small Business Administration.
   >   - **(2)** *Term* Each member of the Committee appointed under subparagraph (B), (C)(ii), or (C)(iii) of paragraph (1) shall serve for a term of 4 years.
   >   - **(3)** *Members not commission employees* Members appointed under subparagraph (B), (C)(ii), or (C)(iii) of paragraph (1) shall not be treated as employees or agents of the Commission solely because of membership on the Committee.
   > - **(c)** *Chairman; vice chairman; secretary; assistant secretary*
