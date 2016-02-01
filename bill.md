@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1428
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -28,6 +28,19 @@ This Act may be cited as the “Judicial Redress Act of 2015”.
     - **(A)** is not complying with the agreement described under paragraph (1)(A);
     - **(B)** no longer meets the requirements for designation under paragraph (1)(B); or
     - **(C)** impedes the transfer of information (for purposes of reporting or preventing unlawful activity) to the United States by a private entity or person.
+- **(d)** *Designation of covered country*
+  - **(1)** *In general* The Attorney General may, with the concurrence of the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security, designate a foreign country or regional economic integration organization, or member country of such organization, as a “covered country” for purposes of this section if—
+    - **(A)**
+      - **(i)** the country or regional economic integration organization, or member country of such organization, has entered into an agreement with the United States that provides for appropriate privacy protections for information shared for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses; or
+      - **(ii)** the Attorney General has determined that the country or regional economic integration organization, or member country of such organization, has effectively shared information with the United States for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses and has appropriate privacy protections for such shared information;
+    - **(B)** the country or regional economic integration organization, or member country of such organization, permits the transfer of personal data for commercial purposes between the territory of that country or regional economic organization and the territory of the United States, through an agreement with the United States or otherwise; and
+    - **(C)** the Attorney General has certified that the policies regarding the transfer of personal data for commercial purposes and related actions of the country or regional economic integration organization, or member country of such organization, do not materially impede the national security interests of the United States.
+  - **(2)** *Removal of designation* The Attorney General may, with the concurrence of the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security, revoke the designation of a foreign country or regional economic integration organization, or member country of such organization, as a “covered country” if the Attorney General determines that such designated “covered country”—
+    - **(A)** is not complying with the agreement described under paragraph (1)(A)(i);
+    - **(B)** no longer meets the requirements for designation under paragraph (1)(A)(ii);
+    - **(C)** fails to meet the requirements under paragraph (1)(B);
+    - **(D)** no longer meets the requirements for certification under paragraph (1)(C); or
+    - **(E)** impedes the transfer of information (for purposes of reporting or preventing unlawful activity) to the United States by a private entity or person.
 - **(e)** *Designation of designated Federal agency or component*
   - **(1)** *In general* The Attorney General shall determine whether an agency or component thereof is a “designated Federal agency or component” for purposes of this section. The Attorney General shall not designate any agency or component thereof other than the Department of Justice or a component of the Department of Justice without the concurrence of the head of the relevant agency, or of the agency to which the component belongs.
   - **(2)** *Requirements for designation* The Attorney General may determine that an agency or component of an agency is a “designated Federal agency or component” for purposes of this section, if—

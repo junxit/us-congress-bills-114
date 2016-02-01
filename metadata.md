@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1428
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1428
@@ -51,3 +51,7 @@ Judicial Redress Act of 2015
 - 2015-10-20 — Reported by the Committee on Judiciary. H. Rept. 114-294, Part I.
 - 2015-10-20 — Reported by the Committee on Judiciary. H. Rept. 114-294, Part I.
 - 2015-10-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2016-01-28 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2016-02-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
+- 2016-02-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
+- 2016-02-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
