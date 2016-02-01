@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2187
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,20 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Fair Investment Opportunities for Professional Experts Act”.
 
-## § 2. Accredited investor definition
+## § 2. Definition of accredited investor
 
-Not later than 180 days after the date of enactment of this Act, the Securities and Exchange Commission shall revise its rules under Regulation D (17 C.F.R. 230.501 et seq.) to provide that a natural person shall be considered an accredited investor under such regulation notwithstanding the income and net worth requirements in paragraphs (5) and (6) of section 230.501(a) of title 17, Code of Federal Regulations, if such person certifies to the issuer prior to the sale of securities to such person that he or she—
+Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15) is amended—
 
-- **(1)** is a person described in paragraphs (1), (2), (3), or (4) of section 506(c)(2)(ii)(C) of such title;
-- **(2)** has retained and used the services of any person referred to in paragraph (1) to make an investment decision relative to the securities being offered; or
-- **(3)** is licensed as an accredited investor by the Financial Industry Regulatory Authority after completing an exam administered by such Authority using the criteria established by the Securities and Exchange Commission under section 2.
-
-## § 3. FINRA licensing program
-
-Not later than 180 days after the date of enactment of this Act, the Securities and Exchange Commission shall establish criteria for use by the Financial Industry Regulatory Authority in administering an exam to license as accredited investors natural persons who don’t meet the income and net worth requirements in paragraphs (5) and (6) of section 230.501(a) of title 17, Code of Federal Regulations. Such criteria may include methods for assuring that licensed accredited investors demonstrate a competency in understanding the following:
-
-- **(1)** The different types of securities.
-- **(2)** The disclosure obligations under the securities laws of issuers versus private companies.
-- **(3)** The structures of corporate governance.
-- **(4)** The components of a financial statement.
-- **(5)** Other criteria the Commission shall establish in the public interest and for the protection of investors.
+- **(1)** by redesignating clauses (i) and (ii) as subparagraphs (A) and (F), respectively; and
+- **(2)** in subparagraph (A) (as so redesignated), by striking “; or” and inserting a semicolon, and inserting after such subparagraph the following:
+  > - **(B)** any natural person whose individual net worth, or joint net worth with that person’s spouse, exceeds $1,000,000 (which amount, along with the amounts set forth in subparagraph (C), shall be adjusted for inflation by the Commission every 5 years to the nearest $10,000 to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics) where, for purposes of calculating net worth under this subparagraph—
+  >   - **(i)** the person’s primary residence shall not be included as an asset;
+  >   - **(ii)** indebtedness that is secured by the person’s primary residence, up to the estimated fair market value of the primary residence at the time of the sale of securities, shall not be included as a liability (except that if the amount of such indebtedness outstanding at the time of sale of securities exceeds the amount outstanding 60 days before such time, other than as a result of the acquisition of the primary residence, the amount of such excess shall be included as a liability); and
+  >   - **(iii)** indebtedness that is secured by the person's primary residence in excess of the estimated fair market value of the primary residence at the time of the sale of securities shall be included as a liability;
+  > - **(C)** any natural person who had an individual income in excess of $200,000 in each of the 2 most recent years or joint income with that person’s spouse in excess of $300,000 in each of those years and has a reasonable expectation of reaching the same income level in the current year;
+  > - **(D)** any natural person who is currently licensed or registered as a broker or investment adviser by the Commission, the Financial Industry Regulatory Authority, or an equivalent self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act of 1934), or the securities division of a State or the equivalent State division responsible for licensing or registration of individuals in connection with securities activities;
+  > - **(E)** any natural person the Commission determines, by regulation, to have demonstrable education or job experience to qualify such person as having professional knowledge of a subject related to a particular investment, and whose education or job experience is verified by the Financial Industry Regulatory Authority or an equivalent self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act of 1934); or
