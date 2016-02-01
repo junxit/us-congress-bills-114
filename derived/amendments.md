@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3784
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
