@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3662
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3662
@@ -86,6 +86,11 @@ Iran Terror Finance Transparency Act
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (2)
+
+- 2016-01-13 — [House 114-2-44](votes/house-114-2-0044.md) — question not recorded (0–0)
+- 2016-02-02 — [House 114-2-54](votes/house-114-2-0054.md) — On Passage — **Passed** (246–181)
+
 ## Actions
 
 - 2015-10-01 — Introduced in House
@@ -101,3 +106,16 @@ Iran Terror Finance Transparency Act
 - 2016-01-11 — Reported by the Committee on Foreign Affairs. H. Rept. 114-393, Part I.
 - 2016-01-11 — Reported by the Committee on Foreign Affairs. H. Rept. 114-393, Part I.
 - 2016-01-11 — Rules Committee Resolution H. Res. 583 Reported to House. The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-12 — Rule H. Res. 583 passed House.
+- 2016-01-13 — Considered under the provisions of rule H. Res. 583. (consideration: CR H346-356)
+- 2016-01-13 — DEBATE - The House proceeded with one hour of debate on H.R. 3662.
+- 2016-01-13 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2016-01-13 — On passage Passed by the Yeas and Nays: 0-0 (Roll no. 44). (text: CR H346-347)
+- 2016-01-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 0-0 (Roll no. 44).(text: CR H346-347)
+- 2016-01-13 — The previous question was ordered pursuant to the rule. (consideration: CR H354)
+- 2016-01-13 — The resolution provides for consideration of H.R. 1644, S.J. Res. 22 and H.R. 3662. The resolution also provides for proceedings during the period from January 14, 2016, through January 22, 2016.
+- 2016-01-13 — VACATING PROCEEDINGS ON ROLL CALL 44 - Mr. McCarthy asked unanimous consent that the vote on roll call 44 and the motion to reconsider thereon be vacated and that further proceedings on the question of passage of H.R. 3662 be postponed as though under clause 8 of rule 20 through the legislative day of January 26, 2016. Agreed to without objection. (consideration: CR H356)
+- 2016-02-02 — Considered as unfinished business. (consideration: CR H482-483)
+- 2016-02-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-02 — On passage Passed by the Yeas and Nays: 246 - 181 (Roll no. 54).
+- 2016-02-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 181 (Roll no. 54).
