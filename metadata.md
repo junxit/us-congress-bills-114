@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1493
@@ -54,3 +54,7 @@ Protect and Preserve International Cultural Property Act
 - 2015-06-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3627-3629)
 - 2015-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3627-3629)
 - 2015-06-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2016-01-28 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.
