@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 4 executed, 10 stated and not applied.
+15 amendatory instructions. 5 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 21 U.S.C. § 343
 
-> in item (I)(aa), by striking “the number of calories contained in the standard menu item, as usually prepared and offered for sale” and inserting “the number of calories contained in the whole standard menu item, or the number of servings and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer”;
+> in item (I)(aa), by striking “the number of calories contained in the standard menu item, as usually prepared and offered for sale” and inserting “the number of calories contained in the whole standard menu item, or the number of servings (as reasonably determined by the restaurant or similar retail food establishment) and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer”;
 
 | | |
 |---|---|
 | Removed | `the number of calories contained in the standard menu item, as usually prepared and offered for sale` |
-| Inserted | `the number of calories contained in the whole standard menu item, or the number of servings and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer` |
+| Inserted | `the number of calories contained in the whole standard menu item, or the number of servings (as reasonably determined by the restaurant or similar retail food establishment) and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer` |
 
 ### 21 U.S.C. § 343
 
-> in item (II)(aa), by striking “the number of calories contained in the standard menu item, as usually prepared and offered for sale” and inserting “the number of calories contained in the whole standard menu item, or the number of servings and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer”; and
+> in item (II)(aa), by striking “the number of calories contained in the standard menu item, as usually prepared and offered for sale” and inserting “the number of calories contained in the whole standard menu item, or the number of servings (as reasonably determined by the restaurant or similar retail food establishment) and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer”; and
 
 | | |
 |---|---|
 | Removed | `the number of calories contained in the standard menu item, as usually prepared and offered for sale` |
-| Inserted | `the number of calories contained in the whole standard menu item, or the number of servings and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer` |
+| Inserted | `the number of calories contained in the whole standard menu item, or the number of servings (as reasonably determined by the restaurant or similar retail food establishment) and number of calories per serving, or the number of calories per the common unit division of the standard menu item, such as for a multiserving item that is typically divided before presentation to the consumer` |
 
 ### 21 U.S.C. § 343
 
@@ -59,6 +59,15 @@ to guess them.
 |---|---|
 | Removed | `Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.` |
 | Inserted | `Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2015, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Any final regulations that are promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2015, and any final regulations that were promulgated pursuant to this clause before the date of enactment of the Common Sense Nutrition Disclosure Act of 2015, shall not take effect earlier than 2 years after the promulgation of final regulations pursuant to the Common Sense Nutrition Disclosure Act of 2015.` |
+
+### 21 U.S.C. § 343-1
+
+> Section 403A(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(b)) is amended by striking “may exempt from subsection (a)” and inserting “may exempt from subsection (a) (other than subsection (a)(4))”.
+
+| | |
+|---|---|
+| Removed | `may exempt from subsection (a)` |
+| Inserted | `may exempt from subsection (a) (other than subsection (a)(4))` |
 
 ## Stated, not applied
 
