@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3293
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3293
@@ -16,7 +16,7 @@ Scientific Research in the National Interest Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
@@ -37,6 +37,9 @@ Scientific Research in the National Interest Act
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
 ## Committees (1)
 
@@ -47,3 +50,8 @@ Scientific Research in the National Interest Act
 - 2015-07-29 — Introduced in House
 - 2015-07-29 — Introduced in House
 - 2015-07-29 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-10-08 — Committee Consideration and Mark-up Session Held.
+- 2015-10-08 — Ordered to be Reported by Voice Vote.
+- 2016-02-02 — Placed on the Union Calendar, Calendar No. 314.
+- 2016-02-02 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-412.
+- 2016-02-02 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-412.
