@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2187
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2187
@@ -20,9 +20,10 @@ Fair Investment Opportunities for Professional Experts Act
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Fair Investment Opportunities for Professional Experts Act
 - 2016-02-01 — Placed on the Union Calendar, Calendar No. 309.
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-406.
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-406.
+- 2016-02-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

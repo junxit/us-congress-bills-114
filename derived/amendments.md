@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2187
 congress: 114
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 77b` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77b` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77b` | redesignate | in subparagraph (A) (as so redesignated), by striking “; or” and inserting a semicolon, and inserting after such subparagraph the following: | the bill quotes the text struck but describes what replaces it |
