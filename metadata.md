@@ -1,7 +1,7 @@
 ---
 measure: H.R. 400
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 400
@@ -48,9 +48,10 @@ Trafficking Prevention in Foreign Affairs Contracting Act
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Trafficking Prevention in Foreign Affairs Contracting Act
 - 2016-02-01 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-02-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H394)
 - 2016-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H394)
+- 2016-02-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
