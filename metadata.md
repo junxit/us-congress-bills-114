@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2209
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2209
@@ -48,9 +48,10 @@ To require the appropriate Federal banking agencies to treat certain municipal o
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ To require the appropriate Federal banking agencies to treat certain municipal o
 - 2016-02-01 — Placed on the Union Calendar, Calendar No. 310.
 - 2016-02-01 — Reported by the Committee on Financial Services. H. Rept. 114-407.
 - 2016-02-01 — Reported by the Committee on Financial Services. H. Rept. 114-407.
+- 2016-02-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
