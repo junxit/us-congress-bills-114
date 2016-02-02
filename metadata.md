@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3784
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3784
@@ -52,3 +52,14 @@ SEC Small Business Advocate Act of 2016
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-408.
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-408.
 - 2016-02-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S7108)
+- 2016-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S7108)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-284.
+- 2016-12-16 — Became Public Law No: 114-284.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
