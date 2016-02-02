@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3700
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-55 amendatory instructions. 8 executed, 47 stated and not applied.
+68 amendatory instructions. 10 executed, 58 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,6 +96,24 @@ to guess them.
 | Removed | `21 years of age` |
 | Inserted | `24 years of age` |
 
+### 42 U.S.C. § 1436a
+
+> Section 214(a)(7) of the Housing and Community Development Act of 1980 (42 U.S.C. 1436a(a)(7)) is amended by striking “such alien” and all that follows through the period at the end and inserting “any citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance.”.
+
+| | |
+|---|---|
+| Removed | `such alien` |
+| Inserted | `any citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance.` |
+
+### 42 U.S.C. § 1437
+
+> in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (2)` |
+| Inserted | `paragraphs (2) and (3)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -142,7 +160,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1437f` | insert | by inserting after “have left foster care” the following: “, or will leave foster care within 90 days, in accordance with a transition plan described in section 475(5)(H) of the Social Security Act, and is homeless or is at risk of becom… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11381` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437g` | add-at-end | Section 9 of the United States Housing Act of 1937 (42 U.S.C. 1437g), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | replace | in subparagraph (A), by striking the period at the end of the first sentence and all that follows through “of” in the second sentence and inserting “and rents”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437f` | replace | in clause (i), by striking “the rent” and all that follows and inserting the following: “rent shall mean the sum of the monthly payments made by a family assisted under this paragraph to amortize the cost of purchasing the manufactured h… | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437f` | strike | by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | by inserting after the period at the end the following: “If the amount of the monthly assistance payment for a family exceeds the monthly rent charged for the real property on which the manufactured home is located, including monthly man… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | redesignate | by redesignating such clause as clause (ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1472` | add-at-end | Subsection (h) of section 502 of the Housing Act of 1949 (42 U.S.C. 1472(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1472` | add-at-end | Section 502 of the Housing Act of 1949 (42 U.S.C. 1472) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1709` | add-at-end | Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11387` | redesignate | by redesignating sections 432 and 433 (42 U.S.C. 11387, 11388) as sections 433 and 434, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11386e` | insert | by inserting after section 431 (42 U.S.C. 11386e) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -152,3 +179,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3533` | add-at-end | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12805` | insert | Section 11 of the Housing Opportunity Program Extension Act of 1996 (42 U.S.C. 12805 note) is amended by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437` | add-at-end | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12902` | insert | in paragraph (1), by inserting “or AIDS” before “means”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12902` | insert | by inserting at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
