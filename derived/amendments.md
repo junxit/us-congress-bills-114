@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `radios capable of receiving broadcasting` |
 | Inserted | `radio, Internet, and electronic mass communications capable of receiving content` |
 
+### 50 U.S.C. § 4301
+
+> by striking “or section 92 of” and inserting “section 92 of”; and
+
+| | |
+|---|---|
+| Removed | `or section 92 of` |
+| Inserted | `section 92 of` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -48,3 +57,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “or section 92 of the Atomic Energy Act of 1954” and inserting “section 92 of the Atomic Energy Act of 1954”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016;”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7814` | amend | by adding after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4301` | add-at-end | Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4301` | amend | Section 983(i)(2)(D) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4301` | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 (relating to prohibited activities with respect to North Korea);”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7814` | add-at-end | Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

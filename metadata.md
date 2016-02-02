@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 757
@@ -101,3 +101,7 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - 2016-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43). (text: CR 1/11/2016 H229-235)
 - 2016-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 43).(text: CR 1/11/2016 H229-235)
 - 2016-01-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2016-01-28 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
