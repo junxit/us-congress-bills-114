@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3784
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3784
@@ -28,9 +28,10 @@ SEC Small Business Advocate Act of 2016
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ SEC Small Business Advocate Act of 2016
 - 2016-02-01 — Placed on the Union Calendar, Calendar No. 311.
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-408.
 - 2016-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-408.
+- 2016-02-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
