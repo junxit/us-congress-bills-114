@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3700
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3700
@@ -165,3 +165,14 @@ Housing Opportunity Through Modernization Act of 2016
 - 2016-02-02 — The Speaker designated the Honorable Ryan A. Costello to act as Chairman of the Committee.
 - 2016-02-02 — The previous question was ordered pursuant to the rule. (consideration: CR H481)
 - 2016-02-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2016-07-14 — Passed Senate without amendment by Unanimous Consent.
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-07-14 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5185)
+- 2016-07-14 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5185)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-19 — Presented to President.
+- 2016-07-19 — Presented to President.
+- 2016-07-29 — Became Public Law No: 114-201.
+- 2016-07-29 — Became Public Law No: 114-201.
+- 2016-07-29 — Signed by President.
+- 2016-07-29 — Signed by President.
