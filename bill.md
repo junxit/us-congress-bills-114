@@ -9,10 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Securities and Exchange Commission to revise its rules so as to increase the threshold amount for requiring issuers to provide certain disclosures relating to compensatory benefit plans.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Encouraging Employee Ownership Act of 2015”.
-
-## § 2. Increased threshold for disclosures relating to compensatory benefit plans
-
-Not later than 60 days after the date of the enactment of this Act, the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000.
+- **(a)** *Short title* This Act may be cited as the “Capital Markets Improvement Act of 2016”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
