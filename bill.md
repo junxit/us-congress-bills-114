@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 907
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 907
 
-That the bill from the House of Representatives (H.R. 907) entitled “An Act to improve defense cooperation between the United States and the Hashemite Kingdom of Jordan.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To improve defense cooperation between the United States and the Hashemite Kingdom of Jordan.
 
 ## § 1. Short title
 
