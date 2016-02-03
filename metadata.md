@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3700
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3700
@@ -30,9 +30,10 @@ Housing Opportunity Through Modernization Act of 2016
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -163,3 +164,4 @@ Housing Opportunity Through Modernization Act of 2016
 - 2016-02-02 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3700.
 - 2016-02-02 — The Speaker designated the Honorable Ryan A. Costello to act as Chairman of the Committee.
 - 2016-02-02 — The previous question was ordered pursuant to the rule. (consideration: CR H481)
+- 2016-02-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
