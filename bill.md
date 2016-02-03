@@ -1,7 +1,7 @@
 ---
 legis-num: S. 553
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -34,7 +34,7 @@ It is the sense of Congress that—
 It is the policy of the United States Government—
 
 - **(1)** to marshal resources to seek to bring to an end modern slavery through the provision of matching funds to a private grant-making institution, in partnership with private donors and other governments, that selects and supports innovative strategies with the aim of verifiably and sustainably reducing the prevalence of modern slavery by 50 percent in targeted populations within partner countries (or jurisdictions thereof) with a high prevalence of modern slavery;
-- **(2)** to allow such a private grant-making institution the flexibility to work in jurisdictions of other countries, where those jurisdictions have demonstrated the type of commitment and capabilities otherwise required of partner countries; and
+- **(2)** to allow such a private grant making institution the flexibility to work in jurisdictions of other countries, where those jurisdictions have demonstrated the type of commitment and capabilities otherwise required of partner countries; and
 - **(3)** to engage other countries with a high prevalence of modern slavery through the full range of United States Government foreign assistance programs in order to help those countries become eligible as partner countries for the purposes of receiving additional assistance under the End Modern Slavery Initiative established by this Act.
 
 ## § 4. The end modern slavery initiative foundation
