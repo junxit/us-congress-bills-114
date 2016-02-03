@@ -1,7 +1,7 @@
 ---
 measure: S. 2040
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2040
@@ -16,7 +16,7 @@ Justice Against Sponsors of Terrorism Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -35,6 +35,8 @@ Justice Against Sponsors of Terrorism Act
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -44,3 +46,7 @@ Justice Against Sponsors of Terrorism Act
 
 - 2015-09-16 — Introduced in Senate
 - 2015-09-16 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6701-6702)
+- 2016-01-28 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-02-03 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2016-02-03 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2016-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
