@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3033
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3033
@@ -81,3 +81,14 @@ Research Excellence and Advancements for Dyslexia Act
 - 2016-02-03 — Senate amendment agreed to: Amendment SA 3279 agreed to in Senate by Unanimous Consent.
 - 2016-02-03 — Senate amendment proposed (on the floor): Amendment SA 3279 proposed by Senator Murkowski for Senator Lee.(consideration: CR S632; text: CR S632)
 - 2016-02-03 — Senate amendment submitted
+- 2016-02-04 — Message on Senate action sent to the House.
+- 2016-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-04 — Mr. Smith (TX) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H584)
+- 2016-02-04 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H584)
+- 2016-02-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H584)
+- 2016-02-10 — Presented to President.
+- 2016-02-10 — Presented to President.
+- 2016-02-18 — Became Public Law No: 114-124.
+- 2016-02-18 — Became Public Law No: 114-124.
+- 2016-02-18 — Signed by President.
+- 2016-02-18 — Signed by President.
