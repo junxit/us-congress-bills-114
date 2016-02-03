@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4168
 congress: 114
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4168
@@ -48,3 +48,5 @@ Small Business Capital Formation Enhancement Act
 - 2016-02-01 — Placed on the Union Calendar, Calendar No. 312.
 - 2016-02-01 — Reported by the Committee on Financial Services. H. Rept. 114-409.
 - 2016-02-01 — Reported by the Committee on Financial Services. H. Rept. 114-409.
+- 2016-02-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-02-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
