@@ -1,7 +1,7 @@
 ---
 measure: H.R. 907
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 907
@@ -16,7 +16,7 @@ United States-Jordan Defense Cooperation Act of 2015
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Rep. Granger, Kay [R-TX-12] (G000377)
 - Rep. Deutch, Theodore E. [D-FL-21] (D000610)
@@ -31,6 +31,7 @@ United States-Jordan Defense Cooperation Act of 2015
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Kline, John [R-MN-2] (K000363)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (2)
 
@@ -51,3 +52,13 @@ United States-Jordan Defense Cooperation Act of 2015
 - 2015-07-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4799)
 - 2015-07-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4799)
 - 2015-07-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2016-02-03 — Amendment SA 3278 agreed to in Senate by Unanimous Consent.
+- 2016-02-03 — Amendment SA 3278 proposed by Senator McConnell for Senator Rubio. (consideration: CR S570-571; text: CR S570-571) In the nature of a substitute.
+- 2016-02-03 — Measure laid before Senate by unanimous consent. (consideration: CR S570-571)
+- 2016-02-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-02-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-02-03 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S570)
+- 2016-02-03 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S570)
+- 2016-02-03 — Senate amendment agreed to: Amendment SA 3278 agreed to in Senate by Unanimous Consent.
+- 2016-02-03 — Senate amendment proposed (on the floor): Amendment SA 3278 proposed by Senator McConnell for Senator Rubio.(consideration: CR S570-571; text: CR S570-571)
+- 2016-02-03 — Senate amendment submitted
