@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3662
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3662
@@ -81,10 +81,11 @@ Iran Terror Finance Transparency Act
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -119,3 +120,4 @@ Iran Terror Finance Transparency Act
 - 2016-02-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-02-02 — On passage Passed by the Yeas and Nays: 246 - 181 (Roll no. 54).
 - 2016-02-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 181 (Roll no. 54).
+- 2016-02-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
