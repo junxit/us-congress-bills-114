@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 28
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
