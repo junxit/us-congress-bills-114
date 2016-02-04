@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Financial Institution Customer Protection Act of 2015”.
+This Act may be cited as the “Financial Institution Customer Protection Act of 2016”.
 
 ## § 2. Requirements for deposit account termination requests and orders
 
@@ -19,15 +19,20 @@ This Act may be cited as the “Financial Institution Customer Protection Act of
   - **(1)** *In general* An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts or to otherwise restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers unless—
     - **(A)** the agency has a material reason for such request or order; and
     - **(B)** such reason is not based solely on reputation risk.
-  - **(2)** *Treatment of national security threats* If an appropriate Federal banking agency believes a specific customer or group of customers poses a threat to national security, including any belief that such customer or group of customers is involved in terrorist financing, such belief shall satisfy the materiality requirement under paragraph (1)(A).
+  - **(2)** *Treatment of national security threats* If an appropriate Federal banking agency believes a specific customer or group of customers is, or is acting as a conduit for, an entity which—
+    - **(A)** poses a threat to national security;
+    - **(B)** is involved in terrorist financing;
+    - **(C)** is an agency of the government of Iran, North Korea, Syria, or any country listed from time to time on the State Sponsors of Terrorism list;
+    - **(D)** is located in, or is subject to the jurisdiction of, any country specified in subparagraph (C); or
+    - **(E)** does business with any entity described in subparagraph (C) or (D), unless the appropriate Federal banking agency determines that the customer or group of customers has used due diligence to avoid doing business with any entity described in subparagraph (C) or (D),
 - **(b)** *Notice requirement*
   - **(1)** *In general* If an appropriate Federal banking agency formally or informally requests or orders a depository institution to terminate a specific customer account or a group of customer accounts, the agency shall—
     - **(A)** provide such request or order to the institution in writing; and
     - **(B)** accompany such request or order with a written justification for why such termination is needed, including any specific laws or regulations the agency believes are being violated by the customer or group of customers, if any.
   - **(2)** *Justification requirement* A justification described under paragraph (1)(B) may not be based solely on the reputation risk to the depository institution.
 - **(c)** *Customer notice*
-  - **(1)** *Notice not required* Nothing in this section shall be construed as requiring a depository institution or an appropriate Federal banking agency to inform a customer or customers of the justification for the customer’s account termination described under subsection (b).
-  - **(2)** *Notice prohibited in cases of national security* If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
+  - **(1)** *Notice required* Except as provided under paragraph (2), if an appropriate Federal banking agency orders a depository institution to terminate a specific customer account or a group of customer accounts, the depository institution shall inform the customer or customers of the justification for the customer’s account termination described under subsection (b).
+  - **(2)** *Notice prohibited in cases of national security* If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, or are otherwise described under subsection (a)(2), neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
 - **(d)** *Reporting requirement* Each appropriate Federal banking agency shall issue an annual report to the Congress stating—
   - **(1)** the aggregate number of specific customer accounts that the agency requested or ordered a depository institution to terminate during the previous year; and
   - **(2)** the legal authority on which the agency relied in making such requests and orders and the frequency on which the agency relied on each such authority.
