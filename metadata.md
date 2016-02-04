@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1675
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1675
@@ -27,9 +27,10 @@ Capital Markets Improvement Act of 2016
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -108,3 +109,4 @@ Capital Markets Improvement Act of 2016
 - 2016-02-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H538)
 - 2016-02-03 — The previous question was ordered pursuant to the rule. (consideration: CR H537)
 - 2016-02-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2016-02-04 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
