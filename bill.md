@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4467
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4467
+
+> To amend the Controlled Substances Act to allow for advertising relating to certain activities in compliance with State law.
+
+## § 1. Short title
+
+This Act may be cited as the “Marijuana Advertising in Legal States Act of 2016” or the “MAILS Act”.
+
+## § 2. Amendment
+
+Section 403(c)(1) of the Controlled Substances Act (21 U.S.C. 843(c)(1)) is amended by adding at the end the following: “This paragraph does not apply to an advertisement to the extent that the advertisement relates to an activity, involving marihuana, that is in compliance with the law of the State in which that activity takes place.”.
