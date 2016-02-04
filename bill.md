@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 4477
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4477
+
+> To amend title 38, United States Code, to require voice mail for certain telephone lines paid for by the Secretary of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Be Responsive to all Veterans Expeditiously Act of 2016” or the “BRAVE Act of 2016”.
+
+## § 2. Voice mail for certain telephone lines paid for by the Secretary of Veterans Affairs
+
+- **(a)** *In general* Section 705 of title 38, United States Code, is amended—
+  - **(1)** in the heading, by striking “for medical officers and facility directors”;
+  - **(2)** by striking “The Secretary” and inserting the following:
+    > - **(a)** *Telephone service for medical officers and facility directors* The Secretary
+
+  - **(3)** by adding at the end the following:
+    > - **(b)** *Voice mail required*
+    >   - **(1)** The primary telephone line for any facility of the Department shall include voice mail.
+    >   - **(2)** The introductory message of any voice mail under paragraph (1) shall inform the caller of—
+    >     - **(A)** the name of the relevant facility;
+    >     - **(B)** when the caller may expect a response; and
+    >     - **(C)** another telephone number to call in case of emergency.
+    > - **(c)** *Performance reviews* In reviewing the performance of any employee responsible for responding to messages left on voice mail under subsection (b), the Secretary shall consider the timeliness of such responses.
+
+- **(b)** *Clerical amendment* The table of sections for chapter 7 of title 38, United States Code, is amended by striking the item relating to section 705 and inserting the following:
