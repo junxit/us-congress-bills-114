@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 109
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 109
@@ -32,3 +32,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2016-02-03 — Mrs. Miller (MI) asked unanimous consent to discharge from committee and consider.
 - 2016-02-03 — On agreeing to the resolution Agreed to without objection. (text: CR H540)
 - 2016-02-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H540)
+- 2016-02-04 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S691)
+- 2016-02-04 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S691)
