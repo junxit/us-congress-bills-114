@@ -1,7 +1,7 @@
 ---
 measure: H.R. 766
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 766
@@ -49,9 +49,10 @@ Financial Institution Customer Protection Act of 2016
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -101,3 +102,4 @@ Financial Institution Customer Protection Act of 2016
 - 2016-02-04 — The Speaker designated the Honorable Alexander X. Mooney to act as Chairman of the Committee.
 - 2016-02-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H582)
 - 2016-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H580)
+- 2016-02-08 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
