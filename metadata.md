@@ -1,7 +1,7 @@
 ---
 measure: S. 383
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 383
@@ -16,9 +16,10 @@ Indian Trust Asset Reform Act
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Indian Trust Asset Reform Act
 
 - 2015-02-05 — Introduced in Senate
 - 2015-02-05 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-07-29 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-02-08 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-207.
+- 2016-02-08 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-207.
+- 2016-02-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
