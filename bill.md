@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4496
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4496
+
+> To provide that amounts collected by the Federal Government through legal settlements, fines, or financial penalties shall be deposited in the general fund of the Treasury for purposes of deficit reduction, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Funding Unpaid National Debt with Settlements Act” or the “FUNDS Act”.
+
+## § 2. Use of legal settlement, fines, or financial penalties collected by the Federal Government to reduce the debt
+
+- **(a)** *In general* Notwithstanding any other provision of law, any covered funds shall be deposited in the general fund of the Treasury for purposes of deficit reduction.
+- **(b)** *Definition of covered funds* In this section, the term “covered funds” means any civil penalty collected in a civil action brought by any Federal agency, any amounts received by a Federal agency in a settlement or consent decree entered in such an action, any fine levied in an administrative proceeding or pursuant to an agency rule, and any fine collected for any Federal criminal offense, but does not include any penalty or interest collected by the Internal Revenue Service under the Internal Revenue Code of 1986.
