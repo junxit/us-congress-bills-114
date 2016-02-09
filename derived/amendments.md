@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 4 executed, 27 stated and not applied.
+32 amendatory instructions. 5 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,6 +59,15 @@ to guess them.
 |---|---|
 | Removed | `December 31, 2015` |
 | Inserted | `December 31, 2017` |
+
+### 38 U.S.C. § 1712A
+
+> Section 203(d) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163; 38 U.S.C. 1712A note) is amended by striking “December 31, 2016” and inserting “December 31, 2021”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2016` |
+| Inserted | `December 31, 2021` |
 
 ## Stated, not applied
 

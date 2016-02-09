@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 677
 
-> To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans.
+> To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.
 
 ## § 1. Short title; table of contents
 
@@ -41,7 +41,7 @@ Section 2306(d)(4) of title 38, United States Code, is amended to read as follow
 
 ## § 4. Quarterly reports on formal and informal claims for benefits under laws administered by Secretary of Veterans Affairs
 
-- **(a)** *Quarterly reports* During the five-year period beginning on the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on formal and informal claims submitted to the Secretary. Each such report shall include, for the three-month period covered by the report—
+- **(a)** *Quarterly reports* During the five-year period beginning on the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on formal and informal claims submitted to the Secretary. Each such report shall include, for the 3-month period covered by the report—
   - **(1)** the total number of claims submitted to the Secretary;
   - **(2)** the total number of informal claims submitted to the Secretary;
   - **(3)** the total number of formal claims submitted to the Secretary;
@@ -114,13 +114,23 @@ Section 2306(d)(4) of title 38, United States Code, is amended to read as follow
     > - **(b)** *Sufficiency of evidence* If a veteran has submitted a medical opinion or report of a medical examination administered by a private physician in support of the veteran’s claim, the Secretary may not order a medical examination to be administered by a Department physician unless the Secretary provides the veteran with a thorough explanation of why the medical opinion or report submitted by the veteran was not sufficiently complete and the reason why additional medical evidence is necessary.
     > - **(c)** *Sufficiently complete defined* For purposes of a medical opinion or report described in subsection (a), the term sufficiently complete means competent, credible, probative, and containing such information as may be required to make a decision on the claim for which the medical opinion or report is provided.
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to medical evidence submitted after the date that is one year after the date of the enactment of this Act.
+- **(b)** *Application* The amendment made by subsection (a) shall apply with respect to medical evidence submitted after the date that is one year after the date of the enactment of this Act by veterans who have not submitted any claim for disability compensation to the Secretary of Veterans Affairs before such date.
+- **(c)** *Annual reports*
+  - **(1)** *In general* During the three-year period beginning three years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate an annual report on the implementation of section 5125(b) of title 38, United States Code, as added by subsection (a).
+  - **(2)** *Matters included* Each report under paragraph (1) shall include, with respect to the year covered by the report, the following:
+    - **(A)** The number of veterans who submitted a medical opinion or report of a medical examination administered by a private physician in support of the veteran’s claim for disability compensation as described in section 5125(b) of title 38, United States Code, as added by subsection (a).
+    - **(B)** Of the number of veterans described in subparagraph (A), the number of veterans whose medical opinion or report of a medical examination administered by a private physician was determined by the Secretary to not be sufficiently complete pursuant to such section 5125(b), including the five most frequent reasons for such a determination.
+    - **(C)** A comparison of the approval rate of claims for disability compensation with respect to—
+      - **(i)** veterans who submitted medical opinions or reports of a medical examination administered by a private physician in support of the veteran’s claim; and
+      - **(ii)**
+        - **(I)** veterans who did submit such opinions or reports but such opinions or reports were determined by the Secretary to not be sufficiently complete pursuant to such section 5125(b); and
+        - **(II)** veterans who did not submit such opinions or reports.
 
 ## § 8. Automatic annual increase in rates of disability compensation and dependency and indemnity compensation
 
 - **(a)** *Indexing to social security increases* Section 5312 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(d)**
-  >   - **(1)** Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in paragraph (2), as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
+  >   - **(1)** During the nine-year period beginning on December 1, 2016, whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in paragraph (2), as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
   >   - **(2)** The dollar amounts to be increased pursuant to paragraph (1) are the following:
   >     - **(A)** *Wartime disability compensation* Each of the dollar amounts in effect under section 1114 of this title.
   >     - **(B)** *Additional compensation for dependents* Each of the dollar amounts in effect under section 1115(1) of this title.
@@ -131,7 +141,7 @@ Section 2306(d)(4) of title 38, United States Code, is amended to read as follow
   >   - **(4)** Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
   >   - **(5)** The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of this title.
 
-- **(b)** *Effective date* Subsection (d) of section 5312 of title 38, United States Code, as added by subsection (a) of this section, shall take effect on December 1, 2015.
+- **(b)** *Effective date* Subsection (d) of section 5312 of title 38, United States Code, as added by subsection (a) of this section, shall take effect on December 1, 2016.
 
 ## § 9. Improvement of fiduciaries for veterans
 
@@ -540,16 +550,16 @@ The Secretary of Veterans Affairs shall take such steps as may be necessary to e
 
 ## § 15. Methods for validating certain World War II Merchant Mariner service considered to be active service by the Secretary of Veterans Affairs
 
-- **(a)** *In general* For the purposes of verifying that an individual performed service under honorable conditions that satisfies the requirements of a coastwise merchant seaman who is recognized pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as having performed active duty service for the purposes described in subsection (c)(1), the Secretary of Homeland Security shall accept the following:
+- **(a)** *In general* For the purposes of verifying that an individual performed service under honorable conditions that satisfies the requirements of a coastwise merchant seaman who is recognized pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as having performed active duty service for the purposes described in subsection (c)(1), the Secretary of Defense shall accept the following:
   - **(1)** In the case of an individual who served on a coastwise merchant vessel seeking such recognition for whom no applicable Coast Guard shipping or discharge form, ship logbook, merchant mariner’s document or Z-card, or other official employment record is available, the Secretary shall provide such recognition on the basis of applicable Social Security Administration records submitted for or by the individual, together with validated testimony given by the individual or the primary next of kin of the individual that the individual performed such service during the period beginning on December 7, 1941, and ending on December 31, 1946.
   - **(2)** In the case of an individual who served on a coastwise merchant vessel seeking such recognition for whom the applicable Coast Guard shipping or discharge form, ship logbook, merchant mariner’s document or Z-card, or other official employment record has been destroyed or otherwise become unavailable by reason of any action committed by a person responsible for the control and maintenance of such form, logbook, or record, the Secretary shall accept other official documentation demonstrating that the individual performed such service during period beginning on December 7, 1941, and ending on December 31, 1946.
   - **(3)** For the purpose of determining whether to recognize service allegedly performed during the period beginning on December 7, 1941, and ending on December 31, 1946, the Secretary shall recognize masters of seagoing vessels or other officers in command of similarly organized groups as agents of the United States who were authorized to document any individual for purposes of hiring the individual to perform service in the merchant marine or discharging an individual from such service.
-- **(b)** *Treatment of other documentation* Other documentation accepted by the Secretary of Homeland Security pursuant to subsection (a)(2) shall satisfy all requirements for eligibility of service during the period beginning on December 7, 1941, and ending on December 31, 1946.
+- **(b)** *Treatment of other documentation* Other documentation accepted by the Secretary of Defense pursuant to subsection (a)(2) shall satisfy all requirements for eligibility of service during the period beginning on December 7, 1941, and ending on December 31, 1946.
 - **(c)** *Benefits allowed*
   - **(1)** *Burial benefits eligibility* Service of an individual that is considered active duty pursuant to subsection (a) shall be considered as active duty service with respect to providing burial benefits under chapters 23 and 24 of title 38, United States Code, to the individual.
   - **(2)** *Medals, ribbons, and decorations* An individual whose service is recognized as active duty pursuant to subsection (a) may be awarded an appropriate medal, ribbon, or other military decoration based on such service.
   - **(3)** *Status of veteran* An individual whose service is recognized as active duty pursuant to subsection (a) shall be honored as a veteran but shall not be entitled by reason of such recognized service to any benefit that is not described in this subsection.
-- **(d)** *Determination of coastwise merchant seaman* The Secretary of Homeland Security shall verify that an individual performed service under honorable conditions that satisfies the requirements of a coastwise merchant seaman pursuant to this section without regard to the sex, age, or disability of the individual during the period in which the individual served as such a coastwise merchant seaman.
+- **(d)** *Determination of coastwise merchant seaman* The Secretary of Defense shall verify that an individual performed service under honorable conditions that satisfies the requirements of a coastwise merchant seaman pursuant to this section without regard to the sex, age, or disability of the individual during the period in which the individual served as such a coastwise merchant seaman.
 - **(e)** *Definition of primary next of kin* In this section, the term primary next of kin with respect to an individual seeking recognition for service under this section means the closest living relative of the individual who was alive during the period of such service.
 - **(f)** *Effective date* This section shall take effect 90 days after the date of the enactment of this Act.
 
@@ -571,3 +581,7 @@ The Secretary of Veterans Affairs shall take such steps as may be necessary to e
   - **(1)** expresses its appreciation to the men and women left permanently wounded, ill, or injured as a result of their service in the Armed Forces;
   - **(2)** supports the annual recognition of American veterans disabled for life each year; and
   - **(3)** encourages the American people to honor American veterans disabled for life each year with appropriate programs and activities.
+
+## § 18. Extension of pilot program on counseling in retreat settings for women veterans newly separated from service in the Armed Forces
+
+Section 203(d) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163; 38 U.S.C. 1712A note) is amended by striking “December 31, 2016” and inserting “December 31, 2021”.
