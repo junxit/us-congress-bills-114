@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 8103 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 8103 of title 38, United States Code, as amended by subsection (a), is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8103 of title 38, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph (3): | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (4), as redesignated by paragraph (1) of this subsection, by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |

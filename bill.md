@@ -1,24 +1,21 @@
 ---
 legis-num: H.R. 3106
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3106
 
-> To authorize Department major medical facility construction projects for fiscal year 2015, to amend title 38, United States Code, to make certain improvements in the administration of Department medical facility construction projects, and for other purposes.
+> To amend title 38, United States Code, to make certain improvements in the administration of Department medical facility construction projects.
 
 ## § 1. Short title
 
-This Act may be cited as the “Construction Reform Act of 2015”.
+This Act may be cited as the “Construction Reform Act of 2016”.
 
 ## § 2. Department of Veterans Affairs construction reforms
 
-- **(a)** *Project management* Section 8103 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(e)** In the case of any super construction project (as such term is defined in section 8104(a)(4)(C)), the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes. Such agreement shall provide that the Secretary shall reimburse such Federal entity for all costs associated with the provision of project management services under the agreement.
-
-- **(b)** *Application of industry standards; assistance* Section 8103 of title 38, United States Code, as amended by subsection (a), is further amended by adding at the end the following new subsections:
+- **(a)** *Application of industry standards; assistance* Section 8103 of title 38, United States Code, is amended by adding at the end the following new subsections:
   > - **(f)** To the maximum extent practicable, the Secretary shall use industry standards, standard designs, and best practices in carrying out the construction of medical facilities.
   > - **(g)**
   >   - **(1)** The Secretary shall provide to a non-Department Federal entity with which the Secretary has entered into an agreement under subsection (e)—
@@ -34,7 +31,7 @@ This Act may be cited as the “Construction Reform Act of 2015”.
   >     - **(C)** if the Secretary does not issue a final decision under subparagraph (B), during the 30-day period following the period described in such paragraph, the entity shall issue a final decision regarding such a change no later than 90 days from when the entity furnished information regarding such a change to the Secretary.
   > - **(i)** The Secretary shall ensure that each employee of the Department with responsibilities relating to the construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.
 
-- **(c)** *Limitation on planning and design for super construction projects*
+- **(b)** *Limitation on planning and design for super construction projects*
   - **(1)** *In general* Section 8104(a) of title 38, United States Code, is amended—
     - **(A)** by redesignating paragraph (3) as paragraph (4);
     - **(B)** by inserting after paragraph (2) the following new paragraph (3):
@@ -44,7 +41,7 @@ This Act may be cited as the “Construction Reform Act of 2015”.
       > - **(C)** The term “super construction project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000, but such term does not include an acquisition by exchange.
 
   - **(2)** *Applicability* The amendments made by paragraph (1) shall take effect on the date of the enactment of this Act and shall apply with respect to a construction project that is initiated on or after that date.
-- **(d)** *Congressional approval of certain projects*
+- **(c)** *Congressional approval of certain projects*
   - **(1)** *Projects that exceed specified amount* Subsection (c) of section 8104 of title 38, United States Code, is amended to read as follows:
     > - **(c)**
     >   - **(1)** The Secretary may not obligate funds for a major medical facility project or a super construction project approved by a law described in subsection (a)(2) in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent unless the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives each approve in writing the obligation of those funds.
@@ -65,17 +62,17 @@ This Act may be cited as the “Construction Reform Act of 2015”.
       >   - **(II)** the percentage of such project that has been completed; and
       >   - **(III)** the amount of such bid savings that is already obligated or otherwise being used for a purpose other than such project.
 
-- **(e)** *Quarterly report on super construction projects*
-  - **(1)** *In general* At the end of subchapter I of chapter 81 of title 38, United States Code, insert the following new section:
+- **(d)** *Quarterly report on super construction projects*
+  - **(1)** *In general* At the end of subchapter I of chapter 81 of title 38, United States Code, add the following new section:
     > ## § 8120. Quarterly report on super construction projects
     >
     > - **(a)** *Quarterly reports required* Not later than 30 days after the last day of each fiscal quarter the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives on the super construction projects carried out by the Secretary during such quarter. Each such report shall include, for each such project—
     >   - **(1)** the budgetary and scheduling status of the project, as of the last day of the quarter covered by the report; and
     >   - **(2)** the actual cost and schedule variances of the project, as of such day, compared to the planned cost and schedules for the project.
-    > - **(b)** *Super construction project defined* In this section, the term “super construction project” has the meaning given such term in section 8103(a)(4)(C) of this title.
+    > - **(b)** *Super construction project defined* In this section, the term “super construction project” has the meaning given such term in section 8104(a)(4)(C) of this title.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of the chapter is amended by adding at the end of the items relating to such subchapter the following new item:
-- **(f)** *Accelerated master planning for each medical facility of the department of veterans affairs*
+- **(e)** *Accelerated master planning for each medical facility of the department of veterans affairs*
   - **(1)** *Existing facilities* Not later than December 31, 2016, the Secretary of Veterans Affairs shall complete a master plan described in paragraph (3) for each medical facility of the Department of Veterans Affairs.
   - **(2)** *New facilities* For each medical facility of the Department for which construction is completed after the date of the enactment of this Act, the Secretary shall complete a master plan described in paragraph (3) for the facility by not later than the earlier of the following dates:
     - **(A)** The date on which activation is completed.
@@ -84,30 +81,7 @@ This Act may be cited as the “Construction Reform Act of 2015”.
     - **(A)** to meet the health care needs of a changing veteran population through a combination of health care from the Department and other community resources; and
     - **(B)** to maximize the best use of the land and structures comprising such medical facility.
 
-## § 3. Modification of authorization of fiscal year 2008 major medical facility project at Department medical center in Tampa, Florida
-
-- **(a)** *Modification of authorization* In chapter 3 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 122 Stat. 2326), in the matter under the heading “Department of Veterans Affairs–Departmental Administration–Construction, Major Projects”, after “Five Year Capital Plan” insert the following: “and for constructing a new bed tower at the Department of Veterans Affairs medical center in Tampa, Florida, in lieu of providing bed tower upgrades at such medical center”.
-- **(b)** *Emergency designation*
-  - **(1)** *In general* Subsection (a) is designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(g)).
-  - **(2)** *Designation in Senate* In the Senate, subsection (a) is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
-
-## § 4. Authorization of fiscal year 2015 major medical facility projects
-
-- **(a)** *Authorization* The Secretary of Veterans Affairs may carry out the following major medical facility projects, with each project to be carried out in an amount not to exceed the amount specified for that project:
-  - **(1)** Construction of a community living center, outpatient clinic, renovated domiciliary, and renovation of existing buildings in Canandaigua, New York, in an amount not to exceed $158,980,000.
-  - **(2)** Seismic corrections to the mental health and community living center in Long Beach, California, in an amount not to exceed $126,100,000.
-  - **(3)** Seismic correction of 12 buildings in West Los Angeles, California, in an amount not to exceed $70,500,000.
-  - **(4)** Construction of a spinal cord injury building and seismic corrections in San Diego, California, in an amount not to exceed $205,840,000.
-- **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2015 or the year in which funds are appropriated for the Construction, Major Projects, account, a total of $561,420,000 for the projects authorized in subsection (a).
-- **(c)** *Limitation* The projects authorized under this section may only be carried out using—
-  - **(1)** funds appropriated for fiscal year 2015 pursuant to the authorization of appropriations in subsection (b);
-  - **(2)** funds available for Construction, Major Projects for a fiscal year before fiscal year 2015 that remain available for obligation;
-  - **(3)** funds available for Construction, Major Projects, for a fiscal year after fiscal year 2015 that remain available for obligation;
-  - **(4)** funds appropriated for Construction, Major Projects, for fiscal year 2015 for a category of activity not specific to a project;
-  - **(5)** funds appropriated for Construction, Major Projects, for a fiscal year before 2015 for a category of activity not specific to a project; and
-  - **(6)** funds appropriated for Construction, Major Projects, for a fiscal year after 2015 for a category of activity not specific to a project.
-
-## § 5. Assistant Inspector General for Construction
+## § 3. Assistant Inspector General for Construction
 
 - **(a)** *In general* Chapter 3 of title 38, United States Code, is amended by inserting after section 312 the following new section:
   > ## § 312A. Assistant Inspector General for Construction

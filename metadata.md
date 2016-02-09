@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3106
@@ -39,3 +39,10 @@ Construction Reform Act of 2016
 - 2015-12-03 — Placed on the Union Calendar, Calendar No. 277.
 - 2015-12-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-364.
 - 2015-12-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-364.
+- 2016-02-09 — Considered under suspension of the rules. (consideration: CR H601-603)
+- 2016-02-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3106.
+- 2016-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H601-602)
+- 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H601-602)
+- 2016-02-09 — The title of the measure was amended. Agreed to without objection.
