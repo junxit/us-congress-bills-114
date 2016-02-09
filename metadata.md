@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1428
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1428
@@ -55,3 +55,5 @@ Judicial Redress Act of 2015
 - 2016-02-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
 - 2016-02-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
 - 2016-02-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
+- 2016-02-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S756-757; text as passed Senate: CR S756-757)
+- 2016-02-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S756-757; text as passed Senate: CR S756-757)
