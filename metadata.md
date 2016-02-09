@@ -1,7 +1,7 @@
 ---
 measure: S. 2109
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2109
@@ -16,6 +16,11 @@ Directing Dollars to Disaster Relief Act of 2015
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
+## Cosponsors (2)
+
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -28,3 +33,12 @@ Directing Dollars to Disaster Relief Act of 2015
 - 2015-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-173.
 - 2015-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-173.
 - 2015-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
+- 2016-02-09 — Amendment SA 3296 agreed to in Senate by Unanimous Consent.
+- 2016-02-09 — Amendment SA 3296 proposed by Senator McConnell for Senator Johnson. (consideration: CR S755; text: CR S755) To sunset the reporting requirement after 7 years.
+- 2016-02-09 — Measure laid before Senate by unanimous consent. (consideration: CR S755-756)
+- 2016-02-09 — Passed Senate with an amendment by Unanimous Consent. (text: CR S756)
+- 2016-02-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S756)
+- 2016-02-09 — Senate amendment agreed to: Amendment SA 3296 agreed to in Senate by Unanimous Consent.
+- 2016-02-09 — Senate amendment proposed (on the floor): Amendment SA 3296 proposed by Senator McConnell for Senator Johnson.(consideration: CR S755; text: CR S755)
+- 2016-02-09 — Senate amendment submitted
+- 2016-02-09 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S755)

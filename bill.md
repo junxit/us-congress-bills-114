@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2109
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,9 @@ This Act may be cited as the “Directing Dollars to Disaster Relief Act of 2015
 
 In this Act—
 
-- **(1)** the term administrative cost means a cost incurred by the Agency in support of the delivery of disaster assistance for a major disaster;
+- **(1)** the term administrative cost—
+  - **(A)** means a cost incurred by the Agency in support of the delivery of disaster assistance for a major disaster; and
+  - **(B)** does not include a cost incurred by a grantee or subgrantee;
 - **(2)** the term Administrator means the Administrator of the Agency;
 - **(3)** the term Agency means the Federal Emergency Management Agency;
 - **(4)** the term direct administrative cost means a cost incurred by a grantee or subgrantee of a program authorized by the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) that can be identified separately and assigned to a specific project;
@@ -33,19 +35,27 @@ In this Act—
   - **(1)** develop and implement an integrated plan to control and reduce administrative costs for major disasters, which shall include—
     - **(A)** steps the Agency will take to reduce administrative costs;
     - **(B)** milestones needed for accomplishing the reduction of administrative costs;
-    - **(C)** the assignment of clear roles and responsibilities, including the designation of officials responsible for monitoring and measuring performance; and
-    - **(D)** a timetable for implementation;
+    - **(C)** strategic goals for the average annual percentage of administrative costs of major disasters for each fiscal year;
+    - **(D)** the assignment of clear roles and responsibilities, including the designation of officials responsible for monitoring and measuring performance; and
+    - **(E)** a timetable for implementation;
   - **(2)** compare the costs and benefits of tracking the administrative cost data for major disasters by the public assistance, individual assistance, hazard mitigation, and mission assignment programs, and if feasible, track this information; and
   - **(3)** clarify Agency guidance and minimum documentation requirements for a direct administrative cost claimed by a grantee or subgrantee of a public assistance grant program.
 - **(b)** *Congressional update* Not later than 90 days after the date of enactment of this Act, the Administrator shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the plan required to be developed under subsection (a)(1).
-- **(c)** *Updates* If the Administrator modifies the plan or the timetable under subsection (a), the Administrator shall submit to Congress a report notifying Congress of the modification, which shall include the details of the modification.
+- **(c)** *Updates* If the Administrator modifies the plan or the timetable under subsection (a), the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report notifying Congress of the modification, which shall include the details of the modification.
 
-## § 4. Limitations for administrative costs
+## § 4. Reporting requirement
 
-- **(a)** *In general* Except as provided in subsection (b), of the total amount obligated for major disasters by the Agency from the Disaster Relief Fund for a fiscal year, the amount obligated for administrative costs shall not exceed the milestones set by the Agency in the plan developed under section 3(a)(1).
-- **(b)** *Waiver*
-  - **(1)** *In general* The Administrator may waive a requirement described in subsection (a) if the Administrator—
-    - **(A)** has completed an assessment described in paragraph (3); and
-    - **(B)** submits to the appropriate committees of Congress a written explanation as to why the Agency exceeded the milestones set by the Agency in the plan developed under section 3(a)(1) for administrative costs of major disasters for the specified fiscal year.
-  - **(2)** *Public availability* Not later than 30 days after the date on which the Administrator submits the written explanation to Congress under paragraph (1), the Administrator shall make the explanation publicly available on the website of the Agency.
-  - **(3)** *Assessment* Not later than 60 days after the last day of a fiscal year, the Administrator shall conduct an assessment of the administrative costs of major disasters for the fiscal year in order to determine whether a waiver is needed under this subsection.
+- **(a)** *Annual report* Not later than November 30 of each year for 7 years beginning on the date of enactment of this Act, the Administrator shall submit to Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the development and implementation of the integrated plan required under section 3 for the previous fiscal year.
+- **(b)** *Report updates*
+  - **(1)** *Three year update* Not later than 3 years after the date on which the Administrator submits a report under subsection (a), the Administrator shall submit an updated report for the previous 3-fiscal-year period.
+  - **(2)** *Five year update* Not later than 5 years after the date on which the Administrator submits a report under subsection (a), the Administrator shall submit an updated report for the previous 5-fiscal-year period.
+- **(c)** *Contents of reports* Each report required under subsections (a) and (b) shall contain, at a minimum—
+  - **(1)** the total amount spent on administrative costs for the fiscal year period for which the report is being submitted;
+  - **(2)** the average annual percentage of administrative costs for the fiscal year period for which the report is being submitted;
+  - **(3)** an assessment of the effectiveness of the plan developed under section 3(a)(1);
+  - **(4)** an analysis of—
+    - **(A)** whether the Agency is achieving the strategic goals established under section 3(a)(1)(C); and
+    - **(B)** in the case of the Agency not achieving such strategic goals, what is preventing the Agency from doing so;
+  - **(5)** any actions the Agency has identified as useful in improving upon and reaching the goals for administrative costs established under section 3(a)(1)(C); and
+  - **(6)** any data described in section 3(a)(2), if the Agency determines it is feasible to track such data.
+- **(d)** *Public availability* Not later than 30 days after the date on which the Administrator submits a report to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency.
