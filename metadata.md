@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1428
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1428
@@ -57,3 +57,14 @@ Judicial Redress Act of 2015
 - 2016-02-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
 - 2016-02-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S756-757; text as passed Senate: CR S756-757)
 - 2016-02-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S756-757; text as passed Senate: CR S756-757)
+- 2016-02-10 — Message on Senate action sent to the House.
+- 2016-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-10 — Mr. Goodlatte asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H694)
+- 2016-02-10 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H694)
+- 2016-02-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H694)
+- 2016-02-12 — Presented to President.
+- 2016-02-12 — Presented to President.
+- 2016-02-24 — Became Public Law No: 114-126.
+- 2016-02-24 — Became Public Law No: 114-126.
+- 2016-02-24 — Signed by President.
+- 2016-02-24 — Signed by President.
