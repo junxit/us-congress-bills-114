@@ -1,0 +1,14 @@
+---
+legis-num: H. CON. RES. 113
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 113
+
+> Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal collectively to the 65th Infantry Regiment, known as the “Borinqueneers”.
+
+## § 1. Use of Emancipation Hall for ceremony to present Congressional Gold Medal to the Borinqueneers
+
+Emancipation Hall in the Capitol Visitor Center is authorized to be used on April 13, 2016, for a ceremony to present the Congressional Gold Medal collectively to the 65th Infantry Regiment, known as the “Borinqueneers”, in recognition of its pioneering military service, devotion to duty, and many acts of valor in the face of adversity. Physical preparations for the conduct of the ceremony shall be carried out in accordance with such conditions as the Architect of the Capitol may prescribe.
