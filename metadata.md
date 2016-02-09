@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2360
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2360
@@ -44,3 +44,9 @@ Career-Ready Student Veterans Act
 - 2015-11-16 — Placed on the Union Calendar, Calendar No. 257.
 - 2015-11-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-336.
 - 2015-11-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-336.
+- 2016-02-09 — Considered under suspension of the rules. (consideration: CR H614-616)
+- 2016-02-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2360.
+- 2016-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H614)
+- 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H614)
