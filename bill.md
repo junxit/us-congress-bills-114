@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 890
 
-> To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Florida.
+> To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit P16.
 
 ## § 1. Replacement of John H. Chafee Coastal Barrier Resources System map
 
