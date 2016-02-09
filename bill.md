@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4511
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4511
+
+> To amend the Veterans’ Oral History Project Act to allow the collection of video and audio recordings of biographical histories by immediate family members of members of the Armed Forces who died as a result of their service during a period of war.
+
+## § 1. Short title
+
+This Act may be cited as the “Gold Star Families Voices Act”.
+
+## § 2. Collection of video and audio recordings of biographical histories by immediate family members of members of the Armed Forces who died as a result of their service during a period of war
+
+- **(a)** *In General* Paragraph (1) of section 3(a) of the Veterans’ Oral History Project Act (20 U.S.C. 2142(a)(1)) is amended to read as follows:
+  > - **(1)** to collect video and audio recordings of—
+  >   - **(A)** personal histories and testimonials of veterans of the Armed Forces who served during a period of war; and
+  >   - **(B)** biographical histories by immediate family members of members of the Armed Forces who became missing in action or died as a result of their service during a period of war;
+
+- **(b)** *Conforming Amendment* Section 3 of the Veterans’ Oral History Project Act (20 U.S.C. 2142) is further amended by adding at the end the following new subsection:
+  > - **(d)** *Definition of Immediate Family Member* For purposes of subsection (a), the term “immediate family member” means a parent, spouse, sibling, or child.
