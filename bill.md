@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2915
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2915
 
-> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to identify mental health care and suicide prevention programs and metrics that are effective in treating women veterans as part of the evaluation of such programs by the Secretary.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to identify mental health care and suicide prevention programs and metrics that are effective in treating women veterans as part of the evaluation of such programs by the Secretary, and for other purposes.
 
 ## § 1. Short title
 
