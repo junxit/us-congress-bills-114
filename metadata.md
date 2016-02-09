@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3036
 congress: 114
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3036
