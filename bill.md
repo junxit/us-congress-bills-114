@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 3016
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3016
 
-> To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.
+> To amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to health care, educational assistance, and vocational rehabilitation, to establish the Veterans Economic Opportunity and Transition Administration, and for other purposes.
 
 ## § 1. Short title; table of contents
 
