@@ -1,104 +1,79 @@
 ---
 legis-num: H.R. 3234
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3234
 
-> To amend title 38, United States Code, to establish within the Department of Veterans Affairs an Office of Failing Medical Center Recovery, and for other purposes.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to evaluate the ability of each medical center of the Department to provide quality health care to veterans, to ensure that the Secretary improves such medical centers that are underperforming, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Failing VA Medical Center Recovery Act”.
+This Act may be cited as the “VA Medical Center Recovery Act”.
 
-## § 2. Establishment of an Office of Failing Medical Center Recovery
+## § 2. Evaluation and improvement of medical centers
 
-- **(a)** *Establishment*
-  - **(1)** *In general* Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section:
-    > ## § 323. Office of Failing Medical Center Recovery
+- **(a)** *underperforming medical centers*
+  - **(1)** *In general* Chapter 73 of title 38, United States Code, is amended by inserting after section 7311A the following new section:
+    > ## § 7311B. Evaluation and improvement of medical centers
     >
-    > - **(a)** *Establishment*
-    >   - **(1)** There is in the Department an Office of Failing Medical Center Recovery (in this section referred to as the “Office”). The head of the Office is the Under Secretary for Failing Medical Center Recovery.
-    >   - **(2)** The purpose of the Office is to carry out the managerial and day-to-day operational control of each medical center of the Department that the Secretary certifies as a failing medical center under subsection (b)(2).
-    > - **(b)** *Determination of failing medical center*
+    > - **(a)** *Identification of underperforming medical centers*
     >   - **(1)** Not later than 15 days after the end of each fiscal quarter, the Secretary shall publish in the Federal Register and on a publically available, searchable Internet website of the Department a compilation of key health metrics for each medical center of the Department.
-    >   - **(2)** On a semiannual basis, the Secretary shall certify that each medical center of the Department that is ranked as “failing” under the key health metrics is a failing medical center and is subject to the managerial and day-to-day operational control by the Office pursuant to this section.
-    >   - **(3)** The Secretary shall revoke the certification of a medical center of the Department as a failing medical center under paragraph (2) if the medical center achieves a ranking of “satisfactory” or better under the key health metrics for three consecutive fiscal quarters.
-    >   - **(4)** The Secretary shall submit to the President and Congress each certification made under paragraph (2).
-    >   - **(5)** On a quarterly basis, the Secretary shall submit to Congress a report on the Office, including the actions taken by the Under Secretary with respect to covered failing medical centers.
-    > - **(c)** *Functions*
-    >   - **(1)**
-    >     - **(A)** The Secretary shall transfer each covered failing medical center from the direct control of the relevant Veterans Integrated Service Network to the direct control of the Under Secretary.
-    >     - **(B)** The Under Secretary, acting through the Office, shall assume responsibility for and carry out the managerial and day-to-day operational control of each covered failing medical center.
-    >     - **(C)** In carrying out subparagraph (B), the Under Secretary shall—
-    >       - **(i)** have the duties, responsibilities, and authority for the covered failing medical center that the director of the failing medical center had as of the day before the date of the certification under subsection (b)(2);
-    >       - **(ii)** operate the covered failing medical center independently from the relevant Veterans Integrated Service Network; and
-    >       - **(iii)** retain the use of all resources and services that would otherwise be made available to the covered failing medical center by the Veterans Integrated Service Network.
-    >   - **(2)**
-    >     - **(A)** Upon a certification of the Secretary under subsection (b)(2) with respect to a covered failing medical center, the Under Secretary shall deploy a rapid deployment team to the covered failing medical center to carry out this subsection to ensure that the covered failing medical center achieves satisfactory performance as quickly as practicable.
-    >     - **(B)** Each rapid deployment team described in subparagraph (A) shall report directly to the Under Secretary and consist of personnel with experience in the following:
-    >       - **(i)** Business administration.
-    >       - **(ii)** Human resources.
-    >       - **(iii)** Congressional relations.
-    >       - **(iv)** Acute medical care.
-    >       - **(v)** Non-Department health care.
-    >       - **(vi)** Other professional experience the Under Secretary determines appropriate.
-    >   - **(3)**
-    >     - **(A)** The Under Secretary shall have the authority to carry out adverse actions, including transfers or reassignments, pursuant to this title or title 5 that are applicable to any employee of a covered failing medical center, including the director and senior executives.
-    >     - **(B)** The Under Secretary may deem an employee of a covered failing medical center who is not otherwise covered by section 713 of this title to be an individual covered by such section for purposes of removing such individual from the civil service (as defined in section 2101 of title 5).
-    >   - **(4)**
-    >     - **(A)** The Under Secretary may hire individuals as employees of the Veterans Health Administration at covered failing medical centers in positions that the Under Secretary determines are essential to improving patient care.
-    >     - **(B)** Notwithstanding any other provision of law, in carrying out subparagraph (A), the Under Secretary may—
-    >       - **(i)** hire employees using the direct-hire authority under section 3304(a)(3) of title 5; and
-    >       - **(ii)** pay such employees at a prevailing rate that is 125 percent of the rate for such position.
-    > - **(d)** *Administrative matters*
-    >   - **(1)** The Under Secretary shall ensure that the Office consists of the following personnel, including personnel of the rapid deployment teams under subsection (c)(2), in a number the Under Secretary determines appropriate:
-    >     - **(A)** Senior professional staff who have experience—
-    >       - **(i)** in the operational departments of medical centers of the Department; and
-    >       - **(ii)** necessary to effectively run a medical center.
-    >     - **(B)** Support staff.
-    >   - **(2)**
-    >     - **(A)** Notwithstanding any other provision of law, in carrying out paragraph (1), the Under Secretary may—
-    >       - **(i)** hire employees using the direct-hire authority under section 3304(a)(3) of title 5; and
-    >       - **(ii)** pay such employees at a prevailing rate that is 125 percent of the rate for such position.
-    >     - **(B)** The Secretary shall ensure that employees of the Department who serve two years or more in the Office receive preferential treatment for promotion and advancement within the Department.
-    > - **(e)** *Contracts*
-    >   - **(1)** The Under Secretary may use simplified procedures to award contracts for goods and services that the Under Secretary determines essential to improving patient care in covered failing medical centers.
-    >   - **(2)**
-    >     - **(A)** The Secretary shall include in the quarterly publications under subsection (b)(1) the amounts described in subparagraph (B), listed by specialty area.
-    >     - **(B)** The amounts described in this subparagraph are the amounts that the Secretary—
-    >       - **(i)** is obligated to pay to non-Department facilities (as defined in section 1701 of this title) that provide care to veterans under a covered failing medical center pursuant to a contract entered into by the Secretary; and
-    >       - **(ii)** has not paid by the date that is 90 days after the date required by chapter 39 of title 31.
-    > - **(f)** *Investigations and whistleblower protections*
-    >   - **(1)** The Inspector General of the Department shall prioritize investigations relating to covered failing medical centers.
-    >   - **(2)** The Office of Accountability Review shall prioritize investigations of whistleblower retaliation relating to covered failing medical centers.
-    > - **(g)** *Definitions* In this section:
-    >   - **(1)** The term covered failing medical center means a medical center of the Department that the Secretary certifies as a failing medical center pursuant to paragraph (2) of such subsection (b) and has not revoked such certification under paragraph (3) of such subsection.
+    >   - **(2)** On a semiannual basis, the Secretary shall determine, under the key health metrics, whether each medical center of the Department is satisfactory or underperforming.
+    > - **(b)** *Rapid deployment teams*
+    >   - **(1)** Not later than 30 days after the date on which the Secretary identifies a medical center as an underperforming medical center under subsection (a)(2), the Secretary shall deploy a rapid deployment team to the medical center to ensure that the medical center achieves satisfactory performance as quickly as practicable.
+    >   - **(2)** Each rapid deployment team deployed to an underperforming medical center under paragraph (1) shall—
+    >     - **(A)** identify the areas of the medical center that require improvement, including with respect to the procedures of the medical center, inefficiencies of the medical center, and whether the medical center follows directives and best practices;
+    >     - **(B)** establish a remediation plan to improve the performance of the medical center;
+    >     - **(C)** review and assesses the status of any—
+    >       - **(i)** disciplinary actions taken at the medical center;
+    >       - **(ii)** recommendations made by the Inspector General of the Department applicable to the medical center; and
+    >       - **(iii)** findings made by the Comptroller General of the United States applicable to the medical center; and
+    >     - **(D)** provide training to the director and staff of the medical center with respect to carrying out such improvements.
+    >   - **(3)** The Secretary shall ensure that—
+    >     - **(A)** the director of each underperforming medical center carries out the remediation plan under paragraph (2)(B); and
+    >     - **(B)** the rapid deployment team has access to all facilities and all electronic systems, records, reports, audits, reviews, documents, papers, or other materials the rapid deployment team determines necessary to carry out this subsection.
+    >   - **(4)** Each rapid deployment team deployed to an underperforming medical center under paragraph (1) shall consist of—
+    >     - **(A)** subject matter experts with experience in—
+    >       - **(i)** customer service training;
+    >       - **(ii)** increasing the efficiency of organizations;
+    >       - **(iii)** clinical care specific to the areas in which the underperforming medical center requires improvement; and
+    >       - **(iv)** any other areas that the Secretary determines appropriate to improve the underperforming medical center; and
+    >     - **(B)** an employee of the Office of the Inspector General of the Department.
+    >   - **(5)** To the extent practicable, each rapid deployment team shall include process improvement subject matter experts from the Veterans Experience Office of the Department.
+    >   - **(6)** The Secretary shall determine the duration of the deployment of a rapid deployment team under paragraph (1).
+    > - **(c)** *Investigations and whistleblower protections*
+    >   - **(1)** The Inspector General of the Department shall prioritize investigations relating to underperforming medical centers.
+    >   - **(2)** The Office of Accountability Review shall prioritize investigations of whistleblower retaliation relating to underperforming medical centers.
+    > - **(d)** *Quarterly reports* On a quarterly basis, the Secretary shall submit to Congress a report that includes, with respect to the quarter covered by the report—
+    >   - **(1)** each identification of an underperforming medical center made by the Secretary;
+    >   - **(2)** the actions taken by the Secretary and rapid deployment teams with respect to improving underperforming medical centers; and
+    >   - **(3)** an update on any progress made by each underperforming medical center, including whether the underperforming medical center is carrying out the remediation plan pursuant to subsection (b)(3)(A).
+    > - **(e)** *Relationship to quality assurance and National Quality Management Officer* The requirements of this section are in addition to any requirements under sections 7311 and 7311A of this title.
+    > - **(f)** *Definitions* In this section:
+    >   - **(1)** The term underperforming medical center means a medical center of the Department that the Secretary determines is underperforming under subsection (a)(2).
     >   - **(2)** The term key health metrics means the following:
     >     - **(A)** The Strategic Analytics Improvement and Learning (commonly referred to as “SAIL”) data used by the Department (or such successor data metric).
-    >     - **(B)** A ranking for each medical center of the Department based on the total data described in subparagraph (A) for the specific medical center whereby—
-    >       - **(i)** medical centers in the 90th percentile are rated as “excellent”;
-    >       - **(ii)** medical centers in the 30th to 89th percentiles are rated as “satisfactory”;
-    >       - **(iii)** medical centers in the 4th to 29th percentiles are rated as “poor”; and
-    >       - **(iv)** medical centers in the 3rd percentile and below are rated as “failing”.
+    >     - **(B)** An evaluation system established by the Secretary based on the total data described in subparagraph (A) to determine whether the performance of a medical center is satisfactory or underperforming and requires remediation pursuant to this section.
 
-  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 3 of such title is amended by adding after the item relating to section 322 the following new item:
-  - **(3)** *Initial key health metrics publication* The Secretary shall publish the initial key health metrics under section 323(b)(1) of title 38, United States Code, as added by paragraph (1), by not later than 90 days after the date of the enactment of this Act.
-  - **(4)** *Initial certifications of a failing medical center* The Secretary shall make the initial certifications under section 323(b)(2) of title 38, United States Code, as added by paragraph (1), by not later than 90 days after the date of the enactment of this Act. Such certifications shall cover not fewer than two and not more than seven medical centers of the Department of Veterans Affairs.
-- **(b)** *Under Secretary*
-  - **(1)** *In general* Chapter 3 of title 38, United States Code, is further amended by inserting after section 305 the following new section:
-    > ## § 305A. Under Secretary for Failing Medical Center Recovery
-    >
-    > - **(a)**
-    >   - **(1)** There is in the Department an Under Secretary for Failing Medical Center Recovery (in this section referred to as the “Under Secretary”), who is appointed by the President, by and with the advice and consent of the Senate.
-    >   - **(2)** The Under Secretary shall be appointed without regard to political affiliation or activity and solely—
-    >     - **(A)** on the basis of demonstrated ability in the medical profession, in health-care administration and policy formulation, in health-care fiscal management, or in health-care operations; and
-    >     - **(B)** on the basis of substantial operational experience in connection with the programs of the Veterans Health Administration or programs of similar content and scope.
-    > - **(b)** The Under Secretary is the head of, and is directly responsible to the Secretary for the operation of, the Office of Failing Medical Center Recovery.
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 73 of such title is amended by adding after the item relating to section 7311A the following new item:
+- **(b)** *Initial key health metrics publication* The Secretary shall publish the initial key health metrics under section 7311B(a)(1) of title 38, United States Code, as added by subsection (a)(1), by not later than 90 days after the date of the enactment of this Act.
+- **(c)** *Initial identification of an underperforming medical center* The Secretary shall make the initial identifications under section 7311B(a)(2) of title 38, United States Code, as added by subsection (a)(1), by not later than 180 days after the date of the enactment of this Act.
 
-  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 3 of such title is further amended by inserting after the item relating to section 305 the following new item:
-- **(c)** *Inclusion of Office in educational assistance program* Chapter 76 of title 38, United States Code, is amended—
-  - **(1)** by striking “Veterans Health Administration” each place it appears (other than section 7622(b)(1)) and inserting “Veterans Health Administration or the Office of Failing Medical Center Recovery”; and
-  - **(2)** by striking “section 7401 of this title” each place it appears and inserting “section 7401 or section 323(d) of this title”.
+## § 3. Standardized training for nurses
+
+- **(a)** *Training* The Secretary of Veterans Affairs shall seek to enter into partnerships with recognized schools of nursing to provide undergraduate nursing students enrolled in such schools with standardized training with respect to the following:
+  - **(1)** The culture of the military and veterans.
+  - **(2)** Post-traumatic stress disorder.
+  - **(3)** Traumatic brain injury.
+  - **(4)** Amputation and assistive devices.
+  - **(5)** Environmental, chemical, and toxic exposure.
+  - **(6)** Substance use disorders.
+  - **(7)** Military sexual trauma.
+  - **(8)** Suicide.
+  - **(9)** Homelessness.
+  - **(10)** Serious illness at the end of life.
+  - **(11)** Benefits, services, and resources for veterans that are administered by the Federal Government.
+- **(b)** *Development* In developing the training under subsection (a), the Secretary shall consult with appropriate accrediting bodies, schools of nursing, and industry leaders.
