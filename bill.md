@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3036
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,23 +11,37 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National 9/11 Memorial at the World Trade Center Act”.
+This Act may be cited as the “9/11 Memorial Act”.
 
-## § 2. National 9/11 Memorial
+## § 2. Definitions
 
-- **(a)** *Definitions* For the purposes of this Act—
-  - **(1)** the term Foundation means the National September 11 Memorial and Museum at the World Trade Center Foundation, Inc., also known as the National September 11 Memorial and Museum at the World Trade Center;
-  - **(2)** the term map means the map titled “National September 11 Memorial Proposed Boundary”, numbered 903/128928, and dated June 2015;
-  - **(3)** the term National September 11 Memorial means the area approximately bounded by Fulton, Greenwich, Liberty and West Streets as generally depicted on the map; and
-  - **(4)** the term Secretary means the Secretary of the Interior.
-- **(b)** *Designation* The National September 11 Memorial is hereby designated as a national memorial.
-- **(c)** *Map* The map shall be available for public inspection and kept of file at—
-  - **(1)** the appropriate office of the Secretary of the Interior; and
-  - **(2)** the headquarters of the Foundation.
-- **(d)** *Grants* The Secretary may award a grant of not more than $25,000,000 each fiscal year to the Foundation for the operation and maintenance of the National 9/11 Memorial.
-- **(e)** *Reports* Not later than 30 days after the end of each fiscal year in which the Foundation obligates or expends any part of a grant under this section, the Foundation shall prepare and submit to the Secretary and Congress a report that shall—
-  - **(1)** specify the amount of grant funds obligated or expended;
-  - **(2)** specify the purpose for which the funds were obligated and expended; and
-  - **(3)** include any other information the Secretary may require.
-- **(f)** *Termination of Authorization* Subsections (d) and (e) shall expire on the date that is 7 years after the date of the enactment of this Act.
-- **(g)** *Effect of Designation* The national memorial designated by this section is not a unit of the National Park System and the designation of the national memorial shall not be construed to require or authorize Federal funds to be expended for any purpose related to the national memorial, except under subsection (d) of this Act.
+For purposes of this Act:
+
+- **(1)** *Eligible entity* The term eligible entity means a nonprofit organization as defined in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) in existence on the date of enactment of this Act.
+- **(2)** *Map* The term map means the map titled “National September 11 Memorial Proposed Boundary”, numbered 903/128928, and dated June 2015.
+- **(3)** *National September 11 Memorial* The term National September 11 Memorial means the area approximately bounded by Fulton, Greenwich, Liberty and West Streets as generally depicted on the map.
+- **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
+
+## § 3. Designation of memorial
+
+- **(a)** *Designation* The National September 11 Memorial is hereby designated as a national memorial.
+- **(b)** *Map* The map shall be available for public inspection and kept on file at the appropriate office of the Secretary.
+- **(c)** *Effect of designation* The national memorial designated under this section shall not be a unit of the National Park System and the designation of the national memorial shall not be construed to require or authorize Federal funds to be expended for any purpose related to the national memorial except as provided under section 4.
+
+## § 4. Competitive grants for certain memorials
+
+- **(a)** *Competitive grants* Subject to the availability of appropriations, the Secretary may award a single grant per year through a competitive process to an eligible entity for the operation and maintenance of any memorial located within the United States established to commemorate the events of and honor—
+  - **(1)** the victims of the terrorist attacks on the World Trade Center, the Pentagon, and United Airlines Flight 93 on September 11, 2001; and
+  - **(2)** the victims of the terrorist attack on the World Trade Center on February 26, 1993.
+- **(b)** *Availability* Funds made available under this section shall remain available until expended.
+- **(c)** *Criteria* In awarding grants under this section, the Secretary shall give greatest weight in the selection of eligible entities using the following criteria:
+  - **(1)** Experience in managing a public memorial that will benefit the largest number of visitors each calendar year.
+  - **(2)** Experience in managing a memorial of significant size (4 acres or more).
+  - **(3)** Successful coordination and cooperation with Federal, State, and local governments in operating and managing the memorial.
+  - **(4)** Ability and commitment to use grant funds to enhance security at the memorial.
+  - **(5)** Ability to use grant funds to increase the numbers of economically disadvantaged visitors to the memorial and surrounding areas.
+- **(d)** *Summaries* Not later than 30 days after the end of each fiscal year in which an eligible entity obligates or expends any part of a grant under this section, the eligible entity shall prepare and submit to the Secretary and Congress a summary that—
+  - **(1)** specifies the amount of grant funds obligated or expended in the preceding fiscal year;
+  - **(2)** specifies the purpose for which the funds were obligated or expended; and
+  - **(3)** includes any other information the Secretary may require to more effectively administer the grant program.
+- **(e)** *Sunset* The authority to award grants under this section shall expire on the date that is 7 years after the date of the enactment of this Act.
