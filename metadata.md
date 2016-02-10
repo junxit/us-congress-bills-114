@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3106
@@ -21,9 +21,10 @@ Construction Reform Act of 2016
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Construction Reform Act of 2016
 - 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H601-602)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H601-602)
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
