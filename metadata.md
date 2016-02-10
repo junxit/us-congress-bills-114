@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3262
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3262
@@ -35,3 +35,14 @@ To provide for the conveyance of land of the Illiana Health Care System of the D
 - 2016-02-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H633)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H633)
 - 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-02-22 — Passed Senate without amendment by Unanimous Consent.
+- 2016-02-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-02-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S914)
+- 2016-02-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S914)
+- 2016-02-23 — Message on Senate action sent to the House.
+- 2016-02-25 — Presented to President.
+- 2016-02-25 — Presented to President.
+- 2016-02-29 — Became Public Law No: 114-129.
+- 2016-02-29 — Became Public Law No: 114-129.
+- 2016-02-29 — Signed by President.
+- 2016-02-29 — Signed by President.
