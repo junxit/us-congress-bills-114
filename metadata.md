@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2360
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2360
@@ -26,9 +26,10 @@ Career-Ready Student Veterans Act
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Career-Ready Student Veterans Act
 - 2016-02-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H614)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H614)
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
