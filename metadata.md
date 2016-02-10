@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3016
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3016
@@ -34,9 +34,10 @@ Veterans Employment, Education, and Healthcare Improvement Act
 - Rep. Young, David [R-IA-3] (Y000066)
 - Rep. Israel, Steve [D-NY-3] (I000057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Veterans Employment, Education, and Healthcare Improvement Act
 - 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H603-611)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H603-611)
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
