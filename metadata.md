@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 361
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 361
@@ -37,3 +37,7 @@ A resolution urging robust funding for humanitarian relief for Syria.
 
 - 2016-02-03 — Introduced in Senate
 - 2016-02-03 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S578)
+- 2016-02-10 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with a preamble. Without written report.
+- 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with a preamble. Without written report.
+- 2016-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.
