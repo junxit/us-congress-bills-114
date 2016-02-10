@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3894
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3894
@@ -20,9 +20,10 @@ To amend title 10, United States Code, to require the prompt notification of Sta
 
 - Rep. Takai, Mark [D-HI-1] (T000473)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend title 10, United States Code, to require the prompt notification of Sta
 - 2016-02-09 — Ms. Stefanik moved to suspend the rules and pass the bill.
 - 2016-02-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H638)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H638)
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
