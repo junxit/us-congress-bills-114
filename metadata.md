@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4437
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4437
@@ -20,9 +20,10 @@ To extend the deadline for the submittal of the final report required by the Com
 
 - Rep. Brown, Corrine [D-FL-5] (B000911)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To extend the deadline for the submittal of the final report required by the Com
 - 2016-02-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2016-02-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H600)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H600)
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
