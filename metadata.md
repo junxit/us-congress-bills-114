@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 677
@@ -20,9 +20,10 @@ American Heroes COLA Act of 2015
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ American Heroes COLA Act of 2015
 - 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H617-625)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H617-625)
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
