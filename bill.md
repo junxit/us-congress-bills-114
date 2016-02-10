@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 99
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,6 +24,23 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on August 29, 2014, Secretary of State Kerry again stated that the United States “respectfully request the Government of the Islamic Republic of Iran work cooperatively with us to find Mr. Levinson and bring him home”;
 - Whereas the United States Government is currently engaged in regular, direct negotiations with the Government of Iran over its nuclear program;
 - Whereas March 9, 2015, marks the 2,922nd day since Mr. Levinson's disappearance, and he is now the longest held United States civilian in our Nation's history; and
+- Whereas the Federal Bureau of Investigation has announced a $5,000,000 reward for information leading to Mr. Levinson's safe return: Now, therefore, be it
+- Whereas United States citizen Robert Levinson is a retired agent of the Federal Bureau of Investigation (FBI), a resident of Coral Springs, Florida, the husband of Christine Levinson, and father of their seven children;
+- Whereas Robert Levinson traveled from Dubai, United Arab Emirates, to Kish Island, Iran, on March 8, 2007;
+- Whereas, after traveling to Kish Island and checking into the Hotel Maryam, Robert Levinson disappeared on March 9, 2007;
+- Whereas, in December 2007, Robert Levinson's wife, Christine, traveled to Kish Island to retrace Mr. Levinson's steps and met with officials of the Government of Iran who pledged to help in the investigation;
+- Whereas, for more than eight years, the United States Government has continually pressed the Government of Iran to provide any information on the whereabouts of Robert Levinson and to help ensure his prompt and safe return to his family;
+- Whereas officials of the Government of Iran promised their continued assistance to the relatives of Robert Levinson during the visit of the family to the Islamic Republic of Iran in December 2007;
+- Whereas, in November 2010, the Levinson family received a video of Mr. Levinson in captivity, representing the first proof of life since his disappearance and providing some initial indications that he was being held somewhere in southwest Asia;
+- Whereas, in April 2011, the Levinson family received a series of pictures of Mr. Levinson, which provided further indications that he was being held somewhere in southwest Asia;
+- Whereas Secretary of State John Kerry stated on August 28, 2013, “The United States respectfully asks the Government of the Islamic Republic of Iran to work cooperatively with us in our efforts to help U.S. citizen Robert Levinson.”;
+- Whereas, on September 28, 2013, during the first direct phone conversation between the heads of governments of the United States and Iran since 1979, President Barack Obama raised the case of Robert Levinson to President of Iran Hassan Rouhani and urged the President of Iran to help locate Mr. Levinson and reunite him with his family;
+- Whereas, on August 29, 2014, Secretary of State Kerry again stated that the United States “respectfully request[s] the Government of the Islamic Republic of Iran work cooperatively with us to find Mr. Levinson and bring him home”;
+- Whereas, on July 14, 2015, the Governments of the United States, the United Kingdom, France, Russia, China, Germany, and Iran agreed to the Joint Comprehensive Plan of Action;
+- Whereas, on January 16, 2016, the Government of Iran released five United States citizens detained in Iran, Jason Rezaian of California, Saeed Abedini of Idaho, Amir Mirzaei Hekmati of Michigan, Matthew Trevithick of Massachusetts, and Nosratollah Khosravi-Roodsari;
+- Whereas, on January 17, 2016, President Obama stated that “even as we rejoice in the safe return of others, we will never forget about Bob,” referring to Robert Levinson, and that “each and every day but especially today our hearts are with the Levinson family and we will never rest until their family is whole again”;
+- Whereas, on January 19, 2016, White House Press Secretary Josh Earnest stated that the United States Government had “secured a commitment from the Iranians to use the channel that has now been opened to secure the release of those individuals that we know were being held by Iran…to try and gather information about Mr. Levinson’s possible whereabouts”;
+- Whereas, on November 26, 2013, Mr. Levinson became the longest held United States civilian in our Nation's history; and
 - Whereas the Federal Bureau of Investigation has announced a $5,000,000 reward for information leading to Mr. Levinson's safe return: Now, therefore, be it
 
 That the Senate—
