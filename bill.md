@@ -17,14 +17,17 @@ This Act may be cited as the “Scientific Research in the National Interest Act
 
 - **(a)** *Standard for award of grants* The National Science Foundation shall award Federal funding for basic research and education in the sciences through a new research grant or cooperative agreement only if an affirmative determination is made by the Foundation under subsection (b) and written justification relating thereto is published under subsection (c).
 - **(b)** *Determination* A determination referred to in subsection (a) is a justification by the responsible Foundation official as to how the research grant or cooperative agreement promotes the progress of science in the United States, consistent with the Foundation mission as established in the National Science Foundation Act of 1950 (42 U.S.C. 1861 et seq.), and further—
-  - **(1)** is worthy of Federal funding; and
-  - **(2)** is in the national interest, as indicated by having the potential to achieve—
+  - **(1)** is worthy of Federal funding;
+  - **(2)** is consistent with established and widely accepted scientific methods applicable to the field of study of exploration;
+  - **(3)** is consistent with the definition of basic research as it applies to the purpose and field of study; and
+  - **(4)** is in the national interest, as indicated by having the potential to achieve—
     - **(A)** increased economic competitiveness in the United States;
     - **(B)** advancement of the health and welfare of the American public;
-    - **(C)** development of an American STEM workforce that is globally competitive;
+    - **(C)** development of an American STEM workforce, including computer science and information technology sectors, that is globally competitive;
     - **(D)** increased public scientific literacy and public engagement with science and technology in the United States;
     - **(E)** increased partnerships between academia and industry in the United States;
     - **(F)** support for the national defense of the United States; or
     - **(G)** promotion of the progress of science for the United States.
 - **(c)** *Written justification* Public announcement of each award of Federal funding described in subsection (a) shall include a written justification from the responsible Foundation official as to how a grant or cooperative agreement meets the requirements of subsection (b).
 - **(d)** *Implementation* A determination under subsection (b) shall be made after a research grant or cooperative agreement proposal has satisfied the Foundation’s reviews for Merit and Broader Impacts. Nothing in this section shall be construed as altering the Foundation’s intellectual merit or broader impacts criteria for evaluating grant applications.
+- **(e)** *Clarification* Nothing in this Act shall be construed to impact Federal funding for research grants or cooperative agreements awarded by the National Science Foundation prior to the date of enactment of this Act.
