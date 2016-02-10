@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 757
@@ -64,10 +64,11 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - House — Foreign Affairs Committee
 - Senate — Foreign Relations Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2016-01-12 — [House 114-2-43](votes/house-114-2-0043.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–2)
 - 2016-02-10 — [Senate 114-2-20](votes/senate-114-2-0020.md) — On Passage of the Bill — **Bill Passed** (96–0)
+- 2016-02-12 — [House 114-2-82](votes/house-114-2-0082.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (408–2)
 
 ## Actions
 
@@ -119,3 +120,16 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - 2016-02-10 — Senate amendment submitted
 - 2016-02-10 — Senate amendment submitted
 - 2016-02-10 — The committee substitute agreed to by Unanimous Consent. (text of committee substitute as amended: CR S761-767)
+- 2016-02-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2016-02-12 — Considered as unfinished business. (consideration: CR H802-803)
+- 2016-02-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 757.
+- 2016-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-12 — Mr. Royce moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H779-788)
+- 2016-02-12 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 82). (text as House agreed to Senate amendment: CR H779-785)
+- 2016-02-12 — Presented to President.
+- 2016-02-12 — Presented to President.
+- 2016-02-12 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 82).(text as House agreed to Senate amendment: CR H779-785)
+- 2016-02-18 — Became Public Law No: 114-122.
+- 2016-02-18 — Became Public Law No: 114-122.
+- 2016-02-18 — Signed by President.
+- 2016-02-18 — Signed by President.
