@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 330
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 330
@@ -30,3 +30,7 @@ A resolution congratulating the Tunisian National Dialogue Quartet for winning t
 
 - 2015-12-07 — Introduced in Senate
 - 2015-12-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8440-8441)
+- 2016-02-10 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.
