@@ -1,7 +1,7 @@
 ---
 measure: S. 2109
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2109
@@ -21,9 +21,10 @@ Directing Dollars to Disaster Relief Act of 2015
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Directing Dollars to Disaster Relief Act of 2015
 - 2016-02-09 — Senate amendment proposed (on the floor): Amendment SA 3296 proposed by Senator McConnell for Senator Johnson.(consideration: CR S755; text: CR S755)
 - 2016-02-09 — Senate amendment submitted
 - 2016-02-09 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S755)
+- 2016-02-10 — Message on Senate action sent to the House.
+- 2016-02-10 — Received in the House.
+- 2016-02-10 — Referred to the House Committee on Transportation and Infrastructure.
