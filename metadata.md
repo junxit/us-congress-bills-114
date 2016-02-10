@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3036
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3036
@@ -103,9 +103,10 @@ version: Reported in House
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -133,3 +134,4 @@ version: Reported in House
 - 2016-02-09 — Placed on the Union Calendar, Calendar No. 317.
 - 2016-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-416.
 - 2016-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-416.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
