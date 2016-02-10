@@ -1,7 +1,7 @@
 ---
 measure: H.R. 890
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 890
@@ -20,9 +20,10 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 - 2016-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-417.
 - 2016-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-417.
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

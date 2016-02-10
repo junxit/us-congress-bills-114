@@ -2,12 +2,12 @@
 legis-num: H.R. 890
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 890
 
-> To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit P16.
+> To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Florida.
 
 ## § 1. Replacement of John H. Chafee Coastal Barrier Resources System map
 
