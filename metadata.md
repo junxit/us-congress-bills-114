@@ -1,7 +1,7 @@
 ---
 measure: H.R. 757
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 757
@@ -64,9 +64,10 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - House — Foreign Affairs Committee
 - Senate — Foreign Relations Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2016-01-12 — [House 114-2-43](votes/house-114-2-0043.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–2)
+- 2016-02-10 — [Senate 114-2-20](votes/senate-114-2-0020.md) — On Passage of the Bill — **Bill Passed** (96–0)
 
 ## Actions
 
@@ -105,3 +106,16 @@ North Korea Sanctions and Policy Enhancement Act of 2016
 - 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
+- 2016-02-08 — Senate amendment submitted
+- 2016-02-08 — Senate amendment submitted
+- 2016-02-10 — Measure laid before Senate by unanimous consent. (consideration: CR S761-806)
+- 2016-02-10 — Message on Senate action sent to the House.
+- 2016-02-10 — Passed Senate with an amendment by Yea-Nay Vote. 96 - 0. Record Vote Number: 20.
+- 2016-02-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 96 - 0. Record Vote Number: 20.
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — The committee substitute agreed to by Unanimous Consent. (text of committee substitute as amended: CR S761-767)
