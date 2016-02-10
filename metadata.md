@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4056
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4056
@@ -36,3 +36,14 @@ To direct the Secretary of Veterans Affairs to convey to the Florida Department 
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H616)
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
 - 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-02-22 — Passed Senate without amendment by Unanimous Consent.
+- 2016-02-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-02-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S914)
+- 2016-02-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S914)
+- 2016-02-23 — Message on Senate action sent to the House.
+- 2016-02-25 — Presented to President.
+- 2016-02-25 — Presented to President.
+- 2016-02-29 — Became Public Law No: 114-130.
+- 2016-02-29 — Became Public Law No: 114-130.
+- 2016-02-29 — Signed by President.
+- 2016-02-29 — Signed by President.
