@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4056
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4056
@@ -16,9 +16,10 @@ To direct the Secretary of Veterans Affairs to convey to the Florida Department 
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ To direct the Secretary of Veterans Affairs to convey to the Florida Department 
 - 2016-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H616)
 - 2016-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H616)
 - 2016-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2016-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
