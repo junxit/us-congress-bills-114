@@ -1,7 +1,7 @@
 ---
 measure: S. 2109
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2109
@@ -46,3 +46,15 @@ Directing Dollars to Disaster Relief Act of 2015
 - 2016-02-10 — Message on Senate action sent to the House.
 - 2016-02-10 — Received in the House.
 - 2016-02-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-02-23 — Considered under suspension of the rules. (consideration: CR H823-824)
+- 2016-02-23 — DEBATE - The House proceeded with forty minutes of debate on S. 2109.
+- 2016-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-23 — Mr. Katko moved to suspend the rules and pass the bill.
+- 2016-02-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H823)
+- 2016-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H823)
+- 2016-02-25 — Presented to President.
+- 2016-02-25 — Presented to President.
+- 2016-02-29 — Became Public Law No: 114-132.
+- 2016-02-29 — Became Public Law No: 114-132.
+- 2016-02-29 — Signed by President.
+- 2016-02-29 — Signed by President.
