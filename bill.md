@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 4550
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4550
+
+> To permit qualified law enforcement officers, qualified retired law enforcement officers, and persons not prohibited by State law from carrying a concealed firearm to carry a firearm, and to discharge a firearm in defense of self or others, in a school zone.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Against School Shootings Act” or the “PASS Act”.
+
+## § 2. Use of firearms in school zones by qualified law enforcement officers, qualified retired law enforcement officers, and persons not prohibited by State law from carrying a concealed firearm
+
+- **(a)** *Override of the Gun-Free School Zones Act of 1990* Section 922(q) of title 18, United States Code, is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** by striking “or” at the end of clause (vi);
+    - **(B)** by striking the period at the end of clause (vii) and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(viii)** by a person who, under section 926D, may carry a concealed firearm in a school zone.
+
+  - **(2)** in paragraph (3)—
+    - **(A)** by striking “or” at the end of clause (iii);
+    - **(B)** by striking the period at the end of clause (iv) and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(v)** by a person who, under section 926D, may carry a concealed firearm in a school zone.
+
+- **(b)** *Override of State law*
+  - **(1)** *In general* Chapter 44 of title 18, United States Code, is amended by inserting after section 926C the following:
+    > ## § 926D. Use of firearms in school zones by qualified law enforcement officers, qualified retired law enforcement officers, and persons not prohibited by State law from carrying a concealed firearm
+    >
+    > Notwithstanding the law of any State or any political subdivision thereof, a person who, under section 926B or 926C or the law of a State, may carry a concealed firearm may carry the firearm, and discharge the firearm in defense of self or others, in a school zone in any State.
+
+  - **(2)** *Clerical amendment* The table of sections for such chapter is amended by inserting after the item relating to section 926C the following new item:
