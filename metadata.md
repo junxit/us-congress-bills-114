@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 99
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 99
@@ -16,10 +16,11 @@ A resolution calling on the Government of Iran to follow through on repeated pro
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ A resolution calling on the Government of Iran to follow through on repeated pro
 - 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2016-02-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2016-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 365.
+- 2016-02-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S881-882; text of committee substitute as amended: CR S881-882)
+- 2016-02-11 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S881-882; text of committee substitute as amended: CR S881-882)
