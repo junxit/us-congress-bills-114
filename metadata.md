@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4470
@@ -117,3 +117,4 @@ Safe Drinking Water Act Improved Compliance Awareness Act
 - 2016-02-10 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2016-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 67). (text: CR H662-663)
 - 2016-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 67).(text: CR H662-663)
+- 2016-02-11 — Received in the Senate.
