@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3442
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,12 +22,25 @@ This Act may be cited as the “Debt Management and Fiscal Responsibility Act of
   > - **(b)** *Information required To be presented* In an appearance described under subsection (a), the Secretary shall submit the following:
   >   - **(1)** *Debt Report* A report on the state of the public debt, including—
   >     - **(A)** the historical levels of the debt, current amount and composition of the debt, and future projections of the debt;
-  >     - **(B)** the drivers and composition of future debt; and
-  >     - **(C)** how, if the debt limit is raised, the United States will meet debt obligations, including principal and interest.
+  >     - **(B)** the historical levels of Federal revenue, including corporate and individual Federal income taxes as a percent of the gross domestic product;
+  >     - **(C)** the drivers and composition of future debt;
+  >     - **(D)** how, if the debt limit is raised, the United States will meet debt obligations, including principal and interest;
+  >     - **(E)** any reduction measures the Secretary intends to take to fund Federal Government obligations if the debt limit is not raised, including—
+  >       - **(i)** notifying the Congress when the limit has been reached; and
+  >       - **(ii)** notifying the Congress when the Secretary has begun taking such measures and specifying which measures are currently being used; and
+  >     - **(F)** if the President recommends that Congress adopt, in general, a balanced budget amendment to the Constitution of the United States to help control the accumulation of future debt.
   >   - **(2)** *Statement of intent* A detailed explanation of—
   >     - **(A)** proposals of the President to reduce the public debt in the short term (the current and following fiscal year), medium term (approximately three to five fiscal years), and long term (approximately ten fiscal years), and proposals of the President to adjust the debt-to-gross domestic product ratio;
-  >     - **(B)** the impact an increased debt limit will have on future Government spending, debt service, and the position of the United States dollar as the international reserve currency; and
-  >     - **(C)** projections of fiscal health and sustainability of major direct-spending entitlement programs (including Social Security, Medicare, and Medicaid).
+  >     - **(B)** the impact an increased debt limit will have on future Government spending, debt service, and the position of the United States dollar as the international reserve currency;
+  >     - **(C)** projections of fiscal health and sustainability of major direct-spending entitlement programs (including Social Security, Medicare, and Medicaid);
+  >     - **(D)** the plan of the President for each week that the debt of the United States Government is at the statutory limit, to publicly disclose, on the website of the Department of the Treasury, the following:
+  >       - **(i)** All reduction measures currently being used by the Secretary to avoid defaulting on obligations of the Government.
+  >       - **(ii)** With respect to each reduction measure, whether or not such measure is currently being used—
+  >         - **(I)** the total dollar amount of such measure that has been used; and
+  >         - **(II)** the total dollar amount of such measure that the Secretary estimates is still available for use.
+  >       - **(iii)** The date on which the Secretary estimates that all reduction measures will be exhausted, and the Government will begin defaulting on its obligations;
+  >     - **(E)** any extraordinary measures the Secretary intends to take to fund Federal government obligations if the debt limit is not raised, a projection of how long such extraordinary measures will fund the Federal government, and a projection of the administrative cost of taking such extraordinary measures; and
+  >     - **(F)** whether the Administration acknowledges that it is technologically capable of paying only principal and interest on the national debt, as opposed to other obligations, in the event that the debt limit, as specified under section 3101, is reached.
   >   - **(3)** *Progress report*
   >     - **(A)** *In general* A detailed report on the progress of implementing all proposals of the President described under subparagraph (A) of paragraph (2).
   >     - **(B)** *Exception* The report described under this paragraph shall only be submitted if a Secretary has already appeared at least once pursuant to this section during any term of office for a particular President.
@@ -36,5 +49,12 @@ This Act may be cited as the “Debt Management and Fiscal Responsibility Act of
   >   - **(2)** The detailed explanation submitted under subsection (b)(2).
   >   - **(3)** The progress report submitted under subsection (b)(3).
   >   - **(4)** Such other information as the Secretary reasonably believes is necessary or helpful to the public in understanding the statutory debt limit, Government debt, and the reports and explanations described under paragraphs (1), (2), and (3).
+  > - **(d)** *Reduction measures defined* For purposes of this section, the term “reduction measures” means each of the following:
+  >   - **(1)** Directing or approving the issuance of debt by the Federal Financing Bank for the purpose of entering into an exchange transaction for debt that is subject to the limit under this section.
+  >   - **(2)** Suspending investments in the Government Securities Investment Fund of the Thrift Savings Fund.
+  >   - **(3)** Suspending investments in the stabilization fund established under section 5302 of title 31, United States Code.
+  >   - **(4)** Suspending new investments in the Civil Service Retirement and Disability Fund or the Postal Service Retiree Health Benefits Fund.
+  >   - **(5)** Selling or redeeming securities, obligations, or other invested assets of the Civil Service Retirement and Disability Fund or the Postal Service Retiree Health Benefits Fund before maturity.
+  >   - **(6)** Such other measures as the Secretary determines appropriate.
 
 - **(b)** *Clerical amendment* The table of analysis for chapter 31 of title 31, United States Code, is amended by inserting after the item relating to section 3130 the following:
