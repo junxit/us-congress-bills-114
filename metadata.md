@@ -1,0 +1,81 @@
+---
+measure: H.R. 4539
+congress: 114
+version: Introduced in House
+---
+
+# H.R. 4539
+
+400 Years of African-American History Commission Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+
+## Cosponsors (51)
+
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Rangel, Charles B. [D-NY-13] (R000053)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Conyers, John, Jr. [D-MI-13] (C000714)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Murphy, Patrick [D-FL-18] (M001191)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Honda, Michael M. [D-CA-17] (H001034)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2016-02-11 — Introduced in House
+- 2016-02-11 — Introduced in House
+- 2016-02-11 — Referred to the House Committee on Oversight and Government Reform.
