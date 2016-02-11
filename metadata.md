@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3293
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3293
@@ -41,9 +41,10 @@ Scientific Research in the National Interest Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -120,3 +121,4 @@ Scientific Research in the National Interest Act
 - 2016-02-10 — The Speaker designated the Honorable Rodney Davis to act as Chairman of the Committee.
 - 2016-02-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H692)
 - 2016-02-10 — The previous question was ordered pursuant to the rule. (consideration: CR H691)
+- 2016-02-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
