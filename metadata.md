@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 31
 congress: 114
-version: Enrolled Bill
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 31

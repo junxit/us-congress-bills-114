@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 31
-congress: One Hundred Fourteenth Congress of the United States of America
+congress: 114th CONGRESS
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
