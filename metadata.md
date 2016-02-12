@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2017
@@ -122,6 +122,12 @@ Common Sense Nutrition Disclosure Act of 2015
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2016-02-12 — [House 114-2-79](votes/house-114-2-0079.md) — On Agreeing to the Amendment — **Agreed to** (309–100)
+- 2016-02-12 — [House 114-2-80](votes/house-114-2-0080.md) — On Agreeing to the Amendment — **Failed** (148–258)
+- 2016-02-12 — [House 114-2-81](votes/house-114-2-0081.md) — On Passage — **Passed** (266–144)
+
 ## Actions
 
 - 2015-04-23 — Introduced in House
@@ -137,3 +143,35 @@ Common Sense Nutrition Disclosure Act of 2015
 - 2016-02-02 — Placed on the Union Calendar, Calendar No. 315.
 - 2016-02-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-413.
 - 2016-02-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-413.
+- 2016-02-10 — Rules Committee Resolution H. Res. 611 Reported to House. Rule provides for consideration of H.R. 2017 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2016-02-11 — Rule H. Res. 611 passed House.
+- 2016-02-12 — Amendment (A001) offered by Mrs. McMorris Rodgers. (consideration: CR H796-798, H800; text: CR H796)
+- 2016-02-12 — Amendment (A002) offered by Mr. Schrader. (consideration: CR H798-799, H800-801; text: CR H798)
+- 2016-02-12 — Amendment agreed to Committee of the Whole
+- 2016-02-12 — Amendment failed in Committee of the Whole
+- 2016-02-12 — Considered under the provisions of rule H. Res. 611. (consideration: CR H789-802)
+- 2016-02-12 — DEBATE - Pursuant to the provisions of H. Res. 611, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader amendment No. 3.
+- 2016-02-12 — DEBATE - Pursuant to the provisions of H.Res. 611, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rodgers amendment No. 1.
+- 2016-02-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2017.
+- 2016-02-12 — House amendment agreed to: On agreeing to the McMorris Rodgers amendment (A001) Agreed to by recorded vote: 309 - 100, 1 Present (Roll no. 79).
+- 2016-02-12 — House amendment not agreed to: On agreeing to the Schrader amendment (A002) Failed by recorded vote: 148 - 258, 1 Present (Roll no. 80).
+- 2016-02-12 — House amendment offered
+- 2016-02-12 — House amendment offered
+- 2016-02-12 — House amendment offered/reported by : Amendment (A001) offered by Mrs. McMorris Rodgers.(consideration: CR H796-798, H800; text: CR H796)
+- 2016-02-12 — House amendment offered/reported by : Amendment (A002) offered by Mr. Schrader.(consideration: CR H798-799, H800-801; text: CR H798)
+- 2016-02-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 611 and Rule XVIII.
+- 2016-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-12 — On agreeing to the McMorris Rodgers amendment (A001) Agreed to by recorded vote: 309 - 100, 1 Present (Roll no. 79).
+- 2016-02-12 — On agreeing to the Schrader amendment (A002) Failed by recorded vote: 148 - 258, 1 Present (Roll no. 80).
+- 2016-02-12 — On passage Passed by the Yeas and Nays: 266 - 144, 1 Present (Roll no. 81).
+- 2016-02-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McMorris Rodgers amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Schakowsky demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schrader amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Schrader demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 144, 1 Present (Roll no. 81).
+- 2016-02-12 — Roll call votes on amendments in House
+- 2016-02-12 — Roll call votes on amendments in House
+- 2016-02-12 — Rule provides for consideration of H.R. 2017 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2016-02-12 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H795-796)
+- 2016-02-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2017.
+- 2016-02-12 — The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.
+- 2016-02-12 — The previous question was ordered pursuant to the rule. (consideration: CR H801)
+- 2016-02-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
