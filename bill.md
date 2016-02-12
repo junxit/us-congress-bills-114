@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 31
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -11,12 +11,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That when the Senate recesses or adjourns on any day from Thursday, February 11, 2016, through Saturday, February 20, 2016, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand recessed or adjourned until 12:00 noon on Monday, February 22, 2016, or such other time on that day as may be specified by its Majority Leader or his designee in the motion to recess or adjourn, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first; and that when the House adjourns on any legislative day from Friday, February 12, 2016, through Tuesday, February 16, 2016, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand adjourned until 2:00 p.m. on Tuesday, February 23, 2016, or until the time of any reassembly pursuant to section 3 of this concurrent resolution, whichever occurs first.
 
-## § 2.
+## § 2. (a.
 
-- **(a)** The Majority Leader of the Senate or his designee, after concurrence with the Minority Leader of the Senate, shall notify the Members of the Senate to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+The Majority Leader of the Senate or his designee, after concurrence with the Minority Leader of the Senate, shall notify the Members of the Senate to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+
 - **(b)** After reassembling pursuant to subsection (a), when the Senate adjourns on a motion offered pursuant to this subsection by its Majority Leader or his designee, the Senate shall again stand adjourned pursuant to the first section of this concurrent resolution.
 
-## § 3.
+## § 3. (a.
 
-- **(a)** The Speaker or his designee, after consultation with the Minority Leader of the House, shall notify the Members of the House to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+The Speaker or his designee, after consultation with the Minority Leader of the House, shall notify the Members of the House to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+
 - **(b)** After reassembling pursuant to subsection (a), when the House adjourns on a motion offered pursuant to this subsection by its Majority Leader or his designee, the House shall again stand adjourned pursuant to the first section of this concurrent resolution.
