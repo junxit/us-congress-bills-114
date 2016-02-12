@@ -1,7 +1,7 @@
 ---
 measure: S. 2451
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2451
@@ -16,6 +16,11 @@ A bill to designate the area between the intersections of International Drive, N
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
+## Cosponsors (2)
+
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +29,7 @@ A bill to designate the area between the intersections of International Drive, N
 
 - 2016-01-20 — Introduced in Senate
 - 2016-01-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-02-12 — Passed Senate without amendment by Voice Vote. (text: CR S886-887)
+- 2016-02-12 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S886-887)
+- 2016-02-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S886-887)
+- 2016-02-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S886-887)
