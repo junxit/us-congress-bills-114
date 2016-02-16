@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3624
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1447(c) of title 28, United States Code, is amended by adding at the end the following: “A motion for remand, and any opposition thereto, may include affidavit or other evidence showing a plausible claim for relief against each n… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1447 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
