@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3442
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3442
@@ -54,9 +54,10 @@ Debt Management and Fiscal Responsibility Act of 2015
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (6)
 
@@ -158,3 +159,4 @@ Debt Management and Fiscal Responsibility Act of 2015
 - 2016-02-11 — The Speaker designated the Honorable Bradley Byrne to act as Chairman of the Committee.
 - 2016-02-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H748)
 - 2016-02-11 — The previous question was ordered pursuant to the rule. (consideration: CR H746)
+- 2016-02-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
