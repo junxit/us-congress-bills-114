@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2017
@@ -118,9 +118,10 @@ Common Sense Nutrition Disclosure Act of 2015
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -175,3 +176,4 @@ Common Sense Nutrition Disclosure Act of 2015
 - 2016-02-12 — The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.
 - 2016-02-12 — The previous question was ordered pursuant to the rule. (consideration: CR H801)
 - 2016-02-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-02-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
