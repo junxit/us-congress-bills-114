@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 1 executed, 19 stated and not applied.
+37 amendatory instructions. 4 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,33 @@ to guess them.
 |---|---|
 | Removed | `An entity` |
 | Inserted | `(a) Entity Reports.—An entity` |
+
+### 42 U.S.C. § 3797s-4
+
+> by striking “An entity” and inserting “(a) Entity Reports.—An entity”; and
+
+| | |
+|---|---|
+| Removed | `An entity` |
+| Inserted | `(a) Entity Reports.—An entity` |
+
+### 42 U.S.C. § 3797cc
+
+> in the part heading, by striking “CONFRONTING USE OF METHAMPHETAMINE” and inserting “COMPREHENSIVE ADDICTION AND RECOVERY”; and
+
+| | |
+|---|---|
+| Removed | `CONFRONTING USE OF METHAMPHETAMINE` |
+| Inserted | `COMPREHENSIVE ADDICTION AND RECOVERY` |
+
+### 42 U.S.C. § 3797cc
+
+> in section 2996(a)(1), by striking “this part” and inserting “this section”.
+
+| | |
+|---|---|
+| Removed | `this part` |
+| Inserted | `this section` |
 
 ## Stated, not applied
 
@@ -61,3 +88,17 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3797aa` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797aa` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | add-at-end | Part MM of the Omnibus Crime Control and Safe Streets Act of 1968, as amended by section 501, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | replace | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.) is amended by striking section 2997 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 103, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 202, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 204, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 301, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 303, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 304, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 401, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797s-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | insert | by inserting “(I)” after “(ii)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3797aa` | replace | in subclause (I), as so designated, by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3797aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 501, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797cc` | add-at-end | Part II of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797cc et seq.), as amended by section 702, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
