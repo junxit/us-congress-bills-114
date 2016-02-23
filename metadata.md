@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3716
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3716
@@ -30,3 +30,13 @@ Ensuring Access to Quality Medicaid Providers Act
 - 2015-10-08 — Introduced in House
 - 2015-10-08 — Introduced in House
 - 2015-10-08 — Referred to the House Committee on Energy and Commerce.
+- 2015-10-09 — Referred to the Subcommittee on Health.
+- 2015-11-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2015-11-04 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2015-11-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2015-11-17 — Committee Consideration and Mark-up Session Held.
+- 2015-11-18 — Committee Consideration and Mark-up Session Held.
+- 2015-11-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-02-23 — Placed on the Union Calendar, Calendar No. 326.
+- 2016-02-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-427.
+- 2016-02-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-427.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3716
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Terminated Providers are Removed from Medicaid and CHIP Act”.
+This Act may be cited as the “Ensuring Removal of Terminated Providers from Medicaid and CHIP Act”.
 
 ## § 2. Increasing oversight of termination of Medicaid providers
 
@@ -20,45 +20,62 @@ This Act may be cited as the “Ensuring Terminated Providers are Removed from M
     - **(A)** by redesignating paragraph (8) as paragraph (9); and
     - **(B)** by inserting after paragraph (7) the following new paragraph:
       > - **(8)** *Provider terminations*
-      >   - **(A)** *In general* Beginning 180 days after the date of the enactment of this paragraph, in the case of a notification under subsection (a)(41) with respect to a termination for cause of the participation of any individual or entity under the State plan under subsection (a)(39), the State, not later than 14 business days after the effective date of such termination, submits to the Secretary with respect to any such individual or entity—
-      >     - **(i)** the name of such individual or entity;
-      >     - **(ii)** the provider type of such individual or entity;
-      >     - **(iii)** the specialty of such individual’s or entity’s practice;
-      >     - **(iv)** the date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of such individual or entity;
+      >   - **(A)** *In general* Beginning on January 1, 2017, in the case of a notification under subsection (a)(41) with respect to a termination for a reason specified in section 455.101 of title 42, Code of Federal Regulations (as in effect on November 1, 2015) or for any other reason specified by the Secretary, of the participation of a provider of services or any other person under the State plan, the State, not later than 21 business days after the effective date of such termination, submits to the Secretary with respect to any such provider or person, as appropriate—
+      >     - **(i)** the name of such provider or person;
+      >     - **(ii)** the provider type of such provider or person;
+      >     - **(iii)** the specialty of such provider’s or person’s practice;
+      >     - **(iv)** the date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of such provider or person;
       >     - **(v)** the reason for the termination;
-      >     - **(vi)** the effective date of such termination; and
-      >     - **(vii)** a copy of the notice of termination sent to the individual or entity.
-      >   - **(B)** *Managed care entities*
-      >     - **(i)** *In general* With respect to managed care entities (as defined in section 1932(a)(1)), beginning on the later of the date that is 180 days after the date of the enactment of this paragraph or the first day of the first plan year for such an entity that begins after such date of enactment, the State requires that any contract the State plan has with any such entity includes a provision that individuals terminated for cause from participation under the program under title XVIII, this title, or title XXI be terminated from participation in the provider networks of managed care entities under this title that serve individuals eligible to receive medical assistance under this title.
-      >     - **(ii)** *Notification of termination* For the period beginning on the date that is 180 days after the date of the enactment of this paragraph and ending on the date on which the enrollment of providers under section 1932(d)(5) is complete for the State, the State provides for a system for notifying managed care entities (as defined in section 1932(a)(1)) of the termination of individuals or entities from participation under the program under title XVIII, this title, or title XXI.
+      >     - **(vi)** a copy of the notice of termination sent to the provider or person;
+      >     - **(vii)** the effective date of such termination specified in such notice; and
+      >     - **(viii)** any other information required by the Secretary.
+      >   - **(B)** *Effective date defined* For purposes of this paragraph, the term “effective date” means, with respect to a termination described in subparagraph (A), the later of—
+      >     - **(i)** the date on which such termination is effective, as specified in the notice of such termination; or
+      >     - **(ii)** the date on which all appeal rights applicable to such termination have been exhausted or the timeline for any such appeal has expired.
 
-  - **(2)** *Termination Notification Database* Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection:
-    > - **(ll)** *Termination notification database* In the case of an individual or entity whose participation in the program under title XVIII, this title, or title XXI is terminated for cause under subsection (a)(39), the Secretary shall, not later than 14 business days after the date on which the Secretary is notified of such termination under subsection (a)(41), include such termination in any database or similar system developed pursuant to section 6401(b)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 1395cc note; Public Law 111–148).
+  - **(2)** *Reporting requirements for managed care entities* Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)) is amended by adding at the end the following new paragraph:
+    > - **(5)** *State reporting requirements for managed care entities*
+    >   - **(A)** *In general* With respect to any contract with a managed care entity under section 1903(m) or 1905(t)(3) (as applicable), beginning on the later of the first day of the first plan year for such managed care entity that begins after the date of the enactment of this paragraph or January 1, 2017, the State shall require that such contract include a provision that providers of services or persons terminated (as described in section 1902(kk)(8)) from participation under this title, title XVIII, or title XXI be terminated from participating under this title as a provider in any network of such entity that serves individuals eligible to receive medical assistance under this title.
+    >   - **(B)** *Notification of termination* For the period beginning on January 1, 2017, and ending on the date on which the enrollment of providers under paragraph (6) is complete for a State, the State shall provide for a system for notifying managed care entities (as defined in subsection (a)(1)) of the termination (as described in section 1902(kk)(8)) of providers of services or persons from participation under this title, title XVIII, or title XXI.
 
-  - **(3)** *No Federal funds for items and services furnished by terminated providers* Section 1903(i)(2) of the Social Security Act (42 U.S.C. 1396b(i)(2)) is amended—
-    - **(A)** in subparagraph (A), by striking the comma at the end and inserting a semicolon;
-    - **(B)** in subparagraph (B), by striking “or” at the end; and
-    - **(C)** by adding at the end the following new subparagraph:
-      > - **(D)** beginning 2 years after the date of the enactment of this subparagraph, under the plan by any individual or entity whose participation in the State plan is terminated for cause under subsection (a)(39) of section 1902 after the date that is 60 days after the date on which such termination is included in the database or other system under subsection (ll) of such section; or
+  - **(3)** *Termination Notification Database* Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection:
+    > - **(ll)** *Termination notification database* In the case of a provider of services or any other person whose participation under this title, title XVIII, or title XXI is terminated (as described in subsection (kk)(8)), the Secretary shall, not later than 21 business days after the date on which the Secretary terminates such participation under title XVIII or is notified of such termination under subsection (a)(41) (as applicable), review such termination and, if the Secretary determines appropriate, include such termination in any database or similar system developed pursuant to section 6401(b)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 1395cc note; Public Law 111–148).
 
-  - **(4)** *Development of uniform terminology for reasons for provider termination* Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue regulations establishing uniform terminology to be used with respect to specifying reasons under paragraph (8)(A) of section 1902(kk) of the Social Security Act (42 U.S.C. 1396a(kk)) for the termination of the participation of certain providers in the Medicaid program under title XIX of such Act or the Children’s Health Insurance Program under title XXI of such Act.
-  - **(5)** *Conforming amendment* Section 1902(a)(41) of the Social Security Act (42 U.S.C. 1396a(a)(41)) is amended by striking “provide that whenever” and inserting “provide, in accordance with subsection (kk)(8) (as applicable), that whenever”.
+  - **(4)** *No Federal funds for items and services furnished by terminated providers* Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended—
+    - **(A)** in subsection (i)(2)—
+      - **(i)** in subparagraph (A), by striking the comma at the end and inserting a semicolon;
+      - **(ii)** in subparagraph (B), by striking “or” at the end; and
+      - **(iii)** by adding at the end the following new subparagraph:
+        > - **(D)** beginning not later than January 1, 2018, under the plan by any provider of services or person whose participation in the State plan is terminated (as described in section 1902(kk)(8)) after the date that is 60 days after the date on which such termination is included in the database or other system under section 1902(ll); or
+
+    - **(B)** in subsection (m), by inserting after paragraph (2) the following new paragraph:
+      > - **(3)** No payment shall be made under this title to a State with respect to expenditures incurred by the State for payment for services provided by a managed care entity (as defined under section 1932(a)(1)) under the State plan under this title (or under a waiver of the plan) unless the State—
+      >   - **(A)** beginning on the applicable date specified in subparagraph (A) of section 1932(d)(5), has a contract with such entity that complies with the requirement specified in such subparagraph; and
+      >   - **(B)**
+      >     - **(i)** for the period specified in subparagraph (B) of such section, has a system in effect that meets the requirement specified in such subparagraph; and
+      >     - **(ii)** after such period, complies with section 1932(d)(6).
+
+  - **(5)** *Development of uniform terminology for reasons for provider termination* Not later than January 1, 2017, the Secretary of Health and Human Services shall, in consultation with the heads of State agencies administering State Medicaid plans (or waivers of such plans), issue regulations establishing uniform terminology to be used with respect to specifying reasons under subparagraph (A)(v) of paragraph (8) of section 1902(kk) of the Social Security Act (42 U.S.C. 1396a(kk)), as amended by paragraph (1), for the termination (as described in such paragraph) of the participation of certain providers in the Medicaid program under title XIX of such Act or the Children’s Health Insurance Program under title XXI of such Act.
+  - **(6)** *Conforming amendment* Section 1902(a)(41) of the Social Security Act (42 U.S.C. 1396a(a)(41)) is amended by striking “provide that whenever” and inserting “provide, in accordance with subsection (kk)(8) (as applicable), that whenever”.
 - **(b)** *Increasing availability of Medicaid provider information*
   - **(1)** *FFS provider enrollment* Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended by inserting after paragraph (77) the following new paragraph:
-    > - **(78)** provide that, not later than 180 days after the date of the enactment of this paragraph, in the case of a State plan that provides medical assistance on a fee-for-service basis, the State shall require each provider furnishing items and services to individuals eligible to receive medical assistance under such plan to enroll with the State agency and provide to the State agency the provider’s identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider;
+    > - **(78)** provide that, not later than January 1, 2017, in the case of a State plan that provides medical assistance on a fee-for-service basis, the State shall require each provider furnishing items and services to individuals eligible to receive medical assistance under such plan to enroll with the State agency and provide to the State agency the provider’s identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider;
 
-  - **(2)** *Managed care provider enrollment* Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)) is amended by adding at the end the following new paragraph:
-    > - **(5)** *Enrollment of participating providers*
-    >   - **(A)** *In general* Beginning not later than one year after the date of the enactment of this paragraph, a State shall require that, as a condition on the participation in the provider network of a managed care entity of a provider that provides services to, or orders or provides referrals for services for, individuals who are eligible for medical assistance under the State plan under this title and who are enrolled with the entity, the provider enrolls with the State agency administering the State plan under this title. Such enrollment shall include providing to the State agency the provider’s identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
+  - **(2)** *Managed care provider enrollment* Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)), as amended by subsection (a)(2), is amended by adding at the end the following new paragraph:
+    > - **(6)** *Enrollment of participating providers*
+    >   - **(A)** *In general* Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this title and who are enrolled with the entity, the provider is enrolled with the State agency administering the State plan under this title. Such enrollment shall include providing to the State agency the provider’s identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
     >   - **(B)** *Rule of construction* Nothing in subparagraph (A) shall be construed as requiring a provider described in such subparagraph to provide services to individuals who are not enrolled with a managed care entity under this title.
 
 - **(c)** *Coordination with CHIP*
   - **(1)** *In general* Section 2107(e)(1) of the Social Security Act (42 U.S.C. 1397gg(e)(1)) is amended—
-    - **(A)** by redesignating subparagraphs (B) through (O) as subparagraphs (D) through (Q), respectively;
+    - **(A)** by redesignating subparagraphs (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (L), (M), (N), and (O) as subparagraphs (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (O), (P), (Q), and (R), respectively;
     - **(B)** by inserting after subparagraph (A) the following new subparagraphs:
       > - **(B)** Section 1902(a)(39) (relating to termination of participation of certain providers).
-      > - **(C)** Section 1902(a)(78) (relating to the enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
+      > - **(C)** Section 1902(a)(78) (relating to enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
 
-    - **(C)** in subparagraph (O) (as redesignated by paragraph (1)), by striking “(a)(2)(C) and (h)” and inserting “(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)”.
+    - **(C)** by inserting after subparagraph (K) (as redesignated by paragraph (1)) the following new subparagraph:
+      > - **(L)** Section 1903(m)(3) (relating to limitation on payment with respect to managed care).
+
+    - **(D)** in subparagraph (P) (as redesignated by paragraph (1)), by striking “(a)(2)(C) and (h)” and inserting “(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to reporting requirements for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)”.
   - **(2)** *Excluding from Medicaid providers excluded from CHIP* Section 1902(a)(39) of the Social Security Act (42 U.S.C. 1396a(a)(39)) is amended by striking “title XVIII or any other State plan under this title” and inserting “title XVIII, any other State plan under this title, or any State child health plan under title XXI”.
-- **(d)** *Rule of construction* Nothing in this section shall be construed as changing the appeal rights of providers or the process for appeals of States under the Social Security Act.
+- **(d)** *Rule of construction* Nothing in this section shall be construed as changing or limiting the appeal rights of providers or the process for appeals of States under the Social Security Act.
