@@ -39,13 +39,13 @@ This Act may be cited as the “National Strategy to Combat Terrorist Travel Act
       - **(iii)** new authorities or changes in existing authorities needed from Congress;
       - **(iv)** specific budget adjustments being requested to enhance United States security in a risk-based manner; and
       - **(v)** an identification of Federal departments and agencies responsible for specific actions described in this subparagraph.
-  - **(5)** *Sunset* The requirement to transmit updated national strategies under this subsection shall terminate on the date that is 7 years after the date of the enactment of this Act.
+  - **(5)** *Sunset* The requirement to transmit updated national strategies under this subsection shall terminate on the date that is seven years after the date of the enactment of this Act.
 - **(c)** *Development of implementation plans* For each national strategy required under subsection (b), the President shall direct the Secretary of Homeland Security to develop an implementation plan for the Department of Homeland Security and coordinate with the heads of other relevant Federal agencies to ensure the development of implementing plans for each such agency.
 - **(d)** *Implementation plans*
   - **(1)** *In general* The President shall transmit to the appropriate congressional committees implementation plans for each national strategy required under subsection (b). Consistent with the protection of classified information, each such implementation plan shall be transmitted in unclassified form, but may include a classified annex.
   - **(2)** *Timing* The implementation plans referred to in paragraph (1) shall be transmitted simultaneously with each national strategy required under subsection (b). Such implementation plans shall be updated and transmitted to the appropriate congressional committees on an annual basis.
-  - **(3)** *Sunset* The requirement to transmit implementation plans under paragraph (1) shall terminate on the date that is 10 years after the date of the enactment of this Act.
-- **(e)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section.
+  - **(3)** *Sunset* The requirement to transmit implementation plans under paragraph (1) shall terminate on the date that is ten years after the date of the enactment of this Act.
+- **(e)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security.
 - **(f)** *Definition* In this section, the term “appropriate congressional committees” means—
   - **(1)** in the House of Representatives—
     - **(A)** the Committee on Homeland Security;
