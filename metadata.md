@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4408
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4408
@@ -16,7 +16,7 @@ National Strategy to Combat Terrorist Travel Act of 2016
 
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Hurd, Will [R-TX-23] (H001073)
@@ -27,13 +27,31 @@ National Strategy to Combat Terrorist Travel Act of 2016
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (1)
 
 - House — Homeland Security Committee
+
+## Recorded votes (1)
+
+- 2016-02-23 — [House 114-2-83](votes/house-114-2-0083.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (392–0)
 
 ## Actions
 
 - 2016-02-01 — Introduced in House
 - 2016-02-01 — Introduced in House
 - 2016-02-01 — Referred to the House Committee on Homeland Security.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Ordered to be Reported by Voice Vote.
+- 2016-02-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-02-23 — Considered as unfinished business. (consideration: CR H835)
+- 2016-02-23 — Considered under suspension of the rules. (consideration: CR H830-831)
+- 2016-02-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4408.
+- 2016-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-23 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2016-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 83). (text: CR H830)
+- 2016-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 83).(text: CR H830)
+- 2016-02-23 — Placed on the Union Calendar, Calendar No. 323.
+- 2016-02-23 — Reported by the Committee on Homeland Security. H. Rept. 114-424.
+- 2016-02-23 — Reported by the Committee on Homeland Security. H. Rept. 114-424.
