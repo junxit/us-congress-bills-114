@@ -2,7 +2,7 @@
 legis-num: H.R. 4402
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4402
@@ -21,7 +21,7 @@ This Act may be cited as the “Foreign Fighter Review Act of 2016”.
   - **(3)** identify lessons learned and areas for improvement to prevent additional travel by such persons to a conflict zone in Iraq or Syria, or other terrorist safe havens abroad, to join or provide material support or resources to a terrorist organization.
 - **(b)** *Information sharing* If necessary, the President shall direct the heads of relevant Federal agencies to provide the appropriate information necessary for the Secretary of Homeland Security to complete the review required under subsection (a).
 - **(c)** *Submission to Congress* Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security shall, consistent with the protection of classified information, submit to the appropriate congressional committees the results of the review required under subsection (a), which may include information on travel routes of greatest concern.
-- **(d)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security.
+- **(d)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section.
 - **(e)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** in the House of Representatives—
