@@ -1,7 +1,7 @@
 ---
 measure: S. 1674
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1674
@@ -30,3 +30,7 @@ Long Island Sound Restoration and Stewardship Act
 
 - 2015-06-24 — Introduced in Senate
 - 2015-06-24 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-01-20 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2016-02-24 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-212.
+- 2016-02-24 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-212.
+- 2016-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.
