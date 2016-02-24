@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3584
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3584
@@ -21,9 +21,10 @@ Transportation Security Administration Reform and Improvement Act of 2015
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Transportation Security Administration Reform and Improvement Act of 2015
 - 2016-02-23 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2016-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H824-828)
 - 2016-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H824-828)
+- 2016-02-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
