@@ -1,8 +1,8 @@
 ---
 legis-num: S. 2234
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2234
@@ -27,7 +27,7 @@ The Congress finds the following:
 - **(8)** America’s leading scientists and scholars served in the OSS Research and Analysis Branch, including Ralph Bunche, the first African-American to receive the Nobel Peace Prize; Pulitzer Prize-winning historian Arthur Schlesinger, Jr.; Supreme Court Justice Arthur Goldberg; Sherman Kent; John King Fairbank; and Walt Rostow. Its ranks included seven future presidents of the American Historical Association, five of the American Economic Association, and two Nobel laureates.
 - **(9)** The U.S. Department of State’s Bureau of Intelligence and Research traces its creation to the OSS Research and Analysis Branch.
 - **(10)** James Donovan, who was portrayed by Tom Hanks in the Steven Spielberg movie “Bridge of Spies” and negotiated the release of U–2 pilot Francis Gary Powers, served as General Counsel of the OSS.
-- **(11)** The OSS invented and employed new technology through its Research and Development Branch, inventing new weapons and revolutionary communications equipment. Dr. Christian Lam­bert­sen invented the first underwater rebreathing apparatus that was first utilized by the OSS and is known today as SCUBA.
+- **(11)** The OSS invented and employed new technology through its Research and Development Branch, inventing new weapons and revolutionary communications equipment. Dr. Christian Lambertsen invented the first underwater rebreathing apparatus that was first utilized by the OSS and is known today as SCUBA.
 - **(12)** OSS Detachment 101 operated in Burma and pioneered the art of unconventional warfare. It was the first United States unit to deploy a large guerrilla army deep in enemy territory. It has been credited with the highest kill/loss ratio for any infantry-type unit in American military history and was awarded a Presidential Unit Citation.
 - **(13)** Its X–2 branch pioneered counterintelligence with the British and established the modern counterintelligence community. The network of contacts built by the OSS with foreign intelligence services led to enduring Cold War alliances.
 - **(14)** Operation Torch, the Allied invasion of French North Africa in November 1942, was aided by the networks established and information acquired by the OSS to guide Allied landings.
