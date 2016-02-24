@@ -1,7 +1,7 @@
 ---
 measure: S. 2276
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 6 executed, 6 stated and not applied.
+32 amendatory instructions. 12 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,60 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 49 U.S.C. § 60101
+
+> Section 60125(b)(2) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
+
+| | |
+|---|---|
+| Removed | `2012 through 2015` |
+| Inserted | `2016 through 2019` |
+
+### 49 U.S.C. § 60101
+
+> in subsection (a), by striking “$1,000,000 for each of fiscal years 2012 through 2015” and inserting “$1,060,000 for each of the fiscal years 2016 through 2019”; and
+
+| | |
+|---|---|
+| Removed | `$1,000,000 for each of fiscal years 2012 through 2015` |
+| Inserted | `$1,060,000 for each of the fiscal years 2016 through 2019` |
+
+### 49 U.S.C. § 60101
+
+> in subsection (b), by striking “2012 through 2015” and inserting “2016 through 2019”.
+
+| | |
+|---|---|
+| Removed | `2012 through 2015` |
+| Inserted | `2016 through 2019` |
+
+### 49 U.S.C. § 60101
+
+> Section 60134(i) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
+
+| | |
+|---|---|
+| Removed | `2012 through 2015` |
+| Inserted | `2016 through 2019` |
+
+### 49 U.S.C. § 60101
+
+> Section 60130(c) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
+
+| | |
+|---|---|
+| Removed | `2012 through 2015` |
+| Inserted | `2016 through 2019` |
+
+### 49 U.S.C. § 60101
+
+> Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
+
+| | |
+|---|---|
+| Removed | `2012 through 2015` |
+| Inserted | `2016 through 2019` |
 
 ### 49 U.S.C. § 60101
 
@@ -93,3 +147,17 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 60101` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 60101` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 60101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 60101` | replace | in paragraph (1), by striking “there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carryi… | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 60101` | replace | in paragraph (2), by striking “there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section … | the bill quotes the text struck but describes what replaces it |
+| — | replace | Section 60115(b)(4)(A) is amended by striking “State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.” and inserting “State officials. The Secretary shal… | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 60101` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 60101` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 60101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (21)(B), by striking the period at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (24), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (25), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 601 is amended by inserting after section 60103 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 601 is amended by inserting after the item relating to section 60103 the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 60101(a), as amended by section 16, is further amended by inserting after paragraph (25) the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 60103(a) is amended to read as follows: | the bill names no machine-readable US Code section |
