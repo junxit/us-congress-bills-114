@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4408
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4408
@@ -29,9 +29,10 @@ National Strategy to Combat Terrorist Travel Act of 2016
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ National Strategy to Combat Terrorist Travel Act of 2016
 - 2016-02-23 — Placed on the Union Calendar, Calendar No. 323.
 - 2016-02-23 — Reported by the Committee on Homeland Security. H. Rept. 114-424.
 - 2016-02-23 — Reported by the Committee on Homeland Security. H. Rept. 114-424.
+- 2016-02-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
