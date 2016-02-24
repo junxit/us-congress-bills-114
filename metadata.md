@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 113
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 113
@@ -36,3 +36,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2016-02-23 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider. (consideration: CR H837)
 - 2016-02-23 — On agreeing to the resolution Agreed to without objection. (text: CR H837)
 - 2016-02-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H837)
+- 2016-02-24 — Received in the Senate.
