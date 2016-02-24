@@ -1,7 +1,7 @@
 ---
 measure: S. 2234
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2234
@@ -92,9 +92,11 @@ Office of Strategic Services Congressional Gold Medal Act
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -104,3 +106,9 @@ Office of Strategic Services Congressional Gold Medal Act
 - 2016-02-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S914-915)
 - 2016-02-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S914-915)
 - 2016-02-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S914-915)
+- 2016-02-23 — Held at the desk.
+- 2016-02-23 — Message on Senate action sent to the House.
+- 2016-02-23 — Received in the House.
+- 2016-02-24 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-02-24 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-02-24 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
