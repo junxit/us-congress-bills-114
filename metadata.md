@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 374
 congress: 114
-version: Held at Desk Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 374
@@ -118,7 +118,14 @@ A resolution relating to the death of Antonin Scalia, Associate Justice of the S
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
+## Recorded votes (1)
+
+- 2016-02-25 — [Senate 114-2-26](votes/senate-114-2-0026.md) — On the Resolution — **Resolution Agreed to** (93–0)
+
 ## Actions
 
 - 2016-02-24 — Introduced in Senate
 - 2016-02-24 — Submitted in the Senate and ordered held at desk.
+- 2016-02-25 — Measure laid before Senate by unanimous consent. (consideration: CR S1036)
+- 2016-02-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 93 - 0. Record Vote Number: 26.(text: CR 2/24/2016 S1003)
+- 2016-02-25 — Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 93 - 0. Record Vote Number: 26. (text: CR 2/24/2016 S1003)
