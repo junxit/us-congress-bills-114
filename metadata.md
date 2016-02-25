@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1475
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1475
@@ -351,3 +351,4 @@ Korean War Veterans Memorial Wall of Remembrance Act
 - 2016-02-24 — Placed on the Union Calendar, Calendar No. 330.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-433.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-433.
+- 2016-02-25 — Received in the Senate.
