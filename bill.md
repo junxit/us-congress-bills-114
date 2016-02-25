@@ -24,10 +24,10 @@ Section 1447 of title 28, United States Code, is amended by adding at the end th
 >       - **(i)** one or more defendants are citizens of the same State as one or more plaintiffs; or
 >       - **(ii)** one or more defendants properly joined and served are citizens of the State in which the action was brought; and
 >     - **(C)** the motion is opposed on the ground that the joinder of the defendant or defendants described in subparagraph (B) is fraudulent.
->   - **(2)** The joinder of the defendant or defendants described in paragraph (1) (B) is fraudulent if the court finds that—
->     - **(A)** there is actual fraud in the pleading of jurisdictional facts;
->     - **(B)** based on the complaint and the materials submitted under paragraph (3), it is not plausible to conclude that applicable State law would impose liability on each defendant described in paragraph (1)(B);
->     - **(C)** State or Federal law clearly bars all claims in the complaint against all defendants described in paragraph (1)(B); or
->     - **(D)** objective evidence clearly demonstrates that there is no good faith intention to prosecute the action against all defendants described in paragraph (1)(B) or to seek a joint judgment.
+>   - **(2)** The joinder of a defendant described in paragraph (1)(B) is fraudulent if the court finds that—
+>     - **(A)** there is actual fraud in the pleading of jurisdictional facts with respect to that defendant;
+>     - **(B)** based on the complaint and the materials submitted under paragraph (3), it is not plausible to conclude that applicable State law would impose liability on that defendant;
+>     - **(C)** State or Federal law clearly bars all claims in the complaint against that defendant; or
+>     - **(D)** objective evidence clearly demonstrates that there is no good faith intention to prosecute the action against that defendant or to seek a joint judgment including that defendant.
 >   - **(3)** In determining whether to grant or deny a motion under paragraph (1)(B), the court may permit the pleadings to be amended, and shall consider the pleadings, affidavits, and other evidence submitted by the parties.
->   - **(4)** If the court finds fraudulent joinder under paragraph (2), it shall dismiss without prejudice the claims against the defendant or defendants found to have been fraudulently joined and shall deny the motion described in paragraph (1)(B).
+>   - **(4)** If the court finds that all defendants described in paragraph (1)(B) have been fraudulently joined under paragraph (2), it shall dismiss without prejudice the claims against those defendants and shall deny the motion described in paragraph (1)(B).
