@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 619
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 619
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 2406) to protect and enhance oppor
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2016-02-25 — [House 114-2-90](votes/house-114-2-0090.md) — On Ordering the Previous Question — **Passed** (240–178)
+- 2016-02-25 — [House 114-2-91](votes/house-114-2-0091.md) — On Agreeing to the Resolution — **Passed** (241–175)
+
 ## Actions
 
 - 2016-02-23 — Introduced in House
@@ -23,3 +32,11 @@ Providing for consideration of the bill (H.R. 2406) to protect and enhance oppor
 - 2016-02-23 — Placed on the House Calendar, Calendar No. 92.
 - 2016-02-23 — The House Committee on Rules reported an original measure, H. Rept. 114-429, by Mr. Newhouse.
 - 2016-02-23 — The House Committee on Rules reported an original measure, H. Rept. 114-429, by Mr. Newhouse.
+- 2016-02-25 — Considered as privileged matter. (consideration: CR H903-907)
+- 2016-02-25 — Considered as unfinished business. (consideration: CR H918-919)
+- 2016-02-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 619.
+- 2016-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-25 — On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 175 (Roll no. 91). (text: CR H903)
+- 2016-02-25 — On ordering the previous question Agreed to by the Yeas and Nays: 240 - 178 (Roll no. 90). (consideration: CR H906-907, H918-919; text: CR H906-907)
+- 2016-02-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the resolution, the Chair put the question on ordering the previous question and by voice vote, the Chair announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until a time to be announced.
+- 2016-02-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 175 (Roll no. 91).(text: CR H903)
