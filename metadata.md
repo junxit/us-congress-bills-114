@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3371
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3371
@@ -23,9 +23,10 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2015
 - Rep. Price, Tom [R-GA-6] (P000591)
 - Rep. Scott, Austin [R-GA-8] (S001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2015
 - 2016-02-24 — Placed on the Union Calendar, Calendar No. 331.
 - 2016-02-24 — Reported by the Committee on Natural Resources. H. Rept. 114-434.
 - 2016-02-24 — Reported by the Committee on Natural Resources. H. Rept. 114-434.
+- 2016-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
