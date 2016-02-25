@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4626
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4626
+
+> To amend the Internal Revenue Code of 1986 to permanently extend the railroad track maintenance credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Building Rail Access for Customers and the Economy Act” or the “BRACE Act”.
+
+## § 2. Extension of the railroad track maintenance credit
+
+- **(a)** *In general* Section 45G(f) of the Internal Revenue Code of 1986 is amended by striking “, and before January 1, 2017”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2016.
