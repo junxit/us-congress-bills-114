@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2880
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2880
@@ -96,9 +96,10 @@ Martin Luther King, Jr. National Historical Park Act of 2016
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ Martin Luther King, Jr. National Historical Park Act of 2016
 - 2016-02-24 — Placed on the Union Calendar, Calendar No. 328.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-431.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-431.
+- 2016-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
