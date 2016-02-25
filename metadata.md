@@ -1,7 +1,7 @@
 ---
 measure: H.R. 812
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 812
@@ -54,3 +54,4 @@ Indian Trust Asset Reform Act
 - 2016-02-24 — Placed on the Union Calendar, Calendar No. 329.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-432.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-432.
+- 2016-02-25 — Received in the Senate, read twice.
