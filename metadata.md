@@ -1,7 +1,7 @@
 ---
 measure: H.R. 812
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 812
@@ -55,3 +55,12 @@ Indian Trust Asset Reform Act
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-432.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-432.
 - 2016-02-25 — Received in the Senate, read twice.
+- 2016-06-10 — Message on Senate action sent to the House.
+- 2016-06-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3812)
+- 2016-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3812)
+- 2016-06-17 — Presented to President.
+- 2016-06-17 — Presented to President.
+- 2016-06-22 — Became Public Law No: 114-178.
+- 2016-06-22 — Became Public Law No: 114-178.
+- 2016-06-22 — Signed by President.
+- 2016-06-22 — Signed by President.
