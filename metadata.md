@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2406
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2406
@@ -64,6 +64,19 @@ SHARE Act
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (10)
+
+- 2016-02-26 — [House 114-2-92](votes/house-114-2-0092.md) — On Agreeing to the Amendment — **Failed** (161–244)
+- 2016-02-26 — [House 114-2-93](votes/house-114-2-0093.md) — On Agreeing to the Amendment — **Failed** (159–242)
+- 2016-02-26 — [House 114-2-94](votes/house-114-2-0094.md) — On Agreeing to the Amendment — **Failed** (169–236)
+- 2016-02-26 — [House 114-2-95](votes/house-114-2-0095.md) — On Agreeing to the Amendment — **Agreed to** (232–173)
+- 2016-02-26 — [House 114-2-96](votes/house-114-2-0096.md) — On Agreeing to the Amendment — **Agreed to** (239–165)
+- 2016-02-26 — [House 114-2-97](votes/house-114-2-0097.md) — On Agreeing to the Amendment — **Agreed to** (232–171)
+- 2016-02-26 — [House 114-2-98](votes/house-114-2-0098.md) — On Agreeing to the Amendment — **Agreed to** (236–169)
+- 2016-02-26 — [House 114-2-99](votes/house-114-2-0099.md) — On Agreeing to the Amendment — **Failed** (176–227)
+- 2016-02-26 — [House 114-2-100](votes/house-114-2-0100.md) — On Motion to Recommit with Instructions — **Failed** (165–238)
+- 2016-02-26 — [House 114-2-101](votes/house-114-2-0101.md) — On Passage — **Passed** (242–161)
+
 ## Actions
 
 - 2015-05-19 — Introduced in House
@@ -97,3 +110,160 @@ SHARE Act
 - 2015-12-10 — Placed on the Union Calendar, Calendar No. 287.
 - 2015-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-377, Part I.
 - 2015-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-377, Part I.
+- 2016-02-23 — Rules Committee Resolution H. Res. 619 Reported to House. Rule provides for consideration of H.R. 2406 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2016-02-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 2406 as unfinished business.
+- 2016-02-25 — Considered under the provisions of rule H. Res. 619. (consideration: CR H918-919)
+- 2016-02-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2406.
+- 2016-02-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 619 and Rule XVIII.
+- 2016-02-25 — Mr. Wittman moved that the committee rise.
+- 2016-02-25 — On motion that the committee rise Agreed to by voice vote.
+- 2016-02-25 — Rule H. Res. 619 passed House.
+- 2016-02-25 — Rule provides for consideration of H.R. 2406 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2016-02-25 — The Speaker designated the Honorable Diane Black to act as Chairwoman of the Committee.
+- 2016-02-26 — Amendment (A001) offered by Mr. Wittman. (consideration: CR H962-963; text: CR H962-963)
+- 2016-02-26 — Amendment (A002) offered by Mr. Beyer. (consideration: CR H963-965, H984; text: CR H964)
+- 2016-02-26 — Amendment (A003) offered by Ms. Jackson Lee. (consideration: CR H965-968, H984-985; text: CR H965)
+- 2016-02-26 — Amendment (A004) offered by Mr. Costa. (consideration: CR H968; text: CR H968)
+- 2016-02-26 — Amendment (A005) offered by Mr. Smith (MO). (consideration: CR H968-969; text: CR H969)
+- 2016-02-26 — Amendment (A006) offered by Ms. Meng. (consideration: CR H969; text: CR H969)
+- 2016-02-26 — Amendment (A007) offered by Mr. Huffman. (consideration: CR H969-970; text: CR H969)
+- 2016-02-26 — Amendment (A008) offered by Mr. Beyer. (consideration: CR H970-971, H985-986; text: CR H970)
+- 2016-02-26 — Amendment (A009) offered by Mr. Smith (MO). (consideration: CR H971-972, H986; text: CR H971)
+- 2016-02-26 — Amendment (A010) offered by Mr. Newhouse. (consideration: CR H972-973; text: CR H972)
+- 2016-02-26 — Amendment (A011) offered by Mr. Fleming. (consideration: CR H973-974; text: CR H973)
+- 2016-02-26 — Amendment (A012) offered by Mr. Griffith. (consideration: CR H974-976, H986-987; text: CR H974)
+- 2016-02-26 — Amendment (A013) offered by Mr. Hardy. (consideration: CR H976-977; text: CR H976)
+- 2016-02-26 — Amendment (A014) offered by Mr. Ribble. (consideration: CR H977-980, H987-988; text: CR H977)
+- 2016-02-26 — Amendment (A015) offered by Mr. Young (AK). (consideration: CR H980-981, H988; text: CR H980)
+- 2016-02-26 — Amendment (A016) offered by Mr. Huffman. (consideration: CR H981-983, H988-989; text: CR H981)
+- 2016-02-26 — Amendment (A017) offered by Mr. Lowenthal. (consideration: CR H983; text: CR H983)
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment agreed to Committee of the Whole
+- 2016-02-26 — Amendment failed in Committee of the Whole
+- 2016-02-26 — Amendment failed in Committee of the Whole
+- 2016-02-26 — Amendment failed in Committee of the Whole
+- 2016-02-26 — Amendment failed in Committee of the Whole
+- 2016-02-26 — By unanimous consent, the Lowenthal amendment was withdrawn. (consideration: CR H983)
+- 2016-02-26 — Considered as unfinished business. (consideration: CR H955-991)
+- 2016-02-26 — Costa amendment (A004) modified by unanimous consent. (text as modified: CR H968)
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 2.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 8.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment No. 4, as modified.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment No. 11.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 12.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Hardy amendment No. 13.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 16.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 7.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 3.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 17.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 6.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment No. 10.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Ribble amendment No. 14.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 5.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 9.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment No. 1.
+- 2016-02-26 — DEBATE - Pursuant to the provisions of H. Res. 619, the Committee of the Whole proceeded with 10 minutes of debate on the Young(AK) amendment No. 15.
+- 2016-02-26 — DEBATE - The House the proceeded with 10 miunutes of debate on the Lawerence motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of the bill pertaining to Protecting Water Supply for Public Recreation and Safe Drinking.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Costa amendment (A004) as modified Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Fleming amendment (A011) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Griffith amendment (A012) Agreed to by recorded vote: 239 - 165 (Roll no. 96).
+- 2016-02-26 — House amendment agreed to: On agreeing to the Hardy amendment (A013) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Huffman amendment (A007) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Meng amendment (A006) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Newhouse amendment (A010) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Ribble amendment (A014) Agreed to by recorded vote: 232 - 171 (Roll no. 97).
+- 2016-02-26 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A005) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A009) Agreed to by recorded vote: 232 - 173 (Roll no. 95).
+- 2016-02-26 — House amendment agreed to: On agreeing to the Wittman amendment (A001) Agreed to by voice vote.
+- 2016-02-26 — House amendment agreed to: On agreeing to the Young (AK) amendment (A015) Agreed to by recorded vote: 236 - 169 (Roll no. 98).
+- 2016-02-26 — House amendment not agreed to: On agreeing to the Beyer amendment (A002) Failed by recorded vote: 161 - 244 (Roll no. 92).
+- 2016-02-26 — House amendment not agreed to: On agreeing to the Beyer amendment (A008) Failed by recorded vote: 169 - 236 (Roll no. 94).
+- 2016-02-26 — House amendment not agreed to: On agreeing to the Huffman amendment (A016) Failed by recorded vote: 176 - 227 (Roll no. 99).
+- 2016-02-26 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 159 - 242 (Roll no. 93).
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered
+- 2016-02-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Wittman.(consideration: CR H962-963; text: CR H962-963)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A002) offered by Mr. Beyer.(consideration: CR H963-965, H984; text: CR H964)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A003) offered by Ms. Jackson Lee.(consideration: CR H965-968, H984-985; text: CR H965)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A004) offered by Mr. Costa.(consideration: CR H968; text: CR H968)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A005) offered by Mr. Smith (MO).(consideration: CR H968-969; text: CR H969)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A006) offered by Ms. Meng.(consideration: CR H969; text: CR H969)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A007) offered by Mr. Huffman.(consideration: CR H969-970; text: CR H969)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A008) offered by Mr. Beyer.(consideration: CR H970-971, H985-986; text: CR H970)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A009) offered by Mr. Smith (MO).(consideration: CR H971-972, H986; text: CR H971)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A010) offered by Mr. Newhouse.(consideration: CR H972-973; text: CR H972)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A011) offered by Mr. Fleming.(consideration: CR H973-974; text: CR H973)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A012) offered by Mr. Griffith.(consideration: CR H974-976, H986-987; text: CR H974)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A013) offered by Mr. Hardy.(consideration: CR H976-977; text: CR H976)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A014) offered by Mr. Ribble.(consideration: CR H977-980, H987-988; text: CR H977)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A015) offered by Mr. Young (AK).(consideration: CR H980-981, H988; text: CR H980)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A016) offered by Mr. Huffman.(consideration: CR H981-983, H988-989; text: CR H981)
+- 2016-02-26 — House amendment offered/reported by : Amendment (A017) offered by Mr. Lowenthal.(consideration: CR H983; text: CR H983)
+- 2016-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-26 — Mrs. Lawrence moved to recommit with instructions to the Committee on Natural Resources. (consideration: CR H989-990; text of motion: CR H989)
+- 2016-02-26 — On agreeing to the Beyer amendment (A002) Failed by recorded vote: 161 - 244 (Roll no. 92).
+- 2016-02-26 — On agreeing to the Beyer amendment (A008) Failed by recorded vote: 169 - 236 (Roll no. 94).
+- 2016-02-26 — On agreeing to the Costa amendment (A004) as modified Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Fleming amendment (A011) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Griffith amendment (A012) Agreed to by recorded vote: 239 - 165 (Roll no. 96).
+- 2016-02-26 — On agreeing to the Hardy amendment (A013) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Huffman amendment (A007) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Huffman amendment (A016) Failed by recorded vote: 176 - 227 (Roll no. 99).
+- 2016-02-26 — On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 159 - 242 (Roll no. 93).
+- 2016-02-26 — On agreeing to the Meng amendment (A006) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Newhouse amendment (A010) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Ribble amendment (A014) Agreed to by recorded vote: 232 - 171 (Roll no. 97).
+- 2016-02-26 — On agreeing to the Smith (MO) amendment (A005) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Smith (MO) amendment (A009) Agreed to by recorded vote: 232 - 173 (Roll no. 95).
+- 2016-02-26 — On agreeing to the Wittman amendment (A001) Agreed to by voice vote.
+- 2016-02-26 — On agreeing to the Young (AK) amendment (A015) Agreed to by recorded vote: 236 - 169 (Roll no. 98).
+- 2016-02-26 — On motion to recommit with instructions Failed by the Yeas and Nays: 165 - 238 (Roll no. 100).
+- 2016-02-26 — On passage Passed by recorded vote: 242 - 161 (Roll no. 101).
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Griffith amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment No. 16, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Huffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ribble amendment No. 14, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (MO) amendment No. 9, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young(AK) amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Dingell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-02-26 — Passed/agreed to in House: On passage Passed by recorded vote: 242 - 161 (Roll no. 101).
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — Roll call votes on amendments in House
+- 2016-02-26 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2406.
+- 2016-02-26 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H955-962)
+- 2016-02-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-02-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2406.
+- 2016-02-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H990)
+- 2016-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H989)

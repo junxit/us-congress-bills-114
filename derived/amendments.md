@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2406
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 15 executed, 42 stated and not applied.
+65 amendatory instructions. 14 executed, 51 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -104,15 +104,6 @@ to guess them.
 |---|---|
 | Removed | `2007 through 2012` |
 | Inserted | `2016 through 2020` |
-
-### 16 U.S.C. § 669b
-
-> Section 3(b)(2)(C) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669b(b)(2)(C)) is amended by striking “2016” and inserting “2026”.
-
-| | |
-|---|---|
-| Removed | `2016` |
-| Inserted | `2026` |
 
 ### 16 U.S.C. § 460l-6d
 
@@ -210,3 +201,12 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 4211` | redesignate | Section 2101 (16 U.S.C. 4211) is amended by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in subsection (c)(1), by striking “, United States Code”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (i); and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2412(d) of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d)(3), by striking “United States Code,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “of section 2412 of title 28, United States Code,” and inserting “of this section”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “of such title” and inserting “of this title”. | the bill names no machine-readable US Code section |
+| — | amend | Section 926A of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for such chapter is amended in the item relating to section 926A by striking “firearms” and inserting “firearms or ammunition”. | the bill names no machine-readable US Code section |
