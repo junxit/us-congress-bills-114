@@ -1,7 +1,7 @@
 ---
 measure: S. 1580
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1580
@@ -53,3 +53,13 @@ Competitive Service Act of 2015
 - 2016-02-29 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill, as amended.
 - 2016-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1031-1032)
 - 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1031-1032)
+- 2016-03-01 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-03-08 — Resolving differences -- Senate actions: Senate agreed to House amendment to the Senate bill by Unanimous Consent.(consideration: CR S1349)
+- 2016-03-08 — Senate agreed to House amendment to the Senate bill by Unanimous Consent. (consideration: CR S1349)
+- 2016-03-09 — Message on Senate action sent to the House.
+- 2016-03-15 — Presented to President.
+- 2016-03-15 — Presented to President.
+- 2016-03-18 — Became Public Law No: 114-137.
+- 2016-03-18 — Became Public Law No: 114-137.
+- 2016-03-18 — Signed by President.
+- 2016-03-18 — Signed by President.

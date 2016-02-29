@@ -1,7 +1,7 @@
 ---
 measure: S. 1580
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
