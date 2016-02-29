@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1471
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 8 executed, 20 stated and not applied.
+29 amendatory instructions. 6 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,32 +33,14 @@ to guess them.
 | Removed | `administration and operations` |
 | Inserted | `management and administration` |
 
-### 42 U.S.C. § 3796b
+### 42 U.S.C. § 5172
 
-> by striking “paragraph (1)” and inserting “paragraph (2)”; and
-
-| | |
-|---|---|
-| Removed | `paragraph (1)` |
-| Inserted | `paragraph (2)` |
-
-### 42 U.S.C. § 3796b
-
-> in subparagraph (B) by striking “filed or” and inserting “filed (consistent with pre-existing effective dates) or”; and
+> Section 406(a)(3)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)) is amended by striking “communications,” and inserting “communications (including public broadcasting),”.
 
 | | |
 |---|---|
-| Removed | `filed or` |
-| Inserted | `filed (consistent with pre-existing effective dates) or` |
-
-### 42 U.S.C. § 3796b
-
-> in paragraph (2)(A), by striking “amendments made by this Act” and inserting “amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) by this Act”.
-
-| | |
-|---|---|
-| Removed | `amendments made by this Act` |
-| Inserted | `amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) by this Act` |
+| Removed | `communications,` |
+| Inserted | `communications (including public broadcasting),` |
 
 ### 42 U.S.C. § 5205
 
@@ -115,6 +97,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5141` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5141` | insert | in paragraph (13) by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robe… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5141` | insert | in paragraph (16) by inserting after “Public Health Service,” the following: “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. S… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5196` | add-at-end | Subtitle A of title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 761` | repeal | Section 661 of the Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295; 6 U.S.C. 761) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | amend | Section 102(11)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(11)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5189` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5165b` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5165b` | replace | by striking “establish” and inserting the following: “implement the following:”; and | the bill quotes the text struck but describes what replaces it |
