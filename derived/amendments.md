@@ -1,7 +1,7 @@
 ---
 measure: S. 1172
 congress: 114
-version: Reported in House
+version: Engrossed Amendment House
 derived: true
 ---
 

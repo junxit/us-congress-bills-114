@@ -1,7 +1,7 @@
 ---
 measure: S. 1172
 congress: 114
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 1172
@@ -57,3 +57,9 @@ Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements A
 - 2015-12-18 — Placed on the Union Calendar, Calendar No. 290.
 - 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-384, Part I.
 - 2015-12-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-384, Part I.
+- 2016-02-29 — Considered under suspension of the rules. (consideration: CR H1028-1031)
+- 2016-02-29 — DEBATE - The House proceeded with forty minutes of debate on S. 1172.
+- 2016-02-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-29 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill, as amended.
+- 2016-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1028-1030)
+- 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1028-1030)
