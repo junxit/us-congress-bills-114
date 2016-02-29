@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3624
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3624
@@ -16,9 +16,10 @@ Fraudulent Joinder Prevention Act of 2016
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (3)
 
@@ -77,3 +78,4 @@ Fraudulent Joinder Prevention Act of 2016
 - 2016-02-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H917)
 - 2016-02-25 — The previous question was ordered pursuant to the rule. (consideration: CR H916)
 - 2016-02-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-02-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
