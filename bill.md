@@ -32,13 +32,13 @@ Not later than 30 days after the date of the enactment of this Act, the Secretar
 
 ## § 5. Prohibition on additional funding
 
-No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized to be appropriated or made available to the Department of Homeland Security.
+No additional funds are authorized to be appropriated to carry out this Act.
 
 ## § 6. Definitions
 
 In this Act:
 
 - **(1)** The term “appropriate congressional committees” means—
-  - **(A)** the Committee on Homeland Security of the House of Representatives; and
-  - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(A)** the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives; and
+  - **(B)** the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate.
 - **(2)** The term “violent extremism” means ideologically motivated international terrorism or domestic terrorism, as such terms are defined in section 2331 of title 18, United States Code.
