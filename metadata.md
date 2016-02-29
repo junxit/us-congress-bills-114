@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 365
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 365
@@ -44,3 +44,7 @@ A resolution designating February 2016 as "American Heart Month" and February 5,
 
 - 2016-02-08 — Introduced in Senate
 - 2016-02-08 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S704)
+- 2016-02-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-02-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-02-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1101)
+- 2016-02-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S1101)
