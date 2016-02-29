@@ -1,7 +1,7 @@
 ---
 measure: S. 1580
 congress: 114
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 1580
@@ -47,3 +47,9 @@ Competitive Service Act of 2015
 - 2015-12-03 — Placed on the Union Calendar, Calendar No. 280.
 - 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-367.
 - 2015-12-03 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-367.
+- 2016-02-29 — Considered under suspension of the rules. (consideration: CR H1031-1033)
+- 2016-02-29 — DEBATE - The House proceeded with forty minutes of debate on S. 1580.
+- 2016-02-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-02-29 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill, as amended.
+- 2016-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1031-1032)
+- 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1031-1032)
