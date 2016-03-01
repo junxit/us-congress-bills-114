@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4084
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4084
@@ -67,3 +67,4 @@ Nuclear Energy Innovation Capabilities Act
 - 2016-02-29 — Placed on the Union Calendar, Calendar No. 335.
 - 2016-02-29 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-438.
 - 2016-02-29 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-438.
+- 2016-03-01 — Received in the Senate.

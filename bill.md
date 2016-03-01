@@ -2,7 +2,7 @@
 legis-num: H.R. 4084
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4084
@@ -83,7 +83,7 @@ Section 957 of the Energy Policy Act of 2005 (42 U.S.C. 16277) is amended to rea
 
 > ## § 957. High-performance computation and supportive research
 >
-> - **(a)** *Modeling and simulation* The Secretary shall carry out a program to enhance the Nation’s capabilities to develop new reactor technologies through high-performance computation modeling and simulation techniques. This program shall coordinate with relevant Federal agencies through the National Strategic Computing Initiative created under Executive Order 13702 (July 29, 2015) while taking into account the following objectives:
+> - **(a)** *Modeling and simulation* The Secretary shall carry out a program to enhance the Nation’s capabilities to develop new reactor technologies through high-performance computation modeling and simulation techniques. This program shall coordinate with relevant Federal agencies through the National Strategic Computing Initiative created under Executive Order No. 13702 (July 29, 2015) while taking into account the following objectives:
 >   - **(1)** Utilizing expertise from the private sector, universities, and National Laboratories to develop computational software and capabilities that prospective users may access to accelerate research and development of advanced fission reactor systems, nuclear fusion systems, and reactor systems for space exploration.
 >   - **(2)** Developing computational tools to simulate and predict nuclear phenomena that may be validated through physical experimentation.
 >   - **(3)** Increasing the utility of the Department’s research infrastructure by coordinating with the Advanced Scientific Computing Research program within the Office of Science.
@@ -113,13 +113,13 @@ Subtitle E of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16271 et seq.
 - **(a)** *In general* Subtitle E of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16271 et seq.) is further amended by adding at the end the following:
   > ## § 959. Budget plan
   >
-  > Not later than 12 months after the date of enactment of the Nuclear Energy Innovation Capabilities Act, the Department shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate 3 alternative 10-year budget plans for civilian nuclear energy research and development by the Department. The first shall assume constant annual funding for 10 years at the appropriated level for the Department’s civilian nuclear energy research and development for fiscal year 2016. The second shall assume 2 percent annual increases to the appropriated level for the Department’s nuclear energy research and development for fiscal year 2016. The third shall be an unconstrained budget. The 3 plans shall include—
+  > Not later than 12 months after the date of enactment of the Nuclear Energy Innovation Capabilities Act, the Department shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate 2 alternative 10-year budget plans for civilian nuclear energy research and development by the Department. The first shall assume constant annual funding for 10 years at the appropriated level for the Department’s civilian nuclear energy research and development for fiscal year 2016. The second shall be an unconstrained budget. The two plans shall include—
   >
   > - **(1)** a prioritized list of the Department’s programs, projects, and activities to best support the development of next generation nuclear energy technology;
   > - **(2)** realistic budget requirements for the Department to implement sections 955(c), 957, and 958 of this Act; and
   > - **(3)** the Department’s justification for continuing or terminating existing civilian nuclear energy research and development programs.
 
-- **(b)** *Report on Fusion Innovation* Not later than six months after the date of enactment of this Act, the Secretary of the Department of Energy shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that will identify engineering designs for innovative fusion energy systems that have the potential to demonstrate net energy production not later than 15 years after the start of construction. In this report, the Secretary will identify budgetary requirements that would be necessary for the Department to carry out a fusion innovation initiative to accelerate research and development of these designs.
+- **(b)** *Report on Fusion Innovation* Not later than 6 months after the date of enactment of this Act, the Secretary of the Department of Energy shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that will identify engineering designs for innovative fusion energy systems that have the potential to demonstrate net energy production not later than 15 years after the start of construction. In this report, the Secretary will identify budgetary requirements that would be necessary for the Department to carry out a fusion innovation initiative to accelerate research and development of these designs.
 
 ## § 11. Conforming amendments
 
