@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4401
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4401
@@ -31,9 +31,10 @@ Amplifying Local Efforts to Root out Terror Act of 2016
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Amplifying Local Efforts to Root out Terror Act of 2016
 - 2016-02-29 — Placed on the Union Calendar, Calendar No. 334.
 - 2016-02-29 — Reported by the Committee on Homeland Security. H. Rept. 114-437.
 - 2016-02-29 — Reported by the Committee on Homeland Security. H. Rept. 114-437.
+- 2016-03-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
