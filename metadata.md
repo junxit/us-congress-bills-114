@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4238
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4238
@@ -128,3 +128,12 @@ To amend the Department of Energy Organization Act and the Local Public Works Ca
 - 2016-02-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 102).
 - 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 102).
 - 2016-03-01 — Received in the Senate, read twice.
+- 2016-05-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2649; text: CR 02/29/2016 H1005)
+- 2016-05-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2649; text: CR 02/29/2016 H1005)
+- 2016-05-10 — Message on Senate action sent to the House.
+- 2016-05-13 — Presented to President.
+- 2016-05-13 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-157.
+- 2016-05-20 — Became Public Law No: 114-157.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
