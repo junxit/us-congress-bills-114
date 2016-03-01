@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1471
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1471
@@ -22,9 +22,10 @@ FEMA Disaster Assistance Reform Act of 2015
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ FEMA Disaster Assistance Reform Act of 2015
 - 2016-02-29 — Placed on the Union Calendar, Calendar No. 333.
 - 2016-02-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-436.
 - 2016-02-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-436.
+- 2016-03-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
