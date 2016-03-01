@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Federal Advisory Committee Act Amendments of 2015”.
+- **(a)** *Short title* This Act may be cited as the “Federal Advisory Committee Act Amendments of 2016”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Ensuring independent advice and expertise
@@ -154,3 +154,7 @@ Section 7(d)(1) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended
 ## § 10. Effective date
 
 This Act shall take effect 30 days after the date of the enactment of this Act.
+
+## § 11. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
