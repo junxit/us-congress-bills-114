@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4238
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4238
@@ -127,3 +127,4 @@ To amend the Department of Energy Organization Act and the Local Public Works Ca
 - 2016-02-29 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2016-02-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 102).
 - 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 102).
+- 2016-03-01 — Received in the Senate, read twice.
