@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2406
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2406
@@ -56,13 +56,14 @@ SHARE Act
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (5)
+## Committees (6)
 
 - House — Judiciary Committee
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (10)
 
@@ -267,3 +268,5 @@ SHARE Act
 - 2016-02-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2406.
 - 2016-02-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H990)
 - 2016-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H989)
+- 2016-02-29 — Received in the Senate.
+- 2016-03-01 — Read twice and referred to the Committee on Energy and Natural Resources.
