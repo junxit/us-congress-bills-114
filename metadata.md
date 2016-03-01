@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4583
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4583
@@ -22,10 +22,11 @@ To promote a 21st century energy and manufacturing workforce.
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To promote a 21st century energy and manufacturing workforce.
 - 2016-02-29 — Mr. Whitfield moved to suspend the rules and pass the bill, as amended.
 - 2016-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1008-1009)
 - 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1008-1009)
+- 2016-03-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
