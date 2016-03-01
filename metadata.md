@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4046
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4046
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 220 Eas
 - 2015-11-17 — Introduced in House
 - 2015-11-17 — Introduced in House
 - 2015-11-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-12-09 — Committee Consideration and Mark-up Session Held.
+- 2015-12-09 — Ordered to be Reported by Unanimous Consent.
+- 2016-03-01 — Considered under suspension of the rules. (consideration: CR H1067)
+- 2016-03-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4046.
+- 2016-03-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-01 — Mr. Russell moved to suspend the rules and pass the bill.
+- 2016-03-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1067)
+- 2016-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1067)
