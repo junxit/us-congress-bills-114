@@ -1,7 +1,7 @@
 ---
 measure: H.R. 482
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 482
@@ -16,9 +16,12 @@ Ocmulgee Mounds National Historical Park Boundary Revision Act of 2016
 
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
 
 ## Committees (1)
 
@@ -29,3 +32,12 @@ Ocmulgee Mounds National Historical Park Boundary Revision Act of 2016
 - 2015-01-22 — Introduced in House
 - 2015-01-22 — Introduced in House
 - 2015-01-22 — Referred to the House Committee on Natural Resources.
+- 2015-03-02 — Referred to the Subcommittee on Federal Lands.
+- 2015-06-16 — Subcommittee Hearings Held.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Federal Lands Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-03-02 — Placed on the Union Calendar, Calendar No. 338.
+- 2016-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-442.
+- 2016-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-442.
