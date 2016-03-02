@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2458
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2458
@@ -24,9 +24,10 @@ To designate the facility of the United States Postal Service located at 5351 La
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Fleming, John [R-LA-4] (F000456)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 5351 La
 - 2016-03-01 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2016-03-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1063)
 - 2016-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1063)
+- 2016-03-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
