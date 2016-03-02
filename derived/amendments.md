@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3716
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 3 executed, 13 stated and not applied.
+20 amendatory instructions. 3 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 1397gg
 
-> in subparagraph (P) (as redesignated by paragraph (1)), by striking “(a)(2)(C) and (h)” and inserting “(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to reporting requirements for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)”.
+> in subparagraph (P) (as redesignated by subparagraph (A)), by striking “(a)(2)(C) and (h)” and inserting “(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)”.
 
 | | |
 |---|---|
 | Removed | `(a)(2)(C) and (h)` |
-| Inserted | `(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to reporting requirements for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)` |
+| Inserted | `(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)` |
 
 ### 42 U.S.C. § 1396a
 
@@ -72,4 +72,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1396u-2` | add-at-end | Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)), as amended by subsection (a)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397gg` | redesignate | by redesignating subparagraphs (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (L), (M), (N), and (O) as subparagraphs (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (O), (P), (Q), and (R), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397gg` | insert | by inserting after subparagraph (A) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397gg` | redesignate | by inserting after subparagraph (K) (as redesignated by paragraph (1)) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | redesignate | by inserting after subparagraph (K) (as redesignated by subparagraph (A)) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | strike | in paragraph (80), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | replace | in paragraph (81), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (81) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a), as amended by section 2(a)(3), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
