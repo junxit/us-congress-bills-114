@@ -1,7 +1,7 @@
 ---
 measure: H.R. 136
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 136
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 1103 US
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Sanchez, Loretta [D-CA-46] (S000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -91,3 +92,4 @@ To designate the facility of the United States Postal Service located at 1103 US
 - 2016-03-01 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2016-03-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 103). (text: CR H1056-1057)
 - 2016-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 103).(text: CR H1056-1057)
+- 2016-03-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
