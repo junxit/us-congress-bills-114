@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2814
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2814
@@ -16,9 +16,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 
 - Rep. Roe, David P. [R-TN-1] (R000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2016-03-01 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2016-03-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1055)
 - 2016-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1055)
+- 2016-03-02 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
