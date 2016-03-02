@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 632
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 632
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3716) to amend title XIX of the So
 - 2016-03-01 — Placed on the House Calendar, Calendar No. 93.
 - 2016-03-01 — The House Committee on Rules reported an original measure, H. Rept. 114-440, by Mr. Burgess.
 - 2016-03-01 — The House Committee on Rules reported an original measure, H. Rept. 114-440, by Mr. Burgess.
+- 2016-03-02 — Considered as privileged matter. (consideration: CR H1095-1097)
+- 2016-03-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 632.
+- 2016-03-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-02 — On agreeing to the resolution Agreed to by voice vote. (text: CR H1095)
+- 2016-03-02 — On ordering the previous question Agreed to by voice vote. (consideration: CR H1097)
+- 2016-03-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H1095)
