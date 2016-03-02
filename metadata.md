@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4119
@@ -25,3 +25,11 @@ Gulf Islands National Seashore Land Exchange Act of 2016
 - 2015-11-19 — Introduced in House
 - 2015-11-19 — Introduced in House
 - 2015-11-19 — Referred to the House Committee on Natural Resources.
+- 2015-11-30 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Federal Lands Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-03-02 — Placed on the Union Calendar, Calendar No. 337.
+- 2016-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-441.
+- 2016-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-441.

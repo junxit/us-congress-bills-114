@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4119
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Gulf Islands National Seashore Land Exchange Act of 2015”.
+This Act may be cited as the “Gulf Islands National Seashore Land Exchange Act of 2016”.
 
 ## § 2. Land exchange, Gulf Islands National Seashore, Jackson County, Mississippi
 
-- **(a)** *Land exchange authorized* The Secretary of the Interior, acting through the Director of the National Park Service (in this section referred to as the “Secretary”) may convey to the Veterans of Foreign Wars Post 5699 (in this section referred to as the “Post”) all right, title, and interest of the United States in and to a parcel of real property, consisting of approximately one acre and located within the Gulf Islands National Seashore in Jackson County, Mississippi, section 34, township 7 north, range 8 east.
-- **(b)** *Land To be acquired* In exchange for the property described in subsection (a), the Post shall convey to the Secretary all right, title, and interest of the Post in and to a parcel of real property, consisting of approximately 1.76 acres and located in Jackson County, Mississippi, section 34, township 7 north, range 8 east.
+- **(a)** *Land exchange authorized* The Secretary of the Interior, acting through the Director of the National Park Service (in this section referred to as the “Secretary”) may convey to the Veterans of Foreign Wars Post 5699 (in this section referred to as the “Post”) all right, title, and interest of the United States in and to a parcel of real property, consisting of approximately 1.542 acres and located within the Gulf Islands National Seashore in Jackson County, Mississippi, section 34, township 7 north, range 8 east.
+- **(b)** *Land To be acquired* In exchange for the property described in subsection (a), the Post shall convey to the Secretary all right, title, and interest of the Post in and to a parcel of real property, consisting of approximately 2.161 acres and located in Jackson County, Mississippi, section 34, township 7 north, range 8 east.
 - **(c)** *Equal value exchange* The values of the parcels of real property to be exchanged under this section are deemed to be equal.
 - **(d)** *Payment of costs of conveyance*
   - **(1)** *Payment required* The Secretary shall require the Post to cover costs to be incurred by the Secretary, or to reimburse the Secretary for such costs incurred by the Secretary, to carry out the land exchange under this section, including survey costs, costs related to environmental documentation, and any other administrative costs related to the land exchange. If amounts are collected from the Secretary in advance of the Secretary incurring the actual costs and the amount collected exceeds the costs actually incurred by the Secretary to carry out the land exchange, the Secretary shall refund the excess amount to the Post.
