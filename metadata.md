@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2347
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2347
@@ -22,10 +22,11 @@ Federal Advisory Committee Act Amendments of 2016
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Federal Advisory Committee Act Amendments of 2016
 - 2016-03-01 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2016-03-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1057-1059)
 - 2016-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1057-1059)
+- 2016-03-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
