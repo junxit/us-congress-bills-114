@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3716
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3716
@@ -21,9 +21,10 @@ Ensuring Access to Quality Medicaid Providers Act
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ Ensuring Access to Quality Medicaid Providers Act
 - 2016-03-02 — The Speaker designated the Honorable George Holding to act as Chairman of the Committee.
 - 2016-03-02 — The previous question was ordered pursuant to the rule. (consideration: CR H1103)
 - 2016-03-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of passage of H.R. 3716 which had been debated earlier and on which further proceedings had been postponed.
+- 2016-03-03 — Received in the Senate and Read twice and referred to the Committee on Finance.
