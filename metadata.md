@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4557
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4557
@@ -30,6 +30,10 @@ Blocking Regulatory Interference from Closing Kilns Act of 2016
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2016-03-03 — [House 114-2-109](votes/house-114-2-0109.md) — On Passage — **Passed** (238–163)
+
 ## Actions
 
 - 2016-02-12 — Introduced in House
@@ -41,3 +45,12 @@ Blocking Regulatory Interference from Closing Kilns Act of 2016
 - 2016-02-29 — Placed on the Union Calendar, Calendar No. 336.
 - 2016-02-29 — Reported by the Committee on Energy and Commerce. H. Rept. 114-439.
 - 2016-02-29 — Reported by the Committee on Energy and Commerce. H. Rept. 114-439.
+- 2016-03-02 — Rules Committee Resolution H. Res. 635 Reported to House. Rule provides for consideration of H.R. 4557 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2016-03-03 — Considered under the provisions of rule H. Res. 635. (consideration: CR H1129-1134)
+- 2016-03-03 — DEBATE - The House proceeded with one hour of debate on H.R. 4557.
+- 2016-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-03 — On passage Passed by the Yeas and Nays: 238 - 163 (Roll no. 109). (text: CR H1129-1130)
+- 2016-03-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 238 - 163 (Roll no. 109).(text: CR H1129-1130)
+- 2016-03-03 — Rule H. Res. 635 passed House.
+- 2016-03-03 — Rule provides for consideration of H.R. 4557 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2016-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1133)
