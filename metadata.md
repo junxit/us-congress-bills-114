@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4557
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4557
@@ -26,9 +26,10 @@ Blocking Regulatory Interference from Closing Kilns Act of 2016
 - Rep. Granger, Kay [R-TX-12] (G000377)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Blocking Regulatory Interference from Closing Kilns Act of 2016
 - 2016-03-03 — Rule H. Res. 635 passed House.
 - 2016-03-03 — Rule provides for consideration of H.R. 4557 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2016-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1133)
+- 2016-03-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
