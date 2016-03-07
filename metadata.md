@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2843
@@ -44,3 +44,7 @@ TSA PreCheck Expansion Act
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5501)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5501)
 - 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-12-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-03-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-223.
+- 2016-03-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-223.
+- 2016-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.
