@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4596
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4596
@@ -26,3 +26,8 @@ Small Business Broadband Deployment Act
 - 2016-02-24 — Introduced in House
 - 2016-02-24 — Introduced in House
 - 2016-02-24 — Referred to the House Committee on Energy and Commerce.
+- 2016-02-25 — Committee Consideration and Mark-up Session Held.
+- 2016-02-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-03-07 — Placed on the Union Calendar, Calendar No. 339.
+- 2016-03-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-444.
+- 2016-03-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-444.
