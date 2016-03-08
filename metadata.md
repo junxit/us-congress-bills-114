@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 385
@@ -16,12 +16,14 @@ A resolution recognizing the historic achievement of astronaut Scott Joseph Kell
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -31,3 +33,7 @@ A resolution recognizing the historic achievement of astronaut Scott Joseph Kell
 
 - 2016-03-03 — Introduced in Senate
 - 2016-03-03 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S1281)
+- 2016-03-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-03-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-03-08 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S1349)
+- 2016-03-08 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S1349)
