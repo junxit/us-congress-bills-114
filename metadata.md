@@ -1,7 +1,7 @@
 ---
 measure: S. 2426
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2426
@@ -16,7 +16,7 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (29)
+## Cosponsors (30)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -47,10 +47,15 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
+
+## Recorded votes (1)
+
+- 2016-03-14 — [House 114-2-111](votes/house-114-2-0111.md) — On Motion to Suspend the Rules and Pass — **Passed** (381–0)
 
 ## Actions
 
@@ -62,3 +67,20 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 - 2016-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
 - 2016-03-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1348-1349; text as passed Senate: CR S1348-1349)
 - 2016-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1348-1349; text as passed Senate: CR S1348-1349)
+- 2016-03-09 — Message on Senate action sent to the House.
+- 2016-03-10 — Held at the desk.
+- 2016-03-10 — Received in the House.
+- 2016-03-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-03-14 — Considered as unfinished business. (consideration: CR H1324-1325)
+- 2016-03-14 — Considered under suspension of the rules. (consideration: CR H1317-1320)
+- 2016-03-14 — DEBATE - The House proceeded with forty minutes of debate on S. 2426.
+- 2016-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-14 — Mr. Smith (NJ) moved to suspend the rules and pass the bill.
+- 2016-03-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 111). (text: CR H1317-1318)
+- 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 111).(text: CR H1317-1318)
+- 2016-03-17 — Presented to President.
+- 2016-03-17 — Presented to President.
+- 2016-03-18 — Became Public Law No: 114-139.
+- 2016-03-18 — Became Public Law No: 114-139.
+- 2016-03-18 — Signed by President.
+- 2016-03-18 — Signed by President.
