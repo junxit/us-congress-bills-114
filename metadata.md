@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 113
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 113
@@ -37,3 +37,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2016-02-23 — On agreeing to the resolution Agreed to without objection. (text: CR H837)
 - 2016-02-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H837)
 - 2016-02-24 — Received in the Senate.
+- 2016-03-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1349)
+- 2016-03-08 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1349)
