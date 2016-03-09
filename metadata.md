@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 376
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 376
@@ -39,3 +39,7 @@ A resolution designating the first week of April 2016 as "National Asbestos Awar
 
 - 2016-02-25 — Introduced in Senate
 - 2016-02-25 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1060)
+- 2016-03-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-03-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-03-09 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1392)
+- 2016-03-09 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1392)
