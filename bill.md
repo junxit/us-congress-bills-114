@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1443
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -242,7 +242,7 @@ Section 13 of the Indian Employment, Training and Related Services Act of 1992 (
 
 Section 14 of the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3413) is amended—
 
-- **(1)** by redesignating subsection (b) as subsection (e);
+- **(1)** by redesignating subsection (b) as subsection (d);
 - **(2)** by striking the section designation and heading and all that follows through subsection (a) and inserting the following:
   > ## § 14. Administration of funds
   >
@@ -260,7 +260,7 @@ Section 14 of the Indian Employment, Training and Related Services Act of 1992 (
   >   - **(2)** *No additional documentation* The Indian tribe shall not be required to provide any additional justification or documentation of the purposes of the approved plan as a condition of receiving or expending the funds.
   > - **(c)** *Indirect costs* Notwithstanding any other provision of law, an Indian tribe shall be entitled to recover 100 percent of any indirect costs incurred by the Indian tribe as a result of the transfer of funds to the Indian tribe under this Act.
 
-- **(3)** in subsection (e) (as redesignated by paragraph (1))—
+- **(3)** in subsection (d) (as redesignated by paragraph (1))—
   - **(A)** by striking “All administrative” and inserting the following:
     > - **(1)** *In general* All administrative
 

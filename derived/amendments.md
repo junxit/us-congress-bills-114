@@ -1,7 +1,7 @@
 ---
 measure: S. 1443
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -75,7 +75,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3410` | amend | Section 11 of the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3410) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3411` | amend | Section 12 of the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3411) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3412` | amend | Section 13 of the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3412) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3413` | redesignate | by redesignating subsection (b) as subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3413` | redesignate | by redesignating subsection (b) as subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3413` | replace | by striking the section designation and heading and all that follows through subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3413` | replace | by striking “All administrative” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 3413` | replace | by striking “regulations)” and all that follows through the end of the subsection and inserting the following: | the bill quotes the text struck but describes what replaces it |
