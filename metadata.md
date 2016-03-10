@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2857
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2857
@@ -25,3 +25,11 @@ To facilitate the addition of park administration at the Coltsville National His
 - 2015-06-23 — Introduced in House
 - 2015-06-23 — Introduced in House
 - 2015-06-23 — Referred to the House Committee on Natural Resources.
+- 2015-07-14 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Federal Lands Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-03-10 — Placed on the Union Calendar, Calendar No. 342.
+- 2016-03-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-447.
+- 2016-03-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-447.

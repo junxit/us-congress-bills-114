@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2857
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,20 @@ to guess them.
 
 ### 16 U.S.C. § 410qqq
 
-> Section 3032(b)(2)(B) of Public Law 113–291 (16 U.S.C. 410qqq) is amended by striking “East Armory” and inserting “Colt Armory Complex”.
+> in paragraph (2)(B), by striking “East Armory” and inserting “Colt Armory Complex”; and
 
 | | |
 |---|---|
 | Removed | `East Armory` |
 | Inserted | `Colt Armory Complex` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 410qqq` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
