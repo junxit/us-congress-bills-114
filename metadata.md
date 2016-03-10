@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 524
@@ -16,7 +16,7 @@ Comprehensive Addiction and Recovery Act of 2016
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (32)
+## Cosponsors (156)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
@@ -50,10 +50,145 @@ Comprehensive Addiction and Recovery Act of 2016
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
+
+## Recorded votes (8)
+
+- 2016-02-29 — [Senate 114-2-27](votes/senate-114-2-0027.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–0)
+- 2016-03-02 — [Senate 114-2-28](votes/senate-114-2-0028.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2016-03-02 — [Senate 114-2-29](votes/senate-114-2-0029.md) — On the Motion — **Motion Rejected** (46–50)
+- 2016-03-02 — [Senate 114-2-30](votes/senate-114-2-0030.md) — On the Motion — **Motion Rejected** (48–47)
+- 2016-03-03 — [Senate 114-2-31](votes/senate-114-2-0031.md) — On the Amendment — **Amendment Agreed to** (90–0)
+- 2016-03-07 — [Senate 114-2-32](votes/senate-114-2-0032.md) — On the Cloture Motion — **Cloture Motion Agreed to** (86–3)
+- 2016-03-09 — [Senate 114-2-33](votes/senate-114-2-0033.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–3)
+- 2016-03-10 — [Senate 114-2-34](votes/senate-114-2-0034.md) — On Passage of the Bill — **Bill Passed** (94–1)
 
 ## Actions
 
@@ -64,3 +199,188 @@ Comprehensive Addiction and Recovery Act of 2016
 - 2016-02-22 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-02-22 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-02-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
+- 2016-02-25 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S1037-1038; text: CR S1037)
+- 2016-02-25 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1037-1038)
+- 2016-02-29 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 27. (consideration: CR S1076; text: CR S1076)
+- 2016-02-29 — Motion to proceed to measure considered in Senate. (consideration: CR S1074-1080)
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-02-29 — Senate amendment submitted
+- 2016-03-01 — Motion to proceed to measure considered in Senate. (consideration: CR S1106-1115, S1115-1132)
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-01 — Senate amendment submitted
+- 2016-03-02 — Amendment SA 3345 proposed by Senator Shaheen to Amendment SA 3378. (consideration: CR S1181-1183, S1202, S1205, S1206; text: CR S1181-1182) To make appropriations to address the heroin and opioid drug abuse epidemic for the fiscal year ending September 30, 2016.
+- 2016-03-02 — Amendment SA 3345 ruled out of order by the chair.
+- 2016-03-02 — Amendment SA 3362 proposed by Senator Grassley for Senator Feinstein to Amendment SA 3378. (consideration: CR S1180, S1203; text: CR S1180) To provide the Department of Justice with additional tools to target extraterritorial drug trafficking activity, and for other purposes.
+- 2016-03-02 — Amendment SA 3362, under the order of 3/2/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 28.
+- 2016-03-02 — Amendment SA 3367 agreed to in Senate by Voice Vote.
+- 2016-03-02 — Amendment SA 3367 proposed by Senator Grassley for Senator Toomey to Amendment SA 3378. (consideration: CR S1192, S1198, S1204-1205) To establish a life-saving program to prevent drug and opioid abuse in Medicare.
+- 2016-03-02 — Amendment SA 3374 proposed by Senator Grassley for Senator Donnelly to Amendment SA 3378. (consideration: CR S1206; text as modified: CR S1206) To provide follow-up services to individuals who have received opioid overdose reversal drugs.
+- 2016-03-02 — Amendment SA 3378 proposed by Senator Grassley. (consideration: CR S1180) In the nature of a substitute.
+- 2016-03-02 — Amendment SA 3395 proposed by Senator Wyden to Amendment SA 3378. (consideration: CR S1192-1194, S1204; text: CR S1192-1193) To provide for comprehensive provisions for the prevention and enforcement of opioid abuse and treatment of opioid addiction.
+- 2016-03-02 — Amendment SA 3395 ruled out of order by the chair.
+- 2016-03-02 — Measure laid before Senate by unanimous consent. (consideration: CR S1171-1218; text of measure as reported in Senate: CR S1171-1180)
+- 2016-03-02 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S1171)
+- 2016-03-02 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3345 rejected in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 30.
+- 2016-03-02 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3395 rejected in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 29.
+- 2016-03-02 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 3395.
+- 2016-03-02 — Point of order that the amendment violates section 311(a)(2)(A) of the CBA raised in Senate with respect to amendment SA 3345.
+- 2016-03-02 — Roll call votes on amendments in Senate: Amendment SA 3362, under the order of 3/2/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 28.
+- 2016-03-02 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3345 rejected in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 30.
+- 2016-03-02 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3395 rejected in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 29.
+- 2016-03-02 — Senate amendment agreed to: Amendment SA 3362, under the order of 3/2/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 28.
+- 2016-03-02 — Senate amendment agreed to: Amendment SA 3367 agreed to in Senate by Voice Vote.
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3345 proposed by Senator Shaheen to Amendment SA 3378.(consideration: CR S1181-1183, S1202, S1205, S1206; text: CR S1181-1182)
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3362 proposed by Senator Grassley for Senator Feinstein to Amendment SA 3378.(consideration: CR S1180, S1203; text: CR S1180)
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3367 proposed by Senator Grassley for Senator Toomey to Amendment SA 3378.(consideration: CR S1192, S1198, S1204-1205)
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3374 proposed by Senator Grassley for Senator Donnelly to Amendment SA 3378.(consideration: CR S1206; text as modified: CR S1206)
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3378 proposed by Senator Grassley.(consideration: CR S1180)
+- 2016-03-02 — Senate amendment proposed (on the floor): Amendment SA 3395 proposed by Senator Wyden to Amendment SA 3378.(consideration: CR S1192-1194, S1204; text: CR S1192-1193)
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — Senate amendment submitted
+- 2016-03-02 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S1180)
+- 2016-03-03 — Amendment SA 3420 agreed to in Senate by Yea-Nay Vote. 90 - 0. Record Vote Number: 31.
+- 2016-03-03 — Amendment SA 3420 proposed by Senator Manchin to Amendment SA 3378. (consideration: CR S1262-1263; text: CR S1263) To strengthen consumer education about the risks of opioid abuse and addiction.
+- 2016-03-03 — Cloture motion on amendment SA 3378 presented in Senate. (consideration: CR S1273; text: CR S1273)
+- 2016-03-03 — Cloture motion on the measure presented in Senate. (consideration: CR S1273; text: CR S1273)
+- 2016-03-03 — Considered by Senate. (consideration: CR S1245)
+- 2016-03-03 — Considered by Senate. (consideration: CR S1245)
+- 2016-03-03 — Considered by Senate. (consideration: CR S1245-1273)
+- 2016-03-03 — Roll call votes on amendments in Senate: Amendment SA 3420 agreed to in Senate by Yea-Nay Vote. 90 - 0. Record Vote Number: 31.
+- 2016-03-03 — Senate amendment agreed to: Amendment SA 3420 agreed to in Senate by Yea-Nay Vote. 90 - 0. Record Vote Number: 31.
+- 2016-03-03 — Senate amendment proposed (on the floor): Amendment SA 3420 proposed by Senator Manchin to Amendment SA 3378.(consideration: CR S1262-1263; text: CR S1263)
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-03 — Senate amendment submitted
+- 2016-03-07 — Cloture on amendment SA 3378 invoked in Senate by Yea-Nay Vote. 86 - 3. Record Vote Number: 32. (consideration: CR S1310-1311; text: CR S1310-1311)
+- 2016-03-07 — Considered by Senate. (consideration: CR S1303)
+- 2016-03-07 — Considered by Senate. (consideration: CR S1303, S1310-1311)
+- 2016-03-07 — Considered by Senate. (consideration: CR S1303-1313)
+- 2016-03-07 — Roll call votes on amendments in Senate: Cloture on amendment SA 3378 invoked in Senate by Yea-Nay Vote. 86 - 3. Record Vote Number: 32.(consideration: CR S1310-1311; text: CR S1310-1311)
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-03-08 — Considered by Senate. (consideration: CR S1328)
+- 2016-03-08 — Considered by Senate. (consideration: CR S1328)
+- 2016-03-08 — Considered by Senate. (consideration: CR S1328-1332, S1332-1341)
+- 2016-03-08 — Senate amendment submitted
+- 2016-03-09 — Amendment SA 3374 as modified agreed to in Senate by Voice Vote.
+- 2016-03-09 — Amendment SA 3378 agreed to in Senate by Voice Vote.
+- 2016-03-09 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 93 - 3. Record Vote Number: 33. (consideration: CR S1361; text: CR S1361)
+- 2016-03-09 — Considered by Senate. (consideration: CR S1357, S1361)
+- 2016-03-09 — Considered by Senate. (consideration: CR S1357, S1361)
+- 2016-03-09 — Considered by Senate. (consideration: CR S1357-1384)
+- 2016-03-09 — Senate amendment agreed to: Amendment SA 3374 as modified agreed to in Senate by Voice Vote.
+- 2016-03-09 — Senate amendment agreed to: Amendment SA 3378 agreed to in Senate by Voice Vote.
+- 2016-03-09 — Senate amendment submitted
+- 2016-03-10 — Considered by Senate. (consideration: CR S1403-1416)
+- 2016-03-10 — Message on Senate action sent to the House.
+- 2016-03-10 — Passed Senate with an amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 34. (text as passed Senate: CR S1404-1416)
+- 2016-03-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 34.(text as passed Senate: CR S1404-1416)
