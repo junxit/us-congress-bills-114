@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4721
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -98,7 +98,7 @@ to guess them.
 
 ### 26 U.S.C. § 9502
 
-> by striking “April 1, 2016” in the matter preceding subparagraph (A) and inserting “April 1, 2017”, and
+> by striking “April 1, 2016” in the matter preceding subparagraph (A) and inserting “April 1, 2017”; and
 
 | | |
 |---|---|
@@ -176,5 +176,5 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 48101(a)(5) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 48102(a)(9) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 41742(a)(2) of title 49, United States Code, is amended by striking “and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” and inserting “and $138,183,060 for the period beginning on October … | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 9502` | replace | by striking the semicolon at the end of subparagraph (A) and inserting “or the Airport and Airway Extension Act of 2016 or any specified extension;”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 9502` | replace | by striking the semicolon at the end of subparagraph (A) and inserting “or the Airport and Airway Extension Act of 2016 or any specified extension;”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 9502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
