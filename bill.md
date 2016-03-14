@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1638
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -31,7 +31,7 @@ This Act may be cited as the “Department of Homeland Security Headquarters Con
     - **(B)** the identification of any cost impacts in terms of premiums for short-term lease extensions or holdovers due to the uncertainty of funding for, or delays in, completing construction required for the consolidation.
 - **(b)** *Comptroller General review*
   - **(1)** *Review required* The Comptroller General of the United States shall review the cost and schedule estimates submitted under subsection (a) to evaluate the quality and reliability of the estimates.
-  - **(2)** *Assessment* Not later than 90 days after the submittal of the cost and schedule estimates under subsection (a), the Comptroller General shall report to the appropriate congressional committees on the results of the review required under paragraph (1).
+  - **(2)** *Assessment* Not later than 90 days after the submittal of the cost and schedule estimates under subsection (a), the Comptroller General shall report to the appropriate congressional committees of Congress on the results of the review required under paragraph (1).
 - **(c)** *Definitions* In this Act:
   - **(1)** The term Administrator means the Administrator of General Services.
   - **(2)** The term appropriate committees of Congress means the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
