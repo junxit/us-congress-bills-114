@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2273
@@ -25,3 +25,12 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Referred to the House Committee on Natural Resources.
+- 2015-06-04 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2015-06-25 — Subcommittee Hearings Held.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Water, Power and Oceans Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-03-14 — Placed on the Union Calendar, Calendar No. 345.
+- 2016-03-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-450.
+- 2016-03-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-450.
