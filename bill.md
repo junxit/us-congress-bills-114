@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2745
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,6 +40,8 @@ The Federal Trade Commission Act (15 U.S.C. 41) is amended—
 
 - **(1)** in section 5(b), by inserting “(excluding the consummation of a proposed merger, acquisition, joint venture, or similar transaction that is subject to section 7 of the Clayton Act (15 U.S.C. 18), except in cases where the Commission approves an agreement with the parties to the transaction that contains a consent order)” after “unfair method of competition”;
 - **(2)** in section 9, by inserting after the fourth undesignated paragraph the following:
+  > -  Upon the application of the commission with respect to any activity related to the consummation of a proposed merger, acquisition, joint venture, or similar transaction that is subject to section 7 of the Clayton Act (15 U.S.C. 18) that may result in any unfair method of competition, the district courts of the United States shall have jurisdiction to issue writs of mandamus commanding any person or corporation to comply with the provisions of this Act or any order of the commission made in pursuance thereof.
+
 - **(3)** in section 13(b)(1), by inserting “(excluding section 7 of the Clayton Act (15 U.S.C. 18) and section 5(a)(1) with respect to the consummation of a proposed merger, acquisition, joint venture, or similar transaction that is subject to section 7 of the Clayton Act (15 U.S.C. 18))” after “Commission”; and
 - **(4)** in section 20(c)(1), by inserting “or under section 7 of the Clayton Act (15 U.S.C. 18), where applicable,” after “Act,”.
 
