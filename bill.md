@@ -18,7 +18,7 @@ Section 203(a)(1)(B) of the Federal Power Act (16 U.S.C. 824b(a)(1)(B)) is amend
 Section 203(a) of the Federal Power Act (16 U.S.C. 824b(a)) is amended by adding at the end the following new paragraph:
 
 > - **(7)**
->   - **(A)** Not later than 180 days after the date of enactment of this paragraph, the Commission shall promulgate a rule requiring any public utility that is seeking to merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with those of any other person, to notify the Commission of such transaction not later than 30 days after the date on which the transaction is consummated if—
+>   - **(A)** Not later than 180 days after the date of enactment of this paragraph, the Commission shall promulgate a rule requiring any public utility that is seeking to merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with those of any other person, to notify the Commission of such transaction if—
 >     - **(i)** such facilities, or any part thereof, are of a value in excess of $1,000,000; and
 >     - **(ii)** such public utility is not required to secure an order of the Commission under paragraph (1)(B).
 >   - **(B)** In establishing any notification requirement under subparagraph (A), the Commission shall, to the maximum extent practicable, minimize the paperwork burden resulting from the collection of information.
