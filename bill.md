@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas the Government of Syria has engaged in widespread torture and rape, employed starvation as a weapon of war, and massacred civilians, including through the use of chemical weapons, cluster munitions, and barrel bombs;
-- Whereas the vast majority of the civilians who have died in the Syrian conflict have been killed by the Government of Syria and its allies, specifically the Russian Federation, the Islamic Republic of Iran, and Iran’s terrorist proxies including Hezbollah;
-- Whereas the Government of Syria reportedly has subjected nearly 1,000,000 civilians to devastating sieges and manipulated the delivery of humanitarian aid for its own gain, thereby weaponizing starvation against populations, such as in Madaya;
+- Whereas the Government of Syria, led by President Bashar al-Assad, has engaged in widespread torture and rape, employed starvation as a weapon of war, and massacred civilians, including through the use of chemical weapons, cluster munitions, and barrel bombs;
+- Whereas the vast majority of the civilians who have died in the Syrian conflict have been killed by the Government of Syria led by President Bashar al-Assad and its allies, specifically the Russian Federation, the Islamic Republic of Iran, and Iran’s terrorist proxies including Hezbollah;
+- Whereas the Government of Syria reportedly has subjected nearly 1 million civilians to devastating sieges and manipulated the delivery of humanitarian aid for its own gain, thereby weaponizing starvation against populations, such as in Madaya;
 - Whereas the Government of Syria continues to target schools, water, electric, and medical facilities as a way to deny civilians access to critical infrastructure and basic services;
 - Whereas the Government of Syria has conducted massive and widespread enforced disappearances, systematic torture, and killing, amounting to what the United Nations Independent International Commission of Inquiry on the Syrian Arab Republic recently described as “extermination” at the hands of the State;
 - Whereas the same Commission of Inquiry described these and other actions perpetrated by the Government of Syria as war crimes and crimes against humanity;
