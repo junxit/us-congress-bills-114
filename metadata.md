@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 75
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 75
@@ -232,9 +232,10 @@ Expressing the sense of Congress that the atrocities perpetrated by ISIL against
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -256,3 +257,4 @@ Expressing the sense of Congress that the atrocities perpetrated by ISIL against
 - 2016-03-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 112). (text: CR H1314)
 - 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 112).(text: CR H1314)
 - 2016-03-14 — The title of the measure was amended. Agreed to without objection.
+- 2016-03-15 — Received in the Senate and referred to the Committee on Foreign Relations.
