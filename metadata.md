@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2984
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2984
@@ -39,9 +39,10 @@ Fair RATES Act
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Fair RATES Act
 - 2016-03-14 — Placed on the Union Calendar, Calendar No. 347.
 - 2016-03-14 — Reported by the Committee on Energy and Commerce. H. Rept. 114-452.
 - 2016-03-14 — Reported by the Committee on Energy and Commerce. H. Rept. 114-452.
+- 2016-03-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
