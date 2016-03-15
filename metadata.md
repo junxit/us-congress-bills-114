@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4721
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4721
@@ -39,3 +39,4 @@ Airport and Airway Extension Act of 2016
 - 2016-03-14 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2016-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1320)
 - 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1320)
+- 2016-03-15 — Received in the Senate, read twice.
