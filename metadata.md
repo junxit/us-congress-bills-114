@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1268
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1268
@@ -24,9 +24,10 @@ Energy Efficient Government Technology Act
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Energy Efficient Government Technology Act
 - 2016-03-14 — Mr. Whitfield moved to suspend the rules and pass the bill, as amended.
 - 2016-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1305-1306)
 - 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1305-1306)
+- 2016-03-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
