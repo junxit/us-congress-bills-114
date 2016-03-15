@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2080
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2080
@@ -43,3 +43,4 @@ To reinstate and extend the deadline for commencement of construction of a hydro
 - 2016-03-14 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2016-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1308)
 - 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1308)
+- 2016-03-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
