@@ -1,7 +1,7 @@
 ---
 measure: S. 337
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 337
@@ -47,3 +47,18 @@ FOIA Improvement Act of 2016
 - 2016-03-15 — Senate amendment agreed to: Amendment SA 3452 agreed to in Senate by Unanimous Consent.
 - 2016-03-15 — Senate amendment proposed (on the floor): Amendment SA 3452 proposed by Senator Cornyn.(consideration: CR S1496)
 - 2016-03-15 — Senate amendment submitted
+- 2016-03-16 — Held at the desk.
+- 2016-03-16 — Message on Senate action sent to the House.
+- 2016-03-16 — Received in the House.
+- 2016-06-13 — Considered under suspension of the rules. (consideration: CR H3714-3719)
+- 2016-06-13 — DEBATE - The House proceeded with forty minutes of debate on S. 337.
+- 2016-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-13 — Mr. Meadows moved to suspend the rules and pass the bill.
+- 2016-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3714-3716)
+- 2016-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3714-3716)
+- 2016-06-22 — Presented to President.
+- 2016-06-22 — Presented to President.
+- 2016-06-30 — Became Public Law No: 114-185.
+- 2016-06-30 — Became Public Law No: 114-185.
+- 2016-06-30 — Signed by President.
+- 2016-06-30 — Signed by President.
