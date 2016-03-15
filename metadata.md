@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4427
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4427
@@ -21,9 +21,10 @@ To amend section 203 of the Federal Power Act.
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To amend section 203 of the Federal Power Act.
 - 2016-03-14 — Placed on the Union Calendar, Calendar No. 346.
 - 2016-03-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-451.
 - 2016-03-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-451.
+- 2016-03-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
