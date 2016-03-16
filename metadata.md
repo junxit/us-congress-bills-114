@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 388
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 388
@@ -16,7 +16,7 @@ A resolution supporting the goals of International Women's Day.
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Boxer, Barbara [D-CA] (B000711)
@@ -33,6 +33,8 @@ A resolution supporting the goals of International Women's Day.
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -42,3 +44,7 @@ A resolution supporting the goals of International Women's Day.
 
 - 2016-03-03 — Introduced in Senate
 - 2016-03-03 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1282-1283)
+- 2016-03-10 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2016-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.
