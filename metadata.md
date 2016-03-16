@@ -1,7 +1,7 @@
 ---
 measure: S. 719
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 719
@@ -28,3 +28,7 @@ A bill to rename the Armed Forces Reserve Center in Great Falls, Montana, the Ca
 
 - 2015-03-11 — Introduced in Senate
 - 2015-03-11 — Read twice and referred to the Committee on Armed Services.
+- 2016-03-16 — Passed Senate without amendment by Unanimous Consent. (text: CR S1549)
+- 2016-03-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1549)
+- 2016-03-16 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S1548-1549)
+- 2016-03-16 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S1548-1549)
