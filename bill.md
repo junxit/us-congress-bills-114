@@ -24,3 +24,11 @@ This Act may be cited as the “Terrorist and Foreign Fighter Travel Exercise Ac
 - **(c)** *Report* Not later than 60 days after the completion of the exercise required under subsection (a), the Secretary of Homeland Security shall, consistent with the protection of classified information, submit an after-action report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate presenting the initial findings of such exercise, including any identified or potential vulnerabilities in United States defenses and any legislative changes requested in light of the findings. The report shall be submitted in unclassified form, but may include a classified annex.
 - **(d)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security.
 - **(e)** *Definition* In this section, the term “material support or resources” has the meaning given such term in section 2339A of title 18, United States Code.
+
+## § 3. Emerging threats in the national exercise program
+
+Subparagraph (A) of section 648(b)(2) of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 748(b)(2)) is amended—
+
+- **(1)** in clause (v), by striking “and” at the end; and
+- **(2)** by adding after clause (vi) the following new clause:
+  > - **(vii)** designed, to the extent practicable, to include emerging terrorist threats, such as scenarios involving United States citizens departing the United States to enlist with or provide material support or resources to terrorist organizations abroad or terrorist infiltration into the United States, including United States citizens and foreign nationals; and
