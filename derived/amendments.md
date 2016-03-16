@@ -1,7 +1,7 @@
 ---
 measure: S. 818
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+12 amendatory instructions. 3 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `240` |
 | Inserted | `241.06` |
 
+### 25 U.S.C. § 713f
+
+> in the matter preceding the table, by striking “in subsection (a) are approximately 10,311.60” and inserting “in subsection (a)(1) are the approximately 11,349.92”; and
+
+| | |
+|---|---|
+| Removed | `in subsection (a) are approximately 10,311.60` |
+| Inserted | `in subsection (a)(1) are the approximately 11,349.92` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -55,3 +64,8 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 2701` | amend | by adding after paragraph (1) (as designated by subparagraph (A)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2701` | strike | by striking the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2701` | strike | by striking all text after | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 2703` | replace | by striking “Subject to valid existing rights, including (but not limited to) all” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 2703` | insert | by inserting “(referred to in this Act as the Tribes)” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 2703` | replace | in the second sentence, by striking “Such land” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 2703` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 713f` | replace | by striking the table and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
