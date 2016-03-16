@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1831
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1831
@@ -51,3 +51,14 @@ Evidence-Based Policymaking Commission Act of 2016
 - 2016-03-16 — Senate amendment agreed to: Amendment SA 3456 agreed to in Senate by Unanimous Consent.
 - 2016-03-16 — Senate amendment proposed (on the floor): Amendment SA 3456 proposed by Senator McConnell for Senator Burr.(consideration: CR S1548)
 - 2016-03-16 — Senate amendment submitted
+- 2016-03-17 — Message on Senate action sent to the House.
+- 2016-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-17 — Mr. Hurd (TX) asked unanimous consent that the House agree to the Senate amendment.
+- 2016-03-17 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H1446-1447)
+- 2016-03-17 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H1446-1447)
+- 2016-03-24 — Presented to President.
+- 2016-03-24 — Presented to President.
+- 2016-03-30 — Became Public Law No: 114-140.
+- 2016-03-30 — Became Public Law No: 114-140.
+- 2016-03-30 — Signed by President.
+- 2016-03-30 — Signed by President.
