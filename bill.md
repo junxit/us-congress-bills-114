@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4750
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4750
+
+> To amend title 10, United States Code, to repeal the prohibition on providing adoptive leave to each member of a dual military couple.
+
+## § 1. Short title
+
+This Act may be cited as the “Adoption Leave for Military Families Act”.
+
+## § 2. Revision in Department of Defense policies regarding adoptive leave for dual military couples
+
+Section 701(i)(3) of title 10, United States Code, is amended by striking “only one such member shall be allowed leave under this subsection” and inserting “one of the members is allowed up to 21 days of leave under this subsection and the other member may be allowed up to 14 days of leave under this subsection”.
