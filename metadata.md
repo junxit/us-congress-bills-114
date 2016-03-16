@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1831
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1831
@@ -16,9 +16,10 @@ Evidence-Based Policymaking Commission Act of 2016
 
 - Rep. Ryan, Paul D. [R-WI-1] (R000570)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Young, Todd [R-IN-9] (Y000064)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -42,3 +43,11 @@ Evidence-Based Policymaking Commission Act of 2016
 - 2015-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5486-5487)
 - 2015-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5486-5487)
 - 2015-07-28 — Received in the Senate, read twice.
+- 2016-03-16 — Amendment SA 3456 agreed to in Senate by Unanimous Consent.
+- 2016-03-16 — Amendment SA 3456 proposed by Senator McConnell for Senator Burr. (consideration: CR S1548) In the nature of a substitute.
+- 2016-03-16 — Measure laid before Senate by unanimous consent. (consideration: CR S1548)
+- 2016-03-16 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-03-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-03-16 — Senate amendment agreed to: Amendment SA 3456 agreed to in Senate by Unanimous Consent.
+- 2016-03-16 — Senate amendment proposed (on the floor): Amendment SA 3456 proposed by Senator McConnell for Senator Burr.(consideration: CR S1548)
+- 2016-03-16 — Senate amendment submitted
