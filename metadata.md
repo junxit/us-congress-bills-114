@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4360
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4360
@@ -25,3 +25,8 @@ Official Personnel File Enhancement Act
 - 2016-01-11 — Introduced in House
 - 2016-01-11 — Introduced in House
 - 2016-01-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-01-12 — Committee Consideration and Mark-up Session Held.
+- 2016-01-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-03-16 — Placed on the Union Calendar, Calendar No. 348.
+- 2016-03-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-454.
+- 2016-03-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-454.
