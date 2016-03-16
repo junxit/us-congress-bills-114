@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 392
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 392
@@ -40,3 +40,7 @@ A resolution expressing the sense of the Senate regarding the prosecution and co
 
 - 2016-03-08 — Introduced in Senate
 - 2016-03-08 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1347)
+- 2016-03-10 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.
