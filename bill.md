@@ -2,11 +2,11 @@
 legis-num: H. RES. 649
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 649
 
 > Providing for consideration of the resolution (H. Res. 639) authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15-674.
 
-That upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 639) authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15-674. The resolution shall be considered as read. The previous question shall be considered as ordered on the resolution to its adoption without intervening motion or demand for division of the question except: (1) one hour of debate equally divided and controlled by chair and ranking minority member of the Committee on Rules; and (2) one motion to recommit.
+That upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 639) authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15–674. The resolution shall be considered as read. The previous question shall be considered as ordered on the resolution to its adoption without intervening motion or demand for division of the question except: (1) one hour of debate equally divided and controlled by chair and ranking minority member of the Committee on Rules; and (2) one motion to recommit.
