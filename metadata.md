@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4721
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4721
@@ -16,9 +16,12 @@ Airport and Airway Extension Act of 2016
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (2)
 
@@ -40,3 +43,12 @@ Airport and Airway Extension Act of 2016
 - 2016-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1320)
 - 2016-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1320)
 - 2016-03-15 — Received in the Senate, read twice.
+- 2016-03-17 — Amendment SA 3457 agreed to in Senate by Unanimous Consent.
+- 2016-03-17 — Amendment SA 3457 proposed by Senator McConnell for Senator Thune. (consideration: CR S1560-1561; text: CR S1560-1561) In the nature of a substitute.
+- 2016-03-17 — Measure laid before Senate by unanimous consent. (consideration: CR S1560-1561)
+- 2016-03-17 — Message on Senate action sent to the House.
+- 2016-03-17 — Passed Senate with an amendment by Unanimous Consent. (text: CR S1560-1561)
+- 2016-03-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S1560-1561)
+- 2016-03-17 — Senate amendment agreed to: Amendment SA 3457 agreed to in Senate by Unanimous Consent.
+- 2016-03-17 — Senate amendment proposed (on the floor): Amendment SA 3457 proposed by Senator McConnell for Senator Thune.(consideration: CR S1560-1561; text: CR S1560-1561)
+- 2016-03-17 — Senate amendment submitted

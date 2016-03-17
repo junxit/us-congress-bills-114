@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4721
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 15 executed, 10 stated and not applied.
+23 amendatory instructions. 15 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 49 U.S.C. § 41731
 
-> Section 47124(b)(3)(E) of title 49, United States Code, is amended by striking “and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” and inserting “and not more than $8,172,541 for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
+> Section 47124(b)(3)(E) of title 49, United States Code, is amended by striking “$5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” and inserting “$8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
 
 | | |
 |---|---|
-| Removed | `and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,` |
-| Inserted | `and not more than $8,172,541 for the period beginning on October 1, 2015, and ending on July 15, 2016,` |
+| Removed | `$5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,` |
+| Inserted | `$8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,` |
 
 ### 49 U.S.C. § 41731
 
@@ -62,12 +62,12 @@ to guess them.
 
 ### 49 U.S.C. § 41731
 
-> Section 186(d) of the Vision 100—Century of Aviation Reauthorization Act (117 Stat. 2518) is amended by striking “March 31, 2016,” and inserting “July 15, 2016,”.
+> Section 186(d) of the Vision 100—Century of Aviation Reauthorization Act (117 Stat. 2518) is amended by striking “March 31, 2016” and inserting “July 15, 2016”.
 
 | | |
 |---|---|
-| Removed | `March 31, 2016,` |
-| Inserted | `July 15, 2016,` |
+| Removed | `March 31, 2016` |
+| Inserted | `July 15, 2016` |
 
 ### 49 U.S.C. § 41731
 
@@ -98,66 +98,66 @@ to guess them.
 
 ### 26 U.S.C. § 9502
 
-> by striking “April 1, 2016” in the matter preceding subparagraph (A) and inserting “April 1, 2017”; and
+> in the matter preceding subparagraph (A), by striking “April 1, 2016” and inserting “July 16, 2016”; and
 
 | | |
 |---|---|
 | Removed | `April 1, 2016` |
-| Inserted | `April 1, 2017` |
+| Inserted | `July 16, 2016` |
 
 ### 26 U.S.C. § 9502
 
-> Section 9502(e)(2) of such Code is amended by striking “April 1, 2016” and inserting “April 1, 2017”.
+> Section 9502(e)(2) of such Code is amended by striking “April 1, 2016” and inserting “July 16, 2016”.
 
 | | |
 |---|---|
 | Removed | `April 1, 2016` |
-| Inserted | `April 1, 2017` |
+| Inserted | `July 16, 2016` |
 
 ### 26 U.S.C. § 4081
 
-> Section 4081(d)(2)(B) of the Internal Revenue Code of 1986 is amended by striking “March 31, 2016” and inserting “March 31, 2017”.
+> Section 4081(d)(2)(B) of the Internal Revenue Code of 1986 is amended by striking “March 31, 2016” and inserting “July 15, 2016”.
 
 | | |
 |---|---|
 | Removed | `March 31, 2016` |
-| Inserted | `March 31, 2017` |
+| Inserted | `July 15, 2016` |
 
 ### 26 U.S.C. § 4081
 
-> Section 4261(k)(1)(A)(ii) of such Code is amended by striking “March 31, 2016” and inserting “March 31, 2017”.
+> Section 4261(k)(1)(A)(ii) of such Code is amended by striking “March 31, 2016” and inserting “July 15, 2016”.
 
 | | |
 |---|---|
 | Removed | `March 31, 2016` |
-| Inserted | `March 31, 2017` |
+| Inserted | `July 15, 2016` |
 
 ### 26 U.S.C. § 4081
 
-> Section 4271(d)(1)(A)(ii) of such Code is amended by striking “March 31, 2016” and inserting “March 31, 2017”.
+> Section 4271(d)(1)(A)(ii) of such Code is amended by striking “March 31, 2016” and inserting “July 15, 2016”.
 
 | | |
 |---|---|
 | Removed | `March 31, 2016` |
-| Inserted | `March 31, 2017` |
+| Inserted | `July 15, 2016` |
 
 ### 26 U.S.C. § 4081
 
-> Section 4083(b) of such Code is amended by striking “April 1, 2016” and inserting “April 1, 2017”.
+> Section 4083(b) of such Code is amended by striking “April 1, 2016” and inserting “July 16, 2016”.
 
 | | |
 |---|---|
 | Removed | `April 1, 2016` |
-| Inserted | `April 1, 2017` |
+| Inserted | `July 16, 2016` |
 
 ### 26 U.S.C. § 4081
 
-> Section 4261(j) of such Code is amended by striking “March 31, 2016” and inserting “March 31, 2017”.
+> Section 4261(j) of such Code is amended by striking “March 31, 2016” and inserting “July 15, 2016”.
 
 | | |
 |---|---|
 | Removed | `March 31, 2016` |
-| Inserted | `March 31, 2017` |
+| Inserted | `July 15, 2016` |
 
 ## Stated, not applied
 
@@ -168,13 +168,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 48103(a) of title 49, United States Code, is amended by striking “and $1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016” and inserting “and $2,645,218,579 for the period beginning on October… | the bill names no machine-readable US Code section |
-| — | replace | Section 47104(c) of title 49, United States Code, is amended in the matter preceding paragraph (1) by striking “March 31, 2016,” and inserting “July 15, 2016,”. | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 41731` | insert | Section 41743(e)(2) of title 49, United States Code, is amended in the first sentence by inserting “and $3,948,087 for the period beginning on October 1, 2015, and ending on July 15, 2016,” before “to carry out this section”. | the bill quotes the text inserted but describes where it goes |
-| — | replace | by striking paragraph (1)(E) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3) by striking “March 31, 2016,” and inserting “July 15, 2016,”. | the bill names no machine-readable US Code section |
+| — | replace | Section 48103(a) of title 49, United States Code, is amended by striking “$1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016” and inserting “$2,652,083,333 for the period beginning on October 1, 2015… | the bill names no machine-readable US Code section |
+| — | replace | Section 47104(c) of title 49, United States Code, is amended, in the matter preceding paragraph (1), by striking “March 31, 2016,” and inserting “July 15, 2016,”. | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (1), by amending subparagraph (E) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “March 31, 2016” and inserting “July 15, 2016”. | the bill names no machine-readable US Code section |
 | — | amend | Section 48101(a)(5) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 48102(a)(9) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 41742(a)(2) of title 49, United States Code, is amended by striking “and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” and inserting “and $138,183,060 for the period beginning on October … | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 9502` | replace | by striking the semicolon at the end of subparagraph (A) and inserting “or the Airport and Airway Extension Act of 2016 or any specified extension;”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 9502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 41742(a)(2) of title 49, United States Code, is amended by striking “$77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” and inserting “$122,708,333 for the period beginning on October 1, 2015,… | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9502` | replace | in subparagraph (A), by striking the semicolon at the end and inserting “or the Airport and Airway Extension Act of 2016;”. | the bill quotes the text inserted but describes where it goes |
