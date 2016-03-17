@@ -1,7 +1,7 @@
 ---
 measure: S. 483
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 483
@@ -37,3 +37,17 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2016
 - 2016-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.
 - 2016-03-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1605-1606; text as passed Senate: CR S1605-1606)
 - 2016-03-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1605-1606; text as passed Senate: CR S1605-1606)
+- 2016-03-18 — Message on Senate action sent to the House.
+- 2016-03-21 — Held at the desk.
+- 2016-03-21 — Received in the House.
+- 2016-04-12 — Considered by unanimous consent. (consideration: CR H1618-1619)
+- 2016-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-12 — Mr. Lance asked unanimous consent to take from the Speaker's table and consider.
+- 2016-04-12 — On passage Passed without objection. (text: CR H1618-1619)
+- 2016-04-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1618-1619)
+- 2016-04-14 — Presented to President.
+- 2016-04-14 — Presented to President.
+- 2016-04-19 — Became Public Law No: 114-145.
+- 2016-04-19 — Became Public Law No: 114-145.
+- 2016-04-19 — Signed by President.
+- 2016-04-19 — Signed by President.
