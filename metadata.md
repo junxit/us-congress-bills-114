@@ -1,7 +1,7 @@
 ---
 measure: S. 2143
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2143
@@ -28,3 +28,5 @@ A bill to provide for the authority for the successors and assigns of the Starr-
 - 2016-02-24 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-213.
 - 2016-02-24 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-213.
 - 2016-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
+- 2016-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1606; text as passed Senate: CR S1606)
+- 2016-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1606; text as passed Senate: CR S1606)
