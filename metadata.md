@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4721
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4721
@@ -52,3 +52,14 @@ Airport and Airway Extension Act of 2016
 - 2016-03-17 — Senate amendment agreed to: Amendment SA 3457 agreed to in Senate by Unanimous Consent.
 - 2016-03-17 — Senate amendment proposed (on the floor): Amendment SA 3457 proposed by Senator McConnell for Senator Thune.(consideration: CR S1560-1561; text: CR S1560-1561)
 - 2016-03-17 — Senate amendment submitted
+- 2016-03-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4721.
+- 2016-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-21 — Mr. Shuster moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1485-1487)
+- 2016-03-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H1485-1486)
+- 2016-03-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H1485-1486)
+- 2016-03-24 — Presented to President.
+- 2016-03-24 — Presented to President.
+- 2016-03-30 — Became Public Law No: 114-141.
+- 2016-03-30 — Became Public Law No: 114-141.
+- 2016-03-30 — Signed by President.
+- 2016-03-30 — Signed by President.
