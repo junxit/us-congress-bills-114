@@ -1,7 +1,7 @@
 ---
 measure: S. 483
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 483
@@ -35,3 +35,5 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2016
 - 2016-02-11 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-02-11 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.
+- 2016-03-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1605-1606; text as passed Senate: CR S1605-1606)
+- 2016-03-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1605-1606; text as passed Senate: CR S1605-1606)
