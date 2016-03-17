@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 652
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 652
+
+> Recognizing the Nordic Heritage Museum in Seattle, Washington, as the National Nordic Museum of the United States.
+
+## Preamble
+
+- Whereas Nordic peoples have long contributed to the rich cultural heritage of the United States;
+- Whereas Seattle has an undeniable connection to Scandinavia, hosting a population with strong Nordic roots;
+- Whereas the Nordic Heritage Museum is dedicated to preserving and celebrating an immigrant culture critical not only to the founding of Washington State, but also of the United States; and
+- Whereas the Nordic Heritage Museum is the only museum in the United States to honor the legacy of immigrants from the five Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden: Now, therefore, be it
+
+That the House of Representatives recognizes the Nordic Heritage Museum as the National Nordic Museum of the United States.
