@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4596
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4596
@@ -16,9 +16,10 @@ Small Business Broadband Deployment Act
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Small Business Broadband Deployment Act
 - 2016-03-16 — Rule provides for consideration of H.R. 4596 and H.R. 3797.
 - 2016-03-16 — The previous question was ordered pursuant to the rule. (consideration: CR H1401)
 - 2016-03-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of passage on H.R. 4596 which had been debated earlier and on which further proceedings had been postponed.
+- 2016-03-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
