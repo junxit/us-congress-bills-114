@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4416
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4416
@@ -20,9 +20,10 @@ To extend the deadline for commencement of construction of a hydroelectric proje
 
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To extend the deadline for commencement of construction of a hydroelectric proje
 - 2016-03-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 125). (text: CR 3/14/2016 H1310)
 - 2016-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 125).(text: CR 3/14/2016 H1310)
+- 2016-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
