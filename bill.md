@@ -1,0 +1,25 @@
+---
+legis-num: S. 2709
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2709
+
+> To require the posting online of certain government contracts.
+
+## § 1. Short title
+
+This Act may be cited as the “Contractor Accountability and Transparency Act of 2016”.
+
+## § 2. Requirement to post government contracts online
+
+- **(a)** *In general* Division C of subtitle I of title 41, United States Code, is amended by adding at the end the following new section:
+  > ## § 4713. Requirement to post contracts online
+  >
+  > - **(a)** *In general* The head of each executive agency shall post each covered contract entered into by that agency on a publicly available website in a searchable format.
+  > - **(b)** *Exclusion of certain information* Contracts containing national security sensitive or classified information or trade secrets or other proprietary information may be redacted as determined appropriate by the head of the contracting agency.
+  > - **(c)** *Covered contracts* In this section, the term covered contract means a contract for the procurement of property or services with a value greater than the simplified acquisition threshold.
+
+- **(b)** *Clerical amendment* The table of sections for division C of subtitle I of title 41, United States Code, is amended by inserting after the item relating to section 4712 the following new item:
