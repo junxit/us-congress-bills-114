@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 639
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 639
@@ -20,6 +20,10 @@ Authorizing the Speaker to appear as amicus curiae on behalf of the House of Rep
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2016-03-17 — [House 114-2-129](votes/house-114-2-0129.md) — On Agreeing to the Resolution — **Passed** (234–186)
+
 ## Actions
 
 - 2016-03-14 — Introduced in House
@@ -31,3 +35,11 @@ Authorizing the Speaker to appear as amicus curiae on behalf of the House of Rep
 - 2016-03-16 — Reported by the Committee on Rules. H. Rept. 114-457.
 - 2016-03-16 — Reported by the Committee on Rules. H. Rept. 114-457.
 - 2016-03-16 — Rules Committee Resolution H. Res. 649 Reported to House. Rule provides for consideration of H. Res. 639 with 1 hour of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments.
+- 2016-03-17 — Considered under the provisions of rule H. Res. 649. (consideration: CR H1434-1446)
+- 2016-03-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 639.
+- 2016-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-17 — On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 186 (Roll no. 129). (text: CR H1434-1435)
+- 2016-03-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 186 (Roll no. 129).(text: CR H1434-1435)
+- 2016-03-17 — Rule H. Res. 649 passed House.
+- 2016-03-17 — Rule provides for consideration of H. Res. 639 with 1 hour of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments.
+- 2016-03-17 — The previous question was ordered pursuant to the rule. (consideration: CR H1445)
