@@ -1,0 +1,24 @@
+---
+legis-num: S. 2735
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2735
+
+> To strengthen the enforcement of explosive materials prohibitions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect America from Homemade Explosives Act ”.
+
+## § 2. Explosive materials prohibitions
+
+- **(a)** *Amendments to title 18* Chapter 40 of title 18, United States Code, is amended—
+  - **(1)** in section 841(d), by inserting “black powder substitutes, smokeless powder,” after “black powder,”; and
+  - **(2)** in section 845(a)—
+    - **(A)** in paragraph (4), by striking “and components thereof” and inserting “and components for use in small arms ammunition, excluding smokeless powder in quantities exceeding 50 pounds;”; and
+    - **(B)** in paragraph (5), by striking “black powder in quantities” and inserting “black powder and black powder substitutes in aggregate quantities”.
+- **(b)** *Amendment to title 26* Section 5861 of title 26, United States Code, is amended by striking subsection (f) and inserting the following:
+  > - **(f)** to make, or attempt to make, a firearm in violation of the provisions of this chapter; or
