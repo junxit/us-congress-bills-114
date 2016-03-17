@@ -1,7 +1,7 @@
 ---
 measure: S. 719
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 719
@@ -20,9 +20,10 @@ A bill to rename the Armed Forces Reserve Center in Great Falls, Montana, the Ca
 
 - Sen. Daines, Steve [R-MT] (D000618)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A bill to rename the Armed Forces Reserve Center in Great Falls, Montana, the Ca
 - 2016-03-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1549)
 - 2016-03-16 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S1548-1549)
 - 2016-03-16 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S1548-1549)
+- 2016-03-17 — Message on Senate action sent to the House.
+- 2016-03-17 — Received in the House.
+- 2016-03-17 — Referred to the House Committee on Armed Services.
