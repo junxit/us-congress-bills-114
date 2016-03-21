@@ -1,7 +1,7 @@
 ---
 measure: S. 2143
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2143
@@ -16,9 +16,10 @@ A bill to provide for the authority for the successors and assigns of the Starr-
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to provide for the authority for the successors and assigns of the Starr-
 - 2016-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
 - 2016-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1606; text as passed Senate: CR S1606)
 - 2016-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1606; text as passed Senate: CR S1606)
+- 2016-03-18 — Message on Senate action sent to the House.
+- 2016-03-21 — Received in the House.
+- 2016-03-21 — Referred to the House Committee on Foreign Affairs.
