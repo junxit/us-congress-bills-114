@@ -1,7 +1,7 @@
 ---
 measure: S. 192
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-138 amendatory instructions. 53 executed, 85 stated and not applied.
+200 amendatory instructions. 76 executed, 124 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 3011
 
-> by striking “Older Americans Act Amendments of 1992” and inserting “Older Americans Act Reauthorization Act of 2015”; and
+> by striking “Older Americans Act Amendments of 1992” and inserting “Older Americans Act Reauthorization Act of 2016”; and
 
 | | |
 |---|---|
 | Removed | `Older Americans Act Amendments of 1992` |
-| Inserted | `Older Americans Act Reauthorization Act of 2015` |
+| Inserted | `Older Americans Act Reauthorization Act of 2016` |
 
 ### 42 U.S.C. § 3011
 
@@ -89,84 +89,57 @@ to guess them.
 
 ### 42 U.S.C. § 3020f
 
-> in subsection (a), by striking “2007, 2008, 2009, 2010, and 2011” and inserting “2016, 2017, and 2018”;
+> in subsection (a), by striking “such sums” and all that follows through the period at the end, and inserting “$40,063,000 for each of the fiscal years 2017, 2018, and 2019.”;
 
 | | |
 |---|---|
-| Removed | `2007, 2008, 2009, 2010, and 2011` |
-| Inserted | `2016, 2017, and 2018` |
-
-### 42 U.S.C. § 3020f
-
-> by striking “202(a)(24)” and inserting “202(a)(21)”; and
-
-| | |
-|---|---|
-| Removed | `202(a)(24)` |
-| Inserted | `202(a)(21)` |
-
-### 42 U.S.C. § 3020f
-
-> by striking “2007, 2008, 2009, 2010, and 2011” and inserting “2016, 2017, and 2018”; and
-
-| | |
-|---|---|
-| Removed | `2007, 2008, 2009, 2010, and 2011` |
-| Inserted | `2016, 2017, and 2018` |
-
-### 42 U.S.C. § 3020f
-
-> in subsection (c), by striking “2007, 2008, 2009, 2010, and 2011” and inserting “2016, 2017, and 2018”.
-
-| | |
-|---|---|
-| Removed | `2007, 2008, 2009, 2010, and 2011` |
-| Inserted | `2016, 2017, and 2018` |
+| Removed | `such sums` |
+| Inserted | `$40,063,000 for each of the fiscal years 2017, 2018, and 2019.` |
 
 ### 42 U.S.C. § 3023
 
-> in subsection (a)(1), by striking “fiscal years 2007” and all that follows and inserting “each of fiscal years 2016 through 2018.”;
+> in subsection (a)(1), by striking “such sums” and all that follows through the period at the end, and inserting “$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.”;
 
 | | |
 |---|---|
-| Removed | `fiscal years 2007` |
-| Inserted | `each of fiscal years 2016 through 2018.` |
+| Removed | `such sums` |
+| Inserted | `$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3023
 
-> in paragraph (1), by striking “fiscal years 2007” and all that follows and inserting “each of fiscal years 2016 through 2018.”; and
+> in paragraph (1), by striking “such sums” and all that follows through the period at the end, and inserting “$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.”; and
 
 | | |
 |---|---|
-| Removed | `fiscal years 2007` |
-| Inserted | `each of fiscal years 2016 through 2018.` |
+| Removed | `such sums` |
+| Inserted | `$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3023
 
-> in paragraph (2), by striking “fiscal years 2007” and all that follows and inserting “each of fiscal years 2016 through 2018.”;
+> in paragraph (2), by striking “such sums” and all that follows through the period at the end, and inserting “$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.”;
 
 | | |
 |---|---|
-| Removed | `fiscal years 2007` |
-| Inserted | `each of fiscal years 2016 through 2018.` |
+| Removed | `such sums` |
+| Inserted | `$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3023
 
-> in subsection (d), by striking “fiscal years 2007” and all that follows and inserting “each of fiscal years 2016 through 2018.”; and
+> in subsection (d), by striking “such sums” and all that follows through the period at the end, and inserting “$20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.”;
 
 | | |
 |---|---|
-| Removed | `fiscal years 2007` |
-| Inserted | `each of fiscal years 2016 through 2018.` |
+| Removed | `such sums` |
+| Inserted | `$20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3023
 
-> in subsection (e)(2), by striking “2011” and inserting “2011 and each of fiscal years 2016 through 2018”.
+> by striking “$166,500,000” and all that follows through the period at the end, and inserting “$154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.”
 
 | | |
 |---|---|
-| Removed | `2011` |
-| Inserted | `2011 and each of fiscal years 2016 through 2018` |
+| Removed | `$166,500,000` |
+| Inserted | `$154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3025
 
@@ -197,12 +170,12 @@ to guess them.
 
 ### 42 U.S.C. § 3030a
 
-> Section 311(e) of the Older Americans Act of 1965 (42 U.S.C. 3030a(e)) is amended by striking “fiscal year 2007” and all that follows and inserting “each of fiscal years 2016 through 2018.”.
+> Section 311(e) of the Older Americans Act of 1965 (42 U.S.C. 3030a(e)) is amended by striking “such sums” and all that follows through the period at the end, and inserting “$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.”.
 
 | | |
 |---|---|
-| Removed | `fiscal year 2007` |
-| Inserted | `each of fiscal years 2016 through 2018.` |
+| Removed | `such sums` |
+| Inserted | `$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3030d
 
@@ -303,15 +276,6 @@ to guess them.
 | Removed | `this subpart` |
 | Inserted | `this part` |
 
-### 42 U.S.C. § 3032
-
-> in subsection (b), by striking “for fiscal years 2007” and all that follows through “2011” and inserting “for each of fiscal years 2016 through 2018”.
-
-| | |
-|---|---|
-| Removed | `for fiscal years 2007” and all that follows through “2011` |
-| Inserted | `for each of fiscal years 2016 through 2018` |
-
 ### 42 U.S.C. § 3032g
 
 > Section 418(b) of the Older Americans Act of 1965 (42 U.S.C. 3032g(b)) is amended by striking “a national meeting to train” and inserting “national trainings for”.
@@ -330,23 +294,266 @@ to guess them.
 | Removed | `grandparents and other older individuals who are relative caregivers` |
 | Inserted | `older relative caregivers (as defined in section 372)` |
 
-### 42 U.S.C. § 3056o
+### 29 U.S.C. § 2801
 
-> Section 517(a) of the Older Americans Act of 1965 (42 U.S.C. 3056o(a)) is amended by striking “fiscal years 2007, 2008, 2009, 2010, and 2011” and inserting “each of fiscal years 2016 through 2018”.
+> in subparagraph (C)(ii), by striking “513(a)(2)(D)” and inserting “513(a)(2)(E)”; and
 
 | | |
 |---|---|
-| Removed | `fiscal years 2007, 2008, 2009, 2010, and 2011` |
-| Inserted | `each of fiscal years 2016 through 2018` |
+| Removed | `513(a)(2)(D)` |
+| Inserted | `513(a)(2)(E)` |
+
+### 29 U.S.C. § 2801
+
+> in subparagraph (N)(i) by striking “Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)” and inserting “Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.)”;
+
+| | |
+|---|---|
+| Removed | `Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)` |
+| Inserted | `Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.)` |
+
+### 42 U.S.C. § 3056
+
+> by striking “and” after “State agency” and inserting “, the local workforce development board, and”; and
+
+| | |
+|---|---|
+| Removed | `and” after “State agency` |
+| Inserted | `, the local workforce development board, and` |
+
+### 29 U.S.C. § 3111
+
+> in paragraph (3), by striking “paragraph (7)” and inserting “paragraph (8)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (7)` |
+| Inserted | `paragraph (8)` |
+
+### 42 U.S.C. § 3056a
+
+> in subsection (b)(2)(B)(i), by striking “Workforce Investment Act of 1998” and inserting “Workforce Innovation and Opportunity Act”.
+
+| | |
+|---|---|
+| Removed | `Workforce Investment Act of 1998` |
+| Inserted | `Workforce Innovation and Opportunity Act` |
+
+### 42 U.S.C. § 3056i
+
+> The heading of section 511 of the Community Service Senior Opportunities Act (42 U.S.C. 3056i) is amended by striking “WORKFORCE INVESTMENT ACT OF 1998” and inserting “WORKFORCE INNOVATION AND OPPORTUNITY ACT”.
+
+| | |
+|---|---|
+| Removed | `WORKFORCE INVESTMENT ACT OF 1998` |
+| Inserted | `WORKFORCE INNOVATION AND OPPORTUNITY ACT` |
+
+### 29 U.S.C. § 3141
+
+> by striking “(A)” and all that follows through “The” and inserting “(A) Composition of measures.—The”; and
+
+| | |
+|---|---|
+| Removed | `(A)” and all that follows through “The` |
+| Inserted | `(A) Composition of measures.—The` |
+
+### 29 U.S.C. § 3141
+
+> by striking “(C)” and inserting “(B)”; and
+
+| | |
+|---|---|
+| Removed | `(C)` |
+| Inserted | `(B)` |
+
+### 29 U.S.C. § 3141
+
+> in the first sentence, by striking “(A)(i)” and inserting “(A)”; and
+
+| | |
+|---|---|
+| Removed | `(A)(i)` |
+| Inserted | `(A)` |
+
+### 42 U.S.C. § 3056k
+
+> in the matter preceding subparagraph (A), by striking “(a)(2)(A)(i)” and inserting “(a)(2)(A)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(A)(i)` |
+| Inserted | `(a)(2)(A)` |
+
+### 42 U.S.C. § 3056k
+
+> in paragraph (2), as so redesignated, by striking “paragraphs (1) and (2)” and inserting “paragraph (1)”;
+
+| | |
+|---|---|
+| Removed | `paragraphs (1) and (2)` |
+| Inserted | `paragraph (1)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “shall—” and all that follows through “annually evaluate” and inserting “shall annually evaluate”;
+
+| | |
+|---|---|
+| Removed | `shall—” and all that follows through “annually evaluate` |
+| Inserted | `shall annually evaluate` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(C)” and inserting “(a)(2)(B)”;
+
+| | |
+|---|---|
+| Removed | `(a)(2)(C)` |
+| Inserted | `(a)(2)(B)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(D)); and” and inserting “(a)(2)(E)).”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(D)); and` |
+| Inserted | `(a)(2)(E)).` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “2007” and inserting “2016”;
+
+| | |
+|---|---|
+| Removed | `2007` |
+| Inserted | `2016` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(C)” and inserting “(a)(2)(B)”;
+
+| | |
+|---|---|
+| Removed | `(a)(2)(C)` |
+| Inserted | `(a)(2)(B)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(D)” and inserting “(a)(2)(E)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(D)` |
+| Inserted | `(a)(2)(E)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “2006” and all that follows through “(i) met” and inserting “2016, met”; and
+
+| | |
+|---|---|
+| Removed | `2006” and all that follows through “(i) met` |
+| Inserted | `2016, met` |
+
+### 42 U.S.C. § 3056k
+
+> in clause (i), by striking “(A)(i); or” at the end and inserting “(A),”;
+
+| | |
+|---|---|
+| Removed | `(A)(i); or` |
+| Inserted | `(A),` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “2006—” and all that follows through “(i) failed” and inserting “2016, failed”; and
+
+| | |
+|---|---|
+| Removed | `2006—” and all that follows through “(i) failed` |
+| Inserted | `2016, failed` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(C)” and inserting “(a)(2)(B)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(C)` |
+| Inserted | `(a)(2)(B)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(D)” and inserting “(a)(2)(E)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(D)` |
+| Inserted | `(a)(2)(E)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(C)” and inserting “(a)(2)(B)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(C)` |
+| Inserted | `(a)(2)(B)` |
+
+### 42 U.S.C. § 3056k
+
+> by striking “(a)(2)(D)” and inserting “(a)(2)(E)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(2)(D)` |
+| Inserted | `(a)(2)(E)` |
+
+### 42 U.S.C. § 3056o
+
+> in subsection (a), by striking “such sums” and all that follows through the period at the end, and inserting “$445,189,405 for fiscal year 2017, $454,499,494 for fiscal year 2018, and $463,809,605 for fiscal year 2019.”; and
+
+| | |
+|---|---|
+| Removed | `such sums` |
+| Inserted | `$445,189,405 for fiscal year 2017, $454,499,494 for fiscal year 2018, and $463,809,605 for fiscal year 2019.` |
+
+### 42 U.S.C. § 3056o
+
+> by striking “July” and inserting “April”; and
+
+| | |
+|---|---|
+| Removed | `July` |
+| Inserted | `April` |
 
 ### 42 U.S.C. § 3057n
 
-> Section 643(2) of the Older Americans Act of 1965 (42 U.S.C. 3057n(2)) is amended by striking “fiscal year 2011” and inserting “each of fiscal years 2016 through 2018”.
+> in paragraph (1), by striking “such sums” and all that follows through the semicolon, and inserting “$31,934,018 for fiscal year 2017, $32,601,843 for fiscal year 2018, and $33,269,670 for fiscal year 2019;”; and
 
 | | |
 |---|---|
-| Removed | `fiscal year 2011` |
-| Inserted | `each of fiscal years 2016 through 2018` |
+| Removed | `such sums` |
+| Inserted | `$31,934,018 for fiscal year 2017, $32,601,843 for fiscal year 2018, and $33,269,670 for fiscal year 2019;` |
+
+### 42 U.S.C. § 3057n
+
+> in paragraph (2), by striking “such sums” and all that follows through the period at the end, and inserting “$7,718,566 for fiscal year 2017, $7,879,982 for fiscal year 2018, and $8,041,398 for fiscal year 2019.”.
+
+| | |
+|---|---|
+| Removed | `such sums` |
+| Inserted | `$7,718,566 for fiscal year 2017, $7,879,982 for fiscal year 2018, and $8,041,398 for fiscal year 2019.` |
+
+### 42 U.S.C. § 3058a
+
+> in subsection (a), by striking “such sums” and all that follows through the period at the end, and inserting “$16,280,630 for fiscal year 2017, $16,621,101 for fiscal year 2018, and $16,961,573 for fiscal year 2019.”;
+
+| | |
+|---|---|
+| Removed | `such sums` |
+| Inserted | `$16,280,630 for fiscal year 2017, $16,621,101 for fiscal year 2018, and $16,961,573 for fiscal year 2019.` |
 
 ### 42 U.S.C. § 3058g
 
@@ -532,6 +739,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3012` | amend | in subparagraph (E), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3012` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3012` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3011` | strike | Section 205 of the Older Americans Act of 1965 (42 U.S.C.3016) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3020f` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3020f` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3023` | strike | by striking “(1)” and all that follows through “(2)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3024` | replace | in subsection (a)(3), by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3024` | strike | in subsection (b), by striking “subpart 1 of”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3026` | amend | in subparagraph (G), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -557,8 +768,43 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395` | redesignate | by redesignating paragraph (13) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3032` | replace | in subsection (b), by striking “out” and all that follows through the period at the end, and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3032i` | strike | Section 420(c) of the Older Americans Act of 1965 (42 U.S.C. 3032i(c)) is amended by striking “national”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3032d` | repeal | Sections 415, 419, and 421 of the Older Americans Act of 1965 (42 U.S.C. 3032d, 3032h, 3032j) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056` | insert | by inserting “and the local workforce development board” after “service area”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3056` | insert | in subsection (e)(3), by inserting “, with the State workforce development board and local workforce development board,” after “aging”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3111` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (7), (8), and (9), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3111` | replace | in paragraph (4), by striking subparagraph (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3113` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | strike | in the subsection heading, by striking “and Indicators”; | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 3141` | strike | in the paragraph heading, by striking “and indicators”; and | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 3141` | strike | by striking “and additional indicators of performance” each place it appears; | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 3141` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | replace | by striking subparagraphs (D) and (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | strike | in paragraph (3), by striking “and to report information on the additional indicators of performance”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056k` | replace | by striking subparagraphs (B) through (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | replace | by striking “described” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056k` | strike | by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | strike | by striking “and achieve the applicable percentage”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056k` | strike | by striking “(beginning with program year 2007)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056k` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | strike | in subparagraph (B)(iii), by striking “(beginning with program year 2007)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056k` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056k` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056l` | strike | by striking “and addressing additional indicators of performance”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056l` | strike | by striking “and additional indicators of performance”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3056o` | insert | by inserting “Federal” after “available for”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3056o` | insert | by inserting after the 1st sentence the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3056p` | redesignate | by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3058a` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3058a` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058f` | strike | Section 711(6) of the Older Americans Act of 1965 (42 U.S.C. 3058f(6)) is amended by striking “older”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3058g` | add-at-end | in paragraph (2), by adding at the end the following: “The Ombudsman shall be responsible for the management, including the fiscal management, of the Office.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058g` | replace | in subparagraph (A), by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

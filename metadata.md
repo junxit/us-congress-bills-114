@@ -1,7 +1,7 @@
 ---
 measure: S. 192
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 192
@@ -63,3 +63,9 @@ Older Americans Act Reauthorization Act of 2016
 - 2015-07-17 — Message on Senate action sent to the House.
 - 2015-07-20 — Received in the House.
 - 2015-07-20 — Referred to the House Committee on Education and the Workforce.
+- 2016-03-21 — Considered under suspension of the rules. (consideration: CR H1472-1480)
+- 2016-03-21 — DEBATE - The House proceeded with forty minutes of debate on S. 192.
+- 2016-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-21 — Mr. Curbelo (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-03-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1472-1477)
+- 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1472-1477)
