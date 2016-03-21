@@ -1,7 +1,7 @@
 ---
 measure: S. 2512
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2512
@@ -48,3 +48,16 @@ Adding Zika Virus to the FDA Priority Review Voucher Program Act
 - 2016-03-18 — Message on Senate action sent to the House.
 - 2016-03-21 — Received in the House.
 - 2016-03-21 — Referred to the House Committee on Energy and Commerce.
+- 2016-03-25 — Referred to the Subcommittee on Health.
+- 2016-04-12 — Considered under suspension of the rules. (consideration: CR H1602-1605)
+- 2016-04-12 — DEBATE - The House proceeded with forty minutes of debate on S. 2512.
+- 2016-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-12 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
+- 2016-04-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1602)
+- 2016-04-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1602)
+- 2016-04-14 — Presented to President.
+- 2016-04-14 — Presented to President.
+- 2016-04-19 — Became Public Law No: 114-146.
+- 2016-04-19 — Became Public Law No: 114-146.
+- 2016-04-19 — Signed by President.
+- 2016-04-19 — Signed by President.
