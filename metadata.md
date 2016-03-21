@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1670
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1670
@@ -78,3 +78,9 @@ National POW/MIA Remembrance Act of 2015
 - 2016-02-01 — Placed on the Union Calendar, Calendar No. 313.
 - 2016-02-01 — Reported by the Committee on House Administration. H. Rept. 114-410.
 - 2016-02-01 — Reported by the Committee on House Administration. H. Rept. 114-410.
+- 2016-03-21 — Considered under suspension of the rules. (consideration: CR H1469-1472)
+- 2016-03-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1670.
+- 2016-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-21 — Mrs. Miller (MI) moved to suspend the rules and pass the bill.
+- 2016-03-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1469-1470)
+- 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1469-1470)
