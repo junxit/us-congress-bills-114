@@ -22,44 +22,45 @@ The Congress finds that—
 - **(3)** frequently, children waiting to be placed with an adoptive family, relative, or foster parent in another State spend more time waiting for this to occur than children who are placed with an adoptive, family, relative, or foster parent in the same State, because of the outdated, administratively burdensome ICPC process;
 - **(4)** no child should have to wait longer to be placed in a loving home simply because the child must cross a State line;
 - **(5)** the National Electronic Interstate Compact Enterprise (NEICE) was launched in August 2014 in Indiana, Nevada, Florida, South Carolina, Wisconsin, and the District of Columbia, and is expected to be expanded into additional States to improve the administrative process by which children are placed with families across State lines;
-- **(6)** States using this centralized electronic interstate case processing system have reduced administrative costs and the amount of staff time required to process these cases, and caseworkers can spend more time helping children instead of copying and mailing paperwork between States;
+- **(6)** States using this electronic interstate case-processing system have reduced administrative costs and the amount of staff time required to process these cases, and caseworkers can spend more time helping children instead of copying and mailing paperwork between States;
 - **(7)** since NEICE was launched, placement time has decreased by 30 percent for interstate foster care placements; and
-- **(8)** on average, States using this centralized electronic interstate case processing system have been able to reduce from 24 days to 13 days the time it takes to identify a family for a child and prepare the paperwork required to start the ICPC process.
+- **(8)** on average, States using this electronic interstate case-processing system have been able to reduce from 24 business days to 13 business days the time it takes to identify a family for a child and prepare the paperwork required to start the ICPC process.
 
 ## § 3. State plan requirement
 
 - **(a)** *In general* Section 471(a)(25) of the Social Security Act (42 U.S.C. 671(a)(25)) is amended—
   - **(1)** by striking “provide” and insert “provides”; and
-  - **(2)** by inserting “, which, not later than October 1, 2022, shall include a centralized electronic interstate case processing system” before the 1st semicolon.
+  - **(2)** by inserting “, which, not later than October 1, 2026, shall include the use of an electronic interstate case-processing system” before the 1st semicolon.
 - **(b)** *Effective date*
   - **(1)** *In general* The amendments made by subsection (a) shall take effect on the 1st day of the 1st calendar quarter beginning on or after the date of the enactment of this Act, and shall apply to payments under part E of title IV of the Social Security Act for calendar quarters beginning on or after such date.
   - **(2)** *Delay permitted if state legislation required* If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act to meet the additional requirement imposed by the amendments made by subsection (a), the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the preceding sentence, if the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
 
-## § 4. Grants for the development of a centralized electronic system to expedite the interstate placement of children in foster care or guardianship, or for adoption
+## § 4. Grants for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship, or for adoption
 
-- **(a)** *In general* Section 437 of the Social Security Act (42 U.S.C. 637) is amended by adding at the end the following:
-  > - **(g)** *Grants for the development of a centralized electronic system To expedite the interstate placement of children in foster care or guardianship, or for adoption*
-  >   - **(1)** *Purpose* The purpose of this subsection is to facilitate the development of a centralized electronic system for the exchange of data and documents to expedite the placements of children in foster, guardianship, or adoptive homes across State lines.
-  >   - **(2)** *Application requirements* A State that desires a grant under this subsection shall submit to the Secretary an application containing the following:
-  >     - **(A)** A description of the goals and outcomes to be achieved during the period for which grant funds are sought, which goals and outcomes must result in—
-  >       - **(i)** reducing the time it takes for a child to be provided with a safe and appropriate permanent living arrangement across State lines;
-  >       - **(ii)** improving administrative processes and reducing costs in the foster care system; and
-  >       - **(iii)** the secure exchange of relevant case files and other necessary materials in real time, and timely communications and placement decisions regarding interstate placements of children.
-  >     - **(B)** A description of the activities to be funded in whole or in part with the grant funds, including the sequencing of the activities.
-  >     - **(C)** A description of the strategies for integrating programs and services for children who are placed across State lines.
-  >     - **(D)** Such other information as the Secretary may require.
-  >   - **(3)** *Grant authority* The Secretary may make a grant to a State that complies with paragraph (2).
-  >   - **(4)** *Use of funds* A State to which a grant is made under this subsection shall use the grant for the development of the centralized electronic system described in paragraph (1).
-  >   - **(5)** *Evaluations* Not later than 1 year after the final year in which grants are awarded under this subsection, the Secretary shall submit to the Congress, and make available to the general public by posting on a website, that contains the following information:
-  >     - **(A)** How using the centralized electronic system developed pursuant to paragraph (4) has changed the time it takes for children to be placed across State lines.
-  >     - **(B)** The number of cases subject to the Interstate Compact on the Placement of Children that were processed through the centralized electronic system, and the number of interstate child placement cases that were processed outside the centralized electronic system, by each State in each year.
-  >     - **(C)** The progress made by States in implementing the centralized electronic system.
-  >     - **(D)** How using the centralized electronic system has affected various metrics related to child safety and well-being, including the time it takes for children to be placed across State lines.
-  >     - **(E)** How using the centralized electronic system has affected administrative costs and caseworker time spent on placing children across State lines.
-  >   - **(6)** *Data integration* The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the centralized electronic system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
-  >     - **(A)** connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
-  >     - **(B)** simplifying and improving reporting related to paragraphs (34) and (35) of section 471(a) regarding children or youth who have been identified as being a sex trafficking victim or children missing from foster care; and
-  >     - **(C)** improving the ability of States to quickly comply with background check requirements of section 471(a)(20), including checks of child abuse and neglect registries as required by section 471(a)(20)(B).
+Section 437 of the Social Security Act (42 U.S.C. 637) is amended by adding at the end the following:
+
+> - **(g)** *Grants for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship, or for adoption*
+>   - **(1)** *Purpose* The purpose of this subsection is to facilitate the development of an electronic interstate case-processing system for the exchange of data and documents to expedite the placements of children in foster, guardianship, or adoptive homes across State lines.
+>   - **(2)** *Application requirements* A State that desires a grant under this subsection shall submit to the Secretary an application containing the following:
+>     - **(A)** A description of the goals and outcomes to be achieved during the period for which grant funds are sought, which goals and outcomes must result in—
+>       - **(i)** reducing the time it takes for a child to be provided with a safe and appropriate permanent living arrangement across State lines;
+>       - **(ii)** improving administrative processes and reducing costs in the foster care system; and
+>       - **(iii)** the secure exchange of relevant case files and other necessary materials in real time, and timely communications and placement decisions regarding interstate placements of children.
+>     - **(B)** A description of the activities to be funded in whole or in part with the grant funds, including the sequencing of the activities.
+>     - **(C)** A description of the strategies for integrating programs and services for children who are placed across State lines.
+>     - **(D)** Such other information as the Secretary may require.
+>   - **(3)** *Grant authority* The Secretary may make a grant to a State that complies with paragraph (2).
+>   - **(4)** *Use of funds* A State to which a grant is made under this subsection shall use the grant to support the State in connecting with the electronic interstate case-processing system described in paragraph (1).
+>   - **(5)** *Evaluations* Not later than 1 year after the final year in which grants are awarded under this subsection, the Secretary shall submit to the Congress, and make available to the general public by posting on a website, a report that contains the following information:
+>     - **(A)** How using the electronic interstate case-processing system developed pursuant to paragraph (4) has changed the time it takes for children to be placed across State lines.
+>     - **(B)** The number of cases subject to the Interstate Compact on the Placement of Children that were processed through the electronic interstate case-processing system, and the number of interstate child placement cases that were processed outside the electronic interstate case-processing system, by each State in each year.
+>     - **(C)** The progress made by States in implementing the electronic interstate case-processing system.
+>     - **(D)** How using the electronic interstate case-processing system has affected various metrics related to child safety and well-being, including the time it takes for children to be placed across State lines.
+>     - **(E)** How using the electronic interstate case-processing system has affected administrative costs and caseworker time spent on placing children across State lines.
+>   - **(6)** *Data integration* The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
+>     - **(A)** connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
+>     - **(B)** simplifying and improving reporting related to paragraphs (34) and (35) of section 471(a) regarding children or youth who have been identified as being a sex trafficking victim or children missing from foster care; and
+>     - **(C)** improving the ability of States to quickly comply with background check requirements of section 471(a)(20), including checks of child abuse and neglect registries as required by section 471(a)(20)(B).
 
 ## § 5. Continuation of discretionary funding to promote safe and stable families
 

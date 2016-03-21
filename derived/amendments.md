@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4472
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,6 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 671` | insert | by inserting “, which, not later than October 1, 2022, shall include a centralized electronic interstate case processing system” before the 1st semicolon. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 671` | insert | by inserting “, which, not later than October 1, 2026, shall include the use of an electronic interstate case-processing system” before the 1st semicolon. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 637` | add-at-end | Section 437 of the Social Security Act (42 U.S.C. 637) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 637` | add-at-end | Section 437(b) of the Social Security Act (42 U.S.C. 637(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
