@@ -23,15 +23,14 @@ This Act may be cited as the “Counterterrorism Screening and Assistance Act of
   - **(5)** Failure to effectively coordinate capacity-building activities also results in greater risk of overlap, waste, and unnecessary duplication between the United States and international programs.
 - **(b)** *Sense of Congress* It is the sense of Congress that the United States Government must ensure capacity-building assistance is coordinated both among United States Government departments and agencies as well as with foreign implementing partners, and assistance should be prioritized for the highest-risk countries for travel by terrorists and foreign fighters.
 - **(c)** *Plan*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act and every two years thereafter at the time of the President’s budget submission to Congress under section 1105 of title 31, United States Code, until 2022, the Secretary of State shall, in accordance with the protection of intelligence sources and methods, submit to the appropriate congressional committees unclassified and classified versions of a foreign partner engagement plan which catalogues existing capacity-building initiatives abroad to combat travel by terrorists and foreign fighters and identifies areas for adjustment to align ongoing efforts with risk-based priorities.
-  - **(2)** *Coordination* The plan required under paragraph (1) shall be developed in coordination with all relevant United States Government departments and agencies and in consultation with the Secretary of Homeland Security, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Director of National Intelligence, and the Director of the Federal Bureau of Investigation.
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act and every 2 years thereafter at the time of the President’s budget submission to Congress under section 1105 of title 31, United States Code, until 2022, the Secretary of State shall, in accordance with the protection of intelligence sources and methods, develop and submit to the appropriate congressional committees unclassified and classified versions of a foreign partner engagement plan which catalogues existing capacity-building initiatives abroad to combat travel by terrorists and foreign fighters and identifies areas for adjustment to align ongoing efforts with risk-based priorities.
+  - **(2)** *Coordination* The plan required under paragraph (1) shall be developed in coordination with all relevant United States Government departments and agencies and in consultation with the Secretary of Homeland Security, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Director of National Intelligence, and the Director of the Federal Bureau of Investigation.
   - **(3)** *Contents* The plan required under paragraph (1) shall—
     - **(A)** include an assessment of all countries and whether each country is high-risk, medium-risk, or low-risk for travel by terrorists and foreign fighters based on the minimum standards described in section 4(b), as well as—
-      - **(i)** the proximity of each country to the United States;
-      - **(ii)** an identification of last points of departure in each country to the United States;
-      - **(iii)** visa waiver program status or visa application and rejection rates for each country;
-      - **(iv)** recent threats, terrorist and foreign fighter travel trends, and the overall terror threat environment in each country; and
-      - **(v)** other criteria as determined by the Secretary of State and the Secretary of Homeland Security;
+      - **(i)** an identification of the number of flights that originate from last points of departure in each country to the United States;
+      - **(ii)** visa waiver program status or visa application and denial rates for each country;
+      - **(iii)** recent threats, terrorist and foreign fighter travel trends, and the overall terror threat environment in each country; and
+      - **(iv)** other criteria as determined by the Secretary of State and the Secretary of Homeland Security;
     - **(B)** detail existing United States Government programs, projects, and activities which are intended to or have the substantial effect of building the capacity of such countries to combat travel by terrorists and foreign fighters, including estimated spending levels by country where practicable; and
     - **(C)** outline a plan for prioritizing United States Government resources toward high-risk and medium-risk countries, including—
       - **(i)** identifying efforts which should be reformed, consolidated, or eliminated; and
@@ -47,7 +46,7 @@ This Act may be cited as the “Counterterrorism Screening and Assistance Act of
 - **(b)** *Equipment transfer*
   - **(1)** *In general* Subject to paragraphs (2) and (3), the Secretary of Homeland Security, in consultation with the Secretary of State, is authorized to provide, with or without reimbursement, excess nonlethal equipment and supplies owned by the Department of Homeland Security to a foreign government.
   - **(2)** *Determination* The Secretary of Homeland Security is authorized to provide equipment and supplies pursuant to paragraph (1) if the Secretary determines that the provision of such equipment and supplies would—
-    - **(A)** further the homeland security interests of the United States; or
+    - **(A)** further the homeland security interests of the United States; and
     - **(B)** enhance the recipient government’s capacity to—
       - **(i)** mitigate the risk or threat of terrorism, infectious disease, or natural disaster;
       - **(ii)** protect and expedite lawful trade and travel; or
@@ -58,11 +57,11 @@ This Act may be cited as the “Counterterrorism Screening and Assistance Act of
   - **(4)** *Related training* In conjunction with a provision of equipment or supplies pursuant to paragraph (1), the Secretary of Homeland Security may provide such equipment-related or supplies-related training and assistance as the Secretary determines to be necessary.
   - **(5)** *Maintenance of transferred equipment* The Secretary of Homeland Security may provide for the maintenance of transferred equipment or supplies through service contracts or other means, with or without reimbursement, as the Secretary determines appropriate.
   - **(6)** *Reimbursement of expenses* The Secretary of Homeland Security is authorized to collect payment from the recipient government for the provision of training, shipping costs, supporting materials, maintenance, supplies, or other assistance in support of provided equipment or supplies under this subsection.
-  - **(7)** *Receipts credited as offsetting collections* Notwithstanding section 3302 of title 31, any amount collected under this subsection—
-    - **(A)** shall be credited as offsetting collections to the account that finances the activities and services for which the payment is received; and
+  - **(7)** *Receipts credited as offsetting collections* Notwithstanding section 3302 of title 31, United States Code, any amount collected under this subsection—
+    - **(A)** shall be credited as offsetting collections, subject to appropriations, to the account that finances the activities and services for which the payment is received; and
     - **(B)** shall remain available until expended for the purpose of providing for the security interests of the homeland.
   - **(8)** *Rule of construction* Nothing in this subsection may be construed as affecting, augmenting, or diminishing the authority of the Secretary of State.
-  - **(9)** *Definition* For the purposes of this section, the term “excess nonlethal equipment and supplies” means equipment and supplies the Secretary of Homeland Security has determined is either not required for United States domestic operations, or would be more effective to homeland security if deployed for use outside of the United States.
+  - **(9)** *Definition* For the purposes of this section, the term excess nonlethal equipment and supplies means equipment and supplies the Secretary of Homeland Security has determined is either not required for United States domestic operations, or would be more effective to homeland security if deployed for use outside of the United States.
 - **(c)** *Notification to Congress*
   - **(1)** *In general* Not later than 15 days before providing any systems or equipment or supplies under this section, the Secretary of Homeland Security and Secretary of State shall provide notification to the appropriate congressional committees of such provision.
   - **(2)** *Contents* A notification required under paragraph (1) shall include the following:
@@ -73,7 +72,7 @@ This Act may be cited as the “Counterterrorism Screening and Assistance Act of
     - **(E)** The total dollar value of such systems, equipment, and supplies.
 - **(d)** *Rule of construction*
   - **(1)** *In general* The authority provided under this section shall be exercised in accordance with applicable provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Export Administration Regulations, or any other similar provision of law.
-  - **(2)** *Definition* In this subsection, the term “Export Administration Regulations” means—
+  - **(2)** *Definition* In this subsection, the term Export Administration Regulations means—
     - **(A)** the Export Administration Regulations as maintained and amended under the authority of the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and codified in subchapter C of chapter VII of title 15, Code of Federal Regulations; or
     - **(B)** any successor regulations.
 
@@ -91,19 +90,24 @@ This Act may be cited as the “Counterterrorism Screening and Assistance Act of
   - **(1)** The government of the country makes meaningful efforts to identify and monitor terrorists and foreign fighters operating within the territory of the country.
   - **(2)** The government of the country regularly exchanges substantive counterterrorism information with other foreign governments, including the United States Government, through bilateral or multilateral channels and international organizations such as INTERPOL, and cooperates with other foreign governments in the investigation and prosecution of terrorists and foreign fighters.
   - **(3)** The government of the country implements effective border controls or participates in an existing border-crossing control regime that has been determined by the United States Government to employ effective border-crossing oversight.
-  - **(4)** The government of the country has controls in place to prevent counterfeiting, forgery, and, fraudulent use or possession of false identity papers and travel documents.
+  - **(4)** The government of the country has controls and systems in place to prevent and report upon counterfeiting, forgery, and fraudulent use or possession of false, stolen, or lost identity papers and travel documents.
   - **(5)** The government of the country collects air passenger data and employs evidence-based traveler risk assessment and screening procedures, including collection and analysis of travel data.
   - **(6)** The government of the country appropriately screens travelers, including vetting of travelers at air, sea, and land ports of entry, against counterterrorism and other criminal databases, as appropriate.
   - **(7)** The government of the country submits information to INTERPOL databases and screens travelers against INTERPOL databases at ports of entry and exit.
   - **(8)** The government of the country has established and implemented domestic laws criminalizing material support to foreign terrorist organizations and has the ability and willingness to prosecute cases involving such material support to foreign terrorist organizations.
   - **(9)** The government of the country takes measures to prevent individuals in its territory from traveling abroad to enlist with or provide material support to foreign terrorist organizations.
   - **(10)** The government of the country takes measures to ensure a minimal level of corruption and likelihood that corruption could impact the veracity of security and intelligence reporting from the country, a minimal likelihood that such corruption could adversely affect the legitimacy of national identity papers of the country, and the country does not shelter suspects from investigation and prosecution.
-- **(c)** *Suspension of assistance* The Secretary of State, in consultation with the Secretary of Homeland Security, is authorized to suspend nonhumanitarian, nontrade-related foreign assistance to any government of a foreign country if the foreign country is identified in subparagraph (C) of subsection (a)(1) in the most recent report submitted to the appropriate congressional committees under such subsection.
+  - **(11)** The government of a country is not determined to be a high-risk program country under section 217(c)(12) of the Immigration and Nationality Act (8. U.S.C. 1187(c)(12)).
+- **(c)** *Suspension of assistance* The Secretary of State, in consultation with the Secretary of Homeland Security and the heads of other Federal agencies, as appropriate, is authorized to suspend nonhumanitarian, nontrade-related foreign assistance to any government of a foreign country if the foreign country is identified in subparagraph (C) of subsection (a)(1) in the most recent report submitted to the appropriate congressional committees under such subsection.
 
 ## § 5. Definitions
 
-In this Act—
+In this Act:
 
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, and the Committee on Foreign Affairs of the House of Representatives.
-- **(2)** *Foreign terrorist organization* The term “foreign terrorist organization” means an organization that is designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
-- **(3)** *Nonhumanitarian, nontrade-related foreign assistance* The term “nonhumanitarian, nontrade-related foreign assistance” has the meaning given the term in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+- **(2)** *Foreign terrorist organization* The term foreign terrorist organization means an organization that is designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+- **(3)** *Nonhumanitarian, nontrade-related foreign assistance* The term nonhumanitarian, nontrade-related foreign assistance has the meaning given the term in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+
+## § 6. Prohibition on additional funding
+
+No additional funds are authorized to be appropriated to carry out this Act.
