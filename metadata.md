@@ -1,7 +1,7 @@
 ---
 measure: S. 192
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 192
@@ -16,7 +16,7 @@ Older Americans Act Reauthorization Act of 2016
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (26)
+## Cosponsors (27)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Burr, Richard [R-NC] (B001135)
@@ -44,6 +44,7 @@ Older Americans Act Reauthorization Act of 2016
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (2)
 
@@ -69,3 +70,14 @@ Older Americans Act Reauthorization Act of 2016
 - 2016-03-21 — Mr. Curbelo (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-03-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1472-1477)
 - 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1472-1477)
+- 2016-03-22 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-04-07 — Measure laid before Senate by unanimous consent. (consideration: CR S1794-1795)
+- 2016-04-07 — Message on Senate action sent to the House.
+- 2016-04-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Voice Vote.(text as Senate agree to the House amendment: CR S1794)
+- 2016-04-07 — Senate agreed to the House amendment to the Senate bill by Voice Vote. (text as Senate agree to the House amendment: CR S1794)
+- 2016-04-13 — Presented to President.
+- 2016-04-13 — Presented to President.
+- 2016-04-19 — Became Public Law No: 114-144.
+- 2016-04-19 — Became Public Law No: 114-144.
+- 2016-04-19 — Signed by President.
+- 2016-04-19 — Signed by President.
