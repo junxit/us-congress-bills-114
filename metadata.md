@@ -1,7 +1,7 @@
 ---
 measure: S. 2143
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2143
@@ -34,3 +34,17 @@ A bill to provide for the authority for the successors and assigns of the Starr-
 - 2016-03-18 — Message on Senate action sent to the House.
 - 2016-03-21 — Received in the House.
 - 2016-03-21 — Referred to the House Committee on Foreign Affairs.
+- 2016-04-20 — Committee Consideration and Mark-up Session Held.
+- 2016-04-20 — Ordered to be Reported by Unanimous Consent.
+- 2016-05-16 — Considered under suspension of the rules. (consideration: CR H2397-2399)
+- 2016-05-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2143.
+- 2016-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-16 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2016-05-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2397-2398)
+- 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2397-2398)
+- 2016-05-18 — Presented to President.
+- 2016-05-18 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-163.
+- 2016-05-20 — Became Public Law No: 114-163.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
