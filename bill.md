@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4839
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4839
+
+> To prohibit the Government from requiring any person to assist in devising a method for breaking the encryption of a wire or oral communication.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Our Devices Act of 2016”.
+
+## § 2. Prohibition of requiring the breaking of encryption of wire or oral communications
+
+No officer or entity of the Federal Government shall have any authority to require any person to assist in devising a method for breaking the encryption of a wire or oral communication as such term are defined for the purposes of chapter 119 of title 18, United States Code.
