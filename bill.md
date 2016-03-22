@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4840
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4840
+
+> To amend the Internal Revenue Code of 1986 to increase the maximum wages allowed under the work opportunity tax credit for ex-felons, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Hire For a Second Chance Act of 2016”.
+
+## § 2. Extension and modification of work opportunity tax credit
+
+- **(a)** *Credit made permanent* Section 51(c) of the Internal Revenue Code of 1986 is amended by striking paragraph (4) and redesignating paragraph (5) as paragraph (4).
+- **(b)** *Increase in wage limitation for ex-Felons*
+  - **(1)** *Limitation on wages taken into account* Section 51(b)(3) of such Code is amended—
+    - **(A)** by striking “subsection (d)(3)(A)(iv), and” and inserting “subsection (d)(3)(A)(iv),”, and
+    - **(B)** by striking “subsection (d)(3)(A)(ii)(II))” and inserting “subsection (d)(3)(A)(ii)(II), and $14,000 in the case of any individual who is an ex-felon by reason of subsection (d)(4))”.
+  - **(2)** *Inflation adjustment* Section 51(b) of such Code is amended by adding at the end the following:
+    > - **(4)** *Adjustment for inflation* In the case of any taxable year beginning after 2016, the $14,000 dollar amount contained in paragraph (3) relating to ex-felons shall be increased by an amount equal to the product of—
+    >   - **(A)** such dollar amount, and
+    >   - **(B)** the cost of living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+
+- **(c)** *Qualified ex-Felon* Section 51(d)(4)(B) of such Code is amended by striking “1 year” and inserting “3 years”.
+- **(d)** *Effective date* The amendments made by this section shall apply to individuals who begin work for the employer after December 31, 2015.
