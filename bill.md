@@ -7,14 +7,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4336
 
-> To amend title 38, United States Code, to provide for the burial of the cremated remains of persons who served as Women’s Air Forces Service Pilots in Arlington National Cemetery.
+> To amend title 38, United States Code, to provide for the burial in Arlington National Cemetery of the cremated remains of certain persons whose service has been determined to be active service.
 
 ## § 1. Burial of cremated remains in Arlington National Cemetery of certain persons whose service is deemed to be active service
 
 - **(a)** *In general* Section 2410 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(c)**
-  >   - **(1)** The Secretary of the Army shall ensure that under such regulations as the Secretary may prescribe, the cremated remains of any person described in paragraph (2) are eligible for inurnment in Arlington National Cemetery with military burial honors in accordance with section 1491 of title 10.
-  >   - **(2)** A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as of the date of the enactment of this Act.
+  >   - **(1)** The Secretary of the Army shall ensure that under such regulations as the Secretary may prescribe, the cremated remains of any person described in paragraph (2) are eligible for inurnment in Arlington National Cemetery with military honors in accordance with section 1491 of title 10.
+  >   - **(2)** A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as of the date of the enactment of this paragraph.
 
 - **(b)** *Applicability*
   - **(1)** *In general* The amendment made by subsection (a) shall apply with respect to—

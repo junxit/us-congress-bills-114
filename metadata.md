@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4336
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4336
@@ -215,6 +215,10 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-03-22 — [House 114-2-135](votes/house-114-2-0135.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (385–0)
+
 ## Actions
 
 - 2016-01-06 — Introduced in House
@@ -232,3 +236,12 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - 2016-03-21 — Placed on the Union Calendar, Calendar No. 351.
 - 2016-03-21 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-459, Part I.
 - 2016-03-21 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-459, Part I.
+- 2016-03-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-03-22 — Considered as unfinished business. (consideration: CR H1534-1535)
+- 2016-03-22 — Considered under suspension of the rules. (consideration: CR H1528-1531)
+- 2016-03-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4336.
+- 2016-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-03-22 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 135). (text: CR H1528)
+- 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 135).(text: CR H1528)
+- 2016-03-22 — The title of the measure was amended. Agreed to without objection.
