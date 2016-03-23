@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to require inclusion of the taxpayer’s social security number to claim the refundable portion of the child tax credit.
 
-## § 1. Social security number required to claim the refundable portion of the child tax credit
+## § 1. Short title
+
+This Act may be cited as the “Refundable Child Tax Credit Eligibility Verification Reform Act of 2016”.
+
+## § 2. Social security number required to claim the refundable portion of the child tax credit
 
 - **(a)** *In general* Section 24(d) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
   > - **(6)** *Identification requirement*
