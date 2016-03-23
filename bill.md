@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 4843
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4843
+
+> To amend the Child Abuse Prevention and Treatment Act to require certain monitoring and oversight, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Safe Care for the Prevention of Infant Abuse and Neglect Act”.
+
+## § 2. Best practices for development of plans of safe care
+
+Section 103(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(b)) is amended—
+
+- **(1)** by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; and
+- **(2)** by inserting after paragraph (4), the following:
+  > - **(5)** maintain and disseminate information about the best practices relating to the development of plans of safe care as described in section 106(b)(2)(B)(iii) for infants born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+
+## § 3. State plans
+
+Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(iii)) is amended by inserting before the period at the end the following: “to ensure the safety and well-being of such infant following release from the care of healthcare providers, including through addressing the health of the affected family or caregiver”.
+
+## § 4. Data reports
+
+- **(a)** *In general* Section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by adding at the end of the following:
+  > - **(17)** The total number of infants—
+  >   - **(A)** identified under subsection (b)(2)(B)(ii);
+  >   - **(B)** for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
+  >   - **(C)** for whom referrals are made for appropriate services, including services for the affected family or caregiver, as may be necessary under subsection (b)(2)(B)(iii).
+
+- **(b)** *Redesignation* Effective on May 29, 2017, section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by redesignating paragraph (17) (as added by subsection (a)) as paragraph (18).
+
+## § 5. Monitoring and oversight
+
+- **(a)** *Amendment* Title I of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is further amended by adding at the end the following:
+  > ## § 114. Monitoring and oversight
+  >
+  > The Secretary shall conduct monitoring to ensure that each State that receives a grant under section 106 is in compliance with the requirements of section 106(b), which—
+  >
+  > - **(1)** shall—
+  >   - **(A)** be in addition to the review of the State plan upon its submission under section 106(b)(1)(A); and
+  >   - **(B)** include monitoring of State policies and procedures required under clauses (ii) and (iii) of section 106(b)(2)(B); and
+  > - **(2)** may include—
+  >   - **(A)** a comparison of activities carried out by the State to comply with the requirements of section 106(b) with the State plan most recently approved under section 432 of the Social Security Act;
+  >   - **(B)** information available on the Website of the State relating to its compliance with the requirements of section 106(b);
+  >   - **(C)** site visits, as may be necessary to carry out such monitoring; and
+  >   - **(D)** information available in the State’s Annual Progress and Services Report most recently submitted under section 1357.16 of title 45, Code of Federal Regulations (or successor regulations).
+
+- **(b)** *Table of contents* The table of contents in section 1(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note) is amended by inserting after the item relating to section 113, the following:
+
+## § 6. Rule of construction
+
+Nothing in this Act shall be construed to authorize the Secretary of Health and Human Services or any other officer of the Federal Government to add new requirements to section 106(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)), as amended by this Act.
