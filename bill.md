@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2947
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Financial Institution Bankruptcy Act of 2015”.
+This Act may be cited as the “Financial Institution Bankruptcy Act of 2016”.
 
 ## § 2. General provisions relating to covered financial corporations
 
@@ -59,21 +59,14 @@ Chapter 11 of title 11, United States Code, is amended by adding at the end the 
 - **(a)** *Amendment to chapter 13* Chapter 13 of title 28, United States Code, is amended by adding at the end the following:
   > ## § 298. Judge for a case under subchapter V of chapter 11 of title 11
   >
-  > - **(a)** Notwithstanding section 295, the Chief Justice of the United States shall designate not fewer than 3 judges of the courts of appeals in not fewer than 4 circuits to serve on an appellate panel to be available to hear an appeal under section 1183 of title 11 in a case under such title concerning a covered financial corporation. Appellate judges may request to be considered by the Chief Justice of the United States for such designation.
-  > - **(b)**
+  > - **(a)**
   >   - **(1)** Notwithstanding section 295, the Chief Justice of the United States shall designate not fewer than 10 bankruptcy judges to be available to hear a case under subchapter V of chapter 11 of title 11. Bankruptcy judges may request to be considered by the Chief Justice of the United States for such designation.
-  >   - **(2)** Notwithstanding section 155, a case under subchapter V of chapter 11 of title 11 shall be heard under section 157 by a bankruptcy judge designated under paragraph (1), who shall be assigned to hear such case by the chief judge of the court of appeals for the circuit embracing the district in which the case is pending. To the greatest extent practicable, the approvals required under section 155 should be obtained.
+  >   - **(2)** Notwithstanding section 155, a case under subchapter V of chapter 11 of title 11 shall be heard under section 157 by a bankruptcy judge designated under paragraph (1), who shall be randomly assigned to hear such case by the chief judge of the court of appeals for the circuit embracing the district in which the case is pending. To the greatest extent practicable, the approvals required under section 155 should be obtained.
   >   - **(3)** If the bankruptcy judge assigned to hear a case under paragraph (2) is not assigned to the district in which the case is pending, the bankruptcy judge shall be temporarily assigned to the district.
-  > - **(c)**
-  >   - **(1)** The court of appeals shall have jurisdiction of appeals from all orders for relief and orders of dismissal under section 1183 of title 11.
-  >   - **(2)** Notwithstanding section 295, in an appeal under paragraph (1) in a case under title 11 concerning a covered financial corporation shall be heard by—
-  >     - **(A)** 3 judges selected from the appellate panel designated under subsection (a); or
-  >     - **(B)** if the 3 judges of such panel are not immediately available to hear the case, 3 judges designated under subsection (a) from another circuit and assigned by the Chief Justice of the United States to hear the case.
-  >   - **(3)** If any of the judges of the appellate panel specified in paragraph (2) is not assigned to the circuit in which the appeal is pending, the judges shall be temporarily assigned to the circuit.
-  >   - **(4)** A case under subchapter V of chapter 11 of title 11, and all proceedings in the case, shall take place in the district in which the case is pending.
-  > - **(d)** In this section, the term “covered financial corporation” has the meaning given that term in section 101(9A) of title 11.
+  > - **(b)** A case under subchapter V of chapter 11 of title 11, and all proceedings in the case, shall take place in the district in which the case is pending.
+  > - **(c)** In this section, the term “covered financial corporation” has the meaning given that term in section 101(9A) of title 11.
 
-- **(b)** *Amendment to section 1334* Section 1334 of title 28, United States Code, is amended by adding at the end the following:
+- **(b)** *Amendment to section 1334 of title 28* Section 1334 of title 28, United States Code, is amended by adding at the end the following:
   > - **(f)** This section does not grant jurisdiction to the district court after a transfer pursuant to an order under section 1185 of title 11 of any proceeding related to a special trustee appointed, or to a bridge company formed, in connection with a case under subchapter V of chapter 11 of title 11.
 
 - **(c)** *Technical and conforming amendment* The table of sections for chapter 13 of title 28, United States Code, is amended by adding at the end the following:
