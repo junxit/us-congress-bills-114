@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3023
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3023
@@ -25,3 +25,8 @@ To amend title 5, United States Code, to modify probationary periods with respec
 - 2015-07-10 — Introduced in House
 - 2015-07-10 — Introduced in House
 - 2015-07-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-01-12 — Committee Consideration and Mark-up Session Held.
+- 2016-01-12 — Ordered to be Reported by the Yeas and Nays: 20 - 16.
+- 2016-03-23 — Placed on the Union Calendar, Calendar No. 358.
+- 2016-03-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-472.
+- 2016-03-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-472.
