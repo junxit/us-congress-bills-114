@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3030
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3030
@@ -25,3 +25,10 @@ Baudette Coast Guard Housing Conveyance Act
 - 2015-07-10 — Introduced in House
 - 2015-07-10 — Introduced in House
 - 2015-07-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-07-13 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2016-03-02 — Committee Consideration and Mark-up Session Held.
+- 2016-03-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-03-02 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2016-03-23 — Placed on the Union Calendar, Calendar No. 355.
+- 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-466.
+- 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-466.
