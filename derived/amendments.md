@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4724
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -143,7 +143,7 @@ to guess them.
 
 ### 8 U.S.C. § 1255a
 
-> Section 245A(h)(4)(I) of the Immigration Reform and Control Act of 1986 (8 U.S.C. 1255a(h)(4)(I)) is amended by striking “, XVI, and XX” and inserting “and XVI”.
+> Section 245A(h)(4)(I) of the Immigration and Nationality Act (8 U.S.C. 1255a(h)(4)(I)) is amended by striking “, XVI, and XX” and inserting “and XVI”.
 
 | | |
 |---|---|
@@ -191,7 +191,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 604` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | strike | in paragraph (2), by striking “under subtitle 1 of title XX,”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | strike | in paragraph (4), by striking “, under subtitle 1 of title XX of this Act,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 672` | strike | Section 472(h)(1) of the Social Security Act (42 U.S.C. 672(h)(1)) is amended by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 672` | strike | Section 472(h)(1) of the Social Security Act (42 U.S.C. 672(h)(1)) is amended by striking the 2nd sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 673` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1301` | strike | Section 1101(a)(1) of the Social Security Act (42 U.S.C. 1301(a)(1)) is amended by striking the penultimate sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1320a-7` | amend | by adding “or” at the end of paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
