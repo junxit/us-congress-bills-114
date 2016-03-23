@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3340
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -42,3 +42,6 @@ Section 153 of the Financial Stability Act of 2010 (12 U.S.C. 5343) is amended b
 Section 153(c) of the Financial Stability Act of 2010 (12 U.S.C. 5343(c)) is amended by adding at the end the following:
 
 > - **(3)** *Public notice and comment period* The Office shall provide for a public notice and comment period of not less than 90 days before issuing any proposed report, rule, or regulation.
+> - **(4)** *Additional report requirements*
+>   - **(A)** *In general* Except as provided under paragraph (3), the requirements under section 553 of title 5, United States Code, shall apply to a proposed report of the Office to the same extent as such requirements apply to a proposed rule of the Office.
+>   - **(B)** *Exception for certain reports* This paragraph and paragraph (3) shall not apply to a report required under subsection (g)(1) or section 154(d)(1).
