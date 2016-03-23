@@ -21,4 +21,4 @@ This Act may be cited as the “Protecting Taxpayers by Recovering Improper Obam
   - **(2)** So much of paragraph (2) of section 36B(f) of such Code as precedes “advance payments” is amended to read as follows:
     > - **(2)** *Excess advance payments* If the
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to taxable years beginning after December 31, 2016.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2016.
