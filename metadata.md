@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3937
@@ -40,3 +40,10 @@ To designate the building utilized as a United States courthouse located at 150 
 - 2015-11-05 — Introduced in House
 - 2015-11-05 — Introduced in House
 - 2015-11-05 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-11-06 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2016-03-02 — Committee Consideration and Mark-up Session Held.
+- 2016-03-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-03-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2016-03-23 — Placed on the House Calendar, Calendar No. 100.
+- 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-464.
+- 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-464.
