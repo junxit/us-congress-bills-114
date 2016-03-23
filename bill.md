@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 223
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,42 +11,67 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Lakes Restoration Initiative Act of 2015”.
+This Act may be cited as the “Great Lakes Restoration Initiative Act of 2016”.
 
 ## § 2. Great Lakes Restoration Initiative
 
-Section 118(c) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)) is amended by striking paragraph (7) and inserting the following:
+Section 118(c)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(7)) is amended—
 
-> - **(7)** *Great Lakes Restoration Initiative*
->   - **(A)** *Establishment* There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the Initiative) to carry out programs and projects for Great Lakes protection and restoration.
->   - **(B)** *Focus areas* The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
->     - **(i)** the remediation of toxic substances and areas of concern;
->     - **(ii)** the prevention and control of invasive species and the impacts of invasive species;
->     - **(iii)** the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
->     - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
->     - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
->   - **(C)** *Projects* Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
->     - **(i)** the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
->     - **(ii)** the feasibility of—
->       - **(I)** prompt implementation;
->       - **(II)** timely achievement of results; and
->       - **(III)** resource leveraging; and
->     - **(iii)** the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
->   - **(D)** *Implementation of projects*
->     - **(i)** *In general* Funds made available to carry out the Initiative shall be used to strategically implement—
->       - **(I)** Federal projects; and
->       - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
->     - **(ii)** *Transfer of funds* With amounts made available for the Initiative each fiscal year, the Administrator may—
->       - **(I)** transfer not more than $300,000,000 to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
->       - **(II)** enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
->   - **(E)** *Scope*
->     - **(i)** *In general* Projects shall be carried out under the Initiative on multiple levels, including—
->       - **(I)** Great Lakes-wide; and
->       - **(II)** Great Lakes basin-wide.
->     - **(ii)** *Limitation* No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
->       - **(I)** a State water pollution control revolving fund established under title VI; or
->       - **(II)** a State drinking water revolving loan fund established under section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–12).
->   - **(F)** *Activities by other Federal agencies* Each relevant Federal department or agency shall, to the maximum extent practicable—
->     - **(i)** maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
->     - **(ii)** identify new activities and projects to support the environmental goals of the Initiative.
->   - **(G)** *Funding* There is authorized to be appropriated to carry out the Initiative $300,000,000 for each of fiscal years 2016 through 2020.
+- **(1)** by striking subparagraphs (B) and (C) and inserting the following:
+  > - **(B)** *Focus areas* In carrying out the Initiative, the Administrator shall prioritize programs and projects, to be carried out in coordination with non-Federal partners, that address the priority areas described in the Initiative Action Plan, including—
+  >   - **(i)** the remediation of toxic substances and areas of concern;
+  >   - **(ii)** the prevention and control of invasive species and the impacts of invasive species;
+  >   - **(iii)** the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
+  >   - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
+  >   - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
+  > - **(C)** *Projects*
+  >   - **(i)** *In general* In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+  >     - **(I)** the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
+  >     - **(II)** the feasibility of—
+  >       - **(aa)** prompt implementation;
+  >       - **(bb)** timely achievement of results; and
+  >       - **(cc)** resource leveraging; and
+  >     - **(III)** the opportunity to improve interagency, intergovernmental, and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+  >   - **(ii)** *Outreach* In selecting the best combination of programs and projects for Great Lakes protection and restoration under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+  >   - **(iii)** *Harmful algal bloom coordinator* The Administrator shall designate a point person from an appropriate Federal partner to coordinate, with Federal partners and Great Lakes States, Indian tribes, and other non-Federal stakeholders, projects and activities under the Initiative involving harmful algal blooms in the Great Lakes.
+
+- **(2)** in subparagraph (D)—
+  - **(A)** by striking clause (i) and inserting the following:
+    > - **(i)** *In general* Subject to subparagraph (J)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+    >   - **(I)** Federal projects;
+    >   - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations; and
+    >   - **(III)** operations and activities of the Program Office, including remediation of sediment contamination in areas of concern.
+
+  - **(B)** in clause (ii)(I), by striking “(G)(i)” and inserting “(J)(i)”; and
+  - **(C)** by inserting after clause (ii) the following:
+    > - **(iii)** *Agreements with non-Federal entities*
+    >   - **(I)** *In general* The Administrator, or the head of any other Federal department or agency receiving funds under clause (ii)(I), may make a grant to, or otherwise enter into an agreement with, a qualified non-Federal entity, as determined by the Administrator or the applicable head of the other Federal department or agency receiving funds, for planning, research, monitoring, outreach, or implementation of a project selected under subparagraph (C), to support the Initiative Action Plan or the Great Lakes Water Quality Agreement.
+    >   - **(II)** *Qualified non-Federal entity* For purposes of this clause, a qualified non-Federal entity may include a governmental entity, nonprofit organization, institution, or individual.
+
+- **(3)** by striking subparagraphs (E) through (G) and inserting the following:
+  > - **(E)** *Scope*
+  >   - **(i)** *In general* Projects may be carried out under the Initiative on multiple levels, including—
+  >     - **(I)** locally;
+  >     - **(II)** Great Lakes-wide; or
+  >     - **(III)** Great Lakes basin-wide.
+  >   - **(ii)** *Limitation* No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which financial assistance is received—
+  >     - **(I)** from a State water pollution control revolving fund established under title VI;
+  >     - **(II)** from a State drinking water revolving loan fund established under section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–12); or
+  >     - **(III)** pursuant to the Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3901 et seq.).
+  > - **(F)** *Activities by other Federal agencies* Each relevant Federal department or agency shall, to the maximum extent practicable—
+  >   - **(i)** maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
+  >   - **(ii)** identify new activities and projects to support the environmental goals of the Initiative.
+  > - **(G)** *Revision of Initiative Action Plan*
+  >   - **(i)** *In general* Not less often than once every 5 years, the Administrator, in conjunction with the Great Lakes Interagency Task Force, shall review, and revise as appropriate, the Initiative Action Plan to guide the activities of the Initiative in addressing the restoration and protection of the Great Lakes system.
+  >   - **(ii)** *Outreach* In reviewing and revising the Initiative Action Plan under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+  > - **(H)** *Monitoring and reporting* The Administrator shall—
+  >   - **(i)** establish and maintain a process for monitoring and periodically reporting to the public on the progress made in implementing the Initiative Action Plan;
+  >   - **(ii)** make information about each project carried out under the Initiative Action Plan available on a public website; and
+  >   - **(iii)** provide to the House Committee on Transportation and Infrastructure and the Senate Committee on Environment and Public Works a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
+  > - **(I)** *Initiative Action Plan defined* In this paragraph, the term Initiative Action Plan means the comprehensive, multi-year action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 (Public Law 111–88).
+  > - **(J)** *Funding*
+  >   - **(i)** *In general* There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+  >   - **(ii)** *Limitation* Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
+  >     - **(I)** this section;
+  >     - **(II)** the Initiative Action Plan; or
+  >     - **(III)** the Great Lakes Water Quality Agreement.

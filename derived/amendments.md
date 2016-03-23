@@ -1,7 +1,7 @@
 ---
 measure: H.R. 223
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 33 U.S.C. § 1268
+
+> in clause (ii)(I), by striking “(G)(i)” and inserting “(J)(i)”; and
+
+| | |
+|---|---|
+| Removed | `(G)(i)` |
+| Inserted | `(J)(i)` |
 
 ## Stated, not applied
 
@@ -31,4 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1268` | replace | Section 118(c) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)) is amended by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-12` | replace | by striking subparagraphs (E) through (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
