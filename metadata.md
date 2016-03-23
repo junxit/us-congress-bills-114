@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 117
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 117
@@ -29,3 +29,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2016-02-23 — Introduced in House
 - 2016-02-23 — Introduced in House
 - 2016-02-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-02-24 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2016-03-02 — Committee Consideration and Mark-up Session Held.
+- 2016-03-02 — Ordered to be Reported by Voice Vote.
+- 2016-03-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2016-03-23 — Placed on the House Calendar, Calendar No. 103.
+- 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-469.
+- 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-469.
