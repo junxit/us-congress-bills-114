@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4742
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4742
@@ -29,9 +29,10 @@ Promoting Women in Entrepreneurship Act
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Posey, Bill [R-FL-8] (P000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Promoting Women in Entrepreneurship Act
 - 2016-03-22 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2016-03-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 4 (Roll no. 133). (text: CR H1514)
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 4 (Roll no. 133).(text: CR H1514)
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
