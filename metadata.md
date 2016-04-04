@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4314
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4314
@@ -28,11 +28,12 @@ Counterterrorism Screening and Assistance Act of 2016
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Counterterrorism Screening and Assistance Act of 2016
 - 2016-03-21 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-03-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 2 (Roll no. 130). (text: CR H1480-1482)
 - 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 2 (Roll no. 130).(text: CR H1480-1482)
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
