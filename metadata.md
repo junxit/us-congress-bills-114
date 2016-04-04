@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4755
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4755
@@ -28,9 +28,10 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - 2016-03-22 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2016-03-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 3 (Roll no. 134). (text: CR H1516)
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 3 (Roll no. 134).(text: CR H1516)
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
