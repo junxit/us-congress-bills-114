@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4119
@@ -16,9 +16,10 @@ Gulf Islands National Seashore Land Exchange Act of 2016
 
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Gulf Islands National Seashore Land Exchange Act of 2016
 - 2016-03-22 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2016-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1523)
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1523)
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
