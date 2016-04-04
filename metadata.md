@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2745
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2745
@@ -24,9 +24,10 @@ Standard Merger and Acquisition Reviews Through Equal Rules Act of 2015
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -58,3 +59,4 @@ Standard Merger and Acquisition Reviews Through Equal Rules Act of 2015
 - 2016-03-23 — Rule provides for consideration of H.R. 2745 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. On any legislative day during the period from March 24, 2016, through April 11, 2016, the Journal of the proceedings of the previous day shall be considered as approved; and the Chair may at any time declare the house adjourned to meet at a date and time, within the limits of clause 4, section 5, of article I of the Constitution, to be announced by the Chair in declaring the adjournment.
 - 2016-03-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1568)
 - 2016-03-23 — The previous question was ordered pursuant to the rule. (consideration: CR H1567)
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
