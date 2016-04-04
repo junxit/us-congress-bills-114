@@ -1,7 +1,7 @@
 ---
 measure: S. 1101
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360j` | add-at-end | Section 520 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360c` | add-at-end | Subsection 513(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 321` | add-at-end | Section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h)) is amended by adding at the end “The term device does not include medical and decision support software described in section 520(o).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360j` | add-at-end | Section 520 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360c` | add-at-end | Subsection 513(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 321` | add-at-end | Section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h)) is amended by adding at the end the following: “The term device does not include software functions excluded pursuant to section 520(o).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
