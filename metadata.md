@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4336
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4336
@@ -210,10 +210,11 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -245,3 +246,4 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - 2016-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 135). (text: CR H1528)
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 135).(text: CR H1528)
 - 2016-03-22 — The title of the measure was amended. Agreed to without objection.
+- 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
