@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1670
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1670
@@ -85,3 +85,12 @@ National POW/MIA Remembrance Act of 2015
 - 2016-03-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1469-1470)
 - 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1469-1470)
 - 2016-04-04 — Received in the Senate, read twice.
+- 2016-04-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2106)
+- 2016-04-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2106)
+- 2016-04-15 — Message on Senate action sent to the House.
+- 2016-04-19 — Presented to President.
+- 2016-04-19 — Presented to President.
+- 2016-04-29 — Became Public Law No: 114-147.
+- 2016-04-29 — Became Public Law No: 114-147.
+- 2016-04-29 — Signed by President.
+- 2016-04-29 — Signed by President.
