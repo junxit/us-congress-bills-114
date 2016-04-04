@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1890
@@ -16,7 +16,7 @@ Defend Trade Secrets Act of 2016
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (27)
+## Cosponsors (65)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Flake, Jeff [R-AZ] (F000444)
@@ -45,10 +45,52 @@ Defend Trade Secrets Act of 2016
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2016-04-04 — [Senate 114-2-39](votes/senate-114-2-0039.md) — On Passage of the Bill — **Bill Passed** (87–0)
 
 ## Actions
 
@@ -59,3 +101,9 @@ Defend Trade Secrets Act of 2016
 - 2016-01-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-01-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2016-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.
+- 2016-03-07 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 114-220.
+- 2016-03-07 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 114-220.
+- 2016-04-04 — Measure laid before Senate by unanimous consent. (consideration: CR S1631-1636)
+- 2016-04-04 — Passed Senate with an amendment by Yea-Nay Vote. 87 - 0. Record Vote Number: 39.
+- 2016-04-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 87 - 0. Record Vote Number: 39.
+- 2016-04-04 — The committee substitute agreed to by Unanimous Consent. (text of committee substitute as amended: CR S1631-1634)

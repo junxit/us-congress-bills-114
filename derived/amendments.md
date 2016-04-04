@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 1 executed, 22 stated and not applied.
+16 amendatory instructions. 1 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,13 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 1116` | replace | Section 1836 of title 18, United States Code, is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1051` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1051` | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1051` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1116` | insert | Section 1833 of title 18, United States Code, is amended, in the matter preceding paragraph (1), by inserting “or create a private right of action for” after “prohibit”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1116` | amend | The section heading for section 1836 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1116` | replace | The table of sections for chapter 90 of title 18, United States Code, is amended by striking the item relating to section 1836 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1116` | replace | Section 1836 of title 18, United States Code, is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1051` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1051` | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
