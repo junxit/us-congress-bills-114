@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1670
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1670
@@ -84,3 +84,4 @@ National POW/MIA Remembrance Act of 2015
 - 2016-03-21 — Mrs. Miller (MI) moved to suspend the rules and pass the bill.
 - 2016-03-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1469-1470)
 - 2016-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1469-1470)
+- 2016-04-04 — Received in the Senate, read twice.
