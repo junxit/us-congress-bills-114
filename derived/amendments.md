@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 0 executed, 16 stated and not applied.
+32 amendatory instructions. 0 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,6 +44,22 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300jj-11` | add-at-end | Section 3001(c) of the Public Health Service Act (42 U.S.C. 300jj–11(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-14` | add-at-end | Section 3004 of the Public Health Service Act (42 U.S.C. 300jj–14) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300jj-19` | add-at-end | Section 3009 of the Public Health Service Act (42 U.S.C. 300jj–19) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17935` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17935` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17935` | insert | by inserting after paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | Part 1 of subtitle A of title XIII of the Health Information Technology for Economic and Clinical Health Act (Public Law 111–5) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | Section 3001(c)(5) of the Public Health Service Act (42 U.S.C. 300jj–11(c)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | replace | by striking “The National Coordinator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300jj-11` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | in subparagraph (B), by adding at the end the following: “Beginning 18 months after reporting criteria are finalized under section 3009A, certification criteria shall include, in addition to criteria to establish that the technology meet… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | Subtitle A of title XXX of the Public Health Service Act (42 U.S.C. 300jj–11 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-51` | add-at-end | Subtitle C of title XXX of the Public Health Service Act (42 U.S.C. 300jj-51 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj` | redesignate | by redesignating paragraphs (10) through (14), as paragraphs (11) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-11` | add-at-end | Section 3001(c) of the Public Health Service Act (42 U.S.C. 300jj-11(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-14` | add-at-end | Section 3004 of the Public Health Service Act (42 U.S.C. 300jj-14) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300jj-19` | add-at-end | Section 3009 of the Public Health Service Act (42 U.S.C. 300jj-19) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17935` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17935` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17935` | insert | by inserting after paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
