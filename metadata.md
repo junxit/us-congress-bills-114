@@ -1,7 +1,7 @@
 ---
 measure: S. 1492
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1492
@@ -28,3 +28,5 @@ A bill to direct the Administrator of General Services, on behalf of the Archivi
 - 2016-03-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-228.
 - 2016-03-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-228.
 - 2016-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.
+- 2016-04-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1774; text of committee substitute as amended: CR S1774)
+- 2016-04-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1774; text of committee substitute as amended: CR S1774)

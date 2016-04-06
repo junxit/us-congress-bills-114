@@ -14,7 +14,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Definitions* In this section:
   - **(1)** *Archivist* The term Archivist means the Archivist of the United States.
   - **(2)** *City* The term City means the Municipality of Anchorage, Alaska.
-- **(b)** *Conveyance* As soon as practicable after the date of enactment of this Act and after completion of the survey and appraisal described in this section, the Administrator of General Services, on behalf of the Archivist, shall convey to the City by quitclaim deed for the consideration described in subsection (d), all right, title, and interest of the United States in and to a parcel of real property described in subsection (c).
+- **(b)** *Conveyance*
+  - **(1)** *In general* As soon as practicable after the date of enactment of this Act and after completion of the survey and appraisal described in this section, the Administrator of General Services, on behalf of the Archivist, shall offer to convey to the City by quitclaim deed for the consideration and under the conditions described in subsection (d), all right, title, and interest of the United States in and to a parcel of real property described in subsection (c).
+  - **(2)** *Costs of conveyance* The City shall be responsible for paying—
+    - **(A)** the costs of an appraisal conducted pursuant to subsection (d)(1)(B); and
+    - **(B)** any other costs relating to the conveyance of the Federal property under this Act.
 - **(c)** *Legal description of property*
   - **(1)** *In general* The parcel to be conveyed under subsection (b) consists of approximately 9 acres and improvements located at 400 East Fortieth Avenue in the City that is administered by the National Archives and Records Administration.
   - **(2)** *Survey required* As soon as practicable after the date of enactment of this Act, the exact acreage and legal description of the real property to be conveyed under subsection (b) shall be determined by a survey, paid for by the City, that is satisfactory to the Archivist.
@@ -28,3 +32,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(iv)** is paid for by the City.
   - **(2)** *Preconveyance entry* The Archivist, on terms and conditions the Archivist determines to be appropriate, may authorize the City to enter the property at no charge for preconstruction and construction activities.
   - **(3)** *Additional terms and conditions* The Archivist may require additional terms and conditions in connection with the conveyance under subsection (b) as the Archivist considers appropriate to protect the interests of the United States.
+- **(e)** *Proceeds* Any net proceeds received by the Archivist as a result of the conveyance under this Act shall be deposited in the Treasury and used for deficit reduction, in such manner as the Secretary of the Treasury considers appropriate.
