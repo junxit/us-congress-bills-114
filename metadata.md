@@ -1,7 +1,7 @@
 ---
 measure: S. 1638
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1638
@@ -32,3 +32,5 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 - 2016-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-227.
 - 2016-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-227.
 - 2016-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
+- 2016-04-06 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S1773-1774; text of committee substitute as amended: CR S1773)
+- 2016-04-06 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S1773-1774; text of committee substitute as amended: CR S1773)
