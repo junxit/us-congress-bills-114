@@ -1,7 +1,7 @@
 ---
 measure: S. 1638
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1638
@@ -20,9 +20,10 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,18 @@ Department of Homeland Security Headquarters Consolidation Accountability Act of
 - 2016-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
 - 2016-04-06 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S1773-1774; text of committee substitute as amended: CR S1773)
 - 2016-04-06 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S1773-1774; text of committee substitute as amended: CR S1773)
+- 2016-04-07 — Message on Senate action sent to the House.
+- 2016-04-11 — Held at the desk.
+- 2016-04-11 — Received in the House.
+- 2016-04-18 — Considered under suspension of the rules. (consideration: CR H1770-1772)
+- 2016-04-18 — DEBATE - The House proceeded with forty minutes of debate on S. 1638.
+- 2016-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-18 — Mr. Duncan (SC) moved to suspend the rules and pass the bill.
+- 2016-04-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1770-1771)
+- 2016-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1770-1771)
+- 2016-04-20 — Presented to President.
+- 2016-04-20 — Presented to President.
+- 2016-04-29 — Became Public Law No: 114-150.
+- 2016-04-29 — Became Public Law No: 114-150.
+- 2016-04-29 — Signed by President.
+- 2016-04-29 — Signed by President.
