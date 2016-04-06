@@ -1,7 +1,7 @@
 ---
 measure: S. 1336
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1336
@@ -28,3 +28,7 @@ South Pacific Fisheries Convention Implementation Act
 
 - 2015-05-13 — Introduced in Senate
 - 2015-05-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2016-04-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-235.
+- 2016-04-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-235.
+- 2016-04-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
