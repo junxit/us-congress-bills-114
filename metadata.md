@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 392
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 392
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding the prosecution and co
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Murphy, Christopher [D-CT] (M001169)
@@ -31,6 +31,7 @@ A resolution expressing the sense of the Senate regarding the prosecution and co
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -44,3 +45,5 @@ A resolution expressing the sense of the Senate regarding the prosecution and co
 - 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.
+- 2016-04-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1795)
+- 2016-04-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1795)
