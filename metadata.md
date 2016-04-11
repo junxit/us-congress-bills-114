@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1815
@@ -31,3 +31,12 @@ Eastern Nevada Land Implementation Improvement Act
 - 2015-04-15 — Introduced in House
 - 2015-04-15 — Introduced in House
 - 2015-04-15 — Referred to the House Committee on Natural Resources.
+- 2015-04-30 — Referred to the Subcommittee on Federal Lands.
+- 2015-11-04 — Subcommittee Hearings Held.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Federal Lands Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-04-11 — Placed on the Union Calendar, Calendar No. 365.
+- 2016-04-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-479.
+- 2016-04-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-479.

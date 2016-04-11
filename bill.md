@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1815
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,35 +22,43 @@ This Act may be cited as the “Eastern Nevada Land Implementation Improvement A
       - **(ii)** in subparagraph (C)—
         - **(I)** in clause (i), by striking “; and” at the end and inserting a semicolon; and
         - **(II)** by adding at the end the following:
-          > - **(iii)** development and implementation of comprehensive, cost-effective, and multijurisdictional hazardous fuels reduction projects and wildfire prevention planning (particularly for pinyon-juniper dominated landscapes) and other rangeland and woodland restoration projects within the County, consistent with the Ely Resource Management Plan and subject to approval by the Secretary; and
+          > - **(iii)** development and implementation of comprehensive, cost-effective, and multijurisdictional hazardous fuels reduction projects and wildfire prevention planning activities (particularly for pinyon-juniper dominated landscapes) and other rangeland and woodland restoration projects within the County, consistent with the Ely Resource Management Plan or a subsequent amendment to the plan; and
 
     - **(B)** by adding at the end the following:
-      > - **(3)** *Waiver of fees* Processing of applications for rights-of-way submitted by local or regional governments within the County necessary to deliver government-provided services to land conveyed pursuant to this Act shall not require payment of cost-recovery fees or payment of contributed funds.
-      > - **(4)** *Cooperative agreements* Establishment of cooperative agreements between the Bureau of Land Management and the County shall be required for County-provided law enforcement and planning related activities regarding—
+      > - **(3)** *Cooperative agreements* Establishment of cooperative agreements between the Bureau of Land Management and the County shall be required for any County-provided law enforcement and planning related activities approved by the Secretary regarding—
       >   - **(A)** wilderness in the County designated by the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2403);
       >   - **(B)** cultural resources identified, protected, and managed pursuant to that Act;
       >   - **(C)** planning, management, and law enforcement associated with the Silver State OHV Trail designated by that Act; and
-      >   - **(D)** planning associated with land disposal and related land use authorizations required for utility corridors and rights-of-way to serve land that has been, or is to be, disposed of pursuant to that Act and this Act.
+      >   - **(D)** planning associated with land disposal and related land use authorizations required for utility corridors and rights-of-way to serve land that has been, or is to be, disposed of pursuant to that Act (other than rights-of-way granted pursuant to that Act) and this Act.
 
   - **(2)** *Availability of special account under Lincoln County Conservation, Recreation, and Development Act of 2004* Section 103 of the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2406) is amended—
     - **(A)** in subsection (b)(3)—
       - **(i)** in subparagraph (E), by striking “; and” at the end and inserting a semicolon;
       - **(ii)** in subparagraph (F), by striking the period at the end and inserting “; and”; and
       - **(iii)** by adding at the end the following:
-        > - **(G)** development and implementation of comprehensive, cost-effective, and multijurisdictional hazardous fuels reduction and wildfire prevention planning (particularly for pinyon-juniper dominated landscapes) and other rangeland and woodland restoration projects within the County, consistent with the Ely Resource Management Plan and subject to approval by the Secretary.
+        > - **(G)** development and implementation of comprehensive, cost-effective, and multijurisdictional hazardous fuels reduction and wildfire prevention planning activities (particularly for pinyon-juniper dominated landscapes) and other rangeland and woodland restoration projects within the County, consistent with the Ely Resource Management Plan or a subsequent amendment to the plan.
 
     - **(B)** by adding at the end the following:
-      > - **(d)** *Waiver of fees* Processing of applications for rights-of-way submitted by local or regional governments within the County necessary to deliver government-provided services to land conveyed pursuant to this Act shall not require payment of cost-recovery fees or payment of contributed funds.
-      > - **(e)** *Cooperative agreements* Establishment of cooperative agreements between the Bureau of Land Management and the County shall be required for County-provided law enforcement and planning related activities regarding—
+      > - **(d)** *Cooperative agreements* Establishment of cooperative agreements between the Bureau of Land Management and the County shall be required for any County-provided law enforcement and planning related activities approved by the Secretary regarding—
       >   - **(1)** wilderness in the County designated by this Act;
       >   - **(2)** cultural resources identified, protected, and managed pursuant to this Act;
       >   - **(3)** planning, management, and law enforcement associated with the Silver State OHV Trail designated by this Act; and
-      >   - **(4)** planning associated with land disposal and related land use authorizations required for utility corridors and rights-of-way to serve land that has been, or is to be, disposed of pursuant to this Act and the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1046).
+      >   - **(4)** planning associated with land disposal and related land use authorizations required for utility corridors and rights-of-way to serve land that has been, or is to be, disposed of pursuant to this Act (other than rights-of-way granted pursuant to this Act) and the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1046).
 
 - **(b)** *Disposition of proceeds*
   - **(1)** *Disposition of proceeds under Lincoln County Land Act of 2000* Section 5(a)(2) of the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1047) is amended by inserting “and the Lincoln County Regional Development Authority” after “schools”.
-  - **(2)** *Disposition of proceeds under Lincoln County Conservation, Recreation, and Development Act of 2004* Section 103(b)(2) of the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2405) is amended by striking “and transportation” and inserting “transportation, and the Lincoln County Regional Development Authority”.
-- **(c)** *Certain land in utility corridor not withdrawn* Section 301(c) of the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2413) is amended in the matter preceding paragraph (1) by inserting “(other than land in the corridor located in sections 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, and 15, T. 7 N., R. 68 E.)” after “subsection (a)”.
+  - **(2)** *Disposition of proceeds under Lincoln County Conservation, Recreation, and Development Act of 2004* Section 103(b)(2) of the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2405) is amended by striking “and transportation” and inserting “transportation, and the Lincoln County Regional Development Authority or any other County economic development organization”.
+- **(c)** *Realign a portion of the LCCRDA utility corridor* Section 301(a) of the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2413) establishes a 2,640-foot wide utility corridor as depicted on a map dated October 1, 2004. The Secretary of the Interior shall realign a portion of the corridor by removing the designation in sections 5, 6, 7, 8, 9, 10, 11, 14, and 15, T. 7 N., R. 68 E. and realigning the corridor to sections 31, 32, and 33, T. 8 N., R. 68 E.; sections 4, 5, and 6, T. 7 N., R. 68 E.; and sections 1 and 12, T. 7 N., 67 E. as shown on the October 1, 2004, map.
+- **(d)** *Final corrective patent in Clark County, Nevada*
+  - **(1)** *Validation of patent* Patent number 27-2005-0081 issued by the Bureau of Land Management on February 18, 2005, is affirmed and validated as having been issued pursuant to, and in compliance with, the Nevada-Florida Land Exchange Authorization Act of 1988 (Public Law 100–275; 102 Stat. 52), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) for the benefit of the desert tortoise, other species, and the habitat of the desert tortoise and other species to increase the likelihood of the recovery of the desert tortoise and other species.
+  - **(2)** *Ratification of reconfiguration* The process used by the United States Fish and Wildlife Service and the Bureau of Land Management in reconfiguring the land described in paragraph (1), as depicted on Exhibit 1-4 of the Final Environmental Impact Statement for the Planned Development Project MSHCP, Lincoln County, NV (FWS-R8-ES-2008-N0136) and the reconfiguration provided for in Special Condition 10 of the Army Corps of Engineers Permit No. 000005042 are ratified.
+- **(e)** *Final land reconfiguration in Lincoln County, Nevada*
+  - **(1)** *Definitions* In this subsection:
+    - **(A)** *Map* The term “Map” means the map prepared by the Bureau of Land Management entitled “Proposed Lincoln County Land Reconfiguration” and dated January 28, 2016.
+    - **(B)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
+  - **(2)** *Issuance of Lincoln County Corrective Patent*
+    - **(A)** *In general* The Secretary may issue a corrective patent for 7,548 acres of land in Lincoln County, Nevada, that is depicted on the Map.
+    - **(B)** *Applicable law* A corrective patent issued under subparagraph (A) shall be considered to have been issued pursuant to, and in compliance with, the Nevada-Florida Land Exchange Authorization Act of 1988 (Public Law 100–275; 102 Stat. 52).
 
 ## § 3. Mt. Moriah Wilderness, High Schells Wilderness, and Arc Dome Wilderness boundary adjustments
 
@@ -68,3 +76,7 @@ This Act may be cited as the “Eastern Nevada Land Implementation Improvement A
 ## § 4. Implementation of Conservation Plan, Virgin River, Nevada
 
 Section 3(d)(3)(B) of Public Law 99–548 (100 Stat. 3061; 116 Stat. 2018) is amended by striking “development of a multispecies habitat conservation plan for” and inserting “development and implementation of a conservation plan to benefit fish and wildlife species of”.
+
+## § 5. Technical amendment
+
+Section 3(f)(2)(B) of Public Law 99–548 (100 Stat. 3061) is amended by striking “(v) Sec. 7.” .
