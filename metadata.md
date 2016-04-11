@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1890
@@ -84,9 +84,10 @@ Defend Trade Secrets Act of 2016
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -107,3 +108,7 @@ Defend Trade Secrets Act of 2016
 - 2016-04-04 — Passed Senate with an amendment by Yea-Nay Vote. 87 - 0. Record Vote Number: 39.
 - 2016-04-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 87 - 0. Record Vote Number: 39.
 - 2016-04-04 — The committee substitute agreed to by Unanimous Consent. (text of committee substitute as amended: CR S1631-1634)
+- 2016-04-05 — Message on Senate action sent to the House.
+- 2016-04-11 — Received in the House.
+- 2016-04-11 — Referred to the House Committee on the Judiciary.
+- 2016-04-11 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
