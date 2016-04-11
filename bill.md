@@ -1,0 +1,38 @@
+---
+legis-num: S. 2770
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2770
+
+> To amend the Communications Act of 1934 to require providers of a covered service to provide call location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer in an emergency situation involving risk of death or serious physical injury or in order to respond to the user's call for emergency services.
+
+## § 1. Short title
+
+This Act may be cited as the “Kelsey Smith Act”.
+
+## § 2. Required emergency disclosure of call location information to law enforcement
+
+Section 222 of the Communications Act of 1934 (47 U.S.C. 222) is amended—
+
+- **(1)** in subsection (d)—
+  - **(A)** in paragraph (4), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and adjusting the margins accordingly;
+  - **(B)** by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly;
+  - **(C)** by striking “Nothing in this section” and inserting the following:
+    > - **(1)** *Permitted disclosures* Nothing in this section
+
+  - **(D)** by adding at the end the following:
+    > - **(2)** *Required emergency disclosure of call location information to law enforcement*
+    >   - **(A)** *In general* Notwithstanding subsections (a), (b), and (c), at the request of an investigative or law enforcement officer, a provider of a covered service shall provide to the officer the call location information, or the best available location information, of a telecommunications device that is—
+    >     - **(i)** used to place a 9–1–1 call requesting emergency assistance; or
+    >     - **(ii)** reasonably believed to be in the possession of an individual that the officer reasonably believes is in an emergency situation that involves the risk of death or serious physical harm to the individual.
+    >   - **(B)** *Hold harmless* No cause of action shall lie in any court, nor shall any civil or administrative proceeding be commenced by a governmental entity, against a telecommunications carrier, or its directors, officers, employees, agents, or vendors, for providing in good faith call location information or other information, facilities, or assistance in accordance with subparagraph (A) and any regulations promulgated under this paragraph.
+
+- **(2)** in subsection (f)(1), by striking “subsection (d)(4)” and inserting “subsection (d)(1)(D)”; and
+- **(3)** in subsection (h), by adding at the end the following:
+  > - **(8)** *Covered service* The term covered service means—
+  >   - **(A)** a commercial mobile service (as defined in section 332); or
+  >   - **(B)** an IP-enabled voice service (as defined in section 7 of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615b)).
+  > - **(9)** *Investigative or law enforcement officer* The term investigative or law enforcement officer has the meaning given the term Investigative or law enforcement officer in section 2510 of title 18, United States Code.
