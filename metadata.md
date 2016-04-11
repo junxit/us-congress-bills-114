@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4407
@@ -37,3 +37,8 @@ Counterterrorism Advisory Board Act of 2016
 - 2016-02-01 — Introduced in House
 - 2016-02-01 — Introduced in House
 - 2016-02-01 — Referred to the House Committee on Homeland Security.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Ordered to be Reported by Voice Vote.
+- 2016-04-11 — Placed on the Union Calendar, Calendar No. 366.
+- 2016-04-11 — Reported by the Committee on Homeland Security. H. Rept. 114-481.
+- 2016-04-11 — Reported by the Committee on Homeland Security. H. Rept. 114-481.
