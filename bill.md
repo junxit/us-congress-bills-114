@@ -46,8 +46,9 @@ In this Act—
   - **(1)** the sharing of financial and administrative controls established under section 3(a) and other best practices and techniques for detecting, preventing, and responding to fraud, including improper payments; and
   - **(2)** the sharing and development of data analytics techniques.
 - **(b)** *Composition* The working group established under subsection (a) shall be composed of—
-  - **(1)** the Controller of the Office of Management and Budget, who shall serve as Chairperson; and
-  - **(2)** the Chief Financial Officer of each agency.
+  - **(1)** the Controller of the Office of Management and Budget, who shall serve as Chairperson;
+  - **(2)** the Chief Financial Officer of each agency; and
+  - **(3)** any other party determined to be appropriate by the Director of the Office of Management and Budget, which may include the Chief Information Officer, the Chief Procurement Officer, or the Chief Operating Officer of each agency.
 - **(c)** *Consultation* The working group established under subsection (a) shall consult with Offices of Inspectors General and Federal and non-Federal experts on fraud risk assessments, financial controls, and other relevant matters.
 - **(d)** *Meetings* The working group established under subsection (a) shall hold not fewer than 4 meetings per year.
 - **(e)** *Plan* Not later than 270 days after the date of enactment of this Act, the working group established under subsection (a) shall submit to Congress a plan for the establishment and use of a Federal interagency library of data analytics and data sets, which can incorporate or improve upon existing Federal resources and capacities, for use by agencies and Offices of Inspectors General to facilitate the detection, prevention, and recovery of fraud, including improper payments.
