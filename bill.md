@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2733
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,48 +13,51 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Nevada Native Nations Land Act”.
 
-## § 2. Definition of Secretary
+## § 2. Definition of secretary
 
-In this Act, the term Secretary means the Secretary of the Interior.
+In this Act, the term “Secretary” means the Secretary of the Interior.
 
 ## § 3. Conveyance of land to be held in trust for certain Indian tribes
 
-- **(a)** *Conveyance of land To be held in trust for the Fort McDermitt Paiute and Shoshone Tribe*
-  - **(1)** *Definition of map* In this subsection, the term map means the map entitled “Fort McDermitt Indian Reservation Expansion Act”, dated February 21, 2013, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+- **(a)** *Conveyance of land to be held in trust for the fort mcdermitt paiute and shoshone tribe*
+  - **(1)** *Definition of map* In this subsection, the term “map” means the map entitled “Fort McDermitt Indian Reservation Expansion Act”, dated February 21, 2013, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Fort McDermitt Paiute and Shoshone Tribe; and
     - **(B)** shall be part of the reservation of the Fort McDermitt Paiute and Shoshone Tribe.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 19,094 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
-- **(b)** *Conveyance of land To be held in trust for the Shoshone Paiute Tribes*
-  - **(1)** *Definition of map* In this subsection, the term map means the map entitled “Mountain City Administrative Site Proposed Acquisition”, dated July 29, 2013, and on file and available for public inspection in the appropriate offices of the Forest Service.
-  - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
+- **(b)** *Conveyance of land to be held in trust for the shoshone paiute tribes*
+  - **(1)** *Definition of map* In this subsection, the term “map” means the map entitled “Mountain City Administrative Site Proposed Acquisition”, dated July 29, 2013, and on file and available for public inspection in the appropriate offices of the Forest Service.
+  - **(2)** *Conveyance of land* Subject to valid existing rights and paragraph (4), all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Shoshone Paiute Tribes of the Duck Valley Indian Reservation; and
     - **(B)** shall be part of the reservation of the Shoshone Paiute Tribes of the Duck Valley Indian Reservation.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 82 acres of land administered by the Forest Service as generally depicted on the map as “Proposed Acquisition Site”.
-- **(c)** *Conveyance of land To be held in trust for the Summit Lake Paiute Tribe*
-  - **(1)** *Definition of map* In this section, the term map means the map entitled “Summit Lake Indian Reservation Conveyance”, dated February 28, 2013, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+  - **(4)** *Condition on conveyance* The conveyance under paragraph (2) shall be subject to the reservation of an easement on the conveyed land for a road to provide access to adjacent National Forest System land for use by the Forest Service for administrative purposes.
+  - **(5)** *Facilities and improvements* The Secretary of Agriculture (acting through the Chief of the Forest Service) shall convey to the Shoshone Paiute Tribes of the Duck Valley Indian Reservation any existing facilities or improvements to the land described in paragraph (3).
+- **(c)** *Conveyance of land to be held in trust for the summit lake paiute tribe*
+  - **(1)** *Definition of map* In this section, the term “map” means the map entitled “Summit Lake Indian Reservation Conveyance”, dated February 28, 2013, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Summit Lake Paiute Tribe; and
     - **(B)** shall be part of the reservation of the Summit Lake Paiute Tribe.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 941 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Conveyance Lands”.
-- **(d)** *Conveyance of land To be held in trust for the Reno-Sparks Indian Colony*
-  - **(1)** *Definition of map* In this subsection, the term map means the map entitled “Reno-Sparks Indian Colony Expansion”, dated June 11, 2014, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+- **(d)** *Conveyance of land to be held in trust for the reno-sparks indian colony*
+  - **(1)** *Definition of map* In this subsection, the term “map” means the map entitled “Reno-Sparks Indian Colony Expansion”, dated June 11, 2014, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Reno-Sparks Indian Colony; and
     - **(B)** shall be part of the reservation of the Reno-Sparks Indian Colony.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 13,434 acres of land administered by the Bureau of Land Management as generally depicted on the map as “RSIC Amended Boundary”.
-- **(e)** *Conveyance of land To be held in trust for the Pyramid Lake Paiute Tribe*
-  - **(1)** *Map* In this subsection, the term map means the map entitled “Pyramid Lake Indian Reservation Expansion”, dated April 13, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+- **(e)** *Conveyance of land to be held in trust for the pyramid lake paiute tribe*
+  - **(1)** *Map* In this subsection, the term “map” means the map entitled “Pyramid Lake Indian Reservation Expansion”, dated April 13, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Pyramid Lake Paiute Tribe; and
     - **(B)** shall be part of the reservation of the Pyramid Lake Paiute Tribe.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 6,357 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
-- **(f)** *Conveyance of land To be held in trust for the Duckwater Shoshone Tribe*
-  - **(1)** *Map* In this subsection, the term map means the map entitled “Duckwater Reservation Expansion”, dated January 12, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+- **(f)** *Conveyance of land to be held in trust for the duckwater shoshone tribe*
+  - **(1)** *Map* In this subsection, the term “map” means the map entitled “Duckwater Reservation Expansion”, dated October 15, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Duckwater Shoshone Tribe; and
     - **(B)** shall be part of the reservation of the Duckwater Shoshone Tribe.
-  - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 31,269 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
+  - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 31,229 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
+- **(g)** *Revocation of public land orders* Any public land order that withdraws any portion of land conveyed to an Indian tribe under this section shall be revoked to the extent necessary to permit the conveyance of the land.
 
 ## § 4. Administration
 
