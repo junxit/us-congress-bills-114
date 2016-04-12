@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4358
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4358
@@ -25,3 +25,8 @@ Senior Executive Service Accountability Act
 - 2016-01-08 — Introduced in House
 - 2016-01-08 — Introduced in House
 - 2016-01-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-01-12 — Committee Consideration and Mark-up Session Held.
+- 2016-01-12 — Ordered to be Reported by the Yeas and Nays: 21 - 16.
+- 2016-04-12 — Placed on the Union Calendar, Calendar No. 369.
+- 2016-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-485.
+- 2016-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-485.
