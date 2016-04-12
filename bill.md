@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2615
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,70 +13,82 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Virgin Islands of the United States Centennial Commission Act” .
 
-## § 2. Definitions
-
-For purposes of this Act, the term “State” means each of the several States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
-
-## § 3. Establishment
+## § 2. Establishment
 
 There is established a commission to be known as the “Virgin Islands of the United States Centennial Commission” (in this Act referred to as the “Commission”).
 
-## § 4. Duties of commission
+## § 3. Duties of Commission
 
 The Commission shall—
 
-- **(1)** plan, develop, and carry out such activities as the Commission considers fitting and proper to commemorate the 100th anniversary of the Virgin Islands of the United States becoming an unincorporated territory of the United States;
+- **(1)** plan, develop, and carry out such activities as the Commission determines to be appropriate to commemorate the 100th anniversary of the Virgin Islands of the United States becoming an unincorporated territory of the United States;
 - **(2)** provide advice and assistance to Federal, State, and local governmental agencies, as well as civic groups to carry out activities to commemorate the 100th anniversary of the Virgin Islands of the United States becoming an unincorporated territory of the United States; and
-- **(3)** submit to the President and Congress reports pursuant to section 8.
+- **(3)** submit to the President and Congress the reports required pursuant to section 7.
 
-## § 5. Membership
+## § 4. Membership
 
 - **(a)** *Number and Appointment* The Commission shall be composed of 8 members as follows:
-  - **(1)** The Assistant Secretary of the Interior for Insular Affairs or his designee.
-  - **(2)** One member appointed by the Governor of the Virgin Islands of the United States or his designee.
+  - **(1)** The Assistant Secretary of the Interior for Insular Affairs or a designee of the Assistant Secretary.
+  - **(2)** One member appointed by the Governor of the Virgin Islands of the United States or a designee of the Governor.
   - **(3)** Two Members of the House of Representatives appointed by the Speaker of the House of Representatives.
   - **(4)** One Member of the House of Representatives appointed by the minority leader of the House of Representatives.
   - **(5)** Two Members of the Senate appointed by the majority leader of the Senate.
   - **(6)** One Member of the Senate appointed by the minority leader of the Senate.
-- **(b)** *Alternative appointment* If the Governor of the Virgin Islands of the United States or his designee declines to make such appointment under subsection (a)(2), such member shall be appointed by the Delegate of the Virgin Islands of the United States.
-- **(c)** *Terms* Each member of the Commission shall be appointed for the life of the Commission.
-- **(d)** *Deadline for Appointment* All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act.
-- **(e)** *Vacancies* A vacancy on the Commission shall—
+- **(b)** *Terms* Each member of the Commission shall be appointed for the life of the Commission.
+- **(c)** *Deadline for Appointment* All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act.
+- **(d)** *Vacancies* A vacancy on the Commission shall—
   - **(1)** not affect the powers of the Commission; and
   - **(2)** be filled in the manner in which the original appointment was made.
-- **(f)** *Rates of Pay* Members shall not receive compensation for the performance of their duties on behalf of the Commission.
-- **(g)** *Travel Expenses* Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or his or her regular place of business, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
-- **(h)** *Quorum* A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
-- **(i)** *Chairperson* The chairperson of the Commission shall be selected by the Delegate of the United States Virgin Islands.
+- **(e)** *Rates of Pay* Members shall not receive compensation for the performance of duties on behalf of the Commission.
+- **(f)** *Travel Expenses* Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or regular place of business of the member, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+- **(g)** *Quorum* A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
+- **(h)** *Chairperson* The chairperson of the Commission shall be selected by a majority vote of the members of the Commission.
 
-## § 6. Director And Staff Of Commission
+## § 5. Director And Staff Of Commission
 
-- **(a)** *Director and staff* The Commission shall appoint an executive director considering the recommendation of the Delegate of the Virgin Islands of the United States, and shall appoint such other additional personnel as are necessary to enable the Commission to perform its duties.
-- **(b)** *Applicability of Certain Civil Service Laws* The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level III of the Executive Schedule under section 5316 of such title.
-- **(c)** *Detail of Federal Employees* Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
-- **(d)** *Experts and Consultants* The Commission may procure such temporary and intermittent services from experts and consultants as are necessary to enable the Commission to perform its duties.
+- **(a)** *Director and staff* The Commission shall appoint an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
+- **(b)** *Applicability of Certain Civil Service Laws* The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level III of the Executive Schedule under section 5314 of such title.
+- **(c)** *Detail of Federal Employees* Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of the Department of the Interior or the National Archives and Records Administration, respectively to the Commission to assist the Commission to perform the duties of the Commission.
+- **(d)** *Experts and Consultants* The Commission may procure such temporary and intermittent services from experts and consultants as are necessary to enable the Commission to perform the duties of the Commission.
 - **(e)** *Volunteer and Uncompensated Services* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
-## § 7. Powers Of Commission
+## § 6. Powers Of Commission
 
 - **(a)** *Hearings* The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
-- **(b)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
-- **(c)** *Obtaining Official Data* The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon request of the chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
-- **(d)** *Gifts, Bequests, Devises* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
-- **(e)** *Available Space* Upon the request of the Commission, the Administrator of General Services shall make available to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
-- **(f)** *Contract Authority* The Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act.
+- **(b)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
+- **(c)** *Obtaining Official Data* The Commission may secure directly from any Federal agency information necessary to enable the Commission to perform the duties of the Commission. Upon request of the chairperson of the Commission, the head of that Federal agency shall furnish that information to the Commission.
+- **(d)** *Gifts, Bequests, Devises* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission.
+- **(e)** *Available Space* Upon the request of the Commission, the Administrator of General Services shall make available to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to perform the duties of the Commission.
+- **(f)** *Contract Authority* The Commission may enter into contracts with and compensate the Federal Government, State and local governments, private entities, or individuals to enable the Commission to perform the duties of the Commission.
 
-## § 8. Reports
+## § 7. Reports
 
-- **(a)** *Annual Reports* The Commission shall submit to the President and the Congress annual reports on the activities of the Commission as well as the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
+- **(a)** *Annual Reports* Not later than January 31 of each year, and annually thereafter until the final report is submitted pursuant to subsection (b), the Commission shall submit to the President and the Congress a report on—
+  - **(1)** the activities of the Commission; and
+  - **(2)** the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, including the identity of the donor of each gift, bequest, or devise.
 - **(b)** *Final Report* Not later than January 31, 2018, the Commission shall submit a final report to the President and the Congress containing—
   - **(1)** a summary of the activities of the Commission; and
   - **(2)** a final accounting of funds received and expended by the Commission.
 
-## § 9. Termination
+## § 8. Annual audit
 
-The Commission may terminate on such date as the Commission may determine after it submits its final report under section 8(b), but not later than September 30, 2018.
+The Inspector General of the Department of the Interior—
 
-## § 10. Annual audit
+- **(1)** may perform an audit of the Commission;
+- **(2)** shall make the results of any such audit available to the public; and
+- **(3)** shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
-The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+## § 9. Definitions
+
+In this Act:
+
+- **(1)** *Federal agency* The term Federal agency has the meaning given the term agency in section 551 of title 5, United States Code.
+- **(2)** *State* The term State means each of the several States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
+
+## § 10. Termination
+
+The Commission shall terminate on September 30, 2018, or may terminate at an earlier date determined by the Commission after the final report is submitted pursuant to section 7(b).
+
+## § 11. No additional funds authorized
+
+No Federal funds are authorized or may be obligated to carry out this Act.
