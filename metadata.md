@@ -1,7 +1,7 @@
 ---
 measure: S. 2133
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2133
@@ -45,3 +45,18 @@ Fraud Reduction and Data Analytics Act of 2015
 - 2016-04-12 — Senate amendment agreed to: Amendment SA 3684 agreed to in Senate by Unanimous Consent.
 - 2016-04-12 — Senate amendment proposed (on the floor): Amendment SA 3684 proposed by Senator McConnell for Senator Carper.(consideration: CR S1981; text: CR S1981)
 - 2016-04-12 — Senate amendment submitted
+- 2016-04-13 — Held at the desk.
+- 2016-04-13 — Message on Senate action sent to the House.
+- 2016-04-13 — Received in the House.
+- 2016-06-21 — Considered under suspension of the rules. (consideration: CR H3999-4000; text as received in House: CR H3999)
+- 2016-06-21 — DEBATE - The House proceeded with forty minutes of debate on S. 2133.
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Hurd (TX) moved to suspend the rules and pass the bill.
+- 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2016-06-23 — Presented to President.
+- 2016-06-23 — Presented to President.
+- 2016-06-30 — Became Public Law No: 114-186.
+- 2016-06-30 — Became Public Law No: 114-186.
+- 2016-06-30 — Signed by President.
+- 2016-06-30 — Signed by President.
