@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 117
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 117
@@ -36,3 +36,8 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2016-03-23 — Placed on the House Calendar, Calendar No. 103.
 - 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-469.
 - 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-469.
+- 2016-04-12 — Considered by unanimous consent. (consideration: CR H1619)
+- 2016-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-12 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
+- 2016-04-12 — On agreeing to the resolution Agreed to without objection. (text: CR H1619)
+- 2016-04-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1619)
