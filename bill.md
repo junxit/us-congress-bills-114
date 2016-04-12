@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2908
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -43,4 +43,5 @@ Congress finds that—
 
 ## § 3. Establishment and adoption of the North American bison as the national mammal
 
-The mammal commonly known as the “North American bison” is adopted as the national mammal of the United States.
+- **(a)** *In general* The mammal commonly known as the “North American bison” is adopted as the national mammal of the United States.
+- **(b)** *Rule of construction* Nothing in this Act or the adoption of the North American bison as the national mammal of the United States shall be construed or used as a reason to alter, change, modify, or otherwise affect any plan, policy, management decision, regulation, or other action by the Federal Government.

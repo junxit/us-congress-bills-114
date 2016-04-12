@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2908
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2908
@@ -16,7 +16,7 @@ National Bison Legacy Act
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 
-## Cosponsors (8)
+## Cosponsors (14)
 
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
@@ -26,6 +26,12 @@ National Bison Legacy Act
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
 ## Committees (1)
 
@@ -36,3 +42,8 @@ National Bison Legacy Act
 - 2015-06-25 — Introduced in House
 - 2015-06-25 — Introduced in House
 - 2015-06-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-03-01 — Committee Consideration and Mark-up Session Held.
+- 2016-03-01 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-04-12 — Placed on the House Calendar, Calendar No. 104.
+- 2016-04-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-483.
+- 2016-04-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-483.
