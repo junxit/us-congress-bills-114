@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4392
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4392
@@ -29,3 +29,6 @@ To amend title 5, United States Code, to require that the Office of Personnel Ma
 - 2016-01-13 — Introduced in House
 - 2016-01-13 — Introduced in House
 - 2016-01-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-04-12 — Placed on the Union Calendar, Calendar No. 368.
+- 2016-04-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-484.
+- 2016-04-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-484.
