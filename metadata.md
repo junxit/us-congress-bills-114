@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 115
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 115
@@ -36,3 +36,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2016-04-12 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider.
 - 2016-04-12 — On agreeing to the resolution Agreed to without objection. (text: CR H1620)
 - 2016-04-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1620)
+- 2016-04-13 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2064-2065)
+- 2016-04-13 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2064-2065)
