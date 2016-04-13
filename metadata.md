@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3586
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3586
@@ -41,3 +41,9 @@ Border and Maritime Coordination Improvement Act
 - 2016-04-12 — Placed on the Union Calendar, Calendar No. 372.
 - 2016-04-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-488, Part I.
 - 2016-04-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-488, Part I.
+- 2016-04-13 — Considered under suspension of the rules. (consideration: CR H1655-1663)
+- 2016-04-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3586.
+- 2016-04-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-13 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
+- 2016-04-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1655-1661)
+- 2016-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1655-1661)
