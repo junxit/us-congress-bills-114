@@ -23,7 +23,7 @@ This Act may be cited as the “Enhancing Overseas Traveler Vetting Act”.
   - **(1)** certify to the appropriate congressional committees that such availability is in the national security interests of the United States; and
   - **(2)** provide to such committees information on how such software or any related technical assistance or training will be made available.
 - **(d)** *Rule of construction* The authority provided under this section shall be exercised in accordance with applicable provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Export Administration Regulations, or any other similar provision of law.
-- **(e)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available to the Department of Homeland Security.
+- **(e)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this section.
 - **(f)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** in the House of Representatives—
