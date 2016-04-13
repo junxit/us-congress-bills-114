@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 120
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 120
@@ -43,3 +43,5 @@ Authorizing the use of the Capitol Grounds for the 3rd Annual Fallen Firefighter
 - 2016-04-12 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
 - 2016-04-12 — On agreeing to the resolution Agreed to without objection. (text: CR H1620)
 - 2016-04-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1620)
+- 2016-04-13 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2064-2065)
+- 2016-04-13 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2064-2065)
