@@ -1,0 +1,27 @@
+---
+legis-num: S. RES. 421
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 421
+
+> Congratulating the University of Connecticut Women’s Basketball Team for winning the 2016 National Collegiate Athletic Association Division I title.
+
+## Preamble
+
+- Whereas, on Tuesday, April 5, 2016, the University of Connecticut Women’s Basketball Team (in this preamble referred to as “UConn”) won the 2016 National Collegiate Athletic Association (in this preamble referred to as the “NCAA”) Division I title with an 82-51 win over the Syracuse Orange at Bankers Life Fieldhouse in Indianapolis, Indiana;
+- Whereas this is UConn’s fourth consecutive NCAA national championship and 11th NCAA national championship overall;
+- Whereas Breanna Stewart was awarded the Most Outstanding Player of the Final Four for an unprecedented fourth time;
+- Whereas UConn finished the 2015-2016 season with a record of 38-0 and extended its winning streak to 75 games;
+- Whereas UConn has won 122 of its last 123 games, with each win coming by double digits; and
+- Whereas Geno Auriemma passed John Wooden for the most national championships won by any head coach in NCAA Division I basketball history: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** commends the University of Connecticut Women’s Basketball Team for winning the 2016 National Collegiate Athletic Association Division I title;
+- **(2)** congratulates the fans, students, and faculty of the University of Connecticut; and
+- **(3)** respectfully requests that the Secretary of the Senate transmit an enrolled copy of this resolution to—
+  - **(A)** the President of the University of Connecticut, Susan Herbst; and
+  - **(B)** the Head Coach of the University of Connecticut Women’s Basketball Team, Luigi “Geno” Auriemma.
