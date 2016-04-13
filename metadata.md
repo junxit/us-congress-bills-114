@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1493
@@ -67,3 +67,15 @@ Protect and Preserve International Cultural Property Act
 - 2016-04-13 — Senate amendment proposed (on the floor): Amendment SA 3788 proposed by Senator Inhofe for Senator Casey.(consideration: CR S2063; text: CR S2063)
 - 2016-04-13 — Senate amendment submitted
 - 2016-04-13 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S2062-2063)
+- 2016-04-14 — Message on Senate action sent to the House.
+- 2016-04-26 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1493.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Royce moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1984-1987)
+- 2016-04-26 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H1984-1985)
+- 2016-04-26 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H1984-1985)
+- 2016-04-29 — Presented to President.
+- 2016-04-29 — Presented to President.
+- 2016-05-09 — Became Public Law No: 114-151.
+- 2016-05-09 — Became Public Law No: 114-151.
+- 2016-05-09 — Signed by President.
+- 2016-05-09 — Signed by President.
