@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2947
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2947
@@ -23,9 +23,10 @@ Financial Institution Bankruptcy Act of 2016
 - Rep. Marino, Tom [R-PA-10] (M001179)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Financial Institution Bankruptcy Act of 2016
 - 2016-04-12 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2016-04-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1605-1608)
 - 2016-04-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1605-1608)
+- 2016-04-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
