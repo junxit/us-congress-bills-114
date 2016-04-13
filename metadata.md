@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1493
@@ -58,3 +58,12 @@ Protect and Preserve International Cultural Property Act
 - 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-02-02 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.
+- 2016-04-13 — Amendment SA 3788 agreed to in Senate by Unanimous Consent.
+- 2016-04-13 — Amendment SA 3788 proposed by Senator Inhofe for Senator Casey. (consideration: CR S2063; text: CR S2063) To improve the bill.
+- 2016-04-13 — Measure laid before Senate by unanimous consent. (consideration: CR S2062-2063)
+- 2016-04-13 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-04-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-04-13 — Senate amendment agreed to: Amendment SA 3788 agreed to in Senate by Unanimous Consent.
+- 2016-04-13 — Senate amendment proposed (on the floor): Amendment SA 3788 proposed by Senator Inhofe for Senator Casey.(consideration: CR S2063; text: CR S2063)
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S2062-2063)
