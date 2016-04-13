@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4676
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4676
@@ -21,9 +21,10 @@ Preventing Crimes Against Veterans Act of 2016
 - Rep. Deutch, Theodore E. [D-FL-21] (D000610)
 - Rep. Jolly, David W. [R-FL-13] (J000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Preventing Crimes Against Veterans Act of 2016
 - 2016-04-12 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2016-04-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 140). (text: CR H1610)
 - 2016-04-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 140).(text: CR H1610)
+- 2016-04-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
