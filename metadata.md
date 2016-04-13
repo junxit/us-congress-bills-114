@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1567
@@ -172,3 +172,4 @@ Global Food Security Act of 2016
 - 2016-04-12 — Placed on the Union Calendar, Calendar No. 367.
 - 2016-04-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-482.
 - 2016-04-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-482.
+- 2016-04-13 — Received in the Senate.
