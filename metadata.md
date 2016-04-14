@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4549
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4549
@@ -28,9 +28,10 @@ Treating Small Airports with Fairness Act of 2016
 - Rep. Huelskamp, Tim [R-KS-1] (H001057)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Treating Small Airports with Fairness Act of 2016
 - 2016-04-13 — Placed on the Union Calendar, Calendar No. 375.
 - 2016-04-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-493.
 - 2016-04-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-493.
+- 2016-04-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
