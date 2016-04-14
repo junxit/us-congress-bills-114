@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3586
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3586
@@ -20,10 +20,11 @@ Border and Maritime Coordination Improvement Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Border and Maritime Coordination Improvement Act
 - 2016-04-13 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
 - 2016-04-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1655-1661)
 - 2016-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1655-1661)
+- 2016-04-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
