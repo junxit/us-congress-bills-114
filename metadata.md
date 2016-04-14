@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4403
@@ -31,10 +31,11 @@ Enhancing Overseas Traveler Vetting Act
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Enhancing Overseas Traveler Vetting Act
 - 2016-04-13 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-04-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1670)
 - 2016-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1670)
+- 2016-04-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
