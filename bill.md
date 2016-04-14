@@ -27,10 +27,12 @@ In this Act, the term Secretary means the Secretary of the Interior.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 19,094 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
 - **(b)** *Conveyance of land To be held in trust for the Shoshone Paiute Tribes*
   - **(1)** *Definition of map* In this subsection, the term map means the map entitled “Mountain City Administrative Site Proposed Acquisition”, dated July 29, 2013, and on file and available for public inspection in the appropriate offices of the Forest Service.
-  - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
+  - **(2)** *Conveyance of land* Subject to valid existing rights and paragraph (4), all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Shoshone Paiute Tribes of the Duck Valley Indian Reservation; and
     - **(B)** shall be part of the reservation of the Shoshone Paiute Tribes of the Duck Valley Indian Reservation.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 82 acres of land administered by the Forest Service as generally depicted on the map as “Proposed Acquisition Site”.
+  - **(4)** *Condition on conveyance* The conveyance under paragraph (2) shall be subject to the reservation of an easement on the conveyed land for a road to provide access to adjacent National Forest System land for use by the Forest Service for administrative purposes.
+  - **(5)** *Facilities and improvements* The Secretary of Agriculture (acting through the Chief of the Forest Service) shall convey to the Shoshone Paiute Tribes of the Duck Valley Indian Reservation any existing facilities or improvements to the land described in paragraph (3).
 - **(c)** *Conveyance of land To be held in trust for the Summit Lake Paiute Tribe*
   - **(1)** *Definition of map* In this section, the term map means the map entitled “Summit Lake Indian Reservation Conveyance”, dated February 28, 2013, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
@@ -50,11 +52,12 @@ In this Act, the term Secretary means the Secretary of the Interior.
     - **(B)** shall be part of the reservation of the Pyramid Lake Paiute Tribe.
   - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 6,357 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
 - **(f)** *Conveyance of land To be held in trust for the Duckwater Shoshone Tribe*
-  - **(1)** *Map* In this subsection, the term map means the map entitled “Duckwater Reservation Expansion”, dated January 12, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+  - **(1)** *Map* In this subsection, the term map means the map entitled “Duckwater Reservation Expansion”, dated October 15, 2015, and on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
   - **(2)** *Conveyance of land* Subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (3)—
     - **(A)** is held in trust by the United States for the benefit of the Duckwater Shoshone Tribe; and
     - **(B)** shall be part of the reservation of the Duckwater Shoshone Tribe.
-  - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 31,269 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
+  - **(3)** *Description of land* The land referred to in paragraph (2) is the approximately 31,229 acres of land administered by the Bureau of Land Management as generally depicted on the map as “Reservation Expansion Lands”.
+- **(g)** *Revocation of public land orders* Any public land order that withdraws any portion of land conveyed to an Indian tribe under this section shall be revoked to the extent necessary to permit the conveyance of the land.
 
 ## § 4. Administration
 

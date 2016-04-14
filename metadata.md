@@ -1,7 +1,7 @@
 ---
 measure: S. 1436
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1436
@@ -33,3 +33,5 @@ Nevada Native Nations Land Act
 - 2016-02-29 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-216.
 - 2016-02-29 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-216.
 - 2016-02-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
+- 2016-04-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2105-2106; text of committee substitute as amended: CR S2106)
+- 2016-04-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2105-2106; text of committee substitute as amended: CR S2106)
