@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3340
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -47,3 +47,4 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5345` | amend | in subsection (d), by amending the heading to read as follows: “Assessment schedule.—”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5343` | add-at-end | Section 153 of the Financial Stability Act of 2010 (12 U.S.C. 5343) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5343` | add-at-end | Section 153(c) of the Financial Stability Act of 2010 (12 U.S.C. 5343(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5343` | add-at-end | Section 153 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5343), as amended by section 3, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
