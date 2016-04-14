@@ -27,7 +27,7 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
   >     - **(C)** Ensuring that components formally document fleet management decisions.
   >     - **(D)** Approving component fleet management plans, vehicle leases, and vehicle acquisitions.
   >   - **(2)** *Component responsibilities*
-  >     - **(A)** *In general* Each component head—
+  >     - **(A)** *In general* Component heads—
   >       - **(i)** shall—
   >         - **(I)** comply with Federal law, Federal regulations, executive branch guidance, and Department policy (including guidance relating to such) relating to fleet management and use of vehicles from home to work;
   >         - **(II)** ensure that data related to fleet management is accurate and reliable;
@@ -41,19 +41,19 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
   >     - **(C)** *Monitoring* The Under Secretary for Management shall track and monitor component information provided pursuant to subparagraph (A) and, as appropriate, subparagraph (B), to ensure that component vehicle fleets are the optimal fleet size and cost effective. The Under Secretary shall use such information to inform the annual component fleet analyses referred to in paragraph (4).
   >   - **(4)** *Annual review of component fleet analyses*
   >     - **(A)** *In general* To determine the optimal fleet size and associated resources needed for each fiscal year beginning with fiscal year 2018, component heads shall annually submit to the Under Secretary for Management a vehicle allocation tool and fleet management plan using information described in paragraph (3)(A). Such tools and plans may be submitted in classified form if a component head determines that such is necessary to protect operations or mission requirements.
-  >     - **(B)** *Vehicle allocation tool* Each component head develop a vehicle allocation tool in accordance with subclause (III) of paragraph (2)(A)(i) that includes an analysis of the following:
+  >     - **(B)** *Vehicle allocation tool* Component heads develop a vehicle allocation tool in accordance with subclause (III) of paragraph (2)(A)(i) that includes an analysis of the following:
   >       - **(i)** Vehicle utilization data, including the number of trips, miles driven, hours and days used, and the associated costs of such mileage for leased vehicles, in accordance with such paragraph.
   >       - **(ii)** The role of vehicle fleets in supporting mission requirements for each component.
   >       - **(iii)** Any other information determined relevant by such component heads.
   >     - **(C)** *Fleet management plans* Component heads shall use information described in subparagraph (B) to develop a fleet management plan for each such component. Such fleet management plans shall include the following:
-  >       - **(i)** A plan for how each such component may achieve obtain optimal fleet size determined by the vehicle allocation tool required under such subparagraph, including the elimination of excess vehicles in accordance with paragraph (5), if applicable.
+  >       - **(i)** A plan for how each such component may achieve optimal fleet size determined by the vehicle allocation tool required under such subparagraph, including the elimination of excess vehicles in accordance with paragraph (5), if applicable.
   >       - **(ii)** A cost benefit analysis supporting such plan.
   >       - **(iii)** A schedule each such component will follow to obtain optimal fleet size.
   >       - **(iv)** Any other information determined relevant by component heads.
   >     - **(D)** *Review* The Under Secretary for Management shall review and make a determination on the results of each component’s vehicle allocation tool and fleet management plan under this paragraph to ensure each such component’s vehicle fleets are the optimal fleet size and that components are in compliance with applicable Federal law, Federal regulations, executive branch guidance, and Department policy pursuant to paragraph (2) relating to fleet management and use of vehicles from home to work. The Under Secretary shall use such tools and plans when reviewing annual component requests for vehicle fleet funding in accordance with paragraph (6).
   >   - **(5)** *Guidance to develop fleet management plans* The Under Secretary for Management shall provide guidance, pursuant to paragraph (1)(B) on how component heads may achieve optimal fleet size in accordance with paragraph (4), including processes for the following:
   >     - **(A)** Leasing or acquiring additional vehicles or replacing existing vehicles, if determined necessary.
-  >     - **(B)** Disposing of excess vehicles that the Under Secretary determines should not be reallocated in accordance with clause (iii).
+  >     - **(B)** Disposing of excess vehicles that the Under Secretary determines should not be reallocated under subparagraph (C).
   >     - **(C)** Reallocating excess vehicles to other components that may need temporary or long-term use of additional vehicles.
   >   - **(6)** *Annual review of vehicle fleet funding requests* As part of the annual budget process, the Under Secretary for Management shall review and make determinations regarding annual component requests for funding for vehicle fleets. If component heads have not taken steps in furtherance of achieving optimal fleet size in the prior fiscal year pursuant to paragraphs (4) and (5), the Under Secretary shall provide rescission recommendations to the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives and the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate regarding such component vehicle fleets.
   >   - **(7)** *Accountability for vehicle fleet management*
@@ -73,4 +73,14 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
   >     - **(A)** *Component head* The term “component head” means the head of any component of the Department with a vehicle fleet.
   >     - **(B)** *Excess vehicle* The term “excess vehicle” means any vehicle that is not essential to support mission requirements of a component.
   >     - **(C)** *Optimal fleet size* The term “optimal fleet size” means, with respect to a particular component, the appropriate number of vehicles to support mission requirements of such component.
-  >     - **(D)** *Vehicle fleet* The term “vehicle fleet” means all owned, commercially leased, or Government-leased vehicles of the Department, including vehicles used for law enforcement and other purposes.
+  >     - **(D)** *Vehicle fleet* The term “vehicle fleet” means all owned, commercially leased, or Government-leased vehicles of the Department or of a component of the Department, as the case may be, including vehicles used for law enforcement and other purposes.
+
+## § 3. GAO report and Inspector General review
+
+- **(a)** *GAO report* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs a report on the following:
+  - **(1)** The status of efforts at achieving a capability to collect automated information as required under subsection (c)(3) of section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341), as added by section 2 of this Act, and any challenges that remain with respect to achieving the capability to collect, assess, and report vehicle fleet (as such term in defined in subsection (c)(9) of such section 701) data for the purpose of determining vehicle utilization.
+  - **(2)** The extent to which the Under Secretary for Management has identified and addressed any relevant security concerns, including cybersecurity risks, related to such automation.
+  - **(3)** The extent to which the Under Secretary collects, assesses, and reports on vehicle fleet event data recorder data.
+- **(b)** *Inspector General review* The Inspector General of the Department of Homeland Security shall—
+  - **(1)** review implementation of subsection (c)(4) of section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341), as added by section 2 of this Act, for fiscal years 2018 and 2020, and shall provide, upon request, to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information regarding any such review; and
+  - **(2)** submit to the committees specified in paragraph (1) a report, not later than six months after completion of the second review required under such paragraph, regarding the effectiveness of such subsection with respect to cost avoidance, savings realized, and component operations.
