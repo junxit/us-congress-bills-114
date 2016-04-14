@@ -2,7 +2,7 @@
 legis-num: H.R. 4509
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4509
@@ -20,7 +20,7 @@ Subsection (b) of section 2021 of the Homeland Security Act of 2002 (6 U.S.C. 61
 > - **(b)** *Planning committees*
 >   - **(1)** *In general* Any State or high-risk urban area receiving a grant under section 2003 or 2004 shall establish a State planning committee or urban area working group to assist in preparation and revision of the State, regional, or local homeland security plan or the threat and hazard identification and risk assessment, as the case may be, and to assist in determining effective funding priorities for grants under such sections.
 >   - **(2)** *Composition*
->     - **(A)** *In general* The State planning committees and urban area working groups referred to in paragraph (1) shall include at least one representative of significant stakeholders, including the following:
+>     - **(A)** *In general* The State planning committees and urban area working groups referred to in paragraph (1) shall include at least one representative from each of the following significant stakeholders:
 >       - **(i)** Local or tribal government officials.
 >       - **(ii)** Emergency response providers, which shall include representatives of the fire service, law enforcement, emergency medical services, and emergency managers.
 >       - **(iii)** Public health officials and other appropriate medical practitioners.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4509
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4509
@@ -20,9 +20,10 @@ State and High-Risk Urban Area Working Group Act
 
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ State and High-Risk Urban Area Working Group Act
 - 2016-04-13 — Placed on the Union Calendar, Calendar No. 373.
 - 2016-04-13 — Reported by the Committee on Homeland Security. H. Rept. 114-491.
 - 2016-04-13 — Reported by the Committee on Homeland Security. H. Rept. 114-491.
+- 2016-04-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
