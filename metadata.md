@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 311
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 311
@@ -28,3 +28,7 @@ A resolution honoring Rutgers, the State University of New Jersey, as Rutgers ce
 
 - 2015-11-09 — Introduced in Senate
 - 2015-11-09 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7862)
+- 2016-04-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-04-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-04-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2106-2107)
+- 2016-04-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2106-2107)
