@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4240
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “No Fly for Foreign Fighters Act”.
 
 ## § 2. GAO study on the Terrorist Screening Database
 
-- **(a)** *In general* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit, to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, a report on—
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit, to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, a report on—
   - **(1)** whether past weaknesses in the operation and administration of the Terrorist Screening Database (hereinafter referred to as the “TSDB”) and subsets of the TSDB have been addressed; and
   - **(2)** the extent to which existing vulnerabilities to the United States may be addressed or mitigated through additional changes to the TSDB and subsets of the TSDB, thereby enhancing America’s security and defenses.
 - **(b)** *Required information* The study and report under subsection (a) shall include information on the extent to which—
