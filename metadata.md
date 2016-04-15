@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2666
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2666
@@ -42,6 +42,12 @@ No Rate Regulation of Broadband Internet Access Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2016-04-15 — [House 114-2-150](votes/house-114-2-0150.md) — On Agreeing to the Amendment — **Failed** (179–231)
+- 2016-04-15 — [House 114-2-151](votes/house-114-2-0151.md) — On Agreeing to the Amendment — **Failed** (173–231)
+- 2016-04-15 — [House 114-2-152](votes/house-114-2-0152.md) — On Passage — **Passed** (241–173)
+
 ## Actions
 
 - 2015-06-04 — Introduced in House
@@ -57,3 +63,39 @@ No Rate Regulation of Broadband Internet Access Act
 - 2016-03-30 — Placed on the Union Calendar, Calendar No. 364.
 - 2016-03-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-478.
 - 2016-03-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-478.
+- 2016-04-12 — Rules Committee Resolution H. Res. 672 Reported to House. Rule provides for consideration of H.R. 2666 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2016-04-13 — Rule H. Res. 672 passed House.
+- 2016-04-15 — Amendment (A001) offered by Mr. Yarmuth. (consideration: CR H1749-1750, H1751-1752; text: CR H1749)
+- 2016-04-15 — Amendment (A002) offered by Mr. McNerney. (consideration: CR H1750-1751, H1752; text: CR H1750)
+- 2016-04-15 — Amendment failed in Committee of the Whole
+- 2016-04-15 — Amendment failed in Committee of the Whole
+- 2016-04-15 — Considered under the provisions of rule H. Res. 672. (consideration: CR H1741-1754)
+- 2016-04-15 — DEBATE - Pursuant to the provisions of H. Res. 672, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment no. 3.
+- 2016-04-15 — DEBATE - Pursuant to the provisions of H. Res. 672, the Committee of the Whole proceeded with 10 minutes of debate on the Yarmuth amendment no. 2.
+- 2016-04-15 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on Yarmuth motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment providing for consideration of H. Con. Res. 125, establishing the congressional budget for the United States Government for FY 2017.
+- 2016-04-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2666.
+- 2016-04-15 — House amendment not agreed to: On agreeing to the McNerney amendment (A002) Failed by recorded vote: 173 - 231 (Roll no. 151).
+- 2016-04-15 — House amendment not agreed to: On agreeing to the Yarmuth amendment (A001) Failed by recorded vote: 179 - 231 (Roll no. 150).
+- 2016-04-15 — House amendment offered
+- 2016-04-15 — House amendment offered
+- 2016-04-15 — House amendment offered/reported by : Amendment (A001) offered by Mr. Yarmuth.(consideration: CR H1749-1750, H1751-1752; text: CR H1749)
+- 2016-04-15 — House amendment offered/reported by : Amendment (A002) offered by Mr. McNerney.(consideration: CR H1750-1751, H1752; text: CR H1750)
+- 2016-04-15 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 672 and Rule XVIII.
+- 2016-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-15 — Mr. Walden raised a point of order against the motion to recommit with instructions. Mr. Walden stated that the provisions of the amendment were not germane to the bill. Sustained by the Chair.
+- 2016-04-15 — Mr. Yarmuth moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: CR H1753; text: CR H1753)
+- 2016-04-15 — On agreeing to the McNerney amendment (A002) Failed by recorded vote: 173 - 231 (Roll no. 151).
+- 2016-04-15 — On agreeing to the Yarmuth amendment (A001) Failed by recorded vote: 179 - 231 (Roll no. 150).
+- 2016-04-15 — On passage Passed by recorded vote: 241 - 173 (Roll no. 152).
+- 2016-04-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes prevailed. Mr. McNerney demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2016-04-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Yarmuth amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes prevailed. Mr. Yarmuth demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2016-04-15 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 173 (Roll no. 152).
+- 2016-04-15 — Point of order sustained against the motion to recommit with instructions.
+- 2016-04-15 — Roll call votes on amendments in House
+- 2016-04-15 — Roll call votes on amendments in House
+- 2016-04-15 — Rule provides for consideration of H.R. 2666 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2016-04-15 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H1748-1749)
+- 2016-04-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2666.
+- 2016-04-15 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
+- 2016-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H1753)
+- 2016-04-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
