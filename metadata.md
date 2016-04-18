@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3340
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3340
@@ -34,9 +34,10 @@ Financial Stability Oversight Council Reform Act
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -77,3 +78,4 @@ Financial Stability Oversight Council Reform Act
 - 2016-04-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 239 - 179 (Roll no. 146).(text: CR H1699)
 - 2016-04-14 — The previous question was ordered on the bill and amendment pursuant to the rule. (consideration: CR H1708)
 - 2016-04-14 — The resolution provides for consideration of H.R. 3340 and H.R. 3791.
+- 2016-04-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
