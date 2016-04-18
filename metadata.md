@@ -1,7 +1,7 @@
 ---
 measure: S. 284
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 284
@@ -29,9 +29,11 @@ Global Magnitsky Human Rights Accountability Act
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +52,9 @@ Global Magnitsky Human Rights Accountability Act
 - 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2937 proposed by Senator McConnell for Senator Cardin.(consideration: CR S8836)
 - 2015-12-17 — Senate amendment submitted
 - 2015-12-17 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8836)
+- 2015-12-18 — Held at the desk.
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2015-12-18 — Received in the House.
+- 2016-04-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
