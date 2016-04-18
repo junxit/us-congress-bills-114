@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1206
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,9 +15,21 @@ This Act may be cited as the “No Hires for the Delinquent IRS Act”.
 
 ## § 2. Prohibition on IRS hiring of new employees until certification that no IRS employee has a seriously delinquent tax debt
 
-- **(a)** *In general* No officer or employee of the United States may extend an offer of employment in the Internal Revenue Service to any individual until after the date on which the Secretary of the Treasury publicly issues a written certification that the Internal Revenue Service does not employ any individual who has a seriously delinquent tax debt.
-- **(b)** *Seriously delinquent tax debt* For purposes of this section, the term “seriously delinquent tax debt” means an outstanding debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code, except that such term does not include—
-  - **(1)** a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code;
-  - **(2)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending;
-  - **(3)** a debt with respect to which a levy has been issued under section 6331 of such Code (or a debt with respect to which the applicant for employment agrees to be subject to a levy issued under such section); and
-  - **(4)** a debt with respect to which relief under section 6343(a)(1)(D) of such Code is granted.
+- **(a)** *In general* No officer or employee of the United States may extend an offer of employment in the Internal Revenue Service to any individual until after the Secretary of the Treasury has submitted to Congress either the certification described in subsection (b) or the report described in subsection (c).
+- **(b)** *Certification*
+  - **(1)** *In general* The certification referred to in subsection (a) is a written certification by the Secretary that the Internal Revenue Service does not employ any individual who has a seriously delinquent tax debt.
+  - **(2)** *Seriously delinquent tax debt* For purposes of this section, the term “seriously delinquent tax debt” means an outstanding debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code, except that such term does not include—
+    - **(A)** a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code;
+    - **(B)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending;
+    - **(C)** a debt with respect to which a levy has been made under section 6331 of such Code (or a debt with respect to which the individual agrees to be subject to a levy made under such section); and
+    - **(D)** a debt with respect to which relief under section 6343(a)(1)(D) of such Code is granted.
+- **(c)** *Report* The report referred to in subsection (a) is a report that—
+  - **(1)** states that the certification described in subsection (b) cannot be made;
+  - **(2)** provides an explanation of why such certification is not possible;
+  - **(3)** outlines the remedial actions that would be required for the Secretary to be in a position to so certify; and
+  - **(4)** provides an indication of the time that would be required for those actions to be completed.
+- **(d)** *Effective date* This section shall apply to offers of employment extended after December 31, 2016.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
