@@ -1,7 +1,7 @@
 ---
 measure: S. 2713
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2713
@@ -24,3 +24,7 @@ Advancing Precision Medicine Act of 2016
 
 - 2016-03-17 — Introduced in Senate
 - 2016-03-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2016-04-06 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-04-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2016-04-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2016-04-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.
