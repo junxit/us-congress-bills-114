@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3724
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Integrity in the IRS Workforce Act of 2015”.
+This Act may be cited as the “Ensuring Integrity in the IRS Workforce Act of 2016”.
 
 ## § 2. Prohibition on rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct
 
@@ -19,3 +19,7 @@ This Act may be cited as the “Ensuring Integrity in the IRS Workforce Act of 2
   > - **(d)** *Prohibition on rehiring employees involuntarily separated* The Commissioner may not employ any individual previously employed by the Commissioner who was removed for misconduct under this subchapter or chapter 43 or chapter 75 of title 5, United States Code, or whose employment was terminated under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998 (26 U.S.C. 7804 note).
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to any employee removed from employment before, on, or after the date of the enactment of this Act.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
