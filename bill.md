@@ -19,4 +19,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. No additional funds authorized
 
-No additional funds are authorized to be appropriated or otherwise made available to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated or made available.
+No additional funds are authorized to be appropriated or otherwise made available to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated or made available.
