@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4618
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4618
@@ -32,3 +32,9 @@ To designate the Federal building and United States courthouse located at 121 Sp
 - 2016-03-23 — Placed on the House Calendar, Calendar No. 99.
 - 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-463.
 - 2016-03-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-463.
+- 2016-04-18 — Considered under suspension of the rules. (consideration: CR H1772-1773)
+- 2016-04-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4618.
+- 2016-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-18 — Mr. Curbelo (FL) moved to suspend the rules and pass the bill.
+- 2016-04-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1772)
+- 2016-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1772)
