@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3791
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3791
@@ -23,9 +23,10 @@ To raise the consolidated assets threshold under the small bank holding company 
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -70,3 +71,4 @@ To raise the consolidated assets threshold under the small bank holding company 
 - 2016-04-14 — Roll call votes on amendments in House
 - 2016-04-14 — Rule provides for consideration of H.R. 3340 and H.R. 3791. The resolution provides for consideration of H.R. 3340 and H.R. 3791.
 - 2016-04-14 — The previous question was ordered on the amendment and on the bill pursuant to the rule. (consideration: CR H1698)
+- 2016-04-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
