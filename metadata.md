@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4570
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4570
@@ -68,9 +68,10 @@ version: Engrossed in House
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -90,3 +91,4 @@ version: Engrossed in House
 - 2016-04-18 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2016-04-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 6, 2 Present (Roll no. 153). (text: CR H1774-1775)
 - 2016-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 6, 2 Present (Roll no. 153).(text: CR H1774-1775)
+- 2016-04-19 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
