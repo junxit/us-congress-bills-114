@@ -1,7 +1,7 @@
 ---
 measure: S. 2755
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2755
@@ -55,3 +55,18 @@ Fallen Heroes Flag Act of 2016
 - 2016-04-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2202)
 - 2016-04-19 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2201-2202)
 - 2016-04-19 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2201-2202)
+- 2016-04-20 — Held at the desk.
+- 2016-04-20 — Message on Senate action sent to the House.
+- 2016-04-20 — Received in the House.
+- 2016-05-10 — Considered under suspension of the rules. (consideration: CR H2164-2166)
+- 2016-05-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2755.
+- 2016-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-10 — Mr. Nugent moved to suspend the rules and pass the bill.
+- 2016-05-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2164-2165)
+- 2016-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2164-2165)
+- 2016-05-13 — Presented to President.
+- 2016-05-13 — Presented to President.
+- 2016-05-16 — Became Public Law No: 114-156.
+- 2016-05-16 — Became Public Law No: 114-156.
+- 2016-05-16 — Signed by President.
+- 2016-05-16 — Signed by President.
