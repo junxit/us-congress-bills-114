@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 673
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 673
@@ -25,3 +25,9 @@ Expressing the sense of the House of Representatives that the Internal Revenue S
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Referred to the House Committee on Ways and Means.
+- 2016-04-19 — Considered under suspension of the rules. (consideration: CR H1825-1827)
+- 2016-04-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 673.
+- 2016-04-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-19 — Mrs. Noem moved to suspend the rules and agree to the resolution.
+- 2016-04-19 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1825)
+- 2016-04-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1825)
