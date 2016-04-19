@@ -1,7 +1,7 @@
 ---
 measure: S. 2755
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2755
@@ -16,7 +16,7 @@ Fallen Heroes Flag Act of 2016
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 
-## Cosponsors (20)
+## Cosponsors (24)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. McConnell, Mitch [R-KY] (M000355)
@@ -38,6 +38,10 @@ Fallen Heroes Flag Act of 2016
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -47,3 +51,7 @@ Fallen Heroes Flag Act of 2016
 
 - 2016-04-06 — Introduced in Senate
 - 2016-04-06 — Read twice and referred to the Committee on Rules and Administration.
+- 2016-04-19 — Passed Senate without amendment by Unanimous Consent. (text: CR S2202)
+- 2016-04-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2202)
+- 2016-04-19 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2201-2202)
+- 2016-04-19 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2201-2202)
