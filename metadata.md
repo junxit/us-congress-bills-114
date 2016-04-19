@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3866
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3866
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 1265 Hu
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 1265 Hu
 - 2016-04-18 — Mr. Blum moved to suspend the rules and pass the bill.
 - 2016-04-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1777)
 - 2016-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1777)
+- 2016-04-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
