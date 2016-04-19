@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4618
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4618
@@ -40,3 +40,14 @@ To designate the Federal building and United States courthouse located at 121 Sp
 - 2016-04-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1772)
 - 2016-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1772)
 - 2016-04-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7108)
+- 2016-12-10 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7108)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-288.
+- 2016-12-16 — Became Public Law No: 114-288.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
