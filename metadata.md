@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3868
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3868
@@ -16,6 +16,15 @@ Small Business Credit Availability Act
 
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 
+## Cosponsors (6)
+
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Dold, Robert J. [R-IL-10] (D000613)
+
 ## Committees (2)
 
 - House — Financial Services Committee
@@ -27,3 +36,8 @@ Small Business Credit Availability Act
 - 2015-11-02 — Introduced in House
 - 2015-11-02 — Introduced in House
 - 2015-11-02 — Referred to the House Committee on Financial Services.
+- 2015-11-04 — Committee Consideration and Mark-up Session Held.
+- 2015-11-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 4.
+- 2016-04-19 — Placed on the Union Calendar, Calendar No. 388.
+- 2016-04-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-508.
+- 2016-04-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-508.

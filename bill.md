@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3868
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,9 @@ This Act may be cited as the “Small Business Credit Availability Act”.
 
 ## § 2. Business development company ownership of securities of investment advisers and certain financial companies
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall promulgate regulations to codify the order in Investment Company Act Release No. 30024, dated March 30, 2012. If the Commission fails to complete the regulations as required by this subsection, a business development company shall be entitled to treat such regulations as having been completed in accordance with the actions required to be taken by the Commission until such time as such regulations are completed by the Commission.
+- **(a)** *In general*
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall promulgate regulations to codify the order in Investment Company Act Release No. 30024, dated March 30, 2012. If the Commission fails to complete the regulations as required by this subsection, a business development company shall be entitled to treat such regulations as having been completed in accordance with the actions required to be taken by the Commission until such time as such regulations are completed by the Commission.
+  - **(2)** *Rule of construction* Nothing in this subsection shall prevent the Commission from issuing rules to address potential conflicts of interest between business development companies and investment advisers.
 - **(b)** *Permissible assets of an eligible portfolio company* Section 55 of the Investment Company Act of 1940 (15 U.S.C. 80a–54) is amended by adding at the end the following:
   > - **(c)** *Securities deemed To be permissible assets* Notwithstanding subsection (a), securities that would be described in paragraphs (1) through (6) of such subsection except that the issuer is a company described in paragraph (2), (3), (4), (5), (6), or (9) of section 3(c) may be deemed to be assets described in paragraphs (1) through (6) of subsection (a) to the extent necessary for the sum of the assets to equal 70 percent of the value of a business development company’s total assets (other than assets described in paragraph (7) of subsection (a)), provided that the aggregate value of such securities counting toward such 70 percent shall not exceed 20 percent of the value of the business development company’s total assets.
 
@@ -36,7 +38,7 @@ This Act may be cited as the “Small Business Credit Availability Act”.
     >     - **(i)** the application of this paragraph to the company is approved by the required majority (as defined in section 57(o)) of the directors of or general partners of such company who are not interested persons of the business development company, which application shall become effective on the date that is 1 year after the date of the approval, and, with respect to a business development company that issues equity securities that are not registered on a national securities exchange, the company extends, to each person who is a shareholder as of the date of the approval, an offer to repurchase the equity securities held by such person as of such approval date, with 25 percent of such securities to be repurchased in each of the four quarters following such approval date; or
     >     - **(ii)** the company obtains, at a special or annual meeting of shareholders or partners at which a quorum is present, the approval of more than 50 percent of the votes cast of the application of this paragraph to the company, which application shall become effective on the date immediately after the date of the approval.
 
-  - **(3)** in paragraph (3) (as redesignated), by inserting “or which is a stock” after “indebtedness”;
+  - **(3)** in paragraph (3) (as redesignated), by inserting “or which is a stock, provided that all such stock is issued in accordance with paragraph (6)” after “indebtedness”;
   - **(4)** in subparagraph (A) of paragraph (4) (as redesignated)—
     - **(A)** in the matter preceding clause (i), by striking “voting”; and
     - **(B)** by amending clause (iii) to read as follows:
@@ -44,8 +46,7 @@ This Act may be cited as the “Small Business Credit Availability Act”.
       >   - **(I)** the market value of the securities issuable upon the exercise of such warrants, options, or rights at the date of issuance of such warrants, options, or rights; or
       >   - **(II)** if no such market value exists, the net asset value of the securities issuable upon the exercise of such warrants, options, or rights at the date of issuance of such warrants, options, or rights; and
 
-  - **(5)** in paragraph (2), by inserting “or which is a stock, provided that all such stock is issued in accordance with paragraph (6)” after “indebtedness”; and
-  - **(6)** by adding at the end the following:
+  - **(5)** by adding at the end the following:
     > - **(6)**
     >   - **(A)** *Qualified institutional buyer* Except as provided in subparagraph (B), the following shall not apply to a senior security which is a stock and which is issued to and held by a qualified institutional buyer (as defined in section 3(a)(64) of the Securities Exchange Act of 1934):
     >     - **(i)** Subparagraphs (C) and (D) of section 18(a)(2).
