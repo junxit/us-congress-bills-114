@@ -1,54 +1,29 @@
 ---
 legis-num: H.R. 636
 congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 636
 
-> To amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.
+That the bill from the House of Representatives (H.R. 636) entitled “An Act to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the enacting clause and insert the following:*
 
-This Act may be cited as the “America’s Small Business Tax Relief Act of 2015”.
+## § 1. Short title; table of contents
 
-## § 2. Expensing certain depreciable business assets for small business
+- **(a)** *Short title* This Act may be cited as the “Federal Aviation Administration Reauthorization Act of 2016”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
 
-- **(a)** *In general*
-  - **(1)** *Dollar limitation* Section 179(b)(1) of the Internal Revenue Code of 1986 is amended by striking “shall not exceed—” and all that follows and inserting “shall not exceed $500,000.”.
-  - **(2)** *Reduction in limitation* Section 179(b)(2) of such Code is amended by striking “exceeds—” and all that follows and inserting “exceeds $2,000,000.”.
-- **(b)** *Computer software* Section 179(d)(1)(A)(ii) of such Code is amended by striking “, to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015” and inserting “and to which section 167 applies”.
-- **(c)** *Election* Section 179(c)(2) of such Code is amended—
-  - **(1)** by striking “may not be revoked” and all that follows through “and before 2015”; and
-  - **(2)** by striking “irrevocable” in the heading thereof.
-- **(d)** *Air conditioning and heating units* Section 179(d)(1) of such Code is amended by striking “and shall not include air conditioning or heating units”.
-- **(e)** *Qualified real property* Section 179(f) of such Code is amended—
-  - **(1)** by striking “beginning after 2009 and before 2015” in paragraph (1); and
-  - **(2)** by striking paragraphs (3) and (4).
-- **(f)** *Inflation adjustment* Section 179(b) of such Code is amended by adding at the end the following new paragraph:
-  > - **(6)** *Inflation adjustment*
-  >   - **(A)** *In general* In the case of any taxable year beginning after 2015, the dollar amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
-  >     - **(i)** such dollar amount, multiplied by
-  >     - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 1992” in subparagraph (B) thereof.
-  >   - **(B)** *Rounding* The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000.
+## § 2. References to title 49, United States Code
 
-- **(g)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2014.
+Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 49, United States Code.
 
-## § 3. Reduced recognition period for built-in gains of S corporations made permanent
+## § 3. Definition of appropriate committees of Congress
 
-- **(a)** *In general* Paragraph (7) of section 1374(d) of the Internal Revenue Code of 1986 is amended to read as follows:
-  > - **(7)** *Recognition period*
-  >   - **(A)** *In general* The term recognition period means the 5-year period beginning with the first day of the first taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase “5-year”.
-  >   - **(B)** *Installment sales* If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
+In this Act, unless expressly provided otherwise, the term appropriate committees of Congress means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2014.
+## § 4. Effective date
 
-## § 4. Permanent rule regarding basis adjustment to stock of S corporations making charitable contributions of property
-
-- **(a)** *In general* Section 1367(a)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence.
-- **(b)** *Effective date* The amendment made by this section shall apply to contributions made in taxable years beginning after December 31, 2014.
-
-## § 5. Budgetary effects
-
-The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+Except as otherwise expressly provided, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act.

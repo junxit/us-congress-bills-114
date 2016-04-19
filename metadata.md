@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 636
@@ -16,7 +16,7 @@ FAA Extension, Safety, and Security Act of 2016
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (14)
+## Cosponsors (349)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Young, Todd [R-IN-9] (Y000064)
@@ -32,16 +32,358 @@ FAA Extension, Safety, and Security Act of 2016
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (2)
 
 - House — Budget Committee
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (9)
 
 - 2015-02-13 — [House 114-1-81](votes/house-114-1-0081.md) — On Motion to Recommit with Instructions — **Failed** (173–241)
 - 2015-02-13 — [House 114-1-82](votes/house-114-1-0082.md) — On Passage — **Passed** (272–142)
+- 2016-04-06 — [Senate 114-2-40](votes/senate-114-2-0040.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (98–0)
+- 2016-04-07 — [Senate 114-2-41](votes/senate-114-2-0041.md) — On the Amendment — **Amendment Agreed to** (85–10)
+- 2016-04-07 — [Senate 114-2-42](votes/senate-114-2-0042.md) — On the Amendment — **Amendment Agreed to** (91–5)
+- 2016-04-07 — [Senate 114-2-43](votes/senate-114-2-0043.md) — On the Amendment — **Amendment Rejected** (42–54)
+- 2016-04-14 — [Senate 114-2-45](votes/senate-114-2-0045.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–4)
+- 2016-04-18 — [Senate 114-2-46](votes/senate-114-2-0046.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–5)
+- 2016-04-19 — [Senate 114-2-47](votes/senate-114-2-0047.md) — On Passage of the Bill — **Bill Passed** (95–3)
 
 ## Actions
 
@@ -73,3 +415,485 @@ FAA Extension, Safety, and Security Act of 2016
 - 2015-02-23 — Received in the Senate.
 - 2015-04-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2015-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2016-04-04 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S1636; text: CR S1636)
+- 2016-04-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1622-1623; S1636; text: CR S1622)
+- 2016-04-05 — Motion to proceed to measure considered in Senate. (consideration: CR S1648-1655, S1655-1662)
+- 2016-04-05 — Senate amendment submitted
+- 2016-04-05 — Senate amendment submitted
+- 2016-04-06 — Amendment SA 3460 proposed by Senator Thune for Senator Gardner to Amendment SA 3464. (consideration: CR S1702; text: CR S1702) To require the FAA Administrator to consider the operational history of a person before authorizing the person to operate certain unmanned aircraft systems.
+- 2016-04-06 — Amendment SA 3464 proposed by Senator Thune. (consideration: CR S1702) In the nature of a substitute.
+- 2016-04-06 — Amendment SA 3512 proposed by Senator Thune to Amendment SA 3464. (consideration: CR S1703) To enhance airport security, and for other purposes.
+- 2016-04-06 — Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 40. (consideration: CR S1681-1682; text: CR S1681)
+- 2016-04-06 — Measure laid before Senate by motion. (consideration: CR S1702-1703)
+- 2016-04-06 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2016-04-06 — Motion to proceed to measure considered in Senate. (consideration: CR S1680-1703)
+- 2016-04-06 — Senate amendment proposed (on the floor): Amendment SA 3460 proposed by Senator Thune for Senator Gardner to Amendment SA 3464.(consideration: CR S1702; text: CR S1702)
+- 2016-04-06 — Senate amendment proposed (on the floor): Amendment SA 3464 proposed by Senator Thune.(consideration: CR S1702)
+- 2016-04-06 — Senate amendment proposed (on the floor): Amendment SA 3512 proposed by Senator Thune to Amendment SA 3464.(consideration: CR S1703)
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-06 — Senate amendment submitted
+- 2016-04-07 — Amendment SA 3458 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1785)
+- 2016-04-07 — Amendment SA 3458 proposed by Senator Thune for Senator Casey to Amendment SA 3464. (consideration: CR S1785) To protect passengers in air transportation, pilots, and flight attendants from terrorists and mentally unstable individuals by requiring the installation of secondary barriers to prevent cockpit intrusions.
+- 2016-04-07 — Amendment SA 3482 as modified agreed to in Senate by Yea-Nay Vote. 91 - 5. Record Vote Number: 42. (text as modified: CR S1779)
+- 2016-04-07 — Amendment SA 3482 proposed by Senator Heinrich to Amendment SA 3464. (consideration: CR S1779-1781, S1787) To expand and enhance visible deterrents at major transportation hubs and to increase the resources to protect and secure the United States.
+- 2016-04-07 — Amendment SA 3483 not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 43.
+- 2016-04-07 — Amendment SA 3483 proposed by Senator Nelson for Senator Schumer to Amendment SA 3464. (consideration: CR S1786, S1789; text: CR S1786) To require the Federal Aviation Administration to establish minimum standards for space for passengers on passenger aircraft.
+- 2016-04-07 — Amendment SA 3490 proposed by Senator Cantwell to Amendment SA 3464. (consideration: CR S1788-1789; text: CR S1788) To extend protections against physical assault to air carrier customer service representatives.
+- 2016-04-07 — Amendment SA 3495 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Amendment SA 3495 proposed by Senator Thune for Senator Heller to Amendment SA 3464. (consideration: CR S1785; text: CR S1785) To improve employment opportunities for veterans by requiring the Administrator of the Federal Aviation Administration to determine whether occupations at the Administration relating to unmanned aircraft systems technology and regulations can be incorporated into the Veterans Employment Program of the Administration.
+- 2016-04-07 — Amendment SA 3499 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1801)
+- 2016-04-07 — Amendment SA 3499 proposed by Senator Thune for Senator Wyden to Amendment SA 3464. (consideration: CR S1801-1802) To require a review of heads-up guidance system displays.
+- 2016-04-07 — Amendment SA 3505 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Amendment SA 3505 proposed by Senator Thune for Senator Tester to Amendment SA 3464. (consideration: CR S1801-1802; text: CR S1801-1802) To direct the Comptroller General of the United States to study the costs of deploying advanced imaging technologies at all commercial airports at which TSA security screening operations procedures are conducted.
+- 2016-04-07 — Amendment SA 3508 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Amendment SA 3508 proposed by Senator Thune for Senator Collins to Amendment SA 3464. (consideration: CR S1801-1802; text: CR S1801) To continue the contract weather observers program through the end of fiscal year 2017 and to require the FAA report to identify the process through which the FAA analyzed the safety hazards associated with the elimination of the contract weather observer program.
+- 2016-04-07 — Amendment SA 3512 as modified agreed to in Senate by Yea-Nay Vote. 85 - 10. Record Vote Number: 41. (consideration: CR S1781-1785, S1785-1786, S1786-1787, S1793; text as modified: CR S1781-1785)
+- 2016-04-07 — Amendment SA 3524 proposed by Senator Nelson for Senator Bennet to Amendment SA 3464. (consideration: CR S1785; text: CR S1785) To improve air service for families and pregnant women.
+- 2016-04-07 — Considered by Senate. (consideration: CR S1778)
+- 2016-04-07 — Considered by Senate. (consideration: CR S1778)
+- 2016-04-07 — Considered by Senate. (consideration: CR S1778)
+- 2016-04-07 — Considered by Senate. (consideration: CR S1778-1794, S1795-1802)
+- 2016-04-07 — Roll call votes on amendments in Senate: Amendment SA 3482 as modified agreed to in Senate by Yea-Nay Vote. 91 - 5. Record Vote Number: 42.(text as modified: CR S1779)
+- 2016-04-07 — Roll call votes on amendments in Senate: Amendment SA 3483 not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 43.
+- 2016-04-07 — Roll call votes on amendments in Senate: Amendment SA 3512 as modified agreed to in Senate by Yea-Nay Vote. 85 - 10. Record Vote Number: 41.(consideration: CR S1781-1785, S1785-1786, S1786-1787, S1793; text as modified: CR S1781-1785)
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3458 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1785)
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3482 as modified agreed to in Senate by Yea-Nay Vote. 91 - 5. Record Vote Number: 42.(text as modified: CR S1779)
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3495 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3499 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1801)
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3505 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3508 agreed to in Senate by Voice Vote.
+- 2016-04-07 — Senate amendment agreed to: Amendment SA 3512 as modified agreed to in Senate by Yea-Nay Vote. 85 - 10. Record Vote Number: 41.(consideration: CR S1781-1785, S1785-1786, S1786-1787, S1793; text as modified: CR S1781-1785)
+- 2016-04-07 — Senate amendment not agreed to: Amendment SA 3483 not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 43.
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3458 proposed by Senator Thune for Senator Casey to Amendment SA 3464.(consideration: CR S1785)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3482 proposed by Senator Heinrich to Amendment SA 3464.(consideration: CR S1779-1781, S1787)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3483 proposed by Senator Nelson for Senator Schumer to Amendment SA 3464.(consideration: CR S1786, S1789; text: CR S1786)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3490 proposed by Senator Cantwell to Amendment SA 3464.(consideration: CR S1788-1789; text: CR S1788)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3495 proposed by Senator Thune for Senator Heller to Amendment SA 3464.(consideration: CR S1785; text: CR S1785)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3499 proposed by Senator Thune for Senator Wyden to Amendment SA 3464.(consideration: CR S1801-1802)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3505 proposed by Senator Thune for Senator Tester to Amendment SA 3464.(consideration: CR S1801-1802; text: CR S1801-1802)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3508 proposed by Senator Thune for Senator Collins to Amendment SA 3464.(consideration: CR S1801-1802; text: CR S1801)
+- 2016-04-07 — Senate amendment proposed (on the floor): Amendment SA 3524 proposed by Senator Nelson for Senator Bennet to Amendment SA 3464.(consideration: CR S1785; text: CR S1785)
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-07 — Senate amendment submitted
+- 2016-04-11 — Amendment SA 3476 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1876)
+- 2016-04-11 — Amendment SA 3476 proposed by Senator Thune for Senator Cassidy to Amendment SA 3464. (consideration: CR S1876-1878) To authorize certain flights by Stage 2 airplanes.
+- 2016-04-11 — Amendment SA 3492 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1876-1877)
+- 2016-04-11 — Amendment SA 3492 proposed by Senator Thune for Senator Inhofe to Amendment SA 3464. (consideration: CR S1876-1878) Relating to the operation of unmanned aircraft systems by owners and operators of critical infrastructure.
+- 2016-04-11 — Amendment SA 3500 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3500 proposed by Senator Thune for Senator Hoeven to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To provide for a 5-year extension of the unmanned aircraft system test site program.
+- 2016-04-11 — Amendment SA 3524 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1878)
+- 2016-04-11 — Amendment SA 3526 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3526 proposed by Senator Thune for Senator Flake to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To establish an airspace management advisory committee.
+- 2016-04-11 — Amendment SA 3534 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3534 proposed by Senator Thune for Senator Cantwell to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877-1878) To establish a national multimodal freight advisory committee in the Department of Transportation.
+- 2016-04-11 — Amendment SA 3535 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3535 proposed by Senator Thune for Senator Cotton to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To clarify the provision relating to airports that enter into certain leases with components of the Armed Forces.
+- 2016-04-11 — Amendment SA 3567 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3567 proposed by Senator Thune for Senator Cochran to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1878) To require the Federal Aviation Administration to coordinate with the Center of Excellence for Unmanned Aircraft Systems with respect to research relating to unmanned aircraft systems.
+- 2016-04-11 — Amendment SA 3620 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3620 proposed by Senator Thune for Senator Booker to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To modify the definition of small business concern for purposes of the airport improvement program.
+- 2016-04-11 — Amendment SA 3621 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3621 proposed by Senator Thune for Senator Nelson to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To secure aircraft avionics systems.
+- 2016-04-11 — Amendment SA 3623 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3623 proposed by Senator Thune for Senator Whitehouse to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1878) To impose criminal penalties for the unsafe operation of unmanned aircraft.
+- 2016-04-11 — Amendment SA 3633 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Amendment SA 3633 proposed by Senator Thune for Senator Nelson to Amendment SA 3464. (consideration: CR S1876-1878; text: CR S1877) To improve section 2317.
+- 2016-04-11 — Considered by Senate. (consideration: CR S1843)
+- 2016-04-11 — Considered by Senate. (consideration: CR S1843)
+- 2016-04-11 — Considered by Senate. (consideration: CR S1843)
+- 2016-04-11 — Considered by Senate. (consideration: CR S1843)
+- 2016-04-11 — Considered by Senate. (consideration: CR S1843-1845, S1876-1878)
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3476 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1876)
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3492 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1876-1877)
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3500 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3524 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1878)
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3526 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3534 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3535 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3567 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3620 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3621 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3623 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment agreed to: Amendment SA 3633 agreed to in Senate by Voice Vote.
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3476 proposed by Senator Thune for Senator Cassidy to Amendment SA 3464.(consideration: CR S1876-1878)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3492 proposed by Senator Thune for Senator Inhofe to Amendment SA 3464.(consideration: CR S1876-1878)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3500 proposed by Senator Thune for Senator Hoeven to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3526 proposed by Senator Thune for Senator Flake to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3534 proposed by Senator Thune for Senator Cantwell to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877-1878)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3535 proposed by Senator Thune for Senator Cotton to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3567 proposed by Senator Thune for Senator Cochran to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1878)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3620 proposed by Senator Thune for Senator Booker to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3621 proposed by Senator Thune for Senator Nelson to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3623 proposed by Senator Thune for Senator Whitehouse to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1878)
+- 2016-04-11 — Senate amendment proposed (on the floor): Amendment SA 3633 proposed by Senator Thune for Senator Nelson to Amendment SA 3464.(consideration: CR S1876-1878; text: CR S1877)
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-11 — Senate amendment submitted
+- 2016-04-12 — Amendment SA 3679 proposed by Senator McConnell for Senator Thune. (consideration: CR S1909) In the nature of a substitute.
+- 2016-04-12 — Amendment SA 3680 proposed by Senator Thune to Amendment SA 3679. (consideration: CR S1909; text: CR S1909) To strike and replace section 4105.
+- 2016-04-12 — Cloture motion on amendment SA 3679 presented in Senate. (consideration: CR S1909; text: CR S1909)
+- 2016-04-12 — Cloture motion on the measure presented in Senate. (consideration: CR S1909; text: CR S1909)
+- 2016-04-12 — Considered by Senate. (consideration: CR S1893, S1909)
+- 2016-04-12 — Considered by Senate. (consideration: CR S1893, S1909)
+- 2016-04-12 — Considered by Senate. (consideration: CR S1893, S1909)
+- 2016-04-12 — Considered by Senate. (consideration: CR S1893-1909)
+- 2016-04-12 — Motion to table amendment SA 3464 agreed to in Senate by Voice Vote.
+- 2016-04-12 — SA 3460 fell when SA 3464 was tabled. (consideration: CR S1909)
+- 2016-04-12 — SA 3490 fell when SA 3464 was tabled. (consideration: CR S1909)
+- 2016-04-12 — Senate amendment proposed (on the floor): Amendment SA 3679 proposed by Senator McConnell for Senator Thune.(consideration: CR S1909)
+- 2016-04-12 — Senate amendment proposed (on the floor): Amendment SA 3680 proposed by Senator Thune to Amendment SA 3679.(consideration: CR S1909; text: CR S1909)
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-12 — Senate amendment submitted
+- 2016-04-13 — Considered by Senate. (consideration: CR S1985)
+- 2016-04-13 — Considered by Senate. (consideration: CR S1985)
+- 2016-04-13 — Considered by Senate. (consideration: CR S1985-2019)
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-14 — Cloture on amendment SA 3679 invoked in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 45. (consideration: CR S2069; text: CR S2069)
+- 2016-04-14 — Considered by Senate. (consideration: CR S2068)
+- 2016-04-14 — Considered by Senate. (consideration: CR S2068, S2069)
+- 2016-04-14 — Considered by Senate. (consideration: CR S2068-2085)
+- 2016-04-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 3679 invoked in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 45.(consideration: CR S2069; text: CR S2069)
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-14 — Senate amendment submitted
+- 2016-04-18 — Amendment SA 3679 agreed to in Senate by Unanimous Consent.
+- 2016-04-18 — Amendment SA 3680 agreed to in Senate by Unanimous Consent.
+- 2016-04-18 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 89 - 5. Record Vote Number: 46. (consideration: CR S2119-2120; text: CR S2119)
+- 2016-04-18 — Considered by Senate. (consideration: CR S2110, S2119)
+- 2016-04-18 — Considered by Senate. (consideration: CR S2110, S2119)
+- 2016-04-18 — Considered by Senate. (consideration: CR S2110-2121)
+- 2016-04-18 — Senate amendment agreed to: Amendment SA 3679 agreed to in Senate by Unanimous Consent.
+- 2016-04-18 — Senate amendment agreed to: Amendment SA 3680 agreed to in Senate by Unanimous Consent.
+- 2016-04-18 — Senate amendment submitted
+- 2016-04-19 — Amendment SA 3799 agreed to in Senate by Unanimous Consent.
+- 2016-04-19 — Amendment SA 3799 proposed by Senator Thune. (consideration: CR S2144-2145; text: CR S2144) To amend the title.
+- 2016-04-19 — Considered by Senate. (consideration: CR S2143-2145)
+- 2016-04-19 — Message on Senate action sent to the House.
+- 2016-04-19 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 95 - 3. Record Vote Number: 47.
+- 2016-04-19 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 95 - 3. Record Vote Number: 47.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3799 agreed to in Senate by Unanimous Consent.
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3799 proposed by Senator Thune.(consideration: CR S2144-2145; text: CR S2144)
+- 2016-04-19 — Senate amendment submitted
+- 2016-04-19 — Senate amendment submitted
