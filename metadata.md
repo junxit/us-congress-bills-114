@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2357
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2357
@@ -26,3 +26,8 @@ Accelerating Access to Capital Act of 2016
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Introduced in House
 - 2015-05-15 — Referred to the House Committee on Financial Services.
+- 2015-05-20 — Committee Consideration and Mark-up Session Held.
+- 2015-05-20 — Ordered to be Reported by the Yeas and Nays: 33 - 24.
+- 2016-04-19 — Placed on the Union Calendar, Calendar No. 386.
+- 2016-04-19 — Reported by the Committee on Financial Services. H. Rept. 114-506.
+- 2016-04-19 — Reported by the Committee on Financial Services. H. Rept. 114-506.
