@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1481
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1481
@@ -25,3 +25,8 @@ Small Contractors Improve Competition Act of 2015
 - 2015-03-19 — Introduced in House
 - 2015-03-19 — Introduced in House
 - 2015-03-19 — Referred to the House Committee on Small Business.
+- 2015-03-25 — Committee Consideration and Mark-up Session Held.
+- 2015-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-04-19 — Placed on the Union Calendar, Calendar No. 390.
+- 2016-04-19 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-510.
+- 2016-04-19 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-510.
