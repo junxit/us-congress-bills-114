@@ -1,0 +1,18 @@
+---
+legis-num: S. 2822
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2822
+
+> To continue the use of a 3-month quarter EHR reporting period for health care providers to demonstrate meaningful use for 2016 under the Medicare and Medicaid EHR incentive payment programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Flexibility in Electronic Health Record Reporting Act”.
+
+## § 2. Continuing use of 3-month quarter EHR reporting periods for professionals and hospitals to demonstrate meaningful use for 2016 under the Medicare and Medicaid EHR incentive payment programs
+
+In specifying the EHR reporting period under part 495 of title 42, Code of Federal Regulations, for purposes of titles XVIII and XIX of the Social Security Act, the Secretary of Health and Human Services shall continue through 2016 to permit the use of a 3-month quarter EHR reporting period to demonstrate meaningful use for purposes of such part, without regard to the payment year or the stage of meaningful use criteria involved.
