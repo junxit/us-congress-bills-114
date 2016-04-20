@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4332
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4332
@@ -16,9 +16,10 @@ Maximizing Small Business Competition Act of 2016
 
 - Rep. Kelly, Trent [R-MS-1] (K000388)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Maximizing Small Business Competition Act of 2016
 - 2016-04-19 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2016-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1833)
 - 2016-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1833)
+- 2016-04-20 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
