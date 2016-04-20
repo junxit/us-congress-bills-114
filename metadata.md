@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4903
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4903
@@ -16,9 +16,10 @@ To prohibit the use of funds by the Internal Revenue Service to target citizens 
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To prohibit the use of funds by the Internal Revenue Service to target citizens 
 - 2016-04-19 — Mrs. Noem moved to suspend the rules and pass the bill.
 - 2016-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1827)
 - 2016-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1827)
+- 2016-04-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
