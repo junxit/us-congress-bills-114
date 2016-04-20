@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1206
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1206
@@ -48,6 +48,11 @@ No Hires for the Delinquent IRS Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2016-04-20 — [House 114-2-159](votes/house-114-2-0159.md) — On Motion to Recommit with Instructions — **Failed** (177–245)
+- 2016-04-20 — [House 114-2-160](votes/house-114-2-0160.md) — On Passage — **Passed** (254–170)
+
 ## Actions
 
 - 2015-03-02 — Introduced in House
@@ -59,3 +64,19 @@ No Hires for the Delinquent IRS Act
 - 2016-04-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-499.
 - 2016-04-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-499.
 - 2016-04-18 — Rules Committee Resolution H. Res. 687 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.
+- 2016-04-20 — Considered as unfinished business. (consideration: CR H1874-1876)
+- 2016-04-20 — Considered under the provisions of rule H. Res. 687. (consideration: CR H1868-1874, H1874-1876)
+- 2016-04-20 — DEBATE - The House proceeded with 10 minutes of debate on the Kildee motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert a special rule of applicability which shall not apply for any year if the Federal tax delinquecny rate for either chamber of Congress is greater than the Federal delinquency tax rate for the Dept. of Treasury, as published by the IRS in its Federal Employee/Retireee Delinquency Initiative (FERDI) for the prior year.
+- 2016-04-20 — DEBATE - The House proceeded with one hour of debate on H.R. 1206.
+- 2016-04-20 — House amendment offered
+- 2016-04-20 — House amendment offered
+- 2016-04-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-20 — Mr. Kildee moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H1873-1874, H1874-1875; text: CR H1873)
+- 2016-04-20 — ORDER OF PROCEDURE - Mr. Smith (MO) asked unanimous consent that the question of adopting a motion to recommit on H.R. 1206 may be subject to postponement as though under clause 8 of rule 20. (consideration: CR H1868)
+- 2016-04-20 — On motion to recommit with instructions Failed by the Yeas and Nays: 177 - 245 (Roll no. 159).
+- 2016-04-20 — On passage Passed by recorded vote: 254 - 170 (Roll no. 160). (text: CR H1868)
+- 2016-04-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1206, the Chair put the question on adoption of the motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Kildee demanded the yeas and nays and the Chair postponed further proceeding on the motion to recommit until later in the legislative day.
+- 2016-04-20 — Passed/agreed to in House: On passage Passed by recorded vote: 254 - 170 (Roll no. 160).(text: CR H1868)
+- 2016-04-20 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.
+- 2016-04-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1874, H1875)
+- 2016-04-20 — The previous question was ordered pursuant to the rule. (consideration: CR H1873)
