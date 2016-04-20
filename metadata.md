@@ -1,7 +1,7 @@
 ---
 measure: S. 2012
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2012
@@ -16,9 +16,515 @@ North American Energy Security and Infrastructure Act of 2016
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
+## Cosponsors (483)
+
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
+
+## Recorded votes (17)
+
+- 2016-01-28 — [Senate 114-2-7](votes/senate-114-2-0007.md) — On the Amendment — **Amendment Agreed to** (87–4)
+- 2016-01-28 — [Senate 114-2-8](votes/senate-114-2-0008.md) — On the Amendment — **Amendment Agreed to** (62–29)
+- 2016-01-28 — [Senate 114-2-9](votes/senate-114-2-0009.md) — On the Amendment — **Amendment Agreed to** (55–37)
+- 2016-02-02 — [Senate 114-2-11](votes/senate-114-2-0011.md) — On the Amendment — **Amendment Rejected** (43–52)
+- 2016-02-02 — [Senate 114-2-12](votes/senate-114-2-0012.md) — On the Amendment — **Amendment Rejected** (52–43)
+- 2016-02-02 — [Senate 114-2-13](votes/senate-114-2-0013.md) — On the Amendment — **Amendment Rejected** (49–46)
+- 2016-02-02 — [Senate 114-2-14](votes/senate-114-2-0014.md) — On the Amendment — **Amendment Rejected** (45–50)
+- 2016-02-02 — [Senate 114-2-15](votes/senate-114-2-0015.md) — On the Amendment — **Amendment Rejected** (43–52)
+- 2016-02-04 — [Senate 114-2-16](votes/senate-114-2-0016.md) — On the Cloture Motion — **Cloture Motion Rejected** (46–50)
+- 2016-02-04 — [Senate 114-2-17](votes/senate-114-2-0017.md) — On the Cloture Motion — **Cloture Motion Rejected** (43–54)
+- 2016-04-19 — [Senate 114-2-48](votes/senate-114-2-0048.md) — On the Amendment — **Amendment Agreed to** (97–0)
+- 2016-04-19 — [Senate 114-2-49](votes/senate-114-2-0049.md) — On the Amendment — **Amendment Agreed to** (66–31)
+- 2016-04-19 — [Senate 114-2-50](votes/senate-114-2-0050.md) — On the Amendment — **Amendment Rejected** (34–63)
+- 2016-04-19 — [Senate 114-2-51](votes/senate-114-2-0051.md) — On the Amendment — **Amendment Rejected** (42–55)
+- 2016-04-19 — [Senate 114-2-52](votes/senate-114-2-0052.md) — On the Amendment — **Amendment Rejected** (50–47)
+- 2016-04-19 — [Senate 114-2-53](votes/senate-114-2-0053.md) — On the Motion — **Motion Rejected** (33–64)
+- 2016-04-20 — [Senate 114-2-54](votes/senate-114-2-0054.md) — On Passage of the Bill — **Bill Passed** (85–12)
 
 ## Actions
 
@@ -26,3 +532,728 @@ North American Energy Security and Infrastructure Act of 2016
 - 2015-09-09 — Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. With written report No. 114-138.
 - 2015-09-09 — Introduced in Senate
 - 2015-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.
+- 2016-01-26 — Senate amendment submitted
+- 2016-01-27 — Amendment SA 2953 proposed by Senator Murkowski. (consideration: CR S225) In the nature of a substitute.
+- 2016-01-27 — Amendment SA 2954 proposed by Senator Murkowski for Senator Cassidy to Amendment SA 2953. (consideration: CR S225-226; text: CR S225-226) To provide for certain increases in, and limitations on, the drawdown and sales of the Strategic Petroleum Reserve.
+- 2016-01-27 — Amendment SA 2963 proposed by Senator Murkowski to Amendment SA 2953. (consideration: CR S245-247; text: CR S245-246) To modify a provision relating to bulk-power system reliability impact statements.
+- 2016-01-27 — Amendment SA 2965 proposed by Senator Murkowski for Senator Schatz to Amendment SA 2953. (consideration: CR S245-247; text: CR S247) To modify the funding provided for the Advanced Research Projects Agency-Energy.
+- 2016-01-27 — Amendment SA 2968 proposed by Senator Murkowski for Senator Shaheen to Amendment SA 2953. (consideration: CR S245-247; text: CR S245) To clarify the definition of the term "smart manufacturing".
+- 2016-01-27 — Amendment SA 2982 proposed by Senator Murkowski for Senator Markey to Amendment SA 2953. (consideration: CR S245-247; text: CR S246) To require the Comptroller General of the United States to conduct a review and submit a report on energy production in the United States and the effects of crude oil exports.
+- 2016-01-27 — Amendment SA 3017 proposed by Senator Murkowski for Senator Barrasso to Amendment SA 2953. (consideration: CR S245-247; text: CR S246) To expand the authority for awarding technology prizes by the Secretary of Energy to include a financial award for separation of carbon dioxide from dilute sources.
+- 2016-01-27 — Amendment SA 3021 proposed by Senator Murkowski for Senator Crapo to Amendment SA 2953. (consideration: CR S245-247) To enable civilian research and development of advanced nuclear energy technologies by private and public institutions, to expand theoretical and practical knowledge of nuclear physics, chemistry, and materials science.
+- 2016-01-27 — Measure laid before Senate by unanimous consent. (consideration: CR S217-224, S224-240, S243-247)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2953 proposed by Senator Murkowski.(consideration: CR S225)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2954 proposed by Senator Murkowski for Senator Cassidy to Amendment SA 2953.(consideration: CR S225-226; text: CR S225-226)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2963 proposed by Senator Murkowski to Amendment SA 2953.(consideration: CR S245-247; text: CR S245-246)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2965 proposed by Senator Murkowski for Senator Schatz to Amendment SA 2953.(consideration: CR S245-247; text: CR S247)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2968 proposed by Senator Murkowski for Senator Shaheen to Amendment SA 2953.(consideration: CR S245-247; text: CR S245)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 2982 proposed by Senator Murkowski for Senator Markey to Amendment SA 2953.(consideration: CR S245-247; text: CR S246)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 3017 proposed by Senator Murkowski for Senator Barrasso to Amendment SA 2953.(consideration: CR S245-247; text: CR S246)
+- 2016-01-27 — Senate amendment proposed (on the floor): Amendment SA 3021 proposed by Senator Murkowski for Senator Crapo to Amendment SA 2953.(consideration: CR S245-247)
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-27 — Senate amendment submitted
+- 2016-01-28 — Amendment SA 2965 agreed to in Senate by Yea-Nay Vote. 55 - 37. Record Vote Number: 9.
+- 2016-01-28 — Amendment SA 2968 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 2982 agreed to in Senate by Yea-Nay Vote. 62 - 29. Record Vote Number: 8.
+- 2016-01-28 — Amendment SA 2984 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 2984 proposed by Senator Murkowski for Senator Baldwin to Amendment SA 2953. (consideration: CR S325-326; text: CR S325) To include water and wastewater treatment facilities among energy-intensive industries and to expand the role of the institution of higher education-based industrial research and assessment centers.
+- 2016-01-28 — Amendment SA 3001 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 3001 proposed by Senator Murkowski for Senator Wyden to Amendment SA 2953. (consideration: CR S325-326;  text: CR S325) To modify a provision relating to national goals for geothermal production and site identification.
+- 2016-01-28 — Amendment SA 3017 as modified agreed to in Senate by Voice Vote. (text as modified: CR S310-311)
+- 2016-01-28 — Amendment SA 3020 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 3020 proposed by Senator Murkowski for Senator Daines to Amendment SA 2953. (consideration: CR S325-326;  text: CR S326) To provide for the reinstatement of the license for the Gibson Dam project.
+- 2016-01-28 — Amendment SA 3021 agreed to in Senate by Yea-Nay Vote. 87 - 4. Record Vote Number: 7.
+- 2016-01-28 — Amendment SA 3029 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 3029 proposed by Senator Murkowski for Senator Barrasso to Amendment SA 2953. (consideration: CR S325-326) To provide for the modernization of the energy policy for Indian tribal land.
+- 2016-01-28 — Amendment SA 3063 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 3063 proposed by Senator Murkowski for Senator Capito to Amendment SA 2953. (consideration: CR S325-326;  text: CR S325-326) To require a study of the feasibility of establishing an ethane storage and distribution hub in the United States.
+- 2016-01-28 — Amendment SA 3067 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Amendment SA 3067 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953. (consideration: CR S325-326; text: CR S326) To modernize certain terms relating to minorities.
+- 2016-01-28 — Considered by Senate. (consideration: CR S299)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299, S310-311)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299, S311)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299, S311)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299, S311-312)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299, S315)
+- 2016-01-28 — Considered by Senate. (consideration: CR S299-326)
+- 2016-01-28 — Roll call votes on amendments in Senate: Amendment SA 2965 agreed to in Senate by Yea-Nay Vote. 55 - 37. Record Vote Number: 9.
+- 2016-01-28 — Roll call votes on amendments in Senate: Amendment SA 2982 agreed to in Senate by Yea-Nay Vote. 62 - 29. Record Vote Number: 8.
+- 2016-01-28 — Roll call votes on amendments in Senate: Amendment SA 3021 agreed to in Senate by Yea-Nay Vote. 87 - 4. Record Vote Number: 7.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 2965 agreed to in Senate by Yea-Nay Vote. 55 - 37. Record Vote Number: 9.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 2968 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 2982 agreed to in Senate by Yea-Nay Vote. 62 - 29. Record Vote Number: 8.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 2984 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3001 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3017 as modified agreed to in Senate by Voice Vote.(text as modified: CR S310-311)
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3020 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3021 agreed to in Senate by Yea-Nay Vote. 87 - 4. Record Vote Number: 7.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3029 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3063 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment agreed to: Amendment SA 3067 agreed to in Senate by Voice Vote.
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 2984 proposed by Senator Murkowski for Senator Baldwin to Amendment SA 2953.(consideration: CR S325-326; text: CR S325)
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 3001 proposed by Senator Murkowski for Senator Wyden to Amendment SA 2953.(consideration: CR S325-326;  text: CR S325)
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 3020 proposed by Senator Murkowski for Senator Daines to Amendment SA 2953.(consideration: CR S325-326;  text: CR S326)
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 3029 proposed by Senator Murkowski for Senator Barrasso to Amendment SA 2953.(consideration: CR S325-326)
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 3063 proposed by Senator Murkowski for Senator Capito to Amendment SA 2953.(consideration: CR S325-326;  text: CR S325-326)
+- 2016-01-28 — Senate amendment proposed (on the floor): Amendment SA 3067 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953.(consideration: CR S325-326; text: CR S326)
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-01-28 — Senate amendment submitted
+- 2016-02-01 — Amendment SA 2970 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 2970 proposed by Senator Murkowski for Senator Gardner to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To modify a provision relating to energy management requirements.
+- 2016-02-01 — Amendment SA 2989 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 2989 proposed by Senator Murkowski for Senator Reed to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To ensure that funds for research and development of electric grid energy storage are used efficiently.
+- 2016-02-01 — Amendment SA 2991 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 2991 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953. (consideration: CR S420-421) To modify provisions relating to brownfields grants.
+- 2016-02-01 — Amendment SA 3019 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 3019 proposed by Senator Murkowski for Senator Murphy to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To promote the use of reclaimed refrigerants in Federal facilities.
+- 2016-02-01 — Amendment SA 3056 as modified agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 3056 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953. (consideration: CR S420-421; text as modified: CR S420-421) To include other Federal departments and agencies in an evaluation of potentially duplicative green building programs.
+- 2016-02-01 — Amendment SA 3066 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 3066 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To modify a provision relating to the energy workforce pilot grant program.
+- 2016-02-01 — Amendment SA 3119 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 3119 proposed by Senator Murkowski for Senator Daines to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To require that the 21st Century Energy Workforce Advisory Board membership also represent cybersecurity.
+- 2016-02-01 — Amendment SA 3137 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Amendment SA 3137 proposed by Senator Murkowski for Senator Udall to Amendment SA 2953. (consideration: CR S420-421; text: CR S420) To modify a provision relating to a Secretarial order.
+- 2016-02-01 — Considered by Senate. (consideration: CR S405)
+- 2016-02-01 — Considered by Senate. (consideration: CR S405)
+- 2016-02-01 — Considered by Senate. (consideration: CR S405)
+- 2016-02-01 — Considered by Senate. (consideration: CR S405-421)
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 2970 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 2989 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 2991 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 3019 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 3056 as modified agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 3066 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 3119 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment agreed to: Amendment SA 3137 agreed to in Senate by Voice Vote.
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 2970 proposed by Senator Murkowski for Senator Gardner to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 2989 proposed by Senator Murkowski for Senator Reed to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 2991 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953.(consideration: CR S420-421)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 3019 proposed by Senator Murkowski for Senator Murphy to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 3056 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953.(consideration: CR S420-421; text as modified: CR S420-421)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 3066 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 3119 proposed by Senator Murkowski for Senator Daines to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment proposed (on the floor): Amendment SA 3137 proposed by Senator Murkowski for Senator Udall to Amendment SA 2953.(consideration: CR S420-421; text: CR S420)
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-01 — Senate amendment submitted
+- 2016-02-02 — Amendment SA 2996 proposed by Senator Sullivan to Amendment SA 2953. (consideration: CR S473-474; text: CR S473-474) To require each agency to repeal or amend 1 or more rules before issuing or amending a rule.
+- 2016-02-02 — Amendment SA 2996, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 46. Record Vote Number: 13.
+- 2016-02-02 — Amendment SA 3023 proposed by Senator Lee to Amendment SA 2953. (consideration: CR S468, S470-471; text: CR S468) To modify the authority of the President of the United States to declare national monuments.
+- 2016-02-02 — Amendment SA 3023, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 10.
+- 2016-02-02 — Amendment SA 3030 proposed by Senator Barrasso to Amendment SA 2953. (consideration: CR S472-473; text: CR S472-473) To establish deadlines and expedite permits for certain natural gas gathering lines on Federal land and Indian land.
+- 2016-02-02 — Amendment SA 3030, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 12.
+- 2016-02-02 — Amendment SA 3064 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3064 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953. (consideration: CR S482-484; text: CR S482) To modify a provision relating to the energy workforce pilot grant program.
+- 2016-02-02 — Amendment SA 3065 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3065 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953. (consideration: CR S482-484; text as modified: CR S482-483) To modify a provision relating to the energy workforce pilot grant program.
+- 2016-02-02 — Amendment SA 3095 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3095 proposed by Senator Durbin to Amendment SA 2953. (consideration: CR S475; text: CR S475) To increase funding for the Office of Science of the Department of Energy.
+- 2016-02-02 — Amendment SA 3115 proposed by Senator Franken to Amendment SA 2953. (consideration: CR S471) To establish a Federal energy efficiency resource standard for electricity and natural gas suppliers.
+- 2016-02-02 — Amendment SA 3115, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 11.
+- 2016-02-02 — Amendment SA 3125 proposed by Senator Whitehouse to Amendment SA 2953. (consideration: CR S475-477; text: CR S475-476) To require campaign finance disclosures for certain persons benefitting from fossil fuel activities.
+- 2016-02-02 — Amendment SA 3125, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 15.
+- 2016-02-02 — Amendment SA 3140 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3140 proposed by Senator Murkowski for Senator Collins to Amendment SA 2953. (consideration: CR S482-484; text as modified: CR S483) To require certain Federal agencies to establish consistent policies relating to forest biomass energy to help address the energy needs of the United States.
+- 2016-02-02 — Amendment SA 3143 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3143 proposed by Senator Murkowski for Senator Carper to Amendment SA 2953. (consideration: CR S482-484; text: CR S483) To reauthorize the diesel emissions reduction program.
+- 2016-02-02 — Amendment SA 3145 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3145 proposed by Senator Murkowski for Senator Carper to Amendment SA 2953. (consideration: CR S482-484; text: CR S483) To provide that for purposes of the Federal purchase requirement, renewable energy includes thermal energy.
+- 2016-02-02 — Amendment SA 3156 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3156 proposed by Senator Murkowski for Senator Baldwin to Amendment SA 2953. (consideration: CR S482-484; text: CR S483) To strike a repeal under a provision relating to manufacturing energy efficiency.
+- 2016-02-02 — Amendment SA 3160 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3160 proposed by Senator Murkowski for Senator Booker to Amendment SA 2953. (consideration: CR S482-484; text: CR S484) To strike a provision relating to identifying and characterizing methane hydrate resources using remote sensing and seismic data in the Atlantic Ocean Basin.
+- 2016-02-02 — Amendment SA 3174 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3174 proposed by Senator Murkowski for Senator Heitkamp to Amendment SA 2953. (consideration: CR S482-484; text: CR S483) To affirm a Federal commitment to carbon capture utilization and storage research, development, and implementation and to study the costs and benefits of contracting authority for price stabilization.
+- 2016-02-02 — Amendment SA 3176 proposed by Senator Schatz to Amendment SA 2953. (consideration: CR S474-475) To amend the Internal Revenue Code of 1986 to phase out tax preferences for fossil fuels on the same schedule as the phase out of the tax credits for wind facilities.
+- 2016-02-02 — Amendment SA 3176, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 14.
+- 2016-02-02 — Amendment SA 3179 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3179 proposed by Senator Murkowski for Senator Klobuchar to Amendment SA 2953. (consideration: CR S482-484; text: CR S483) To modify the areas of focus under the grid storage program.
+- 2016-02-02 — Amendment SA 3182 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3182 proposed by Senator Rounds to Amendment SA 2953. (consideration: CR S471-472; text as modified: CR S472) To direct the Secretary of the Interior to establish a conservation incentives landowner education program.
+- 2016-02-02 — Amendment SA 3194 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3194 proposed by Senator Murkowski for Senator Boxer to Amendment SA 2953. (consideration: CR S482-484; text as modified: CR S483-484) To direct the Secretary of Energy to establish a task force to analyze and assess the Aliso Canyon natural gas leak.
+- 2016-02-02 — Amendment SA 3205 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Amendment SA 3205 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953. (consideration: CR S482-484; text: CR S484) To provide for the use of geomatic data in consideration of applications for Federal authorization.
+- 2016-02-02 — Cloture motion on amendment SA 2953 presented in Senate. (consideration: CR S477; text: CR S477)
+- 2016-02-02 — Cloture motion on the measure presented in Senate. (consideraton: CR S477; text: S477)
+- 2016-02-02 — Considered by Senate. (consideration: CR S460)
+- 2016-02-02 — Considered by Senate. (consideration: CR S460)
+- 2016-02-02 — Considered by Senate. (consideration: CR S460)
+- 2016-02-02 — Considered by Senate. (consideration: CR S460-470, S470-484)
+- 2016-02-02 — Roll call votes on amendments in Senate: Amendment SA 2996, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 46. Record Vote Number: 13.
+- 2016-02-02 — Roll call votes on amendments in Senate: Amendment SA 3030, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 12.
+- 2016-02-02 — Roll call votes on amendments in Senate: Amendment SA 3115, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 11.
+- 2016-02-02 — Roll call votes on amendments in Senate: Amendment SA 3125, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 15.
+- 2016-02-02 — Roll call votes on amendments in Senate: Amendment SA 3176, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 14.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3064 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3065 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3095 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3140 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3143 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3145 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3156 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3160 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3174 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3179 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3182 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3194 as modified agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment agreed to: Amendment SA 3205 agreed to in Senate by Voice Vote.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 2996, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 46. Record Vote Number: 13.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 3023, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 10.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 3030, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 12.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 3115, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 11.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 3125, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 15.
+- 2016-02-02 — Senate amendment not agreed to: Amendment SA 3176, under the order of 2/2/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 14.
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 2996 proposed by Senator Sullivan to Amendment SA 2953.(consideration: CR S473-474; text: CR S473-474)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3023 proposed by Senator Lee to Amendment SA 2953.(consideration: CR S468, S470-471; text: CR S468)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3030 proposed by Senator Barrasso to Amendment SA 2953.(consideration: CR S472-473; text: CR S472-473)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3064 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953.(consideration: CR S482-484; text: CR S482)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3065 proposed by Senator Murkowski for Senator Hirono to Amendment SA 2953.(consideration: CR S482-484; text as modified: CR S482-483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3095 proposed by Senator Durbin to Amendment SA 2953.(consideration: CR S475; text: CR S475)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3115 proposed by Senator Franken to Amendment SA 2953.(consideration: CR S471)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3125 proposed by Senator Whitehouse to Amendment SA 2953.(consideration: CR S475-477; text: CR S475-476)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3140 proposed by Senator Murkowski for Senator Collins to Amendment SA 2953.(consideration: CR S482-484; text as modified: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3143 proposed by Senator Murkowski for Senator Carper to Amendment SA 2953.(consideration: CR S482-484; text: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3145 proposed by Senator Murkowski for Senator Carper to Amendment SA 2953.(consideration: CR S482-484; text: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3156 proposed by Senator Murkowski for Senator Baldwin to Amendment SA 2953.(consideration: CR S482-484; text: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3160 proposed by Senator Murkowski for Senator Booker to Amendment SA 2953.(consideration: CR S482-484; text: CR S484)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3174 proposed by Senator Murkowski for Senator Heitkamp to Amendment SA 2953.(consideration: CR S482-484; text: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3176 proposed by Senator Schatz to Amendment SA 2953.(consideration: CR S474-475)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3179 proposed by Senator Murkowski for Senator Klobuchar to Amendment SA 2953.(consideration: CR S482-484; text: CR S483)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3182 proposed by Senator Rounds to Amendment SA 2953.(consideration: CR S471-472; text as modified: CR S472)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3194 proposed by Senator Murkowski for Senator Boxer to Amendment SA 2953.(consideration: CR S482-484; text as modified: CR S483-484)
+- 2016-02-02 — Senate amendment proposed (on the floor): Amendment SA 3205 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953.(consideration: CR S482-484; text: CR S484)
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-02 — Senate amendment submitted
+- 2016-02-03 — Considered by Senate. (consideration: CR S539)
+- 2016-02-03 — Considered by Senate. (consideration: CR S539)
+- 2016-02-03 — Considered by Senate. (consideration: CR S539)
+- 2016-02-03 — Considered by Senate. (consideration: CR S539-570)
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-03 — Senate amendment submitted
+- 2016-02-04 — Cloture on amendment SA 2953 not invoked in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 16. (consideration: CR S645-646; text: CR S645)
+- 2016-02-04 — Cloture on the measure not invoked in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 17. (consideration: CR S646; text: CR S646)
+- 2016-02-04 — Considered by Senate. (consideration: CR S637)
+- 2016-02-04 — Considered by Senate. (consideration: CR S637)
+- 2016-02-04 — Considered by Senate. (consideration: CR S637)
+- 2016-02-04 — Considered by Senate. (consideration: CR S637-646, S649)
+- 2016-02-04 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 2953 was not invoked (Roll Call Vote No. 16) entered in Senate. (consideration: CR S646)
+- 2016-02-04 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the measure (Roll Call Vote No. 17) entered in Senate.
+- 2016-02-04 — Roll call votes on amendments in Senate: Cloture on amendment SA 2953 not invoked in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 16.(consideration: CR S645-646; text: CR S645)
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-04 — Senate amendment submitted
+- 2016-02-08 — Senate amendment submitted
+- 2016-02-08 — Senate amendment submitted
+- 2016-02-09 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-10 — Senate amendment submitted
+- 2016-02-23 — Senate amendment submitted
+- 2016-02-23 — Senate amendment submitted
+- 2016-02-23 — Senate amendment submitted
+- 2016-02-23 — Senate amendment submitted
+- 2016-02-23 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-24 — Senate amendment submitted
+- 2016-02-25 — Senate amendment submitted
+- 2016-02-25 — Senate amendment submitted
+- 2016-03-07 — Senate amendment submitted
+- 2016-04-13 — Senate amendment submitted
+- 2016-04-19 — Amendment SA 2953 agreed to in Senate by Unanimous Consent.
+- 2016-04-19 — Amendment SA 2954 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 2963 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3004 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3004 proposed by Senator Murkowski for Senator Gillibrand to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2151) To allow the use of Federal disaster relief and emergency assistance for energy-efficient products and structures.
+- 2016-04-19 — Amendment SA 3012 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3012 proposed by Senator Murkowski for Senator Kaine to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To remove the use restrictions on certain land transferred to Rockingham County, Virginia.
+- 2016-04-19 — Amendment SA 3050 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3050 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2146) To require the Secretary of Energy to make available certain information about research grants of the Department of Energy.
+- 2016-04-19 — Amendment SA 3055 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3055 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2146) To establish a pilot project relating to the Western Area Power Administration.
+- 2016-04-19 — Amendment SA 3075 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3075 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2147) To require the Bureau of Safety and Environmental Enforcement to review the economic impact of a rule on small entities.
+- 2016-04-19 — Amendment SA 3155 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3155 proposed by Senator Murkowski for Senator Heinrich to Amendment SA 2953. (consideration: CR S2145-2191) To ensure that minority serving-institutions are considered in developing a strategy for the support and development of a skilled energy workforce, and to ensure the Secretary of Energy shall provide direct assistance in carrying out the energy workforce pilot grant program.
+- 2016-04-19 — Amendment SA 3168 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3168 proposed by Senator Murkowski for Senator Portman to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2148) To exclude power supply circuits, drivers, and devices designed to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination or ceiling fans using direct current motors from energy conservation standards for external power supplies.
+- 2016-04-19 — Amendment SA 3175 as modified agreed to in Senate by Voice Vote. (text: CR S2188)
+- 2016-04-19 — Amendment SA 3175 proposed by Senator Murkowski for Senator Burr to Amendment SA 2953. (consideration: CR S2188) To ensure that the Secretary of the Interior collaborates fully with State and local authorities and certain nonprofit entities in managing the Corolla Wild Horse population on Federal land.
+- 2016-04-19 — Amendment SA 3202 proposed by Senator Isakson to Amendment SA 2953. (consideration: CR S 2164, S2187-2188) To improve the accuracy of mortgage underwriting used by the Federal Housing Administration by ensuring that energy costs are included in the underwriting process, to reduce the amount of energy consumed by homes, to facilitate the creation of energy efficiency retrofit and construction jobs, and for other purposes.
+- 2016-04-19 — Amendment SA 3202, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 49.
+- 2016-04-19 — Amendment SA 3203 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3203 proposed by Senator Murkowski for Senator Coons to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2152) To provide for a study of waivers of certain cost-sharing requirements of the Department of Energy.
+- 2016-04-19 — Amendment SA 3210 proposed by Senator Lankford to Amendment SA 2953. (consideration: CR S2188-2189; text: CR S2188-2189) To add provisions relating to acquisition of Federal land under the Land and Water Conservation Fund.
+- 2016-04-19 — Amendment SA 3210, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 50.
+- 2016-04-19 — Amendment SA 3214 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3214 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To provide for improved energy emergency response efforts of the Department of Energy.
+- 2016-04-19 — Amendment SA 3221 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3221 proposed by Senator Murkowski for Senator Udall to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2151-2152) To establish a voluntary WaterSense program within the Environmental Protection Agency.
+- 2016-04-19 — Amendment SA 3229 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3229 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2153) To establish a program to reduce the potential impacts of solar energy facilities on certain species.
+- 2016-04-19 — Amendment SA 3233 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2151)
+- 2016-04-19 — Amendment SA 3233 proposed by Senator Murkowski for Senator Warner to Amendment SA 2953. (consideration: CR S2145-2191) To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land.
+- 2016-04-19 — Amendment SA 3234 as modified, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 48. (text as modified: CR S2167-2187)
+- 2016-04-19 — Amendment SA 3234 proposed by Senator Murkowski to Amendment SA 2953. (consideration: CR S2167-2187) To add certain provisions relating to natural resources.
+- 2016-04-19 — Amendment SA 3237 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3237 proposed by Senator Murkowski for Senator Hatch to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2146) To require the Secretary of the Interior to submit recommendations to Congress on incorporating Internet-based lease sales for the sale of Federal oil and gas in certain circumstances.
+- 2016-04-19 — Amendment SA 3239 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3239 proposed by Senator Murkowski for Senator Thune to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2151) To establish a subcommittee to coordinate and facilitate United States leadership in high-energy physics.
+- 2016-04-19 — Amendment SA 3251 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3251 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2153-2154) To modify the calculation of fuel economy for gaseous fuel dual fueled automobiles.
+- 2016-04-19 — Amendment SA 3265 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2150)
+- 2016-04-19 — Amendment SA 3265 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953. (consideration: CR S2145-2191) To provide additional priorities for an energy workforce pilot grant program.
+- 2016-04-19 — Amendment SA 3266 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3266 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To require the Comptroller General of the United States to prepare a report relating to the statutory and regulatory authority of the Bureau of Safety and Environmental Enforcement relating to the legal procurement of privately owned helicopter fuel, without agreement, from lessees, permit holders, operators of federally leased offshore facilities, or independent third parties.
+- 2016-04-19 — Amendment SA 3270 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3270 proposed by Senator Murkowski for Senator Manchin to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2149) To modify provisions relating to the coal technology program.
+- 2016-04-19 — Amendment SA 3276 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3276 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2145) To strike certain provisions relating to technology demonstration on the distribution system, large-scale geothermal energy, and bio-power iniatives.
+- 2016-04-19 — Amendment SA 3286 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2146)
+- 2016-04-19 — Amendment SA 3286 proposed by Senator Murkowski for Senator Heller to Amendment SA 2953. (consideration: CR S2145-2191) To promote the development of renewable energy on public land.
+- 2016-04-19 — Amendment SA 3290 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3290 proposed by Senator Murkowski for Senator Alexander to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To add a provision  relating to secondary use applications of electric vehicle batteries.
+- 2016-04-19 — Amendment SA 3292 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2148)
+- 2016-04-19 — Amendment SA 3292 proposed by Senator Murkowski for Senator Shaheen to Amendment SA 2953. (consideration: CR S2145-2191) To reduce barriers to combined heat and power systems and waste heat to power systems.
+- 2016-04-19 — Amendment SA 3302 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2145)
+- 2016-04-19 — Amendment SA 3302 proposed by Senator Murkowski for Senator Klobuchar to Amendment SA 2953. (consideration: CR S2145-2191) To modify provisions relating to the energy efficiency materials pilot program.
+- 2016-04-19 — Amendment SA 3308 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3308 proposed by Senator Murkowski to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2146) To clarify certain provisions relating to the natural gas pipeline authorized in the Denali National Park and Preserve.
+- 2016-04-19 — Amendment SA 3309 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2152-2153)
+- 2016-04-19 — Amendment SA 3309 proposed by Senator Murkowski for Senator Portman to Amendment SA 2953. (consideration: CR S2145-2191) To provide for activities relating to the centennial of the National Park System.
+- 2016-04-19 — Amendment SA 3310 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3310 proposed by Senator Murkowski for Senator Sullivan to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To provide for the correction of a survey of certain land in the State of Alaska.
+- 2016-04-19 — Amendment SA 3311 proposed by Senator Boozman to Amendment SA 2953. (consideration: CR S2189-2190; text: CR S2189) To require a report relating to certain transmission infrastructure projects.
+- 2016-04-19 — Amendment SA 3311, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 51.
+- 2016-04-19 — Amendment SA 3312 proposed by Senator Udall to Amendment SA 2953. (consideration: CR S2163-2164, S2190; text: CR S2163-2164) To require the Secretary of the Treasury to develop a plan for issuance of Clean Energy Victory Bonds.
+- 2016-04-19 — Amendment SA 3312, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 52.
+- 2016-04-19 — Amendment SA 3313 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2149-2150)
+- 2016-04-19 — Amendment SA 3313 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953. (consideration: CR S2145-2191) To express the sense of the Senate on accelerating energy innovation.
+- 2016-04-19 — Amendment SA 3317 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Amendment SA 3317 proposed by Senator Murkowski for Senator Heinrich to Amendment SA 2953. (consideration: CR S2145-2191; text: CR S2150) To require the Secretary of Energy to ensure that the costs of general and administrative overhead are not allocated to laboratory directed research and development.
+- 2016-04-19 — Amendment SA 3787 proposed by Senator Paul to Amendment SA 2953. (consideration: CR S2161, S2190-2191) To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opportunities, and increased community involvement in bankrupt or economically distressed areas.
+- 2016-04-19 — Amendment SA 3787 ruled out of order by the chair.
+- 2016-04-19 — Cloture motion on amendment SA 2953 rendered moot in Senate.
+- 2016-04-19 — Considered by Senate. (consideration: CR S2145, S2191)
+- 2016-04-19 — Considered by Senate. (consideration: CR S2145, S2191; text: CR S2145)
+- 2016-04-19 — Considered by Senate. (consideration: CR S2145-2191)
+- 2016-04-19 — Considered by Senate. (consideration: CR S2145-2191)
+- 2016-04-19 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 2953 was not invoked (Record Vote No. 16) rendered moot in Senate.
+- 2016-04-19 — Motion to waive all applicable budgetary discpline with respect to amendment SA 3787 rejected in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 53.
+- 2016-04-19 — Point of order that the amendment violates section 311(a) of the CBA raised in Senate with respect to amendment SA 3787.
+- 2016-04-19 — Roll call votes on amendments in Senate: Amendment SA 3202, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 49.
+- 2016-04-19 — Roll call votes on amendments in Senate: Amendment SA 3210, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 50.
+- 2016-04-19 — Roll call votes on amendments in Senate: Amendment SA 3234 as modified, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 48.(text as modified: CR S2167-2187)
+- 2016-04-19 — Roll call votes on amendments in Senate: Amendment SA 3311, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 51.
+- 2016-04-19 — Roll call votes on amendments in Senate: Amendment SA 3312, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 52.
+- 2016-04-19 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discpline with respect to amendment SA 3787 rejected in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 53.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 2953 agreed to in Senate by Unanimous Consent.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 2954 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 2963 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3004 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3012 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3050 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3055 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3075 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3155 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3168 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3175 as modified agreed to in Senate by Voice Vote.(text: CR S2188)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3202, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 49.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3203 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3214 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3221 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3229 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3233 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2151)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3234 as modified, under the order of 4/13/16, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 48.(text as modified: CR S2167-2187)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3237 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3239 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3251 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3265 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2150)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3266 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3270 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3276 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3286 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2146)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3290 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3292 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2148)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3302 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2145)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3308 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3309 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2152-2153)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3310 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3313 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2149-2150)
+- 2016-04-19 — Senate amendment agreed to: Amendment SA 3317 agreed to in Senate by Voice Vote.
+- 2016-04-19 — Senate amendment not agreed to: Amendment SA 3210, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 50.
+- 2016-04-19 — Senate amendment not agreed to: Amendment SA 3311, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 51.
+- 2016-04-19 — Senate amendment not agreed to: Amendment SA 3312, under the order of 4/13/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 52.
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3004 proposed by Senator Murkowski for Senator Gillibrand to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2151)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3012 proposed by Senator Murkowski for Senator Kaine to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3050 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2146)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3055 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2146)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3075 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2147)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3155 proposed by Senator Murkowski for Senator Heinrich to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3168 proposed by Senator Murkowski for Senator Portman to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2148)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3175 proposed by Senator Murkowski for Senator Burr to Amendment SA 2953.(consideration: CR S2188)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3202 proposed by Senator Isakson to Amendment SA 2953.(consideration: CR S 2164, S2187-2188)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3203 proposed by Senator Murkowski for Senator Coons to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2152)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3210 proposed by Senator Lankford to Amendment SA 2953.(consideration: CR S2188-2189; text: CR S2188-2189)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3214 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3221 proposed by Senator Murkowski for Senator Udall to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2151-2152)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3229 proposed by Senator Murkowski for Senator Flake to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2153)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3233 proposed by Senator Murkowski for Senator Warner to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3234 proposed by Senator Murkowski to Amendment SA 2953.(consideration: CR S2167-2187)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3237 proposed by Senator Murkowski for Senator Hatch to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2146)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3239 proposed by Senator Murkowski for Senator Thune to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2151)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3251 proposed by Senator Murkowski for Senator Inhofe to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2153-2154)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3265 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3266 proposed by Senator Murkowski for Senator Vitter to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3270 proposed by Senator Murkowski for Senator Manchin to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2149)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3276 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2145)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3286 proposed by Senator Murkowski for Senator Heller to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3290 proposed by Senator Murkowski for Senator Alexander to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3292 proposed by Senator Murkowski for Senator Shaheen to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3302 proposed by Senator Murkowski for Senator Klobuchar to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3308 proposed by Senator Murkowski to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2146)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3309 proposed by Senator Murkowski for Senator Portman to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3310 proposed by Senator Murkowski for Senator Sullivan to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3311 proposed by Senator Boozman to Amendment SA 2953.(consideration: CR S2189-2190; text: CR S2189)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3312 proposed by Senator Udall to Amendment SA 2953.(consideration: CR S2163-2164, S2190; text: CR S2163-2164)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3313 proposed by Senator Murkowski for Senator Cantwell to Amendment SA 2953.(consideration: CR S2145-2191)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3317 proposed by Senator Murkowski for Senator Heinrich to Amendment SA 2953.(consideration: CR S2145-2191; text: CR S2150)
+- 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3787 proposed by Senator Paul to Amendment SA 2953.(consideration: CR S2161, S2190-2191)
+- 2016-04-20 — Cloture motion on the measure rendered moot in Senate.
+- 2016-04-20 — Considered by Senate. (consideration: CR S2207-2289)
+- 2016-04-20 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the measure (Record Vote No. 17) rendered moot in Senate.
+- 2016-04-20 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 54. (text: CR S2208-2289)
+- 2016-04-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 54.(text: CR S2208-2289)
