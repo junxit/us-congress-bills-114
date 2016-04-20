@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4325
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4325
@@ -16,9 +16,10 @@ Unifying Small Business Terminology Act of 2016
 
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Unifying Small Business Terminology Act of 2016
 - 2016-04-19 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2016-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1834)
 - 2016-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1834)
+- 2016-04-20 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
