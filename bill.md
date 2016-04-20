@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Global Food Security Act of 2015”.
+This Act may be cited as the “Global Food Security Act of 2016”.
 
 ## § 2. Findings
 
@@ -21,44 +21,24 @@ Congress makes the following findings:
 - **(2)** According to the January 2014 “Worldwide Threat Assessment of the US Intelligence Community”—
   - **(A)** the “[l]ack of adequate food will be a destabilizing factor in countries important to US national security that do not have the financial or technical abilities to solve their internal food security problems”; and
   - **(B)** “[f]ood and nutrition insecurity in weakly governed countries might also provide opportunities for insurgent groups to capitalize on poor conditions, exploit international food aid, and discredit governments for their inability to address basic needs”.
-- **(3)** Decades of research have shown that there are multiple underlying causes of food insecurity and poor nutrition, including—
-  - **(A)** the lack of availability of, access to, and consumption of nutritious food;
-  - **(B)** limited investments to improve agricultural productivity;
-  - **(C)** social and gender inequality;
-  - **(D)** insufficient value chains and market development for farmers, including small-scale producers, which lead to post-harvest loss; and
-  - **(E)** weak institutions in government and civil society.
-- **(4)** Agriculture, which comprises large portions of the total labor force in many developing countries, is an essential component of inclusive economic growth. According to the World Bank’s 2008 World Development Report, growth in the agricultural sector has been twice as effective in reducing poverty as growth in other sectors.
-- **(5)** Women, who are often heads of households and small farmers, are especially vulnerable to food insecurity. Women frequently face stricter constraints than men in accessing markets and resources. In its 2010–2011 report, the FAO estimated that if women farmers had the same access to inputs as men, they could increase their farm yields by 20 to 30 percent. According to the FAO, this “could raise total agricultural output in developing countries by 2.5–4 percent”.
-- **(6)** According to UNICEF—
-  - **(A)** more than 161,000,000 children younger than 5 years of age suffer from chronic malnutrition (also referred to as stunting); and
-  - **(B)** 1 in 3 women in the developing world are anemic, which leads to severe health and developmental consequences.
-- **(7)** According to the United Nations World Food Programme, poor nutrition causes 45 percent of deaths in children younger than 5 years of age.
-- **(8)** Malnutrition can—
-  - **(A)** undermine future earning potential by up to 20 percent; and
-  - **(B)** inhibit economic growth by up to 3 percent of gross domestic product.
-- **(9)** According to The Cost of Hunger in Africa Study by the African Union Commission—
-  - **(A)** the economic costs associated with child undernutrition are substantial, ranging from 2 percent to 16 percent of the gross national product in several African nations; and
-  - **(B)** adults who suffer from stunting as children are less productive than nonstunted workers and are less able to contribute to the economy.
-- **(10)** According to Save the Children’s 2013 Food for Thought report, if the current malnutrition rates continue, global output could be reduced by an estimated $125,000,000,000 by 2030, as the young children of today reach working age.
-- **(11)** A comprehensive approach to sustainable food and nutrition security should not only respond to emergency food shortages, but should also address malnutrition, resilience to food and nutrition insecurity, building the capacity of poor, rural populations to improve their agricultural productivity, and incomes, removing institutional impediments to agricultural development, value chain access and efficiency, including processing and storage, enhancing agribusiness development, access to markets and activities that address the specific needs and barriers facing women and small-scale producers, education, and collaborative research.
-- **(12)** An effective, sustainable approach to combating food insecurity requires consultation with, and participation from, multiple stakeholders, including government, the private sector, international organizations, international and local nongovernmental stakeholders, grassroots and civil society organizations, faith-based organizations, and higher education research institutions.
-- **(13)** Nongovernmental organizations, faith-based organizations, community-based organizations, private voluntary organizations, academic institutions, and cooperatives can increase the effectiveness of public investments by building local capacity, strengthening food and nutrition security and resilience, and leveraging additional resources.
-- **(14)** The United States has provided consistent global leadership in addressing food security and investing in agricultural development and humanitarian assistance. In 2010, the United States Government launched Feed the Future (referred to in this paragraph as “FTF”), an initiative designed to expand and better coordinate the United States investments in improving global food security. FTF is a whole-of-government approach that works across agricultural value chains and focuses on the dual objectives of improving farmer productivity, income, and livelihoods in developing countries and improving the nutrition of women and children.
-- **(15)** The United States Government spearheaded the creation of the Global Agriculture and Food Security Program (referred to in this paragraph as the “GAFSP”), which mobilizes contributions from a wide range of international donors to support the goals of FTF. As of 2014, the GAFSP had received pledges totaling $1,300,000,000 from 10 donors and reached an estimated 12,000,000 direct beneficiaries in 25 countries.
+- **(3)** A comprehensive approach to sustainable food and nutrition security should not only respond to emergency food shortages, but should also address malnutrition, resilience to food and nutrition insecurity, building the capacity of poor, rural populations to improve their agricultural productivity and incomes, removing institutional impediments to agricultural development, value chain access and efficiency, including processing and storage, enhancing agribusiness development, access to markets and activities that address the specific needs and barriers facing women and small-scale producers, education, and collaborative research.
 
-## § 3. Policy objectives; sense of Congress
+## § 3. Statement of policy objectives; sense of congress
 
-- **(a)** *Statement of policy objectives* It is in the national security interest of the United States to promote global food and nutrition security, consistent with national agriculture investment plans, which is reinforced through programs, activities, and initiatives that—
-  - **(1)** eradicate hunger and malnutrition, especially for women and children;
-  - **(2)** assist foreign countries to achieve long-term, sustainable, and inclusive agricultural development by emphasizing—
-    - **(A)** increased productivity, resiliency, local management capacity, income, and growth;
-    - **(B)** reduction in poverty and long-term vulnerability to food and nutrition insecurity; and
-    - **(C)** improved skills building and market linkages for producers, especially for women and small-scale producers, who face specific constraints in accessing markets, networks, and resources; and
-  - **(3)** ensure the effective use of United States taxpayer dollars to further these objectives.
-- **(b)** *Sense of Congress* It is the sense of Congress that the President, or a designee of the President, in providing assistance under this Act, should—
-  - **(1)** coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies to develop and implement the strategy set forth in section 5(a);
-  - **(2)** utilize, to the maximum extent possible, open and streamlined solicitations, grants, and cooperative agreements to allow for the participation of a wide range of implementing partners; and
-  - **(3)** strengthen and expand partnerships between developing country institutions of agricultural sciences with universities in the United States, with a focus on building the agricultural capacities of universities in developing nations.
+- **(a)** *Statement of policy objectives* It is in the national interest of the United States to promote global food security, resilience, and nutrition, consistent with national food security investment plans, which is reinforced through programs, activities, and initiatives that—
+  - **(1)** place food insecure countries on a path toward self-sufficiency and economic freedom through the coordination of United States foreign assistance programs;
+  - **(2)** accelerate inclusive, agricultural-led economic growth that reduces global poverty, hunger, and malnutrition, particularly among women and children;
+  - **(3)** increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural value chains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
+  - **(4)** build resilience to food shocks among vulnerable populations and households while reducing reliance upon emergency food assistance;
+  - **(5)** create an enabling environment for agricultural growth and investment, including through the promotion of secure and transparent property rights;
+  - **(6)** improve the nutritional status of women and children, with a focus on reducing child stunting, including through the promotion of highly nutritious foods, diet diversification, and nutritional behaviors that improve maternal and child health;
+  - **(7)** demonstrably meet, align with and leverage broader United States strategies and investments in trade, economic growth, national security, science and technology, agriculture research and extension, maternal and child health, nutrition, and water, sanitation, and hygiene;
+  - **(8)** continue to strengthen partnerships between United States-based universities, including land-grant colleges, and universities and institutions in target countries and communities that build agricultural capacity; and
+  - **(9)** ensure the effective use of United States taxpayer dollars to further these objectives.
+- **(b)** *Sense of congress* It is the sense of the Congress that the President, in providing assistance to implement the Global Food Security Strategy, should—
+  - **(1)** coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies to implement the Global Food Security Strategy;
+  - **(2)** seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
+  - **(3)** utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
 
 ## § 4. Definitions
 
@@ -72,101 +52,124 @@ In this Act:
   - **(E)** the Committee on Agriculture of the House of Representatives; and
   - **(F)** the Committee on Appropriations of the House of Representatives.
 - **(2)** *Feed the future innovation labs* The term Feed the Future Innovation Labs means research partnerships led by United States universities that advance solutions to reduce global hunger, poverty, and malnutrition.
-- **(3)** *Feed the future strategy* The term Feed the Future Strategy means the strategy developed and implemented pursuant to section 5(a).
-- **(4)** *Food and nutrition security* The term food and nutrition security means access to, and availability, utilization, and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.
-- **(5)** *Malnutrition* The term malnutrition means poor nutritional status caused by nutritional deficiency or excess.
-- **(6)** *Resilience* The term resilience means the ability of people, households, communities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses in a manner that reduces chronic vulnerability and facilitates inclusive growth.
-- **(7)** *Small-scale producer* The term small-scale producer means farmers, pastoralists, and fishers that have a low asset base and limited resources, including land, capital, skills and labor, and, in the case of farmers, typically farm on fewer than 5 hectares of land.
-- **(8)** *Stunting* The term stunting refers to a condition that—
+- **(3)** *Food and nutrition security* The term food and nutrition security means access to, and availability, utilization, and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.
+- **(4)** *Global food security strategy* The term Global Food Security Strategy means the strategy developed and implemented pursuant to section 5(a).
+- **(5)** *Key stakeholders* The term key stakeholders means actors engaged in efforts to advance global food security programs and objectives, including—
+  - **(A)** relevant Federal departments and agencies;
+  - **(B)** national and local governments in target countries;
+  - **(C)** other bilateral donors;
+  - **(D)** international and regional organizations;
+  - **(E)** international, regional, and local financial institutions;
+  - **(F)** international, regional, and local private voluntary, nongovernmental, faith-based, and civil society organizations;
+  - **(G)** the private sector, including agribusinesses and relevant commodities groups;
+  - **(H)** agricultural producers, including farmer organizations, cooperatives, small-scale producers, and women; and
+  - **(I)** agricultural research and academic institutions, including land-grant universities and extension services.
+- **(6)** *Malnutrition* The term malnutrition means poor nutritional status caused by nutritional deficiency or excess.
+- **(7)** *Relevant federal departments and agencies* The term relevant Federal departments and agencies means the United States Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of State, the Department of the Treasury, the Millennium Challenge Corporation, the Overseas Private Investment Corporation, the Peace Corps, the Office of the United States Trade Representative, the United States African Development Foundation, the United States Geological Survey, and any other department or agency specified by the President for purposes of this section.
+- **(8)** *Resilience* The term resilience means the ability of people, households, communities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses to food security in a manner that reduces chronic vulnerability and facilitates inclusive growth.
+- **(9)** *Small-scale producer* The term small-scale producer means farmers, pastoralists, foresters, and fishers that have a low asset base and limited resources, including land, capital, skills and labor, and, in the case of farmers, typically farm on fewer than 5 hectares of land.
+- **(10)** *Stunting* The term stunting refers to a condition that—
   - **(A)** is measured by a height-to-age ratio that is more than 2 standard deviations below the median for the population;
   - **(B)** manifests in children who are younger than 2 years of age;
   - **(C)** is a process that can continue in children after they reach 2 years of age, resulting in an individual being “stunted”;
   - **(D)** is a sign of chronic malnutrition; and
   - **(E)** can lead to long-term poor health, delayed motor development, impaired cognitive function, and decreased immunity.
-- **(9)** *Sustainable* The term sustainable means the ability of a target country, community, implementing partner, or intended beneficiary to maintain the programs authorized and the outcomes achieved pursuant to this Act over time.
-- **(10)** *Target country* The term target country means a developing country that is selected to participate in agriculture and nutrition security programs under the Feed the Future Strategy.
+- **(11)** *Sustainable* The term sustainable means the ability of a target country, community, implementing partner, or intended beneficiary to maintain, over time, the programs authorized and outcomes achieved pursuant to this Act.
+- **(12)** *Target country* The term target country means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described in section 5(a)(2), including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
 
-## § 5. Comprehensive food security strategy
+## § 5. Comprehensive global food security strategy
 
-- **(a)** *Feed the future strategy*
-  - **(1)** *In general* The President, or a designee of the President, shall coordinate the development and implementation of a United States whole-of-government strategy to accomplish the policy objectives set forth in section 3(a), which shall—
-    - **(A)** support and be aligned with country-owned agriculture, nutrition, and food security policy and investment plans developed with input from relevant governmental and nongovernmental sectors within target countries and regional bodies, including—
-      - **(i)** representatives of the private sector;
-      - **(ii)** agricultural producers, including women and small-scale producers;
-      - **(iii)** international and local civil society organizations;
-      - **(iv)** faith-based organizations; and
-      - **(v)** research and academic institutions;
-    - **(B)** support inclusive, sustainable agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, networking, resource management capacity, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;
-    - **(C)** support the improvement of the nutritional status of women and children, especially during the critical 1,000-day window starting at the beginning of a woman’s pregnancy and ending 2 years after her child’s birth, with a focus on reducing child stunting;
-    - **(D)** urge target countries and communities to respect and promote the land tenure rights of local communities, particularly those of women and small-scale producers;
-    - **(E)** support the long-term success of programs by building the capacity of local organizations and institutions;
-    - **(F)** integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to build safety nets, secure livelihoods, access markets, manage resources, and access opportunities for longer-term economic growth;
-    - **(G)** develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact productivity and livelihoods;
-    - **(H)** harness science, technology, and innovation, including the research conducted at Feed the Future Innovation Labs, or any successor entities, throughout the United States;
-    - **(I)** leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, research entities, and academic institutions;
-    - **(J)** support collaboration between United States universities and public and private institutions in developing countries to promote agricultural development and innovation;
-    - **(K)** set clear and transparent selection criteria for target countries, regions, and intended beneficiaries of assistance provided under this Act;
-    - **(L)** set specific and measurable goals, benchmarks, timetables, performance metrics, and monitoring and evaluation plans that reflect international best practices relating to transparency, accountability, food and nutrition security, and agriculture-led economic growth, consistent with the policy objectives described in the Feed the Future Strategy; and
-    - **(M)** include criteria and methodology for graduating countries from United States assistance provided under this Act once the countries have achieved certain benchmarks.
-  - **(2)** *Governing law* Notwithstanding any other provision of law, in carrying out the purposes of this Act, assistance may be provided to the Department of State and the United States Agency for International Development pursuant to sections 103 and 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151a, 2151a–1, 2220a et seq., and 2346 et seq.).
-- **(b)** *Feed the future coordination* The President, or a designee of the President, shall coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies in implementing the Feed the Future Strategy by—
-  - **(1)** establishing policy coherence, monitoring and evaluation systems, and coordination across all relevant Federal departments and agencies;
-  - **(2)** aligning linkages with other initiatives and strategies of the United States Agency for International Development, the Department of Agriculture, the Department of State, the Millennium Challenge Corporation, the Overseas Private Investment Corporation, the Peace Corps, the United States Trade Representative, the United States Africa Development Foundation, the Department of Commerce, the Department of the Treasury, and the United States Geological Survey;
-  - **(3)** establishing platforms for regular consultation and collaboration with key stakeholders, including—
-    - **(A)** national and local governments;
-    - **(B)** multilateral institutions;
-    - **(C)** private voluntary organizations;
-    - **(D)** cooperatives;
-    - **(E)** the private sector;
-    - **(F)** local nongovernmental and civil society organizations;
-    - **(G)** faith-based organizations;
-    - **(H)** research and academic institutions;
-    - **(I)** congressional committees; and
-    - **(J)** other stakeholders, as appropriate;
-  - **(4)** leveraging the expertise of the Department of Agriculture in agricultural development, nutrition, trade, research, and education; and
-  - **(5)** establishing and leading regular public consultations in target countries.
+- **(a)** *Strategy* The President shall coordinate the development and implementation of a United States whole-of-government strategy to accomplish the policy objectives set forth in section 3(a), which shall—
+  - **(1)** set specific and measurable goals, benchmarks, timetables, performance metrics, and monitoring and evaluation plans that reflect international best practices relating to transparency, accountability, food and nutrition security, and agriculture-led economic growth, consistent with the policy objectives described in section 3(a);
+  - **(2)** establish clear and transparent selection criteria for target countries, communities, regions, and intended beneficiaries of assistance;
+  - **(3)** describe the methodology and criteria for the selection of target countries;
+  - **(4)** support and be aligned with country-owned agriculture, nutrition, and food security policy and investment plans developed with input from key stakeholders, as appropriate;
+  - **(5)** support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;
+  - **(6)** support improvement of the nutritional status of women and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
+  - **(7)** facilitate communication and collaboration, as appropriate, among local stakeholders in support of a multi-sectoral approach to food and nutrition security, to include analysis of the multiple underlying causes of malnutrition, including lack of access to safe drinking water, sanitation, and hygiene;
+  - **(8)** support the long-term success of programs by building the capacity of local organizations and institutions in target countries and communities;
+  - **(9)** integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
+  - **(10)** develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact agricultural yield;
+  - **(11)** harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;
+  - **(12)** integrate agricultural development activities among food insecure populations living in proximity to designated national parks or wildlife areas into wildlife conservation efforts, as necessary and appropriate;
+  - **(13)** leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, faith-based organizations, and agricultural research and academic institutions;
+  - **(14)** strengthen and expand collaboration between United States universities, including public, private, and land-grant universities, with higher education institutions in target countries to increase their effectiveness and relevance to promote agricultural development and innovation through the creation of human capital, innovation, and cutting edge science in the agricultural sector;
+  - **(15)** seek to ensure that target countries and communities respect and promote land tenure rights of local communities, particularly those of women and small-scale producers;
+  - **(16)** include criteria and methodologies for graduating target countries and communities from assistance provided to implement the Global Food Security Strategy as such countries and communities meet the progress benchmarks identified pursuant to section 8(b)(4); and
+  - **(17)** demonstrably support the United States national security and economic interest in the countries where assistance is being provided.
+- **(b)** *Coordination* The President shall coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies in the implementation of the Global Food Security Strategy by—
+  - **(1)** establishing monitoring and evaluation systems, coherence, and coordination across relevant Federal departments and agencies;
+  - **(2)** establishing linkages with other initiatives and strategies of relevant Federal departments and agencies; and
+  - **(3)** establishing platforms for regular consultation and collaboration with key stakeholders and the appropriate congressional committees.
+- **(c)** *Strategy submission*
+  - **(1)** *In general* Not later than October 1, 2016, the President, in consultation with the head of each relevant Federal department and agency, shall submit to the appropriate congressional committees the Global Food Security Strategy required under this section, including a detailed description of how the United States intends to advance the objectives set forth in section 3(a) and the agency-specific plans described in paragraph (2).
+  - **(2)** *Agency-specific plans* The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
+    - **(A)** the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
+    - **(B)** the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
 
-## § 6. Reporting
+## § 6. Assistance to implement the global food security strategy
 
-- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, and not later than December 31 of each year thereafter through 2020, the President, or a designee of the President, shall submit a report to the appropriate congressional committees that describes the status of the implementation of the Feed the Future Strategy.
-- **(b)** *Content* The report required under subsection (a) shall—
-  - **(1)** contain an appendix of the Feed the Future Strategy;
-  - **(2)** identify any substantial changes made in the Feed the Future Strategy during the preceding calendar year;
-  - **(3)** identify the indicators that will be used to measure results, set benchmarks for progress over time, and establish mechanisms for reporting results in an open and transparent manner;
-  - **(4)** describe the progress made in implementing the Feed the Future Strategy;
-  - **(5)** assess the progress and results of implementing international food and nutrition security programming on the policy objectives set forth in section 3(a);
+- **(a)** *Food shortages* The President is authorized to carry out activities pursuant to section 103, section 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151a, 2151a–1, 2220a et seq., and 2346 et seq.) to prevent or address food shortages notwithstanding any other provision of law.
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,000,600,000 for each of fiscal years 2017 and 2018 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively.
+- **(c)** *Monitoring and evaluation* The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
+
+## § 7. Emergency food security program
+
+- **(a)** *Sense of congress* It is the sense of Congress that—
+  - **(1)** the crisis in Syria, which is characterized by acts of terrorism and atrocities directed against civilians, including mass murder, forced displacement, aerial bombardment, ethnic and religious persecution, torture, kidnapping, rape and sexual enslavement, has triggered one of the most profound humanitarian crises of this century and poses a direct threat to regional security and the national security interests of the United States;
+  - **(2)** it is in the national security interests of the United States to respond to the needs of displaced Syrian persons and the communities hosting such persons, including with food assistance; and
+  - **(3)** after four years of conflict in Syria and the onset of other major humanitarian emergencies where, like Syria, the provision of certain United States humanitarian assistance has been particularly challenging, including the 2013 super-typhoon in the Philippines, the 2014 outbreak of Ebola in west Africa, the 2015 earthquake in Nepal, ongoing humanitarian disasters in Yemen and South Sudan, and the threat of a major El Nino event in 2016, United States international disaster assistance has become severely stressed.
+- **(b)** *Statement of policy* It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach of available United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
+- **(c)** *Amendments to the Foreign Assistance Act of 1961*
+  - **(1)** Section 491 of the Foreign Assistance Act of 1961 (22 U.S.C. 2292) is amended—
+    - **(A)** by redesignating subsection (c) as subsection (d); and
+    - **(B)** by inserting after subsection (b) the following new subsection:
+      > - **(c)** *Emergency food security program*
+      >   - **(1)** *In general* Subject to the limitations in section 492, and notwithstanding any other provision of this or any other Act, the President is authorized to make available emergency food assistance, including in the form of funds, transfers, vouchers, and agricultural commodities (including products derived from agricultural commodities) acquired through local or regional procurement, to meet emergency food needs arising from manmade and natural disasters.
+      >   - **(2)** *Designation* Funds made available under this subsection shall be known as the “International Disaster Assistance – Emergency Food Security Program”.
+
+  - **(2)** Section 492 of the Foreign Assistance Act of 1961 (22 U.S.C. 2292a) is amended—
+    - **(A)** in subsection (a), by striking “$25,000,000 for the fiscal year 1986 and $25,000,000 for the fiscal year 1987.” and inserting “$2,794,184,000 for each of fiscal years 2017 and 2018, of which up to $1,257,382,000 should be made available to carry out section 491(c).”; and
+    - **(B)** by inserting after subsection (b) the following new subsections:
+      > - **(c)** *Amounts in addition to other amounts* Amounts authorized to be appropriated pursuant to the authorizations of appropriations under section 491(c) are in addition to funds otherwise available for such purposes.
+      > - **(d)** *Flexibility*
+      >   - **(1)** *United States policy* It is the policy of the United States that the funds made available to carry out section 491 are intended to provide the President with the greatest possible flexibility to address disaster-related needs as they arise and to prepare for and reduce the impact of natural and man-made disasters.
+      >   - **(2)** *Sense of congress* It is the sense of Congress that any amendments to applicable legal provisions contained in this Act are not intended to limit such authorities.
+      > - **(e)** *Report* Not later than March 1 of each fiscal year, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report that describes the activities undertaken by the President over the course of the prior fiscal year pursuant to section 491(c), including the amounts of assistance provided, intended beneficiaries, monitoring and evaluation strategies, anticipated outcomes, and, as practicable, actual outcomes.
+
+## § 8. Reports
+
+- **(a)** *Global food security strategy implementation reports* Not later than 1 year and 2 years after the date of the submission of the strategy required under section 5(c), the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy for 2017 and 2018, which shall—
+  - **(1)** contain a summary of the Global Food Security Strategy as an appendix;
+  - **(2)** identify any substantial changes made in the Global Food Security Strategy during the preceding calendar year;
+  - **(3)** describe the progress made in implementing the Global Food Security Strategy;
+  - **(4)** identify the indicators used to establish benchmarks and measure results over time, as well as the mechanisms for reporting such results in an open and transparent manner;
+  - **(5)** describe related strategies and benchmarks for graduating target countries and communities from assistance provided under the Global Food Security Strategy over time, including by building resilience, reducing risk, and enhancing the sustainability of outcomes from United States investments in agriculture and nutrition security;
   - **(6)** indicate how findings from monitoring and evaluation were incorporated into program design and budget decisions;
-  - **(7)** contain a transparent, open, and detailed accounting of spending under this Act by all relevant Federal agencies, including a disaggregated accounting of assistance provided through different procurement mechanisms;
-  - **(8)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraph (5);
-  - **(9)** describe how the Feed the Future Strategy relates to other United States food security and development assistance programs on the continuum from emergency food aid through sustainable, agriculture-led economic growth;
-  - **(10)** contain a clear gender analysis of programming that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition;
-  - **(11)** describe the methodology and criteria for the selection of target countries;
-  - **(12)** describe related strategies and benchmarks for graduating target countries and communities from assistance provided under the Feed the Future Strategy over time, including by building resilience, reducing risk, and enhancing the sustainability of outcomes from United States investments in agriculture and nutrition security;
-  - **(13)** assess efforts to coordinate United States international food security and nutrition programs, activities, and initiatives with—
-    - **(A)** other bilateral donors;
-    - **(B)** international and multilateral organizations;
-    - **(C)** international financial institutions;
-    - **(D)** target country governments;
-    - **(E)** international and local private voluntary, nongovernmental, and civil society organizations;
-    - **(F)** research and academic institutions; and
-    - **(G)** other stakeholders;
-  - **(14)** assess the status of institutional capacity building efforts, including higher education;
-  - **(15)** assess United States Government-facilitated private investment in related sectors in target countries and communities;
-  - **(16)** assess the impact of private sector investment on—
-    - **(A)** the economic opportunities available to small-scale producers, especially women;
-    - **(B)** improving international food and nutrition security;
-    - **(C)** local land tenure issues; and
-    - **(D)** enhancing inclusive, sustainable agricultural development;
-  - **(17)** be prepared in consultation with relevant United States Government agencies; and
-  - **(18)** incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned with a wide range of stakeholders in an open and transparent manner.
-- **(c)** *Public availability of information* The information referred to in subsection (b) shall be made publicly accessible in an electronic format and in a timely manner.
-- **(d)** *Government Accountability Office report* During the 1-year period ending on December 31, 2019, the Comptroller General of the United States shall publish a report that—
-  - **(1)** summarizes the progress of the strategy described in section 5(a);
-  - **(2)** assesses the whole-of-government coordination described in section 5(b);
-  - **(3)** assesses the mechanisms through which United States assistance authorized under this Act is provided, including a list of the major recipients of United States contracts, grants, and cooperative agreements;
-  - **(4)** includes a review of evaluations conducted on assistance provided under this Act; and
-  - **(5)** assesses the budget decisionmaking process, including the role of monitoring and evaluation in program design.
+  - **(7)** contain a transparent, open, and detailed accounting of spending by relevant Federal departments and agencies to implement the Global Food Security Strategy, including, for each Federal department and agency, the statutory source of spending, amounts spent, implementing partners and targeted beneficiaries, and activities supported to the extent practicable and appropriate;
+  - **(8)** describe how the Global Food Security Strategy leverages other United States food security and development assistance programs on the continuum from emergency food aid through sustainable, agriculture-led economic growth and eventual self-sufficiency;
+  - **(9)** describe the contributions of the Global Food Security Strategy to, and assess the impact of, broader international food and nutrition security assistance programs, including progress in the promotion of land tenure rights, creating economic opportunities for women and small-scale producers, and stimulating agriculture-led economic growth in target countries and communities;
+  - **(10)** assess efforts to coordinate United States international food security and nutrition programs, activities, and initiatives with key stakeholders;
+  - **(11)** assess United States Government-facilitated private investment in related sectors and the impact of private sector investment in target countries and communities;
+  - **(12)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9);
+  - **(13)** contain a clear gender analysis of programming, to inform project-level activities, that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition; and
+  - **(14)** incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned with a wide range of stakeholders in an open, transparent manner.
+- **(b)** *Global food security crosscut report* Not later than 120 days after the President submits the budget to Congress under section 1105(a) of title 31, United States Code, the Director of the Office of Management and Budget shall submit to the appropriate congressional committees a report including—
+  - **(1)** an interagency budget crosscut report that—
+    - **(A)** displays the budget proposed, including any planned interagency or intra-agency transfer, for each of the principal Federal agencies that carries out global food security activities in the upcoming fiscal year, separately reporting the amount of planned funding to be provided under existing laws pertaining to the global food security strategy to the extent available; and
+    - **(B)** to the extent available, identifies all assistance and research expenditures at the account level in each of the five prior fiscal years by the Federal Government and United States multilateral commitments using Federal funds for global food security strategy activities;
+  - **(2)** to the extent available, a detailed accounting of all assistance funding received and obligated by the principal Federal agencies identified in the report and United States multilateral commitments using Federal funds, for global food security activities during the current fiscal year; and
+  - **(3)** a breakout of the proposed budget for the current and budget years by agency, categorizing expenditures by type of funding, including research, resiliency, and other food security activities to the extent that such information is available.
+- **(c)** *Public availability of information* The information referred to in subsections (a) and (b) shall be made available on the public website of the United States Agency for International Development in an open, machine readable format, in a timely manner.
 
-## § 7. Authorization of appropriations
+## § 9. Rule of construction
 
-There are authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development to carry out this Act, for each of the fiscal years 2015 through 2020, an amount equal to the amount of funds made available for food security and agricultural development programs for fiscal year 2014 under section 7060(d) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2014 (division K of Public Law 113–76; 128 Stat. 554).
+- **(a)** *Effect on other programs* Nothing in the Global Food Security Strategy or this Act or the amendments made by this Act shall be construed to supersede or otherwise affect the authority of the relevant Federal departments and agencies to carry out programs specified in subsection (b), in the manner provided, and subject to the terms and conditions, of those programs, including, but not limited to, the terms, conditions, and requirements relating to the procurement and transportation of food assistance furnished pursuant to such programs.
+- **(b)** *Programs described* The programs referred to in subsection (a) are the following:
+  - **(1)** The Food for Peace Act (7 U.S.C. 1691 et seq.).
+  - **(2)** The Food for Progress Act of 1985 (7 U.S.C. 1736o).
+  - **(3)** Section 416(b) of the Agriculture Act of 1949 (7 U.S.C. 1431).
+  - **(4)** McGovern-Dole Food for Education Program (7 U.S.C.1736o–1).
+  - **(5)** Local and Regional Procurement Program (7 U.S.C. 1726c).
+  - **(6)** Bill Emerson Humanitarian Trust Act (7 U.S.C. 1736f–1).
+  - **(7)** Any other food and nutrition security and emergency and non-emergency food assistance program of the Department of Agriculture.
