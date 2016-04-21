@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3826
@@ -29,3 +29,12 @@ Mount Hood Cooper Spur Land Exchange Clarification Act
 - 2015-10-23 — Introduced in House
 - 2015-10-23 — Introduced in House
 - 2015-10-23 — Referred to the House Committee on Natural Resources.
+- 2015-10-30 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-25 — Subcommittee Hearings Held.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-04-21 — Placed on the Union Calendar, Calendar No. 394.
+- 2016-04-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-514.
+- 2016-04-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-514.

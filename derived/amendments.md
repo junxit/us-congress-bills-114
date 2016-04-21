@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | in subparagraph (C), by striking “120 acres” and inserting “107 acres”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (E)(ii), by inserting “improvements,” after “buildings,”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending the text of subparagraph (C) to read as follows: “As a condition of the land exchange under this subsection, title to the non-Federal land to be acquired by the Secretary under this subsection shall be acceptable to the Secre… | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “As soon as practicable after the date of enactment of this Act, the Secretary and Mt. Hood Meadows shall select” and inserting “Not later than 60 days after the date of the enactment of the Mount Hood Cooper S… | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “As soon as practicable after the date of enactment of this Act, the Secretary and Mt. Hood Meadows shall select” and inserting “Not later than 120 days after the date of the enactment of the Mount Hood Cooper … | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), in the matter preceding subclause (I), by striking “An appraisal under clause (i) shall” and inserting “Except as provided under clause (iii), an appraisal under clause (i) shall assign a separate value to each tax lot to… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F), by striking “16 months after the date of enactment of this Act” and inserting “1 year after the date of the enactment of the Mount Hood Cooper Spur Land Exchange Clarification Act”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (G) and inserting the following: | the bill names no machine-readable US Code section |
