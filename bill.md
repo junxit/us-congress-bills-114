@@ -1,0 +1,25 @@
+---
+legis-num: S. 2840
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2840
+
+> To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize COPS grantees to use grant funds for active shooter training, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Our Lives by Initiating COPS Expansion Act of 2016” or the “POLICE Act of 2016”.
+
+## § 2. Additional authorized use of COPS funds
+
+Section 1701(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd(b)) is amended—
+
+- **(1)** in paragraph (16), by striking “and” at the end;
+- **(2)** by redesignating paragraph (17) as paragraph (18);
+- **(3)** by inserting after paragraph (16) the following:
+  > - **(17)** to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities; and
+
+- **(4)** in paragraph (18), as redesignated, by striking “(16)” and inserting “(17)”.
