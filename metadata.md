@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2666
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2666
@@ -99,3 +99,6 @@ No Rate Regulation of Broadband Internet Access Act
 - 2016-04-15 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2016-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H1753)
 - 2016-04-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-04-18 — Received in the Senate.
+- 2016-04-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-04-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
