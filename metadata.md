@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4698
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4698
@@ -32,3 +32,8 @@ Securing Aviation from Foreign Entry Points and Guarding Airports Through Enhanc
 - 2016-03-03 — Introduced in House
 - 2016-03-03 — Introduced in House
 - 2016-03-03 — Referred to the House Committee on Homeland Security.
+- 2016-03-23 — Committee Consideration and Mark-up Session Held.
+- 2016-03-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-04-21 — Placed on the Union Calendar, Calendar No. 393.
+- 2016-04-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-513.
+- 2016-04-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-513.
