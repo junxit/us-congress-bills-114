@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3724
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3724
@@ -27,9 +27,10 @@ Ensuring Integrity in the IRS Workforce Act of 2016
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Ensuring Integrity in the IRS Workforce Act of 2016
 - 2016-04-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 345 - 78 (Roll no. 163).(text: CR H1900)
 - 2016-04-21 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 4890 and H.R. 3724.
 - 2016-04-21 — The previous question was ordered pursuant to the rule. (consideration: CR H1905)
+- 2016-04-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
