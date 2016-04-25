@@ -103,3 +103,7 @@ Section 1213 of title 5, United States Code, is amended—
   > - **(3)** any combination of the penalties described in paragraph (1) or (2).
 
 - **(b)** *Application* The amendment made by subsection (a) shall apply to any violation of section 7323 or 7324 of title 5, United States Code, occurring after the date of enactment of this Act.
+
+## § 9. Regulations
+
+Not later than two years after the date of enactment of this Act, the Special Counsel shall prescribe such regulations as may be necessary to perform the functions of the Special Counsel under subchapter II of chapter 12 of title 5, United States Code, including regulations necessary to carry out sections 1213, 1214, and 1215 of such title, and any functions required due to the amendments made by this Act. Such regulations shall be published in the Federal Register.
