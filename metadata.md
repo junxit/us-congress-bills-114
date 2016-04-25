@@ -1,7 +1,7 @@
 ---
 measure: S. 1579
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1579
@@ -42,3 +42,11 @@ NATIVE Act
 - 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-201.
 - 2016-01-12 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-201.
 - 2016-01-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 345.
+- 2016-04-25 — Amendment SA 3874 agreed to in Senate by Unanimous Consent.
+- 2016-04-25 — Amendment SA 3874 proposed by Senator McConnell for Senator Schatz. (consideration: CR S2423) In the nature of a substitute.
+- 2016-04-25 — Measure laid before Senate by unanimous consent. (consideration: CR S2423)
+- 2016-04-25 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-04-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3874 agreed to in Senate by Unanimous Consent.
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3874 proposed by Senator McConnell for Senator Schatz.(consideration: CR S2423)
+- 2016-04-25 — Senate amendment submitted
