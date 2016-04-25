@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1206
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1206
@@ -80,3 +80,5 @@ No Hires for the Delinquent IRS Act
 - 2016-04-20 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.
 - 2016-04-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1874, H1875)
 - 2016-04-20 — The previous question was ordered pursuant to the rule. (consideration: CR H1873)
+- 2016-04-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-04-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
