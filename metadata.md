@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4885
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4885
@@ -57,3 +57,5 @@ IRS Oversight While Eliminating Spending (OWES) Act of 2016
 - 2016-04-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4885, the Chair put the question on passage and by voice vote announced that the yeas had prevailed. Mr. Blumenauer demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.
 - 2016-04-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 179 (Roll no. 161).(text: CR H1863)
 - 2016-04-20 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.
+- 2016-04-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-04-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
