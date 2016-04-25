@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4359
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for subchapter II of chapter 63 of title 5, United States Code, is amended by adding after the item relating to section 6328 the following new item: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections for subchapter II of chapter 63 of title 5, United States Code, is amended by adding after the item relating to section 6329 the following new item: | the bill names no machine-readable US Code section |
