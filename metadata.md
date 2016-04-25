@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 114
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # H.R. 710
@@ -43,3 +43,7 @@ To require the Secretary of Homeland Security to prepare a comprehensive securit
 - 2015-04-22 — Referred to the Committee on Commerce, Science, and Transportation.
 - 2015-04-22 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2319)
 - 2015-04-22 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2319)
+- 2015-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-04-25 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-244.
+- 2016-04-25 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-244.
+- 2016-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
