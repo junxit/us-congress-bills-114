@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4901
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4901
@@ -16,7 +16,7 @@ Scholarships for Opportunity and Results Reauthorization Act
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Cosponsors (12)
+## Cosponsors (16)
 
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Messer, Luke [R-IN-6] (M001189)
@@ -30,6 +30,10 @@ Scholarships for Opportunity and Results Reauthorization Act
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 - Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
 
 ## Committees (1)
 
@@ -40,3 +44,8 @@ Scholarships for Opportunity and Results Reauthorization Act
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-04-14 — Committee Consideration and Mark-up Session Held.
+- 2016-04-14 — Ordered to be Reported by Voice Vote.
+- 2016-04-25 — Placed on the Union Calendar, Calendar No. 402.
+- 2016-04-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-522.
+- 2016-04-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-522.
