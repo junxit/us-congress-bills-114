@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4890
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4890
@@ -20,9 +20,10 @@ To impose a ban on the payment of bonuses to employees of the Internal Revenue S
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ To impose a ban on the payment of bonuses to employees of the Internal Revenue S
 - 2016-04-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4890.
 - 2016-04-21 — The Speaker designated the Honorable Rodney Davis to act as Chairman of the Committee.
 - 2016-04-21 — The previous question was ordered pursuant to the rule. (consideration: CR H1910)
+- 2016-04-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
