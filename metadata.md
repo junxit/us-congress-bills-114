@@ -1,7 +1,7 @@
 ---
 measure: H.R. 87
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 87
@@ -25,3 +25,12 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on Natural Resources.
+- 2015-03-02 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-11 — Subcommittee Hearings Held.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-04-25 — Placed on the Union Calendar, Calendar No. 396.
+- 2016-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-516.
+- 2016-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-516.

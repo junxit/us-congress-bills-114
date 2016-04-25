@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 87
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,7 @@ In this Act, the following definitions apply:
 
 ## § 3. Areas to be added to shiloh national military park
 
-- **(a)** *Additional areas* The boundary of Shiloh National Military Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated April 2012 as follows:
+- **(a)** *Additional areas* The boundary of Shiloh National Military Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated July 2014, as follows:
   - **(1)** Fallen Timbers Battlefield.
   - **(2)** Russell House Battlefield.
   - **(3)** Davis Bridge Battlefield.
@@ -33,11 +33,11 @@ In this Act, the following definitions apply:
 ## § 4. Establishment of affiliated area
 
 - **(a)** *In general* Parker’s Crossroads Battlefield in the State of Tennessee is hereby established as an affiliated area of the National Park System.
-- **(b)** *Description* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated April 2012.
+- **(b)** *Description* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated July 2014.
 - **(c)** *Administration* The affiliated area shall be managed in accordance with this Act and all laws generally applicable to units of the National Park System.
 - **(d)** *Management entity* The City of Parkers Crossroads and the Tennessee Historical Commission shall jointly be the management entity for the affiliated area.
 - **(e)** *Cooperative agreements* The Secretary may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance with marketing, marking, interpretation, and preservation of the affiliated area.
 - **(f)** *Limited role of the secretary* Nothing in this Act authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
 - **(g)** *General management plan*
-  - **(1)** *In general* The Secretary, in consultation with the management entity, shall develop a general management plan for the affiliated area. The plan shall be prepared in accordance with section 12(b) of Public Law 91–383 (16 U.S.C. 1a–1 et seq.; commonly known as the National Park System General Authorities Act).
+  - **(1)** *In general* The Secretary, in consultation with the management entity, shall develop a general management plan for the affiliated area. The plan shall be prepared in accordance with section 100502 of title 54, United States Code.
   - **(2)** *Transmittal* Not later than 3 years after the date that funds are made available for this Act, the Secretary shall provide a copy of the completed general management to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
