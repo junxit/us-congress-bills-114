@@ -1,7 +1,7 @@
 ---
 measure: S. 1523
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1330` | add-at-end | in subsection (g), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1330` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1330` | add-at-end | Section 320(g) of the Federal Water Pollution Control Act (33 U.S.C. 1330(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1330` | replace | Section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330) is amended by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

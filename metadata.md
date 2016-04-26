@@ -1,7 +1,7 @@
 ---
 measure: S. 1523
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1523
@@ -40,3 +40,14 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Natio
 - 2015-08-05 — Senate amendment agreed to: Amendment SA 2639 agreed to in Senate by Unanimous Consent.
 - 2015-08-05 — Senate amendment proposed (on the floor): Amendment SA 2639 proposed by Senator Whitehouse.(consideration: CR S6349; text: CR S6349)
 - 2015-08-05 — Senate amendment submitted
+- 2015-08-06 — Message on Senate action sent to the House.
+- 2015-09-08 — Held at the desk.
+- 2015-09-08 — Received in the House.
+- 2015-10-29 — By Senator Inhofe from Committee on Environment and Public Works filed written report. Report No. 114-161.
+- 2015-10-29 — By Senator Inhofe from Committee on Environment and Public Works filed written report. Report No. 114-161.
+- 2016-04-26 — Considered under suspension of the rules. (consideration: CR H1957-1959)
+- 2016-04-26 — DEBATE - The House proceeded with forty minutes of debate on S. 1523.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Gibbs moved to suspend the rules and pass the bill, as amended.
+- 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1958)
+- 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1958)
