@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4698
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4698
@@ -37,3 +37,9 @@ Securing Aviation from Foreign Entry Points and Guarding Airports Through Enhanc
 - 2016-04-21 — Placed on the Union Calendar, Calendar No. 393.
 - 2016-04-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-513.
 - 2016-04-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-513.
+- 2016-04-26 — Considered under suspension of the rules. (consideration: CR H1966-1969)
+- 2016-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4698.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1966-1967)
+- 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1966-1967)

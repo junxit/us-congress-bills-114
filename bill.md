@@ -23,6 +23,7 @@ This Act may be cited as the “Securing Aviation from Foreign Entry Points and 
   - **(4)** The passenger security screening practices, capabilities, and capacity of such airport.
   - **(5)** The security vetting undergone by aviation workers at such airport.
   - **(6)** The access controls utilized by such airport to limit to authorized personnel access to secure and sterile areas of such airports.
+  - **(7)** The degree to which the government of the country in which such airport is located mandates, encourages, or prohibits the collection, analysis, or sharing of passenger name records.
 
 ## § 3. Security coordination enhancement plan
 
@@ -35,7 +36,7 @@ This Act may be cited as the “Securing Aviation from Foreign Entry Points and 
 
 Not later than 270 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration shall submit to Congress a comprehensive workforce assessment of all Administration personnel within the Office of Global Strategies of the Administration or whose primary professional duties contribute to the Administration’s global efforts to secure transportation security, including a review of whether such personnel are assigned in a risk-based, intelligence-driven manner.
 
-## § 5. Donation of screening equipment to protect the United States
+## § 5. Donation of screening equipment to protect the united states
 
 - **(a)** *In general* The Administrator of the Transportation Security Administration is authorized to donate security screening equipment to a foreign last point of departure airport operator if such equipment can be reasonably expected to mitigate a specific vulnerability to the security of the United States or United States citizens.
 - **(b)** *Report* Not later than 30 days before any donation of security screening equipment pursuant to subsection (a), the Administrator of the Transportation Security Administration shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a detailed written explanation of the following:
@@ -54,3 +55,16 @@ Not later than 270 days after the date of the enactment of this Act, the Adminis
 - **(c)** *Revocation and suspension*
   - **(1)** *In general* If the Administrator of the Transportation Security Administration determines at any time that a foreign country’s air cargo security program approved and officially recognized under subsection (b) no longer provides a level of security commensurate with the level of security required by United States air cargo security programs, the Administrator may revoke or temporarily suspend such approval and official recognition until such time as the Administrator determines that such foreign country’s cargo security programs provide a level of security commensurate with the level of security required by such United States air cargo security programs.
   - **(2)** *Notification* If the Administrator of the Transportation Security Administration revokes or suspends pursuant to paragraph (1) a foreign country’s air cargo security program, the Administrator shall notify the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after such revocation or suspension.
+
+## § 7. Checkpoints of the future
+
+- **(a)** *In general* The Administrator of the Transportation Security Administration, shall request the Aviation Security Advisory Committee to develop recommendations for more efficient and effective passenger screening processes.
+- **(b)** *Considerations* In making recommendations to improve existing passenger screening processes pursuant to subsection (a), the Aviation Security Advisory Committee shall consider the following:
+  - **(1)** The configuration of a checkpoint.
+  - **(2)** Technology innovation.
+  - **(3)** Ways to address any vulnerabilities identified in audits of checkpoint operations.
+  - **(4)** Ways to prevent security breaches at airports at which Federal security screening is provided.
+  - **(5)** Best practices in aviation security.
+  - **(6)** Recommendations from airport and aircraft operators, and any relevant advisory committees.
+  - **(7)** “Curb to curb” processes and procedures.
+- **(c)** *Report* Not later than one year after the date of enactment of this Act, the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the recommendations of the Aviation Security Advisory Committee under this section, including any recommendations for improving screening processes.
