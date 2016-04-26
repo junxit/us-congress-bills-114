@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3583
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 5 executed, 52 stated and not applied.
+56 amendatory instructions. 5 executed, 51 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 6 U.S.C. § 571
 
-> in paragraph (11), as so redesignated, by striking “Assistant Secretary for Grants and Training” and inserting “Assistant Administrator of the Grant Programs Directorate of the Federal Emergency Management Agency”;
+> in paragraph (12) by striking “Assistant Secretary for Grants and Training” and inserting “Assistant Administrator of the Grant Programs Directorate of the Federal Emergency Management Agency”;
 
 | | |
 |---|---|
@@ -85,7 +85,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 603` | amend | Subsection (a) of section 2002 of the Homeland Security Act of 2002 (6 U.S.C. 603) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 601` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2008 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 611` | amend | Paragraphs (1) and (2) of subsection (b) of section 2021 of the Homeland Security Act of 2002 (6 U.S.C. 611) are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 611` | insert | Paragraph (3) of section 2021(b) (6 U.S.C. 611) is amended by inserting “or urban area working group, as the case may be,” after “create a planning committee”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 611` | insert | Paragraph (3) of section 2021(b) (6 U.S.C. 611) is amended by inserting “or urban area working group, as the case may be,” after “planning committee”. | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 607` | insert | by inserting “States and high-risk urban areas use” after “that”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 607` | strike | by striking “is used”; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 607` | amend | in paragraph (2), by amending subparagraph (I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -99,34 +99,33 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 753` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 753` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 319` | insert | Paragraph (2) of section 509(b) of the Homeland Security Act of 2002 (6 U.S.C. 319(b)) is amended, in the matter preceding subparagraph (A), by inserting “, but not less often than once every five years,” after “periodically”. | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 609` | add-at-end | Section 2008 of the Homeland Security Act of 2002 (6 U.S.C. 609), as amended by section 110, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | add-at-end | Section 2008 of the Homeland Security Act of 2002 (6 U.S.C. 609) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 750` | amend | Section 650 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 750; title VI of the Department of Homeland Security Appropriations Act, 2007; Public Law 109–295) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | redesignate | by redesignating paragraphs (4) through (15) as paragraphs (3) through (14), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | redesignate | in paragraph (8), as so redesignated, by striking “, in cooperation with the National Communications System,”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 571` | redesignate | in paragraph (9), as so redesignated, by striking “the Homeland Security Council,”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 571` | redesignate | in paragraph (13), as so redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 571` | redesignate | in paragraph (14), as so redesignated, by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 571` | redesignate | in paragraph (13), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 571` | redesignate | by adding after paragraph (14), as so redesignated, the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | amend | Subsection (f) of section 1801 of the Homeland Security Act of 2002 (6 U.S.C. 571) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 572` | strike | by striking “, and in cooperation with the Department of National Communications System (as appropriate),”; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 572` | insert | by inserting “, but not less than once every five years,” after “periodically”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 572` | redesignate | by redesignating paragraphs (3) through (10) as paragraphs (4) through (11), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 572` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 317 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting at the end of the items relating to title V the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321e` | insert | in the matter preceding paragraph (1), by inserting “and shall establish medical and human, animal, and occupational health exposure policy, guidance, strategies, and initiatives,” before “including—”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 321e` | insert | in paragraph (1), by inserting before the semicolon at the end the following: “, including advice on how to prepare for, protect against, respond to, recover from, and mitigate against the medical effects of terrorist attacks or other hi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321e` | insert | in paragraph (2), by inserting before the semicolon at the end the following: “, including coordinating the Department’s policy, strategy and preparedness for pandemics and emerging infectious diseases”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 321e` | insert | in paragraph (5), by inserting “emergency medical services and medical first responder stakeholders,” after “the medical community,”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 321e` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 321e` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 321e` | insert | in paragraph (5), by inserting “emergency medical services and medical first responder stakeholders,” after “the medical community”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 321e` | strike | in paragraph (6), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 321e` | amend | by adding after paragraph (7) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), as amended by section 301 of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by section 301 of this Act, is further amended by inserting at the end of the items relating to title V the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Subsection (c) of section 10102 of title 5, United States Code, is amended by striking “2007” and inserting “2016”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (c) of section 10107 of title 5, United States Code, is amended by striking “2007” and inserting “2016”. | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 313` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 313` | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 313` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4019` | add-at-end | Section 1312 of the National Flood Insurance Act of 1968 (42 U.S.C. 4019) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4072` | replace | Section 1341 of the National Flood Insurance Act of 1968 (42 U.S.C. 4072) is amended by striking “within one year after the date of mailing of notice of disallowance or partial disallowance by the Administrator” and inserting the followi… | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4053` | replace | Section 1333 of the National Flood Insurance Act of 1968 (42 U.S.C. 4053) is amended by striking “within one year after the date of mailing of notice of disallowance or partial disallowance of the claim” and inserting the following: “not… | the bill quotes the text struck but describes what replaces it |
