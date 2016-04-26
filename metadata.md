@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1890
@@ -112,3 +112,9 @@ Defend Trade Secrets Act of 2016
 - 2016-04-11 — Received in the House.
 - 2016-04-11 — Referred to the House Committee on the Judiciary.
 - 2016-04-11 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
+- 2016-04-18 — Subcommittee on Courts, Intellectual Property, and the Internet Discharged.
+- 2016-04-20 — Committee Consideration and Mark-up Session Held.
+- 2016-04-20 — Ordered to be Reported by Voice Vote.
+- 2016-04-26 — Placed on the Union Calendar, Calendar No. 409.
+- 2016-04-26 — Reported by the Committee on Judiciary. H. Rept. 114-529.
+- 2016-04-26 — Reported by the Committee on Judiciary. H. Rept. 114-529.
