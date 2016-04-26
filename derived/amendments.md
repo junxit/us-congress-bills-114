@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4012a` | replace | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by striking “Sec. 102. (a)” and all that follows through subsection (b) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4104a` | strike | Section 1364(a)(3)(C) of the National Flood Insurance Act of 1968 (42 U.S.C. 4104a(a)(3)(C)) is amended by striking “, as required under section 102(b)(6) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(b)(6))”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4012a` | replace | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by striking “Sec. 102. (a)” and all that follows through the end of subsection (a) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4012a` | replace | by striking the subsection designation and all that follows through the end of paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4001` | replace | by striking paragraph (7) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
