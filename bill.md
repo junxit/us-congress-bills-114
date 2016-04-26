@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1523
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1523
 
-That the bill from the Senate (S. 1523) entitled “An Act to amend the Federal Water Pollution Control Act to reauthorize the National Estuary Program, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Federal Water Pollution Control Act to reauthorize the National Estuary Program, and for other purposes.
 
 ## § 1. Competitive awards
 

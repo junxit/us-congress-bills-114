@@ -1,7 +1,7 @@
 ---
 measure: S. 1523
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1523
@@ -21,9 +21,10 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Natio
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -51,3 +52,13 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Natio
 - 2016-04-26 — Mr. Gibbs moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1958)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1958)
+- 2016-04-27 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-05-12 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(text as Senate agreed to House amendment: CR S2794)
+- 2016-05-12 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (text as Senate agreed to House amendment: CR S2794)
+- 2016-05-13 — Message on Senate action sent to the House.
+- 2016-05-18 — Presented to President.
+- 2016-05-18 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-162.
+- 2016-05-20 — Became Public Law No: 114-162.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
