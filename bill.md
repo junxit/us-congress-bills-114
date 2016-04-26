@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4820
 
-> To require the Secretary of Homeland Security to use the testimonials of former or estranged violent extremists or their associates in order to counter terrorist recruitment, and for other purposes.
+> To require the Secretary of Homeland Security to use the testimonials of former violent extremists or their associates in order to counter terrorist recruitment, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,7 +15,8 @@ This Act may be cited as the “Combating Terrorist Recruitment Act of 2016”.
 
 ## § 2. Directive
 
-- **(a)** *In general* The Secretary of Homeland Security shall incorporate, to the extent practicable, into Department of Homeland Security efforts to combat terrorist recruitment and communications the public testimonials of former or estranged violent extremists or their associates, including friends and family. Such efforts may include the following:
+- **(a)** *In general* The Secretary of Homeland Security shall incorporate, to the extent practicable, into Department of Homeland Security efforts to combat terrorist recruitment and communications the public testimonials of former violent extremists or their associates, including friends and family. Such efforts may include the following:
   - **(1)** Counter-messaging of foreign terrorist organization communications and narratives.
   - **(2)** Related community engagement and public education efforts.
-- **(b)** *Coordination* The Secretary of Homeland Security shall, where appropriate, coordinate the actions described in subsection (a) with the heads of other relevant Federal departments and agencies and, to the extent practicable, engage nongovernmental and international partners in the identification and use of testimonials described in such subsection.
+- **(b)** *Coordination* The Secretary of Homeland Security shall, where appropriate, coordinate the efforts described in subsection (a) with the heads of other Federal departments and agencies, as appropriate, and, to the extent practicable, engage nongovernmental and international partners in the identification and use of testimonials described in such subsection.
+- **(c)** *Rule of construction* Nothing in this Act may be construed to require the Secretary of Homeland Security to collect testimonials directly from former violent extremists or their associates, including friends and family.
