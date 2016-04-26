@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4359
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4359
@@ -30,3 +30,9 @@ Administrative Leave Reform Act
 - 2016-04-25 — Placed on the Union Calendar, Calendar No. 400.
 - 2016-04-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-520.
 - 2016-04-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-520.
+- 2016-04-26 — Considered under suspension of the rules. (consideration: CR H1981-1983)
+- 2016-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4359.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1981)
+- 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1981)
