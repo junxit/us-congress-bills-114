@@ -1,7 +1,7 @@
 ---
 measure: S. 2680
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2680
@@ -16,11 +16,13 @@ Mental Health Reform Act of 2016
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Mental Health Reform Act of 2016
 
 - 2016-03-15 — Introduced in Senate
 - 2016-03-15 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2016-03-16 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-04-26 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2016-04-26 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2016-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
