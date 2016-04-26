@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 1890
@@ -89,9 +89,10 @@ Defend Trade Secrets Act of 2016
 - Senate — Judiciary Committee
 - House — Judiciary Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2016-04-04 — [Senate 114-2-39](votes/senate-114-2-0039.md) — On Passage of the Bill — **Bill Passed** (87–0)
+- 2016-04-27 — [House 114-2-172](votes/house-114-2-0172.md) — On Motion to Suspend the Rules and Pass — **Passed** (410–2)
 
 ## Actions
 
@@ -118,3 +119,17 @@ Defend Trade Secrets Act of 2016
 - 2016-04-26 — Placed on the Union Calendar, Calendar No. 409.
 - 2016-04-26 — Reported by the Committee on Judiciary. H. Rept. 114-529.
 - 2016-04-26 — Reported by the Committee on Judiciary. H. Rept. 114-529.
+- 2016-04-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-04-27 — Considered as unfinished business. (consideration: CR H2046-2047)
+- 2016-04-27 — Considered under suspension of the rules. (consideration: CR H2028-2034)
+- 2016-04-27 — DEBATE - The House proceeded with forty minutes of debate on S. 1890.
+- 2016-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-27 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2016-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 172). (text: CR H2028)
+- 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 172).(text: CR H2028)
+- 2016-04-29 — Presented to President.
+- 2016-04-29 — Presented to President.
+- 2016-05-11 — Became Public Law No: 114-153.
+- 2016-05-11 — Became Public Law No: 114-153.
+- 2016-05-11 — Signed by President.
+- 2016-05-11 — Signed by President.
