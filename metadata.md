@@ -1,7 +1,7 @@
 ---
 measure: S. 1579
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1579
@@ -30,9 +30,12 @@ NATIVE Act
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Indian Affairs Committee
+- House — Committee on House Administration
+- House — Energy and Commerce Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +53,9 @@ NATIVE Act
 - 2016-04-25 — Senate amendment agreed to: Amendment SA 3874 agreed to in Senate by Unanimous Consent.
 - 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3874 proposed by Senator McConnell for Senator Schatz.(consideration: CR S2423)
 - 2016-04-25 — Senate amendment submitted
+- 2016-04-26 — Message on Senate action sent to the House.
+- 2016-04-26 — Received in the House.
+- 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
