@@ -25,7 +25,7 @@ Section 118(c)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(
   >   - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
   >   - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
   > - **(C)** *Projects*
-  >   - **(i)** *In general* In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+  >   - **(i)** *In general* In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order No. 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
   >     - **(I)** the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
   >     - **(II)** the feasibility of—
   >       - **(aa)** prompt implementation;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 223
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 223
@@ -81,3 +81,9 @@ Great Lakes Restoration Initiative Act of 2016
 - 2016-03-23 — Placed on the Union Calendar, Calendar No. 354.
 - 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-465.
 - 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-465.
+- 2016-04-26 — Considered under suspension of the rules. (consideration: CR H1954-1957)
+- 2016-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 223.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Gibbs moved to suspend the rules and pass the bill, as amended.
+- 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1954-1955)
+- 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1954-1955)
