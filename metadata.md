@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1684
@@ -83,3 +83,9 @@ Foreign Spill Protection Act of 2016
 - 2016-04-25 — Placed on the Union Calendar, Calendar No. 398.
 - 2016-04-25 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-518.
 - 2016-04-25 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-518.
+- 2016-04-26 — Considered under suspension of the rules. (consideration: CR H1959-1961)
+- 2016-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1684.
+- 2016-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-26 — Mr. Curbelo (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1959)
+- 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1959)

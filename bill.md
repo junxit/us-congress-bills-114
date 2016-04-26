@@ -15,10 +15,16 @@ This Act may be cited as the “Foreign Spill Protection Act of 2016”.
 
 ## § 2. Liability of owners and operators of foreign facilities
 
-Section 1001(32) of the Oil Pollution Act of 1990 (33 U.S.C. 2701(32)) is amended—
+- **(a)** *Oil Pollution Control Act amendments* Section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701) is amended—
+  - **(1)** in paragraph (26)(A)—
+    - **(A)** in clause (ii), by striking “onshore or offshore facility, any person” and inserting “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity”; and
+    - **(B)** in clause (iii), by striking “offshore facility, the person who” and inserting “offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that”; and
+  - **(2)** in paragraph (32)—
+    - **(A)** by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively;
+    - **(B)** by inserting after subparagraph (C) the following:
+      > - **(D)** *Foreign facilities* In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
 
-- **(1)** by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively;
-- **(2)** by inserting after subparagraph (C) the following:
-  > - **(D)** *Foreign facilities* In the case of a foreign offshore unit or other facility located seaward of the boundary of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
-
-- **(3)** in subparagraph (G), as so redesignated, by striking “or offshore facility, the persons” and inserting “offshore facility, or foreign offshore unit or other facility located seaward of the boundary of the exclusive economic zone, the persons or entities”.
+    - **(C)** in subparagraph (G), as so redesignated, by striking “or offshore facility, the persons who” and inserting “, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that”.
+- **(b)** *Federal Water Pollution Control Act amendments* Section 311(a) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)(11)) is amended—
+  - **(1)** by striking “and any facility” and inserting “any facility”; and
+  - **(2)** by inserting “, and, for the purposes of applying subsections (b), (c), (e), and (o), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act) or any other facility located seaward of the exclusive economic zone” after “public vessel”.
