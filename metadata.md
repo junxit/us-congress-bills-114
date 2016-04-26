@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 699
@@ -16,7 +16,7 @@ Email Privacy Act
 
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 
-## Cosponsors (233)
+## Cosponsors (314)
 
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -251,6 +251,87 @@ Email Privacy Act
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Grayson, Alan [D-FL-9] (G000556)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
 
 ## Committees (1)
 
@@ -261,3 +342,11 @@ Email Privacy Act
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Introduced in House
 - 2015-02-04 — Referred to the House Committee on the Judiciary.
+- 2015-03-17 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2015-11-17 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2015-12-01 — Committee Hearings Held.
+- 2016-04-13 — Committee Consideration and Mark-up Session Held.
+- 2016-04-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 0.
+- 2016-04-26 — Placed on the Union Calendar, Calendar No. 408.
+- 2016-04-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-528.
+- 2016-04-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-528.

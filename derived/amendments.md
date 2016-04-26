@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,23 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 2702(a)(3) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsections (a), (b), and (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “divulge” and inserting “disclose”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “while in electronic storage by that service” and inserting “that is in electronic storage with or otherwise stored, held, or maintained by that service”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “to the public”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “divulge” and inserting “disclose”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “which is carried or maintained on that service” and inserting “that is stored, held, or maintained by that service”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “divulge” and inserting “disclose”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “a provider of” and inserting “a person or entity providing” | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding paragraph (1), by inserting “wire or electronic” before “communication”; | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c) by inserting “wire or electronic” before “communications”; | the bill names no machine-readable US Code section |
+| — | replace | in each of subsections (b) and (c), by striking “divulge” and inserting “disclose”; and | the bill names no machine-readable US Code section |
+| — | amend | in subsection (c), by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (a) through (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “(b) or”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “the contents of a wire or electronic communication, or”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “sought,” and inserting “sought”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “section” and inserting “subsection”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “A court order for disclosure under subsection (b) or (c)” and inserting “A court order for disclosure under subsection (c)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “the contents of a wire or electronic communication, or”. | the bill names no machine-readable US Code section |
 | — | amend | Section 2705 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |

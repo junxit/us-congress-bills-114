@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 699
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,43 +13,77 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Email Privacy Act”.
 
-## § 2. Confidentiality of electronic communications
+## § 2. Voluntary disclosure corrections
 
-Section 2702(a)(3) of title 18, United States Code, is amended to read as follows:
+- **(a)** *In general* Section 2702 of title 18, United States Code, is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (1)—
+      - **(i)** by striking “divulge” and inserting “disclose”;
+      - **(ii)** by striking “while in electronic storage by that service” and inserting “that is in electronic storage with or otherwise stored, held, or maintained by that service”;
+    - **(B)** in paragraph (2)—
+      - **(i)** by striking “to the public”;
+      - **(ii)** by striking “divulge” and inserting “disclose”; and
+      - **(iii)** by striking “which is carried or maintained on that service” and inserting “that is stored, held, or maintained by that service”; and
+    - **(C)** in paragraph (3)—
+      - **(i)** by striking “divulge” and inserting “disclose”; and
+      - **(ii)** by striking “a provider of” and inserting “a person or entity providing”
+  - **(2)** in subsection (b)—
+    - **(A)** in the matter preceding paragraph (1), by inserting “wire or electronic” before “communication”;
+    - **(B)** by amending paragraph (1) to read as follows:
+      > - **(1)** to an originator, addressee, or intended recipient of such communication, to the subscriber or customer on whose behalf the provider stores, holds, or maintains such communication, or to an agent of such addressee, intended recipient, subscriber, or customer;
 
-> - **(3)** a provider of remote computing service or electronic communication service to the public shall not knowingly divulge to any governmental entity the contents of any communication described in section 2703(a), or any record or other information pertaining to a subscriber or customer of such service.
+    - **(C)** by amending paragraph (3) to read as follows:
+      > - **(3)** with the lawful consent of the originator, addressee, or intended recipient of such communication, or of the subscriber or customer on whose behalf the provider stores, holds, or maintains such communication;
 
-## § 3. Elimination of 180-day rule; search warrant requirement; required disclosure of customer records
+  - **(3)** in subsection (c) by inserting “wire or electronic” before “communications”;
+  - **(4)** in each of subsections (b) and (c), by striking “divulge” and inserting “disclose”; and
+  - **(5)** in subsection (c), by amending paragraph (2) to read as follows:
+    > - **(2)** with the lawful consent of the subscriber or customer;
 
-- **(a)** *In general* Section 2703 of title 18, United States Code, is amended—
-  - **(1)** by striking subsections (a), (b), and (c) and inserting the following:
-    > - **(a)** *Contents of wire or electronic communications* A governmental entity may require the disclosure by a provider of electronic communication service or remote computing service of the contents of a wire or electronic communication that is in electronic storage with or otherwise stored, held, or maintained by the provider only if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) that is issued by a court of competent jurisdiction directing the disclosure.
-    > - **(b)** *Notice* Except as provided in section 2705, not later than 10 business days in the case of a law enforcement agency, or not later than 3 business days in the case of any other governmental entity, after a governmental entity receives the contents of a wire or electronic communication of a subscriber or customer from a provider of electronic communication service or remote computing service under subsection (a), the governmental entity shall serve upon, or deliver to by registered or first-class mail, electronic mail, or other means reasonably calculated to be effective, as specified by the court issuing the warrant, the subscriber or customer—
-    >   - **(1)** a copy of the warrant; and
-    >   - **(2)** a notice that includes the information referred to in clauses (i) and (ii) of section 2705(a)(4)(B).
-    > - **(c)** *Records concerning electronic communication service or remote computing service*
-    >   - **(1)** *In general* Subject to paragraph (2), a governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber or customer of the provider or service (not including the contents of communications), only if the governmental entity—
-    >     - **(A)** obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) that is issued by a court of competent jurisdiction directing the disclosure;
-    >     - **(B)** obtains a court order directing the disclosure under subsection (d);
-    >     - **(C)** has the consent of the subscriber or customer to the disclosure; or
-    >     - **(D)** submits a formal written request relevant to a law enforcement investigation concerning telemarketing fraud for the name, address, and place of business of a subscriber or customer of the provider or service that is engaged in telemarketing (as defined in section 2325).
-    >   - **(2)** *Information to be disclosed* A provider of electronic communication service or remote computing service shall, in response to an administrative subpoena authorized by Federal or State statute, a grand jury, trial, or civil discovery subpoena, or any means authorized under paragraph (1), disclose to a governmental entity the—
-    >     - **(A)** name;
-    >     - **(B)** address;
-    >     - **(C)** local and long distance telephone connection records, or records of session times and durations;
-    >     - **(D)** length of service (including start date) and types of service used;
-    >     - **(E)** telephone or instrument number or other subscriber number or identity, including any temporarily assigned network address; and
-    >     - **(F)** means and source of payment for such service (including any credit card or bank account number), of a subscriber or customer of such service.
-    >   - **(3)** *Notice not required* A governmental entity that receives records or information under this subsection is not required to provide notice to a subscriber or customer.
+## § 3. Amendments to required disclosure section
 
-  - **(2)** by adding at the end the following:
-    > - **(h)** *Rule of construction* Nothing in this section or in section 2702 shall be construed to limit the authority of a governmental entity to use an administrative subpoena authorized under a Federal or State statute or to use a Federal or State grand jury, trial, or civil discovery subpoena to—
-    >   - **(1)** require an originator, addressee, or intended recipient of an electronic communication to disclose the contents of the electronic communication to the governmental entity; or
-    >   - **(2)** require an entity that provides electronic communication services to the officers, directors, employees, or agents of the entity (for the purpose of carrying out their duties) to disclose the contents of an electronic communication to or from an officer, director, employee, or agent of the entity to a governmental entity, if the electronic communication is held, stored, or maintained on an electronic communications system owned or operated by the entity.
+Section 2703 of title 18, United States Code, is amended—
 
-- **(b)** *Technical and conforming amendments* Section 2703(d) of title 18, United States Code, is amended—
-  - **(1)** by striking “A court order for disclosure under subsection (b) or (c)” and inserting “A court order for disclosure under subsection (c)”; and
-  - **(2)** by striking “the contents of a wire or electronic communication, or”.
+- **(1)** by striking subsections (a) through (c) and inserting the following:
+  > - **(a)** *Contents of wire or electronic communications in electronic storage* Except as provided in subsections (i) and (j), a governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication that is in electronic storage with or otherwise stored, held, or maintained by that service only if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) that—
+  >   - **(1)** is issued by a court of competent jurisdiction; and
+  >   - **(2)** may indicate the date by which the provider must make the disclosure to the governmental entity.
+  > - **(b)** *Contents of wire or electronic communications in a remote computing service*
+  >   - **(1)** *In general* Except as provided in subsections (i) and (j), a governmental entity may require the disclosure by a provider of remote computing service of the contents of a wire or electronic communication that is stored, held, or maintained by that service only if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) that—
+  >     - **(A)** is issued by a court of competent jurisdiction; and
+  >     - **(B)** may indicate the date by which the provider must make the disclosure to the governmental entity.
+  >   - **(2)** *Applicability* Paragraph (1) is applicable with respect to any wire or electronic communication that is stored, held, or maintained by the provider—
+  >     - **(A)** on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communication received by means of electronic transmission from), a subscriber or customer of such remote computing service; and
+  >     - **(B)** solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing.
+  > - **(c)** *Records concerning electronic communication service or remote computing service*
+  >   - **(1)** *In general* Except as provided in subsections (i) and (j), a governmental entity may require the disclosure by a provider of electronic communication service or remote computing service of a record or other information pertaining to a subscriber to or customer of such service (not including the contents of wire or electronic communications), only—
+  >     - **(A)** if a governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) that—
+  >       - **(i)** is issued by a court of competent jurisdiction directing the disclosure; and
+  >       - **(ii)** may indicate the date by which the provider must make the disclosure to the governmental entity;
+  >     - **(B)** if a governmental entity obtains a court order directing the disclosure under subsection (d);
+  >     - **(C)** with the lawful consent of the subscriber or customer; or
+  >     - **(D)** as otherwise authorized in paragraph (2).
+  >   - **(2)** *Subscriber or customer Information* A provider of electronic communication service or remote computing service shall, in response to an administrative subpoena authorized by Federal or State statute, a grand jury, trial, or civil discovery subpoena, or any means available under paragraph (1), disclose to a governmental entity the—
+  >     - **(A)** name;
+  >     - **(B)** address;
+  >     - **(C)** local and long distance telephone connection records, or records of session times and durations;
+  >     - **(D)** length of service (including start date) and types of service used;
+  >     - **(E)** telephone or instrument number or other subscriber or customer number or identity, including any temporarily assigned network address; and
+  >     - **(F)** means and source of payment for such service (including any credit card or bank account number);
+  >   - **(3)** *Notice not required* A governmental entity that receives records or information under this subsection is not required to provide notice to a subscriber or customer.
+
+- **(2)** in subsection (d)—
+  - **(A)** by striking “(b) or”;
+  - **(B)** by striking “the contents of a wire or electronic communication, or”;
+  - **(C)** by striking “sought,” and inserting “sought”; and
+  - **(D)** by striking “section” and inserting “subsection”; and
+- **(3)** by adding at the end the following:
+  > - **(h)** *Notice* Except as provided in section 2705, a provider of electronic communication service or remote computing service may notify a subscriber or customer of a receipt of a warrant, court order, subpoena, or request under subsection (a), (b), (c), or (d) of this section.
+  > - **(i)** *Rule of construction related to legal process* Nothing in this section or in section 2702 shall limit the authority of a governmental entity to use an administrative subpoena authorized by Federal or State statute, a grand jury, trial, or civil discovery subpoena, or a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction to—
+  >   - **(1)** require an originator, addressee, or intended recipient of a wire or electronic communication to disclose a wire or electronic communication (including the contents of that communication) to the governmental entity;
+  >   - **(2)** require a person or entity that provides an electronic communication service to the officers, directors, employees, or agents of the person or entity (for the purpose of carrying out their duties) to disclose a wire or electronic communication (including the contents of that communication) to or from the person or entity itself or to or from an officer, director, employee, or agent of the entity to a governmental entity, if the wire or electronic communication is stored, held, or maintained on an electronic communications system owned, operated, or controlled by the person or entity; or
+  >   - **(3)** require a person or entity that provides a remote computing service or electronic communication service to disclose a wire or electronic communication (including the contents of that communication) that advertises or promotes a product or service and that has been made readily accessible to the general public.
+  > - **(j)** *Rule of construction related to Congressional subpoenas* Nothing in this section or in section 2702 shall limit the power of inquiry vested in the Congress by Article I of the Constitution of the United States, including the authority to compel the production of a wire or electronic communication (including the contents of a wire or electronic communication) that is stored, held, or maintained by a person or entity that provides remote computing service or electronic communication service.
 
 ## § 4. Delayed notice
 
@@ -57,54 +91,18 @@ Section 2705 of title 18, United States Code, is amended to read as follows:
 
 > ## § 2705. Delayed notice
 >
-> - **(a)** *Delay of notification*
->   - **(1)** *In general* A governmental entity that is seeking a warrant under section 2703(a) may include in the application for the warrant a request for an order delaying the notification required under section 2703(b) for a period of not more than 180 days in the case of a law enforcement agency, or not more than 90 days in the case of any other governmental entity.
->   - **(2)** *Determination* A court shall grant a request for delayed notification made under paragraph (1) if the court determines that there is reason to believe that notification of the existence of the warrant may result in—
->     - **(A)** endangering the life or physical safety of an individual;
->     - **(B)** flight from prosecution;
->     - **(C)** destruction of or tampering with evidence;
->     - **(D)** intimidation of potential witnesses; or
->     - **(E)** otherwise seriously jeopardizing an investigation or unduly delaying a trial.
->   - **(3)** *Extension* Upon request by a governmental entity, a court may grant one or more extensions of the delay of notification granted under paragraph (2) of not more than 180 days in the case of a law enforcement agency, or not more than 90 days in the case of any other governmental entity.
->   - **(4)** *Expiration of the delay of notification* Upon expiration of the period of delay of notification under paragraph (2) or (3), the governmental entity shall serve upon, or deliver to by registered or first-class mail, electronic mail, or other means reasonably calculated to be effective as specified by the court approving the search warrant, the customer or subscriber—
->     - **(A)** a copy of the warrant; and
->     - **(B)** notice that informs the customer or subscriber—
->       - **(i)** of the nature of the law enforcement inquiry with reasonable specificity;
->       - **(ii)** that information maintained for the customer or subscriber by the provider of electronic communication service or remote computing service named in the process or request was supplied to, or requested by, the governmental entity;
->       - **(iii)** of the date on which the warrant was served on the provider and the date on which the information was provided by the provider to the governmental entity;
->       - **(iv)** that notification of the customer or subscriber was delayed;
->       - **(v)** the identity of the court authorizing the delay; and
->       - **(vi)** of the provision of this chapter under which the delay was authorized.
-> - **(b)** *Preclusion of notice to subject of governmental access*
->   - **(1)** *In general* A governmental entity that is obtaining the contents of a communication or information or records under section 2703 may apply to a court for an order directing a provider of electronic communication service or remote computing service to which a warrant, order, subpoena, or other directive under section 2703 is directed not to notify any other person of the existence of the warrant, order, subpoena, or other directive for a period of not more than 180 days in the case of a law enforcement agency, or not more than 90 days in the case of any other governmental entity.
->   - **(2)** *Determination* A court shall grant a request for an order made under paragraph (1) if the court determines that there is reason to believe that notification of the existence of the warrant, order, subpoena, or other directive may result in—
->     - **(A)** endangering the life or physical safety of an individual;
->     - **(B)** flight from prosecution;
->     - **(C)** destruction of or tampering with evidence;
->     - **(D)** intimidation of potential witnesses; or
->     - **(E)** otherwise seriously jeopardizing an investigation or unduly delaying a trial.
->   - **(3)** *Extension* Upon request by a governmental entity, a court may grant one or more extensions of an order granted under paragraph (2) of not more than 180 days in the case of a law enforcement agency, or not more than 90 days in the case of any other governmental entity.
->   - **(4)** *Prior notice to law enforcement* Upon expiration of the period of delay of notice under this section, and not later than 3 business days before providing notice to a customer or subscriber, a provider of electronic communication service or remote computing service shall notify the governmental entity that obtained the contents of a communication or information or records under section 2703 of the intent of the provider of electronic communication service or remote computing service to notify the customer or subscriber of the existence of the warrant, order, or subpoena seeking that information.
-> - **(c)** *Definition* In this section and section 2703, the term law enforcement agency means an agency of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law, or any other Federal or State agency conducting a criminal investigation.
+> - **(a)** *In general* A governmental entity acting under section 2703 may apply to a court for an order directing a provider of electronic communication service or remote computing service to which a warrant, order, subpoena, or other directive under section 2703 is directed not to notify any other person of the existence of the warrant, order, subpoena, or other directive.
+> - **(b)** *Determination* A court shall grant a request for an order made under subsection (a) for delayed notification of up to 180 days if the court determines that there is reason to believe that notification of the existence of the warrant, order, subpoena, or other directive will likely result in—
+>   - **(1)** endangering the life or physical safety of an individual;
+>   - **(2)** flight from prosecution;
+>   - **(3)** destruction of or tampering with evidence;
+>   - **(4)** intimidation of potential witnesses; or
+>   - **(5)** otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+> - **(c)** *Extension* Upon request by a governmental entity, a court may grant one or more extensions, for periods of up to 180 days each, of an order granted in accordance with subsection (b).
 
-## § 5. Evaluation by the Government Accountability Office
-
-Not later than September 30, 2017, the Comptroller General of the United States shall submit to Congress a report regarding the disclosure of customer communications and records under section 2703 of title 18, United States Code, which shall include—
-
-- **(1)** an analysis and evaluation of such disclosure under section 2703 of title 18, United States Code, as in effect before the date of enactment of this Act, including—
-  - **(A)** a comprehensive analysis and evaluation regarding the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which Federal, State, or local law enforcement officers used section 2703 of title 18, United States Code, to obtain information relevant to an ongoing criminal investigation;
-  - **(B)** an analysis of the average length of time taken by a provider of an electronic communication service or a remote computing service to comply with requests by law enforcement officers for information under section 2703 of title 18, United States Code;
-  - **(C)** the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which information was requested by law enforcement officers from a provider of an electronic communication service or a remote computing service under a warrant as authorized under section 2703(a) of title 18, United States Code;
-  - **(D)** the number of individual instances and type of request, in each of the 5 years before the year in which this Act is enacted, in which information was requested by law enforcement officers from a provider of an electronic communication service or a remote computing service under the other information request provisions in section 2703 of title 18, United States Code; and
-  - **(E)** the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which law enforcement officers requested delayed notification to the subscriber or customer under section 2705 of title 18, United States Code; and
-- **(2)** an analysis and evaluation of such disclosure under section 2703 of title 18, United States Code, as amended by this Act, including—
-  - **(A)** an evaluation of the effects of the amendments to the warrant requirements on judges, court dockets, or any other court operations;
-  - **(B)** a survey of Federal, State, and local judges and law enforcement officers to determine the average length of time required for providers of an electronic communication service or a remote computing service to provide the contents of communications requested under a search warrant, which shall include identifying the number of instances in which a judge was required to order a provider of an electronic communication service or a remote computing service to appear to show cause for failing to comply with a warrant or to issue an order of contempt against a provider of an electronic communication service or a remote computing service for such a failure; and
-  - **(C)** determining whether the amendments to the warrant requirements resulted in an increase in the use of the emergency exception under section 2702(b)(8) of title 18, United States Code.
-
-## § 6. Rule of construction
+## § 5. Rule of construction
 
 Nothing in this Act or an amendment made by this Act shall be construed to preclude the acquisition by the United States Government of—
 
 - **(1)** the contents of a wire or electronic communication pursuant to other lawful authorities, including the authorities under chapter 119 of title 18 (commonly known as the “Wiretap Act”), the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), or any other provision of Federal law not specifically amended by this Act; or
-- **(2)** records or other information relating to a subscriber or customer of any electronic communications service or remote computing service (not including the content of such communications) pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), chapter 119 of title 18 (commonly known as the “Wiretap Act”), or any other provision of Federal law not specifically amended by this Act.
+- **(2)** records or other information relating to a subscriber or customer of any electronic communication service or remote computing service (not including the content of such communications) pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), chapter 119 of title 18 (commonly known as the “Wiretap Act”), or any other provision of Federal law not specifically amended by this Act.
