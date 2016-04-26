@@ -15,13 +15,10 @@ This Act may be cited as the “Official Personnel File Enhancement Act”.
 
 ## § 2. Record of investigation of personnel action in separated employee’s official personnel file
 
-- **(a)** *In general* Subchapter I of chapter 31 33 of title 5, United States Code, is amended by inserting after section 3321 the following:
+- **(a)** *In general* Subchapter I of chapter 33 of title 5, United States Code, is amended by inserting after section 3321 the following:
   > ## § 3322. Voluntary separation before resolution of personnel investigation
   >
-  > - **(a)** With respect to any individual employee occupying a position in the competitive service or the excepted service who is the subject of a personnel investigation and resigns from Government employment prior to the resolution of such investigation, the head of the agency from which such employee so resigns shall, if an adverse finding was made with respect to such employee pursuant to such investigation—
-  >   - **(1)** make a permanent notation in the employee’s official personnel record file; and
-  >   - **(2)** make reasonable efforts to notify the employee of such permanent notation. with respect to such employee pursuant to such investigation, make a permanent notation in the employee’s official personnel record file. The head shall make such notation not later than 40 days after the date of the resolution of such investigation.
-  > - **(b)** The notation described in subsection (a) shall be made not later than 14 days after the date of the resolution of such investigation.
+  > - **(a)** With respect to any employee occupying a position in the competitive service or the excepted service who is the subject of a personnel investigation and resigns from Government employment prior to the resolution of such investigation, the head of the agency from which such employee so resigns shall, if an adverse finding was made with respect to such employee pursuant to such investigation, make a permanent notation in the employee’s official personnel record file. The head shall make such notation not later than 40 days after the date of the resolution of such investigation.
   > - **(b)** Prior to making a permanent notation in an employee’s official personnel record file under subsection (a), the head of the agency shall—
   >   - **(1)** notify the employee in writing within 5 days of the resolution of the investigation and provide such employee a copy of the adverse finding and any supporting documentation;
   >   - **(2)** provide the employee with a reasonable time, but not less than 30 days, to respond in writing and to furnish affidavits and other documentary evidence to show why the adverse finding was unfounded (a summary of which shall be included in any notation made to the employee’s personnel file under subsection (d)); and
@@ -31,17 +28,16 @@ This Act may be cited as the “Official Personnel File Enhancement Act”.
   >   - **(1)** If an employee files an appeal with the Merit Systems Protection Board pursuant to subsection (c), the agency head shall make a notation in the employee’s official personnel record file indicating that an appeal disputing the notation is pending not later than 2 weeks after the date on which such appeal was filed.
   >   - **(2)** If the head of the agency is the prevailing party on appeal, not later than 2 weeks after the date that the Board issues the appeal decision, the head of the agency shall remove the notation made under paragraph (1) from the employee’s official personnel record file.
   >   - **(3)** If the employee is the prevailing party on appeal, not later than 2 weeks after the date that the Board issues the appeal decision, the head of the agency shall remove the notation made under paragraph (1) and the notation of an adverse finding made under subsection (a) from the employee’s official personnel record file.
-  > - **(c) (e)** In this section, the term “personnel investigation” includes—
+  > - **(e)** In this section, the term “personnel investigation” includes—
   >   - **(1)** an investigation by an Inspector General; and
-  >   - **(2)** an adverse personnel action as a result of performance, misconduct, or for such cause as will promote the efficiency of the service under chapter 43 or chapter 75; and.
-  >   - **(3)** any other type of investigation relating to poor performance or misconduct, including an investigation into an alleged prohibited personnel practice committed by the employee.
+  >   - **(2)** an adverse personnel action as a result of performance, misconduct, or for such cause as will promote the efficiency of the service under chapter 43 or chapter 75.
 
 - **(b)** *Application* The amendment made by subsection (a) shall apply to any employee described in section 3322 of title 5, United States Code, (as added by such subsection) who leaves the service after the date of enactment of this Act.
 - **(c)** *Clerical amendment* The table of sections of subchapter I of chapter 33 of title 5, United States Code, is amended by inserting after the item relating to section 3321 the following:
 
 ## § 3. Review of official personnel file of former Federal employees before rehiring
 
-- **(a)** *In general* Subchapter I of chapter 31 33 of title 5, United States Code, is amended by adding at the end the following:
+- **(a)** *In general* Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following:
   > ## § 3330e. Review of official personnel file of former Federal employees before rehiring
   >
   > - **(a)** If a former Government employee is a candidate for a position within the competitive service or the excepted service, prior to making any determination with respect to the appointment or reinstatement of such employee to such position, the appointing authority shall review and consider the information relating to such employee’s former period or periods of service in such employee’s official personnel record file.

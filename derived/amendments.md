@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4360
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 3321` | insert | Subchapter I of chapter 31 33 of title 5, United States Code, is amended by inserting after section 3321 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 3321` | insert | Subchapter I of chapter 33 of title 5, United States Code, is amended by inserting after section 3321 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 3321` | insert | The table of sections of subchapter I of chapter 33 of title 5, United States Code, is amended by inserting after the item relating to section 3321 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subchapter I of chapter 31 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections of subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
