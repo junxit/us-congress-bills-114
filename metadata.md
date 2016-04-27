@@ -1,7 +1,7 @@
 ---
 measure: H.R. 223
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 223
@@ -87,3 +87,4 @@ Great Lakes Restoration Initiative Act of 2016
 - 2016-04-26 — Mr. Gibbs moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1954-1955)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1954-1955)
+- 2016-04-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
