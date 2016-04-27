@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4240
@@ -58,3 +58,9 @@ No Fly for Foreign Fighters Act
 - 2016-04-15 — Placed on the Union Calendar, Calendar No. 377.
 - 2016-04-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-495.
 - 2016-04-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-495.
+- 2016-04-27 — Considered under suspension of the rules. (consideration: CR H2019-2022)
+- 2016-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4240.
+- 2016-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-27 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2020)
+- 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2020)
