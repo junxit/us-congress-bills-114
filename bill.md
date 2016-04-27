@@ -1,0 +1,21 @@
+---
+legis-num: S. 2856
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2856
+
+> To streamline certain feasibility studies and avoid duplication of effort.
+
+## § 1. Short title
+
+This Act may be cited as the “Corps' Obligation to Assist in Safeguarding Texas Act” or the “COAST Act”.
+
+## § 2. Coastal Texas Protection and Restoration study
+
+- **(a)** *In general* In carrying out the Coastal Texas Protection and Restoration Study—
+  - **(1)** the Secretary of the Army shall take into consideration studies, data, or information developed by the Gulf Coast Community Protection and Recovery District to expedite completion of the Study; and
+  - **(2)** any studies, data, or information used in the development of the final recommendations of the Chief of Engineers shall be credited against the non-Federal share of study costs.
+- **(b)** *Expedited completion* The Secretary shall expedite completion of the reports for the Coastal Texas Protection and Restoration Study and, if the Secretary determines that a project described in the completed report is justified, proceed directly to project preconstruction, engineering, and design.
