@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4923
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4923
@@ -85,6 +85,10 @@ American Manufacturing Competitiveness Act of 2016
 - House — Rules Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-04-27 — [House 114-2-166](votes/house-114-2-0166.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–2)
+
 ## Actions
 
 - 2016-04-13 — Introduced in House
@@ -100,3 +104,11 @@ American Manufacturing Competitiveness Act of 2016
 - 2016-04-25 — Placed on the Union Calendar, Calendar No. 399.
 - 2016-04-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-519, Part I.
 - 2016-04-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-519, Part I.
+- 2016-04-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-04-27 — Considered as unfinished business. (consideration: CR H2035)
+- 2016-04-27 — Considered under suspension of the rules. (consideration: CR H2014-2019)
+- 2016-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4923.
+- 2016-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-27 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
+- 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166). (text: CR H2014-2016)
+- 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166).(text: CR H2014-2016)
