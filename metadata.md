@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4820
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4820
@@ -36,9 +36,10 @@ Combating Terrorist Recruitment Act of 2016
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Combating Terrorist Recruitment Act of 2016
 - 2016-04-26 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-525.
 - 2016-04-26 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-525.
 - 2016-04-26 — The title of the measure was amended. Agreed to without objection.
+- 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
