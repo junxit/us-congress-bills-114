@@ -1,7 +1,7 @@
 ---
 measure: S. 1455
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+14 amendatory instructions. 3 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -27,6 +27,24 @@ to guess them.
 ### 21 U.S.C. § 823
 
 > by striking “30” and inserting “100”; and
+
+| | |
+|---|---|
+| Removed | `30` |
+| Inserted | `100` |
+
+### 21 U.S.C. § 823
+
+> by striking “The total number” and inserting “(I) The total number”;
+
+| | |
+|---|---|
+| Removed | `The total number` |
+| Inserted | `(I) The total number` |
+
+### 21 U.S.C. § 823
+
+> by striking “30” and inserting “100”;
 
 | | |
 |---|---|
@@ -47,3 +65,9 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | insert | by inserting at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | replace | in clause (i), by striking physician and inserting practitioner; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | strike | by striking “, unless, not sooner” and all that follows through “of this subparagraph”; and | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 823` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | replace | Section 303(g)(2)(G) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(G)) is amended by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | replace | Section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) is amended by striking subparagraphs (I) and (J), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
