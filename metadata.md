@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4096
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4096
@@ -21,9 +21,10 @@ Investor Clarity and Bank Parity Act
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Investor Clarity and Bank Parity Act
 - 2016-04-26 — Placed on the Union Calendar, Calendar No. 403.
 - 2016-04-26 — Reported by the Committee on Financial Services. H. Rept. 114-523.
 - 2016-04-26 — Reported by the Committee on Financial Services. H. Rept. 114-523.
+- 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
