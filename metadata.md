@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4498
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4498
@@ -34,6 +34,11 @@ Helping Angels Lead Our Startups Act
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2016-04-27 — [House 114-2-170](votes/house-114-2-0170.md) — On Agreeing to the Amendment — **Failed** (139–272)
+- 2016-04-27 — [House 114-2-171](votes/house-114-2-0171.md) — On Passage — **Passed** (325–89)
+
 ## Actions
 
 - 2015-12-02 — Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.
@@ -45,3 +50,20 @@ Helping Angels Lead Our Startups Act
 - 2016-04-19 — Placed on the Union Calendar, Calendar No. 389.
 - 2016-04-19 — Reported by the Committee on Financial Services. H. Rept. 114-509.
 - 2016-04-19 — Reported by the Committee on Financial Services. H. Rept. 114-509.
+- 2016-04-26 — Rules Committee Resolution H. Res. 701 Reported to House. Rule provides for consideration of H.R. 4498 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2016-04-27 — Amendment (A001) offered by Ms. Waters, Maxine. (consideration: CR H2044-2045; text: CR H2044)
+- 2016-04-27 — Amendment failed by House: On agreeing to the Waters, Maxine amendment (A001) Failed by the Yeas and Nays: 139 - 272 (Roll no. 170).
+- 2016-04-27 — Considered under the provisions of rule H. Res. 701. (consideration: CR H2037-2046)
+- 2016-04-27 — DEBATE - Pursuant to the provisions of H.Res. 701, the House proceeded with 10 minutes of debate on the Waters amendment.
+- 2016-04-27 — DEBATE - The House proceeded with one hour of debate on H.R. 4498.
+- 2016-04-27 — House amendment not agreed to: On agreeing to the Waters, Maxine amendment (A001) Failed by the Yeas and Nays: 139 - 272 (Roll no. 170).
+- 2016-04-27 — House amendment offered
+- 2016-04-27 — House amendment offered/reported by : Amendment (A001) offered by Ms. Waters, Maxine.(consideration: CR H2044-2045; text: CR H2044)
+- 2016-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-27 — On agreeing to the Waters, Maxine amendment (A001) Failed by the Yeas and Nays: 139 - 272 (Roll no. 170).
+- 2016-04-27 — On passage Passed by the Yeas and Nays: 325 - 89 (Roll no. 171). (text: CR H2037-2038)
+- 2016-04-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 325 - 89 (Roll no. 171).(text: CR H2037-2038)
+- 2016-04-27 — Roll call votes on amendments in House
+- 2016-04-27 — Rule H. Res. 701 passed House.
+- 2016-04-27 — Rule provides for consideration of H.R. 4498 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2016-04-27 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H2045)

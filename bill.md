@@ -23,7 +23,7 @@ As used in this Act, the term angel investor group means any group that—
 
 ## § 3. Clarification of general solicitation
 
-- **(a)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D of its rules (17 C.F.R. 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
+- **(a)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D of its rules (17 CFR 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
   - **(1)** sponsored by—
     - **(A)** the United States or any territory thereof, by the District of Columbia, by any State, by a political subdivision of any State or territory, or by any agency or public instrumentality of any of the foregoing;
     - **(B)** a college, university, or other institution of higher education;
