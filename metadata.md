@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1684
@@ -65,9 +65,10 @@ Foreign Spill Protection Act of 2016
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Hanna, Richard L. [R-NY-22] (H001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Foreign Spill Protection Act of 2016
 - 2016-04-26 — Mr. Curbelo (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1959)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1959)
+- 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
