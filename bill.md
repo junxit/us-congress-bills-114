@@ -26,7 +26,7 @@ This Act may be cited as the “Email Privacy Act”.
       - **(iii)** by striking “which is carried or maintained on that service” and inserting “that is stored, held, or maintained by that service”; and
     - **(C)** in paragraph (3)—
       - **(i)** by striking “divulge” and inserting “disclose”; and
-      - **(ii)** by striking “a provider of” and inserting “a person or entity providing”
+      - **(ii)** by striking “a provider of” and inserting “a person or entity providing”;
   - **(2)** in subsection (b)—
     - **(A)** in the matter preceding paragraph (1), by inserting “wire or electronic” before “communication”;
     - **(B)** by amending paragraph (1) to read as follows:

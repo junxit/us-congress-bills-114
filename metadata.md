@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 699
@@ -337,6 +337,10 @@ Email Privacy Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2016-04-27 — [House 114-2-167](votes/house-114-2-0167.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (419–0)
+
 ## Actions
 
 - 2015-02-04 — Introduced in House
@@ -350,3 +354,11 @@ Email Privacy Act
 - 2016-04-26 — Placed on the Union Calendar, Calendar No. 408.
 - 2016-04-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-528.
 - 2016-04-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-528.
+- 2016-04-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-04-27 — Considered as unfinished business. (consideration: CR H2022-2023)
+- 2016-04-27 — Considered under suspension of the rules. (consideration: CR H2022-2028)
+- 2016-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 699.
+- 2016-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-27 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 167). (text: CR H2022-2023)
+- 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 167).(text: CR H2022-2023)

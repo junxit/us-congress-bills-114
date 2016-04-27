@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “divulge” and inserting “disclose”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “which is carried or maintained on that service” and inserting “that is stored, held, or maintained by that service”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “divulge” and inserting “disclose”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “a provider of” and inserting “a person or entity providing” | the bill names no machine-readable US Code section |
+| — | replace | by striking “a provider of” and inserting “a person or entity providing”; | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “wire or electronic” before “communication”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
