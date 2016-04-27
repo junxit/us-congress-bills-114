@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2908
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2908
@@ -54,3 +54,12 @@ National Bison Legacy Act
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1978)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1978)
 - 2016-04-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 438.
+- 2016-04-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2576)
+- 2016-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2576)
+- 2016-04-29 — Message on Senate action sent to the House.
+- 2016-04-29 — Presented to President.
+- 2016-04-29 — Presented to President.
+- 2016-05-09 — Became Public Law No: 114-152.
+- 2016-05-09 — Became Public Law No: 114-152.
+- 2016-05-09 — Signed by President.
+- 2016-05-09 — Signed by President.
