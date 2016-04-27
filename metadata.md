@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3583
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3583
@@ -22,11 +22,12 @@ Promoting Resilience and Efficiency in Preparing for Attacks and Responding to E
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Promoting Resilience and Efficiency in Preparing for Attacks and Responding to E
 - 2016-04-26 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1969-1974)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1969-1974)
+- 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
