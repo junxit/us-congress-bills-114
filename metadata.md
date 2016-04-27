@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 368
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 368
@@ -16,7 +16,7 @@ A resolution supporting efforts by the Government of Colombia to pursue peace an
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Kaine, Tim [D-VA] (K000384)
@@ -29,6 +29,10 @@ A resolution supporting efforts by the Government of Colombia to pursue peace an
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -42,3 +46,5 @@ A resolution supporting efforts by the Government of Colombia to pursue peace an
 - 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-03-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
+- 2016-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2499)
+- 2016-04-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2499)
