@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2615
@@ -95,9 +95,10 @@ Virgin Islands of the United States Centennial Commission Act
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -116,3 +117,4 @@ Virgin Islands of the United States Centennial Commission Act
 - 2016-04-26 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1979-1980)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1979-1980)
+- 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
