@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2908
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2908
@@ -53,3 +53,4 @@ National Bison Legacy Act
 - 2016-04-26 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1978)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1978)
+- 2016-04-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 438.
