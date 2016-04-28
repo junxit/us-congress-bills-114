@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4498
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4498
@@ -30,9 +30,10 @@ Helping Angels Lead Our Startups Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Polis, Jared [D-CO-2] (P000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -67,3 +68,4 @@ Helping Angels Lead Our Startups Act
 - 2016-04-27 — Rule H. Res. 701 passed House.
 - 2016-04-27 — Rule provides for consideration of H.R. 4498 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2016-04-27 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H2045)
+- 2016-04-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
