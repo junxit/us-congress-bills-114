@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 394
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 394
@@ -16,7 +16,7 @@ A resolution recognizing the 195th anniversary of the independence of Greece and
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (14)
+## Cosponsors (20)
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -32,6 +32,12 @@ A resolution recognizing the 195th anniversary of the independence of Greece and
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -41,3 +47,7 @@ A resolution recognizing the 195th anniversary of the independence of Greece and
 
 - 2016-03-09 — Introduced in Senate
 - 2016-03-09 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1389)
+- 2016-04-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
