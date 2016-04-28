@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5102
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5102
+
+> To amend the Immigration and Nationality Act to establish a criminal penalty for an alien who lacks lawful immigration status and is present in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Interior Immigration Enforcement Act”.
+
+## § 2. Crime of unlawful presence in the United States
+
+Section 275 of the Immigration and Nationality Act (8 U.S.C. 1325) is amended by adding at the end the following:
+
+> - **(e)** Any alien who is age 18 or older and who knowingly lacks lawful immigration status and is present in the United States shall, for the first commission of any such offense, be fined under title 18, United States Code, or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, United States Code, or imprisoned not more than 2 years, or both.
