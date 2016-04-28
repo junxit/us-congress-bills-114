@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 442
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 442
@@ -16,9 +16,10 @@ A resolution condemning the terrorist attacks in Brussels and honoring the memor
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution condemning the terrorist attacks in Brussels and honoring the memor
 
 - 2016-04-27 — Introduced in Senate
 - 2016-04-27 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2495-2496)
+- 2016-04-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.

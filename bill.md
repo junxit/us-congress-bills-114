@@ -19,18 +19,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Charles Michel, the Prime Minister of Belgium, has responded to these horrors by calling for solidarity: “[W]hat we feared has happened. Our country and citizens have been hit by a terrorist attack, in a violent and cowardly way … To those who have chosen to be the barbaric enemies of liberty, of democracy, of fundamental values, I want to say with the greatest strength that we will remain assembled and united.”;
 - Whereas President Barack Obama has called these attacks “yet another reminder that the world must unite; we must be together, regardless of nationality or race or faith, in fighting against the scourge of terrorism”;
 - Whereas Justin and Stephanie Shults, an American married couple, were murdered at the airport, where they had just taken Stephanie’s mother for her flight back to the United States after visiting the Shults’ home in Belgium;
-- Whereas Justin and Stephanie Shults met at Vanderbilt University in Nashville, Tennessee, close to both where Justin grew up in Gatlinburg, Tennessee, and Stephanie grew up in Lexington, Kentucky;
+- Whereas Justin and Stephanie Shults met at Vanderbilt University in Nashville, Tennessee, close to both where Justin grew up in Gatlinburg, Tennessee and Stephanie grew up in Lexington, Kentucky;
 - Whereas Justin and Stephanie lived in Brussels and worked for CLARCOR and Mars, respectively, both United States corporations;
 - Whereas Alexander and Sascha Pinczowski, Dutch siblings who called New York home, were murdered at the airport while speaking on the phone with their mother;
 - Whereas Mayor Bill de Blasio called Alexander and Sascha “two of our own”;
-- Whereas Gail Minglana Martinez, wife of United States Air Force Lieutenant Colonel Kato Martinez, was injured in the airport attack with her husband of 21 years and their four children;
+- Whereas Gail Minglana Martinez, wife of United States’ Air Force Lieutenant Colonel Kato Martinez, was injured in the airport attack with her husband of 21 years and their four children;
 - Whereas that blast ultimately claimed the life of Gail Minglana Martinez, a native of Corpus Christi, Texas;
 - Whereas the Governments of Belgium, France, and Germany have expanded counterterrorism operations, resulting in the arrest of over twelve suspected terrorists across their countries between March 24 and 25, 2016; and
 - Whereas these attacks represent a continued assault on freedom and democracy and an unmitigated evil that plagues the Middle East and the wider world, against which the United States and our allies must stand united in fighting: Now, therefore, be it
 
 That the Senate—
 
-- **(1)** condemns the terrorist attacks on March 22, 2016, in Brussels, Belgium, that killed 32 people and injured hundreds;
+- **(1)** condemns the terrorist attacks on March 22, 2016, in Brussels, Belgium that killed 32 people and injured hundreds;
 - **(2)** honors the memories of Justin and Stephanie Shults, Alexander and Sascha Pinczowski, and Gail Martinez, who were murdered by the Islamic State in these heinous terrorist attacks;
 - **(3)** expresses its heartfelt condolences and deepest sympathies for the victims of these attacks and their families;
 - **(4)** renews the solidarity of the Government and people of the United States with the people and the leadership of Belgium, as well as those throughout the world who work to eliminate terrorism;
