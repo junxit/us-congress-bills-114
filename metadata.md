@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 88
@@ -54,6 +54,10 @@ Disapproving the rule submitted by the Department of Labor relating to the defin
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2016-04-28 — [House 114-2-176](votes/house-114-2-0176.md) — On Passage — **Passed** (234–183)
+
 ## Actions
 
 - 2016-04-19 — Introduced in House
@@ -68,3 +72,13 @@ Disapproving the rule submitted by the Department of Labor relating to the defin
 - 2016-04-26 — Placed on the Union Calendar, Calendar No. 407.
 - 2016-04-26 — Reported by the Committee on Education and the Workforce. H. Rept. 114-527, Part I.
 - 2016-04-26 — Reported by the Committee on Education and the Workforce. H. Rept. 114-527, Part I.
+- 2016-04-27 — Rules Committee Resolution H. Res. 706 Reported to House. Resolution provides for consideration of H.R. 4901 and H.J. Res. 88.
+- 2016-04-28 — Considered under the provisions of rule H. Res. 706. (consideration: CR H2081-2093)
+- 2016-04-28 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 88.
+- 2016-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-28 — On passage Passed by the Yeas and Nays: 234 - 183 (Roll no. 176). (text: CR H2081)
+- 2016-04-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 88, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings on passage of H.J.Res 88 until later in the legislative day.
+- 2016-04-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 183 (Roll no. 176).(text: CR H2081)
+- 2016-04-28 — Resolution provides for consideration of H.R. 4901 and H.J. Res. 88.
+- 2016-04-28 — Rule H. Res. 706 passed House.
+- 2016-04-28 — The previous question was ordered pursuant to the rule. (consideration: CR H2092)
