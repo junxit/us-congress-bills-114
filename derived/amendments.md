@@ -1,7 +1,7 @@
 ---
 measure: S. 2845
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 50 U.S.C. § 1701
 
-> Section 5(e) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278; 50 U.S.C. 1701 note) is amended by striking “December 31, 2016” and inserting “December 31, 2021”.
+> Section 5(e) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278; 50 U.S.C. 1701 note) is amended by striking “December 31, 2016” and inserting “December 31, 2019”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2016` |
-| Inserted | `December 31, 2021` |
+| Inserted | `December 31, 2019` |
