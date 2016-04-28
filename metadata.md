@@ -1,7 +1,7 @@
 ---
 measure: S. 2845
 congress: 114
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 2845
