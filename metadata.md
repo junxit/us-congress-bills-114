@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 418
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 418
@@ -28,3 +28,7 @@ A resolution recognizing Hafsat Abiola, Khanim Latif, Yoani Sanchez, and Akanksh
 
 - 2016-04-12 — Introduced in Senate
 - 2016-04-12 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1915)
+- 2016-04-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
