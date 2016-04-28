@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4923
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4923
@@ -113,3 +113,12 @@ American Manufacturing Competitiveness Act of 2016
 - 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166). (text: CR H2014-2016)
 - 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166).(text: CR H2014-2016)
 - 2016-04-28 — Received in the Senate, read twice.
+- 2016-05-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2673)
+- 2016-05-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2673)
+- 2016-05-11 — Message on Senate action sent to the House.
+- 2016-05-18 — Presented to President.
+- 2016-05-18 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-159.
+- 2016-05-20 — Became Public Law No: 114-159.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
