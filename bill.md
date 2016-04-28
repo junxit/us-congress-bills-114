@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5119
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5119
+
+> To prohibit the obligation or expenditure of funds available to any Federal department or agency for any fiscal year to purchase or issue a license for the purchase of heavy water produced in Iran.
+
+## § 1. Short title
+
+This Act may be cited as the “No 2H2O from Iran Act”.
+
+## § 2. Prohibition on obligation or expenditure of funds to purchase or issue a license for the purchase of heavy water produced in Iran
+
+No funds available to any Federal department or agency for any fiscal year may be obligated or expended—
+
+- **(1)** to purchase heavy water produced in Iran; or
+- **(2)** to issue a license for the purchase of heavy water produced in Iran.
