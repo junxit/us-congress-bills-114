@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4923
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4923
@@ -112,3 +112,4 @@ American Manufacturing Competitiveness Act of 2016
 - 2016-04-27 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
 - 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166). (text: CR H2014-2016)
 - 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 166).(text: CR H2014-2016)
+- 2016-04-28 — Received in the Senate, read twice.
