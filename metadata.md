@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 435
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 435
@@ -33,3 +33,7 @@ A resolution designating May 21, 2016, as "Kids to Parks Day".
 
 - 2016-04-21 — Introduced in Senate
 - 2016-04-21 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2393)
+- 2016-04-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-04-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2576)
+- 2016-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2576)
