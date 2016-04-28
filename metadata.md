@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2901
@@ -67,6 +67,10 @@ Flood Insurance Market Parity and Modernization Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2016-04-28 — [House 114-2-177](votes/house-114-2-0177.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (419–0)
+
 ## Actions
 
 - 2015-06-25 — Introduced in House
@@ -82,3 +86,7 @@ Flood Insurance Market Parity and Modernization Act
 - 2016-04-26 — Placed on the Union Calendar, Calendar No. 404.
 - 2016-04-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-524.
 - 2016-04-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-524.
+- 2016-04-28 — Considered as unfinished business. (consideration: CR H2993-2094)
+- 2016-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 177). (text: CR 4/26/2016 H1952-1953)
+- 2016-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 177).(text: CR 4/26/2016 H1952-1953)
