@@ -1,7 +1,7 @@
 ---
 measure: S. 2824
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2824
@@ -28,3 +28,7 @@ Ariel Rios Federal Building Designation Act
 
 - 2016-04-20 — Introduced in Senate
 - 2016-04-20 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-04-28 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2016-04-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2016-04-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
