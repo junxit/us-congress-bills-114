@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 436
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 436
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -28,6 +28,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -37,3 +38,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 
 - 2016-04-21 — Introduced in Senate
 - 2016-04-21 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2393-2394)
+- 2016-04-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
