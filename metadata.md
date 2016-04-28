@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 699
@@ -362,3 +362,4 @@ Email Privacy Act
 - 2016-04-27 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2016-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 167). (text: CR H2022-2023)
 - 2016-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 167).(text: CR H2022-2023)
+- 2016-04-28 — Received in the Senate.
