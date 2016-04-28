@@ -1,7 +1,7 @@
 ---
 measure: S. 1635
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
