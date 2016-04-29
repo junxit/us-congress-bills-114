@@ -1,7 +1,7 @@
 ---
 measure: S. 2845
 congress: 114
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 2845
@@ -21,9 +21,11 @@ Venezuela Defense of Human Rights and Civil Society Extension Act of 2016
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Foreign Relations Committee
+- House — Judiciary Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -35,3 +37,8 @@ Venezuela Defense of Human Rights and Civil Society Extension Act of 2016
 - 2016-04-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2577; text of measure as reported in Senate: CR S2577; text as passed Senate: CR S2577)
 - 2016-04-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2577; text of measure as reported in Senate: CR S2577; text as passed Senate: CR S2577)
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.
+- 2016-04-29 — Message on Senate action sent to the House.
+- 2016-04-29 — Received in the House.
+- 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
