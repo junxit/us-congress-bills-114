@@ -1,7 +1,7 @@
 ---
 measure: S. 2845
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2845
@@ -42,3 +42,18 @@ Venezuela Defense of Human Rights and Civil Society Extension Act of 2016
 - 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-04-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-06 — Committee on Foreign Affairs discharged.
+- 2016-07-06 — Committee on Foreign Affairs discharged.
+- 2016-07-06 — Committee on the Judiciary discharged.
+- 2016-07-06 — Committee on the Judiciary discharged.
+- 2016-07-06 — Considered by unanimous consent. (consideration: CR H4334)
+- 2016-07-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-06 — Ms. Ros-Lehtinen asked unanimous consent to discharge from committee and consider.
+- 2016-07-06 — On passage Passed without objection. (text: CR H4334)
+- 2016-07-06 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4334)
+- 2016-07-08 — Presented to President.
+- 2016-07-08 — Presented to President.
+- 2016-07-15 — Became Public Law No: 114-194.
+- 2016-07-15 — Became Public Law No: 114-194.
+- 2016-07-15 — Signed by President.
+- 2016-07-15 — Signed by President.
