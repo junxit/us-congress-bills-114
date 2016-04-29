@@ -1,7 +1,7 @@
 ---
 measure: S. 1875
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1875
@@ -22,9 +22,10 @@ Afghanistan Accountability Act of 2015
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ Afghanistan Accountability Act of 2015
 - 2016-04-28 — Senate amendment proposed (on the floor): Amendment SA 3885 proposed by Senator McConnell for Senator Menendez.(consideration: CR S2576)
 - 2016-04-28 — Senate amendment submitted
 - 2016-04-28 — The committee amendment withdrawn by Unanimous Consent. (consideration: CR S2576)
+- 2016-04-29 — Message on Senate action sent to the House.
+- 2016-04-29 — Received in the House.
+- 2016-04-29 — Referred to the House Committee on Foreign Affairs.
