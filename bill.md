@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5140
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5140
+
+> To repeal certain regulations relating to veterinary feed directive drugs and medically important antimicrobial new animal drugs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “VFD Repeal Act of 2016”.
+
+## § 2. Repeal of final rule amending animal drug regulations regarding veterinary feed directive drugs
+
+- **(a)** *Repeal*
+  - **(1)** *In general* The final rule entitled “Veterinary Feed Directive” published in the Federal Register on June 3, 2015 (80 Fed. Reg. 31708), and the amendments to the Code of Federal Regulations made by such rule are hereby repealed.
+  - **(2)** *Effective date* The repeal made by subsection (a) shall take effect as if enacted on the date of promulgation of such final rule.
+- **(b)** *No issuance of identical or substantially similar rule* The Food and Drug Administration shall not issue any rule that is the same as or substantially similar to the rule described in subsection (a)(1).
