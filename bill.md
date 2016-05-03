@@ -23,34 +23,39 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** the Department of Defense;
     - **(E)** the Drug Enforcement Administration;
     - **(F)** the Centers for Disease Control and Prevention;
-    - **(G)** the National Academy of Medicine;
-    - **(H)** the National Institutes of Health; and
-    - **(I)** the Office of National Drug Control Policy;
-  - **(2)** physicians, dentists, and nonphysician prescribers;
-  - **(3)** pharmacists;
-  - **(4)** experts in the fields of pain research and addiction research;
-  - **(5)** representatives of—
+    - **(G)** the Health Resources and Services Administration;
+    - **(H)** the Indian Health Service;
+    - **(I)** the National Academy of Medicine;
+    - **(J)** the National Institutes of Health;
+    - **(K)** the Office of National Drug Control Policy; and
+    - **(L)** the Substance Abuse and Mental Health Services Administration;
+  - **(2)** State medical boards;
+  - **(3)** physicians, dentists, and nonphysician prescribers;
+  - **(4)** hospitals;
+  - **(5)** pharmacists and pharmacies;
+  - **(6)** experts in the fields of pain research and addiction research;
+  - **(7)** representatives of—
     - **(A)** pain management professional organizations;
     - **(B)** the mental health treatment community;
-    - **(C)** the addiction treatment community;
+    - **(C)** the addiction treatment and recovery community;
     - **(D)** pain advocacy groups; and
-    - **(E)** groups with expertise around overdose reversal;
-  - **(6)** a person in recovery from addiction to medication for chronic pain;
-  - **(7)** a person with chronic pain; and
-  - **(8)** other stakeholders, as the Secretary determines appropriate.
+    - **(E)** groups with expertise on overdose reversal;
+  - **(8)** a person in recovery from addiction to medication for chronic pain;
+  - **(9)** a person with chronic pain; and
+  - **(10)** other stakeholders, as the Secretary determines appropriate.
 - **(d)** *Duties* The task force shall—
   - **(1)** not later than 180 days after the date on which the task force is convened under subsection (b), review, modify, and update, as appropriate, best practices for pain management (including chronic and acute pain) and prescribing pain medication, taking into consideration—
     - **(A)** existing pain management research;
     - **(B)** recommendations from relevant conferences and existing relevant evidence-based guidelines;
-    - **(C)** ongoing efforts at the State and local levels and by medical professional organizations to develop improved pain management strategies, including consideration of the availability of opioids with abuse deterrent technology as well as pharmacological and medical device alternatives to opioids to reduce opioid monotherapy in appropriate cases;
+    - **(C)** ongoing efforts at the State and local levels and by medical professional organizations to develop improved pain management strategies, including consideration of differences within and between classes of opioids, the availability of opioids with abuse deterrent technology, and pharmacological, nonpharmacological, and medical device alternatives to opioids to reduce opioid monotherapy in appropriate cases;
     - **(D)** the management of high-risk populations, other than populations who suffer pain, who—
       - **(i)** may use or be prescribed benzodiazepines, alcohol, and diverted opioids; or
       - **(ii)** receive opioids in the course of medical care; and
-    - **(E)** the Proposed 2016 Guideline for Prescribing Opioids for Chronic Pain issued by the Centers for Disease Control and Prevention (80 Fed. Reg. 77351 (December 14, 2015)) and any final guidelines issued by the Centers for Disease Control and Prevention;
+    - **(E)** the 2016 Guideline for Prescribing Opioids for Chronic Pain issued by the Centers for Disease Control and Prevention;
   - **(2)** solicit and take into consideration public comment on the practices developed under paragraph (1), amending such best practices if appropriate; and
   - **(3)** develop a strategy for disseminating information about the best practices developed under paragraphs (1) and (2) to prescribers, pharmacists, State medical boards, educational institutions that educate prescribers and pharmacists, and other parties, as the Secretary determines appropriate.
 - **(e)** *Limitation* The task force shall not have rulemaking authority.
 - **(f)** *Report* Not later than 270 days after the date on which the task force is convened under subsection (b), the task force shall submit to Congress a report that includes—
   - **(1)** the strategy for disseminating best practices for pain management (including chronic and acute pain) and prescribing pain medication, as developed under subsection (d);
   - **(2)** the results of a feasibility study on linking the best practices described in paragraph (1) to receiving and renewing registrations under section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)); and
-  - **(3)** recommendations for effectively applying the best practices described in paragraph (1) to improve prescribing practices at medical facilities, including medical facilities of the Veterans Health Administration.
+  - **(3)** recommendations for effectively applying the best practices described in paragraph (1) to improve prescribing practices at medical facilities, including medical facilities of the Veterans Health Administration and Indian Health Service.
