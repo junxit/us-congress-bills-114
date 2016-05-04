@@ -13,9 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2017”.
 
-## § 2. Table of contents
+## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into two divisions as follows:
-  - **(1)** *Division a* Department of Defense Authorizations.
-  - **(2)** *Division b* Military Construction Authorizations.
+- **(a)** *Divisions* This Act is organized into five divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Military Justice.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 3. Congressional defense committees
+
+In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
