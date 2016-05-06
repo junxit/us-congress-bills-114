@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1486
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Taking Account of Bureaucrats’ Spending Act of 2015” or the “TABS Act of 2015”.
+This Act may be cited as the “Taking Account of Bureaucrats’ Spending Act of 2016” or the “TABS Act of 2016”.
 
 ## § 2. Bringing the Bureau into the regular appropriations process
 
@@ -26,6 +26,6 @@ Section 1017 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5497) i
 - **(3)** by redesignating subsections (d) and (e) as subsections (b) and (c), respectively; and
 - **(4)** in subsection (c), as so redesignated—
   - **(A)** by striking paragraphs (1), (2), and (3) and inserting the following:
-    > - **(1)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this title for each of fiscal years 2016 and 2017.
+    > - **(1)** *Authorization of appropriations* There is authorized to be appropriated to the Bureau for fiscal year 2017 an amount equal to the aggregate amount of funds transferred by the Board of Governors to the Bureau during fiscal year 2015.
 
   - **(B)** by redesignating paragraph (4) as paragraph (2).
