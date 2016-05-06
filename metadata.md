@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5048
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5048
@@ -25,3 +25,9 @@ Good Samaritan Assessment Act of 2016
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Referred to the House Committee on the Judiciary.
+- 2016-04-27 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Ordered to be Reported by Voice Vote.
+- 2016-04-28 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-05-06 — Placed on the Union Calendar, Calendar No. 416.
+- 2016-05-06 — Reported by the Committee on Judiciary. H. Rept. 114-540.
+- 2016-05-06 — Reported by the Committee on Judiciary. H. Rept. 114-540.
