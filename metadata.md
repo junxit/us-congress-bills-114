@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5046
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5046
@@ -16,7 +16,7 @@ Comprehensive Opioid Abuse Reduction Act of 2016
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
@@ -26,6 +26,8 @@ Comprehensive Opioid Abuse Reduction Act of 2016
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Guinta, Frank C. [R-NH-1] (G000570)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
 
 ## Committees (1)
 
@@ -36,3 +38,9 @@ Comprehensive Opioid Abuse Reduction Act of 2016
 - 2016-04-25 — Introduced in House
 - 2016-04-25 — Introduced in House
 - 2016-04-25 — Referred to the House Committee on the Judiciary.
+- 2016-04-27 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Ordered to be Reported by Voice Vote.
+- 2016-04-27 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-05-06 — Placed on the Union Calendar, Calendar No. 415.
+- 2016-05-06 — Reported by the Committee on Judiciary. H. Rept. 114-539.
+- 2016-05-06 — Reported by the Committee on Judiciary. H. Rept. 114-539.
