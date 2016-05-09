@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2494
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 2 executed, 17 stated and not applied.
+24 amendatory instructions. 2 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10601` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10601` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10601` | insert | Section 524(c)(4)(A) of title 28, United States Code, is amended by inserting before “or the Postmaster General” the following: “or section 1952(f), 1956(j), or 1963(n) of title 18,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 1978` | insert | in paragraph (1), by inserting “, in consultation with the Secretary of State,” after “Secretary of Commerce”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 1978` | insert | in paragraph (2), by inserting “, in consultation with the Secretary of State,” after “Secretary of the Interior”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 1978` | insert | in paragraph (3), by inserting “in consultation with the Secretary of State,” after “, as appropriate,”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 1978` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 1978` | insert | in subsection (d), by inserting “in consultation with the Secretary of State,” after “as the case may be,”. | the bill quotes the text inserted but describes where it goes |
