@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 88
@@ -82,3 +82,4 @@ Disapproving the rule submitted by the Department of Labor relating to the defin
 - 2016-04-28 — Resolution provides for consideration of H.R. 4901 and H.J. Res. 88.
 - 2016-04-28 — Rule H. Res. 706 passed House.
 - 2016-04-28 — The previous question was ordered pursuant to the rule. (consideration: CR H2092)
+- 2016-05-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
