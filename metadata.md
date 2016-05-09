@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5019
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5019
@@ -20,9 +20,10 @@ Fair Access to Investment Research Act of 2016
 
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Fair Access to Investment Research Act of 2016
 - 2016-04-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 6 (Roll no. 175). (text: CR 4/26/2016 H1950)
 - 2016-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 6 (Roll no. 175).(text: CR 4/26/2016 H1950)
+- 2016-05-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
