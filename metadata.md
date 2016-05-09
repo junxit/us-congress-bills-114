@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 546
@@ -38,3 +38,11 @@ RESPONSE Act of 2016
 - 2015-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-85.
 - 2015-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-85.
 - 2015-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
+- 2016-05-09 — Amendment SA 3889 agreed to in Senate by Unanimous Consent.
+- 2016-05-09 — Amendment SA 3889 proposed by Senator Enzi for Senator Heitkamp. (consideration: CR S2649) In the nature of a substitute.
+- 2016-05-09 — Measure laid before Senate by unanimous consent. (consideration: CR S2649)
+- 2016-05-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-05-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-05-09 — Senate amendment agreed to: Amendment SA 3889 agreed to in Senate by Unanimous Consent.
+- 2016-05-09 — Senate amendment proposed (on the floor): Amendment SA 3889 proposed by Senator Enzi for Senator Heitkamp.(consideration: CR S2649)
+- 2016-05-09 — Senate amendment submitted
