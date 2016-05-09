@@ -1,7 +1,7 @@
 ---
 measure: S. 1846
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1846
@@ -28,3 +28,7 @@ Critical Infrastructure Protection Act of 2016
 
 - 2015-07-23 — Introduced in Senate
 - 2015-07-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-250.
+- 2016-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-250.
+- 2016-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
