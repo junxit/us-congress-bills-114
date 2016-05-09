@@ -1,7 +1,7 @@
 ---
 measure: S. 1331
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+14 amendatory instructions. 6 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 15 U.S.C. § 313
+
+> in subsection (a), by striking “(a)” and inserting “(a) Findings.—”;
+
+| | |
+|---|---|
+| Removed | `(a)` |
+| Inserted | `(a) Findings.—` |
+
+### 15 U.S.C. § 313
+
+> in subsection (b), by striking “(b)” and inserting “(b) Policy.—”; and
+
+| | |
+|---|---|
+| Removed | `(b)` |
+| Inserted | `(b) Policy.—` |
+
+### 15 U.S.C. § 313
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “Not later than 90 days after the date of enactment of this Act, the” and inserting “The”.
+
+| | |
+|---|---|
+| Removed | `Not later than 90 days after the date of enactment of this Act, the` |
+| Inserted | `The` |
 
 ### 15 U.S.C. § 313
 
@@ -60,6 +87,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 313` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 313` | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 313` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 313` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 313` | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
