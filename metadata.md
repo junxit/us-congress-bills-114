@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 436
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 436
@@ -42,3 +42,5 @@ A resolution supporting the goals and ideals of World Malaria Day.
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
+- 2016-05-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S2649-2650; text: CR S2649-2650)
+- 2016-05-09 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S2649-2650; text: CR S2649-2650)
