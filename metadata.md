@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2901
@@ -63,9 +63,10 @@ Flood Insurance Market Parity and Modernization Act
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -90,3 +91,4 @@ Flood Insurance Market Parity and Modernization Act
 - 2016-04-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 177). (text: CR 4/26/2016 H1952-1953)
 - 2016-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 177).(text: CR 4/26/2016 H1952-1953)
+- 2016-05-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
