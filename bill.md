@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1073
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -65,9 +65,9 @@ The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C
 
 ## § 4. Plan for ensuring the accuracy and completeness of death data maintained and distributed by the Social Security Administration
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Commissioner of Social Security shall submit to Congress a plan, which shall include the elements described in subsection (b), to ensure the accuracy and completeness of the death data (including data regarding individuals who are not eligible for or receiving benefits under titles II or XVI of the Social Security Act) maintained and distributed by the Social Security Administration.
+- **(a)** *In general* Not later than 180 days 1 year after the date of enactment of this Act, the Commissioner of Social Security shall submit to Congress a plan, which shall include the elements described in subsection (b), to ensure improve the accuracy and completeness of the death data (including data regarding individuals who are not eligible for or receiving benefits under titles II or XVI of the Social Security Act) maintained and distributed by the Social Security Administration.
 - **(b)** *Content of plan* The plan required under subsection (a) shall include the following elements:
-  - **(1)** A procedure for identifying extremely elderly individuals who are still alive according to the records of the Social Security Administration and verifying the accuracy of this information.
+  - **(1)** A procedure for identifying extremely elderly individuals who are still alive and are older than the oldest known living person according to the records of the Social Security Administration and verifying the accuracy of this information.
   - **(2)** Improved policies and procedures for identifying and correcting erroneous records, including policies and procedures for—
     - **(A)** identifying individuals listed as dead who are actually alive;
     - **(B)** indentifying individuals listed as alive who are actually dead; and
@@ -76,3 +76,10 @@ The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C
   - **(4)** A process for employing statistical analysis of the death data maintained and distributed by the Social Security Administration to determine an estimate of the number of erroneous records.
   - **(5)** Recommendations for legislation.
 - **(c)** *Implementation of plan* Not later than 2 years after the date of enactment of this Act, the Commissioner of Social Security shall implement the plan required under subsection (a).
+
+## § 5. Report on information security
+
+Not later than 90 days after the date of the enactment of this Act, the Commissioner of Social Security shall submit a report to the Committees on Ways and Means, Oversight and Government Reform, and Homeland Security of the House of Representatives, and the Committees on Finance and Homeland Security and Governmental Affairs of the Senate that—
+
+- **(1)** identifies all information systems of the Social Security Administration containing sensitive information; and
+- **(2)** describes the measures the Commissioner is taking to secure and protect such information systems.
