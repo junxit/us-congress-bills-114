@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 418
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 418
@@ -16,9 +16,10 @@ A resolution recognizing Hafsat Abiola, Khanim Latif, Yoani Sanchez, and Akanksh
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -32,3 +33,5 @@ A resolution recognizing Hafsat Abiola, Khanim Latif, Yoani Sanchez, and Akanksh
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
+- 2016-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2674)
+- 2016-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2674)
