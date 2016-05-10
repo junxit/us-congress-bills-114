@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3209
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -60,7 +60,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6103` | insert | by inserting “or pertaining to the case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(i); | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6103` | insert | by inserting “or to such a case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(iii); and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | insert | by inserting “or pertaining to the case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(i), | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | insert | by inserting “or to such a case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(iii), and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6103` | insert | by inserting “(or any criminal investigation or proceeding, in the case of a matter relating to a missing or exploited child)” after “concerning such act” in subparagraph (B)(iii). | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6103` | add-at-end | Section 6103(i)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
