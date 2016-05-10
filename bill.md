@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3691
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Treatment for Pregnant and Postpartum Women Act of 2015”.
+This Act may be cited as the “Improving Treatment for Pregnant and Postpartum Women Act of 2016”.
 
 ## § 2. Reauthorization of residential treatment programs for pregnant and postpartum women
 
 Section 508 of the Public Health Service Act (42 U.S.C. 290bb–1) is amended—
 
-- **(1)** in subsection (p), by inserting “(other than subsection (r))” after “section”; and
-- **(2)** in subsection (r), by striking “such sums” and all that follows through “2003” and inserting “$40,000,000 for each of fiscal years 2016 through 2020”.
+- **(1)** in subsection (p), in the first sentence, by inserting “(other than subsection (r))” after “section”; and
+- **(2)** in subsection (r), by striking “such sums” and all that follows through “2003” and inserting “$16,900,000 for each of fiscal years 2017 through 2021”.
 
 ## § 3. Pilot program grants for State substance abuse agencies
 
@@ -28,12 +28,12 @@ Section 508 of the Public Health Service Act (42 U.S.C. 290bb–1) is amended—
     > - **(r)** *Pilot program for State substance abuse agencies*
     >   - **(1)** *In general* From amounts made available under subsection (s), the Director of the Center for Substance Abuse Treatment shall carry out a pilot program under which competitive grants are made by the Director to State substance abuse agencies to—
     >     - **(A)** enhance flexibility in the use of funds designed to support family-based services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
-    >     - **(B)** help State substance abuse agencies address identified gaps in services furnished to such women along the continuum of care, including services provided to women in non-residential based settings; and
+    >     - **(B)** help State substance abuse agencies address identified gaps in services furnished to such women along the continuum of care, including services provided to women in nonresidential based settings; and
     >     - **(C)** promote a coordinated, effective, and efficient State system managed by State substance abuse agencies by encouraging new approaches and models of service delivery.
     >   - **(2)** *Requirements* In carrying out the pilot program under this subsection, the Director shall—
     >     - **(A)** require State substance abuse agencies to submit to the Director applications, in such form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
     >     - **(B)** identify, based on such submitted applications, State substance abuse agencies that are eligible for such grants;
-    >     - **(C)** require services proposed to be furnished through such a grant to support family based treatment and other services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
+    >     - **(C)** require services proposed to be furnished through such a grant to support family-based treatment and other services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
     >     - **(D)** not require that services furnished through such a grant be provided solely to women that reside in facilities;
     >     - **(E)** not require that grant recipients under the program make available through use of the grant all services described in subsection (d); and
     >     - **(F)** consider not applying requirements described in paragraphs (1) and (2) of subsection (f) to applicants, depending on the circumstances of the applicant.
@@ -43,7 +43,11 @@ Section 508 of the Public Health Service Act (42 U.S.C. 290bb–1) is amended—
     >       - **(ii)** may be selected from among the services described in subsection (d) and include other services as appropriate.
     >     - **(B)** *Stakeholder input* The Director shall convene and solicit recommendations from stakeholders, including State substance abuse agencies, health care providers, persons in recovery from substance abuse, and other appropriate individuals, for the minimum set of services described in subparagraph (A).
     >   - **(4)** *Duration* The pilot program under this subsection shall not exceed 5 years.
-    >   - **(5)** *Evaluation and Report to Congress* The Director of the Center for Behavioral Health Statistics and Quality shall fund an evaluation of the pilot program at the conclusion of the first grant cycle funded by the pilot program. The Director of the Center for Behavioral Health Statistics and Quality, in coordination with the Director of the Center for Substance Abuse Treatment shall submit to the relevant Committees of jurisdiction of the House of Representatives and the Senate a report on such evaluation. The report shall include at a minimum outcomes information from the pilot program, including any resulting reductions in the use of alcohol and other drugs; engagement in treatment services; retention in the appropriate level and duration of services; increased access to the use of medications approved by the Food and Drug Administration for the treatment of substance use disorders in combination with counseling; and other appropriate measures.
+    >   - **(5)** *Evaluation and Report to Congress* The Director of the Center for Behavioral Health Statistics and Quality shall fund an evaluation of the pilot program at the conclusion of the first grant cycle funded by the pilot program. The Director of the Center for Behavioral Health Statistics and Quality, in coordination with the Director of the Center for Substance Abuse Treatment shall submit to the relevant committees of jurisdiction of the House of Representatives and the Senate a report on such evaluation. The report shall include at a minimum outcomes information from the pilot program, including any resulting reductions in the use of alcohol and other drugs; engagement in treatment services; retention in the appropriate level and duration of services; increased access to the use of medications approved by the Food and Drug Administration for the treatment of substance use disorders in combination with counseling; and other appropriate measures.
     >   - **(6)** *State substance abuse agencies defined* For purposes of this subsection, the term State substance abuse agency means, with respect to a State, the agency in such State that manages the Substance Abuse Prevention and Treatment Block Grant under part B of title XIX.
 
-- **(b)** *Funding* Subsection (s) of section 508 of the Public Health Service Act (42 U.S.C. 290bb–1), as amended by section 2 and redesignated by subsection (a), is further amended by adding at the end the following new sentence: “Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection.”.
+- **(b)** *Funding* Subsection (s) of section 508 of the Public Health Service Act (42 U.S.C. 290bb–1), as amended by section 2 and redesignated by subsection (a), is further amended by adding at the end the following new sentence: “Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.”.
+
+## § 4. Cut-Go Compliance
+
+Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by striking “through 2018” and inserting “through 2016, $133,300,000 for fiscal year 2017, and $138,300,000 for fiscal year 2018”.
