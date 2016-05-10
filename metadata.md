@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4978
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4978
@@ -16,7 +16,7 @@ Nurturing And Supporting Healthy Babies Act
 
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 
-## Cosponsors (6)
+## Cosponsors (15)
 
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
@@ -24,6 +24,15 @@ Nurturing And Supporting Healthy Babies Act
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 - Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
 
 ## Committees (1)
 
@@ -35,3 +44,12 @@ Nurturing And Supporting Healthy Babies Act
 - 2016-04-18 — Introduced in House
 - 2016-04-18 — Referred to the House Committee on Energy and Commerce.
 - 2016-04-18 — Referred to the Subcommittee on Health.
+- 2016-04-20 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2016-04-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-04-25 — Committee Consideration and Mark-up Session Held.
+- 2016-04-26 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-05-10 — Placed on the Union Calendar, Calendar No. 433.
+- 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-559.
+- 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-559.
