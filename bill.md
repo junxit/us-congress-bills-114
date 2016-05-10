@@ -26,14 +26,17 @@ This Act may be cited as the “Opioid Program Evaluation Act” or the “OPEN 
 
 ## § 3. Evaluation of performance of Department of Health and Human Services program
 
-- **(a)** *Evaluation of Justice Department Comprehensive Opioid Abuse Grant Program* Not later than 5 years after the date of enactment of this Act, the Secretary of Health and Human Services shall complete an evaluation of any program administered by the Secretary that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the information reported under subsection (d) of this section.
+- **(a)** *Evaluation of Department of Health and Human Services programs* Not later than 5 years after the date of enactment of this Act, except as otherwise provided in this section, the Secretary of Health and Human Services shall complete an evaluation of any program administered by the Secretary that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the information reported under subsection (d) of this section.
 - **(b)** *Interim evaluation* Not later than 3 years after the date of enactment of this Act, the Secretary shall complete an interim evaluation assessing the nature and extent of the incidence of opioid abuse and illegal opioid distribution in the United States.
 - **(c)** *Metrics and outcomes for evaluation* Not later than 180 days after the date of enactment of this Act, the Secretary shall identify outcomes that are to be achieved by activities funded by the programs described in subsection (a) and the metrics by which the achievement of such outcomes shall be determined.
 - **(d)** *Metrics data collection* The Secretary shall require grantees under the programs described in subsection (a) to collect and annually report to the Department of Health and Human Services data based upon the metrics identified under subsection (c).
 - **(e)** *Publication of data and findings*
   - **(1)** *Publication of outcomes and metrics* The Secretary shall, not later than 30 days after completion of the requirement under subsection (c), publish the outcomes and metrics identified under that subsection.
   - **(2)** *Publication of evaluation* In the case of the interim evaluation under subsection (b), and each final evaluation under subsection (a), the National Academy of Sciences shall, not later than 90 days after such an evaluation is completed, publish the results of such evaluation and issue a report on such evaluation to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also be published along with the data used to make such evaluation.
-- **(f)** *Arrangement with the National Academy of Sciences* For purposes of subsections (a), (b), and (c), the Secretary shall enter into an arrangement with the National Academy of Sciences.
+- **(f)** *Arrangement with the National Academy of Sciences* For purposes of subsections (a), (b), and (c), the Secretary shall—
+  - **(1)** enter into an arrangement with the National Academy of Sciences; or
+  - **(2)** enter into a contract or cooperative agreement with an entity that is not an agency of the Federal Government.
+- **(g)** *Exception* If a program described under subsection (a) is subject to an evaluation substantially similar to the evaluation under subsection (a) pursuant to another provision of law, the Secretary may opt not to conduct an evaluation under subsection (a) of such program.
 
 ## § 4. Definition
 
@@ -42,3 +45,11 @@ In this Act, the term “opioid” has the meaning given the term “opiate” i
 ## § 5. No additional funds authorized
 
 No additional funds are authorized to be appropriated to carry out this Act.
+
+## § 6. Matters regarding certain Federal law enforcement assistance
+
+Section 609Y of the Justice Assistance Act of 1984 (42 U.S.C. 10513) is amended—
+
+- **(1)** in subsection (a), by striking “There is” and inserting “Except as provided in subsection (c), there is”; and
+- **(2)** by adding at the end the following:
+  > - **(c)** For fiscal year 2022, there is authorized to be appropriated $16,000,000, to provide under this chapter Federal law enforcement assistance in the form of funds.
