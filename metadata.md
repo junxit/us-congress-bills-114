@@ -1,7 +1,7 @@
 ---
 measure: S. 125
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 125
@@ -80,3 +80,9 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 420.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-544.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-544.
+- 2016-05-13 — Presented to President.
+- 2016-05-13 — Presented to President.
+- 2016-05-16 — Became Public Law No: 114-155.
+- 2016-05-16 — Became Public Law No: 114-155.
+- 2016-05-16 — Signed by President.
+- 2016-05-16 — Signed by President.
