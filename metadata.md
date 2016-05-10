@@ -1,7 +1,7 @@
 ---
 measure: S. 125
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 125
@@ -67,3 +67,16 @@ Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
 - 2015-05-07 — Message on Senate action sent to the House.
 - 2015-05-08 — Received in the House.
 - 2015-05-08 — Referred to the House Committee on the Judiciary.
+- 2015-05-15 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-04-08 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2016-04-20 — Committee Consideration and Mark-up Session Held.
+- 2016-04-20 — Ordered to be Reported by Voice Vote.
+- 2016-05-10 — Considered under suspension of the rules. (consideration: CR H2184-2186)
+- 2016-05-10 — DEBATE - The House proceeded with forty minutes of debate on S. 125.
+- 2016-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-10 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2016-05-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text:  CR H2184-2185)
+- 2016-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text:  CR H2184-2185)
+- 2016-05-10 — Placed on the Union Calendar, Calendar No. 420.
+- 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-544.
+- 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-544.
