@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4336
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4336
@@ -247,3 +247,18 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 135).(text: CR H1528)
 - 2016-03-22 — The title of the measure was amended. Agreed to without objection.
 - 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-05-10 — Amendment SA 3894 agreed to in Senate by Unanimous Consent.
+- 2016-05-10 — Amendment SA 3894 proposed by Senator McConnell for Senator Ernst. (consideration: CR S2674; text: CR S2674) To improve the bill.
+- 2016-05-10 — Amendment SA 3895 agreed to in Senate by Unanimous Consent.
+- 2016-05-10 — Amendment SA 3895 proposed by Senator McConnell for Senator Ernst. (consideration: CR S2654; text: CR S2654) To amend the title.
+- 2016-05-10 — Measure laid before Senate by unanimous consent.
+- 2016-05-10 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent. (text: CR S2673)
+- 2016-05-10 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.(text: CR S2673)
+- 2016-05-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2673-2674)
+- 2016-05-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2673-2674)
+- 2016-05-10 — Senate amendment agreed to: Amendment SA 3894 agreed to in Senate by Unanimous Consent.
+- 2016-05-10 — Senate amendment agreed to: Amendment SA 3895 agreed to in Senate by Unanimous Consent.
+- 2016-05-10 — Senate amendment proposed (on the floor): Amendment SA 3894 proposed by Senator McConnell for Senator Ernst.(consideration: CR S2674; text: CR S2674)
+- 2016-05-10 — Senate amendment proposed (on the floor): Amendment SA 3895 proposed by Senator McConnell for Senator Ernst.(consideration: CR S2654; text: CR S2654)
+- 2016-05-10 — Senate amendment submitted
+- 2016-05-10 — Senate amendment submitted
