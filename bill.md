@@ -63,3 +63,20 @@ The Secretary of Veterans Affairs may carry out the following major medical faci
 - **(16)** For an outpatient clinic, Portland, Maine, an amount not to exceed $6,846,000.
 - **(17)** For an outpatient clinic, Raleigh, North Carolina, an amount not to exceed $21,607,000.
 - **(18)** For an outpatient clinic, Santa Rosa, California, an amount not to exceed $6,498,000.
+
+## § 5. Monthly reports on status of major medical facility projects
+
+- **(a)** *Reports required* For each month that begins after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the status of each major medical facility project authorized under section 2. Each such report shall include, for each project covered by the report, information about the status of the design and procurement planning, contract modification management, and cost escalation of the project.
+- **(b)** *Termination* The requirement to submit monthly reports under this section shall terminate on the date on which the Administrative Investigative Board of the Department of Veterans Affairs submits to Congress the report of the Administrative Investigative Board on the major medical facility project carried out at the Department medical center in Aurora, Colorado.
+
+## § 6. Authorization of sale of Pershing Hall
+
+Section 403 of the Veterans’ Benefits Programs Improvement Act of 1991 (Public Law 102–86; 38 U.S.C. 2400 note) is amended by adding at the end the following new subsection:
+
+> - **(f)** *Authorization of sale*
+>   - **(1)** The Secretary may sell for fair market value Pershing Hall and transfer and convey to the purchaser all right, title, and interest of the United States in or to such property. The Secretary shall determine fair market value based on an independent assessment conducted by another department or agency of the Federal Government or a nongovernmental entity. The Secretary may only accept money as consideration for such sale.
+>   - **(2)** If the Secretary sells Pershing Hall pursuant to paragraph (1), the Secretary shall return to the entity from which the United States acquired Pershing Hall pursuant to the Act of June 28, 1935, (Chapter 323; 49 Stat. 426) any personal property (including memorabilia regarding General Pershing and the American Expeditionary Forces in France during World War I) in the possession of the Department of Veterans Affairs as of the date of the enactment of this subsection that was located in Pershing Hall (or otherwise associated with Pershing Hall) on the date of such acquisition.
+>   - **(3)** The funds received by the Secretary pursuant to the sale of Pershing Hall under paragraph (1) shall be deposited in the “Construction, Major Projects” account of the Department and be made available, without fiscal year limitation, for the purposes of such account.
+>   - **(4)**
+>     - **(A)** Effective on the day after the date of the sale of Pershing Hall authorized under paragraph (1), the authority of the Secretary to carry out subsections (a), (b), (c), and (e) shall terminate except for purposes of carrying out paragraph (2) of this subsection.
+>     - **(B)** Effective on the date that is one year after the date of the sale of Pershing Hall authorized under paragraph (1), the Pershing Hall Revolving Fund shall be abolished and the corpus of the fund, including accrued interest, shall be deposited in the “Construction, Major Projects” account of the Department and be made available, without fiscal year limitation, for the purposes of such account.
