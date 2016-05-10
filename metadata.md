@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4976
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4976
@@ -30,3 +30,12 @@ Opioid Review Modernization Act of 2016
 - 2016-04-18 — Introduced in House
 - 2016-04-18 — Referred to the House Committee on Energy and Commerce.
 - 2016-04-18 — Referred to the Subcommittee on Health.
+- 2016-04-20 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2016-04-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-04-25 — Committee Consideration and Mark-up Session Held.
+- 2016-04-26 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Committee Consideration and Mark-up Session Held.
+- 2016-04-27 — Ordered to be Reported by Voice Vote.
+- 2016-05-10 — Placed on the Union Calendar, Calendar No. 431.
+- 2016-05-10 — Reported by the Committee on Energy and Commerce. H. Rept. 114-557.
+- 2016-05-10 — Reported by the Committee on Energy and Commerce. H. Rept. 114-557.
