@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 546
@@ -26,9 +26,10 @@ RESPONSE Act of 2016
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ RESPONSE Act of 2016
 - 2016-05-09 — Senate amendment agreed to: Amendment SA 3889 agreed to in Senate by Unanimous Consent.
 - 2016-05-09 — Senate amendment proposed (on the floor): Amendment SA 3889 proposed by Senator Enzi for Senator Heitkamp.(consideration: CR S2649)
 - 2016-05-09 — Senate amendment submitted
+- 2016-05-10 — Message on Senate action sent to the House.
+- 2016-05-10 — Received in the House.
+- 2016-05-10 — Referred to the House Committee on Transportation and Infrastructure.
