@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2009
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2009
@@ -16,6 +16,17 @@ Pascua Yaqui Tribe Land Conveyance Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
+## Cosponsors (8)
+
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +36,14 @@ Pascua Yaqui Tribe Land Conveyance Act
 - 2015-04-23 — Introduced in House
 - 2015-04-23 — Introduced in House
 - 2015-04-23 — Referred to the House Committee on Natural Resources.
+- 2015-05-11 — Re-referred to the Subcommittee on Federal Lands.
+- 2015-05-11 — Re-referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2015-11-04 — Subcommittee Hearings Held.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-15 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-05-10 — Placed on the Union Calendar, Calendar No. 425.
+- 2016-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-550.
+- 2016-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-550.
