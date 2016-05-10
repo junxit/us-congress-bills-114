@@ -22,23 +22,24 @@ The Congress finds that opioid use disorder has become a public health epidemic 
 - **(a)** *In general* Section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) is amended—
   - **(1)** in subparagraph (B), by striking clauses (i), (ii), and (iii) and inserting the following:
     > - **(i)** The practitioner is a qualifying practitioner (as defined in subparagraph (G)).
-    > - **(ii)** With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to provide directly, by referral, or by providing the contact information for the nearest applicable practitioner—
+    > - **(ii)** With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to provide directly, by referral, or in such other manner as determined by the Secretary—
     >   - **(I)** all schedule III, IV, and V drugs, as well as unscheduled medications approved by the Food and Drug Administration, for the treatment of opioid use disorder, including such drugs and medications for maintenance, detoxification, overdose reversal, and relapse prevention, as available; and
     >   - **(II)** appropriate counseling and other appropriate ancillary services.
     > - **(iii)**
     >   - **(I)** The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclauses (II) and (III), the applicable number is 30.
     >   - **(II)** The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.
-    >   - **(III)** The applicable number is 250 if the practitioner is a qualifying physician meeting the requirement of subclause (VI) and, not sooner than 1 year after the date on which the practitioner submitted a second notification under subclause (II), the practitioner submits a third notification to the Secretary of the need and intent of the practitioner to treat up to 250 patients.
+    >   - **(III)** The applicable number is 250 if the practitioner is a qualifying physician meeting the requirement of subclause (VI) and, not sooner than 1 year after the date on which the physician submitted a second notification under subclause (II), the practitioner submits a third notification to the Secretary of the need and intent of the physician to treat up to 250 patients.
     >   - **(IV)** The Secretary may by regulation change such total number.
     >   - **(V)** The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
-    >   - **(VI)** For purposes of subclause (III), a qualifying physician meets the requirement of this subclause if the practitioner or physician—
+    >   - **(VI)** For purposes of subclause (III), a qualifying physician meets the requirement of this subclause if the physician—
     >     - **(aa)** holds a special certification in addiction psychiatry or addiction medicine as described in clause (ii) from the American Board of Medical Specialties, the American Board of Addiction Medicine, the American Osteopathic Association, the American Society of Addiction Medicine, or such other organization as the Secretary determines to be appropriate for purposes of this subclause; or
-    >     - **(bb)** completes at least 24 hours of training, with respect to the treatment and management of opiate-dependent patients, addressing the topics listed in subparagraph (G)(ii)(IV).
-    > - **(iv)** In the case of a third notification under clause (iii)(III), the practitioner maintains and implements a diversion control plan that contains specific measures to reduce the likelihood of the diversion of controlled substances prescribed by the practitioner for the treatment of opioid use disorder.
-    > - **(v)** In the case of a third notification under clause (iii)(III), the practitioner obtains a written agreement from each patient, including the patient’s signature, that the patient—
+    >     - **(bb)** has completed not fewer than 24 hours of training, with respect to the treatment and management of opiate-dependent patients, addressing the topics listed in subparagraph (G)(ii)(IV).
+    > - **(iv)** In the case of a third notification under clause (iii)(III), the qualifying physician maintains and implements a diversion control plan that contains specific measures to reduce the likelihood of the diversion of controlled substances prescribed by the physician for the treatment of opioid use disorder.
+    > - **(v)** In the case of a third notification under clause (iii)(III), the qualifying physician obtains a written agreement from each patient, including the patient’s signature, that the patient—
     >   - **(I)** will receive an initial assessment and treatment plan and periodic assessments and treatment plans thereafter;
-    >   - **(II)** will be subject to medication adherence and substance use monitoring; and
-    >   - **(III)** understands available treatment options, including all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder, including their potential risks and benefits.
+    >   - **(II)** will be subject to medication adherence and substance use monitoring;
+    >   - **(III)** understands available treatment options, including all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder, including their potential risks and benefits; and
+    >   - **(IV)** understands that receiving regular counseling services is critical to recovery.
     > - **(vi)** The practitioner will comply with the reporting requirements of subparagraph (D)(i)(IV).
 
   - **(2)** in subparagraph (D)—
@@ -68,29 +69,29 @@ The Congress finds that opioid use disorder has become a public health epidemic 
       > - **(iv)** The term qualifying other practitioner means a nurse practitioner or physician assistant who satisfies each of the following:
       >   - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
       >   - **(II)** The nurse practitioner or physician assistant satisfies 1 or more of the following:
-      >     - **(aa)** Has completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminar at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause.
+      >     - **(aa)** Has completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Assistants, or any other organization that the Secretary determines is appropriate for purposes of this subclause.
       >     - **(bb)** Has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner or physician assistant to treat and manage opiate-dependent patients.
-      >   - **(III)** If required by State law, the nurse practitioner or physician assistant prescribes medications for the treatment of opioid use disorder in collaboration with or under supervision of a physician.
+      >   - **(III)** The nurse practitioner or physician assistant is supervised by or works in collaboration with a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
 
   - **(4)** in subparagraph (H)—
-    - **(A)** in clause (i), by adding at the end the following:
+    - **(A)** in clause (i), by inserting after subclause (II) the following:
       > - **(III)** Such other elements of the requirements under this paragraph as the Secretary determines necessary for purposes of implementing such requirements.
 
     - **(B)** by amending clause (ii) to read as follows:
       > - **(ii)** Not later than one year after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
 
 - **(b)** *Recommendation of revocation or suspension of registration in case of substantial noncompliance* The Secretary of Health and Human Services may recommend to the Attorney General that the registration of a practitioner be revoked or suspended if the Secretary determines, according to such criteria as the Secretary establishes by regulation, that a practitioner who is registered under section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) is not in substantial compliance with the requirements of such section, as amended by this Act.
-- **(c)** *Opioid defined* Section 102(18) of the Controlled Substances Act (42 U.S.C. 802(18)) is amended by inserting “or “opioid”” after “The term opiate”.
+- **(c)** *Opioid defined* Section 102(18) of the Controlled Substances Act (21 U.S.C. 802(18)) is amended by inserting “or “opioid”” after “The term opiate”.
 - **(d)** *Reports to Congress*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act and not less than over every 5 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—
-    - **(A)** perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and non-specialty settings; and
+    - **(A)** perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and
     - **(B)** submit a report to the Congress on the findings and conclusions of such review.
   - **(2)** *Contents* Each report under paragraph (1) shall include an assessment of—
     - **(A)** compliance with the requirements of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)), as amended by this Act;
     - **(B)** the measures taken by the Secretary of Health and Human Services to ensure such compliance;
     - **(C)** whether there is further need to increase or decrease the number of patients a waivered practitioner is permitted to treat, as provided for by the amendment made by subsection (a)(1);
     - **(D)** the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings;
-    - **(E)** access to, and use of, other behavioral health and recovery supports;
+    - **(E)** access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services;
     - **(F)** changes in State or local policies and legislation relating to opioid use disorder treatment;
     - **(G)** the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2));
     - **(H)** the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in subparagraph (G); and
