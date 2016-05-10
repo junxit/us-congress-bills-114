@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 254b
+
+> Effective as if included in the enactment of the Children’s Health Act of 2000 (Public Law 106–310), section 3405(a) of such Act (114 Stat. 1221) is amended by striking “Part E of title III” and inserting “Part E of title III of the Public Health Service Act”.
+
+| | |
+|---|---|
+| Removed | `Part E of title III` |
+| Inserted | `Part E of title III of the Public Health Service Act` |
 
 ## Stated, not applied
 
@@ -31,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Part J of title III of the Public Health Service Act (42 U.S.C. 280b–1f et seq.) is amended by adding after section 393D (42 U.S.C. 280b–1f et seq.) the following new section: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 254b` | insert | Title III of the Public Health Service Act is amended by inserting after part D of such title (42 U.S.C. 254b et seq.) the following new part E: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
