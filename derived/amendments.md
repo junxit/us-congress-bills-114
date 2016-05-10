@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 470a` | replace | Section 507(d)(2) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 470a note) is amended by striking the period at the end and inserting “and each of fiscal years 2016 through 2025”. | the bill quotes the text inserted but describes where it goes |
+| `54 U.S.C. § 302101` | replace | Section 507(d)(2) of the Omnibus Parks and Public Lands Management Act of 1996 (54 U.S.C. 302101 note) is amended by striking the period at the end and inserting “and each of fiscal years 2017 through 2023.”. | the bill quotes the text inserted but describes where it goes |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 295
@@ -16,7 +16,7 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (43)
+## Cosponsors (47)
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -61,6 +61,10 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
 
 ## Committees (1)
 
@@ -71,3 +75,12 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Introduced in House
 - 2015-01-13 — Referred to the House Committee on Natural Resources.
+- 2015-03-02 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-11 — Subcommittee Hearings Held.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-05-10 — Placed on the Union Calendar, Calendar No. 424.
+- 2016-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-549.
+- 2016-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-549.
