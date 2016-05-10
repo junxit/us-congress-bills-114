@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3680
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,47 +11,53 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Co-Prescribing to Reduce Overdoses Act of 2015”.
+This Act may be cited as the “Co-Prescribing to Reduce Overdoses Act of 2016”.
 
-## § 2. Co-prescribing opioid overdose reversal drugs grant program
+## § 2. Opioid overdose reversal drugs prescribing grant program
 
 - **(a)** *Establishment*
-  - **(1)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Health and Human Services shall establish, in accordance with this section, a four-year co-prescribing opioid overdose reversal drugs grant program (in this Act referred to as the “grant program”) under which the Secretary shall provide not more than a total of 12 grants to eligible entities to carry out the activities described in subsection (c).
+  - **(1)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Health and Human Services may establish, in accordance with this section, a five-year opioid overdose reversal drugs prescribing grant program (in this Act referred to as the “grant program”).
   - **(2)** *Maximum grant amount* A grant made under this section may not be for more than $200,000 per grant year.
-  - **(3)** *Eligible entity* For purposes of this section, the term eligible entity means a federally qualified health center (as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, or section 303(g) of the Controlled Substances Act (21 U.S.C. 823(g)), or any other entity that the Secretary deems appropriate.
-  - **(4)** *Co-prescribing* For purposes of this section and section 3, the term co-prescribing means, with respect to an opioid overdose reversal drug, the practice of prescribing such drug in conjunction with an opioid prescription for patients at an elevated risk of overdose, or in conjunction with an opioid agonist approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) for the treatment of opioid abuse disorders, or in other circumstances in which a provider identifies a patient at an elevated risk for an intentional or unintentional drug overdose from heroin or prescription opioid therapies. For purposes of the previous sentence, a patient may be at an elevated risk of overdose if the patient meets the criteria under the existing co-prescribing guidelines that the Secretary deems appropriate, such as the criteria provided in the Opioid Overdose Toolkit published by the Substance Abuse and Mental Health Services Administration.
+  - **(3)** *Eligible entity* For purposes of this section, the term eligible entity means a federally qualified health center (as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, any practitioner dispensing narcotic drugs pursuant to section 303(g) of the Controlled Substances Act (21 U.S.C. 823(g)), or any other entity that the Secretary deems appropriate.
+  - **(4)** *Prescribing* For purposes of this section and section 3, the term “prescribing” means, with respect to an opioid overdose reversal drug, such as naloxone, the practice of prescribing such drug—
+    - **(A)** in conjunction with an opioid prescription for patients at an elevated risk of overdose;
+    - **(B)** in conjunction with an opioid agonist approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) for the treatment of opioid abuse disorder;
+    - **(C)** to the caregiver or a close relative of patients at an elevated risk of overdose from opioids; or
+    - **(D)** in other circumstances, as identified by the Secretary, in which a provider identifies a patient is at an elevated risk for an intentional or unintentional drug overdose from heroin or prescription opioid therapies.
 - **(b)** *Application* To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary of Health and Human Services, in such form and manner as specified by the Secretary, an application that describes—
   - **(1)** the extent to which the area to which the entity will furnish services through use of the grant is experiencing significant morbidity and mortality caused by opioid abuse;
   - **(2)** the criteria that will be used to identify eligible patients to participate in such program; and
   - **(3)** how such program will work to try to identify State, local, or private funding to continue the program after expiration of the grant.
-- **(c)** *Use of funds* An eligible entity receiving a grant under this section may use the grant for any of the following activities:
-  - **(1)** To establish a program for co-prescribing opioid overdose reversal drugs, such as naloxone.
-  - **(2)** To train and provide resources for health care providers and pharmacists on the co-prescribing of opioid overdose reversal drugs.
+- **(c)** *Use of funds* An eligible entity receiving a grant under this section may use the grant for any of the following activities, but may use not more than 20 percent of the grant funds for activities described in paragraphs (4) and (5):
+  - **(1)** To establish a program for prescribing opioid overdose reversal drugs, such as naloxone.
+  - **(2)** To train and provide resources for health care providers and pharmacists on the prescribing of opioid overdose reversal drugs, such as naloxone.
   - **(3)** To establish mechanisms and processes for tracking patients participating in the program described in paragraph (1) and the health outcomes of such patients.
-  - **(4)** To purchase opioid overdose reversal drugs for distribution under the program described in paragraph (1).
-  - **(5)** To offset the co-pays and other cost sharing associated with opioid overdose reversal drugs to ensure that cost is not a limiting factor for eligible patients.
-  - **(6)** To conduct community outreach, in conjunction with community-based organizations, designed to raise awareness of co-prescribing practices, and the availability of opioid overdose reversal drugs.
+  - **(4)** To purchase opioid overdose reversal drugs, such as naloxone, for distribution under the program described in paragraph (1).
+  - **(5)** To offset the co-pays and other cost sharing associated with opioid overdose reversal drugs, such as naloxone, to ensure that cost is not a limiting factor for eligible patients.
+  - **(6)** To conduct community outreach, in conjunction with community-based organizations, designed to raise awareness of prescribing practices, and the availability of opioid overdose reversal drugs, such as naloxone.
   - **(7)** To establish protocols to connect patients who have experienced a drug overdose with appropriate treatment, including medication assisted treatment and appropriate counseling and behavioral therapies.
 - **(d)** *Evaluations by recipients* As a condition of receipt of a grant under this section, an eligible entity shall, for each year for which the grant is received, submit to the Secretary of Health and Human Services information on appropriate outcome measures specified by the Secretary to assess the outcomes of the program funded by the grant, including—
   - **(1)** the number of prescribers trained;
-  - **(2)** the number of prescribers who have co-prescribed an opioid overdose reversal drugs to at least one patient;
-  - **(3)** the total number of prescriptions written for opioid overdose reversal drugs;
-  - **(4)** the percentage of patients at elevated risk who received a prescription for an opioid overdose reversal drug;
-  - **(5)** the number of patients reporting use of an opioid overdose reversal drug; and
+  - **(2)** the number of prescribers who have co-prescribed an opioid overdose reversal drug, such as naloxone, to at least one patient;
+  - **(3)** the total number of prescriptions written for opioid overdose reversal drugs, such as naloxone;
+  - **(4)** the percentage of patients at elevated risk who received a prescription for an opioid overdose reversal drug, such as naloxone;
+  - **(5)** the number of patients reporting use of an opioid overdose reversal drug, such as naloxone; and
   - **(6)** any other outcome measures that the Secretary deems appropriate.
-- **(e)** *Reports by Secretary* For each year of the grant program under this section, the Secretary of Health and Human Services shall submit to the appropriate Committees of the House of Representatives and of the Senate a report aggregating the information received from the grant recipients for such year under subsection (d) and evaluating the outcomes achieved by the programs funded by grants made under this section.
+- **(e)** *Reports by Secretary* For each year of the grant program under this section, the Secretary of Health and Human Services shall submit to the appropriate committees of the House of Representatives and of the Senate a report aggregating the information received from the grant recipients for such year under subsection (d) and evaluating the outcomes achieved by the programs funded by grants made under this section.
 
-## § 3. Opioid overdose reversal co-prescribing guidelines
+## § 3. Providing information to prescribers in certain Federal health care and medical facilities on best practices for prescribing opioid overdose reversal drugs
 
-- **(a)** *In general* The Secretary of Health and Human Services shall establish a grant program under which the Secretary shall award grants to eligible State entities to develop opioid overdose reversal co-prescribing guidelines.
-- **(b)** *Eligible State entities* For purposes of subsection (a), eligible State entities are State departments of health in conjunction with State medical boards; city, county, and local health departments; and community stakeholder groups involved in reducing opioid overdose deaths.
-- **(c)** *Administrative provisions*
-  - **(1)** *Grant amounts* A grant made under this section may not be for more than $200,000 per grant.
-  - **(2)** *Prioritization* In awarding grants under this section, the Secretary shall give priority to eligible State entities which propose to base their guidelines on existing guidelines on co-prescribing to speed enactment, including guidelines of—
-    - **(A)** the Department of Veterans Affairs;
-    - **(B)** nationwide medical societies, such as the American Society of Addiction Medicine or American Medical Association; and
-    - **(C)** the Centers for Disease Control and Prevention.
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) may, as appropriate, provide information to prescribers within Federally qualified health centers (as defined in paragraph (4) of section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa))), and the health care facilities of the Indian Health Service, on best practices for prescribing opioid overdose reversal drugs, such as naloxone, for patients receiving chronic opioid therapy, patients being treated for opioid use disorders, and other patients that a provider identifies as having an elevated risk of overdose from heroin or prescription opioid therapies.
+- **(b)** *Not establishing a medical standard of care* The information on best practices provided under this section shall not be construed as constituting or establishing a medical standard of care for prescribing opioid overdose reversal drugs, such as naloxone, for patients described in subsection (a).
+- **(c)** *No authorization of any additional appropriations* The Secretary shall carry out this section through funds otherwise appropriated and nothing in this section shall be construed as authorizing the appropriations of additional funds to carry out this section.
+- **(d)** *Elevated risk of overdose defined* In this section, the term elevated risk of overdose has the meaning given such term by the Secretary, which—
+  - **(1)** may be based on the criteria provided in the Opioid Overdose Toolkit published by the Substance Abuse and Mental Health Services Administration (SAMHSA); and
+  - **(2)** may include patients on a first course opioid treatment, patients using extended-release and long-acting opioid analgesics, and patients with a respiratory disease or other co-morbidities.
 
 ## § 4. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this Act $4,000,000 for each of fiscal years 2016 through 2020.
+There is authorized to be appropriated to carry out this Act $5,000,000 for the period of fiscal years 2017 through 2021.
+
+## § 5. Cut-Go Compliance
+
+Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by inserting before the period at the end the following: “(except such dollar amount shall be reduced by $5,000,000 for fiscal year 2018)”.
