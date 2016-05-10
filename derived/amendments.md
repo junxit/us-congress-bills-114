@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4843
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 5104` | redesignate | by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5104` | insert | by inserting after paragraph (4), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106a` | insert | Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(iii)) is amended by inserting before the period at the end the following: “to ensure the safety and well-being of such infant following r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106a` | insert | Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(iii)) is amended by inserting before the semicolon at the end the following: “to ensure the safety and well-being of such infant followin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | add-at-end | Section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by adding at the end of the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | redesignate | Effective on May 29, 2017, section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by redesignating paragraph (17) (as added by subsection (a)) as paragraph (18). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5101` | add-at-end | Title I of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

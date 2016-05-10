@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Safe Care for the Prevention of Infant Abuse and Neglect Act”.
+This Act may be cited as the “Infant Plan of Safe Care Improvement Act”.
 
 ## § 2. Best practices for development of plans of safe care
 
@@ -19,19 +19,22 @@ Section 103(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(b
 
 - **(1)** by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; and
 - **(2)** by inserting after paragraph (4), the following:
-  > - **(5)** maintain and disseminate information about the best practices relating to the development of plans of safe care as described in section 106(b)(2)(B)(iii) for infants born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+  > - **(5)** maintain and disseminate information about the requirements of section 106(b)(2)(B)(iii) and best practices relating to the development of plans of safe care as described in such section for infants born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
 
 ## § 3. State plans
 
-Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(iii)) is amended by inserting before the period at the end the following: “to ensure the safety and well-being of such infant following release from the care of healthcare providers, including through addressing the health of the affected family or caregiver”.
+Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(iii)) is amended by inserting before the semicolon at the end the following: “to ensure the safety and well-being of such infant following release from the care of healthcare providers, including through—”
+
+> - **(I)** addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
+> - **(II)** the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver
 
 ## § 4. Data reports
 
 - **(a)** *In general* Section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by adding at the end of the following:
-  > - **(17)** The total number of infants—
-  >   - **(A)** identified under subsection (b)(2)(B)(ii);
-  >   - **(B)** for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
-  >   - **(C)** for whom referrals are made for appropriate services, including services for the affected family or caregiver, as may be necessary under subsection (b)(2)(B)(iii).
+  > - **(17)**
+  >   - **(A)** The number of infants identified under subsection (b)(2)(B)(ii).
+  >   - **(B)** The number of infants for whom a plan of safe care was developed under subsection (b)(2)(B)(iii).
+  >   - **(C)** The number of infants for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
 
 - **(b)** *Redesignation* Effective on May 29, 2017, section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended by redesignating paragraph (17) (as added by subsection (a)) as paragraph (18).
 
@@ -47,12 +50,12 @@ Section 106(b)(2)(B)(iii) of the Child Abuse Prevention and Treatment Act (42 U.
   >   - **(B)** include monitoring of State policies and procedures required under clauses (ii) and (iii) of section 106(b)(2)(B); and
   > - **(2)** may include—
   >   - **(A)** a comparison of activities carried out by the State to comply with the requirements of section 106(b) with the State plan most recently approved under section 432 of the Social Security Act;
-  >   - **(B)** information available on the Website of the State relating to its compliance with the requirements of section 106(b);
+  >   - **(B)** a review of information available on the Website of the State relating to its compliance with the requirements of section 106(b);
   >   - **(C)** site visits, as may be necessary to carry out such monitoring; and
-  >   - **(D)** information available in the State’s Annual Progress and Services Report most recently submitted under section 1357.16 of title 45, Code of Federal Regulations (or successor regulations).
+  >   - **(D)** a review of information available in the State’s Annual Progress and Services Report most recently submitted under section 1357.16 of title 45, Code of Federal Regulations (or successor regulations).
 
 - **(b)** *Table of contents* The table of contents in section 1(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note) is amended by inserting after the item relating to section 113, the following:
 
 ## § 6. Rule of construction
 
-Nothing in this Act shall be construed to authorize the Secretary of Health and Human Services or any other officer of the Federal Government to add new requirements to section 106(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)), as amended by this Act.
+Nothing in this Act, or the amendments made by this Act, shall be construed to authorize the Secretary of Health and Human Services or any other officer of the Federal Government to add new requirements to section 106(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)), as amended by this Act.
