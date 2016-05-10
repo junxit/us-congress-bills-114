@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4336
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4336
@@ -262,3 +262,15 @@ An act to amend title 38, United States Code, to provide for the inurnment in Ar
 - 2016-05-10 — Senate amendment proposed (on the floor): Amendment SA 3895 proposed by Senator McConnell for Senator Ernst.(consideration: CR S2654; text: CR S2654)
 - 2016-05-10 — Senate amendment submitted
 - 2016-05-10 — Senate amendment submitted
+- 2016-05-11 — Message on Senate action sent to the House.
+- 2016-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-11 — Mr. Abraham asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H2254)
+- 2016-05-11 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendment: CR H2254)
+- 2016-05-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendment: CR H2254)
+- 2016-05-11 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-13 — Presented to President.
+- 2016-05-13 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-158.
+- 2016-05-20 — Became Public Law No: 114-158.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
