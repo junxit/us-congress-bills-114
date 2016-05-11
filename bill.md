@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4978
 
-> To require the Government Accountability Office to submit to Congress a report on neonatal abstinence syndrome (NAS) in the United States and its treatment under Medicaid.
+> To require the Government Accountability Office to submit to Congress a report on neonatal abstinence syndrome (NAS) in the United States and its treatment under Medicaid, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,12 +15,13 @@ This Act may be cited as the “Nurturing And Supporting Healthy Babies Act” o
 
 ## § 2. GAO report on neonatal abstinence syndrome (NAS)
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor and Pensions of the Senate a report on neonatal abstinence syndrome (in this section referred to as “NAS”) in the United States.
-- **(b)** *Information to be included in report* Such report shall include information on the following:
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor and Pensions of the Senate a report on neonatal abstinence syndrome (in this section referred to as “NAS”) in the United States.
+- **(b)** *Information To be included in report* Such report shall include information on the following:
   - **(1)** The prevalence of NAS in the United States, including the proportion of children born in the United States with NAS who are eligible for medical assistance under State Medicaid programs under title XIX of the Social Security Act at birth and the costs associated with NAS through such programs.
   - **(2)** The services for which coverage is available under State Medicaid programs for treatment of infants with NAS.
   - **(3)** The settings (including inpatient, outpatient, hospital-based, and other settings) for the treatment of infants with NAS and the reimbursement methodologies and costs associated with such treatment in such settings.
   - **(4)** The prevalence of utilization of various care settings under State Medicaid programs for treatment of infants with NAS and any Federal barriers to treating such infants under such programs, particularly in non-hospital-based settings.
+  - **(5)** What is known about best practices for treating infants with NAS.
 - **(c)** *Recommendations* Such report also shall include such recommendations as the Comptroller General determines appropriate for improvements that will ensure access to treatment for infants with NAS under State Medicaid programs.
 
 ## § 3. Excluding abuse-deterrent formulations of prescription drugs from the Medicaid additional rebate requirement for new formulations of prescription drugs
@@ -37,7 +38,7 @@ This Act may be cited as the “Nurturing And Supporting Healthy Babies Act” o
   > - **(b)** *Limiting disclosure of predictive modeling technologies* In implementing such provisions under such section 4241 with respect to covered algorithms (as defined in subsection (c)), the following shall apply:
   >   - **(1)** *Nonapplication of FOIA* The covered algorithms used or developed for purposes of such section (including by the Secretary or a State (or an entity operating under a contract with a State)) shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code.
   >   - **(2)** *Limitation with respect to use and disclosure of information by State agencies*
-  >     - **(A)** *In general* A State agency may not use or disclose covered algorithms used or developed for purposes of such section except for purposes of administering the State plan (or a waiver of the plan) under the Medicaid program under title XIX or the State child health plan (or a waiver of the plan) under the Children’s Health Insurance Program under title XXI, including by enabling an entity operating under a contract with a State to assist the State to identify or prevent waste, fraud and abuse with respect to such programs.
+  >     - **(A)** *In general* A State agency may not use or disclose covered algorithms used or developed for purposes of such section except for purposes of administering the State plan (or a waiver of the plan) under the Medicaid program under title XIX or the State child health plan (or a waiver of the plan) under the Children’s Health Insurance Program under title XXI, including by enabling an entity operating under a contract with a State to assist the State to identify or prevent waste, fraud, and abuse with respect to such programs.
   >     - **(B)** *Information security* A State agency shall have in effect data security and control policies that the Secretary finds adequate to ensure the security of covered algorithms used or developed for purposes of such section 4241 and to ensure that access to such information is restricted to authorized persons for purposes of authorized uses and disclosures described in subparagraph (A).
   >     - **(C)** *Procedural requirements* State agencies to which information is disclosed pursuant to such section 4241 shall adhere to uniform procedures established by the Secretary.
   > - **(c)** *Covered algorithm defined* In this section, the term “covered algorithm”—
