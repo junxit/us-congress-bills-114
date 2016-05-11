@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3209
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3209
@@ -49,9 +49,10 @@ Recovering Missing Children Act
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Recovering Missing Children Act
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 418.
 - 2016-05-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-542.
 - 2016-05-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-542.
+- 2016-05-11 — Received in the Senate and Read twice and referred to the Committee on Finance.

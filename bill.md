@@ -2,7 +2,7 @@
 legis-num: H.R. 3209
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3209
@@ -16,8 +16,8 @@ This Act may be cited as the “Recovering Missing Children Act”.
 ## § 2. Disclosure of certain return information relating to missing or exploited children investigations
 
 - **(a)** *In general* Section 6103(i)(1) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by inserting “or pertaining to the case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(i),
-  - **(2)** by inserting “or to such a case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(iii), and
+  - **(1)** by inserting “or pertaining to the case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(i);
+  - **(2)** by inserting “or to such a case of a missing or exploited child,” after “may be a party,” in subparagraph (A)(iii); and
   - **(3)** by inserting “(or any criminal investigation or proceeding, in the case of a matter relating to a missing or exploited child)” after “concerning such act” in subparagraph (B)(iii).
 - **(b)** *Disclosure to State and local law enforcement agencies*
   - **(1)** *In general* Section 6103(i)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
