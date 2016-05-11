@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4969
@@ -52,3 +52,9 @@ John Thomas Decker Act of 2016
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 432.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-558.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-558.
+- 2016-05-11 — Considered under suspension of the rules. (consideration: CR H2268-2270)
+- 2016-05-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4969.
+- 2016-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2268-2269)
+- 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2268-2269)
