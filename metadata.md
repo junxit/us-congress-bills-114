@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2137
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2137
@@ -46,3 +46,4 @@ Federal Law Enforcement Self-Defense and Protection Act of 2015
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 419.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-543.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-543.
+- 2016-05-11 — Received in the Senate, read twice.
