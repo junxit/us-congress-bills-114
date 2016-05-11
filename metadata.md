@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4985
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4985
@@ -21,10 +21,11 @@ Kingpin Designation Improvement Act of 2016
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Kingpin Designation Improvement Act of 2016
 - 2016-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2173)
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-547, Part I.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-547, Part I.
+- 2016-05-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
