@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2137
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2137
@@ -47,3 +47,12 @@ Federal Law Enforcement Self-Defense and Protection Act of 2015
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-543.
 - 2016-05-10 — Reported by the Committee on Judiciary. H. Rept. 114-543.
 - 2016-05-11 — Received in the Senate, read twice.
+- 2016-06-10 — Message on Senate action sent to the House.
+- 2016-06-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3811-3812)
+- 2016-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3811-3812)
+- 2016-06-17 — Presented to President.
+- 2016-06-17 — Presented to President.
+- 2016-06-22 — Became Public Law No: 114-180.
+- 2016-06-22 — Became Public Law No: 114-180.
+- 2016-06-22 — Signed by President.
+- 2016-06-22 — Signed by President.
