@@ -1,7 +1,7 @@
 ---
 measure: S. 1352
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1352
@@ -23,9 +23,12 @@ Children of Fallen Heroes Scholarship Act
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Judiciary Committee
+- House — Budget Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -35,3 +38,9 @@ Children of Fallen Heroes Scholarship Act
 - 2016-05-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2673)
 - 2016-05-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2673)
 - 2016-05-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2673)
+- 2016-05-11 — Message on Senate action sent to the House.
+- 2016-05-11 — Received in the House.
+- 2016-05-11 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-11 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-11 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-11 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
