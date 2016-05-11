@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3209
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3209
@@ -72,3 +72,14 @@ Recovering Missing Children Act
 - 2016-05-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-542.
 - 2016-05-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-542.
 - 2016-05-11 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2016-06-16 — Message on Senate action sent to the House.
+- 2016-06-16 — Passed Senate without amendment by Unanimous Consent.
+- 2016-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-06-16 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S4287-4288)
+- 2016-06-16 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S4287-4288)
+- 2016-06-23 — Presented to President.
+- 2016-06-23 — Presented to President.
+- 2016-06-30 — Became Public Law No: 114-184.
+- 2016-06-30 — Became Public Law No: 114-184.
+- 2016-06-30 — Signed by President.
+- 2016-06-30 — Signed by President.
