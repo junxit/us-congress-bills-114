@@ -1,7 +1,7 @@
 ---
 measure: S. 1252
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1252
@@ -34,9 +34,10 @@ Global Food Security Act of 2016
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Donnelly, Joe [D-IN] (D000607)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,7 @@ Global Food Security Act of 2016
 - 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3837 proposed by Senator Fischer for Senator Casey.(consideration: CR S2346-2347; text: CR S2346-2347)
 - 2016-04-20 — Senate amendment submitted
 - 2016-04-20 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2016-04-21 — Held at the desk.
+- 2016-04-21 — Message on Senate action sent to the House.
+- 2016-04-21 — Received in the House.
+- 2016-05-11 — Referred to the House Committee on Foreign Affairs.
