@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4981
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 2 executed, 8 stated and not applied.
+11 amendatory instructions. 2 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,3 +59,4 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | insert | in clause (i), by inserting after subclause (II) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | insert | Section 102(18) of the Controlled Substances Act (21 U.S.C. 802(18)) is amended by inserting “or opioid” after “The term opiate”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 829` | add-at-end | Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

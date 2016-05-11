@@ -26,21 +26,16 @@ The Congress finds that opioid use disorder has become a public health epidemic 
     >   - **(I)** all schedule III, IV, and V drugs, as well as unscheduled medications approved by the Food and Drug Administration, for the treatment of opioid use disorder, including such drugs and medications for maintenance, detoxification, overdose reversal, and relapse prevention, as available; and
     >   - **(II)** appropriate counseling and other appropriate ancillary services.
     > - **(iii)**
-    >   - **(I)** The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclauses (II) and (III), the applicable number is 30.
+    >   - **(I)** The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
     >   - **(II)** The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.
-    >   - **(III)** The applicable number is 250 if the practitioner is a qualifying physician meeting the requirement of subclause (VI) and, not sooner than 1 year after the date on which the physician submitted a second notification under subclause (II), the practitioner submits a third notification to the Secretary of the need and intent of the physician to treat up to 250 patients.
-    >   - **(IV)** The Secretary may by regulation change such total number.
-    >   - **(V)** The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
-    >   - **(VI)** For purposes of subclause (III), a qualifying physician meets the requirement of this subclause if the physician—
-    >     - **(aa)** holds a special certification in addiction psychiatry or addiction medicine as described in clause (ii) from the American Board of Medical Specialties, the American Board of Addiction Medicine, the American Osteopathic Association, the American Society of Addiction Medicine, or such other organization as the Secretary determines to be appropriate for purposes of this subclause; or
-    >     - **(bb)** has completed not fewer than 24 hours of training, with respect to the treatment and management of opiate-dependent patients, addressing the topics listed in subparagraph (G)(ii)(IV).
-    > - **(iv)** In the case of a third notification under clause (iii)(III), the qualifying physician maintains and implements a diversion control plan that contains specific measures to reduce the likelihood of the diversion of controlled substances prescribed by the physician for the treatment of opioid use disorder.
-    > - **(v)** In the case of a third notification under clause (iii)(III), the qualifying physician obtains a written agreement from each patient, including the patient’s signature, that the patient—
+    >   - **(III)** The Secretary may by regulation change such total number.
+    >   - **(IV)** The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
+    > - **(iv)** If the Secretary by regulation increases the total number of patients which a qualifying practitioner is permitted to treat pursuant to clause (iii)(II), the Secretary shall require such a practitioner to obtain a written agreement from each patient, including the patient’s signature, that the patient—
     >   - **(I)** will receive an initial assessment and treatment plan and periodic assessments and treatment plans thereafter;
     >   - **(II)** will be subject to medication adherence and substance use monitoring;
     >   - **(III)** understands available treatment options, including all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder, including their potential risks and benefits; and
     >   - **(IV)** understands that receiving regular counseling services is critical to recovery.
-    > - **(vi)** The practitioner will comply with the reporting requirements of subparagraph (D)(i)(IV).
+    > - **(v)** The practitioner will comply with the reporting requirements of subparagraph (D)(i)(IV).
 
   - **(2)** in subparagraph (D)—
     - **(A)** in clause (i), by adding at the end the following:
@@ -52,7 +47,7 @@ The Congress finds that opioid use disorder has become a public health epidemic 
       - **(ii)** by striking “physician” and inserting “practitioner”;
   - **(3)** in subparagraph (G)—
     - **(A)** by amending clause (ii)(IV) to read as follows:
-      > - **(IV)** The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than eight hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall address—
+      > - **(IV)** The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall address—
       >   - **(aa)** opioid maintenance and detoxification;
       >   - **(bb)** appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder;
       >   - **(cc)** initial and periodic patient assessments (including substance use monitoring);
@@ -65,10 +60,10 @@ The Congress finds that opioid use disorder has become a public health epidemic 
     - **(B)** by adding at the end the following:
       > - **(iii)** The term qualifying practitioner means—
       >   - **(I)** a qualifying physician, as defined in clause (ii); or
-      >   - **(II)** a qualifying other practitioner, as defined in clause (iv).
+      >   - **(II)** during the period beginning on the date of the enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act and ending on the date that is 3 years after such date of enactment, a qualifying other practitioner, as defined in clause (iv).
       > - **(iv)** The term qualifying other practitioner means a nurse practitioner or physician assistant who satisfies each of the following:
       >   - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-      >   - **(II)** The nurse practitioner or physician assistant satisfies 1 or more of the following:
+      >   - **(II)** The nurse practitioner or physician assistant satisfies one or more of the following:
       >     - **(aa)** Has completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Assistants, or any other organization that the Secretary determines is appropriate for purposes of this subclause.
       >     - **(bb)** Has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner or physician assistant to treat and manage opiate-dependent patients.
       >   - **(III)** The nurse practitioner or physician assistant is supervised by or works in collaboration with a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
@@ -78,7 +73,7 @@ The Congress finds that opioid use disorder has become a public health epidemic 
       > - **(III)** Such other elements of the requirements under this paragraph as the Secretary determines necessary for purposes of implementing such requirements.
 
     - **(B)** by amending clause (ii) to read as follows:
-      > - **(ii)** Not later than one year after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
+      > - **(ii)** Not later than 1 year after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
 
 - **(b)** *Recommendation of revocation or suspension of registration in case of substantial noncompliance* The Secretary of Health and Human Services may recommend to the Attorney General that the registration of a practitioner be revoked or suspended if the Secretary determines, according to such criteria as the Secretary establishes by regulation, that a practitioner who is registered under section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) is not in substantial compliance with the requirements of such section, as amended by this Act.
 - **(c)** *Opioid defined* Section 102(18) of the Controlled Substances Act (21 U.S.C. 802(18)) is amended by inserting “or “opioid”” after “The term opiate”.
@@ -96,3 +91,28 @@ The Congress finds that opioid use disorder has become a public health epidemic 
     - **(G)** the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2));
     - **(H)** the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in subparagraph (G); and
     - **(I)** the effectiveness of cross-agency collaboration between Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.
+
+## § 4. Sense of Congress
+
+It is the Sense of Congress that, with respect to the total number of patients that a qualifying physician (as defined in subparagraph (G)(iii) of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) can treat at any one time pursuant to such section, the Secretary of Health and Human Services should consider raising such total number to 250 patients following a third notification to the Secretary of the need and intent of the physician to treat up to 250 patients that is submitted to the Secretary not sooner than 1 year after the date on which the physician submitted to the Secretary a second notification to treat up to 100 patients.
+
+## § 5. Partial fills of schedule II controlled substances
+
+- **(a)** *In general* Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by adding at the end the following:
+  > - **(f)** *Partial fills of schedule II controlled substances*
+  >   - **(1)** *Partial fills*
+  >     - **(A)** *In general* A prescription for a controlled substance in schedule II may be partially filled if—
+  >       - **(i)** it is not prohibited by State law;
+  >       - **(ii)** the prescription is written and filled in accordance with the Controlled Substances Act (21 U.S.C. 801 et seq.), regulations prescribed by the Attorney General, and State law;
+  >       - **(iii)** the partial fill is requested by the patient or the practitioner that wrote the prescription; and
+  >       - **(iv)** the total quantity dispensed in all partial fillings does not exceed the total quantity prescribed.
+  >     - **(B)** *Other circumstances* A prescription for a controlled substance in schedule II may be partially filled in accordance with section 1306.13 of title 21, Code of Federal Regulations (as in effect on the date of enactment of the Reducing Unused Medications Act of 2016).
+  >   - **(2)** *Remaining portions*
+  >     - **(A)** *In general* Except as provided in subparagraph (B), remaining portions of a partially filled prescription for a controlled substance in schedule II—
+  >       - **(i)** may be filled; and
+  >       - **(ii)** shall be filled not later than 30 days after the date on which the prescription is written.
+  >     - **(B)** *Emergency situations* In emergency situations, as described in subsection (a), the remaining portions of a partially filled prescription for a controlled substance in schedule II—
+  >       - **(i)** may be filled; and
+  >       - **(ii)** shall be filled not later than 72 hours after the prescription is issued.
+
+- **(b)** *Rule of construction* Nothing in this section shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) to be partially filled.
