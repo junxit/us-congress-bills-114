@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3691
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3691
@@ -77,3 +77,9 @@ Improving Treatment for Pregnant and Postpartum Women Act of 2016
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 428.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-554.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-554.
+- 2016-05-11 — Considered under suspension of the rules. (consideration: CR H2263-2266)
+- 2016-05-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3691.
+- 2016-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2263-2264)
+- 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2263-2264)
