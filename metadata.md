@@ -1,7 +1,7 @@
 ---
 measure: S. 1252
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1252
@@ -39,6 +39,10 @@ Global Food Security Act of 2016
 - Senate — Foreign Relations Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-07-06 — [House 114-2-354](votes/house-114-2-0354.md) — On Motion to Suspend the Rules and Pass — **Passed** (369–53)
+
 ## Actions
 
 - 2015-05-07 — Introduced in Senate
@@ -60,3 +64,19 @@ Global Food Security Act of 2016
 - 2016-04-21 — Message on Senate action sent to the House.
 - 2016-04-21 — Received in the House.
 - 2016-05-11 — Referred to the House Committee on Foreign Affairs.
+- 2016-05-18 — Committee Consideration and Mark-up Session Held.
+- 2016-05-18 — Ordered to be Reported by Unanimous Consent.
+- 2016-07-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-07-05 — Considered under suspension of the rules. (consideration: CR H4263-4267)
+- 2016-07-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1252.
+- 2016-07-05 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2016-07-06 — Considered as unfinished business. (consideration: CR H4332-4333)
+- 2016-07-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 53 (Roll no. 354). (text: CR 7/5/2016 H4263-4266)
+- 2016-07-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 53 (Roll no. 354).(text: CR 7/5/2016 H4263-4266)
+- 2016-07-08 — Presented to President.
+- 2016-07-08 — Presented to President.
+- 2016-07-20 — Became Public Law No: 114-195.
+- 2016-07-20 — Became Public Law No: 114-195.
+- 2016-07-20 — Signed by President.
+- 2016-07-20 — Signed by President.
