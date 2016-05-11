@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5052
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5052
@@ -20,10 +20,11 @@ OPEN Act
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ OPEN Act
 - 2016-05-10 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2016-05-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 181). (text: CR H2181-2182)
 - 2016-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 181).(text: CR H2181-2182)
+- 2016-05-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
