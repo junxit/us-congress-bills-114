@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4957
@@ -61,3 +61,12 @@ To designate the Federal building located at 99 New York Avenue, N.E., in the Di
 - 2016-05-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 180). (text: CR H2172)
 - 2016-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 180).(text: CR H2172)
 - 2016-05-11 — Received in the Senate, read twice.
+- 2016-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2832)
+- 2016-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2832)
+- 2016-05-17 — Message on Senate action sent to the House.
+- 2016-05-18 — Presented to President.
+- 2016-05-18 — Presented to President.
+- 2016-05-20 — Became Public Law No: 114-160.
+- 2016-05-20 — Became Public Law No: 114-160.
+- 2016-05-20 — Signed by President.
+- 2016-05-20 — Signed by President.
