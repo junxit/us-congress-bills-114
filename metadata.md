@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4063
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4063
@@ -54,10 +54,11 @@ Jason Simcakoski PROMISE Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ Jason Simcakoski PROMISE Act
 - 2016-05-10 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-546, Part I.
 - 2016-05-10 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-546, Part I.
 - 2016-05-10 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-11 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
