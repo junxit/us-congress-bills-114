@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4641
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4641
@@ -21,9 +21,10 @@ To provide for the establishment of an inter-agency task force to review, modify
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -163,3 +164,4 @@ To provide for the establishment of an inter-agency task force to review, modify
 - 2016-05-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4641.
 - 2016-05-11 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2016-05-11 — The previous question was ordered pursuant to the rule. (consideration: CR H2247)
+- 2016-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
