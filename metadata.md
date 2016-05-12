@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4969
@@ -33,9 +33,10 @@ John Thomas Decker Act of 2016
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ John Thomas Decker Act of 2016
 - 2016-05-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2268-2269)
 - 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2268-2269)
+- 2016-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
