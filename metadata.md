@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4843
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4843
@@ -43,9 +43,10 @@ Infant Plan of Safe Care Improvement Act
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Infant Plan of Safe Care Improvement Act
 - 2016-05-11 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
 - 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 185). (text: CR H2248)
 - 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 185).(text: CR H2248)
+- 2016-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
