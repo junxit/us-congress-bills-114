@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4981
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4981
@@ -21,10 +21,11 @@ Opioid Use Disorder Treatment Expansion and Modernization Act
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Opioid Use Disorder Treatment Expansion and Modernization Act
 - 2016-05-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2276-2277)
 - 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2276-2277)
+- 2016-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
