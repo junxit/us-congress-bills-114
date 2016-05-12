@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 394
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 394
@@ -51,3 +51,5 @@ A resolution recognizing the 195th anniversary of the independence of Greece and
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
+- 2016-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2794)
+- 2016-05-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2794)
