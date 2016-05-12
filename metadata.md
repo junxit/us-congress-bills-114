@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2840
@@ -16,7 +16,7 @@ POLICE Act of 2016
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (7)
+## Cosponsors (18)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -25,6 +25,17 @@ POLICE Act of 2016
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -34,3 +45,7 @@ POLICE Act of 2016
 
 - 2016-04-21 — Introduced in Senate
 - 2016-04-21 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S2390)
+- 2016-05-12 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2016-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
