@@ -67,3 +67,24 @@ Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C
 ## § 5. Emergency Federal law enforcement assistance
 
 Section 609Y(a) of the Justice Assistance Act of 1984 (42 U.S.C. 10513(a)) is amended by striking “September 30, 1984” and inserting “September 30, 2021”.
+
+## § 6. Inclusion of services for pregnant women under family-based substance abuse grants
+
+Part DD of title I of the Omnibus Crime Control and Safe Streets Act (42 U.S.C. 3797s et seq.) is amended—
+
+- **(1)** in section 2921(2), by inserting before the period at the end “or pregnant women”; and
+- **(2)** in section 2927—
+  - **(A)** in paragraph (1)(A), by inserting “pregnant or” before “a parent”; and
+  - **(B)** in paragraph (3), by inserting “or pregnant women” after “incarcerated parents”.
+
+## § 7. GAO study and report on Department of Justice programs and research relative to substance use and substance use disorders among adolescents and young adults
+
+- **(a)** *Study* The Comptroller General of the United States shall conduct a study on how the Department of Justice, through grant programs, is addressing prevention of, treatment for, and recovery from substance use by and substance use disorders among adolescents and young adults. Such study shall include an analysis of each of the following:
+  - **(1)** The research that has been, and is being, conducted or supported pursuant to grant programs operated by the Department of Justice on prevention of, treatment for, and recovery from substance use by and substance use disorders among adolescents and young adults, including an assessment of—
+    - **(A)** such research relative to any unique circumstances (including social and biological circumstances) of adolescents and young adults that may make adolescent-specific and young adult-specific treatment protocols necessary, including any effects that substance use and substance use disorders may have on brain development and the implications for treatment and recovery; and
+    - **(B)** areas of such research in which greater investment or focus is necessary relative to other areas of such research.
+  - **(2)** Department of Justice non-research programs and activities that address prevention of, treatment for, and recovery from substance use by and substance use disorders among adolescents and young adults, including an assessment of the effectiveness of such programs and activities in preventing substance use by and substance use disorders among adolescents and young adults, treating such adolescents and young adults in a way that accounts for any unique circumstances faced by adolescents and young adults, and supports long term recovery among adolescents and young adults.
+  - **(3)** Gaps that have been identified by officials of the Department of Justice or experts in the efforts supported by grant programs operated by the Department of Justice relating to prevention of, treatment for, and recovery from substance use by and substance use disorders among adolescents and young adults, including gaps in research, data collection, and measures to evaluate the effectiveness of such efforts, and the reasons for such gaps.
+- **(b)** *Report* Not later than 2 years after the date of enactment of this Act, the Comptroller General shall submit to the appropriate committees of the Congress a report containing the results of the study conducted under subsection (a), including—
+  - **(1)** a summary of the findings of the study; and
+  - **(2)** recommendations based on the results of the study, including recommendations for such areas of research and legislative and administrative action as the Comptroller General determines appropriate.

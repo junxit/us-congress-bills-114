@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5046
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -46,3 +46,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3793` | insert | Section 1001(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)) is amended by inserting after paragraph (26) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797aa` | redesignate | by redesignating subsection (i) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797aa` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797s` | insert | in section 2921(2), by inserting before the period at the end “or pregnant women”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797s` | insert | in paragraph (1)(A), by inserting “pregnant or” before “a parent”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3797s` | insert | in paragraph (3), by inserting “or pregnant women” after “incarcerated parents”. | the bill quotes the text inserted but describes where it goes |
