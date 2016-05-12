@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4978
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4978
@@ -34,9 +34,10 @@ Nurturing And Supporting Healthy Babies Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Nurturing And Supporting Healthy Babies Act
 - 2016-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2259-2260)
 - 2016-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2259-2260)
 - 2016-05-11 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-12 — Received in the Senate and Read twice and referred to the Committee on Finance.
