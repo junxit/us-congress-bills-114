@@ -18,6 +18,15 @@ This Act may be cited as the “Justice for All Reauthorization Act of 2016”.
 - **(a)** *Restitution during supervised release* Section 3583(d) of title 18, United States Code, is amended in the first sentence by inserting “, that the defendant make restitution in accordance with sections 3663 and 3663A, or any other statute authorizing a sentence of restitution,” after “supervision”.
 - **(b)** *Collection of restitution from defendant’s estate* Section 3613(b) of title 18, United States Code, is amended by adding at the end the following: “The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.”.
 - **(c)** *Victim interpreters* Rule 28 of the Federal Rules of Criminal Procedure is amended in the first sentence by inserting before the period at the end the following: “, including an interpreter for the victim”.
+- **(d)** *GAO study*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall—
+    - **(A)** conduct a study to determine whether enhancing the restitution provisions under sections 3663 and 3663A of title 18, United States Code, to provide courts broader authority to award restitution for Federal offenses would be beneficial to crime victims and what other factors Congress should consider in weighing such changes; and
+    - **(B)** submit to Congress a report on the study conducted under subparagraph (A).
+  - **(2)** *Contents* In conducting the study under paragraph (1), the Comptroller General shall focus on the benefits to crime victims that would result if the restitution provisions under sections 3663 and 3663A of title 18, United States Code, were expanded—
+    - **(A)** to apply to victims who have suffered harm, injury, or loss that would not have occurred but for the defendant’s related conduct;
+    - **(B)** in the case of an offense resulting in bodily injury resulting in the victim’s death, to allow the court to use its discretion to award an appropriate sum to reflect the income lost by the victim’s surviving family members or estate as a result of the victim’s death;
+    - **(C)** to require that the defendant pay to the victim an amount determined by the court to restore the victim to the position he or she would have been in had the defendant not committed the offense; and
+    - **(D)** to require that the defendant compensate the victim for any injury, harm, or loss, including emotional distress, that occurred as a result of the offense.
 
 ## § 3. Authorization of appropriations for grants for crime victims
 
@@ -233,7 +242,7 @@ Section 426 of the Justice for All Act of 2004 (42 U.S.C. 14163e) is amended—
     >     - **(iv)** discuss the accomplishment of goals identified in any plan previously prepared under this paragraph; and
     >     - **(v)** reflect how the plan influenced funding decisions in the previous year.
     > - **(b)** *Technical assistance*
-    >   - **(1)** *Strategic planning* Not later than 90 days after the date of enactment of this subsection, the Attorney General shall begin to provide technical assistance to States and local governments requesting support to develop and implement the strategic plan required under subsection (a)(6).
+    >   - **(1)** *Strategic planning* Not later than 90 days after the date of enactment of this subsection, the Attorney General shall begin to provide technical assistance to States and local governments requesting support to develop and implement the strategic plan required under subsection (a)(6). The Attorney General may enter into agreements with 1 or more non-governmental organizations to provide technical assistance and training under this paragraph.
     >   - **(2)** *Protection of constitutional rights* Not later than 90 days after the date of enactment of this subsection, the Attorney General shall begin to provide technical assistance to States and local governments, including any agent thereof with responsibility for administration of justice, requesting support to meet the obligations established by the Sixth Amendment to the Constitution of the United States, which shall include—
     >     - **(A)** public dissemination of practices, structures, or models for the administration of justice consistent with the requirements of the Sixth Amendment; and
     >     - **(B)** assistance with adopting and implementing a system for the administration of justice consistent with the requirements of the Sixth Amendment.
@@ -289,3 +298,31 @@ It is the sense of Congress that—
 
 - **(1)** the authority of the Director of the Office of Victims of Crime under section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603) includes funding ongoing projects that provide services to victims of crime on a nationwide basis or Americans abroad who are victims of crimes committed outside of the United States; and
 - **(2)** the proposed rule entitled “VOCA Victim Assistance Program” published by the Office of Victims of Crime of the Department of Justice in the Federal Register on August 27, 2013 (78 Fed. Reg. 52877), is consistent with section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603).
+
+## § 18. Crime victim assistance
+
+- **(a)** *Amendment* Section 1404(c)(1)(A) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(c)(1)(A)) is amended by inserting “victim services,” before “demonstration projects”.
+- **(b)** *Sense of Congress* It is the sense of Congress that the proposed rule entitled “VOCA Victim Assistance Program” published by the Office of Victims of Crime of the Department of Justice in the Federal Register on August 27, 2013 (78 Fed. Reg. 52877), is consistent with section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603).
+
+## § 19. Improving the restitution process
+
+Section 3612 of title 18, United States Code, is amended by adding at the end the following:
+
+> - **(j)** *Evaluation of Offices of the United States Attorney and Department Components*
+>   - **(1)** *In general* The Attorney General shall, as part of the regular evaluation process, evaluate each office of the United States attorney and each component of the Department of Justice on the performance of the office or the component, as the case may be, in seeking and recovering restitution for victims under sections 3663 and 3663A.
+>   - **(2)** *Requirement* Following an evaluation under paragraph (1), each office of the United States attorney and each component of the Department of Justice shall work to improve the practices of the office or component, as the case may be, with respect to seeking and recovering restitution for victims under sections 3663 and 3663A.
+> - **(k)** *GAO Reports*
+>   - **(1)** *Report* Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on restitution sought by the Attorney General under sections 3663 and 3663A during the 3-year period preceding the report.
+>   - **(2)** *Contents* The report required under paragraph (1) shall include statistically valid estimates of—
+>     - **(A)** the number of cases in which a defendant was convicted and the Attorney General could seek restitution under this title;
+>     - **(B)** the number of cases in which the Attorney General sought restitution;
+>     - **(C)** of the cases in which the Attorney General sought restitution, the number of times restitution was ordered by the district courts of the United States;
+>     - **(D)** the amount of restitution ordered by the district courts of the United States;
+>     - **(E)** the amount of restitution collected pursuant to the restitution orders described in subparagraph (D);
+>     - **(F)** the percentage of restitution orders for which the full amount of restitution has not been collected; and
+>     - **(G)** any other measurement the Comptroller General determines would assist in evaluating how to improve the restitution process in Federal criminal cases.
+>   - **(3)** *Recommendations* The report required under paragraph (1) shall include recommendations on the best practices for—
+>     - **(A)** requesting restitution in cases in which restitution may be sought under sections 3663 and 3663A;
+>     - **(B)** obtaining restitution orders from the district courts of the United States; and
+>     - **(C)** collecting restitution ordered by the district courts of the United States.
+>   - **(4)** *Report* Not later than 3 years after date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).

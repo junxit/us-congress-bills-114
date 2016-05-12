@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-58 amendatory instructions. 16 executed, 42 stated and not applied.
+60 amendatory instructions. 16 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -219,3 +219,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of contents in section 1(b) of the Justice for All Act of 2004 (Public Law 108–405; 118 Stat. 2260) is amended by inserting after the item relating to section 413 the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 3752` | insert | by inserting “(a) In General.—” before “To request a grant”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10603` | insert | Section 1404(c)(1)(A) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(c)(1)(A)) is amended by inserting “victim services,” before “demonstration projects”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Section 3612 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
