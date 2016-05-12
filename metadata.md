@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2028
@@ -16,12 +16,97 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
+## Cosponsors (82)
+
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (21)
+## Recorded votes (39)
 
 - 2015-04-30 — [House 114-1-195](votes/house-114-1-0195.md) — On Agreeing to the Amendment — **Failed** (126–295)
 - 2015-04-30 — [House 114-1-196](votes/house-114-1-0196.md) — On Agreeing to the Amendment — **Failed** (172–249)
@@ -44,6 +129,24 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2015-05-01 — [House 114-1-213](votes/house-114-1-0213.md) — On Agreeing to the Amendment — **Agreed to** (228–183)
 - 2015-05-01 — [House 114-1-214](votes/house-114-1-0214.md) — On Motion to Recommit with Instructions — **Failed** (180–235)
 - 2015-05-01 — [House 114-1-215](votes/house-114-1-0215.md) — On Passage — **Passed** (240–177)
+- 2015-10-08 — [Senate 114-1-278](votes/senate-114-1-0278.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (49–47)
+- 2016-04-20 — [Senate 114-2-55](votes/senate-114-2-0055.md) — On the Amendment — **Amendment Agreed to** (70–26)
+- 2016-04-20 — [Senate 114-2-56](votes/senate-114-2-0056.md) — On the Amendment — **Amendment Rejected** (25–71)
+- 2016-04-21 — [Senate 114-2-57](votes/senate-114-2-0057.md) — On the Amendment — **Amendment Rejected** (56–42)
+- 2016-04-21 — [Senate 114-2-58](votes/senate-114-2-0058.md) — On the Amendment — **Amendment Rejected** (48–49)
+- 2016-04-21 — [Senate 114-2-59](votes/senate-114-2-0059.md) — On the Amendment — **Amendment Agreed to** (76–19)
+- 2016-04-25 — [Senate 114-2-60](votes/senate-114-2-0060.md) — On the Amendment — **Amendment Agreed to** (55–38)
+- 2016-04-26 — [Senate 114-2-61](votes/senate-114-2-0061.md) — On the Amendment — **Amendment Agreed to** (54–42)
+- 2016-04-26 — [Senate 114-2-62](votes/senate-114-2-0062.md) — On the Amendment — **Amendment Agreed to** (73–23)
+- 2016-04-26 — [Senate 114-2-63](votes/senate-114-2-0063.md) — On the Amendment — **Amendment Rejected** (12–84)
+- 2016-04-27 — [Senate 114-2-64](votes/senate-114-2-0064.md) — On the Cloture Motion — **Cloture Motion Rejected** (50–46)
+- 2016-04-28 — [Senate 114-2-65](votes/senate-114-2-0065.md) — On the Cloture Motion — **Cloture Motion Rejected** (52–43)
+- 2016-05-09 — [Senate 114-2-66](votes/senate-114-2-0066.md) — On the Cloture Motion — **Cloture Motion Rejected** (50–42)
+- 2016-05-11 — [Senate 114-2-67](votes/senate-114-2-0067.md) — On the Cloture Motion — **Cloture Motion Rejected** (57–42)
+- 2016-05-11 — [Senate 114-2-68](votes/senate-114-2-0068.md) — On the Cloture Motion — **Cloture Motion Agreed to** (97–2)
+- 2016-05-11 — [Senate 114-2-69](votes/senate-114-2-0069.md) — On the Amendment — **Amendment Rejected** (39–60)
+- 2016-05-11 — [Senate 114-2-70](votes/senate-114-2-0070.md) — On the Amendment — **Amendment Rejected** (51–48)
+- 2016-05-12 — [Senate 114-2-71](votes/senate-114-2-0071.md) — On Passage of the Bill — **Bill Passed** (90–8)
 
 ## Actions
 
@@ -548,3 +651,253 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2015-05-21 — Committee on Appropriations. Reported by Senator Alexander with an amendment in the nature of a substitute. With written report No. 114-54.
 - 2015-05-21 — Committee on Appropriations. Reported by Senator Alexander with an amendment in the nature of a substitute. With written report No. 114-54.
 - 2015-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
+- 2015-10-06 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7129; text: CR S7129)
+- 2015-10-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7129)
+- 2015-10-06 — Star Print ordered on the reported bill.
+- 2015-10-07 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7195)
+- 2015-10-08 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 47. Record Vote Number: 278. (consideration: CR S7244; text: CR S7244)
+- 2015-10-08 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S7249)
+- 2015-10-08 — Motion to proceed to measure considered in Senate. (consideration: CR S7233-7234, S7237, S7241-7244, S7245, S7249)
+- 2016-04-14 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S2067; text: CR S2067)
+- 2016-04-14 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S2067-2068)
+- 2016-04-20 — Amendment SA 3801 proposed by Senator Alexander. (consideration: CR S2301) In the nature of a substitute.
+- 2016-04-20 — Amendment SA 3802 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 55.
+- 2016-04-20 — Amendment SA 3802 proposed by Senator Alexander for Senator Schatz to Amendment SA 3801. (consideration: CR S2320-2321; text: CR S2320) To modify funding for certain projects of the Department of Energy.
+- 2016-04-20 — Amendment SA 3803 not agreed to in Senate by Yea-Nay Vote. 25 - 71. Record Vote Number: 56.
+- 2016-04-20 — Amendment SA 3803 proposed by Senator Alexander for Senator Ernst to Amendment SA 3801. (consideration: CR S2320-2322; text: CR S2320) To eliminate funding for the Appalachian Regional Commission, the Delta Regional Authority, the Denali Commission, and the Northern Border Regional Commission.
+- 2016-04-20 — Amendment SA 3804 proposed by Senator Alexander to Amendment SA 3801. (consideration: CR S2301; text as modified: CR S2301) To modify provisions relating to Nuclear Regulatory Commission fees.
+- 2016-04-20 — Amendment SA 3811 proposed by Senator Alexander for Senator Hoeven to Amendment SA 3801. (consideration: CR S2322-2323; text: CR S2322-2311) To prohibit the use of funds relating to a certain definition.
+- 2016-04-20 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate.
+- 2016-04-20 — Measure laid before Senate by unanimous consent. (consideration: CR S2294-2323; text of measure as reported in House: CR S2294-2301)
+- 2016-04-20 — Roll call votes on amendments in Senate: Amendment SA 3802 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 55.
+- 2016-04-20 — Roll call votes on amendments in Senate: Amendment SA 3803 not agreed to in Senate by Yea-Nay Vote. 25 - 71. Record Vote Number: 56.
+- 2016-04-20 — Senate amendment agreed to: Amendment SA 3802 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 55.
+- 2016-04-20 — Senate amendment not agreed to: Amendment SA 3803 not agreed to in Senate by Yea-Nay Vote. 25 - 71. Record Vote Number: 56.
+- 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3801 proposed by Senator Alexander.(consideration: CR S2301)
+- 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3802 proposed by Senator Alexander for Senator Schatz to Amendment SA 3801.(consideration: CR S2320-2321; text: CR S2320)
+- 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3803 proposed by Senator Alexander for Senator Ernst to Amendment SA 3801.(consideration: CR S2320-2322; text: CR S2320)
+- 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3804 proposed by Senator Alexander to Amendment SA 3801.(consideration: CR S2301; text as modified: CR S2301)
+- 2016-04-20 — Senate amendment proposed (on the floor): Amendment SA 3811 proposed by Senator Alexander for Senator Hoeven to Amendment SA 3801.(consideration: CR S2322-2323; text: CR S2322-2311)
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — Senate amendment submitted
+- 2016-04-20 — The committee substitute withdrawn by Unanimous Consent.
+- 2016-04-21 — Amendment SA 3811, under the order of 4/20/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 57.
+- 2016-04-21 — Amendment SA 3814 proposed by Senator Coats to Amendment SA 3801. (consideration: CR S2362-2363; text: CR S2362) To limit the use of funds made available for the Advanced Technology Vehicles Manufacturing Loan Program.
+- 2016-04-21 — Amendment SA 3814, under the order of 4/21/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 58.
+- 2016-04-21 — Amendment SA 3833 agreed to in Senate by Yea-Nay Vote. 76 - 19. Record Vote Number: 59.
+- 2016-04-21 — Amendment SA 3833 proposed by Senator Franken to Amendment SA 3801. (consideration: CR S2367-2368; text: CR S2367) To provide funding for the Tribal Energy Loan Guarantee Program.
+- 2016-04-21 — Considered by Senate. (consideration: CR S2357)
+- 2016-04-21 — Considered by Senate. (consideration: CR S2357)
+- 2016-04-21 — Considered by Senate. (consideration: CR S2357-2379)
+- 2016-04-21 — Considered by Senate. (consideration: CR S2359-2362)
+- 2016-04-21 — Roll call votes on amendments in Senate: Amendment SA 3811, under the order of 4/20/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 57.
+- 2016-04-21 — Roll call votes on amendments in Senate: Amendment SA 3814, under the order of 4/21/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 58.
+- 2016-04-21 — Roll call votes on amendments in Senate: Amendment SA 3833 agreed to in Senate by Yea-Nay Vote. 76 - 19. Record Vote Number: 59.
+- 2016-04-21 — Senate amendment agreed to: Amendment SA 3833 agreed to in Senate by Yea-Nay Vote. 76 - 19. Record Vote Number: 59.
+- 2016-04-21 — Senate amendment not agreed to: Amendment SA 3811, under the order of 4/20/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 57.
+- 2016-04-21 — Senate amendment not agreed to: Amendment SA 3814, under the order of 4/21/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 58.
+- 2016-04-21 — Senate amendment proposed (on the floor): Amendment SA 3814 proposed by Senator Coats to Amendment SA 3801.(consideration: CR S2362-2363; text: CR S2362)
+- 2016-04-21 — Senate amendment proposed (on the floor): Amendment SA 3833 proposed by Senator Franken to Amendment SA 3801.(consideration: CR S2367-2368; text: CR S2367)
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-21 — Senate amendment submitted
+- 2016-04-25 — Amendment SA 3808 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3808 proposed by Senator Alexander for Senator Murkowski to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To improve a program relating to remote and subsistence harbors.
+- 2016-04-25 — Amendment SA 3813 agreed to in Senate by Yea-Nay Vote. 55 - 38. Record Vote Number: 60.
+- 2016-04-25 — Amendment SA 3813 proposed by Senator Feinstein for Senator Murray to Amendment SA 3801. (consideration: CR S2408-2409; text: CR S2408) To add a provision relating to certain requirements in the acquisition of welded shipboard anchor and mooring chain.
+- 2016-04-25 — Amendment SA 3841 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3841 proposed by Senator Alexander for Senator Reed to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To transfer funding to the Weatherization Assistance Program account from the Building Technologies account.
+- 2016-04-25 — Amendment SA 3842 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3842 proposed by Senator Alexander for Senator Feinstein to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To modify the deadline for the completion of a feasibility study relating to the Sites Reservoir in Colusa County, California.
+- 2016-04-25 — Amendment SA 3843 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3843 proposed by Senator Alexander for Senator McCain to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To require the Western Area Power Administration to prepare a report on the use of certain provisions in power contracts.
+- 2016-04-25 — Amendment SA 3844 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3844 proposed by Senator Alexander for Senator Rounds to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To make certain funds available for Upper Missouri River Basin flood and drought monitoring.
+- 2016-04-25 — Amendment SA 3851 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3851 proposed by Senator Alexander for Senator Warner to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To ensure that certain amounts are used to implement the requirements of the DATA Act.
+- 2016-04-25 — Amendment SA 3869 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2409)
+- 2016-04-25 — Amendment SA 3869 proposed by Senator Alexander for Senator McCain to Amendment SA 3801. (consideration: CR S2409-2410) To direct the Secretary of the Interior to conduct a study and develop a plan for the removal of invasive salt cedar.
+- 2016-04-25 — Amendment SA 3870 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Amendment SA 3870 proposed by Senator Alexander for Senator Carper to Amendment SA 3801. (consideration: CR S2409-2410; text: CR S2409) To allow certain funds for shore protection to be prioritized for certain projects.
+- 2016-04-25 — Cloture motion on amendment SA 3801 presented in Senate. (consideration: CR S2412; text: CR S2412)
+- 2016-04-25 — Cloture motion on the measure presented in Senate. (consideration: CR S2412; text: CR S2412)
+- 2016-04-25 — Considered by Senate. (consideration: CR S2405)
+- 2016-04-25 — Considered by Senate. (consideration: CR S2405-2412)
+- 2016-04-25 — Considered by Senate. (consideration: CR S2412)
+- 2016-04-25 — Roll call votes on amendments in Senate: Amendment SA 3813 agreed to in Senate by Yea-Nay Vote. 55 - 38. Record Vote Number: 60.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3808 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3813 agreed to in Senate by Yea-Nay Vote. 55 - 38. Record Vote Number: 60.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3841 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3842 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3843 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3844 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3851 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3869 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2409)
+- 2016-04-25 — Senate amendment agreed to: Amendment SA 3870 agreed to in Senate by Voice Vote.
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3808 proposed by Senator Alexander for Senator Murkowski to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3813 proposed by Senator Feinstein for Senator Murray to Amendment SA 3801.(consideration: CR S2408-2409; text: CR S2408)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3841 proposed by Senator Alexander for Senator Reed to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3842 proposed by Senator Alexander for Senator Feinstein to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3843 proposed by Senator Alexander for Senator McCain to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3844 proposed by Senator Alexander for Senator Rounds to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3851 proposed by Senator Alexander for Senator Warner to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3869 proposed by Senator Alexander for Senator McCain to Amendment SA 3801.(consideration: CR S2409-2410)
+- 2016-04-25 — Senate amendment proposed (on the floor): Amendment SA 3870 proposed by Senator Alexander for Senator Carper to Amendment SA 3801.(consideration: CR S2409-2410; text: CR S2409)
+- 2016-04-25 — Senate amendment submitted
+- 2016-04-25 — Senate amendment submitted
+- 2016-04-25 — Senate amendment submitted
+- 2016-04-25 — Senate amendment submitted
+- 2016-04-25 — Senate amendment submitted
+- 2016-04-26 — Amendment SA 3805 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 62.
+- 2016-04-26 — Amendment SA 3805 proposed by Senator Heller for Senator Reid to Amendment SA 3801. (consideration: CR S2431; text: CR S2431) To make funding for water management improvement subject to a condition.
+- 2016-04-26 — Amendment SA 3812 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 61.
+- 2016-04-26 — Amendment SA 3812 proposed by Senator Merkley to Amendment SA 3801. (consideration: CR S2429-2431; text: CR S2429) To provide for funding for wind energy.
+- 2016-04-26 — Amendment SA 3820 not agreed to in Senate by Yea-Nay Vote. 12 - 84. Record Vote Number: 63.
+- 2016-04-26 — Amendment SA 3820 proposed by Senator Flake to Amendment SA 3801. (consideration: CR S2429, S2431-2432; text: CR S2429) To withhold certain funds for the construction of environmental infrastructure.
+- 2016-04-26 — Considered by Senate. (consideration: CR S2427)
+- 2016-04-26 — Considered by Senate. (consideration: CR S2427)
+- 2016-04-26 — Considered by Senate. (consideration: CR S2427-2434, S2438-2449)
+- 2016-04-26 — Roll call votes on amendments in Senate: Amendment SA 3805 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 62.
+- 2016-04-26 — Roll call votes on amendments in Senate: Amendment SA 3812 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 61.
+- 2016-04-26 — Roll call votes on amendments in Senate: Amendment SA 3820 not agreed to in Senate by Yea-Nay Vote. 12 - 84. Record Vote Number: 63.
+- 2016-04-26 — Senate amendment agreed to: Amendment SA 3805 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 62.
+- 2016-04-26 — Senate amendment agreed to: Amendment SA 3812 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 61.
+- 2016-04-26 — Senate amendment not agreed to: Amendment SA 3820 not agreed to in Senate by Yea-Nay Vote. 12 - 84. Record Vote Number: 63.
+- 2016-04-26 — Senate amendment proposed (on the floor): Amendment SA 3805 proposed by Senator Heller for Senator Reid to Amendment SA 3801.(consideration: CR S2431; text: CR S2431)
+- 2016-04-26 — Senate amendment proposed (on the floor): Amendment SA 3812 proposed by Senator Merkley to Amendment SA 3801.(consideration: CR S2429-2431; text: CR S2429)
+- 2016-04-26 — Senate amendment proposed (on the floor): Amendment SA 3820 proposed by Senator Flake to Amendment SA 3801.(consideration: CR S2429, S2431-2432; text: CR S2429)
+- 2016-04-26 — Senate amendment submitted
+- 2016-04-26 — Senate amendment submitted
+- 2016-04-26 — Senate amendment submitted
+- 2016-04-27 — Cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 64. (consideration: CR S2470; text: CR S2470)
+- 2016-04-27 — Considered by Senate. (consideration: CR S2466)
+- 2016-04-27 — Considered by Senate. (consideration: CR S2466)
+- 2016-04-27 — Considered by Senate. (consideration: CR S2466-2481)
+- 2016-04-27 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 3801 was not invoked (Record Vote No. 64) entered in Senate. (consideration: CR S2470)
+- 2016-04-27 — Roll call votes on amendments in Senate: Cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 64.(consideration: CR S2470; text: CR S2470)
+- 2016-04-27 — Senate amendment submitted
+- 2016-04-27 — Senate amendment submitted
+- 2016-04-27 — Senate amendment submitted
+- 2016-04-27 — Senate amendment submitted
+- 2016-04-28 — Considered by Senate. (consideration: CR S2514)
+- 2016-04-28 — Considered by Senate. (consideration: CR S2514)
+- 2016-04-28 — Considered by Senate. (consideration: CR S2514-2529)
+- 2016-04-28 — Motion by Senator McConnell to reconsider the vote by which the motion to invoke cloture on amendment SA 3801 was not invoked (Record Vote No. 64) agreed to in Senate by Unanimous Consent. (consideration: CR S2526)
+- 2016-04-28 — Motion to proceed to consideration of motion to reconsider the vote by which the motion to invoke cloture on amendment SA 3801 was not invoked (Record Vote No. 64) agreed to in Senate by Unanimous Consent. (consideration: CR S2526)
+- 2016-04-28 — Roll call votes on amendments in Senate: Upon reconsideration, cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 65.(consideration: CR S2526-2527; text: CR S2526)
+- 2016-04-28 — Second cloture motion on amendment SA 3801 presented in Senate. (consideration: CR S2527; text: CR S2527)
+- 2016-04-28 — Upon reconsideration, cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 65. (consideration: CR S2526-2527; text: CR S2526)
+- 2016-05-09 — Amendment SA 3878 proposed by Senator McConnell for Senator Cotton to Amendment SA 3801. (consideration: CR S2615; text: CR S2615) Of a perfecting nature.
+- 2016-05-09 — Cloture motion on amendment SA 3878 presented in Senate.
+- 2016-05-09 — Considered by Senate. (consideration: CR S2611, S2614-2615)
+- 2016-05-09 — Considered by Senate. (consideration: CR S2611-2615)
+- 2016-05-09 — Considered by Senate. (consideration: CR S2611-2615)
+- 2016-05-09 — Motion by Senator McConnell to reconsider the vote by which the second cloture motion on amendment SA 3801 was not invoked (Record Vote No. 66) entered in Senate. (consideration: CR S2615: text: CR S2615)
+- 2016-05-09 — Proposed amendment SA 3804 withdrawn in Senate. (consideration: CR S2615)
+- 2016-05-09 — Roll call votes on amendments in Senate: Second cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 50 - 42. Record Vote Number: 66.(consideration: CR S2614-2615; text: CR S2614)
+- 2016-05-09 — Second cloture on amendment SA 3801 not invoked in Senate by Yea-Nay Vote. 50 - 42. Record Vote Number: 66. (consideration: CR S2614-2615; text: CR S2614)
+- 2016-05-09 — Senate amendment proposed (on the floor): Amendment SA 3878 proposed by Senator McConnell for Senator Cotton to Amendment SA 3801.(consideration: CR S2615; text: CR S2615)
+- 2016-05-09 — Senate amendment submitted
+- 2016-05-09 — Senate amendment submitted
+- 2016-05-09 — Third cloture motion on amendment SA 3801 presented in Senate. (consideration: CR S2615; text: CR S2615)
+- 2016-05-10 — Considered by Senate. (consideration: CR S2654)
+- 2016-05-10 — Considered by Senate. (consideration: CR S2654)
+- 2016-05-10 — Considered by Senate. (consideration: CR S2654-2667)
+- 2016-05-10 — Senate amendment submitted
+- 2016-05-10 — Senate amendment submitted
+- 2016-05-10 — Senate amendment submitted
+- 2016-05-10 — Senate amendment submitted
+- 2016-05-11 — Amendment SA 3871 proposed by Senator Alexander for Senator Cardin to Amendment SA 3801. (consideration: CR S2680-2681, S2699; text: CR S2681) To use Federal and State expertise to mitigate fish and wildlife impacts at Corps of Engineers projects.
+- 2016-05-11 — Amendment SA 3871, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 69.
+- 2016-05-11 — Amendment SA 3876 proposed by Senator Alexander for Senator Flake to Amendment SA 3801. (consideration: CR S2680-2681; text: CR S2681) To require that certain funds are used for the review and revision of certain operational documents.
+- 2016-05-11 — Amendment SA 3888 proposed by Senator Alexander for Senator Fischer to Amendment SA 3801. (consideration: CR S2680-2681, S2699; text: CR S2681) To provide for the operation of reservoir projects by the Bureau of Reclamation.
+- 2016-05-11 — Amendment SA 3888, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 70.
+- 2016-05-11 — Cloture on amendment SA 3878 not invoked in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 67. (consideration: CR S2677-2678; text: CR S2678)
+- 2016-05-11 — Considered by Senate. (consideration: CR S2677)
+- 2016-05-11 — Considered by Senate. (consideration: CR S2677-2680)
+- 2016-05-11 — Considered by Senate. (consideration: CR S2677-2699)
+- 2016-05-11 — Motion by Senator McConnell to reconsider the vote by which the second cloture motion on amendment SA 3801 was not invoked (Record Vote No. 66) rendered moot in Senate.
+- 2016-05-11 — Proposed amendment SA 3878 withdrawn in Senate. (consideration: CR S2677, S2680; text: CR S2680)
+- 2016-05-11 — Roll call votes on amendments in Senate: Amendment SA 3871, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 69.
+- 2016-05-11 — Roll call votes on amendments in Senate: Amendment SA 3888, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 70.
+- 2016-05-11 — Roll call votes on amendments in Senate: Cloture on amendment SA 3878 not invoked in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 67.(consideration: CR S2677-2678; text: CR S2678)
+- 2016-05-11 — Roll call votes on amendments in Senate: Third cloture on amendment SA 3801 invoked in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 68.(consideration: CR S2680; text: CR S2680)
+- 2016-05-11 — Senate amendment not agreed to: Amendment SA 3871, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 69.
+- 2016-05-11 — Senate amendment not agreed to: Amendment SA 3888, under the order of 5/11/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 70.
+- 2016-05-11 — Senate amendment proposed (on the floor): Amendment SA 3871 proposed by Senator Alexander for Senator Cardin to Amendment SA 3801.(consideration: CR S2680-2681, S2699; text: CR S2681)
+- 2016-05-11 — Senate amendment proposed (on the floor): Amendment SA 3876 proposed by Senator Alexander for Senator Flake to Amendment SA 3801.(consideration: CR S2680-2681; text: CR S2681)
+- 2016-05-11 — Senate amendment proposed (on the floor): Amendment SA 3888 proposed by Senator Alexander for Senator Fischer to Amendment SA 3801.(consideration: CR S2680-2681, S2699; text: CR S2681)
+- 2016-05-11 — Third cloture on amendment SA 3801 invoked in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 68. (consideration: CR S2680; text: CR S2680)
+- 2016-05-12 — Amendment SA 3801 agreed to in Senate by Voice Vote.
+- 2016-05-12 — Amendment SA 3876 agreed to in Senate by Voice Vote.
+- 2016-05-12 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S2726)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2721, S2730)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2721, S2731)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2721-2731)
+- 2016-05-12 — Message on Senate action sent to the House.
+- 2016-05-12 — Passed Senate with an amendment by Yea-Nay Vote. 90 - 8. Record Vote Number: 71.
+- 2016-05-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 90 - 8. Record Vote Number: 71.
+- 2016-05-12 — Senate amendment agreed to: Amendment SA 3801 agreed to in Senate by Voice Vote.
+- 2016-05-12 — Senate amendment agreed to: Amendment SA 3876 agreed to in Senate by Voice Vote.

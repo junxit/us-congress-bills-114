@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+10 amendatory instructions. 3 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,32 +24,32 @@ to guess them.
 
 ## Executed
 
+### 33 U.S.C. § 2242
+
+> in paragraph (4), by striking “local population” and inserting “regional population to be served by the project”; and
+
+| | |
+|---|---|
+| Removed | `local population` |
+| Inserted | `regional population to be served by the project` |
+
+### 33 U.S.C. § 2242
+
+> in paragraph (5), by striking “community” and inserting “local community or to a community that is located in the region to be served by the project and that will rely on the project”.
+
+| | |
+|---|---|
+| Removed | `community` |
+| Inserted | `local community or to a community that is located in the region to be served by the project and that will rely on the project` |
+
 ### 42 U.S.C. § 10364
 
-> Section 9504(e) of the Secure Water Act of 2009 (42 U.S.C. 10364(e)) is amended by striking “$300,000,000” and inserting “$500,000,000”.
+> Section 9504(e) of the Secure Water Act of 2009 (42 U.S.C. 10364(e)) is amended by striking “$350,000,000” and inserting “$450,000,000, on the condition that of that amount, $50,000,000 is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)”.
 
 | | |
 |---|---|
-| Removed | `$300,000,000` |
-| Inserted | `$500,000,000` |
-
-### 43 U.S.C. § 509
-
-> by striking “$1,250,000” and inserting “$20,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$1,250,000` |
-| Inserted | `$20,000,000` |
-
-### 43 U.S.C. § 509
-
-> by striking “Congress” and inserting “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate”; and
-
-| | |
-|---|---|
-| Removed | `Congress` |
-| Inserted | `Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate` |
+| Removed | `$350,000,000` |
+| Inserted | `$450,000,000, on the condition that of that amount, $50,000,000 is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)` |
 
 ## Stated, not applied
 
@@ -60,8 +60,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 5032(a)(2) of the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1205) is amended by striking “15” and inserting “20”. | the bill names no machine-readable US Code section |
-| — | replace | Title I of Public Law 108–361 (the Calfed Bay-Delta Authorization Act) (118 Stat. 1681), as amended by section 210 of Public Law 111–85, is amended by striking “2016” each place it appears and inserting “2020”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 509` | insert | by inserting “and effective October 1, 2015, not to exceed an additional $1,100,000,000 (October 1, 2003, price levels),” after “(October 1, 2003, price levels),”; | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 509` | add-at-end | by adding at the end the following: “For modification expenditures between $1,800,000 and $20,000,000 (October 1, 2013, price levels), the Secretary of the Interior shall, at least 30 days before the date on which the funds are expended,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Public Law 105–277, division A, section 101(g) (title III, section 329(a), (b)) is amended by inserting, in subsection (b), after “State law” and before the period the following: “or for the construction and repair of barge mooring point… | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2242` | insert | in subsection (a)(3), by inserting “in which the project is located or of a community that is located in the region that is served by the project and that will rely on the project” after “community”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2242` | insert | in paragraph (1), by inserting “or of a community that is located in the region to be served by the project and that will rely on the project” after “community”; | the bill quotes the text inserted but describes where it goes |
+| — | replace | Title I of Public Law 108–361 (the Calfed Bay-Delta Authorization Act) (118 Stat. 1681), as amended by section 210 of Public Law 111–85, is amended by striking “2017” each place it appears and inserting “2019”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “feasibility studies described in clauses (i)(II) and (ii)(I)” and inserting “feasibility study described in clause (i)(II)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “such studies” and inserting “such study”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
