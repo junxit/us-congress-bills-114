@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2348
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,14 +11,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Rapid DNA Act of 2015”.
+This Act may be cited as the “Rapid DNA Act of 20152016”.
 
 ## § 2. Rapid DNA instruments
 
 - **(a)** *Standards* Section 210303(a) of the DNA Identification Act of 1994 (42 U.S.C. 14131(a)) is amended by adding at the end the following:
   > - **(5)**
   >   - **(A)** In addition to issuing standards as provided in paragraphs (1) through (4), the Director of the Federal Bureau of Investigation shall issue standards and procedures for the use of Rapid DNA instruments and resulting DNA analyses.
-  >   - **(B)** In this paragraph, the term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profile from a DNA sample.
+  >   - **(B)** In this paragraphAct, the term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profileanalysis from a DNA sample.
 
 - **(b)** *Index* Paragraph (2) of section 210304(b) of the DNA Identification Act of 1994 (42 U.S.C. 14132(b)(2)) is amended to read as follows:
   > - **(2)** prepared by—
@@ -32,9 +32,9 @@ This Act may be cited as the “Rapid DNA Act of 2015”.
 - **(a)** *From certain Federal offenders* Section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a) is amended—
   - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
   - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profile from a DNA sample.
+    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profileanalysis from a DNA sample.
 
 - **(b)** *From certain District of Columbia offenders* Section 4 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135b) is amended—
   - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
   - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profile from a DNA sample.
+    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA profileanalysis from a DNA sample.
