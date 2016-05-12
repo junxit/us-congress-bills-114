@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1818
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1818
@@ -97,6 +97,10 @@ Veteran Emergency Medical Technician Support Act of 2016
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2016-05-12 — [House 114-2-188](votes/house-114-2-0188.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–1)
+
 ## Actions
 
 - 2015-04-15 — Introduced in House
@@ -112,3 +116,11 @@ Veteran Emergency Medical Technician Support Act of 2016
 - 2016-05-10 — Placed on the Union Calendar, Calendar No. 426.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-552.
 - 2016-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-552.
+- 2016-05-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-05-11 — Considered under suspension of the rules. (consideration: CR H2266-2268)
+- 2016-05-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1818.
+- 2016-05-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2016-05-12 — Considered as unfinished business. (consideration: CR H2317)
+- 2016-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 188). (text: CR 5/11/16 CR H2267)
+- 2016-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 188).(text: CR 5/11/16 CR H2267)
