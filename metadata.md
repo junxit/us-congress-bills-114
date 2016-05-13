@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4743
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4743
@@ -34,3 +34,10 @@ National Cybersecurity Preparedness Consortium Act of 2016
 - 2016-03-15 — Introduced in House
 - 2016-03-15 — Introduced in House
 - 2016-03-15 — Referred to the House Committee on Homeland Security.
+- 2016-03-18 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2016-04-28 — Committee Consideration and Mark-up Session Held.
+- 2016-04-28 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-04-28 — Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies Discharged.
+- 2016-05-13 — Placed on the Union Calendar, Calendar No. 438.
+- 2016-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-565.
+- 2016-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-565.
