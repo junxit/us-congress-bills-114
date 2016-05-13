@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3832
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,78 +11,81 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stolen Identify Refund Fraud Prevention Act of 2015”.
+This Act may be cited as the “Stolen Identity Refund Fraud Prevention Act of 2016”.
 
-## § 2. Modification of due dates for certain information filing returns
-
-- **(a)** *Accelerated filing of forms W–2 and W–3*
-  - **(1)** *In general* Section 6071 of the Internal Revenue Code of 1986 is amended by redesignating subsection (c) as subsection (d), and by inserting after subsection (b) the following new subsection:
-    > - **(c)** *Returns relating to employee wage information and forms 1099–MISC* Returns and statements made under sections 6051 and 6052, and any payments required to be reported on Form 1099–MISC with respect to nonemployee compensation, shall be filed on or before February 15 of the year following the calendar year to which such returns relate.
-
-  - **(2)** *Conforming amendment* Subsection (b) of section 6071 of such Code is amended by striking “subparts B and C of part III of this subchapter” and inserting “subpart B of part III of this subchapter (other than returns filed on Form 1099–MISC with respect to nonemployee compensation)”.
-  - **(3)** *Effective date* The amendments made by this subsection shall apply to returns and statements relating to calendar years beginning after the date of the enactment of this Act.
-- **(b)** *Study and recommendations regarding administrative implementation* Not later than January 1, 2018, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
-  - **(1)** a recommendation of whether the due dates for filing Forms W–2 and W–3 with the Internal Revenue Service and the Social Security Administration should be further accelerated in order to prevent tax refund fraud,
-  - **(2)** recommendations for processes—
-    - **(A)** to match the information reported on Forms W–2 and Forms 1099–MISC for the effective processing of returns and accurate determination of refunds, and
-    - **(B)** to correct errors on such documents, and
-  - **(3)** any other recommendations the Secretary may have for accelerating information reporting, including the identification of any other forms that should be due on an accelerated schedule, in order to prevent tax refund fraud.
-
-## § 3. Centralized point of contact for identity theft victims
+## § 2. Centralized point of contact for identity theft victims
 
 The Secretary of the Treasury, or the Secretary’s delegate, shall establish and maintain an office at the Internal Revenue Service and procedures to ensure that any taxpayer whose return has been delayed or otherwise adversely affected due to the theft of the taxpayer’s identity has a centralized point of contact throughout the processing of his or her case. The office shall coordinate with other offices within the Internal Revenue Service to resolve the taxpayer’s case as quickly as possible.
 
-## § 4. Taxpayer notification of suspected identity theft
+## § 3. Taxpayer notification of suspected identity theft
 
 - **(a)** *In general* Chapter 77 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
   > ## § 7529. Notification of suspected identity theft
   >
   > If the Secretary determines that there was an unauthorized use of the identity of any taxpayer, the Secretary shall—
   >
-  > - **(1)** as soon as practicable and without jeopardizing an investigation relating to tax administration, notify the taxpayer, and
+  > - **(1)** as soon as practicable and without jeopardizing an investigation relating to tax administration, notify the taxpayer and include with that notice—
+  >   - **(A)** instructions to the taxpayer about filing a police report, and
+  >   - **(B)** the forms the taxpayer must submit to allow investigating law enforcement officials to access the taxpayer’s personal information, and
   > - **(2)** if any person is criminally charged by indictment or information relating to such unauthorized use, notify such taxpayer as soon as practicable of such charge.
 
 - **(b)** *Clerical amendment* The table of sections for chapter 77 of such Code is amended by adding at the end the following new item:
 - **(c)** *Effective date* The amendments made by this section shall apply to determinations made after the date of the enactment of this Act.
 
-## § 5. Extension of IRS authority to require truncated Social Security numbers on Form W–2
+## § 4. Report on electronic filing opt out
 
-- **(a)** *In general* Paragraph (2) of section 6051(a) of the Internal Revenue Code of 1986 is amended by striking “his social security number” and inserting “an identifying number for the employee”.
-- **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
+The Secretary of the Treasury (or the Secretary’s delegate) shall submit a feasibility study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing a program under which a person who has filed an identity theft affidavit with the Secretary may elect to prevent the processing of any Federal tax return submitted in an electronic format by that taxpayer or a person purporting to be that taxpayer. The study shall be submitted within 180 days after the date of the enactment of this Act and should also include a recommendation on whether to implement such a program.
 
-## § 6. Electronic filing opt out
+## § 5. Criminal penalty for using a false identity in connection with tax fraud
 
-Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury, or the Secretary’s delegate, shall implement a program under which a taxpayer who has filed an identity theft affidavit with the Secretary may elect to prevent the processing of any Federal tax return submitted in an electronic format by the taxpayer or a person purporting to be the taxpayer.
-
-## § 7. Criminal penalty for using a false identity in connection with tax fraud
-
-- **(a)** *In general* Section 7206 of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by striking “Any person” and inserting the following:
-    > - **(a)** *In general* Any person
-
-  - **(2)** by adding at the end the following new subsection:
-    > - **(b)** *Use of false identity* Any person who willfully misappropriates another person's taxpayer identity (as defined in section 6103(b)(6)) for the purpose of making any list, return, account, statement, or other document submitted to the Secretary under the provisions of this title shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $250,000 ($500,000 in the case of a corporation) or imprisoned not more than 5 years, or both, together with the costs of prosecution.
-
-- **(b)** *Aggravated identity theft* Section 1028A(c) of title 18, United States Code, is amended by striking “or” at the end of paragraph (10), by striking the period at the end of paragraph (11) and inserting “; or”, and by adding at the end the following new paragraph:
+- **(a)** *Aggravated identity theft* Section 1028A(c) of title 18, United States Code, is amended by striking “or” at the end of paragraph (10), by striking the period at the end of paragraph (11) and inserting “; or”, and by adding at the end the following new paragraph:
   > - **(12)** section 7206(b) of the Internal Revenue Code of 1986 (relating to use of false identity in connection with tax fraud).
 
-- **(c)** *Effective date* The amendments made by this section shall apply to offenses committed after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendments made by this section shall apply to offenses committed after the date of the enactment of this Act.
 
-## § 8. Improvement in access to information in the National Directory of New Hires
+## § 6. Use of information in Do Not Pay Initiative in prevention of identity theft refund fraud
 
-- **(a)** *In general* Paragraph (3) of section 453(i) of the Social Security Act (42 U.S.C. 653(i)) is amended to read as follows:
-  > - **(3)** *Administration of Federal tax laws relating to fraud* The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for the sole purpose of identifying and preventing fraudulent tax return filings and claims for refund under the Internal Revenue Code of 1986.
+The Secretary of the Treasury, and the Secretary’s delegate, shall use the information available under the Do Not Pay Initiative established under section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) to help prevent identity theft refund fraud.
 
-- **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
+## § 7. Report on identity theft refund fraud
 
-## § 9. Repeal of provision regarding certain tax compliance procedures and reports
+- **(a)** *In general* Not later than September 30, 2018, and biannually thereafter through September 30, 2023, the Secretary of the Treasury (or the Secretary’s delegate) shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the extent and nature of fraud involving the use of a misappropriated taxpayer identity with respect to claims for refund under the Internal Revenue Code of 1986 during the preceding completed income tax filing season, and the detection, prevention, and enforcement activities undertaken by the Internal Revenue Service with respect to such fraud, including—
+  - **(1)** detailing efforts to combat identity theft fraud, including an update on the victims’ assistance unit;
+  - **(2)** information on both the average and maximum amounts of time that elapsed before the cases of victims of such fraud were resolved; and
+  - **(3)** discussing Internal Revenue Service efforts associated with other avenues for addressing identity theft refund fraud.
+- **(b)** *Additional requirements* In addition, each report shall provide an update on the implementation of this Act and identify the need for any further legislation to protect taxpayer identities.
+- **(c)** *Progress on outreach and education* In the first biannual report on identity theft refund fraud under subsection (a), the Secretary (or the Secretary’s delegate) shall include—
+  - **(1)** an assessment of the agency’s progress on identity theft outreach and education to the private sector, State agencies, and external organizations; and
+  - **(2)** the results of a feasibility study on the costs and benefits to enhancing its taxpayer authentication approach to the electronic tax return filing process.
 
-Section 2004 of the Internal Revenue Service Restructuring and Reform Act of 1998 (26 U.S.C. 6012 note) is repealed.
+## § 8. Information sharing and analysis center
 
-## § 10. Report on refund fraud
+- **(a)** *In general* The Secretary (or the Secretary’s delegate) shall establish an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft.
+- **(b)** *Report* Not later than 1 year after establishment of the information sharing and analysis center, the Secretary (or the Secretary’s delegate) shall submit a report to the Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate on the information sharing and analysis center described in subsection (a). The report shall include the data that was shared, the use of such data, and the results of the data sharing and analysis center in combating identity theft.
 
-Not later than September 30, 2018, and biannually thereafter through September 30, 2026, the Secretary of the Treasury (or the Secretary’s delegate) shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the extent and nature of fraud involving the use of a misappropriated taxpayer identity with respect to claims for refund under the Internal Revenue Code of 1986 during the preceding completed income tax filing season, and the detection, prevention, and enforcement activities undertaken by the Internal Revenue Service with respect to such fraud, including—
+## § 9. Local law enforcement liaison
 
-- **(1)** detailing efforts to combat identity theft fraud, including an update on the victims’ assistance unit;
-- **(2)** providing an update on Internal Revenue Service efforts and results associated with limiting multiple refunds to the same financial account and physical address, with appropriate exceptions; and
-- **(3)** discussing Internal Revenue Service efforts associated with other avenues for addressing identity theft refund fraud.
+- **(a)** *Establishment* The Commissioner of Internal Revenue shall establish within the Criminal Investigation Division of the Internal Revenue Service the position of Local Law Enforcement Liaison.
+- **(b)** *Duties* The Local Law Enforcement Liaison shall serve as the primary source of contact for State and local law enforcement authorities with respect to tax-related identity theft, having duties that shall include—
+  - **(1)** receiving information from State and local law enforcement authorities;
+  - **(2)** responding to inquiries from State and local law enforcement authorities;
+  - **(3)** administering authorized information-sharing initiatives with State or local law enforcement authorities and reviewing the performance of such initiatives;
+  - **(4)** ensuring any information provided through authorized information-sharing initiatives with State or local law enforcement authorities is used only for the prosecution of identity theft-related crimes and not re-disclosed to third parties; and
+  - **(5)** such other duties relating to tax-related identity theft prevention as are delegated by the Commissioner of Internal Revenue.
+
+## § 10. IRS phone scam report
+
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Inspector General for Tax Administration, in consultation with the Federal Communications Commission and the Federal Trade Commission, shall submit a report to Congress regarding identity theft phone scams under which individuals attempt to obtain personal information over the phone from taxpayers by falsely claiming to be calling from or on behalf the Internal Revenue Service.
+- **(b)** *Contents of report* Such report shall include—
+  - **(1)** a description of the nature and form of such scams;
+  - **(2)** an estimate of the number of taxpayers contacted pursuant to, and the number of taxpayers who have been victims of, such scams;
+  - **(3)** an estimate of the amount of wrongful payments obtained from such scams; and
+  - **(4)** details of potential solutions to combat and prevent such scams, including best practices from the private sector and technological solutions.
+
+## § 11. Providing identity theft prevention information while on hold with Internal Revenue Service
+
+The Secretary of the Treasury, or the Secretary’s delegate, shall ensure that if a taxpayer is on hold with the Internal Revenue Service on a taxpayer service telephone call the following information is provided:
+
+- **(1)** Basic information about common identity theft tax scams.
+- **(2)** Directions on where to report such activity.
+- **(3)** Tips on how to protect against identity theft tax scams.
