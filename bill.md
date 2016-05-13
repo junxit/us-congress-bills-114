@@ -1,16 +1,15 @@
 ---
 legis-num: S. 524
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 524
 
-That the bill from the Senate (S. 524) entitled ‘‘An Act to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.’’, do pass with the following
+> To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the prescription opioid abuse and heroin use crisis, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
 
-## § 1. Table of Contents
-
-The table of contents for this Act is as follows:
+- **(a)** *Short title* This Act may be cited as the “Comprehensive Addiction and Recovery Act of 2016”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:

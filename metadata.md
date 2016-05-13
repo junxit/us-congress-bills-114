@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 524
@@ -16,7 +16,7 @@ Comprehensive Addiction and Recovery Act of 2016
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (156)
+## Cosponsors (157)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
@@ -61,6 +61,7 @@ Comprehensive Addiction and Recovery Act of 2016
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Tester, Jon [D-MT] (T000464)
@@ -179,7 +180,7 @@ Comprehensive Addiction and Recovery Act of 2016
 
 - Senate — Judiciary Committee
 
-## Recorded votes (9)
+## Recorded votes (16)
 
 - 2016-02-29 — [Senate 114-2-27](votes/senate-114-2-0027.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–0)
 - 2016-03-02 — [Senate 114-2-28](votes/senate-114-2-0028.md) — On the Amendment — **Amendment Agreed to** (94–0)
@@ -190,6 +191,13 @@ Comprehensive Addiction and Recovery Act of 2016
 - 2016-03-09 — [Senate 114-2-33](votes/senate-114-2-0033.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–3)
 - 2016-03-10 — [Senate 114-2-34](votes/senate-114-2-0034.md) — On Passage of the Bill — **Bill Passed** (94–1)
 - 2016-05-13 — [House 114-2-193](votes/house-114-2-0193.md) — On Passage — **Passed** (400–5)
+- 2016-05-17 — [House 114-2-198](votes/house-114-2-0198.md) — On Motion to Instruct Conferees — **Failed** (182–236)
+- 2016-06-16 — [Senate 114-2-100](votes/senate-114-2-0100.md) — On the Cloture Motion — **Cloture Motion Agreed to** (95–1)
+- 2016-06-16 — [Senate 114-2-101](votes/senate-114-2-0101.md) — On the Motion — **Motion Agreed to** (66–29)
+- 2016-06-16 — [Senate 114-2-102](votes/senate-114-2-0102.md) — On the Motion — **Motion Agreed to** (70–24)
+- 2016-07-08 — [House 114-2-399](votes/house-114-2-0399.md) — On Agreeing to the Conference Report — **Passed** (407–5)
+- 2016-07-13 — [Senate 114-2-126](votes/senate-114-2-0126.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–2)
+- 2016-07-13 — [Senate 114-2-129](votes/senate-114-2-0129.md) — On the Conference Report — **Conference Report Agreed to** (92–2)
 
 ## Actions
 
@@ -405,3 +413,48 @@ Comprehensive Addiction and Recovery Act of 2016
 - 2016-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2373)
 - 2016-05-13 — The previous question was ordered without objection. (consideration: CR H2376)
 - 2016-05-13 — The title of the measure was amended pursuant to H. Res. 725.
+- 2016-05-17 — Considered as unfinished business. (consideration: CR H2456-2457)
+- 2016-05-17 — Message on House action received in Senate and at desk: House amendments to Senate bill and House requests a conference.
+- 2016-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-17 — On motion that the House instruct conferees Failed by the Yeas and Nays: 182 - 236 (Roll no. 198).
+- 2016-05-17 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of title VII of the House amendment, and modifications committed to conference: Barletta, Carter of Georgia, and Scott of Virginia.
+- 2016-05-17 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of title III of the House amendment, and modifications committed to conference: Bilirakis, Walorski, and Ruiz.
+- 2016-05-17 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of sec. 705 of the Senate bill, and sec. 804 of the House amendment, and modifications committed to conference: Meehan, Dold, and McDermott.
+- 2016-05-17 — The Speaker appointed conferees for consideration of the Senate bill and the House amendments, and modifications committed to conference: Upton, Pitts, Lance, Guthrie, Kinzinger of Illinois, Bucshon, Brooks of Indiana, Goodlatte, Sensenbrenner, Smith of Texas, Marino, Collins of Georgia, Trott, Bishop of Michigan, McCarthy, Pallone, Ben Ray Luján of New Mexico, Sarbanes, Gene Green of Texas, Conyers, Jackson Lee, Judy Chu of California, Cohen, Esty, Kuster, and Courtney.
+- 2016-06-16 — Cloture motion on the motion to disagree to the House amendments to the Senate bill, agree to the request for conference, and the Presiding Officer appoint the following conferees: Grassley, Alexander, Hatch, Sessions, Leahy, Murray, and Wyden presented in Senate. (consideration: CR S4277; text: CR S4277)
+- 2016-06-16 — Cloture on the motion to disagree to the House amendments to the Senate bill, agree to the request for conference, and the Presiding Officer appoint the following conferees: Grassley, Alexander, Hatch, Sessions, Leahy, Murray, and Wyden invoked in Senate by Yea-Nay Vote. 95 - 1. Record Vote Number: 100. (consideration: CR S4283; text: CR S4283)
+- 2016-06-16 — Measure laid before Senate by unanimous consent. (consideration: CR S4277-4285)
+- 2016-06-16 — Message on Senate action sent to the House.
+- 2016-06-16 — Motion by Senator Shaheen to instruct Senate conferees agreed to in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 101. (consideration: CR S4284; text: CR S4284)
+- 2016-06-16 — Motion by Senator Whitehouse to instruct Senate conferees agreed to in Senate by Yea-Nay Vote. 70 - 24. Record Vote Number: 102. (consideration: CR S4284; text: CR S4284)
+- 2016-06-16 — Motion to disagree to the House amendments to the Senate bill, agree to the request for conference, and the Presiding Officer appoint the following conferees: Grassley, Alexander, Hatch, Sessions, Leahy, Murray, and Wyden agreed to in Senate by Voice Vote.
+- 2016-06-16 — Motion to disagree to the House amendments to the Senate bill, agree to the request for conference, and the Presiding Officer appoint the following conferees: Grassley, Alexander, Hatch, Sessions, Leahy, Murray, and Wyden made in Senate. (consideration: CR S4277)
+- 2016-06-16 — Senate disagrees to the House amendments to the Senate bill, agrees to the request for conference, and the Presiding Officer appoints the following conferees: Grassley, Alexander, Hatch, Sessions, Leahy, Murray, and Wyden.
+- 2016-07-06 — Conferees agreed to file conference report.
+- 2016-07-06 — Conference committee actions: Conferees agreed to file conference report.
+- 2016-07-06 — Conference report H. Rept. 114-669 filed. (text of conference report: CR H4392-4419)
+- 2016-07-06 — Conference report filed: Conference report H. Rept. 114-669 filed.(text of conference report: CR H4392-4419)
+- 2016-07-07 — Rule H. Res. 809 passed House.
+- 2016-07-07 — Rules Committee Resolution H. Res. 809 Reported to House. Rule provides for consideration of the conference report to S. 524 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Sec. 2 provides that upon adoption of the resolution, the House shall be considered to have taken S. 2943 from the Speaker's table, stricken all after the enacting clause and inserted the provisions of H.R. 4909 as passed by the House. S. 2943 shall be considered as passed as amended. It shall also be in order for the Chair of the Committee on Armed services to move that the House insist on its amendment to S. 2943 and request a conference with the Senate thereon.
+- 2016-07-08 — CALLING UP CONFERENCE REPORT - Pursuant to the provisions of H. Res. 809, the Chair recognized Mr. Upton for the purpose of calling up the conference report to accompany S. 524.
+- 2016-07-08 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 407 - 5 (Roll No. 399).(consideration: CR H4561)
+- 2016-07-08 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany S. 524.
+- 2016-07-08 — Motions to reconsider laid on the table Agreed to without objection.
+- 2016-07-08 — Mr. Upton brought up conference report H. Rept. 114-669 for consideration as a privileged matter. (consideration: CR H4554-4561)
+- 2016-07-08 — On agreeing to the conference report Agreed to by the Yeas and Nays: 407 - 5 (Roll No. 399). (consideration: CR H4561)
+- 2016-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4561)
+- 2016-07-11 — Cloture motion on the conference report to accompany S. 524 presented in Senate. (consideration: CR S4926; text: CR S4926)
+- 2016-07-11 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2016-07-11 — Conference report considered in Senate. (consideration: CR S4926-4929)
+- 2016-07-12 — Conference report considered in Senate. (consideration: CR S4955-4962, S4975-4993)
+- 2016-07-13 — Cloture on the conference report to accompany S. 524 invoked in Senate by Yea-Nay Vote. 90 - 2. Record Vote Number: 126. (consideration: CR S5027-5028; text: CR S5027)
+- 2016-07-13 — Conference report agreed to in Senate: Senate agreed to conference report to accompany S. 524 by Yea-Nay Vote. 92 - 2. Record Vote Number: 129.
+- 2016-07-13 — Conference report considered in Senate. (consideration: CR S5022-5028, S5045-5058, S5058-5066)
+- 2016-07-13 — Message on Senate action sent to the House.
+- 2016-07-13 — Senate agreed to conference report to accompany S. 524 by Yea-Nay Vote. 92 - 2. Record Vote Number: 129.
+- 2016-07-14 — Presented to President.
+- 2016-07-14 — Presented to President.
+- 2016-07-22 — Became Public Law No: 114-198.
+- 2016-07-22 — Became Public Law No: 114-198.
+- 2016-07-22 — Signed by President.
+- 2016-07-22 — Signed by President.
