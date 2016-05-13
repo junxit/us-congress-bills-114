@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 524
@@ -179,7 +179,7 @@ Comprehensive Addiction and Recovery Act of 2016
 
 - Senate — Judiciary Committee
 
-## Recorded votes (8)
+## Recorded votes (9)
 
 - 2016-02-29 — [Senate 114-2-27](votes/senate-114-2-0027.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–0)
 - 2016-03-02 — [Senate 114-2-28](votes/senate-114-2-0028.md) — On the Amendment — **Amendment Agreed to** (94–0)
@@ -189,6 +189,7 @@ Comprehensive Addiction and Recovery Act of 2016
 - 2016-03-07 — [Senate 114-2-32](votes/senate-114-2-0032.md) — On the Cloture Motion — **Cloture Motion Agreed to** (86–3)
 - 2016-03-09 — [Senate 114-2-33](votes/senate-114-2-0033.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–3)
 - 2016-03-10 — [Senate 114-2-34](votes/senate-114-2-0034.md) — On Passage of the Bill — **Bill Passed** (94–1)
+- 2016-05-13 — [House 114-2-193](votes/house-114-2-0193.md) — On Passage — **Passed** (400–5)
 
 ## Actions
 
@@ -384,3 +385,23 @@ Comprehensive Addiction and Recovery Act of 2016
 - 2016-03-10 — Message on Senate action sent to the House.
 - 2016-03-10 — Passed Senate with an amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 34. (text as passed Senate: CR S1404-1416)
 - 2016-03-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 34.(text as passed Senate: CR S1404-1416)
+- 2016-03-14 — Held at the desk.
+- 2016-03-14 — Received in the House.
+- 2016-05-12 — Rules Committee Resolution H. Res. 725 Reported to House. Rule provides for consideration of S. 524. Motion to recommit with or without instructions allowed. Bill is closed to amendments.
+- 2016-05-13 — Considered under the provisions of rule H. Res. 725. (consideration: CR H2355-2374)
+- 2016-05-13 — DEBATE - The House continued with debate on S. 524.
+- 2016-05-13 — DEBATE - The House proceeded with one hour of debate on S. 524.
+- 2016-05-13 — DEBATE - The House proceeded with one hour of debate on the Esty motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to recede to title III of the bill (relating to treatment and recovery programs).
+- 2016-05-13 — House amendment offered
+- 2016-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-13 — Mrs. Brooks (IN) asked unanimous consent that the House insist upon its amendments, and request a conference. (consideration: CR H2374)
+- 2016-05-13 — Ms. Esty moved that the House instruct conferees. (consideration: CR H2374-2375; text: CR H2374)
+- 2016-05-13 — On motion that the House insist upon its amendments, and request a conference Agreed to without objection.
+- 2016-05-13 — On passage Passed by the Yeas and Nays: 400 - 5 (Roll no. 193). (text: CR H2355-2368)
+- 2016-05-13 — POSTPONED PROCEEDINGS - The Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced that the noes had prevailed. Ms. Esty demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until a time to be announced.
+- 2016-05-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 400 - 5 (Roll no. 193).(text: CR H2355-2368)
+- 2016-05-13 — Rule H. Res. 725 passed House.
+- 2016-05-13 — Rule provides for consideration of S. 524. Motion to recommit with or without instructions allowed. Bill is closed to amendments.
+- 2016-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2373)
+- 2016-05-13 — The previous question was ordered without objection. (consideration: CR H2376)
+- 2016-05-13 — The title of the measure was amended pursuant to H. Res. 725.
