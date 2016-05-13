@@ -26,4 +26,4 @@ This Act may be cited as the “Department of Homeland Security Strategy for Int
   - **(2)** The number of Department personnel deployed to each location at which an international program referred to in subparagraph (A) is in operation during the current and preceding fiscal year.
   - **(3)** Analysis of the impact of each international program referred to in paragraph (1) on domestic activities of components of the Department of Homeland Security.
   - **(4)** Analysis of barriers to the expansion of an international program referred to in paragraph (1).
-- **(d)** *Form* The strategy required under subsection (a) shall be submitted in unclassified form by may contain a classified annex if the Secretary of Homeland Security determines that such is appropriate.
+- **(d)** *Form* The strategy required under subsection (a) shall be submitted in unclassified form but may contain a classified annex if the Secretary of Homeland Security determines that such is appropriate.
