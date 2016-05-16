@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5046
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5046
@@ -29,9 +29,10 @@ Comprehensive Opioid Abuse Reduction Act of 2016
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -146,3 +147,4 @@ Comprehensive Opioid Abuse Reduction Act of 2016
 - 2016-05-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5046.
 - 2016-05-12 — The Speaker designated the Honorable Virginia Foxx to act as Chairwoman of the Committee.
 - 2016-05-12 — The previous question was ordered pursuant to the rule. (consideration: CR H2316)
+- 2016-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
