@@ -1,26 +1,41 @@
 ---
 legis-num: H. CON. RES. 88
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. CON. RES. 88
 
-> Reaffirming the Taiwan Relations Act and the Six Assurances as the cornerstone of United States–Taiwan relations.
+> Reaffirming the Taiwan Relations Act and the Six Assurances as cornerstones of United States–Taiwan relations.
 
 ## Preamble
 
-- Whereas for more than 50 years, a close relationship has existed between the United States and Taiwan, which has been of major economic, cultural, and strategic advantage to both countries;
-- Whereas over the past two decades, the people of Taiwan have worked hard to establish a vibrant and pluralistic democracy in their country and conducted 5 successful Presidential elections, successive elections for members of their national legislature, numerous local elections, and 2 national referendums;
-- Whereas the United States has vital security and strategic interests in the Taiwan Strait, with United States troops stationed in countries within the Taiwan Strait region;
-- Whereas April 10, 2015, marked the 36th anniversary of the enactment of the Taiwan Relations Act (Public Law 96–8), codifying into law the basis for continued commercial, cultural, and other relations between the United States and Taiwan;
-- Whereas the Taiwan Relations Act has been instrumental in maintaining peace, security, and stability in the Taiwan Strait since its enactment in 1979;
-- Whereas when the Taiwan Relations Act was enacted, it affirmed that the United States decision to establish diplomatic relations with the People's Republic of China was based on the expectation that the future of Taiwan would be determined by peaceful means;
-- Whereas the Taiwan Relations Act declares that peace and stability in the area are in the political, security, and economic interests of the United States, and are matters of international concern;
-- Whereas the Taiwan Relations Act states that it is the policy of the United States to provide Taiwan with arms of a defensive character to maintain the capacity to resist any resort to force or other forms of coercion that would jeopardize the security, or the social or economic system, of the people on Taiwan;
-- Whereas the Taiwan Relations Act also states that “it is the policy of the United States to preserve and promote extensive, close, and friendly commercial, cultural and other relations between the people on Taiwan, as well as the people on the China mainland”;
-- Whereas in 1982, President Ronald Reagan wanted to reinforce United States support for Taiwan and therefore issued the Six Assurances; and
-- Whereas the Six Assurances are guidelines to conduct relations between the United States and Taiwan and stipulate that the United States would not— (1)set a date for termination of arms sales to Taiwan; (2)alter the terms of the Taiwan Relations Act; (3)consult with China in advance before making decisions about United States arms sales to Taiwan; (4)mediate between Taiwan and China; (5)alter its position about the sovereignty of Taiwan which was, that the question was one to be decided peacefully by the Chinese themselves, and would not pressure Taiwan to enter into negotiations with China; and (6)formally recognize Chinese sovereignty over Taiwan: Now, therefore, be it
+- Whereas the Cold War years cemented the close friendship between the United States and Taiwan, with Taiwan as an anti-Communist ally in the Asia-Pacific;
+- Whereas United States economic aid prevented Taiwan from sliding into an economic depression in the 1950s and greatly contributed to the island’s later economic takeoff;
+- Whereas Taiwan has flourished to become a beacon of democracy in Asia and leading trade partner for the United States, and the relationship has endured for more than 65 years through many shifts in Asia’s geopolitical landscape;
+- Whereas the strong relationship between the United States and Taiwan is based on mutually beneficial security, commercial, and cultural ties;
+- Whereas Deputy Assistant Secretary of State Susan Thornton stated in her testimony before the House Foreign Affairs Committee on February 11, 2016, that “The people on Taiwan have built a prosperous, free, and orderly society with strong institutions, worthy of emulation and envy”;
+- Whereas Deputy Secretary of State Antony J. Blinken stated on March 29, 2016, that with Taiwan’s January 2016 elections, “the people of Taiwan showed the world again what a mature, Chinese-speaking democracy looks like”;
+- Whereas on January 1, 1979, when the Carter Administration established diplomatic relations with the People’s Republic of China (PRC), it ended formal diplomatic ties with the Republic of China on Taiwan;
+- Whereas the United States Congress acted swiftly to reaffirm the United States-Taiwan relationship with the enactment of the Taiwan Relations Act just 100 days later, ensuring the United States maintained a robust and enduring relationship with Taiwan;
+- Whereas the Taiwan Relations Act (Public Law 96–8) was enacted on April 10, 1979, codifying into law the basis for continued commercial, cultural, and other relations between the United States and Taiwan;
+- Whereas the Taiwan Relations Act was enacted “to help maintain peace, security, and stability in the Western Pacific”, which “are in the political, security, and economic interests of the United States and are matters of international concern”;
+- Whereas the United States Congress significantly strengthened the draft legislation originally submitted by the Executive Branch to include provisions concerning Taiwan’s security in the Taiwan Relations Act;
+- Whereas then-Deputy Assistant Secretary of State Kin Moy stated in his written testimony before the House Foreign Affairs Committee on March 14, 2014, that, “Our enduring relationship under the Taiwan Relations Act represents a unique asset for the United States and is an important multiplier of our influence in the region”, and credited the Taiwan Relations Act for having “played such a key part in protecting Taiwan’s freedom of action and U.S. interests the last 35 years in the Asia-Pacific area”;
+- Whereas then-Special Assistant to the President and National Security Council Senior Director for Asian Affairs Evan Medeiros noted on March 28, 2014, that the Taiwan Relations Act was “an enduring expression to the people of Taiwan about our commitment to their well-being, their security, their economic autonomy, and their international space”;
+- Whereas the Taiwan Relations Act states “the United States decision to establish diplomatic relations with the People’s Republic of China rests upon the expectation that the future of Taiwan will be determined by peaceful means”;
+- Whereas the Taiwan Relations Act states that it is the policy of the United States to “provide Taiwan with arms of a defensive character” and “to maintain the capacity of the United States to resist any resort to force or other forms of coercion that would jeopardize the security, or the social or economic system, of the people on Taiwan”;
+- Whereas each successive United States Administration since the enactment of the Taiwan Relations Act has provided arms of a defensive character to Taiwan;
+- Whereas a 2015 Department of Defense report to Congress on Military and Security Developments Involving the People’s Republic of China stated that, “Preparing for potential conflict in the Taiwan Strait remains the focus and primary driver of China’s military investment”;
+- Whereas the United States has an abiding interest in the preservation of cross-Strait peace and stability, and in peace and stability in the entire Asia-Pacific region;
+- Whereas on July 14, 1982, as the United States negotiated with the People’s Republic of China over the wording of a joint communiqué related to United States arms sales to Taiwan, President Ronald Reagan instructed his representative in Taiwan, American Institute in Taiwan (AIT) Director James R. Lilley, to relay a set of assurances to Taiwan’s then-President Chiang Ching-kuo;
+- Whereas in House and Senate testimony immediately after the issuance of the August 17, 1982, Joint Communiqué with the PRC, then-Assistant Secretary of State for East Asian and Pacific Affairs John H. Holdridge stated on behalf of the Executive Branch that— (1)“* * * [W]e did not agree to set a date certain for ending arms sales to Taiwan”; (2)“* * * [W]e see no mediation role for the United States” between Taiwan and the PRC; (3)“* * *[N]or will we attempt to exert pressure on Taiwan to enter into negotiations with the PRC”; (4)“* * * [T]here has been no change in our longstanding position on the issue of sovereignty over Taiwan”; (5)“We have no plans to seek” revisions to the Taiwan Relations Act; and (6)the August 17 Communiqué, “should not be read to imply that we have agreed to engage in prior consultations with Beijing on arms sales to Taiwan”;
+- Whereas these assurances, first delivered to Taiwan’s president by AIT Director Lilley, have come to be known as the Six Assurances;
+- Whereas in testimony before the House Foreign Affairs Committee on October 4, 2011, then-Assistant Secretary of State Kurt Campbell stated that, “[The] Taiwan Relations Act, plus the so-called Six Assurances and Three Communiqués, form the foundation of our overall approach”, to relations with Taiwan; and
+- Whereas in testimony before the Senate Foreign Relations Committee on April 3, 2014, Assistant Secretary of State Daniel R. Russel stated that the Six Assurances “continue to play an important part as an element of our approach to Taiwan and the situation across the strait”: Now, therefore, be it
 
-That it is the sense of Congress that the United States hereby affirm that the Taiwan Relations Act and the Six Assurances together form the cornerstone of United States relations with Taiwan.
+That Congress—
+
+- **(1)** affirms that the Taiwan Relations Act and the Six Assurances are both cornerstones of United States relations with Taiwan; and
+- **(2)** urges the President and Department of State to affirm the Six Assurances publicly, proactively, and consistently as a cornerstone of United States-Taiwan relations.
