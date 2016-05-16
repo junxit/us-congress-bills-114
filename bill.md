@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4743
 
-> To authorize the Secretary of Homeland Security to establish a National Cybersecurity Preparedness Consortium, and for other purposes.
+> To authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, and for other purposes.
 
 ## § 1. Short title
 
@@ -29,5 +29,5 @@ This Act may be cited as the “National Cybersecurity Preparedness Consortium A
   - **(2)** Geographic diversity of the members of any such consortium so as to cover different regions across the United States.
 - **(e)** *Metrics* If the Secretary of Homeland Security works with a consortium pursuant to subsection (a), the Secretary shall measure the effectiveness of the activities undertaken by such consortium under this Act.
 - **(f)** *Outreach* The Secretary of Homeland Security shall conduct outreach to universities and colleges, including historically Black colleges and universities, Hispanic-serving institutions, Tribal Colleges and Universities, and other minority-serving institutions, regarding opportunities to support efforts to address cybersecurity risks and incidents, including threats of terrorism and acts of terrorism, by working with the Secretary pursuant to subsection (a).
-- **(g)** *Termination* The authority to carry out this Act shall terminate on the date that is five years after the date of the enactment of this Act.
+- **(g)** *Termination* The authority to carry out this Act shall terminate on the date that is 5 years after the date of the enactment of this Act.
 - **(h)** *Consortium defined* In this Act, the term “consortium” means a group primarily composed of non-profit entities, including academic institutions, that develop, update, and deliver cybersecurity training in support of homeland security.
