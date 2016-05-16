@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1818
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1818
@@ -93,9 +93,10 @@ Veteran Emergency Medical Technician Support Act of 2016
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -124,3 +125,4 @@ Veteran Emergency Medical Technician Support Act of 2016
 - 2016-05-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 188). (text: CR 5/11/16 CR H2267)
 - 2016-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 188).(text: CR 5/11/16 CR H2267)
+- 2016-05-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
