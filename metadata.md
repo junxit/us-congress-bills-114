@@ -1,7 +1,7 @@
 ---
 measure: S. 2921
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2921
@@ -16,7 +16,7 @@ Veterans First Act
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (31)
+## Cosponsors (36)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -49,6 +49,11 @@ Veterans First Act
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Donnelly, Joe [D-IN] (D000607)
 
 ## Committees (1)
 
@@ -58,3 +63,7 @@ Veterans First Act
 
 - 2016-05-11 — Introduced in Senate
 - 2016-05-11 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-05-12 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2016-05-16 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2016-05-16 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2016-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.
