@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4407
@@ -32,6 +32,10 @@ Counterterrorism Advisory Board Act of 2016
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2016-05-16 — [House 114-2-195](votes/house-114-2-0195.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (389–5)
+
 ## Actions
 
 - 2016-02-01 — Introduced in House
@@ -42,3 +46,11 @@ Counterterrorism Advisory Board Act of 2016
 - 2016-04-11 — Placed on the Union Calendar, Calendar No. 366.
 - 2016-04-11 — Reported by the Committee on Homeland Security. H. Rept. 114-481.
 - 2016-04-11 — Reported by the Committee on Homeland Security. H. Rept. 114-481.
+- 2016-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-05-16 — Considered as unfinished business. (consideration: CR H2416)
+- 2016-05-16 — Considered under suspension of the rules. (consideration: CR H2413-2415)
+- 2016-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4407.
+- 2016-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-16 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 5 (Roll no. 195). (text: CR H2413)
+- 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 5 (Roll no. 195).(text: CR H2413)
