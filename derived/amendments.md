@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1150
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-77 amendatory instructions. 19 executed, 58 stated and not applied.
+61 amendatory instructions. 13 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,12 @@ to guess them.
 
 ### 22 U.S.C. § 6411
 
-> in paragraph (2), by striking “a principal adviser” and inserting “the principal adviser”;
-
-| | |
-|---|---|
-| Removed | `a principal adviser` |
-| Inserted | `the principal adviser` |
-
-### 22 U.S.C. § 6411
-
-> in subsection (d), by striking “staff for the Office” and all that follows through the period at the end and inserting “individuals to fill at least 20 full-time equivalent staff positions, and other temporary staff positions as needed to compile, edit, and manage the Annual Report, including a senior advisor for the Office, under the direct supervision of the Ambassador at Large, for the conduct of investigations by the Office on conditions of religious freedom on a worldwide basis, and for any necessary travel to carry out the provisions of this Act. The Secretary of State shall also provide to the Ambassador at Large representation funds that are sufficient to carry out the duties described in this section at levels at least equal to the amount of representation funds provided to other Ambassadors at Large in the Department of State.”.
+> in subsection (d), by striking “staff for the Office” and all that follows through the period at the end and inserting “individuals to fill at least 25 full-time equivalent staff positions, and any other temporary staff positions as needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out the provisions of this Act. The Secretary of State should also provide to the Ambassador at Large funds that are sufficient to carry out the duties described in this section, including as necessary representation funds, in amounts comparable to those provided to other Ambassadors at Large in the Department of State.”.
 
 | | |
 |---|---|
 | Removed | `staff for the Office` |
-| Inserted | `individuals to fill at least 20 full-time equivalent staff positions, and other temporary staff positions as needed to compile, edit, and manage the Annual Report, including a senior advisor for the Office, under the direct supervision of the Ambassador at Large, for the conduct of investigations by the Office on conditions of religious freedom on a worldwide basis, and for any necessary travel to carry out the provisions of this Act. The Secretary of State shall also provide to the Ambassador at Large representation funds that are sufficient to carry out the duties described in this section at levels at least equal to the amount of representation funds provided to other Ambassadors at Large in the Department of State.` |
+| Inserted | `individuals to fill at least 25 full-time equivalent staff positions, and any other temporary staff positions as needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out the provisions of this Act. The Secretary of State should also provide to the Ambassador at Large funds that are sufficient to carry out the duties described in this section, including as necessary representation funds, in amounts comparable to those provided to other Ambassadors at Large in the Department of State.` |
 
 ### 22 U.S.C. § 6412
 
@@ -71,12 +62,21 @@ to guess them.
 
 ### 22 U.S.C. § 6412
 
-> by striking “policies in support” and inserting “religious engagement policies in support”; and
+> by striking “policies in support” and inserting “diplomatic and political coordination efforts, and other policies in support”; and
 
 | | |
 |---|---|
 | Removed | `policies in support` |
-| Inserted | `religious engagement policies in support` |
+| Inserted | `diplomatic and political coordination efforts, and other policies in support` |
+
+### 22 U.S.C. § 6412
+
+> by striking “section 402(b)(1)” and inserting “section 402(b)(1)(B)(i)”; and
+
+| | |
+|---|---|
+| Removed | `section 402(b)(1)` |
+| Inserted | `section 402(b)(1)(B)(i)` |
 
 ### 22 U.S.C. § 4028
 
@@ -98,21 +98,12 @@ to guess them.
 
 ### 22 U.S.C. § 6417
 
-> in the heading, by striking “Sense of the Congress” and inserting “Policy statement on diplomatic advocacy for prisoners of conscience”; and
+> in subsection (b), by striking “faith” and inserting “activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,”;
 
 | | |
 |---|---|
-| Removed | `Sense of the Congress` |
-| Inserted | `Policy statement on diplomatic advocacy for prisoners of conscience` |
-
-### 22 U.S.C. § 6417
-
-> by striking “it is the sense of the Congress that officials of the executive branch of Government should promote” and inserting “it shall be the policy of the United States Government that all officials of the executive branch, including the Secretary of State, the Ambassador at Large for Religious Freedom, and State Department officials from regional bureaus, as appropriate, shall promote”;
-
-| | |
-|---|---|
-| Removed | `it is the sense of the Congress that officials of the executive branch of Government should promote` |
-| Inserted | `it shall be the policy of the United States Government that all officials of the executive branch, including the Secretary of State, the Ambassador at Large for Religious Freedom, and State Department officials from regional bureaus, as appropriate, shall promote` |
+| Removed | `faith` |
+| Inserted | `activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,` |
 
 ### 22 U.S.C. § 6417
 
@@ -123,42 +114,6 @@ to guess them.
 | Removed | `, as appropriate, provide` |
 | Inserted | `make available` |
 
-### 22 U.S.C. § 6435
-
-> Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2015” and inserting “2021”.
-
-| | |
-|---|---|
-| Removed | `2015` |
-| Inserted | `2021` |
-
-### 22 U.S.C. § 6436
-
-> Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2015” and inserting “September 30, 2021”.
-
-| | |
-|---|---|
-| Removed | `September 30, 2015` |
-| Inserted | `September 30, 2021` |
-
-### 50 U.S.C. § 3021
-
-> by striking “It is the sense of that there should be” and inserting “The President shall appoint”; and
-
-| | |
-|---|---|
-| Removed | `It is the sense of that there should be` |
-| Inserted | `The President shall appoint` |
-
-### 50 U.S.C. § 3021
-
-> by striking “Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director” and inserting “Special Adviser for Global Religion Engagement and International Religious Freedom, whose position shall be comparable to that of a senior director”; and
-
-| | |
-|---|---|
-| Removed | `Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director` |
-| Inserted | `Special Adviser for Global Religion Engagement and International Religious Freedom, whose position shall be comparable to that of a senior director` |
-
 ### 22 U.S.C. § 6442
 
 > in subparagraph (C), by striking “September 1 of the respective year” and inserting “the date on which each Annual Report is submitted under section 102(b)”;
@@ -168,32 +123,23 @@ to guess them.
 | Removed | `September 1 of the respective year` |
 | Inserted | `the date on which each Annual Report is submitted under section 102(b)` |
 
-### 22 U.S.C. § 6443
+### 22 U.S.C. § 6447
 
-> Section 403(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6443(a)) is amended by striking “As soon as practicable” and inserting “Not later than 90 days”.
-
-| | |
-|---|---|
-| Removed | `As soon as practicable` |
-| Inserted | `Not later than 90 days` |
-
-### 22 U.S.C. § 6444
-
-> by striking “decides to take action under section 401” and inserting “takes action under section 401”;
+> by striking “subsection (b)” and inserting “subsection (c)”; and
 
 | | |
 |---|---|
-| Removed | `decides to take action under section 401` |
-| Inserted | `takes action under section 401` |
+| Removed | `subsection (b)` |
+| Inserted | `subsection (c)` |
 
-### 22 U.S.C. § 6444
+### 22 U.S.C. § 6447
 
-> by striking “decides to take action under paragraphs” and inserting “takes the required action under paragraphs”; and
+> by striking “that—” and all that follows and inserting “that the exercise of such waiver authority would further the purposes of this Act.”;
 
 | | |
 |---|---|
-| Removed | `decides to take action under paragraphs` |
-| Inserted | `takes the required action under paragraphs` |
+| Removed | `that—` |
+| Inserted | `that the exercise of such waiver authority would further the purposes of this Act.` |
 
 ## Stated, not applied
 
@@ -204,61 +150,51 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 6401` | insert | in paragraph (4), in the fourth sentence, by inserting “prohibitions on ritual animal slaughter, male infant circumcision, censorship of religious content, or worship on the Internet,” after “confiscations of property,”; | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6401` | amend | in paragraph (5), by amending the second sentence to read as follows: “In many countries, religious believers are forced to meet secretly, and religious leaders and believers are targeted by national security forces, violent nonstate act… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6401` | redesignate | by redesignating paragraph (7) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6401` | insert | by inserting after paragraph (6) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6401` | add-at-end | in subsection (b), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6402` | amend | by amending paragraph (12) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6401` | insert | in paragraph (3), by inserting immediately prior to the penultimate sentence the following new sentence: “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs as well as the right no… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6401` | insert | by inserting “and the specific targeting of non-theists, humanists, and atheists because of their beliefs” after “religious persecution”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6401` | insert | by inserting “and in regions where non-state actors exercise significant political power and influence” after “religious majorities”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6401` | add-at-end | Section 2(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6401(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6402` | redesignate | by redesignating clauses (iv) and (v) as clauses (v) and (vi), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6402` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6402` | insert | by inserting “conscience, non-theistic views, or” before “religious belief or practice”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6402` | insert | by inserting after “forced religious conversion” the following: “, forcibly compelling non-believers or non-theists to recant their beliefs or to convert”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1001` | add-at-end | by adding at the end, the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6411` | add-at-end | in subsection (a), by adding at the end the following new sentence: “The Office shall be located in the Office of the Secretary of State.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6411` | add-at-end | in subsection (b), by adding at the end before the period the following: “, and shall report directly to the Secretary of State”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6411` | replace | by striking “shall be to advance” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 6411` | replace | in subparagraph (A), as so added, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6411` | replace | in subparagraph (A) (as so added), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6411` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6411` | insert | in paragraph (2), by inserting “the principal adviser to” before “the Secretary of State”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6411` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 6411` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6411` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6411` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6411` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6412` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 6412` | replace | in clause (iv), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6412` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6412` | redesignate | by redesignating clause (iv) as clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6412` | insert | by inserting after clause (iii) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6412` | insert | by inserting “persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male inf… | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6412` | insert | by inserting “policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country,” after “such groups,”; | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6412` | add-at-end | by adding at the end before the period the following: “, and a unique, comprehensive, and country-specific analysis of the impact of actions by the United States on the status of religious freedom in each such country”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6412` | add-at-end | in subparagraph (F), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6412` | add-at-end | by adding at the end before the period the following: “, and a comprehensive and country-specific analysis of the impact of actions by the United States on the status of religious freedom in each such country”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6412` | add-at-end | by adding at the end the following: “Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 301 of the Frank R. Wolf International Religious Freedom Act is located shall b… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6412` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4028` | redesignate | by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4028` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6417` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6431` | insert | Subsection (a) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by inserting before the period at the end the following: “, which shall be an independent Federal Government advisory body”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6431` | insert | Subsection (b)(2)(A) of such section is amended by inserting at the end the following new sentence: “The Commission as a whole shall also have expertise on the variety of faiths practiced around the world.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6431` | replace | Subsection (b)(3) of such section is amended by striking “The appointments required by paragraph (1) shall be made not later than 120 days after the date of the enactment of this Act.” and inserting the following: “An appointment require… | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 6431` | strike | Subsection (g) of such section is amended by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6432b` | insert | Subsection (a) of section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended in the second sentence, by inserting “voting” after “nine”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6432b` | insert | Subsection (b) of such section is amended by inserting “voting members of the” after “The”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6432b` | add-at-end | Subsection (e) of such section is amended by adding at the end the following new sentence: “The Department of State is encouraged to allow Commissioners and Commission staff with the appropriate security clearance access to classified in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6432b` | insert | Subsection (g) of such section is amended by inserting “, including discrimination on the basis of religion” after “employment discrimination”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6435a` | add-at-end | Section 208(d)(2) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435a(d)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3021` | replace | by striking the second and third sentences and inserting the following: “The Special Adviser, shall assist the Ambassador at Large for International Religious Freedom described in section 101 of the International Religious Freedom Act of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3021` | add-at-end | by adding at the end, the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6441` | amend | Section 401(b)(2) of the International Religious Freedom Act of 1998 (22 U.S.C. 6441(b)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3021` | replace | Section 101 of the National Security Act of 1947 (50 U.S.C. 3021) is amended by striking subsection (k) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6442` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6442` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6442` | add-at-end | by adding at the end, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6442` | insert | in subsection (c)(5), in the second sentence, by inserting “and include a description of the impact of the designation of such sanction or sanctions that exist in each country” after “determines satisfy the requirements of this subsection”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6444` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 6444` | replace | in clause (iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6444` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6447` | insert | in subsection (a), by inserting “, for a 180-day period,” after “may waive”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6447` | insert | by inserting “, for a single 180-day period,” after “may waive”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6447` | redesignate | by redesignating subsection (b) as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6447` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6447` | insert | in subsection (c), by inserting “or (b)” after “subsection (a)”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6447` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6449` | amend | Section 409 of the International Religious Freedom Act of 1998 (22 U.S.C. 6449) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6441` | insert | Title IV of the International Religious Freedom Act of 1998 (22 U.S.C. 6441 et seq.) is amended by inserting after section 405 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 501 of the International Religious Freedom Act of 1998 is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 6448` | add-at-end | Section 408(a)(1) of the International Religious Freedom Act of 1998 (22 U.S.C. 6448(a)(1)) is amended by adding at the end the following: “Any designation of a non-state actor as an entity of particular concern for religious freedom und… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6471` | redesignate | by redesignating section 605 as section 606; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | by inserting after section 604 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6471` | insert | by inserting after section 604 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6481` | add-at-end | Title VII of the International Religious Freedom Act of 1998 (22 U.S.C. 6481 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 6401` | insert | by inserting after the item relating to section 405 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6401` | replace | by striking the item relating to section 605 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6401` | insert | by inserting after the item relating to section 604 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6401` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
