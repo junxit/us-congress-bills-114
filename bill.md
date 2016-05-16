@@ -25,8 +25,8 @@ The Secretary of the Treasury, or the Secretary’s delegate, shall establish an
   > If the Secretary determines that there was an unauthorized use of the identity of any taxpayer, the Secretary shall—
   >
   > - **(1)** as soon as practicable and without jeopardizing an investigation relating to tax administration, notify the taxpayer and include with that notice—
-  >   - **(A)** instructions to the taxpayer about filing a police report, and
-  >   - **(B)** the forms the taxpayer must submit to allow investigating law enforcement officials to access the taxpayer’s personal information, and
+  >   - **(A)** instructions to the taxpayer about filing a police report; and
+  >   - **(B)** the forms the taxpayer must submit to allow investigating law enforcement officials to access the taxpayer’s personal information; and
   > - **(2)** if any person is criminally charged by indictment or information relating to such unauthorized use, notify such taxpayer as soon as practicable of such charge.
 
 - **(b)** *Clerical amendment* The table of sections for chapter 77 of such Code is amended by adding at the end the following new item:
@@ -36,18 +36,11 @@ The Secretary of the Treasury, or the Secretary’s delegate, shall establish an
 
 The Secretary of the Treasury (or the Secretary’s delegate) shall submit a feasibility study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing a program under which a person who has filed an identity theft affidavit with the Secretary may elect to prevent the processing of any Federal tax return submitted in an electronic format by that taxpayer or a person purporting to be that taxpayer. The study shall be submitted within 180 days after the date of the enactment of this Act and should also include a recommendation on whether to implement such a program.
 
-## § 5. Criminal penalty for using a false identity in connection with tax fraud
-
-- **(a)** *Aggravated identity theft* Section 1028A(c) of title 18, United States Code, is amended by striking “or” at the end of paragraph (10), by striking the period at the end of paragraph (11) and inserting “; or”, and by adding at the end the following new paragraph:
-  > - **(12)** section 7206(b) of the Internal Revenue Code of 1986 (relating to use of false identity in connection with tax fraud).
-
-- **(b)** *Effective date* The amendments made by this section shall apply to offenses committed after the date of the enactment of this Act.
-
-## § 6. Use of information in Do Not Pay Initiative in prevention of identity theft refund fraud
+## § 5. Use of information in Do Not Pay Initiative in prevention of identity theft refund fraud
 
 The Secretary of the Treasury, and the Secretary’s delegate, shall use the information available under the Do Not Pay Initiative established under section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) to help prevent identity theft refund fraud.
 
-## § 7. Report on identity theft refund fraud
+## § 6. Report on identity theft refund fraud
 
 - **(a)** *In general* Not later than September 30, 2018, and biannually thereafter through September 30, 2023, the Secretary of the Treasury (or the Secretary’s delegate) shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the extent and nature of fraud involving the use of a misappropriated taxpayer identity with respect to claims for refund under the Internal Revenue Code of 1986 during the preceding completed income tax filing season, and the detection, prevention, and enforcement activities undertaken by the Internal Revenue Service with respect to such fraud, including—
   - **(1)** detailing efforts to combat identity theft fraud, including an update on the victims’ assistance unit;
@@ -58,12 +51,12 @@ The Secretary of the Treasury, and the Secretary’s delegate, shall use the inf
   - **(1)** an assessment of the agency’s progress on identity theft outreach and education to the private sector, State agencies, and external organizations; and
   - **(2)** the results of a feasibility study on the costs and benefits to enhancing its taxpayer authentication approach to the electronic tax return filing process.
 
-## § 8. Information sharing and analysis center
+## § 7. Information sharing and analysis center
 
 - **(a)** *In general* The Secretary (or the Secretary’s delegate) shall establish an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft.
 - **(b)** *Report* Not later than 1 year after establishment of the information sharing and analysis center, the Secretary (or the Secretary’s delegate) shall submit a report to the Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate on the information sharing and analysis center described in subsection (a). The report shall include the data that was shared, the use of such data, and the results of the data sharing and analysis center in combating identity theft.
 
-## § 9. Local law enforcement liaison
+## § 8. Local law enforcement liaison
 
 - **(a)** *Establishment* The Commissioner of Internal Revenue shall establish within the Criminal Investigation Division of the Internal Revenue Service the position of Local Law Enforcement Liaison.
 - **(b)** *Duties* The Local Law Enforcement Liaison shall serve as the primary source of contact for State and local law enforcement authorities with respect to tax-related identity theft, having duties that shall include—
@@ -73,7 +66,7 @@ The Secretary of the Treasury, and the Secretary’s delegate, shall use the inf
   - **(4)** ensuring any information provided through authorized information-sharing initiatives with State or local law enforcement authorities is used only for the prosecution of identity theft-related crimes and not re-disclosed to third parties; and
   - **(5)** such other duties relating to tax-related identity theft prevention as are delegated by the Commissioner of Internal Revenue.
 
-## § 10. IRS phone scam report
+## § 9. IRS phone scam report
 
 - **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Inspector General for Tax Administration, in consultation with the Federal Communications Commission and the Federal Trade Commission, shall submit a report to Congress regarding identity theft phone scams under which individuals attempt to obtain personal information over the phone from taxpayers by falsely claiming to be calling from or on behalf the Internal Revenue Service.
 - **(b)** *Contents of report* Such report shall include—
@@ -82,10 +75,14 @@ The Secretary of the Treasury, and the Secretary’s delegate, shall use the inf
   - **(3)** an estimate of the amount of wrongful payments obtained from such scams; and
   - **(4)** details of potential solutions to combat and prevent such scams, including best practices from the private sector and technological solutions.
 
-## § 11. Providing identity theft prevention information while on hold with Internal Revenue Service
+## § 10. Providing identity theft prevention information while on hold with Internal Revenue Service
 
 The Secretary of the Treasury, or the Secretary’s delegate, shall ensure that if a taxpayer is on hold with the Internal Revenue Service on a taxpayer service telephone call the following information is provided:
 
 - **(1)** Basic information about common identity theft tax scams.
 - **(2)** Directions on where to report such activity.
 - **(3)** Tips on how to protect against identity theft tax scams.
+
+## § 11. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.

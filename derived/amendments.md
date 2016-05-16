@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3832
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 26 U.S.C. § 7206
-
-> Section 1028A(c) of title 18, United States Code, is amended by striking “or” at the end of paragraph (10), by striking the period at the end of paragraph (11) and inserting “; or”, and by adding at the end the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `or` |
-| Inserted | `; or` |
 
 ## Stated, not applied
 
