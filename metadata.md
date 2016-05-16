@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 387
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 387
@@ -28,3 +28,7 @@ A resolution congratulating the Historic Columbia River Highway on its 100th yea
 
 - 2016-03-03 — Introduced in Senate
 - 2016-03-03 — Referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S1282)
+- 2016-05-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-05-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-05-16 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2832)
+- 2016-05-16 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S2832)
