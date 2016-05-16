@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4780
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4780
@@ -30,3 +30,9 @@ Department of Homeland Security Strategy for International Programs Act
 - 2016-05-13 — Placed on the Union Calendar, Calendar No. 439.
 - 2016-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-566.
 - 2016-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-566.
+- 2016-05-16 — Considered under suspension of the rules. (consideration: CR H2411-2413)
+- 2016-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4780.
+- 2016-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-16 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
+- 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2411-2412)
+- 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2411-2412)
