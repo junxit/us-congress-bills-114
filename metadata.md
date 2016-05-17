@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4743
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4743
@@ -25,9 +25,10 @@ National Cybersecurity Preparedness Consortium Act of 2016
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ National Cybersecurity Preparedness Consortium Act of 2016
 - 2016-05-16 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 194). (text: CR H2409)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 194).(text: CR H2409)
+- 2016-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
