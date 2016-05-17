@@ -2,12 +2,12 @@
 legis-num: H.R. 1887
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1887
 
-> To amend certain appropriation Acts to repeal the requirement directing the Administrator of General Services to sell Federal property and assets that support the operations of the Plum Island Animal Disease Center in Plum Island, New York, and for other purposes.
+> To authorize the Comptroller General of the United States to assess a study on the alternatives for the disposition of Plum Island Animal Disease Center, and for other purposes.
 
 ## § 1. Findings
 
@@ -39,7 +39,7 @@ Congress finds the following:
     - **(B)** A description of the Secretary of Homeland Security’s coordination with the Administrator of General Services, the Secretary of the Interior, and the Administrator of the Environmental Protection Agency in conducting the Department of Homeland Security study referred to in section 1(8).
 - **(b)** *Study by Comptroller General*
   - **(1)** *Study required* If the Comptroller General of the United States determines that the methodologies referred to in subsection (a)(1) do not adequately support the Department of Homeland Security’s findings related to an issue described in subparagraphs (A) through (C) of such subsection, the Comptroller General shall conduct a study on any such issue.
-  - **(2)** *Report required* If the Comptroller General of the United States conducts a study under paragraph (1), not later than one year after the date on which the Department of Homeland Security completes the study referred to in section 1(8), the Comptroller General shall submit to Congress a report containing the results of the study conducted under paragraph (1).
+  - **(2)** *Report required* If the Comptroller General of the United States conducts a study under paragraph (1), not later than 1 year after the date on which the Department of Homeland Security completes the study referred to in section 1(8), the Comptroller General shall submit to Congress a report containing the results of the study conducted under paragraph (1).
 
 ## § 3. Suspension of action
 

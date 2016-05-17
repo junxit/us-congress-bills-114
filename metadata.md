@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1887
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1887
@@ -66,3 +66,4 @@ To authorize the Comptroller General of the United States to assess a study on t
 - 2016-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-568.
 - 2016-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-568.
 - 2016-05-16 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-17 — Received in the Senate.
