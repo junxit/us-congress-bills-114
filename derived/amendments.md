@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3484
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2272) is amended by striking “The Secretary of Veterans Affairs” and inserting “Except as autho… | the bill names no machine-readable US Code section |
-| — | insert | Section 8162(c) of title 38, United States Code, is amended by inserting “, other than an enhanced-use lease under section 2 of the Los Angeles Homeless Veterans Leasing Act of 2015,” before “shall be considered”. | the bill names no machine-readable US Code section |
+| — | insert | Section 8162(c) of title 38, United States Code, is amended by inserting “, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016,” before “shall be considered”. | the bill names no machine-readable US Code section |
