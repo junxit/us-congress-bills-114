@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3832
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3832
@@ -45,10 +45,11 @@ Stolen Identity Refund Fraud Prevention Act of 2016
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Stolen Identity Refund Fraud Prevention Act of 2016
 - 2016-05-16 — Mr. Renacci moved to suspend the rules and pass the bill, as amended.
 - 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2392)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2392)
+- 2016-05-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
