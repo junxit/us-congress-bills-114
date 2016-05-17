@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4407
@@ -28,9 +28,10 @@ Counterterrorism Advisory Board Act of 2016
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Counterterrorism Advisory Board Act of 2016
 - 2016-05-16 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 5 (Roll no. 195). (text: CR H2413)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 5 (Roll no. 195).(text: CR H2413)
+- 2016-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
