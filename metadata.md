@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4780
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4780
@@ -16,9 +16,10 @@ Department of Homeland Security Strategy for International Programs Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Department of Homeland Security Strategy for International Programs Act
 - 2016-05-16 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2411-2412)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2411-2412)
+- 2016-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
