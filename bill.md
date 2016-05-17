@@ -17,61 +17,58 @@ This Act may be cited as the “Justice Against Sponsors of Terrorism Act”.
 
 - **(a)** *Findings* Congress finds the following:
   - **(1)** International terrorism is a serious and deadly problem that threatens the vital interests of the United States.
-  - **(2)** The Constitution confers upon Congress the power to punish crimes against the law of nations and therefore Congress may by law impose penalties on those who provide material support to foreign organizations engaged in terrorist activity, and allow for victims of international terrorism to recover damages from those who have harmed them.
-  - **(3)** International terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States.
-  - **(4)** Some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds outside of the United States for conduct directed and targeted at the United States.
-  - **(5)** It is necessary to recognize the substantive causes of action for aiding and abetting and conspiracy liability under the Anti-Terrorism Act of 1987 (22 U.S.C. 5201 et seq.).
-  - **(6)** The decision of the United States Court of Appeals for the District of Columbia in Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), which has been widely recognized as the leading case regarding Federal civil aiding and abetting and conspiracy liability, including by the Supreme Court of the United States, provides the proper legal framework for how such liability should function in the context of the Anti-Terrorism Act of 1987 (22 U.S.C. 5201 et seq.).
-  - **(7)** The United Nations Security Council declared in Resolution 1373, adopted on September 28, 2001, that all countries have an affirmative obligation to “[r]efrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts,” and to “[e]nsure that any person who participates in the financing, planning, preparation or perpetration of terrorist acts or in supporting terrorist acts is brought to justice”.
-  - **(8)** Consistent with these declarations, no country has the discretion to engage knowingly in the financing or sponsorship of terrorism, whether directly or indirectly.
-  - **(9)** Persons, entities, or countries that knowingly or recklessly contribute material support or resources, directly or indirectly, to persons or organizations that pose a significant risk of committing acts of terrorism that threaten the security of nationals of the United States or the national security, foreign policy, or economy of the United States, necessarily direct their conduct at the United States, and should reasonably anticipate being brought to court in the United States to answer for such activities.
-  - **(10)** The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to the persons or organizations responsible for their injuries.
+  - **(2)** International terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States.
+  - **(3)** Some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds outside of the United States for conduct directed and targeted at the United States.
+  - **(4)** It is necessary to recognize the substantive causes of action for aiding and abetting and conspiracy liability under chapter 113B of title 18, United States Code.
+  - **(5)** The decision of the United States Court of Appeals for the District of Columbia in Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), which has been widely recognized as the leading case regarding Federal civil aiding and abetting and conspiracy liability, including by the Supreme Court of the United States, provides the proper legal framework for how such liability should function in the context of chapter 113B of title 18, United States Code.
+  - **(6)** Persons, entities, or countries that knowingly or recklessly contribute material support or resources, directly or indirectly, to persons or organizations that pose a significant risk of committing acts of terrorism that threaten the security of nationals of the United States or the national security, foreign policy, or economy of the United States, necessarily direct their conduct at the United States, and should reasonably anticipate being brought to court in the United States to answer for such activities.
+  - **(7)** The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to the persons or organizations responsible for their injuries.
 - **(b)** *Purpose* The purpose of this Act is to provide civil litigants with the broadest possible basis, consistent with the Constitution of the United States, to seek relief against persons, entities, and foreign countries, wherever acting and wherever they may be found, that have provided material support, directly or indirectly, to foreign organizations or persons that engage in terrorist activities against the United States.
 
-## § 3. Foreign sovereign immunity
+## § 3. Responsibility of foreign states for international terrorism against the United States
 
-Section 1605(a) of title 28, United States Code, is amended—
+- **(a)** *In general* Chapter 97 of title 28, United States Code, is amended by inserting after section 1605A the following:
+  > ## § 1605B. Responsibility of foreign states for international terrorism against the United States
+  >
+  > - **(a)** *Definition* In this section, the term international terrorism—
+  >   - **(1)** has the meaning given the term in section 2331 of title 18, United States Code; and
+  >   - **(2)** does not include any act of war (as defined in that section).
+  > - **(b)** *Responsibility of foreign states* A foreign state shall not be immune from the jurisdiction of the courts of the United States in any case in which money damages are sought against a foreign state for physical injury to person or property or death occurring in the United States and caused by—
+  >   - **(1)** an act of international terrorism in the United States; and
+  >   - **(2)** a tortious act or acts of the foreign state, or of any official, employee, or agent of that foreign state while acting within the scope of his or her office, employment, or agency, regardless where the tortious act or acts of the foreign state occurred.
+  > - **(c)** *Claims by nationals of the United States* Notwithstanding section 2337(2) of title 18, a national of the United States may bring a claim against a foreign state in accordance with section 2333 of that title if the foreign state would not be immune under subsection (b).
+  > - **(d)** *Rule of construction* A foreign state shall not be subject to the jurisdiction of the courts of the United States under subsection (b) on the basis of an omission or a tortious act or acts that constitute mere negligence.
 
-- **(1)** by amending paragraph (5) to read as follows:
-  > - **(5)** not otherwise encompassed in paragraph (2), in which money damages are sought against a foreign state arising out of physical injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of the office or employment of the official or employee (regardless of where the underlying tortious act or omission occurs), including any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act, except this paragraph shall not apply to—
-  >   - **(A)** any claim based upon the exercise or performance of, or the failure to exercise or perform, a discretionary function, regardless of whether the discretion is abused; or
-  >   - **(B)** any claim arising out of malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, interference with contract rights, or any claim for emotional distress or derivative injury suffered as a result of an event or injury to another person that occurs outside of the United States; or
-
-- **(2)** by inserting after subsection (d) the following:
-  > - **(e)** *Definitions* For purposes of subsection (a)(5)—
-  >   - **(1)** the terms “aircraft sabotage”, extrajudicial killing, “hostage taking”, and “material support or resources” have the meanings given those terms in section 1605A(h); and
-  >   - **(2)** the term “terrorism” means international terrorism and domestic terrorism, as those terms are defined in section 2331 of title 18.
+- **(b)** *Technical and conforming amendments*
+  - **(1)** The table of sections for chapter 97 of title 28, United States Code, is amended by inserting after the item relating to section 1605A the following:
+  - **(2)** Subsection 1605(g)(1)(A) of title 28, United States Code, is amended by inserting “or section 1605B” after “but for section 1605A”.
 
 ## § 4. Aiding and abetting liability for civil actions regarding terrorist acts
 
 - **(a)** *In general* Section 2333 of title 18, United States Code, is amended by adding at the end the following:
-  > - **(d)** *Liability* In an action under subsection (a) for an injury arising from an act of international terrorism committed, planned, or authorized by an organization that had been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189), as of the date on which such act of international terrorism was committed, planned, or authorized, or that was so designated as a result of such act of international terrorism, liability may be asserted as to any person who aided, abetted, or conspired with the person who committed such an act of international terrorism.
+  > - **(d)** *Liability*
+  >   - **(1)** *Definition* In this subsection, the term person has the meaning given the term in section 1 of title 1.
+  >   - **(2)** *Liability* In an action under subsection (a) for an injury arising from an act of international terrorism committed, planned, or authorized by an organization that had been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189), as of the date on which such act of international terrorism was committed, planned, or authorized, liability may be asserted as to any person who aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed such an act of international terrorism.
 
-- **(b)** *Effect on Foreign Sovereign Immunities Act* Nothing in the amendments made by this section affects immunity of a foreign state, as that term is defined in section 1603 of title 28, United States Code, from jurisdiction under other law.
+- **(b)** *Effect on Foreign Sovereign Immunities Act* Nothing in the amendment made by this section affects immunity of a foreign state, as that term is defined in section 1603 of title 28, United States Code, from jurisdiction under other law.
 
-## § 5. Personal jurisdiction for civil actions regarding terrorist acts
+## § 5. Stay of actions pending state negotiations
 
-Section 2334 of title 18, United States Code, is amended by inserting at the end the following:
+- **(a)** *Exclusive jurisdiction* The courts of the United States shall have exclusive jurisdiction in any action in which a foreign state is subject to the jurisdiction of a court of the United States under section 1605B of title 28, United States Code, as added by section 3(a) of this Act.
+- **(b)** *Intervention* The Attorney General may intervene in any action in which a foreign state is subject to the jurisdiction of a court of the United States under section 1605B of title 28, United States Code, as added by section 3(a) of this Act, for the purpose of seeking a stay of the civil action, in whole or in part.
+- **(c)** *Stay*
+  - **(1)** *In general* A court of the United States may stay a proceeding against a foreign state if the Secretary of State certifies that the United States is engaged in good faith discussions with the foreign state defendant concerning the resolution of the claims against the foreign state, or any other parties as to whom a stay of claims is sought.
+  - **(2)** *Duration*
+    - **(A)** *In general* A stay under this section may be granted for not more than 180 days.
+    - **(B)** *Extension*
+      - **(i)** *In general* The Attorney General may petition the court for an extension of the stay for additional 180-day periods.
+      - **(ii)** *Recertification* A court shall grant an extension under clause (i) if the Secretary of State recertifies that the United States remains engaged in good faith discussions with the foreign state defendant concerning the resolution of the claims against the foreign state, or any other parties as to whom a stay of claims is sought.
 
-> - **(e)** *Personal jurisdiction* The district courts shall have personal jurisdiction, to the maximum extent permissible under the 5th Amendment to the Constitution of the United States, over any person who commits or aids and abets an act of international terrorism or otherwise sponsors such act or the person who committed such act, for acts of international terrorism in which any national of the United States suffers injury in his or her person, property, or business by reason of such an act in violation of section 2333.
-
-## § 6. Liability for Government officials in civil actions regarding terrorist acts
-
-Section 2337 of title 18, United States Code, is amended to read as follows:
-
-> ## § 2337. Suits against Government officials
->
-> No action may be maintained under section 2333 against—
->
-> - **(1)** the United States;
-> - **(2)** an agency of the United States; or
-> - **(3)** an officer or employee of the United States or any agency of the United States acting within the official capacity of the officer or employee or under color of legal authority.
-
-## § 7. Severability
+## § 6. Severability
 
 If any provision of this Act or any amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of the provisions and amendments to any other person not similarly situated or to other circumstances, shall not be affected by the holding.
 
-## § 8. Effective Date
+## § 7. Effective date
 
 The amendments made by this Act shall apply to any civil action—
 

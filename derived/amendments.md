@@ -1,7 +1,7 @@
 ---
 measure: S. 2040
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,13 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | by amending paragraph (5) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| `28 U.S.C. § 1605A` | insert | Chapter 97 of title 28, United States Code, is amended by inserting after section 1605A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1605A` | insert | The table of sections for chapter 97 of title 28, United States Code, is amended by inserting after the item relating to section 1605A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1605A` | insert | Subsection 1605(g)(1)(A) of title 28, United States Code, is amended by inserting “or section 1605B” after “but for section 1605A”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1189` | add-at-end | Section 2333 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 2334 of title 18, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2337 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (5) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| `8 U.S.C. § 1189` | add-at-end | Section 2333 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 2334 of title 18, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2337 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
