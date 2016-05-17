@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5266
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5266
+
+> To amend title 10, United States Code, to ensure that information regarding the deduction of amounts of disability compensation by reason of voluntary separation pay is provided to members of the Armed Forces separating from the Armed Forces.
+
+## § 1. Short title
+
+This Act may be cited as the “Servicemember and Veteran Financial Transparency Act”.
+
+## § 2. Inclusion of information in Transition Assistance Program
+
+Section 1144(b) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(10)** Provide information regarding the deduction of disability compensation paid by the Secretary of Veterans Affairs pursuant to section 1175a(h) of this title by reason of voluntary separation pay received by the member.
