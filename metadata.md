@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 88
@@ -36,9 +36,10 @@ Reaffirming the Taiwan Relations Act and the Six Assurances as cornerstones of U
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Reaffirming the Taiwan Relations Act and the Six Assurances as cornerstones of U
 - 2016-05-16 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2395)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2395)
 - 2016-05-16 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-17 — Received in the Senate and referred to the Committee on Foreign Relations.
