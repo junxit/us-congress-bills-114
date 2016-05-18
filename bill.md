@@ -2,7 +2,7 @@
 legis-num: H. RES. 736
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 736
@@ -16,8 +16,6 @@ That (a) at any time after adoption of this resolution the Speaker may, pursuant
   - **(2)** no pro forma amendment shall be in order except that the chair and ranking minority member of the Committee on Appropriations or their respective designees may offer up to 10 pro forma amendments each at any point for the purpose of debate; and
   - **(3)** the chair of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII. Amendments so printed shall be considered as read.
 - **(c)** When the committee rises and reports the bill back to the House with a recommendation that the bill do pass, the previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.
-- **(a)**
-- **(a)**
 
 ## § 2.
 
