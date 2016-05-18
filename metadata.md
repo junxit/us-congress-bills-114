@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3114
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3114
@@ -55,3 +55,7 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - 2015-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 632). (text: CR 11/16/2015 H8169)
 - 2015-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 632).(text: CR 11/16/2015 H8169)
 - 2015-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2016-05-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
