@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3114
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3114
@@ -59,3 +59,12 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
+- 2016-06-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4560)
+- 2016-06-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4560)
+- 2016-06-24 — Message on Senate action sent to the House.
+- 2016-06-29 — Presented to President.
+- 2016-06-29 — Presented to President.
+- 2016-07-06 — Became Public Law No: 114-189.
+- 2016-07-06 — Became Public Law No: 114-189.
+- 2016-07-06 — Signed by President.
+- 2016-07-06 — Signed by President.
