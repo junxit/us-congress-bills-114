@@ -1,7 +1,7 @@
 ---
 measure: S. 2754
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2754
@@ -28,3 +28,7 @@ To designate the Federal building and United States courthouse located at 300 Fa
 
 - 2016-04-06 — Introduced in Senate
 - 2016-04-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-05-18 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. Without written report.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. Without written report.
+- 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.
