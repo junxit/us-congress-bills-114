@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4909
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4909
@@ -23,6 +23,21 @@ National Defense Authorization Act for Fiscal Year 2017
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (12)
+
+- 2016-05-18 — [House 114-2-203](votes/house-114-2-0203.md) — On Agreeing to the Amendment — **Failed** (211–213)
+- 2016-05-18 — [House 114-2-204](votes/house-114-2-0204.md) — On Agreeing to the Amendment — **Failed** (163–259)
+- 2016-05-18 — [House 114-2-205](votes/house-114-2-0205.md) — On Agreeing to the Amendment — **Agreed to** (243–180)
+- 2016-05-18 — [House 114-2-208](votes/house-114-2-0208.md) — On Agreeing to the Amendment — **Failed** (159–266)
+- 2016-05-18 — [House 114-2-209](votes/house-114-2-0209.md) — On Agreeing to the Amendment — **Agreed to** (227–198)
+- 2016-05-18 — [House 114-2-210](votes/house-114-2-0210.md) — On Agreeing to the Amendment — **Failed** (138–285)
+- 2016-05-18 — [House 114-2-211](votes/house-114-2-0211.md) — On Agreeing to the Amendment — **Failed** (63–360)
+- 2016-05-18 — [House 114-2-212](votes/house-114-2-0212.md) — On Agreeing to the Amendment — **Failed** (131–292)
+- 2016-05-18 — [House 114-2-213](votes/house-114-2-0213.md) — On Agreeing to the Amendment — **Failed** (132–289)
+- 2016-05-18 — [House 114-2-214](votes/house-114-2-0214.md) — On Agreeing to the Amendment — **Failed** (41–383)
+- 2016-05-18 — [House 114-2-215](votes/house-114-2-0215.md) — On Motion to Recommit with Instructions — **Failed** (181–243)
+- 2016-05-18 — [House 114-2-216](votes/house-114-2-0216.md) — On Passage — **Passed** (277–147)
 
 ## Actions
 
@@ -53,3 +68,330 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-05-04 — Placed on the Union Calendar, Calendar No. 413.
 - 2016-05-04 — Reported (Amended) by the Committee on Armed Services. H. Rept. 114-537.
 - 2016-05-04 — Reported (Amended) by the Committee on Armed Services. H. Rept. 114-537.
+- 2016-05-12 — FILING AUTHORITY - Mr. Thornberry asked unanimous consent that the Committee on Armed Services be permitted to file a supplemental report on H.R. 4909. Agreed to without objection.
+- 2016-05-12 — Supplemental report filed by the Committee on Armed Services, H. Rept. 114-537, Part II.
+- 2016-05-12 — Supplemental report filed by the Committee on Armed Services, H. Rept. 114-537, Part II.
+- 2016-05-16 — Rules Committee Resolution H. Res. 732 Reported to House. Rule provides for consideration of H.R. 4909 with 1 hour of general debate. The bill shall be considered for amendment under the five minute rule. No further amendment to the bill, as amended, shall be in order expect those printed in part B of the report of the Committee on Rules accompanying this resolution and amendments en bloc described in section 3 of the resolution.
+- 2016-05-17 — Amendment (A001) offered by Mr. Thornberry. (consideration: CR H2667; text: CR H2667)
+- 2016-05-17 — Amendment (A003) offered by Mr. Westerman. (consideration: CR H2673-2675; text: CR H2673-2674)
+- 2016-05-17 — Amendment (A004) offered by Mr. Garamendi. (consideration: CR H2675-2676; text: CR H2675)
+- 2016-05-17 — Amendment (A005) offered by Mr. McKinley. (consideration: CR H2676-2677; text: CR H2676)
+- 2016-05-17 — Amendment (A006) offered by Mr. Thornberry. (consideration: CR H2677-2679; text: CR H2677-2678)
+- 2016-05-17 — Amendment (A007) offered by Mr. Nadler. (consideration: CR H2679-2681; text: CR H2679)
+- 2016-05-17 — Amendment (A008) offered by Mrs. Walorski. (consideration: CR H2681-2682; text: CR H2681-2682)
+- 2016-05-17 — Amendment (A010) offered by Mr. Poe (TX). (consideration: CR H2685-2687; text: CR H2685)
+- 2016-05-17 — Amendment (A011) offered by Mr. Kelly (PA). (consideration: CR H2687-2688; text: CR H2687)
+- 2016-05-17 — Amendment (A012) offered by Mrs. Walorski. (consideration: CR H2688-2690 text: CR H2688)
+- 2016-05-17 — Amendment (A015) offered by Mr. Larsen (WA). (consideration: CR H2695-2696 text: CR H2695)
+- 2016-05-17 — Amendment (A016) offered by Mr. Rogers (AL). (consideration: CR H2696-2697; text: CR H2696)
+- 2016-05-17 — Amendment (A017) offered by Mr. Zinke. (consideration: CR H2697-2698; text: CR H2697)
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment agreed to Committee of the Whole
+- 2016-05-17 — Amendment failed in Committee of the Whole
+- 2016-05-17 — Amendment failed in Committee of the Whole
+- 2016-05-17 — Amendments en bloc (A002) offered by Mr. Thornberry. (consideration: CR H2667-2673; text: CR H2667)
+- 2016-05-17 — Amendments en bloc (A009) offered by Mr. Thornberry. (consideration: CR H2682-2685; text: CR H2683-2684)
+- 2016-05-17 — Amendments en bloc (A013) offered by Mr. Thornberry. (consideration: CR H2690-2693; text: CR H2690-2693)
+- 2016-05-17 — Amendments en bloc (A014) offered by Mr. Thornberry. (consideration: CR 2693-2695; text: CR H2693-2695)
+- 2016-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 4909 as unfinished business.
+- 2016-05-17 — Considered under the provisions of rule H. Res. 732. (consideration: CR H2458-2677, H2677-2698; text of measure as reported in House: CR H2467-2667)
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Larsen (WA) Part B amendment No. 25.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) Part B amendment No. 26.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry Part B amendment no. 1.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Zinke Part B amendment No. 60, as modified.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry Part B amendments en bloc #3.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H. Res. 732, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry Part B amendments en bloc #4.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi Part B amendment No. 3.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (PA) Part B amendment No. 16.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley Part B amendment No. 10.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler Part B amendment No. 12.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) Part B amendment No. 14, as modified.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry Part B amendment No. 11.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski Part B amendment No. 13.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski Part B amendment No. 18.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman Part B amendment No. 2.
+- 2016-05-17 — DEBATE - Pursuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry Part B amendments en bloc #1.
+- 2016-05-17 — DEBATE - Purusuant to the provisions of H.Res. 732, the Committee of the Whole proceeded with 20 minutes of debate on the Part B Thornberry amendments en bloc #2.
+- 2016-05-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4909.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Kelly (PA) amendment (A011) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A016) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendment (A006) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendments (A002) as modified Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendments (A009) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendments (A013) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Walorski amendment (A008) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Walorski amendment (A012) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Westerman amendment (A003) Agreed to by voice vote.
+- 2016-05-17 — House amendment agreed to: On agreeing to the Zinke amendment (A017) as modified Agreed to by voice vote.
+- 2016-05-17 — House amendment not agreed to: On agreeing to the Garamendi amendment (A004) Failed by voice vote.
+- 2016-05-17 — House amendment not agreed to: On agreeing to the Larsen (WA) amendment Failed by voice vote.
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered
+- 2016-05-17 — House amendment offered/reported by : Amendment (A001) offered by Mr. Thornberry.(consideration: CR H2667; text: CR H2667)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A003) offered by Mr. Westerman.(consideration: CR H2673-2675; text: CR H2673-2674)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A004) offered by Mr. Garamendi.(consideration: CR H2675-2676; text: CR H2675)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A005) offered by Mr. McKinley.(consideration: CR H2676-2677; text: CR H2676)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A006) offered by Mr. Thornberry.(consideration: CR H2677-2679; text: CR H2677-2678)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A007) offered by Mr. Nadler.(consideration: CR H2679-2681; text: CR H2679)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Walorski.(consideration: CR H2681-2682; text: CR H2681-2682)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A010) offered by Mr. Poe (TX).(consideration: CR H2685-2687; text: CR H2685)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A011) offered by Mr. Kelly (PA).(consideration: CR H2687-2688; text: CR H2687)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A012) offered by Mrs. Walorski.(consideration: CR H2688-2690 text: CR H2688)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A015) offered by Mr. Larsen (WA).(consideration: CR H2695-2696 text: CR H2695)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A016) offered by Mr. Rogers (AL).(consideration: CR H2696-2697; text: CR H2696)
+- 2016-05-17 — House amendment offered/reported by : Amendment (A017) offered by Mr. Zinke.(consideration: CR H2697-2698; text: CR H2697)
+- 2016-05-17 — House amendment offered/reported by : Amendments en bloc (A002) offered by Mr. Thornberry.(consideration: CR H2667-2673; text en bloc: CR H2667)
+- 2016-05-17 — House amendment offered/reported by : Amendments en bloc (A009) offered by Mr. Thornberry.(consideration: CR H2682-2685; text en bloc: CR H2683-2684)
+- 2016-05-17 — House amendment offered/reported by : Amendments en bloc (A013) offered by Mr. Thornberry.(consideration: CR H2690-2693; text en bloc: CR H2690-2693)
+- 2016-05-17 — House amendment offered/reported by : Amendments en bloc (A014) offered by Mr. Thornberry.(consideration: CR 2693-2695; text en bloc: CR H2693-2695)
+- 2016-05-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 732 and Rule XVIII.
+- 2016-05-17 — MESSAGE FROM THE SENATE - The Committee of the Whole rose informally to receive a message from the Senate.
+- 2016-05-17 — Mr. Thornberry moved that the committee rise.
+- 2016-05-17 — On agreeing to the Garamendi amendment (A004) Failed by voice vote.
+- 2016-05-17 — On agreeing to the Kelly (PA) amendment (A011) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Larsen (WA) amendment Failed by voice vote.
+- 2016-05-17 — On agreeing to the Rogers (AL) amendment (A016) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendment (A006) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendments (A002) as modified Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendments (A009) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendments (A013) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Walorski amendment (A008) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Walorski amendment (A012) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Westerman amendment (A003) Agreed to by voice vote.
+- 2016-05-17 — On agreeing to the Zinke amendment (A017) as modified Agreed to by voice vote.
+- 2016-05-17 — On motion that the committee rise Agreed to by voice vote.
+- 2016-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McKinley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Poe (TX) amendment No. 14, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Poe (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-17 — Poe (TX) amendment (A010) modified by unanimous consent. Modification inserts a proposed new text for Sec. 1048. (text as modified: CR H2685)
+- 2016-05-17 — RESUMED SITTING - The Committee of the Whole resumed its sitting.
+- 2016-05-17 — Rule H. Res. 732 passed House.
+- 2016-05-17 — Rule provides for consideration of H.R. 4909 with 1 hour of general debate. The bill shall be considered for amendment under the five minute rule. No further amendment to the bill, as amended, shall be in order expect those printed in part B of the report of the Committee on Rules accompanying this resolution and amendments en bloc described in section 3 of the resolution.
+- 2016-05-17 — Rules Committee Resolution H. Res. 735 Reported to House. Rule provides for consideration of H.R. 4909. The resolution provides for further consideration of H.R. 4909.
+- 2016-05-17 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2016-05-17 — Thornberry amendment (A002) modified by unanimous consent. Modification applies to amendment No. 7 in the en bloc package. (consideration: CR H2673-2675; text as modified: CR H2673-2674)
+- 2016-05-17 — Zinke amendment (A017) modified by unanimous consent. (text as modified: CR H2697)
+- 2016-05-18 — Amendment (A018) offered by Mr. Buck. (consideration: CR H2732-2734, H2805; text: CR H2732-2733)
+- 2016-05-18 — Amendment (A019) offered by Mr. Fleming. (consideration: CR H2734-2735, H2805-2806; text: CR H2734)
+- 2016-05-18 — Amendment (A020) offered by Mr. Pearce. (consideration: CR H2735-2737; text: CR H2735-2736)
+- 2016-05-18 — Amendment (A022) offered by Ms. Lee. (consideration: CR H2742-2744, H2806; text: CR H2742)
+- 2016-05-18 — Amendment (A023) offered by Mr. Polis. (consideration: CR H2744-2746, H2807; text: CR H2744)
+- 2016-05-18 — Amendment (A025) offered by Mr. Ellison. (consideration: CR H2750-2752, H2807-2808; text: CR H2750)
+- 2016-05-18 — Amendment (A026) offered by Mr. Ellison. (consideration: CR H2752-2753, H2808-2809; text: CR H2752)
+- 2016-05-18 — Amendment (A028) offered by Mr. Zinke. (consideration: CR H2758-2760; text: CR H2758-2759)
+- 2016-05-18 — Amendment (A029) offered by Mr. Lamborn. (consideration: CR H2760; text: CR H2760)
+- 2016-05-18 — Amendment (A030) offered by Mr. Sanford. (consideration: CR H2760-2762, H2809; text: CR H2760-2761)
+- 2016-05-18 — Amendment (A031) offered by Mr. Thornberry. (consideration: CR H2762-2763; text: CR H2762)
+- 2016-05-18 — Amendment (A038) offered by Ms. Bordallo. (consideration: CR H2785-2786; text: CR H2785-2786)
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendment failed in Committee of the Whole
+- 2016-05-18 — Amendments en bloc (A021) offered by Mr. Thornberry. (consideration: CR H2737-2742; text: CR H2737-2739)
+- 2016-05-18 — Amendments en bloc (A024) offered by Mr. Thornberry. (consideration: CR H2746-2750; text: CR H2746-2748)
+- 2016-05-18 — Amendments en bloc (A027) offered by Mr. Thornberry. (consideration: CR H2753-2758; text: CR H2753-2756)
+- 2016-05-18 — Amendments en bloc (A032) offered by Mr. Thornberry. (consideration: CR H2763-2768; text: CR H2763-2765)
+- 2016-05-18 — Amendments en bloc (A033) offered by Mr. Thornberry. (consideration: CR H2768-2774; text: CR H2768-2771)
+- 2016-05-18 — Amendments en bloc (A034) offered by Mr. Thornberry. (consideration: CR H2774-2776; text: CR H2774-2775)
+- 2016-05-18 — Amendments en bloc (A035) offered by Mr. Thornberry. (consideration: CR H2776-2779; text: CR H2776-2778)
+- 2016-05-18 — Amendments en bloc (A036) offered by Mr. Thornberry. (consideration: CR H2779-2782; text: CR H2779-2781)
+- 2016-05-18 — Amendments en bloc (A037) offered by Mr. Thornberry. (consideration: CR H2782-2785; text: CR H2782-2783)
+- 2016-05-18 — By unanimous consent, the Lamborn amendment was withdrawn. (consideration: CR H2760)
+- 2016-05-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 4909 as unfinished business.
+- 2016-05-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 4909 as unfinished business.
+- 2016-05-18 — Considered as unfinished business. (consideration: CR H2730-2732)
+- 2016-05-18 — Considered as unfinished business. (consideration: CR H2732-2786)
+- 2016-05-18 — Considered as unfinished business. (consideration: CR H2804-2813)
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Bordallo amendment No. 119.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 7.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 9.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 11.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 5.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 6.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment No. 12.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry amendment No. 18.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Zinke amendment No. 10.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #2.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #3.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #4.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #5.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #6.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #7.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #8.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H. Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #9.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H.Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 1.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H.Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment No. 2.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H.Res. 735, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 3.
+- 2016-05-18 — DEBATE - Pursuant to the provisions of H.Res. 735, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry amendments en bloc #1.
+- 2016-05-18 — DEBATE - The House proceeded with 10 minutes of debate on the Clyburn motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments: In section 567 (relating to a prohibition on the establishment, maintenance, or support of Senior Reserve Officers' Training Corps units at educational institutions that display the Confederate battle flag), strike subsection (c). Also, the motion strikes section 1094 of the bill, which would allow religious organizations contracting with the federal government to discriminate against LGBT individuals whom they may employ.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Bordallo amendment (A038) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Fleming amendment (A019) Agreed to by recorded vote: 227 - 198 (Roll no. 209).
+- 2016-05-18 — House amendment agreed to: On agreeing to the Pearce amendment (A020) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A010) as modified Agreed to by recorded vote: 243 - 180 (Roll no. 205).(consideration: CR H2731-2732)
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendment (A031) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A024) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A027) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A032) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A033) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A034) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A035) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A036) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Thornberry amendments (A037) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Zinke amendment (A028) Agreed to by voice vote.
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Buck amendment (A018) Failed by recorded vote: 159 - 266 (Roll no. 208).
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Ellison amendment (A025) Failed by recorded vote: 131 - 292, 1 Present (Roll no. 212).
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Ellison amendment (A026) Failed by recorded vote: 132 - 289, 1 Present (Roll no. 213).
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Lee amendment (A022) Failed by recorded vote: 138 - 285 (Roll no. 210).
+- 2016-05-18 — House amendment not agreed to: On agreeing to the McKinley amendment (A005) Failed by recorded vote: 211 - 213 (Roll no. 203).(consideration: CR H2730-2731)
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Nadler amendment (A007) Failed by recorded vote: 163 - 259 (Roll no. 204).(consideration: CR H2731)
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Polis amendment (A023) Failed by recorded vote: 63 - 360, 1 Present (Roll no. 211).
+- 2016-05-18 — House amendment not agreed to: On agreeing to the Sanford amendment (A030) Failed by recorded vote: 41 - 383 (Roll no. 214).
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered/reported by : Amendment (A018) offered by Mr. Buck.(consideration: CR H2732-2734, H2805; text: CR H2732-2733)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A019) offered by Mr. Fleming.(consideration: CR H2734-2735, H2805-2806; text: CR H2734)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A020) offered by Mr. Pearce.(consideration: CR H2735-2737; text: CR H2735-2736)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A022) offered by Ms. Lee.(consideration: CR H2742-2744, H2806; text: CR H2742)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A023) offered by Mr. Polis.(consideration: CR H2744-2746, H2807; text: CR H2744)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A025) offered by Mr. Ellison.(consideration: CR H2750-2752, H2807-2808; text: CR H2750)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A026) offered by Mr. Ellison.(consideration: CR H2752-2753, H2808-2809; text: CR H2752)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A028) offered by Mr. Zinke.(consideration: CR H2758-2760; text: CR H2758-2759)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A029) offered by Mr. Lamborn.(consideration: CR H2760; text: CR H2760)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A030) offered by Mr. Sanford.(consideration: CR H2760-2762, H2809; text: CR H2760-2761)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A031) offered by Mr. Thornberry.(consideration: CR H2762-2763; text: CR H2762)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A038) offered by Ms. Bordallo.(consideration: CR H2785-2786; text: CR H2785-2786)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A021) offered by Mr. Thornberry.(consideration: CR H2737-2742; text en bloc: CR H2737-2739)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A024) offered by Mr. Thornberry.(consideration: CR H2746-2750; text en bloc: CR H2746-2748)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A027) offered by Mr. Thornberry.(consideration: CR H2753-2758; text en bloc: CR H2753-2756)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A032) offered by Mr. Thornberry.(consideration: CR H2763-2768; text en bloc: CR H2763-2765)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A033) offered by Mr. Thornberry.(consideration: CR H2768-2774; text en bloc: CR H2768-2771)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A034) offered by Mr. Thornberry.(consideration: CR H2774-2776; text en bloc: CR H2774-2775)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A035) offered by Mr. Thornberry.(consideration: CR H2776-2779; text en bloc: CR H2776-2778)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A036) offered by Mr. Thornberry.(consideration: CR H2779-2782; text en bloc: CR H2779-2781)
+- 2016-05-18 — House amendment offered/reported by : Amendments en bloc (A037) offered by Mr. Thornberry.(consideration: CR H2782-2785; text en bloc: CR H2782-2783)
+- 2016-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-18 — Mr. Clyburn moved to recommit with instructions to the Committee on Armed Services. (consideration: CR H2809-2812; text: CR H2809)
+- 2016-05-18 — Mr. Thornberry moved that the committee rise.
+- 2016-05-18 — On agreeing to the Bordallo amendment (A038) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Buck amendment (A018) Failed by recorded vote: 159 - 266 (Roll no. 208).
+- 2016-05-18 — On agreeing to the Ellison amendment (A025) Failed by recorded vote: 131 - 292, 1 Present (Roll no. 212).
+- 2016-05-18 — On agreeing to the Ellison amendment (A026) Failed by recorded vote: 132 - 289, 1 Present (Roll no. 213).
+- 2016-05-18 — On agreeing to the Fleming amendment (A019) Agreed to by recorded vote: 227 - 198 (Roll no. 209).
+- 2016-05-18 — On agreeing to the Lee amendment (A022) Failed by recorded vote: 138 - 285 (Roll no. 210).
+- 2016-05-18 — On agreeing to the McKinley amendment (A005) Failed by recorded vote: 211 - 213 (Roll no. 203). (consideration: CR H2730-2731)
+- 2016-05-18 — On agreeing to the Nadler amendment (A007) Failed by recorded vote: 163 - 259 (Roll no. 204). (consideration: CR H2731)
+- 2016-05-18 — On agreeing to the Pearce amendment (A020) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Poe (TX) amendment (A010) as modified Agreed to by recorded vote: 243 - 180 (Roll no. 205). (consideration: CR H2731-2732)
+- 2016-05-18 — On agreeing to the Polis amendment (A023) Failed by recorded vote: 63 - 360, 1 Present (Roll no. 211).
+- 2016-05-18 — On agreeing to the Sanford amendment (A030) Failed by recorded vote: 41 - 383 (Roll no. 214).
+- 2016-05-18 — On agreeing to the Thornberry amendment (A031) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A024) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A027) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A032) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A033) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A034) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A035) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A036) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Thornberry amendments (A037) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Zinke amendment (A028) Agreed to by voice vote.
+- 2016-05-18 — On motion that the committee rise Agreed to by voice vote.
+- 2016-05-18 — On motion to recommit with instructions Failed by recorded vote: 181 - 243 (Roll no. 215).
+- 2016-05-18 — On passage Passed by recorded vote: 277 - 147 (Roll no. 216).
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Buck demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment No. 9, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fleming amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fleming demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanford amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Sanford demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — Passed/agreed to in House: On passage Passed by recorded vote: 277 - 147 (Roll no. 216).
+- 2016-05-18 — RISING INFORMALLY - The Committee of the Whole rose informally to receive a message from the President. Subsequently, the Committee resumed its sitting.
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Roll call votes on amendments in House
+- 2016-05-18 — Rule H. Res. 735 passed House.
+- 2016-05-18 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4909.
+- 2016-05-18 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H2809)
+- 2016-05-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-05-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-05-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-05-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4909.
+- 2016-05-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2811)
+- 2016-05-18 — The previous question was ordered pursuant to the rule. (consideration: CR H2809)
+- 2016-05-18 — The title of the measure was amended. Agreed to without objection.
