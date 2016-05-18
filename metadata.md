@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2840
@@ -38,9 +38,10 @@ POLICE Act of 2016
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -55,3 +56,17 @@ POLICE Act of 2016
 - 2016-05-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2933-2935; text as passed Senate: CR S2933)
 - 2016-05-18 — Received in the House.
 - 2016-05-18 — Referred to the House Committee on the Judiciary.
+- 2016-05-23 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-07-12 — Committee on the Judiciary discharged.
+- 2016-07-12 — Committee on the Judiciary discharged.
+- 2016-07-12 — Considered by unanimous consent. (consideration: CR H4697-4698)
+- 2016-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-12 — Mr. Goodlatte asked unanimous consent to discharge from committee and consider.
+- 2016-07-12 — On passage Passed without objection. (text: CR H4697-4698)
+- 2016-07-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4697-4698)
+- 2016-07-14 — Presented to President.
+- 2016-07-14 — Presented to President.
+- 2016-07-22 — Became Public Law No: 114-199.
+- 2016-07-22 — Became Public Law No: 114-199.
+- 2016-07-22 — Signed by President.
+- 2016-07-22 — Signed by President.
