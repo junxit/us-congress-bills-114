@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5077
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5077
@@ -29,3 +29,8 @@ Intelligence Authorization Act for Fiscal Year 2017
 - 2016-04-27 — Introduced in House
 - 2016-04-27 — Introduced in House
 - 2016-04-27 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2016-04-29 — Committee Consideration and Mark-up Session Held.
+- 2016-04-29 — Ordered to be Reported by Voice Vote.
+- 2016-05-18 — Placed on the Union Calendar, Calendar No. 443.
+- 2016-05-18 — Reported by the Committee on Intelligence. H. Rept. 114-573.
+- 2016-05-18 — Reported by the Committee on Intelligence. H. Rept. 114-573.
