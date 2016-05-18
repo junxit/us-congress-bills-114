@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2840
@@ -16,7 +16,7 @@ POLICE Act of 2016
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (18)
+## Cosponsors (19)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -36,6 +36,7 @@ POLICE Act of 2016
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -49,3 +50,8 @@ POLICE Act of 2016
 - 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2016-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
+- 2016-05-18 — Message on Senate action sent to the House.
+- 2016-05-18 — Passed Senate without amendment by Voice Vote. (consideration: CR S2933-2935; text as passed Senate: CR S2933)
+- 2016-05-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2933-2935; text as passed Senate: CR S2933)
+- 2016-05-18 — Received in the House.
+- 2016-05-18 — Referred to the House Committee on the Judiciary.
