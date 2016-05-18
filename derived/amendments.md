@@ -1,7 +1,7 @@
 ---
 measure: S. 1724
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,6 +43,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | Subsection (c) of Article V of the Tahoe Regional Planning Compact (Public Law 96–551; 94 Stat. 3240) is amended in the third sentence by inserting “and, in so doing, shall ensure that the regional plan reflects changing economic conditi… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 134 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5303 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and 25 square miles of land area” after “145,000”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and 12 square miles of land area” after “65,000”. | the bill names no machine-readable US Code section |
 | — | redesignate | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 10 (as redesignated by section 7(a)(2)) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(b) Lands” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

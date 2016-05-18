@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1724
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -292,6 +292,10 @@ The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended
     >     - **(A)** a metropolitan planning organization;
     >     - **(B)** a transportation management area under subsection (k); and
     >     - **(C)** an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area in the State of California and a population of 65,000 and 12 square miles of land area in the State of Nevada.
+
+- **(c)** *Treatment under title 49, United States Code* Section 5303(r)(2)(C) of title 49, United States Code, is amended—
+  - **(1)** by inserting “and 25 square miles of land area” after “145,000”; and
+  - **(2)** by inserting “and 12 square miles of land area” after “65,000”.
 
 ## § 8. Authorization of appropriations
 

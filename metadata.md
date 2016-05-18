@@ -1,7 +1,7 @@
 ---
 measure: S. 1724
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1724
@@ -30,3 +30,7 @@ Lake Tahoe Restoration Act of 2015
 
 - 2015-07-09 — Introduced in Senate
 - 2015-07-09 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-01-20 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment. With written report No. 114-256.
+- 2016-05-18 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment. With written report No. 114-256.
+- 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.
