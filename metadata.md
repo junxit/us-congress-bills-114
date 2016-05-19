@@ -1,7 +1,7 @@
 ---
 measure: S. 1635
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1635
@@ -16,9 +16,10 @@ Department of State Authorities Act, Fiscal Year 2017
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,7 @@ Department of State Authorities Act, Fiscal Year 2017
 - 2016-04-28 — Senate amendment agreed to: Amendment SA 3886 agreed to in Senate by Unanimous Consent.
 - 2016-04-28 — Senate amendment proposed (on the floor): Amendment SA 3886 proposed by Senator McConnell for Senator Corker.(consideration: CR S2577-2578; text: CR S2577-2578)
 - 2016-04-28 — Senate amendment submitted
+- 2016-04-29 — Held at the desk.
+- 2016-04-29 — Message on Senate action sent to the House.
+- 2016-04-29 — Received in the House.
+- 2016-05-19 — Referred to the House Committee on Foreign Affairs.
