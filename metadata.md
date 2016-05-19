@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 2577

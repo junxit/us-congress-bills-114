@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Engrossed Amendment Senate
+version: Public Print
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-58 amendatory instructions. 12 executed, 46 stated and not applied.
+66 amendatory instructions. 12 executed, 54 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -141,6 +141,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | add-at-end | Section 127 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 31111(b)(1)(A) of title 49, United States Code, is amended by striking “or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination,” and inserting “or, notwithstanding section… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Nebraska may” and inserting “Nebraska and Kansas may”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the State of Nebraska” and inserting “the relevant state”. | the bill names no machine-readable US Code section |
+| — | replace | by striking the subsection designation and heading and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “; and” at the end of paragraph (3) and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (4) and inserting “; and”. | the bill names no machine-readable US Code section |
+| — | replace | Section 130(e)(1) of title 23, United States Code, is amended by striking “$220,000,000” and inserting “$350,000,000”. | the bill names no machine-readable US Code section |
 | — | amend | Section 47109(c)(2) of title 49, United States Code, is amended to read as follows: “The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentag… | the bill names no machine-readable US Code section |
 | — | insert | Section 911 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) is amended by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 40101` | add-at-end | Section 332(c) of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -165,8 +173,8 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 211 of the Department of Housing and Urban Development Appropriations Act, 2008, is repealed. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1437f` | insert | in the undesignated paragraph before the first proviso, by inserting the following before the colon: “(First Component herein)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | amend | by amending the eighteenth proviso to read as follows— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | insert | by inserting the following proviso before the nineteenth: “Provided further, That conversions of assistance under the Second Component may not be the basis for re-screening or termination of assistance or eviction of any tenant family in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | insert | by inserting the following proviso before the twenty-third proviso, as amended (reordered) above: “Provided further, That the Secretary may transfer amounts made available under the heading Housing for the Elderly to the accounts under t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | by inserting the following proviso before the nineteenth: “ Provided further, That conversions of assistance under the Second Component may not be the basis for re-screening or termination of assistance or eviction of any tenant family i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | by inserting the following proviso before the twenty-third proviso, as amended (reordered) above: “ Provided further, That the Secretary may transfer amounts made available under the heading Housing for the Elderly to the accounts under … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11386b` | add-at-end | Section 428 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11386b) is amended by adding at the end of the section, subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Of the amounts appropriated to the Department of Veterans Affairs for fiscal year 2017 for “Medical Services”, “Medical Support and Compliance”, “Medical Facilities”, “Construction, Minor Projects”, and “Information Technology Systems”, … | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 1703` | amend | Paragraph (3) of section 403(a) of the Veterans’ Mental Health and Other Care Improvements Act of 2008 (Public Law 110–387; 38 U.S.C. 1703 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
