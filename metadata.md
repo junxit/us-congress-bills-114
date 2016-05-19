@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2577
@@ -16,12 +16,188 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
+## Cosponsors (173)
+
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (31)
+## Recorded votes (41)
 
 - 2015-06-04 — [House 114-1-298](votes/house-114-1-0298.md) — On Agreeing to the Amendment — **Failed** (166–255)
 - 2015-06-04 — [House 114-1-299](votes/house-114-1-0299.md) — On Agreeing to the Amendment — **Agreed to** (235–189)
@@ -54,6 +230,16 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 - 2015-06-09 — [House 114-1-327](votes/house-114-1-0327.md) — On Agreeing to the Amendment — **Agreed to** (297–129)
 - 2015-06-09 — [House 114-1-328](votes/house-114-1-0328.md) — On Motion to Recommit with Instructions — **Failed** (181–244)
 - 2015-06-09 — [House 114-1-329](votes/house-114-1-0329.md) — On Passage — **Passed** (216–210)
+- 2016-05-17 — [Senate 114-2-73](votes/senate-114-2-0073.md) — On the Cloture Motion — **Cloture Motion Rejected** (50–47)
+- 2016-05-17 — [Senate 114-2-74](votes/senate-114-2-0074.md) — On the Cloture Motion — **Cloture Motion Rejected** (52–45)
+- 2016-05-17 — [Senate 114-2-75](votes/senate-114-2-0075.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–29)
+- 2016-05-19 — [Senate 114-2-76](votes/senate-114-2-0076.md) — On the Motion — **Motion Agreed to** (70–28)
+- 2016-05-19 — [Senate 114-2-77](votes/senate-114-2-0077.md) — On the Amendment — **Amendment Agreed to** (68–30)
+- 2016-05-19 — [Senate 114-2-78](votes/senate-114-2-0078.md) — On the Cloture Motion — **Cloture Motion Agreed to** (88–10)
+- 2016-05-19 — [Senate 114-2-79](votes/senate-114-2-0079.md) — On the Motion — **Motion Agreed to** (84–14)
+- 2016-05-19 — [Senate 114-2-80](votes/senate-114-2-0080.md) — On the Amendment — **Amendment Agreed to** (87–9)
+- 2016-05-19 — [Senate 114-2-81](votes/senate-114-2-0081.md) — On the Motion to Table — **Motion to Table Agreed to** (60–37)
+- 2016-05-19 — [Senate 114-2-82](votes/senate-114-2-0082.md) — On Passage of the Bill — **Bill Passed** (89–8)
 
 ## Actions
 
@@ -683,3 +869,516 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 - 2015-06-25 — Committee on Appropriations. Reported by Senator Collins with an amendment in the nature of a substitute. With written report No. 114-75.
 - 2015-06-25 — Committee on Appropriations. Reported by Senator Collins with an amendment in the nature of a substitute. With written report No. 114-75.
 - 2015-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
+- 2015-10-28 — Committee on Appropriations Senate Subcommittee on Transportation, Housing and Urban Development, and Related Agencies . Hearings held. With printed Hearing: S.Hrg. 114-615.
+- 2015-11-16 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7963; text: CR S7963)
+- 2015-11-16 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7963)
+- 2015-11-17 — Senate amendment submitted
+- 2015-11-18 — Amendment SA 2809 agreed to in Senate by Unanimous Consent.
+- 2015-11-18 — Amendment SA 2809 proposed by Senator Collins for Senator McCain to Amendment SA 2812. (consideration: CR S8063; text: CR S8063) To require the Administrator of the Federal Aviation Administration to review certain decisions to grant categorical exclusions for Next Generation flight procedures and to consult with the airports at which such procedures will be implemented.
+- 2015-11-18 — Amendment SA 2812 proposed by Senator Collins. (consideration: CR S8055, S8055-8058) In the nature of a substitute.
+- 2015-11-18 — Amendment SA 2813 proposed by Senator Collins to Amendment SA 2812. (consideration: CR S8055-8058; text: CR S8055) To make a technical amendment.
+- 2015-11-18 — Amendment SA 2815 agreed to in Senate by Voice Vote.
+- 2015-11-18 — Amendment SA 2815 proposed by Senator Wicker to Amendment SA 2812. (consideration: CR S8064; text: CR S8064) To authorize the Secretary of Transportation to increase the minimum length limitation for a truck tractor-semitrailer-trailer combination from 28 to 33 feet if such change would not negatively impact public safety.
+- 2015-11-18 — Amendment SA 2817 agreed to in Senate by Unanimous Consent.
+- 2015-11-18 — Amendment SA 2817 proposed by Senator Reed for Senator Mikulski to Amendment SA 2812. (consideration: CR S8063; text: CR S8063) To provide that the Secretary of Transportation shall have sole authority to appoint Federal Directors to the Board of Directors of the Washington Metropolitan Area Transit Authority.
+- 2015-11-18 — Cloture motion on amendment SA 2812 presented in Senate. (consideration: CR S8075; text: CR S8075)
+- 2015-11-18 — Cloture motion on the measure presented in Senate. (consideration: CR S8075; text: CR S8075)
+- 2015-11-18 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate.
+- 2015-11-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8034-8058, S8060-8075, S8075-8076; text of measure as reported in Senate: CR S8034-8054)
+- 2015-11-18 — Senate amendment agreed to: Amendment SA 2809 agreed to in Senate by Unanimous Consent.
+- 2015-11-18 — Senate amendment agreed to: Amendment SA 2815 agreed to in Senate by Voice Vote.
+- 2015-11-18 — Senate amendment agreed to: Amendment SA 2817 agreed to in Senate by Unanimous Consent.
+- 2015-11-18 — Senate amendment proposed (on the floor): Amendment SA 2809 proposed by Senator Collins for Senator McCain to Amendment SA 2812.(consideration: CR S8063; text: CR S8063)
+- 2015-11-18 — Senate amendment proposed (on the floor): Amendment SA 2812 proposed by Senator Collins.(consideration: CR S8055, S8055-8058)
+- 2015-11-18 — Senate amendment proposed (on the floor): Amendment SA 2813 proposed by Senator Collins to Amendment SA 2812.(consideration: CR S8055-8058; text: CR S8055)
+- 2015-11-18 — Senate amendment proposed (on the floor): Amendment SA 2815 proposed by Senator Wicker to Amendment SA 2812.(consideration: CR S8064; text: CR S8064)
+- 2015-11-18 — Senate amendment proposed (on the floor): Amendment SA 2817 proposed by Senator Reed for Senator Mikulski to Amendment SA 2812.(consideration: CR S8063; text: CR S8063)
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — Senate amendment submitted
+- 2015-11-18 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S8054-8055)
+- 2015-11-19 — Cloture motion amendment SA 2812 withdrawn by unanimous consent in Senate. (consideration: CR S8126)
+- 2015-11-19 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S8126)
+- 2015-11-19 — Considered by Senate. (consideration: CR S8119)
+- 2015-11-19 — Considered by Senate. (consideration: CR S8119)
+- 2015-11-19 — Considered by Senate. (consideration: CR S8119-8124, S8126)
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2015-11-19 — Senate amendment submitted
+- 2016-04-26 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S2449; text: CR S2449)
+- 2016-04-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S2449)
+- 2016-04-27 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (consideration: CR S2501)
+- 2016-05-12 — Amendment SA 3896 proposed by Senator Collins. (consideration: CR S2733) In the nature of a substitute.
+- 2016-05-12 — Amendment SA 3897 proposed by Senator McConnell for Senator Lee to Amendment SA 3896. (consideration: CR S2733; text: CR S2733) To prohibit the use of funds to carry out a rule and notice of the Department of Housing and Urban Development.
+- 2016-05-12 — Amendment SA 3898 proposed by Senator McConnell for Senator Nelson to Amendment SA 3896. (consideration: CR S2733) Making supplemental appropriations for fiscal year 2016 to respond to Zika virus.
+- 2016-05-12 — Amendment SA 3899 proposed by Senator McConnell for Senator Cornyn to Amendment SA 3896. (consideration: CR S2733) Making emergency supplemental appropriations for the fiscal year ending September 30, 2016, and for other purposes.
+- 2016-05-12 — Amendment SA 3900 proposed by Senator McConnell for Senator Blunt to Amendment SA 3896. (consideration: CR S2733) Zika response and preparedness.
+- 2016-05-12 — Cloture motion on amendment SA 3898 presented in Senate. (consideration: CR S2733; text: CR S2733)
+- 2016-05-12 — Cloture motion on amendment SA 3899 presented in Senate. (consideration: CR S2733; text: CR S2733)
+- 2016-05-12 — Cloture motion on amendment SA 3900 presented in Senate. (consideration: CR S2733; text: CR S2733)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2732-2737)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2733)
+- 2016-05-12 — Considered by Senate. (consideration: CR S2733)
+- 2016-05-12 — Proposed amendment SA 2812 withdrawn in Senate. (consideration: CR S2733)
+- 2016-05-12 — Proposed amendment SA 2813 withdrawn in Senate. (consideration: CR S2733)
+- 2016-05-12 — Senate amendment proposed (on the floor): Amendment SA 3896 proposed by Senator Collins.(consideration: CR S2733)
+- 2016-05-12 — Senate amendment proposed (on the floor): Amendment SA 3897 proposed by Senator McConnell for Senator Lee to Amendment SA 3896.(consideration: CR S2733; text: CR S2733)
+- 2016-05-12 — Senate amendment proposed (on the floor): Amendment SA 3898 proposed by Senator McConnell for Senator Nelson to Amendment SA 3896.(consideration: CR S2733)
+- 2016-05-12 — Senate amendment proposed (on the floor): Amendment SA 3899 proposed by Senator McConnell for Senator Cornyn to Amendment SA 3896.(consideration: CR S2733)
+- 2016-05-12 — Senate amendment proposed (on the floor): Amendment SA 3900 proposed by Senator McConnell for Senator Blunt to Amendment SA 3896.(consideration: CR S2733)
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-12 — Senate amendment submitted
+- 2016-05-16 — Amendment SA 3903 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Amendment SA 3903 proposed by Senator Collins for Senator Heitkamp to Amendment SA 3896. (consideration: CR S2814-2815; text: CR S2814) To require a report on the economic and infrastructure effects on airports of collegiate aviation flight training operations.
+- 2016-05-16 — Amendment SA 3909 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Amendment SA 3909 proposed by Senator Collins for Senator Barrasso to Amendment SA 3896. (consideration: CR S2814-2815; text: CR S2814) To allow Indian tribes to use certain funds to construct housing for certain skilled workers.
+- 2016-05-16 — Amendment SA 3917 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Amendment SA 3917 proposed by Senator Collins for Senator Ayotte to Amendment SA 3896. (consideration: CR S2814-2815; text: CR S2814) To prohibit the use of funds for the Continuum of Care program of the Department of Housing and Urban Development unless the program allows for zero-tolerance recovery housing.
+- 2016-05-16 — Amendment SA 3919 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Amendment SA 3919 proposed by Senator Collins for Senator Mikulski to Amendment SA 3896. (consideration: CR S2814-2815; text: CR S2815) To provide for safety improvements on transit systems.
+- 2016-05-16 — Amendment SA 3921 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2815)
+- 2016-05-16 — Amendment SA 3921 proposed by Senator Collins for Senator Franken to Amendment SA 3896. (consideration: CR S2814-2815) To require the United States Interagency Council on Homelessness to submit a report on improving health and housing outcomes for chronically homeless individuals, individuals with behavioral health conditions, and children.
+- 2016-05-16 — Amendment SA 3922 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Amendment SA 3922 proposed by Senator Collins for Senator Feinstein to Amendment SA 3896. (consideration: CR S2814-2815; text: CR S2815) To allow jurisdictions to maintain access to certain funds deposited in their HOME Investment Trust Fund that would otherwise expire.
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814, S2815)
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814, S2815)
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814, S2815)
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814, S2815; text as modified: CR S2815-2817)
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814, S2815; text as modified: CR S2817-2819)
+- 2016-05-16 — Considered by Senate. (consideration: CR S2814-2819)
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3903 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3909 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3917 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3919 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3921 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2815)
+- 2016-05-16 — Senate amendment agreed to: Amendment SA 3922 agreed to in Senate by Voice Vote.
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3903 proposed by Senator Collins for Senator Heitkamp to Amendment SA 3896.(consideration: CR S2814-2815; text: CR S2814)
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3909 proposed by Senator Collins for Senator Barrasso to Amendment SA 3896.(consideration: CR S2814-2815; text: CR S2814)
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3917 proposed by Senator Collins for Senator Ayotte to Amendment SA 3896.(consideration: CR S2814-2815; text: CR S2814)
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3919 proposed by Senator Collins for Senator Mikulski to Amendment SA 3896.(consideration: CR S2814-2815; text: CR S2815)
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3921 proposed by Senator Collins for Senator Franken to Amendment SA 3896.(consideration: CR S2814-2815)
+- 2016-05-16 — Senate amendment proposed (on the floor): Amendment SA 3922 proposed by Senator Collins for Senator Feinstein to Amendment SA 3896.(consideration: CR S2814-2815; text: CR S2815)
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-16 — Senate amendment submitted
+- 2016-05-17 — Amendment SA 3905 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3905 proposed by Senator Collins for Senator Heller to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2868) To prohibit funds from being used to provide housing assistance benefits to individuals convicted of certain criminal offenses.
+- 2016-05-17 — Amendment SA 3914 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3914 proposed by Senator Kirk for Senator Tester to Amendment SA 3896. (consideration: CR S2869; text: CR S2869) To require the Comptroller General of the United States to submit to Congress a report evaluating force structure and military construction requirements in Europe.
+- 2016-05-17 — Amendment SA 3918 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3918 proposed by Senator Collins for Senator Rubio to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2868) To shorten the time given to a property owner to respond to a violation of a contract and the time given to the Secretary to develop a Compliance, Disposition, and Enforcement Plan.
+- 2016-05-17 — Amendment SA 3926 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3926 proposed by Senator Collins for Senator Rubio to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2868) To determine the effectiveness of Real Estate Assessment Center physical inspections.
+- 2016-05-17 — Amendment SA 3934 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3934 proposed by Senator Collins for Senator King to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2868) To authorize the use of funds to carry out a matching program with the Department of Education to identify veterans who are unemployable due to a service-connected disability and who are also borrowers of Federal student loans in order to streamline and expedite the process through which such veterans may discharge their Federal student loans.
+- 2016-05-17 — Amendment SA 3938 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3938 proposed by Senator Kirk to Amendment SA 3896. (consideration: CR S2869; text: CR S2869) To make a technical correction to section 132 of title I of division J of Public Law 114-113.
+- 2016-05-17 — Amendment SA 3941 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3941 proposed by Senator Collins for Senator Booker to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2869) To slightly modify the scope of projects eligible for railroad safety grants.
+- 2016-05-17 — Amendment SA 3946 proposed by Senator Collins for Senator Blunt to Amendment SA 3900. (consideration: CR S2852; text as modified: CR S2852) To require the periodic submission of spending plan updates to the Committee on Appropriations.
+- 2016-05-17 — Amendment SA 3948 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3948 proposed by Senator Kirk for Senator Heller to Amendment SA 3896. (consideration: CR S2869; text: CR S2869) To modify the contents of the quarterly report on disability compensation claims.
+- 2016-05-17 — Amendment SA 3954 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3954 proposed by Senator Kirk for Senator Heitkamp to Amendment SA 3896. (consideration: CR S2869; text: CR S2869) To require coordination within the Department of Veterans Affairs to meet the readjustment and psychological counseling needs of veterans in rural and highly rural communities.
+- 2016-05-17 — Amendment SA 3961 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3961 proposed by Senator Collins for Senator Manchin to Amendment SA 3896. (consideration: CR S2868-2869; text: CR S2868) To allow airports to use airport improvement program funds to repair damage to runway safety areas caused by natural disasters.
+- 2016-05-17 — Amendment SA 3971 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Amendment SA 3971 proposed by Senator Kirk for Senator Bennet to Amendment SA 3896. (consideration: CR S2869; text: CR S2869) To authorize the Secretary of Veterans Affairs to provide monthly assistance allowance to disabled veterans training to compete on the United States Olympic Team.
+- 2016-05-17 — Cloture motion on amendment SA 3896 presented in Senate. (consideration: CR S2867; text: CR S2867)
+- 2016-05-17 — Cloture motion on the measure presented in Senate. (consideration: CR S2867; text: CR S2867)
+- 2016-05-17 — Cloture on amendment SA 3898 not invoked in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 73. (consideration: CR S2851; text: CR S2851)
+- 2016-05-17 — Cloture on amendment SA 3899 not invoked in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 74. (consideration: CR S2851-2852; text: CR S2851)
+- 2016-05-17 — Cloture on amendment SA 3900 invoked in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 75. (consideration: CR S2852; text: CR S2852)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835, S2851-2852)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835, S2852-2853)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835, S2861-2862)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835, S2867)
+- 2016-05-17 — Considered by Senate. (consideration: CR S2835-2845, S2848-2850, S2850-2853, S2861-2862, S2867, S2868-2869)
+- 2016-05-17 — Notwithstanding the adoption of amendment SA 3922, the amendment is modified by Unanimous Consent. (consideration: CR S2844-2845; text as modified: CR S2844)
+- 2016-05-17 — Roll call votes on amendments in Senate: Cloture on amendment SA 3898 not invoked in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 73.(consideration: CR S2851; text: CR S2851)
+- 2016-05-17 — Roll call votes on amendments in Senate: Cloture on amendment SA 3899 not invoked in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 74.(consideration: CR S2851-2852; text: CR S2851)
+- 2016-05-17 — Roll call votes on amendments in Senate: Cloture on amendment SA 3900 invoked in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 75.(consideration: CR S2852; text: CR S2852)
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3905 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3914 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3918 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3926 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3934 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3938 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3941 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3948 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3954 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3961 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment agreed to: Amendment SA 3971 agreed to in Senate by Voice Vote.
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3905 proposed by Senator Collins for Senator Heller to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2868)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3914 proposed by Senator Kirk for Senator Tester to Amendment SA 3896.(consideration: CR S2869; text: CR S2869)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3918 proposed by Senator Collins for Senator Rubio to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2868)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3926 proposed by Senator Collins for Senator Rubio to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2868)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3934 proposed by Senator Collins for Senator King to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2868)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3938 proposed by Senator Kirk to Amendment SA 3896.(consideration: CR S2869; text: CR S2869)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3941 proposed by Senator Collins for Senator Booker to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2869)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3946 proposed by Senator Collins for Senator Blunt to Amendment SA 3900.(consideration: CR S2852; text as modified: CR S2852)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3948 proposed by Senator Kirk for Senator Heller to Amendment SA 3896.(consideration: CR S2869; text: CR S2869)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3954 proposed by Senator Kirk for Senator Heitkamp to Amendment SA 3896.(consideration: CR S2869; text: CR S2869)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3961 proposed by Senator Collins for Senator Manchin to Amendment SA 3896.(consideration: CR S2868-2869; text: CR S2868)
+- 2016-05-17 — Senate amendment proposed (on the floor): Amendment SA 3971 proposed by Senator Kirk for Senator Bennet to Amendment SA 3896.(consideration: CR S2869; text: CR S2869)
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-17 — Senate amendment submitted
+- 2016-05-18 — Amendment SA 3910 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3910 proposed by Senator Collins for Senator Klobuchar to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To authorize the use of amounts for Medical Services to be used to furnish rehabilitative equipment and human-powered vehicles to certain disabled veterans.
+- 2016-05-18 — Amendment SA 3920 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3920 proposed by Senator Collins for Senator Brown to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To extend the requirement of the Secretary of Veterans Affairs to submit a report on the capacity of the Department of Veterans Affairs to provide for the specialized treatment and rehabilitative needs of disabled veterans.
+- 2016-05-18 — Amendment SA 3933 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3933 proposed by Senator Collins for Senator Perdue to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To require a report on modernizing and replacing hangers of the Army's Combat Aviation Brigade.
+- 2016-05-18 — Amendment SA 3935 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2967)
+- 2016-05-18 — Amendment SA 3935 proposed by Senator Collins for Senator Boxer to Amendment SA 3896. (consideration: CR S2966-2969) To require the Secretary of Veterans Affairs to treat certain marriage and family therapists as qualified to serve as marriage and family therapists in the Department of Veterans Affairs.
+- 2016-05-18 — Amendment SA 3944 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3944 proposed by Senator Collins for Senator Feinstein to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To authorize the Secretary of Veterans Affairs to carry out certain major medical facility projects for which appropriations are being made for fiscal year 2016.
+- 2016-05-18 — Amendment SA 3967 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3967 proposed by Senator Collins for Senator Paul to Amendment SA 3896. (consideration: CR2964-2966; text: CR S2964-2965) To provide for the identification of certain high priority corridors on the National Highway System and to include and designate certain route segments on the Interstate System.
+- 2016-05-18 — Amendment SA 3969 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3969 proposed by Senator Collins for Senator Inhofe to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To require that amounts be made available to Directors of Veterans Integrated Service Networks to assess, evaluate, and improve the health care delivery by and business operations of medical centers of the Department of Veterans Affairs.
+- 2016-05-18 — Amendment SA 3980 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3980 proposed by Senator Collins for Senator Flake to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967-2968) To require the Secretary of Veterans Affairs to submit to Congress a plan on modernizing the system of the Veterans Health Administration for processing claims by non-Department of Veterans Affairs health care providers for reimbursement for health care provided to veterans under the laws administered by the Secretary.
+- 2016-05-18 — Amendment SA 3992 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3992 proposed by Senator Collins for Senator Johnson to Amendment SA 3896. (consideration: CR2964-2966; text: CR S2965) To ensure timely access for Inspectors General to records, documents, and other materials.
+- 2016-05-18 — Amendment SA 3993 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3993 proposed by Senator Collins for Senator Johnson to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To ensure timely access for Inspectors General to records, documents, and other materials.
+- 2016-05-18 — Amendment SA 3997 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3997 proposed by Senator Collins for Senator Kirk to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2966) To require the Secretary of Veterans Affairs to provide for the inspection of medical facilities of the Department of Veterans Affairs.
+- 2016-05-18 — Amendment SA 3998 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 3998 proposed by Senator Collins for Senator Tester to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To provide for coverage under the beneficiary travel program of the Department of Veterans Affairs of certain disabled veterans for travel in connection with certain special disabilities rehabilitation.
+- 2016-05-18 — Amendment SA 4005 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4005 proposed by Senator Collins for Senator Heller to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To require the Secretary of Veterans Affairs to submit to Congress a report on the progress of the Department of Veterans Affairs in completing the Rural Veterans Burial Initiative.
+- 2016-05-18 — Amendment SA 4008 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4008 proposed by Senator Collins for Senator Daines to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To require a report on the use of defense access road funding to build alternate routes for military equipment traveling to missile launch facilities.
+- 2016-05-18 — Amendment SA 4011 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4011 proposed by Senator Collins for Senator Nelson to Amendment SA 3896. (consideration: CR2964-2966; text: CR S2965) To ensure the safety of properties covered under a housing assistance payment contract.
+- 2016-05-18 — Amendment SA 4023 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4023 proposed by Senator Collins for Senator Sasse to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To protect congressional oversight of the executive branch by ensuring individuals may speak with Congress.
+- 2016-05-18 — Amendment SA 4024 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4024 proposed by Senator Collins for Senator Isakson to Amendment SA 3896. (consideration: CR2964-2966; text: CR S2965) To direct the Secretary of Transportation to issue a final rule requiring the use of speed limiting devices on heavy trucks not later than 6 months after the date of the enactment of this Act.
+- 2016-05-18 — Amendment SA 4029 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4029 proposed by Senator Collins for Senator Durbin to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2968) To make funds available to the Secretary of Veterans Affairs to hire Medical Center Directors and employees for other management and clinical positions with vacancies.
+- 2016-05-18 — Amendment SA 4030 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4030 proposed by Senator Collins for Senator Mikulski to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To require the Secretary of Veterans Affairs to provide access to therapeutic listening devices to veterans struggling with mental health related problems, substance abuse, or traumatic brain injury.
+- 2016-05-18 — Amendment SA 4038 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4038 proposed by Senator Collins for Senator Flake to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To require the Secretary of Veterans Affairs to provide for the conduct by the Office of Inspector General of the Department of Veterans Affairs of an inspection or audit of the use of a grant to renovate a veteran's cemetery in Guam.
+- 2016-05-18 — Amendment SA 4039 proposed by Senator McCain to Amendment SA 3896. (consideration: CR S2956-2958; text: CR S2957) To extend and expand eligibility for the Veterans Choice Program of the Department of Veterans Affairs and to establish consistent criteria and standards relating to the use of amounts under the Medical Community Care account of the Department of Veterans Affairs.
+- 2016-05-18 — Amendment SA 4042 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4042 proposed by Senator Collins for Senator Warner to Amendment SA 3896. (consideration: CR2964-2966; text: CR S2965-2966) To provide additional funds for the National Park Service for certain projects.
+- 2016-05-18 — Amendment SA 4043 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Amendment SA 4043 proposed by Senator Collins for Senator Manchin to Amendment SA 3896. (consideration: CR S2966-2969; text: CR S2967) To authorize the Secretary of Veterans Affairs to use amounts appropriated under this Act for the Department of Veterans Affairs to improve the veteran-to-staff ratio for each program of rehabilitation conducted under chapter 31 of title 38, United States Code.
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922, S2925-2928, S2937-2938, S2958-2964)
+- 2016-05-18 — Considered by Senate. (consideration: CR S2922-2933, S2935-2969)
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3910 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3920 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3933 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3935 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2967)
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3944 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3967 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3969 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3980 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3992 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3993 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3997 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 3998 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4005 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4008 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4011 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4023 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4024 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4029 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4030 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4038 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4042 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment agreed to: Amendment SA 4043 agreed to in Senate by Voice Vote.
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3910 proposed by Senator Collins for Senator Klobuchar to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3920 proposed by Senator Collins for Senator Brown to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3933 proposed by Senator Collins for Senator Perdue to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3935 proposed by Senator Collins for Senator Boxer to Amendment SA 3896.(consideration: CR S2966-2969)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3944 proposed by Senator Collins for Senator Feinstein to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3967 proposed by Senator Collins for Senator Paul to Amendment SA 3896.(consideration: CR2964-2966; text: CR S2964-2965)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3969 proposed by Senator Collins for Senator Inhofe to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3980 proposed by Senator Collins for Senator Flake to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967-2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3992 proposed by Senator Collins for Senator Johnson to Amendment SA 3896.(consideration: CR2964-2966; text: CR S2965)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3993 proposed by Senator Collins for Senator Johnson to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3997 proposed by Senator Collins for Senator Kirk to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2966)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 3998 proposed by Senator Collins for Senator Tester to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4005 proposed by Senator Collins for Senator Heller to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4008 proposed by Senator Collins for Senator Daines to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4011 proposed by Senator Collins for Senator Nelson to Amendment SA 3896.(consideration: CR2964-2966; text: CR S2965)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4023 proposed by Senator Collins for Senator Sasse to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4024 proposed by Senator Collins for Senator Isakson to Amendment SA 3896.(consideration: CR2964-2966; text: CR S2965)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4029 proposed by Senator Collins for Senator Durbin to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2968)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4030 proposed by Senator Collins for Senator Mikulski to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4038 proposed by Senator Collins for Senator Flake to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4039 proposed by Senator McCain to Amendment SA 3896.(consideration: CR S2956-2958; text: CR S2957)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4042 proposed by Senator Collins for Senator Warner to Amendment SA 3896.(consideration: CR2964-2966; text: CR S2965-2966)
+- 2016-05-18 — Senate amendment proposed (on the floor): Amendment SA 4043 proposed by Senator Collins for Senator Manchin to Amendment SA 3896.(consideration: CR S2966-2969; text: CR S2967)
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-18 — Senate amendment submitted
+- 2016-05-19 — Amendment SA 3896 agreed to in Senate by Unanimous Consent.
+- 2016-05-19 — Amendment SA 3900 as modified, and as amended, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 77.
+- 2016-05-19 — Amendment SA 3900 ruled in order by the chair.
+- 2016-05-19 — Amendment SA 3946 agreed to in Senate by Voice Vote.
+- 2016-05-19 — Amendment SA 3970 agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 80.
+- 2016-05-19 — Amendment SA 3970 proposed by Senator Collins to Amendment SA 3896. (consideration: CR S3015-3017; text: CR S3015) To prohibit the use of funds to carry out a final rule and notice of the Department of Housing and Urban Development.
+- 2016-05-19 — Amendment SA 4026 as modified agreed to in Senate by Voice Vote. (text as modified: CR S3017-3018)
+- 2016-05-19 — Amendment SA 4026 proposed by Senator Collins for Senator Baldwin to Amendment SA 3896. (consideration: CR S3017-3018) To prohibit certain health care providers from providing non-Department health care services to veterans.
+- 2016-05-19 — Amendment SA 4039 ruled in order by the chair.
+- 2016-05-19 — Amendment SA 4039 ruled non-germane by the chair.
+- 2016-05-19 — Amendment SA 4050 agreed to in Senate by Voice Vote.
+- 2016-05-19 — Amendment SA 4050 proposed by Senator Collins for Senator Rubio to Amendment SA 3896. (consideration: CR S3017-3018; text: CR S3017) To make temporary relocation assistance available for tenants in project-based section 8 properties with imminent health and safety risks.
+- 2016-05-19 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S3018)
+- 2016-05-19 — Cloture on amendment SA 3896 invoked in Senate by Yea-Nay Vote. 88 - 10. Record Vote Number: 78. (consideration: CR S3008; text: CR S3008)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3005-3006, S3017)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3006, S3007-3008)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3007)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3007, S3008-3009)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3008)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004, S3008)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004-3018)
+- 2016-05-19 — Considered by Senate. (consideration: CR S3004-3019)
+- 2016-05-19 — Motion to table amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 81.
+- 2016-05-19 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3900, as modified, (the sections within the amendment regarding emergency designations) agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 76. (consideration: CR S3007)
+- 2016-05-19 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4039 (the section within the amendment regarding an emergency designation) agreed to in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 79. (consideration: CR S3009)
+- 2016-05-19 — Passed Senate with an amendment by Yea-Nay Vote. 89 - 8. Record Vote Number: 82.
+- 2016-05-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 89 - 8. Record Vote Number: 82.
+- 2016-05-19 — Point of order raised in Senate with respect to amendment SA 4039.
+- 2016-05-19 — Point of order that the emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 4039.
+- 2016-05-19 — Point of order that the emergency designations within the amendment violate the CBA raised in Senate with respect to amendment SA 3900, as modified.
+- 2016-05-19 — Proposed amendment SA 3898 withdrawn in Senate. (consideration: CR S3008)
+- 2016-05-19 — Proposed amendment SA 3899 withdrawn in Senate. (consideration: CR S3008)
+- 2016-05-19 — Roll call votes on amendments in Senate: Amendment SA 3900 as modified, and as amended, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 77.
+- 2016-05-19 — Roll call votes on amendments in Senate: Amendment SA 3970 agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 80.
+- 2016-05-19 — Roll call votes on amendments in Senate: Cloture on amendment SA 3896 invoked in Senate by Yea-Nay Vote. 88 - 10. Record Vote Number: 78.(consideration: CR S3008; text: CR S3008)
+- 2016-05-19 — Roll call votes on amendments in Senate: Motion to table amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 81.
+- 2016-05-19 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3900, as modified, (the sections within the amendment regarding emergency designations) agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 76.(consideration: CR S3007)
+- 2016-05-19 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4039 (the section within the amendment regarding an emergency designation) agreed to in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 79.(consideration: CR S3009)
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 3896 agreed to in Senate by Unanimous Consent.
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 3900 as modified, and as amended, was agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 77.
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 3946 agreed to in Senate by Voice Vote.
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 3970 agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 80.
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 4026 as modified agreed to in Senate by Voice Vote.(text as modified: CR S3017-3018)
+- 2016-05-19 — Senate amendment agreed to: Amendment SA 4050 agreed to in Senate by Voice Vote.
+- 2016-05-19 — Senate amendment proposed (on the floor): Amendment SA 3970 proposed by Senator Collins to Amendment SA 3896.(consideration: CR S3015-3017; text: CR S3015)
+- 2016-05-19 — Senate amendment proposed (on the floor): Amendment SA 4026 proposed by Senator Collins for Senator Baldwin to Amendment SA 3896.(consideration: CR S3017-3018)
+- 2016-05-19 — Senate amendment proposed (on the floor): Amendment SA 4050 proposed by Senator Collins for Senator Rubio to Amendment SA 3896.(consideration: CR S3017-3018; text: CR S3017)
+- 2016-05-19 — Senate amendment submitted
+- 2016-05-19 — Senate amendment submitted
+- 2016-05-19 — Senate amendment submitted
+- 2016-05-19 — Senate amendment submitted
