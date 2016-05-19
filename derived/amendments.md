@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4680
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 14 executed, 20 stated and not applied.
+33 amendatory instructions. 13 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `120 days` |
 | Inserted | `2 years` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > in subsection (f) (as redesignated), by striking “may act in place” and inserting “shall perform the functions”.
 
@@ -69,16 +69,16 @@ to guess them.
 | Removed | `may act in place` |
 | Inserted | `shall perform the functions` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
-> in subsection (b), by striking “, (7) and (8)” and inserting “and (7) through (9)”;
+> in subsection (b), by striking “, (7), and (8)” and inserting “and (7) through (9)”;
 
 | | |
 |---|---|
-| Removed | `, (7) and (8)` |
+| Removed | `, (7), and (8)` |
 | Inserted | `and (7) through (9)` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > by striking “under paragraphs (1) and (9) to (11)” and inserting “under paragraphs (10) through (12)”; and
 
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `under paragraphs (1) and (9) to (11)` |
 | Inserted | `under paragraphs (10) through (12)` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > by striking “An appointed member may not serve more than 2 terms” and inserting “An appointed member, other than the Chairman of the Council, may not serve more than 2 terms”;
 
@@ -96,16 +96,16 @@ to guess them.
 | Removed | `An appointed member may not serve more than 2 terms` |
 | Inserted | `An appointed member, other than the Chairman of the Council, may not serve more than 2 terms` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
-> in subsection (f) (as redesignated), by striking “paragraph (5), (6), (9), or (10)” and inserting “paragraph (5), (6), (10), or (11).”; and
+> in subsection (f) (as redesignated), by striking “paragraph (5), (6), (9), or (10)” and inserting “paragraph (5), (6), (10), or (11)”; and
 
 | | |
 |---|---|
 | Removed | `paragraph (5), (6), (9), or (10)` |
-| Inserted | `paragraph (5), (6), (10), or (11).` |
+| Inserted | `paragraph (5), (6), (10), or (11)` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > in subsection (g) (as redesignated), by striking “Twelve members” and inserting “Thirteen members”.
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `Twelve members` |
 | Inserted | `Thirteen members` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > by striking “report directly to the Council” and inserting “report directly to the Chairman”; and
 
@@ -123,7 +123,7 @@ to guess them.
 | Removed | `report directly to the Council` |
 | Inserted | `report directly to the Chairman` |
 
-### 5 U.S.C. § 5314
+### 5 U.S.C. § 5316
 
 > by striking “duties as the Council may prescribe” and inserting “duties as the Chairman may prescribe”.
 
@@ -132,18 +132,9 @@ to guess them.
 | Removed | `duties as the Council may prescribe` |
 | Inserted | `duties as the Chairman may prescribe` |
 
-### 16 U.S.C. § 469n
+### 5 U.S.C. § 5316
 
-> in paragraph (2), by striking “Council” in each place it appears and inserting “Chairman of the Council”; and
-
-| | |
-|---|---|
-| Removed | `Council` |
-| Inserted | `Chairman of the Council` |
-
-### 16 U.S.C. § 469n
-
-> in paragraph (4), by striking “Council” and inserting “Chairman of the Council”.
+> Subsection (b) and subsection (d) of section 311103 of title 54, United States Code, are amended by striking “Council” each place it appears and inserting “Chairman of the Council”.
 
 | | |
 |---|---|
@@ -165,17 +156,17 @@ complete account of the bill's effect, which it is not.
 | — | insert | Chapter 1011 of title 54, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Title 54, United States Code, is amended by inserting after chapter 1007 the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 102301(d) of title 54, United States Code, is amended by striking “not more than $7,000,000” and inserting “not more than 10,000,000”. | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters at the beginning of title 54, United States Code, is amended by inserting after the item relating to chapter 1007 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 102301(d) of title 54, United States Code, is amended by striking “not more than $7,000,000” and inserting “not more than $10,000,000”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 1011 of title 54, United States Code, is further amended by adding after section 101121 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| `5 U.S.C. § 5314` | redesignate | by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (12), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5314` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5314` | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5314` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5314` | insert | Section 304104 of title 54, United States Code, is amended by inserting after the first sentence the following: “The Chairman of the Council shall be compensated as provided in subsection (e) of section 304101.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5314` | add-at-end | Section 5314 of title 5, United States Code, is amended by adding at the end the following new item: “Chairman of the Advisory Council on Historic Preservation.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 101919(e) of title 54, United States Code, is amended by striking “2009” and inserting “2019”. | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 5316` | redesignate | by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (12), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | insert | Section 304104 of title 54, United States Code, is amended by inserting after the first sentence the following: “The Chairman of the Council shall be compensated as provided in subsection (e) of section 304101.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | add-at-end | Section 5316 of title 5, United States Code, is amended by adding at the end the following new item: “Chairman of the Advisory Council on Historic Preservation.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
