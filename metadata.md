@@ -1,7 +1,7 @@
 ---
 measure: S. 2942
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2942
@@ -28,3 +28,7 @@ A bill to extend certain privileges and immunities to the Gulf Cooperation Counc
 
 - 2016-05-17 — Introduced in Senate
 - 2016-05-17 — Read twice and referred to the Committee on Foreign Relations.
+- 2016-05-19 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-05-19 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2016-05-19 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2016-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
