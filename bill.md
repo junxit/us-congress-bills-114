@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 496
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,13 +19,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Management plan* The term management plan means the management plan for the National Scenic Area developed under section 4(a).
-- **(2)** *Map* Except in section 8, the term Map means the map titled “Proposed Alabama Hills National Scenic Area”, dated September 8, 2014.
+- **(2)** *Map* The term Map means the map titled “Proposed Alabama Hills National Scenic Area”, dated September 8, 2014.
 - **(3)** *Motorized vehicles* The term motorized vehicles means motorized or mechanized vehicles and includes, when used by utilities, mechanized equipment, helicopters, and other aerial devices necessary to maintain electrical or communications infrastructure.
 - **(4)** *National scenic area* The term National Scenic Area means the Alabama Hills National Scenic Area established by section 3(a).
 - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(6)** *State* The term State means the State of California.
-- **(7)** *Tribe* The term Tribe means the Lone-Pine Paiute Shoshone Tribe.
-- **(8)** *Utility facility* The term utility facility means any and all existing and future electric generation facilities, electric storage facilities, overhead and/or underground electrical supply systems and communication systems consisting of electric substations, electric lines, poles and towers made of various materials, “H” frame structures, guy wires and anchors, crossarms, wires, underground conduits, cables, vaults, manholes, handholes, above-ground enclosures, markers and concrete pads and other fixtures, appliances and communication circuits, and other fixtures, appliances and appurtenances connected therewith necessary or convenient for the construction, operation, regulation, control, grounding and maintenance of electric generation, storage, lines and communication circuits, for the purpose of transmitting intelligence and generating, storing, distributing, regulating and controlling electric energy to be used for light, heat, power, communication, and other purposes.
+- **(7)** *Tribe* The term Tribe means the Lone Pine Paiute-Shoshone.
+- **(8)** *Utility facility* The term utility facility means any and all existing and future water system facilities including aqueducts, streams, ditches, and canals; water facilities including, but not limited to, flow measuring stations, gauges, gates, values, piping, conduits, fencing, and electrical power and communications devices and systems; and any and all existing and future electric generation facilities, electric storage facilities, overhead and/or underground electrical supply systems and communication systems consisting of electric substations, electric lines, poles and towers made of various materials, “H” frame structures, guy wires and anchors, crossarms, wires, underground conduits, cables, vaults, manholes, handholes, above-ground enclosures, markers and concrete pads and other fixtures, appliances and communication circuits, and other fixtures, appliances and appurtenances connected therewith necessary or convenient for the construction, operation, regulation, control, grounding and maintenance of electric generation, storage, lines and communication circuits, for the purpose of transmitting intelligence and generating, storing, distributing, regulating and controlling electric energy to be used for light, heat, power, communication, and other purposes.
 
 ## § 3. Alabama Hills National Scenic Area, California
 
@@ -51,60 +51,52 @@ In this Act:
   - **(3)** *Motorized vehicles* Except as specified within this Act and/or in cases in which motorized vehicles are needed for administrative purposes, or to respond to an emergency, the use of motorized vehicles in the National Scenic Area shall be permitted only on—
     - **(A)** roads and trails designated by the Director of the Bureau of Land Management for use of motorized vehicles as part of a management plan sustaining a semi-primitive motorized experience; or
     - **(B)** on county-maintained roads in accordance with applicable State and county laws.
-- **(f)** *Acquisition of land*
-  - **(1)** *In general* The Secretary may acquire non-Federal land within the boundaries of the National Scenic Area only through exchange, donation, or purchase from a willing seller.
-  - **(2)** *Management* Land acquired under paragraph (1) shall be—
-    - **(A)** considered to be a part of the National Scenic Area; and
-    - **(B)** managed in accordance with this Act and any other applicable laws.
-- **(g)** *No buffer zones*
+- **(f)** *No buffer zones*
   - **(1)** *In general* Nothing in this Act creates a protective perimeter or buffer zone around the National Scenic Area.
   - **(2)** *Activities outside national scenic area* The fact that an activity or use on land outside the National Scenic Area can be seen or heard within the National Scenic Area shall not preclude the activity or use outside the boundaries of the National Scenic Area.
-- **(h)** *Access* The Secretary shall continue to provide private landowners adequate access to inholdings in the National Scenic Area.
-- **(i)** *Filming* Nothing in this Act prohibits filming (including commercial film production, student filming, and still photography) within the National Scenic Area—
+- **(g)** *Access* The Secretary shall continue to provide private landowners adequate access to inholdings in the National Scenic Area.
+- **(h)** *Filming* Nothing in this Act prohibits filming (including commercial film production, student filming, and still photography) within the National Scenic Area—
   - **(1)** subject to—
     - **(A)** such reasonable regulations, policies, and practices as the Secretary considers to be necessary; and
     - **(B)** applicable law; and
   - **(2)** in a manner consistent with the purposes described in subsection (b).
-- **(j)** *Fish and wildlife* Nothing in this Act affects the jurisdiction or responsibilities of the State with respect to fish and wildlife.
-- **(k)** *Livestock* The grazing of livestock in the National Scenic Area, including grazing under the Alabama Hills allotment and the George Creek allotment, as established before the date of enactment of this Act, shall be permitted to continue—
+- **(i)** *Fish and wildlife* Nothing in this Act affects the jurisdiction or responsibilities of the State with respect to fish and wildlife.
+- **(j)** *Livestock* The grazing of livestock in the National Scenic Area, including grazing under the Alabama Hills allotment and the George Creek allotment, as established before the date of enactment of this Act, shall be permitted to continue—
   - **(1)** subject to—
     - **(A)** such reasonable regulations, policies, and practices as the Secretary considers to be necessary; and
     - **(B)** applicable law; and
   - **(2)** in a manner consistent with the purposes described in subsection (b).
-- **(l)** *Overflights* Nothing in this Act restricts or precludes flights over the National Scenic Area or overflights that can be seen or heard within the National Scenic Area, including—
+- **(k)** *Overflights* Nothing in this Act restricts or precludes flights over the National Scenic Area or overflights that can be seen or heard within the National Scenic Area, including—
   - **(1)** transportation, sightseeing and filming flights, general aviation planes, helicopters, hang-gliders, and balloonists, for commercial or recreational purposes;
   - **(2)** low-level overflights of military aircraft;
   - **(3)** flight testing and evaluation; or
   - **(4)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the National Scenic Area.
-- **(m)** *Withdrawal* Subject to this Act’s provisions and valid rights in existence on the date of enactment of this Act, including rights established by prior withdrawals, the Federal land within the National Scenic Area is withdrawn from all forms of—
+- **(l)** *Withdrawal* Subject to this Act’s provisions and valid rights in existence on the date of enactment of this Act, including rights established by prior withdrawals, the Federal land within the National Scenic Area is withdrawn from all forms of—
   - **(1)** entry, appropriation, or disposal under the public land laws;
   - **(2)** location, entry, and patent under the mining laws; and
   - **(3)** disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
-- **(n)** *Wildland fire operations* Nothing in this Act prohibits the Secretary, in cooperation with other Federal, State, and local agencies, as appropriate, from conducting wildland fire operations in the National Scenic Area, consistent with the purposes described in subsection (b).
-- **(o)** *Grants; cooperative agreements* The Secretary may make grants to, or enter into cooperative agreements with, State, tribal, and local governmental entities and private entities to conduct research, interpretation, or public education or to carry out any other initiative relating to the restoration, conservation, or management of the National Scenic Area.
-- **(p)** *Air and water quality* Nothing in this Act modifies any standard governing air or water quality outside of the boundaries of the National Scenic Area.
-- **(q)** *Utility facilities and rights of way*
+- **(m)** *Wildland fire operations* Nothing in this Act prohibits the Secretary, in cooperation with other Federal, State, and local agencies, as appropriate, from conducting wildland fire operations in the National Scenic Area, consistent with the purposes described in subsection (b).
+- **(n)** *Grants; cooperative agreements* The Secretary may make grants to, or enter into cooperative agreements with, State, tribal, and local governmental entities and private entities to conduct research, interpretation, or public education or to carry out any other initiative relating to the restoration, conservation, or management of the National Scenic Area.
+- **(o)** *Air and water quality* Nothing in this Act modifies any standard governing air or water quality outside of the boundaries of the National Scenic Area.
+- **(p)** *Utility facilities and rights of way*
   - **(1)** Nothing in this Act shall—
     - **(A)** affect the existence, use, operation, maintenance (including but not limited to vegetation control), repair, construction, reconfiguration, expansion, inspection, renewal, reconstruction, alteration, addition, relocation, improvement, funding, removal, or replacement of utility facilities or appurtenant rights of way within or adjacent to the National Scenic Area;
-    - **(B)** affect necessary or efficient access to utility facilities or rights of way within or adjacent to the National Scenic Area;
-    - **(C)** preclude the establishment of new utility facilities or rights of way (including instream sites, routes, and areas) within the National Scenic Area if such facilities—
-      - **(i)** are necessary for public health and safety, electricity supply, telecommunications, or other utility services;
-      - **(ii)** are deemed necessary by the California Public Utilities Commission (CPUC) and/or California Independent System Operator (CAISO);
-      - **(iii)** comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and/or California Environmental Quality Act; and
-      - **(iv)** are determined, pursuant to the process prescribed by the laws referred to in clause (iii), to be designed and constructed, to the extent practical, consistent with the purposes of the National Scenic Area, taking into consideration—
-        - **(I)** siting the utility facilities or rights of way outside of the National Scenic Area; and
-        - **(II)** mitigating impacts to the National Scenic Area, to the extent feasible, from the utility facilities or rights of way; or
-    - **(D)** preclude the use of motorized vehicles on and off roads and trails designated for use by motorized vehicles, including but not limited to the use of mechanized equipment, helicopters, and/or other aerial vehicles or devices, as necessary or efficient for the performance of activities related to the operation, maintenance, expansion, and/or construction of any utility facilities, including lines, and/or rights of way.
+    - **(B)** affect necessary or efficient access to utility facilities or rights of way within or adjacent to the National Scenic Area subject to subsection (e);
+    - **(C)** preclude the Secretary from authorizing the establishment of new utility facility rights of way (including instream sites, routes, and areas) within the National Scenic Area in a manner that minimizes harm to the purpose of the National Scenic Area as described in subsection (b)—
+      - **(i)** with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other applicable law; and
+      - **(ii)** subject to such terms and conditions as the Secretary determines to be appropriate.
   - **(2)** *Management Plan* Consistent with this Act, the Management Plan shall establish plans for maintenance of public utility and other rights of way within the National Scenic Area.
 
 ## § 4. Management plan
 
 - **(a)** *In general* Not later than 3 years after the date of enactment of this Act, in accordance with subsection (b), the Secretary shall develop a comprehensive plan for the long-term management of the National Scenic Area.
-- **(b)** *Consultation* In developing the management plan, the Secretary shall consult with—
-  - **(1)** appropriate State, tribal, and local governmental entities, including Inyo County, the Los Angeles Department of Water and Power, and the Tribe;
-  - **(2)** investor-owned utilities, including Southern California Edison Company;
-  - **(3)** the Alabama Hills Stewardship Group; and
-  - **(4)** members of the public.
+- **(b)** *Consultation* In developing the management plan, the Secretary shall—
+  - **(1)** consult with appropriate State, tribal, and local governmental entities, including Inyo County and the Tribe; and
+  - **(2)** seek input from—
+    - **(A)** investor-owned utilities, including Southern California Edison Company;
+    - **(B)** the Alabama Hills Stewardship Group;
+    - **(C)** members of the public; and
+    - **(D)** the Los Angeles Department of Water and Power.
 - **(c)** *Incorporation of management plan* In developing the management plan, in accordance with this section, the Secretary shall allow, in perpetuity, casual-use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.
 - **(d)** *Interim management* Pending completion of the management plan, the Secretary shall manage the National Scenic Area in accordance with section 3.
 
@@ -118,25 +110,8 @@ In this Act:
 
 ## § 6. Transfer of administrative jurisdiction
 
-Administrative jurisdiction of the approximately 40 acres of Federal land depicted on the Map as “USFS Transfer to BLM” is hereby transferred from the Forest Service under the Secretary of Agriculture to the Bureau of Land Management under the Secretary.
+Administrative jurisdiction of the approximately 56 acres of Federal land depicted on the Map as “USFS Transfer to BLM” is hereby transferred from the Forest Service under the Secretary of Agriculture to the Bureau of Land Management under the Secretary.
 
 ## § 7. Protection of services and recreational opportunities
 
 Nothing in this Act shall be construed to limit commercial services for existing and historic recreation uses as authorized by the Bureau of Land Management’s permit process. Valid, existing, commercial permits to exercise guided recreational opportunities for the public may continue as authorized on the day before the date of the enactment of this Act.
-
-## § 8. Land conveyance to eliminate encroachment on public lands
-
-- **(a)** *Definitions* In this section:
-  - **(1)** *Authorized offer period* The term “authorized offer period” means the 120-day period beginning on the date on which the required appraisal of the Federal land is completed under subsection (c).
-  - **(2)** *Federal land* The term “Federal land” means the smallest parcel of land within the approximately four acres of Bureau of Land Management land identified on the map as the “Conveyance Area” that—
-    - **(A)** the Secretary determines can be reasonably described in legal language and effectively administered; and
-    - **(B)** encompasses construction completed by Reginald Cook or his predecessor in interest as of the cadastral survey completed by the Bureau of Land Management on April 21, 2011, and certified on October 12, 2011.
-  - **(3)** *Map* The term “map” means the map titled “Proposed Conveyance Property”, dated January 15, 2015, and on file in the appropriate office of the Director of the Bureau of Land Management.
-  - **(4)** *Reginald Cook* The term “Reginald Cook” means Mr. Reginald Cook, the owner of property adjacent to the Conveyance Area identified on the map.
-- **(b)** *Conveyance authorized* If, before the end of the authorized offer period, Reginald Cook submits to the Secretary an offer to acquire the Federal land consistent with subsections (d) and (e), the Secretary shall convey to Reginald Cook, upon payment of the required consideration, all right, title, and interest of the United States in and to the surface estate of the Federal land. The conveyance of the Federal land is subject to valid existing rights.
-- **(c)** *Appraisal* Not later than 120 days after the date of the enactment of this Act, the Secretary shall complete an appraisal of the Federal land in accordance with the “Uniform Appraisal Standards for Federal Land Acquisitions” and the “Uniform Standards of Professional Appraisal Practice”.
-- **(d)** *Consideration* As consideration for the conveyance of the Federal land, Reginald Cook shall pay to the United States, for deposit in the general fund of the Treasury, an amount equal to the appraised value of the Federal land.
-- **(e)** *Conditions*
-  - **(1)** *Payment of costs of conveyance* Reginald Cook shall cover any administrative costs incurred by the Secretary to carry out the conveyance of the Federal land, including the costs of any environmental, wildlife, cultural, or historical resources studies.
-  - **(2)** *Release* As a condition of the conveyance of the Federal land, Reginald Cook shall agree in writing to release and indemnify the United States from any claims or liabilities that may arise from use of the Federal land by the United States or Reginald Cook before the date of the conveyance.
-- **(f)** *Access* The Secretary shall continue to provide Reginald Cook with access to his property as required by section 3(h), subject to part 2800 of title 43, Code of Federal Regulations.

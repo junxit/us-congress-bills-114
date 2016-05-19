@@ -1,7 +1,7 @@
 ---
 measure: H.R. 496
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 496
@@ -25,3 +25,14 @@ Alabama Hills National Scenic Area Establishment Act
 - 2015-01-22 — Introduced in House
 - 2015-01-22 — Introduced in House
 - 2015-01-22 — Referred to the House Committee on Natural Resources.
+- 2015-03-02 — Referred to the Subcommittee on Federal Lands.
+- 2015-03-02 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2015-06-16 — Subcommittee Hearings Held.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-15 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-05-19 — Placed on the Union Calendar, Calendar No. 445.
+- 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-575.
+- 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-575.
