@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4974
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4974
@@ -20,9 +20,266 @@ Military Construction and Veterans Affairs and Related Agencies Appropriations A
 
 - House — Appropriations Committee
 
+## Recorded votes (12)
+
+- 2016-05-19 — [House 114-2-217](votes/house-114-2-0217.md) — On Agreeing to the Amendment — **Failed** (52–372)
+- 2016-05-19 — [House 114-2-218](votes/house-114-2-0218.md) — On Agreeing to the Amendment — **Failed** (51–371)
+- 2016-05-19 — [House 114-2-219](votes/house-114-2-0219.md) — On Agreeing to the Amendment — **Failed** (56–363)
+- 2016-05-19 — [House 114-2-220](votes/house-114-2-0220.md) — On Agreeing to the Amendment — **Failed** (64–360)
+- 2016-05-19 — [House 114-2-221](votes/house-114-2-0221.md) — On Agreeing to the Amendment — **Agreed to** (233–189)
+- 2016-05-19 — [House 114-2-222](votes/house-114-2-0222.md) — On Agreeing to the Amendment — **Agreed to** (219–202)
+- 2016-05-19 — [House 114-2-223](votes/house-114-2-0223.md) — On Agreeing to the Amendment — **Agreed to** (265–159)
+- 2016-05-19 — [House 114-2-224](votes/house-114-2-0224.md) — On Agreeing to the Amendment — **Failed** (200–225)
+- 2016-05-19 — [House 114-2-225](votes/house-114-2-0225.md) — On Agreeing to the Amendment — **Failed** (209–216)
+- 2016-05-19 — [House 114-2-226](votes/house-114-2-0226.md) — On Agreeing to the Amendment — **Failed** (212–213)
+- 2016-05-19 — [House 114-2-227](votes/house-114-2-0227.md) — On engrossment and third reading — **Passed** (241–183)
+- 2016-05-19 — [House 114-2-228](votes/house-114-2-0228.md) — On Passage — **Passed** (295–129)
+
 ## Actions
 
 - 2016-04-15 — Introduced in House
 - 2016-04-15 — Placed on the Union Calendar, Calendar No. 379.
 - 2016-04-15 — The House Committee on Appropriations reported an original measure, H. Rept. 114-497, by Mr. Dent.
 - 2016-04-15 — The House Committee on Appropriations reported an original measure, H. Rept. 114-497, by Mr. Dent.
+- 2016-05-17 — Rules Committee Resolution H. Res. 736 Reported to House. Rule provides for consideration of H.R. 4974 and H.R. 5243.
+- 2016-05-18 — Amendment (A001) offered by Mrs. Wagner. (consideration: CR H2823; text: CR H2823)
+- 2016-05-18 — Amendment (A002) offered by Mr. Gosar. (consideration: CR H2826-2827; text: CR H2826)
+- 2016-05-18 — Amendment (A003) offered by Ms. Lujan Grisham (NM). (consideration: CR H2827-2828; text: CR H2827)
+- 2016-05-18 — Amendment (A004) offered by Mr. Keating. (consideration: CR H2828-2829; text: CR H2828)
+- 2016-05-18 — Amendment (A005) offered by Mr. Clawson (FL). (consideration: CR H2829; text: CR H2829)
+- 2016-05-18 — Amendment (A006) offered by Mr. Keating. (consideration: CR H2829-2830; text: CR H2829)
+- 2016-05-18 — Amendment (A007) offered by Mr. Ruiz. (consideration: CR H2830; text: CR H2830)
+- 2016-05-18 — Amendment (A008) offered by Mr. Mulvaney. (consideration: CR H2834; text: CR H2834)
+- 2016-05-18 — Amendment (A009) offered by Mr. Mulvaney. (consideration: CR H2835; text: CR H2835)
+- 2016-05-18 — Amendment (A010) offered by Mr. Mulvaney. (consideration: CR H2836; text: CR H2836)
+- 2016-05-18 — Amendment (A011) offered by Mr. Mulvaney. (consideration: CR H2836; text: CR H2836)
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Amendment agreed to Committee of the Whole
+- 2016-05-18 — Considered under the provisions of rule H. Res. 736. (consideration: CR H2813-2842; text of Title I as reported in House: CR H2822-2823, H2823-2826; text of Title II as reported in House: CR H2826-2828, H2828-2830, H2830, H2830-2834; text of Title III as reported in House: CR H2834; text of Title IV as reported in House: CR H2834, H2835, H2835-2836, H2836; text of Title V as reported in House: CR H2836-2837)
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Clawson (FL) amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Lujan Grisham (NM) amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Wagner amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the first Mulvaney amendment pending reservation of a point of order. Subsequently the reservation of a point of order was withdrawn.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the fourth Mulvaney amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the second Mulvaney amendment.
+- 2016-05-18 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the third Mulvaney amendment.
+- 2016-05-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4974.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Clawson (FL) amendment (A005) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Gosar amendment (A002) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Keating amendment (A004) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Keating amendment (A006) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Lujan Grisham (NM) amendment (A003) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Ruiz amendment (A007) Agreed to by voice vote.
+- 2016-05-18 — House amendment agreed to: On agreeing to the Wagner amendment (A001) Agreed to by voice vote.
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered
+- 2016-05-18 — House amendment offered/reported by : Amendment (A001) offered by Mrs. Wagner.(consideration: CR H2823; text: CR H2823)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A002) offered by Mr. Gosar.(consideration: CR H2826-2827; text: CR H2826)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A003) offered by Ms. Lujan Grisham (NM).(consideration: CR H2827-2828; text: CR H2827)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A004) offered by Mr. Keating.(consideration: CR H2828-2829; text: CR H2828)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A005) offered by Mr. Clawson (FL).(consideration: CR H2829; text: CR H2829)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A006) offered by Mr. Keating.(consideration: CR H2829-2830; text: CR H2829)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A007) offered by Mr. Ruiz.(consideration: CR H2830; text: CR H2830)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A008) offered by Mr. Mulvaney.(consideration: CR H2834; text: CR H2834)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A009) offered by Mr. Mulvaney.(consideration: CR H2835; text: CR H2835)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A010) offered by Mr. Mulvaney.(consideration: CR H2836; text: CR H2836)
+- 2016-05-18 — House amendment offered/reported by : Amendment (A011) offered by Mr. Mulvaney.(consideration: CR H2836; text: CR H2836)
+- 2016-05-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 736 and Rule XVIII.
+- 2016-05-18 — On agreeing to the Clawson (FL) amendment (A005) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Gosar amendment (A002) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Keating amendment (A004) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Keating amendment (A006) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Lujan Grisham (NM) amendment (A003) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Ruiz amendment (A007) Agreed to by voice vote.
+- 2016-05-18 — On agreeing to the Wagner amendment (A001) Agreed to by voice vote.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the first Mulvaney amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the fourth Mulvaney amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the second Mulvaney amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the third Mulvaney amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-18 — Rule provides for consideration of H.R. 4974 and H.R. 5243.
+- 2016-05-18 — The Speaker designated the Honorable Doug Collins to act as Chairman of the Committee.
+- 2016-05-19 — Amendment (A012) offered by Mr. Ratcliffe. (consideration: CR 5/18/2016 H2837; text: CR H2837)
+- 2016-05-19 — Amendment (A013) offered by Mr. Blumenauer. (consideration: CR 5/18/2016 H2837-2838; text: CR H2837)
+- 2016-05-19 — Amendment (A014) offered by Mr. Fleming. (consideration: CR 5/18/2016 H2838-2839; text: CR H2838)
+- 2016-05-19 — Amendment (A015) offered by Mr. Huffman. (consideration: CR 5/18/2016 H2839-2840; text: CR H2839)
+- 2016-05-19 — Amendment (A016) offered by Mr. Fitzpatrick. (consideration: CR 5/18/2016 H2840-2841; text: CR H2840)
+- 2016-05-19 — Amendment (A017) offered by Mr. Grayson. (consideration: CR 5/18/2016 H2841; text: CR H2841)
+- 2016-05-19 — Amendment (A018) offered by Mr. Boustany. (consideration: CR 5/18/2016 H2841-2842; text: CR H2841)
+- 2016-05-19 — Amendment (A019) offered by Mr. Gohmert. (consideration: CR 5/18/2016 H2842; text: CR H2842)
+- 2016-05-19 — Amendment (A020) offered by Mr. Heck (WA). (consideration: CR H2849; text: CR H2849)
+- 2016-05-19 — Amendment (A021) offered by Mr. Gibson. (consideration: CR H2849-2850; text: CR H2849)
+- 2016-05-19 — Amendment (A022) offered by Mr. Gosar. (consideration: CR H2850-2851; text: CR H2850)
+- 2016-05-19 — Amendment (A023) offered by Mr. Gosar. (consideration: CR H2851; text: CR H2851)
+- 2016-05-19 — Amendment (A024) offered by Mr. Mica. (consideration: CR H2851-2852; text: CR H2851-2852)
+- 2016-05-19 — Amendment (A025) offered by Mr. Gosar. (consideration: CR H2852-2853; text: CR H2852)
+- 2016-05-19 — Amendment (A026) offered by Mr. Gosar. (consideration: CR H2853-2854, H2863-2864; text: CR H2853)
+- 2016-05-19 — Amendment (A027) offered by Mr. Perry. (consideration: CR H2854-2855, H2864-2865; text: CR H2854)
+- 2016-05-19 — Amendment (A028) offered by Ms. Jackson Lee. (consideration: CR H2855-2857; text: CR H2855)
+- 2016-05-19 — Amendment (A029) offered by Mr. Gibson. (consideration: CR H2857; text: CR H2857)
+- 2016-05-19 — Amendment (A030) offered by Mr. Maloney, Sean. (consideration: CR H2857-2859, H2865; text: CR H2857)
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment agreed to Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — Amendment failed in Committee of the Whole
+- 2016-05-19 — By unanimous consent, the Gibson amendment was withdrawn. (consideration: CR H2850)
+- 2016-05-19 — By unanimous consent, the Heck (WA) amendment was withdrawn. (consideration: CR H2849)
+- 2016-05-19 — Committee of the Whole House on the state of the Union rises leaving H.R. 4974 as unfinished business.
+- 2016-05-19 — Considered as unfinished business. (consideration: CR H2849-2867)
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Boustany amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Gibson amendment pending a reservation of a point of order.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment pending a reservation of a point of order.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Heck (WA) amendment pending a reservation of a point of order.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Maloney, Sean amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment No. 7.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the fourth Gosar amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the second Gibson amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the second Gosar amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the third Gosar amendment.
+- 2016-05-19 — DEBATE - The Committee of the Whole proceeded with 10 minutes on the Ratcliffe amendment.
+- 2016-05-19 — ENGROSSMENT AND THIRD READING - The Chair put the question on engrossment and third reading and by voice vote, announced that the ayes had prevailed. Mr. Hoyer demanded a recorded vote on the question, which was ordered.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Blumenauer amendment (A013) Agreed to by recorded vote: 233 - 189 (Roll no. 221).(consideration: CR H2861-2862)
+- 2016-05-19 — House amendment agreed to: On agreeing to the Fleming amendment (A014) Agreed to by recorded vote: 219 - 202 (Roll no. 222).(consideration: CR H2863)
+- 2016-05-19 — House amendment agreed to: On agreeing to the Gibson amendment (A029) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Gosar amendment (A022) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Gosar amendment (A023) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Gosar amendment (A025) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Grayson amendment (A017) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Huffman amendment (A015) Agreed to by recorded vote: 265 - 159, 1 Present (Roll no. 223).(consideration: CR H2863)
+- 2016-05-19 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A028) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Mica amendment (A024) Agreed to by voice vote.
+- 2016-05-19 — House amendment agreed to: On agreeing to the Ratcliffe amendment (A012) Agreed to by voice vote.
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Fitzpatrick amendment (A016) Failed by voice vote.
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Gosar amendment (A026) Failed by recorded vote: 200 - 225 (Roll no. 224).
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Maloney, Sean amendment (A030) Failed by recorded vote: 212 - 213 (Roll no. 226).
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A008) Failed by recorded vote: 52 - 372 (Roll no. 217).(consideration: CR H2859)
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A009) Failed by recorded vote: 51 - 371 (Roll no. 218).(consideration: CR H2859-2860)
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A010) Failed by recorded vote: 56 - 363 (Roll no. 219).(consideration: CR H2861)
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A011) Failed by recorded vote: 64 - 360 (Roll no. 220).(consideration: CR H2861)
+- 2016-05-19 — House amendment not agreed to: On agreeing to the Perry amendment (A027) Failed by recorded vote: 209 - 216 (Roll no. 225).
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered
+- 2016-05-19 — House amendment offered/reported by : Amendment (A012) offered by Mr. Ratcliffe.(consideration: CR 5/18/2016 H2837; text: CR H2837)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A013) offered by Mr. Blumenauer.(consideration: CR 5/18/2016 H2837-2838; text: CR H2837)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A014) offered by Mr. Fleming.(consideration: CR 5/18/2016 H2838-2839; text: CR H2838)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A015) offered by Mr. Huffman.(consideration: CR 5/18/2016 H2839-2840; text: CR H2839)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A016) offered by Mr. Fitzpatrick.(consideration: CR 5/18/2016 H2840-2841; text: CR H2840)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A017) offered by Mr. Grayson.(consideration: CR 5/18/2016 H2841; text: CR H2841)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A018) offered by Mr. Boustany.(consideration: CR 5/18/2016 H2841-2842; text: CR H2841)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A019) offered by Mr. Gohmert.(consideration: CR 5/18/2016 H2842; text: CR H2842)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A020) offered by Mr. Heck (WA).(consideration: CR H2849; text: CR H2849)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A021) offered by Mr. Gibson.(consideration: CR H2849-2850; text: CR H2849)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A022) offered by Mr. Gosar.(consideration: CR H2850-2851; text: CR H2850)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A023) offered by Mr. Gosar.(consideration: CR H2851; text: CR H2851)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A024) offered by Mr. Mica.(consideration: CR H2851-2852; text: CR H2851-2852)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A025) offered by Mr. Gosar.(consideration: CR H2852-2853; text: CR H2852)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A026) offered by Mr. Gosar.(consideration: CR H2853-2854, H2863-2864; text: CR H2853)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A027) offered by Mr. Perry.(consideration: CR H2854-2855, H2864-2865; text: CR H2854)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A028) offered by Ms. Jackson Lee.(consideration: CR H2855-2857; text: CR H2855)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A029) offered by Mr. Gibson.(consideration: CR H2857; text: CR H2857)
+- 2016-05-19 — House amendment offered/reported by : Amendment (A030) offered by Mr. Maloney, Sean.(consideration: CR H2857-2859, H2865; text: CR H2857)
+- 2016-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-19 — Mr. Bishop (GA) raised a point of order against the Gohmert amendment (A019). Mr. Bishop (GA) stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2016-05-19 — Mr. Dent moved that the Committee rise.
+- 2016-05-19 — Mr. Dent raised a point of order against the Boustany amendment (A018). Mr. Dent stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2016-05-19 — On agreeing to the Blumenauer amendment (A013) Agreed to by recorded vote: 233 - 189 (Roll no. 221). (consideration: CR H2861-2862)
+- 2016-05-19 — On agreeing to the Fitzpatrick amendment (A016) Failed by voice vote.
+- 2016-05-19 — On agreeing to the Fleming amendment (A014) Agreed to by recorded vote: 219 - 202 (Roll no. 222). (consideration: CR H2863)
+- 2016-05-19 — On agreeing to the Gibson amendment (A029) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Gosar amendment (A022) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Gosar amendment (A023) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Gosar amendment (A025) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Gosar amendment (A026) Failed by recorded vote: 200 - 225 (Roll no. 224).
+- 2016-05-19 — On agreeing to the Grayson amendment (A017) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Huffman amendment (A015) Agreed to by recorded vote: 265 - 159, 1 Present (Roll no. 223). (consideration: CR H2863)
+- 2016-05-19 — On agreeing to the Jackson Lee amendment (A028) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Maloney, Sean amendment (A030) Failed by recorded vote: 212 - 213 (Roll no. 226).
+- 2016-05-19 — On agreeing to the Mica amendment (A024) Agreed to by voice vote.
+- 2016-05-19 — On agreeing to the Mulvaney amendment (A008) Failed by recorded vote: 52 - 372 (Roll no. 217). (consideration: CR H2859)
+- 2016-05-19 — On agreeing to the Mulvaney amendment (A009) Failed by recorded vote: 51 - 371 (Roll no. 218). (consideration: CR H2859-2860)
+- 2016-05-19 — On agreeing to the Mulvaney amendment (A010) Failed by recorded vote: 56 - 363 (Roll no. 219). (consideration: CR H2861)
+- 2016-05-19 — On agreeing to the Mulvaney amendment (A011) Failed by recorded vote: 64 - 360 (Roll no. 220). (consideration: CR H2861)
+- 2016-05-19 — On agreeing to the Perry amendment (A027) Failed by recorded vote: 209 - 216 (Roll no. 225).
+- 2016-05-19 — On agreeing to the Ratcliffe amendment (A012) Agreed to by voice vote.
+- 2016-05-19 — On engrossment and third reading Agreed to by recorded vote: 241 - 183 (Roll no. 227).
+- 2016-05-19 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-05-19 — On passage Passed by the Yeas and Nays: 295 - 129 (Roll no. 228).
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fleming amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Fleming demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Huffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Maloney, Sean amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Maloney, Sean demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bishop (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the fourth Gosar amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bishop (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-05-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 295 - 129 (Roll no. 228).
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — Roll call votes on amendments in House
+- 2016-05-19 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-05-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-05-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4974.
+- 2016-05-19 — The previous question was ordered pursuant to the rule. (consideration: CR H2865)
+- 2016-05-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
