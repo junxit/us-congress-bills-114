@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 469
 congress: 114
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 469
