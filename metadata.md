@@ -1,7 +1,7 @@
 ---
 measure: H.R. 496
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 496
@@ -36,3 +36,9 @@ Alabama Hills National Scenic Area Establishment Act
 - 2016-05-19 — Placed on the Union Calendar, Calendar No. 445.
 - 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-575.
 - 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-575.
+- 2016-05-23 — Considered under suspension of the rules. (consideration: CR H2892-2894)
+- 2016-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 496.
+- 2016-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-23 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
+- 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2892-2893)
+- 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2892-2893)

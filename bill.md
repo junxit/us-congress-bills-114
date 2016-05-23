@@ -115,3 +115,7 @@ Administrative jurisdiction of the approximately 56 acres of Federal land depict
 ## § 7. Protection of services and recreational opportunities
 
 Nothing in this Act shall be construed to limit commercial services for existing and historic recreation uses as authorized by the Bureau of Land Management’s permit process. Valid, existing, commercial permits to exercise guided recreational opportunities for the public may continue as authorized on the day before the date of the enactment of this Act.
+
+## § 8. Clarification regarding funding
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
