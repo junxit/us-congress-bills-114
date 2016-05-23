@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4889
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,7 +42,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `47 U.S.C. § 222` | redesignate | in paragraph (4), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 222` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 222` | replace | by striking “nothing in this section” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 222` | replace | by striking “Nothing in this section” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 222` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 615b` | add-at-end | in subsection (h), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

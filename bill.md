@@ -18,14 +18,16 @@ This Act may be cited as the “Kelsey Smith Act”.
 Section 222 of the Communications Act of 1934 (47 U.S.C. 222) is amended—
 
 - **(1)** in subsection (d)—
-  - **(A)** by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively;
-  - **(B)** by striking “nothing in this section” and inserting the following:
+  - **(A)** in paragraph (4), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively;
+  - **(B)** by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively;
+  - **(C)** by striking “Nothing in this section” and inserting the following:
     > - **(1)** *Permitted disclosures* Nothing in this section
 
-  - **(C)** by adding at the end the following:
+  - **(D)** by adding at the end the following:
     > - **(2)** *Required emergency disclosure of call location information to law enforcement* Notwithstanding subsections (a), (b), and (c), at the request of an investigative or law enforcement officer, a provider of a covered service shall provide to such officer the call location information, or the best available location information, of a telecommunications device that is—
     >   - **(A)** used to place a 9–1–1 call requesting emergency assistance; or
     >   - **(B)** reasonably believed to be in the possession of an individual that the law enforcement officer reasonably believes is in an emergency situation that involves the risk of death or serious physical harm to the individual.
+    > - **(3)** *Hold harmless* No cause of action shall lie in any court nor shall any civil or administrative proceeding be commenced by a governmental entity against any provider of a covered service, or its directors, officers, employees, agents, or vendors, for providing in good faith call location information or other information, facilities, or assistance in accordance with paragraph (2) and any regulations promulgated under such paragraph.
 
 - **(2)** in subsection (f)(1), by striking “subsection (d)(4)” and inserting “subsection (d)(1)(D)”; and
 - **(3)** in subsection (h), by adding at the end the following:
