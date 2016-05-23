@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3998
 
-> To direct the Federal Communications Commission to conduct a study on network resiliency during times of emergency, and for other purposes.
+> To direct the Federal Communications Commission to commence proceedings related to the resiliency of critical telecommunications networks during times of emergency, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,11 +15,10 @@ This Act may be cited as the “Securing Access to Networks in Disasters Act”.
 
 ## § 2. Study on network resiliency
 
-Not later than 36 months after the date of enactment of this Act, the Commission shall submit to Congress, and make publically available on the Commission’s website, a study on the public safety benefits and technical feasibility and cost of—
+Not later than 36 months after the date of enactment of this Act, the Commission shall submit to Congress, and make publically available on the Commission’s website, a study on—
 
-- **(1)** making telecommunications service provider-owned WiFi access points, and other communications technologies operating on unlicensed spectrum, available to the general public for access to 9–1–1 services, without requiring any login credentials, during times of emergency when mobile service is unavailable;
-- **(2)** the provision by non-telecommunications service provider-owned WiFi access points of public access to 9–1–1 services during times of emergency when mobile service is unavailable; and
-- **(3)** other alternative means of providing the public with access to 9–1–1 services during times of emergency when mobile service is unavailable.
+- **(1)** making telecommunications service provider-owned WiFi access points, and other communications technologies operating on unlicensed spectrum, available to the general public for access to 911 services, without requiring any login credentials, during times of emergency when mobile service is unavailable; and
+- **(2)** whether non-telecommunications service provider-owned WiFi access points can provide public access to 911 services during times of emergency.
 
 ## § 3. Access to essential service providers during federally declared emergencies
 
@@ -27,7 +26,7 @@ Section 427(a)(1)(A) of the Robert T. Stafford Disaster Relief and Emergency Ass
 
 ## § 4. Definitions
 
-As used in this Act—
+As used in this Act and for purposes of the rules required by this Act—
 
 - **(1)** the term Commission means the Federal Communications Commission;
 - **(2)** the term mobile service means commercial mobile service (as defined in section 332 of the Communications Act of 1934 (47 U.S.C. 332)) or commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401));
