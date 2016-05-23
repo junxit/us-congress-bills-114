@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Federal Assets Sale and Transfer Act of 2016”.
-- **(b)** *Table of contents*
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Purposes
 
@@ -33,17 +33,17 @@ The purpose of this Act is to reduce the costs of Federal real estate by—
 
 In this Act, unless otherwise expressly stated, the following definitions apply:
 
-- **(1)** *Administrator* The term “Administrator” means the Administrator of General Services.
-- **(2)** *Board* The term “Board” means the Public Buildings Reform Board established by section 4.
-- **(3)** *CERCLA* The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
-- **(4)** *Federal agency* The term “Federal agency” means an executive department or independent establishment in the executive branch of the Government, and a wholly owned Government corporation.
+- **(1)** *Administrator* The term Administrator means the Administrator of General Services.
+- **(2)** *Board* The term Board means the Public Buildings Reform Board established by section 4.
+- **(3)** *CERCLA* The term CERCLA means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
+- **(4)** *Federal agency* The term Federal agency means an executive department or independent establishment in the executive branch of the Government, and a wholly owned Government corporation.
 - **(5)** *Federal civilian real property and civilian real property*
-  - **(A)** *In general* The terms “Federal civilian real property” and “civilian real property” refer to Federal real property assets, including public buildings as defined in section 3301(a) of title 40, United States Code, occupied and improved grounds, leased space, or other physical structures under the custody and control of any Federal agency.
+  - **(A)** *In general* The terms Federal civilian real property and civilian real property refer to Federal real property assets, including public buildings as defined in section 3301(a) of title 40, United States Code, occupied and improved grounds, leased space, or other physical structures under the custody and control of any Federal agency.
   - **(B)** *Exclusions* Subparagraph (A) shall not be construed as including any of the following types of property:
     - **(i)** Properties that are on military installations (including any fort, camp, post, naval training station, airfield proving ground, military supply depot, military school, or any similar facility of the Department of Defense).
     - **(ii)** A base, camp, post, station, yard, center, or homeport facility for any ship or activity under the jurisdiction of the Coast Guard.
     - **(iii)** Properties that are excluded for reasons of national security by the Director of the Office of Management and Budget.
-    - **(iv)** Properties that are excepted from the definition of the term “property” under section 102 of title 40, United States Code.
+    - **(iv)** Properties that are excepted from the definition of the term property under section 102 of title 40, United States Code.
     - **(v)** Indian and Native Alaskan properties, including—
       - **(I)** any property within the limits of an Indian reservation to which the United States owns title for the benefit of an Indian tribe; and
       - **(II)** any property title that is held in trust by the United States for the benefit of an Indian tribe or individual or held by an Indian tribe or individual subject to restriction by the United States against alienation.
@@ -52,22 +52,22 @@ In this Act, unless otherwise expressly stated, the following definitions apply:
     - **(viii)** Properties used in connection with Federal programs for agricultural, recreational, or conservation purposes, including research in connection with the programs.
     - **(ix)** Properties used in connection with river, harbor, flood control, reclamation, or power projects.
     - **(x)** Properties located outside the United States operated or maintained by the Department of State or the United States Agency for International Development.
-- **(6)** *Field office* The term “field office” means any Federal office that is not the headquarters office location for the Federal agency.
-- **(7)** *HUD* The term “HUD” means the Department of Housing and Urban Development.
-- **(8)** *OMB* The term “OMB” means the Office of Management and Budget.
-- **(9)** *Value of transactions* The term “value of transactions” means the sum of the estimated proceeds and estimated costs, based on the accounting system developed or identified under section 12(e), associated with the transactions included in Board recommendations.
+- **(6)** *Field office* The term field office means any Federal office that is not the headquarters office location for the Federal agency.
+- **(7)** *HUD* The term HUD means the Department of Housing and Urban Development.
+- **(8)** *OMB* The term OMB means the Office of Management and Budget.
+- **(9)** *Value of transactions* The term value of transactions means the sum of the estimated proceeds and estimated costs, based on the accounting system developed or identified under section 12(e), associated with the transactions included in Board recommendations.
 
 ## § 4. Board
 
 - **(a)** *Establishment* There is established an independent board to be known as the Public Buildings Reform Board.
 - **(b)** *Duties* The Board shall carry out the duties as specified in this Act.
 - **(c)** *Membership*
-  - **(1)** *In general* The Board shall be composed of a Chairperson appointed by the President, by and with the advice and consent of the Senate, and 6 members appointed by the President.
+  - **(1)** *In general* The Board shall be composed of a Chairperson appointed by the President, by and with the advice and consent of the Senate, and six members appointed by the President.
   - **(2)** *Appointments* In selecting individuals for appointments to the Board, the President shall consult with—
-    - **(A)** the Speaker of the House of Representatives concerning the appointment of 2 members;
-    - **(B)** the majority leader of the Senate concerning the appointment of 2 members;
-    - **(C)** the minority leader of the House of Representatives concerning the appointment of 1 member; and
-    - **(D)** the minority leader of the Senate concerning the appointment of 1 member.
+    - **(A)** the Speaker of the House of Representatives concerning the appointment of two members;
+    - **(B)** the majority leader of the Senate concerning the appointment of two members;
+    - **(C)** the minority leader of the House of Representatives concerning the appointment of one member; and
+    - **(D)** the minority leader of the Senate concerning the appointment of one member.
   - **(3)** *Terms* The term for each member of the Board shall be 6 years.
   - **(4)** *Vacancies* Vacancies shall be filled in the same manner as the original appointment.
   - **(5)** *Qualifications* In selecting individuals for appointment to the Board, the President shall ensure that the Board contains individuals with expertise representative of the following:
@@ -78,7 +78,7 @@ In this Act, unless otherwise expressly stated, the following definitions apply:
 ## § 5. Board meetings
 
 - **(a)** *Open meetings* Each meeting of the Board, other than meetings in which classified information is to be discussed, shall be open to the public. Any open meeting shall be announced in the Federal Register and the Federal Web site established by the Board at least 14 calendar days in advance of a meeting. For all public meetings, the Board shall release an agenda and a listing of materials relevant to the topics to be discussed.
-- **(b)** *Quorum and meetings* Five Board members shall constitute a quorum for the purposes of conducting business and 3 or more Board members shall constitute a meeting of the Board.
+- **(b)** *Quorum and meetings* Five Board members shall constitute a quorum for the purposes of conducting business and three or more Board members shall constitute a meeting of the Board.
 - **(c)** *Transparency of information* All the proceedings, information, and deliberations of the Board shall be open, upon request, to the Chairperson and ranking minority party member, and their respective subcommittee Chairperson and subcommittee ranking minority party member, of—
   - **(1)** the Committee on Transportation and Infrastructure of the House of Representatives;
   - **(2)** the Committee on Oversight and Government Reform of the House of Representatives;
@@ -102,7 +102,7 @@ In this Act, unless otherwise expressly stated, the following definitions apply:
 ## § 8. Staff
 
 - **(a)** *Additional personnel* Subject to subsection (b), the Executive Director may request additional personnel detailed from Federal agencies.
-- **(b)** *Requests for detail employees* Upon request of the Chairperson and approval of the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agency to the Board to assist the Board in carrying out its duties under this Act.
+- **(b)** *Requests for detail employees* Upon request of the Executive Director and approval of the Board and the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agency to the Board to assist the Board in carrying out its duties under this Act.
 - **(c)** *Qualifications* Appointments shall be made with consideration of a balance of expertise consistent with the qualifications of representatives described in section 4(c)(5).
 
 ## § 9. Contracting authority
@@ -139,18 +139,19 @@ The Board shall cease operations and terminate 6 years after the date of enactme
     - **(G)** The extent to which there are opportunities to consolidate similar operations across multiple agencies or within agencies.
     - **(H)** The economic impact on existing communities in the vicinity of the civilian real property.
     - **(I)** The extent to which energy consumption is reduced.
-- **(c)** *Special rule for utilization rates* Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standard utilization rates consistent throughout each category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
+    - **(J)** The extent to which public access to agency services is maintained or enhanced.
+- **(c)** *Special rule for utilization rates* Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standard utilization rates to the extent that such standard rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
 - **(d)** *Submission to Board*
   - **(1)** *In general* The Director of OMB shall submit the standards, criteria, and recommendations developed pursuant to subsection (b) to the Board with all supporting information, data, analyses, and documentation.
   - **(2)** *Publication* The standards, criteria, and recommendations developed pursuant to subsection (b) shall be published in the Federal Register and transmitted to the committees listed in section 5(c) and to the Comptroller General of the United States.
-  - **(3)** *Access to information* The Board shall also have access to all information pertaining to the recommendations developed pursuant to subsection (b), including supporting information, data, analyses, and documentation submitted pursuant to subsection (a). Upon request, a Federal agency shall provide to the Board any additional information pertaining to the civilian real properties under the custody, control, or administrative jurisdiction of the Federal agency.
+  - **(3)** *Access to information* The Board shall also have access to all information pertaining to the recommendations developed pursuant to subsection (b), including supporting information, data, analyses, and documentation submitted pursuant to subsection (a). Upon request, a Federal agency shall provide to the Board any additional information pertaining to the civilian real properties under the custody, control, or administrative jurisdiction of the Federal agency. The Board shall notify the committees listed in section 5(c) of any failure by an agency to comply with a request of the Board.
 
 ## § 12. Board duties
 
 - **(a)** *Identification of property reduction opportunities* The Board shall identify opportunities for the Government to reduce significantly its inventory of civilian real property and reduce costs to the Government.
 - **(b)** *Identification of high value assets*
   - **(1)** *Identification of certain properties* Not later than 180 days after Board members are appointed pursuant to section 4, the Board shall—
-    - **(A)** identify not fewer than 5 Federal civilian real properties that are not on the list of surplus or excess as of such date with a total fair market value of not less than $500,000,000 and not more than $750,000,000; and
+    - **(A)** identify not fewer than five Federal civilian real properties that are not on the list of surplus or excess as of such date with a total fair market value of not less than $500,000,000 and not more than $750,000,000; and
     - **(B)** transmit the list of the Federal civilian real properties to the Director of OMB and Congress as Board recommendations and subject to the approval process described in section 13.
   - **(2)** *Information and data* In order to meet the goal established under paragraph (1), each Federal agency shall provide, upon request, any and all information and data regarding its civilian real properties to the Board. The Board shall notify the committees listed in section 5(c) of any failure by an agency to comply with a request of the Board.
   - **(3)** *Factors* In identifying properties pursuant to paragraph (1), the Board shall consider the factors listed in section 11(b)(3).
@@ -158,13 +159,13 @@ The Board shall cease operations and terminate 6 years after the date of enactme
   - **(5)** *Report of excess* Not later than 60 days after the approval of Board recommendations pursuant to paragraph (1), Federal agencies with custody, control, or administrative jurisdiction over the identified properties shall submit a Report of Excess to the General Services Administration.
   - **(6)** *Sale*
     - **(A)** *Initiation of sale* Not later than 120 days after the acceptance by the Administrator of the Report of Excess and notwithstanding any other provision of law (including section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411), but except as provided in section 14(g)), the General Services Administration shall initiate the sale of the civilian real properties described in paragraph (1).
-    - **(B)** *Completion of sale* Not later than 1 year after the acceptance of the Report of Excess, the Administrator shall sell the civilian real properties at fair market value at highest and best use.
+    - **(B)** *Completion of sale* Not later than 1 year after the acceptance of the Report of Excess, the Administrator shall sell the civilian real properties at fair market value at highest and best use, unless the Director of OMB determines it is in the financial interest of the Government to execute a sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years after the acceptance of the Report of Excess.
 - **(c)** *Analysis of inventory* The Board shall perform an independent analysis of the inventory of Federal civilian real property and the recommendations submitted pursuant to section 11. The Board shall not be bound or limited by the recommendations submitted pursuant to section 11. If, in the opinion of the Board, an agency fails to provide needed information, data, or adequate recommendations that meet the standards and criteria, the Board shall develop such recommendations as the Board considers appropriate based on existing data contained in the Federal Real Property Profile or other relevant information.
 - **(d)** *Information and proposals*
   - **(1)** *Receipt* Notwithstanding any other provision of law, the Board may receive and consider proposals, information, and other data submitted by State and local officials and the private sector.
   - **(2)** *Consultation* The Board shall consult with State and local officials on information, proposals, and other data that the officials submit to the Board.
   - **(3)** *Availability* Information submitted to the Board shall be made publicly available.
-- **(e)** *Accounting system* Not later than 120 days after the date of enactment of this Act, the Board shall identify or develop and implement a system of accounting to be used to independently evaluate the costs of and returns on the recommendations. Such accounting system shall be applied in developing the Board’s recommendations and determining the highest return to the taxpayer. In applying the accounting system, the Board shall set a standard performance period.
+- **(e)** *Accounting system* Not later than 120 days after the date of enactment of this Act, the Board shall identify or develop and implement a system of accounting to be used to independently evaluate the costs of and returns on the recommendations. Such accounting system shall be applied in developing the Board’s recommendations and determining the highest return to the taxpayer. In applying the accounting system, the Board shall set a standard performance period of not less than 15 years.
 - **(f)** *Public hearing* The Board shall conduct public hearings. All testimony before the Board at a public hearing under this subsection shall be presented under oath.
 - **(g)** *Reporting of information and recommendations*
   - **(1)** *In general* Subject to the schedule and limitations specified in paragraph (2), the Board shall transmit to the Director of OMB, and publicly post on a Federal Web site maintained by the Board, reports containing the Board’s findings, conclusions, and recommendations for—
@@ -194,7 +195,7 @@ The Board shall cease operations and terminate 6 years after the date of enactme
   - **(1)** *Preparation* Federal agencies shall—
     - **(A)** not later than 60 days after the Director of OMB transmits the Board’s recommendations to Congress pursuant to paragraph (1) or (4) of section 13(c), immediately begin preparations to carry out the Board’s recommendations; and
     - **(B)** not later than 2 years after such transmittal, initiate all activities necessary to carry out the Board’s recommendations.
-  - **(2)** *Completion* Not later than 6 years after the Director of OMB transmits the Board’s recommendations to Congress pursuant to paragraph (1) or (4) of section 13(c), Federal agencies shall complete all recommended actions. All actions shall be economically beneficial and be cost neutral or otherwise favorable to the Government.
+  - **(2)** *Completion* Not later than 6 years after the Director of OMB transmits the Board’s recommendations to Congress pursuant to paragraph (1) or (4) of section 13(c), Federal agencies shall complete all recommended actions. All actions shall be economically beneficial, cost neutral, or otherwise favorable to the Government.
   - **(3)** *Extenuating circumstances* For actions that will take longer than the 6-year period described in paragraph (2) due to extenuating circumstances, Federal agencies shall notify the Director of OMB and Congress, as soon as the extenuating circumstance presents itself, with an estimated time to complete the relevant action.
 - **(b)** *Actions of Federal agencies related to civilian real properties* In taking actions related to any civilian real property under this Act, Federal agencies may take, pursuant to subsection (c), all such necessary and proper actions, including—
   - **(1)** acquiring land, constructing replacement facilities, performing such other activities, and conducting advance planning and design as may be required to transfer functions from a Federal asset or property to another Federal civilian property;
@@ -287,17 +288,11 @@ Upon transmittal of the Board’s recommendations from the Director of OMB to Co
   > - **(a)** *Proceeds from transfer or sale of real property*
   >   - **(1)** *Deposit of net proceeds* Net proceeds described in subsection (c) shall be deposited into the appropriate real property account of the agency that had custody and accountability for the real property at the time the real property is determined to be excess.
   >   - **(2)** *Expenditure of net proceeds* The net proceeds deposited pursuant to paragraph (1) may only be expended, as authorized in annual appropriations Acts, for activities described in sections 543 and 545, including paying costs incurred by the General Services Administration for any disposal-related activity authorized by this chapter.
-  >   - **(3)** *Deficit reduction* Any net proceeds described in subsection (c) from the sale, lease, or other disposition of surplus real property that are not expended under paragraph (2) shall be used for deficit reduction.
+  >   - **(3)** *Deficit reduction* Any net proceeds described in subsection (c) from the sale, lease, or other disposition of surplus real property that are not expended under paragraph (2) shall be used for deficit reduction. Any net proceeds not obligated within 3 years after the date of deposit and not expended within 5 years after such date shall be deposited as miscellaneous receipts in the Treasury.
   > - **(b)** *Effect on other sections* Nothing in this section is intended to affect section 572(b), 573, or 574.
   > - **(c)** *Net proceeds* The net proceeds described in this subsection are proceeds under this chapter, less expenses of the transfer or disposition as provided in section 572(a), from a—
   >   - **(1)** transfer of excess real property to a Federal agency for agency use; or
   >   - **(2)** sale, lease, or other disposition of surplus real property.
-  > - **(d)** *Proceeds from transfer or sale of personal property*
-  >   - **(1)** *In general* Except as otherwise provided in this subchapter, proceeds described in paragraph (2) shall be deposited in the Treasury as miscellaneous receipts.
-  >   - **(2)** *Proceeds* The proceeds described in this paragraph are proceeds under this chapter from—
-  >     - **(A)** a transfer of excess personal property to a Federal agency for agency use; or
-  >     - **(B)** a sale, lease, or other disposition of surplus personal property.
-  >   - **(3)** *Payment of expenses of sale before deposit* Subject to regulations under this subtitle, the expenses of the sale of personal property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This paragraph applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
 - **(b)** *Effective date* The provisions of this section, including the amendments made by this section, shall take effect upon the termination of the Board pursuant to section 10 and shall not apply to proceeds from transactions conducted under section 14.
 
@@ -307,8 +302,8 @@ Upon transmittal of the Board’s recommendations from the Director of OMB to Co
 - **(b)** *Required information for database* The Administrator shall collect from the head of each executive agency descriptive information, except for classified information, of the nature, use, and extent of the Federal real property of each such agency, including the following:
   - **(1)** The geographic location of each Federal real property of each such agency, including the address and description for each such property.
   - **(2)** The total size of each Federal real property of each such agency, including square footage and acreage of each such property.
-  - **(3)** The relevance of each Federal real property to the agency’s mission.
-  - **(4)** The level of use of each Federal real property for each such agency, including whether such property is excess, surplus, underutilized, or unutilized.
+  - **(3)** Whether the Federal real property is currently, or will in the future be, needed to support agency’s mission or function.
+  - **(4)** The utilization of each Federal real property for each such agency, including whether such property is excess, surplus, underutilized, or unutilized.
   - **(5)** The number of days each Federal real property is designated as excess, surplus, underutilized, or unutilized.
   - **(6)** The annual operating costs of each Federal real property.
   - **(7)** The replacement value of each Federal real property.
@@ -362,3 +357,15 @@ Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) is a
 Section 549(c)(3)(B)(vii) of title 40, United States Code, is amended to read as follows:
 
 > - **(vii)** a museum attended by the public, and, for purposes of determining whether a museum is attended by the public, the Administrator shall consider a museum to be public if the nonprofit educational or public health institution or organization, at minimum, accedes to any request submitted for access during business hours;
+
+## § 24. Sale of 12th and Independence
+
+- **(a)** *Definition* In this section, the term “property” means the property located in the District of Columbia, subject to survey and as determined by the Administrator of General Services, generally consisting of Squares 325 and 326 and a portion of Square 351 and generally bounded by 12th Street, Independence Avenue, C Street, and the James Forrestal Building, all in Southwest Washington, District of Columbia, and shall include all associated air rights, improvements thereon, and appurtenances thereto.
+- **(b)** *Sale* Not later than December 31, 2018, the Administrator of General Services shall sell the property at fair market value at highest and best use.
+- **(c)** *Net proceeds* Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
+
+## § 25. Sale of Cotton Annex
+
+- **(a)** *Definition* In this section, the term “property” means property located in the District of Columbia, subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
+- **(b)** *Sale* Not later than December 31, 2018, the Administrator of General Services shall sell the property at fair market value at highest and best use.
+- **(c)** *Net proceeds* Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
