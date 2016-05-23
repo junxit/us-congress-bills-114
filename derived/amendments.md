@@ -1,0 +1,40 @@
+---
+measure: S. 2971
+congress: 114
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 2971 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+7 amendatory instructions. 0 executed, 7 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 5141` | add-at-end | Title III of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5141 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5141` | strike | in subparagraph (D) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5141` | strike | by striking “United States Code,”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5141` | amend | by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5141` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5141` | insert | in paragraph (13) by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robe… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5141` | insert | in paragraph (16) by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistan… | the bill quotes the text inserted but describes where it goes |
