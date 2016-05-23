@@ -1,7 +1,7 @@
 ---
 measure: H.R. 960
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 960
@@ -16,7 +16,7 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Jordan, Jim [R-OH-4] (J000289)
@@ -30,6 +30,8 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 
 ## Committees (1)
 
@@ -40,3 +42,11 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2015-02-12 — Introduced in House
 - 2015-02-12 — Introduced in House
 - 2015-02-12 — Referred to the House Committee on Veterans' Affairs.
+- 2015-03-06 — Referred to the Subcommittee on Health.
+- 2016-05-23 — Considered under suspension of the rules. (consideration: CR H2911-2912)
+- 2016-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 960.
+- 2016-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2911)
+- 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2911)
+- 2016-05-23 — The title of the measure was amended. Agreed to without objection.
