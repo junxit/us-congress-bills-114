@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5233
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5233
@@ -16,6 +16,10 @@ Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
+## Cosponsors (1)
+
+- Rep. Harris, Andy [R-MD-1] (H001052)
+
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
@@ -25,3 +29,8 @@ Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016
 - 2016-05-13 — Introduced in House
 - 2016-05-13 — Introduced in House
 - 2016-05-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-05-17 — Committee Consideration and Mark-up Session Held.
+- 2016-05-17 — Ordered to be Reported by the Yeas and Nays: 22 - 14.
+- 2016-05-23 — Placed on the Union Calendar, Calendar No. 456.
+- 2016-05-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-586.
+- 2016-05-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-586.
