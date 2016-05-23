@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2121
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,16 +9,46 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the S.A.F.E. Mortgage Licensing Act of 2008 to provide a temporary license for loan originators transitioning between employers, and for other purposes.
 
-## § 1. Short title
+## § 1. Eliminating barriers to jobs for loan originators
 
-This Act may be cited as the “SAFE Transitional Licensing Act of 2015”.
+- **(a)** *In general* The S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) is amended by adding at the end the following:
+  > ## § 1518. Employment transition of loan originators
+  >
+  > - **(a)** *Temporary authority To originate loans for loan originators moving from a depository institution to a non-Depository institution*
+  >   - **(1)** *In general* Upon employment by a State-licensed mortgage company, an individual who is a registered loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the individual—
+  >     - **(A)** has not had an application for a loan originator license denied, or had such a license revoked or suspended in any governmental jurisdiction;
+  >     - **(B)** has not been subject to or served with a cease and desist order in any governmental jurisdiction or as described in section 1514(c);
+  >     - **(C)** has not been convicted of a felony that would preclude licensure under the law of the application State;
+  >     - **(D)** has submitted an application to be a State-licensed loan originator in the application State; and
+  >     - **(E)** was registered in the Nationwide Mortgage Licensing System and Registry as a loan originator during the 12-month period preceding the date of submission of the information required under section 1505(a).
+  >   - **(2)** *Period* The period described in paragraph (1) shall begin on the date that the individual submits the information required under section 1505(a) and shall end on the earliest of—
+  >     - **(A)** the date that the individual withdraws the application to be a State-licensed loan originator in the application State;
+  >     - **(B)** the date that the application State denies, or issues a notice of intent to deny, the application;
+  >     - **(C)** the date that the application State grants a State license; or
+  >     - **(D)** the date that is 120 days after the date on which the individual submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+  > - **(b)** *Temporary authority To originate loans for State-Licensed loan originators moving interstate*
+  >   - **(1)** *In general* A State-licensed loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the State-licensed loan originator—
+  >     - **(A)** meets the requirements of subparagraphs (A), (B), (C), and (D) of subsection (a)(1);
+  >     - **(B)** is employed by a State-licensed mortgage company in the application State; and
+  >     - **(C)** was licensed in a State that is not the application State during the 30-day period preceding the date of submission of the information required under section 1505(a) in connection with the application submitted to the application State.
+  >   - **(2)** *Period* The period described in paragraph (1) shall begin on the date that the State-licensed loan originator submits the information required under section 1505(a) in connection with the application submitted to the application State and end on the earliest of—
+  >     - **(A)** the date that the State-licensed loan originator withdraws the application to be a State-licensed loan originator in the application State;
+  >     - **(B)** the date that the application State denies, or issues a notice of intent to deny, the application;
+  >     - **(C)** the date that the application State grants a State license; or
+  >     - **(D)** the date that is 120 days after the date on which the State-licensed loan originator submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+  > - **(c)** *Applicability*
+  >   - **(1)** Any person employing an individual who is deemed to have temporary authority to act as a loan originator in an application State pursuant to this section shall be subject to the requirements of this title and to applicable State law to the same extent as if such individual was a State-licensed loan originator licensed by the application State.
+  >   - **(2)** Any individual who is deemed to have temporary authority to act as a loan originator in an application State pursuant to this section and who engages in residential mortgage loan origination activities shall be subject to the requirements of this title and to applicable State law to the same extent as if such individual was a State-licensed loan originator licensed by the application State.
+  > - **(d)** *Definitions* In this section, the following definitions shall apply:
+  >   - **(1)** *State-licensed mortgage company* The term State-licensed mortgage company means an entity licensed or registered under the law of any State to engage in residential mortgage loan origination and processing activities.
+  >   - **(2)** *Application State* The term application State means a State in which a registered loan originator or a State-licensed loan originator seeks to be licensed.
 
-## § 2. Loan originator employment transitions
+- **(b)** *Table of contents amendment* The table of contents in section 1(b) of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 4501 note) is amended by inserting after the item relating to section 1517 the following:
 
-Section 1504 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5103) is amended by adding at the end the following new subsection:
+## § 2. Amendment to civil liability of the Bureau and other officials
 
-> - **(c)** *Employment transition*
->   - **(1)** *Temporary license for persons moving from a financial institution to a non-bank originator* A registered loan originator shall be deemed to be a State-licensed loan originator for the 120-day period beginning on the date that a State-licensed mortgage lender, mortgage banker, or mortgage servicer, that is not a depository institution, registers with the Nationwide Mortgage Licensing System and Registry that such registered loan originator is employed by such State-licensed mortgage lender, mortgage banker, or mortgage servicer.
->   - **(2)** *Temporary license for persons moving interstate* A registered loan originator or State-licensed loan originator in one State shall be deemed to be a State-licensed loan originator in another State for the 120-day period beginning on the date that a State-licensed mortgage lender, mortgage banker, or mortgage servicer in such other State registers with the Nationwide Mortgage Licensing System and Registry that such person is employed by such State-licensed mortgage lender, mortgage banker, or mortgage servicer.
->   - **(3)** *Federal and State recognition* Registration pursuant to paragraph (1) or (2) shall fulfill any licensing and registration requirement for a loan originator pursuant to this section and any State law or regulation.
->   - **(4)** *Applicability* Any person registering a registered loan originator with the Nationwide Mortgage Licensing System and Registry under this subsection shall be subject to this Act and to applicable State law to the same extent as if such registered loan originator was licensed and registered as a State-licensed loan originator under subsection (a).
+Section 1513 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5112) is amended by striking “are loan originators or are applying for licensing or registration as loan originators” and inserting “are applying for licensing or registration using the Nationwide Mortgage Licensing System and Registry”.
+
+## § 3. Effective date
+
+This Act and the amendments made by this Act shall take effect on the date that is 18 months after the date of the enactment of this Act.
