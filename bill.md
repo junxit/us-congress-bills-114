@@ -28,8 +28,12 @@ Congress finds the following:
 
 ## § 3. Study on the effectiveness of veterans transition efforts
 
-- **(a)** *Study* The Secretary of Veterans Affairs, in coordination with the Secretaries of Labor and Defense, shall carry out a study to evaluate programs to assist veterans of the Armed Forces in their transition to civilian life. Such study shall be designed to determine the effectiveness of current programs, especially in regards to the unique challenges faced by women veterans and minority veterans including whether such programs—
-  - **(1)** effectively address the challenges veterans face in pursuing higher education, especially the challenge faced by women and minority veterans;
-  - **(2)** effectively address the challenges veterans face entering the civilian workforce and in translating experience and skills from military service to the job market; and
-  - **(3)** effectively address the challenges faced by the families of veterans transitioning to civilian life.
+- **(a)** *Study* The Secretary of Veterans Affairs, in coordination with the Secretaries of Labor and Defense, shall carry out a study to evaluate programs to assist veterans of the Armed Forces in their transition to civilian life. Such study shall be designed to determine the effectiveness of current programs, especially in regards to the unique challenges faced by women veterans, veterans with disabilities, Native American veterans, veterans who are residents of a territory of the United States, veterans who are part of the indigenous population of a territory of the United States, and other groups of minority veterans identified by the Secretaries, including whether such programs—
+  - **(1)** effectively address the challenges veterans face in pursuing higher education, especially the challenges faced by women veterans, veterans with disabilities, Native American veterans, veterans who are residents of a territory of the United States, veterans who are part of the indigenous population of a territory of the United States, and other groups of minority veterans identified by the Secretaries;
+  - **(2)** effectively address the challenges such veterans face entering the civilian workforce and in translating experience and skills from military service to the job market; and
+  - **(3)** effectively address the challenges faced by the families of such veterans transitioning to civilian life.
 - **(b)** *Report* Eighteen months after the enactment of this Act, the Secretary of Veterans Affairs shall submit a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives regarding the findings and recommendations of the study required under subsection (a) of this section.
+
+## § 4. Prohibition on authorization of appropriations
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
