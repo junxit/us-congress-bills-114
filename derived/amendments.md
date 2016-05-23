@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3998
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 5189e
 
-> in subsection (a)(1)(A), by striking “telecommunications service” and inserting “communications service, including wireline and mobile telephone service, Internet access service, radio and television broadcasting, cable service, and direct broadcast satellite service”;
+> Section 427(a)(1)(A) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189e(a)(1)(A)) is amended by striking “telecommunications service” and inserting “wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service”.
 
 | | |
 |---|---|
 | Removed | `telecommunications service` |
-| Inserted | `communications service, including wireline and mobile telephone service, Internet access service, radio and television broadcasting, cable service, and direct broadcast satellite service` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `42 U.S.C. § 5189e` | redesignate | by redesignating subsection (c) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5189e` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| Inserted | `wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service` |
