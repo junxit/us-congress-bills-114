@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Federal Assets Sale and Transfer Act of 2016”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+- **(b)** *Table of contents*
 
 ## § 2. Purposes
 
@@ -62,12 +62,12 @@ In this Act, unless otherwise expressly stated, the following definitions apply:
 - **(a)** *Establishment* There is established an independent board to be known as the Public Buildings Reform Board.
 - **(b)** *Duties* The Board shall carry out the duties as specified in this Act.
 - **(c)** *Membership*
-  - **(1)** *In general* The Board shall be composed of a Chairperson appointed by the President, by and with the advice and consent of the Senate, and six members appointed by the President.
+  - **(1)** *In general* The Board shall be composed of a Chairperson appointed by the President, by and with the advice and consent of the Senate, and 6 members appointed by the President.
   - **(2)** *Appointments* In selecting individuals for appointments to the Board, the President shall consult with—
-    - **(A)** the Speaker of the House of Representatives concerning the appointment of two members;
-    - **(B)** the majority leader of the Senate concerning the appointment of two members;
-    - **(C)** the minority leader of the House of Representatives concerning the appointment of one member; and
-    - **(D)** the minority leader of the Senate concerning the appointment of one member.
+    - **(A)** the Speaker of the House of Representatives concerning the appointment of 2 members;
+    - **(B)** the majority leader of the Senate concerning the appointment of 2 members;
+    - **(C)** the minority leader of the House of Representatives concerning the appointment of 1 member; and
+    - **(D)** the minority leader of the Senate concerning the appointment of 1 member.
   - **(3)** *Terms* The term for each member of the Board shall be 6 years.
   - **(4)** *Vacancies* Vacancies shall be filled in the same manner as the original appointment.
   - **(5)** *Qualifications* In selecting individuals for appointment to the Board, the President shall ensure that the Board contains individuals with expertise representative of the following:
@@ -78,7 +78,7 @@ In this Act, unless otherwise expressly stated, the following definitions apply:
 ## § 5. Board meetings
 
 - **(a)** *Open meetings* Each meeting of the Board, other than meetings in which classified information is to be discussed, shall be open to the public. Any open meeting shall be announced in the Federal Register and the Federal Web site established by the Board at least 14 calendar days in advance of a meeting. For all public meetings, the Board shall release an agenda and a listing of materials relevant to the topics to be discussed.
-- **(b)** *Quorum and meetings* Five Board members shall constitute a quorum for the purposes of conducting business and three or more Board members shall constitute a meeting of the Board.
+- **(b)** *Quorum and meetings* Five Board members shall constitute a quorum for the purposes of conducting business and 3 or more Board members shall constitute a meeting of the Board.
 - **(c)** *Transparency of information* All the proceedings, information, and deliberations of the Board shall be open, upon request, to the Chairperson and ranking minority party member, and their respective subcommittee Chairperson and subcommittee ranking minority party member, of—
   - **(1)** the Committee on Transportation and Infrastructure of the House of Representatives;
   - **(2)** the Committee on Oversight and Government Reform of the House of Representatives;
@@ -151,7 +151,7 @@ The Board shall cease operations and terminate 6 years after the date of enactme
 - **(a)** *Identification of property reduction opportunities* The Board shall identify opportunities for the Government to reduce significantly its inventory of civilian real property and reduce costs to the Government.
 - **(b)** *Identification of high value assets*
   - **(1)** *Identification of certain properties* Not later than 180 days after Board members are appointed pursuant to section 4, the Board shall—
-    - **(A)** identify not fewer than five Federal civilian real properties that are not on the list of surplus or excess as of such date with a total fair market value of not less than $500,000,000 and not more than $750,000,000; and
+    - **(A)** identify not fewer than 5 Federal civilian real properties that are not on the list of surplus or excess as of such date with a total fair market value of not less than $500,000,000 and not more than $750,000,000; and
     - **(B)** transmit the list of the Federal civilian real properties to the Director of OMB and Congress as Board recommendations and subject to the approval process described in section 13.
   - **(2)** *Information and data* In order to meet the goal established under paragraph (1), each Federal agency shall provide, upon request, any and all information and data regarding its civilian real properties to the Board. The Board shall notify the committees listed in section 5(c) of any failure by an agency to comply with a request of the Board.
   - **(3)** *Factors* In identifying properties pursuant to paragraph (1), the Board shall consider the factors listed in section 11(b)(3).
@@ -159,7 +159,7 @@ The Board shall cease operations and terminate 6 years after the date of enactme
   - **(5)** *Report of excess* Not later than 60 days after the approval of Board recommendations pursuant to paragraph (1), Federal agencies with custody, control, or administrative jurisdiction over the identified properties shall submit a Report of Excess to the General Services Administration.
   - **(6)** *Sale*
     - **(A)** *Initiation of sale* Not later than 120 days after the acceptance by the Administrator of the Report of Excess and notwithstanding any other provision of law (including section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411), but except as provided in section 14(g)), the General Services Administration shall initiate the sale of the civilian real properties described in paragraph (1).
-    - **(B)** *Completion of sale* Not later than 1 year after the acceptance of the Report of Excess, the Administrator shall sell the civilian real properties at fair market value at highest and best use, unless the Director of OMB determines it is in the financial interest of the Government to execute a sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years after the acceptance of the Report of Excess.
+    - **(B)** *Completion of sale* Not later than 1 year after the acceptance of the Report of Excess, the Administrator shall sell the civilian real properties at fair market value at highest and best use, unless the Director of OMB determines it is in the financial interest of the Government to execute a sale more than a year after the acceptance of the Report of Excess, but not greater than two years after the acceptance of the Report of Excess.
 - **(c)** *Analysis of inventory* The Board shall perform an independent analysis of the inventory of Federal civilian real property and the recommendations submitted pursuant to section 11. The Board shall not be bound or limited by the recommendations submitted pursuant to section 11. If, in the opinion of the Board, an agency fails to provide needed information, data, or adequate recommendations that meet the standards and criteria, the Board shall develop such recommendations as the Board considers appropriate based on existing data contained in the Federal Real Property Profile or other relevant information.
 - **(d)** *Information and proposals*
   - **(1)** *Receipt* Notwithstanding any other provision of law, the Board may receive and consider proposals, information, and other data submitted by State and local officials and the private sector.
@@ -357,15 +357,3 @@ Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) is a
 Section 549(c)(3)(B)(vii) of title 40, United States Code, is amended to read as follows:
 
 > - **(vii)** a museum attended by the public, and, for purposes of determining whether a museum is attended by the public, the Administrator shall consider a museum to be public if the nonprofit educational or public health institution or organization, at minimum, accedes to any request submitted for access during business hours;
-
-## § 24. Sale of 12th and Independence
-
-- **(a)** *Definition* In this section, the term “property” means the property located in the District of Columbia, subject to survey and as determined by the Administrator of General Services, generally consisting of Squares 325 and 326 and a portion of Square 351 and generally bounded by 12th Street, Independence Avenue, C Street, and the James Forrestal Building, all in Southwest Washington, District of Columbia, and shall include all associated air rights, improvements thereon, and appurtenances thereto.
-- **(b)** *Sale* Not later than December 31, 2018, the Administrator of General Services shall sell the property at fair market value at highest and best use.
-- **(c)** *Net proceeds* Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
-
-## § 25. Sale of Cotton Annex
-
-- **(a)** *Definition* In this section, the term “property” means property located in the District of Columbia, subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
-- **(b)** *Sale* Not later than December 31, 2018, the Administrator of General Services shall sell the property at fair market value at highest and best use.
-- **(c)** *Net proceeds* Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
