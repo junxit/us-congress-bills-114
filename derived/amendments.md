@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4111
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,4 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `47 U.S.C. § 254` | strike | in clause (vi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 254` | redesignate | by redesignating clause (vii) as clause (viii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 254` | insert | by inserting after clause (vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-3` | insert | by inserting after clause (vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
