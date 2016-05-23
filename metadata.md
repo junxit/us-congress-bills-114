@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3969
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3969
@@ -30,3 +30,11 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2015-11-05 — Introduced in House
 - 2015-11-05 — Introduced in House
 - 2015-11-05 — Referred to the House Committee on Veterans' Affairs.
+- 2015-12-03 — Referred to the Subcommittee on Health.
+- 2016-05-23 — Considered under suspension of the rules. (consideration: CR H2931-2932)
+- 2016-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3969.
+- 2016-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-23 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2931)
+- 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2931)
+- 2016-05-23 — The title of the measure was amended. Agreed to without objection.
