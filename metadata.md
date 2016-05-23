@@ -1,7 +1,7 @@
 ---
 measure: S. 1732
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1732
@@ -29,3 +29,7 @@ Comprehensive Transportation and Consumer Protection Act of 2015
 
 - 2015-07-09 — Introduced in Senate
 - 2015-07-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-07-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-05-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
+- 2016-05-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
+- 2016-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 478.
