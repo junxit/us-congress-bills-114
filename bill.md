@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2589
 
-> To amend the Communications Act of 1934 to require the Federal Communications Commission to publish on its Internet website the text of any item that is adopted by vote of the Commission not later than 24 hours after receipt of dissenting statements from all Commissioners wishing to submit such a statement with respect to such item.
+> To amend the Communications Act of 1934 to require the Federal Communications Commission to publish on its Internet website changes to the rules of the Commission not later than 24 hours after adoption.
 
 ## § 1. Timely availability of items adopted by vote of the Commission
 
