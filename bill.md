@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1838
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,15 +25,11 @@ In this Act:
 
 ## § 3. Establishment of Clear Creek National Recreation Area
 
-- **(a)** *In general* To promote environmentally responsible off highway vehicle recreation, there is established the “Clear Creek National Recreation Area”, to be managed by the Secretary.
+- **(a)** *In general* To promote environmentally responsible off highway vehicle recreation, the area generally depicted as “Proposed Clear Creek National Recreation Area” on the map titled “Proposed Clear Creek National Recreation Area” and dated December 15, 2015, is established as the “Clear Creek National Recreation Area”, to be managed by the Secretary.
 - **(b)** *Other purposes* The Recreation Area shall also support other public recreational uses, such as hunting, hiking, and rock and gem collecting.
-- **(c)** *Map*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a map and legal description of the Recreation Area to—
-    - **(A)** the Committee on Natural Resources of the House of Representatives; and
-    - **(B)** the Committee on Energy and Natural Resources of the Senate.
-  - **(2)** *Availability* Copies of the map submitted under paragraph (1) shall be on file and available for public inspection in—
-    - **(A)** the Office of the Director of the Bureau of Land Management; and
-    - **(B)** the appropriate office of the Bureau of Land Management in California.
+- **(c)** *Map on file* Copies of the map referred to in subsection (a) shall be on file and available for public inspection in—
+  - **(1)** the Office of the Director of the Bureau of Land Management; and
+  - **(2)** the appropriate office of the Bureau of Land Management in California.
 
 ## § 4. Management
 
@@ -45,13 +41,14 @@ In this Act:
   - **(1)** prioritize environmentally responsible off highway vehicle recreation and also facilitate hunting, hiking, gem collecting, and the use of motorized vehicles, mountain bikes, and horses in accordance with the management plan described in subsection (c);
   - **(2)** issue special recreation permits for motorized and non-motorized events; and
   - **(3)** reopen the Clear Creek Management Area to the uses described in this subsection as soon as practicable following the enactment of this Act and in accordance with the management guidelines outlined in this Act and other applicable law.
-- **(c)** *Interim management plan* The Secretary shall use the 2005 Clear Creek Management Area Travel Management Plan as modified by this Act or the Secretary to incorporate natural resource protection information not available in 2005, as the basis of an interim management plan to govern off highway vehicle recreation within the Recreation Area pending the completion of the long-term management plan required in subsection (d).
+- **(c)** *Interim management plan* The Secretary shall use the 2006 Clear Creek Management Area Resource Management Plan Amendment and Route Designation Record of Decision as modified by this Act or the Secretary to incorporate natural resource protection information not available in 2006, as the basis of an interim management plan to govern off highway vehicle recreation within the Recreation Area pending the completion of the long-term management plan required in subsection (d).
 - **(d)** *Permanent management plan* Not later than 2 years after the date of the enactment of this Act, the Secretary shall create a comprehensive management plan for the Clear Creek Recreation Area that—
   - **(1)** shall describe the appropriate uses and management of the Recreation Area in accordance with this Act;
   - **(2)** shall be prepared in consultation with—
     - **(A)** appropriate Federal, State, and local agencies (including San Benito, Monterey, and Fresno Counties);
-    - **(B)** adjacent land owners; and
-    - **(C)** other stakeholders (including conservation and recreational organizations);
+    - **(B)** adjacent land owners;
+    - **(C)** other stakeholders (including conservation and recreational organizations); and
+    - **(D)** holders of any easements, rights-of-way, and other valid rights in the Recreation Area;
   - **(3)** shall include a hazards education program to inform people entering the Recreation Area of the asbestos related risks associated with various activities within the Recreation Area, including off-highway vehicle recreation;
   - **(4)** shall include a user fee program for motorized vehicle use within the Recreational Area and guidelines for the use of the funds collected for the management and improvement of the Recreation Area;
   - **(5)** shall designate as many previously used trails, roads, and other areas for off highway vehicle recreation as feasible in accordance with this in order to provide a substantially similar recreational experience, except that nothing in this paragraph shall be construed as precluding the Secretary from closing any area, trail, or route from use for the purposes of public safety or resource protection;
@@ -97,20 +94,7 @@ In this Act:
 
 In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the approximately 21,000 acres of Federal lands located in Fresno County and San Benito County, California, and generally depicted on a map entitled Proposed Joaquin Rocks Wilderness and dated January 14, 2015, is designated as wilderness and as a component of the National Wilderness Preservation System and shall be known as the Joaquin Rocks Wilderness.
 
-## § 6. Clear creek management area wild and scenic rivers
-
-Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following paragraphs:
-
-> - **(__)** *Larious Canyon* The approximately 5.25 miles of Larious Canyon Creek from its source near Idria Peak in Section 6, R12E, T18S, to the boundary of the Clear Creek Special Recreation Management Area in Section 23, R11E, T17S.
-> - **(__)** *San Carlos Creek* The approximately 5.51 miles of the East Fork San Carlos Creek from its source near San Benito Mountain in Section 10, R12E, T18S, to the boundary of the Clear Creek Special Recreation Management Area in Section 22, R12E, T17S.
-> - **(__)** *Cantua Creek* The approximately 7.68 miles of Cantua Creek from its source north of Santa Rita Peak in Section 24, R12E, T18S, to the public land boundary in Section 3, R13E, T18S.
-> - **(__)** *Picacho Creek* The approximately 2.65 miles of Picacho Creek, from its source spring in Section 20, R12E, T18S, to its confluence with the San Benito River.
-> - **(__)** *White Creek and Tributaries*
->   - **(A)** The approximately 5.37 miles of White Creek, from its source in Section 36, R12E, T18S, to the boundary of the Clear Creek Special Recreation Management Area in Section 17, R13E, T19S.
->   - **(B)** The approximately 2.29 miles of the unnamed tributary of White Creek from its source just south of Spanish Lake in Section 29, R13E, T18S, to its confluence with White Creek.
->   - **(C)** The approximately 2.45 miles of the unnamed tributary of White Creek from its source in Section 33, R13E, T18S, to its confluence with White Creek.
-
-## § 7. Release of San Benito Mountain wilderness study area
+## § 6. Release of San Benito Mountain wilderness study area
 
 - **(a)** *Finding* Congress finds that, for the purposes of section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782), the San Benito Mountain wilderness study area has been adequately studied for wilderness designation.
 - **(b)** *Release* The San Benito Mountain wilderness study area is no longer subject to section 603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)).
