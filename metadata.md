@@ -1,0 +1,32 @@
+---
+measure: H.R. 5307
+congress: 114
+version: Introduced in House
+---
+
+# H.R. 5307
+
+Title IX Clarification Act of 2016
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+
+## Cosponsors (2)
+
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+
+## Committees (1)
+
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2016-05-23 — Introduced in House
+- 2016-05-23 — Introduced in House
+- 2016-05-23 — Referred to the House Committee on Education and the Workforce.
