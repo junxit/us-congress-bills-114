@@ -24,14 +24,14 @@ This Act may be cited as the “Public Buildings Reform and Savings Act of 2016�
     - **(C)** streamlining and simplifying the leasing process to take advantage of real estate markets; and
   - **(2)** significantly reducing or eliminating the backlog of expiring leases over the next 5 years.
 - **(d)** *Leasehold interests in real property*
-  - **(1)** *Simplified procedures* Notwithstanding section 3305(b) of title 41, United States Code, but otherwise in accordance with such section, the Administrator of General Services shall provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified lease acquisition threshold, as defined in paragraph (2). The rental rate under a multiyear lease does not exceed the simplified lease acquisition threshold if the average annual amount of the rent payable for the period of the lease does not exceed the simplified lease acquisition threshold.
+  - **(1)** *Simplified procedures* Notwithstanding section 3305(b) of title 41, United States Code, but otherwise in accordance with such section, the Administrator shall provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified lease acquisition threshold, as defined in paragraph (2). The rental rate under a multiyear lease does not exceed the simplified lease acquisition threshold if the average annual amount of the rent payable for the period of the lease does not exceed the simplified lease acquisition threshold.
   - **(2)** *Acquisition threshold* For purposes of this section, the simplified lease acquisition threshold is $500,000.
 - **(e)** *Consolidated lease prospectuses* The Administrator may, when acquiring leasehold interests subject to section 3307 of title 40, United States Code, transmit, pursuant to subsection (b) of such section, to the committees designated in such section for approval a prospectus to acquire leased space, and waive the requirements pursuant to paragraphs (3) and (6) of section 3307(b), subject to the following requirements:
   - **(1)** *Cost per square footage* The cost per square footage does not exceed the maximum proposed rental rate designated for the respective geographical area.
   - **(2)** *Space utilization* The Administrator ensures the overall space utilization rate is 170 usable square feet per person or better based on actual agency staffing levels when occupied.
   - **(3)** *Lease term* The lease term, including the firm term, is not less than 10 years.
   - **(4)** *Geographic location* The geographical location is identified as having a large amount of square footage of Federal office space and lease turnover and will likely result in providing for the ability, on a timely basis, of the agency to consolidate space effectively or meet any requirements for temporary or interim space required for planned consolidations.
-- **(f)** *Consolidations generally* The Administrator may consolidate more than 1 project into a single prospectus submitted pursuant to section 3307(b), title 40, United States Code, if such consolidation will facilitate efficiencies and reductions in overall space and improved utilization rates.
+- **(f)** *Consolidations generally* The Administrator may consolidate more than one project into a single prospectus submitted pursuant to section 3307(b), title 40, United States Code, if such consolidation will facilitate efficiencies and reductions in overall space and improved utilization rates.
 - **(g)** *Waiver authority* The Administrator may—
   - **(1)** waive notice and comment rulemaking, if the Administrator determines the waiver is necessary to implement this section expeditiously; and
   - **(2)** carry out the alternative procedures under this section as a pilot program.
@@ -67,8 +67,9 @@ This Act may be cited as the “Public Buildings Reform and Savings Act of 2016�
   >   - **(3)** *Guidance* The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this section.
 
 - **(b)** Section 1315(b) of title 40, United States Code, is amended—
-  - **(1)** by striking “; and” at the end of subparagraph (E) and inserting a period; and
-  - **(2)** by striking subparagraph (F).
+  - **(1)** by inserting “and” at the end of subparagraph (D);
+  - **(2)** by striking “; and” at the end of subparagraph (E) and inserting a period; and
+  - **(3)** by striking subparagraph (F).
 - **(c)** Section 1315(b) of title 40, United States Code, is amended by adding at the end the following new paragraphs:
   > - **(3)** *Minimum training standards* The Secretary, in consultation with the Director of the Federal Protective Service and in accordance with guidelines issued by the Attorney General, shall establish minimum and uniform training standards for any employee designated as an officer or agent to carry out and exercise authority pursuant to this section. Such minimum standards shall include ongoing training certified by the Director of the Federal Protective Service.
   > - **(4)** *Notification of designations and delegations* The Secretary shall submit written notification of any approved designations or delegations of any authority provided under this section, including the purposes and scope of such designations or delegations, not within the Federal Protective Service, to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, including the purpose for such designations or delegations, oversight protocols established to ensure compliance with any requirements, including compliance with training requirements, and other specifics regarding such designations and delegations.
@@ -111,7 +112,7 @@ Section 3307 of title 40, United States Code, is amended by adding at the end th
 ## § 9. Department of Energy Headquarters Replacement
 
 - **(a)** *Sale of Certain property*
-  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Administrator of the General Services Administration is directed to sell, exchange, or some combination thereof, a portion of the Forrestal Complex necessary to generate the funds necessary to construct a new Department of Energy headquarters on Government-owned land in a manner consistent with the SW Ecodistrict Plan if the Administrator determines that the new Department of Energy headquarters can be constructed with no net costs to the Government.
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Administrator of General Services is directed to sell, exchange, or some combination thereof, a portion of the Forrestal Complex necessary to generate the funds necessary to construct a new Department of Energy headquarters on Government-owned land in a manner consistent with the SW Ecodistrict Plan if the Administrator determines that the new Department of Energy headquarters can be constructed with no net costs to the Government.
   - **(2)** *Definitions* For purposes of this section, the following definitions apply:
     - **(A)** *Department of energy forrestal complex* The term “Forrestal Complex” means the land, including the buildings and other improvements thereon, that—
       - **(i)** subject to survey and as determined by the Administrator, is—
@@ -129,13 +130,13 @@ Section 3307 of title 40, United States Code, is amended by adding at the end th
 
 Section 585 of title 40, United States Code, is amended by adding at the end the following:
 
-> - **(d)** Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2016, pursuant to this section may be exercised only to the extent provided by a specific appropriation or legislation.
+> - **(d)** Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2016, pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.
 
 ## § 11. Energy Savings
 
-To the extent practicable and when cost effective, the Administrator of the General Services Administration shall consider the direct purchase of energy and other utilities in bulk or otherwise for leased facilities.
+To the extent practicable and when cost effective, the Administrator of General Services shall consider the direct purchase of energy and other utilities in bulk or otherwise for leased facilities.
 
-## § 12. Simplified Reforms
+## § 12. Simplified reforms
 
 - **(a)** *In general* For the purpose of section 863 of Public Law 110–417, an individual acquisition for commercial leasing services shall not be construed as a purchase of property or services if such individual acquisition is made on a no cost basis and pursuant to a multiple award contract awarded in accordance with requirements for full and open competition.
 - **(b)** *Audit* The Comptroller General of the United States shall—
@@ -151,11 +152,11 @@ To the extent practicable and when cost effective, the Administrator of the Gene
 
 ## § 13. National Capital Region Rental Rates
 
-Not later than 120 days after the date of enactment of this Act, the Administrator of General Services shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate justifying the use of 3 lease rental caps per fiscal year and their impacts in the National Capital Region. The Administrator shall also evaluate and make recommendations related to whether the current rental caps adequately provide for maximum competition for build-to-suit leased space.
+Not later than 120 days after the date of enactment of this Act, the Administrator of General Services shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate justifying the use of three lease rental caps per fiscal year and their impacts in the National Capital Region. The Administrator shall also evaluate and make recommendations related to whether the current rental caps adequately provide for maximum competition for build-to-suit leased space.
 
 ## § 14. Reduction of Administrative Requirements on Certain Programs
 
-Section 601(d)(2) of the Economic Development Administration Reform Act of 1965, as amended (42 U.S.C. 3211), is amended—
+Section 601(d)(2) of the Public Works and Economic Development Act of 1965, as amended (42 U.S.C. 3211), is amended—
 
 - **(1)** by striking “(2) Release.—” and inserting the following:
   > - **(2)** *Release*
@@ -166,3 +167,38 @@ Section 601(d)(2) of the Economic Development Administration Reform Act of 1965,
   >   - **(i)** the recipient has carried out the terms of the award in a satisfactory manner;
   >   - **(ii)** any proceeds realized from the release of the Federal Government’s interest will be used for one or more activities that continue to carry out the economic development purposes of this Act; and
   >   - **(iii)** the recipient shall provide adequate assurance to the Secretary that at all times after release of the Federal Government’s interest in connection with the grant, the recipient will be responsible for continued compliance with the requirements of section 602 in the same manner it was responsible prior to release of the Federal Government’s interest and that the recipient’s failure to comply shall result in the Secretary taking appropriate action, including, but not limited to, rescission of the release and recovery of the Federal share of the grant.
+
+## § 15. Lactation room in public buildings
+
+- **(a)** *Lactation room in public buildings* Chapter 33 of title 40, United States Code, is amended by adding at the end the following new section:
+  > ## § 3317. Lactation room in public buildings
+  >
+  > - **(a)** *Definitions* In this section the following definitions apply:
+  >   - **(1)** *Appropriate authority* The term “appropriate authority” means the head of a Federal agency, the Architect of the Capitol, or other official authority responsible for the operation of a public building.
+  >   - **(2)** *Covered public building* The term “covered public building” means a public building (as defined in section 3301) that is open to the public and contains a public restroom, and includes a building listed in section 6301 or 5101.
+  >   - **(3)** *Lactation room* The term “lactation room” means a hygienic place, other than a bathroom, that—
+  >     - **(A)** is shielded from view;
+  >     - **(B)** is free from intrusion; and
+  >     - **(C)** contains a chair, a working surface, and, if the public building is otherwise supplied with electricity, an electrical outlet.
+  > - **(b)** *Lactation room required* Except as provided in subsection (c), the appropriate authority of a covered public building shall ensure that the building contains a lactation room that is made available for use by members of the public to express breast milk.
+  > - **(c)** *Exceptions* A covered public building may be excluded from the requirement in subsection (b) at the discretion of the appropriate authority if—
+  >   - **(1)** the public building—
+  >     - **(A)** does not contain a lactation room for employees who work in the building; and
+  >     - **(B)** does not have a room that could be repurposed as a lactation room or a space that could be made private using portable materials, at a reasonable cost; or
+  >   - **(2)** new construction would be required to create a lactation room in the public building and the cost of such construction is unfeasible.
+  > - **(d)** *No unauthorized entry* Nothing in this section shall be construed to authorize an individual to enter a public building or portion thereof that the individual is not otherwise authorized to enter.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 33 of title 40, United States Code, is amended by inserting after the item related to section 3316 the following new item:
+- **(c)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act.
+
+## § 16. Use of reclaimed refrigerants
+
+Not later than 180 days after the date of enactment of this Act, the Administrator of General Services shall issue a report examining the feasibility of giving preference to the use of reclaimed refrigerants to service existing equipment of Federal buildings.
+
+## § 17. Sales and savings
+
+- **(a)** *Definition* In this section, the term “property” means the following:
+  - **(1)** The property located in the District of Columbia, subject to survey and as determined by the Administrator of General Services, generally consisting of Squares 325 and 326 and a portion of Square 351 and generally bounded by 12th Street, Independence Avenue, C Street, and the James Forrestal Building, all in Southwest Washington, District of Columbia, including all associated air rights, improvements thereon, and appurtenances thereto.
+  - **(2)** The property located in the District of Columbia, subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, including the building known as the Cotton Annex.
+- **(b)** *Sale* Not later than December 31, 2018, the Administrator shall sell the property at fair market value at highest and best use.
+- **(c)** *Net proceeds* Any net proceeds of a sale under subsection (b) shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
