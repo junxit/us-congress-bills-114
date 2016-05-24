@@ -1,7 +1,7 @@
 ---
 measure: H.R. 496
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 496
@@ -16,9 +16,10 @@ Alabama Hills National Scenic Area Establishment Act
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Alabama Hills National Scenic Area Establishment Act
 - 2016-05-23 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2892-2893)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2892-2893)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
