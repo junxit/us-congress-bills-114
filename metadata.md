@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3218
@@ -69,9 +69,10 @@ Designate the facility of the United States Postal Service located at 1221 State
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ Designate the facility of the United States Postal Service located at 1221 State
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2928)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2928)
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
