@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1762
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1762
@@ -23,9 +23,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2910)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2910)
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
