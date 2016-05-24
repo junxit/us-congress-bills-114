@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3956
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3956
@@ -31,9 +31,10 @@ VA Health Center Management Stability and Improvement Act
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 - Rep. O'Rourke, Beto [D-TX-16] (O000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ VA Health Center Management Stability and Improvement Act
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2918-2919)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2918-2919)
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
