@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3998
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3998
@@ -23,10 +23,11 @@ Securing Access to Networks in Disasters Act
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Securing Access to Networks in Disasters Act
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-583, Part I.
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-583, Part I.
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
