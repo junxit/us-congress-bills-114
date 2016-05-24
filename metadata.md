@@ -1,7 +1,7 @@
 ---
 measure: S. 2847
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2847
@@ -24,3 +24,8 @@ Prove It Act of 2016
 
 - 2016-04-25 — Introduced in Senate
 - 2016-04-25 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2016-04-27 — Committee on Small Business and Entrepreneurship. Hearings held. Hearings printed: S.Hrg. 114-637.
+- 2016-05-11 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2016-05-24 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter without amendment. Without written report.
+- 2016-05-24 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter without amendment. Without written report.
+- 2016-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.
