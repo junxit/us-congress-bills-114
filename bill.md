@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1769
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Toxic Exposure Research Act of 2015”.
+This Act may be cited as the “Toxic Exposure Research Act of 2016”.
 
 ## § 2. Definitions
 
 In this Act:
 
 - **(1)** *Armed Force* The term Armed Force means the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components thereof.
-- **(2)** *Descendant* The term descendant means, with respect to an individual, the biological child, grandchild, or great-grandchild of that individual.
+- **(2)** *Descendant* The term descendant means, with respect to an individual, the biological child or grandchild of that individual.
 - **(3)** *Exposed* The term exposed means, with respect to a toxic substance, that an individual came into contact with that toxic substance in a manner that could be hazardous to the health of that individual, that may include if that toxic substance was inhaled, ingested, or touched the skin or eyes.
 - **(4)** *Exposure* The term exposure means, with respect to a toxic substance, an event during which an individual was exposed to that toxic substance.
 - **(5)** *Toxic substance* The term toxic substance means any substance determined by the Administrator of the Environmental Protection Agency to be harmful to the environment or hazardous to the health of an individual if inhaled or ingested by or absorbed through the skin of that individual.
@@ -68,7 +68,7 @@ In this Act:
       - **(i)** not less than three shall be members of organizations exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986;
       - **(ii)** not less than one shall be—
         - **(I)** a descendant of an individual who was exposed to toxic substances while serving as a member of the Armed Forces and the descendant has manifested a structural or functional birth defect or a health condition that is related to the exposure of such individual to such toxic substance; or
-        - **(II)** a parent, child, or grandchild of that descendant;
+        - **(II)** a parent or child of that descendant;
       - **(iii)** not less than six shall be health professionals, scientists, or academics who are not employees of the Federal Government and have expertise in—
         - **(I)** birth defects;
         - **(II)** developmental disabilities;
@@ -106,14 +106,14 @@ In this Act:
   - **(2)** *Approval* The appointment of an executive director under paragraph (1) shall be subject to approval by the Advisory Board.
   - **(3)** *Compensation* The Chairperson may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
-## § 5. Declassification by Department of Defense of certain incidents of exposure of members of the Armed Forces to toxic substances
+## § 5. Declassification review by Department of Defense of certain incidents of exposure of members of the Armed Forces to toxic substances
 
-- **(a)** *In general* The Secretary of Defense shall declassify documents related to any known incident in which not less than 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of a disability that a member of the medical profession has determined to be associated with that toxic substance.
-- **(b)** *Limitation* The declassification required by subsection (a) shall be limited to information necessary for an individual who was potentially exposed to a toxic substance to determine the following:
+- **(a)** *Review* The Secretary of Defense shall conduct a declassification review to determine what information may be made publicly available relating to any known incident in which not less than 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of a disability that a specialist in the field of occupational medicine has determined to be credibly associated with that toxic substance.
+- **(b)** *Release of declassified information* To the extent practicable, and subject to subsection (c) and consistent with national security, the Secretary of Defense shall make publicly available information declassified following the review required by subsection (a).
+- **(c)** *Limitation* Information made publicly available pursuant to subsection (b) shall be limited to information necessary for an individual who was potentially exposed to a toxic substance to determine the following:
   - **(1)** Whether that individual was exposed to that toxic substance.
   - **(2)** The potential severity of the exposure of that individual to that toxic substance.
   - **(3)** Any potential health conditions that may have resulted from exposure to that toxic substance.
-- **(c)** *Exception* The Secretary of Defense is not required to declassify documents if the Secretary determines that declassification of those documents would materially and immediately threaten the security of the United States.
 
 ## § 6. National outreach campaign on potential long-term health effects of exposure to toxic substances by members of the Armed Forces and their descendants
 
