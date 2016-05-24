@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2589
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2589
@@ -25,9 +25,10 @@ To amend the Communications Act of 1934 to require the Federal Communications Co
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To amend the Communications Act of 1934 to require the Federal Communications Co
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-581.
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-581.
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
