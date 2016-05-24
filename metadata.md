@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3931
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3931
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 620 Cen
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 620 Cen
 - 2016-05-23 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2922)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2922)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
