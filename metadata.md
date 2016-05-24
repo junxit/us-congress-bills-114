@@ -1,7 +1,7 @@
 ---
 measure: H.R. 433
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 433
@@ -64,3 +64,15 @@ To designate the facility of the United States Postal Service located at 523 Eas
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2921)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2921)
 - 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2016-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3378)
+- 2016-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3378)
+- 2016-05-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S3378)
+- 2016-05-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S3378)
+- 2016-05-27 — Message on Senate action sent to the House.
+- 2016-06-03 — Presented to President.
+- 2016-06-03 — Presented to President.
+- 2016-06-13 — Became Public Law No: 114-167.
+- 2016-06-13 — Became Public Law No: 114-167.
+- 2016-06-13 — Signed by President.
+- 2016-06-13 — Signed by President.
