@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2460
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2460
@@ -72,9 +72,10 @@ To amend title 38, United States Code, to improve the provision of adult day hea
 - Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
 - Rep. Posey, Bill [R-FL-8] (P000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ To amend title 38, United States Code, to improve the provision of adult day hea
 - 2016-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2912)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2912)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
