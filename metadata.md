@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2576
@@ -90,3 +90,13 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 - 2016-05-24 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 403 - 12 (Roll no. 238).(text as House agreed with an amendment to the Senate amendment: CR H3007-3025)
 - 2016-05-24 — Rule H. Res. 742 passed House.
 - 2016-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H3031)
+- 2016-06-07 — Measure laid before Senate by unanimous consent. (consideration: CR S3511-3525)
+- 2016-06-07 — Message on Senate action sent to the House.
+- 2016-06-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment by Voice Vote.(consideration: CR S3523)
+- 2016-06-07 — Senate agreed to the House amendment to the Senate amendment by Voice Vote. (consideration: CR S3523)
+- 2016-06-14 — Presented to President.
+- 2016-06-14 — Presented to President.
+- 2016-06-22 — Became Public Law No: 114-182.
+- 2016-06-22 — Became Public Law No: 114-182.
+- 2016-06-22 — Signed by President.
+- 2016-06-22 — Signed by President.
