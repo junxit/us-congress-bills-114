@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4761
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4761
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 61 Sout
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Hunter, Duncan D. [R-CA-50] (H001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ To designate the facility of the United States Postal Service located at 61 Sout
 - 2016-05-23 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2927)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2927)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
