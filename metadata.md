@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4877
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 3130 Gr
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To designate the facility of the United States Postal Service located at 3130 Gr
 - 2016-05-23 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2925)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2925)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
