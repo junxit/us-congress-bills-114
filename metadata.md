@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4975
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4975
@@ -21,9 +21,10 @@ To designate the facility of the United States Postal Service located at 5720 So
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the facility of the United States Postal Service located at 5720 So
 - 2016-05-23 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2926)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2926)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
