@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3969
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3969
@@ -21,9 +21,10 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Hardy, Cresent [R-NV-4] (H001070)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2931)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2931)
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
