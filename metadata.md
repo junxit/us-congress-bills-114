@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5229
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5229
@@ -20,9 +20,10 @@ Improving Transition Programs for All Veterans Act
 
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Improving Transition Programs for All Veterans Act
 - 2016-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2916-2917)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2916-2917)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
