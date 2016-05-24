@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5077
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 32 executed, 24 stated and not applied.
+57 amendatory instructions. 33 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,6 +59,15 @@ to guess them.
 |---|---|
 | Removed | `the Director, through the Inspector General,` |
 | Inserted | `the Inspector General` |
+
+### 50 U.S.C. § 3517
+
+> in subclause (II), by striking “the Director, through the Inspector General,” and inserting “the Inspector General, in consultation with the Director,”.
+
+| | |
+|---|---|
+| Removed | `the Director, through the Inspector General,` |
+| Inserted | `the Inspector General, in consultation with the Director,` |
 
 ### 50 U.S.C. § 3341
 
@@ -179,7 +188,7 @@ to guess them.
 
 ### 50 U.S.C. § 3383
 
-> by striking “National Counterintelligence Executive” each place it appears and inserting “Director of the National Counterintelligence and Security Center”; and
+> by striking “National Counterintelligence Executive” each place it appears and inserting “Director of the National Counterintelligence and Security Center”;
 
 | | |
 |---|---|
