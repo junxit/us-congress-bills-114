@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4167
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4167
@@ -43,9 +43,10 @@ Kari's Law Act of 2016
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. King, Steve [R-IA-4] (K000362)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Kari's Law Act of 2016
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-579.
 - 2016-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-579.
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
