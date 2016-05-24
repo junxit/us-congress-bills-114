@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2576
@@ -41,9 +41,10 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2015-06-23 — [House 114-1-378](votes/house-114-1-0378.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (398–1)
+- 2016-05-24 — [House 114-2-238](votes/house-114-2-0238.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (403–12)
 
 ## Actions
 
@@ -75,3 +76,17 @@ Frank R. Lautenberg Chemical Safety for the 21st Century Act
 - 2015-12-17 — Senate amendment agreed to: Amendment SA 2932 agreed to in Senate by Unanimous Consent.
 - 2015-12-17 — Senate amendment proposed (on the floor): Amendment SA 2932 proposed by Senator Inhofe.(consideration: CR S8781)
 - 2015-12-17 — Senate amendment submitted
+- 2015-12-18 — Message on Senate action sent to the House.
+- 2016-05-23 — Rules Committee Resolution H. Res. 742 Reported to House. Resolution provides for consideration of H.R. 897 and the Senate amendment to H.R. 2576.
+- 2016-05-24 — Considered as unfinished business. (consideration: CR H3046-3047)
+- 2016-05-24 — DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment with an amendment.
+- 2016-05-24 — MOTION OFFERED - Pursuant to the provisions of H. Res. 742, the Chair recognized Mr. Shimkus for a motion.
+- 2016-05-24 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2016-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-24 — Mr. Shimkus moved that the House concur in the Senate amendment with an amendment. (consideration: CR H2989-3031; text: CR H2989-3007)
+- 2016-05-24 — ORDER OF PROCEDURE - Mr. Shimkus asked unanimous consent that the question of adopting a motion to concur in the Senate amendment to H.R. 2576 with an amendment may be subject to postponement as though under clause 8 of rule XX. Agreed to without objection.
+- 2016-05-24 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 403 - 12 (Roll no. 238). (text as House agreed with an amendment to the Senate amendment: CR H3007-3025)
+- 2016-05-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to concur in the Senate amendment with an amendment, the Chair put the question on adoption of the motion and by voice vote announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until a time to be announced.
+- 2016-05-24 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 403 - 12 (Roll no. 238).(text as House agreed with an amendment to the Senate amendment: CR H3007-3025)
+- 2016-05-24 — Rule H. Res. 742 passed House.
+- 2016-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H3031)
