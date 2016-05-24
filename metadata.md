@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4465
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4465
@@ -55,3 +55,4 @@ Federal Assets Sale and Transfer Act of 2016
 - 2016-05-23 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-578, Part II.
 - 2016-05-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-578, Part I.
 - 2016-05-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-578, Part I.
+- 2016-05-24 — Received in the Senate.
