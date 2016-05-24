@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4987
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4987
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 3957 2n
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 3957 2n
 - 2016-05-23 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2016-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2920)
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2920)
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
