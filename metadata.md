@@ -1,7 +1,7 @@
 ---
 measure: S. 2831
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2831
@@ -24,3 +24,7 @@ A bill to amend the Small Business Investment Act of 1958 to provide priority fo
 
 - 2016-04-21 — Introduced in Senate
 - 2016-04-21 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2016-05-11 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-05-24 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2016-05-24 — Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.
+- 2016-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 481.
