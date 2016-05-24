@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2121
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2121
@@ -70,9 +70,10 @@ SAFE Transitional Licensing Act of 2015
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ SAFE Transitional Licensing Act of 2015
 - 2016-05-23 — Placed on the Union Calendar, Calendar No. 454.
 - 2016-05-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-584.
 - 2016-05-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-584.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

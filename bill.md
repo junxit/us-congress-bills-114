@@ -2,7 +2,7 @@
 legis-num: H.R. 2121
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2121
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *In general* The S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) is amended by adding at the end the following:
   > ## § 1518. Employment transition of loan originators
   >
-  > - **(a)** *Temporary authority to originate loans for loan originators moving from a depository institution to a non-depository institution*
+  > - **(a)** *Temporary authority To originate loans for loan originators moving from a depository institution to a non-Depository institution*
   >   - **(1)** *In general* Upon employment by a State-licensed mortgage company, an individual who is a registered loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the individual—
   >     - **(A)** has not had an application for a loan originator license denied, or had such a license revoked or suspended in any governmental jurisdiction;
   >     - **(B)** has not been subject to or served with a cease and desist order in any governmental jurisdiction or as described in section 1514(c);
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(B)** the date that the application State denies, or issues a notice of intent to deny, the application;
   >     - **(C)** the date that the application State grants a State license; or
   >     - **(D)** the date that is 120 days after the date on which the individual submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
-  > - **(b)** *Temporary authority to originate loans for State-licensed loan originators moving interstate*
+  > - **(b)** *Temporary authority To originate loans for State-Licensed loan originators moving interstate*
   >   - **(1)** *In general* A State-licensed loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the State-licensed loan originator—
   >     - **(A)** meets the requirements of subparagraphs (A), (B), (C), and (D) of subsection (a)(1);
   >     - **(B)** is employed by a State-licensed mortgage company in the application State; and
