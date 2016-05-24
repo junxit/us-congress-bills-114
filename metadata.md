@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4139
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4139
@@ -21,9 +21,10 @@ Fostering Innovation Act of 2015
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Fostering Innovation Act of 2015
 - 2016-05-23 — Placed on the Union Calendar, Calendar No. 458.
 - 2016-05-23 — Reported by the Committee on Financial Services. H. Rept. 114-588.
 - 2016-05-23 — Reported by the Committee on Financial Services. H. Rept. 114-588.
+- 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

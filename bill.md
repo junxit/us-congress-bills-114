@@ -2,7 +2,7 @@
 legis-num: H.R. 4139
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4139
@@ -27,6 +27,6 @@ Section 404 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262) is amended by add
 >     - **(B)** the last day of the fiscal year of the issuer during which the average annual gross revenues of the issuer exceed $50,000,000; or
 >     - **(C)** the date on which the issuer becomes a large accelerated filer.
 >   - **(3)** *Definitions* For purposes of this subsection:
->     - **(A)** *Average annual gross revenues* The term average annual gross revenues means the total gross revenues of an issuer over its most recently completed three fiscal years divided by three.
+>     - **(A)** *Average annual gross revenues* The term average annual gross revenues means the total gross revenues of an issuer over its most recently completed 3 fiscal years divided by 3.
 >     - **(B)** *Emerging growth company* The term “emerging growth company” has the meaning given such term under section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
 >     - **(C)** *Large accelerated filer* The term “large accelerated filer” has the meaning given that term under section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
