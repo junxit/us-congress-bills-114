@@ -26,7 +26,7 @@ Section 7(m)(3)(C) of the Small Business Act (15 U.S.C. 636(m)(3)(C)) is amended
 
 ## § 4. Elimination of 25/75 rule
 
-Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)) is amended—
+Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is amended—
 
 - **(1)** by striking subparagraph (E); and
 - **(2)** by redesignating subparagraph (F) as subparagraph (E).
@@ -37,7 +37,7 @@ Not later than 1 year after the date of enactment of this Act, the Administrator
 
 - **(1)** the operations (including services provided, structure, size, and area of operation) of a representative sample of—
   - **(A)** intermediaries that are eligible to participate in the microloan program and that do participate; and
-  - **(B)** intermediaries (including those operated for profit, operated as non-profits, and those affiliated with a United States institution of higher learning) that are eligible to participate in the microloan program and that do not participate;
+  - **(B)** intermediaries (including those operated for profit, operated as non-profits not for profit, and those affiliated with a United States institution of higher learning) that are eligible to participate in the microloan program and that do not participate;
 - **(2)** the reasons why intermediaries described in paragraph (1)(B) choose not to participate in the microloan program;
 - **(3)** recommendations on how to encourage increased participation in the microloan program by intermediaries described in paragraph (1)(B); and
 - **(4)** recommendations on how to decrease the costs associated with participation in the microloan program for eligible intermediaries.
