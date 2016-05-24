@@ -1,7 +1,7 @@
 ---
 measure: S. 2613
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2613
@@ -55,3 +55,6 @@ Adam Walsh Reauthorization Act of 2016
 - 2016-05-23 — Senate amendment proposed (on the floor): Amendment SA 4078 proposed by Senator McConnell for Senator Grassley.(consideration: CR S3048; text CR S3048)
 - 2016-05-23 — Senate amendment submitted
 - 2016-05-23 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2016-05-24 — Message on Senate action sent to the House.
+- 2016-05-24 — Received in the House.
+- 2016-05-24 — Referred to the House Committee on the Judiciary.
