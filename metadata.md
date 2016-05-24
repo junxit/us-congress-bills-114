@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 742
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 742
@@ -16,6 +16,15 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2576) to m
 
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2016-05-24 — [House 114-2-233](votes/house-114-2-0233.md) — On Ordering the Previous Question — **Passed** (234–175)
+- 2016-05-24 — [House 114-2-234](votes/house-114-2-0234.md) — On Agreeing to the Resolution — **Passed** (238–171)
+
 ## Actions
 
 - 2016-05-23 — Introduced in House
@@ -23,3 +32,11 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2576) to m
 - 2016-05-23 — Resolution provides for consideration of H.R. 897 and the Senate amendment to H.R. 2576.
 - 2016-05-23 — The House Committee on Rules reported an original measure, H. Rept. 114-590, by Mr. Woodall.
 - 2016-05-23 — The House Committee on Rules reported an original measure, H. Rept. 114-590, by Mr. Woodall.
+- 2016-05-24 — Considered as privileged matter. (consideration: CR H2975-2981)
+- 2016-05-24 — Considered as unfinished business. (consideration: CR H2987-2988)
+- 2016-05-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 742.
+- 2016-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-24 — On agreeing to the resolution Agreed to by recorded vote: 238 - 171 (Roll no. 234). (text: CR H2975)
+- 2016-05-24 — On ordering the previous question Agreed to by the Yeas and Nays: 234 - 175 (Roll no. 233). (consideration: CR H2981, H2987)
+- 2016-05-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 742, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2016-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 238 - 171 (Roll no. 234).(text: CR H2975)
