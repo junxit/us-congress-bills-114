@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 897
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reducing Regulatory Burdens Act of 2015”.
+This Act may be cited as the “Zika Vector Control Act”.
 
 ## § 2. Use of authorized pesticides
 
 Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(f)) is amended by adding at the end the following:
 
-> - **(5)** *Use of authorized pesticides* Except as provided in section 402(s) of the Federal Water Pollution Control Act, the Administrator or a State may not require a permit under such Act for a discharge from a point source into navigable waters of a pesticide authorized for sale, distribution, or use under this Act, or the residue of such a pesticide, resulting from the application of such pesticide.
+> - **(5)** *Use of authorized pesticides*
+>   - **(A)** *In general* Except as provided in section 402(s) of the Federal Water Pollution Control Act, the Administrator or a State may not require a permit under such Act for a discharge from a point source into navigable waters of a pesticide authorized for sale, distribution, or use under this Act, or the residue of such a pesticide, resulting from the application of such pesticide.
+>   - **(B)** *Sunset* This paragraph shall cease to be effective on September 30, 2018.
 
 ## § 3. Discharges of pesticides
 
@@ -34,3 +36,4 @@ Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amend
 >       - **(i)** Manufacturing or industrial effluent.
 >       - **(ii)** Treatment works effluent.
 >       - **(iii)** Discharges incidental to the normal operation of a vessel, including a discharge resulting from ballasting operations or vessel biofouling prevention.
+>   - **(3)** *Sunset* This subsection shall cease to be effective on September 30, 2018.
