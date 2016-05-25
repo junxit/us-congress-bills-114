@@ -2,14 +2,14 @@
 legis-num: H. RES. 744
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 744
 
 > Providing for consideration of the bill (S. 2012) to provide for the modernization of the energy policy of the United States, and for other purposes; providing for consideration of the bill (H.R. 5233) to repeal the Local Budget Autonomy Amendment Act of 2012, to amend the District of Columbia Home Rule Act to clarify the respective roles of the District government and Congress in the local budget process of the District government, and for other purposes; and providing for proceedings during the period from May 27, 2016, through June 6, 2016.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (S. 2012) to provide for the modernization of the energy policy of the United States, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-55 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on Energy and Commerce and the chair and ranking minority member of the Committee on Natural Resources; and (2) one motion to commit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (S. 2012) to provide for the modernization of the energy policy of the United States, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 114–55 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on Energy and Commerce and the chair and ranking minority member of the Committee on Natural Resources; and (2) one motion to commit with or without instructions.
 
 ## § 2.
 
