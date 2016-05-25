@@ -18,9 +18,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas individuals in Hawaii, in the spirit of Aloha, shared favorite dishes with each other, and as a result, the individuals began to appreciate new tastes and learned how to bring new ideas into their cooking;
 - Whereas the blend of styles in Hawaiian cooking evolves as new groups of individuals make Hawaii their home;
 - Whereas the fusion of dishes from around the world creates a unique cuisine for Hawaii that is as much a part of a visit to Hawaii as the welcoming climate, friendly individuals, and beautiful beaches in Hawaii;
-- Whereas the food of Hawaii is appealing because it came from hard-working communities of individuals that farmed, fished, or ranched for their livelihoods, which are core experiences of individuals throughout the United States;
-- Whereas the growing appreciation for the food of Hawaii comes from hard-working and ingenious farmers, fishers, educators, ranchers, chefs, and businesses that innovate and export the taste of Hawaii all over the world; and
-- Whereas, as the taste for the food of Hawaii spreads across the United States, individuals in Hawaii proudly welcome individuals in the State of Georgia to partner and bring the cuisine of the individuals “home” to new communities: Now, therefore, be it
+- Whereas the food of Hawaii is appealing because it came from hard-working communities of individuals that farmed, fished, or ranched for their livelihoods, which are core experiences of individuals throughout the United States; and
+- Whereas the growing appreciation for the food of Hawaii comes from hard-working and ingenious farmers, fishers, educators, ranchers, chefs, and businesses that innovate and export the taste of Hawaii all over the world: Now, therefore, be it
 
 That the Senate—
 
