@@ -2,21 +2,16 @@
 legis-num: S. 2012
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2012
 
-> To provide for the modernization of the energy policy of the United States, and for other purposes.
+That the bill from the Senate (S. 2012) entitled “An Act to provide for the modernization of the energy policy of the United States, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Energy Policy Modernization Act of 2016”.
+- **(a)** *Short title* This Act may be cited as the “North American Energy Security and Infrastructure Act of 2016”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
-
-## § 2. Definitions
-
-In this Act:
-
-- **(1)** *Department* The term Department means the Department of Energy.
-- **(2)** *Secretary* The term Secretary means the Secretary of Energy.

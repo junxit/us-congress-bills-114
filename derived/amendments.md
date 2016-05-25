@@ -1,7 +1,7 @@
 ---
 measure: S. 2012
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-650 amendatory instructions. 103 executed, 547 stated and not applied.
+401 amendatory instructions. 58 executed, 343 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,77 +24,23 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 6834
+### 16 U.S.C. § 824a-4
 
-> Section 305 of the Energy Conservation and Production Act (42 U.S.C. 6834) is amended by striking “voluntary building energy code” each place it appears in subsections (a)(2)(B) and (b) and inserting “model building energy code”.
-
-| | |
-|---|---|
-| Removed | `voluntary building energy code` |
-| Inserted | `model building energy code` |
-
-### 42 U.S.C. § 8253
-
-> Section 543(f)(4) of the National Energy Conservation Policy Act (42 U.S.C. 8253(f)(4)) is amended by striking “may” and inserting “shall”.
+> Section 602(b) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 824a–4(b)) is amended by striking “the Commission has conducted hearings and made the findings required under section 202(e) of the Federal Power Act” and all that follows through the period at the end and inserting “the Secretary has conducted hearings and finds that the proposed transmission facilities would not impair the sufficiency of electric supply within the United States or would not impede or tend to impede the coordination in the public interest of facilities subject to the jurisdiction of the Secretary”.
 
 | | |
 |---|---|
-| Removed | `may` |
-| Inserted | `shall` |
-
-### 42 U.S.C. § 8259
-
-> Section 551(4) of the National Energy Conservation Policy Act (42 U.S.C. 8259(4)) is amended by striking “or retrofit activities” and inserting “retrofit activities, or energy consuming devices and required support structures”.
-
-| | |
-|---|---|
-| Removed | `or retrofit activities` |
-| Inserted | `retrofit activities, or energy consuming devices and required support structures` |
-
-### 42 U.S.C. § 8287a
-
-> Section 802 of the National Energy Conservation Policy Act (42 U.S.C. 8287a) is amended by striking “(and related operation and maintenance expenses)” and inserting “, including related operations and maintenance expenses”.
-
-| | |
-|---|---|
-| Removed | `(and related operation and maintenance expenses)` |
-| Inserted | `, including related operations and maintenance expenses` |
-
-### 42 U.S.C. § 8287c
-
-> in subparagraph (A), by striking “federally owned building or buildings or other federally owned facilities” and inserting “Federal building (as defined in section 551)” each place it appears;
-
-| | |
-|---|---|
-| Removed | `federally owned building or buildings or other federally owned facilities` |
-| Inserted | `Federal building (as defined in section 551)` |
+| Removed | `the Commission has conducted hearings and made the findings required under section 202(e) of the Federal Power Act` |
+| Inserted | `the Secretary has conducted hearings and finds that the proposed transmission facilities would not impair the sufficiency of electric supply within the United States or would not impede or tend to impede the coordination in the public interest of facilities subject to the jurisdiction of the Secretary` |
 
 ### 42 U.S.C. § 17112
 
-> in paragraph (2)(D)(iv), by striking “the organization” and inserting “an organization”; and
+> in subsection (b)(2)(D)(iv), by striking “determined by the organization” and inserting “proposed by the stakeholders”;
 
 | | |
 |---|---|
-| Removed | `the organization` |
-| Inserted | `an organization` |
-
-### 42 U.S.C. § 6872
-
-> Section 422 of the Energy Conservation and Production Act (42 U.S.C. 6872) is amended by striking “appropriated—” and all that follows through the period at the end and inserting “appropriated $350,000,000 for each of fiscal years 2016 through 2020.”.
-
-| | |
-|---|---|
-| Removed | `appropriated—` |
-| Inserted | `appropriated $350,000,000 for each of fiscal years 2016 through 2020.` |
-
-### 42 U.S.C. § 6325
-
-> Section 365(f) of the Energy Policy and Conservation Act (42 U.S.C. 6325(f)) is amended by striking “$125,000,000 for each of fiscal years 2007 through 2012” and inserting “$90,000,000 for each of fiscal years 2016 through 2020, of which not greater than 5 percent may be used to provide competitively awarded financial assistance”.
-
-| | |
-|---|---|
-| Removed | `$125,000,000 for each of fiscal years 2007 through 2012` |
-| Inserted | `$90,000,000 for each of fiscal years 2016 through 2020, of which not greater than 5 percent may be used to provide competitively awarded financial assistance` |
+| Removed | `determined by the organization` |
+| Inserted | `proposed by the stakeholders` |
 
 ### 42 U.S.C. § 6832
 
@@ -105,824 +51,275 @@ to guess them.
 | Removed | `to be constructed` |
 | Inserted | `constructed or altered` |
 
-### 42 U.S.C. § 17092
+### 42 U.S.C. § 6834
 
-> in the subsection heading, by striking “System” and inserting “Systems”;
+> by striking “clause (iii)” and inserting “clause (ii)”;
 
 | | |
 |---|---|
-| Removed | `System` |
-| Inserted | `Systems` |
+| Removed | `clause (iii)` |
+| Inserted | `clause (ii)` |
 
 ### 42 U.S.C. § 6834
 
-> in the matter preceding subparagraph (A), by striking “system” and inserting “systems”;
+> by striking “clause (i)(III)” each place it appears and inserting “clause (i)”;
 
 | | |
 |---|---|
-| Removed | `system` |
-| Inserted | `systems` |
+| Removed | `clause (i)(III)` |
+| Inserted | `clause (i)` |
 
-### 42 U.S.C. § 6291
+### 42 U.S.C. § 6834
 
-> Section 321(6)(B) of the Energy Policy and Conservation Act (42 U.S.C. 6291(6)(B)) is amended by striking “(19)” and inserting “(20)”.
-
-| | |
-|---|---|
-| Removed | `(19)` |
-| Inserted | `(20)` |
-
-### 42 U.S.C. § 6294
-
-> Section 324 of the Energy Policy and Conservation Act (42 U.S.C. 6294) is amended by striking “(19)” each place it appears in each of subsections (a)(3), (b)(1)(B), (b)(3), and (b)(5) and inserting “(20)”.
+> by striking “develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and” and inserting “develop alternative certification systems and levels than the systems and levels identified under clause (i) that achieve an equivalent result in terms of”; and
 
 | | |
 |---|---|
-| Removed | `(19)` |
-| Inserted | `(20)` |
+| Removed | `develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and` |
+| Inserted | `develop alternative certification systems and levels than the systems and levels identified under clause (i) that achieve an equivalent result in terms of` |
 
 ### 42 U.S.C. § 6295
 
-> Section 325(l) of the Energy Policy and Conservation Act (42 U.S.C. 6295(l)) is amended by striking “paragraph (19)” each place it appears and inserting “paragraph (20)”.
+> Section 325(o)(6)(E)(ii) of the Energy Policy and Conservation Act (42 U.S.C. 6295(o)(6)(E)(ii)) is amended by striking “installed” and inserting “manufactured or imported into the United States”.
 
 | | |
 |---|---|
-| Removed | `paragraph (19)` |
-| Inserted | `paragraph (20)` |
+| Removed | `installed` |
+| Inserted | `manufactured or imported into the United States` |
 
-### 42 U.S.C. § 16191
+### 42 U.S.C. § 6834
 
-> in paragraph (1)(A), by striking “vehicles, buildings,” and inserting “buildings”; and
-
-| | |
-|---|---|
-| Removed | `vehicles, buildings,` |
-| Inserted | `buildings` |
-
-### 42 U.S.C. § 16191
-
-> in paragraph (3) (as so redesignated), by striking “(a)(2)(D)” and inserting “(a)(2)(C)”.
+> Section 305 of the Energy Conservation and Production Act (42 U.S.C. 6834) is amended by striking “voluntary building energy code” in subsections (a)(2)(B) and (b) and inserting “model building energy code”.
 
 | | |
 |---|---|
-| Removed | `(a)(2)(D)` |
-| Inserted | `(a)(2)(C)` |
+| Removed | `voluntary building energy code` |
+| Inserted | `model building energy code` |
 
-### 42 U.S.C. § 16137
+### 42 U.S.C. § 6306
 
-> Section 797(a) of the Energy Policy Act of 2005 (42 U.S.C. 16137(a)) is amended by striking “2016” and inserting “2021”.
-
-| | |
-|---|---|
-| Removed | `2016` |
-| Inserted | `2021` |
-
-### 15 U.S.C. § 5501
-
-> Section 1 of the Department of Energy High-End Computing Revitalization Act of 2004 (15 U.S.C. 5501 note; Public Law 108–423) is amended by striking “Department of Energy High-End Computing Revitalization Act of 2004” and inserting “Exascale Computing Act of 2016”.
+> Section 336 of the Energy Policy and Conservation Act (42 U.S.C. 6306) is amended by striking “section 323,” each place it appears and inserting “section 322, 323,”; and
 
 | | |
 |---|---|
-| Removed | `Department of Energy High-End Computing Revitalization Act of 2004` |
-| Inserted | `Exascale Computing Act of 2016` |
+| Removed | `section 323,` |
+| Inserted | `section 322, 323,` |
 
-### 42 U.S.C. § 16316
+### 42 U.S.C. § 6295
 
-> Section 976(a)(1) of the Energy Policy Act of 2005 (42 U.S.C. 16316(1)) is amended by striking “Department of Energy High-End Computing Revitalization Act of 2004” and inserting “Exascale Computing Act of 2016”.
-
-| | |
-|---|---|
-| Removed | `Department of Energy High-End Computing Revitalization Act of 2004` |
-| Inserted | `Exascale Computing Act of 2016` |
-
-### 15 U.S.C. § 5542
-
-> in subsection (a)(1), by striking “program” and inserting “coordinated program across the Department”;
+> in subparagraph (D), by striking “standard.” and inserting “standard;”; and
 
 | | |
 |---|---|
-| Removed | `program` |
-| Inserted | `coordinated program across the Department` |
+| Removed | `standard.` |
+| Inserted | `standard;` |
 
-### 15 U.S.C. § 5543
+### 42 U.S.C. § 6316
 
-> by striking “this Act” and inserting “section 3(d)”; and
-
-| | |
-|---|---|
-| Removed | `this Act` |
-| Inserted | `section 3(d)` |
-
-### 42 U.S.C. § 15852
-
-> in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2016 and each fiscal year thereafter shall be renewable energy.” ; and
+> Section 345(b)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6316(b)(1)) is amended by striking “section 325(p)(4),” and inserting “section 325(p)(3), (4), and (6),”.
 
 | | |
 |---|---|
-| Removed | `the following amounts` |
-| Inserted | `not less than 15 percent in fiscal year 2016 and each fiscal year thereafter shall be renewable energy.` |
+| Removed | `section 325(p)(4),` |
+| Inserted | `section 325(p)(3), (4), and (6),` |
 
-### 16 U.S.C. § 797
+### 16 U.S.C. § 824b
 
-> Section 4(e) of the Federal Power Act (16 U.S.C. 797(e)) is amended, in the first proviso, by striking “deem” and inserting “determine to be”.
-
-| | |
-|---|---|
-| Removed | `deem` |
-| Inserted | `determine to be` |
-
-### 16 U.S.C. § 798
-
-> in subsection (a), by striking “three” and inserting “4”; and
+> Section 203(a)(1)(B) of the Federal Power Act (16 U.S.C. 824b(a)(1)(B)) is amended by striking “such facilities or any part thereof” and inserting “such facilities, or any part thereof, of a value in excess of $10,000,000”.
 
 | | |
 |---|---|
-| Removed | `three` |
-| Inserted | `4` |
-
-### 16 U.S.C. § 806
-
-> Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than 8 additional years,”.
-
-| | |
-|---|---|
-| Removed | `once but not longer than two additional years` |
-| Inserted | `for not more than 8 additional years,` |
-
-### 16 U.S.C. § 823d
-
-> in paragraph (1), by striking “deems” and inserting “determines”;
-
-| | |
-|---|---|
-| Removed | `deems` |
-| Inserted | `determines` |
-
-### 42 U.S.C. § 15881
-
-> in subsection (c), by striking “10” and inserting “20”;
-
-| | |
-|---|---|
-| Removed | `10` |
-| Inserted | `20` |
-
-### 42 U.S.C. § 15881
-
-> in subsection (f), by striking “20” and inserting “30”; and
-
-| | |
-|---|---|
-| Removed | `20` |
-| Inserted | `30` |
-
-### 42 U.S.C. § 15881
-
-> in subsection (g), by striking “each of the fiscal years 2006 through 2015” and inserting “each of fiscal years 2016 through 2025”.
-
-| | |
-|---|---|
-| Removed | `each of the fiscal years 2006 through 2015` |
-| Inserted | `each of fiscal years 2016 through 2025` |
-
-### 42 U.S.C. § 15882
-
-> Section 243(c) of the Energy Policy Act of 2005 (42 U.S.C. 15882(c)) is amended by striking “each of the fiscal years 2006 through 2015” and inserting “each of fiscal years 2016 through 2025”.
-
-| | |
-|---|---|
-| Removed | `each of the fiscal years 2006 through 2015` |
-| Inserted | `each of fiscal years 2016 through 2025` |
-
-### 42 U.S.C. § 17215
-
-> Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “$50,000,000 for each of the fiscal years 2008 through 2012” and inserting “$55,000,000 for each of fiscal years 2017 and 2018 and $60,000,000 for each of fiscal years 2019 through 2021”.
-
-| | |
-|---|---|
-| Removed | `$50,000,000 for each of the fiscal years 2008 through 2012` |
-| Inserted | `$55,000,000 for each of fiscal years 2017 and 2018 and $60,000,000 for each of fiscal years 2019 through 2021` |
-
-### 30 U.S.C. § 2003
-
-> Section 4(e) of the Methane Hydrate Research and Development Act of 2000 (30 U.S.C. 2003(e)) is amended in the matter preceding paragraph (1) by striking “subsection (b)(1)” and inserting “paragraphs (1) and (2) of subsection (b)”.
-
-| | |
-|---|---|
-| Removed | `subsection (b)(1)` |
-| Inserted | `paragraphs (1) and (2) of subsection (b)` |
-
-### 42 U.S.C. § 15908
-
-> Section 351(k) of the Energy Policy Act of 2005 (42 U.S.C. 15908(k)) is amended by striking “$30,000,000 for each of fiscal years 2006 through 2010” and inserting “$5,000,000 for each of fiscal years 2017 through 2026, to remain available until expended”.
-
-| | |
-|---|---|
-| Removed | `$30,000,000 for each of fiscal years 2006 through 2010` |
-| Inserted | `$5,000,000 for each of fiscal years 2017 through 2026, to remain available until expended` |
-
-### 42 U.S.C. § 17251
-
-> in subparagraph (B), by striking “including” in the matter preceding clause (i) and all that follows through the period at the end and inserting “, including such geologic sequestration projects as are approved by the Secretary”.
-
-| | |
-|---|---|
-| Removed | `including` |
-| Inserted | `, including such geologic sequestration projects as are approved by the Secretary` |
-
-### 42 U.S.C. § 15852
-
-> by striking “produced from” and inserting “produced or, if resulting from a thermal energy project placed in service after December 31, 2014, thermal energy generated from, or avoided by,”; and
-
-| | |
-|---|---|
-| Removed | `produced from` |
-| Inserted | `produced or, if resulting from a thermal energy project placed in service after December 31, 2014, thermal energy generated from, or avoided by,` |
-
-### 42 U.S.C. § 15852
-
-> Section 2410q(a) of title 10, United States Code, is amended by striking “section 203(b)(2) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)(2))” and inserting “section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b))”.
-
-| | |
-|---|---|
-| Removed | `section 203(b)(2) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)(2))` |
-| Inserted | `section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b))` |
-
-### 42 U.S.C. § 16512
-
-> by striking “subparagraph (A)” and inserting “paragraph (1)”; and
-
-| | |
-|---|---|
-| Removed | `subparagraph (A)` |
-| Inserted | `paragraph (1)` |
-
-### 42 U.S.C. § 16512
-
-> by striking “subparagraph (B)” and inserting “paragraph (2)”.
-
-| | |
-|---|---|
-| Removed | `subparagraph (B)` |
-| Inserted | `paragraph (2)` |
-
-### 42 U.S.C. § 16512
-
-> Section 1702(d)(3) of the Energy Policy Act of 2005 (42 U.S.C. 16512(d)(3)) is amended by striking “is not subordinate” and inserting “(including any reorganization, restructuring, or termination of the obligation) shall not at any time be subordinate”.
-
-| | |
-|---|---|
-| Removed | `is not subordinate` |
-| Inserted | `(including any reorganization, restructuring, or termination of the obligation) shall not at any time be subordinate` |
-
-### 25 U.S.C. § 3502
-
-> Section 2602(b)(6) of the Energy Policy Act of 1992 (25 U.S.C. 3502(b)(6)) is amended by striking “2016” and inserting “2026”.
-
-| | |
-|---|---|
-| Removed | `2016` |
-| Inserted | `2026` |
-
-### 42 U.S.C. § 16538
-
-> in subsection (a)(3), by striking “subsection (n)(1)” and inserting “subsection (o)(1)”;
-
-| | |
-|---|---|
-| Removed | `subsection (n)(1)` |
-| Inserted | `subsection (o)(1)` |
-
-### 42 U.S.C. § 16538
-
-> in the matter preceding subparagraph (A), by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”;
-
-| | |
-|---|---|
-| Removed | `paragraphs (4) and (5)` |
-| Inserted | `paragraph (4)` |
-
-### 42 U.S.C. § 16538
-
-> in paragraph (4)(B), by striking “(c)(2)(D)” and inserting “(c)(2)(C)”.
-
-| | |
-|---|---|
-| Removed | `(c)(2)(D)` |
-| Inserted | `(c)(2)(C)` |
-
-### 42 U.S.C. § 7132
-
-> in paragraph (1), by striking “for Science” and inserting “for Science and Energy (referred to in this subsection as the Under Secretary)”;
-
-| | |
-|---|---|
-| Removed | `for Science` |
-| Inserted | `for Science and Energy (referred to in this subsection as the Under Secretary)` |
-
-### 42 U.S.C. § 17231
-
-> Section 641(h)(2) of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231(h)(2)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Science` |
-| Inserted | `Under Secretary for Science and Energy` |
-
-### 16 U.S.C. § 1722
-
-> Section 203(10)(A) of the Public Lands Corps Act of 1993 (16 U.S.C. 1722(10)(A)) is amended by striking “25” and inserting “30”.
-
-| | |
-|---|---|
-| Removed | `25` |
-| Inserted | `30` |
-
-### 16 U.S.C. § 1723
-
-> Section 204(b) of the Public Lands Corps Act of 1993 (16 U.S.C. 1723(b)) is amended in the first sentence by striking “25” and inserting “30”.
-
-| | |
-|---|---|
-| Removed | `25` |
-| Inserted | `30` |
-
-### 16 U.S.C. § 1722
-
-> Section 207(c)(2) of the Public Lands Corps Act of 1993 (16 U.S.C., 1726(c)(2)) is amended by striking “120 days” and inserting “2 years”.
-
-| | |
-|---|---|
-| Removed | `120 days` |
-| Inserted | `2 years` |
-
-### 42 U.S.C. § 16534
-
-> in subparagraph (A), by striking “$80,000” and inserting “$190,000”; and
-
-| | |
-|---|---|
-| Removed | `$80,000` |
-| Inserted | `$190,000` |
-
-### 42 U.S.C. § 16534
-
-> in subparagraph (B), by striking “$125,000” and inserting “$490,000”;
-
-| | |
-|---|---|
-| Removed | `$125,000` |
-| Inserted | `$490,000` |
-
-### 42 U.S.C. § 16534
-
-> by striking “assistant professor or equivalent title” and inserting “untenured assistant or associate professor”; and
-
-| | |
-|---|---|
-| Removed | `assistant professor or equivalent title` |
-| Inserted | `untenured assistant or associate professor` |
-
-### 42 U.S.C. § 16534
-
-> in subsection (d), by striking “on a competitive, merit-reviewed basis” and inserting “through a competitive process using merit-based peer review.”;
-
-| | |
-|---|---|
-| Removed | `on a competitive, merit-reviewed basis` |
-| Inserted | `through a competitive process using merit-based peer review.` |
-
-### 42 U.S.C. § 16534
-
-> in subsection (f)(1), by striking “nonprofit, nondegree-granting research organizations” and inserting “National Laboratories”.
-
-| | |
-|---|---|
-| Removed | `nonprofit, nondegree-granting research organizations` |
-| Inserted | `National Laboratories` |
-
-### 42 U.S.C. § 16536
-
-> in subsection (e), in the matter preceding paragraph (1), by striking “Director of Science, Engineering, and Mathematics Education” and inserting “Director of the Office of Science.”.
-
-| | |
-|---|---|
-| Removed | `Director of Science, Engineering, and Mathematics Education` |
-| Inserted | `Director of the Office of Science.` |
+| Removed | `such facilities or any part thereof` |
+| Inserted | `such facilities, or any part thereof, of a value in excess of $10,000,000` |
 
 ### 42 U.S.C. § 7141
 
-> Section 211(f)(1) of the Department of Energy Organization Act (42 U.S.C. 7141(f)(1)) is amended by striking “a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent” and inserting “Asian American, Native Hawaiian, a Pacific Islander, African-American, Hispanic, Puerto Rican, Native American, or an Alaska Native”.
+> Section 211(f)(1) of the Department of Energy Organization Act (42 U.S.C. 7141(f)(1)) is amended by striking “a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent” and inserting “Asian American, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native”.
 
 | | |
 |---|---|
 | Removed | `a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent` |
-| Inserted | `Asian American, Native Hawaiian, a Pacific Islander, African-American, Hispanic, Puerto Rican, Native American, or an Alaska Native` |
+| Inserted | `Asian American, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native` |
 
 ### 42 U.S.C. § 6705
 
-> Section 106(f)(2) of the Local Public Works Capital Development and Investment Act of 1976 (42 U.S.C. 6705(f)(2)) is amended in the third sentence by striking “Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts” and inserting “Asian American, Native Hawaiian, Pacific Islanders, African-American, Hispanic, Native American, or Alaska Natives”.
+> Section 106(f)(2) of the Local Public Works Capital Development and Investment Act of 1976 (42 U.S.C. 6705(f)(2)) is amended by striking “Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts” and inserting “Asian American, African American, Hispanic, Native American, or Alaska Natives”.
 
 | | |
 |---|---|
 | Removed | `Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts` |
-| Inserted | `Asian American, Native Hawaiian, Pacific Islanders, African-American, Hispanic, Native American, or Alaska Natives` |
+| Inserted | `Asian American, African American, Hispanic, Native American, or Alaska Natives` |
 
-### 16 U.S.C. § 2103c
+### 16 U.S.C. § 2622
 
-> in subsection (b), in the matter preceding paragraph (1), by striking “During the period ending September 30, 2018, there” and inserting “There”; and
-
-| | |
-|---|---|
-| Removed | `During the period ending September 30, 2018, there` |
-| Inserted | `There` |
-
-### 16 U.S.C. § 2103c
-
-> by striking “There” and inserting “(a) In General.—There”; and
+> by striking “such paragraph (14)” and all that follows through “paragraphs (16)” and inserting “such paragraph (14). In the case of the standard established by paragraph (15) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (15). In the case of the standards established by paragraphs (16)”; and
 
 | | |
 |---|---|
-| Removed | `There` |
-| Inserted | `(a) In General.—There` |
+| Removed | `such paragraph (14)” and all that follows through “paragraphs (16)` |
+| Inserted | `such paragraph (14). In the case of the standard established by paragraph (15) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (15). In the case of the standards established by paragraphs (16)` |
 
-### 25 U.S.C. § 3502
+### 42 U.S.C. § 17215
 
-> in the matter preceding subparagraph (A), by striking “guarantee” and inserting “guaranteed”;
-
-| | |
-|---|---|
-| Removed | `guarantee` |
-| Inserted | `guaranteed` |
-
-### 25 U.S.C. § 3502
-
-> in paragraph (5), by striking “The Secretary of Energy may” and inserting “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2016, the Secretary of Energy shall”.
+> Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “2008 through 2012” and inserting “2016 through 2019”.
 
 | | |
 |---|---|
-| Removed | `The Secretary of Energy may` |
-| Inserted | `Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2016, the Secretary of Energy shall` |
+| Removed | `2008 through 2012` |
+| Inserted | `2016 through 2019` |
 
-### 25 U.S.C. § 3503
+### 16 U.S.C. § 6591b
 
-> in paragraph (1), by striking “on the request of an Indian tribe, the Indian tribe” and inserting “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization”; and
-
-| | |
-|---|---|
-| Removed | `on the request of an Indian tribe, the Indian tribe` |
-| Inserted | `on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization` |
-
-### 25 U.S.C. § 81
-
-> by striking “and” after the semicolon at the end and inserting “or”; and
+> Section 603(c)(2)(B) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591b(c)(2)(B)) is amended by striking “Fire Regime Groups I, II, or III” and inserting “Fire Regime I, Fire Regime II, Fire Regime III, or Fire Regime IV”.
 
 | | |
 |---|---|
-| Removed | `and` |
-| Inserted | `or` |
+| Removed | `Fire Regime Groups I, II, or III` |
+| Inserted | `Fire Regime I, Fire Regime II, Fire Regime III, or Fire Regime IV` |
 
-### 25 U.S.C. § 450
+### 16 U.S.C. § 7125
 
-> in the matter preceding subclause (I), by striking “includes” and all that follows through “section—” and inserting “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—”;
-
-| | |
-|---|---|
-| Removed | `includes” and all that follows through “section—` |
-| Inserted | `does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—` |
-
-### 25 U.S.C. § 450
-
-> in subparagraph (D)(ii), by striking “subparagraph (B)(iii)(XVI)” and inserting “subparagraph (B)(iv)(XI)”; and
+> Section 205(a)(4) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(a)(4)) is amended by striking “2012” each place it appears and inserting “2020”.
 
 | | |
 |---|---|
-| Removed | `subparagraph (B)(iii)(XVI)` |
-| Inserted | `subparagraph (B)(iv)(XI)` |
+| Removed | `2012` |
+| Inserted | `2020` |
 
-### 25 U.S.C. § 450
+### 16 U.S.C. § 7125
 
-> by striking “subparagraph (D)” and inserting “subparagraphs (C) and (D)”;
-
-| | |
-|---|---|
-| Removed | `subparagraph (D)` |
-| Inserted | `subparagraphs (C) and (D)` |
-
-### 25 U.S.C. § 450
-
-> in subparagraph (A), by striking “has demonstrated” and inserting “the Secretary determines has demonstrated with substantial evidence”;
+> in paragraph (1), by striking “Each” and inserting “Except during the period specified in paragraph (6), each”; and
 
 | | |
 |---|---|
-| Removed | `has demonstrated` |
-| Inserted | `the Secretary determines has demonstrated with substantial evidence` |
+| Removed | `Each` |
+| Inserted | `Except during the period specified in paragraph (6), each` |
 
-### 25 U.S.C. § 450
+### 16 U.S.C. § 7153
 
-> in subparagraph (B), by striking “any tribal remedy” and inserting “all remedies (if any) provided under the laws of the Indian tribe”;
-
-| | |
-|---|---|
-| Removed | `any tribal remedy` |
-| Inserted | `all remedies (if any) provided under the laws of the Indian tribe` |
-
-### 25 U.S.C. § 450
-
-> in clause (ii), by striking “determination” and inserting “determinations”; and
+> Section 403(b) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7153(b)) is amended by striking “All revenues” and inserting “Except as provided in section 209, all revenues”.
 
 | | |
 |---|---|
-| Removed | `determination` |
-| Inserted | `determinations` |
+| Removed | `All revenues` |
+| Inserted | `Except as provided in section 209, all revenues` |
 
-### 25 U.S.C. § 450
+### 16 U.S.C. § 6591c
 
-> in clause (iii), in the matter preceding subclause (I) by striking “agreement” the first place it appears and all that follows through “, including” and inserting “agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including”;
-
-| | |
-|---|---|
-| Removed | `agreement” the first place it appears and all that follows through “, including` |
-| Inserted | `agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including` |
-
-### 25 U.S.C. § 450
-
-> in subparagraph (E)(i), by striking “the manner in which” and inserting “, with respect to each claim made in the petition, how”; and
+> Section 604(d)(5) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(d)(5)) is amended by striking “, the Chief may” and inserting “and section 2(a)(1) of the Act of July 31, 1947 (commonly known as the Materials Act of 1947; 30 U.S.C. 602(a)(1)), the Chief and the Director may”.
 
 | | |
 |---|---|
-| Removed | `the manner in which` |
-| Inserted | `, with respect to each claim made in the petition, how` |
+| Removed | `, the Chief may` |
+| Inserted | `and section 2(a)(1) of the Act of July 31, 1947 (commonly known as the Materials Act of 1947; 30 U.S.C. 602(a)(1)), the Chief and the Director may` |
 
-### 25 U.S.C. § 3502
+### 16 U.S.C. § 6591c
 
-> in paragraph (1), by striking “tribal energy resource development organizations” and inserting “tribal energy development organizations”; and
-
-| | |
-|---|---|
-| Removed | `tribal energy resource development organizations` |
-| Inserted | `tribal energy development organizations` |
-
-### 25 U.S.C. § 3502
-
-> in paragraph (2), by striking “tribal energy resource development organizations” each place it appears and inserting “tribal energy development organizations”; and
+> Subsection (j) of section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c), as redesignated by section 501(a)(1), is amended by striking “report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives” and inserting “submit to the congressional committees specified in subsection (h)(2) a report”.
 
 | | |
 |---|---|
-| Removed | `tribal energy resource development organizations` |
-| Inserted | `tribal energy development organizations` |
+| Removed | `report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives` |
+| Inserted | `submit to the congressional committees specified in subsection (h)(2) a report` |
 
-### 25 U.S.C. § 3502
+### 16 U.S.C. § 7303
 
-> in subsection (b)(2), by striking “tribal energy resource development organization” and inserting “tribal energy development organization”.
-
-| | |
-|---|---|
-| Removed | `tribal energy resource development organization` |
-| Inserted | `tribal energy development organization` |
-
-### 25 U.S.C. § 3506
-
-> Section 2606(c)(3) of the Energy Policy Act of 1992 (25 U.S.C. 3506(c)(3)) is amended by striking “energy resource development” and inserting “energy development”.
+> Section 4003(f)(1) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 7303(f)(1)) is amended by striking “carrying out and” and inserting “planning, carrying out, and”.
 
 | | |
 |---|---|
-| Removed | `energy resource development` |
-| Inserted | `energy development` |
+| Removed | `carrying out and` |
+| Inserted | `planning, carrying out, and` |
 
-### 25 U.S.C. § 3504
+### 25 U.S.C. § 3115a
 
-> in the matter preceding subparagraph (A), by striking “approved” and inserting “in effect”;
-
-| | |
-|---|---|
-| Removed | `approved` |
-| Inserted | `in effect` |
-
-### 25 U.S.C. § 3504
-
-> in subparagraph (B), by striking “approved” and inserting “in effect”; and
+> in paragraph (1), by striking “Not later than 120 days after the date on which an Indian tribe submits to the Secretary” and inserting “In response to the submission by an Indian tribe of ”; and
 
 | | |
 |---|---|
-| Removed | `approved` |
-| Inserted | `in effect` |
+| Removed | `Not later than 120 days after the date on which an Indian tribe submits to the Secretary` |
+| Inserted | `In response to the submission by an Indian tribe of` |
 
-### 25 U.S.C. § 3504
+### 16 U.S.C. § 2104
 
-> in clause (i), by striking “an approved tribal energy resource agreement” and inserting “a tribal energy resource agreement in effect under this section”; and
-
-| | |
-|---|---|
-| Removed | `an approved tribal energy resource agreement` |
-| Inserted | `a tribal energy resource agreement in effect under this section` |
-
-### 25 U.S.C. § 3504
-
-> in clause (ii), by striking “approved by the Secretary” and inserting “in effect”; and
+> in subsections (b)(1) and (f)(1), by striking “section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275))” and inserting “section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c)”; and
 
 | | |
 |---|---|
-| Removed | `approved by the Secretary` |
-| Inserted | `in effect` |
+| Removed | `section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275))` |
+| Inserted | `section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c)` |
 
-### 25 U.S.C. § 3504
+### 25 U.S.C. § 3115a
 
-> in subparagraph (A), by striking “approved by the Secretary” and inserting “in effect”;
-
-| | |
-|---|---|
-| Removed | `approved by the Secretary` |
-| Inserted | `in effect` |
-
-### 25 U.S.C. § 3504
-
-> in subparagraph (B), by striking “approved by the Secretary” and inserting “in effect”; and
+> in subsection (d), by striking “subsection (b)(1), the Secretary may” and inserting “paragraphs (1) and (4)(B) of subsection (b), the Secretary shall”.
 
 | | |
 |---|---|
-| Removed | `approved by the Secretary` |
-| Inserted | `in effect` |
+| Removed | `subsection (b)(1), the Secretary may` |
+| Inserted | `paragraphs (1) and (4)(B) of subsection (b), the Secretary shall` |
 
-### 25 U.S.C. § 3504
+### 42 U.S.C. § 4321
 
-> by striking “subsection (a) or (b)” and inserting “subsection (a)(2)(A)(i) or (b)(2)(A)”.
-
-| | |
-|---|---|
-| Removed | `subsection (a) or (b)` |
-| Inserted | `subsection (a)(2)(A)(i) or (b)(2)(A)` |
-
-### 16 U.S.C. § 800
-
-> Section 7(a) of the Federal Power Act (16 U.S.C. 800(a)) is amended by striking “States and municipalities” and inserting “States, Indian tribes, and municipalities”.
+> in subparagraph (A), by striking “to combination” and inserting “or combination”; and
 
 | | |
 |---|---|
-| Removed | `States and municipalities` |
-| Inserted | `States, Indian tribes, and municipalities` |
+| Removed | `to combination` |
+| Inserted | `or combination` |
 
-### 16 U.S.C. § 1609
+### 42 U.S.C. § 4321
 
-> in section 2(a), by striking “In this section” and inserting “In this Act”; and
-
-| | |
-|---|---|
-| Removed | `In this section` |
-| Inserted | `In this Act` |
-
-### 42 U.S.C. § 6863
-
-> by striking “The sums” and inserting “Administration.—The amounts”;
+> by striking “3405(a)(2) of this title” each place it appears and inserting “(5)”;
 
 | | |
 |---|---|
-| Removed | `The sums` |
-| Inserted | `Administration.—The amounts` |
+| Removed | `3405(a)(2) of this title` |
+| Inserted | `(5)` |
 
-### 42 U.S.C. § 6863
+### 42 U.S.C. § 4321
 
-> by striking “individuals for whom such a determination has been made” and inserting “low-income members of the Indian tribe”; and
-
-| | |
-|---|---|
-| Removed | `individuals for whom such a determination has been made` |
-| Inserted | `low-income members of the Indian tribe` |
-
-### 42 U.S.C. § 6863
-
-> by striking “he” and inserting “the Secretary”; and
+> in paragraph (6) (as so designated), by striking “3405(a)(1)(A)–(C), (E), (G), (H), (I), (L), and (M) of this title” and inserting “(A) through (C), (E), (G), (H), (I), (L), and (M) of paragraph (4)”.
 
 | | |
 |---|---|
-| Removed | `he` |
-| Inserted | `the Secretary` |
+| Removed | `3405(a)(1)(A)–(C), (E), (G), (H), (I), (L), and (M) of this title` |
+| Inserted | `(A) through (C), (E), (G), (H), (I), (L), and (M) of paragraph (4)` |
 
-### 42 U.S.C. § 6863
+### 42 U.S.C. § 4321
 
-> in paragraph (3), by striking “In order” and inserting “Application.—In order”.
-
-| | |
-|---|---|
-| Removed | `In order` |
-| Inserted | `Application.—In order` |
-
-### 25 U.S.C. § 415
-
-> by striking “, except a lease for” and inserting “, including a lease for”;
+> in section 3407(c)(1) (106 Stat. 4726), by striking “3405(a)(1)(C)” and inserting “3405(a)(4)(C)”; and
 
 | | |
 |---|---|
-| Removed | `, except a lease for` |
-| Inserted | `, including a lease for` |
+| Removed | `3405(a)(1)(C)` |
+| Inserted | `3405(a)(4)(C)` |
 
-### 42 U.S.C. § 9604
+### 42 U.S.C. § 4321
 
-> in paragraph (3)(A), by striking “subject to paragraphs (4) and (5)” and inserting “subject to paragraphs (5) and (6)”; and
-
-| | |
-|---|---|
-| Removed | `subject to paragraphs (4) and (5)` |
-| Inserted | `subject to paragraphs (5) and (6)` |
-
-### 42 U.S.C. § 9604
-
-> Section 104(k)(3)(A)(ii) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)(3)(A)(ii)) is amended by striking “$200,000 for each site to be remediated” and inserting “$500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site”.
+> in section 3408(i)(1) (106 Stat. 4729), by striking “3405(a)(1) (A) and (J) of this title” and inserting “subparagraphs (A) and (J) of section 3405(a)(4)”.
 
 | | |
 |---|---|
-| Removed | `$200,000 for each site to be remediated` |
-| Inserted | `$500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site` |
+| Removed | `3405(a)(1) (A) and (J) of this title` |
+| Inserted | `subparagraphs (A) and (J) of section 3405(a)(4)` |
 
-### 42 U.S.C. § 9604
+### 43 U.S.C. § 509
 
-> in clause (ii) (as redesignated by subparagraph (C)), by striking “Notwithstanding clause (i)(IV)” and inserting “Notwithstanding clause (i)(III)”; and
-
-| | |
-|---|---|
-| Removed | `Notwithstanding clause (i)(IV)` |
-| Inserted | `Notwithstanding clause (i)(III)` |
-
-### 42 U.S.C. § 9604
-
-> Paragraph (15)(A) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 7003(1)) is amended by striking “2006” and inserting “2018”.
+> in section 3, by striking “Construction” and inserting “Except as provided in section 5B, construction”; and
 
 | | |
 |---|---|
-| Removed | `2006` |
-| Inserted | `2018` |
+| Removed | `Construction` |
+| Inserted | `Except as provided in section 5B, construction` |
 
-### 42 U.S.C. § 9628
+### 15 U.S.C. § 2602
 
-> Section 128(a)(3) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9628(a)(3)) is amended by striking “2006” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2006` |
-| Inserted | `2018` |
-
-### 16 U.S.C. § 1274
-
-> by striking “14-mile” and inserting “15.1-mile”; and
+> in clause (v), by striking “, and” and inserting “, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,”;
 
 | | |
 |---|---|
-| Removed | `14-mile` |
-| Inserted | `15.1-mile` |
-
-### 16 U.S.C. § 1274
-
-> by striking “to the downstream end of the New Hartford-Canton, Connecticut town line” and inserting “to the confluence with the Nepaug River”.
-
-| | |
-|---|---|
-| Removed | `to the downstream end of the New Hartford-Canton, Connecticut town line` |
-| Inserted | `to the confluence with the Nepaug River` |
-
-### 16 U.S.C. § 1244
-
-> by striking “thirty two hundred miles, extending from eastern New York State” and inserting “4,600 miles, extending from the Appalachian Trail in Vermont”; and
-
-| | |
-|---|---|
-| Removed | `thirty two hundred miles, extending from eastern New York State` |
-| Inserted | `4,600 miles, extending from the Appalachian Trail in Vermont` |
-
-### 16 U.S.C. § 1244
-
-> by striking “Proposed North Country Trail” and all that follows through “June 1975.” and inserting “North Country National Scenic Trail, Authorized Route dated February 2014, and numbered 649/116870.”.
-
-| | |
-|---|---|
-| Removed | `Proposed North Country Trail” and all that follows through “June 1975.` |
-| Inserted | `North Country National Scenic Trail, Authorized Route dated February 2014, and numbered 649/116870.` |
-
-### 16 U.S.C. § 460l-6d
-
-> in subsection (c) (as so redesignated), in the second sentence, by striking “subsection (a)” and inserting “subsection (b)”;
-
-| | |
-|---|---|
-| Removed | `subsection (a)` |
-| Inserted | `subsection (b)` |
-
-### 43 U.S.C. § 2302
-
-> in section 203(2) (43 U.S.C. 2302(2)), by striking “on the date of enactment of this Act was” and inserting “is”;
-
-| | |
-|---|---|
-| Removed | `on the date of enactment of this Act was` |
-| Inserted | `is` |
-
-### 43 U.S.C. § 2306
-
-> by striking “96–568” and inserting “96–586”; and
-
-| | |
-|---|---|
-| Removed | `96–568` |
-| Inserted | `96–586` |
+| Removed | `, and` |
+| Inserted | `, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,` |
 
 ### 16 U.S.C. § 669g
 
@@ -933,23 +330,221 @@ to guess them.
 | Removed | `construction, operation,` |
 | Inserted | `operation` |
 
-### 43 U.S.C. § 619
+### 43 U.S.C. § 2302
 
-> by striking “Yakama Indian” each place it appears (except section 1204(g)) and inserting “Yakama”; and
-
-| | |
-|---|---|
-| Removed | `Yakama Indian` |
-| Inserted | `Yakama` |
-
-### 43 U.S.C. § 619
-
-> by striking “Superintendent” each place it appears and inserting “Manager”.
+> in section 203(1) (43 U.S.C. 2302(1)), by striking “cultural, or” and inserting “cultural, recreational access and use, or other”;
 
 | | |
 |---|---|
-| Removed | `Superintendent` |
-| Inserted | `Manager` |
+| Removed | `cultural, or` |
+| Inserted | `cultural, recreational access and use, or other` |
+
+### 43 U.S.C. § 2302
+
+> in section 203(2) in the matter preceding subparagraph (A), by striking “on the date of enactment of this Act was” and inserting “is”;
+
+| | |
+|---|---|
+| Removed | `on the date of enactment of this Act was` |
+| Inserted | `is` |
+
+### 43 U.S.C. § 2304
+
+> in subsection (d), by striking “11” and inserting “22”;
+
+| | |
+|---|---|
+| Removed | `11` |
+| Inserted | `22` |
+
+### 43 U.S.C. § 2305
+
+> by striking “purchases” and inserting “land purchases and performance of deferred maintenance activities”;
+
+| | |
+|---|---|
+| Removed | `purchases` |
+| Inserted | `land purchases and performance of deferred maintenance activities` |
+
+### 43 U.S.C. § 2305
+
+> by striking “subparagraph (C)” and inserting “subparagraph (B)”; and
+
+| | |
+|---|---|
+| Removed | `subparagraph (C)` |
+| Inserted | `subparagraph (B)` |
+
+### 43 U.S.C. § 2306
+
+> by striking “96–568” and inserting “96–586”; and
+
+| | |
+|---|---|
+| Removed | `96–568` |
+| Inserted | `96–586` |
+
+### 16 U.S.C. § 4245
+
+> Section 2306(a) (16 U.S.C. 4245(a)) is amended by striking “2007 through 2012” and inserting “2016 through 2020”.
+
+| | |
+|---|---|
+| Removed | `2007 through 2012` |
+| Inserted | `2016 through 2020` |
+
+### 25 U.S.C. § 415
+
+> by striking “, except a lease for” and inserting “, including leases for”;
+
+| | |
+|---|---|
+| Removed | `, except a lease for` |
+| Inserted | `, including leases for` |
+
+### 25 U.S.C. § 415
+
+> in subparagraph (A), by striking “25” the first place it appears and all that follows and inserting “99 years;”;
+
+| | |
+|---|---|
+| Removed | `25` |
+| Inserted | `99 years;` |
+
+### 16 U.S.C. § 410qqq
+
+> in paragraph (2)(B), by striking “East Armory” and inserting “Colt Armory Complex”; and
+
+| | |
+|---|---|
+| Removed | `East Armory` |
+| Inserted | `Colt Armory Complex` |
+
+### 16 U.S.C. § 461
+
+> Section 295D(d) of the Gullah/Geechee Cultural Heritage Act (Public Law 109–338; 120 Stat. 1833; 16 U.S.C. 461 note) is amended by striking “10 years” and inserting “15 years”.
+
+| | |
+|---|---|
+| Removed | `10 years` |
+| Inserted | `15 years` |
+
+### 16 U.S.C. § 521e
+
+> Section 3 of Public Law 97–465 (commonly known as the Small Tracts Act; 16 U.S.C. 521e) is amended in the matter preceding paragraph (1) by striking “$150,000” and inserting “$500,000”.
+
+| | |
+|---|---|
+| Removed | `$150,000` |
+| Inserted | `$500,000` |
+
+### 16 U.S.C. § 521e
+
+> in the matter preceding paragraph (1), by striking “which are—” and inserting “which involve any one of the following:”;
+
+| | |
+|---|---|
+| Removed | `which are—` |
+| Inserted | `which involve any one of the following:` |
+
+### 16 U.S.C. § 521e
+
+> by striking “parcels” and inserting “Parcels”; and
+
+| | |
+|---|---|
+| Removed | `parcels` |
+| Inserted | `Parcels` |
+
+### 16 U.S.C. § 521e
+
+> by striking “parcels” the first place it appears and inserting “Parcels”; and
+
+| | |
+|---|---|
+| Removed | `parcels` |
+| Inserted | `Parcels` |
+
+### 16 U.S.C. § 521e
+
+> in paragraph (3), by striking “road” and inserting “Road”; and
+
+| | |
+|---|---|
+| Removed | `road` |
+| Inserted | `Road` |
+
+### 16 U.S.C. § 521d
+
+> by striking “convenants” and inserting “covenants”; and
+
+| | |
+|---|---|
+| Removed | `convenants` |
+| Inserted | `covenants` |
+
+### 15 U.S.C. § 5542
+
+> in paragraph (1), by striking “program” and inserting “coordinated program across the Department”;
+
+| | |
+|---|---|
+| Removed | `program` |
+| Inserted | `coordinated program across the Department` |
+
+### 15 U.S.C. § 5542
+
+> in subsection (b)(2), by striking “vector” and all that follows through “architectures” and inserting “computer technologies that show promise of substantial reductions in power requirements and substantial gains in parallelism of multicore processors, concurrency, memory and storage, bandwidth, and reliability”; and
+
+| | |
+|---|---|
+| Removed | `vector” and all that follows through “architectures` |
+| Inserted | `computer technologies that show promise of substantial reductions in power requirements and substantial gains in parallelism of multicore processors, concurrency, memory and storage, bandwidth, and reliability` |
+
+### 42 U.S.C. § 16357
+
+> in subsection (b)(1), by striking “2008” and inserting “2018”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2018` |
+
+### 42 U.S.C. § 16273
+
+> in the section heading by striking “Advanced fuel cycle initiative” and inserting “Fuel cycle research and development”;
+
+| | |
+|---|---|
+| Removed | `Advanced fuel cycle initiative` |
+| Inserted | `Fuel cycle research and development` |
+
+### 15 U.S.C. § 3710a
+
+> in subsection (b), by striking “subsection (a)(1)” each place it appears and inserting “subsection (a)(1)(A)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)(1)` |
+| Inserted | `subsection (a)(1)(A)` |
+
+### 42 U.S.C. § 16352
+
+> in paragraph (1), by striking “Except as provided in paragraphs (2) and (3)” and inserting “Except as provided in paragraphs (2), (3), and (4)”; and
+
+| | |
+|---|---|
+| Removed | `Except as provided in paragraphs (2) and (3)` |
+| Inserted | `Except as provided in paragraphs (2), (3), and (4)` |
+
+### 42 U.S.C. § 16274
+
+> Section 954(d)(4) of the Energy Policy Act of 2005 (42 U.S.C. 16274(d)(4)) is amended by striking “as part of a taking into consideration effort that emphasizes” and inserting “that emphasize”.
+
+| | |
+|---|---|
+| Removed | `as part of a taking into consideration effort that emphasizes` |
+| Inserted | `that emphasize` |
 
 ## Stated, not applied
 
@@ -960,190 +555,100 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 717n` | amend | by amending subsection (b)(2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 717n` | redesignate | by redesignating subsections (d) through (f) as subsections (g) through (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 717n` | insert | by inserting after subsection (c) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824a` | insert | by inserting “(1)” after “(c)”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 824a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824a` | insert | Section 202(d) of the Federal Power Act (16 U.S.C. 824a(d)) is amended by inserting “or municipality” before “engaged in the transmission or sale of electric energy”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 824` | amend | Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended by adding after section 215 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824` | insert | Section 201(b)(2) of the Federal Power Act (16 U.S.C. 824(b)(2)) is amended by inserting “215A,” after “215,” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 824` | insert | Section 201(e) of the Federal Power Act (16 U.S.C. 824(e)) is amended by inserting “215A,” after “215,”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2621` | amend | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) is amended by adding the following at the end: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | amend | Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(c)) is amended by adding the following at the end: “In the case of the standards established by paragraphs (20) through (23) of section 111(d), the refe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2612` | add-at-end | Section 102 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2612) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824` | amend | Part II of the Federal Power Act (16 U.S.C. 824 et seq.), as amended by section 1104, is further amended by adding after section 215A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 185` | replace | by striking “(b)(1) For the purposes of this section Federal lands means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 185` | add-at-end | by striking the period at the end of paragraph (1) and inserting “; and” and by adding at the end of paragraph (1) the following: | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 185` | redesignate | By redesignating subsection (b), as so amended, as subsection (z), and transferring such subsection to appear after subsection (y) of that section. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4332` | insert | By inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1761` | add-at-end | Title V of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1761` | insert | The table of sections for the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761 et seq.), is amended by inserting after the item relating to section 511 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 797` | strike | by striking “and” after “recreational opportunities,”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 797` | insert | by inserting “, and minimizing infringement on the useful exercise and enjoyment of property rights held by nonlicensees” after “aspects of environmental quality”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 803` | insert | in subsection (a)(1), by inserting “, including minimizing infringement on the useful exercise and enjoyment of property rights held by nonlicensees” after “section 4(e)”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 803` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “(b) Any party” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.), as amended by section 1203, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.), as amended by section 1205, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.), as amended by section 1206, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.), as amended by section 1207, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 717b` | add-at-end | Section 3 of the Natural Gas Act (15 U.S.C. 717b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 717b` | add-at-end | Section 3(c) of the Natural Gas Act (15 U.S.C. 717b(c)) is amended by adding at the end the following: “In the case of an application for the importation or exportation of natural gas to or from Canada or Mexico, the Commission shall gra… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824a` | repeal | Section 202(e) of the Federal Power Act (16 U.S.C. 824a(e)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824a` | strike | Section 202(f) of the Federal Power Act (16 U.S.C. 824a(f)) is amended by striking “insofar as such State regulation does not conflict with the exercise of the Commission’s powers under or relating to subsection 202(e)”. | the bill quotes the text struck but describes what replaces it |
+| — | add-at-end | Subtitle C of title V of the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1661) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents for the Energy Independence and Security Act of 2007 is amended by adding after the item relating to section 529 the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 17112` | strike | by striking subsection (b)(3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | replace | by striking subsections (c) through (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15852` | replace | Section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15852` | add-at-end | Section 203 of the Energy Policy Act of 2005 (42 U.S.C. 15852) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | redesignate | by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | replace | by striking paragraphs (3) and (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | add-at-end | in paragraph (7)(C), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6832` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6834` | replace | by striking “(3)(A) Not later than” and all that follows through the end of subparagraph (B) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | in subparagraph (C), by striking “(C) In the budget request” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | by striking “(D) Not later than” and all that follows through the end of the first sentence of clause (i)(III) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6834` | replace | in clause (iii), by striking “(iii) In identifying” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | by striking “(iv) At least once” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | by striking “(v) The Secretary may” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | by striking “(vi) With respect” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | in clause (vii), by striking “(vii) In addition to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6834` | replace | by striking subsections (c) and (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6294` | amend | Section 324(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)) is amended by adding the following at the end: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6296` | add-at-end | Section 326(b) of the Energy Policy and Conservation Act (42 U.S.C. 6296(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | amend | Section 325(f)(4) of the Energy Policy and Conservation Act (42 U.S.C. 6295(f)(4)) is amended by adding after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6294a` | add-at-end | Section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6291` | replace | by striking the subparagraph designation and all that follows through “The term” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | add-at-end | Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6317` | add-at-end | Section 346 of the Energy Policy and Conservation Act (42 U.S.C. 6317) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6371a` | add-at-end | Section 392 of the Energy Policy and Conservation Act (42 U.S.C. 6371a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6832` | replace | by striking paragraph (14) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 4103` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6833` | amend | Section 304 of the Energy Conservation and Production Act (42 U.S.C. 6833) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6836` | amend | Section 307 of the Energy Conservation and Production Act (42 U.S.C. 6836) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8256` | add-at-end | Section 546 of the National Energy Conservation Policy Act (42 U.S.C. 8256) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8258` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8258` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8258` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8287` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8287` | replace | in clause (ii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8287` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8287` | add-at-end | Section 801(a)(2) of the National Energy Conservation Policy Act (42 U.S.C. 8287(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8259` | replace | Section 551(6) of the National Energy Conservation Policy Act (42 U.S.C. 8259(6)) is amended by striking the semicolon at the end and inserting “the term does not include a dam, reservoir, or hydropower facility owned or operated by a Fe… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8287c` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8287c` | replace | in subparagraph (D), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8287c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8253` | add-at-end | Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | redesignate | by redesignating subsections (d) through (h) as subsections (e) through (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17112` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15801` | replace | by striking subsections (c) through (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6864b` | insert | The Energy Conservation and Production Act is amended by inserting after section 414B (42 U.S.C. 6864b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6865` | add-at-end | Section 415 of the Energy Conservation and Production Act (42 U.S.C. 6865) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | strike | Section 305(a)(3) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)) is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6832` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | replace | by striking “(3)(A) Not later than” and all that follows through subparagraph (B) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 6834` | replace | in subparagraph (C), by striking “(C) In the budget request” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17092` | add-at-end | in subsection (a)(3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | replace | by striking subsections (c) and (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | strike | in subparagraph (E)(v), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 6834` | replace | in subparagraph (F), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6834` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5141` | add-at-end | Title III of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5141 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6294a` | amend | Part B of title III of the Energy Policy and Conservation Act is amended by adding after section 324A (42 U.S.C. 6294a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6294a` | insert | The table of contents for the Energy Policy and Conservation Act (42 U.S.C. prec. 6201) is amended by inserting after the item relating to section 324A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6295` | add-at-end | Section 325(f)(4) of the Energy Policy and Conservation Act (42 U.S.C. 6295(f)(4)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6294a` | add-at-end | Section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6296` | add-at-end | Section 326(b) of the Energy Policy and Conservation Act (42 U.S.C. 6296(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6291` | replace | by striking the subparagraph designation and all that follows through “The term” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6311` | replace | Section 340(2)(B) of the Energy Policy and Conservation Act (42 U.S.C. 6311(2)(B)) is amended by striking clause (v) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6313` | add-at-end | Section 342 of the Energy Policy and Conservation Act (42 U.S.C. 6313) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | replace | Section 452 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17111) is amended by striking the section heading and inserting the following: “Future of Industry program”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | redesignate | by inserting before subparagraph (F) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17111` | redesignate | in subparagraph (A) (as redesignated by subparagraph (A)), by inserting before the semicolon at the end the following: “, including assessments of sustainable manufacturing goals and the implementation of information technology advanceme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6341` | add-at-end | Part E of title III of the Energy Policy and Conservation Act (42 U.S.C. 6341) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6341` | add-at-end | The table of contents of the Energy Policy and Conservation Act (42 U.S.C. prec. 6201) is amended by adding at the end of the items relating to part E of title III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16051` | repeal | Sections 706, 711, 712, and 933 of the Energy Policy Act of 2005 (42 U.S.C. 16051, 16061, 16062, 16233) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16191` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16191` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16191` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16191` | redesignate | by redesignating paragraph (4) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 32905 of title 49, United States Code, is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 3339` | strike | in paragraph (2), by striking “; and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 3339` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 6801` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3342` | insert | in paragraph (1), by inserting before the semicolon the following: “, or any real property on which the appraiser makes adjustments using an energy efficiency report”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3342` | insert | in paragraph (2), by inserting after before the period at the end the following: “, or an appraisal on which the appraiser makes adjustments using an energy efficiency report”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 824` | add-at-end | Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6247` | amend | Section 167(b) of the Energy Policy and Conservation Act (42 U.S.C. 6247(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6232` | insert | Section 152(8) of the Energy Policy and Conservation Act (42 U.S.C. 6232(8)) is amended by inserting “terminals,” after “reservoirs,”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 403 of the Bipartisan Budget Act of 2015 (Public Law 114–74; 129 Stat. 589) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 717b` | add-at-end | Section 3 of the Natural Gas Act (15 U.S.C. 717b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Title XVIII of Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 1122) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 5541` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5541` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5541` | redesignate | in paragraph (6) (as redesignated by paragraph (1)), by striking “, acting through the Director of the Office of Science of the Department of Energy”. | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5542` | strike | in subsection (b)(2), by striking “, which may” and all that follows through “architectures”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5542` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5543` | replace | by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15852` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 798` | replace | by striking “Commission may extend the period of a preliminary permit once for not more than 2 additional years beyond the 3 years” and inserting the following: “Commission may— | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 798` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 798` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 808` | replace | by striking “(e) Except” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 808` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 811` | strike | Section 18 of the Federal Power Act (16 U.S.C. 811) is amended by striking the second, third, and fourth sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 823d` | insert | in paragraph (2)(B), in the matter preceding clause (i), by inserting “determined to be necessary” before “by the Secretary”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 823d` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 823d` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 823d` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 823d` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 823d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1003` | add-at-end | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1003` | add-at-end | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) (as amended by section 3007) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1001` | add-at-end | The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17211` | strike | Section 632 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17211) is amended in the matter preceding paragraph (1) by striking “electrical”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17212` | amend | Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17213` | replace | Section 634 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17213) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 2003` | replace | Section 4 of the Methane Hydrate Research and Development Act of 2000 (30 U.S.C. 2003) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 2006` | replace | The Methane Hydrate Research and Development Act of 2000 is amended by striking section 7 (30 U.S.C. 2006) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3161` | strike | Section 3(b)(1) of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 516) is amended by striking “within, along, or near the approximately 7-mile segment of the George Parks Highway that runs through the Park ”. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 3161` | insert | in subparagraph (A), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 3161` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3161` | redesignate | by redesignating subparagraph (C) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3161` | add-at-end | Section 3 of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 515) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 181` | strike | The first section of the Mineral Leasing Act (30 U.S.C. 181) is amended by striking the flush text that follows the last undesignated subsection. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 351` | add-at-end | The Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1602` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1602` | strike | in paragraph (6), by striking “and” after the semicolon at the end; and | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1602` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1601` | replace | Section 2(b) of the National Materials and Minerals Policy, Research and Development Act of 1980 (30 U.S.C. 1601(b)) is amended by striking “(b) As used in this Act, the term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1801` | repeal | The National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5202` | strike | Section 3(d) of the National Superconductivity and Competitiveness Act of 1988 (15 U.S.C. 5202(d)) is amended in the first sentence by striking “, with the assistance of the National Critical Materials Council as specified in the Nationa… | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16291` | add-at-end | Section 961(a) of the Energy Policy Act of 2005 (42 U.S.C. 16291(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16292` | repeal | Sections 962 and 963 of the Energy Policy Act of 2005 (42 U.S.C. 16292, 16293) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15961` | repeal | Subtitle A of title IV of the Energy Policy Act of 2005 (42 U.S.C. 15961 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17251` | strike | in the matter preceding subparagraph (A), by striking the first and second sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17252` | strike | Section 704 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17252) is amended in the first sentence by striking “under section 963(c)(3) of the Energy Policy Act of 2005 (42 U.S.C. 16293(c)(3)), as added by section 702 of … | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16291` | insert | The Energy Policy Act of 2005 (as amended by subsection (a)) is amended by inserting after section 961 (42 U.S.C. 16291) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16271` | replace | Section 951 of the Energy Policy Act of 2005 (42 U.S.C. 16271) is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16022` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16022` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16513` | insert | Section 1703(b)(1) of the Energy Policy Act of 2005 (42 U.S.C. 16513(b)(1)) is amended by inserting “(excluding the burning of commonly recycled paper that has been segregated from solid waste to generate electricity)” after “systems”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 15852` | insert | in subsection (a), by inserting “a number equivalent to” before “the total amount of electric energy”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 15852` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15852` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15852` | insert | by inserting “qualified waste heat resource,” after “municipal solid waste,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 15852` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15852` | redesignate | in the matter preceding subparagraph (A) (as so redesignated), by striking “For purposes” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 15852` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16512` | add-at-end | Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16512` | replace | by striking “(1) In general.—No guarantee” and inserting the following: “Subject to subsection (l), no guarantee”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16512` | redesignate | by redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), and (3), respectively, and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16513` | add-at-end | Section 1703 of the Energy Policy Act of 2005 (42 U.S.C. 16513) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16516` | repeal | Section 1705 of the Energy Policy Act of 2005 (42 U.S.C. 16516) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16511` | add-at-end | Section 1701 of the Energy Policy Act of 2005 (42 U.S.C. 16511) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16512` | insert | in subsection (a), by inserting “or to a State energy financing institution” after “for projects”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16512` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17011` | add-at-end | Subtitle B of title I of the Energy Independence and Security Act of 2007 (42 U.S.C. 17011 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17013` | replace | Section 136 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013) is amended by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16191` | add-at-end | Subtitle A of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16191 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16311` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16311` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16311` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | replace | in subsection (i), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | redesignate | by redesignating subsection (n) as subsection (o); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | insert | by inserting after subsection (m) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16538` | replace | in subparagraph (E), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16391` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16391` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 824o` | add-at-end | Section 215 of the Federal Power Act (16 U.S.C. 824o) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7321` | amend | Section 801 of the Department of Energy Organization Act (42 U.S.C. 7321) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7321` | amend | The item relating to section 801 in the table of contents of such Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | strike | in paragraph (3), in the matter preceding subparagraph (A), by striking “for Science”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7132` | strike | in the matter preceding subparagraph (A), by striking “for Science”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7132` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7132` | replace | in subparagraph (G), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | insert | by inserting after subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7112` | add-at-end | Section 102 of the Department of Energy Organization Act (42 U.S.C. 7112) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7132` | insert | Section 202(b)(4) of the Department of Energy Organization Act (42 U.S.C. 7132(b)(4)) (as amended by section 4404(a)(3)) is amended, in subparagraph (B), by inserting “and applied energy” before “programs of the”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 7133` | add-at-end | Section 203(a) of the Department of Energy Organization Act (42 U.S.C. 7133(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | add-at-end | Chapter 1049 of title 54, United States Code (as amended by section 5001(a)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | insert | The table of sections affected for title 54, United States Code (as amended by section 5001(b)), is amended by inserting after the item relating to section 104908 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | add-at-end | Subchapter II of chapter 1011 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | insert | The table of sections affected for title 54, United States Code, is amended by inserting after the item relating to section 101120 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | add-at-end | Chapter 1049 of title 54, United States Code (as amended by subsection (a)(1)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | insert | The table of sections affected for title 54, United States Code, is amended by inserting after the item relating to section 104908 (as added by subsection (a)(2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | insert | Division A of subtitle I of title 54, United States Code, is amended by inserting after chapter 1007 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | insert | The table of chapters for division A of subtitle I of title 54, United States Code, is amended by inserting after the item relating to chapter 1007 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1722` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7135` | add-at-end | Section 205 of the Department of Energy Organization Act (42 U.S.C. 7135) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7255` | insert | Section 645 of the Department of Energy Organization Act (42 U.S.C. 7255) is amended by inserting “(15 U.S.C. 3301 et seq.) and the Natural Gas Act (15 U.S.C. 717 et seq.)” after “Natural Gas Policy Act of 1978”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16396` | add-at-end | Section 1008 of the Energy Policy Act of 2005 (42 U.S.C. 16396) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16396` | add-at-end | Section 1008 of the Energy Policy Act of 2005 (42 U.S.C. 16396) (as amended by section 4601) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6836` | amend | The item relating to section 307 in the table of contents for the Energy Conservation and Production Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6292` | add-at-end | Section 322 of the Energy Policy and Conservation Act (42 U.S.C. 6292) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6312` | add-at-end | Section 341 of the Energy Policy and Conservation Act (42 U.S.C. 6312) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6316` | amend | Section 345(a)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6316(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | redesignate | by redesignating paragraphs (1), (2), (3), and (4) as paragraphs (2), (3), (5), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | redesignate | by inserting before paragraph (2) (as so redesignated by paragraph (1) of this subsection) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | strike | in subparagraph (C), by striking “and” after “adequate;”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6295` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | redesignate | by inserting after paragraph (3) (as so redesignated by paragraph (1) of this subsection) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6201` | amend | The Energy Policy and Conservation Act (42 U.S.C. 6201 et seq.) is amended by adding after section 324A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6201` | insert | The table of contents for the Energy Policy and Conservation Act (Public Law 94–163; 42 U.S.C. 6201 et seq.) is amended by inserting after the item relating to section 324A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 825q-1` | amend | Section 319 of the Federal Power Act (16 U.S.C. 825q–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6373` | repeal | Part I of title III of the Energy Policy and Conservation Act (42 U.S.C. 6373) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6373` | strike | by striking the item relating to part I of title III; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6373` | strike | by striking the item relating to section 385. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6374d` | strike | by striking subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6374d` | redesignate | by redesignating subsections (b) and (c) as subsections (a) and (b), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6808` | repeal | Section 208 of the Energy Conservation and Production Act (42 U.S.C. 6808) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6808` | strike | The table of contents for the Energy Conservation and Production Act (Public Law 94–385; 90 Stat. 1126) is amended by striking the item relating to section 208. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8232` | repeal | Section 253 of the National Energy Conservation Policy Act (42 U.S.C. 8232) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8232` | strike | The table of contents for the National Energy Conservation Policy Act (Public Law 95–619; 92 Stat. 3206) is amended by striking the item relating to section 253. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8233` | repeal | Section 254 of the National Energy Conservation Policy Act (42 U.S.C. 8233) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1155,11 +660,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 8262e` | strike | Section 159 of the Energy Policy Act of 1992 (42 U.S.C. 8262e) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8262b` | repeal | Section 156 of the Energy Policy Act of 1992 (42 U.S.C. 8262b) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8262b` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 156. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8262f` | replace | Section 160 of the Energy Policy Act of 1992 (42 U.S.C. 8262f) is amended by striking the section designation and heading and all that follows through “(c) Inspector general review.—Each Inspector General” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8262f` | replace | Section 160 of the Energy Policy Act of 1992 (42 U.S.C. 8262f) is amended by striking the section designation and heading and all that follows through “(c) Inspector General Review.—Each Inspector General” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8262f` | replace | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 160 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8262g` | repeal | Section 161 of the Energy Policy Act of 1992 (42 U.S.C. 8262g) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8262g` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 161. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8279` | repeal | Part 5 of title V of the National Energy Conservation Policy Act (42 U.S.C. 8279 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8279` | repeal | Part 5 of title V of the National Energy Conservation Policy Act (42 U.S.C. 8279) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8279` | strike | by striking the item relating to part 5 of title V; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8279` | strike | by striking the item relating to section 571. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8451` | repeal | Section 741 of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8451) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1176,212 +681,112 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 8422` | strike | The table of contents for the Powerplant and Industrial Fuel Use Act of 1978 (Public Law 95–620; 92 Stat. 3289) is amended by striking the item relating to section 808. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8422` | strike | by striking “(a) Generally.—”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 8422` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8501` | strike | in the section heading, by striking “findings and”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8501` | strike | by striking subsection (a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | The table of contents for the Powerplant and Industrial Fuel Use Act of 1978 (Public Law 95–620; 92 Stat. 3289) is amended by striking the item relating to section 742. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 8501` | strike | in the section heading, by striking “Findings and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 8501` | strike | by striking subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8501` | strike | by striking “(b) Purposes.—”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 8521` | repeal | Section 221 of the Emergency Energy Conservation Act of 1979 (42 U.S.C. 8521) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8522` | repeal | Section 222 of the Emergency Energy Conservation Act of 1979 (42 U.S.C. 8522) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8531` | repeal | 241 of the Emergency Energy Conservation Act of 1979 (42 U.S.C. 8531) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8531` | repeal | Section 241 of the Emergency Energy Conservation Act of 1979 (42 U.S.C. 8531) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8501` | replace | by striking the item relating to section 201 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8501` | strike | by striking the items relating to sections 221, 222, and 241. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8811` | repeal | Subtitle A of title II of the Energy Security Act (42 U.S.C. 8811 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8831` | repeal | Subtitle B of title II of the Energy Security Act (42 U.S.C. 8831 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8871` | repeal | Section 271 of the Energy Security Act (42 U.S.C. 8871) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8802` | strike | by striking the items relating to subtitle A and B of title II; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8802` | replace | by striking the item relating to section 204 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8802` | strike | by striking the item relating to section 271. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8802` | strike | by striking paragraph (16); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8802` | redesignate | by redesignating paragraphs (17) through (19) as paragraphs (16) through (18), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8803` | strike | in the section heading, by striking “for subtitles A and B”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8803` | amend | in paragraph (1), by adding “and” after the semicolon at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8803` | replace | in paragraph (2), by striking “; and” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8803` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9704` | repeal | Sections 5 and 6 of the Nuclear Safety Research, Development, and Demonstration Act of 1980 (42 U.S.C. 9704, 9705) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16532` | repeal | Section 5004 of the America COMPETES Act (42 U.S.C. 16532) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16533` | repeal | Section 5005(e) of the America COMPETES Act (42 U.S.C. 16533(e)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16533` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16533` | replace | by striking the subsection designation and heading and all that follows through “There are” in paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16533` | redesignate | by redesignating subparagraphs (A) through (F) as paragraphs (1) through (6), respectively, and indenting appropriately. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16535` | repeal | Section 5008 of the America COMPETES Act (42 U.S.C. 16535) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381l` | repeal | Sections 3181 and 3185 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381l, 42 U.S.C. 7381n) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381r` | repeal | Section 3195 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381r) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16534` | strike | Section 5006 of the America COMPETES Act (42 U.S.C. 16534) is amended by striking subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16537` | strike | Section 5011 of the America COMPETES Act (42 U.S.C. 16537) is amended by striking subsection (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16536` | strike | Section 5009 of the America COMPETES Act (42 U.S.C. 16536) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16274` | insert | in subsection (a), by inserting “nuclear chemistry,” after “nuclear engineering,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16274` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16274` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16311` | add-at-end | Section 971(c) of the Energy Policy Act of 2005 (42 U.S.C. 16311(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16534` | insert | by inserting “average” before “amount”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16534` | insert | by inserting “for each year” before “shall”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16534` | insert | by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16534` | strike | by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16534` | redesignate | by redesignating clause (iii) as clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16534` | replace | by striking “(e)” and all that follows through “To be eligible” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16534` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381a` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381a` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7381a` | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381a` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7381a` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7381a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16536` | strike | in paragraph (1) by striking “, involving” and all that follows through “Secretary”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16536` | replace | in paragraph (2), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16536` | insert | in subsection (d)(1)(B)(i), by inserting “full or partial” before “graduate tuition”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16532` | strike | The table of contents for the America COMPETES ACT (Public Law 110–69; 121 Stat. 573) is amended by striking the items relating to sections 5004 and 5008. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6807` | repeal | Section 207 of the Energy Conservation and Production Act (42 U.S.C. 6807) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6807` | strike | The table of contents for the Energy Conservation and Production Act (Public Law 94–385; 90 Stat. 1126) is amended by striking the item relating to section 207. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6807` | strike | The table of contents for the Energy Conservation and Production Act (Public Law 94–385; 90 Stat. 1125) is amended by striking the item relating to section 207. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8258b` | repeal | Section 550 of the National Energy Conservation Policy Act (42 U.S.C. 8258b) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8253` | strike | The table of contents for the National Energy Conservation Policy Act (Public Law 95–619; 92 Stat. 3206; 106 Stat. 2851) is amended by striking the item relating to section 550. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8253` | strike | Section 543(d)(2) of the National Energy Conservation Policy Act (42 U.S.C. 8253(d)(2)) is amended by striking “, incorporating any relevant information obtained from the survey conducted pursuant to section 550”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 8271` | repeal | Part 4 of title V of the National Energy Conservation Policy Act (42 U.S.C. 8271 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8271` | strike | by striking the item relating to part 4 of title V; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8271` | strike | by striking the items relating to sections 561 through 569. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8271` | strike | by striking the items relating to sections 561 through 570. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8285` | repeal | Subtitle F of title V of the Energy Security Act (42 U.S.C. 8285 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8285` | strike | The table of contents for the Energy Security Act (Public Law 96–294; 94 Stat. 611) is amended by striking the items relating to subtitle F of title V. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8461` | repeal | Subtitle F of title VII of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8461) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8461` | strike | The table of contents for the Powerplant and Industrial Fuel Use Act of 1978 (Public Law 95–620; 92 Stat. 3289) is amended by striking the item relating to subtitle F of title VII. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12001` | repeal | The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 (42 U.S.C. 12001 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5905` | amend | in subparagraph (Q), by adding “and” after the semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5905` | strike | by striking subparagraph (R); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5905` | redesignate | by redesignating subparagraph (S) as subparagraph (R). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13313` | strike | in subsection (b), in the matter preceding paragraph (1), in the first sentence, by striking “, in consultation with” and all that follows through “under section 6 of the Renewable Energy and Energy Efficiency Technology Competitiveness … | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13313` | strike | in subsection (c), by striking “, in consultation with the Advisory Committee,”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 12401` | repeal | The Spark M. Matsunaga Hydrogen Research, Development, and Demonstration Act of 1990 (42 U.S.C. 12401 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13238` | repeal | Section 412 of the Energy Policy Act of 1992 (42 U.S.C. 13238) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13238` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 412. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13239` | repeal | Section 414 of the Energy Policy Act of 1992 (42 U.S.C. 13239) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13239` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 414. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13256` | repeal | Section 506 of the Energy Policy Act of 1992 (42 U.S.C. 13256) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13257` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 506. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13257` | strike | Section 507(m) of the Energy Policy Act of 1992 (42 U.S.C. 13257(m)) is amended by striking “and section 506”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13381` | repeal | Section 1601 of the Energy Policy Act of 1992 (42 U.S.C. 13381) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13382` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 1601. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13382` | strike | Section 1602(a) of the Energy Policy Act of 1992 (42 U.S.C. 13382(a)) is amended, in the matter preceding paragraph (1), in the third sentence, by striking “the report required under section 1601 and”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13383` | repeal | Section 1603 of the Energy Policy Act of 1992 (42 U.S.C. 13383) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13383` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 1603. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13384` | repeal | Section 1604 of the Energy Policy Act of 1992 (42 U.S.C. 13384) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13384` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 1604. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13438` | repeal | Section 2028 of the Energy Policy Act of 1992 (42 U.S.C. 13438) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13438` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 2028. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13454` | repeal | Section 2104 of the Energy Policy Act of 1992 (42 U.S.C. 13454) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13451` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 2104. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13451` | strike | Section 2101(a) of the Energy Policy Act of 1992 (42 U.S.C. 13451(a)) is amended, in the third sentence, by striking “2104,”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13522` | repeal | Section 2302 of the Energy Policy Act of 1992 (42 U.S.C. 13522) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5905` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 2302. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5905` | strike | in subsection (a), in the matter preceding paragraph (1), in the first sentence, by striking “, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5905` | strike | in paragraph (1), in the first sentence, by striking “, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5905` | strike | in paragraph (2), in the second sentence, by striking “, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5905` | strike | in subsection (c), in the first sentence, by striking “, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13411` | strike | Section 2011(c) of the Energy Policy Act of 1992 (42 U.S.C. 13411(c)) is amended, in the second sentence, by striking “, and with the Advisory Board established under section 2302”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13523` | strike | in subsection (a), by striking “, in consultation with the Advisory Board established under section 2302,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13523` | strike | in subsection (c), in the matter preceding paragraph (1), in the first sentence, by striking “, with the advice of the Advisory Board established under section 2302 of this Act,”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13552` | repeal | Section 3014 of the Energy Policy Act of 1992 (42 U.S.C. 13552) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13552` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 3014. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13553` | repeal | Section 3015 of the Energy Policy Act of 1992 (42 U.S.C. 13553) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13553` | strike | The table of contents for the Energy Policy Act of 1992 (Public Law 102–486; 106 Stat. 2776) is amended by striking the item relating to section 3015. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1338` | add-at-end | Chapter 1049 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `54 U.S.C. § 104907` | insert | The table of sections for chapter 1049 of title 54, United States Code, is amended by inserting after the item relating to section 104907 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2103c` | strike | in subsection (c)(1), by striking “through September 30, 2018”. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 2103c` | replace | by striking the second sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2103c` | add-at-end | Section 200306 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2103c` | add-at-end | Section 200306 of title 54, United States Code (as amended by subsection (c)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 303102 of title 54, United States Code, is amended by striking “of fiscal years 2012 to 2015” and inserting “fiscal year”. | the bill names no machine-readable US Code section |
-| `25 U.S.C. § 3502` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3502` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | insert | in the matter preceding subparagraph (A), by inserting “, intertribal organization,” after “Indian tribe”; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3502` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | insert | in paragraph (1), by inserting “or a tribal energy development organization” after “Indian tribe”; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3502` | strike | in subparagraph (A), by striking “or”; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3502` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3503` | insert | in paragraph (2)(B), by inserting “or tribal energy development organization” after “Indian tribe”. | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 81` | strike | in subparagraph (A), by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 81` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 81` | insert | by inserting “, at least a portion of which have been” after “energy resources”; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 81` | insert | by inserting “or produced from” after “developed on”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 81` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 81` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | replace | by striking “(2)(A)” and all that follows through the end of subparagraph (A) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | by striking “(B)” and all that follows through clause (ii) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | strike | by striking subclauses (I), (II), (V), (VIII), and (XV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | redesignate | by redesignating clauses (III), (IV), (VI), (VII), (IX) through (XIV), and (XVI) as clauses (I), (II), (III), (IV), (V) through (X), and (XI), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | by striking “or tribal”; and | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | by striking clauses (i) and (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | redesignate | by redesignating clauses (iii) through (v) as clauses (ii) through (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | redesignate | by inserting before clause (ii) (as redesignated by subclause (II)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | replace | in paragraph (4), by striking “date of disapproval” and all that follows through the end of subparagraph (C) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | replace | by striking “(B) Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “to perform the obligations of the Secretary under this section and” before “to ensure”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 450` | add-at-end | in subparagraph (D), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | replace | in clause (i), by striking “determine” and all that follows through the end of the clause and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (A) through (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450` | amend | in clause (ii), by adding “and” after the semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | redesignate | by redesignating subsection (g) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3501` | redesignate | by redesignating paragraphs (9) through (12) as paragraphs (10) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 477` | redesignate | by striking paragraph (12) (as redesignated by paragraph (1)) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3504` | replace | by striking “(3) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | strike | by striking “for approval”; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | replace | in paragraph (4), by striking “(4) If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | replace | by striking “(5) If an Indian tribe” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | replace | by striking “(6)(A) In carrying out” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | replace | by striking “(7)(A) In this paragraph” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | strike | in subclause (I), by striking “approved”; and | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3504` | strike | by striking “approval of” in the first place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1609` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 4103` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6863` | strike | by striking “on the basis of his determination”; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 3501` | add-at-end | Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 415` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 415` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 415` | insert | Subsection (a) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(a)), is amended in the second sentence by inserting “, land held in trust for the Crow Tribe of Montana” after “Devils Lake Sioux Reservation”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 9604` | strike | in subparagraph (G), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 9604` | replace | in subparagraph (H), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | redesignate | by redesignating paragraphs (4) through (9) and (10) through (12) as paragraphs (5) through (10) and (13) through (15), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | add-at-end | Section 104(k)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | strike | by striking subclause (III); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | redesignate | by redesignating subclauses (IV) and (V) as subclauses (III) and (IV), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | redesignate | by redesignating clause (iii) as clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | replace | by striking “The Administrator may provide,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 9604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | redesignate | Section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) is amended by inserting after paragraph (10) (as redesignated by section 7003(1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | insert | Section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as amended by section 7008) is amended by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | redesignate | Paragraph (15) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 7003(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking section 2(d); and | the bill names no machine-readable US Code section |
-| — | amend | by adding the following new section at the end: | the bill names no machine-readable US Code section |
-| — | insert | Section 104(a)(5) of the Northern Arizona Land Exchange and Verde River Basin Partnership Act of 2005 (Public Law 109–110; 119 Stat. 2356) is amended by inserting before the period at the end “, which, notwithstanding section 102(a)(4)(B… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “120 acres” and inserting “107 acres”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (E)(ii), by inserting “improvements,” after “buildings,”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “As soon as practicable after the date of enactment of this Act, the Secretary and Mt. Hood Meadows shall select” and inserting “Not later than 120 days after the date of the enactment of the Energy Policy Mode… | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), in the matter preceding subclause (I), by striking “An appraisal under clause (i) shall” and inserting “Except as provided under clause (iii), an appraisal under clause (i) shall assign a separate value to each tax lot to… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 6212` | repeal | Section 103 of the Energy Policy and Conservation Act (42 U.S.C. 6212) and the item relating thereto in the table of contents of that Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2621` | add-at-end | Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112(b) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | by adding at the end the following: “In the case of the standard established by paragraph (20) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the da… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | strike | Section 1254(b) of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 971) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2622` | add-at-end | Section 112 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2634` | add-at-end | Section 124 of the Public Utility Regulatory Policy Act of 1978 (16 U.S.C. 2634) is amended by adding at the end the following: “In the case of the standard established by paragraph (20) of section 111(d), the reference contained in this… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17211` | strike | Section 632 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17211) is amended in the matter preceding paragraph (1) by striking “electrical”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17212` | amend | Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17213` | amend | Section 634(b) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17213(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7124` | strike | Section 204(e) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7124(e)) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7124` | replace | Section 204 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7124) is amended by striking subsection (f) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7125` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7125` | add-at-end | Section 205(e)(3) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(e)(3)) is amended by adding at the end the following new sentence: “In the case of a resource advisory committee consisting of few… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7125` | insert | in paragraph (3), by inserting before the period at the end the following: “, consistent with the requirements of paragraph (4)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7125` | replace | by striking paragraph (4) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7121` | add-at-end | Title II of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7142` | insert | by inserting “and law enforcement patrols” after “including firefighting”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 7142` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 7142` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7142` | insert | by inserting after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7112` | add-at-end | Section 102 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7112) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | redesignate | by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | insert | by inserting after subsection (g) the following new subsection (h): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | replace | Section 604(g)(2) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(g)(2)) is amended by striking subparagraphs (A) and (B) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | insert | in paragraph (2)(B), by inserting “subject to paragraph (3)(A),” before “shall”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6591c` | replace | in paragraph (3)(A), by striking “services received by the Chief or the Director” and all that follows through the period at the end and inserting the following: “services and in-kind resources received by the Chief or the Director under… | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6591c` | add-at-end | Section 604(d) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | replace | Section 604(e)(2)(B) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(e)(2)(B)), as amended by section 503, is further amended by striking “appropriation at the project site from which the monies are collected or at anothe… | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3115a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3104` | add-at-end | Section 305 of the National Indian Forest Resources Management Act (25 U.S.C. 3104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 576b` | replace | Section 3(a) of the Act of June 9, 1930 (commonly known as the Knutson-Vandenberg Act; 16 U.S.C. 576b(a)), is amended by striking “The Secretary” and all that follows through “any purchaser” and inserting the following: “The Secretary of… | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 576b` | replace | by striking “Such deposits” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 576b` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 576b` | redesignate | by inserting before subsection (d), as so redesignated, the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | replace | by striking “(2)” and all that follows through “means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5122` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5170` | add-at-end | The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | redesignate | by redesignating paragraphs (1) through (3) as paragraphs (4) through (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | replace | in the first sentence, by striking “In order to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | replace | in the second sentence, by striking “Except as provided herein” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | insert | by inserting before paragraph (3) (as so designated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | in paragraph (5) (as so designated), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 3407 of the Central Valley Project Improvement Act (Public Law 102–575; 106 Stat. 4726) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2)(C) to read: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (f), by striking the period at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (G) and inserting the following: | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amended by adding at the end the following: “No land or interest in land outside of the exterior boundary of any Federally administered area may be acquired by t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (12), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (7) the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (l), by striking “and,”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (m), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 509` | insert | by inserting after section 5A (43 U.S.C. 509) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2602` | replace | in clause (vi) by striking the period at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 4162` | insert | by inserting after clause (vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669a` | redesignate | by redesignating paragraphs (2) through (8) as paragraphs (3) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669a` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669g` | replace | by striking “(b) Each State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669g` | replace | in the second sentence, by striking “The non-Federal share” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669g` | replace | in the third sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669g` | insert | by inserting after paragraph (1) (as designated by paragraph (1) of this subsection) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669h-1` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669h-1` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669h-1` | replace | by striking “Amounts made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1374` | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 661` | add-at-end | The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 668dd` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 668dd` | insert | by inserting after subparagraph (B), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 704` | replace | Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | Subchapter II of chapter 1015 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | The table of sections for title 54, United States Code, is amended by inserting after the item relating to section 101512 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | replace | in subsection (a), by striking “section 206” and all that follows through the period and inserting the following: “section 206— | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 2305` | amend | by amending section 206(c)(1) (43 U.S.C. 2305(c)(1)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B), (C), and (D) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | insert | by inserting “for the activities outlined in paragraph (2)” after “generated”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 2305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2305` | amend | in section 206(f) (43 U.S.C. 2305(f)), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 2306` | replace | by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 2306` | insert | by inserting “Public Law 105–263;” before “112 Stat.”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 2306` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4211` | add-at-end | Part I (16 U.S.C. 4211 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4223` | add-at-end | Section 2203 (16 U.S.C. 4223) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4211` | redesignate | Section 2101 (16 U.S.C. 4211) is amended by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subsection (c)(1), by striking “, United States Code”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (i); and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
@@ -1389,121 +794,107 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (d)(3), by striking “United States Code,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “of section 2412 of title 28, United States Code,” and inserting “of this section”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “of such title” and inserting “of this title”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1304 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 460l-6d` | redesignate | by redesignating subsections (a) through (f) as subsections (b) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 460l-6d` | redesignate | by inserting before subsection (b) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 460l-6d` | strike | in the first sentence, by striking “of the Interior or the Secretary of Agriculture (hereafter individually referred to as the Secretary with respect to land (except land in a System unit as defined in section 100102 of title 54, United … | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 460l-6d` | insert | in subparagraph (B), by inserting “, except in the case of film crews of 3 or fewer individuals” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 460l-6d` | redesignate | in subsection (d) (as so redesignated), in the heading, by inserting “Commercial” before “Still”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 6801` | redesignate | in paragraph (1) of subsection (f) (as so redesignated), by inserting “in accordance with the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801 et seq.),” after “without further appropriation,”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 460l-6d` | replace | by striking “The Secretary shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 460l-6d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 460l-6d` | strike | by striking section 100905; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 460l-6d` | strike | in the table of sections for chapter 1009 of title 54, United States Code, by striking the item relating to section 100905. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Chapter 1049 of title 54, United States Code (as amended by section 5001(a)), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 1049 of title 54, United States Code (as amended by section 5001(b)), is amended by inserting after the item relating to section 104908 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 1049 of title 54, United States Code (as amended by section 6231(a)), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 1049 of title 54 (as amended by section 6231(b)), United States Code, is amended by inserting after the item relating to section 104909 the following: | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 2304` | strike | in subsection (a), by striking “(as in effect on the date of enactment of this Act)”; and | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 2304` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 2305` | strike | in section 206 (43 U.S.C. 2305), by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 2306` | replace | by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 2306` | insert | by inserting “Public Law 105–263;” before “112 Stat.”; and | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 2306` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669a` | redesignate | by redesignating paragraphs (2) through (8) as paragraphs (3) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669a` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669g` | replace | by striking “(b) Each State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | replace | in the second sentence, by striking “The non-Federal share” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | replace | in the third sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | insert | by inserting after paragraph (1) (as designated by subparagraph (A)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | replace | by striking “Amounts made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 4406` | strike | in paragraph (4), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 4406` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 4406` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | insert | in paragraph (2), by inserting “, municipal, industrial, and domestic water supply and use purposes, especially during drought years, including reducing the frequency and severity of water supply shortages for pro-ratable irrigation enti… | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 619` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | redesignate | by redesignating paragraph (3) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | redesignate | by inserting after paragraph (4) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | insert | by inserting “an increase in” before “voluntary”; and | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 619` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 619` | redesignate | by inserting after paragraph (6) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | redesignate | in paragraph (8) (as redesignated by paragraph (6)), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 619` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 839b` | redesignate | by redesignating paragraphs (6), (7), (8), (9), (10), (11), (12), (13), and (14) as paragraphs (8), (10), (11), (13), (14), (15), (16), (18), and (19), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 839b` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 839b` | redesignate | by inserting after paragraph (8) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 839b` | redesignate | by inserting after paragraph (11) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 839b` | redesignate | by inserting after paragraph (16) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in the second sentence, by striking “title” and inserting “section”; and | the bill names no machine-readable US Code section |
-| — | strike | in the third sentence, by striking “within 5 years of the date of enactment of this Act”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “irrigation” and inserting “the number of irrigated acres”; | the bill names no machine-readable US Code section |
-| — | replace | in each of subparagraphs (A) through (D), by striking the comma at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking the comma at the end and inserting “; and”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F), by striking “Department of Wildlife of the State of Washington, and” and inserting “Department of Fish and Wildlife of the State of Washington.”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (G); | the bill names no machine-readable US Code section |
-| — | replace | in each of subparagraphs (A) through (C), by striking the comma at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “, and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | Section 926A of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for such chapter is amended in the item relating to section 926A by striking “firearms” and inserting “firearms or ammunition”. | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 3501` | add-at-end | Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13201` | add-at-end | The table of contents of the Energy Policy Act of 1992 (42 U.S.C. 13201 note) is amended by adding at the end of the items relating to title XXVI the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4332` | add-at-end | Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is amended by inserting “(a) In general.—” before the first sentence, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3115a` | insert | The Tribal Forest Protection Act of 2004 is amended by inserting after section 2 (25 U.S.C. 3115a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1101a` | insert | Section 303903(3) of title 54, United States Code, is amended by inserting “to Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a))) and Asian American and Native American P… | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 8903` | replace | Section 2860(c) of the Military Construction Authorization Act for Fiscal Year 2013 (division B of Public Law 112–239; 40 U.S.C. 8903 note) is amended by striking the period at the end and inserting the following: “, except that, under s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking section 2(d); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (d), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking the first sentence and inserting the following: “To participate in the Basin Conservation Program, as described in subsection (b), an entity shall submit to the Secretary a proposed water conservation plan.”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “purchase or lease” each place it appears and inserting “purchase, lease, or management”; and | the bill names no machine-readable US Code section |
-| — | replace | in the third sentence, by striking “made immediately upon availability” and all that follows through “Committee” and inserting “continued as needed to provide water to be used by the Yakima Project Manager as recommended by the System Op… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (j)(4), in the first sentence, by striking “initial acquisition” and all that follows through “flushing flows” and inserting “acquisition of water from willing sellers or lessors specifically to provide improved instream fl… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(2), in the first sentence, by striking “not more than $23,000,000” and inserting “not more than $100,000,000”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by striking the subsection heading and inserting “Redesignation of Yakama Indian Nation to Yakama Nation.—”; | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “deemed to be a reference to the Confederated Tribes and Bands of the Yakama Indian Nation.” and inserting “deemed to be a reference to the Confederated Tribes and Bands of the Yakama Nation.”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “additional” after “secure”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “flushing” and inserting “pulse”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “uses” and inserting “uses, in addition to the quantity of water provided under the treaty between the Yakama Nation and the United States”; | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (ii); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (iii) as clause (ii); and | the bill names no machine-readable US Code section |
-| — | redesignate | in clause (ii) (as so redesignated) by inserting “and water rights mandated” after “goals”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B)(i), in the first sentence, by inserting “in proportion to the funding received” after “Program”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b) (as amended by section 6322(a)(2)), in the second sentence, by striking “instream flows for use by the Yakima Project Manager as flushing flows or as otherwise” and inserting “fishery purposes, as”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 1206(a)(1) of Public Law 103–434 (108 Stat. 4560), is amended, in the matter preceding subparagraph (A), by striking “at September” and all that follows through “to—” and inserting “not more than $12,000,000 to—”. | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “supplies” and inserting “management”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding paragraph (1), by striking “supplies” and inserting “management”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “and water supply entities” after “owners”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “that choose not to participate or opt out of tributary enhancement projects pursuant to this section” after “water right owners”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting “nonparticipating” before “tributary water users”; | the bill names no machine-readable US Code section |
-| — | replace | by striking the paragraph designation and all that follows through “(but not limited to)—” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting before the semicolon at the end the following: “, including irrigation efficiency improvements (in coordination with programs of the Department of Agriculture), consolidation of diversions or administrat… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (C) through (F) as subparagraphs (E) through (H), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E) (as redesignated by clause (iv)), by striking “ground water” and inserting “groundwater recharge and”; | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (G) (as redesignated by clause (iv)), by inserting “or transfer” after “purchase”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (H) (as redesignated by clause (iv)), by inserting “stream processes and” before “stream habitats”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “the Taneum Creek study” and inserting “studies under this subsection”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “and economic” and inserting “, infrastructure, economic, and land use”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (3), in the first sentence, by inserting “of each tributary or group of tributaries” after “study”; | the bill names no machine-readable US Code section |
-| — | insert | in the heading, by inserting “and nonsurface storage” after “nonstorage”; and | the bill names no machine-readable US Code section |
-| — | insert | in the matter preceding paragraph (1), by inserting “and nonsurface storage” after “nonstorage”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (e) as subsection (d); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and implementation” after “investigation”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “other” before “Yakima River”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and other water supply entities” after “owners”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking the second sentence. | the bill names no machine-readable US Code section |
-| — | insert | Section 1208(d) of Public Law 103–434 (108 Stat. 4562; 114 Stat. 1425) is amended by inserting “negatively” before “affected”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1210(c) of Public Law 103–434 (108 Stat. 4564) is amended by striking “$100,000” and inserting “$200,000”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1211 of Public Law 103–434 (108 Stat. 4564) is amended by striking “$2,000,000” and inserting “$5,000,000”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 619` | add-at-end | Title XII of Public Law 103–434 (108 Stat. 4550) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 485h` | redesignate | by redesignating sections 4 through 6 as sections 5 through 7, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 485h` | insert | by inserting after section 3 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 10(h) of Public Law 86–787 (74 Stat. 1026; 120 Stat. 1474) is amended by striking “10 years” and inserting “20 years”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 410qqq` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a) of the first section, by striking “the map entitled Martin Luther King, Junior, National Historic Site Boundary Map, number 489/80,013B, and dated September 1992” and inserting “the map entitled Martin Luther King, Jr. … | the bill names no machine-readable US Code section |
+| — | replace | by striking “Martin Luther King, Junior, National Historic Site” each place it appears and inserting “Martin Luther King, Jr. National Historical Park”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “national historic site” each place it appears and inserting “national historical park”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “historic site” each place it appears and inserting “historical park”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “historic sites” in section 2(a) and inserting “historical parks”. | the bill names no machine-readable US Code section |
+| — | amend | Section 4 of the Delaware Water Gap National Recreation Area Improvement Act (Public Law 109–156) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before paragraph (2) (as so redesignated by paragraph (1) of this section) the following: | the bill names no machine-readable US Code section |
+| — | repeal | Section 702 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333) is repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1 of the Act titled “An Act to authorize the erection of a memorial on Federal Land in the District of Columbia and its environs to honor members of the Armed Forces of the United States who served in the Korean War”, approved Oc… | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 521e` | replace | by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521e` | replace | by striking “; or” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 521e` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521d` | replace | by striking “The Secretary is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 521d` | replace | by striking “The Secretary shall insert” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 484a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 715c` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 715c` | strike | by striking paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 715c` | redesignate | by redesignating paragraphs (10) through (12) as paragraphs (9) through (11), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7139` | add-at-end | Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5541` | replace | Section 2 of the Department of Energy High-End Computing Revitalization Act of 2004 (15 U.S.C. 5541) is amended by striking paragraphs (1) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5542` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 5542` | replace | by striking the period at the end of paragraph (2) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 5542` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5542` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2053` | add-at-end | Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) is amended by adding at the end the following: “For purposes of this section, with respect to international research projects, the term private facilities or laboratories shall… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16358` | amend | Section 994 of Energy Policy Act of 2005 (42 U.S.C. 16358) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16357` | amend | by amending the section heading to read as follows: “Strategy for facilities and infrastructure”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16357` | amend | The item relating to section 993 in the table of contents of the Energy Policy Act of 2005 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16211` | amend | Section 921 of the Energy Policy Act of 2005 (42 U.S.C. 16211) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | amend | by amending the section heading to read as follows: “Electric transmission and distribution research and development”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | amend | The item relating to section 925 in the table of contents of the Energy Policy Act of 2005 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | strike | by striking subsections (b) through (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | redesignate | by redesignating subsection (e) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | add-at-end | Section 951 of the Energy Policy Act of 2005 (42 U.S.C. 16271) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | replace | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is amended by striking subsections (c) through (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | add-at-end | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | strike | by striking subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | redesignate | by redesignating subsections (b) through (d) as subsections (d) through (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | redesignate | by inserting before subsection (d), as so redesignated by paragraph (3) of this subsection, the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | amend | The item relating to section 953 in the table of contents of the Energy Policy Act of 2005 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | add-at-end | Subtitle E of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16271 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | add-at-end | The table of contents of the Energy Policy Act of 2005 is amended by adding at the end of the items for subtitle E of title IX the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16191` | amend | Section 911 of the Energy Policy Act of 2005 (42 U.S.C. 16191) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16192` | repeal | Section 912 of the Energy Policy Act of 2005 (42 U.S.C. 16192) and the item relating thereto in the table of contents of that Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16194` | strike | Section 914 of the Energy Policy Act of 2005 (42 U.S.C. 16194) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16195` | repeal | Section 915 of the Energy Policy Act of 2005 (42 U.S.C. 16195) and the item relating thereto in the table of contents of that Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | insert | by inserting “and” at the end of paragraph (2)(B); | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16197` | replace | by striking “; and” at the end of paragraph (3) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16197` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | strike | by striking paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16197` | strike | by striking subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | amend | Section 931 of the Energy Policy Act of 2005 (42 U.S.C. 16231) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16232` | amend | Section 932 of the Energy Policy Act of 2005 (42 U.S.C. 16232) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16234` | repeal | Section 934 of the Energy Policy Act of 2005 (42 U.S.C. 16234) and the item relating thereto in the table of contents of that Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16235` | repeal | Section 935 of the Energy Policy Act of 2005 (42 U.S.C. 16235) and the item relating thereto in the table of contents of that Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16291` | amend | Section 961 of Energy Policy Act of 2005 (42 U.S.C. 16291) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16292` | strike | in paragraph (10), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16292` | replace | in paragraph (11), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16292` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16292` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16292` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16292` | redesignate | in subsection (c) (as so redesignated) by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16293` | amend | by amending paragraph (6) of subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16293` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16538` | amend | by amending paragraph (1) of subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16538` | insert | in subsection (i)(1), by inserting “ARPA–E shall not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commerciall… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16538` | insert | in subsection (l)(1), by inserting “and once every 6 years thereafter,” after “operation for 6 years,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16538` | redesignate | by redesignating subsection (n) as subsection (o) and inserting after subsection (m) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 3710a` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting the subparagraphs appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 3710a` | replace | by striking “Each Federal agency” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 3710a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 3703` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | amend | Section 951 of the Energy Policy Act of 2005 (42 U.S.C. 16271) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | strike | Section 953(a) of the Energy Policy Act of 2005 (42 U.S.C. 16273(a)) is amended by striking “, acting through the Director of the Office of Nuclear Energy, Science and Technology,”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16275` | strike | by striking subsections (c) and (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16275` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16276` | strike | Section 956 of the Energy Policy Act of 2005 (42 U.S.C. 16276) is amended by striking “, acting through the Director of the Office of Nuclear Energy, Science and Technology,”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16277` | amend | Section 957 of the Energy Policy Act of 2005 (42 U.S.C. 16277) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | add-at-end | Subtitle E of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16271 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16271` | add-at-end | Subtitle E of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16271 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | The table of contents for the Energy Policy Act of 2005 is amended by striking the item relating to section 957 and inserting the following: | the bill names no machine-readable US Code section |

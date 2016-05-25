@@ -1,7 +1,7 @@
 ---
 measure: S. 2012
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2012
@@ -506,7 +506,7 @@ North American Energy Security and Infrastructure Act of 2016
 
 - Senate — Energy and Natural Resources Committee
 
-## Recorded votes (17)
+## Recorded votes (20)
 
 - 2016-01-28 — [Senate 114-2-7](votes/senate-114-2-0007.md) — On the Amendment — **Amendment Agreed to** (87–4)
 - 2016-01-28 — [Senate 114-2-8](votes/senate-114-2-0008.md) — On the Amendment — **Amendment Agreed to** (62–29)
@@ -525,6 +525,9 @@ North American Energy Security and Infrastructure Act of 2016
 - 2016-04-19 — [Senate 114-2-52](votes/senate-114-2-0052.md) — On the Amendment — **Amendment Rejected** (50–47)
 - 2016-04-19 — [Senate 114-2-53](votes/senate-114-2-0053.md) — On the Motion — **Motion Rejected** (33–64)
 - 2016-04-20 — [Senate 114-2-54](votes/senate-114-2-0054.md) — On Passage of the Bill — **Bill Passed** (85–12)
+- 2016-05-25 — [House 114-2-249](votes/house-114-2-0249.md) — On Motion to Commit with Instructions — **Failed** (178–239)
+- 2016-05-25 — [House 114-2-250](votes/house-114-2-0250.md) — On Passage — **Passed** (241–178)
+- 2016-05-25 — [House 114-2-264](votes/house-114-2-0264.md) — On Motion to Instruct Conferees — **Failed** (205–212)
 
 ## Actions
 
@@ -1257,3 +1260,32 @@ North American Energy Security and Infrastructure Act of 2016
 - 2016-04-20 — Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the measure (Record Vote No. 17) rendered moot in Senate.
 - 2016-04-20 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 54. (text: CR S2208-2289)
 - 2016-04-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 54.(text: CR S2208-2289)
+- 2016-04-21 — Held at the desk.
+- 2016-04-21 — Message on Senate action sent to the House.
+- 2016-04-21 — Received in the House.
+- 2016-05-24 — Rules Committee Resolution H. Res. 744 Reported to House. The resolution provides for consideration of S. 2012 and H.R. 5233.
+- 2016-05-25 — Considered as unfinished business. (consideration: CR H3217-3218, H3219-3220)
+- 2016-05-25 — Considered under the provisions of rule H. Res. 744. (consideration: CR H3117-3208; text of amendment in the nature of a substitute: CR H3117-3198)
+- 2016-05-25 — DEBATE - The House proceeded with 10 minutes of debate on the Peters (CA) motion to commit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section pertaining to consideration of impacts on climate change. Subsequently, the reservation was removed.
+- 2016-05-25 — DEBATE - The House proceeded with an hour of debate on the motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House at the conference on disagreeing votes of the two Houses on the House amendment to the bill S. 2012 to be instructed to insist on inclusion of section 5002.
+- 2016-05-25 — DEBATE - The House proceeded with one hour of debate on S. 2012, as amended.
+- 2016-05-25 — House amendment offered
+- 2016-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-25 — Mr. Grijalva moved that the House instruct conferees. (consideration: CR H3219; text: CR H3219)
+- 2016-05-25 — Mr. Peters moved to commit with instructions to the Committee on Energy and Commerce. (consideration: CR H3207; text: CR H3207)
+- 2016-05-25 — ORDER OF PROCEDURE - Mr. Whitfield asked unanimous consent that the question of adoption of a motion to commit on S. 2012 may be subject to postponement as though under clause 8 or rule 20. Agreed to without objection.
+- 2016-05-25 — On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote.
+- 2016-05-25 — On motion that the House instruct conferees Failed by the Yeas and Nays: 205 - 212 (Roll no. 264). (consideration: CR H3260-3261)
+- 2016-05-25 — On motion to commit with instructions Failed by the Yeas and Nays: 178 - 239 (Roll no. 249). (consideration: CR H3217-3218)
+- 2016-05-25 — On passage Passed by recorded vote: 241 - 178 (Roll no. 250).
+- 2016-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to instruct, the Chair put the question on the motion and by voice vote, announced that the nays had prevailed. Mr. Grijalva demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct until a time to be announced.
+- 2016-05-25 — POSTPONED PROCEEDINGS - Pursuant to clause 8 of rule 20 and a previous order of the House, further proceedings on the Peters (CA) motion to commit were postponed until a time to be announced.
+- 2016-05-25 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 178 (Roll no. 250).
+- 2016-05-25 — Pursuant to the provisions of H.Res. 744, Mr. Barton moved that the House insist upon its amendment, and request a conference.
+- 2016-05-25 — The previous question on the motion to commit with instructions was ordered without objection. (consideration: CR H3208)
+- 2016-05-25 — The previous question was ordered on S. 2012, as amended, pursuant to the rule. (consideration: CR H3207)
+- 2016-05-25 — The previous question was ordered without objection. (consideration: CR H3219)
+- 2016-05-25 — The previous question was ordered without objection. (consideration: CR H3219)
+- 2016-05-25 — The resolution provides for consideration of S. 2012 and H.R. 5233.
+- 2016-05-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Grijalva motion to instruct conferees to S. 2012.
