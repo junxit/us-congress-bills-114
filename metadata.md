@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5077
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5077
@@ -20,9 +20,10 @@ Intelligence Authorization Act for Fiscal Year 2017
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Intelligence Authorization Act for Fiscal Year 2017
 - 2016-05-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 35, 1 Present (Roll no. 235). (text: CR 5/23/2016 H2896-2901)
 - 2016-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 35, 1 Present (Roll no. 235).(text: CR 5/23/2016 H2896-2901)
+- 2016-05-25 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
