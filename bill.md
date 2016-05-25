@@ -1,0 +1,16 @@
+---
+legis-num: S. 2988
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2988
+
+> To extend the sunset of the Iran Sanctions Act of 1996 in order to effectuate the Joint Comprehensive Plan of Action in guaranteeing that all nuclear material in Iran remains in peaceful activities.
+
+## § 1. Extension of sunset of Iran Sanctions Act of 1996 in order to effectuate the Joint Comprehensive Plan of Action in guaranteeing that all nuclear material in Iran remains in peaceful activities
+
+Subsection (b) of section 13 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended to read as follows:
+
+> - **(b)** *Sunset* This Act shall cease to be effective on the date on which the President certifies to Congress that the Director General of the International Atomic Energy Agency has reached a broader conclusion (as defined by the Director General) that all nuclear material in Iran remains in peaceful activities.
