@@ -1,0 +1,25 @@
+---
+legis-num: S. 2978
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2978
+
+> To amend title XI of the Social Security Act to exempt certain transfers used for educational purposes from manufacturer transparency reporting requirements.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Continuing Physician Education and Patient Care Act”.
+
+## § 2. Exempting from manufacturer transparency reporting certain transfers used for educational purposes
+
+- **(a)** *In general* Section 1128G(e)(10)(B) of the Social Security Act (42 U.S.C. 1320a–7h(e)(10)(B)) is amended—
+  - **(1)** in clause (iii), by inserting “, including peer-reviewed journals, journal reprints, journal supplements, medical conference reports, and medical textbooks” after “patient use”; and
+  - **(2)** by adding at the end the following new clause:
+    > - **(xiii)** In the case of a covered recipient who is a physician, an indirect payment or transfer of value to the covered recipient—
+    >   - **(I)** for speaking at, or preparing educational materials for, an educational event for physicians or other health care professionals that does not commercially promote a covered drug, device, biological, or medical supply; or
+    >   - **(II)** that serves the sole purpose of providing the covered recipient with medical education, such as by providing the covered recipient with the tuition required to attend an educational event or with materials provided to physicians at an educational event.
+
+- **(b)** *Effective date* The amendments made by this section shall apply with respect to transfers of value made on or after the date of the enactment of this Act.
