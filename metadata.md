@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4605
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4605
@@ -45,3 +45,12 @@ To designate the facility of the United States Postal Service located at 615 6th
 - 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2016-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2016-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3378)
+- 2016-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3378)
+- 2016-05-27 — Message on Senate action sent to the House.
+- 2016-06-03 — Presented to President.
+- 2016-06-03 — Presented to President.
+- 2016-06-13 — Became Public Law No: 114-177.
+- 2016-06-13 — Became Public Law No: 114-177.
+- 2016-06-13 — Signed by President.
+- 2016-06-13 — Signed by President.
