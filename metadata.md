@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 897
@@ -63,3 +63,4 @@ Zika Vector Control Act
 - 2016-05-24 — Resolution provides for consideration of H.R. 897 and the Senate amendment to H.R. 2576.
 - 2016-05-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3045)
 - 2016-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H3044)
+- 2016-05-25 — Received in the Senate.
