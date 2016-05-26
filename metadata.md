@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4909
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4909
@@ -395,3 +395,4 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-05-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2811)
 - 2016-05-18 — The previous question was ordered pursuant to the rule. (consideration: CR H2809)
 - 2016-05-18 — The title of the measure was amended. Agreed to without objection.
+- 2016-05-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
