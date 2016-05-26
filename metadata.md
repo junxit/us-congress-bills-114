@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2577
 congress: 114
-version: Public Print
+version: Engrossed Amendment House
 ---
 
 # H.R. 2577
@@ -1382,3 +1382,14 @@ Military  Construction,  Veterans  Affairs,  and  Related  Agencies  Appropriati
 - 2016-05-19 — Senate amendment submitted
 - 2016-05-19 — Senate amendment submitted
 - 2016-05-19 — Senate amendment submitted
+- 2016-05-23 — Message on Senate action sent to the House.
+- 2016-05-26 — DEBATE - The House proceeded with one hour of debate on the motion to go to conference on H.R. 2577.
+- 2016-05-26 — House agreed to Senate amendment with amendment pursuant to H.Res. 751 (consideration: CR H3284)
+- 2016-05-26 — Message on House action received in Senate and at desk: House amendment to Senate amendment and House requests a conference.
+- 2016-05-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-05-26 — Mr. Rogers (KY) moved that the House insist upon its amendment to the Senate amendment, and request a conference. (consideration: CR H3284)
+- 2016-05-26 — On motion that the House insist upon its amendment to the Senate amendment, and request a conference Agreed to by voice vote. (consideration: CR H3284)
+- 2016-05-26 — Pursuant to the provisions of H.Res. 751, the Chair announced that the House concurred in the Senate amendment to H.R. 2577 with an amendment.
+- 2016-05-26 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H.Res. 751(consideration: CR H3284)
+- 2016-05-26 — The Speaker appointed conferees: Rogers of Kentucky, Granger, Cole, Dent, Fortenberry, Rooney of Florida, Valadao, Roby, Lowey, DeLauro, Serrano, Bishop of Georgia, and Wasserman Schultz.
+- 2016-05-26 — The previous question was ordered without objection. (consideration: CR H3284)
