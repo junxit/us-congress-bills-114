@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4166
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,19 +15,19 @@ This Act may be cited as the “Expanding Proven Financing for American Employer
 
 ## § 2. Risk retention requirement for qualified collateralized loan obligations
 
-Section 15G(e) of the Securities Exchange Act of 1934 (15 U.S.C. 780–11(e)) is amended by inserting after paragraph 6 the following new paragraphs:
+Section 15G(e) of the Securities Exchange Act of 1934 (15 U.S.C. 780–11(e)) is amended by inserting after paragraph (6) the following new paragraphs:
 
 > - **(7)** *Requirements for qualified collateralized loan obligations*
->   - **(A)** *Risk retention requirement* Notwithstanding any other provision of this section, as of the effective date set forth in subsection (i)(2), the risk retention requirement for qualified collateralized loan obligations may be met by the purchase and, during the applicable duration of risk retention specified by the rules of the Federal banking agencies under subsection (c)(1)(C)(ii), holding (without hedging or otherwise transferring the credit risk), of no less than five percent of the equity of the collateralized loan obligation by the manager of the qualified collateralized loan obligation or one or more of the majority-owned affiliates of the manager or its knowledgeable employees and other employees.
+>   - **(A)** *Risk retention requirement* Notwithstanding any other provision of this section, as of the effective date set forth in subsection (i)(2), the risk retention requirement for qualified collateralized loan obligations may be met by the purchase and, during the applicable duration of risk retention specified by the rules of the Federal banking agencies under subsection (c)(1)(C)(ii), holding (without hedging or otherwise transferring the credit risk), of the value of no less than five percent of the equity distributed among each of the higher tranches of the issuance with no less than 3.5 percent retained as equity of the collateralized loan obligation by the manager of the qualified collateralized loan obligation or one or more of the majority-owned affiliates of the manager or its knowledgeable employees and other employees.
 >   - **(B)** *Qualified collateralized loan obligations* For purposes of this paragraph, a qualified collateralized loan obligation is a collateralized loan obligation that meets all of the following requirements:
 >     - **(i)** *Asset quality protections* The collateralized loan obligation shall—
->       - **(I)** have at least 90 percent of its assets comprised of senior secured loans and cash equivalents;
+>       - **(I)** have at least 100 percent of its assets comprised of senior secured loans and cash equivalents;
 >       - **(II)** have 100 percent of its loan assets issued by companies;
 >       - **(III)** have no assets that are asset-backed securities or derivatives, except that this limitation shall not prohibit a qualified collateralized loan obligation from acquiring a loan participation or any interest related to or in a letter of credit, or entering into derivative transactions to hedge interest rate or currency rate mismatches;
 >       - **(IV)** not purchase assets in default, margin stock, or equity convertible securities;
 >       - **(V)** acquire only loans held or acquired by three or more investors or lenders unaffiliated with the manager;
 >       - **(VI)** hold only loans to borrowers whose financial statements are subject to an annual audit from an independent, accredited accounting firm;
->       - **(VII)** have no more than 60 percent of its assets comprised of covenant lite loans; and
+>       - **(VII)** have no more than 60 percent of its assets comprised of covenant lite loans, except that each asset shall require the disclosure of unaudited financial statements quarterly within 45 days of the end of the quarter and audited financial statements annually within 90 days of the end of the fiscal year; and
 >       - **(VIII)** at the time of purchase of any asset, comply with the requirements of subclauses (I) and (VII) and clause (ii) of this subparagraph, or, if not in compliance with any such requirement, maintain or improve the level of compliance after giving effect to such purchase.
 >     - **(ii)** *Asset portfolio protections*
 >       - **(I)** No more than 3.5 percent of the assets of the collateralized loan obligation may relate to any single borrower.
@@ -59,7 +59,7 @@ Section 15G(e) of the Securities Exchange Act of 1934 (15 U.S.C. 780–11(e)) is
 >       - **(III)** from a collateralized loan obligation in existence as of the effective date of this paragraph that is not a balance sheet collateralized loan obligation; and
 >     - **(ii)** the assets and liabilities of which are, immediately after issuance of its asset-backed securities in a securitization transaction, included under generally accepted accounting principles in the consolidated balance sheet of one or more of its affiliates.
 >   - **(B)** *Collateralized loan obligation* The term collateralized loan obligation means any issuing entity of an asset-backed security, as defined in section 3(a)(79) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(79)), that is comprised primarily of commercial loans.
->   - **(C)** *Covenant lite loan* The term covenant lite loan means, at the time the collaterlized loan obligation enters into a commitment to acquire such loan, a loan for which the underlying instruments neither—
+>   - **(C)** *Covenant lite loan* The term covenant lite loan means, at the time the collateralized loan obligation enters into a commitment to acquire such loan, a loan for which the underlying instruments neither—
 >     - **(i)** require the obligor to comply with any maintenance covenant; nor
 >     - **(ii)** contain a cross-default provision to a financing facility of the obligor that requires the obligor to comply with a maintenance covenant (including one that may apply only upon the funding of such other loan or financing facility); except that if such loan is pari passu with another loan of the obligor that would not be a covenant lite loan under the criteria in this clause, such loan shall be deemed not to be a covenant lite loan. For purposes of this clause, the term pari passu means treated equally and without preference.
 >   - **(D)** *Equity* The term equity means the most junior class of securities issued by the collateralized loan obligation (excluding any non-economic security such as the issuer’s common stock) and any additional class(es) of securities junior to the collateralized loan obligation’s debt securities.
