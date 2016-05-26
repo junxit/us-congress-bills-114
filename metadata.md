@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5243
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5243
@@ -62,3 +62,4 @@ Zika Response Appropriations Act, 2016
 - 2016-05-18 — Rule H. Res. 736 passed House.
 - 2016-05-18 — Rule provides for consideration of H.R. 4974 and H.R. 5243.
 - 2016-05-18 — The previous question was ordered pursuant to the rule. (consideration: CR H2800)
+- 2016-05-26 — Received in the Senate.
