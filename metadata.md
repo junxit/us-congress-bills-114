@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4974
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4974
@@ -283,3 +283,4 @@ Military Construction and Veterans Affairs and Related Agencies Appropriations A
 - 2016-05-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4974.
 - 2016-05-19 — The previous question was ordered pursuant to the rule. (consideration: CR H2865)
 - 2016-05-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
+- 2016-05-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
