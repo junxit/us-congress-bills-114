@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1887
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1887
@@ -43,9 +43,10 @@ To authorize the Comptroller General of the United States to assess a study on t
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ To authorize the Comptroller General of the United States to assess a study on t
 - 2016-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-568.
 - 2016-05-16 — The title of the measure was amended. Agreed to without objection.
 - 2016-05-17 — Received in the Senate.
+- 2016-05-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
