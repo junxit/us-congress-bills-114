@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 462
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 462
@@ -16,7 +16,7 @@ A resolution urging the United States Soccer Federation to immediately eliminate
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Cosponsors (17)
+## Cosponsors (21)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -35,6 +35,10 @@ A resolution urging the United States Soccer Federation to immediately eliminate
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schatz, Brian [D-HI] (S001194)
 
 ## Committees (1)
 
@@ -44,3 +48,7 @@ A resolution urging the United States Soccer Federation to immediately eliminate
 
 - 2016-05-12 — Introduced in Senate
 - 2016-05-12 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2751-2752)
+- 2016-05-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S3257)
+- 2016-05-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S3257)
+- 2016-05-26 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S3257)
+- 2016-05-26 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S3257)
