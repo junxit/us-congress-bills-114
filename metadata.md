@@ -1,7 +1,7 @@
 ---
 measure: S. 2465
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2465
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2016-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
+- 2016-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3377; text as passed Senate: CR S3377)
+- 2016-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3377; text as passed Senate: CR S3377)
