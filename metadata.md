@@ -1,7 +1,7 @@
 ---
 measure: S. 1402
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1402
@@ -28,3 +28,7 @@ Patents for Humanity Program Improvement Act
 
 - 2015-05-20 — Introduced in Senate
 - 2015-05-20 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3187-3188)
+- 2016-05-26 — Passed Senate without amendment by Unanimous Consent. (text: CR S3379)
+- 2016-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3379)
+- 2016-05-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3378-3379)
+- 2016-05-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3378-3379)
