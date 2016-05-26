@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5233
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5233
@@ -20,9 +20,10 @@ Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016
 
 - Rep. Harris, Andy [R-MD-1] (H001052)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -51,3 +52,4 @@ Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016
 - 2016-05-25 — Rule H. Res. 744 passed House.
 - 2016-05-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3216)
 - 2016-05-25 — The resolution provides for consideration of S. 2012 and H.R. 5233.
+- 2016-05-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
