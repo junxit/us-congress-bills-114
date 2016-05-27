@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4775
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 2 executed, 11 stated and not applied.
+15 amendatory instructions. 3 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `five-year intervals` |
 | Inserted | `10-year intervals` |
+
+### 42 U.S.C. § 7511a
+
+> by striking “The provisions of clause (ii) of subsection (c)(2)(B) (relating to reductions of less than 3 percent), the provisions of paragaphs” and inserting “The provisions of paragraphs”; and
+
+| | |
+|---|---|
+| Removed | `The provisions of clause (ii) of subsection (c)(2)(B) (relating to reductions of less than 3 percent), the provisions of paragaphs` |
+| Inserted | `The provisions of paragraphs` |
 
 ### 42 U.S.C. § 7619
 
@@ -56,7 +65,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7409` | add-at-end | Section 109 of the Clean Air Act (42 U.S.C. 7409) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7502` | add-at-end | Section 172(c)(9) of the Clean Air Act (42 U.S.C. 7502(c)(9)) is amended by adding at the end the following: “Notwithstanding the preceding sentences and any other provision of this Act, such measures shall not be required for any nonatt… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7511a` | insert | in subsection (b)(1)(A)(ii)(III), by inserting “and economic feasibility” after “technological achievability”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 7511a` | insert | in subsection (c)(2)(B)(ii), by inserting “and economic feasibility” after “technological achievability”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7511a` | insert | in subsection (c)(2)(B)(ii), by inserting “and economic feasibility” after “technological achievability”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7511a` | strike | by striking “, and the provisions of clause (ii) of subsection (b)(1)(A) (relating to reductions of less than 15 percent)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7511a` | replace | in paragraph (5) of subsection (e), by striking “, if the State demonstrates to the satisfaction of the Administrator that—” and all that follows through the end of the paragraph and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7513a` | insert | Section 189(c)(1) of the Clean Air Act (42 U.S.C. 7513a(c)(1)) is amended by inserting “, which take into account technological achievability and economic feasibility,” before “and which demonstrate reasonable further progress”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 7619` | insert | by inserting “or” after the semicolon; | the bill quotes the text inserted but describes where it goes |

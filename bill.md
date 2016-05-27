@@ -50,14 +50,17 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2016”.
   >     - **(A)** The term best available control technology has the meaning given to that term in section 169(3).
   >     - **(B)** The term lowest achievable emission rate has the meaning given to that term in section 171(3).
   >     - **(C)** The term preconstruction permit—
-  >       - **(i)** means a permit that is required under part C or D for the construction or modification of a major emitting facility or major stationary source; and
+  >       - **(i)** means a permit that is required under this title for the construction or modification of a stationary source; and
   >       - **(ii)** includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.
 
 - **(e)** *Contingency measures for extreme ozone nonattainment areas* Section 172(c)(9) of the Clean Air Act (42 U.S.C. 7502(c)(9)) is amended by adding at the end the following: “Notwithstanding the preceding sentences and any other provision of this Act, such measures shall not be required for any nonattainment area for ozone classified as an Extreme Area.”.
 - **(f)** *Plan submissions and requirements for ozone nonattainment areas* Section 182 of the Clean Air Act (42 U.S.C. 7511a) is amended—
   - **(1)** in subsection (b)(1)(A)(ii)(III), by inserting “and economic feasibility” after “technological achievability”;
-  - **(2)** in subsection (c)(2)(B)(ii), by inserting “and economic feasibility” after “technological achievability”; and
-  - **(3)** in paragraph (5) of subsection (e), by striking “, if the State demonstrates to the satisfaction of the Administrator that—” and all that follows through the end of the paragraph and inserting a period.
+  - **(2)** in subsection (c)(2)(B)(ii), by inserting “and economic feasibility” after “technological achievability”;
+  - **(3)** in subsection (e), in the matter preceding paragraph (1)—
+    - **(A)** by striking “The provisions of clause (ii) of subsection (c)(2)(B) (relating to reductions of less than 3 percent), the provisions of paragaphs” and inserting “The provisions of paragraphs”; and
+    - **(B)** by striking “, and the provisions of clause (ii) of subsection (b)(1)(A) (relating to reductions of less than 15 percent)”; and
+  - **(4)** in paragraph (5) of subsection (e), by striking “, if the State demonstrates to the satisfaction of the Administrator that—” and all that follows through the end of the paragraph and inserting a period.
 - **(g)** *Plan revisions for milestones for particulate matter nonattainment areas* Section 189(c)(1) of the Clean Air Act (42 U.S.C. 7513a(c)(1)) is amended by inserting “, which take into account technological achievability and economic feasibility,” before “and which demonstrate reasonable further progress”.
 - **(h)** *Exceptional events* Section 319(b)(1)(B) of the Clean Air Act (42 U.S.C. 7619(b)(1)(B)) is amended—
   - **(1)** in clause (i)—
@@ -72,6 +75,13 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2016”.
   - **(2)** the Environmental Protection Agency’s procedures and timelines for disposing of petitions submitted pursuant to section 179B(b) of the Clean Air Act (42 U.S.C. 7509a(b));
   - **(3)** the total number of petitions received by the Agency pursuant to such section 179B(b), and for each such petition the date initially submitted and the date of final disposition by the Agency; and
   - **(4)** whether the Administrator recommends any statutory changes to facilitate the more efficient review and disposition of petitions submitted pursuant to such section 179B(b).
+- **(j)** *Study on ozone formation*
+  - **(1)** *Study* The Administrator, in consultation with States and the National Oceanic and Atmospheric Administration, shall conduct a study on the atmospheric formation of ozone and effective control strategies, including—
+    - **(A)** the relative contribution of man-made and naturally occurring nitrogen oxides, volatile organic compounds, and other pollutants in ozone formation in urban and rural areas, and the most cost-effective control strategies to reduce ozone; and
+    - **(B)** the science of wintertime ozone formation, including photochemical modeling of wintertime ozone formation, and approaches to cost-effectively reduce wintertime ozone levels.
+  - **(2)** *Peer review* The Administrator shall have the study peer reviewed by an independent panel of experts in accordance with the requirements applicable to a highly influential scientific assessment.
+  - **(3)** *Report* The Administrator shall submit to Congress a report describing the results of the study, including the findings of the peer review panel.
+  - **(4)** *Regulations and guidance* The Administrator shall incorporate the results of the study, including the findings of the peer review panel, into any Federal rules and guidance implementing the 2015 ozone standards.
 
 ## § 4. Definitions
 
@@ -79,9 +89,10 @@ In this Act:
 
 - **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
 - **(2)** *Best available control technology* The term best available control technology has the meaning given to that term in section 169(3) of the Clean Air Act (42 U.S.C. 7479(3)).
-- **(3)** *Lowest achievable emission rate* The term lowest achievable emission rate has the meaning given to that term in section 171(3) of the Clean Air Act (42 U.S.C. 7501(3)).
-- **(4)** *National ambient air quality standard* The term national ambient air quality standard means a national ambient air quality standard promulgated under section 109 of the Clean Air Act (42 U.S.C. 7409).
-- **(5)** *Preconstruction permit* The term preconstruction permit—
-  - **(A)** means a permit that is required under part C or D of title I of the Clean Air Act (42 U.S.C. 7470 et seq.) for the construction or modification of a major emitting facility or major stationary source; and
+- **(3)** *Highly influential scientific assessment* The term highly influential scientific assessment means a highly influential scientific assessment as defined in the publication of the Office of Management and Budget entitled “Final Information Quality Bulletin for Peer Review” (70 Fed. Reg. 2664 (January 14, 2005)).
+- **(4)** *Lowest achievable emission rate* The term lowest achievable emission rate has the meaning given to that term in section 171(3) of the Clean Air Act (42 U.S.C. 7501(3)).
+- **(5)** *National ambient air quality standard* The term national ambient air quality standard means a national ambient air quality standard promulgated under section 109 of the Clean Air Act (42 U.S.C. 7409).
+- **(6)** *Preconstruction permit* The term preconstruction permit—
+  - **(A)** means a permit that is required under title I of the Clean Air Act (42 U.S.C. 7401 et seq.) for the construction or modification of a stationary source; and
   - **(B)** includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.
-- **(6)** *2015 ozone standards* The term 2015 ozone standards means the national ambient air quality standards for ozone published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).
+- **(7)** *2015 ozone standards* The term 2015 ozone standards means the national ambient air quality standards for ozone published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).
