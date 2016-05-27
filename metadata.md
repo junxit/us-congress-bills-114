@@ -1,7 +1,7 @@
 ---
 measure: S. 1402
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1402
@@ -20,9 +20,10 @@ Patents for Humanity Program Improvement Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ Patents for Humanity Program Improvement Act
 - 2016-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3379)
 - 2016-05-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3378-3379)
 - 2016-05-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3378-3379)
+- 2016-05-27 — Message on Senate action sent to the House.
+- 2016-05-27 — Received in the House.
+- 2016-05-27 — Referred to the House Committee on the Judiciary.
