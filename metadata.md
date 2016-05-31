@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4906
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4906
@@ -29,3 +29,8 @@ To amend title 5, United States Code, to clarify the eligibility of employees of
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Introduced in House
 - 2016-04-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-04-14 — Committee Consideration and Mark-up Session Held.
+- 2016-04-14 — Ordered to be Reported by Voice Vote.
+- 2016-05-31 — Placed on the Union Calendar, Calendar No. 467.
+- 2016-05-31 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-601.
+- 2016-05-31 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-601.
