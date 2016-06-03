@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5278
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5278
@@ -37,3 +37,16 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - 2016-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Education and the Workforce, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Education and the Workforce, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Education and the Workforce, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-20 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2016-05-24 — Committee Consideration and Mark-up Session Held.
+- 2016-05-25 — Committee Consideration and Mark-up Session Held.
+- 2016-05-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 10.
+- 2016-06-03 — Committee on Education and the Workforce discharged.
+- 2016-06-03 — Committee on Education and the Workforce discharged.
+- 2016-06-03 — Committee on Small Business discharged.
+- 2016-06-03 — Committee on Small Business discharged.
+- 2016-06-03 — Committee on the Judiciary discharged.
+- 2016-06-03 — Committee on the Judiciary discharged.
+- 2016-06-03 — Placed on the Union Calendar, Calendar No. 468.
+- 2016-06-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-602, Part I.
+- 2016-06-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-602, Part I.

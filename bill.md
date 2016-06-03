@@ -34,9 +34,7 @@ The provisions of this Act shall prevail over any general or specific provisions
 In this Act—
 
 - **(1)** *Agreed accounting standards* The term “agreed accounting standards” means modified accrual accounting standards or, for any period during which the Oversight Board determines in its sole discretion that a territorial government is not reasonably capable of comprehensive reporting that complies with modified accrual accounting standards, such other accounting standards as proposed by the Oversight Board.
-- **(2)** *Bond* The term “Bond” means a bond, loan, letter of credit, other borrowing title, obligation of insurance, or other financial indebtedness, including rights, entitlements, or obligations whether such rights, entitlements, or obligations arise from contract, statute, or any other source of law, in any case, related to such a bond, loan, letter of credit, other borrowing title, obligation of insurance, or other financial indebtedness in physical or dematerialized form, of which—
-  - **(A)** the issuer, obligor, or guarantor is the territorial government; and
-  - **(B)** the date of issuance or incurrence precedes the date of enactment of this Act.
+- **(2)** *Bond* The term “Bond” means a bond, loan, letter of credit, other borrowing title, obligation of insurance, or other financial indebtedness for borrowed money, including rights, entitlements, or obligations whether such rights, entitlements, or obligations arise from contract, statute, or any other source of law, in any case, related to such a bond, loan, letter of credit, other borrowing title, obligation of insurance, or other financial indebtedness in physical or dematerialized form of which the issuer, obligor, or guarantor is the territorial government.
 - **(3)** *Bond Claim* The term “Bond Claim” means, as it relates to a Bond—
   - **(A)** right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured; or
   - **(B)** right to an equitable remedy for breach of performance if such breach gives rise to a right to payment, whether or not such right to an equitable remedy is reduced to judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured, or unsecured.
@@ -75,4 +73,4 @@ The Law Revision Counsel is directed to place this Act as chapter 20 of title 48
 
 ## § 7. Compliance with Federal laws
 
-Except as otherwise provided in this Act, nothing in this Act shall be construed as impairing or in any manner relieving a territorial government, or any territorial instrumentality thereof, from compliance with Federal laws or requirements or territorial laws and requirements implementing a federally authorized or federally delegated program, protecting the health, safety, and environment of persons in such territory.
+Except as otherwise provided in this Act, nothing in this Act shall be construed as impairing or in any manner relieving a territorial government, or any territorial instrumentality thereof, from compliance with Federal laws or requirements or territorial laws and requirements implementing a federally authorized or federally delegated program protecting the health, safety, and environment of persons in such territory.
