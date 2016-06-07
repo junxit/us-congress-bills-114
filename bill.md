@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 129
 
-> Expressing support for the goal of ensuring that all Holocaust victims live with dignity, comfort, and security in their remaining years, and urging the Federal Republic of Germany to reaffirm its commitment to this goal through a financial commitment to comprehensively address the unique health and welfare needs of vulnerable Holocaust victims, including home care and other medically prescribed needs.
+> Expressing support for the goal of ensuring that all Holocaust victims live with dignity, comfort, and security in their remaining years, and urging the Federal Republic of Germany to continue to reaffirm its commitment to this goal through a financial commitment to comprehensively address the unique health and welfare needs of vulnerable Holocaust victims, including home care and other medically prescribed needs.
 
 ## Preamble
 
-- Whereas the annihilation of 6,000,000 Jews during the Holocaust and the murder of millions of others by the Nazi German state constitutes one of the most tragic and heinous crimes in human history;
+- Whereas the annihilation of 6 million Jews during the Holocaust and the murder of millions of others by the Nazi German state constitutes one of the most tragic and heinous crimes in human history;
 - Whereas hundreds of thousands of Jews survived persecution by the Nazi regime despite being imprisoned, subjected to slave labor, moved into ghettos, forced to live in hiding or under false identity, forced to live under curfew, or required to wear the “yellow star”;
 - Whereas in fear of the oncoming Nazi Einsatzgruppen (“Nazi Killing Squads”) and the likelihood of extermination, hundreds of thousands of Jewish Nazi victims fled for their lives;
 - Whereas whatever type of persecution suffered by Jews during the Holocaust, the common thread that binds these Holocaust victims is that they were targeted for extermination and that they lived with a constant fear for their lives and the lives of their loved ones;
@@ -26,7 +26,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Holocaust victims often lack family support networks and require social worker-supported case management in order to manage their daily lives and access government funded services;
 - Whereas in response to a letter sent by Members of Congress to Germany’s Minister of Finance in December 2015 regarding increased funding for Holocaust victims, German officials acknowledged that “recent experience has shown that the care financed by the German Government to date is insufficient” and that “it is imperative to expand these assistance measures quickly given the advanced age of many of the affected persons”;
 - Whereas German Chancellor Konrad Adenauer acknowledged in 1951 Germany’s responsibility to provide moral and financial compensation to Holocaust victims worldwide;
-- Whereas every successive German Chancellor has reaffirmed this position, including Chancellor Angela Merkel, who in 2007 reaffirmed that “only by fully accepting its enduring responsibility for this most appalling period and for the cruelest crimes in its history, can Germany shape the future”; and
+- Whereas every successive German Chancellor has reaffirmed this position, including Chancellor Angela Merkel, who in 2007 reaffirmed that “only by fully accepting its enduring responsibility for this most appalling period and for the cruelest crimes in its history, can Germany shape the future”;
+- Whereas in 2015 Chancellor Merkel’s spokesperson again confirmed “all Germans know the history of the murderous race mania of the Nazis that led to the break with civilization that was the Holocaust * * * we know that responsibility for this crime against humanity is German and very much our own”; and
 - Whereas Congress believes it is Germany’s moral and historical responsibility to comprehensively, permanently, and urgently provide the resources for all Holocaust victims’ medical, mental health, and long-term care needs: Now, therefore, be it
 
 That Congress—
@@ -37,4 +38,4 @@ That Congress—
 - **(4)** acknowledges the ongoing process of negotiations between the Federal Republic of Germany and the Conference on Jewish Material Claims Against Germany (Claims Conference) in order to secure funding for Holocaust victims and for vital social services provided through nonprofit organizations and agencies around the world;
 - **(5)** acknowledges that the Federal Republic of Germany and the Claims Conference have established a new high-level working group that will develop proposals for extensive assistance for homecare and other social welfare needs of Holocaust victims;
 - **(6)** urges the working group to recognize the imperative of immediately and fully funding victims’ medical, mental health, and long-term care needs and to do so with full transparency and accountability to ensure all funds for Holocaust victims from the Federal Republic of Germany are administered efficiently, fairly, and without delay; and
-- **(7)** urges the Federal Republic of Germany to reaffirm its commitment and fulfill its moral responsibility to Holocaust victims by ensuring that every Holocaust victim receives all of the prescribed medical care, home care, mental health care, and other vital services necessary to live in dignity and by providing, without delay, additional financial resources to address the unique needs of Holocaust victims.
+- **(7)** urges the Federal Republic of Germany to continue to reaffirm its commitment and fulfill its moral responsibility to Holocaust victims by ensuring that every Holocaust victim receives all of the prescribed medical care, home care, mental health care, and other vital services necessary to live in dignity and by providing, without delay, additional financial resources to address the unique needs of Holocaust victims.
