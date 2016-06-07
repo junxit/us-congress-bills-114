@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -120,7 +120,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395l` | add-at-end | in subparagraph (E), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | by inserting after clause (v) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | in clause (vii), by inserting after the first sentence the following: “Not later than 2 years after the date the Secretary receives an attestation under clause (vi) relating to compliance of a department of a provider with requirements r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | in clause (viii)(III), by adding at the end the following: “For purposes of carrying out this subparagraph with respect to clause (vi) (and clause (vii) insofar as it relates to such clause), the Secretary shall provide for the transfer … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | add-at-end | in clause (viii)(III), by adding at the end the following: “For purposes of carrying out this subparagraph with respect to clause (vi) (and clause (vii) insofar as it relates to such clause), $2,000,000 shall be available from the Federa… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | in subparagraph (B), by inserting “, subject to subparagraph (C),” after “shall”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | replace | by striking “hospital-based eligible professionals” and all that follows through “No payment” and inserting the following: | the bill quotes the text struck but describes what replaces it |
