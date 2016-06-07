@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4904
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4904
@@ -51,6 +51,10 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2016-06-07 — [House 114-2-271](votes/house-114-2-0271.md) — On Motion to Suspend the Rules and Pass — **Passed** (366–0)
+
 ## Actions
 
 - 2016-04-12 — Introduced in House
@@ -61,3 +65,11 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 - 2016-05-23 — Placed on the Union Calendar, Calendar No. 457.
 - 2016-05-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-587.
 - 2016-05-23 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-587.
+- 2016-06-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-06-07 — Considered as unfinished business. (consideration: CR H3492)
+- 2016-06-07 — Considered under suspension of the rules. (consideration: CR H3480-3482)
+- 2016-06-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4904.
+- 2016-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-07 — Mr. Russell moved to suspend the rules and pass the bill.
+- 2016-06-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271). (text: CR H3480)
+- 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271).(text: CR H3480)
