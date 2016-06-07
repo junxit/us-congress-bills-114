@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3070
 
-> To clarify that for purposes of all Federal laws governing marine fisheries management, the landward boundary of the exclusive economic zone between areas south of Montauk, New York, and Point Judith, Rhode Island, and for other purposes.
+> To authorize the Secretary of Commerce to permit striped bass fishing in the Exclusive Economic Zone transit zone between Montauk, New York, and Point Judith, Rhode Island, and for other purposes.
 
 ## § 1. Short title
 

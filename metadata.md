@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3070
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3070
@@ -38,3 +38,10 @@ EEZ Transit Zone Clarification and Access Act
 - 2016-04-25 — Placed on the Union Calendar, Calendar No. 397.
 - 2016-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-517.
 - 2016-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-517.
+- 2016-06-07 — Considered under suspension of the rules. (consideration: CR H3486-3487)
+- 2016-06-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3070.
+- 2016-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-07 — Mr. Hardy moved to suspend the rules and pass the bill, as amended.
+- 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3486)
+- 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3486)
+- 2016-06-07 — The title of the measure was amended. Agreed to without objection.
