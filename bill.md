@@ -30,12 +30,12 @@ For the purposes of this Act, the following definitions apply:
 
 ## § 4. Lands to be conveyed to the district
 
-- **(a)** *Parcel b*
+- **(a)** *Parcel B*
   - **(1)** *In general* Subject to valid existing rights and payment to the United States of the fair market value, the United States shall convey to the District all right, title, and interest of the United States in and to the approximately 13.24 acres of Federal lands generally depicted on the map as “Parcel B”.
   - **(2)** *Determination of fair market value* The fair market value of the property to be conveyed under paragraph (1) shall be determined by the Secretary in accordance with the Uniform Appraisal Standards for Federal Land Acquisitions and the Uniform Standards of Professional Appraisal Practice.
   - **(3)** *Costs of conveyance* As a condition of the conveyance under this subsection, all costs associated with the conveyance shall be paid by the District.
-- **(b)** *Parcel c*
-  - **(1)** *In general* If, not later than one year after the completion of the appraisal required by paragraph (3), the District submits to the Secretary an offer to acquire the Federal reversionary interest in all of the approximately 27.5 acres of land conveyed to the Association under Recreation and Public Purposes Act and generally depicted on the map as “Parcel C”, the Secretary shall convey to the District such reversionary interest in the lands covered by the offer. The Secretary shall complete the conveyance not later than 30 days after the date of the offer.
+- **(b)** *Parcel C*
+  - **(1)** *In general* If, not later than 1 year after the completion of the appraisal required by paragraph (3), the District submits to the Secretary an offer to acquire the Federal reversionary interest in all of the approximately 27.5 acres of land conveyed to the District under Recreation and Public Purposes Act and generally depicted on the map as “Parcel C”, the Secretary shall convey to the District such reversionary interest in the lands covered by the offer. The Secretary shall complete the conveyance not later than 30 days after the date of the offer.
   - **(2)** *Survey* Not later than 90 days after the date of the enactment of this Act, the Secretary shall complete a survey of the lands described in this subsection to determine the precise boundaries and acreage of the lands subject to the Federal reversionary interest.
   - **(3)** *Appraisal* Not later than 180 days after the date of enactment of this Act, the Secretary shall complete an appraisal of the Federal reversionary interest in the lands identified by the survey required by paragraph (2). The appraisal shall be completed in accordance with the Uniform Appraisal Standards for Federal Land Acquisitions and the Uniform Standards of Professional Appraisal Practice.
   - **(4)** *Consideration* As consideration for the conveyance of the Federal reversionary interest under this subsection, the District shall pay to the Secretary an amount equal to the appraised value of the Federal interest, as determined under paragraph (3). The consideration shall be paid not later than 30 days after the date of the conveyance.
