@@ -1,7 +1,7 @@
 ---
 measure: S. 2487
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2487
@@ -55,3 +55,17 @@ Female Veteran Suicide Prevention Act
 - 2016-06-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3597)
 - 2016-06-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3597)
 - 2016-06-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3597)
+- 2016-06-08 — Held at the desk.
+- 2016-06-08 — Message on Senate action sent to the House.
+- 2016-06-08 — Received in the House.
+- 2016-06-21 — Considered by unanimous consent. (consideration: CR H4006)
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Miller (FL) asked unanimous consent to take from the Speaker's table and consider.
+- 2016-06-21 — On passage Passed without objection. (text: CR H4006)
+- 2016-06-21 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4006)
+- 2016-06-23 — Presented to President.
+- 2016-06-23 — Presented to President.
+- 2016-06-30 — Became Public Law No: 114-188.
+- 2016-06-30 — Became Public Law No: 114-188.
+- 2016-06-30 — Signed by President.
+- 2016-06-30 — Signed by President.
