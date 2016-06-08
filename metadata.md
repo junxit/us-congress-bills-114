@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2009
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2009
@@ -27,9 +27,10 @@ Pascua Yaqui Tribe Land Conveyance Act
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Pascua Yaqui Tribe Land Conveyance Act
 - 2016-06-07 — Mr. Hardy moved to suspend the rules and pass the bill, as amended.
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3489)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3489)
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
