@@ -1,7 +1,7 @@
 ---
 measure: S. 2276
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2276
@@ -29,9 +29,10 @@ Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -59,3 +60,14 @@ Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016
 - 2016-06-08 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
 - 2016-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3538-3544)
 - 2016-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3538-3544)
+- 2016-06-09 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-06-13 — Measure laid before Senate by unanimous consent. (consideration: CR S3830-3031)
+- 2016-06-13 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S3831)
+- 2016-06-13 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S3831)
+- 2016-06-14 — Message on Senate action sent to the House.
+- 2016-06-16 — Presented to President.
+- 2016-06-16 — Presented to President.
+- 2016-06-22 — Became Public Law No: 114-183.
+- 2016-06-22 — Became Public Law No: 114-183.
+- 2016-06-22 — Signed by President.
+- 2016-06-22 — Signed by President.

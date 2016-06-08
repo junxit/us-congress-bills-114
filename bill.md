@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2276
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2276
 
-That the bill from the Senate (S. 2276) entitled “An Act to amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.
 
 ## § 1. Short title; table of contents
 
