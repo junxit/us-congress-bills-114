@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1815
@@ -22,9 +22,10 @@ Eastern Nevada Land Implementation Improvement Act
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Eastern Nevada Land Implementation Improvement Act
 - 2016-06-07 — Mr. Hardy moved to suspend the rules and pass the bill, as amended.
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 7 (Roll no. 272). (text: CR H3482-3483)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 7 (Roll no. 272).(text: CR H3482-3483)
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
