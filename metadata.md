@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2733
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2733
@@ -45,3 +45,4 @@ Nevada Native Nations Land Act
 - 2016-06-07 — Mr. Hardy moved to suspend the rules and pass the bill, as amended.
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3485)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3485)
+- 2016-06-08 — Received in the Senate, read twice.
