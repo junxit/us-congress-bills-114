@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5273
@@ -20,10 +20,11 @@ Helping Hospitals Improve Patient Care Act of 2016
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Helping Hospitals Improve Patient Care Act of 2016
 - 2016-06-07 — Placed on the Union Calendar, Calendar No. 470.
 - 2016-06-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-604, Part I.
 - 2016-06-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-604, Part I.
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Finance.
