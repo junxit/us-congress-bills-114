@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2733
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2733
@@ -46,3 +46,12 @@ Nevada Native Nations Land Act
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3485)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3485)
 - 2016-06-08 — Received in the Senate, read twice.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6285)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6285)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-232.
+- 2016-10-07 — Became Public Law No: 114-232.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
