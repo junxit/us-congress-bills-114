@@ -19,7 +19,9 @@ This Act may be cited as the “Main Street Growth Act”.
   > - **(m)** *Venture exchange*
   >   - **(1)** *Registration*
   >     - **(A)** *In general* A national securities exchange may elect to be treated (or for a listing tier of such exchange to be treated) as a venture exchange by notifying the Commission of such election, either at the time the exchange applies to be registered as a national securities exchange or after registering as a national securities exchange.
-  >     - **(B)** *Determination time period* With respect to a securities exchange electing to be treated (or for a listing tier of such exchange to be treated) as a venture exchange at the time the exchange applies to be registered as a national securities exchange, such application shall be deemed to have been approved by the Commission unless the Commission denies such application before the end of the 6-month period beginning on the date the Commission received such application.
+  >     - **(B)** *Determination time period* With respect to a securities exchange electing to be treated (or for a listing tier of such exchange to be treated) as a venture exchange—
+  >       - **(i)** at the time the exchange applies to be registered as a national securities exchange, such application and election shall be deemed to have been approved by the Commission unless the Commission denies such application before the end of the 6-month period beginning on the date the Commission received such application; and
+  >       - **(ii)** after registering as a national securities exchange, such election shall be deemed to have been approved by the Commission unless the Commission denies such approval before the end of the 6-month period beginning on the date the Commission received notification of such election.
   >   - **(2)** *Powers and restrictions* A venture exchange—
   >     - **(A)** may only constitute, maintain, or provide a market place or facilities for bringing together purchasers and sellers of venture securities;
   >     - **(B)** may determine the increment to be used for quoting and trading venture securities on the exchange;
@@ -27,16 +29,19 @@ This Act may be cited as the “Main Street Growth Act”.
   >     - **(D)** may choose to carry out periodic auctions for the sale of a venture security instead of providing continuous trading of the venture security; and
   >     - **(E)** may not extend unlisted trading privileges to any venture security.
   >   - **(3)** *Exemptions from certain national security exchange regulations* A venture exchange shall not be required to—
-  >     - **(A)** comply with Rule NMS (sections 242.600 through 242.612 of title 17, Code of Federal Regulations);
-  >     - **(B)** comply with Rule ATS (sections 242.300 through 242.303 of title 17, Code of Federal Regulations);
+  >     - **(A)** comply with any of sections 242.600 through 242.612 of title 17, Code of Federal Regulations;
+  >     - **(B)** comply with any of sections 242.300 through 242.303 of title 17, Code of Federal Regulations;
   >     - **(C)** submit any data to a securities information processor; or
   >     - **(D)** use decimal pricing.
-  >   - **(4)** *Definitions* For purposes of this subsection:
+  >   - **(4)** *Treatment of certain exempted securities* A security that is exempt from registration pursuant to section 3(b) of the Securities Act of 1933 shall be exempt from section 12(a) of this title with respect to the trading of such security on a venture exchange, if the issuer of such security is in compliance with all disclosure obligations of such section 3(b) and the regulations issued under such section.
+  >   - **(5)** *Definitions* For purposes of this subsection:
   >     - **(A)** *Early-stage, growth company*
   >       - **(i)** *In general* The term early-stage, growth company means an issuer—
   >         - **(I)** that has not made an initial public offering of any securities of the issuer; and
-  >         - **(II)** with a market capitalization of $1,000,000,000 or less.
-  >       - **(ii)** *Treatment when market capitalization exceeds threshold* In the case of an issuer that is an early-stage, growth company the securities of which are traded on a venture exchange, such issuer shall not cease to be an early-stage, growth company by reason of the market capitalization of such issuer exceeding the threshold specified in clause (i)(II) until the end of the period of 12 consecutive months during which the market capitalization of such issuer exceeds $1,500,000,000.
+  >         - **(II)** with a market capitalization of $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest $1,000,000) or less.
+  >       - **(ii)** *Treatment when market capitalization exceeds threshold*
+  >         - **(I)** *In general* In the case of an issuer that is an early-stage, growth company the securities of which are traded on a venture exchange, such issuer shall not cease to be an early-stage, growth company by reason of the market capitalization of such issuer exceeding the threshold specified in clause (i)(II) until the end of the period of 24 consecutive months during which the market capitalization of such issuer exceeds $2,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest $1,000,000).
+  >         - **(II)** *Exemptions* If an issuer would cease to be an early-stage, growth company under subclause (I), the venture exchange may, at the request of the issuer, exempt the issuer from the market capitalization requirements of this subparagraph for the 1-year period that begins on the day after the end of the 24-month period described in such subclause. The venture exchange may, at the request of the issuer, extend the exemption for 1 additional year.
   >     - **(B)** *Venture security* The term venture security means—
   >       - **(i)** securities of an early-stage, growth company that are exempt from registration pursuant to section 3(b) of the Securities Act of 1933; and
   >       - **(ii)** securities of an emerging growth company.
@@ -45,7 +50,7 @@ This Act may be cited as the “Main Street Growth Act”.
   - **(1)** in subparagraph (B), by striking “or” at the end;
   - **(2)** in subparagraph (C), by striking the period and inserting “; or”; and
   - **(3)** by adding at the end the following:
-    > - **(D)** a venture security, as defined under section 6(m)(4) of the Securities Exchange Act of 1934.
+    > - **(D)** a venture security, as defined under section 6(m)(5) of the Securities Exchange Act of 1934.
 
 - **(c)** *Sense of Congress* It is the sense of the Congress that the Securities and Exchange Commission should—
   - **(1)** when necessary or appropriate in the public interest and consistent with the protection of investors, make use of the Commission’s general exemptive authority under section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm) with respect to the provisions added by this section; and
