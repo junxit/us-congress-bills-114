@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3070
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3070
@@ -20,9 +20,10 @@ EEZ Transit Zone Clarification and Access Act
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ EEZ Transit Zone Clarification and Access Act
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3486)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3486)
 - 2016-06-07 — The title of the measure was amended. Agreed to without objection.
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
