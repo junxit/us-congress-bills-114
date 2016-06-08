@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4904
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4904
@@ -75,3 +75,14 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 - 2016-06-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271). (text: CR H3480)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271).(text: CR H3480)
 - 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-07-14 — Passed Senate without amendment by Unanimous Consent.
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-07-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5126)
+- 2016-07-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5126)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-19 — Presented to President.
+- 2016-07-19 — Presented to President.
+- 2016-07-29 — Became Public Law No: 114-210.
+- 2016-07-29 — Became Public Law No: 114-210.
+- 2016-07-29 — Signed by President.
+- 2016-07-29 — Signed by President.
