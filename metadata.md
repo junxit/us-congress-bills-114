@@ -1,7 +1,7 @@
 ---
 measure: S. 2276
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2276
@@ -50,3 +50,12 @@ Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016
 - 2016-03-03 — Senate amendment proposed (on the floor): Amendment SA 3427 proposed by Senator McConnell for Senator Fischer.(consideration: CR S1296)
 - 2016-03-03 — Senate amendment submitted
 - 2016-03-03 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S1296)
+- 2016-03-07 — Held at the desk.
+- 2016-03-07 — Message on Senate action sent to the House.
+- 2016-03-07 — Received in the House.
+- 2016-06-08 — Considered under suspension of the rules. (consideration: CR H3538-3549)
+- 2016-06-08 — DEBATE - The House proceeded with forty minutes of debate on S. 2276.
+- 2016-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-08 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
+- 2016-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3538-3544)
+- 2016-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3538-3544)

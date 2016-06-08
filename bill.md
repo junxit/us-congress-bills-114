@@ -2,259 +2,397 @@
 legis-num: S. 2276
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2276
 
-> To amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.
+That the bill from the Senate (S. 2276) entitled “An Act to amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.”, do pass with the following
 
-## § 1. Short title; table of contents; references
+*Strike out all after the enacting clause and insert:*
 
-- **(a)** *Short title* This Act may be cited as the “Securing America’s Future Energy: Protecting our Infrastructure of Pipelines and Enhancing Safety Act” or the “SAFE PIPES Act”.
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016” or the “PIPES Act of 2016”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
-- **(c)** *References to title 49, United States Code* Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 49, United States Code.
 
 ## § 2. Authorization of appropriations
 
-- **(a)** *Gas and hazardous liquid* Section 60125(a) is amended—
-  - **(1)** in paragraph (1), by striking “there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $ 36,194,000 is for making grants.” and inserting the following: “there are authorized to be appropriated to the Department of Transportation from fees collected under section 60301—
-    > - **(A)** $127,060,000 for fiscal year 2016, of which $9,325,000 shall be expended for carrying out such section 12 and $42,515,000 shall be expended for making grants;
-    > - **(B)** $129,671,000 for fiscal year 2017, of which $9,418,000 shall be expended for carrying out such section 12 and $42,941,000 shall be expended for making grants;
-    > - **(C)** $132,334,000 for fiscal year 2018, of which $9,512,000 shall be expended for carrying out such section 12 and $43,371,000 shall be expended for making grants; and
-    > - **(D)** $135,051,000 for fiscal year 2019, of which $9,607,000 shall be expended for carrying out such section 12 and $43,805,000 shall be expended for making grants.
+- **(a)** *Gas and hazardous liquid* Section 60125(a) of title 49, United States Code is amended—
+  - **(1)** in paragraph (1) by striking “there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.” and inserting the following:
+    > there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—
+    > - **(A)** $124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;
+    > - **(B)** $128,000,000 for fiscal year 2017 of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
+    > - **(C)** $131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and
+    > - **(D)** $134,000,000 for fiscal year 2019, of which $9,000,000 shall be expended for carrying out such section 12 and $47,885,000 shall be expended for making grants.
 
-  - **(2)** in paragraph (2), by striking “there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.” and inserting the following: “there are authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355)—”
-    > - **(A)** $19,890,000 for fiscal year 2016, of which $3,108,000 shall be expended for carrying out such section 12 and $8,708,000 shall be expended for making grants;
-    > - **(B)** $20,288,000 for fiscal year 2017, of which $3,139,000 shall be expended for carrying out such section 12 and $8,795,000 shall be expended for making grants;
-    > - **(C)** $20,694,000 for fiscal year 2018, of which $3,171,000 shall be expended for carrying out such section 12 and $8,883,000 shall be expended for making grants; and
-    > - **(D)** $21,108,000 for fiscal year 2019, of which $3,203,000 shall be expended for carrying out such section 12 and $8,972,000 shall be expended for making grants.
+  - **(2)** in paragraph (2) by striking “there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.” and inserting the following:
+    > there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355)—
+    > - **(A)** $22,123,000 for fiscal year 2016, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+    > - **(B)** $22,123,000 for fiscal year 2017, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+    > - **(C)** $23,000,000 for fiscal year 2018, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants; and
+    > - **(D)** $23,000,000 for fiscal year 2019, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants.
 
-- **(b)** *Emergency response grants* Section 60125(b)(2) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
-- **(c)** *One-call notification programs* Section 6107 is amended—
-  - **(1)** in subsection (a), by striking “$1,000,000 for each of fiscal years 2012 through 2015” and inserting “$1,060,000 for each of the fiscal years 2016 through 2019”; and
-  - **(2)** in subsection (b), by striking “2012 through 2015” and inserting “2016 through 2019”.
-- **(d)** *State damage prevention programs* Section 60134(i) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
-- **(e)** *Community pipeline safety information grants* Section 60130(c) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
-- **(f)** *Pipeline integrity program* Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
+  - **(3)** by adding at the end the following:
+    > - **(3)** *Underground Natural Gas Storage Facility Safety Account* To carry out section 60141, there is authorized to be appropriated to the Department of Transportation from fees collected under section 60302 $8,000,000 for each of fiscal years 2017 through 2019.
+
+- **(b)** *Operational expenses* There are authorized to be appropriated to the Secretary of Transportation for the necessary operational expenses of the Pipeline and Hazardous Materials Safety Administration the following amounts:
+  - **(1)** $21,000,000 for fiscal year 2016.
+  - **(2)** $22,000,000 for fiscal year 2017.
+  - **(3)** $22,000,000 for fiscal year 2018.
+  - **(4)** $23,000,000 for fiscal year 2019.
+- **(c)** *One-Call notification programs*
+  - **(1)** *In general* Section 6107 of title 49, United States Code, is amended to read as follows:
+    > ## § 6107. Funding
+    >
+    > Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
+
+  - **(2)** *Clerical amendment* The analysis for chapter 61 of title 49, United States Code, is amended by striking the item relating to section 6107 and inserting the following:
+- **(d)** *Pipeline safety information grants to communities* The first sentence of section 60130(c) of title 49, United States Code, is amended to read as follows: “Of the amounts made available under section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section.”.
+- **(e)** *Pipeline integrity program* Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended by striking “2012 through 2015” and inserting “2016 through 2019”.
 
 ## § 3. Regulatory updates
 
-- **(a)** *In general* Not later than 120 days after the date of enactment of this Act, and every 90 days thereafter until a final rule has been issued for each of the requirements described under paragraphs (1), (2), and (3), the Secretary of Transportation shall publish an update on a public website regarding the status of a final rule for—
-  - **(1)** regulations required under the Pipeline Safety Regulatory Certainty and Job Creation Act of 2011 (Public Law 112–90; 125 Stat. 1904) for which no interim final rule or direct final rule has been issued;
-  - **(2)** any regulation relating to pipeline safety required by law, other than a regulation described under paragraph (1), for which for more than 2 years after the date of the enacting statute or statutory deadline no interim final rule or direct final rule has been issued; and
-  - **(3)** any other pipeline safety rulemaking categorized as significant.
-- **(b)** *Contents* Each report under subsection (a) shall include—
-  - **(1)** a description of the work plan for the outstanding regulation;
-  - **(2)** an updated rulemaking timeline for the outstanding regulation;
-  - **(3)** current staff allocations;
-  - **(4)** any other information collection request with substantial changes;
-  - **(5)** current data collection or research relating to the development of the rulemaking;
-  - **(6)** current collaborative efforts with safety experts and other stakeholders;
-  - **(7)** any resource constraints impacting the rulemaking process for the outstanding regulation; and
-  - **(8)** any other details associated with the development of the rulemaking that impact the progress of the rulemaking.
+- **(a)** *Publication*
+  - **(1)** *In general* The Secretary of Transportation shall publish an update on a publicly available Web site of the Department of Transportation regarding the status of a final rule for each outstanding regulation, and upon such publication notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives that such publication has been made.
+  - **(2)** *Deadlines* The Secretary shall publish an update under this subsection not later than 120 days after the date of enactment of this Act, and every 90 days thereafter until a final rule has been published in the Federal Register for each outstanding regulation.
+- **(b)** *Contents* The Secretary shall include in each update published under subsection (a)—
+  - **(1)** a description of the work plan for each outstanding regulation;
+  - **(2)** an updated rulemaking timeline for each outstanding regulation;
+  - **(3)** current staff allocations with respect to each outstanding regulation;
+  - **(4)** any resource constraints affecting the rulemaking process for each outstanding regulation;
+  - **(5)** any other details associated with the development of each outstanding regulation that affect the progress of the rulemaking process; and
+  - **(6)** a description of all rulemakings regarding gas or hazardous liquid pipeline facilities published in the Federal Register that are not identified under subsection (c).
+- **(c)** *Outstanding regulation defined* In this section, the term outstanding regulation means—
+  - **(1)** a final rule required under the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112–90) that has not been published in the Federal Register; and
+  - **(2)** a final rule regarding gas or hazardous liquid pipeline facilities required under this Act or an Act enacted prior to the date of enactment of this Act (other than the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112–90)) that has not been published in the Federal Register.
 
-## § 4. Hazardous materials identification numbers
+## § 4. Natural gas integrity management review
 
-The Administrator of the Pipeline and Hazardous Materials Safety Administration shall—
+- **(a)** *Report* Not later than 18 months after the date of publication in the Federal Register of a final rule regarding the safety of gas transmission pipelines related to the notice of proposed rulemaking issued on April 8, 2016, titled “Pipeline Safety: Safety of Gas Transmission and Gathering Pipelines” (81 Fed. Reg. 20721), the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the integrity management programs for gas pipeline facilities required under section 60109(c) of title 49, United States Code.
+- **(b)** *Contents* The report required under subsection (a) shall include—
+  - **(1)** an analysis of stakeholder perspectives, taking into consideration technical, operational, and economic feasibility, regarding ways to enhance pipeline facility safety, prevent inadvertent releases from pipeline facilities, and mitigate any adverse consequences of such inadvertent releases, including changes to the definition of high consequence area, or expanding integrity management beyond high consequence areas;
+  - **(2)** a review of the types of benefits, including safety benefits, and estimated costs of the legacy class location regulations;
+  - **(3)** an analysis of the impact pipeline facility features, including the age, condition, materials, and construction of a pipeline facility, have on safety and risk analysis of a particular pipeline facility;
+  - **(4)** a description of any challenges affecting Federal or State regulators in the oversight of gas transmission pipeline facilities and how the challenges are being addressed; and
+  - **(5)** a description of any challenges affecting the natural gas industry in complying with the programs, and how the challenges are being addressed, including any challenges faced by publicly owned natural gas distribution systems.
+- **(c)** *Definition of high consequence area* In this section, the term “high consequence area” has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations.
 
-- **(1)** rescind the implementation of the June 26, 2015 PHMSA interpretative letter (#14–0178); and
-- **(2)** reinstate paragraphs (4) and (5) of section 172.336(c) of title 49, Code of Federal Regulations, without the reference to “gasohol”, as was originally intended in the March 7, 2013 final rule (PHMSA–2011–0142).
+## § 5. Hazardous liquid integrity management review
 
-## § 5. Statutory preference
+- **(a)** *Report* Not later than 18 months after the date of publication in the Federal Register of a final rule regarding the safety of hazardous liquid pipeline facilities related to the notice of proposed rulemaking issued on October 13, 2015, titled “Pipeline Safety: Safety of Hazardous Liquid Pipelines” (80 Fed. Reg. 61610), the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the integrity management programs for hazardous liquid pipeline facilities, as regulated under sections 195.450 and 195.452 of title 49, Code of Federal Regulations.
+- **(b)** *Contents* The report required under subsection (a) shall include—
+  - **(1)** taking into consideration technical, operational, and economic feasibility, an analysis of stakeholder perspectives on—
+    - **(A)** ways to enhance hazardous liquid pipeline facility safety;
+    - **(B)** risk factors that may warrant more frequent inspections of hazardous liquid pipeline facilities; and
+    - **(C)** changes to the definition of high consequence area;
+  - **(2)** an analysis of how surveying, assessment, mitigation, and monitoring activities, including real-time hazardous liquid pipeline facility monitoring during significant flood events and information sharing with Federal agencies, are being used to address risks associated with rivers, flood plains, lakes, and coastal areas;
+  - **(3)** an analysis of the impact pipeline facility features, including the age, condition, materials, and construction of a pipeline facility, have on safety and risk analysis of a particular pipeline facility and what changes to the definition of high consequence area could be made to improve pipeline facility safety; and
+  - **(4)** a description of any challenges affecting Federal or State regulators in the oversight of hazardous liquid pipeline facilities and how those challenges are being addressed.
+- **(c)** *Definition of high consequence area* In this section, the term “high consequence area” has the meaning given the term in section 195.450 of title 49, Code of Federal Regulations.
 
-The Administrator of the Pipeline and Hazardous Materials Safety Administration shall prioritize the use of Office of Pipeline Safety resources for the development of each outstanding pipeline safety statutory requirement, including requirements for rulemakings and information collection requests, for a rulemaking described in a report under section 3 before beginning any new rulemaking required after the date of the enactment of this Act unless the Secretary of Transportation certifies to Congress that there is a significant need to move forward with a new rulemaking.
+## § 6. Technical safety standards committees
 
-## § 6. Natural gas integrity management review
+- **(a)** *Appointment of members* Section 60115(b)(4)(A) of title 49, United States Code, is amended by striking “State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.” and inserting “State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph.”.
+- **(b)** *Vacancies* Section 60115(b) of title 49, United States Code, is amended by adding at the end the following:
+  > - **(5)** Within 90 days of the date of enactment of the PIPES Act of 2016, the Secretary shall fill all vacancies on the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, and any other committee established pursuant to this section. After that period, the Secretary shall fill a vacancy on any such committee not later than 60 days after the vacancy occurs.
 
-- **(a)** *Report* Not later than 18 months after the publication of a final rule regarding the safety of gas transmission pipelines (76 Fed. Reg. 53086), the Comptroller General of the United States shall submit a report to Congress regarding the natural gas integrity management program.
-- **(b)** *Contents* The report under subsection (a) shall include—
-  - **(1)** an analysis of the extent to which the natural gas integrity management program under section 60109(c) of title 49, United States Code, has improved the safety of natural gas transmission pipelines;
-  - **(2)** an analysis or recommendations, including consideration of technical, operational, and economic feasibility, regarding changes to the program that would prevent inadvertent releases from pipelines and mitigate any adverse consequences of an inadvertent release, including changes to the current definition of high consequence area, or would expand integrity management beyond high consequence areas;
-  - **(3)** a review of the cost effectiveness of the legacy class location regulations;
-  - **(4)** an analysis of and recommendations regarding what impact pipeline features and conditions, including the age, condition, materials, and construction of a pipeline, should have on risk analysis of a particular pipeline;
-  - **(5)** a description of any challenges affecting Federal or State regulators in their oversight of the program and how the challenges are being addressed; and
-  - **(6)** a description of any challenges affecting the natural gas industry in complying with the program, and how the challenges are being addressed.
-- **(c)** *Definition of high consequence area* In this section and in section 7, the term high consequence area means an area described in section 60109(a) of title 49, United States Code.
+## § 7. Inspection report information
 
-## § 7. Hazardous liquid integrity management review
+- **(a)** *Inspection and maintenance* Section 60108 of title 49, United States Code, is amended by adding at the end the following:
+  > - **(e)** *In general* After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49, United States Code, to conduct such inspection, shall—
+  >   - **(1)** within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and
+  >   - **(2)** within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.
 
-- **(a)** *Safety study* Not later than 18 months after the publication of a final rule regarding the safety of hazardous liquid pipelines (80 Fed. Reg. 61610), the Comptroller General of the United States shall submit a report to Congress regarding the hazardous liquid integrity management program.
-- **(b)** *Contents* The report under subsection (a) shall include—
-  - **(1)** an analysis of the extent to which liquid pipeline integrity management in high consequence areas for operators of certain hazardous liquid pipeline facilities, as regulated under sections 195.450 and 195.452 of title 49, Code of Federal Regulations, has improved the safety of hazardous liquid pipelines;
-  - **(2)** recommendations, including consideration of technical, operational, and economic feasibility, regarding changes to the program that could prevent inadvertent releases from pipelines and mitigate any adverse consequences of an inadvertent release, including changes to the current definition of high consequence area;
-  - **(3)** an analysis of how surveying, assessment, mitigation, and monitoring activities, including real-time hazardous liquid pipeline monitoring during significant flood events and information sharing with other Federal agencies, are being used to address risks associated with the dynamic and unique nature of rivers, flood plains, and lakes;
-  - **(4)** an analysis of and recommendations regarding what impact pipeline features and conditions, including the age, condition, materials, and construction of a pipeline, should have on risk analysis of a particular pipeline and what changes to the definition of high consequence area could be made to improve pipeline safety; and
-  - **(5)** a description of any challenges affecting Federal or State regulators in their oversight of the program and how the challenges are being addressed.
+- **(b)** *Notification* Not later than October 1, 2017, and each fiscal year thereafter for 2 years, the Administrator shall notify the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of—
+  - **(1)** the number of times a deadline under section 60108(e) of title 49, United States Code, was exceeded in the prior fiscal year; and
+  - **(2)** in each instance, the length of time by which the deadline was exceeded.
 
-## § 8. Technical safety standards committees
+## § 8. Improving damage prevention technology
 
-Section 60115(b)(4)(A) is amended by striking “State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.” and inserting “State officials. The Secretary shall consult with national organizations representing State commissioners or governors when making a selection under this subparagraph.”
-
-## § 9. Inspection report information
-
-- **(a)** *In general* Not later than 30 days after the completion of a pipeline safety inspection, the Administrator of the Pipeline and Hazardous Materials Safety Administration, or the State authority certified under section 60105 of title 49, United States Code, shall—
-  - **(1)** conduct a post-inspection briefing with the operator outlining concerns, and to the extent practicable, provide written preliminary findings of the inspection; or
-  - **(2)** issue to the operator a final report, notice of amendment of plans or procedures, safety order, or corrective action order, or such other applicable report, notice, or order.
-- **(b)** *Report*
-  - **(1)** *In general* The Administrator shall submit an annual report to Congress regarding—
-    - **(A)** the actions that the Pipeline and Hazardous Materials Safety Administration has taken to ensure that inspections by State authorities provide effective and timely oversight; and
-    - **(B)** statistics relating to the timeliness of the actions described in paragraphs (1) and (2) of subsection (a).
-  - **(2)** *Cessation of effectiveness* Paragraph (1) shall cease to be effective on September 30, 2019.
-
-## § 10. Pipeline odorization study
-
-Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that assesses—
-
-- **(1)** the feasibility of odorizing all combustible gas in transportation;
-- **(2)** the impacts of the odorization of all combustible gas in transportation on manufacturers, agriculture, and other end users; and
-- **(3)** the relative benefits and costs associated with odorizing all combustible gas in transportation, including impacts on health and safety, compared to using other methods to mitigate pipeline leaks.
-
-## § 11. Improving damage prevention technology
-
-- **(a)** *Study* The Secretary of Transportation, in consultation with stakeholders, shall conduct a study on improving existing damage prevention programs through technological improvements in location, mapping, excavation, and communications practices to prevent accidental excavation damage to a pipe or its coating, including considerations of technical, operational, and economic feasibility and existing damage prevention programs.
+- **(a)** *Study* The Secretary of Transportation, in consultation with stakeholders, shall conduct a study on improving existing damage prevention programs through technological improvements in location, mapping, excavation, and communications practices to prevent excavation damage to a pipe or its coating, including considerations of technical, operational, and economic feasibility and existing damage prevention programs.
 - **(b)** *Contents* The study under subsection (a) shall include—
-  - **(1)** an identification of any methods that could improve existing damage prevention programs through location and mapping practices or technologies in an effort to reduce unintended releases caused by excavation;
-  - **(2)** an analysis of how increased use of GPS digital mapping technologies, predictive analytic tools, public awareness initiatives including one-call initiatives, the use of mobile devices, and other advanced technologies could supplement existing one-call notification and damage prevention programs to reduce the frequency and severity of incidents caused by excavation damage;
-  - **(3)** an identification of any methods that could improve excavation practices or technologies in an effort to reduce pipeline damages;
+  - **(1)** an identification of any methods to improve existing damage prevention programs through location and mapping practices or technologies in an effort to reduce releases caused by excavation;
+  - **(2)** an analysis of how increased use of global positioning system digital mapping technologies, predictive analytic tools, public awareness initiatives including one-call initiatives, the use of mobile devices, and other advanced technologies could supplement existing one-call notification and damage prevention programs to reduce the frequency and severity of incidents caused by excavation damage;
+  - **(3)** an identification of any methods to improve excavation practices or technologies in an effort to reduce pipeline damage;
   - **(4)** an analysis of the feasibility of a national data repository for pipeline excavation accident data that creates standardized data models for storing and sharing pipeline accident information; and
   - **(5)** an identification of opportunities for stakeholder engagement in preventing excavation damage.
-- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives regarding the study under this section, including recommendations, that include the consideration of technical, operational, and economic feasibility, on how to incorporate, into existing damage prevention programs, technological improvements and practices that may help prevent accidental excavation damage.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report containing the results of the study conducted under subsection (a), including recommendations, that include the consideration of technical, operational, and economic feasibility, on how to incorporate into existing damage prevention programs technological improvements and practices that help prevent excavation damage.
 
-## § 12. Workforce of Pipeline and Hazardous Materials Safety Administration
+## § 9. Workforce management
 
-- **(a)** *Review* Not later than 1 year after the date of the enactment of this Act, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall submit to Congress a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including geographic allocation plans, hiring challenges, and expected retirement rates and strategies. The review shall include recommendations to address hiring challenges, training needs, and any other identified staff resource challenges.
-- **(b)** *Critical hiring needs*
-  - **(1)** *In general* Beginning on the date on which the review is submitted under subsection (a), the Administrator may certify to Congress, not less frequently than annually, that a severe shortage of qualified candidates or a critical hiring need exists for a position or group of positions in the Pipeline and Hazardous Material Safety Administration.
-  - **(2)** *Direct hire authority* Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Administrator, after making a certification under paragraph (1), may hire a candidate for the position or candidates for the group of positions indicated in the certification, as applicable.
-  - **(3)** *Terminations of effectiveness* The direct hire authority provided under paragraph (2) shall terminate on September 30, 2019.
+- **(a)** *Review* Not later than 1 year after the date of the enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including—
+  - **(1)** geographic allocation plans, hiring and time-to-hire challenges, and expected retirement rates and recruitment and retention strategies;
+  - **(2)** an identification and description of any previous periods of macroeconomic and pipeline industry conditions under which the Pipeline and Hazardous Materials Safety Administration has encountered difficulty in filling vacancies, and the degree to which special hiring authorities, including direct hiring authority authorized by the Office of Personnel Management, could have ameliorated such difficulty; and
+  - **(3)** recommendations to address hiring challenges, training needs, and any other identified staff resource challenges.
+- **(b)** *Direct hiring* Upon identification of a period described in subsection (a)(2), the Administrator of the Pipeline and Hazardous Materials Safety Administration may apply to the Office of Personnel Management for the authority to appoint qualified candidates to any position relating to pipeline safety, as determined by the Administrator, without regard to sections 3309 through 3319 of title 5, United States Code.
+- **(c)** *Savings clause* Nothing in this section shall preclude the Administrator of the Pipeline and Hazardous Materials Safety Administration from applying to the Office of Personnel Management for the authority described in subsection (b) prior to the completion of the report required under subsection (a).
 
-## § 13. Research and development
+## § 10. Information-sharing system
 
-- **(a)** *In general* In developing a research and development program plan under paragraph (3) of section 12(d) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note), the Administrator of the Pipeline and Hazardous Material Safety Administration, in consultation with the Assistant Secretary for Research and Technology, shall—
-  - **(1)** detail compliance with the consultation requirement under paragraph (2) of such section;
-  - **(2)** provide opportunities for joint research ventures with non-Federal entities, whenever practicable and appropriate, to leverage limited Federal research resources; and
-  - **(3)** permit collaborative research and development projects with appropriate non-Federal organizations.
-- **(b)** *Collaborative safety research report* Section 60124(a)(6) is amended—
-  - **(1)** in subparagraph (A), by striking “and” at the end;
-  - **(2)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(C)** research activities in collaboration with non-Federal entities, including the intended improvements to safety technology, inspection technology, operator response time, and emergency responder incident response time.
-
-## § 14. Information sharing system
-
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Transportation shall convene a working group to consider the development of a voluntary no-fault information sharing system to encourage collaborative efforts to improve inspection information feedback and information sharing with the purpose of improving natural gas transmission and hazardous liquid pipeline integrity risk analysis.
-- **(b)** *Membership* The working group described in subsection (a) shall include representatives from—
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Transportation shall convene a working group to consider the development of a voluntary information-sharing system to encourage collaborative efforts to improve inspection information feedback and information sharing with the purpose of improving gas transmission and hazardous liquid pipeline facility integrity risk analysis.
+- **(b)** *Membership* The working group convened pursuant to subsection (a) shall include representatives from—
   - **(1)** the Pipeline and Hazardous Materials Safety Administration;
-  - **(2)** industry stakeholders, including operators of pipeline facilities, inspection technology vendors, and pipeline inspection organizations;
+  - **(2)** industry stakeholders, including operators of pipeline facilities, inspection technology, coating, and cathodic protection vendors, and pipeline inspection organizations;
   - **(3)** safety advocacy groups;
   - **(4)** research institutions;
   - **(5)** State public utility commissions or State officials responsible for pipeline safety oversight;
-  - **(6)** State pipeline safety inspectors; and
-  - **(7)** labor representatives.
-- **(c)** *Considerations* The working group described in subsection (a) shall consider and provide recommendations, if applicable, to the Secretary on—
-  - **(1)** the need for and the identification of a system to ensure that dig verification data is shared with inline inspection operators to the extent consistent with the need to maintain proprietary and security sensitive data in a confidential manner to improve pipeline safety and inspection technology;
+  - **(6)** State pipeline safety inspectors;
+  - **(7)** labor representatives; and
+  - **(8)** other entities, as determined appropriate by the Secretary.
+- **(c)** *Considerations* The working group convened pursuant to subsection (a) shall consider and provide recommendations to the Secretary on—
+  - **(1)** the need for, and the identification of, a system to ensure that dig verification data are shared with in-line inspection operators to the extent consistent with the need to maintain proprietary and security-sensitive data in a confidential manner to improve pipeline safety and inspection technology;
   - **(2)** ways to encourage the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;
   - **(3)** opportunities to share data, including dig verification data between operators of pipeline facilities and in-line inspector vendors to expand knowledge of the advantages and disadvantages of the different types of in-line inspection technology and methodologies;
-  - **(4)** options to create a secure system that protects proprietary data while encouraging the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis; and
-  - **(5)** regulatory, funding, and legal barriers to sharing the information described in paragraphs (1) through (4).
-- **(d)** *FACA* The working group shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
-- **(e)** *Publication* The Secretary shall publish the recommendations provided under subsection (c) on a publicly available website.
+  - **(4)** options to create a secure system that protects proprietary data while encouraging the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;
+  - **(5)** means and best practices for the protection of safety- and security-sensitive information and proprietary information; and
+  - **(6)** regulatory, funding, and legal barriers to sharing the information described in paragraphs (1) through (4).
+- **(d)** *Publication* The Secretary shall publish the recommendations provided under subsection (c) on a publicly available Web site of the Department of Transportation.
 
-## § 15. Nationwide integrated pipeline safety regulatory database
+## § 11. Nationwide integrated pipeline safety regulatory database
 
-- **(a)** *Report* Not later than 18 months after the date of the enactment of this Act, the Secretary of Transportation shall submit a report to Congress on the feasibility of a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.
-- **(b)** *Contents* The report under subsection (a) shall include—
-  - **(1)** a description of any efforts currently underway to test a secure information-sharing system for the purpose described in subsection (a);
-  - **(2)** a description of any progress in establishing common standards for maintaining, collecting, and presenting pipeline safety regulatory inspection data, and a methodology for the sharing of the data;
-  - **(3)** a description of any existing inadequacies or gaps in State and Federal inspection, enforcement, geospatial, or other pipeline safety regulatory inspection data;
-  - **(4)** a description of the potential safety benefits of a national integrated pipeline database; and
-  - **(5)** recommendations for how to implement a secure information-sharing system that protects proprietary and security sensitive information and data for the purpose described in subsection (a).
-- **(c)** *Consultation* In preparing the report under subsection (a), the Secretary shall consult with stakeholders, including each State authority operating under a certification to regulate intrastate pipelines under section 60105 of title 49, United States Code.
+- **(a)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibility of establishing a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.
+- **(b)** *Contents* The report submitted under subsection (a) shall include—
+  - **(1)** a description of any efforts underway to test a secure information-sharing system for the purpose described in subsection (a);
+  - **(2)** a description of any progress in establishing common standards for maintaining, collecting, and presenting pipeline safety regulatory inspection data, and a methodology for sharing the data;
+  - **(3)** a description of any inadequacies or gaps in State and Federal inspection, enforcement, geospatial, or other pipeline safety regulatory inspection data;
+  - **(4)** a description of the potential safety benefits of a national integrated pipeline safety regulatory inspection database; and
+  - **(5)** recommendations, including those of stakeholders for how to implement a secure information-sharing system that protects proprietary and security sensitive information and data for the purpose described in subsection (a).
+- **(c)** *Consultation* In implementing this section, the Secretary shall consult with stakeholders, including each State authority operating under a certification to regulate intrastate pipelines under section 60105 of title 49, United States Code.
+- **(d)** *Establishment of database* The Secretary may establish, if appropriate, a national integrated pipeline safety regulatory database—
+  - **(1)** after submission of the report required under subsection (a); or
+  - **(2)** upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a).
 
-## § 16. Underground natural gas storage facilities
+## § 12. Underground gas storage facilities
 
-- **(a)** *Defined term* Section 60101(a) is amended—
-  - **(1)** in paragraph (21)(B), by striking the period at the end and inserting a semicolon;
-  - **(2)** in paragraph (24), by striking “and” at the end;
-  - **(3)** in paragraph (25), by striking the period at the end and inserting a semicolon; and
-  - **(4)** by adding at the end the following:
-    > - **(27)** underground natural gas storage facility means a gas pipeline facility that stores gas in an underground facility, including—
+- **(a)** *Defined term* Section 60101(a) of title 49, United States Code, is amended—
+  - **(1)** in paragraph (21)(B) by striking the period at the end and inserting a semicolon;
+  - **(2)** in paragraph (22)(B)(iii) by striking the period at the end and inserting a semicolon;
+  - **(3)** in paragraph (24) by striking “and” at the end;
+  - **(4)** in paragraph (25) by striking the period at the end and inserting “; and”; and
+  - **(5)** by adding at the end the following:
+    > - **(26)** “underground natural gas storage facility” means a gas pipeline facility that stores natural gas in an underground facility, including—
     >   - **(A)** a depleted hydrocarbon reservoir;
     >   - **(B)** an aquifer reservoir; or
-    >   - **(C)** a solution mined salt cavern reservoir.
+    >   - **(C)** a solution-mined salt cavern reservoir.
 
-- **(b)** *Standards for underground natural gas storage facilities* Chapter 601 is amended by inserting after section 60103 the following:
-  > ## § 60103A. Standards for underground natural gas storage facilities
+- **(b)** *Standards for underground gas storage facilities* Chapter 601 of title 49, United States Code, is amended by adding at the end the following:
+  > ## § 60141. Standards for underground natural gas storage facilities
   >
-  > - **(a)** *Minimum uniform safety standards* Not later than 2 years after the date of the enactment of the SAFE PIPES Act, the Secretary of Transportation, in consultation with the heads of other relevant Federal agencies, shall issue minimum uniform safety standards, incorporating, to the extent practicable, consensus standards for the operation, environmental protection, and integrity management of underground natural gas storage facilities.
-  > - **(b)** *Considerations* In developing uniform safety standards under subsection (a), the Secretary shall—
-  >   - **(1)** consider the economic impacts of the regulations on individual gas customers to the extent practicable;
-  >   - **(2)** ensure that the regulations do not have a significant economic impact on end users to the extent practicable;
-  >   - **(3)** consider existing consensus standards; and
-  >   - **(4)** consider the recommendations of the Aliso Canyon Task Force under section 27 of the Securing America’s Future Energy: Protecting our Infrastructure of Pipelines and Enhancing Safety Act.
-  > - **(c)** *User fees*
-  >   - **(1)** *In general* A fee shall be imposed on an entity operating an underground natural gas storage facility to which this section applies. Any such fee imposed shall be collected before the end of the fiscal year to which it applies.
-  >   - **(2)** *Means of collection* The Secretary shall prescribe procedures to collect fees under this subsection. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
-  >   - **(3)** *Use of fees*
-  >     - **(A)** *Account* There is established an underground natural gas storage facility safety account in the Pipeline Safety Fund established under section 60301, in the Treasury of the United States.
-  >     - **(B)** *Use of fees* A fee collected under this subsection—
-  >       - **(i)** shall be deposited in the underground natural gas storage facility safety account; and
-  >       - **(ii)** if the fee is related to an underground natural gas storage facility, may be used only for an activity related to underground natural gas storage safety under this section.
-  >     - **(C)** *Limitation* Amounts collected under this subsection shall be made available only to the extent provided in advance in an appropriation law for an activity related to underground natural gas storage safety.
+  > - **(a)** *Minimum safety standards* Not later than 2 years after the date of enactment of the PIPES Act of 2016, the Secretary, in consultation with the heads of other relevant Federal agencies, shall issue minimum safety standards for underground natural gas storage facilities.
+  > - **(b)** *Considerations* In developing the safety standards required under subsection (a), the Secretary shall, to the extent practicable—
+  >   - **(1)** consider consensus standards for the operation, environmental protection, and integrity management of underground natural gas storage facilities;
+  >   - **(2)** consider the economic impacts of the regulations on individual gas customers;
+  >   - **(3)** ensure that the regulations do not have a significant economic impact on end users; and
+  >   - **(4)** consider the recommendations of the Aliso Canyon natural gas leak task force established under section 31 of the PIPES Act of 2016.
+  > - **(c)** *Federal-State cooperation* The Secretary may authorize a State authority (including a municipality) to participate in the oversight of underground natural gas storage facilities in the same manner as provided in sections 60105 and 60106.
   > - **(d)** *Rules of construction*
-  >   - **(1)** *In general* Nothing in this section may be construed to affect any Federal regulation relating to gas pipeline facilities that is in effect on the day before the date of enactment of the SAFE PIPES Act.
+  >   - **(1)** *In general* Nothing in this section may be construed to affect any Federal regulation relating to gas pipeline facilities that is in effect on the day before the date of enactment of the PIPES Act of 2016.
   >   - **(2)** *Limitations* Nothing in this section may be construed to authorize the Secretary—
   >     - **(A)** to prescribe the location of an underground natural gas storage facility; or
   >     - **(B)** to require the Secretary’s permission to construct a facility referred to in subparagraph (A).
+  > - **(e)** *Preemption* A State authority may adopt additional or more stringent safety standards for intrastate underground natural gas storage facilities if such standards are compatible with the minimum standards prescribed under this section.
+  > - **(f)** *Statutory construction* Nothing in this section shall be construed to affect the Secretary’s authority under this title to regulate the underground storage of gas that is not natural gas.
 
-- **(c)** *Clerical amendment* The table of sections for chapter 601 is amended by inserting after the item relating to section 60103 the following:
+- **(c)** *User fees* Chapter 603 of title 49, United States Code, is amended by inserting after section 60301 the following:
+  > ## § 60302. User fees for underground natural gas storage facilities
+  >
+  > - **(a)** *In general* A fee shall be imposed on an entity operating an underground natural gas storage facility subject to section 60141. Any such fee imposed shall be collected before the end of the fiscal year to which it applies.
+  > - **(b)** *Means of collection* The Secretary of Transportation shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
+  > - **(c)** *Use of fees*
+  >   - **(1)** *Account* There is established an Underground Natural Gas Storage Facility Safety Account in the Pipeline Safety Fund established in the Treasury of the United States under section 60301.
+  >   - **(2)** *Use of fees* A fee collected under this section—
+  >     - **(A)** shall be deposited in the Underground Natural Gas Storage Facility Safety Account; and
+  >     - **(B)** if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.
+  >   - **(3)** *Limitation* No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.
 
-## § 17. Joint inspection and oversight
+- **(d)** *Clerical amendments*
+  - **(1)** *Chapter 601* The table of sections for chapter 601 of title 49, United States Code, is amended by adding at the end the following:
+  - **(2)** *Chapter 603* The table of sections for chapter 603 of title 49, United States Code, is amended by inserting after the item relating to section 60301 the following:
 
-To ensure the safety of pipeline transportation, the Secretary of Transportation shall coordinate with States to ensure safety through the following:
+## § 13. Joint inspection and oversight
 
-- **(1)** At the request of a State authority, the Secretary shall allow for a certified state authority under section 60105 of title 49, United States Code, to participate in the inspection of an interstate pipeline facility.
-- **(2)** Where appropriate, may provide temporary authority for a certified State authority under that section to participate in oversight of interstate pipeline safety transportation to ensure proper safety oversight and prevent an adverse impact on public safety.
+Section 60106 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(f)** *Joint inspectors* At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.
+
+## § 14. Safety data sheets
+
+- **(a)** *In general* Each owner or operator of a hazardous liquid pipeline facility, following an accident involving such pipeline facility that results in a hazardous liquid spill, shall provide safety data sheets on any spilled hazardous liquid to the designated Federal On-Scene Coordinator and appropriate State and local emergency responders within 6 hours of a telephonic or electronic notice of the accident to the National Response Center.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Federal On-Scene Coordinator* The term “Federal On-Scene Coordinator” has the meaning given such term in section 311(a) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)).
+  - **(2)** *National Response Center* The term “National Response Center” means the center described under section 300.125(a) of title 40, Code of Federal Regulations.
+  - **(3)** *Safety data sheet* The term “safety data sheet” means a safety data sheet required under section 1910.1200 of title 29, Code of Federal Regulations.
+
+## § 15. Hazardous materials identification numbers
+
+Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall issue an advanced notice of proposed rulemaking to take public comment on the petition for rulemaking dated October 28, 2015, titled “Corrections to Title 49 CFR 172.336 Identification numbers; special provisions” (P–1667).
+
+## § 16. Emergency order authority
+
+Section 60117 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(o)** *Emergency order authority*
+>   - **(1)** *In general* If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+>   - **(2)** *Considerations*
+>     - **(A)** *In general* Before issuing an emergency order under paragraph (1), the Secretary shall consider, as appropriate, the following factors:
+>       - **(i)** The impact of the emergency order on public health and safety.
+>       - **(ii)** The impact, if any, of the emergency order on the national or regional economy or national security.
+>       - **(iii)** The impact of the emergency order on the ability of owners and operators of pipeline facilities to maintain reliability and continuity of service to customers.
+>     - **(B)** *Consultation* In considering the factors under subparagraph (A), the Secretary shall consult, as the Secretary determines appropriate, with appropriate Federal agencies, State agencies, and other entities knowledgeable in pipeline safety or operations.
+>   - **(3)** *Written order* An emergency order issued by the Secretary pursuant to paragraph (1) with respect to an imminent hazard shall contain a written description of—
+>     - **(A)** the violation, condition, or practice that constitutes or is causing the imminent hazard;
+>     - **(B)** the entities subject to the order;
+>     - **(C)** the restrictions, prohibitions, or safety measures imposed;
+>     - **(D)** the standards and procedures for obtaining relief from the order;
+>     - **(E)** how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and 60117(l) are insufficient to do so; and
+>     - **(F)** how the considerations were taken into account pursuant to paragraph (2).
+>   - **(4)** *Opportunity for review* Upon receipt of a petition for review from an entity subject to, and aggrieved by, an emergency order issued under this subsection, the Secretary shall provide an opportunity for a review of the order under section 554 of title 5 to determine whether the order should remain in effect, be modified, or be terminated.
+>   - **(5)** *Expiration of effectiveness order* If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+>   - **(6)** *Judicial review of orders*
+>     - **(A)** *In general* After completion of the review process described in paragraph (4), or the issuance of a written determination by the Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.
+>     - **(B)** *Limitation* The filing of a petition for review under subparagraph (A) shall not stay or modify the force and effect of the agency’s final decision under paragraph (4), or the written determination under paragraph (5), unless stayed or modified by the Secretary.
+>   - **(7)** *Regulations*
+>     - **(A)** *Temporary regulations* Not later than 60 days after the date of enactment of the PIPES Act of 2016, the Secretary shall issue such temporary regulations as are necessary to carry out this subsection. The temporary regulations shall expire on the date of issuance of the final regulations required under subparagraph (B).
+>     - **(B)** *Final regulations* Not later than 270 days after such date of enactment, the Secretary shall issue such regulations as are necessary to carry out this subsection. Such regulations shall ensure that the review process described in paragraph (4) contains the same procedures as subsections (d) and (g) of section 109.19 of title 49, Code of Federal Regulations, and is otherwise consistent with the review process developed under such section, to the greatest extent practicable and not inconsistent with this section.
+>   - **(8)** *Imminent hazard defined* In this subsection, the term “imminent hazard” means the existence of a condition relating to a gas or hazardous liquid pipeline facility that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of such death, illness, injury, or endangerment.
+>   - **(9)** *Limitation and savings clause* An emergency order issued under this subsection may not be construed to—
+>     - **(A)** alter, amend, or limit the Secretary’s obligations under, or the applicability of, section 553 of title 5; or
+>     - **(B)** provide the authority to amend the Code of Federal Regulations.
+
+## § 17. State grant funds
+
+Section 60107 of title 49, United States Code, is amended—
+
+- **(1)** by striking subsection (b) and inserting the following:
+  > - **(b)** *Payments* After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program, except when the Secretary waives this requirement.
+
+- **(2)** by adding at the end the following:
+  > - **(e)** *Repurposing of funds* If a State program’s certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.
 
 ## § 18. Response plans
 
-In preparing or reviewing a response plan under part 194 of title 49, Code of Federal Regulations, the Administrator of the Pipeline and Hazardous Materials Safety Administration and an operator shall each address, to the maximum extent practicable, the impact of a worse case discharge of oil, or the substantial threat of such a discharge, into or on any navigable waters or adjoining shorelines that may be covered in whole or in part by ice.
+Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
 
-## § 19. High consequence areas
+- **(1)** consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and
+- **(2)** include procedures and resources for responding to such discharge in the plan.
 
-The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations to explicitly state that the Great Lakes are a USA ecological resource (as defined in section 195.6(b) of that title) for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of that title).
+## § 19. Unusually sensitive areas
 
-## § 20. Surface transportation security review
+- **(a)** *Areas To be included as unusually sensitive* Section 60109(b)(2) of title 49, United States Code, is amended by striking “have been identified as” and inserting “are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters,”.
+- **(b)** *Unusually Sensitive Areas (USA) ecological resources* The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and marine coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title).
 
-Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to Congress on the staffing, resource allocation, oversight strategy, and management of the Transportation Security Administration’s pipeline security program and other surface transportation programs. The report shall include information on the coordination between the Transportation Security Administration, other Federal stakeholders, and industry.
+## § 20. Pipeline safety technical assistance grants
 
-## § 21. Small scale liquefied natural gas facilities
+- **(a)** *Public participation limitation* Section 60130(a)(4) of title 49, United States Code, is amended by inserting “on technical pipeline safety issues” after “public participation”.
+- **(b)** *Audit* Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the grant program under section 60130 of title 49, United States Code. The report shall include—
+  - **(1)** a list of the recipients of all grant funds during fiscal years 2010 through 2015;
+  - **(2)** a description of how each grant was used;
+  - **(3)** an analysis of the compliance with the terms of grant agreements, including subsections (a) and (b) of such section;
+  - **(4)** an evaluation of the competitive process used to award the grant funds; and
+  - **(5)** an evaluation of—
+    - **(A)** the ability of the Pipeline and Hazardous Materials Safety Administration to oversee grant funds and usage; and
+    - **(B)** the procedures used for such oversight.
 
-- **(a)** *Defined term* Section 60101(a), as amended by section 16, is further amended by inserting after paragraph (25) the following:
-  > - **(26)** small scale liquefied natural gas facility means a permanent intrastate liquefied natural gas facility (other than a peak shaving facility) that produces liquefied natural gas for—
-  >   - **(A)** use as a fuel in the United States; or
-  >   - **(B)** transportation in the United States by a means other than a pipeline facility; and
+## § 21. Study of materials and corrosion prevention in pipeline transportation
 
-- **(b)** *Siting standards for permanent small scale liquefied natural gas facilities* Section 60103(a) is amended to read as follows:
-  > - **(a)** *Location standards*
-  >   - **(1)** *In general* The Secretary of Transportation shall prescribe minimum safety standards for deciding on the permanent location of a new liquefied natural gas pipeline facility or small scale liquefied natural gas facility.
-  >   - **(2)** *Liquefied natural gas facilities* In prescribing a minimum safety standard for deciding on the permanent location of a new liquefied natural gas facility, the Secretary of Transportation shall consider—
-  >     - **(A)** the kind and use of the facility;
-  >     - **(B)** the existing and projected population and demographic characteristics of the location;
-  >     - **(C)** the existing and proposed land uses near the location;
-  >     - **(D)** the natural physical aspects of the location;
-  >     - **(E)** medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility; and
-  >     - **(F)** the need to encourage remote siting.
-  >   - **(3)** *Small scale liquefied natural gas facilities*
-  >     - **(A)** *In general* Not later than 18 months after the date of the enactment of the SAFE PIPES Act, the Secretary of Transportation shall prescribe minimum safety standards for permanent small scale liquefied natural gas facilities.
-  >     - **(B)** *Considerations* In prescribing minimum safety standards under this paragraph, the Secretary shall consider—
-  >       - **(i)** the value of establishing risk-based approaches;
-  >       - **(ii)** the benefit of incorporating industry standards and best practices;
-  >       - **(iii)** the need to encourage the use of best available technology; and
-  >       - **(iv)** the factors prescribed in paragraph (2), as appropriate.
+- **(a)** *In General* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study on materials, training, and corrosion prevention technologies for gas and hazardous liquid pipeline facilities.
+- **(b)** *Requirements* The study required under subsection (a) shall include—
+  - **(1)** an analysis of—
+    - **(A)** the range of piping materials, including plastic materials, used to transport hazardous liquids and natural gas in the United States and in other developed countries around the world;
+    - **(B)** the types of technologies used for corrosion prevention, including coatings and cathodic protection;
+    - **(C)** common causes of corrosion, including interior and exterior moisture buildup and impacts of moisture buildup under insulation; and
+    - **(D)** the training provided to personnel responsible for identifying and preventing corrosion in pipelines, and for repairing such pipelines;
+  - **(2)** the extent to which best practices or guidance relating to pipeline facility design, installation, operation, and maintenance, including training, are available to recognize or prevent corrosion;
+  - **(3)** an analysis of the estimated costs and anticipated benefits, including safety benefits, associated with the use of such materials and technologies; and
+  - **(4)** stakeholder and expert perspectives on the effectiveness of corrosion control techniques to reduce the incidence of corrosion-related pipeline failures.
 
-## § 22. Report on natural gas leak reporting
+## § 22. Research and development
+
+- **(a)** *In general* Not later than 18 months after the date of enactment of this Act, the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report regarding the Pipeline and Hazardous Materials Safety Administration’s research and development program carried out under section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note). The report shall include an evaluation of—
+  - **(1)** compliance with the consultation requirement under subsection (d)(2) of such section;
+  - **(2)** the extent to which the Pipeline and Hazardous Materials Safety Administration enters into joint research ventures with Federal and non-Federal entities, and benefits thereof;
+  - **(3)** the policies and procedures the Pipeline and Hazardous Materials Safety Administration has put in place to ensure there are no conflicts of interest with administering grants pursuant to the program, and whether those policies and procedures are being followed; and
+  - **(4)** an evaluation of the outcomes of research conducted with Federal and non-Federal entities and the degree to which such outcomes have been adopted or utilized.
+- **(b)** *Collaborative safety research report*
+  - **(1)** *Biennial reports* Section 60124(a)(6) of title 49, United States Code, is amended—
+    - **(A)** in subparagraph (A), by striking “and” at the end;
+    - **(B)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(C)** a summary of each research and development project carried out with Federal and non-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.
+
+  - **(2)** *Pipeline Safety Improvement Act* Section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended—
+    - **(A)** by striking subsection (d)(3)(C) and inserting the following:
+      > - **(C)** *Funding from non-Federal sources* The Secretary shall ensure that—
+      >   - **(i)** at least 30 percent of the costs of technology research and development activities may be carried out using non-Federal sources;
+      >   - **(ii)** at least 20 percent of the costs of basic research and development with universities may be carried out using non-Federal sources; and
+      >   - **(iii)** up to 100 percent of the costs of research and development for purely governmental purposes may be carried out using Federal funds.
+
+    - **(B)** by adding at the end the following:
+      > - **(h)** *Independent experts* Not later than 180 days after the date of enactment of the PIPES Act of 2016, the Secretary shall—
+      >   - **(1)** implement processes and procedures to ensure that activities listed under subsection (c), to the greatest extent practicable, produce results that are peer-reviewed by independent experts and not by persons or entities that have a financial interest in the pipeline, petroleum, or natural gas industries, or that would be directly impacted by the results of the projects; and
+      >   - **(2)** submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the processes and procedures implemented under paragraph (1).
+      > - **(i)** *Conflict of interest* The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator.
+
+## § 23. Active and abandoned pipelines
+
+Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall issue an advisory bulletin to owners and operators of gas or hazardous liquid pipeline facilities and Federal and State pipeline safety personnel regarding procedures of the Pipeline and Hazardous Materials Safety Administration required to change the status of a pipeline facility from active to abandoned, including specific guidance on the terms recognized by the Secretary for each pipeline status referred to in such advisory bulletin.
+
+## § 24. State pipeline safety agreements
+
+- **(a)** *Study* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall complete a study on State pipeline safety agreements made pursuant to section 60106 of title 49, United States Code. Such study shall consider the following:
+  - **(1)** The integration of Federal and State or local authorities in carrying out activities pursuant to an agreement under such section.
+  - **(2)** The estimated staff and other resources used by Federal and State authorities in carrying out inspection activities pursuant to agreements under such section.
+  - **(3)** The estimated staff and other resources used by the Pipeline and Hazardous Materials Safety Administration in carrying out interstate inspections in areas where there is no interstate agreement with a State pursuant to such section.
+- **(b)** *Notice requirement for denial* Section 60106(b) of title 49, United States Code, is amended by adding at the end the following:
+  > - **(4)** *Notice upon denial* If a State authority requests an interstate agreement under this section and the Secretary denies such request, the Secretary shall provide written notification to the State authority of the denial that includes an explanation of the reasons for such denial.
+
+## § 25. Requirements for certain hazardous liquid pipeline facilities
+
+Section 60109 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(g)** *Hazardous liquid pipeline facilities*
+>   - **(1)** *Integrity assessments* Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—
+>     - **(A)** using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
+>     - **(B)** using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located.
+>   - **(2)** *Application* This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—
+>     - **(A)** that is not an offshore pipeline facility; and
+>     - **(B)** any portion of which is located at depths greater than 150 feet under the surface of the water.
+>   - **(3)** *High consequence area defined* For purposes of this subsection, the term high consequence area has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
+>   - **(4)** *Inspection and enforcement* The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
+
+## § 26. Study on propane gas pipeline facilities
+
+- **(a)** *In general* The Secretary of Transportation shall enter into an agreement with the Transportation Research Board of the National Academies to conduct a study examining the safety, regulatory requirements, techniques, and best practices applicable to pipeline facilities that transport or store only petroleum gas or mixtures of petroleum gas and air to 100 or fewer customers, in accordance with the requirements of this section.
+- **(b)** *Requirements* In conducting the study pursuant to subsection (a), the Transportation Research Board shall analyze—
+  - **(1)** Federal, State, and local regulatory requirements applicable to pipeline facilities described in subsection (a);
+  - **(2)** techniques and best practices relating to the design, installation, operation, and maintenance of such pipeline facilities; and
+  - **(3)** the costs and benefits, including safety benefits, associated with such applicable regulatory requirements and the use of such techniques and best practices.
+- **(c)** *Participation* In conducting the study pursuant to subsection (a), the Transportation Research Board shall consult with Federal, State, and local governments, private sector entities, and consumer and pipeline safety advocates, as appropriate.
+- **(d)** *Deadline* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the results of the study conducted pursuant to subsection (a) and any recommendations for improving the safety of such pipeline facilities.
+- **(e)** *Definition* In this section, the term petroleum gas has the meaning given that term in section 192.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act.
+
+## § 27. Standards for certain liquefied natural gas pipeline facilities
+
+- **(a)** *National security* Section 60103(a) of title 49, United States Code, is amended—
+  - **(1)** in paragraph (5), by striking “; and” and inserting a semicolon;
+  - **(2)** in paragraph (6), by striking the period and inserting “; and”; and
+  - **(3)** by inserting after paragraph (6) the following:
+    > - **(7)** national security.
+
+- **(b)** *Update to minimum safety standards* The Secretary of Transportation shall review and update the minimum safety standards prescribed pursuant to section 60103 of title 49, United States Code, for permanent, small scale liquefied natural gas pipeline facilities.
+- **(c)** *Savings clause* Nothing in this section shall be construed to limit the Secretary’s authority under chapter 601 of title 49, United States Code, to regulate liquefied natural gas pipeline facilities.
+
+## § 28. Pipeline odorization study
+
+Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives that assesses—
+
+- **(1)** the feasibility, costs, and benefits of odorizing all combustible gas in pipeline transportation; and
+- **(2)** the affects of the odorization of all combustible gas in pipeline transportation on—
+  - **(A)** manufacturers, agriculture, and other end users; and
+  - **(B)** public health and safety.
+
+## § 29. Report on natural gas leak reporting
 
 - **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall submit to Congress a report on the metrics provided to the Pipeline and Hazardous Materials Safety Administration and other Federal and State agencies related to lost and unaccounted for natural gas from distribution pipelines and systems.
 - **(b)** *Elements* The report required under subsection (a) shall include the following elements:
@@ -262,45 +400,29 @@ Not later than 1 year after the date of the enactment of this Act, the Comptroll
   - **(2)** An analysis of whether separate or alternative reporting could better measure the amounts and identify the location of lost and unaccounted for natural gas from natural gas distribution systems.
   - **(3)** A description of potential safety issues associated with natural gas that is lost and unaccounted for from natural gas distribution systems.
   - **(4)** An assessment of whether alternate reporting and measures will resolve any safety issues identified under paragraph (3), including an analysis of the potential impact, including potential savings, on rate payers and end users of natural gas products of such reporting and measures.
-- **(c)** *Consideration of recommendations* If the Administrator determines that alternate reporting structures or recommendations included in the report required under subsection (a) would significantly improve the reporting and measurement of lost and unaccounted for gas or safety of systems, the Administrator shall, not later than 180 days after making such determination, issue regulations, as the Administrator determines appropriate, to implement the recommendations.
+- **(c)** *Consideration of recommendations* If the Administrator determines that alternate reporting structures or recommendations included in the report required under subsection (a) would significantly improve the reporting and measurement of lost and unaccounted for gas and safety of natural gas distribution systems, the Administrator shall, not later than 1 year after making such determination, issue regulations, as the Administrator determines appropriate, to implement the recommendations.
 
-## § 23. Comptroller General review of State policies relating to natural gas leaks
+## § 30. Review of State policies relating to natural gas leaks
 
-- **(a)** *Review* The Comptroller General of the United States shall conduct a State-by-State review of State-level policies that—
+- **(a)** *Review* The Administrator of the Pipeline and Hazardous Materials Safety Administration shall conduct a State-by-State review of State-level policies that—
   - **(1)** encourage the repair and replacement of leaking natural gas distribution pipelines or systems that pose a safety threat, such as timelines to repair leaks and limits on cost recovery from ratepayers; and
-  - **(2)** that may create barriers for entities to conduct work to repair and replace leaking natural gas pipelines or distribution systems.
-- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to Congress and the Pipeline and Hazardous Materials Safety Administration a report summarizing the findings of the review conducted under subsection (a) and making recommendations on Federal or State policies or best practices that may improve safety by accelerating the repair and replacement of natural gas pipelines or systems that are leaking or releasing natural gas, including policies within the jurisdiction of the Pipeline and Hazardous Materials Safety Administration. The report shall consider the potential impact, including potential savings, of the implementation of its recommendations on ratepayers or end users of the natural gas pipeline system.
-- **(c)** *Consideration of recommendations* If the Comptroller General makes recommendations in the report submitted under subsection (a) on Federal or State policies or best practices within the jurisdiction of the Pipeline and Hazardous Materials Safety Administration, the Administrator shall, not later than 90 days after such submission, review such recommendations and report to Congress on the feasibility of implementing such recommendations. If the Administrator determines that the recommendations would significantly improve pipeline safety, the Administrator shall, not later than 180 days after making such determination and in coordination with the heads of other relevant agencies as appropriate, issue regulations, as the Administrator determines appropriate, to implement the recommendations.
+  - **(2)** may create barriers for entities to conduct work to repair and replace leaking natural gas pipelines or distribution systems.
+- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings of the review conducted under subsection (a) and recommendations on Federal or State policies or best practices to improve safety by accelerating the repair and replacement of natural gas pipelines or systems that are leaking or releasing natural gas. The report shall consider the potential impact, including potential savings, of the implementation of such recommendations on ratepayers or end users of the natural gas pipeline system.
+- **(c)** *Implementation of recommendations* If the Administrator determines that the recommendations made under subsection (b) would significantly improve pipeline safety, the Administrator shall, not later than 1 year after making such determination, and in coordination with the heads of other relevant agencies as appropriate, issue regulations, as the Administrator determines appropriate, to implement the recommendations.
 
-## § 24. Provision of response plans to appropriate committees of Congress
+## § 31. Aliso Canyon natural gas leak task force
 
-- **(a)** *Provision of plans*
-  - **(1)** *In general* Notwithstanding subsection (a)(2) of section 60138 of title 49, United States Code, and subject to paragraph (2), upon the request of the Chairperson or Ranking Member of an appropriate committee of Congress, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall provide the Chairperson or Ranking Member, as applicable, a uniquely identifiable, unredacted copy of an oil response plan under that section.
-  - **(2)** *Protection of information* Any information subject to exclusion under section 60138(a)(2) of title 49, United States Code, that is provided under paragraph (1) shall be afforded appropriate protection against unauthorized public disclosure, consistent with the rules and practices related to the protection of confidential information received by Congress.
-- **(b)** *Rule of construction* Nothing in this section shall be construed as affecting the provision of any other report, data, or other information to Congress, or its handling thereof.
-
-## § 25. Consultation with FERC as part of pre-filing procedures and permitting process for new natural gas pipeline infrastructure
-
-Where appropriate, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall consult with the Federal Energy Regulatory Commission during its pre-filing procedures and permitting process for new natural gas pipeline infrastructure to ensure the protection of people and the environment from the potential risks of hazardous materials transportation by pipeline.
-
-## § 26. Maintenance of effort
-
-Section 60107(b) is amended to read as follows:
-
-> - **(b)** *Payments* After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program, except when the Secretary waives this requirement.
-
-## § 27. Aliso Canyon natural gas leak task force
-
-- **(a)** *Establishment of task force* Not later than 15 days after the date of enactment of this Act, the Secretary of Energy shall lead and establish an Aliso Canyon Task Force (referred to in this section as the “task force”).
-- **(b)** *Membership of task force* In addition to the Secretary, the task force shall be composed of—
-  - **(1)** 1 representative from the Pipeline and Hazardous Materials Safety Administration;
+- **(a)** *Establishment of task force* Not later than 15 days after the date of enactment of this Act, the Secretary of Energy shall lead and establish an Aliso Canyon natural gas leak task force.
+- **(b)** *Membership of task force* In addition to the Secretary, the task force established under subsection (a) shall be composed of—
+  - **(1)** 1 representative from the Department of Transportation;
   - **(2)** 1 representative from the Department of Health and Human Services;
   - **(3)** 1 representative from the Environmental Protection Agency;
   - **(4)** 1 representative from the Department of the Interior;
-  - **(5)** 1 representative from the Department of Commerce; and
-  - **(6)** 1 representative from the Federal Energy Regulatory Commission.
+  - **(5)** 1 representative from the Department of Commerce;
+  - **(6)** 1 representative from the Federal Energy Regulatory Commission; and
+  - **(7)** representatives of State and local governments, as determined appropriate by the Secretary and the Administrator.
 - **(c)** *Report*
-  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the task force shall submit a final report that contains the information described in paragraph (2) to—
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the task force established under subsection (a) shall submit a final report that contains the information described in paragraph (2) to—
     - **(A)** the Committee on Energy and Natural Resources of the Senate;
     - **(B)** the Committee on Natural Resources of the House of Representatives;
     - **(C)** the Committee on Environment and Public Works of the Senate;
@@ -311,18 +433,21 @@ Section 60107(b) is amended to read as follows:
     - **(H)** the Committee on Education and the Workforce of the House of Representatives;
     - **(I)** the President; and
     - **(J)** relevant Federal and State agencies.
-  - **(2)** *Information included* The report submitted under paragraph (1) shall include, at a minimum—
+  - **(2)** *Information included* The report submitted under paragraph (1) shall include—
     - **(A)** an analysis and conclusion of the cause and contributing factors of the Aliso Canyon natural gas leak;
     - **(B)** an analysis of measures taken to stop the natural gas leak, with an immediate focus on other, more effective measures that could be taken;
-    - **(C)** an assessment of the impact of the natural gas leak on health, safety, the environment, and the economy of the residents and property surrounding Aliso Canyon, on wholesale and retail electricity prices, and on the reliability of the bulk-power system;
+    - **(C)** an assessment of the impact of the natural gas leak on—
+      - **(i)** health, safety, and the environment;
+      - **(ii)** wholesale and retail electricity prices; and
+      - **(iii)** the reliability of the bulk-power system;
     - **(D)** an analysis of how Federal, State, and local agencies responded to the natural gas leak;
-    - **(E)** in order to lessen the negative impacts of natural gas leaks from underground storage facilities, recommendations on how to improve—
+    - **(E)** in order to lessen the negative impacts of leaks from underground natural gas storage facilities, recommendations on how to improve—
       - **(i)** the response to a future leak; and
       - **(ii)** coordination between all appropriate Federal, State, and local agencies in the response to the Aliso Canyon natural gas leak and future natural gas leaks;
     - **(F)** an analysis of the potential for a similar natural gas leak to occur at other underground natural gas storage facilities in the United States;
     - **(G)** recommendations on how to prevent any future natural gas leaks;
-    - **(H)** recommendations on whether to continue operations at Aliso Canyon and other underground storage facilities in close proximity to residential populations based on an assessment of the risk of a future natural gas leak; and
-    - **(I)** a recommendation on information that is not currently collected but that would be in the public interest to collect and distribute to agencies and institutions for the continued study and monitoring of natural gas storage infrastructure in the United States.
+    - **(H)** recommendations regarding Aliso Canyon and other underground natural gas storage facilities located in close proximity to residential populations;
+    - **(I)** any recommendations on information that is not currently collected but that would be in the public interest to collect and distribute to agencies and institutions for the continued study and monitoring of natural gas storage infrastructure in the United States; and
+    - **(J)** any other recommendations, as appropriate.
   - **(3)** *Publication* The final report under paragraph (1) shall be made available to the public in an electronically accessible format.
-  - **(4)** *Findings* If, before the final report is submitted under paragraph (1), the task force finds methods to solve the natural gas leak at Aliso Canyon, finds methods to better protect the affected communities, or finds methods to help prevent other leaks, the task force shall immediately submit such findings to the entities described in subparagraphs (A) through (J) of paragraph (1).
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section such sums as may be necessary.
+  - **(4)** *Findings* If, before the final report is submitted under paragraph (1), the task force established under subsection (a) finds methods to solve the natural gas leak at Aliso Canyon, finds methods to better protect the affected communities, or finds methods to help prevent other leaks, the task force shall immediately submit such findings to the entities described in subparagraphs (A) through (J) of paragraph (1).
