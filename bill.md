@@ -30,7 +30,7 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2016”.
 ## § 3. Facilitating State implementation of national ambient air quality standards
 
 - **(a)** *Timeline for review of national ambient air quality standards*
-  - **(1)** *10-Year Cycle for All Criteria Air Pollutants* Paragraphs (1) and (2)(B) of section 109(d) of the Clean Air Act (42 U.S.C. 7409(d)) are amended by striking “five-year intervals” each place it appears and inserting “10-year intervals”.
+  - **(1)** *Ten-Year Cycle for All Criteria Air Pollutants* Paragraphs (1) and (2)(B) of section 109(d) of the Clean Air Act (42 U.S.C. 7409(d)) are amended by striking “five-year intervals” each place it appears and inserting “10-year intervals”.
   - **(2)** *Cycle for Next Review of Ozone Criteria and Standards* Notwithstanding section 109(d) of the Clean Air Act (42 U.S.C. 7409(d)), the Administrator shall not—
     - **(A)** complete, before October 26, 2025, any review of the criteria for ozone published under section 108 of such Act (42 U.S.C. 7408) or the national ambient air quality standard for ozone promulgated under section 109 of such Act (42 U.S.C. 7409); or
     - **(B)** propose, before such date, any revisions to such criteria or standard.
@@ -77,7 +77,7 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2016”.
   - **(4)** whether the Administrator recommends any statutory changes to facilitate the more efficient review and disposition of petitions submitted pursuant to such section 179B(b).
 - **(j)** *Study on ozone formation*
   - **(1)** *Study* The Administrator, in consultation with States and the National Oceanic and Atmospheric Administration, shall conduct a study on the atmospheric formation of ozone and effective control strategies, including—
-    - **(A)** the relative contribution of man-made and naturally occurring nitrogen oxides, volatile organic compounds, and other pollutants in ozone formation in urban and rural areas, and the most cost-effective control strategies to reduce ozone; and
+    - **(A)** the relative contribution of man-made and naturally occurring nitrogen oxides, volatile organic compounds, and other pollutants in ozone formation in urban and rural areas, including during wildfires, and the most cost-effective control strategies to reduce ozone; and
     - **(B)** the science of wintertime ozone formation, including photochemical modeling of wintertime ozone formation, and approaches to cost-effectively reduce wintertime ozone levels.
   - **(2)** *Peer review* The Administrator shall have the study peer reviewed by an independent panel of experts in accordance with the requirements applicable to a highly influential scientific assessment.
   - **(3)** *Report* The Administrator shall submit to Congress a report describing the results of the study, including the findings of the peer review panel.
@@ -96,3 +96,7 @@ In this Act:
   - **(A)** means a permit that is required under title I of the Clean Air Act (42 U.S.C. 7401 et seq.) for the construction or modification of a stationary source; and
   - **(B)** includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.
 - **(7)** *2015 ozone standards* The term 2015 ozone standards means the national ambient air quality standards for ozone published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).
+
+## § 5. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
