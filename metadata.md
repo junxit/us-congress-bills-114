@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 129
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 129
@@ -61,9 +61,10 @@ Expressing support for the goal of ensuring that all Holocaust victims live with
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Duckworth, Tammy [D-IL-8] (D000622)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,4 @@ Expressing support for the goal of ensuring that all Holocaust victims live with
 - 2016-06-07 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 363 - 0 (Roll no. 269). (text: CR H3475-3476)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 363 - 0 (Roll no. 269).(text: CR H3475-3476)
 - 2016-06-07 — The title of the measure was amended. Agreed to without objection.
+- 2016-06-08 — Received in the Senate and referred to the Committee on Foreign Relations.
