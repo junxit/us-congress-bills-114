@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5338
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5338
@@ -31,9 +31,10 @@ Checkpoint Optimization and Efficiency Act of 2016
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Checkpoint Optimization and Efficiency Act of 2016
 - 2016-06-07 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2016-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3467-3468)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3467-3468)
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
