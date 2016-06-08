@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3826
@@ -24,6 +24,10 @@ Mount Hood Cooper Spur Land Exchange Clarification Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2016-06-08 — [House 114-2-275](votes/house-114-2-0275.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (401–2)
+
 ## Actions
 
 - 2015-10-23 — Introduced in House
@@ -38,3 +42,11 @@ Mount Hood Cooper Spur Land Exchange Clarification Act
 - 2016-04-21 — Placed on the Union Calendar, Calendar No. 394.
 - 2016-04-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-514.
 - 2016-04-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-514.
+- 2016-06-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-06-07 — Considered under suspension of the rules. (consideration: CR H3487-3489)
+- 2016-06-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3826.
+- 2016-06-07 — Mr. Hardy moved to suspend the rules and pass the bill, as amended.
+- 2016-06-08 — Considered as unfinished business. (consideration: CR H3517)
+- 2016-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 275). (text: CR 6/7/2016 H3487-3488)
+- 2016-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 275).(text: CR 6/7/2016 H3487-3488)
