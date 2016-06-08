@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4904
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4904
@@ -47,9 +47,10 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 - 2016-06-07 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2016-06-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271). (text: CR H3480)
 - 2016-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 271).(text: CR H3480)
+- 2016-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
