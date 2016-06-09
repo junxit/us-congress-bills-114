@@ -1,7 +1,7 @@
 ---
 measure: S. 2944
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3796c` | insert | in subsection (a), by inserting “Rules, regulations, and procedures issued under this part may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability c… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3796c` | insert | by inserting “(1)” before “In making”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3796c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796d-1` | replace | by striking “No child” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3796d-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796` | add-at-end | Subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796a` | replace | by striking “No benefit” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3796a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

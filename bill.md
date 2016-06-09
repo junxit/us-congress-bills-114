@@ -17,7 +17,7 @@ This Act may be cited as the “Public Safety Officers’ Benefits Improvement A
 
 Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796c) is amended—
 
-- **(1)** in subsection (a), by inserting “Rules, regulations, and procedures issued under this part may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” after “before the Bureau.”;
+- **(1)** in subsection (a), by inserting “Rules, regulations, and procedures issued under this part may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” after “before the Bureau.”; before the last sentence;
 - **(2)** in subsection (b)—
   - **(A)** by inserting “(1)” before “In making”; and
   - **(B)** by adding at the end the following:
@@ -43,11 +43,65 @@ Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   >       - **(iii)** the number of claims for which a final determination has not been reached and the basis for the delay;
   >       - **(iv)** the amount of time required to process each claim for which a final determination has been made and, for any claim which could not be processed within 1 year of being submitted to the Bureau, the basis for any delay;
   >       - **(v)** the number of claims submitted that are related to exposure due to the September 11th, 2001, terrorism attacks and the average award amount for any such claims for which a final determination has been made;
-  >       - **(vi)** the result of each claim, including the number of claims rejected and the basis for any denial of benefits;
-  >       - **(vii)** the number of claims that were appealed;
-  >       - **(viii)** the number of claims processed per reviewer of the Bureau; and
+  >       - **(vi)** the result of each claim for which a final determination was made during the 180-day period, including the number of claims rejected and the basis for any denial of benefits;
+  >       - **(vii)** the number of claims that were appealedfor which a final determination was made and appealed during the 180-day period;
+  >       - **(viii)** the average number of claims processed per reviewer of the Bureau; and
   >       - **(ix)** the average amount of time each agency takes to submit all required information and documents to the Bureau.
-  >   - **(3)** In this subsection, the term nature of the claim means whether the claim is a claim for—
+  >       - **(ix)** information on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3), including—
+  >         - **(I)** the number of claims that are eligible for compensation under both this part and the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101 note; Public Law 107–42) (commonly referred to as the “VCF”);
+  >         - **(II)** for each claim described in subclause (I) for which compensation has been paid under the VCF, the amount of compensation paid under the VCF;
+  >         - **(III)** the number of claims described in subclause (I) for which the Bureau has made a final determination; and
+  >         - **(IV)** the number of claims described in subclause (I) for which the Bureau has not made a final determination.
+  >   - **(3)** Not later than 5 years after the date of enactment of the Public Safety Officers' Benefits Improvement Act of 2016, and every 5 years thereafter, the Comptroller General of the United States shall—
+  >     - **(A)** conduct a study on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3); and
+  >     - **(B)** submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) of paragraph (2) of this subsection in each report required under that paragraph.
+  >   - **(3) (4)** In this subsection, the term nature of the claim means whether the claim is a claim for—
   >     - **(A)** benefits under this subpart with respect to the death of a public safety officer;
   >     - **(B)** benefits under this subpart with respect to the disability of a public safety officer; or
   >     - **(C)** education assistance under subpart 2.
+
+## § 3. Age limitation for children
+
+Section 1212(c) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1(c)) is amended—
+
+- **(1)** by striking “No child” and inserting the following:
+  > - **(1)** *In general* Subject to paragraph (2), no child
+
+- **(2)** by adding at the end the following:
+  > - **(2)** *Delayed approvals*
+  >   - **(A)** *Educational assistance application* If a claim for assistance under this subpart is approved more than 1 year after the date on which the application for such assistance is filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—
+  >     - **(i)** beginning on the day after the date that is 1 year after the date on which the application is filed; and
+  >     - **(ii)** ending on the date on which the application is approved.
+  >   - **(B)** *Claim for benefits for death or permanent and total disability* In addition to an extension under subparagraph (A), if any, for an application for assistance under this subpart that relates to a claim for benefits under subpart 1 that was approved more than 1 year after the date on which the claim was filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—
+  >     - **(i)** beginning on the day after the date that is 1 year after the date on which the claim for benefits is submitted; and
+  >     - **(ii)** ending on the date on which the claim for benefits is approved.
+
+## § 4. Due diligence in paying benefit claims
+
+Subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) is amended by adding at the end the following:
+
+> ## § 1206. Due diligence in paying benefit claims
+>
+> - **(a)** *In general* The Bureau, with all due diligence, shall expeditiously attempt to obtain the information and documentation necessary to adjudicate a benefit claim filed under this part, including a claim for financial assistance under subpart 2.
+> - **(b)** *Sufficient information unavailable* If a benefit claim filed under this part, including a claim for financial assistance under subpart 2, is unable to be adjudicated by the Bureau because of a lack of information or documentation from a third party, such as a public agency, the Bureau may not abandon the benefit claim unless the Bureau has utilized the investigative tools available to the Bureau to obtain the necessary information or documentation, including subpoenas.
+
+## § 5. Presumption that officer acted properly
+
+Section 1202 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796a) is amended—
+
+- **(1)** by striking “No benefit” and inserting the following:
+  > - **(a)** *In general* No benefit
+
+- **(2)** by adding at the end the following:
+  > - **(b)** *Presumption* In determining whether a benefit is payable under this part, the Bureau shall—
+  >   - **(1)** presume that none of the limitations described in subsection (a) apply; and
+  >   - **(2)** have the burden of establishing by clear and convincing evidence that a limitation described in subsection (a) applies.
+
+## § 6. Effective date; applicability
+
+The amendments made by this Act shall—
+
+- **(1)** take effect on the date of enactment of this Act; and
+- **(2)** apply to any benefit claim or application under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) that is—
+  - **(A)** pending before the Bureau of Justice Assistance on the date of enactment; or
+  - **(B)** received by the Bureau on or after the date of enactment of this Act.
