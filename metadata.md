@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4775
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4775
@@ -62,9 +62,10 @@ Ozone Standards Implementation Act of 2016
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Trott, David A. [R-MI-11] (T000475)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (7)
 
@@ -161,3 +162,4 @@ Ozone Standards Implementation Act of 2016
 - 2016-06-08 — The Speaker designated the Honorable Jody B. Hice to act as Chairman of the Committee.
 - 2016-06-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3536)
 - 2016-06-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3535, H3537)
+- 2016-06-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
