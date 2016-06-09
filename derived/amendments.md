@@ -1,7 +1,7 @@
 ---
 measure: S. 2328
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,60 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 5 executed, 14 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 33 U.S.C. § 1127
-
-> Section 208(b) (33 U.S.C. 1127(b)) is amended by striking “may” and inserting “shall”.
-
-| | |
-|---|---|
-| Removed | `may` |
-| Inserted | `shall` |
-
-### 33 U.S.C. § 1128
-
-> in the heading, by striking “Biennial” and inserting “Periodic”; and
-
-| | |
-|---|---|
-| Removed | `Biennial` |
-| Inserted | `Periodic` |
-
-### 33 U.S.C. § 1128
-
-> in the first sentence, by striking “The Board shall report to the Congress every two years” and inserting “Not less frequently than once every 3 years, the Board shall submit to Congress a report”.
-
-| | |
-|---|---|
-| Removed | `The Board shall report to the Congress every two years` |
-| Inserted | `Not less frequently than once every 3 years, the Board shall submit to Congress a report` |
-
-### 33 U.S.C. § 1123
-
-> in the matter before subparagraph (A), by striking “With respect to sea grant colleges and sea grant institutes” and inserting “With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects”; and
-
-| | |
-|---|---|
-| Removed | `With respect to sea grant colleges and sea grant institutes` |
-| Inserted | `With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects` |
-
-### 33 U.S.C. § 1123
-
-> in subparagraph (B), in the matter before clause (i), by striking “funding among sea grant colleges and sea grant institutes” and inserting “funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects”.
-
-| | |
-|---|---|
-| Removed | `funding among sea grant colleges and sea grant institutes` |
-| Inserted | `funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects` |
 
 ## Stated, not applied
 
@@ -78,17 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1127` | replace | in the first sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1127` | replace | in paragraph (1), as designated by paragraph (1), in the second sentence, by striking “A fellowship” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1123` | amend | Section 204(c)(4)(E) (33 U.S.C. 1123(c)(4)(E)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 857-20` | repeal | Section 9 of the National Sea Grant College Program Act Amendments of 2002 (33 U.S.C. 857–20) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1123` | insert | Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter before paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”. | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1131` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1131` | replace | in subparagraph (F), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1131` | insert | in the heading for paragraph (2), by inserting “for fiscal years 2009 through 2014” after “Priority activities”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1131` | amend | Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1131` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1131` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1128` | replace | in section 209(b)(2) (33 U.S.C. 1128(b)(2)), as amended by section 6, in the third sentence, by striking “The Secretary shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 206` | replace | Section 6(g) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)) is amended by striking paragraphs (2) through (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `48 U.S.C. § 1469e` | amend | The text of section 302 of the Omnibus Insular Areas Act of 1992 (48 U.S.C. 1469e), is amended to read as follows: “The Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Island… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 644` | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | amend | Section 3(p)(4)(A) of the Small Business Act (15 U.S.C. 632(p)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `48 U.S.C. § 1492a` | insert | in subsection (a)(5), by inserting “, except that, with respect to Puerto Rico, the term means, the Secretary of Energy” after “Secretary of the Interior”; and | the bill quotes the text inserted but describes where it goes |
+| `48 U.S.C. § 1492a` | insert | by inserting “(except in the case of Puerto Rico, in which case not later than 270 days after the date of enactment of the Puerto Rico Oversight, Management, and Economic Stability Act)” after “of this Act”; and | the bill quotes the text inserted but describes where it goes |
+| `48 U.S.C. § 1492a` | insert | by inserting “(except in the case of Puerto Rico)” after “Empowering Insular Communities activity”. | the bill quotes the text inserted but describes where it goes |

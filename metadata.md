@@ -1,7 +1,7 @@
 ---
 measure: S. 2328
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2328
@@ -22,6 +22,10 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
+## Committees (1)
+
+- House — Natural Resources Committee
+
 ## Actions
 
 - 2015-11-19 — Introduced in Senate
@@ -30,3 +34,6 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - 2015-11-20 — Message on Senate action sent to the House.
 - 2015-11-30 — Received in the House.
 - 2015-11-30 — Referred to the House Committee on Natural Resources.
+- 2015-12-01 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2016-06-09 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 770, S. 2328 is considered passed House as amended.
+- 2016-06-09 — Pursuant to the provisions of H. Res. 770, S. 2328 is considered passed House as amended.
