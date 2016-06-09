@@ -35,4 +35,4 @@ This Act may be cited as the “Preventing IRS Abuse and Protecting Free Speech 
 - **(b)** *Conforming amendment* Section 6033(b)(5) of such Code is amended—
   - **(1)** by striking “all”, and
   - **(2)** by adding at the end the following: “to the extent not prohibited by subsection (n),”.
-- **(c)** *Effective date* The amendments made by this subsection shall apply to returns required to be filed for taxable years ending after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to returns required to be filed for taxable years ending after the date of the enactment of this Act.
