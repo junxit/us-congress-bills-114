@@ -1,7 +1,7 @@
 ---
 measure: S. 1879
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 25 U.S.C. § 479
+
+> by striking “The term” and inserting “Effective beginning on June 18, 1934, the term”; and
+
+| | |
+|---|---|
+| Removed | `The term` |
+| Inserted | `Effective beginning on June 18, 1934, the term` |
+
+### 25 U.S.C. § 479
+
+> by striking “any recognized Indian tribe now under Federal jurisdiction” and inserting “any federally recognized Indian tribe”.
+
+| | |
+|---|---|
+| Removed | `any recognized Indian tribe now under Federal jurisdiction` |
+| Inserted | `any federally recognized Indian tribe` |
 
 ### 25 U.S.C. § 479
 
@@ -51,4 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `25 U.S.C. § 465` | insert | The Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”), is amended by inserting after section 5 (25 U.S.C. 465) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 465` | insert | The Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”), is amended by inserting after section 5 (25 U.S.C. 465) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 1879
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1879
@@ -24,3 +24,7 @@ Interior Improvement Act
 
 - 2015-07-28 — Introduced in Senate
 - 2015-07-28 — Read twice and referred to the Committee on Indian Affairs.
+- 2015-12-02 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-06-09 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-275. Minority views filed.
+- 2016-06-09 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-275. Minority views filed.
+- 2016-06-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.
