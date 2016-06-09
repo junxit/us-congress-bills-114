@@ -1,7 +1,7 @@
 ---
 measure: S. 1109
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1109
@@ -45,3 +45,8 @@ Truth in Settlements Act of 2015
 - 2015-09-22 — Message on Senate action sent to the House.
 - 2015-09-22 — Received in the House.
 - 2015-09-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-03-01 — Committee Consideration and Mark-up Session Held.
+- 2016-03-01 — Ordered to be Reported by Unanimous Consent.
+- 2016-06-09 — Placed on the Union Calendar, Calendar No. 476.
+- 2016-06-09 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-613.
+- 2016-06-09 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-613.
