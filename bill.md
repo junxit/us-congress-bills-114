@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5415
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5415
+
+> To amend the Internal Revenue Code of 1986 to exclude from gross income student loan payments made by an employer on behalf of an employee.
+
+## § 1. Short title
+
+This Act may be cited as the “Helping Employers Lessen Payments for Students Act of 2016” or the “HELPS Act”.
+
+## § 2. Exclusion for employer student loan payments
+
+- **(a)** *In general* Section 127(c)(1) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (A), by redesignating subparagraph (B) as subparagraph (C), and by inserting after subparagraph (A) the following new subparagraph:
+  > - **(B)** the payment by an employer, on behalf of an employee, of any indebtedness of the employee under a qualified education loan (as defined in section 221(d)(1)) or any interest relating to such a loan (but only to the extent such payments for any taxable year do not exceed $10,000), and
+
+- **(b)** *Denial of double benefit* Section 221(e)(1) of such Code is amended by inserting before the period at the end the following: “, or for which an exclusion is allowable under section 127”.
+- **(c)** *Effective date* The amendments made by this section shall apply to payments after December 31, 2015.
