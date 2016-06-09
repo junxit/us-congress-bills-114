@@ -23,7 +23,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Severability
 
-If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act, or the application of that provision to persons or circumstances other than those as to which it is held invalid, is not affected thereby, provided that title III is not severable from titles I and II, and titles I and II are not severable from title III.
+- **(a)** *In general* Except as provided in subsection (b), if any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act, or the application of that provision to persons or circumstances other than those as to which it is held invalid, is not affected thereby, provided that title III is not severable from titles I and II, and titles I and II are not severable from title III.
+- **(b)** *Uniformity* If a court holds invalid any provision of this Act or the application thereof on the ground that the provision fails to treat similarly situated territories uniformly, then the court shall, in granting a remedy, order that the provision of this Act or the application thereof be extended to any other similarly situated territory, provided that the legislature of that territory adopts a resolution signed by the territory’s governor requesting the establishment and organization of a Financial Oversight and Management Board pursuant to section 101.
 
 ## § 4. Supremacy
 
@@ -56,7 +57,7 @@ In this Act—
 - **(17)** *Oversight Board* The term “Oversight Board” means a Financial Oversight and Management Board established in accordance with section 101.
 - **(18)** *Territorial government* The term “territorial government” means the government of a covered territory, including all covered territorial instrumentalities.
 - **(19)** *Territorial instrumentality*
-  - **(A)** *In general* The term “territorial instrumentality” means any political subdivision, public agency, instrumentality–including any instrumentality that is also a bank–or public corporation of a territory, and this term should be broadly construed to effectuate the purposes of this Act.
+  - **(A)** *In general* The term “territorial instrumentality” means any political subdivision, public agency, instrumentality—including any instrumentality that is also a bank—or public corporation of a territory, and this term should be broadly construed to effectuate the purposes of this Act.
   - **(B)** *Exclusion* The term “territorial instrumentality” does not include an Oversight Board.
 - **(20)** *Territory* The term “territory” means—
   - **(A)** Puerto Rico;
