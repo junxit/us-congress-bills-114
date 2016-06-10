@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Social Impact Partnerships to Pay for Results Act”.
 
-## § 2. Social impact partnerships
+## § 2. Social impact partnerships to pay for results
 
 Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at the end the following:
 
@@ -23,7 +23,7 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >     - **(B)** To redirect funds away from programs that, based on objective data, are ineffective, and into programs that achieve demonstrable, measurable results.
 >     - **(C)** To ensure Federal funds are used effectively on social services to produce positive outcomes for both service recipients and taxpayers.
 >     - **(D)** To establish the use of social impact partnerships to address some of our Nation’s most pressing problems.
->     - **(E)** To facilitate the creation of public-private partnerships that bundle philanthropic or other private resources with existing public spending to scale up effective social interventions already being implemented by private organizations, nonprofits, charitable organizations, and State and local governments across the country.
+>     - **(E)** To facilitate the creation of public-private partnerships that bundle philanthropic or other private resources with existing public spending to scale up effective social interventions already being implemented by private organizations, non-profits, charitable organizations, and State and local governments across the country.
 >     - **(F)** To bring pay-for-performance to the social sector, allowing the United States to improve the impact and effectiveness of vital social services programs while redirecting inefficient or duplicative spending.
 >     - **(G)** To incorporate outcomes measurement and randomized controlled trials or other rigorous methodologies for assessing program impact.
 >   - **(2)** *Social impact partnership application*
