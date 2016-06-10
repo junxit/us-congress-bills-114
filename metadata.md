@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3826
@@ -50,3 +50,5 @@ Mount Hood Cooper Spur Land Exchange Clarification Act
 - 2016-06-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 275). (text: CR 6/7/2016 H3487-3488)
 - 2016-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 275).(text: CR 6/7/2016 H3487-3488)
+- 2016-06-09 — Received in the Senate.
+- 2016-06-10 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.
