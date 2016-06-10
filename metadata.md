@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5169
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5169
@@ -28,3 +28,11 @@ What Works to Move Welfare Recipients into Jobs Act
 - 2016-05-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-20 — Referred to the Subcommittee on Human Resources.
+- 2016-05-24 — Committee Consideration and Mark-up Session Held.
+- 2016-05-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-06-10 — Committee on Oversight and Government discharged.
+- 2016-06-10 — Committee on Oversight and Government discharged.
+- 2016-06-10 — Placed on the Union Calendar, Calendar No. 478.
+- 2016-06-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-615, Part I.
+- 2016-06-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-615, Part I.
