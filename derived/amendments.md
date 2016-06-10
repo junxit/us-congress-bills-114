@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3636
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 2 executed, 2 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,5 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1184` | replace | by striking the period at the end and inserting the following: “, and (v) upon making the decision, the Secretary of Homeland Security shall provide a copy of the decision to the organizations consulted with under subparagraph (A) or (B)… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | in paragraph (8), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | replace | by striking the period at the end and inserting the following: “, and (v) upon making the decision, the Secretary of Homeland Security shall provide a copy of the decision to each organization with which the Secretary consulted under sub… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
