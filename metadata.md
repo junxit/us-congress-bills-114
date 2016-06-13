@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5278
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5278
@@ -21,12 +21,13 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (4)
+## Committees (5)
 
 - House — Small Business Committee
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -126,3 +127,4 @@ Puerto Rico Oversight, Management, and Economic Stability Act
 - 2016-06-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5278.
 - 2016-06-09 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2016-06-09 — The previous question was ordered pursuant to the rule. (consideration: CR H3634)
+- 2016-06-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
