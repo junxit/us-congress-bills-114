@@ -44,29 +44,33 @@ The Secretary of State shall provide annual briefings to the appropriate congres
 
 ## § 5. Progress report
 
-Not later than one year after the date of the enactment of this Act and biennially thereafter, the President shall transmit to the appropriate congressional committees a report on progress made toward to implementing the strategy for United States engagement with the Caribbean region in accordance with section 3.
+Not later than 1 year after the date of the enactment of this Act and biennially thereafter for the following 4 years, the President shall transmit to the appropriate congressional committees a report on progress made toward to implementing the strategy for United States engagement with the Caribbean region in accordance with section 3.
 
 ## § 6. Government Accountability Office report on Caribbean Basin Security Initiative
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
 
 - **(1)** An evaluation of the Caribbean Basin Security Initiative (CBSI) and the extent to which the CBSI has met Department of State and USAID benchmarks.
 - **(2)** An accounting of CBSI funding appropriated, obligated, and expended from fiscal year 2010 through fiscal year 2016.
 - **(3)** A breakdown of yearly CBSI assistance provided to each CBSI country.
 - **(4)** A description of how CBSI is coordinated with other security assistance programs in the Western Hemisphere, particularly the Merida Initiative and the Central America Regional Security Initiative, and the role of the Department of State’s Senior Coordinator for the Citizen Security Initiatives in the Western Hemisphere in such coordination.
 - **(5)** A description of all United States security assistance provided to the Caribbean region, exclusive of assistance through CBSI.
-- **(6)** Recommendations for legislative and executive action to make CBSI more effective and efficient.
+- **(6)** Recommendations for legislative and executive action to make CBSI more effective and efficient, as appropriate.
 
 ## § 7. GAO report on diplomatic engagement in the eastern Caribbean
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
 
 - **(1)** An evaluation of United States diplomatic outreach from the United States embassy in Barbados to the countries of Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines.
-- **(2)** A list of visits over the previous five years of personnel at the United States embassy in Barbados to the countries of Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines.
-- **(3)** A description of how personnel at the United States embassy in Barbados have engaged with government officials and civil society organizations in Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines over the previous five years.
-- **(4)** A description of how personnel at the United States embassy in Grenada have engaged with government officials and civil society organizations over the previous five years.
+- **(2)** A list of visits over the previous 5 years of personnel at the United States embassy in Barbados to the countries of Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines.
+- **(3)** A description of how personnel at the United States embassy in Barbados have engaged with government officials and civil society organizations in Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines over the previous 5 years.
+- **(4)** A description of how personnel at the United States embassy in Grenada have engaged with government officials and civil society organizations over the previous 5 years.
 
-## § 8. Definitions
+## § 8. Reporting cost offset
+
+Paragraph (4) of section 601(c) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)) is amended in the matter preceding subparagraph (A), by striking “the following:” and all that follows through “A workforce plan” and inserting “a workforce plan” and adjusting the margins accordingly.
+
+## § 9. Definitions
 
 In this Act:
 
