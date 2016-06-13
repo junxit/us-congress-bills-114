@@ -19,6 +19,7 @@ In this Act:
 
 - **(1)** *Director* The term “Director” means the Director of the Foundation.
 - **(2)** *Foundation* The term “Foundation” means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+- **(3)** *Major multi-user research facility* The term “major multi-user research facility” means a science and engineering infrastructure construction project that exceeds the lesser of 10 percent of a Directorate’s annual budget or $100,000,000 in total project cost that is funded in the major research equipment and facilities construction account, or any successor thereto.
 
 ## § 3. Management and oversight of large facilities
 
@@ -27,40 +28,36 @@ In this Act:
   - **(2)** serving as a Foundation-wide resource on project management, including providing expert assistance on nonscientific and nontechnical aspects of project planning, budgeting, implementation, management, and oversight;
   - **(3)** coordinating and collaborating with research directorates to share best management practices and lessons learned from prior projects; and
   - **(4)** assessing projects during preconstruction and construction phases for cost and schedule risk.
-- **(b)** *Oversight of large facilities* The Director shall appoint a senior agency official whose primary responsibility is oversight of major multi-user research facilities. The duties of this official shall include—
-  - **(1)** oversight of the development, construction, and operation of major multi-user research facilities across the Foundation;
-  - **(2)** serving as a liaison to the National Science Board for approval and oversight of major multi-user research facilities; and
-  - **(3)** periodically reviewing and updating as necessary Foundation policies and guidelines for the development and construction of major multi-user research facilities.
+- **(b)** *Oversight of large facilities* The Director shall appoint a senior agency official as head of the Large Facilities Office whose responsibility is oversight of the development, construction, and transfer to operations of major multi-user research facilities across the Foundation.
 - **(c)** *Policies for large facility costs*
-  - **(1)** *In general* The Director shall ensure that the Foundation’s polices for developing and maintaining major multi-user research facility construction costs are consistent with the best practices described in the March 2009 Government Accountability Office Report GAO–09–3SP, or any successor report thereto, and the Uniform Guidance in 2 CFR part 200.
-  - **(2)** *Cost proposal audits*
-    - **(A)** *General requirement* The Director shall ensure that a cost proposal audit is conducted on any project with a total project cost over $100,000,000, in accordance with Government Auditing Standards as established in Government Accountability Office Report GAO–12–331G, or any successor report thereto.
-    - **(B)** *Resolution of issues found* The Director, or a senior agency official within the Office of the Director designated by the Director, shall certify in writing that all issues identified by the auditor, including any finding of unjustified or questionable costs items, are resolved before the Foundation may execute a construction agreement with respect to the audited project.
+  - **(1)** *In general* The Director shall ensure that the Foundation’s polices for developing and maintaining major multi-user research facility construction costs are consistent with the best practices described in the March 2009 Government Accountability Office Report GAO-09-3SP, or any successor report thereto, the Uniform Guidance in 2 C.F.R. part 200, and the Federal Acquisition Regulation as appropriate.
+  - **(2)** *Cost proposal analysis*
+    - **(A)** *General requirement* The Director shall ensure that an external cost proposal analysis is conducted for any major multi-user research facility.
+    - **(B)** *Resolution of issues found* The Director, or a senior agency official within the Office of the Director designated by the Director, shall certify in writing that all issues identified during the cost analysis, including any findings of unjustified or questionable cost items, are resolved before the Foundation may execute a construction agreement with respect to the project.
     - **(C)** *Transmittal to Congress* The Director shall transmit each certification made under subparagraph (B) to the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate.
-  - **(3)** *Incurred cost audits* The Director shall ensure that an incurred cost audit is conducted at least biennially on any project with a total project cost over $100,000,000, in accordance with Government Auditing Standards as established in Government Accountability Office Report GAO–12–331G, or any successor report thereto, with the first incurred cost audit to commence no later than 12 months after execution of the construction agreement.
+  - **(3)** *Incurred cost audits* The Director shall ensure that an incurred cost audit is conducted at least biennially on any major multi-user research facility, in accordance with Government Auditing Standards as established in Government Accountability Office Report GAO-12-331G, or any successor report thereto, with the first incurred cost audit to commence no later than 12 months after execution of the construction agreement.
   - **(4)** *Contingencies*
     - **(A)** *In general* Except as provided for in subparagraph (C)(ii), the Foundation shall—
-      - **(i)** manage contingency in accordance with Cost Principles Uniform Guidance in 2 CFR part 200.433, or any successor thereto, except as provided in this paragraph; and
-      - **(ii)** not make any award which provides for contributions to a contingency reserve held or managed by the awardee.
-    - **(B)** *Updating policy manual* The Foundation shall update its NSF Grant Policy Manual and any other applicable guidance for contingencies on major multi-user research facilities with regard to estimating, monitoring, and accounting for contingency expenditures.
+      - **(i)** provide oversight for contingency in accordance with Cost Principles Uniform Guidance in 2 C.F.R. part 200.433, or any successor thereto, and the Federal Acquisition Regulation as appropriate, except as provided in this paragraph; and
+      - **(ii)** not make any award which provides for contributions to a contingency reserve held or managed by the awardee, as defined in 2 C.F.R. part 200.433(c).
+    - **(B)** *Updating policy manual* The Foundation shall update its Large Facilities Manual and any other applicable guidance for contingencies on major multi-user research facilities with regard to estimating, monitoring, and accounting for contingency.
     - **(C)** *Foundation requirements* The policy updated under subparagraph (B) shall require that the Foundation—
-      - **(i)** may only include contingency amounts in an award in accordance with Cost Principles Uniform Guidance in 2 CFR part 200.433, or any successor thereto; and
-      - **(ii)** shall retain control over funds budgeted for contingency reserve, but may disburse budgeted contingency funds incrementally to the awardee to ensure project stability and continuity.
+      - **(i)** may only include contingency amounts in an award in accordance with Cost Principles Uniform Guidance in 2 C.F.R. part 200.433, or any successor thereto, and the Federal Acquisition Regulation as appropriate; and
+      - **(ii)** shall retain control over funds budgeted for contingency, but may disburse budgeted contingency funds incrementally to the awardee to ensure project stability and continuity.
     - **(D)** *Awardee requirements* The policy updated under subparagraph (B) shall require that an awardee shall—
-      - **(i)** provide verifiable cost data for any amounts proposed for contingencies;
-      - **(ii)** support requests for the release of contingency funds with evidence of a bona fide need and verifiable cost data to establish that the amounts sought are reasonable, allocable, and allowable; and
-      - **(iii)** record and report all contingency expenditures to the Foundation.
+      - **(i)** provide verifiable documentation to support any amounts proposed for contingencies; and
+      - **(ii)** support requests for the release of contingency funds with evidence of a bona fide need and that the amounts allocated to the performance baseline are reasonable and allowable.
     - **(E)** *Current awardees* The Foundation shall work with awardees for whom awards with contingency provisions have been made before the date of enactment of this Act—
       - **(i)** to determine if any of their use of contingency funds represents out-of-scope changes for which Foundation’s prior written approval was not obtained; and
       - **(ii)** if out-of-scope changes are found, to identify any financial action that may be appropriate.
   - **(5)** *Management fees*
-    - **(A)** *Definition* In this paragraph, the term “management fee” means a portion of an award made by the Foundation for the purpose of covering ordinary and legitimate business expenses necessary to maintain operational stability which are not otherwise allowable under Cost Principles Uniform Guidance in 2 CFR part 200, Subpart E, or any successor regulation thereto.
-    - **(B)** *Limitation* The Foundation may provide management fees under an award only if the awardee has demonstrated that it has limited or no other financial resources available for covering the expenses for which the management fees are sought.
+    - **(A)** *Definition* In this paragraph, the term “management fee” means a portion of an award made by the Foundation for the purpose of covering ordinary and legitimate business expenses necessary to maintain operational stability which are not otherwise allowable under Cost Principles Uniform Guidance in 2 C.F.R. part 200, Subpart E, or any successor regulation thereto.
+    - **(B)** *Limitation* The Foundation may provide a management fee under an award only if the awardee provides justification as to the need for such funds. In such cases, the Foundation shall take into account the awardee’s overall financial circumstances when determining the amount of the fee if justified.
     - **(C)** *Financial information* The Foundation shall require award applicants to provide income and financial information covering a period of no less than 3 prior years (or in the case of an entity established less than 3 years prior to the entity’s application date, the period beginning on the date of establishment and ending on the application date), including cash on hand and net asset information, in support of a request for management fees. The Foundation shall also require awardees to report to the Foundation annually any sources of non-Federal funds received in excess of $50,000 during the award period.
     - **(D)** *Expense reporting* The Foundation shall require awardees to track and report to the Foundation annually all expenses reimbursed or otherwise paid for with management fee funds, in accordance with Federal accounting practices as established in Government Accountability Office Report GAO–12–331G, or any successor report thereto.
     - **(E)** *Audits* The Inspector General of the Foundation may audit any Foundation award for compliance with this paragraph.
     - **(F)** *Prohibited uses* An awardee may not use management fees for—
-      - **(i)** costs allowable under Cost Principles Uniform Guidance in 2 CFR part 200, Subpart E, or any successor regulation thereto;
+      - **(i)** costs allowable under Cost Principles Uniform Guidance in 2 C.F.R. part 200, Subpart E, or any successor regulation thereto;
       - **(ii)** alcoholic beverages;
       - **(iii)** tickets to concerts, sporting, or other entertainment events;
       - **(iv)** vacation or other travel for nonbusiness purposes;
@@ -68,10 +65,11 @@ In this Act:
       - **(vi)** social or sporting club memberships;
       - **(vii)** meals or entertainment for nonbusiness purposes;
       - **(viii)** luxury or personal items;
-      - **(ix)** lobbying, as described in the Uniform Guidance at 2 CFR 200.450; or
+      - **(ix)** lobbying, as described in the Uniform Guidance at 2 C.F.R. 200.450; or
       - **(x)** any other purpose the Foundation determines is inappropriate.
     - **(G)** *Review* The Foundation shall review management fee usage for each Foundation award on at least an annual basis for compliance with this paragraph and the Foundation’s Large Facilities Manual.
-  - **(6)** *Report* Not later than 12 months after the date of enactment of this Act, the Director shall submit to Congress a report describing the Foundation’s policies for developing and managing major multi-user research facility construction costs, including a description of any aspects of the policies that diverge from the best practices recommended in Government Accountability Office Report GAO–09–3SP, or any successor report thereto, and the Uniform Guidance in 2 CFR part 200.
+  - **(6)** *Report* Not later than 12 months after the date of enactment of this Act, the Director shall submit to Congress a report describing the Foundation’s policies for developing and managing major multi-user research facility construction costs, including a description of any aspects of the policies that diverge from the best practices recommended in Government Accountability Office Report GAO-09-3SP, or any successor report thereto, and the Uniform Guidance in 2 C.F.R. part 200.
+  - **(7)** *Noncompliance* The Director shall ensure that the Foundation shall take the enforcement actions specified in 45 C.F.R. 92.43 for noncompliance with this section.
 
 ## § 4. Whistleblower education
 
