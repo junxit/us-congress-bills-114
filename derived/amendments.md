@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5312
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -170,7 +170,7 @@ to guess them.
 
 ### 15 U.S.C. § 5511
 
-> in subparagraph (F), by striking “high-performance” and inserting “high-end”;
+> in subparagraph (F), by striking “high-performance” and inserting “high-end”; and
 
 | | |
 |---|---|

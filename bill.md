@@ -92,7 +92,7 @@ Section 101 of the High-Performance Computing Act of 1991 (15 U.S.C. 5511) is am
     - **(iii)** by amending subparagraph (E) to read as follows:
       > - **(E)** encourage and monitor the efforts of the agencies participating in the Program to allocate the level of resources and management attention necessary to ensure that the strategic plan under subsection (e) is developed and executed effectively and that the objectives of the Program are met; and
 
-    - **(iv)** in subparagraph (F), by striking “high-performance” and inserting “high-end”;
+    - **(iv)** in subparagraph (F), by striking “high-performance” and inserting “high-end”; and
   - **(D)** in paragraph (3)—
     - **(i)** by redesignating subparagraphs (B), (C), (D), and (E) as subparagraphs (E), (F), (G), and (J), respectively;
     - **(ii)** by inserting after subparagraph (A) the following new subparagraphs:
@@ -133,7 +133,7 @@ Section 101 of the High-Performance Computing Act of 1991 (15 U.S.C. 5511) is am
   >   - **(1)** periodically assess and update, as appropriate, the contents, scope, and funding levels of the Program Component Areas and work through the National Science and Technology Council and with the assistance of the National Coordination Office described under section 102 to restructure the Program when warranted, taking into consideration any relevant recommendations of the advisory committee established under subsection (b); and
   >   - **(2)** working through the National Science and Technology Council and with the assistance of the National Coordination Office described under section 102, ensure that the Program includes large-scale, long-term, interdisciplinary research and development activities, including activities described in section 103.
   > - **(e)** *Strategic plan*
-  >   - **(1)** *In general* The agencies identified in subsection (a)(3)(B), working through the National Science and Technology Council and with the assistance of the National Coordination Office described under section 102, shall develop, within 12 months after the date of enactment of the Networking and Information Technology Research and Development Modernization Act of 2016, and update every five years thereafter, a five-year strategic plan for the Program.
+  >   - **(1)** *In general* The agencies identified in subsection (a)(3)(B), working through the National Science and Technology Council and with the assistance of the National Coordination Office described under section 102, shall develop, within 12 months after the date of enactment of the Networking and Information Technology Research and Development Modernization Act of 2016, and update every 5 years thereafter, a 5-year strategic plan for the Program.
   >   - **(2)** *Contents* The strategic plan shall specify near-term and long-term cross-cutting objectives for the Program, the anticipated time frame for achieving the near-term objectives, the metrics to be used for assessing progress toward the objectives, and how the Program will—
   >     - **(A)** address long-term challenges of national importance for which solutions require large-scale, long-term, interdisciplinary research and development;
   >     - **(B)** encourage and support mechanisms for interdisciplinary research and development in networking and information technology and for Grand Challenges, including through collaborations across agencies, across Program Component Areas, with industry, with Federal laboratories (as defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703)), and with international organizations;
@@ -163,8 +163,8 @@ Section 102 of such Act (15 U.S.C. 5512) is amended to read as follows:
 >   - **(4)** conduct and increase outreach, including to academia, industry, other relevant organizations and institutions, and the public, in order to increase awareness of the Program and the benefits of the Program and to increase potential opportunities for collaboration between agencies participating in the Program and the private sector; and
 >   - **(5)** promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government and to United States industry.
 > - **(c)** *Source of funding*
->   - **(1)** *In general* The operation of the National Coordination Office shall be supported by funds from each agency participating in the Program.
->   - **(2)** *Specifications* The portion of the total budget of such Office that is provided by each agency for each fiscal year shall be in the same proportion as each such agency’s share of the total budget for the Program for the previous fiscal year, as specified in the report required under section 101(a)(3).
+>   - **(1)** *In general* The operation of the National Coordination Office shall be supported by funds from each agency participating in the Program, subject to the availability of appropriations for such purpose.
+>   - **(2)** *Specifications* The portion of the total budget of such Office that is authorized to be provided by each agency for each fiscal year shall be in the same proportion as each such agency’s share of the total budget for the Program for the previous fiscal year, as specified in the report required under section 101(a)(3).
 >   - **(3)** *Waiver* As appropriate, the Director may consider and approve a reduction or waiver of an agency contribution requirement under paragraph (2).
 
 ## § 7. Next Generation Internet
