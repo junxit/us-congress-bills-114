@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 135
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make technical corrections in the enrol
 - 2016-06-09 — Mr. Bishop (UT) asked unanimous consent to consider as introduced.
 - 2016-06-09 — On agreeing to the resolution Agreed to without objection. (text: CR H3635)
 - 2016-06-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3635)
+- 2016-06-13 — Received in the Senate.
