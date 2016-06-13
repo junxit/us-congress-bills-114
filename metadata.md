@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3636
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3636
@@ -39,3 +39,10 @@ O-VISA Act
 - 2016-06-10 — Placed on the Union Calendar, Calendar No. 477.
 - 2016-06-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-614.
 - 2016-06-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-614.
+- 2016-06-13 — Considered under suspension of the rules. (consideration: CR H3719-3721)
+- 2016-06-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3636.
+- 2016-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-13 — Mrs. Walters, Mimi moved to suspend the rules and pass the bill, as amended.
+- 2016-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3719)
+- 2016-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3719)
+- 2016-06-13 — The title of the measure was amended. Agreed to without objection.

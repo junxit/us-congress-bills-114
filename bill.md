@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3636
 
-> To amend the Immigration and Nationality Act to allow labor organizations and management organizations to receive the results of visa petitions about which such organizations have submitted advisory opinions, and for other purposes.
+> To amend the Immigration and Nationality Act to allow labor organizations and management organizations to receive the results of visa petitions about which such organizations have submitted advisory opinions.
 
 ## § 1. Short title
 
