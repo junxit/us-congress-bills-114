@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5325
@@ -138,3 +138,4 @@ Continuing Appropriations and Military Construction, Veterans Affairs, and Relat
 - 2016-06-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5325.
 - 2016-06-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3691)
 - 2016-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H3690)
+- 2016-06-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
