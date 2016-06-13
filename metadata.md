@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 112
@@ -30,9 +30,10 @@ Expressing the sense of Congress opposing the President's proposed $10 tax on ev
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Expressing the sense of Congress opposing the President's proposed $10 tax on ev
 - 2016-06-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 253 - 144, 2 Present (Roll no. 296).(text: CR H3677)
 - 2016-06-10 — Resolution provides for consideration of H.R. 4775, H. Con. Res. 89, and H. Con. Res. 112.
 - 2016-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H3683)
+- 2016-06-13 — Received in the Senate and referred to the Committee on Finance.
