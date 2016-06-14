@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3694
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3694
@@ -30,9 +30,10 @@ Strategy To Oppose Predatory Organ Trafficking Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Strategy To Oppose Predatory Organ Trafficking Act
 - 2016-06-13 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3721-3722)
 - 2016-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3721-3722)
+- 2016-06-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
