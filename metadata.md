@@ -1,7 +1,7 @@
 ---
 measure: S. 2943
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2943
@@ -16,13 +16,1012 @@ National Defense Authorization Act for Fiscal Year 2017
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (1)
+## Cosponsors (989)
 
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
 - Senate — Armed Services Committee
+
+## Recorded votes (8)
+
+- 2016-05-25 — [Senate 114-2-87](votes/senate-114-2-0087.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (98–0)
+- 2016-06-06 — [Senate 114-2-89](votes/senate-114-2-0089.md) — On the Amendment — **Amendment Agreed to** (91–0)
+- 2016-06-07 — [Senate 114-2-90](votes/senate-114-2-0090.md) — On the Amendment — **Amendment Agreed to** (66–32)
+- 2016-06-07 — [Senate 114-2-91](votes/senate-114-2-0091.md) — On the Amendment — **Amendment Agreed to** (70–28)
+- 2016-06-09 — [Senate 114-2-95](votes/senate-114-2-0095.md) — On the Cloture Motion — **Cloture Motion Rejected** (43–55)
+- 2016-06-09 — [Senate 114-2-96](votes/senate-114-2-0096.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–42)
+- 2016-06-10 — [Senate 114-2-97](votes/senate-114-2-0097.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–23)
+- 2016-06-14 — [Senate 114-2-98](votes/senate-114-2-0098.md) — On Passage of the Bill — **Bill Passed** (85–13)
 
 ## Actions
 
@@ -35,3 +1034,746 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-05-18 — Introduced in Senate
 - 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.
 - 2016-05-18 — Senate amendment submitted
+- 2016-05-19 — Senate amendment submitted
+- 2016-05-19 — Senate amendment submitted
+- 2016-05-23 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3047-3048; text: CR S3047)
+- 2016-05-23 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3047-3048; text: CR S3047)
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-23 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-24 — Senate amendment submitted
+- 2016-05-25 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 87. (consideration: CR S3135; text: CR S3135)
+- 2016-05-25 — Motion to proceed to measure considered in Senate. (consideration: CR S3135-3162, S3163-3167)
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-25 — Senate amendment submitted
+- 2016-05-26 — Motion to proceed to measure considered in Senate. (consideration: CR S3234-3253)
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-05-26 — Senate amendment submitted
+- 2016-06-06 — Amendment SA 4206 agreed to in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 89.
+- 2016-06-06 — Amendment SA 4206 proposed by Senator McCain for Senator Fischer. (consideration: CR S3397-3405; text: CR S3397-3398) To modify the requirement that the Secretary of Defense implement measures to maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces.
+- 2016-06-06 — Amendment SA 4229 proposed by Senator McCain. (consideration: CR S3405) To address unfunded priorities of the Armed Forces.
+- 2016-06-06 — Measure laid before Senate by motion. (consideration: CR S3397-3408)
+- 2016-06-06 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2016-06-06 — Roll call votes on amendments in Senate: Amendment SA 4206 agreed to in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 89.
+- 2016-06-06 — Senate amendment agreed to: Amendment SA 4206 agreed to in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 89.
+- 2016-06-06 — Senate amendment proposed (on the floor): Amendment SA 4206 proposed by Senator McCain for Senator Fischer.(consideration: CR S3397-3405; text: CR S3397-3398)
+- 2016-06-06 — Senate amendment proposed (on the floor): Amendment SA 4229 proposed by Senator McCain.(consideration: CR S3405)
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-06 — Senate amendment submitted
+- 2016-06-07 — Amendment SA 4031 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4031 proposed by Senator McCain for Senator Cardin. (consideration: CR S3488-3490) To impose sanctions with respect to foreign persons responsible for gross violations of internationally recognized human rights.
+- 2016-06-07 — Amendment SA 4071 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4071 proposed by Senator McCain for Senator Hatch. (consideration: CR S3488-3490; text: CR S3489-3490) To redesignate the Assistant Secretary of the Air Force for Acquisition as the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics.
+- 2016-06-07 — Amendment SA 4079 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4079 proposed by Senator McCain for Senator Heitkamp. (consideration: CR S3488-3490; text: CR S3489) To ensure continued operational capability for long-range bomber missions in the event of termination of the B-21 bomber program.
+- 2016-06-07 — Amendment SA 4086 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4086 proposed by Senator McCain for Senator Murkowski. (consideration: CR S3488-3490; text: CR S3490) To authorize a lease of real property at Joint Base Elmendorf-Richardson, Alaska.
+- 2016-06-07 — Amendment SA 4095 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4095 proposed by Senator McCain for Senator Ernst. (consideration: CR S3488-3490) To improve Federal program and project management.
+- 2016-06-07 — Amendment SA 4112 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4112 proposed by Senator McCain for Senator Gillibrand. (consideration: CR S3488-3490; text: CR S3489) To expand protections against wrongful discharge to sexual assault survivors.
+- 2016-06-07 — Amendment SA 4119 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4119 proposed by Senator McCain for Senator Roberts. (consideration: CR S3488-3490; text: CR S3490) To prohibit reprogramming requests of the Department of Defense for funds for the transfer or release, or construction for the transfer or release, of individuals detained at United States Naval Station, Guantanamo Bay, Cuba.
+- 2016-06-07 — Amendment SA 4138 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4138 proposed by Senator McCain for Senator Peters. (consideration: CR S3488-3490, S3525-3526; text: CR S3488) To provide for the treatment by discharge review boards of claims asserting post-traumatic stress disorder or traumatic brain injury in connection with combat or sexual trauma as a basis for review of discharge.
+- 2016-06-07 — Amendment SA 4169 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4169 proposed by Senator McCain for Senator Coats. (consideration: CR S3488-3490; text: CR S3489) To require a report on the discharge by warrant officers of pilot and other flight officer positions in the Navy, Marine Corps, and Air Force currently discharged by commissioned officers.
+- 2016-06-07 — Amendment SA 4177 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4177 proposed by Senator McCain for Senator Schumer. (consideration: CR S3488-3490; text: CR S3489) To require a report on the replacement of the security forces and communications training facility at Frances S. Gabreski Air National Guard Base, New York.
+- 2016-06-07 — Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 91.
+- 2016-06-07 — Amendment SA 4204 proposed by Senator Inhofe. (consideration: CR S3491-3492, S3492-2503, S3504, S3525-3534; text: CR S3491) To strike the provision relating to the pilot program on privatization of the Defense Commissary System.
+- 2016-06-07 — Amendment SA 4236 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4236 proposed by Senator McCain for Senator Portman. (consideration: CR S3488-3490; text: CR S3489-3490) To require a report on priorities for bed downs, basing criteria, and special mission units for C-130J aircraft of the Air Force.
+- 2016-06-07 — Amendment SA 4247 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4247 proposed by Senator McCain for Senator Daines. (consideration: CR S3488-3490; text: CR S3490) To require an expedited decision with respect to securing land-based missile fields.
+- 2016-06-07 — Amendment SA 4293 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4293 proposed by Senator McCain for Senator Baldwin. (consideration: CR S3488-3490; text: CR S3488-3489) To require a National Academy of Sciences study on alternative technologies for conventional munitions demilitarization.
+- 2016-06-07 — Amendment SA 4317 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4317 proposed by Senator McCain for Senator Hirono. (consideration: CR S3488-3490; text: CR S3489) To fulfill the commitment of the United States to the Republic of Palau.
+- 2016-06-07 — Amendment SA 4344 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4344 proposed by Senator McCain for Senator Sullivan. (consideration: CR S3488-3490; text: CR S3490) To authorize military-to-military exchanges with India.
+- 2016-06-07 — Amendment SA 4354 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Amendment SA 4354 proposed by Senator McCain for Senator Leahy. (consideration: CR S3488-3490; text: CR S3489) To clarify that the National Guard's mission is both Federal and non-Federal for purposes of a report on the cost of conversion of military technicians to active Guard and Reserve.
+- 2016-06-07 — Amendment SA 4369 agreed to in Senate by Yea-Nay Vote. 66 - 32. Record Vote Number: 90.
+- 2016-06-07 — Amendment SA 4369 proposed by Senator Durbin. (consideration: CR S3503-3504; text: CR S3503-3504) To provide that certain provisions in this Act relating to limitations, transparency, and oversight regarding medical research conducted by the Department of Defense shall have no force or effect.
+- 2016-06-07 — Amendment SA 4549 proposed by Senator Reed to Amendment SA 4229. (consideration: CR S3525; text: CR S3525) To authorize parity for defense and nondefense spending pursuant to the Bipartisan Budget Act of 2015.
+- 2016-06-07 — Cloture motion on amendment SA 4229 presented in Senate. (consideration: CR S3534; text: CR S3534)
+- 2016-06-07 — Cloture motion on amendment SA 4549 presented in Senate. (consideration: CR S3534; text: CR S3534)
+- 2016-06-07 — Considered by Senate. (consideration: CR S3474)
+- 2016-06-07 — Considered by Senate. (consideration: CR S3474-3492, S3492-3511, S3525-3534)
+- 2016-06-07 — Roll call votes on amendments in Senate: Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 91.
+- 2016-06-07 — Roll call votes on amendments in Senate: Amendment SA 4369 agreed to in Senate by Yea-Nay Vote. 66 - 32. Record Vote Number: 90.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4031 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4071 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4079 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4086 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4095 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4112 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4119 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4138 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4169 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4177 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 91.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4236 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4247 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4293 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4317 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4344 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4354 agreed to in Senate by Voice Vote.
+- 2016-06-07 — Senate amendment agreed to: Amendment SA 4369 agreed to in Senate by Yea-Nay Vote. 66 - 32. Record Vote Number: 90.
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4031 proposed by Senator McCain for Senator Cardin.(consideration: CR S3488-3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4071 proposed by Senator McCain for Senator Hatch.(consideration: CR S3488-3490; text: CR S3489-3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4079 proposed by Senator McCain for Senator Heitkamp.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4086 proposed by Senator McCain for Senator Murkowski.(consideration: CR S3488-3490; text: CR S3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4095 proposed by Senator McCain for Senator Ernst.(consideration: CR S3488-3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4112 proposed by Senator McCain for Senator Gillibrand.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4119 proposed by Senator McCain for Senator Roberts.(consideration: CR S3488-3490; text: CR S3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4138 proposed by Senator McCain for Senator Peters.(consideration: CR S3488-3490, S3525-3526; text: CR S3488)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4169 proposed by Senator McCain for Senator Coats.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4177 proposed by Senator McCain for Senator Schumer.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4204 proposed by Senator Inhofe.(consideration: CR S3491-3492, S3492-2503, S3504, S3525-3534; text: CR S3491)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4236 proposed by Senator McCain for Senator Portman.(consideration: CR S3488-3490; text: CR S3489-3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4247 proposed by Senator McCain for Senator Daines.(consideration: CR S3488-3490; text: CR S3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4293 proposed by Senator McCain for Senator Baldwin.(consideration: CR S3488-3490; text: CR S3488-3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4317 proposed by Senator McCain for Senator Hirono.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4344 proposed by Senator McCain for Senator Sullivan.(consideration: CR S3488-3490; text: CR S3490)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4354 proposed by Senator McCain for Senator Leahy.(consideration: CR S3488-3490; text: CR S3489)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4369 proposed by Senator Durbin.(consideration: CR S3503-3504; text: CR S3503-3504)
+- 2016-06-07 — Senate amendment proposed (on the floor): Amendment SA 4549 proposed by Senator Reed to Amendment SA 4229.(consideration: CR S3525; text: CR S3525)
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-07 — Senate amendment submitted
+- 2016-06-08 — Cloture motion on the measure presented in Senate. (consideration: CR S3635; text: CR S3635)
+- 2016-06-08 — Considered by Senate. (consideration: CR S3601, S3607-3609, S3631-3632)
+- 2016-06-08 — Considered by Senate. (consideration: CR S3601-3604, S3604-3632, S3635)
+- 2016-06-08 — Considered by Senate. (consideration: CR S3601-3604, S3606-3607, S3609-3612, S3627-3628)
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-08 — Senate amendment submitted
+- 2016-06-09 — Amendment SA 4603 proposed by Senator Reed for Senator Reid to Amendment SA 4607. (consideration: CR S3684; text: CR S3684) To change the enactment date.
+- 2016-06-09 — Amendment SA 4607 proposed by Senator McCain. (consideration: CR S3680-3684; text: CR S3680) To amend the provision on share-in-savings contracts.
+- 2016-06-09 — Cloture on amendment SA 4229 not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 96. (consideration: CR S3680; text: CR S3680)
+- 2016-06-09 — Cloture on amendment SA 4549 not invoked in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 95. (consideration: CR S3679; text: CR S3679)
+- 2016-06-09 — Considered by Senate. (consideration: CR S3668, S3669-3672)
+- 2016-06-09 — Considered by Senate. (consideration: CR S3668, S3677-3679)
+- 2016-06-09 — Considered by Senate. (consideration: CR S3668-3677, S3677-3715)
+- 2016-06-09 — Proposed amendment SA 4229 withdrawn in Senate. (consideration: CR S3680)
+- 2016-06-09 — Roll call votes on amendments in Senate: Cloture on amendment SA 4229 not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 96.(consideration: CR S3680; text: CR S3680)
+- 2016-06-09 — Roll call votes on amendments in Senate: Cloture on amendment SA 4549 not invoked in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 95.(consideration: CR S3679; text: CR S3679)
+- 2016-06-09 — SA 4549 fell when SA 4229 withdrawn.
+- 2016-06-09 — Senate amendment proposed (on the floor): Amendment SA 4603 proposed by Senator Reed for Senator Reid to Amendment SA 4607.(consideration: CR S3684; text: CR S3684)
+- 2016-06-09 — Senate amendment proposed (on the floor): Amendment SA 4607 proposed by Senator McCain.(consideration: CR S3680-3684; text: CR S3680)
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-09 — Senate amendment submitted
+- 2016-06-10 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 68 - 23. Record Vote Number: 97. (consideration: CR S3789; text: CR S3789)
+- 2016-06-10 — Considered by Senate. (consideration: CR S3787-3790, S3790, S3791-3792, S3792; text: CR S3788-3790)
+- 2016-06-10 — Considered by Senate. (consideration: CR S3788-3790)
+- 2016-06-10 — Considered by Senate. (consideration: CR S3788-3790)
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-10 — Senate amendment submitted
+- 2016-06-13 — Considered by Senate. (consideration: CR S3815)
+- 2016-06-13 — Considered by Senate. (consideration: CR S3815)
+- 2016-06-13 — Considered by Senate. (consideration: CR S3815-3823)
+- 2016-06-13 — Senate amendment submitted
+- 2016-06-14 — Amendment SA 4607 agreed to in Senate by Voice Vote.
+- 2016-06-14 — Amendment SA 4670 as modified agreed to in Senate by Voice Vote. (text as modified: CR S3839-3840)
+- 2016-06-14 — Amendment SA 4670 proposed by Senator Nelson to Amendment SA 4607. (consideration: CR S3835-3841; text: CR S3835) To improve the amendment.
+- 2016-06-14 — Considered by Senate. (consideration: CR S3835)
+- 2016-06-14 — Considered by Senate. (consideration: CR S3835, S3841)
+- 2016-06-14 — Considered by Senate. (consideration: CR S3835-3841)
+- 2016-06-14 — Passed Senate with amendments by Yea-Nay Vote. 85 - 13. Record Vote Number: 98. (text: CR 6/15/2016 S4011-4255)
+- 2016-06-14 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 85 - 13. Record Vote Number: 98.(text: CR 6/15/2016 S4011-4255)
+- 2016-06-14 — Proposed amendment SA 4603 withdrawn in Senate. (consideration: CR S3835)
+- 2016-06-14 — Senate amendment agreed to: Amendment SA 4607 agreed to in Senate by Voice Vote.
+- 2016-06-14 — Senate amendment agreed to: Amendment SA 4670 as modified agreed to in Senate by Voice Vote.(text as modified: CR S3839-3840)
+- 2016-06-14 — Senate amendment proposed (on the floor): Amendment SA 4670 proposed by Senator Nelson to Amendment SA 4607.(consideration: CR S3835-3841; text: CR S3835)
+- 2016-06-14 — Senate amendment submitted
