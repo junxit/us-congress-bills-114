@@ -22,7 +22,7 @@ This Act may be cited as the “Preventing IRS Abuse and Protecting Free Speech 
   >     - **(A)** *In general* Paragraph (1) shall not apply—
   >       - **(i)** to any disclosure required by subsection (a)(2), and
   >       - **(ii)** with respect to any a contribution, grant, bequest, devise, or gift of money or property made by an officer or director of the organization (or an individual having powers or responsibilities similar to those of officers or directors) or any covered employee.
-  >     - **(B)** *Covered employee* For purposes of this paragraph, the term covered employee means any employee (including any former employee) of the organization if the employee is one of the 5 highest compensated employees of the organization for the taxable year.
+  >     - **(B)** *Covered employee* For purposes of this paragraph, the term covered employee means any employee (including any former employee) of the organization if the employee is one of the five highest compensated employees of the organization for the taxable year.
   >     - **(C)** *Compensation from related organizations*
   >       - **(i)** *In general* Compensation of a covered employee by the organization shall include any compensation paid with respect to employment of such employee by any related person or governmental entity.
   >       - **(ii)** *Related organizations* A person or governmental entity shall be treated as related to the organization if such person or governmental entity—
