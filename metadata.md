@@ -1,7 +1,7 @@
 ---
 measure: S. 1479
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1479
@@ -16,13 +16,19 @@ Brownfields Utilization, Investment, and Local Development Act of 2015
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (5)
+## Cosponsors (11)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -32,3 +38,8 @@ Brownfields Utilization, Investment, and Local Development Act of 2015
 
 - 2015-06-02 — Introduced in Senate
 - 2015-06-02 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-03-02 — Committee on Environment and Public Works. Hearings held. Hearings printed: S.Hrg. 114-349.
+- 2016-05-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2016-06-14 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-276.
+- 2016-06-14 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-276.
+- 2016-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
