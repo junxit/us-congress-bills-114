@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5469
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5469
+
+> To require the Secretary of the Treasury to direct the United States Executive Director at the International Monetary Fund to support the capacity of the International Monetary Fund to prevent money laundering and financing of terrorism.
+
+## § 1. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
+
+- **(a)** *In general* Title XVI of the International Financial Institutions Act (22 U.S.C. 262p—262p–12) is amended by adding at the end the following:
+  > ## § 1629. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
+  >
+  > The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to support the use of the administrative budget of the Fund for technical assistance that strengthens the capacity of Fund members to prevent money laundering and the financing of terrorism.
+
+- **(b)** *Report to the Congress* Within 1 year after the date of the enactment of this Act, the Secretary of the Treasury shall report to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate on—
+  - **(1)** the activities of the Fund in the most recently completed fiscal year to provide technical assistance that strengthens the capacity of Fund members to prevent money laundering and the financing of terrorism, and the effectiveness of the assistance; and
+  - **(2)** the efficacy of efforts by the United States to achieve the policy goal described in this section and any further actions that need to be taken to implement this goal.
