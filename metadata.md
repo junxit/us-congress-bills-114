@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5312
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5312
@@ -27,9 +27,10 @@ Networking and Information Technology Research and Development Modernization Act
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Networking and Information Technology Research and Development Modernization Act
 - 2016-06-13 — Placed on the Union Calendar, Calendar No. 482.
 - 2016-06-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-620.
 - 2016-06-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-620.
+- 2016-06-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
