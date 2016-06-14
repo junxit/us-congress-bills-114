@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 706 of title 5, United States Code, is amended, in the matter preceding paragraph (1), by striking “all relevant questions of law, interpret constitutional and statutory provisions” and inserting “de novo all relevant questions o… | the bill names no machine-readable US Code section |
+| — | replace | by striking “To the extent necessary” and inserting “(a) To the extent necessary”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “decide all relevant questions of law, interpret constitutional and statutory provisions, and”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “of the terms of an agency action” the following “and decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions, and rules made by agencies. Notwithstanding a… | the bill names no machine-readable US Code section |
+| — | replace | by striking “The reviewing court shall—” and inserting the following: | the bill names no machine-readable US Code section |
