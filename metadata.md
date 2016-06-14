@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3636
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3636
@@ -24,9 +24,10 @@ O-VISA Act
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ O-VISA Act
 - 2016-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3719)
 - 2016-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3719)
 - 2016-06-13 — The title of the measure was amended. Agreed to without objection.
+- 2016-06-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
