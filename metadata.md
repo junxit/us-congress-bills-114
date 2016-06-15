@@ -1,0 +1,31 @@
+---
+measure: S. 3061
+congress: 114
+version: Introduced in Senate
+---
+
+# S. 3061
+
+FIRE Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+
+## Cosponsors (2)
+
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Perdue, David [R-GA] (P000612)
+
+## Committees (1)
+
+- Senate — Homeland Security and Governmental Affairs Committee
+
+## Actions
+
+- 2016-06-15 — Introduced in Senate
+- 2016-06-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
