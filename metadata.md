@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5049
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5049
@@ -20,9 +20,10 @@ NSF Major Research Facility Reform Act of 2016
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ NSF Major Research Facility Reform Act of 2016
 - 2016-06-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-06-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 301). (text: CR 6/14/2016 H3732-3733)
 - 2016-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 301).(text: CR 6/14/2016 H3732-3733)
+- 2016-06-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
