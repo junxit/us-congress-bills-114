@@ -1,0 +1,20 @@
+---
+legis-num: S. 3062
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3062
+
+> To require the Federal Trade Commission to consider including smart grid capability on Energy Guide labels for products.
+
+## § 1. Inclusion of smart grid capability on Energy Guide labels
+
+Section 324(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)) is amended by adding at the end the following:
+
+> - **(J)** *Special notes on smart grid capabilities*
+>   - **(i)** *Initiation of rulemaking* Not later than 1 year after the date of the enactment of this subparagraph, the Commission shall initiate a rulemaking to consider making a special note in a prominent manner on any Energy Guide label for any product that includes smart grid capability that—
+>     - **(I)** smart grid capability is a feature of that product; and
+>     - **(II)** the use and value of that feature depend on the smart grid capability of the utility system in which the product is installed and the active utilization of that feature by the customer.
+>   - **(ii)** *Completion of rulemaking* Not later than 3 years after the date of the enactment of this subparagraph, the Commission shall complete the rulemaking initiated under clause (i).
