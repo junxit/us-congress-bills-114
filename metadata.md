@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5053
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5053
@@ -44,9 +44,10 @@ Preventing IRS Abuse and Protecting Free Speech Act
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -79,3 +80,4 @@ Preventing IRS Abuse and Protecting Free Speech Act
 - 2016-06-14 — The previous question was ordered pursuant to the rule. (consideration: CR H3783)
 - 2016-06-14 — The resolution provides for 1 hour of general debate on both bills.
 - 2016-06-14 — UNANIMOUS CONSENT - Mr. Brady (TX) asked unanimous consent that the question on adoption of the motion to recommit on H.R. 5053 be subject to postponement as though under Clause 8 of Rule 20. Agreed to without objection.
+- 2016-06-15 — Received in the Senate and Read twice and referred to the Committee on Finance.
