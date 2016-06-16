@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5160
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5160
@@ -25,3 +25,8 @@ To amend title 40, United States Code, to include as part of the buildings and g
 - 2016-04-29 — Introduced in House
 - 2016-04-29 — Introduced in House
 - 2016-04-29 — Referred to the House Committee on House Administration.
+- 2016-05-17 — Committee Consideration and Mark-up Session Held.
+- 2016-05-17 — Ordered to be Reported by Voice Vote.
+- 2016-06-16 — Placed on the Union Calendar, Calendar No. 485.
+- 2016-06-16 — Reported by the Committee on House Administration. H. Rept. 114-626.
+- 2016-06-16 — Reported by the Committee on House Administration. H. Rept. 114-626.
