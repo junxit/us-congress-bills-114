@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1475
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1475
@@ -328,9 +328,10 @@ Korean War Veterans Memorial Wall of Remembrance Act
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -352,3 +353,4 @@ Korean War Veterans Memorial Wall of Remembrance Act
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-433.
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-433.
 - 2016-02-25 — Received in the Senate.
+- 2016-06-16 — Read twice and referred to the Committee on Energy and Natural Resources.
