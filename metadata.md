@@ -1,7 +1,7 @@
 ---
 measure: S. 2808
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2808
@@ -33,3 +33,5 @@ John F. Kennedy Center Reauthorization Act of 2016
 - 2016-05-16 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-254.
 - 2016-05-16 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-254.
 - 2016-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
+- 2016-06-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4323; text as passed Senate: CR S4323)
+- 2016-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4323; text as passed Senate: CR S4323)
