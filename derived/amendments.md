@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -220,4 +220,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3752` | insert | by inserting “(a) In General.—” before “To request a grant”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10603` | insert | Section 1404(c)(1)(A) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(c)(1)(A)) is amended by inserting “victim services,” before “demonstration projects”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 3612 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 801` | add-at-end | Section 3612 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

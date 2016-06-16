@@ -40,10 +40,16 @@ This Act may be cited as the “Justice for All Reauthorization Act of 2016”.
 
 ## § 4. Reducing the rape kit backlog
 
-Of the amounts made available to the Attorney General for a DNA Analysis and capacity enhancement program and for other local, State, and Federal forensic activities under the heading “State and local law enforcement” under the heading “Office of Justice Programs” under the heading “Department of Justice” in a fiscal year—
-
-- **(1)** not less than 75 percent of such amounts shall be provided for grants for direct testing activities described under paragraphs (1), (2), and (3) of section 2(a) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)); and
-- **(2)** not less than 5 percent of such amounts shall be provided for grants for law enforcement agencies to conduct audits of their backlogged rape kits, including through the creation of a tracking system, under section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)(7)), and to prioritize testing in those cases in which the statute of limitation will soon expire.
+- **(a)** *In general* Of the amounts made available to the Attorney General for a DNA Analysis and capacity enhancement program and for other local, State, and Federal forensic activities under the heading “State and local law enforcement” under the heading “Office of Justice Programs” under the heading “Department of Justice” in a fiscal year—
+  - **(1)** not less than 75 percent of such amounts shall be provided for grants for direct testing activities described under paragraphs (1), (2), and (3) of section 2(a) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)); and
+  - **(2)** not less than 5 percent of such amounts shall be provided for grants for law enforcement agencies to conduct audits of their backlogged rape kits, including through the creation of a tracking system, under section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)(7)), and to prioritize testing in those cases in which the statute of limitation will soon expire.
+- **(b)** *Reporting*
+  - **(1)** *Report by grant recipients* With respect to amounts made available to the Attorney General for a DNA Analysis and capacity enhancement program and for other local, State, and Federal forensic activities under the heading “State and local law enforcement” under the heading “Office of Justice Programs” under the heading “Department of Justice”, the Attorney General shall require recipients of the amounts to report on the effectiveness of the activities carried out using the amounts, including any information the Attorney General needs in order to submit the report required under paragraph (2).
+  - **(2)** *Report to Congress* Not later than 1 month after the last day of each even-numbered fiscal year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes, for each recipient of amounts described in paragraph (1)—
+    - **(A)** the amounts distributed to the recipient;
+    - **(B)** a summary of the purposes for which the amounts were used and an evaluation of the progress of the recipient in achieving those purposes;
+    - **(C)** a statistical summary of the crime scene samples and arrestee or offender samples submitted to laboratories, the average time between the submission of a sample to a laboratory and the testing of the sample, and the percentage of the amounts that were paid to private laboratories; and
+    - **(D)** an evaluation of the effectiveness of the grant amounts in increasing capacity and reducing backlogs.
 
 ## § 5. Sexual assault nurse examiners
 
@@ -277,6 +283,11 @@ All grants awarded by the Department of Justice that are authorized under this A
   - **(B)** *Penalty* If the Attorney General determines that any recipient of a grant under this Act has violated subparagraph (A), the Attorney General shall—
     - **(i)** require the grant recipient to repay the grant in full; and
     - **(ii)** prohibit the grant recipient from receiving another grant under this Act for not less than 5 years.
+- **(10)** *Preventing duplicative grants*
+  - **(A)** *In general* Before the Attorney General awards a grant to an applicant under this Act, the Attorney General shall compare potential grant awards with other grants awarded under this Act to determine whether duplicate grants are awarded for the same purpose.
+  - **(B)** *Report* If the Attorney General awards duplicate grants to the same applicant for the same purpose, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
+    - **(i)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
+    - **(ii)** the reason the Attorney General awarded the duplicate grants.
 
 ## § 17. Needs assessment of forensic laboratories
 
@@ -292,13 +303,6 @@ All grants awarded by the Department of Justice that are authorized under this A
   - **(4)** provide Congress with a comprehensive view of the infrastructure, equipment, and personnel needs of the broad forensic science community; and
   - **(5)** be made available to the public.
 
-## § 18. Sense of Congress
-
-It is the sense of Congress that—
-
-- **(1)** the authority of the Director of the Office of Victims of Crime under section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603) includes funding ongoing projects that provide services to victims of crime on a nationwide basis or Americans abroad who are victims of crimes committed outside of the United States; and
-- **(2)** the proposed rule entitled “VOCA Victim Assistance Program” published by the Office of Victims of Crime of the Department of Justice in the Federal Register on August 27, 2013 (78 Fed. Reg. 52877), is consistent with section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603).
-
 ## § 18. Crime victim assistance
 
 - **(a)** *Amendment* Section 1404(c)(1)(A) of the Victims of Crime Act of 1984 (42 U.S.C. 10603(c)(1)(A)) is amended by inserting “victim services,” before “demonstration projects”.
@@ -309,12 +313,12 @@ It is the sense of Congress that—
 Section 3612 of title 18, United States Code, is amended by adding at the end the following:
 
 > - **(j)** *Evaluation of Offices of the United States Attorney and Department Components*
->   - **(1)** *In general* The Attorney General shall, as part of the regular evaluation process, evaluate each office of the United States attorney and each component of the Department of Justice on the performance of the office or the component, as the case may be, in seeking and recovering restitution for victims under sections 3663 and 3663A.
->   - **(2)** *Requirement* Following an evaluation under paragraph (1), each office of the United States attorney and each component of the Department of Justice shall work to improve the practices of the office or component, as the case may be, with respect to seeking and recovering restitution for victims under sections 3663 and 3663A.
+>   - **(1)** *In general* The Attorney General shall, as part of the regular evaluation process, evaluate each office of the United States attorney and each component of the Department of Justice on the performance of the office or the component, as the case may be, in seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act (21 U.S.C. 801 et seq.) that authorizes restitution.
+>   - **(2)** *Requirement* Following an evaluation under paragraph (1), each office of the United States attorney and each component of the Department of Justice shall work to improve the practices of the office or component, as the case may be, with respect to seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act (21 U.S.C. 801 et seq.) that authorizes restitution.
 > - **(k)** *GAO Reports*
->   - **(1)** *Report* Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on restitution sought by the Attorney General under sections 3663 and 3663A during the 3-year period preceding the report.
+>   - **(1)** *Report* Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on restitution sought by the Attorney General under each provision of this title and the Controlled Substances Act (21 U.S.C. 801 et seq.) that authorizes restitution during the 3-year period preceding the report.
 >   - **(2)** *Contents* The report required under paragraph (1) shall include statistically valid estimates of—
->     - **(A)** the number of cases in which a defendant was convicted and the Attorney General could seek restitution under this title;
+>     - **(A)** the number of cases in which a defendant was convicted and the Attorney General could seek restitution under this title or the Controlled Substances Act (21 U.S.C. 801 et seq.);
 >     - **(B)** the number of cases in which the Attorney General sought restitution;
 >     - **(C)** of the cases in which the Attorney General sought restitution, the number of times restitution was ordered by the district courts of the United States;
 >     - **(D)** the amount of restitution ordered by the district courts of the United States;
@@ -322,7 +326,7 @@ Section 3612 of title 18, United States Code, is amended by adding at the end th
 >     - **(F)** the percentage of restitution orders for which the full amount of restitution has not been collected; and
 >     - **(G)** any other measurement the Comptroller General determines would assist in evaluating how to improve the restitution process in Federal criminal cases.
 >   - **(3)** *Recommendations* The report required under paragraph (1) shall include recommendations on the best practices for—
->     - **(A)** requesting restitution in cases in which restitution may be sought under sections 3663 and 3663A;
+>     - **(A)** requesting restitution in cases in which restitution may be sought under each provision of this title and the Controlled Substances Act (21 U.S.C. 801 et seq.) that authorizes restitution;
 >     - **(B)** obtaining restitution orders from the district courts of the United States; and
 >     - **(C)** collecting restitution ordered by the district courts of the United States.
->   - **(4)** *Report* Not later than 3 years after date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
+>   - **(4)** *Report* Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
