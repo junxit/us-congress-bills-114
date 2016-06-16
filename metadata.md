@@ -1,7 +1,7 @@
 ---
 measure: S. 2348
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2348
@@ -43,3 +43,6 @@ Rapid DNA Act of 2016
 - 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2016-05-12 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2016-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.
+- 2016-06-16 — Message on Senate action sent to the House.
+- 2016-06-16 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4265-4266; text as passed Senate: CR S4265-4266)
+- 2016-06-16 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S4265-4266; text as passed Senate: CR S4265-4266)
