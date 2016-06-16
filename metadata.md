@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5293
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5293
@@ -21,6 +21,36 @@ Department of Defense Appropriations Act, 2017
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
+## Recorded votes (27)
+
+- 2016-06-16 — [House 114-2-306](votes/house-114-2-0306.md) — On Agreeing to the Amendment — **Failed** (205–216)
+- 2016-06-16 — [House 114-2-307](votes/house-114-2-0307.md) — On Agreeing to the Amendment — **Failed** (172–248)
+- 2016-06-16 — [House 114-2-308](votes/house-114-2-0308.md) — On Agreeing to the Amendment — **Failed** (177–243)
+- 2016-06-16 — [House 114-2-309](votes/house-114-2-0309.md) — On Agreeing to the Amendment — **Failed** (159–261)
+- 2016-06-16 — [House 114-2-310](votes/house-114-2-0310.md) — On Agreeing to the Amendment — **Failed** (157–263)
+- 2016-06-16 — [House 114-2-311](votes/house-114-2-0311.md) — On Agreeing to the Amendment — **Agreed to** (268–153)
+- 2016-06-16 — [House 114-2-312](votes/house-114-2-0312.md) — On Agreeing to the Amendment — **Failed** (191–230)
+- 2016-06-16 — [House 114-2-313](votes/house-114-2-0313.md) — On Agreeing to the Amendment — **Failed** (155–265)
+- 2016-06-16 — [House 114-2-314](votes/house-114-2-0314.md) — On Agreeing to the Amendment — **Agreed to** (216–205)
+- 2016-06-16 — [House 114-2-315](votes/house-114-2-0315.md) — On Agreeing to the Amendment — **Agreed to** (223–198)
+- 2016-06-16 — [House 114-2-316](votes/house-114-2-0316.md) — On Agreeing to the Amendment — **Agreed to** (221–200)
+- 2016-06-16 — [House 114-2-317](votes/house-114-2-0317.md) — On Agreeing to the Amendment — **Failed** (210–211)
+- 2016-06-16 — [House 114-2-318](votes/house-114-2-0318.md) — On Agreeing to the Amendment — **Failed** (207–214)
+- 2016-06-16 — [House 114-2-319](votes/house-114-2-0319.md) — On Agreeing to the Amendment — **Agreed to** (245–175)
+- 2016-06-16 — [House 114-2-320](votes/house-114-2-0320.md) — On Agreeing to the Amendment — **Failed** (48–372)
+- 2016-06-16 — [House 114-2-321](votes/house-114-2-0321.md) — On Agreeing to the Amendment — **Failed** (198–222)
+- 2016-06-16 — [House 114-2-322](votes/house-114-2-0322.md) — On Agreeing to the Amendment — **Agreed to** (221–197)
+- 2016-06-16 — [House 114-2-323](votes/house-114-2-0323.md) — On Agreeing to the Amendment — **Failed** (112–306)
+- 2016-06-16 — [House 114-2-324](votes/house-114-2-0324.md) — On Agreeing to the Amendment — **Agreed to** (226–194)
+- 2016-06-16 — [House 114-2-325](votes/house-114-2-0325.md) — On Agreeing to the Amendment — **Failed** (84–336)
+- 2016-06-16 — [House 114-2-326](votes/house-114-2-0326.md) — On Agreeing to the Amendment — **Agreed to** (218–201)
+- 2016-06-16 — [House 114-2-327](votes/house-114-2-0327.md) — On Agreeing to the Amendment — **Failed** (204–216)
+- 2016-06-16 — [House 114-2-328](votes/house-114-2-0328.md) — On Agreeing to the Amendment — **Failed** (135–283)
+- 2016-06-16 — [House 114-2-329](votes/house-114-2-0329.md) — On Agreeing to the Amendment — **Failed** (135–285)
+- 2016-06-16 — [House 114-2-330](votes/house-114-2-0330.md) — On Agreeing to the Amendment — **Failed** (146–274)
+- 2016-06-16 — [House 114-2-331](votes/house-114-2-0331.md) — On Agreeing to the Amendment — **Failed** (69–351)
+- 2016-06-16 — [House 114-2-332](votes/house-114-2-0332.md) — On Passage — **Passed** (282–138)
+
 ## Actions
 
 - 2016-02-10 — Committee on Appropriations Senate Subcommittee on Department of Defense. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 114-653.
@@ -35,3 +65,399 @@ Department of Defense Appropriations Act, 2017
 - 2016-05-19 — Placed on the Union Calendar, Calendar No. 447.
 - 2016-05-19 — The House Committee on Appropriations reported an original measure, H. Rept. 114-577, by Mr. Frelinghuysen.
 - 2016-05-19 — The House Committee on Appropriations reported an original measure, H. Rept. 114-577, by Mr. Frelinghuysen.
+- 2016-06-13 — Rules Committee Resolution H. Res. 778 Reported to House. The resolution provides for 1 hour of general debate on both bills.
+- 2016-06-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 5293 as unfinished business.
+- 2016-06-14 — Considered under the provisions of rule H. Res. 778. (consideration: CR H3786-3804)
+- 2016-06-14 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5293.
+- 2016-06-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 778 and Rule XVIII.
+- 2016-06-14 — Rule H. Res. 778 passed House.
+- 2016-06-14 — Rules Committee Resolution H. Res. 783 Reported to House. Rule provides for consideration of H.R. 5293. Resolution provides for further consideration of H.R. 5293. Resolution provides for suspension authority on Thursday, June 16, 2016.
+- 2016-06-14 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
+- 2016-06-14 — The resolution provides for 1 hour of general debate on each bill.
+- 2016-06-15 — Amendment (A001) offered by Ms. Jackson Lee. (consideration: CR H3864-3865; text: CR H3864)
+- 2016-06-15 — Amendment (A002) offered by Mr. Shuster. (consideration: CR H3865-3866; text: CR H3865)
+- 2016-06-15 — Amendment (A003) offered by Ms. Lujan Grisham (NM). (consideration: CR H3866; text: CR H3866)
+- 2016-06-15 — Amendment (A004) offered by Mrs. Hartzler. (consideration: CR H3866; text: CR H3866)
+- 2016-06-15 — Amendment (A005) offered by Mr. Meehan. (consideration: CR H3866-3868; text: CR H3866)
+- 2016-06-15 — Amendment (A007) offered by Mr. Paulsen. (consideration: CR H3870-3871; text: CR H3870)
+- 2016-06-15 — Amendment (A008) offered by Mr. Zinke. (consideration: CR H3871; text: CR H3871)
+- 2016-06-15 — Amendment (A009) offered by Mr. Ellison. (consideration: CR H3871-3872; text: CR H3871)
+- 2016-06-15 — Amendment (A010) offered by Mr. Gibson. (consideration: CR H3872-3873; text: CR H3872)
+- 2016-06-15 — Amendment (A011) offered by Mr. Langevin. (consideration: CR H3873-3874; text: CR H3873)
+- 2016-06-15 — Amendment (A012) offered by Mr. Rogers (AL). (consideration: CR H3874-3875; text: CR H3874)
+- 2016-06-15 — Amendment (A013) offered by Mr. Quigley. (consideration: CR H3875-3877; text: CR H3875)
+- 2016-06-15 — Amendment (A014) offered by Mr. Wittman. (consideration: CR H3877; text: CR H3877)
+- 2016-06-15 — Amendment (A015) offered by Mr. O'Rourke. (consideration: CR H3877-3878; text: CR H3877)
+- 2016-06-15 — Amendment (A016) offered by Mr. Huffman. (consideration: CR H3878-3880; text: CR H3878)
+- 2016-06-15 — Amendment (A017) offered by Mr. Peters. (consideration: CR H3880-3881; text: CR H3880)
+- 2016-06-15 — Amendment (A018) offered by Mr. Poe (TX). (consideration: CR H3881-3882; text: CR H3881)
+- 2016-06-15 — Amendment (A019) offered by Mr. Duncan (TN). (consideration: CR H3883; text: CR H3883)
+- 2016-06-15 — Amendment (A020) offered by Mr. Sanford. (consideration: CR H3883-3885; text: CR H3883)
+- 2016-06-15 — Amendment (A021) offered by Mr. Buck. (consideration: CR H3885; text: CR H3885)
+- 2016-06-15 — Amendment (A022) offered by Mr. Buck. (consideration: CR H3885-3886; text: CR H3886)
+- 2016-06-15 — Amendment (A023) offered by Mr. Byrne. (consideration: CR H3886-3887; text: CR H3886)
+- 2016-06-15 — Amendment (A024) offered by Mr. King (IA). (consideration: CR H3887-3888; text: CR H3887)
+- 2016-06-15 — Amendment (A025) offered by Mr. Gosar. (consideration: CR H3888-3889; text: CR H3888)
+- 2016-06-15 — Amendment (A026) offered by Mr. King (IA). (consideration: CR H3889-3890; text: CR H3889)
+- 2016-06-15 — Amendment (A027) offered by Mr. Hudson. (consideration: CR H3890-3891; text: CR H3890)
+- 2016-06-15 — Amendment (A028) offered by Mr. Lamborn. (consideration: CR H3891-3892; text: CR H3891)
+- 2016-06-15 — Amendment (A029) offered by Mr. Massie. (consideration: CR H3892-3893; text: CR H3892)
+- 2016-06-15 — Amendment (A030) offered by Mr. Massie. (consideration: CR H3893-3895; text: CR H3893)
+- 2016-06-15 — Amendment (A031) offered by Mr. McClintock. (consideration: CR H3895-3896; text: CR H3895)
+- 2016-06-15 — Amendment (A032) offered by Mr. Mulvaney. (consideration: CR H3896-3898; text: CR H3896)
+- 2016-06-15 — Amendment (A033) offered by Mr. DeSantis. (consideration: CR H3898-3899; text: CR H3898)
+- 2016-06-15 — Amendment (A034) offered by Mr. Reichert. (consideration: CR H3899-3900; text: CR H3899)
+- 2016-06-15 — Amendment (A035) offered by Mr. Rohrabacher. (consideration: CR H3900-3901; text: CR H3900)
+- 2016-06-15 — Amendment (A036) offered by Mr. Walberg. (consideration: CR H3901-3902; text: CR H3901)
+- 2016-06-15 — Amendment (A037) offered by Mr. Cartwright. (consideration: CR H3902-3903; text: CR H3902)
+- 2016-06-15 — Amendment (A038) offered by Mr. Conyers. (consideration: CR H3903-3904; text: CR H3903)
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment agreed to Committee of the Whole
+- 2016-06-15 — Amendment failed in Committee of the Whole
+- 2016-06-15 — Amendments en bloc (A006) offered by Mr. Frelinghuysen. (consideration: CR H3868-3870; text: CR H3868-3869)
+- 2016-06-15 — By unanimous consent, the Duncan (TN) amendment was withdrawn. (consideration: CR H3883)
+- 2016-06-15 — By unanimous consent, the Lujan Grisham (NM) amendment was withdrawn. (consideration: CR H3866)
+- 2016-06-15 — By unanimous consent, the Meehan amendment was withdrawn. (consideration: CR H3868)
+- 2016-06-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 5293 as unfinished business.
+- 2016-06-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 5293 as unfinished business.
+- 2016-06-15 — Considered as unfinished business. (consideration: CR H3843-3892; text as reported in House: CR H3844-3863)
+- 2016-06-15 — Considered as unfinished business. (consideration: CR H3892-3904)
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment No. 39.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment No. 40.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the DeSantis amendment No. 34.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 9.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Gibson amendment No. 10.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 4.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 11.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan Grisham amendment No. 3.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment No. 30.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment No. 31.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock (CA) amendment No. 32.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Meehan amendment No. 5.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney amendment No. 33.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Paulsen amendment No. 6.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment No. 13.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 12.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment No. 36.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster amendment No. 2.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment No. 37.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Zinke amendment No. 8.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 20 minutes of debate on the Frelinghuysen en bloc amendments #1.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 22.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 23.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 24.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (TN) amendment No. 20.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 26.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 28.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 17.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 1.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 25.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 27.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 29.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the O'Rourke amendment No. 16.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 18.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment No. 19.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment No. 21.
+- 2016-06-15 — DEBATE - Pursuant to the provisions of H.Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment No. 14.
+- 2016-06-15 — DEBATE - Pursuant to the provsions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Reichert amendment No. 35.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Buck amendment (A022) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Cartwright amendment (A037) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Frelinghuysen amendments (A006) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Gibson amendment (A010) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Hartzler amendment (A004) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Hudson amendment (A027) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A001) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Paulsen amendment (A007) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Reichert amendment (A034) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Wittman amendment (A014) Agreed to by voice vote.
+- 2016-06-15 — House amendment agreed to: On agreeing to the Zinke amendment (A008) Agreed to by voice vote.
+- 2016-06-15 — House amendment not agreed to: On agreeing to the Peters amendment (A017) Failed by voice vote.
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered
+- 2016-06-15 — House amendment offered/reported by : Amendment (A001) offered by Ms. Jackson Lee.(consideration: CR H3864-3865; text: CR H3864)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A002) offered by Mr. Shuster.(consideration: CR H3865-3866; text: CR H3865)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A003) offered by Ms. Lujan Grisham (NM).(consideration: CR H3866; text: CR H3866)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A004) offered by Mrs. Hartzler.(consideration: CR H3866; text: CR H3866)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A005) offered by Mr. Meehan.(consideration: CR H3866-3868; text: CR H3866)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A007) offered by Mr. Paulsen.(consideration: CR H3870-3871; text: CR H3870)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A008) offered by Mr. Zinke.(consideration: CR H3871; text: CR H3871)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A009) offered by Mr. Ellison.(consideration: CR H3871-3872; text: CR H3871)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A010) offered by Mr. Gibson.(consideration: CR H3872-3873; text: CR H3872)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A011) offered by Mr. Langevin.(consideration: CR H3873-3874; text: CR H3873)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A012) offered by Mr. Rogers (AL).(consideration: CR H3874-3875; text: CR H3874)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A013) offered by Mr. Quigley.(consideration: CR H3875-3877; text: CR H3875)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A014) offered by Mr. Wittman.(consideration: CR H3877; text: CR H3877)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A015) offered by Mr. O'Rourke.(consideration: CR H3877-3878; text: CR H3877)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A016) offered by Mr. Huffman.(consideration: CR H3878-3880; text: CR H3878)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A017) offered by Mr. Peters.(consideration: CR H3880-3881; text: CR H3880)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A018) offered by Mr. Poe (TX).(consideration: CR H3881-3882; text: CR H3881)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A019) offered by Mr. Duncan (TN).(consideration: CR H3883; text: CR H3883)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A020) offered by Mr. Sanford.(consideration: CR H3883-3885; text: CR H3883)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A021) offered by Mr. Buck.(consideration: CR H3885; text: CR H3885)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A022) offered by Mr. Buck.(consideration: CR H3885-3886; text: CR H3886)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A023) offered by Mr. Byrne.(consideration: CR H3886-3887; text: CR H3886)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A024) offered by Mr. King (IA).(consideration: CR H3887-3888; text: CR H3887)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A025) offered by Mr. Gosar.(consideration: CR H3888-3889; text: CR H3888)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A026) offered by Mr. King (IA).(consideration: CR H3889-3890; text: CR H3889)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A027) offered by Mr. Hudson.(consideration: CR H3890-3891; text: CR H3890)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A028) offered by Mr. Lamborn.(consideration: CR H3891-3892; text: CR H3891)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A029) offered by Mr. Massie.(consideration: CR H3892-3893; text: CR H3892)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A030) offered by Mr. Massie.(consideration: CR H3893-3895; text: CR H3893)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A031) offered by Mr. McClintock.(consideration: CR H3895-3896; text: CR H3895)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A032) offered by Mr. Mulvaney.(consideration: CR H3896-3898; text: CR H3896)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A033) offered by Mr. DeSantis.(consideration: CR H3898-3899; text: CR H3898)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A034) offered by Mr. Reichert.(consideration: CR H3899-3900; text: CR H3899)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A035) offered by Mr. Rohrabacher.(consideration: CR H3900-3901; text: CR H3900)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A036) offered by Mr. Walberg.(consideration: CR H3901-3902; text: CR H3901)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A037) offered by Mr. Cartwright.(consideration: CR H3902-3903; text: CR H3902)
+- 2016-06-15 — House amendment offered/reported by : Amendment (A038) offered by Mr. Conyers.(consideration: CR H3903-3904; text: CR H3903)
+- 2016-06-15 — House amendment offered/reported by : Amendments en bloc (A006) offered by Mr. Frelinghuysen.(consideration: CR H3868-3870; text en bloc: CR H3868-3869)
+- 2016-06-15 — Mr. Frelinghuysen moved that the Committee rise.
+- 2016-06-15 — On agreeing to the Buck amendment (A022) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Cartwright amendment (A037) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Frelinghuysen amendments (A006) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Gibson amendment (A010) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Hartzler amendment (A004) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Hudson amendment (A027) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Jackson Lee amendment (A001) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Paulsen amendment (A007) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Peters amendment (A017) Failed by voice vote.
+- 2016-06-15 — On agreeing to the Reichert amendment (A034) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Wittman amendment (A014) Agreed to by voice vote.
+- 2016-06-15 — On agreeing to the Zinke amendment (A008) Agreed to by voice vote.
+- 2016-06-15 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment No. 22, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment No. 24, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment No. 40, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSantis amendment No. 34, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment No. 9, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 26, the Chair pu t the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gallego demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Huffman demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment No. 25, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment No. 27, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gallego demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment No. 29, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment No. 30, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment No. 31, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment No. 32, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment No. 33, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the O'Rourke amendment No. 16, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. O'Rourke demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Peters (CA)amendment No. 18 the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Peters (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced. Subsequently, the demand for a recorded vote was withdrawn.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Poe (TX) amendment No. 19, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Poe (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment No. 13, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers (AL) amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Rogers (AL) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment No. 36, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanford amendment No. 21, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Sanford demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shuster amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walberg amendment No. 37, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Walberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-15 — Rule H. Res. 783 passed House.
+- 2016-06-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-06-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-06-16 — Amendment (A039) offered by Mr. Yoho. (consideration: CR H3926-3927; text: CR H3926)
+- 2016-06-16 — Amendment (A040) offered by Ms. Gabbard. (consideration: CR H3927-3928, H3949-3950; text: CR H3927)
+- 2016-06-16 — Amendment (A041) offered by Mr. McGovern. (consideration: CR H3928-3929, H3950-3951; text: CR H3928)
+- 2016-06-16 — Amendment (A042) offered by Ms. Lee. (consideration: CR H3929-3930, H3951; text: CR H3929)
+- 2016-06-16 — Amendment (A043) offered by Mr. Polis. (consideration: CR H3930-3932, H3951-3952; text: CR H3930-3931)
+- 2016-06-16 — Amendment (A044) offered by Ms. McSally. (consideration: CR H3932-3933; text: CR H3932)
+- 2016-06-16 — Amendment (A045) offered by Mr. Barletta. (consideration: CR H3933-3934; text: CR H3933)
+- 2016-06-16 — Amendment (A046) offered by Mr. Smith (NE). (consideration: CR H3934-3935; text: CR H3934)
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment agreed to Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Amendment failed in Committee of the Whole
+- 2016-06-16 — Considered as unfinished business. (consideration: CR H3925-3953)
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Barletta amendment No. 74.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Gabbard amendment No. 42.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 45.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 44.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the McSally amendment No. 48.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 46.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NE) amendment No. 75.
+- 2016-06-16 — DEBATE - Pursuant to the provisions of H. Res. 783, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment No. 41.
+- 2016-06-16 — House amendment agreed to: On agreeing to the Barletta amendment (A045) Agreed to by voice vote.
+- 2016-06-16 — House amendment agreed to: On agreeing to the Buck amendment (A021) Agreed to by recorded vote: 216 - 205 (Roll no. 314).(consideration: CR H3940-3941)
+- 2016-06-16 — House amendment agreed to: On agreeing to the Byrne amendment (A023) Agreed to by recorded vote: 223 - 198 (Roll no. 315).(consideration: CR H3941)
+- 2016-06-16 — House amendment agreed to: On agreeing to the DeSantis amendment (A033) Agreed to by recorded vote: 226 - 194 (Roll no. 324).(consideration: CR H3947)
+- 2016-06-16 — House amendment agreed to: On agreeing to the Huffman amendment (A016) Agreed to by recorded vote: 268 - 153 (Roll no. 311).(consideration: CR H3938-3939)
+- 2016-06-16 — House amendment agreed to: On agreeing to the King (IA) amendment (A024) Agreed to by recorded vote: 221 - 200 (Roll no. 316).(consideration: CR H3941-3942)
+- 2016-06-16 — House amendment agreed to: On agreeing to the Lamborn amendment (A028) Agreed to by recorded vote: 245 - 175 (Roll no. 319).(consideration: CR H3943-3944)
+- 2016-06-16 — House amendment agreed to: On agreeing to the McClintock amendment (A031) Agreed to by recorded vote: 221 - 197 (Roll no. 322).(consideration: CR H3945-3946)
+- 2016-06-16 — House amendment agreed to: On agreeing to the McSally amendment (A044) Agreed to by voice vote.
+- 2016-06-16 — House amendment agreed to: On agreeing to the Smith (NE) amendment (A046) Agreed to by voice vote.
+- 2016-06-16 — House amendment agreed to: On agreeing to the Walberg amendment (A036) Agreed to by recorded vote: 218 - 201 (Roll no. 326).(consideration: CR H3948-3949)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Conyers amendment (A038) Failed by recorded vote: 204 - 216 (Roll no. 327).(consideration: CR H3949)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Ellison amendment (A009) Failed by recorded vote: 172 - 248 (Roll no. 307).(consideration: CR H3936)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Gabbard amendment (A040) Failed by recorded vote: 135 - 283 (Roll no. 328).
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Gosar amendment (A025) Failed by recorded vote: 210 - 211 (Roll no. 317).(consideration: CR H3942-3943)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the King (IA) amendment (A026) Failed by recorded vote: 207 - 214 (Roll no. 318).(consideration: CR H3943)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Lee amendment (A042) Failed by recorded vote: 146 - 274 (Roll no. 330).
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Massie amendment (A029) Failed by recorded vote: 48 - 372 (Roll no. 320).(consideration: CR H3944-3945)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Massie amendment (A030) Failed by recorded vote: 198 - 222 (Roll no. 321).(consideration: CR H3945)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the McGovern amendment (A041) Failed by recorded vote: 135 - 285 (Roll no. 329).
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A032) Failed by recorded vote: 112 - 306 (Roll no. 323).(consideration: CR H3946-3947)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the O'Rourke amendment (A015) Failed by recorded vote: 157 - 263 (Roll no. 310).(consideration: CR H3938)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Poe (TX) amendment (A018) Failed by recorded vote: 191 - 230 (Roll no. 312).(consideration: CR H3939-3940)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Polis amendment (A043) Failed by recorded vote: 69 - 351 (Roll no. 331).
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Quigley amendment (A013) Failed by recorded vote: 159 - 261 (Roll no. 309).(consideration: CR H3937-3938)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Rogers (AL) amendment (A012) Failed by recorded vote: 177 - 243 (Roll no. 308).(consideration: CR H3936-3937)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Rohrabacher amendment (A035) Failed by recorded vote: 84 - 336 (Roll no. 325).(consideration: CR H3947-3948)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Sanford amendment (A020) Failed by recorded vote: 155 - 265 (Roll no. 313).(consideration: CR H3940)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Shuster amendment (A002) Failed by recorded vote: 205 - 216 (Roll no. 306).(consideration: CR H3935-3936)
+- 2016-06-16 — House amendment not agreed to: On agreeing to the Yoho amendment (A039) Failed by voice vote.
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered
+- 2016-06-16 — House amendment offered/reported by : Amendment (A039) offered by Mr. Yoho.(consideration: CR H3926-3927; text: CR H3926)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A040) offered by Ms. Gabbard.(consideration: CR H3927-3928, H3949-3950; text: CR H3927)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A041) offered by Mr. McGovern.(consideration: CR H3928-3929, H3950-3951; text: CR H3928)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A042) offered by Ms. Lee.(consideration: CR H3929-3930, H3951; text: CR H3929)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A043) offered by Mr. Polis.(consideration: CR H3930-3932, H3951-3952; text: CR H3930-3931)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A044) offered by Ms. McSally.(consideration: CR H3932-3933; text: CR H3932)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A045) offered by Mr. Barletta.(consideration: CR H3933-3934; text: CR H3933)
+- 2016-06-16 — House amendment offered/reported by : Amendment (A046) offered by Mr. Smith (NE).(consideration: CR H3934-3935; text: CR H3934)
+- 2016-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-16 — On agreeing to the Barletta amendment (A045) Agreed to by voice vote.
+- 2016-06-16 — On agreeing to the Buck amendment (A021) Agreed to by recorded vote: 216 - 205 (Roll no. 314). (consideration: CR H3940-3941)
+- 2016-06-16 — On agreeing to the Byrne amendment (A023) Agreed to by recorded vote: 223 - 198 (Roll no. 315). (consideration: CR H3941)
+- 2016-06-16 — On agreeing to the Conyers amendment (A038) Failed by recorded vote: 204 - 216 (Roll no. 327). (consideration: CR H3949)
+- 2016-06-16 — On agreeing to the DeSantis amendment (A033) Agreed to by recorded vote: 226 - 194 (Roll no. 324). (consideration: CR H3947)
+- 2016-06-16 — On agreeing to the Ellison amendment (A009) Failed by recorded vote: 172 - 248 (Roll no. 307). (consideration: CR H3936)
+- 2016-06-16 — On agreeing to the Gabbard amendment (A040) Failed by recorded vote: 135 - 283 (Roll no. 328).
+- 2016-06-16 — On agreeing to the Gosar amendment (A025) Failed by recorded vote: 210 - 211 (Roll no. 317). (consideration: CR H3942-3943)
+- 2016-06-16 — On agreeing to the Huffman amendment (A016) Agreed to by recorded vote: 268 - 153 (Roll no. 311). (consideration: CR H3938-3939)
+- 2016-06-16 — On agreeing to the King (IA) amendment (A024) Agreed to by recorded vote: 221 - 200 (Roll no. 316). (consideration: CR H3941-3942)
+- 2016-06-16 — On agreeing to the King (IA) amendment (A026) Failed by recorded vote: 207 - 214 (Roll no. 318). (consideration: CR H3943)
+- 2016-06-16 — On agreeing to the Lamborn amendment (A028) Agreed to by recorded vote: 245 - 175 (Roll no. 319). (consideration: CR H3943-3944)
+- 2016-06-16 — On agreeing to the Lee amendment (A042) Failed by recorded vote: 146 - 274 (Roll no. 330).
+- 2016-06-16 — On agreeing to the Massie amendment (A029) Failed by recorded vote: 48 - 372 (Roll no. 320). (consideration: CR H3944-3945)
+- 2016-06-16 — On agreeing to the Massie amendment (A030) Failed by recorded vote: 198 - 222 (Roll no. 321). (consideration: CR H3945)
+- 2016-06-16 — On agreeing to the McClintock amendment (A031) Agreed to by recorded vote: 221 - 197 (Roll no. 322). (consideration: CR H3945-3946)
+- 2016-06-16 — On agreeing to the McGovern amendment (A041) Failed by recorded vote: 135 - 285 (Roll no. 329).
+- 2016-06-16 — On agreeing to the McSally amendment (A044) Agreed to by voice vote.
+- 2016-06-16 — On agreeing to the Mulvaney amendment (A032) Failed by recorded vote: 112 - 306 (Roll no. 323). (consideration: CR H3946-3947)
+- 2016-06-16 — On agreeing to the O'Rourke amendment (A015) Failed by recorded vote: 157 - 263 (Roll no. 310). (consideration: CR H3938)
+- 2016-06-16 — On agreeing to the Poe (TX) amendment (A018) Failed by recorded vote: 191 - 230 (Roll no. 312). (consideration: CR H3939-3940)
+- 2016-06-16 — On agreeing to the Polis amendment (A043) Failed by recorded vote: 69 - 351 (Roll no. 331).
+- 2016-06-16 — On agreeing to the Quigley amendment (A013) Failed by recorded vote: 159 - 261 (Roll no. 309). (consideration: CR H3937-3938)
+- 2016-06-16 — On agreeing to the Rogers (AL) amendment (A012) Failed by recorded vote: 177 - 243 (Roll no. 308). (consideration: CR H3936-3937)
+- 2016-06-16 — On agreeing to the Rohrabacher amendment (A035) Failed by recorded vote: 84 - 336 (Roll no. 325). (consideration: CR H3947-3948)
+- 2016-06-16 — On agreeing to the Sanford amendment (A020) Failed by recorded vote: 155 - 265 (Roll no. 313). (consideration: CR H3940)
+- 2016-06-16 — On agreeing to the Shuster amendment (A002) Failed by recorded vote: 205 - 216 (Roll no. 306). (consideration: CR H3935-3936)
+- 2016-06-16 — On agreeing to the Smith (NE) amendment (A046) Agreed to by voice vote.
+- 2016-06-16 — On agreeing to the Walberg amendment (A036) Agreed to by recorded vote: 218 - 201 (Roll no. 326). (consideration: CR H3948-3949)
+- 2016-06-16 — On agreeing to the Yoho amendment (A039) Failed by voice vote.
+- 2016-06-16 — On passage Passed by the Yeas and Nays: 282 - 138 (Roll no. 332).
+- 2016-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gabbard amendment No. 42, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Gabbard demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment No. 45, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment No. 44, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment No. 46, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-06-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 282 - 138 (Roll no. 332).
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — Roll call votes on amendments in House
+- 2016-06-16 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-06-16 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-06-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5293.
+- 2016-06-16 — The previous question was ordered pursuant to the rule. (consideration: CR H3952)
+- 2016-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
