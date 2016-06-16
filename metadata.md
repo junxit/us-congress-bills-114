@@ -1,7 +1,7 @@
 ---
 measure: S. 2815
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2815
@@ -16,10 +16,11 @@ United States Semiquincentennial Commission Act of 2016
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ United States Semiquincentennial Commission Act of 2016
 
 - 2016-04-19 — Introduced in Senate
 - 2016-04-19 — Read twice and referred to the Committee on the Judiciary.
+- 2016-06-16 — Message on Senate action sent to the House.
+- 2016-06-16 — Passed Senate without amendment by Unanimous Consent. (text: CR S4263-4265)
+- 2016-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4263-4265)
+- 2016-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4263-4265)
+- 2016-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4263-4265)
