@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5445
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,21 @@ to guess them.
 
 ### 26 U.S.C. § 223
 
-> Section 223(g)(1) of such Code is amended by striking “subsections (b)(2) and” and inserting “subsection”.
+> by striking “subsections (b)(2) and” both places it appears and inserting “subsection”, and
 
 | | |
 |---|---|
 | Removed | `subsections (b)(2) and` |
 | Inserted | `subsection` |
+
+### 26 U.S.C. § 223
+
+> by striking “determined by” in subparagraph (B) thereof and all that follows through “calendar year 2003.” and inserting “determined by substituting calendar year 2003 for calendar year 1992 in subparagraph (B) thereof.”.
+
+| | |
+|---|---|
+| Removed | `determined by” in subparagraph (B) thereof and all that follows through “calendar year 2003.` |
+| Inserted | `determined by substituting calendar year 2003 for calendar year 1992 in subparagraph (B) thereof.` |
 
 ## Stated, not applied
 
