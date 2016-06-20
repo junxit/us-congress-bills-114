@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5293
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5293
@@ -461,3 +461,4 @@ Department of Defense Appropriations Act, 2017
 - 2016-06-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5293.
 - 2016-06-16 — The previous question was ordered pursuant to the rule. (consideration: CR H3952)
 - 2016-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-06-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 524.
