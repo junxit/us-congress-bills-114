@@ -1,7 +1,7 @@
 ---
 measure: S. 2348
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2348
@@ -31,9 +31,10 @@ Rapid DNA Act of 2016
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,5 @@ Rapid DNA Act of 2016
 - 2016-06-16 — Message on Senate action sent to the House.
 - 2016-06-16 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4265-4266; text as passed Senate: CR S4265-4266)
 - 2016-06-16 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S4265-4266; text as passed Senate: CR S4265-4266)
+- 2016-06-20 — Received in the House.
+- 2016-06-20 — Referred to the House Committee on the Judiciary.
