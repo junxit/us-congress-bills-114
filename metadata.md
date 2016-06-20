@@ -1,7 +1,7 @@
 ---
 measure: S. 2815
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2815
@@ -22,9 +22,10 @@ United States Semiquincentennial Commission Act of 2016
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,5 @@ United States Semiquincentennial Commission Act of 2016
 - 2016-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4263-4265)
 - 2016-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4263-4265)
 - 2016-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4263-4265)
+- 2016-06-20 — Received in the House.
+- 2016-06-20 — Referred to the House Committee on Oversight and Government Reform.
