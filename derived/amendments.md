@@ -1,7 +1,7 @@
 ---
 measure: S. 2848
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-245 amendatory instructions. 64 executed, 181 stated and not applied.
+252 amendatory instructions. 66 executed, 186 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `such work` |
 | Inserted | `such study or project` |
 
+### 33 U.S.C. § 701h-1
+
+> by striking “from appropriations which may be provided by Congress for flood-control work” and inserting “if specific appropriations are provided by Congress for such purpose”; and
+
+| | |
+|---|---|
+| Removed | `from appropriations which may be provided by Congress for flood-control work` |
+| Inserted | `if specific appropriations are provided by Congress for such purpose` |
+
 ### 33 U.S.C. § 2325a
 
 > by striking “Not later than 60 days after initiating an activity under this section,” and inserting “Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section,”; and
@@ -63,6 +72,15 @@ to guess them.
 ### 33 U.S.C. § 426e-2
 
 > Section 1027(b) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 426e–2(b)) is amended by striking “funded” and inserting “reimbursed”.
+
+| | |
+|---|---|
+| Removed | `funded` |
+| Inserted | `reimbursed` |
+
+### 33 U.S.C. § 426e-2
+
+> in subsection (b), by striking “funded” and inserting “reimbursed”.
 
 | | |
 |---|---|
@@ -161,12 +179,21 @@ to guess them.
 
 ### 33 U.S.C. § 603a
 
-> by striking “accumulated snags and other debris” and inserting “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel”.
+> by inserting striking “accumulated snags and other debris” and inserting “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel”.; and
 
 | | |
 |---|---|
 | Removed | `accumulated snags and other debris` |
 | Inserted | `accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel` |
+
+### 33 U.S.C. § 603a
+
+> by striking “or flood control” and inserting “, flood control, or recreation”.
+
+| | |
+|---|---|
+| Removed | `or flood control` |
+| Inserted | `, flood control, or recreation` |
 
 ### 33 U.S.C. § 2341a
 
@@ -188,12 +215,21 @@ to guess them.
 
 ### 33 U.S.C. § 426g
 
-> Section 3(c)(2)(B) of the Act of August 13, 1946 (33 U.S.C. 426g(c)(2)(B)), is amended by striking “$5,000,000” and inserting “$10,000,000”.
+> Section 3(c)(2)(B) of the Act of August 13, 1946 (33 U.S.C. 426g(c)(2)(B)) is amended by striking “$5,000,000” and inserting “$10,000,000”.
 
 | | |
 |---|---|
 | Removed | `$5,000,000` |
 | Inserted | `$10,000,000` |
+
+### 33 U.S.C. § 426i
+
+> in subsection (b), by striking “measures” and all that follows through “project” and inserting “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project”; and
+
+| | |
+|---|---|
+| Removed | `measures” and all that follows through “project` |
+| Inserted | `measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project` |
 
 ### 33 U.S.C. § 2238b
 
@@ -279,6 +315,15 @@ to guess them.
 ### 33 U.S.C. § 2211
 
 > in subparagraph (C), by striking “45 feet” and inserting “50 feet”.
+
+| | |
+|---|---|
+| Removed | `45 feet` |
+| Inserted | `50 feet` |
+
+### 33 U.S.C. § 2241
+
+> Section 214(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2241(1)) is amended by striking “45 feet” and inserting “50 feet”.
 
 | | |
 |---|---|
@@ -429,50 +474,23 @@ to guess them.
 | Removed | `section 603(h)` |
 | Inserted | `section 603(i)` |
 
-### 33 U.S.C. § 2201
+### 33 U.S.C. § 1301
 
-> in subsection (c)(5) (as so redesignated), by striking “subsection (g)” and inserting “subsection (f)”;
-
-| | |
-|---|---|
-| Removed | `subsection (g)` |
-| Inserted | `subsection (f)` |
-
-### 33 U.S.C. § 2201
-
-> in subsection (d) (as so redesignated), in the matter preceding paragraph (1), by striking “subsection (d)(1)” and inserting “subsection (c)(1)”;
+> Section 221(d) of the Federal Water Pollution Control Act (33 U.S.C. 1301(d)) is amended by striking “section 603(h)” and inserting “section 603(i)”.
 
 | | |
 |---|---|
-| Removed | `subsection (d)(1)` |
-| Inserted | `subsection (c)(1)` |
+| Removed | `section 603(h)` |
+| Inserted | `section 603(i)` |
 
 ### 33 U.S.C. § 2201
 
-> in subsection (e) (as so redesignated), by striking “subsection (d)(4)” and inserting “subsection (c)(4)”;
+> Section 5014(c) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2201 note; Public Law 113–121) is amended by striking “Any activity undertaken under this section is authorized only to the extent” and inserting “Nothing in this section obligates the Secretary to expend funds unless”.
 
 | | |
 |---|---|
-| Removed | `subsection (d)(4)` |
-| Inserted | `subsection (c)(4)` |
-
-### 33 U.S.C. § 2201
-
-> in subsection (f) (as so redesignated), in the matter preceding paragraph (1), by striking “subsection (d)(4)” and inserting “subsection (c)(4)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (d)(4)` |
-| Inserted | `subsection (c)(4)` |
-
-### 33 U.S.C. § 2201
-
-> in subsection (i)(1) (as so redesignated), by striking “subsection (d)(4)” and inserting “subsection (c)(4)”.
-
-| | |
-|---|---|
-| Removed | `subsection (d)(4)` |
-| Inserted | `subsection (c)(4)` |
+| Removed | `Any activity undertaken under this section is authorized only to the extent` |
+| Inserted | `Nothing in this section obligates the Secretary to expend funds unless` |
 
 ### 33 U.S.C. § 3902
 
@@ -612,9 +630,9 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2231` | add-at-end | Section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 701h-1` | replace | by striking “Whenever any” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 701h-1` | replace | by striking “The Secretary of the Army” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 701h-1` | strike | by striking “for flood-control work”; and | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2325a` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 426e-2` | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “, at full Federal expense,” after “The Secretary may”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2328` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460d-3` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 408` | replace | by striking “That it shall not be lawful” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -654,6 +672,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2215` | replace | by striking the subparagraph designation and heading and all that follows through “The Secretary” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2215` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2267a` | insert | Section 729(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2267a(f)(1)) is amended by inserting before the period at the end “, except that the first $100,000 of the assessment shall be a Federal expense”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 426i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2212` | add-at-end | Section 102(c) of the Water Resources Development Act of 1986 (33 U.S.C. 2212(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2238b` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2238b` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -664,6 +683,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2238` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2238` | replace | in clause (iv), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2238` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2238` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2238` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 701n` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 701n` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3303a` | strike | in subsection (a), by striking “if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified”; | the bill quotes the text struck but describes what replaces it |
@@ -679,7 +700,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 4003(a) of the Water Resources Reform and Development Act of 2014 (Public Law 113–121; 128 Stat. 1311) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 544(f) of the Water Resources Development Act of 2000 (Public Law 106–541; 114 Stat. 2675) is amended by striking “$5,000,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
 | — | insert | Section 4009(a) of the Water Resources Reform and Development Act of 2014 (Public Law 113–121; 128 Stat. 1316) is amended by inserting “at Federal expense” after “study”. | the bill names no machine-readable US Code section |
-| — | replace | Section 5056(f) of the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1214) is amended by striking “2019” and inserting “2024”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5056(f) of the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1214; 128 Stat. 1315) is amended by striking “2019” and inserting “2024”. | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading, by striking “Pilot Projects” and inserting “Projects”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “the pilot”; and | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), in the matter preceding subclause (I), by striking “the pilot”; | the bill names no machine-readable US Code section |
@@ -721,12 +742,14 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1383` | insert | in the matter preceding paragraph (1), by inserting “and as provided in subsection (e)” after “State law”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1383` | redesignate | by redesignating subsections (e) through (i) as subsections (f) through (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1281` | add-at-end | Title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | insert | in the matter preceding paragraph (1), by inserting “and as provided in subsection (e)” after “State law”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1383` | redesignate | by redesignating subsections (e) through (i) as subsections (f) through (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1319` | add-at-end | Section 309 of the Federal Water Pollution Control Act (33 U.S.C. 1319) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1251` | redesignate | by redesignating section 519 (33 U.S.C. 1251 note) as section 520; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1377` | insert | by inserting after section 518 (33 U.S.C. 1377) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2201` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2201` | redesignate | by redesignating subsections (d) through (n) as subsections (c) through (m), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3908` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3908` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3908` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
