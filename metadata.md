@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2577
@@ -39,9 +39,11 @@ Justice for All Reauthorization Act of 2016
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -61,3 +63,7 @@ Justice for All Reauthorization Act of 2016
 - 2016-06-16 — Senate amendment proposed (on the floor): Amendment SA 4727 proposed by Senator Cornyn for Senator Grassley.(consideration: CR S4270; text: CR S4270)
 - 2016-06-16 — Senate amendment submitted
 - 2016-06-16 — The committee amendments agreed to by Unanimous Consent.
+- 2016-06-20 — Received in the House.
+- 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
