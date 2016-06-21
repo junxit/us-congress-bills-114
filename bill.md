@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Social Impact Partnerships to Pay for Results Act”.
 
-## § 2. Social impact partnerships to pay for results
+## § 2. Social Impact Partnerships to Pay for Results Act
 
 Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at the end the following:
 
@@ -23,12 +23,12 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >     - **(B)** To redirect funds away from programs that, based on objective data, are ineffective, and into programs that achieve demonstrable, measurable results.
 >     - **(C)** To ensure Federal funds are used effectively on social services to produce positive outcomes for both service recipients and taxpayers.
 >     - **(D)** To establish the use of social impact partnerships to address some of our Nation’s most pressing problems.
->     - **(E)** To facilitate the creation of public-private partnerships that bundle philanthropic or other private resources with existing public spending to scale up effective social interventions already being implemented by private organizations, non-profits, charitable organizations, and State and local governments across the country.
+>     - **(E)** To facilitate the creation of public-private partnerships that bundle philanthropic or other private resources with existing public spending to scale up effective social interventions already being implemented by private organizations, nonprofits, charitable organizations, and State and local governments across the country.
 >     - **(F)** To bring pay-for-performance to the social sector, allowing the United States to improve the impact and effectiveness of vital social services programs while redirecting inefficient or duplicative spending.
 >     - **(G)** To incorporate outcomes measurement and randomized controlled trials or other rigorous methodologies for assessing program impact.
 >   - **(2)** *Social impact partnership application*
 >     - **(A)** *Notice* Not later than 1 year after the date of the enactment of this subsection, the Secretary of the Treasury, in consultation with the Federal Interagency Council on Social Impact Partnerships, shall publish in the Federal Register a request for proposals from States or local government for social impact partnership projects in accordance with this paragraph.
->     - **(B)** *Required outcomes for social impact partnership project* To qualify as a social impact partnership project under this subsection, a project must produce 1 or more measurable, clearly defined outcomes that result in social benefit and Federal savings through any of the following:
+>     - **(B)** *Required outcomes for social impact partnership project* To qualify as a social impact partnership project under this subsection, a project must produce one or more measurable, clearly defined outcomes that result in social benefit and Federal savings through any of the following:
 >       - **(i)** Increasing work and earnings by individuals who have been unemployed in the United States for more than 6 consecutive months.
 >       - **(ii)** Increasing employment and earnings of individuals who have attained 16 years of age but not 25 years of age.
 >       - **(iii)** Increasing employment among individuals receiving Federal disability benefits.
@@ -37,7 +37,7 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >       - **(vi)** Reducing teen and unplanned pregnancies.
 >       - **(vii)** Improving birth outcomes and early childhood health and development among low-income families and individuals.
 >       - **(viii)** Reducing rates of asthma, diabetes, or other preventable diseases among low-income families and individuals to reduce the utilization of emergency and other high-cost care.
->       - **(ix)** Increasing the proportion of children living in 2-parent families.
+>       - **(ix)** Increasing the proportion of children living in two-parent families.
 >       - **(x)** Reducing incidences and adverse consequences of child abuse and neglect.
 >       - **(xi)** Reducing the number of youth in foster care by increasing adoptions, permanent guardianship arrangements, reunification, or placement with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
 >       - **(xii)** Reducing the number of children and youth in foster care residing in group homes, child care institutions, agency-operated foster homes, or other non-family foster homes, unless it is determined that it is in the interest of the child’s long-term health, safety, or psychological well-being to not be placed in a family foster home.
@@ -98,7 +98,7 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >       - **(vi)** The expected quality of the evaluation that would be conducted with respect to the agreement.
 >     - **(C)** *Agreement authority*
 >       - **(i)** *Agreement requirements* In accordance with this paragraph, the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships and the head of any Federal agency administering a similar intervention or serving a population similar to that served by the project, may enter into an agreement for a social impact partnership project with a State or local government if the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships, determines that each of the following requirements are met:
->         - **(I)** The State or local government agrees to achieve 1 or more outcomes specified in the agreement in order to receive payment.
+>         - **(I)** The State or local government agrees to achieve one or more outcomes specified in the agreement in order to receive payment.
 >         - **(II)** The Federal payment to the State or local government for each outcome specified is less than or equal to the value of the outcome to the Federal Government over a period not to exceed 10 years, as determined by the Secretary, in consultation with the State or local government.
 >         - **(III)** The duration of the project does not exceed 10 years.
 >         - **(IV)** The State or local government has demonstrated, through the application submitted under paragraph (2), that, based on prior rigorous experimental evaluations or rigorous quasi-experimental studies, the intervention can be expected to achieve each outcome specified in the agreement.
@@ -119,6 +119,7 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >       - **(xi)** The metrics that will be used to determine whether the outcomes have been achieved and how these metrics will be measured.
 >       - **(xii)** The estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, if the agreement is entered into and implemented and the outcomes are achieved.
 >     - **(E)** *Authority to transfer administration of agreement* The Secretary may transfer to the head of another Federal agency the authority to administer (including making payments under) an agreement entered into under subparagraph (C), and any funds necessary to do so.
+>     - **(F)** *Requirement on funding used to benefit children* Not less than 50 percent of all Federal payments made to carry out agreements under this paragraph shall be used for initiatives that directly benefit children.
 >   - **(4)** *Feasibility study funding*
 >     - **(A)** *Requests for funding for feasibility studies* The Secretary shall reserve a portion of the amount reserved to carry out this subsection to assist States or local governments in developing feasibility studies to apply for social impact partnership funding under paragraph (2). To be eligible to receive funding to assist with completing a feasibility study, a State or local government shall submit an application for feasibility study funding addressing the following:
 >       - **(i)** A description of the outcome goals of the social impact partnership project.
@@ -174,7 +175,7 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >       - **(x)** provide oversight of the actions of the Secretary and other Federal officials under this subsection and report periodically to Congress and the public on the implementation of this subsection.
 >     - **(B)** *Composition of council* The Council shall have 11 members, as follows:
 >       - **(i)** *Chair* The Chair of the Council shall be the Director of the Office of Management and Budget.
->       - **(ii)** *Other members* The head of each of the following entities shall designate 1 officer or employee of the entity to be a Council member:
+>       - **(ii)** *Other members* The head of each of the following entities shall designate one officer or employee of the entity to be a Council member:
 >         - **(I)** The Department of Labor.
 >         - **(II)** The Department of Health and Human Services.
 >         - **(III)** The Social Security Administration.
@@ -191,26 +192,26 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >       - **(i)** assist the Secretary and the Federal Interagency Council on Social Impact Partnerships in reviewing applications for funding under this subsection;
 >       - **(ii)** make recommendations to the Secretary and the Federal Interagency Council on Social Impact Partnerships regarding the funding of social impact partnership agreements and feasibility studies; and
 >       - **(iii)** provide other assistance and information as requested by the Secretary or the Federal Interagency Council on Social Impact Partnerships.
->     - **(C)** *Composition* The Commission shall be composed of 9 members, of whom—
->       - **(i)** 1 shall be appointed by the President, who will serve as the Chair of the Commission;
->       - **(ii)** 1 shall be appointed by the Majority Leader of the Senate;
->       - **(iii)** 1 shall be appointed by the Minority Leader of the Senate;
->       - **(iv)** 1 shall be appointed by the Speaker of the House of Representatives;
->       - **(v)** 1 shall be appointed by the Minority Leader of the House of Representatives;
->       - **(vi)** 1 shall be appointed by the Chairman of the Committee on Finance of the Senate;
->       - **(vii)** 1 shall be appointed by the ranking member of the Committee on Finance of the Senate;
->       - **(viii)** 1 member shall be appointed by the Chairman of the Committee on Ways and Means of the House of Representatives; and
->       - **(ix)** 1 shall be appointed by the ranking member of the Committee on Ways and Means of the House of Representatives.
+>     - **(C)** *Composition* The Commission shall be composed of nine members, of whom—
+>       - **(i)** one shall be appointed by the President, who will serve as the Chair of the Commission;
+>       - **(ii)** one shall be appointed by the Majority Leader of the Senate;
+>       - **(iii)** one shall be appointed by the Minority Leader of the Senate;
+>       - **(iv)** one shall be appointed by the Speaker of the House of Representatives;
+>       - **(v)** one shall be appointed by the Minority Leader of the House of Representatives;
+>       - **(vi)** one shall be appointed by the Chairman of the Committee on Finance of the Senate;
+>       - **(vii)** one shall be appointed by the ranking member of the Committee on Finance of the Senate;
+>       - **(viii)** one member shall be appointed by the Chairman of the Committee on Ways and Means of the House of Representatives; and
+>       - **(ix)** one shall be appointed by the ranking member of the Committee on Ways and Means of the House of Representatives.
 >     - **(D)** *Qualifications of commission members* The members of the Commission shall—
 >       - **(i)** be experienced in finance, economics, pay for performance, or program evaluation;
->       - **(ii)** have relevant professional or personal experience in a field related to 1 or more of the outcomes listed in this subsection; or
+>       - **(ii)** have relevant professional or personal experience in a field related to one or more of the outcomes listed in this subsection; or
 >       - **(iii)** be qualified to review applications for social impact partnership projects to determine whether the proposed metrics and evaluation methodologies are appropriately rigorous and reliant upon independent data and evidence-based research.
->     - **(E)** *Timing of appointments* The appointments of the members of the Commission shall be made not later than 120 days after the date of the enactment of this subsection, or, in the event of a vacancy, not later than 90 days after the date the vacancy arises. If a member of Congress fails to appoint a member by that date, the President may select a member of the President's choice on behalf of the member of Congress. Notwithstanding the preceding sentence, if not all appointments have been made to the Commission as of that date, the Commission may operate with no fewer than 5 members until all appointments have been made.
+>     - **(E)** *Timing of appointments* The appointments of the members of the Commission shall be made not later than 120 days after the date of the enactment of this subsection, or, in the event of a vacancy, not later than 90 days after the date the vacancy arises. If a member of Congress fails to appoint a member by that date, the President may select a member of the President's choice on behalf of the member of Congress. Notwithstanding the preceding sentence, if not all appointments have been made to the Commission as of that date, the Commission may operate with no fewer than five members until all appointments have been made.
 >     - **(F)** *Term of appointments*
 >       - **(i)** *In general* The members appointed under subparagraph (C) shall serve as follows:
->         - **(I)** 3 members shall serve for 2 years.
->         - **(II)** 3 members shall serve for 3 years.
->         - **(III)** 3 members (1 of which shall be Chair of the Commission appointed by the President) shall serve for 4 years.
+>         - **(I)** Three members shall serve for 2 years.
+>         - **(II)** Three members shall serve for 3 years.
+>         - **(III)** Three members (one of which shall be Chair of the Commission appointed by the President) shall serve for 4 years.
 >       - **(ii)** *Assignment of terms* The Commission shall designate the term length that each member appointed under subparagraph (C) shall serve by unanimous agreement. In the event that unanimous agreement cannot be reached, term lengths shall be assigned to the members by a random process.
 >     - **(G)** *Vacancies* Subject to subparagraph (E), in the event of a vacancy in the Commission, whether due to the resignation of a member, the expiration of a member's term, or any other reason, the vacancy shall be filled in the manner in which the original appointment was made and shall not affect the powers of the Commission.
 >     - **(H)** *Appointment power* Members of the Commission appointed under subparagraph (C) shall not be subject to confirmation by the Senate.
@@ -250,3 +251,87 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >         - **(III)** investors to fund the delivery of the intervention.
 >     - **(F)** *State* The term State means each State of the United States, the District of Columbia, each commonwealth, territory or possession of the United States, and each federally recognized Indian tribe.
 >   - **(14)** *Funding* Of the amounts made available to carry out subsection (b) for fiscal year 2017, the Secretary shall reserve $100,000,000 to carry out this subsection.
+
+## § 3. Extension of TANF program
+
+- **(a)** *Family assistance grants* Section 403(a)(1) of the Social Security Act (42 U.S.C. 603(a)(1)) is amended in each of subparagraphs (A) and (C), by striking “2012” and inserting “2017”.
+- **(b)** *Healthy marriage promotion and responsible fatherhood grants* Section 403(a)(2)(D) of such Act (42 U.S.C. 603(a)(2)(D)) is amended by striking “2012” each place it appears and inserting “2017”.
+- **(c)** *Tribal grants* Section 412(a) of such Act (42 U.S.C. 612(a)) is amended in each of paragraphs (1)(A) and (2)(A) by striking “2012” and inserting “2017”.
+- **(d)** *Child care entitlement* Section 418(a)(3) of such Act (42 U.S.C. 618(a)(3)) is amended by striking “2012” and inserting “2017”.
+- **(e)** *Grants to the territories* Section 1108(b)(2) of such Act (42 U.S.C. 1308(b)(2)) is amended by striking “2012” and inserting “2017”.
+
+## § 4. Strengthening welfare research and evaluation and development of a What Works Clearinghouse
+
+- **(a)** *In general* Section 413 of the Social Security Act (42 U.S.C. 613) is amended to read as follows:
+  > ## § 413. Evaluation of Temporary Assistance for Needy Families and related programs
+  >
+  > - **(a)** *Evaluation of the impacts of TANF* The Secretary shall conduct research on the effect of State programs funded under this part and any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)) on employment, self-sufficiency, child well-being, unmarried births, marriage, poverty, economic mobility, and other factors as determined by the Secretary.
+  > - **(b)** *Evaluation of grants To improve child well-Being by promoting healthy marriage and responsible fatherhood* The Secretary shall conduct research to determine the effects of the grants made under section 403(a)(2) on child well-being, marriage, family stability, economic mobility, poverty, and other factors as determined by the Secretary.
+  > - **(c)** *Dissemination of information* The Secretary shall, in consultation with States receiving funds provided under this part, develop methods of disseminating information on any research, evaluation, or study conducted under this section, including facilitating the sharing of information and best practices among States and localities.
+  > - **(d)** *State-Initiated evaluations* A State shall be eligible to receive funding to evaluate the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)) if—
+  >   - **(1)** the State submits to the Secretary a description of the proposed evaluation;
+  >   - **(2)** the Secretary determines that the design and approach of the proposed evaluation is rigorous and is likely to yield information that is credible and will be useful to other States; and
+  >   - **(3)** unless waived by the Secretary, the State contributes to the cost of the evaluation, from non-Federal sources, an amount equal to at least 25 percent of the cost of the proposed evaluation.
+  > - **(e)** *Census Bureau research*
+  >   - **(1)** The Bureau of the Census shall implement or enhance household surveys of program participation, in consultation with the Secretary and the Burueau of Labor Statistics and made available to interested parties, to allow for the assessment of the outcomes of continued welfare reform on the economic and child well-being of low-income families with children, including those who received assistance or services from a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)). The content of the surveys should include such information as may be necessary to examine the issues of unmarried childbearing, marriage, welfare dependency and compliance with work requirements, the beginning and ending of spells of assistance, work, earnings and employment stability, and the well-being of children.
+  >   - **(2)** To carry out the activities specified in paragraph (1), the Bureau of the Census, the Secretary, and the Bureau of Labor Statistics shall consider ways to improve the surveys and data derived from the surveys to—
+  >     - **(A)** address underreporting of the receipt of means-tested benefits and tax benefits for low-income individuals and families;
+  >     - **(B)** increase understanding of poverty spells and long-term poverty, including by facilitating the matching of information to better understand intergenerational poverty;
+  >     - **(C)** generate a better geographical understanding of poverty such as through State-based estimates and measures of neighborhood poverty;
+  >     - **(D)** increase understanding of the effects of means-tested benefits and tax benefits on the earnings of low-income families; and
+  >     - **(E)** improve how poverty and economic well-being are measured, including through the use of consumption measures.
+  > - **(f)** *Research and evaluation conducted under this section* Research and evaluation conducted under this section designed to determine the effects of a program or policy (other than research conducted under subsection (e)) shall use experimental designs using random assignment or other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences when random assignment is not feasible.
+  > - **(g)** *Development of what works clearinghouse of proven and promising approaches To move welfare recipients into work*
+  >   - **(1)** *In general* The Secretary, in consultation with the Secretary of Labor, shall develop a database (which shall be referred to as the “What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work”) of the projects that used a proven approach or a promising approach in moving welfare recipients into work, based on independent, rigorous evaluations of the projects. The database shall include a separate listing of projects that used a developmental approach in delivering services and a further separate listing of the projects with no or negative effects. The Secretary shall add to the What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work data about the projects that, based on an independent, well-conducted experimental evaluation of a program or project, using random assignment or other research methodologies that allow for the strongest possible causal inferences, have shown they are proven, promising, developmental, or ineffective approaches.
+  >   - **(2)** *Criteria for evidence of effectiveness of approach* The Secretary, in consultation with the Secretary of Labor and organizations with experience in evaluating research on the effectiveness of various approaches in delivering services to move welfare recipients into work, shall—
+  >     - **(A)** establish criteria for evidence of effectiveness; and
+  >     - **(B)** ensure that the process for establishing the criteria—
+  >       - **(i)** is transparent;
+  >       - **(ii)** is consistent across agencies;
+  >       - **(iii)** provides opportunity for public comment; and
+  >       - **(iv)** takes into account efforts of Federal agencies to identify and publicize effective interventions, including efforts at the Department of Health and Human Services, the Department of Education, and the Department of Justice.
+  >   - **(3)** *Definitions* In this subsection:
+  >     - **(A)** *Approach* The term approach means a process, product, strategy, or practice that is—
+  >       - **(i)** research-based, based on the results of one or more empirical studies, and linked to program-determined outcomes; and
+  >       - **(ii)** evaluated using rigorous research designs.
+  >     - **(B)** *Proven approach* The term proven approach means an approach that—
+  >       - **(i)** meets the requirements of a promising approach; and
+  >       - **(ii)** has demonstrated significant positive outcomes at more than one site in terms of increasing work and earnings of participants, reducing poverty and dependence, or strengthening families.
+  >     - **(C)** *Promising approach* The term promising approach means an approach—
+  >       - **(i)** that meets the requirements of subparagraph (D)(i);
+  >       - **(ii)** that has been evaluated using well-designed and rigorous randomized controlled or quasi-experimental research designs;
+  >       - **(iii)** that has demonstrated significant positive outcomes at only one site in terms of increasing work and earnings of participants, reducing poverty and dependence, or strengthening families; and
+  >       - **(iv)** under which the benefits of the positive outcomes have exceeded the costs of achieving the outcomes.
+  >     - **(D)** *Developmental approach* The term developmental approach means an approach that—
+  >       - **(i)** is research-based, grounded in relevant empirically-based knowledge, and linked to program-determined outcomes;
+  >       - **(ii)** is evaluated using rigorous research designs; and
+  >       - **(iii)** has yet to demonstrate a significant positive outcome in terms of increasing work and earnings of participants in a cost-effective way.
+  > - **(h)** *Appropriation*
+  >   - **(1)** *In general* Of the amount appropriated by section 403(a)(1) for each fiscal year, 0.33 percent shall be available for research and evaluation under this section.
+  >   - **(2)** *Allocation* Of the amount made available under paragraph (1) for each fiscal year, the Secretary shall make available $10,000,000 plus such additional amount as the Secretary deems necessary and appropriate, to carry out subsection (e).
+
+- **(b)** *Conforming amendment* Section 403(a)(1)(B) of such Act (42 U.S.C. 603(a)(1)(B)) is amended by inserting “, reduced by the percentage specified in section 413(h) with respect to the fiscal year,” before “as the amount”.
+
+## § 5. Technical corrections to data exchange standards to improve program coordination
+
+- **(a)** *In general* Section 411(d) of the Social Security Act (42 U.S.C. 611(d)) is amended to read as follows:
+  > - **(d)** *Data exchange standards for improved interoperability*
+  >   - **(1)** *Designation* The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part—
+  >     - **(A)** necessary categories of information that State agencies operating programs under State plans approved under this part are required under applicable Federal law to electronically exchange with another State agency; and
+  >     - **(B)** Federal reporting and data exchange required under applicable Federal law.
+  >   - **(2)** *Requirements* The data exchange standards required by paragraph (1) shall, to the extent practicable—
+  >     - **(A)** incorporate a widely accepted, non-proprietary, searchable, computer-readable format, such as the eXtensible Markup Language;
+  >     - **(B)** contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+  >     - **(C)** incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+  >     - **(D)** be consistent with and implement applicable accounting principles;
+  >     - **(E)** be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+  >     - **(F)** be capable of being continually upgraded as necessary.
+  >   - **(3)** *Rule of construction* Nothing in this subsection shall be construed to require a change to existing data exchange standards found to be effective and efficient.
+
+- **(b)** *Effective date* Not later than the date that is 24 months after the date of the enactment of this section, the Secretary of Health and Human Services shall issue a proposed rule that—
+  - **(1)** identifies federally required data exchanges, include specification and timing of exchanges to be standardized, and address the factors used in determining whether and when to standardize data exchanges; and
+  - **(2)** specifies State implementation options and describes future milestones.
+
+## § 6. Effective date
+
+The amendments made by this Act shall take effect on October 1, 2016.
