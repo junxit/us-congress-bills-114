@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4925
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4925
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 229 Wes
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
@@ -40,6 +40,9 @@ To designate the facility of the United States Postal Service located at 229 Wes
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
 
 ## Committees (1)
 
@@ -50,3 +53,11 @@ To designate the facility of the United States Postal Service located at 229 Wes
 - 2016-04-13 — Introduced in House
 - 2016-04-13 — Introduced in House
 - 2016-04-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-05-17 — Committee Consideration and Mark-up Session Held.
+- 2016-05-17 — Ordered to be Reported by Unanimous Consent.
+- 2016-06-21 — Considered under suspension of the rules. (consideration: CR H3996-3997)
+- 2016-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4925.
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Blum moved to suspend the rules and pass the bill.
+- 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3996)
+- 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3996)
