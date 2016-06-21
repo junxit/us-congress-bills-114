@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Small Business Health Care Relief Act”.
+This Act may be cited as the “Small Business Health Care Relief Act of 2016”.
 
 ## § 2. Exception from group health plan requirements for qualified small employer health reimbursement arrangements
 
@@ -54,14 +54,15 @@ This Act may be cited as the “Small Business Health Care Relief Act”.
   - **(3)** *Coordination with health insurance premium credit* Section 36B(c) of such Code is amended by adding at the end the following new paragraph:
     > - **(4)** *Special rules for qualified small employer health reimbursement arrangements*
     >   - **(A)** *In general* The term “coverage month” shall not include any month with respect to an employee (or any spouse or dependent of such employee) if for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage.
-    >   - **(B)** *Denial of double benefit* In the case of any employee who is covered under a qualified small employer health reimbursement arrangement for any month, the credit otherwise allowed under subsection (a) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.
+    >   - **(B)** *Denial of double benefit* In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (a) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.
     >   - **(C)** *Affordable coverage* For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
     >     - **(i)** the excess of—
     >       - **(I)** the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over
     >       - **(II)** 1⁄12 of the employee’s permitted benefit (as defined in section 9831(d)(3)(C)) under such arrangement, does not exceed—
     >     - **(ii)** 1⁄12 of 9.5 percent of the employee’s household income.
     >   - **(D)** *Qualified small employer health reimbursement arrangement* For purposes of this paragraph, the term “qualified small employer health reimbursement arrangement” has the meaning given such term by section 9831(d)(2).
-    >   - **(E)** *Indexing* In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
+    >   - **(E)** *Coverage for less than entire year* In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting “the number of months during the year for which such arrangement was provided” for “12”.
+    >   - **(F)** *Indexing* In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
 
   - **(4)** *Application of excise tax on high cost employer-sponsored health coverage*
     - **(A)** *In general* Section 4980I(f)(4) of such Code is amended by adding at the end the following: “Section 9831(d)(1) shall not apply for purposes of this section.”.
@@ -69,11 +70,11 @@ This Act may be cited as the “Small Business Health Care Relief Act”.
       > - **(D)** *Qualified small employer health reimbursement arrangements* In the case of applicable employer-sponsored coverage consisting of coverage under any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)), the cost of coverage shall be equal to the amount described in section 6051(a)(15).
 
   - **(5)** *Enforcement of notice requirement* Section 6652 of such Code is amended by adding at the end the following new subsection:
-    > - **(o)** *Failure To provide notices with respect to qualified small employer health reimbursement arrangements* In the case of each failure to provide a written notice as required by section 9831(d)(4), unless it is shown that such failure is due to reasonable cause and not willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written notice, an amount equal to $50 per employee per incident of failure to provide such notice, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $2,500.
+    > - **(o)** *Failure To provide notices with respect To qualified small employer health reimbursement arrangements* In the case of each failure to provide a written notice as required by section 9831(d)(4), unless it is shown that such failure is due to reasonable cause and not willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written notice, an amount equal to $50 per employee per incident of failure to provide such notice, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $2,500.
 
   - **(6)** *Reporting*
     - **(A)** *W–2 reporting* Section 6051(a) of such Code is amended by striking “and” at the end of paragraph (13), by striking the period at the end of paragraph (14) and inserting “, and”, and by inserting after paragraph (14) the following new paragraph:
-      > - **(15)** the total amount of permitted benefits (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee.
+      > - **(15)** the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee.
 
     - **(B)** *Information required to be provided by exchange subsidy applicants* Section 1411(b)(3) of the Patient Protection and Affordable Care Act is amended by redesignating subparagraph (B) as subparagraph (C) and by inserting after subparagraph (A) the following new subparagraph:
       > - **(B)** *Certain individual health insurance policies obtained through small employers* The amount of the enrollee’s permitted benefit (as defined in section 9831(d)(3)(C) of the Internal Revenue Code of 1986) under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of such Code).
