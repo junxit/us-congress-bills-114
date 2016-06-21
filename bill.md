@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1550
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -71,6 +71,7 @@ This Act may be cited as the “Program Management Improvement Accountability Ac
   >         - **(V)** The Director of the Office of Performance and Personnel Management.
   >       - **(ii)** The Program Management Improvement Officer from each agency described in section 901(b).
   >       - **(iii)** Other individuals as determined appropriate by the Chairperson.
+  >       - **(iii)** Any other full-time or permanent part-time officer or employee of the Federal Government or member of the Armed Forces designated by the Chairperson.
   >     - **(B)** *Chairperson and Vice Chairperson*
   >       - **(i)** *In General* The Deputy Director for Management of the Office of Management and Budget shall be the Chairperson of the Council. A Vice Chairperson shall be elected by the members and shall serve a term of not more than 1 year.
   >       - **(ii)** *Duties* The Chairperson shall preside at the meetings of the Council, determine the agenda of the Council, direct the work of the Council, and establish and direct subgroups of the Council as appropriate.
@@ -79,6 +80,7 @@ This Act may be cited as the “Program Management Improvement Accountability Ac
   >   - **(6)** *Committee duration* Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 
 - **(b)** *Report required* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with each Program Management Improvement Officer designated under section 1126(a)(1) of title 31, United States Code, shall submit to Congress a report containing the strategy developed under section 1126(a)(2)(B) of such title, as added by subsection (a).
+- **(c)** *Technical and conforming amendment* The table of sections for chapter 11 of title 31, United States Code, is amended by inserting after the item relating to section 1125 the following new item:
 
 ## § 4. Program and project management personnel standards
 

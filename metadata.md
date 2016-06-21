@@ -1,7 +1,7 @@
 ---
 measure: S. 1550
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1550
@@ -21,9 +21,10 @@ Program Management Improvement Accountability Act
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -45,3 +46,8 @@ Program Management Improvement Accountability Act
 - 2015-11-20 — Message on Senate action sent to the House.
 - 2015-11-30 — Received in the House.
 - 2015-11-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-05-17 — Committee Consideration and Mark-up Session Held.
+- 2016-05-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-06-21 — Placed on the Union Calendar, Calendar No. 495.
+- 2016-06-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-637.
+- 2016-06-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-637.
