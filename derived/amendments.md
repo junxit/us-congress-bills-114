@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,8 +60,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `3 U.S.C. § 102` | replace | The first section of the Act entitled “An Act to provide retirement, clerical assistants, and free mailing privileges to former Presidents of the United States, and for other purposes”, approved August 25, 1958 (3 U.S.C. 102 note), is am… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | replace | The first section of the Act entitled “An Act to provide retirement, clerical assistants, and free mailing privileges to former Presidents of the United States, and for other purposes”, approved August 25, 1958 (commonly known as the For… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `3 U.S.C. § 102` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `3 U.S.C. § 102` | strike | by striking “or the government of the District of Columbia”; and | the bill quotes the text struck but describes what replaces it |
 | `3 U.S.C. § 102` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `3 U.S.C. § 102` | amend | by adding after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | in subsection (e), by inserting after the subsection enumerator the following: “Widows and widowers.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | in subsection (f), by inserting after the subsection enumerator the following: “Definition.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | in subsection (g), by inserting after the subsection enumerator the following: “Authorization of appropriations.—”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

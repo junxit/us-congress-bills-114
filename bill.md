@@ -2,66 +2,87 @@
 legis-num: H.R. 1777
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1777
 
-> To amend the Act of August 25, 1958, commonly known as the “Former Presidents Act of 1958”, with respect to the monetary allowance payable to a former President, and for other purposes.
+That the bill from the House of Representatives (H.R. 1777) entitled “An Act to amend the Act of August 25, 1958, commonly known as the “Former Presidents Act of 1958”, with respect to the monetary allowance payable to a former President, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Presidential Allowance Modernization Act”.
+This Act may be cited as the “Presidential Allowance Modernization Act of 2016”.
 
 ## § 2. Amendments
 
-- **(a)** *Relating to a former President* The first section of the Act entitled “An Act to provide retirement, clerical assistants, and free mailing privileges to former Presidents of the United States, and for other purposes”, approved August 25, 1958 (3 U.S.C. 102 note), is amended by striking the matter before subsection (e) and inserting the following:
-  > - **(a)** Each former President shall be entitled for the remainder of his or her life to receive from the United States—
+- **(a)** *Former Presidents* The first section of the Act entitled “An Act to provide retirement, clerical assistants, and free mailing privileges to former Presidents of the United States, and for other purposes”, approved August 25, 1958 (commonly known as the Former Presidents Act of 1958) (3 U.S.C. 102 note), is amended by striking the matter preceding subsection (e) and inserting the following:
+  > - **(a)** *In general* Each former President shall be entitled for the remainder of his or her life to receive from the United States—
   >   - **(1)** an annuity at the rate of $200,000 per year, subject to subsection (c); and
   >   - **(2)** a monetary allowance at the rate of $200,000 per year, subject to subsections (c) and (d).
-  > - **(b)**
-  >   - **(1)** The annuity and allowance under subsection (a) shall each—
-  >     - **(A)** commence on the day after the individual becomes a former President;
-  >     - **(B)** terminate on the last day of the month before the former President dies; and
+  > - **(b)** *Duration; frequency*
+  >   - **(1)** *In general* The annuity and allowance under subsection (a) shall each—
+  >     - **(A)** commence on the day after the date on which an individual becomes a former President;
+  >     - **(B)** terminate on the date on which the former President dies; and
   >     - **(C)** be payable by the Secretary of the Treasury on a monthly basis.
-  >   - **(2)** The annuity and allowance under subsection (a) shall not be payable for any period during which the former President holds an appointive or elective position in or under the Federal Government to which is attached a rate of pay other than a nominal rate.
-  > - **(c)** Effective December 1 of each year, each annuity and allowance under subsection (a) having a commencement date that precedes such December 1 shall be increased by the same percentage as the percentage by which benefit amounts under title II of the Social Security Act (42 U.S.C. 401 and following) are increased, effective as of such December 1, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
-  > - **(d)**
-  >   - **(1)** Notwithstanding any other provision of this section, the monetary allowance payable under subsection (a)(2) to a former President for any 12-month period may not exceed the amount by which—
-  >     - **(A)** the monetary allowance which (but for this subsection) would otherwise be so payable for such 12-month period, exceeds (if at all)
-  >     - **(B)** the applicable reduction amount for such 12-month period.
-  >   - **(2)**
-  >     - **(A)** For purposes of paragraph (1), the applicable reduction amount is, with respect to any former President and in connection with any 12-month period, the amount by which—
-  >       - **(i)** the sum of (I) the adjusted gross income (as defined by section 62 of the Internal Revenue Code of 1986) of the former President for the last taxable year ending before the start of such 12-month period, plus (II) any interest excluded from the gross income of the former President under section 103 of such Code for such taxable year, exceeds (if at all)
+  >   - **(2)** *Appointive or elective positions* The annuity and allowance under subsection (a) shall not be payable for any period during which a former President holds an appointive or elective position in or under the Federal Government to which is attached a rate of pay other than a nominal rate.
+  > - **(c)** *Cost-of-Living increases* Effective December 1 of each year, each annuity and allowance under subsection (a) that commenced before that date shall be increased by the same percentage by which benefit amounts under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased, effective as of that date, as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
+  > - **(d)** *Limitation on monetary allowance*
+  >   - **(1)** *In general* Notwithstanding any other provision of this section, the monetary allowance payable under subsection (a)(2) to a former President for any 12-month period—
+  >     - **(A)** except as provided in subparagraph (B), may not exceed the amount by which—
+  >       - **(i)** the monetary allowance that (but for this subsection) would otherwise be so payable for such 12-month period, exceeds (if at all)
+  >       - **(ii)** the applicable reduction amount for such 12-month period; and
+  >     - **(B)** shall not be less than the amount determined under paragraph (4).
+  >   - **(2)** *Definition*
+  >     - **(A)** *In general* For purposes of paragraph (1), the term applicable reduction amount means, with respect to any former President and in connection with any 12-month period, the amount by which—
+  >       - **(i)** the sum of—
+  >         - **(I)** the adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) of the former President for the most recent taxable year for which a tax return is available; and
+  >         - **(II)** any interest excluded from the gross income of the former President under section 103 of such Code for such taxable year, exceeds (if at all)
   >       - **(ii)** $400,000, subject to subparagraph (C).
-  >     - **(B)** In the case of a joint return, subclauses (I) and (II) of subparagraph (A)(i) shall be applied by taking into account both the amounts properly allocable to the former President and the amounts properly allocable to the spouse of the former President.
-  >     - **(C)** The dollar amount specified in subparagraph (A)(ii) shall be adjusted at the same time that, and by the same percentage as the percentage by which, the monetary allowance of the former President is increased under subsection (c) (disregarding this subsection).
+  >     - **(B)** *Joint returns* In the case of a joint return, subclauses (I) and (II) of subparagraph (A)(i) shall be applied by taking into account both the amounts properly allocable to the former President and the amounts properly allocable to the spouse of the former President.
+  >     - **(C)** *Cost-of-living increases* The dollar amount specified in subparagraph (A)(ii) shall be adjusted at the same time that, and by the same percentage by which, the monetary allowance of the former President is increased under subsection (c) (disregarding this subsection).
+  >   - **(3)** *Disclosure requirement*
+  >     - **(A)** *Definitions* In this paragraph—
+  >       - **(i)** the terms return and return information have the meanings given those terms in section 6103(b) of the Internal Revenue Code of 1986; and
+  >       - **(ii)** the term Secretary means the Secretary of the Treasury or the Secretary of the Treasury's delegate.
+  >     - **(B)** *Requirement* A former President may not receive a monetary allowance under subsection (a)(2) unless the former President discloses to the Secretary, upon the request of the Secretary, any return or return information of the former President or spouse of the former President that the Secretary determines is necessary for purposes of calculating the applicable reduction amount under paragraph (2) of this subsection.
+  >     - **(C)** *Confidentiality* Except as provided in section 6103 of the Internal Revenue Code of 1986 and notwithstanding any other provision of law, the Secretary may not, with respect to a return or return information disclosed to the Secretary under subparagraph (B)—
+  >       - **(i)** disclose the return or return information to any entity or person; or
+  >       - **(ii)** use the return or return information for any purpose other than to calculate the applicable reduction amount under paragraph (2).
+  >   - **(4)** *Increased costs due to security needs* With respect to the monetary allowance that would be payable to a former President under subsection (a)(2) for any 12-month period but for the limitation under paragraph (1), the Administrator of General Services, in coordination with the Director of the United States Secret Service, shall determine the amount of the allowance that is needed to pay the increased cost of doing business that is attributable to the security needs of the former President.
 
-- **(b)** *Relating to the surviving spouse of a former President*
-  - **(1)** *Increase in amount of monetary allowance* Subsection (e) of the section amended by subsection (a) is amended—
+- **(b)** *Surviving spouses of former Presidents*
+  - **(1)** *Increase in amount of monetary allowance* Subsection (e) of the first section of the Former Presidents Act of 1958 is amended—
     - **(A)** in the first sentence, by striking “$20,000 per annum,” and inserting “$100,000 per year (subject to paragraph (4)),”; and
     - **(B)** in the second sentence—
       - **(i)** in paragraph (2), by striking “and” at the end;
       - **(ii)** in paragraph (3)—
         - **(I)** by striking “or the government of the District of Columbia”; and
         - **(II)** by striking the period and inserting “; and”; and
-      - **(iii)** by adding after paragraph (3) the following:
-        > - **(4)** shall, after its commencement date, be increased at the same time that, and by the same percentage as the percentage by which, annuities of former Presidents are increased under subsection (c).
+      - **(iii)** by inserting after paragraph (3) the following:
+        > - **(4)** shall, after its commencement date, be increased at the same time that, and by the same percentage by which, annuities of former Presidents are increased under subsection (c).
 
-  - **(2)** *Coverage of widower of a former President* Such subsection (e), as amended by paragraph (1), is further amended—
+  - **(2)** *Coverage of widower of a former President* Subsection (e) of the first section of the Former Presidents Act of 1958, as amended by paragraph (1), is amended—
     - **(A)** by striking “widow” each place it appears and inserting “widow or widower”; and
     - **(B)** by striking “she” and inserting “she or he”.
+- **(c)** *Subsection headings* The first section of the Former Presidents Act of 1958 is amended—
+  - **(1)** in subsection (e), by inserting after the subsection enumerator the following: “Widows and widowers.—”;
+  - **(2)** in subsection (f), by inserting after the subsection enumerator the following: “Definition.—”; and
+  - **(3)** in subsection (g), by inserting after the subsection enumerator the following: “Authorization of appropriations.—”.
 
 ## § 3. Rule of construction
 
-Nothing in this Act shall be considered to affect—
+Nothing in this Act or an amendment made by this Act shall be construed to affect—
 
 - **(1)** any provision of law relating to the security or protection of a former President or a member of the family of a former President; or
-- **(2)** funding, under the law amended by this section or under any other law, to carry out any provision of law described in paragraph (1).
+- **(2)** funding, under the Former Presidents Act of 1958 or any other law, to carry out any provision of law described in paragraph (1).
 
-## § 4. Effective date; transition rules
+## § 4. Transition rules
 
-- **(a)** *Effective date* This Act shall take effect on the date of enactment of this Act.
-- **(b)** *Transition rules*
-  - **(1)** *Former Presidents* In the case of any individual who is a former President on the date of enactment of this Act, the amendment made by section 2(a) shall be applied as if the commencement date referred in subsection (b)(1)(A) of the section amended by this Act coincided with such date of enactment.
-  - **(2)** *Widows* In the case of any individual who is the widow of a former President on the date of enactment of this Act, the amendments made by section 2(b)(1) shall be applied as if the commencement date referred to in subsection (e)(1) of the section amended by this Act coincided with such date of enactment.
+- **(a)** *Former Presidents* In the case of any individual who is a former President on the date of enactment of this Act, the amendment made by section 2(a) shall be applied as if the commencement date referred in subsection (b)(1)(A) of the first section of the Former Presidents Act of 1958, as amended by section 2(a), coincided with such date of enactment.
+- **(b)** *Widows* In the case of any individual who is the widow of a former President on the date of enactment of this Act, the amendments made by section 2(b)(1) shall be applied as if the commencement date referred to in subsection (e)(1) of the first section of the Former Presidents Act of 1958, as amended by section 2(b)(1), coincided with such date of enactment.
+
+## § 5. Applicability
+
+For a former President receiving a monetary allowance under the Former Presidents Act of 1958 on the day before the date of enactment of this Act, the limitation under subsection (d)(1) of the first section of that Act, as amended by section 2(a), shall apply to the monetary allowance of the former President, except to the extent that the application of the limitation would prevent the former President from being able to pay the cost of a lease or other contract that is in effect on the day before the date of enactment of this Act and under which the former President makes payments using the monetary allowance, as determined by the Administrator of General Services.

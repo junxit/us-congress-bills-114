@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1777
@@ -43,3 +43,14 @@ Presidential Allowance Modernization Act of 2016
 - 2016-01-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H241)
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H241)
 - 2016-01-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-06-21 — Amendment SA 4852 agreed to in Senate by Unanimous Consent.
+- 2016-06-21 — Amendment SA 4852 proposed by Senator McConnell for Senator Ernst. (consideration: CR S4428-4429; text: CR S4428-4429) In the nature of a substitute.
+- 2016-06-21 — Measure laid before Senate by unanimous consent.
+- 2016-06-21 — Message on Senate action sent to the House.
+- 2016-06-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-06-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-06-21 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S4428)
+- 2016-06-21 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S4428)
+- 2016-06-21 — Senate amendment agreed to: Amendment SA 4852 agreed to in Senate by Unanimous Consent.
+- 2016-06-21 — Senate amendment proposed (on the floor): Amendment SA 4852 proposed by Senator McConnell for Senator Ernst.(consideration: CR S4428-4429; text: CR S4428-4429)
+- 2016-06-21 — Senate amendment submitted
