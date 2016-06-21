@@ -1,7 +1,7 @@
 ---
 measure: S. 2736
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+7 amendatory instructions. 3 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(h)(1)(H)(ii) of the Social Security Act (42 U.S.C. 1395m(h)(1)(H)(ii)) is amended by striking “the Secretary” and inserting “subject to subsection (a)(1)(G), the Secretary”.
+
+| | |
+|---|---|
+| Removed | `the Secretary` |
+| Inserted | `subject to subsection (a)(1)(G), the Secretary` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1842(s)(3)(B) of the Social Security Act (42 U.S.C. 1395m(s)(3)(B)) is amended by striking “the Secretary” and inserting “subject to section 1834(a)(1)(G), the Secretary”.
+
+| | |
+|---|---|
+| Removed | `the Secretary` |
+| Inserted | `subject to section 1834(a)(1)(G), the Secretary` |
 
 ### 42 U.S.C. § 1396b
 
