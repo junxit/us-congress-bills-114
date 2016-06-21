@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5317
@@ -45,3 +45,10 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - 2016-05-24 — Introduced in House
 - 2016-05-24 — Introduced in House
 - 2016-05-24 — Referred to the House Committee on Veterans' Affairs.
+- 2016-06-13 — Referred to the Subcommittee on Health.
+- 2016-06-21 — Considered under suspension of the rules. (consideration: CR H4008-4010)
+- 2016-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5317.
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4008)
+- 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4008)
