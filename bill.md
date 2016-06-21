@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fiscal Year 2016 Department of Veterans Affairs Seismic Safety, Construction, and Leases Authorization Act”.
+This Act may be cited as the “Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction Authorization Act”.
 
 ## § 2. Authorization of certain major medical facility projects of the Department of Veterans Affairs
 
@@ -40,43 +40,3 @@ Not later than 90 days after the date of the enactment of this Act, for each pro
 - **(2)** The future amounts that are budgeted to be obligated for construction management carried out by the Department for such project.
 - **(3)** A justification for the expenditures described in paragraph (1) and the future amounts described in paragraph (2).
 - **(4)** Any agreement entered into by the Secretary regarding the Army Corps of Engineers providing services relating to such project, including reimbursement agreements and the costs to the Department of Veterans Affairs for such services.
-
-## § 4. Authorization of major medical facility leases
-
-The Secretary of Veterans Affairs may carry out the following major medical facility leases at the locations specified, and in an amount for each lease not to exceed the amount shown for such location (not including any estimated cancellation costs):
-
-- **(1)** For an outpatient clinic, Ann Arbor, Michigan, an amount not to exceed $17,093,000.
-- **(2)** For an outpatient mental health clinic, Birmingham, Alabama, an amount not to exceed $6,971,000.
-- **(3)** For an outpatient specialty clinic, Birmingham, Alabama, an amount not to exceed $10,479,000.
-- **(4)** For research space, Boston, Massachusetts, an amount not to exceed $5,497,000.
-- **(5)** For research space, Charleston, South Carolina, an amount not to exceed $6,581,000.
-- **(6)** For an outpatient clinic, Daytona Beach, Florida, an amount not to exceed $12,664,000.
-- **(7)** For Chief Business Office Purchased Care office space, Denver, Colorado, an amount not to exceed $17,215,000.
-- **(8)** For an outpatient clinic, Gainesville, Florida, an amount not to exceed $4,686,000.
-- **(9)** For an outpatient clinic, Hampton Roads, Virginia, an amount not to exceed $18,124,000.
-- **(10)** For research space Mission Bay, California, an amount not to exceed $23,454,000.
-- **(11)** For an outpatient clinic, Missoula, Montana, an amount not to exceed $7,130,000.
-- **(12)** For an outpatient clinic, Northern Colorado, Colorado, an amount not to exceed $8,776,000.
-- **(13)** For an outpatient clinic, Ocala, Florida, an amount not to exceed $5,279,000.
-- **(14)** For an outpatient clinic, Oxnard, California, an amount not to exceed $6,297,000.
-- **(15)** For an outpatient clinic, Pike County, Georgia, an amount not to exceed $5,757,000.
-- **(16)** For an outpatient clinic, Portland, Maine, an amount not to exceed $6,846,000.
-- **(17)** For an outpatient clinic, Raleigh, North Carolina, an amount not to exceed $21,607,000.
-- **(18)** For an outpatient clinic, Santa Rosa, California, an amount not to exceed $6,498,000.
-
-## § 5. Monthly reports on status of major medical facility projects
-
-- **(a)** *Reports required* For each month that begins after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the status of each major medical facility project authorized under section 2. Each such report shall include, for each project covered by the report, information about the status of the design and procurement planning, contract modification management, and cost escalation of the project.
-- **(b)** *Termination* The requirement to submit monthly reports under this section shall terminate on the date on which the Administrative Investigative Board of the Department of Veterans Affairs submits to Congress the report of the Administrative Investigative Board on the major medical facility project carried out at the Department medical center in Aurora, Colorado.
-
-## § 6. Authorization of sale of Pershing Hall
-
-Section 403 of the Veterans’ Benefits Programs Improvement Act of 1991 (Public Law 102–86; 38 U.S.C. 2400 note) is amended by adding at the end the following new subsection:
-
-> - **(f)** *Authorization of sale*
->   - **(1)** The Secretary may sell for fair market value Pershing Hall and transfer and convey to the purchaser all right, title, and interest of the United States in or to such property. The Secretary shall determine fair market value based on an independent assessment conducted by another department or agency of the Federal Government or a nongovernmental entity. The Secretary may only accept money as consideration for such sale.
->   - **(2)** If the Secretary sells Pershing Hall pursuant to paragraph (1), the Secretary shall return to the entity from which the United States acquired Pershing Hall pursuant to the Act of June 28, 1935, (Chapter 323; 49 Stat. 426) any personal property (including memorabilia regarding General Pershing and the American Expeditionary Forces in France during World War I) in the possession of the Department of Veterans Affairs as of the date of the enactment of this subsection that was located in Pershing Hall (or otherwise associated with Pershing Hall) on the date of such acquisition.
->   - **(3)** The funds received by the Secretary pursuant to the sale of Pershing Hall under paragraph (1) shall be deposited in the “Construction, Major Projects” account of the Department and be made available, without fiscal year limitation, for the purposes of such account.
->   - **(4)**
->     - **(A)** Effective on the day after the date of the sale of Pershing Hall authorized under paragraph (1), the authority of the Secretary to carry out subsections (a), (b), (c), and (e) shall terminate except for purposes of carrying out paragraph (2) of this subsection.
->     - **(B)** Effective on the date that is one year after the date of the sale of Pershing Hall authorized under paragraph (1), the Pershing Hall Revolving Fund shall be abolished and the corpus of the fund, including accrued interest, shall be deposited in the “Construction, Major Projects” account of the Department and be made available, without fiscal year limitation, for the purposes of such account.
