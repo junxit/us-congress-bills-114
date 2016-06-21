@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1777
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1777
 
-That the bill from the House of Representatives (H.R. 1777) entitled “An Act to amend the Act of August 25, 1958, commonly known as the “Former Presidents Act of 1958”, with respect to the monetary allowance payable to a former President, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Act of August 25, 1958, commonly known as the “Former Presidents Act of 1958”, with respect to the monetary allowance payable to a former President, and for other purposes.
 
 ## § 1. Short title
 
