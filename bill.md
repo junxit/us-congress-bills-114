@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3936
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,9 +16,9 @@ This Act may be cited as the “Veteran Engagement Teams Act” or “VET Act”
 ## § 2. Pilot program on Department of Veterans Affairs Veteran Engagement Team events
 
 - **(a)** *In general*
-  - **(1)** *Pilot program* Beginning not later than October 1, 2016, the Secretary of Veterans Affairs shall carry out a three-year pilot program under which the Secretary shall carry out events, to be known as “Veteran Engagement Team events”. The Secretary shall ensure that such events are carried out—
-    - **(A)** during the first year during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 10 regional offices of the Department of Veterans Affairs, including at least two regional offices in each of the five districts of the Veterans Benefits Administration under the organization of such Administration in effect as of the date of the enactment of this Act; and
-    - **(B)** during each of the second and third years during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 15 regional offices of the Department, including at least three regional offices in each such district.
+  - **(1)** *Pilot program* Beginning not later than October 1, 2016, the Secretary of Veterans Affairs shall carry out a 3-year pilot program under which the Secretary shall carry out events, to be known as “Veteran Engagement Team events”. The Secretary shall ensure that such events are carried out—
+    - **(A)** during the first year during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 10 regional offices of the Department of Veterans Affairs, including at least 2 regional offices in each of the 5 districts of the Veterans Benefits Administration under the organization of such Administration in effect as of the date of the enactment of this Act; and
+    - **(B)** during each of the second and third years during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 15 regional offices of the Department, including at least 3 regional offices in each such district.
   - **(2)** *Veteran Engagement Team events* During each Veteran Engagement Team event, the Secretary shall provide assistance to veterans in completing and adjudicating claims for disability compensation under chapter 11 of title 38, United States Code, and for pension under chapter 15 of such title. The Secretary shall ensure that—
     - **(A)** all Veteran Engagement Team events occur during the normal business hours of the sponsoring regional office;
     - **(B)** the events are carried out at different locations within the jurisdiction of each regional office and at least 50 miles from any regional office;
@@ -39,3 +39,14 @@ This Act may be cited as the “Veteran Engagement Teams Act” or “VET Act”
   - **(1)** the number and types of claims completed and adjudicated at the events;
   - **(2)** the number and types of claims for which assistance was sought at the events that were not completed or adjudicated at the events and the reasons such claims were not completed or adjudicated; and
   - **(3)** an analysis of the customer satisfaction of veterans who have received assistance at an event based on the information collected under subsection (e).
+
+## § 3. Modification to limitation on awards and bonuses
+
+Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended to read as follows:
+
+> ## § 705. Limitation on awards and bonuses paid to employees of Department of Veterans Affairs
+>
+> The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:
+>
+> - **(1)** With respect to fiscal year 2017, $250,000,000.
+> - **(2)** With respect to each of fiscal years 2018 through 2024, $360,000,000.
