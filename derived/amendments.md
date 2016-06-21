@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4639
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 5 U.S.C. § 5509
-
-> Section 8(a)(2) of the Whistleblower Protection Act of 1989 (5 U.S.C. 5509 note) is amended by striking “2003, 2004, 2005, 2006, and 2007” and inserting “2016, 2017, 2018, 2019, and 2020”.
-
-| | |
-|---|---|
-| Removed | `2003, 2004, 2005, 2006, and 2007` |
-| Inserted | `2016, 2017, 2018, 2019, and 2020` |
 
 ## Stated, not applied
 
@@ -42,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 5509` | amend | Section 8(a)(2) of the Whistleblower Protection Act of 1989 (5 U.S.C. 5509 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 1212(b) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “15 days” and inserting “45 days”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |

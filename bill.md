@@ -15,7 +15,9 @@ This Act may be cited as the “Thoroughly Investigating Retaliation Against Whi
 
 ## § 2. Reauthorization of the Office of Special Counsel
 
-- **(a)** *In general* Section 8(a)(2) of the Whistleblower Protection Act of 1989 (5 U.S.C. 5509 note) is amended by striking “2003, 2004, 2005, 2006, and 2007” and inserting “2016, 2017, 2018, 2019, and 2020”.
+- **(a)** *In general* Section 8(a)(2) of the Whistleblower Protection Act of 1989 (5 U.S.C. 5509 note) is amended to read as follows:
+  > - **(2)** $24,119,000 for fiscal year 2016 and $25,735,000 for each of fiscal years 2017, 2018, 2019, and 2020 to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act).
+
 - **(b)** *Effective date* The amendment made by subsection (a) shall be deemed to apply beginning on October 1, 2015.
 
 ## § 3. Access to agency information
@@ -24,9 +26,10 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
 
 > - **(5)**
 >   - **(A)** In carrying out this subchapter, the Special Counsel is authorized to—
->     - **(i)** have access to any record or other information (including a report, audit, review, document, recommendation, or other material) of any agency under the jurisdiction of the Office of Special Counsel; and
+>     - **(i)** have access to any record or other information (including a report, audit, review, document, recommendation, or other material) of any agency under the jurisdiction of the Office of Special Counsel, consistent with the requirements of subparagraph (C); and
 >     - **(ii)** require any employee of such an agency to provide to the Office any record or other information during an investigation, review, or inquiry of any agency under the jurisdiction of the Office.
 >   - **(B)** With respect to any record or other information made available by an agency under this subchapter, the Office shall apply a level of confidentiality to such record or information at the level of confidentiality applied to the record by the agency.
+>   - **(C)** With respect to any record or other information described under subparagraph (A), the Attorney General or an Inspector General may withhold access to any such record or other information if the disclosure could reasonably be expected to interfere with an ongoing criminal investigation or prosecution, but only if the Attorney General or applicable agency head submits a written report to the Office of Special Counsel describing the record or other information withheld and the reason for the withholding.
 
 ## § 4. Whistleblower provisions
 
@@ -106,4 +109,4 @@ Section 1213 of title 5, United States Code, is amended—
 
 ## § 9. Regulations
 
-Not later than two years after the date of enactment of this Act, the Special Counsel shall prescribe such regulations as may be necessary to perform the functions of the Special Counsel under subchapter II of chapter 12 of title 5, United States Code, including regulations necessary to carry out sections 1213, 1214, and 1215 of such title, and any functions required due to the amendments made by this Act. Such regulations shall be published in the Federal Register.
+Not later than 2 years after the date of enactment of this Act, the Special Counsel shall prescribe such regulations as may be necessary to perform the functions of the Special Counsel under subchapter II of chapter 12 of title 5, United States Code, including regulations necessary to carry out sections 1213, 1214, and 1215 of such title, and any functions required due to the amendments made by this Act. Such regulations shall be published in the Federal Register.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4639
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4639
@@ -36,3 +36,9 @@ Thoroughly Investigating Retaliation Against Whistleblowers Act
 - 2016-04-25 — Placed on the Union Calendar, Calendar No. 401.
 - 2016-04-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-521.
 - 2016-04-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-521.
+- 2016-06-21 — Considered under suspension of the rules. (consideration: CR H3990-3991)
+- 2016-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4639.
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Blum moved to suspend the rules and pass the bill, as amended.
+- 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3990-3991)
+- 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3990-3991)
