@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2538
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,9 +31,11 @@ Congress finds the following:
 - **(12)** The Tribe has since acquired, from willing sellers at fair market value, property in Sonoma County near the Tribe’s historic Rancheria. This property, which the Tribe holds in fee status, is suitable for a new homeland for the Tribe.
 - **(13)** On a portion of the land to be taken into trust, which portion totals approximately 124.12 acres, the Tribe plans to build housing for its members and governmental and community facilities.
 - **(14)** A portion of the land to be taken into trust is being used for viniculture, and the Tribe intends to develop more of the lands to be taken into trust for viniculture. The Tribe’s investment in the ongoing viniculture operation has reinvigorated the vineyards, which are producing high-quality wines. The Tribe is operating its vineyards on a sustainable basis and is working toward certification of sustainability.
-- **(15)** No gaming will be conducted on the lands to be taken into trust.
-- **(16)** By directing that these lands be taken into trust, the United States will ensure that the Lytton Rancheria will finally have a permanently protected homeland on which they can once again live communally and plan for future generations. This action is necessary to fully restore the Tribe to the status it had before it was wrongfully terminated in 1961.
-- **(17)** The Tribe and County of Sonoma have entered into a Memorandum of Agreement in which the County agrees to the lands in the County being taken into trust for the benefit of the Tribe in consideration for commitments made by the Tribe.
+- **(15)** No gaming shall be conducted on the lands to be taken into trust by this Act.
+- **(16)** No gaming shall be conducted on any lands taken into trust on behalf of the Tribe in Sonoma County after the date of the enactment of this Act north of a line that runs in a cardinal east and west direction from the point where Highway Route 12 crosses Highway 101 as they are physically on the ground and used for transportation on January 1, 2016, and extending to the furthest extent of Sonoma County.
+- **(17)** Any agreement, now or in the future, regarding gaming restrictions between Sonoma County and the Tribe will be effective without further review by the Bureau of Indian Affairs.
+- **(18)** By directing that these lands be taken into trust, the United States will ensure that the Lytton Rancheria will finally have a permanently protected homeland on which they can once again live communally and plan for future generations. This action is necessary to fully restore the Tribe to the status it had before it was wrongfully terminated in 1961.
+- **(19)** The Tribe and County of Sonoma have entered into a Memorandum of Agreement in which the County agrees to the lands in the County being taken into trust for the benefit of the Tribe in consideration for commitments made by the Tribe.
 
 ## § 3. Definitions
 
@@ -48,10 +50,13 @@ For the purpose of this Act, the following definitions apply:
 - **(a)** *In general* The land owned by the Tribe and generally depicted on the map titled “Lytton Fee Owned Property to be Taken into Trust” and dated May 1, 2015, is hereby taken into trust for the benefit of the Tribe, subject to valid existing rights, contracts, and management agreements related to easements and rights-of-way.
 - **(b)** *Lands To Be Made Part of the Reservation* Lands taken into trust under subsection (a) shall be part of the Tribe’s reservation and shall be administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for an Indian tribe.
 
-## § 5. Gaming prohibition
+## § 5. Gaming
 
-Land taken into trust for the benefit of the Tribe under this Act shall not be used for gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
+- **(a)** *Lands taken into trust under this Act* Lands taken into trust for the benefit of the Tribe under section 4 shall not be eligible for gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
+- **(b)** *Other lands taken into trust*
+  - **(1)** *Time-limited prohibition* Lands taken into trust for the benefit of the Tribe in Sonoma County after the date of the enactment of this Act shall not be eligible for gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2710 et seq.) until after March 15, 2037.
+  - **(2)** *Permanent prohibition* Notwithstanding paragraph (1), lands located north of a line that runs in a cardinal east and west direction and is defined by California State Highway Route 12 as it crosses through Sonoma County at Highway 101 as they are physically on the ground and used for transportation on January 1, 2016, and extending to the furthest extent of Sonoma County shall not be eligible for gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2710 et seq.).
 
 ## § 6. Applicability of certain law
 
-Notwithstanding any other provision of law, the Memorandum of Agreement entered into by the Tribe and the County concerning taking land in the County into trust for the benefit of the Tribe, which was approved by the County Board of Supervisors on March 10, 2015, is not subject to review or approval of the Secretary in order to be effective, including review or approval under section 2103 of the Revised Statutes (25 U.S.C. 81).
+Notwithstanding any other provision of law, the Memorandum of Agreement entered into by the Tribe and the County concerning taking land in the County into trust for the benefit of the Tribe, which was approved by the County Board of Supervisors on March 10, 2015, and any addenda and supplement thereto, is not subject to review or approval of the Secretary in order to be effective, including review or approval under section 2103 of the Revised Statutes (25 U.S.C. 81).
