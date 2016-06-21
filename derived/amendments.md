@@ -1,7 +1,7 @@
 ---
 measure: S. 2943
 congress: 114
-version: Engrossed in Senate
+version: Printed as Passed
 derived: true
 ---
 

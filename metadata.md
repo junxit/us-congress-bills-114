@@ -1,7 +1,7 @@
 ---
 measure: S. 2943
 congress: 114
-version: Engrossed in Senate
+version: Printed as Passed
 ---
 
 # S. 2943
@@ -1777,3 +1777,7 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-06-14 — Senate amendment agreed to: Amendment SA 4670 as modified agreed to in Senate by Voice Vote.(text as modified: CR S3839-3840)
 - 2016-06-14 — Senate amendment proposed (on the floor): Amendment SA 4670 proposed by Senator Nelson to Amendment SA 4607.(consideration: CR S3835-3841; text: CR S3835)
 - 2016-06-14 — Senate amendment submitted
+- 2016-06-16 — Held at the desk.
+- 2016-06-16 — Message on Senate action sent to the House.
+- 2016-06-16 — Received in the House.
+- 2016-06-21 — Senate ordered measure printed as passed.
