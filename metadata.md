@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4902
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4902
@@ -38,3 +38,9 @@ To amend title 5, United States Code, to expand law enforcement availability pay
 - 2016-05-31 — Placed on the Union Calendar, Calendar No. 466.
 - 2016-05-31 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-600.
 - 2016-05-31 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-600.
+- 2016-06-21 — Considered under suspension of the rules. (consideration: CR H3998-3999)
+- 2016-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4902.
+- 2016-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-06-21 — Mr. Hurd (TX) moved to suspend the rules and pass the bill.
+- 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3998)
+- 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3998)
