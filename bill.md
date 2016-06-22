@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 5559
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5559
+
+> To amend section 1206 of the Pathway for SGR Reform Act of 2013 to clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals (LTCHs).
+
+## § 1. Clarifying application of rules on the calculation of hospital length of stay to certain moratorium-excepted LTCHs
+
+Section 1206(a)(3) of the Pathway for SGR Reform Act of 2013 (division B of Public Law 113–67; 42 U.S.C. 1395ww note) is amended by adding at the end the following new subparagraph:
+
+> - **(C)** *Clarifying application to certain additional moratorium-excepted LTCHs* Subparagraph (A) shall also apply to a long-term care hospital described in section 114(d)(7) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (42 U.S.C. 1395ww note).
