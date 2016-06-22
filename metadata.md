@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5389
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5389
@@ -21,9 +21,10 @@ Leveraging Emerging Technologies Act of 2016
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Leveraging Emerging Technologies Act of 2016
 - 2016-06-21 — Placed on the Union Calendar, Calendar No. 489.
 - 2016-06-21 — Reported by the Committee on Homeland Security. H. Rept. 114-630.
 - 2016-06-21 — Reported by the Committee on Homeland Security. H. Rept. 114-630.
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

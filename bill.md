@@ -2,7 +2,7 @@
 legis-num: H.R. 5389
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5389
@@ -24,7 +24,7 @@ This Act may be cited as the “Leveraging Emerging Technologies Act of 2016”.
     - **(A)** the Department of Homeland Security, where possible; or
     - **(B)** Federal facilities, where appropriate.
   - **(4)** *Oversight* Not later than 30 days after establishing personnel and office space in a specific geographic area in the United States pursuant to paragraph (1)(B), the Secretary of Homeland Security shall inform Congress about the rationale for such establishment, the anticipated costs associated with such establishment, and the specific goals for such establishment.
-- **(b)** *Strategic plan* Not later than six months after the date of the enactment of this section, the Secretary of Homeland Security shall develop, implement, and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a Department of Homeland Security-wide strategy to proactively engage with innovative and emerging technology developers and firms, including technology-based small businesses and startup ventures, in accordance with subsection (a). Such strategy shall—
+- **(b)** *Strategic plan* Not later than 6 months after the date of the enactment of this section, the Secretary of Homeland Security shall develop, implement, and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a Department of Homeland Security-wide strategy to proactively engage with innovative and emerging technology developers and firms, including technology-based small businesses and startup ventures, in accordance with subsection (a). Such strategy shall—
   - **(1)** focus on sustainable methods and guidance to build relationships, including with such innovative and emerging technology developers and firms in geographic areas in the United States with high concentrations of such innovative and emerging technology developers and firms, and in geographic areas outside such areas, to establish, develop, and enhance departmental capabilities to address homeland security needs;
   - **(2)** include efforts to—
     - **(A)** ensure proven innovative and emerging technologies can be included in existing and future acquisition contracts;
