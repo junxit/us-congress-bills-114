@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5317
@@ -36,9 +36,10 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - 2016-06-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4008)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4008)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
