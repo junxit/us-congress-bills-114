@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4925
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4925
@@ -44,9 +44,10 @@ To designate the facility of the United States Postal Service located at 229 Wes
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 229 Wes
 - 2016-06-21 — Mr. Blum moved to suspend the rules and pass the bill.
 - 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3996)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3996)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
