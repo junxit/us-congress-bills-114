@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3936
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3936
@@ -25,9 +25,10 @@ Veteran Engagement Teams Act
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Veteran Engagement Teams Act
 - 2016-06-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4010)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4010)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
