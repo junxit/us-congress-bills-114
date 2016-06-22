@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5170
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5170
@@ -45,9 +45,10 @@ Social Impact Partnerships to Pay for Results Act
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Social Impact Partnerships to Pay for Results Act
 - 2016-06-21 — Mr. Young (IN) moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4012-4016)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4012-4016)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
