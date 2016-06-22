@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4590
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4590
@@ -16,9 +16,10 @@ Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction 
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Fiscal Year 2016 Department of Veterans Affairs Seismic Safety and Construction 
 - 2016-06-21 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4006-4007)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4006-4007)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
