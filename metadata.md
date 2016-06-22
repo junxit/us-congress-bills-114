@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4960
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4960
@@ -38,9 +38,10 @@ To designate the facility of the United States Postal Service located at 525 N B
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ To designate the facility of the United States Postal Service located at 525 N B
 - 2016-06-21 — Mr. Blum moved to suspend the rules and pass the bill.
 - 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3997)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3997)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
