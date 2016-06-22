@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4639
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4639
@@ -42,3 +42,4 @@ Thoroughly Investigating Retaliation Against Whistleblowers Act
 - 2016-06-21 — Mr. Blum moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3990-3991)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3990-3991)
+- 2016-06-22 — Received in the Senate.
