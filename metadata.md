@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5452
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5452
@@ -22,9 +22,10 @@ Native American Health Savings Improvement Act
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Native American Health Savings Improvement Act
 - 2016-06-21 — Placed on the Union Calendar, Calendar No. 490.
 - 2016-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-631.
 - 2016-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-631.
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
