@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2395
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2395
@@ -21,9 +21,10 @@ Inspector General Empowerment Act of 2016
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Inspector General Empowerment Act of 2016
 - 2016-06-21 — Mr. Meadows moved to suspend the rules and pass the bill, as amended.
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4002-4005)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4002-4005)
+- 2016-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
