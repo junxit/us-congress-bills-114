@@ -2,7 +2,7 @@
 legis-num: H.R. 5388
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5388
@@ -32,7 +32,7 @@ This Act may be cited as the “Support for Rapid Innovation Act of 2016”.
     >   - **(1)** the Under Secretary appointed pursuant to section 103(a)(1)(H);
     >   - **(2)** the heads of other relevant Federal departments and agencies, as appropriate; and
     >   - **(3)** industry and academia.
-    > - **(d)** *Transition to practice* The Under Secretary for Science and Technology shall support projects carried out under this title through the full life cycle of such projects, including research, development, testing, evaluation, pilots, and transitions. The Under Secretary shall identify mature technologies that address existing or imminent cybersecurity gaps in public or private information systems and networks of information systems, identify and support necessary improvements identified during pilot programs and testing and evaluation activities, and introduce new cybersecurity technologies throughout the homeland security enterprise through partnerships and commercialization. The Under Secretary shall target federally funded cybersecurity research that demonstrates a high probability of successful transition to the commercial market within two years and that is expected to have a notable impact on the public or private information systems and networks of information systems.
+    > - **(d)** *Transition to practice* The Under Secretary for Science and Technology shall support projects carried out under this title through the full life cycle of such projects, including research, development, testing, evaluation, pilots, and transitions. The Under Secretary shall identify mature technologies that address existing or imminent cybersecurity gaps in public or private information systems and networks of information systems, identify and support necessary improvements identified during pilot programs and testing and evaluation activities, and introduce new cybersecurity technologies throughout the homeland security enterprise through partnerships and commercialization. The Under Secretary shall target federally funded cybersecurity research that demonstrates a high probability of successful transition to the commercial market within 2 years and that is expected to have a notable impact on the public or private information systems and networks of information systems.
     > - **(e)** *Definitions* In this section:
     >   - **(1)** *Cybersecurity risk* The term “cybersecurity risk” has the meaning given such term in section 227.
     >   - **(2)** *Homeland security enterprise* The term “homeland security enterprise” means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.
