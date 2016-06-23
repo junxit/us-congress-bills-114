@@ -1,7 +1,7 @@
 ---
 measure: S. 795
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 0 executed, 21 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,15 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 2409(a)(1) of title 10, United States Code, is amended by striking “or subcontractor” and inserting “, personal services contractor, subcontractor, grantee, or subgrantee”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4712(a)(1) of title 41, United States Code, is amended by striking “or grantee” and inserting “personal services contractor, grantee, or subgrantee”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or subcontractor” after “contractor” each place it appears; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or subcontract” after “contract” each place it appears; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title” after “statute or regulation”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or subcontractor” after “contractor” each place it appears; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or subcontract” after “contract” each place it appears; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(1), by inserting “or to any other activity described in section 4712(a)(1) of this title” after “statute or regulation”. | the bill names no machine-readable US Code section |
-| — | insert | Section 4304(a)(15) of title 41, United States Code, is amended by inserting “or subcontractor” after “contractor”. | the bill names no machine-readable US Code section |
 | — | insert | Section 2409(a)(1) of title 10, United States Code, is amended by inserting “or personal services contractor” after “subgrantee”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4712(a)(1) of title 41, United States Code, is amended by striking “or grantee” and inserting “grantee, or subgrantee or personal services contractor”. | the bill names no machine-readable US Code section |
 | — | replace | in the section heading by striking “Pilot program for enhancement” and inserting “Enhancement”; and | the bill names no machine-readable US Code section |

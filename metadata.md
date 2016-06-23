@@ -1,7 +1,7 @@
 ---
 measure: S. 795
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 795
@@ -32,3 +32,5 @@ A bill to enhance whistleblower protection for contractor and grantee employees.
 - 2016-06-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-270.
 - 2016-06-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-270.
 - 2016-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
+- 2016-06-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4560-4561; text: CR S4561)
+- 2016-06-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4560-4561; text: CR S4561)
