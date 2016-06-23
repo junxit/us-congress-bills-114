@@ -1,7 +1,7 @@
 ---
 measure: S. 2795
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 4 executed, 6 stated and not applied.
+14 amendatory instructions. 4 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -75,3 +75,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 2214` | repeal | Effective October 1, 2018, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2239` | replace | in paragraph (1)(A), by striking the second and third sentences and inserting the following: “On each application under section 103 or 104 b. for a construction permit or an operating license, on application under section 104 c. for a co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2243` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2214` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2214` | replace | in clause (iv), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2214` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2214` | repeal | Effective October 1, 2018, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
