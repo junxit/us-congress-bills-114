@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 39
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 39
@@ -16,9 +16,12 @@ A concurrent resolution honoring the members of the United States Air Force who 
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -28,3 +31,13 @@ A concurrent resolution honoring the members of the United States Air Force who 
 
 - 2016-05-19 — Introduced in Senate
 - 2016-05-19 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S3034)
+- 2016-06-23 — Amendment SA 4864 agreed to in Senate by Unanimous Consent.
+- 2016-06-23 — Amendment SA 4864 proposed by Senator McConnell for Senator Nelson. (consideration: CR S4561-4562; text: CR S4561) To amend the preamble.
+- 2016-06-23 — Measure laid before Senate by unanimous consent.
+- 2016-06-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S4561-4562)
+- 2016-06-23 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S4561-4562)
+- 2016-06-23 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S4561-4562)
+- 2016-06-23 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S4561-4562)
+- 2016-06-23 — Senate amendment agreed to: Amendment SA 4864 agreed to in Senate by Unanimous Consent.
+- 2016-06-23 — Senate amendment proposed (on the floor): Amendment SA 4864 proposed by Senator McConnell for Senator Nelson.(consideration: CR S4561-4562; text: CR S4561)
+- 2016-06-23 — Senate amendment submitted
