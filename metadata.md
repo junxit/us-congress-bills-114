@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5447
 congress: 114
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5447
@@ -108,3 +108,5 @@ Small Business Health Care Relief Act of 2016
 - 2016-06-21 — Placed on the Union Calendar, Calendar No. 493.
 - 2016-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-634, Part I.
 - 2016-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-634, Part I.
+- 2016-06-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-06-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
