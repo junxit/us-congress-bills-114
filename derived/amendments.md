@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5456
 congress: 114
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 42 U.S.C. § 629g
 
-> in the subsection heading, by striking “increase the well-Being of, and To improve the permanency outcomes for, children affected by” and inserting “implement iv-e prevention services, and improve the well-being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other”;
+> in the subsection heading, by striking “increase the well-Being of, and To improve the permanency outcomes for, children affected by” and inserting “implement IV–E prevention services, and improve the well-Being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other”;
 
 | | |
 |---|---|
 | Removed | `increase the well-Being of, and To improve the permanency outcomes for, children affected by` |
-| Inserted | `implement iv-e prevention services, and improve the well-being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other` |
+| Inserted | `implement IV–E prevention services, and improve the well-Being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other` |
 
 ### 42 U.S.C. § 629g
 
@@ -161,7 +161,7 @@ to guess them.
 
 ### 42 U.S.C. § 629g
 
-> by striking “in using funds made available under such grants to achieve the purpose of this subsection” and inserting “and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 471(e)(6)”;
+> by striking “in using funds made available under such grants to achieve the purpose of this subsection” and inserting “and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 471(e)(6)”; and
 
 | | |
 |---|---|
@@ -530,13 +530,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 679c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 679c` | strike | The heading for subsection (d) of section 479B of such Act (42 U.S.C. 679c) is amended by striking “for Foster Care Maintenance and Adoption Assistance Payments”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 672` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 674` | insert | Section 474(a)(1) of such Act (42 U.S.C. 674(a)(1)) is amended by inserting “subject to section 472(j),” before “an amount equal to the Federal” the 1st place it appears. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 674` | insert | Section 474(a)(1) of such Act (42 U.S.C. 674(a)(1)) is amended by inserting “subject to section 472(j),” before “an amount equal to the Federal” the first place it appears. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 674` | replace | in paragraph (6), by striking the period at the end and inserting “; plus”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 674` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | insert | by inserting “or a child who has been returned home” after “child care institution”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629` | strike | Section 430 of such Act (42 U.S.C. 629) is amended in the matter preceding paragraph (1), by striking “time-limited”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 629b` | strike | Subsections (a)(4), (a)(5)(A), and (b)(1) of section 432 of such Act (42 U.S.C. 629b) are amended by striking “time-limited” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 671` | insert | by inserting “, which, not later than October 1, 2026, shall include the use of an electronic interstate case-processing system” before the 1st semicolon. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 671` | insert | by inserting “, which, not later than October 1, 2026, shall include the use of an electronic interstate case-processing system” before the first semicolon. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629g` | add-at-end | Section 437 of such Act (42 U.S.C. 629g) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629g` | add-at-end | Section 437(b) of such Act (42 U.S.C. 629g(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629g` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
