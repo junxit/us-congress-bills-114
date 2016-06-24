@@ -1,0 +1,29 @@
+---
+legis-num: H. RES. 800
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 800
+
+> Expressing support for Lunchtime Music on the Mall in the Nation’s capital to benefit the District of Columbia and regional residents as well as visitors and honor the public service of the performers and partners.
+
+## Preamble
+
+- Whereas the National Mall Revitalization and Designation Act seeks to enliven the National Mall for residents and visitors;
+- Whereas the National Park Service, Washington Metropolitan Area Transit Authority, Smithsonian Institution, and D.C. Commission on the Arts and Humanities are partners in sponsoring the 2016 Lunchtime Music on the Mall every Thursday from noon to 1 p.m. during the summer months;
+- Whereas many Federal and other office workers work downtown and in the vicinity of the National Mall;
+- Whereas the National Mall is a national and regional tourist attraction;
+- Whereas Lunchtime Music on the Mall offers benefits to workers and visitors alike;
+- Whereas the National Mall is a national treasure, supported by United States taxpayers to provide a unique park space with potential for various kinds of outdoor enjoyment;
+- Whereas many talented amateur and professional musicians reside in the District of Columbia and the national capital region;
+- Whereas the National Mall provides a natural stage for the display of city and regional talent;
+- Whereas this year Lunchtime Music on the Mall will be located on the National Mall across from the Smithsonian Air and Space Museum entrance; and
+- Whereas 2016 is the fifth season for Lunchtime Music on the Mall: Now, therefore, be it
+
+That the House of Representatives recognizes and commends—
+
+- **(1)** Lunchtime Music on the Mall for providing enhancement to urban life and musical culture in the Nation’s capital and for appreciation of the outdoors at the National Mall;
+- **(2)** local performers bringing their talents to Lunchtime Music on the Mall; and
+- **(3)** the National Park Service, the Washington Metropolitan Area Transit Authority, Smithsonian Institution, D.C. Department of Parks and Recreation, and the D.C. Commission on the Arts and Humanities for their public service in providing live music performances at no charge to the public.
