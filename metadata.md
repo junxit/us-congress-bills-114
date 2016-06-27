@@ -1,7 +1,7 @@
 ---
 measure: S. 1479
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1479
@@ -43,3 +43,5 @@ Brownfields Utilization, Investment, and Local Development Act of 2015
 - 2016-06-14 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-276.
 - 2016-06-14 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-276.
 - 2016-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
+- 2016-06-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4585-4586; text as passed Senate: CR S4585-4586)
+- 2016-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4585-4586; text as passed Senate: CR S4585-4586)
