@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 505
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 505
@@ -16,10 +16,11 @@ A resolution expressing the sense of the Senate regarding compliance enforcement
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution expressing the sense of the Senate regarding compliance enforcement
 
 - 2016-06-21 — Introduced in Senate
 - 2016-06-21 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4413)
+- 2016-06-23 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-06-27 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-06-27 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
