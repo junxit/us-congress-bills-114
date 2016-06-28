@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2966
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,12 +13,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Reducing Poverty through Employment Act”.
 
-## § 2. Purposes of the TANF Program to Include Reducing Poverty
+## § 2. Purposes of the TANF Program to include reducing poverty through work
 
-Section 401(a) of the Social Security Act (42 U.S.C. 601(a)) is amended by adding at the end the following:
+Section 401(a) of the Social Security Act (42 U.S.C. 601(a)) is amended—
 
-> - **(5)** reduce poverty by increasing employment entry, retention, and advancement.
+- **(1)** by striking “and” at the end of paragraph (3);
+- **(2)** by striking the period at the end of paragraph (4) and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(5)** reduce child poverty by increasing employment entry, retention, and advancement of needy parents.
 
 ## § 3. Effective date
 
-The amendment made by this Act shall take effect on October 1, 2015.
+The amendments made by this Act shall take effect on October 1, 2016.
