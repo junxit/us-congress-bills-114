@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 39
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 39
@@ -23,9 +23,10 @@ A concurrent resolution honoring the members of the United States Air Force who 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ A concurrent resolution honoring the members of the United States Air Force who 
 - 2016-06-23 — Senate amendment agreed to: Amendment SA 4864 agreed to in Senate by Unanimous Consent.
 - 2016-06-23 — Senate amendment proposed (on the floor): Amendment SA 4864 proposed by Senator McConnell for Senator Nelson.(consideration: CR S4561-4562; text: CR S4561)
 - 2016-06-23 — Senate amendment submitted
+- 2016-06-24 — Message on Senate action sent to the House.
+- 2016-06-28 — Received in the House.
+- 2016-06-28 — Referred to the House Committee on Armed Services.
