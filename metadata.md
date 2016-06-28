@@ -1,7 +1,7 @@
 ---
 measure: S. 795
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 795
@@ -41,3 +41,16 @@ A bill to enhance whistleblower protection for contractor and grantee employees.
 - 2016-06-28 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-28 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-28 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-11 — Referred to the Subcommittee on Readiness.
+- 2016-12-05 — Considered under suspension of the rules. (consideration: CR H7147-7149)
+- 2016-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 795.
+- 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-05 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2016-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7147)
+- 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7147)
+- 2016-12-07 — Presented to President.
+- 2016-12-07 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-261.
+- 2016-12-14 — Became Public Law No: 114-261.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
