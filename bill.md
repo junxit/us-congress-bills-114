@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2990
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,24 +27,31 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >     - **(A)** *In general* A State to which a grant is made under this subsection may use the grant to subsidize the wages of an eligible recipient for a period not exceeding 12 months, and only to the extent that the total of the funds paid under this project and any other Federal funds so used with respect to the recipient does not exceed 50 percent of the amount of the wages received by the recipient during the period.
 >     - **(B)** *Eligible recipient* For purposes of subparagraph (A), an eligible recipient is—
 >       - **(i)**
->         - **(I)** a recipient of assistance under the State program funded under this part;
->         - **(II)** an adult with children;
->         - **(III)** a noncustodial parent; or
->         - **(IV)** an individual who has attained 16 years of age but not 26 years of age;
+>         - **(I)** a recipient of assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)); or
+>         - **(II)** a noncustodial parent of a minor child who is receiving assistance referred to in subclause (I);
 >       - **(ii)** who, at the time the subsidy begins, is unemployed; and
 >       - **(iii)** whose income, at that time, is less than 200 percent of the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902(2))).
->   - **(4)** *Reports* As a condition of receiving funds under this subsection for a fiscal year, a State shall submit to the Secretary, within 6 months after the end of the fiscal year, a report that—
+>   - **(4)** *Limitations*
+>     - **(A)** *Nondisplacement* A State to which a grant is made under this subsection shall ensure that no participant in a subsidized job program funded in whole or in part under this subsection is employed or assigned to a job under the program—
+>       - **(i)** when any other individual is on layoff from the same or any substantially equivalent job; or
+>       - **(ii)** if the employer has terminated the employment of any regular employee or otherwise caused an involuntary reduction of its workforce in order to fill the vacancy so created with an adult described in paragraph (1).
+>     - **(B)** *Grievance procedure* A State with a program funded under this subsection shall establish and maintain a grievance procedure for resolving complaints of alleged violations of subparagraph (A).
+>     - **(C)** *No preemption* Nothing in this paragraph shall preempt or supersede any provision of State or local law that provides greater protection for employees from displacement.
+>   - **(5)** *Reports* As a condition of receiving funds under this subsection for a fiscal year, a State shall submit to the Secretary, within 6 months after the end of the fiscal year, a report that—
 >     - **(A)** specifies, for each month of the fiscal year, the number of individuals whose employment is subsidized with these funds;
->     - **(B)** specifies, for each month of the fiscal year, the number of the individuals who remained employed by the same employer in an unsubsidized position in the month immediately succeeding the month in which the last subsidy payment was made with respect to the employment; and
->     - **(C)** describes the structure of the State activities to use the funds to subsidize employment, including the amount and duration of the subsidies provided.
->   - **(5)** *Evaluation* The Secretary, in consultation with each State conducting a demonstration project, shall conduct a high-quality evaluation of the demonstration project, and may reserve funds made available under this subsection to conduct the evaluation in accordance with the following:
+>     - **(B)** describes the structure of the State activities to use the funds to subsidize employment, including the amount and duration of the subsidies provided;
+>     - **(C)** specifies the percentage of eligible recipients who received a subsidy who are in unsubsidized employment during the 2nd quarter after the subsidy ended;
+>     - **(D)** specifies the percentage of eligible recipients who received a subsidy who are in unsubsidized employment during the 4th quarter after the subsidy ended; and
+>     - **(E)** specifies the median earnings of eligible recipients who received a subsidy who are in unsubsidized employment during the 2nd quarter after the subsidy ended.
+>   - **(6)** *Evaluation* The Secretary, in consultation with each State conducting a demonstration project, shall conduct a high-quality evaluation of the demonstration project, and may reserve funds made available under this subsection to conduct the evaluation in accordance with the following:
 >     - **(A)** *Evaluator qualifications* The Secretary may not enter into a contract with an evaluator unless the evaluator has demonstrated experience in conducting rigorous evaluations of program effectiveness including, where available and appropriate, well-implemented randomized controlled trials.
 >     - **(B)** *Methodologies to be used* The evaluation of a demonstration project shall use experimental designs using random assignment or other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences when random assignment is not feasible.
 >     - **(C)** *Public disclosure* The Secretary shall publish the results of the evaluation on the website of the Department of Health and Human Services in a location easily accessible by the public.
->   - **(6)** *Recommendations to congress* The Secretary shall submit recommendations to the Congress on how to increase the employment, retention, and advancement of individuals currently or formerly receiving assistance under a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).
->   - **(7)** *Funding* Of the amounts made available to carry out subsection (b) for fiscal year 2016 and each succeeding fiscal year, the Secretary shall reserve $100,000,000 to carry out this subsection.
->   - **(8)** *Availability of funds* Funds provided to a State under this subsection for a fiscal year shall be expended by the State in the fiscal year or in the succeeding fiscal year.
+>   - **(7)** *Recommendations to congress* The Secretary shall submit recommendations to the Congress on how to increase the employment, retention, and advancement of individuals currently or formerly receiving assistance under a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).
+>   - **(8)** *Funding* Of the amounts made available to carry out subsection (b) for fiscal year 2017, the Secretary shall reserve $100,000,000 to carry out this subsection.
+>   - **(9)** *Use of certain funds for career pathways programs* The Secretary shall use 15 percent of the amounts reserved to carry out this subsection, to fund programs that offer career pathway (as defined in section 3(7) of the Workforce Innovation and Opportunity Act) services.
+>   - **(10)** *Availability of funds* Funds provided to a State under this subsection in a fiscal year shall be expended by the State in the fiscal year or in the succeeding fiscal year.
 
 ## § 3. Effective date
 
-The amendment made by this Act shall take effect on October 1, 2015.
+The amendment made by this Act shall take effect on October 1, 2016.
