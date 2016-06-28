@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3766
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3766
@@ -75,3 +75,15 @@ Foreign Aid Transparency and Accountability Act of 2016
 - 2016-06-28 — Senate amendment proposed (on the floor): Amendment SA 4928 proposed by Senator Rounds for Senator Rubio.(consideration: CR S4680; text: CR S4680)
 - 2016-06-28 — Senate amendment submitted
 - 2016-06-28 — Senate amendment submitted
+- 2016-06-29 — Message on Senate action sent to the House.
+- 2016-07-05 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 3766.
+- 2016-07-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-05 — Mr. Royce moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H4267-4270)
+- 2016-07-05 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agree to the Senate amendments: CR H4267-4269)
+- 2016-07-05 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agree to the Senate amendments: CR H4267-4269)
+- 2016-07-08 — Presented to President.
+- 2016-07-08 — Presented to President.
+- 2016-07-15 — Became Public Law No: 114-191.
+- 2016-07-15 — Became Public Law No: 114-191.
+- 2016-07-15 — Signed by President.
+- 2016-07-15 — Signed by President.
