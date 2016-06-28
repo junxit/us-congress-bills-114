@@ -29,4 +29,9 @@ Congress finds the following:
 
 ## § 3. Treatment of striped bass
 
-Section 3406(b)(1) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by inserting “(except striped bass)” after “natural production of anadromous fish”.
+- **(a)** *Anadromous fish* Section 3403(a) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by striking “striped bass,” after “stocks of salmon (including steelhead),”.
+- **(b)** *Fish and Wildlife Restoration Activities* Section 3406(b) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by—
+  - **(1)** striking paragraphs (14) and (18);
+  - **(2)** redesignating paragraphs (15) through (17) as paragraphs (14) through (16), respectively; and
+  - **(3)** redesignating paragraphs (19) through (23) as paragraphs (17) through (21), respectively.
+- **(c)** *Restoration Fund Established* Section 3407(a) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by striking “(10)–(18), and (20)–(22)” and inserting “(10)–(16), and (18)–(20)”.

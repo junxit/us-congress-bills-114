@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4582
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 3406(b)(1) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by inserting “(except striped bass)” after “natural production of anadromous fish”. | the bill names no machine-readable US Code section |
+| — | strike | Section 3403(a) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by striking “striped bass,” after “stocks of salmon (including steelhead),”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3407(a) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575) is amended by striking “(10)–(18), and (20)–(22)” and inserting “(10)–(16), and (18)–(20)”. | the bill names no machine-readable US Code section |
