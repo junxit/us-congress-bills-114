@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3766
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3766
@@ -16,7 +16,7 @@ Foreign Aid Transparency and Accountability Act of 2016
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Cosponsors (23)
+## Cosponsors (25)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
@@ -41,6 +41,8 @@ Foreign Aid Transparency and Accountability Act of 2016
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -60,3 +62,16 @@ Foreign Aid Transparency and Accountability Act of 2016
 - 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9063-9065)
 - 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9063-9065)
 - 2015-12-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 318.
+- 2016-06-28 — Amendment SA 4927 agreed to in Senate by Unanimous Consent.
+- 2016-06-28 — Amendment SA 4927 proposed by Senator Rounds for Senator Rubio. (consideration: CR S4680) To provide a complete substitute.
+- 2016-06-28 — Amendment SA 4928 agreed to in Senate by Unanimous Consent.
+- 2016-06-28 — Amendment SA 4928 proposed by Senator Rounds for Senator Rubio. (consideration: CR S4680; text: CR S4680) To amend the title.
+- 2016-06-28 — Measure laid before Senate by unanimous consent. (consideration: CR S4680)
+- 2016-06-28 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-06-28 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-06-28 — Senate amendment agreed to: Amendment SA 4927 agreed to in Senate by Unanimous Consent.
+- 2016-06-28 — Senate amendment agreed to: Amendment SA 4928 agreed to in Senate by Unanimous Consent.
+- 2016-06-28 — Senate amendment proposed (on the floor): Amendment SA 4927 proposed by Senator Rounds for Senator Rubio.(consideration: CR S4680)
+- 2016-06-28 — Senate amendment proposed (on the floor): Amendment SA 4928 proposed by Senator Rounds for Senator Rubio.(consideration: CR S4680; text: CR S4680)
+- 2016-06-28 — Senate amendment submitted
+- 2016-06-28 — Senate amendment submitted

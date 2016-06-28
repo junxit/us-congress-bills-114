@@ -1,85 +1,99 @@
 ---
 legis-num: H.R. 3766
 congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3766
 
-> To direct the President to establish guidelines for United States foreign development and economic assistance programs, and for other purposes.
+That the bill from the House of Representatives (H.R. 3766) entitled “An Act to direct the President to establish guidelines for United States foreign development and economic assistance programs, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Foreign Aid Transparency and Accountability Act of 2015”.
+This Act may be cited as the “Foreign Aid Transparency and Accountability Act of 2016”.
 
-## § 2. Guidelines for United States foreign development and economic assistance programs
-
-- **(a)** *Purpose* The purpose of this section is to evaluate the performance of United States foreign development and economic assistance and its contribution to the policies, strategies, projects, program goals, and priorities undertaken by the Federal Government, to foster and promote innovative programs to improve effectiveness, and to coordinate the monitoring and evaluation processes of Federal departments and agencies that administer United States foreign development and economic assistance.
-- **(b)** *Establishment of guidelines* Not later than 18 months after the date of the enactment of this Act, the President shall set forth guidelines for the establishment of measurable goals, performance metrics, and monitoring and evaluation plans that can be applied with reasonable consistency to United States foreign development and economic assistance. Such guidelines shall be established according to best practices of monitoring and evaluation studies and analyses.
-- **(c)** *Objectives of guidelines*
-  - **(1)** *In general* The guidelines established under subsection (b) shall provide direction to Federal departments and agencies that administer United States foreign development and economic assistance on monitoring the use of resources, evaluating the outcomes and impacts of United States foreign development and economic assistance projects and programs, and applying the findings and conclusions of such evaluations to proposed project and program design.
-  - **(2)** *Objectives* Specifically, the guidelines established under subsection (b) shall require Federal departments and agencies that administer United States foreign development and economic assistance to take the following actions:
-    - **(A)** Establish annual monitoring and evaluation agendas and objectives to plan and manage the process of monitoring, evaluating, analyzing progress, and applying learning toward achieving results.
-    - **(B)** Develop specific project monitoring and evaluation plans, to include measurable goals and performance metrics, and identify the resources necessary to conduct such evaluations, which should be covered by program costs, during project design.
-    - **(C)** Apply rigorous monitoring and evaluation methodologies to such programs, including through the use of impact evaluations, ex-post evaluations, or other methods as appropriate, that clearly define program logic, inputs, outputs, intermediate outcomes, and end outcomes.
-    - **(D)** Disseminate guidelines for the development and implementation of monitoring and evaluation programs to all personnel, especially in the field, who are responsible for the design, implementation, and management of United States foreign development and economic assistance programs.
-    - **(E)** Establish methodologies for the collection of data, including baseline data to serve as a reference point against which progress can be measured.
-    - **(F)** Evaluate at least once in their lifetime all programs whose dollar value equals or exceeds the median program size for the relevant office or bureau or an equivalent calculation to ensure the majority of program resources are evaluated.
-    - **(G)** Conduct impact evaluations on all pilot programs before replicating wherever possible, or provide a written justification for not conducting an impact evaluation where such an evaluation was deemed inappropriate or impossible.
-    - **(H)** Develop a clearinghouse capacity for the collection and dissemination of knowledge and lessons learned that serve as benchmarks to guide future programs for United States development professionals, implementing partners, the donor community, and aid recipient governments, and as a repository of knowledge on lessons learned.
-    - **(I)** Distribute evaluation reports internally.
-    - **(J)** Publicly report each evaluation, including an executive summary, a description of the evaluation methodology, key findings, appropriate context (including quantitative and qualitative data when available), and recommendations made in the evaluation within 90 days after the completion of the evaluation.
-    - **(K)** Undertake collaborative partnerships and coordinate efforts with the academic community, implementing partners, and national and international institutions that have expertise in program monitoring, evaluation, and analysis when such partnerships provide needed expertise or significantly improve the evaluation and analysis.
-    - **(L)** Ensure verifiable, valid, credible, precise, reliable, and timely data are available to monitoring and evaluation personnel to permit the objective evaluation of the effectiveness of United States foreign development and economic assistance programs, including an assessment of assumptions and limitations in such evaluations.
-    - **(M)** Ensure that standards of professional evaluation organizations for monitoring and evaluation efforts are employed, including ensuring the integrity and independence of evaluations, permitting and encouraging the exercise of professional judgment, and providing for quality control and assurance in the monitoring and evaluation process.
-- **(d)** *Presidential report* Not later than 18 months after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report that contains a detailed description of the guidelines established under subsection (b). The report shall be submitted in unclassified form, but it may contain a classified annex.
-- **(e)** *Comptroller general report* The Comptroller General of the United States shall, not later than 1 year after the report required by subsection (d) is submitted to Congress, submit to the appropriate congressional committees a report that analyzes—
-  - **(1)** the guidelines established pursuant to subsection (b); and
-  - **(2)** a side-by-side comparison of the President’s budget request for that fiscal year of every operational unit that carries out United States foreign development and economic assistance and the performance of such units during the prior fiscal year.
-
-## § 3. Information on United States foreign development and economic assistance programs
-
-- **(a)** *Publication of information*
-  - **(1)** *Update of existing web site* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall update the Department of State’s Internet Web site, “ForeignAssistance.gov”, to make publicly available comprehensive, timely, and comparable information on United States foreign development and economic assistance programs, including all information required pursuant to subsection (b) of this section that is then available to the Secretary of State.
-  - **(2)** *Information sharing* The head of each Federal department or agency that administers United States foreign development and economic assistance shall, not later than 2 years after the date of the enactment of this Act, and on a quarterly basis thereafter, provide to the Secretary of State comprehensive information about the United States foreign development and economic assistance programs carried out by such department or agency.
-  - **(3)** *Updates to web site* Not later than 2 years after the date of the enactment of this Act, the Secretary of State shall publish, through the “ForeignAssistance.gov” Web site or a successor online publication, the information provided under subsection (b) of this section and shall update such information on a quarterly basis.
-- **(b)** *Matters To be included*
-  - **(1)** *In general* The information described in subsection (a) shall be published on a detailed award-by-award and country-by-country basis unless assistance is provided on a regional level, in which case the information shall be published on an award-by-award and region-by-region basis.
-  - **(2)** *Types of information*
-    - **(A)** *In general* To ensure transparency, accountability, and effectiveness of United States foreign development and economic assistance programs, the information described in subsection (a) shall include—
-      - **(i)** links to all regional, country, and sector assistance strategies, annual budget documents, congressional budget justifications, evaluations and summaries of evaluations as required under section 2(c)(2)(J);
-      - **(ii)** basic descriptive summaries for United States foreign development and economic assistance programs and awards under such programs; and
-      - **(iii)** obligations and expenditures under such programs.
-    - **(B)** *Rule of construction* Nothing in subparagraph (A) shall be construed to require a Federal department or agency that administers United States foreign development and economic assistance to provide any information that does not relate to or is not otherwise required by the United States foreign development and economic assistance programs carried out by such department or agency.
-  - **(3)** *Report in lieu of inclusion*
-    - **(A)** *Health or security of implementing partners* If the head of a Federal department or agency, in consultation with the Secretary of State, makes a determination that the inclusion of a required item of information online would jeopardize the health or security of an implementing partner or program beneficiary or would require the release of proprietary information of an implementing partner or program beneficiary, the head of the Federal department or agency shall provide such determination in writing to the appropriate congressional committees, including the basis for such determination and shall—
-      - **(i)** provide a briefing to the appropriate congressional committees on such information; or
-      - **(ii)** submit to the appropriate congressional committees such information in a written report.
-    - **(B)** *National interests of the united states* If the Secretary of State makes a determination that the inclusion of a required item of information online would be detrimental to the national interests of the United States, the Secretary of State shall provide such determination in writing to the appropriate congressional committees, including the basis for such determination and shall—
-      - **(i)** provide a briefing to the appropriate congressional committees on such information; or
-      - **(ii)** submit to the appropriate congressional committees the item of information in a written report.
-    - **(C)** *Form* Any briefing or item of information provided under this paragraph may be provided in classified form, as appropriate.
-  - **(4)** *Failure to comply* If a Federal department or agency fails to comply with the requirements of subsection (a), paragraph (1) or (2) of this subsection, or subsection (c) with respect to providing information described in subsection (a), and the information is not subject to a determination under subparagraph (A) or (B) of paragraph (3) of this subsection not to make the information publically available, the Director of the Office of Management and Budget, in consultation with the head of such department or agency, shall submit to the appropriate congressional committees not later than September 1, 2016, a consolidated report describing, with respect to each required item of information not made publicly available—
-    - **(A)** a detailed explanation of the reason for not making such information publicly available; and
-    - **(B)** the department’s or agency’s plan and timeline for immediately making such information publicly available, and for ensuring that information is made publically available in following years.
-- **(c)** *Scope of information* The online publication required by subsection (a) shall, at a minimum, provide the information required by subsection (b)—
-  - **(1)** in each fiscal year from 2016 through 2019, such information for fiscal years 2012 through the current fiscal year; and
-  - **(2)** for fiscal year 2020 and each fiscal year thereafter, such information for the immediately preceding 5 fiscal years in a fully searchable form.
-
-## § 4. Definitions
+## § 2. Definitions
 
 In this Act:
 
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  - **(A)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
-  - **(B)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
-- **(2)** *Evaluation* The term evaluation means, with respect to a United States foreign development and economic assistance program, the systematic collection and analysis of information about the characteristics and outcomes of the program, including projects conducted under such program, as a basis for making judgments and evaluations regarding the program, to improve program effectiveness, and to inform decisions about current and future programming.
-- **(3)** *United States foreign development and economic assistance* The term United States foreign development and economic assistance means assistance provided primarily for the purposes of foreign development and economic support, including assistance authorized under—
-  - **(A)** part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), other than—
-    - **(i)** title IV of chapter 2 of such part (relating to the Overseas Private Investment Corporation);
-    - **(ii)** chapter 3 of such part (relating to International Organizations and Programs); and
-    - **(iii)** chapter 8 of such part (relating to International Narcotics Control);
+  - **(A)** the Committee on Foreign Relations of the Senate;
+  - **(B)** the Committee on Appropriations of the Senate;
+  - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(D)** the Committee on Appropriations of the House of Representatives.
+- **(2)** *Evaluation* The term evaluation means, with respect to a covered United States foreign assistance program, the systematic collection and analysis of information about the characteristics and outcomes of the program, including projects conducted under such program, as a basis for—
+  - **(A)** making judgments and evaluations regarding the program;
+  - **(B)** improving program effectiveness; and
+  - **(C)** informing decisions about current and future programming.
+- **(3)** *Covered United States foreign assistance* The term covered United States foreign assistance means assistance authorized under—
+  - **(A)** part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), except for—
+    - **(i)** title IV of chapter 2 of such part (relating to the Overseas Private Investment Corporation); and
+    - **(ii)** chapter 3 of such part (relating to International Organizations and Programs);
   - **(B)** chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to Economic Support Fund);
   - **(C)** the Millennium Challenge Act of 2003 (22 U.S.C. 7701 et seq.); and
   - **(D)** the Food for Peace Act (7 U.S.C. 1721 et seq.).
+
+## § 3. Guidelines for covered United States foreign assistance programs
+
+- **(a)** *Purposes* The purposes of this section are to—
+  - **(1)** evaluate the performance of covered United States foreign assistance and its contribution to the policies, strategies, projects, program goals, and priorities undertaken by the Federal Government;
+  - **(2)** support and promote innovative programs to improve effectiveness; and
+  - **(3)** coordinate the monitoring and evaluation processes of Federal departments and agencies that administer covered United States foreign assistance.
+- **(b)** *Establishment of guidelines* Not later than 18 months after the date of the enactment of this Act, the President shall set forth guidelines, according to best practices of monitoring and evaluation studies and analyses, for the establishment of measurable goals, performance metrics, and monitoring and evaluation plans that can be applied with reasonable consistency to covered United States foreign assistance.
+- **(c)** *Objectives of guidelines*
+  - **(1)** *In general* The guidelines established pursuant to subsection (b) shall provide direction to Federal departments and agencies that administer covered United States foreign assistance on—
+    - **(A)** monitoring the use of resources;
+    - **(B)** evaluating the outcomes and impacts of covered United States foreign assistance projects and programs; and
+    - **(C)** applying the findings and conclusions of such evaluations to proposed project and program design.
+  - **(2)** *Objectives* The guidelines established pursuant to subsection (b) shall provide direction to Federal departments and agencies that administer covered United States foreign assistance on how to—
+    - **(A)** establish annual monitoring and evaluation objectives and timetables to plan and manage the process of monitoring, evaluating, analyzing progress, and applying learning toward achieving results;
+    - **(B)** develop specific project monitoring and evaluation plans, including measurable goals and performance metrics, and to identify the resources necessary to conduct such evaluations, which should be covered by program costs;
+    - **(C)** apply rigorous monitoring and evaluation methodologies to such programs, including through the use of impact evaluations, ex-post evaluations, or other methods, as appropriate, that clearly define program logic, inputs, outputs, intermediate outcomes, and end outcomes;
+    - **(D)** disseminate guidelines for the development and implementation of monitoring and evaluation programs to all personnel, especially in the field, who are responsible for the design, implementation, and management of covered United States foreign assistance programs;
+    - **(E)** establish methodologies for the collection of data, including baseline data to serve as a reference point against which progress can be measured;
+    - **(F)** evaluate, at least once in their lifetime, all programs whose dollar value equals or exceeds the median program size for the relevant office or bureau or an equivalent calculation to ensure the majority of program resources are evaluated;
+    - **(G)** conduct impact evaluations on all pilot programs before replicating, or conduct performance evaluations and provide a justification for not conducting an impact evaluation when such an evaluation is deemed inappropriate or impracticable;
+    - **(H)** develop a clearinghouse capacity for the collection, dissemination, and preservation of knowledge and lessons learned to guide future programs for United States foreign assistance personnel, implementing partners, the donor community, and aid recipient governments;
+    - **(I)** internally distribute evaluation reports;
+    - **(J)** publicly report each evaluation, including an executive summary, a description of the evaluation methodology, key findings, appropriate context, including quantitative and qualitative data when available, and recommendations made in the evaluation within 90 days after the completion of the evaluation;
+    - **(K)** undertake collaborative partnerships and coordinate efforts with the academic community, implementing partners, and national and international institutions, as appropriate, that have expertise in program monitoring, evaluation, and analysis when such partnerships provide needed expertise or significantly improve the evaluation and analysis;
+    - **(L)** ensure verifiable, reliable, and timely data, including from local beneficiaries and stakeholders, are available to monitoring and evaluation personnel to permit the objective evaluation of the effectiveness of covered United States foreign assistance programs, including an assessment of assumptions and limitations in such evaluations; and
+    - **(M)** ensure that standards of professional evaluation organizations for monitoring and evaluation efforts are employed, including ensuring the integrity and independence of evaluations, permitting and encouraging the exercise of professional judgment, and providing for quality control and assurance in the monitoring and evaluation process.
+- **(d)** *President’s report* Not later than 18 months after the date of the enactment of this Act, the President shall submit a report to the appropriate congressional committees that contains a detailed description of the guidelines established pursuant to subsection (b). The report shall be submitted in unclassified form, but it may contain a classified annex.
+- **(e)** *Comptroller General’s report* The Comptroller General of the United States shall, not later than 18 months after the report required by subsection (d) is submitted to Congress, submit to the appropriate congressional committees a report that—
+  - **(1)** analyzes the guidelines established pursuant to subsection (b); and
+  - **(2)** assesses the implementation of the guidelines by the agencies, bureaus, and offices that implement covered United States foreign assistance as outlined in the President’s budget request.
+
+## § 4. Information on covered United States foreign assistance programs
+
+- **(a)** *Publication of information*
+  - **(1)** *Update of existing website* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall update the Department of State’s website, “ForeignAssistance.gov”, to make publicly available comprehensive, timely, and comparable information on covered United States foreign assistance programs, including all information required under subsection (b) that is available to the Secretary of State.
+  - **(2)** *Information sharing* Not later than 2 years after the date of the enactment of this Act, and quarterly thereafter, the head of each Federal department or agency that administers covered United States foreign assistance shall provide the Secretary of State with comprehensive information about the covered United States foreign assistance programs carried out by such department or agency.
+  - **(3)** *Updates to website* Not later than 2 years after the date of the enactment of this Act, and quarterly thereafter, the Secretary of State shall publish, on the “ForeignAssistance.gov” website or through a successor online publication, the information provided under subsection (b).
+- **(b)** *Matters To be included*
+  - **(1)** *In general* The information described in subsection (a)—
+    - **(A)** shall be published for each country on a detailed basis, such as award-by-award; or
+    - **(B)** if assistance is provided on a regional level, shall be published for each such region on a detailed basis, such as award-by-award.
+  - **(2)** *Types of information*
+    - **(A)** *In general* To ensure the transparency, accountability, and effectiveness of covered United States foreign assistance programs, the information described in subsection (a) shall include—
+      - **(i)** links to all regional, country, and sector assistance strategies, annual budget documents, congressional budget justifications, and evaluations in accordance with section 3(c)(2)(J);
+      - **(ii)** basic descriptive summaries for covered United States foreign assistance programs and awards under such programs; and
+      - **(iii)** obligations and expenditures.
+    - **(B)** *Publication* Each type of information described in subparagraph (A) shall be published or updated on the appropriate website not later than 90 days after the date on which the information is issued.
+    - **(C)** *Rule of construction* Nothing in this paragraph may be construed to require a Federal department or agency that administers covered United States foreign assistance to provide any information that does not relate to, or is not otherwise required by, the covered United States foreign assistance programs carried out by such department or agency.
+  - **(3)** *Report in lieu of inclusion*
+    - **(A)** *Health or security of implementing partners* If the head of a Federal department or agency, in consultation with the Secretary of State, makes a determination that the inclusion of a required item of information online would jeopardize the health or security of an implementing partner or program beneficiary or would require the release of proprietary information of an implementing partner or program beneficiary, the head of the Federal department or agency shall provide such determination in writing to the appropriate congressional committees, including the basis for such determination.
+    - **(B)** *National interests of the United States* If the Secretary of State makes a determination that the inclusion of a required item of information online would be detrimental to the national interests of the United States, the Secretary of State shall provide such determination, including the basis for such determination, in writing to the appropriate congressional committees.
+    - **(C)** *Form* Information provided under this paragraph may be provided in classified form, as appropriate.
+  - **(4)** *Failure to comply* If a Federal department or agency fails to comply with the requirements under paragraph (1), (2), or (3) of subsection (a), or subsection (c), with respect to providing information described in subsection (a), and the information is not subject to a determination under subparagraph (A) or (B) of paragraph (3) not to make the information publicly available, the Director of the Office of Management and Budget, in consultation with the head of such department or agency, not later than one year after the date of the enactment of this Act, shall submit a consolidated report to the appropriate congressional committees that includes, with respect to each required item of information not made publicly available—
+    - **(A)** a detailed explanation of the reason for not making such information publicly available; and
+    - **(B)** a description of the department’s or agency’s plan and timeline for—
+      - **(i)** making such information publicly available; and
+      - **(ii)** ensuring that such information is made publicly available in subsequent years.
+- **(c)** *Scope of information* The online publication required under subsection (a) shall, at a minimum—
+  - **(1)** in each of the fiscal years 2016 through 2019, provide the information required under subsection (b) for fiscal years 2015 through the current fiscal year; and
+  - **(2)** for fiscal year 2020 and each fiscal year thereafter, provide the information required under subsection (b) for the immediately preceding 5 fiscal years in a fully searchable form.
+- **(d)** *Sense of Congress* It is the sense of Congress that the Secretary of State and the Administrator of the United States Agency for International Development should coordinate the consolidation of processes and data collection and presentation for the Department of State’s website, “ForeignAssistance.gov”, and the United States Agency for International Development’s website, “Explorer.USAID.gov”, to the extent that is possible to maximize efficiencies, no later than the end of fiscal year 2018.
