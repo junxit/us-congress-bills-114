@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2952
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,45 +13,40 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Improving Employment Outcomes of TANF Recipients Act”.
 
-## § 2. Increasing economic mobility of TANF recipients
+## § 2. Improving economic mobility of TANF recipients
 
-- **(a)** *In general* Section 403(a)(4) of the Social Security Act (42 U.S.C. 603(a)(4)) is amended to read as follows:
-  > - **(4)** *Increasing economic mobility of TANF recipients*
-  >   - **(A)** *In general* The Secretary shall make a grant under this paragraph to each State, with respect to each fiscal year for which the State achieves the requisite level of performance with respect to an indicator described in subparagraph (C)(ii), in the immediately succeeding fiscal year.
-  >   - **(B)** *Amount of grant*
-  >     - **(i)** *In general* The amount of the grant payable to a State with respect to a fiscal year for which the State achieves the requisite level of performance with respect to an indicator described in subparagraph (C)(ii) shall be the following:
-  >       - **(I)** 40 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(I).
-  >       - **(II)** 30 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(II).
-  >       - **(III)** 30 percent of the available amount with respect to the State for the fiscal year, if the indicator is described in subparagraph (C)(ii)(III).
-  >     - **(ii)** *Available amount defined* In clause (i), the term ‘available amount’ means, with respect to a State and a fiscal year, the amount (if any) by which—
-  >       - **(I)** the State family assistance grant that would be payable to the State for the fiscal year in the absence of this paragraph; exceeds
-  >       - **(II)** the State family assistance grant actually payable to the State for the fiscal year.
-  >   - **(C)** *Measuring State performance*
-  >     - **(i)** *In general* Each State, in consultation with the Secretary, shall establish levels of performance for each indicator described in clause (ii), for fiscal year 2017 and each fiscal year thereafter.
-  >     - **(ii)** *Indicators* The indicators described in this clause are the following:
-  >       - **(I)** The percentage of former adult recipients of assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)) who, while such recipients, were required to be engaged in work in accordance with section 407, and are in unsubsidized employment during the 2nd quarter after exiting from the program.
-  >       - **(II)** The percentage of former recipients of such assistance who are in unsubsidized employment during the 4th quarter after exiting from the program.
-  >       - **(III)** The percentage change in median earnings of former recipients of such assistance who are in unsubsidized employment in the 4th quarter after exiting from the program compared with the median earnings of former recipients who are in unsubsidized employment in the 2nd quarter after exiting from the program.
-  >     - **(iii)** *Agreement on requisite performance level for each indicator*
-  >       - **(I)** *Fiscal years 2017 and 2018* Each State shall reach agreement with the Secretary on the requisite level of performance for each indicator described in clause (ii), for each of fiscal years 2017 and 2018.
-  >       - **(II)** *Fiscal years 2019 and 2020* Each State shall reach agreement with the Secretary, before fiscal year 2019, on the requisite level of performance with respect to each indicator described in clause (ii), for each of fiscal years 2019 and 2020.
-  >   - **(D)** *Report on State performance*
-  >     - **(i)** *In general* Not later than October 1, 2016, the Secretary shall develop a template which each State shall use to report on outcomes achieved under the State program funded under this part.
-  >     - **(ii)** *Contents* Each such report shall include—
-  >       - **(I)** the number of individuals who exited the program during the year;
-  >       - **(II)** the characteristics of the individuals who exited the program during the year, including information on the length of time for which the individual received assistance under the program; and
-  >       - **(III)** information specifying the levels of performance achieved with respect to each indicator described in subparagraph (C)(ii).
-  >     - **(iii)** *Publication* Not later than September 30 of fiscal year 2019 and of each succeeding fiscal year, the Secretary shall make available to the public electronically each report submitted under this subparagraph during the fiscal year.
-  >   - **(E)** *State failure to meet performance measures*
-  >     - **(i)** *Reservation of funds; required State spending* If a State fails to achieve the requisite level of performance with respect to an indicator described in subparagraph (C)(ii) of this paragraph and a fiscal year—
-  >       - **(I)** the Secretary shall reserve the funds that would have been payable to the State under this paragraph if the State had achieved the level; and
-  >       - **(II)** the level of State expenditures otherwise required to avoid a penalty under section 409(a)(7) in the succeeding fiscal year shall be increased by the amount so reserved.
-  >     - **(ii)** *Corrective action* The Secretary shall award to a State all funds reserved under clause (i) for the fiscal year with respect to the State, an indicator, and a fiscal year, in the immediately succeeding fiscal year, if, in the immediately succeeding fiscal year, the State—
-  >       - **(I)** achieves the requisite level of performance for the State with respect to the indicator; or
-  >       - **(II)** improves the State’s level of performance with respect to the indicator by at least half of the amount by which the State’s requisite level of performance with respect to the indicator in the fiscal year exceeded the actual level of performance achieved by the State with respect to the indicator in the fiscal year.
-  >   - **(F)** *Funding* The following percentages of the amounts appropriated under paragraph (1)(C) for the following fiscal years are reserved for grants under this paragraph for the fiscal years:
-  >     - **(i)** 4 percent, in the case of fiscal year 2018.
-  >     - **(ii)** 10 percent, in the case of each of fiscal years 2019 and 2020.
+Section 403(a)(4) of the Social Security Act (42 U.S.C. 603(a)(4)) is amended to read as follows:
 
-- **(b)** *Conforming amendment* Section 403(a)(1)(B) of such Act (42 U.S.C. 603(a)(1)(B)) is amended by inserting “, reduced by the percentage (if any) specified in paragraph (4)(F) with respect to the fiscal year,” before “as the amount”.
-- **(c)** *Effective date* The amendments made by this Act shall take effect on October 1, 2015.
+> - **(4)** *Improving economic mobility of TANF recipients*
+>   - **(A)** *Measuring state performance*
+>     - **(i)** *In general* Each State, in consultation with the Secretary, shall collect and report information necessary to measure the level of performance of the State for each indicator described in clause (ii), for fiscal year 2018 and each fiscal year thereafter, and the Secretary shall use the information collected for fiscal year 2018 to establish the baseline level of performance of each State for each such indicator.
+>     - **(ii)** *Indicators* The indicators described in this clause, for a fiscal year, are the following:
+>       - **(I)** The employment percentage for the fiscal year, which is equal to—
+>         - **(aa)** the number of families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(ii)) who, during a quarter in the fiscal year, exited from the program, and who, during the 2nd quarter after the exit, include an adult in unsubsidized employment; divided by
+>         - **(bb)** the number of families who received assistance from the program in the exit quarter referred to in subclause (aa).
+>       - **(II)** The retention percentage for the fiscal year, which is equal to—
+>         - **(aa)** the number of families receiving assistance from the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(ii)) who, during a quarter in the fiscal year, exited from the program, and who, during the 4th quarter after the exit, include an adult in unsubsidized employment; divided by
+>         - **(bb)** the number of families who received assistance under the program in the exit quarter referred to in subclause (aa).
+>       - **(III)** The advancement measure for the fiscal year, which is equal to the median earnings of the adults receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(ii)) who, during a quarter in the fiscal year, exited from the program, and who during the 2nd quarter after the exit, are in unsubsidized employment.
+>     - **(iii)** *Agreement on requisite performance level for each indicator*
+>       - **(I)** *Fiscal years 2019 and 2020* The State shall reach agreement with the Secretary on the requisite level of performance for each indicator described in clause (ii), for each of fiscal years 2019 and 2020. In establishing the requisite levels of performance, the State and the Secretary shall—
+>         - **(aa)** take into account how the levels involved compare with the levels established for other States;
+>         - **(bb)** ensure the levels involved are adjusted, using the objective statistical model referred to in clause (v), based on—
+>           - **(AA)** the differences among States in actual economic conditions, including differences in unemployment rates and job losses or gains in particular industries; and
+>           - **(BB)** the characteristics of participants on entry into the program, including indicators of prior work history, lack of educational or occupational skills attainment, or other factors that may affect employment and earnings; and
+>         - **(cc)** take into account the extent to which the levels involved promote continuous improvement in performance by each State.
+>       - **(II)** *Fiscal year 2021* The State shall reach agreement with the Secretary, before fiscal year 2021, on the requisite level of performance for each indicator described in clause (ii), for fiscal year 2021, which shall be established in accordance with subclause (I) of this clause.
+>     - **(iv)** *Revisions based on economic conditions and individuals receiving assistance during the fiscal year* The Secretary shall, in accordance with the objective statistical model referred to in clause (v), revise the requisite levels of performance for a fiscal year and a State to reflect the actual economic conditions and characteristics of participants during that fiscal year in the State.
+>     - **(v)** *Statistical adjustment model* The Secretary shall use an objective statistical model to make adjustments to the requisite levels of performance for actual economic conditions and characteristics of participants, and shall consult with the Secretary of Labor to develop a model that is the same as or similar to the model described in section 116(b)(3)(viii) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141).
+>   - **(B)** *Report on state performance*
+>     - **(i)** *In general* Not later than October 1, 2017, the Secretary shall develop a template which each State shall use to report on outcomes achieved under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).
+>     - **(ii)** *Contents* Each such report shall include—
+>       - **(I)** the number of individuals who exited the program during the year, and their reasons for doing so, including a separate accounting of the number of work-eligible individuals (as so defined) who exited the program during the year and their reasons for doing so;
+>       - **(II)** the characteristics of the individuals who exited the program during the year, including information on the length of time the individual received assistance under the program, the educational level of the individual, and the earnings of the individual in the 4 quarters preceding the exit; and
+>       - **(III)** information specifying the levels of performance achieved on each indicator described in subparagraph (A)(ii).
+>     - **(iii)** *Publication* Not later than September 30 of fiscal year 2020 and of each succeeding fiscal year, the Secretary shall make available electronically to the public each report submitted under this subparagraph during the fiscal year.
+>   - **(C)** *Regulations* The Secretary, in consultation with the Secretary of Labor, shall prescribe such regulations as may be necessary to provide for the measurement of State performance on the indicators described in this paragraph.
+
+## § 3. Effective date
+
+The amendments made by this Act shall take effect on October 1, 2016.
