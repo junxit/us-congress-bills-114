@@ -17,7 +17,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Fulbright Program provides approximately 8,000 grants annually and, as of 2016, operates in more than 160 countries, including 50 that have established cost-sharing binational commissions;
 - Whereas approximately 1,300 institutions of higher education in the United States, both public and private, host students at home and send scholars abroad;
 - Whereas current Fulbright students and scholars hail from all 50 States and 2 United States territories, and approximately a quarter are from minority or underrepresented populations;
-- Whereas more than 370,000 individuals from across the globe have benefited from this unique opportunity;
+- Whereas more than 370,000 individuals from across the globe have benefitted from this unique opportunity;
 - Whereas alumni of the Fulbright Program include 54 Nobel Prize laureates, 82 recipients of the Pulitzer Prize, 33 heads of state, 16 Presidential Medal of Freedom recipients, 8 members of the United States Congress, and a former Secretary-General of the United Nations;
 - Whereas, on April 21, 2016, an American Elm was planted on the grounds of the United States Capitol in recognition of the 70th anniversary of the Fulbright Program; and
 - Whereas the Fulbright Program promotes United States higher education abroad and remains a valuable diplomatic tool: Now, therefore, be it
