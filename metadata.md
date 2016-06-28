@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2959
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2959
@@ -25,3 +25,9 @@ TANF Accountability and Integrity Improvement Act
 - 2015-07-07 — Introduced in House
 - 2015-07-07 — Introduced in House
 - 2015-07-07 — Referred to the House Committee on Ways and Means.
+- 2015-07-10 — Referred to the Subcommittee on Human Resources.
+- 2016-05-11 — Committee Consideration and Mark-up Session Held.
+- 2016-05-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-06-28 — Placed on the Union Calendar, Calendar No. 496.
+- 2016-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-644.
+- 2016-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-644.

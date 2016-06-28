@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2959
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,21 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “TANF Accountability and Integrity Improvement Act”.
 
-## § 2. No counting of third-party spending to meet State spending requirement
+## § 2. Limit on counting of nongovernmental third-party contributions as qualified State spending to meet State spending requirement
 
-- **(a)** *Exclusion of third-Party contributions* Section 409(a)(7)(B)(i) of the Social Security Act (42 U.S.C. 609(a)(7)(B)(i)) is amended by adding at the end the following:
-  > - **(VI)** *Exclusion of third-party contributions* Such term shall not include—
-  >   - **(aa)** for fiscal year 2016, the amount (if any) by which—
-  >     - **(AA)** the value of all goods and services provided by a source other than the State or a local government during the fiscal year; exceeds
-  >     - **(BB)** the value of all such goods and services claimed by the State as qualified State expenditures for fiscal year 2015;
-  >   - **(bb)** for fiscal year 2017, the amount (if any) by which—
-  >     - **(AA)** the value referred to in subclause (aa)(AA); exceeds
-  >     - **(BB)** 50 percent of the value referred to in subclause (aa)(BB); and
-  >   - **(cc)** for any fiscal year after 2017, the value referred to in subclause (aa)(AA).
+- **(a)** *Limit on counting third-party contributions* Section 409(a)(7)(B)(i) of the Social Security Act (42 U.S.C. 609(a)(7)(B)(i)) is amended by adding at the end the following:
+  > - **(VI)** *Limit on counting of third-party contributions* Such term shall not include the amount (if any) by which—
+  >   - **(aa)** the value of all goods and services provided by a source other than the State or a local government during the fiscal year; exceeds
+  >   - **(bb)** the value of all such goods and services claimed by the State as qualified State expenditures for fiscal year 2016.
 
 - **(b)** *Exclusion of expenditures for the provision of medical services* Section 409(a)(7)(B)(i) of such Act (42 U.S.C. 609(a)(7)(B)(i)), as amended by subsection (a) of this section, is amended by adding at the end the following:
   > - **(VII)** *Exclusion of expenditures for the provision of medical services* Such term shall not include any amount expended for the provision of medical services.
 
 ## § 3. Effective date
 
-The amendments made by this Act shall take effect on October 1, 2015.
+The amendments made by this Act shall take effect on October 1, 2016.
