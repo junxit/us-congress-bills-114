@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4902
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 4902
@@ -24,9 +24,10 @@ To amend title 5, United States Code, to expand law enforcement availability pay
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend title 5, United States Code, to expand law enforcement availability pay
 - 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3998)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3998)
 - 2016-06-22 — Received in the Senate.
+- 2016-06-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
