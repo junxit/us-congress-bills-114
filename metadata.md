@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4902
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4902
@@ -47,3 +47,14 @@ To amend title 5, United States Code, to expand law enforcement availability pay
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3998)
 - 2016-06-22 — Received in the Senate.
 - 2016-06-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-11-17 — Passed Senate without amendment by Unanimous Consent.
+- 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-11-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6493)
+- 2016-11-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6493)
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-28 — Presented to President.
+- 2016-11-28 — Presented to President.
+- 2016-12-08 — Became Public Law No: 114-250.
+- 2016-12-08 — Became Public Law No: 114-250.
+- 2016-12-08 — Signed by President.
+- 2016-12-08 — Signed by President.
