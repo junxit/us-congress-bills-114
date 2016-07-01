@@ -1,7 +1,7 @@
 ---
 measure: S. 2829
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2829
@@ -27,9 +27,15 @@ Maritime Administration Authorization and Enhancement Act for Fiscal Year 2017
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Committees (1)
+## Committees (7)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Armed Services Committee
+- House — Natural Resources Committee
+- House — Veterans' Affairs Committee
+- House — Oversight and Accountability Committee
+- House — Judiciary Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -48,3 +54,12 @@ Maritime Administration Authorization and Enhancement Act for Fiscal Year 2017
 - 2016-06-29 — Senate amendment proposed (on the floor): Amendment SA 4940 proposed by Senator Sasse for Senator Fischer.(consideration: CR S4769)
 - 2016-06-29 — Senate amendment submitted
 - 2016-06-29 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S4769)
+- 2016-06-30 — Message on Senate action sent to the House.
+- 2016-07-01 — Received in the House.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-01 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Veterans' Affairs, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
