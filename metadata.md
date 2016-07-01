@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3844
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3844
@@ -16,6 +16,10 @@ Bureau of Land Management Foundation Act
 
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 
+## Cosponsors (1)
+
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -26,3 +30,11 @@ Bureau of Land Management Foundation Act
 - 2015-10-28 — Introduced in House
 - 2015-10-28 — Referred to the House Committee on Natural Resources.
 - 2015-10-28 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2015-11-04 — Subcommittee Hearings Held.
+- 2016-06-14 — Committee Consideration and Mark-up Session Held.
+- 2016-06-14 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-07-01 — Placed on the Union Calendar, Calendar No. 503.
+- 2016-07-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-651.
+- 2016-07-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-651.

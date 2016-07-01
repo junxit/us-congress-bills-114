@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3844
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,126 +11,145 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Energy and Minerals Reclamation Foundation Establishment Act of 2015”.
+This Act may be cited as the “Bureau of Land Management Foundation Act”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Abandoned mine lands* The term “abandoned mine lands” means all hardrock mines in the United States that were abandoned before January 1, 1981, and all coal mines in the United States that were abandoned before August 3, 1977, regardless of surface or mineral ownership.
-- **(2)** *Board* The term “Board” means the Board of Directors of the Foundation.
-- **(3)** *Director* The term “Director” means the Directors of the Board.
-- **(4)** *Foundation* The term “Foundation” means the Energy and Minerals Reclamation Foundation established by this Act.
-- **(5)** *Interest in real property* The term “interest in real property” includes mineral rights, rights-of-way, and easements, appurtenant or in gross.
-- **(6)** *Orphaned oil and gas well sites* The term “orphaned oil and gas well sites” means all oil and gas wells in the United States that have no responsible or liable parties, regardless of surface or mineral ownership.
-- **(7)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-- **(8)** *Split estate lands* The term “split estate lands” means lands with respect to which the surface is or will be in non-Federal ownership and a mineral interest is owned by the United States.
+- **(1)** *Board* The term “Board” means the Board of Directors of the Foundation.
+- **(2)** *BLM* The term “BLM” means the Bureau of Land Management.
+- **(3)** *Chairman* The term “Chairman” means the Chairman of the Board.
+- **(4)** *Director* The term “Director” means an individual member of the Board.
+- **(5)** *Foundation* The term “Foundation” means the Bureau of Land Management Foundation established by this Act.
+- **(6)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(7)** *National Conservation Lands* The term “National Conservation Lands” means the system of lands established by section 2002 of the Omnibus Public Lands Management Act of 2009 (16 U.S.C. 7202).
+- **(8)** *Wild free-roaming horses and burros* The term “wild free-roaming horses and burros” has the same meaning that term has under section 2(b) of the Wild Free-Roaming Horses And Burros Act Of 1971 (16 U.S.C. 1332(b)).
+- **(9)** *Orphaned oil and gas well sites* The term “orphaned oil and gas well sites” means all onshore oil and gas wells in the United States that have no responsible or liable parties and that—
+  - **(A)** are located on federally managed lands;
+  - **(B)** are located on lands or minerals that were federally managed at the time oil and gas operations were initiated; or
+  - **(C)** adversely impact the health or productivity of Federal lands.
+- **(10)** *Abandoned mine lands* The term “abandoned mine lands” means all hard rock mines in the United States that were abandoned before January 1, 1981, and all coal mines in the United States that were abandoned before August 3, 1977, and that—
+  - **(A)** are located on federally managed lands;
+  - **(B)** are located on lands or minerals that were federally managed at the time mining operations were initiated; or
+  - **(C)** adversely impact the health or productivity of Federal lands.
 
-## § 3. Establishment of Energy and Minerals Reclamation Foundation
+## § 3. Establishment and purposes of the Bureau of Land Management Foundation
 
-- **(a)** *In general* There is established the Energy and Minerals Reclamation Foundation. The Foundation is a charitable and nonprofit corporation domiciled in the District of Columbia.
-- **(b)** *Purpose* The purpose of the Foundation is to encourage, obtain, and use gifts, devises, and bequests of real and personal property for abandoned mine lands and orphaned oil and gas well site reclamation projects that further the conservation of natural, scenic, historic, scientific, educational, wildlife habitat, or recreational resources.
-- **(c)** *Grants and contracts* The Foundation may use gifts, devises, bequests, and matching funds from the Secretary under section 10(b) to make grants and award contracts for projects that are—
-  - **(1)** approved by the Board of the Foundation; and
-  - **(2)** consistent with the purpose of the Foundation under subsection (b).
-- **(d)** *Limitation and conflicts of interest*
-  - **(1)** *In general* The Foundation shall have no power, other than as an insubstantial part of its activities, to spend funds or engage in activities that are not in furtherance of subsection (b).
-  - **(2)** *Political activities* The Foundation shall not participate or intervene in any political campaign on behalf of any candidate for public office.
-  - **(3)** *Conflict of interests* No Director or officer or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any question before the Foundation affecting—
-    - **(A)** the direct or indirect financial or personal interests of the Director, officer, or employee; or
-    - **(B)** the interests of any corporation partnership, entity, or organization in which such Director, officer, or employee—
-      - **(i)** is an officer, member of the board, or trustee; or
-      - **(ii)** has any direct financial interest.
-- **(e)** *Limitation on administrative expenditures* Of the amount available to the Foundation for expenditure each fiscal year, not more than 10 percent may be used for administrative expenses.
+- **(a)** *Establishment* There is established the Bureau of Land Management Foundation as a charitable and nonprofit corporation that shall not be considered an agency or establishment of the United States.
+- **(b)** *Purposes*
+  - **(1)** *In general* The purposes of the Foundation are to—
+    - **(A)** encourage, accept, obtain, administer, and use private gifts of money, devises, and bequests of real and personal property for the benefit of, or in connection with, the activities and services of the BLM described in subparagraph (B);
+    - **(B)** undertake, conduct, and encourage programs and activities that support—
+      - **(i)** educational, technical, scientific, and other assistance or activities that support the management of BLM lands in regard to—
+        - **(I)** wild free-roaming horses and burros;
+        - **(II)** fish and wildlife and their habitats;
+        - **(III)** National Conservation Lands;
+        - **(IV)** recreation resources; and
+        - **(V)** cultural and historic resources; and
+      - **(ii)** activities that support the reclamation and remediation of—
+        - **(I)** abandoned mine lands;
+        - **(II)** orphaned oil and gas well sites; or
+        - **(III)** public lands impacted by development connected to mineral exploration and development activities.
+  - **(2)** *Included reclamation activities* Reclamation activities under paragraph (1)(B) should include, but not be limited to, the remediation of soil and water contamination, the restoration of wildlife habitat in order to restore the natural, scenic, historic, cultural, and ecological values of such areas, or the promotion of the economic potential of such areas.
+- **(c)** *Activities of the Foundation and the Bureau of Land Management* The activities of the Foundation authorized under this Act shall be supplemental to and shall not preempt any authority or responsibility of the BLM under any other provision of law.
+- **(d)** *Range of Foundation activities* The activities and grants made by the Foundation under subsection (b)(1)(B) that are not subject to limitations under section 5(d)(4) shall be undertaken in equal proportion under clauses (i) and (ii) of subsection (b)(1)(B).
 
-## § 4. Board of directors
+## § 4. Board of Directors
 
 - **(a)** *Establishment and membership*
-  - **(1)** *In general* The Foundation shall have a governing Board of Directors (in this Act referred to as the “Board”), which shall consist of 15 Directors.
-  - **(2)** *Education and experience of directors* The Directors must be educated or have actual experience in—
-    - **(A)** energy or minerals production; and
-    - **(B)** reclamation of mine lands or oil and gas fields; or
-    - **(C)** energy and mineral resource financing, law, or research.
-  - **(3)** *Representation of diverse areas of expertise* To the extent practicable, the Directors shall represent diverse areas of expertise relating to mining and mine reclamation, and development and reclamation of oil and gas fields.
-  - **(4)** *Ex officio director* The Director of the Office of Surface Mining of the Department of the Interior shall be an ex officio, nonvoting Director.
-  - **(5)** *Appointment and terms*
-    - **(A)** *In general* Within one year after the date of the enactment of this Act, the Secretary of the Interior, in consultation with the Interstate Mining Compact Commission and the Interstate Oil and Gas Compact Commission, shall appoint the initial Directors. Thereafter the Secretary shall no longer have such authority, and subsequent appointments shall be made by the Chairman with the advice and consent of a majority of the Directors.
-    - **(B)** *Non-federal status* Appointment and service as a Director of the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
-    - **(C)** *Terms, generally* Except as provided in subparagraph (D), each Director shall be appointed for a term of 6 years.
-    - **(D)** *Initial appointments* Of the Directors initially appointed—
-      - **(i)** one-third shall be appointed for a term of 2 years;
-      - **(ii)** one-third shall be appointed for a term of 4 years; and
-      - **(iii)** one-third shall be appointed for a term of 6 years.
-    - **(E)** *Vacancies* A vacancy on the Board shall be filled within 120 days after the occurrence of such vacancy.
-    - **(F)** *Limitation* No individual may serve more than 12 consecutive years as a Director.
-  - **(6)** *Removal* If a Director misses three consecutive meetings of the Board, that individual may be removed from the Board by a majority vote of the Directors and that vacancy shall be filled in accordance with this subsection.
-- **(b)** *Chairman* The Chairman of the Board shall be elected by the Board from the Directors. An individual shall serve for a 2-year term as Chairman, and may be reelected to the post during the individual’s tenure as a Director.
-- **(c)** *Quorum* A majority of the current voting Directors shall constitute a quorum for the transaction of business.
-- **(d)** *Meetings* The Board shall meet at the call of the Chairman at least once each year.
-- **(e)** *Reimbursement of expenses* Directors shall serve without pay, but may be reimbursed by the Foundation for the actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5, United States Code, for the payment of expenses and allowances for individuals employed intermittently in Federal Government service.
-- **(f)** *General powers* The Board may complete the organization of the Foundation by—
-  - **(1)** appointing officers and employees (subject to subsection (g)(1));
-  - **(2)** adopting a constitution and bylaws consistent with the purpose of the Foundation under section 3(b) and the other provisions of this Act; and
-  - **(3)** undertaking other such acts as may be necessary to function and to carry out this Act.
-- **(g)** *Officers and employees* Officers and employees of the Foundation—
-  - **(1)** may not be appointed until the Foundation has sufficient funds to pay for their services;
-  - **(2)** shall be appointed without regard to the provisions of title 5, United States Code, governing appointment in the competitive service; and
-  - **(3)** may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+  - **(1)** *In general* The Foundation shall have a governing Board of Directors, which shall consist of no more than 9 members, each of whom shall be a United States citizen.
+  - **(2)** *Requirements of members* Of the appointed members of the Board—
+    - **(A)** at least 3 shall have education or experience in natural, cultural, conservation, or other resource management, law, research, or advocacy;
+    - **(B)** at least 3 shall have education or experience in energy and minerals development, reclamation, or remediation; and
+    - **(C)** up to 3 shall be appointed as at-large members.
+  - **(3)** *Ex officio member* The Director of the Bureau of Land Management, or a designee of the Director of the Bureau of Land Management, shall be an ex officio nonvoting member of the Board.
+- **(b)** *Appointment and terms*
+  - **(1)** *Initial appointment* Not later than 1 year after the date of the enactment of this Act, the Secretary shall appoint the members of the Board in accordance with paragraph (6) who, except as otherwise provided in paragraph (2), shall be appointed for terms of 6 years.
+  - **(2)** *Staggered appointments* In appointing the initial members of the Board, the Secretary shall appoint, as determined to be appropriate by the Secretary—
+    - **(A)** one-third of the members to serve an initial term of 2 years;
+    - **(B)** one-third of the members to serve an initial term of 4 years; and
+    - **(C)** one-third of the members to serve an initial term of 6 years.
+  - **(3)** *Vacancy* A vacancy on the Board shall be—
+    - **(A)** filled not later than 60 days after the vacancy occurs, in the manner of which the original appointment was made; and
+    - **(B)** for the balance of the term of the individual who was replaced.
+  - **(4)** *Removal* A Director may be removed from the Board by a majority vote of the Board if the individual misses 3 consecutive regularly scheduled meetings.
+  - **(5)** *Term limit* In no case may an individual serve more than 12 consecutive years on the Board.
+  - **(6)** *Nominations* The Secretary shall publish a solicitation in the Federal Register seeking nominations from the public of individuals for appointment to the Board. Such solicitation shall be open for a period of 30 days. Nominations submitted shall not be binding, but the Secretary shall give consideration to the names received. Within 30 days after the end of such period, the Secretary shall appoint members who comply with the requirements of subsection (a)(2), and publish the names and backgrounds of those appointed in the Federal Register.
+  - **(7)** *Representation of diverse areas of expertise* In appointing the members of the Board the Secretary shall seek to appoint, and may give preference to, individuals who have experience with State or local government partnerships and represent diverse areas of expertise.
+- **(c)** *Chairman* The Chairman—
+  - **(1)** shall be elected by the Board from its members for a 2-year term; and
+  - **(2)** may be reelected as Chairman while serving as a Director.
+- **(d)** *Quorum* A majority of the current voting membership of the Board shall constitute a quorum for the transaction of business.
+- **(e)** *Meetings* The Board shall meet at the call of the Chairman at least once a year.
+- **(f)** *Reimbursement of expenses* Serving as a Director shall not constitute employment by the United States Government for any purpose. Members of the Board shall serve without pay other than reimbursement for the actual and necessary traveling and subsistence expenses incurred in the performance of their duties for the Foundation in accordance with section 5703 of title 5, United States Code.
+- **(g)** *General powers* The Board may complete the organization of the Foundation by appointing officers and employees, adopting a constitution and bylaws consistent with the purposes of the Foundation and this Act, and undertaking other such acts as may be necessary to function and to carry out the provisions of this title.
+- **(h)** *Officers and employees* Officers and employees of the Foundation may not be appointed until the Foundation has sufficient funds to pay them for their service. Appointment as an officer or employee of the Foundation shall not constitute employment by the United States.
+- **(i)** *Limitation and conflicts of interest*
+  - **(1)** *Prohibition on political campaign activity* The Foundation shall not participate or intervene in a political campaign on behalf of any candidate for public office.
+  - **(2)** *Conflict of interest* No Director, officer, or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any particular matter before the Foundation affecting—
+    - **(A)** the financial interests of that Director, officer, employee, or an immediate family member of such Director, officer, or employee; or
+    - **(B)** the interests of any corporation, partnership, entity, or organization in which such Director, officer, employee, or an immediate family member of such Director, officer, or employee—
+      - **(i)** is an officer, director, or trustee; or
+      - **(ii)** has any direct financial interest.
+  - **(3)** *Limitation on administrative expenditure* Starting in the fifth fiscal year beginning after the date of the enactment of this Act, of the amounts available to the Foundation for expenditure each fiscal year, not more than 15 percent may be used for administrative expenses.
 
-## § 5. Corporate powers and obligations
+## § 5. Powers and obligations
 
 - **(a)** *In general* The Foundation—
-  - **(1)** shall have perpetual succession;
-  - **(2)** may conduct business throughout the several States, territories, and possessions of the United States;
-  - **(3)** shall have a principle office in the metropolitan area of the District of Columbia that shall at all times maintain a designated agent in the District of Columbia to accept service of process for the Foundation; and
-  - **(4)** may maintain as many offices as considered necessary by the Board outside of the metropolitan area of the District of Columbia.
-- **(b)** *Notice and service of process* The serving of notice to, or service of process upon, the agent required under subsection (a)(3), or mailed to the business address of such agent, is deemed as service upon or notice to the Foundation.
+  - **(1)** shall have perpetual succession; and
+  - **(2)** may conduct business throughout the several States, territories, and possessions of the United States.
+- **(b)** *Notice and service of process* The Foundation shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation. The serving of notice to, or service of process upon, the agent required under this subsection, or mailed to the business address of such agent, shall be treated as service upon or notice to the Foundation.
 - **(c)** *Seal* The Foundation shall have an official seal selected by the Board, which shall be judicially noticed.
-- **(d)** *Powers*
-  - **(1)** *In general* To carry out its purpose, the Foundation shall have, in addition to powers otherwise authorized under this Act, the usual powers of a corporation acting as a trustee in the District of Columbia.
-  - **(2)** *Included powers* The powers of the Foundation under this subsection include the power to—
-    - **(A)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
-    - **(B)** unless otherwise required by the instrument of transfer by which the Foundation acquires property, sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income therefrom;
-    - **(C)** borrow money and issue bonds, debentures, or other debt instruments;
-    - **(D)** sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors shall not be personally liable except for gross negligence;
-    - **(E)** enter into contracts or other arrangements with public agencies, private organizations, and persons, and to make such payments as may be necessary to carry out the purposes thereof; and
-    - **(F)** do any and all acts necessary and proper to carry out the purpose of the Foundation under section 3(b).
-- **(e)** *Acquisition of property*
-  - **(1)** *In general* In addition to its powers under subsection (d), the Foundation may acquire, hold, and dispose of lands, waters, or other interests in real property by donation, gift, devise, purchase or exchange.
-  - **(2)** *Exemption from condemnation* No lands or waters, or interest therein, that are owned by the Foundation and are determined by the Secretary to be valuable for energy and mineral production, shall be subject to condemnation by any State or political subdivision, or any agent of instrumentality thereof.
+- **(d)** *Powers* In addition to powers otherwise authorized under this Act, to carry out its purposes the Foundation shall have the usual powers of a not-for-profit corporation in the District of Columbia, including the power to—
+  - **(1)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
+  - **(2)** acquire by donation, gift, devise, purchase, or exchange, and dispose of, any real or personal property or interest therein;
+  - **(3)** sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income therefrom unless limited by the instrument of transfer;
+  - **(4)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, at the request of the donor thereof, strictly and exclusively for any purpose set forth in section 3(b), including expenditure of funds received as a bequest for such a purpose for reasonable administrative expenses related to actions to carry out the bequest;
+  - **(5)** borrow money and issue bonds, debentures, or other debt instruments;
+  - **(6)** sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Board shall not be personally liable, except for gross negligence;
+  - **(7)** enter into contracts or other arrangements with public agencies, private organizations, and persons and to make such payments as may be necessary to carry out the purposes thereof; and
+  - **(8)** do any and all acts necessary and proper to carry out the purposes of the Foundation.
+- **(e)** *Property*
+  - **(1)** *Acceptance of property* A gift, devise, or bequest of real property may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
+  - **(2)** *Refusal of property* The Foundation may, in its discretion, decline any gift, devise, or bequest of real or personal property.
+  - **(3)** *Title and interest in real property* For the purposes of this Act, an interest in real property shall be treated as including mineral and water rights, rights-of-way, and easements, appurtenant or in gross.
+  - **(4)** *Condemnation of real property prohibited* No lands or waters, or interests therein, that are owned by the Foundation shall be subject to condemnation by any State or political subdivision, or any agent of instrumentality thereof.
+  - **(5)** *Limitation on the acquisition of real property* The Foundation shall not use any funds to purchase real property, unless such property is to be used for administrative or support purposes.
 
 ## § 6. Administrative services and support
 
-- **(a)** *Startup funds* For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other startup expenses, the Secretary may provide to the Foundation $2,000,000 from funds appropriated under section 10(a) for each of fiscal years 2016 and 2017. Such funds shall remain available to the Foundation until they are expended.
-- **(b)** *Administrative expenses*
-  - **(1)** *In general* The Secretary may provide the Foundation use of Department of the Interior personnel, facilities, and equipment, subject to such limitations, terms, and conditions as the Secretary shall establish.
-  - **(2)** *Reimbursement* The Secretary—
-    - **(A)** may require the Foundation to reimburse the Secretary for the costs of providing personnel, facilities, and equipment under this subsection; and
-    - **(B)** shall require such reimbursement beginning with expenses incurred by the Foundation after the end of the 5-year period beginning on the date of the enactment of this Act.
+- **(a)** *Establishment support* For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other expenses, there is authorized to be appropriated to the Secretary $3,000,000 for fiscal year 2016, $2,000,000 for each of fiscal years 2017, 2018, and 2019, and $1,000,000 for fiscal year 2020. Amounts appropriated under this subsection that are provided to the Foundation shall remain available to the Foundation until they are expended for authorized purposes.
+- **(b)** *Administrative expenses* The Secretary may provide personnel, facilities, equipment, and other administrative services to the Foundation with such limitations and on such terms and conditions as the Secretary shall establish. The Foundation may reimburse the Secretary for any support provided under this subsection, in whole or in part, and any reimbursement received by the Secretary under this subsection shall be deposited into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
 
-## § 7. Audits and activities summary
+## § 7. Volunteers
+
+The Secretary may accept, without regard to the civil service classification laws, rules, and regulations, the services of the Foundation, the Board, and the offices, employees, or agents of the Foundation, without compensation from the Department of the Interior, as volunteers for the performance of the functions under section 307(d) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1737(d)).
+
+## § 8. Audits and reports requirements
 
 - **(a)** *Audits* For purposes of section 10101 of title 36, United States Code, the Foundation shall be treated as a corporation in part B of subtitle II of such title.
-- **(b)** *Activities summary* The Foundation shall, within 60 days after the end of each fiscal year, transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a summary of its proceedings and activities during such fiscal year, including—
+- **(b)** *Annual report* The Foundation shall transmit at the end of each fiscal year a report to Congress of its proceedings and activities during that fiscal year, including—
   - **(1)** a full and complete statement of its receipts, expenditures, and investments;
   - **(2)** a description of all acquisition and disposal of real property by the Foundation;
-  - **(3)** a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation;
-  - **(4)** copies of all minutes of Board meetings;
-  - **(5)** a copy of the Foundation bylaws; and
-  - **(6)** a copy of the audit for such fiscal year.
-
-## § 8. Relief with respect to certain Foundation acts or failure to act
-
-The Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate if the Foundation—
-
-- **(1)** engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purpose set forth in section 3(b); or
-- **(2)** refuses, fails, or neglects to discharge its obligations under this Act, or threatens to do so.
+  - **(3)** a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation; and
+  - **(4)** a copy of any audit prepared for the Foundation in the previous fiscal year.
 
 ## § 9. United States release from liability
 
 The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation, nor shall the full faith and credit of the United States extend to any obligations of the Foundation.
 
-## § 10. Authorization of Appropriations
+## § 10. Relief with respect to certain foundation acts or failure to act
 
-- **(a)** *Startup funds* There is authorized to be appropriated to the Secretary $4,000,000 to carry out section 6(a).
-- **(b)** *Matching funds* There is authorized to be appropriated to the Secretary $3,000,000 for each of fiscal years 2016 through 2020, which shall be made available by the Secretary to the Foundation to match, on a one-for-one basis, private contributions made to the Foundation.
+The Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate if the Foundation engages in any act, practice, or policy that is inconsistent with this Act or the bylaws of the Foundation.
+
+## § 11. Limitation on authority
+
+Nothing in this Act authorizes the Foundation to perform any function the authority for which is exclusively provided to the BLM under any other provision of law.
+
+## § 12. Limitations on use of funds
+
+Amounts available to, or provided by, the Foundation shall not be used for—
+
+- **(1)** any activity the purpose of which is to influence legislation pending before Congress; or
+- **(2)** any activity inconsistent with this Act.
