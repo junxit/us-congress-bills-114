@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5244
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5244
@@ -29,3 +29,12 @@ Saint Francis Dam Disaster National Memorial Act
 - 2016-05-16 — Introduced in House
 - 2016-05-16 — Introduced in House
 - 2016-05-16 — Referred to the House Committee on Natural Resources.
+- 2016-05-18 — Referred to the Subcommittee on Federal Lands.
+- 2016-05-24 — Subcommittee Hearings Held.
+- 2016-06-14 — Committee Consideration and Mark-up Session Held.
+- 2016-06-14 — Subcommittee on Federal Lands Discharged.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-07-01 — Placed on the Union Calendar, Calendar No. 502.
+- 2016-07-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-650.
+- 2016-07-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-650.

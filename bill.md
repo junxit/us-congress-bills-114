@@ -35,7 +35,7 @@ Congress finds the following:
 
 ## § 4. Recommendations for Memorial
 
-- **(a)** *In general* Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit to Congress recommendations regarding—
+- **(a)** *In general* Not later than 3 years after the date of the enactment of this Act, the Secretary shall submit to Congress recommendations regarding—
   - **(1)** the planning, design, construction, and long-term management of the Memorial;
   - **(2)** the proposed boundaries of the Memorial;
   - **(3)** a visitor center and educational facilities at the Memorial; and
@@ -47,15 +47,13 @@ Congress finds the following:
 
 ## § 5. Establishment of Saint Francis Dam Disaster National Monument
 
-- **(a)** *Establishment* There is established as a national monument in the State, certain National Forest System land administered by the Secretary in the County of Los Angeles comprising approximately 440 acres, as generally depicted on the map entitled “Proposed Saint Francis Dam National Monument”, and dated June 18, 2015, to be known as the Saint Francis Dam Disaster National Monument.
+- **(a)** *Establishment* There is established as a national monument in the State, certain National Forest System land administered by the Secretary in the County of Los Angeles comprising approximately 440 acres, as generally depicted on the map entitled “Proposed Saint Francis Dam Disaster National Monument”, created on June 14, 2016, to be known as the Saint Francis Dam Disaster National Monument.
 - **(b)** *Purpose* The purpose of the Monument is to conserve and enhance for the benefit and enjoyment of the public the cultural, archaeological, historical, watershed, educational, and recreational resources and values of the Monument.
 
 ## § 6. Duties of the Secretary with respect to Monument
 
 - **(a)** *Management plan*
-  - **(1)** *In general* Not later than 3 years after the date of the enactment of this Act, the Secretary shall develop—
-    - **(A)** a management plan for the Monument; and
-    - **(B)** a watershed health assessment for the Monument to identify opportunities for watershed restoration.
+  - **(1)** *In general* Not later than 4 years after the date of the enactment of this Act, the Secretary shall develop a management plan for the Monument.
   - **(2)** *Consultation* The management plan shall be developed in consultation with—
     - **(A)** appropriate Federal agencies;
     - **(B)** State, tribal, and local governments; and
