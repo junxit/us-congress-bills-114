@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5385
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -84,7 +84,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 347` | insert | in paragraph (2), by inserting before the semicolon at the end the following: “based on the risk assessment required pursuant to subsection (c)(2)(B)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | insert | by inserting “, to the extent practicable,” after “describe”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 347` | insert | by inserting “, to the extent practicable,” after “identify”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 347` | insert | by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 347` | replace | by striking the semicolan after “paragraph (2)” and inserting “, including any resources identified from redundant, wasteful, or unnecessary capabilities and capacities that can be redirected to better support other existing capabilities… | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 347` | replace | in paragraph (5), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 347` | strike | by striking paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | insert | in subparagraph (C), by inserting “, as required under subsection (b)(2)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
@@ -93,7 +93,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 347` | strike | by striking “the status of”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 347` | insert | by inserting “to the extent practicable,” before “a discussion”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 347` | strike | by striking “the status of”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 347` | insert | by inserting “and risks” before “to the national homeland”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 347` | insert | by inserting “and risks” before “to national homeland”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 347` | insert | by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 347` | strike | by striking subparagraph (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | redesignate | by redesignating subparagraph (I) as subparagraph (H); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -30,7 +30,7 @@ This Act may be cited as the “Quadrennial Homeland Security Review Technical C
     - **(C)** in paragraph (4)—
       - **(i)** by inserting “, to the extent practicable,” after “identify”;
       - **(ii)** by striking “budget plan required to provide sufficient resources to successfully” and inserting “resources required to”; and
-      - **(iii)** by inserting “and” after the semicolon;
+      - **(iii)** by striking the semicolan after “paragraph (2)” and inserting “, including any resources identified from redundant, wasteful, or unnecessary capabilities and capacities that can be redirected to better support other existing capabilities and capacities; and”;
     - **(D)** in paragraph (5), by striking “; and” and inserting a period; and
     - **(E)** by striking paragraph (6);
   - **(3)** in subsection (c)—
@@ -47,7 +47,7 @@ This Act may be cited as the “Quadrennial Homeland Security Review Technical C
       - **(v)** in subparagraph (G)—
         - **(I)** by inserting “to the extent practicable,” before “a discussion”;
         - **(II)** by striking “the status of”;
-        - **(III)** by inserting “and risks” before “to the national homeland”; and
+        - **(III)** by inserting “and risks” before “to national homeland”; and
         - **(IV)** by inserting “and” after the semicolon;
       - **(vi)** by striking subparagraph (H); and
       - **(vii)** by redesignating subparagraph (I) as subparagraph (H);
