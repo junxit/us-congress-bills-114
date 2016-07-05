@@ -26,14 +26,11 @@ In this Act:
 - **(a)** *In general* There is established a commission, to be known as the “400 Years of African-American History Commission”.
 - **(b)** *Membership*
   - **(1)** *Composition* The Commission shall be composed of 15 members, of whom—
-    - **(A)** 3 members shall be appointed by the Secretary, after considering the recommendations of the Governor of Virginia;
-    - **(B)** 1 member shall be appointed by the Secretary, after considering the recommendations of the Chairman of the Committee on Energy and Natural Resources of the Senate;
-    - **(C)** 4 members shall be appointed by the Secretary, after considering the recommendations of—
-      - **(i)** civil rights organizations; and
-      - **(ii)** historical organizations;
-    - **(D)** 1 member shall be an employee of the National Park Service having experience relevant to the historical resources relating to the commemoration, to be appointed by the Secretary;
-    - **(E)** 2 members shall be appointed by the Secretary, after considering the recommendations of the Secretary of the Smithsonian Institution; and
-    - **(F)** 4 members shall be individuals who have an interest in, support for, and expertise appropriate to the commemoration, to be appointed by the Secretary, after considering the recommendations of Members of Congress.
+    - **(A)** three members shall be appointed by the Secretary after considering recommendations of Governors, including the Governor of Virginia;
+    - **(B)** six members shall be appointed by the Secretary after considering recommendations of civil rights organizations and historical organizations;
+    - **(C)** one member shall be an employee of the National Park Service having experience relative to the historical and cultural resources related to the commemoration, to be appointed by the Secretary;
+    - **(D)** two members shall be appointed by the Secretary after considering the recommendations of the Secretary of the Smithsonian Institution; and
+    - **(E)** three members shall be individuals who have an interest in, support for, and expertise appropriate to the commemoration, appointed by the Secretary after considering the recommendations of Members of Congress.
   - **(2)** *Time of appointment* Each appointment of an initial member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act.
   - **(3)** *Term; vacancies*
     - **(A)** *Term* A member of the Commission shall be appointed for the life of the Commission.
@@ -63,7 +60,7 @@ In this Act:
 
 - **(a)** *Initial meeting* Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
 - **(b)** *Meetings* The Commission shall meet—
-  - **(1)** at least 3 times each year; or
+  - **(1)** at least three times each year; or
   - **(2)** at the call of the Chairperson or the majority of the members of the Commission.
 - **(c)** *Quorum* A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings.
 - **(d)** *Chairperson and vice chairperson*
@@ -119,12 +116,7 @@ In this Act:
   - **(2)** a final accounting of funds received and expended by the Commission; and
   - **(3)** the findings and recommendations of the Commission.
 
-## § 8. Authorization of appropriations
-
-- **(a)** *In general* There are authorized to be appropriated to the Commission such sums as are necessary to carry out this Act.
-- **(b)** *Availability* Amounts made available under subsection (a) shall remain available until July 1, 2020.
-
-## § 9. Termination of Commission
+## § 8. Termination of Commission
 
 - **(a)** *Date of termination* The Commission shall terminate on July 1, 2020.
 - **(b)** *Transfer of documents and materials* Before the date of termination specified in subsection (a), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.

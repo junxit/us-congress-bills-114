@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4539
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4539
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (51)
+## Cosponsors (65)
 
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
@@ -69,6 +69,20 @@ version: Introduced in House
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Duckworth, Tammy [D-IL-8] (D000622)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Brown, Corrine [D-FL-5] (B000911)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
 
 ## Committees (1)
 
@@ -79,3 +93,9 @@ version: Introduced in House
 - 2016-02-11 — Introduced in House
 - 2016-02-11 — Introduced in House
 - 2016-02-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-07-05 — Considered under suspension of the rules. (consideration: CR H4260-4263)
+- 2016-07-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4539.
+- 2016-07-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-05 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4260-4262)
+- 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4260-4262)
