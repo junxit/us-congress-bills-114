@@ -74,7 +74,11 @@ Congress finds the following:
     - **(A)** subject to all applicable laws (including regulations and Executive orders); and
     - **(B)** consistent with the purpose described in section 5(b).
 
-## § 7. Definitions
+## § 7. Clarification on funding
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
+
+## § 8. Definitions
 
 In this Act:
 
