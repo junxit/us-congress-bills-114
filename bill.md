@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3844
 
-> To establish the Energy and Minerals Reclamation Foundation to encourage, obtain, and use gifts, devises, and bequests for projects to reclaim abandoned mine lands and orphan oil and gas well sites, and for other purposes.
+> To establish the Bureau of Land Management Foundation to encourage, obtain, and use gifts, devises, and bequests for projects for the benefit of, or in connection with, activities and services of the Bureau of Land Management, and for other purposes.
 
 ## § 1. Short title
 
@@ -58,11 +58,11 @@ In this Act:
 ## § 4. Board of Directors
 
 - **(a)** *Establishment and membership*
-  - **(1)** *In general* The Foundation shall have a governing Board of Directors, which shall consist of no more than 9 members, each of whom shall be a United States citizen.
+  - **(1)** *In general* The Foundation shall have a governing Board of Directors, which shall consist of no more than nine members, each of whom shall be a United States citizen.
   - **(2)** *Requirements of members* Of the appointed members of the Board—
-    - **(A)** at least 3 shall have education or experience in natural, cultural, conservation, or other resource management, law, research, or advocacy;
-    - **(B)** at least 3 shall have education or experience in energy and minerals development, reclamation, or remediation; and
-    - **(C)** up to 3 shall be appointed as at-large members.
+    - **(A)** at least three shall have education or experience in natural, cultural, conservation, or other resource management, law, research, or advocacy;
+    - **(B)** at least three shall have education or experience in energy and minerals development, reclamation, or remediation; and
+    - **(C)** up to three shall be appointed as at-large members.
   - **(3)** *Ex officio member* The Director of the Bureau of Land Management, or a designee of the Director of the Bureau of Land Management, shall be an ex officio nonvoting member of the Board.
 - **(b)** *Appointment and terms*
   - **(1)** *Initial appointment* Not later than 1 year after the date of the enactment of this Act, the Secretary shall appoint the members of the Board in accordance with paragraph (6) who, except as otherwise provided in paragraph (2), shall be appointed for terms of 6 years.
@@ -73,7 +73,7 @@ In this Act:
   - **(3)** *Vacancy* A vacancy on the Board shall be—
     - **(A)** filled not later than 60 days after the vacancy occurs, in the manner of which the original appointment was made; and
     - **(B)** for the balance of the term of the individual who was replaced.
-  - **(4)** *Removal* A Director may be removed from the Board by a majority vote of the Board if the individual misses 3 consecutive regularly scheduled meetings.
+  - **(4)** *Removal* A Director may be removed from the Board by a majority vote of the Board if the individual misses three consecutive regularly scheduled meetings.
   - **(5)** *Term limit* In no case may an individual serve more than 12 consecutive years on the Board.
   - **(6)** *Nominations* The Secretary shall publish a solicitation in the Federal Register seeking nominations from the public of individuals for appointment to the Board. Such solicitation shall be open for a period of 30 days. Nominations submitted shall not be binding, but the Secretary shall give consideration to the names received. Within 30 days after the end of such period, the Secretary shall appoint members who comply with the requirements of subsection (a)(2), and publish the names and backgrounds of those appointed in the Federal Register.
   - **(7)** *Representation of diverse areas of expertise* In appointing the members of the Board the Secretary shall seek to appoint, and may give preference to, individuals who have experience with State or local government partnerships and represent diverse areas of expertise.
@@ -105,7 +105,7 @@ In this Act:
   - **(1)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
   - **(2)** acquire by donation, gift, devise, purchase, or exchange, and dispose of, any real or personal property or interest therein;
   - **(3)** sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income therefrom unless limited by the instrument of transfer;
-  - **(4)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, at the request of the donor thereof, strictly and exclusively for any purpose set forth in section 3(b), including expenditure of funds received as a bequest for such a purpose for reasonable administrative expenses related to actions to carry out the bequest;
+  - **(4)** accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, at the request of the donor thereof, strictly and exclusively for any purpose set forth in section 3(b), and such use shall include the expenditure of funds or use of property for reasonable administrative expenses related to actions to carry out the bequest;
   - **(5)** borrow money and issue bonds, debentures, or other debt instruments;
   - **(6)** sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Board shall not be personally liable, except for gross negligence;
   - **(7)** enter into contracts or other arrangements with public agencies, private organizations, and persons and to make such payments as may be necessary to carry out the purposes thereof; and
@@ -115,12 +115,12 @@ In this Act:
   - **(2)** *Refusal of property* The Foundation may, in its discretion, decline any gift, devise, or bequest of real or personal property.
   - **(3)** *Title and interest in real property* For the purposes of this Act, an interest in real property shall be treated as including mineral and water rights, rights-of-way, and easements, appurtenant or in gross.
   - **(4)** *Condemnation of real property prohibited* No lands or waters, or interests therein, that are owned by the Foundation shall be subject to condemnation by any State or political subdivision, or any agent of instrumentality thereof.
-  - **(5)** *Limitation on the acquisition of real property* The Foundation shall not use any funds to purchase real property, unless such property is to be used for administrative or support purposes.
+  - **(5)** *Limitation on the acquisition of real property* The Foundation shall not use any funds to purchase real property, unless such property is to be used by the Foundation for administrative or other support purposes or is an easement for right-of-way access necessary to utilize, manage, or otherwise dispose of any bequest or gift of real property to the Foundation.
 
 ## § 6. Administrative services and support
 
-- **(a)** *Establishment support* For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other expenses, there is authorized to be appropriated to the Secretary $3,000,000 for fiscal year 2016, $2,000,000 for each of fiscal years 2017, 2018, and 2019, and $1,000,000 for fiscal year 2020. Amounts appropriated under this subsection that are provided to the Foundation shall remain available to the Foundation until they are expended for authorized purposes.
-- **(b)** *Administrative expenses* The Secretary may provide personnel, facilities, equipment, and other administrative services to the Foundation with such limitations and on such terms and conditions as the Secretary shall establish. The Foundation may reimburse the Secretary for any support provided under this subsection, in whole or in part, and any reimbursement received by the Secretary under this subsection shall be deposited into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
+- **(a)** *Establishment support* For fiscal years 2017 through 2019, the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation for the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other expenses in conformance with this Act.
+- **(b)** *Administrative services* The Secretary may provide personnel, facilities, equipment, and other administrative services to the Foundation with such limitations and on such terms and conditions as the Secretary shall establish. The Foundation may reimburse the Secretary for any support provided under this subsection, in whole or in part, and any reimbursement received by the Secretary under this subsection shall be deposited into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
 
 ## § 7. Volunteers
 
@@ -153,3 +153,7 @@ Amounts available to, or provided by, the Foundation shall not be used for—
 
 - **(1)** any activity the purpose of which is to influence legislation pending before Congress; or
 - **(2)** any activity inconsistent with this Act.
+
+## § 13. Clarification on funding
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
