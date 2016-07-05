@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1838
 
-> To establish the Clear Creek National Recreation Area in San Benito and Fresno Counties, California, to designate the Joaquin Rocks Wilderness in such counties, to designate additional components of the National Wild and Scenic Rivers System, and for other purposes.
+> To establish the Clear Creek National Recreation Area in San Benito and Fresno Counties, California, to designate the Joaquin Rocks Wilderness in such counties, and for other purposes.
 
 ## § 1. Short title
 
@@ -85,9 +85,9 @@ In this Act:
   - **(1)** all forms of entry, appropriation, and disposal under the public land laws;
   - **(2)** location, entry, and patenting under the mining laws; and
   - **(3)** operation of the mineral leasing, mineral materials, and geothermal leasing laws.
-- **(l)** *Fees* Amounts received by the Secretary under the fee structure required by subsection (c)(3)(G) shall be—
+- **(l)** *Fees* Amounts received by the Secretary under the fee structure required by subsection (d)(4) shall be—
   - **(1)** deposited in a special account in the Treasury of the United States; and
-  - **(2)** made available until expended, without further appropriation, to the Secretary for use in the Recreation Area.
+  - **(2)** made available until expended to the Secretary for use in the Recreation Area.
 - **(m)** *Risk Standard* The National Oil and Hazardous Substances Pollution Contingency Plan (section 300 of title 40, Code of Federal Regulations), published pursuant to section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), shall not apply to the Secretary’s management of asbestos exposure risks faced by the public when recreating within the Clear Creek Recreation Area described in section 3(b).
 
 ## § 5. Joaquin Rocks Wilderness
@@ -98,3 +98,7 @@ In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the approximatel
 
 - **(a)** *Finding* Congress finds that, for the purposes of section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782), the San Benito Mountain wilderness study area has been adequately studied for wilderness designation.
 - **(b)** *Release* The San Benito Mountain wilderness study area is no longer subject to section 603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)).
+
+## § 7. Clarification regarding funding
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.

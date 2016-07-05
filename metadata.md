@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1838
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1838
@@ -40,3 +40,10 @@ Clear Creek National Recreation Area and Conservation Act
 - 2016-05-23 — Placed on the Union Calendar, Calendar No. 455.
 - 2016-05-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-585.
 - 2016-05-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-585.
+- 2016-07-05 — Considered under suspension of the rules. (consideration: CR H4253-4255)
+- 2016-07-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1838.
+- 2016-07-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-05 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
+- 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4253-4254)
+- 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4253-4254)
+- 2016-07-05 — The title of the measure was amended. Agreed to without objection.
