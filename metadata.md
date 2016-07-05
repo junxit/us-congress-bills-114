@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2273
@@ -34,3 +34,10 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 - 2016-03-14 — Placed on the Union Calendar, Calendar No. 345.
 - 2016-03-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-450.
 - 2016-03-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-450.
+- 2016-07-05 — Considered under suspension of the rules. (consideration: CR H4251-4252)
+- 2016-07-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2273.
+- 2016-07-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-05 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
+- 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4251)
+- 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4251)
+- 2016-07-05 — The title of the measure was amended. Agreed to without objection.

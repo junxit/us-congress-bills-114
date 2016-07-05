@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2273
 
-> To amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.
+> To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir.
 
 ## § 1. Authority to make entire active capacity of Fontenelle Reservoir available for use
 
