@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5210
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+21 amendatory instructions. 4 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1396a
+
+> Section 1902(a)(41) of the Social Security Act (42 U.S.C. 1396a(a)(41)) is amended by striking “provide that whenever” and inserting “provide, in accordance with subsection (kk)(8) (as applicable), that whenever”.
+
+| | |
+|---|---|
+| Removed | `provide that whenever` |
+| Inserted | `provide, in accordance with subsection (kk)(8) (as applicable), that whenever` |
+
+### 42 U.S.C. § 1397gg
+
+> in subparagraph (P) (as redesignated by subparagraph (A)), by striking “(a)(2)(C) and (h)” and inserting “(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)”.
+
+| | |
+|---|---|
+| Removed | `(a)(2)(C) and (h)` |
+| Inserted | `(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)` |
+
+### 42 U.S.C. § 1396a
+
+> Section 1902(a)(39) of the Social Security Act (42 U.S.C. 1396a(a)(39)) is amended by striking “title XVIII or any other State plan under this title” and inserting “title XVIII, any other State plan under this title (or waiver of the plan), or any State child health plan under title XXI (or waiver of the plan)”.
+
+| | |
+|---|---|
+| Removed | `title XVIII or any other State plan under this title` |
+| Inserted | `title XVIII, any other State plan under this title (or waiver of the plan), or any State child health plan under title XXI (or waiver of the plan)` |
+
+### 42 U.S.C. § 1395iii
+
+> Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$0” and inserting “$3,000,000”.
+
+| | |
+|---|---|
+| Removed | `$0` |
+| Inserted | `$3,000,000` |
 
 ## Stated, not applied
 
@@ -31,7 +69,20 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395w-3` | insert | by inserting “, subject to subparagraph (E),” after “subsection (a)(2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | insert | by inserting “, subject to subparagraph (E),” after “Based on such bids”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(a)(1)(G) of the Social Security Act (42 U.S.C. 1395m(a)(1)(G)) is amended by adding at the end the following new sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | redesignate | by redesignating paragraph (8) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (7) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396u-2` | add-at-end | Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | replace | in subparagraph (A), by striking the comma at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | strike | in subparagraph (B), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | in subsection (m), by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended by inserting after paragraph (77) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396u-2` | add-at-end | Section 1932(d) of the Social Security Act (42 U.S.C. 1396u–2(d)), as amended by subsection (a)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | redesignate | by redesignating subparagraphs (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (L), (M), (N), and (O) as subparagraphs (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (O), (P), (Q), and (R), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | insert | by inserting after subparagraph (A) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | redesignate | by inserting after subparagraph (K) (as redesignated by subparagraph (A)) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | strike | in paragraph (80), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | replace | in paragraph (81), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (81) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a), as amended by section 2(a)(3), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
