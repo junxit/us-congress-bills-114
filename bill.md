@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3590
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,4 +19,4 @@ This Act may be cited as the “Halt Tax Increases on the Middle Class and Senio
 - **(b)** *Conforming amendments*
   - **(1)** Section 213 of such Code is amended by striking subsection (f).
   - **(2)** Section 56(b)(1)(B) of such Code is amended by striking “without regard to subsection (f) of such section” and inserting “by substituting “10 percent” for “7.5 percent””.
-- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2014.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2015.
