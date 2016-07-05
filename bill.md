@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 210
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Student Worker Exemption Act of 2015”.
+This Act may be cited as the “Student Worker Exemption Act of 2016”.
 
 ## § 2. Student workers exempted from determination of higher education institution’s employer health care shared responsibility
 
@@ -22,4 +22,4 @@ This Act may be cited as the “Student Worker Exemption Act of 2015”.
   >     - **(i)** is employed by such institution, and
   >     - **(ii)** is a student enrolled at the institution and is carrying a full-time academic workload, as determined by the institution, under a standard applicable to all students enrolled in a particular educational program.
 
-- **(b)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2014.
+- **(b)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2015.
