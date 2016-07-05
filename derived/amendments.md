@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4854
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 80a-3` | insert | by inserting after “one hundred persons” the following: “(or, with respect to a qualifying venture capital fund, 500 persons)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-3` | insert | by inserting after “one hundred persons” the following: “(or, with respect to a qualifying venture capital fund, 250 persons)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80b-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -17,6 +17,6 @@ This Act may be cited as the “Supporting America’s Innovators Act of 2016”
 
 Section 3(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)) is amended—
 
-- **(1)** by inserting after “one hundred persons” the following: “(or, with respect to a qualifying venture capital fund, 500 persons)”; and
+- **(1)** by inserting after “one hundred persons” the following: “(or, with respect to a qualifying venture capital fund, 250 persons)”; and
 - **(2)** by adding at the end the following:
-  > - **(C)** The term “qualifying venture capital fund” means any venture capital fund (as defined pursuant to section 203(l)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(l)(1)) that does not purchase more than $10,000,000 in securities of any one issuer, as such dollar amount is annually adjusted by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+  > - **(C)** The term “qualifying venture capital fund” means any venture capital fund (as defined pursuant to section 203(l)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(l)(1)) with no more than $10,000,000 in invested capital, as such dollar amount is annually adjusted by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
