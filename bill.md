@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Senior Safe Act of 2016”.
+This Act may be cited as the “Senior$afe Act of 2016”.
 
 ## § 2. Immunity
 
@@ -19,31 +19,28 @@ This Act may be cited as the “Senior Safe Act of 2016”.
   - **(1)** the term “Bank Secrecy Act Officer” means an individual responsible for ensuring compliance with the requirements mandated by subchapter II of chapter 53 of title 31, United States Code;
   - **(2)** the term “broker-dealer” means a broker or dealer, as those terms are defined, respectively, in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a));
   - **(3)** the term “covered agency” means—
-    - **(A)** a State financial regulatory agency, including a State securities or law enforcement authority and a State insurance regulator;
+    - **(A)** a State financial regulatory agency, including a State securities or law enforcement authority;
     - **(B)** each of the Federal financial institutions regulatory agencies;
     - **(C)** the Securities and Exchange Commission;
-    - **(D)** a law enforcement agency;
-    - **(E)** and State or local agency responsible for administering adult protective service laws; and
-    - **(F)** a State attorney general.
+    - **(D)** a law enforcement agency; and
+    - **(E)** and State or local agency responsible for administering adult protective service laws;
   - **(4)** the term “covered financial institution” means—
     - **(A)** a credit union;
     - **(B)** a depository institution;
     - **(C)** an investment advisor;
-    - **(D)** a broker-dealer;
-    - **(E)** an insurance company; and
-    - **(F)** a State attorney general.
-  - **(5)** the term “credit union” means a Federal credit union, State credit union, or State-chartered credit union, as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752);
-  - **(6)** the term “depository institution” has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c));
+    - **(D)** a broker-dealer; and
+    - **(E)** an insurance company;
+  - **(5)** the term “credit union” has the meaning given that term in section 2 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301);
+  - **(6)** the term “depository institution” has the meaning given the term in section 3(a) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a));
   - **(7)** the term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that—
     - **(A)** uses the resources of a senior citizen for monetary personal benefit, profit, or gain; or
     - **(B)** results in depriving a senior citizen of rightful access to or use of benefits, resources, belongings or assets;
   - **(8)** the term “Federal financial institutions regulatory agencies” has the meaning given the term in section 1003 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3302);
-  - **(9)** the term “investment adviser” has the meaning given the term in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2);
+  - **(9)** the term “investment adviser” has the meaning given the term in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2);
   - **(10)** the term “insurance company” has the meaning given the term in section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a));
   - **(11)** the term “registered representative” means an individual who represents a broker-dealer in effecting or attempting to affect a purchase or sale of securities;
-  - **(12)** the term “senior citizen” means an individual who is not less than 65 years of age;
-  - **(13)** the term “State insurance regulator” has the meaning given such term in section 315 of the Gramm-Leach-Bliley Act (15 U.S.C. 6735); and
-  - **(14)** the term “State securities or law enforcement authority” has the meaning given the term in section 24(f)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(f)(4)).
+  - **(12)** the term “senior citizen” means an individual who is not less than 65 years of age; and
+  - **(13)** the term “State securities or law enforcement authority” has the meaning given the term in section 24(f)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(f)(4)).
 - **(b)** *Immunity from suit*
   - **(1)** *Immunity for individuals* An individual who has received the training described in section 3 shall not be liable, including in any civil or administrative proceeding, for disclosing the possible exploitation of a senior citizen to a covered agency if the individual, at the time of the disclosure—
     - **(A)** served as a supervisor, compliance officer (including a Bank Secrecy Act Officer), or registered representative for a covered financial institution; and
