@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “United States Sem­i­quin­cen­ten­ni­al Commission Act of 2016”.
+This Act may be cited as the “United States Semiquincentennial Commission Act of 2016”.
 
 ## § 2. Findings; purpose
 
@@ -32,20 +32,20 @@ In this Act:
 
 ## § 4. Establishment of Commission
 
-- **(a)** *In general* There is established a commission, to be known as the “United States Sem­i­quin­cen­ten­ni­al Commission”, to plan, encourage, develop, and coordinate the commemoration of the history of the United States leading up to the 250th anniversary of the founding of the United States.
+- **(a)** *In general* There is established a commission, to be known as the “United States Semiquincentennial Commission”, to plan, encourage, develop, and coordinate the commemoration of the history of the United States leading up to the 250th anniversary of the founding of the United States.
 - **(b)** *Composition* The Commission shall be composed of the following members:
-  - **(1)** 4 members of the Senate, of whom—
-    - **(A)** 2 shall be appointed by the majority leader of the Senate; and
-    - **(B)** 2 shall be appointed by the minority leader of the Senate.
-  - **(2)** 4 members of the House of Representatives, of whom—
-    - **(A)** 2 shall be appointed by the Speaker of the House of Representatives; and
-    - **(B)** 2 shall be appointed by the minority leader of the House of Representatives.
-  - **(3)** 16 members who are private citizens, of whom—
-    - **(A)** 4 shall be appointed by the majority leader of the Senate;
-    - **(B)** 4 shall be appointed by the minority leader of the Senate;
-    - **(C)** 4 shall be appointed by the Speaker of the House of Representatives;
-    - **(D)** 4 shall be appointed by the minority leader of the House of Representatives; and
-    - **(E)** 1 of whom shall be designated by the President as the Chairperson.
+  - **(1)** Four members of the Senate, of whom—
+    - **(A)** two shall be appointed by the majority leader of the Senate; and
+    - **(B)** two shall be appointed by the minority leader of the Senate.
+  - **(2)** Four members of the House of Representatives, of whom—
+    - **(A)** two shall be appointed by the Speaker of the House of Representatives; and
+    - **(B)** two shall be appointed by the minority leader of the House of Representatives.
+  - **(3)** Sixteen members who are private citizens, of whom—
+    - **(A)** four shall be appointed by the majority leader of the Senate;
+    - **(B)** four shall be appointed by the minority leader of the Senate;
+    - **(C)** four shall be appointed by the Speaker of the House of Representatives;
+    - **(D)** four shall be appointed by the minority leader of the House of Representatives; and
+    - **(E)** one of whom shall be designated by the President as the Chairperson.
   - **(4)** The following nonvoting ex officio members:
     - **(A)** The Secretary.
     - **(B)** The Secretary of State.
@@ -86,7 +86,7 @@ In this Act:
     - **(C)** coordinate with State and local bodies to make necessary infrastructure improvements.
 - **(c)** *Report submitted to the President*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
-  - **(2)** *Recommended activities* The report may include recommend activities such as—
+  - **(2)** *Recommended activities* The report may include recommended activities such as—
     - **(A)** the production, publication, and distribution of books, pamphlets, films, and other educational materials focusing on the history, culture, and political thought of the period of the American Revolution;
     - **(B)** bibliographical and documentary projects and publications;
     - **(C)** conferences, convocations, lectures, seminars, and other programs, especially those located in the 13 colonies, including the major cities and buildings of national historical significance of the 13 colonies;
@@ -137,7 +137,7 @@ In this Act:
 - **(e)** *Additional powers* As determined necessary by the Commission, the Commission may—
   - **(1)** procure supplies, services, and property;
   - **(2)** make contracts;
-  - **(3)** expend in furtherance of this Act funds appropriated, donated, or received in pursuance of contracts entered into under this Act; and
+  - **(3)** expend in furtherance of this Act funds donated or received in pursuance of contracts entered into under this Act; and
   - **(4)** take such actions as are necessary to enable the Commission to carry out efficiently and in the public interest the purposes of this Act.
 - **(f)** *Use of materials*
   - **(1)** *Time capsule* A representative portion of all books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other materials relating to the United States Semiquincentennial shall be deposited in a time capsule—
@@ -166,10 +166,8 @@ In this Act:
 
 ## § 9. Expenditures of Commission
 
-- **(a)** *In general* All expenditures of the Commission shall be made solely from—
-  - **(1)** donated funds; and
-  - **(2)** funds specifically appropriated for the Commission.
-- **(b)** *Administrative secretariat* The Commission shall seek to enter into an arrangement with USA 250, Incorporated, under which USA 250, Incorporated, shall—
+- **(a)** *In general* All expenditures of the Commission shall be made solely from donated funds.
+- **(b)** *Administrative secretariat* The Secretary of the Interior shall, through a competitive process, seek to enter into an arrangement with a nonprofit organization, the mission of which is consistent with the purpose of this Act. Under such arrangement, such nonprofit organization shall—
   - **(1)** serve as the secretariat of the Commission, including by serving as the point of contact under section 5(e);
   - **(2)** house the administrative offices of the Commission;
   - **(3)** assume responsibility for funds of the Commission; and
@@ -178,8 +176,7 @@ In this Act:
   - **(1)** *In general* Subject to paragraph (2), payment for services provided under subsection (b)(4) shall be made in advance, or by reimbursement, from funds of the Commission in such amounts as may be agreed on by the Chairperson of the Commission and the secretariat of the Commission.
   - **(2)** *Relationship to regulations*
     - **(A)** *Erroneous payments* The regulations under section 5514 of title 5, United States Code, relating to the collection of indebtedness of personnel resulting from erroneous payments shall apply to the collection of erroneous payments made to, or on behalf of, a Commission employee.
-    - **(B)** *Appropriations* The regulations under sections 1513(d) and 1514 of title 31, United States Code, relating to the administrative control of funds, shall apply to appropriations of the Commission.
-    - **(C)** *No promulgation by Commission* The Commission shall not be required to prescribe any regulations relating to the matters described in subparagraphs (A) and (B).
+    - **(B)** *No promulgation by Commission* The Commission shall not be required to prescribe any regulations relating to the matters described in subparagraph (A).
 - **(d)** *Annual report* Once each year during the period beginning on the date of enactment of this Act and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
 
 ## § 10. Termination of Commission
