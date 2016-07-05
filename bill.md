@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3080
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Tribal Employment and Jobs Protection Act”.
 ## § 2. Exception to employer health insurance mandate for Indian tribal governments and tribally owned businesses
 
 - **(a)** *In general* Section 4980H(c)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
-  > - **(F)** *Exception for Indian tribal governments and tribally owned businesses*
+  > - **(G)** *Exception for Indian tribal governments and tribally owned businesses*
   >   - **(i)** *In general* The term “applicable large employer” shall not include any tribal employer.
   >   - **(ii)** *Tribal employer* For purposes of this subparagraph, the term “tribal employer” means—
   >     - **(I)** any Indian tribal government (as defined in section 7701(a)(40)) or subdivision thereof, or any agency or instrumentality of either,
@@ -24,4 +24,4 @@ This Act may be cited as the “Tribal Employment and Jobs Protection Act”.
   >     - **(III)** any corporation if more than 50 percent (determined by vote and value) of the outstanding stock of such corporation is owned, directly or indirectly, by any entity described in subclause (I) or (II), and
   >     - **(IV)** any partnership if more than 50 percent of the value of the capital and profits interests are owned, directly or indirectly, by any entity described in subclause (I) or (II).
 
-- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after December 31, 2014.
+- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after December 31, 2015.
