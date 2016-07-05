@@ -13,49 +13,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Fix Crowdfunding Act”.
 
-## § 2. Qualification for crowdfunding exemption
+## § 2. Crowdfunding vehicles
 
-- **(1)** *Increase in limit of amount sold in reliance on the crowdfunding exemption* Section 4(a)(6)(A) of the Securities Act of 1933 (15 U.S.C. 77d(6)(A)) is amended by striking “$1,000,000” and inserting “$5,000,000”.
-- **(2)** *Clarification of transaction caps* Section 4(a)(6)(B) of such Act is amended—
-  - **(A)** in clause (i), by inserting “the greater of” after “5 percent of”; and
-  - **(B)** in clause (ii), by inserting “the greater of” after “10 percent of”.
+- **(a)** *Amendments to the Securities Act of 1933* The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended—
+  - **(1)** in section 4A(f)(3), by inserting “by any of paragraphs (1) through (14) of” before “section 3(c)”; and
+  - **(2)** in section 4(a)(6)(B), by inserting after “any investor” the following: “, other than a crowdfunding vehicle (as defined in section 2(a) of the Investment Company Act of 1940),”.
+- **(b)** *Amendments to the Investment Company Act of 1940* The Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) is amended—
+  - **(1)** in section 2(a), by adding at the end the following:
+    > - **(55)** The term “crowdfunding vehicle” means a company—
+    >   - **(A)** whose purpose (as set forth in its organizational documents) is limited to acquiring, holding, and disposing securities issued by a single company in one or more transactions and made pursuant to section 4(a)(6) of the Securities Act of 1933;
+    >   - **(B)** which issues only one class of securities;
+    >   - **(C)** which receives no compensation in connection with such acquisition, holding, or disposition of securities;
+    >   - **(D)** no associated person of which receives any compensation in connection with such acquisition, holding or disposition of securities unless such person is acting as or on behalf of an investment adviser registered under the Investment Advisers Act of 1940 or registered as an investment adviser in the State in which the investment adviser maintains its principal office and place of business;
+    >   - **(E)** the securities of which have been issued in a transaction made pursuant to section 4(a)(6) of the Securities Act of 1933, where both the crowdfunding vehicle and the company whose securities it holds are co-issuers;
+    >   - **(F)** which is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 CFR 227.202);
+    >   - **(G)** the company whose securities it holds is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 CFR 227.202); and
+    >   - **(H)** is advised by an investment adviser registered under the Investment Advisers Act of 1940 or registered as an investment adviser in the State in which the investment adviser maintains its principal office and place of business.
 
-## § 3. Clarification of certain funding portal requirements and exclusions for Regulation Crowdfunding
+  - **(2)** in section 3(c), by adding at the end the following:
+    > - **(15)** Any crowdfunding vehicle.
 
-- **(a)** *Exclusion of issuers from funding portals*
-  - **(1)** *Clarification of certain exclusion requirements* Section 302 of the Jumpstart Our Business Startups Act is amended by adding at the end the following:
-    > - **(e)** *Clarification of certain exclusion requirements for funding portals* Under the rules issued pursuant to subsection (d), a funding portal shall have a reasonable basis for disqualifying an issuer from offering securities through such funding portal pursuant to section 4(a)(6) of the Securities Act of 1933 if the funding portal, through a background check of the issuer or other means, has found that such issuer, in connection with the offer, purchase, or sale of securities, has knowingly—
-    >   - **(1)** made any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; or
-    >   - **(2)** engaged in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+## § 3. Crowdfunding exemption from registration
 
-  - **(2)** *Clarification of other obligations to reduce the risk of fraud* Section 4A(a)(5) of the Securities Act of 1933 (15 U.S.C. 77d–1(a)(5)) is amended to read as follows:
-    > - **(5)** as a minimum to reduce the risk of fraud with respect to such transactions obtain a background and securities enforcement regulatory history check on each officer, director, and person holding more than 20 percent of the outstanding equity of every issuer whose securities are offered by such person;
+Section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(6)) is amended—
 
-  - **(3)** *Clarification of liability of funding portals for material misstatements and omissions* Section 4A(c) of such Act (15 U.S.C. 77d–1(c)) is amended by adding the end the following:
-    > - **(4)** *Liability of funding portals* For purposes of this subsection, an intermediary shall not be considered an issuer unless, in connection with the offer or sale of a security, it knowingly—
-    >   - **(A)** made any untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; or
-    >   - **(B)** engaged in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+- **(1)** by striking “The Commission” and inserting the following:
+  > - **(A)** *In general* The Commission
 
-- **(b)** *Exemption from registration* Section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(6)) is amended—
-  - **(1)** by striking “The Commission” and all that follows through “securities” and inserting “Securities”; and
-  - **(2)** by inserting “shall be exempt” after “Securities Act of 1933”.
-- **(c)** *Allowing single-Purpose funds*
-  - **(1)** *Amendment to the Securities Act of 1933* Section 4A(f) of the Securities Act of 1933 (15 U.S.C. 77d–1(f)) is amended—
-    - **(A)** by striking paragraph (2); and
-    - **(B)** by redesignating paragraph (3) as paragraph (2) and in such paragraph, by inserting “paragraphs (1) to (14) of” after “section 3(b) or”.
-  - **(2)** *Amendment to the Investment Company Act of 1940* Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)) is amended by adding at the end the following:
-    > - **(15)** any issuer that holds, for the purpose of making an offering pursuant to section 4(a)(6) of the Securities Act of 1933 and the rules issued pursuant to such section, the securities of not more than one issuer eligible to offer securities pursuant to such section and such rules.
-
-  - **(3)** *Application of rules* Single-purpose funds that are excluded from the definition of investment company under paragraph (15) of section 3(c) of the Investment Company Act (15 U.S.C. 80a–3(c))—
-    - **(A)** shall be allowed to sell and offer for sale securities under section 4(a)(6) of the Securities Act of 1933 (15 U.S.C. 77d(a)(6)) under the rules adopted on October 30, 2015, pursuant to title III of the JOBS Act (Public Law 112–106); and
-    - **(B)** shall be considered venture capital funds for purposes of section 275.203(l)–1 of title 17, Code of Federal Regulations.
-- **(d)** *Solicitation of interest* Section 4A of the Securities Act of 1933 (15 U.S.C. 77d–1) is further amended—
-  - **(1)** by redesignating subsections (f) (as amended by subsection (c)(1)), (g), and (h) as subsections (g), (h), and (i), respectively; and
-  - **(2)** by inserting after subsection (e) the following:
-    > - **(f)** *Solicitation of interest*
-    >   - **(1)** *In general* At any time prior to the filing of information with the Commission and the commencement of an offering made in reliance on section 4(a)(6), an issuer may solicit non-binding indications of interest from potential investors in a prospective offering using the same means and pursuant to the same regulations (other than the filing of information with the Commission) as if conducting an offering pursuant to such section if—
-    >     - **(A)** no investor funds are accepted by such issuer; and
-    >     - **(B)** any material change in the information provided to potential investors during the actual offering pursuant to such section from the information provided to potential investors during such solicitation of interest are highlighted to potential investors in the information filed with the Commission.
-    >   - **(2)** *Status* Such solicitation of interest shall not be considered an offer or sale of securities under this Act or the Securities Exchange Act of 1934, regardless of whether or not the issuer actually conducts an offering pursuant to such section 4(a)(6).
-
-- **(e)** *Grace period* Consistent with the effective date of the final rules on regulation crowdfunding adopted by the Securities and Exchange Commission on October 30, 2015, pursuant to title III of the JOBS Act (Public Law 112–106), funding portals established under such Act shall make a good faith effort to comply with all such rules. Notwithstanding such effective date, no enforcement action may be brought against a funding portal before May 16, 2021.
+- **(2)** by striking “section 4(6)” and inserting “section 4(a)(6)”; and
+- **(3)** by adding at the end the following:
+  > - **(B)** *Treatment of securities issued by certain issuers* An exemption under subparagraph (A) shall be unconditional for securities offered by an issuer that had a public float of less than $75,000,000 as of the last business day of the issuer’s most recently completed semiannual period, computed by multiplying the aggregate worldwide number of shares of the issuer’s common equity securities held by non-affiliates by the price at which such securities were last sold (or the average bid and asked prices of such securities) in the principal market for such securities or, in the event the result of such public float calculation is zero, had annual revenues of less than $50,000,000 as of the issuer’s most recently completed fiscal year.
