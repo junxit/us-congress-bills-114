@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4733
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4733
@@ -25,3 +25,8 @@ To permit the United States Capitol Police to accept certain property from other
 - 2016-03-14 — Introduced in House
 - 2016-03-14 — Introduced in House
 - 2016-03-14 — Referred to the House Committee on House Administration.
+- 2016-05-17 — Committee Consideration and Mark-up Session Held.
+- 2016-05-17 — Ordered to be Reported by Voice Vote.
+- 2016-07-05 — Placed on the Union Calendar, Calendar No. 515.
+- 2016-07-05 — Reported by the Committee on House Administration. H. Rept. 114-664.
+- 2016-07-05 — Reported by the Committee on House Administration. H. Rept. 114-664.
