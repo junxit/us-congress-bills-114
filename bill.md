@@ -18,24 +18,24 @@ This Act may be cited as the “Fix Crowdfunding Act”.
 - **(a)** *Amendments to the Securities Act of 1933* The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended—
   - **(1)** in section 4A(f)(3), by inserting “by any of paragraphs (1) through (14) of” before “section 3(c)”; and
   - **(2)** in section 4(a)(6)(B), by inserting after “any investor” the following: “, other than a crowdfunding vehicle (as defined in section 2(a) of the Investment Company Act of 1940),”.
-- **(b)** *Amendments to the Investment Company Act of 1940* The Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) is amended—
+- **(b)** *Amendments to the Investment Company Act of 1940* The Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.) is amended—
   - **(1)** in section 2(a), by adding at the end the following:
     > - **(55)** The term “crowdfunding vehicle” means a company—
     >   - **(A)** whose purpose (as set forth in its organizational documents) is limited to acquiring, holding, and disposing securities issued by a single company in one or more transactions and made pursuant to section 4(a)(6) of the Securities Act of 1933;
     >   - **(B)** which issues only one class of securities;
     >   - **(C)** which receives no compensation in connection with such acquisition, holding, or disposition of securities;
-    >   - **(D)** no associated person of which receives any compensation in connection with such acquisition, holding or disposition of securities unless such person is acting as or on behalf of an investment adviser registered under the Investment Advisers Act of 1940 or registered as an investment adviser in the State in which the investment adviser maintains its principal office and place of business;
+    >   - **(D)** no associated person of which receives any compensation in connection with such acquisition, holding or disposition of securities unless such person is acting as or on behalf of an investment adviser registered under the Investment Advisers Act of 1940;
     >   - **(E)** the securities of which have been issued in a transaction made pursuant to section 4(a)(6) of the Securities Act of 1933, where both the crowdfunding vehicle and the company whose securities it holds are co-issuers;
-    >   - **(F)** which is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 CFR 227.202);
-    >   - **(G)** the company whose securities it holds is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 CFR 227.202); and
-    >   - **(H)** is advised by an investment adviser registered under the Investment Advisers Act of 1940 or registered as an investment adviser in the State in which the investment adviser maintains its principal office and place of business.
+    >   - **(F)** which is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 C.F.R. 227.202);
+    >   - **(G)** the company whose securities it holds is current in its ongoing disclosure obligations under Rule 202 of Regulation Crowdfunding (17 C.F.R. 227.202); and
+    >   - **(H)** is advised by an investment adviser registered under the Investment Advisers Act of 1940.
 
   - **(2)** in section 3(c), by adding at the end the following:
     > - **(15)** Any crowdfunding vehicle.
 
 ## § 3. Crowdfunding exemption from registration
 
-Section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(6)) is amended—
+Section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(6) is amended—
 
 - **(1)** by striking “The Commission” and inserting the following:
   > - **(A)** *In general* The Commission
