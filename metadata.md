@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4875
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4875
@@ -38,3 +38,4 @@ United States Semiquincentennial Commission Act of 2016
 - 2016-07-05 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4258-4260)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4258-4260)
+- 2016-07-06 — Received in the Senate, read twice.
