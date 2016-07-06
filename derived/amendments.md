@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-157 amendatory instructions. 22 executed, 135 stated and not applied.
+136 amendatory instructions. 45 executed, 91 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,122 +24,167 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 290aa
+### 42 U.S.C. § 290o
 
-> in the title heading, by striking “Substance Abuse and Mental Health Services Administration” and inserting “Mental Health and Substance Use Disorders”;
+> in subsection (c), by striking “(4), (5), and (6)” each place it appears and inserting “(5), (6), and (7)”.
 
 | | |
 |---|---|
-| Removed | `Substance Abuse and Mental Health Services Administration` |
-| Inserted | `Mental Health and Substance Use Disorders` |
+| Removed | `(4), (5), and (6)` |
+| Inserted | `(5), (6), and (7)` |
 
 ### 42 U.S.C. § 290aa
 
-> by striking “Administrator of the Substance Abuse and Mental Health Services Administration” each place it appears and inserting “Assistant Secretary for Mental Health and Substance Use Disorders”;
+> by striking “Administrator of the Substance Abuse and Mental Health Services Administration” each place it appears and inserting “Assistant Secretary for Mental Health and Substance Use”; and
 
 | | |
 |---|---|
 | Removed | `Administrator of the Substance Abuse and Mental Health Services Administration` |
-| Inserted | `Assistant Secretary for Mental Health and Substance Use Disorders` |
+| Inserted | `Assistant Secretary for Mental Health and Substance Use` |
 
 ### 42 U.S.C. § 290aa
 
-> by striking “Substance Abuse and Mental Health Services Administration” each place it appears and inserting “Office of the Assistant Secretary”;
+> by striking “Administrator” each place it appears (including in any headings) and inserting “Assistant Secretary”, except where the term “Administrator” appears—
 
 | | |
 |---|---|
-| Removed | `Substance Abuse and Mental Health Services Administration` |
-| Inserted | `Office of the Assistant Secretary` |
+| Removed | `Administrator` |
+| Inserted | `Assistant Secretary` |
 
-### 42 U.S.C. § 290aa
+### 42 U.S.C. § 10805
 
-> in section 502, by striking “Administration or Center” each place it appears and inserting “Office or Center”;
-
-| | |
-|---|---|
-| Removed | `Administration or Center` |
-| Inserted | `Office or Center` |
-
-### 42 U.S.C. § 290aa
-
-> in section 502, by striking “Administration's” and inserting “Office of the Assistant Secretary’s”; and
+> Section 105(a)(7) of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10805(a)(7)) is amended by striking “is located a report” and inserting “is located, and make publicly available, a report”.
 
 | | |
 |---|---|
-| Removed | `Administration's` |
-| Inserted | `Office of the Assistant Secretary’s` |
+| Removed | `is located a report` |
+| Inserted | `is located, and make publicly available, a report` |
 
-### 42 U.S.C. § 290aa
+### 42 U.S.C. § 290bb-31
 
-> in subsection (e), by striking “and 2018” and inserting “2018, 2019, and 2020”; and
+> in paragraph (10), as so redesignated, by striking “professional and paraprofessional personnel pursuant to section 303” and inserting “paraprofessional personnel and health professionals”;
 
 | | |
 |---|---|
-| Removed | `and 2018` |
-| Inserted | `2018, 2019, and 2020` |
+| Removed | `professional and paraprofessional personnel pursuant to section 303` |
+| Inserted | `paraprofessional personnel and health professionals` |
+
+### 42 U.S.C. § 290bb-31
+
+> in paragraph (12), as so redesignated, by striking “establish a clearinghouse for mental health information to assure the widespread dissemination of such information” and inserting “disseminate mental health information, including evidenced-based practices,”;
+
+| | |
+|---|---|
+| Removed | `establish a clearinghouse for mental health information to assure the widespread dissemination of such information` |
+| Inserted | `disseminate mental health information, including evidenced-based practices,` |
+
+### 42 U.S.C. § 290bb
+
+> by striking “treatment of substance abuse” and inserting “treatment of substance use disorders”; and
+
+| | |
+|---|---|
+| Removed | `treatment of substance abuse` |
+| Inserted | `treatment of substance use disorders` |
+
+### 42 U.S.C. § 290bb
+
+> by striking “abuse treatment systems” and inserting “use disorder treatment systems”; and
+
+| | |
+|---|---|
+| Removed | `abuse treatment systems` |
+| Inserted | `use disorder treatment systems` |
+
+### 42 U.S.C. § 290bb
+
+> in paragraph (3), by striking “abuse” and inserting “use disorder”;
+
+| | |
+|---|---|
+| Removed | `abuse` |
+| Inserted | `use disorder` |
+
+### 42 U.S.C. § 290bb
+
+> in paragraph (4), by striking “individuals who abuse drugs” and inserting “individuals who use drugs”;
+
+| | |
+|---|---|
+| Removed | `individuals who abuse drugs` |
+| Inserted | `individuals who use drugs` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “effective January 1, 1973” and inserting “(A) effective January 1, 1973”; and
+
+| | |
+|---|---|
+| Removed | `effective January 1, 1973` |
+| Inserted | `(A) effective January 1, 1973` |
 
 ### 42 U.S.C. § 290aa
 
-> in paragraph (1), by striking “2018” and inserting “2020”;
+> in paragraph (1), by striking “2018” and inserting “2022”; and
 
 | | |
 |---|---|
 | Removed | `2018` |
-| Inserted | `2020` |
+| Inserted | `2022` |
 
 ### 42 U.S.C. § 290aa
 
-> by striking “$15,000,000” and inserting “$20,000,000”; and
+> in paragraph (2), by striking “is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2018” and inserting “are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for each of fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022”.
 
 | | |
 |---|---|
-| Removed | `$15,000,000` |
-| Inserted | `$20,000,000` |
+| Removed | `is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2018` |
+| Inserted | `are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for each of fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022` |
 
-### 42 U.S.C. § 290aa
+### 42 U.S.C. § 300x-4
 
-> by striking “2018” and inserting “2020”; and
-
-| | |
-|---|---|
-| Removed | `2018` |
-| Inserted | `2020` |
-
-### 42 U.S.C. § 300x
-
-> Section 1911(a) of the Public Health Service Act (42 U.S.C. 300x) is amended by striking “acting through the Director of the Center for Mental Health Services” and inserting “acting through the Assistant Secretary for Mental Health and Substance Use Disorders”.
+> by striking “under subsection (a)” and inserting “specified in paragraph (1)”; and
 
 | | |
 |---|---|
-| Removed | `acting through the Director of the Center for Mental Health Services` |
-| Inserted | `acting through the Assistant Secretary for Mental Health and Substance Use Disorders` |
+| Removed | `under subsection (a)` |
+| Inserted | `specified in paragraph (1)` |
 
-### 42 U.S.C. § 300x-1
+### 42 U.S.C. § 300x-4
 
-> in the subparagraph (A) inserted by paragraph (1), in the second sentence, by striking “health and mental health services” and inserting “integrated physical and mental health services”;
-
-| | |
-|---|---|
-| Removed | `health and mental health services` |
-| Inserted | `integrated physical and mental health services` |
-
-### 42 U.S.C. § 300x-1
-
-> in such subparagraph (A), by striking “The plan shall include” through the period at the end and inserting “The plan shall integrate and coordinate services to maximize the efficiency, effectiveness, quality, coordination, and cost effectiveness of those services and programs to produce the best possible outcomes for those with serious mental illness.”; and
+> by striking “principle” and inserting “principal”;
 
 | | |
 |---|---|
-| Removed | `The plan shall include` |
-| Inserted | `The plan shall integrate and coordinate services to maximize the efficiency, effectiveness, quality, coordination, and cost effectiveness of those services and programs to produce the best possible outcomes for those with serious mental illness.` |
+| Removed | `principle` |
+| Inserted | `principal` |
 
-### 42 U.S.C. § 300x-7
+### 42 U.S.C. § 300x-4
 
-> in subsection (a)(1), by striking “subsection (b)” and inserting “subsections (b) and (d)”; and
+> by striking “subparagraph (A)” and inserting “subparagraph (A)(i)”.
 
 | | |
 |---|---|
-| Removed | `subsection (b)` |
-| Inserted | `subsections (b) and (d)` |
+| Removed | `subparagraph (A)` |
+| Inserted | `subparagraph (A)(i)` |
+
+### 42 U.S.C. § 300x-6
+
+> in paragraph (1), by striking “1941” and inserting “1942(a)”; and
+
+| | |
+|---|---|
+| Removed | `1941` |
+| Inserted | `1942(a)` |
+
+### 42 U.S.C. § 300x-6
+
+> in paragraph (5), by striking “1915(b)(3)(B)” and inserting “1915(b)”.
+
+| | |
+|---|---|
+| Removed | `1915(b)(3)(B)` |
+| Inserted | `1915(b)` |
 
 ### 42 U.S.C. § 290hh-1
 
@@ -152,12 +197,12 @@ to guess them.
 
 ### 42 U.S.C. § 290hh-1
 
-> by striking “treating disorders associated with psychological trauma” and inserting “treating mental, behavioral, and biological disorders associated with psychological trauma)”; and
+> by striking “treating disorders associated with psychological trauma” and inserting “treating mental illness and behavioral and biological disorders associated with psychological trauma)”; and
 
 | | |
 |---|---|
 | Removed | `treating disorders associated with psychological trauma` |
-| Inserted | `treating mental, behavioral, and biological disorders associated with psychological trauma)` |
+| Inserted | `treating mental illness and behavioral and biological disorders associated with psychological trauma)` |
 
 ### 42 U.S.C. § 290hh-1
 
@@ -188,39 +233,201 @@ to guess them.
 
 ### 42 U.S.C. § 290hh-1
 
-> in subsection (j) (as so redesignated), by striking “$50,000,000” and all that follows through “2006” and inserting “$45,713,000 for each of fiscal years 2014 through 2018”.
+> in subsection (j) (as so redesignated), by striking “$50,000,000” and all that follows through “2006” and inserting “$46,887,000 for each of fiscal years 2017 through 2021”.
 
 | | |
 |---|---|
 | Removed | `$50,000,000” and all that follows through “2006` |
-| Inserted | `$45,713,000 for each of fiscal years 2014 through 2018` |
+| Inserted | `$46,887,000 for each of fiscal years 2017 through 2021` |
 
-### 42 U.S.C. § 1396d
+### 42 U.S.C. § 290bb-34
 
-> by striking “effective” and inserting “(A) effective”; and
-
-| | |
-|---|---|
-| Removed | `effective` |
-| Inserted | `(A) effective` |
-
-### 42 U.S.C. § 1395w-104
-
-> in clause (i)(I), by striking “in the categories” and inserting “in the categories and classes of drugs specified in subclauses (II) and (IV) of clause (iv) and in other categories”;
+> in subsection (a), by striking “and in consultation with” and all that follows through the period at the end of paragraph (2) and inserting “shall establish a research, training, and technical assistance resource center to provide appropriate information, training, and technical assistance to States, political subdivisions of States, federally recognized Indian tribes, tribal organizations, institutions of higher education, public organizations, or private nonprofit organizations regarding the prevention of suicide among all ages, particularly among groups that are at high risk for suicide.”;
 
 | | |
 |---|---|
-| Removed | `in the categories` |
-| Inserted | `in the categories and classes of drugs specified in subclauses (II) and (IV) of clause (iv) and in other categories` |
+| Removed | `and in consultation with` |
+| Inserted | `shall establish a research, training, and technical assistance resource center to provide appropriate information, training, and technical assistance to States, political subdivisions of States, federally recognized Indian tribes, tribal organizations, institutions of higher education, public organizations, or private nonprofit organizations regarding the prevention of suicide among all ages, particularly among groups that are at high risk for suicide.` |
 
-### 42 U.S.C. § 10805
+### 42 U.S.C. § 290bb-34
 
-> Section 105(a)(7) of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10805(a)(7)) is amended by striking “is located a report” and inserting “is located, and make publicly available, a report”.
+> in the matter preceding paragraph (1), by striking “The additional research” and all that follows through “nonprofit organizations for” and inserting “The center established under subsection (a) shall conduct activities for the purpose of”;
 
 | | |
 |---|---|
-| Removed | `is located a report` |
-| Inserted | `is located, and make publicly available, a report` |
+| Removed | `The additional research” and all that follows through “nonprofit organizations for` |
+| Inserted | `The center established under subsection (a) shall conduct activities for the purpose of` |
+
+### 42 U.S.C. § 290bb-34
+
+> by striking “youth suicide” each place such term appears and inserting “suicide”;
+
+| | |
+|---|---|
+| Removed | `youth suicide` |
+| Inserted | `suicide` |
+
+### 42 U.S.C. § 290bb-34
+
+> by striking “the development or continuation of” and inserting “developing and continuing”; and
+
+| | |
+|---|---|
+| Removed | `the development or continuation of` |
+| Inserted | `developing and continuing` |
+
+### 42 U.S.C. § 290bb-34
+
+> in paragraph (9), by striking “and behavioral health” and inserting “health and substance use disorder”; and
+
+| | |
+|---|---|
+| Removed | `and behavioral health` |
+| Inserted | `health and substance use disorder` |
+
+### 42 U.S.C. § 290bb-36
+
+> in paragraph (1) of subsection (a) and in subsection (c), by striking “substance abuse” each place such term appears and inserting “substance use disorder”;
+
+| | |
+|---|---|
+| Removed | `substance abuse` |
+| Inserted | `substance use disorder` |
+
+### 42 U.S.C. § 290bb-36
+
+> by striking “each State is awarded only 1 grant or cooperative agreement under this section” and inserting “a State does not receive more than one grant or cooperative agreement under this section at any one time”; and
+
+| | |
+|---|---|
+| Removed | `each State is awarded only 1 grant or cooperative agreement under this section` |
+| Inserted | `a State does not receive more than one grant or cooperative agreement under this section at any one time` |
+
+### 42 U.S.C. § 290bb-36
+
+> by striking “been awarded” and inserting “received”; and
+
+| | |
+|---|---|
+| Removed | `been awarded` |
+| Inserted | `received` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in the section heading, by striking “and behavioral health” and inserting “health and substance use disorder”;
+
+| | |
+|---|---|
+| Removed | `and behavioral health` |
+| Inserted | `health and substance use disorder` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “Services,” and inserting “Services and”;
+
+| | |
+|---|---|
+| Removed | `Services,` |
+| Inserted | `Services and` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “and behavioral health problems” and inserting “health or substance use disorders”; and
+
+| | |
+|---|---|
+| Removed | `and behavioral health problems` |
+| Inserted | `health or substance use disorders` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “substance abuse” and inserting “substance use disorders”;
+
+| | |
+|---|---|
+| Removed | `substance abuse` |
+| Inserted | `substance use disorders` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in the matter preceding paragraph (1), by striking “for—” and inserting “for one or more of the following:”; and
+
+| | |
+|---|---|
+| Removed | `for—` |
+| Inserted | `for one or more of the following:` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in subsection (c)(5), by striking “substance abuse” and inserting “substance use disorder”;
+
+| | |
+|---|---|
+| Removed | `substance abuse` |
+| Inserted | `substance use disorder` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in the matter preceding paragraph (1), by striking “An institution of higher education desiring a grant under this section” and inserting “To be eligible to receive a grant under this section, an institution of higher education”;
+
+| | |
+|---|---|
+| Removed | `An institution of higher education desiring a grant under this section` |
+| Inserted | `To be eligible to receive a grant under this section, an institution of higher education` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “and behavioral health” and inserting “health and substance use disorder”; and
+
+| | |
+|---|---|
+| Removed | `and behavioral health` |
+| Inserted | `health and substance use disorder` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in subsection (e)(1), by striking “and behavioral health problems” and inserting “health and substance use disorders”;
+
+| | |
+|---|---|
+| Removed | `and behavioral health problems` |
+| Inserted | `health and substance use disorders` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “and behavioral health” and inserting “health and substance use disorder”; and
+
+| | |
+|---|---|
+| Removed | `and behavioral health` |
+| Inserted | `health and substance use disorder` |
+
+### 42 U.S.C. § 290bb-36b
+
+> by striking “suicide and substance abuse” and inserting “suicide and substance use disorders”; and
+
+| | |
+|---|---|
+| Removed | `suicide and substance abuse` |
+| Inserted | `suicide and substance use disorders` |
+
+### 42 U.S.C. § 290bb-36b
+
+> in subsection (h), by striking “$5,000,000 for fiscal year 2005” and all that follows through the period at the end and inserting “$6,488,000 for each of fiscal years 2017 through 2021.”.
+
+| | |
+|---|---|
+| Removed | `$5,000,000 for fiscal year 2005` |
+| Inserted | `$6,488,000 for each of fiscal years 2017 through 2021.` |
+
+### 42 U.S.C. § 247d-4
+
+> Section 319D(f) of the Public Health Service Act (42 U.S.C. 247d–4(f)) is amended by striking “$138,300,000 for each of fiscal years 2014 through 2018” and inserting “$138,300,000 for each of fiscal years 2014 through 2016 and $58,000,000 for each of fiscal years 2017 and 2018”.
+
+| | |
+|---|---|
+| Removed | `$138,300,000 for each of fiscal years 2014 through 2018` |
+| Inserted | `$138,300,000 for each of fiscal years 2014 through 2016 and $58,000,000 for each of fiscal years 2017 and 2018` |
 
 ## Stated, not applied
 
@@ -231,138 +438,94 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 290aa` | amend | by amending section 501(a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | amend | by amending section 501(c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | strike | by striking subsection (o) (relating to authorization of appropriations); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | replace | by striking Administrator each place it appears and inserting “Assistant Secretary”, except where the term Administrator appears within the term— | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 290aa` | replace | by striking the term Administration each place it appears and inserting “Office of the Assistant Secretary”, except in the heading of section 520G(b) and where the term Administration appears with the term— | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 294o` | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 294o` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | amend | Section 501(c) of the Public Health Service Act (42 U.S.C. 290aa) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | strike | in paragraph (17), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290aa` | replace | in paragraph (18), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-9` | add-at-end | Section 1920 of the Public Health Service Act (42 U.S.C. 300x–9) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | replace | by striking “The plan provides” and inserting: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300x-1` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | replace | by striking “The plan contains an estimate of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300x-1` | insert | in subparagraph (A), as inserted by paragraph (1), by inserting “, including reductions in homelessness, emergency hospitalization, incarceration, and unemployment for eligible patients (as defined in subsection (d)(3)),” after “targets”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300x-1` | replace | in such subparagraph, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300x-1` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | replace | by striking “Except as provided” and inserting: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300x-1` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | add-at-end | Section 1912 of the Public Health Service Act (42 U.S.C. 300x–1) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-7` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-1` | add-at-end | Section 1912 of the Public Health Service Act (42 U.S.C. 300x–1), as amended by paragraph (4), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-2` | add-at-end | Section 1913 of the Public Health Service Act (42 U.S.C. 300x–2), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300x-4` | add-at-end | Section 1915 of the Public Health Service Act (42 U.S.C. 300x–4) is amended by adding at the end of the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | add-at-end | Section 224 of the Public Health Service Act (42 U.S.C. 233) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | add-at-end | Title V of the Public Health Service Act (42 U.S.C. 290aa et seq.), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254d` | insert | Section 331(a)(3)(D) of the Public Health Service Act (42 U.S.C. 254d(a)(3)) is amended by inserting “(including pediatric mental health subspecialty services)” after “pediatrics”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254d` | insert | Clause (i) of section 331(a)(3)(E)(i) of the Public Health Service Act (42 U.S.C. 254d(a)(3)(E)(i)) is amended by inserting “(and pediatric subspecialists thereof)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254d` | insert | Section 332(a)(1) of the Public Health Service Act is amended by inserting “(including children and adolescents)” after “population group”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254d` | insert | Section 332(a)(2)(A) of the Public Health Service Act is amended by inserting “medical residency or fellowship training site for training in child and adolescent psychiatry,” before “facility operated by a city or county health departmen… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254l-1` | insert | Section 338A(b)(1)(B) of the Public Health Service Act (42 U.S.C. 254l–1(b)(1)(B)) is amended by inserting “, including any physician child and adolescent psychiatry residency or fellowship training program” after “be enrolled in an appr… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 290hh-1` | replace | in subsection (a), by striking “developing programs” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290hh-1` | redesignate | by redesignating subsections (c) through (g) as subsections (g) through (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290hh-1` | insert | by inserting after subsection (b), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-34` | amend | Section 520C of the Public Health Service Act (42 U.S.C. 290bb–34) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-36` | amend | Section 520E of the Public Health Service Act (42 U.S.C. 290bb–36) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-36a` | amend | by amending the section heading to read as follows: “Suicide prevention for youth”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-36a` | replace | by striking subsection (n) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-36b` | amend | Section 520E–2 of the Public Health Service Act (42 U.S.C. 290bb–36b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-36b` | insert | Subpart 3 of part B of title V of the Public Health Service Act is amended by inserting after section 520E–2 of such Act (42 U.S.C. 290bb–36b), as amended, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Title V of the Public Health Service Act, as amended by section 101, is further amended by inserting after section 501 of such Act the following: | the bill names no machine-readable US Code section |
-| `20 U.S.C. § 1232g` | add-at-end | Section 444 of the General Education Provisions Act (20 U.S.C. 1232g) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290dd-2` | replace | in paragraph (1), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290dd-2` | replace | in paragraph (2), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395jjj` | insert | after paragraph (2), by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | insert | Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended by inserting after paragraph (77) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | by inserting before the semicolon at the end the following: “, (B) qualified inpatient psychiatric hospital services (as defined in subsection (h)(3)) for individuals over 21 years of age and under 65 years of age, and (C) psychiatric re… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | in the subdivision (B) that follows paragraph (29), by inserting “(other than services described in subparagraphs (B) and (C) of paragraph (16) for individuals described in such subparagraphs)” after “patient in an institution for mental… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396d` | add-at-end | in subsection (h), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | insert | in clause (i)(II), by inserting “, for categories and classes of drugs other than the categories and classes of drugs specified in subclauses (II) and (IV) of clause (iv), ” before “exceptions”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-104` | insert | in clause (ii)(I), by inserting at the end the following new sentence: “For purposes of the previous sentence, the categories and classes of drugs specified in subclauses (II) and (IV) of clause (iv) shall be deemed to be of clinical con… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | insert | in clause (iv), in the matter preceding subclause (I), by inserting “(and in the case of categories and classes of drugs specified in subclauses (II) and (IV), before, on, and after the Secretary establishes such criteria)” after “clause… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(d) of the Social Security Act (42 U.S.C. 1396r–8(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396u-2` | add-at-end | Section 1932(b) of the Social Security Act (42 U.S.C. 1396u–2(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395d` | amend | in paragraph (1), by adding “or” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395d` | replace | in paragraph (2), by striking “; or” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395d` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395d` | strike | in subsection (c), by striking “or in determining the 190-day limit under subsection (b)(3)”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | insert | in paragraph (1), by inserting “and, in the case of a psychiatric hospital or a psychiatric unit (as described in the matter following clause (v) of section 1886(d)(1)(B)), if it also meets the guidelines and standards established by the… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450` | amend | Section 223 of the Protecting Access to Medicare Act of 2014 (Public Law 113–93; 128 Stat. 1077) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 282a` | add-at-end | Section 402A(a) of the Public Health Service Act (42 U.S.C. 282a(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300jj` | insert | Section 3000(3) of the Public Health Service Act (42 U.S.C. 300jj(3)) is amended by inserting before “and any other category” the following: “behavioral and mental health professionals (as defined in section 331(a)(3)(E)(i)), a substance… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | add-at-end | in subparagraph (E), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | add-at-end | in paragraph (5), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | in subsection (b)(3)(B)(ix), by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | in paragraph (6), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | replace | in clause (i), by striking “, or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396b` | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | insert | by inserting after clause (ii) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | replace | in clause (iv), by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396b` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-23` | insert | by inserting “or additional eligible professionals (as described in paragraph (9))” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | by inserting “and additional eligible professionals” before “under such sections”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in clause (i) in the matter preceding subclause (I), by inserting “or an additional eligible professional described in paragraph (9)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in the matter preceding subclause (I), by inserting “or an additional eligible professional described in paragraph (9)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in subclause (I), by inserting “or an additional eligible professional, respectively,” after “eligible professional”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (3)(C), by inserting “and additional eligible professionals” after “all eligible professionals”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | add-at-end | in paragraph (4)(D), by adding at the end the following new sentence: “In the case that a qualifying MA organization attests that not all additional eligible professionals of the organization are meaningful EHR users with respect to an a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (6)(A), by inserting “and, as applicable, each additional eligible professional described in paragraph (9)” after “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (6)(B), by inserting “and, as applicable, each additional eligible hospital described in paragraph (9)” after “subsection (m)(1)”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (7)(A), by inserting “and, as applicable, additional eligible professionals” after “eligible professionals”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (7)(B), by inserting “and, as applicable, additional eligible professionals” after “eligible professionals”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (8)(B), by inserting “and additional eligible professionals described in paragraph (9)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-23` | insert | by inserting “or additional eligible hospitals (as described in paragraph (7))” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | by inserting “and additional eligible hospitals” before “under such sections”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (3)(A)(i), by inserting “or additional eligible hospital” after “eligible hospital”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (3)(A)(ii), by inserting “or an additional eligible hospital” after “eligible hospital” in each place it occurs; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in clause (i), by inserting “or an additional eligible hospital described in paragraph (7)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in the matter preceding subclause (I), by inserting “or an additional eligible hospital described in paragraph (7)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in subclause (I), by inserting “or an additional eligible hospital, respectively,” after “eligible hospital”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (4)(A), by inserting “or one or more additional eligible hospitals (as defined in section 1886(n)), as appropriate,” after “section 1886(n)(6)(A))”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | add-at-end | in paragraph (4)(D), by adding at the end the following new sentence: “In the case that a qualifying MA organization attests that not all additional eligible hospitals of the organization are meaningful EHR users with respect to an appli… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (5)(A), by inserting “and, as applicable, each additional eligible hospital described in paragraph (7)” after “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (5)(B), by inserting “and additional eligible hospitals, as applicable,” after “eligible hospitals”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | insert | in paragraph (6)(B), by inserting “and additional eligible hospitals described in paragraph (7)” after “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-23` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | insert | in subsection (h), by inserting at the end the following: “For any such peer-review group reviewing a proposal or grant related to mental illness, no fewer than half of the members of the group shall have a medical degree, or a correspon… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290aa` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 290aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa-1` | add-at-end | Paragraph (3) of section 502(b) of the Public Health Service Act (42 U.S.C. 290aa–1(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa-3` | add-at-end | by adding at the end of subsection (b) the following: “At least half of the members of any peer-review group established under subsection (a) shall have a degree in medicine, or a corresponding doctoral degree in psychology, or be a lice… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | add-at-end | Section 501(d) of the Public Health Service Act (42 U.S.C. 290aa(d)), as amended by subsection (c), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | add-at-end | Section 501(m) of the Public Health Service Act (42 U.S.C. 290aa(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290o` | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290o` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | insert | Title V of the Public Health Service Act is amended by inserting after section 501 of such Act (42 U.S.C. 290aa) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | insert | Title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended by inserting after section 501A, as added by section 102 of this Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10805` | strike | in paragraph (9), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10805` | replace | in paragraph (10), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10805` | replace | in paragraph (10), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10805` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10805` | add-at-end | Section 105(a) of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10805(a)), as amended by section 811, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10801` | insert | in paragraph (1), by inserting “to be free from abuse and neglect” before “are protected”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10801` | insert | in paragraph (2)(A), by inserting “to be free from abuse and neglect” before “through activities to ensure”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10803` | insert | Section 103(2)(A) of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10803(2)(A)) is amended by inserting “to be free from abuse and neglect” before the semicolon. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10804` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10804` | replace | in subparagraph (B), by striking the semicolon at the end and inserting “to be free from abuse and neglect; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10804` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10805` | insert | in the matter before paragraph (1), by inserting “to be free from abuse and neglect” before “shall”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10805` | insert | in paragraph (6)(A), by inserting “to be free from abuse and neglect” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10805` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10805` | insert | in subsection (c)(1)(A), by inserting “to be free from abuse and neglect” before “shall have a governing authority”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10821` | insert | in paragraph (1), by inserting “to be free from abuse and neglect” before the semicolon; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10821` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10821` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10821` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10824` | insert | in paragraph (1) in the matter before subparagraph (A), by inserting “to be free from abuse and neglect” before “supported with payments”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10824` | insert | in paragraph (2)(A), by inserting “to be free from abuse and neglect” before “supported with payments”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10824` | insert | in paragraph (4), by inserting “to be free from abuse and neglect” before “and a description”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10824` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10824` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10824` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10805` | add-at-end | Section 105 of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10805), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10805` | add-at-end | Section 105(a) of the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10805(a)), as amended by sections 811, 812, and 813, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | add-at-end | in section 501(b) (42 U.S.C. 290aa(b)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa-1` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290aa-1` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290aa-1` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | add-at-end | in part B (42 U.S.C. 290bb et seq.) by adding at the end the following new subpart: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | redesignate | by redesignating subsections (l) through (o) as subsections (m) through (p), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450b` | insert | by inserting after subsection (k) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-31` | redesignate | by redesignating paragraphs (3) through (15) as paragraphs (4) through (16), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-31` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (5), as so redesignated, by inserting “through policies and programs that reduce risk and promote resiliency” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (6), as so redesignated, by inserting “in collaboration with the Director of the National Institute of Mental Health,” before “develop”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (8), as so redesignated, by inserting “, increase meaningful participation of individuals with mental illness in programs and activities of the Administration,” before “and protect the legal”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (11), as so redesignated, by inserting “and telemental health,” after “rural mental health,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (15), as so redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290bb-31` | redesignate | in paragraph (16), as so redesignated, by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | strike | in paragraph (9), by striking “carried out by the Director”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290bb` | strike | by striking paragraph (10); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | redesignate | by redesignating paragraphs (11) through (14) as paragraphs (10) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | redesignate | in paragraph (12), as so redesignated, by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290bb` | redesignate | by striking paragraph (13), as so redesignated, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa-1` | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290aa-1` | redesignate | by redesignating subparagraph (F) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa-1` | insert | by inserting after subparagraph (E), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa-1` | add-at-end | in paragraph (3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa-3` | add-at-end | Section 504(b) of the Public Health Service Act (42 U.S.C. 290aa–3(b)) is amended by adding at the end the following: “In the case of any such peer review group that is reviewing a grant, cooperative agreement, or contract related to men… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | add-at-end | Section 1903(m)(2) of the Social Security Act (42 U.S.C. 1396b(m)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | by inserting before the semicolon at the end the following: “, and, (B) for individuals receiving services described in subparagraph (A), early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)), wh… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended by inserting after subsection (k) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | insert | Part B of title V of the Public Health Service Act (42 U.S.C. 290bb et seq.) is amended by inserting after section 520L the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-37` | amend | Section 520F of the Public Health Service Act (42 U.S.C. 290bb–37) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 233` | add-at-end | Section 224 of the Public Health Service Act (42 U.S.C. 233) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 501B of the Public Health Service Act, as inserted by section 103, is further amended, by inserting after subsection (c) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Part D of title V of the Public Health Service Act is amended by inserting after section 543 of such Act (42 U.S.C. 290dd–2 ) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 300x` | redesignate | by redesignating paragraphs (1) through (3) as paragraphs (2) through (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x` | redesignate | by inserting before paragraph (2) (as so redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-1` | amend | Subsection (b) of section 1912 of the Public Health Service Act (42 U.S.C. 300x–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-9` | add-at-end | Section 1920 of the Public Health Service Act (42 U.S.C. 300x–9) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-4` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-4` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-4` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300x-4` | insert | by inserting after the subparagraph designation the following: “Submission of information to the secretary.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-18` | insert | Title III of the Public Health Service Act is amended by inserting after section 330L of such Act (42 U.S.C. 254c–18) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290h` | add-at-end | Part Q of title III of the Public Health Service Act (42 U.S.C. 290h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290hh-1` | replace | in subsection (a), by striking “developing programs” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290hh-1` | redesignate | by redesignating subsections (c) through (g) as subsections (g) through (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290hh-1` | insert | by inserting after subsection (b), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-34` | replace | by striking the section heading and inserting “Suicide prevention technical assistance center.”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | strike | by striking subsections (b) and (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-34` | redesignate | by redesignating subsection (d) as subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-34` | replace | by striking the subsection heading and inserting “Responsibilities of the center.—”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | insert | by inserting “for all ages, particularly among groups that are at high risk for suicide” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | insert | in paragraph (2), by inserting “for all ages, particularly among groups that are at high risk for suicide” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | insert | in paragraph (3), by inserting “and tribal” after “statewide”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | insert | in paragraph (5), by inserting “and prevention” after “intervention”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | strike | in paragraph (8), by striking “in youth”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290bb-34` | insert | in paragraph (10), by inserting “conducting” before “other”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-34` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-36` | replace | by striking subsection (m) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-36b` | replace | by striking paragraphs (1) through (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-36b` | insert | by inserting “, including veterans whenever possible and appropriate,” after “students”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-36b` | insert | in paragraph (2), by inserting “, which may include, as appropriate and in accordance with subsection (b)(7), a plan to seek input from relevant stakeholders in the community, including appropriate public and private entities, in order t… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290bb-31` | insert | Subpart 3 of part B of title V of the Public Health Service Act (42 U.S.C. 290bb–31 et seq.) is amended by inserting after section 520E–2 (42 U.S.C. 290bb–36b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | add-at-end | Title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb` | strike | Part B of title V of the Public Health Service Act (42 U.S.C. 290bb et seq.) is amended by striking the second section 514 (42 U.S.C. 290bb–9), relating to methamphetamine and amphetamine treatment initiatives, and sections 514A, 517, 51… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254d` | insert | Section 331(a)(3)(D) of the Public Health Service Act (42 U.S.C. 254d(a)(3)) is amended by inserting “(including pediatric mental health subspecialty services)” after “pediatrics”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254d` | insert | Clause (i) of section 331(a)(3)(E) of the Public Health Service Act (42 U.S.C. 254d(a)(3)(E)) is amended by inserting “(and pediatric subspecialists thereof)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254l-1` | insert | Section 338B(b)(1)(B) of the Public Health Service Act (42 U.S.C. 254l–1(b)(1)(B)) is amended by inserting “, including any physician child and adolescent psychiatry residency or fellowship training program” after “be enrolled in an appr… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 295f` | amend | Section 775(e) of the Public Health Service Act (42 U.S.C. 295f(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-26` | add-at-end | Section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-26` | add-at-end | Section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-26` | amend | Paragraph (4) of section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | amend | Paragraph (4) of section 712(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | amend | Paragraph (4) of section 9812(a) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
