@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2273
@@ -41,3 +41,4 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4251)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4251)
 - 2016-07-05 — The title of the measure was amended. Agreed to without objection.
+- 2016-07-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.
