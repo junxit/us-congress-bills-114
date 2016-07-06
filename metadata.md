@@ -1,7 +1,7 @@
 ---
 measure: S. 2450
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2450
@@ -16,11 +16,13 @@ Administrative Leave Act of 2016
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Administrative Leave Act of 2016
 
 - 2016-01-20 — Introduced in Senate
 - 2016-01-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-02-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-292.
+- 2016-07-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-292.
+- 2016-07-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
