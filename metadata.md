@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4582
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4582
@@ -24,9 +24,10 @@ SOS Act
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ SOS Act
 - 2016-07-05 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4252)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4252)
+- 2016-07-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
