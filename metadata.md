@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 38
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 38
@@ -36,3 +36,5 @@ A concurrent resolution reaffirming the Taiwan Relations Act and the Six Assuran
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.
+- 2016-07-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4837)
+- 2016-07-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4837)
