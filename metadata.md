@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 482
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 482
@@ -16,7 +16,7 @@ A resolution urging the European Union to designate Hizballah in its entirety as
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (20)
+## Cosponsors (22)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Markey, Edward J. [D-MA] (M000133)
@@ -38,6 +38,8 @@ A resolution urging the European Union to designate Hizballah in its entirety as
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
@@ -51,3 +53,5 @@ A resolution urging the European Union to designate Hizballah in its entirety as
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
+- 2016-07-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4837)
+- 2016-07-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4837)
