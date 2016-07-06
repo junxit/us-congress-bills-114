@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4538
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4538
@@ -55,3 +55,4 @@ Senior Safe Act of 2016
 - 2016-07-05 — Placed on the Union Calendar, Calendar No. 510.
 - 2016-07-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-659.
 - 2016-07-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-659.
+- 2016-07-06 — Received in the Senate.
