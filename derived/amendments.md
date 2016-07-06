@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 114
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-136 amendatory instructions. 45 executed, 91 stated and not applied.
+131 amendatory instructions. 44 executed, 87 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,15 +114,6 @@ to guess them.
 | Removed | `individuals who abuse drugs` |
 | Inserted | `individuals who use drugs` |
 
-### 42 U.S.C. § 1396d
-
-> by striking “effective January 1, 1973” and inserting “(A) effective January 1, 1973”; and
-
-| | |
-|---|---|
-| Removed | `effective January 1, 1973` |
-| Inserted | `(A) effective January 1, 1973` |
-
 ### 42 U.S.C. § 290aa
 
 > in paragraph (1), by striking “2018” and inserting “2022”; and
@@ -143,12 +134,12 @@ to guess them.
 
 ### 42 U.S.C. § 300x-4
 
-> by striking “under subsection (a)” and inserting “specified in paragraph (1)”; and
+> by striking “subsection (a)” and inserting “paragraph (1)”; and
 
 | | |
 |---|---|
-| Removed | `under subsection (a)` |
-| Inserted | `specified in paragraph (1)` |
+| Removed | `subsection (a)` |
+| Inserted | `paragraph (1)` |
 
 ### 42 U.S.C. § 300x-4
 
@@ -197,12 +188,12 @@ to guess them.
 
 ### 42 U.S.C. § 290hh-1
 
-> by striking “treating disorders associated with psychological trauma” and inserting “treating mental illness and behavioral and biological disorders associated with psychological trauma)”; and
+> by striking “treating disorders associated with psychological trauma” and inserting “treating mental, behavioral, and biological disorders associated with psychological trauma)”; and
 
 | | |
 |---|---|
 | Removed | `treating disorders associated with psychological trauma` |
-| Inserted | `treating mental illness and behavioral and biological disorders associated with psychological trauma)` |
+| Inserted | `treating mental, behavioral, and biological disorders associated with psychological trauma)` |
 
 ### 42 U.S.C. § 290hh-1
 
@@ -296,12 +287,12 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-36
 
-> by striking “each State is awarded only 1 grant or cooperative agreement under this section” and inserting “a State does not receive more than one grant or cooperative agreement under this section at any one time”; and
+> by striking “each State is awarded only 1 grant or cooperative agreement under this section” and inserting “a State does not receive more than 1 grant or cooperative agreement under this section at any 1 time”; and
 
 | | |
 |---|---|
 | Removed | `each State is awarded only 1 grant or cooperative agreement under this section` |
-| Inserted | `a State does not receive more than one grant or cooperative agreement under this section at any one time` |
+| Inserted | `a State does not receive more than 1 grant or cooperative agreement under this section at any 1 time` |
 
 ### 42 U.S.C. § 290bb-36
 
@@ -443,7 +434,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 290aa` | replace | in paragraph (18), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | add-at-end | Section 501(d) of the Public Health Service Act (42 U.S.C. 290aa(d)), as amended by subsection (c), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | add-at-end | Section 501(m) of the Public Health Service Act (42 U.S.C. 290aa(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290o` | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290o` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | insert | Title V of the Public Health Service Act is amended by inserting after section 501 of such Act (42 U.S.C. 290aa) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -482,7 +472,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 290aa-1` | add-at-end | in paragraph (3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa-3` | add-at-end | Section 504(b) of the Public Health Service Act (42 U.S.C. 290aa–3(b)) is amended by adding at the end the following: “In the case of any such peer review group that is reviewing a grant, cooperative agreement, or contract related to men… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | add-at-end | Section 1903(m)(2) of the Social Security Act (42 U.S.C. 1396b(m)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | by inserting before the semicolon at the end the following: “, and, (B) for individuals receiving services described in subparagraph (A), early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)), wh… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | Section 1905(a)(16) of the Social Security Act (42 U.S.C. 1396d(a)(16)) is amended by inserting before the semicolon at the end the following: “, and, effective January 1, 2019, the full-range of early and periodic screening, diagnostic,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | insert | Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended by inserting after subsection (k) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb` | insert | Part B of title V of the Public Health Service Act (42 U.S.C. 290bb et seq.) is amended by inserting after section 520L the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-37` | amend | Section 520F of the Public Health Service Act (42 U.S.C. 290bb–37) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -523,9 +513,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 254d` | insert | Section 331(a)(3)(D) of the Public Health Service Act (42 U.S.C. 254d(a)(3)) is amended by inserting “(including pediatric mental health subspecialty services)” after “pediatrics”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 254d` | insert | Clause (i) of section 331(a)(3)(E) of the Public Health Service Act (42 U.S.C. 254d(a)(3)(E)) is amended by inserting “(and pediatric subspecialists thereof)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 254l-1` | insert | Section 338B(b)(1)(B) of the Public Health Service Act (42 U.S.C. 254l–1(b)(1)(B)) is amended by inserting “, including any physician child and adolescent psychiatry residency or fellowship training program” after “be enrolled in an appr… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 295f` | amend | Section 775(e) of the Public Health Service Act (42 U.S.C. 295f(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 775(e) of the Public Health Service Act (42 U.S.C 295f(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 300gg-26` | add-at-end | Section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300gg-26` | add-at-end | Section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300gg-26` | amend | Paragraph (4) of section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1185a` | amend | Paragraph (4) of section 712(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9812` | amend | Paragraph (4) of section 9812(a) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-26` | add-at-end | Section 2726(a) of the Public Health Service Act (42 U.S.C. 300gg–26(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
