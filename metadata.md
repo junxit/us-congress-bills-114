@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 504
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 504
@@ -16,7 +16,7 @@ A resolution recognizing the 70th anniversary of the Fulbright Program.
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -25,6 +25,8 @@ A resolution recognizing the 70th anniversary of the Fulbright Program.
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -38,3 +40,5 @@ A resolution recognizing the 70th anniversary of the Fulbright Program.
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 540.
+- 2016-07-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4837-4838)
+- 2016-07-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4837-4838)
