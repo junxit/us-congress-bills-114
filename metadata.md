@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4539
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4539
@@ -84,9 +84,10 @@ version: Engrossed in House
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -99,3 +100,4 @@ version: Engrossed in House
 - 2016-07-05 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4260-4262)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4260-4262)
+- 2016-07-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
