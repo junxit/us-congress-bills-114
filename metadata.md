@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1270
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1270
@@ -62,6 +62,10 @@ Restoring Access to Medication and Improving Health Savings Act of 2016
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-07-06 — [House 114-2-351](votes/house-114-2-0351.md) — On Passage — **Passed** (243–164)
+
 ## Actions
 
 - 2015-03-04 — Introduced in House
@@ -73,3 +77,13 @@ Restoring Access to Medication and Improving Health Savings Act of 2016
 - 2015-10-23 — Placed on the Union Calendar, Calendar No. 234.
 - 2015-10-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-308.
 - 2015-10-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-308.
+- 2016-06-21 — Rules Committee Resolution H. Res. 793 Reported to House. Rule provides for consideration of H.R. 1270 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-60 shall be considered as adopted.
+- 2016-07-05 — Rule H. Res. 793 passed House.
+- 2016-07-06 — Considered under the provisions of rule H. Res. 793. (consideration: CR H4325-4331)
+- 2016-07-06 — DEBATE - The House proceeded with one hour of debate on H.R. 1270.
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-06 — On passage Passed by the Yeas and Nays: 243 - 164 (Roll no. 351). (text: CR H4325-4326)
+- 2016-07-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 243 - 164 (Roll no. 351).(text: CR H4325-4326)
+- 2016-07-06 — Rule provides for consideration of H.R. 1270 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-60 shall be considered as adopted.
+- 2016-07-06 — The previous question was ordered pursuant to the rule. (consideration: CR H4330)
