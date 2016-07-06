@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3844
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3844
@@ -20,9 +20,10 @@ Bureau of Land Management Foundation Act
 
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Bureau of Land Management Foundation Act
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4246-4248)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4246-4248)
 - 2016-07-05 — The title of the measure was amended. Agreed to without objection.
+- 2016-07-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
