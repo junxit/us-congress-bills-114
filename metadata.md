@@ -1,7 +1,7 @@
 ---
 measure: S. 2943
 congress: 114
-version: Printed as Passed
+version: Engrossed Amendment House
 ---
 
 # S. 2943
@@ -1781,3 +1781,8 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-06-16 — Message on Senate action sent to the House.
 - 2016-06-16 — Received in the House.
 - 2016-06-21 — Senate ordered measure printed as passed.
+- 2016-07-07 — Consideration initiated pursuant to H. Res. 809. (consideration: CR H4482-4483)
+- 2016-07-07 — Considered pursuant to H. Res. 809.
+- 2016-07-07 — On passage Passed without objection.
+- 2016-07-07 — Passed/agreed to in House: On passage Passed without objection.
+- 2016-07-07 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 4909. Agreed to pursuant to H. Res. 809.
