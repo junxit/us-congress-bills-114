@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 340
 congress: 114
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 340
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that the atrocities perpetrated 
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (12)
+## Cosponsors (17)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -30,6 +30,11 @@ A resolution expressing the sense of the Senate that the atrocities perpetrated 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Scott, Tim [R-SC] (S001184)
 
 ## Committees (1)
 
@@ -43,3 +48,5 @@ A resolution expressing the sense of the Senate that the atrocities perpetrated 
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2016-04-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
+- 2016-07-07 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S4920-4922; text as passed Senate: CR S4921-4922; text as reported to Senate: CR S4920-4921)
+- 2016-07-07 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S4920-4922; text as passed Senate: CR S4921-4922; text as reported to Senate: CR S4920-4921)
