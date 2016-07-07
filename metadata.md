@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5485
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5485
@@ -21,6 +21,46 @@ Financial Services and General Government Appropriations Act, 2017
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
+## Recorded votes (37)
+
+- 2016-07-06 — [House 114-2-356](votes/house-114-2-0356.md) — On Sustaining the Ruling of the Chair — **Passed** (220–168)
+- 2016-07-06 — [House 114-2-357](votes/house-114-2-0357.md) — On Agreeing to the Amendment — **Failed** (173–245)
+- 2016-07-06 — [House 114-2-358](votes/house-114-2-0358.md) — On Agreeing to the Amendment — **Failed** (166–254)
+- 2016-07-06 — [House 114-2-359](votes/house-114-2-0359.md) — On Agreeing to the Amendment — **Failed** (183–239)
+- 2016-07-06 — [House 114-2-360](votes/house-114-2-0360.md) — On Agreeing to the Amendment — **Failed** (181–236)
+- 2016-07-06 — [House 114-2-361](votes/house-114-2-0361.md) — On Agreeing to the Amendments — **Failed** (179–243)
+- 2016-07-06 — [House 114-2-362](votes/house-114-2-0362.md) — On Agreeing to the Amendment — **Failed** (183–238)
+- 2016-07-06 — [House 114-2-363](votes/house-114-2-0363.md) — On Agreeing to the Amendment — **Failed** (128–294)
+- 2016-07-06 — [House 114-2-364](votes/house-114-2-0364.md) — On Agreeing to the Amendment — **Failed** (177–245)
+- 2016-07-06 — [House 114-2-365](votes/house-114-2-0365.md) — On Agreeing to the Amendment — **Failed** (186–236)
+- 2016-07-06 — [House 114-2-366](votes/house-114-2-0366.md) — On Agreeing to the Amendment — **Failed** (182–238)
+- 2016-07-06 — [House 114-2-367](votes/house-114-2-0367.md) — On Agreeing to the Amendment — **Failed** (167–255)
+- 2016-07-06 — [House 114-2-368](votes/house-114-2-0368.md) — On Agreeing to the Amendment — **Failed** (162–255)
+- 2016-07-06 — [House 114-2-369](votes/house-114-2-0369.md) — On Agreeing to the Amendment — **Failed** (182–240)
+- 2016-07-06 — [House 114-2-370](votes/house-114-2-0370.md) — On Agreeing to the Amendment — **Failed** (182–238)
+- 2016-07-06 — [House 114-2-371](votes/house-114-2-0371.md) — On Agreeing to the Amendment — **Agreed to** (235–185)
+- 2016-07-06 — [House 114-2-372](votes/house-114-2-0372.md) — On Agreeing to the Amendment — **Agreed to** (232–187)
+- 2016-07-07 — [House 114-2-377](votes/house-114-2-0377.md) — On Agreeing to the Amendment — **Failed** (182–241)
+- 2016-07-07 — [House 114-2-378](votes/house-114-2-0378.md) — On Agreeing to the Amendment — **Failed** (197–224)
+- 2016-07-07 — [House 114-2-379](votes/house-114-2-0379.md) — On Agreeing to the Amendment — **Agreed to** (217–203)
+- 2016-07-07 — [House 114-2-380](votes/house-114-2-0380.md) — On Agreeing to the Amendment — **Agreed to** (243–180)
+- 2016-07-07 — [House 114-2-381](votes/house-114-2-0381.md) — On Agreeing to the Amendment — **Agreed to** (239–182)
+- 2016-07-07 — [House 114-2-382](votes/house-114-2-0382.md) — On Agreeing to the Amendment — **Agreed to** (236–182)
+- 2016-07-07 — [House 114-2-383](votes/house-114-2-0383.md) — On Agreeing to the Amendment — **Agreed to** (260–162)
+- 2016-07-07 — [House 114-2-384](votes/house-114-2-0384.md) — On Agreeing to the Amendment — **Agreed to** (236–188)
+- 2016-07-07 — [House 114-2-385](votes/house-114-2-0385.md) — On Agreeing to the Amendment — **Agreed to** (236–185)
+- 2016-07-07 — [House 114-2-386](votes/house-114-2-0386.md) — On Agreeing to the Amendment — **Failed** (192–232)
+- 2016-07-07 — [House 114-2-389](votes/house-114-2-0389.md) — On Agreeing to the Amendment — **Agreed to** (235–179)
+- 2016-07-07 — [House 114-2-390](votes/house-114-2-0390.md) — On Agreeing to the Amendment — **Agreed to** (223–192)
+- 2016-07-07 — [House 114-2-391](votes/house-114-2-0391.md) — On Agreeing to the Amendment — **Agreed to** (240–179)
+- 2016-07-07 — [House 114-2-392](votes/house-114-2-0392.md) — On Agreeing to the Amendment — **Agreed to** (230–193)
+- 2016-07-07 — [House 114-2-393](votes/house-114-2-0393.md) — On Agreeing to the Amendment — **Failed** (131–292)
+- 2016-07-07 — [House 114-2-394](votes/house-114-2-0394.md) — On Agreeing to the Amendment — **Failed** (189–232)
+- 2016-07-07 — [House 114-2-395](votes/house-114-2-0395.md) — On Agreeing to the Amendment — **Agreed to** (409–14)
+- 2016-07-07 — [House 114-2-396](votes/house-114-2-0396.md) — On Agreeing to the Amendment — **Agreed to** (242–179)
+- 2016-07-07 — [House 114-2-397](votes/house-114-2-0397.md) — On Motion to Recommit with Instructions — **Failed** (183–241)
+- 2016-07-07 — [House 114-2-398](votes/house-114-2-0398.md) — On Passage — **Passed** (239–185)
+
 ## Actions
 
 - 2016-03-08 — Committee on Appropriations Senate Subcommittee on Financial Services and General Government. Hearings held. With printed Hearing: S.Hrg. 114-433.
@@ -30,3 +70,441 @@ Financial Services and General Government Appropriations Act, 2017
 - 2016-06-15 — Placed on the Union Calendar, Calendar No. 484.
 - 2016-06-15 — The House Committee on Appropriations reported an original measure, H. Rept. 114-624, by Mr. Crenshaw.
 - 2016-06-15 — The House Committee on Appropriations reported an original measure, H. Rept. 114-624, by Mr. Crenshaw.
+- 2016-06-21 — Rules Committee Resolution H. Res. 794 Reported to House. Rule provides for consideration of H.R. 5485 with 1 hour of general debate. The resolution makes in order only those amendments printed in the report, amendments en bloc described in section 3 of the resolution, and pro forma amendments described in section 4 of the resolution.
+- 2016-07-05 — Rule H. Res. 794 passed House.
+- 2016-07-06 — Amendment (A001) offered by Mr. Ellison. (consideration: CR H4419-4420, H4439; text: CR H4419)
+- 2016-07-06 — Amendment (A002) offered by Mr. Duffy. (consideration: CR H4420-4422, H4439-4440; text: CR H4420-4421)
+- 2016-07-06 — Amendment (A003) offered by Mr. Becerra. (consideration: CR H4422-4423, H4440-4441; text: CR H4422)
+- 2016-07-06 — Amendment (A004) offered by Mr. Ellison. (consideration: CR H4423-4424, H4441; text: CR H4423)
+- 2016-07-06 — Amendment (A006) offered by Mr. Himes. (consideration: CR H4425-4426, H4442; text: CR H4425)
+- 2016-07-06 — Amendment (A007) offered by Mr. DeFazio. (consideration: CR H4426-4427, H4443; text: CR H4426)
+- 2016-07-06 — Amendment (A008) offered by Mr. Grayson. (consideration: CR H4427-4429, H4443; text: CR H4427)
+- 2016-07-06 — Amendment (A009) offered by Mr. Kildee. (consideration: CR H4429-4430, H4444; text: CR H4429)
+- 2016-07-06 — Amendment (A010) offered by Ms. Eshoo. (consideration: CR H4430-4431, H4444-4445; text: CR H4430)
+- 2016-07-06 — Amendment (A011) offered by Mr. Ellison. (consideration: CR H4431-4432, H4445-4446; text: CR H4431)
+- 2016-07-06 — Amendment (A012) offered by Mr. Ellison. (consideration: CR H4432-4434, H4446; text: CR H4432)
+- 2016-07-06 — Amendment (A013) offered by Ms. Sewell (AL). (consideration: CR H4434-4435, H4446-4447; text: CR H4434)
+- 2016-07-06 — Amendment (A014) offered by Ms. Norton. (consideration: CR H4435-4436, H4447-4448; text: CR H4435)
+- 2016-07-06 — Amendment (A015) offered by Mr. Amodei. (consideration: CR H4436-4437, H4448; text: CR H4436-4437)
+- 2016-07-06 — Amendment (A016) offered by Mrs. Blackburn. (consideration: CR H4437-4438, H4448-4449; text: CR H4437)
+- 2016-07-06 — Amendment agreed to Committee of the Whole
+- 2016-07-06 — Amendment agreed to Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendment failed in Committee of the Whole
+- 2016-07-06 — Amendments en bloc (A005) offered by Ms. Moore. (consideration: CR H4424-4425, H4441-4442; text: CR H4424)
+- 2016-07-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 5485 as unfinished business.
+- 2016-07-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 5485 as unfinished business.
+- 2016-07-06 — Considered as unfinished business. (consideration: CR H4419-4449)
+- 2016-07-06 — Considered under the provisions of rule H. Res. 794. (consideration: CR H4346-4392; text of measure as reported in House: CR H4362-4391)
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Amodei amendment No. 20.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Becerra amendment No. 3.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 16.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment No. 11.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment No. 2.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 1.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 15.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 16.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 4.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Eshoo amendment No. 14.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 12.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Himes amendment No. 10.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 13.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Moore en bloc amendments #1.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment No. 19.
+- 2016-07-06 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell amendment No. 17.
+- 2016-07-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5485.
+- 2016-07-06 — House amendment agreed to: On agreeing to the Amodei amendment (A015) Agreed to by recorded vote: 235 - 185 (Roll no. 371).
+- 2016-07-06 — House amendment agreed to: On agreeing to the Blackburn amendment (A016) Agreed to by recorded vote: 232 - 187 (Roll no. 372).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Becerra amendment (A003) Failed by recorded vote: 183 - 239 (Roll no. 359).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 128 - 294 (Roll no. 363).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Duffy amendment (A002) Failed by recorded vote: 166 - 254 (Roll no. 358).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Ellison amendment (A001) Failed by recorded vote: 173 - 245 (Roll no. 357).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Ellison amendment (A004) Failed by recorded vote: 181 - 236 (Roll no. 360).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Ellison amendment (A011) Failed by recorded vote: 167 - 255 (Roll no. 367).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Ellison amendment (A012) Failed by recorded vote: 162 - 255 (Roll no. 368).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Eshoo amendment (A010) Failed by recorded vote: 182 - 238 (Roll no. 366).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Grayson amendment (A008) Failed by recorded vote: 177 - 245 (Roll no. 364).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Himes amendment (A006) Failed by recorded vote: 183 - 238 (Roll no. 362).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Kildee amendment (A009) Failed by recorded vote: 186 - 236 (Roll no. 365).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Moore amendments (A005) Failed by recorded vote: 179 - 243 (Roll no. 361).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Norton amendment (A014) Failed by recorded vote: 182 - 238 (Roll no. 370).
+- 2016-07-06 — House amendment not agreed to: On agreeing to the Sewell (AL) amendment (A013) Failed by recorded vote: 182 - 240 (Roll no. 369).
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered
+- 2016-07-06 — House amendment offered/reported by : Amendment (A001) offered by Mr. Ellison.(consideration: CR H4419-4420, H4439; text: CR H4419)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A002) offered by Mr. Duffy.(consideration: CR H4420-4422, H4439-4440; text: CR H4420-4421)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A003) offered by Mr. Becerra.(consideration: CR H4422-4423, H4440-4441; text: CR H4422)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A004) offered by Mr. Ellison.(consideration: CR H4423-4424, H4441; text: CR H4423)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A006) offered by Mr. Himes.(consideration: CR H4425-4426, H4442; text: CR H4425)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A007) offered by Mr. DeFazio.(consideration: CR H4426-4427, H4443; text: CR H4426)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A008) offered by Mr. Grayson.(consideration: CR H4427-4429, H4443; text: CR H4427)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A009) offered by Mr. Kildee.(consideration: CR H4429-4430, H4444; text: CR H4429)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A010) offered by Ms. Eshoo.(consideration: CR H4430-4431, H4444-4445; text: CR H4430)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A011) offered by Mr. Ellison.(consideration: CR H4431-4432, H4445-4446; text: CR H4431)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A012) offered by Mr. Ellison.(consideration: CR H4432-4434, H4446; text: CR H4432)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A013) offered by Ms. Sewell (AL).(consideration: CR H4434-4435, H4446-4447; text: CR H4434)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A014) offered by Ms. Norton.(consideration: CR H4435-4436, H4447-4448; text: CR H4435)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A015) offered by Mr. Amodei.(consideration: CR H4436-4437, H4448; text: CR H4436-4437)
+- 2016-07-06 — House amendment offered/reported by : Amendment (A016) offered by Mrs. Blackburn.(consideration: CR H4437-4438, H4448-4449; text: CR H4437)
+- 2016-07-06 — House amendment offered/reported by : Amendments en bloc (A005) offered by Ms. Moore.(consideration: CR H4424-4425, H4441-4442; text en bloc: CR H4424)
+- 2016-07-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 794 and Rule XVIII.
+- 2016-07-06 — Mr. Chaffetz raised a point of order against the content of the measure. Mr. Chaffetz raised a point of order against a provision in H.R. 5485, stating that it violated clause 2 of rule XXI, which prohibits changing existing law in an appropriations bill. The Chair sustained the point of order.
+- 2016-07-06 — Mr. Crenshaw moved that the Committee rise.
+- 2016-07-06 — Mr. Crenshaw moved that the commitee rise.
+- 2016-07-06 — Ms. Kaptur appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.
+- 2016-07-06 — On agreeing to the Amodei amendment (A015) Agreed to by recorded vote: 235 - 185 (Roll no. 371).
+- 2016-07-06 — On agreeing to the Becerra amendment (A003) Failed by recorded vote: 183 - 239 (Roll no. 359).
+- 2016-07-06 — On agreeing to the Blackburn amendment (A016) Agreed to by recorded vote: 232 - 187 (Roll no. 372).
+- 2016-07-06 — On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 128 - 294 (Roll no. 363).
+- 2016-07-06 — On agreeing to the Duffy amendment (A002) Failed by recorded vote: 166 - 254 (Roll no. 358).
+- 2016-07-06 — On agreeing to the Ellison amendment (A001) Failed by recorded vote: 173 - 245 (Roll no. 357).
+- 2016-07-06 — On agreeing to the Ellison amendment (A004) Failed by recorded vote: 181 - 236 (Roll no. 360).
+- 2016-07-06 — On agreeing to the Ellison amendment (A011) Failed by recorded vote: 167 - 255 (Roll no. 367).
+- 2016-07-06 — On agreeing to the Ellison amendment (A012) Failed by recorded vote: 162 - 255 (Roll no. 368).
+- 2016-07-06 — On agreeing to the Eshoo amendment (A010) Failed by recorded vote: 182 - 238 (Roll no. 366).
+- 2016-07-06 — On agreeing to the Grayson amendment (A008) Failed by recorded vote: 177 - 245 (Roll no. 364).
+- 2016-07-06 — On agreeing to the Himes amendment (A006) Failed by recorded vote: 183 - 238 (Roll no. 362).
+- 2016-07-06 — On agreeing to the Kildee amendment (A009) Failed by recorded vote: 186 - 236 (Roll no. 365).
+- 2016-07-06 — On agreeing to the Moore amendments (A005) Failed by recorded vote: 179 - 243 (Roll no. 361).
+- 2016-07-06 — On agreeing to the Norton amendment (A014) Failed by recorded vote: 182 - 238 (Roll no. 370).
+- 2016-07-06 — On agreeing to the Sewell (AL) amendment (A013) Failed by recorded vote: 182 - 240 (Roll no. 369).
+- 2016-07-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-07-06 — On motion that the commitee rise Agreed to by voice vote.
+- 2016-07-06 — On sustaining the ruling of the Chair. Agreed to by recorded vote: 220 - 168 (Roll no. 356).
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amodei amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Becerra amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the ayes had prevailed. Mr. Becerra demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. McNerney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duffy amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Mr. Duffy demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the ayes had prevailed. Mr. Crenshaw demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Eshoo amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Ms. Eshoo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grayson amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Mr. Grayson demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Himes amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the ayes had prevailed. Mr. Himes demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and announced by voice vote that the noes had prevailed. Mr. Kildee demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendments, the Chair put the question on adoption of the amendments en bloc and announced by voice vote that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendments until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norton amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Norton demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sewell amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Sewell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-06 — Pursuant to the previous unanimous consent request, Ms. Moore was recognized to offer amendments 5, 6, and 7.
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Roll call votes on amendments in House
+- 2016-07-06 — Rule provides for consideration of H.R. 5485 with 1 hour of general debate. The resolution makes in order only those amendments printed in the report, amendments en bloc described in section 3 of the resolution, and pro forma amendments described in section 4 of the resolution.
+- 2016-07-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-06 — The Speaker designated the Honorable Cynthia M. Lummis to act as Chairwoman of the Committee.
+- 2016-07-06 — UNANIMOUS CONSENT AGREEMENT - Mr. Crenshaw asked unanimous consent that amendments 5, 6, and 7 may be offered en bloc. Agreed to without objection.
+- 2016-07-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-07-07 — Amendment (A017) offered by Mrs. Blackburn. (consideration: CR 7/6/2016 H4460-4462; text: CR 7/6/2016 H4460)
+- 2016-07-07 — Amendment (A018) offered by Mr. Buck. (consideration: CR 7/6/2016 H4462-4463; text: CR 7/6/2016 H4462)
+- 2016-07-07 — Amendment (A019) offered by Mr. Davidson. (consideration: CR 7/6/2016 H4463-4464; text: CR 7/6/2016 H4463)
+- 2016-07-07 — Amendment (A020) offered by Mr. Duffy. (consideration: CR H4497-4498; text: CR H4497)
+- 2016-07-07 — Amendment (A022) offered by Mr. Garrett. (consideration: CR H4500-4501, H4517-4518; text: CR H4500)
+- 2016-07-07 — Amendment (A023) offered by Mr. Garrett. (consideration: CR H4501-4502, H4518-4519; text: CR H4501)
+- 2016-07-07 — Amendment (A024) offered by Mr. Gosar. (consideration: CR H4502-4503, H4519; text: CR H4502)
+- 2016-07-07 — Amendment (A025) offered by Mr. Gosar. (consideration: CR H4503-4504; text: CR H4503)
+- 2016-07-07 — Amendment (A026) offered by Mr. Guinta. (consideration: CR H4504-4506, H4519-4520; text: CR H4504)
+- 2016-07-07 — Amendment (A027) offered by Mr. Hudson. (consideration: CR H4506-4507; text: CR H4506)
+- 2016-07-07 — Amendment (A028) offered by Mr. Huizenga (MI). (consideration: CR H4507-4510, H4520-4521; text: CR H4507)
+- 2016-07-07 — Amendment (A029) offered by Mr. Huizenga (MI). (consideration: CR H4510-4512, H4521; text: CR H4510)
+- 2016-07-07 — Amendment (A030) offered by Mr. Lance. (consideration: CR H4512; text: CR H4512)
+- 2016-07-07 — Amendment (A031) offered by Mr. King (IA). (consideration: CR H4513-4514; text: CR H4513)
+- 2016-07-07 — Amendment (A032) offered by Mr. Luetkemeyer. (consideration: CR H4514-4515; text: CR H4514)
+- 2016-07-07 — Amendment (A033) offered by Mr. Messer. (consideration: CR H4524-4525, H4537; text: CR H4524)
+- 2016-07-07 — Amendment (A034) offered by Mr. Palmer. (consideration: CR H4525-4526, H4537-4538; text: CR H4525)
+- 2016-07-07 — Amendment (A035) offered by Mr. Mullin. (consideration: CR H4526-4527, H4538-4539; text: CR H4526)
+- 2016-07-07 — Amendment (A036) offered by Mr. Posey. (consideration: CR H4527-4528, H4539; text: CR H4527)
+- 2016-07-07 — Amendment (A037) offered by Mr. Roskam. (consideration: CR H4528-4529; text: CR H4528)
+- 2016-07-07 — Amendment (A038) offered by Mr. Roskam. (consideration: CR H4529-4530; text: CR H4529)
+- 2016-07-07 — Amendment (A039) offered by Mr. Sanford. (consideration: CR H4530-4531; text: CR H4530)
+- 2016-07-07 — Amendment (A040) offered by Mr. Carney. (consideration: CR H4531-4532, H4539-4540; text: CR H4531)
+- 2016-07-07 — Amendment (A041) offered by Mr. Zeldin. (consideration: CR H4532-4533; text: CR H4532)
+- 2016-07-07 — Amendment (A042) offered by Mr. Zeldin. (consideration: CR H4533; text: CR H4533)
+- 2016-07-07 — Amendment (A043) offered by Mr. Yarmuth. (consideration: CR H4533-4534, H4540-4541; text: CR H4533)
+- 2016-07-07 — Amendment (A044) offered by Mr. Jenkins (WV). (consideration: CR H4534-4535; text: CR H4534)
+- 2016-07-07 — Amendment (A045) offered by Mr. Gallego. (consideration: CR H4535, H4541; text: CR H4535)
+- 2016-07-07 — Amendment (A046) offered by Mrs. Hartzler. (consideration: CR H4535-4536, H4541-4542; text: CR H4535)
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment agreed to Committee of the Whole
+- 2016-07-07 — Amendment failed in Committee of the Whole
+- 2016-07-07 — Amendment failed in Committee of the Whole
+- 2016-07-07 — Amendment failed in Committee of the Whole
+- 2016-07-07 — Amendment failed in Committee of the Whole
+- 2016-07-07 — Amendment failed in Committee of the Whole
+- 2016-07-07 — Amendments en bloc (A021) offered by Mr. Crenshaw. (consideration: CR H4498-4500; text: CR H4498)
+- 2016-07-07 — By unanimous consent, the Sanford amendment was withdrawn. (consideration: CR H4531)
+- 2016-07-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 5485 as unfinished business.
+- 2016-07-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 5485 as unfinished business.
+- 2016-07-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 5485 as unfinished business.
+- 2016-07-07 — Considered as unfinished business. (consideration: CR 7/6/2016 H4460-4464)
+- 2016-07-07 — Considered as unfinished business. (consideration: CR H4497-4522)
+- 2016-07-07 — Considered as unfinished business. (consideration: CR H4523-4536)
+- 2016-07-07 — Considered as unfinished business. (consideration: CR H4536-4544)
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 749, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson amendment No. 25.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 22.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 23.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment No. 26.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment No. 68.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment No. 28.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment No. 29.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 30.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 31.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Guinta amendment No. 32.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 70.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 33.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 34.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 35.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Jenkins (WV) amendment No. 58.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 38.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Lance amendment No. 37.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment No. 39.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Messer amendment No. 40.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Yarmuth amendment No. 54.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 51.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H. Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 52.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Carney amendment No. 50.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 43.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 41.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Posey amendment No. 44.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 45.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 46.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment No. 47.
+- 2016-07-07 — DEBATE - Pursuant to the provisions of H.Res. 794, the Committee of the Whole proceeded with 20 minutes on the Crenshaw en bloc amendments No. 1.
+- 2016-07-07 — DEBATE - The House proceeded with 10 minutes of debate on the Peters (CA) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to provide an additional $5,000,000 in funding for the Office of Terrorism and Financial Intelligence (TFI) in order to enhance the agencys capability to combat terrorism, drug lords, weapons of mass destruction and other national security threats.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Crenshaw amendments Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Davidson amendment (A019) Agreed to by recorded vote: 217 - 203 (Roll no. 379).(consideration: CR H4517)
+- 2016-07-07 — House amendment agreed to: On agreeing to the Duffy amendment (A020) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Gallego amendment (A045) Agreed to by recorded vote: 409 - 14 (Roll no. 395).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Garrett amendment (A022) Agreed to by recorded vote: 243 - 180 (Roll no. 380).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Garrett amendment (A023) Agreed to by recorded vote: 239 - 182 (Roll no. 381).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Gosar amendment (A024) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Gosar amendment (A025) Agreed to by recorded vote: 236 - 182 (Roll no. 382).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Guinta amendment (A026) Agreed to by recorded vote: 260 - 162, 1 Present (Roll no. 383).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Hartzler amendment (A046) Agreed to by recorded vote: 242 - 179 (Roll no. 396).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Hudson amendment (A027) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Huizenga (MI) amendment (A028) Agreed to by recorded vote: 236 - 188 (Roll no. 384).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Huizenga (MI) amendment (A029) Agreed to by recorded vote: 236 - 185 (Roll no. 385).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Jenkins (WV) amendment (A044) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Lance amendment (A030) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A032) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Messer amendment (A033) Agreed to by recorded vote: 235 - 179 (Roll no. 389).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Mullin amendment (A035) Agreed to by recorded vote: 240 - 179 (Roll no. 391).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Palmer amendment (A034) Agreed to by recorded vote: 223 - 192 (Roll no. 390).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Posey amendment (A036) Agreed to by recorded vote: 230 - 193 (Roll no. 392).
+- 2016-07-07 — House amendment agreed to: On agreeing to the Roskam amendment (A037) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Roskam amendment (A038) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Zeldin amendment (A041) Agreed to by voice vote.
+- 2016-07-07 — House amendment agreed to: On agreeing to the Zeldin amendment (A042) Agreed to by voice vote.
+- 2016-07-07 — House amendment not agreed to: On agreeing to the Blackburn amendment (A017) Failed by recorded vote: 182 - 241 (Roll no. 377).(consideration: CR H4515-4516)
+- 2016-07-07 — House amendment not agreed to: On agreeing to the Buck amendment (A018) Failed by recorded vote: 197 - 224 (Roll no. 378).(consideration: CR H4516-4517)
+- 2016-07-07 — House amendment not agreed to: On agreeing to the Carney amendment (A040) Failed by recorded vote: 131 - 292 (Roll no. 393).
+- 2016-07-07 — House amendment not agreed to: On agreeing to the King (IA) amendment (A031) Failed by recorded vote: 192 - 232 (Roll no. 386).
+- 2016-07-07 — House amendment not agreed to: On agreeing to the Yarmuth amendment (A043) Failed by recorded vote: 189 - 232 (Roll no. 394).
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered
+- 2016-07-07 — House amendment offered/reported by : Amendment (A017) offered by Mrs. Blackburn.(consideration: CR 7/6/2016 H4460-4462; text: CR 7/6/2016 H4460)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A018) offered by Mr. Buck.(consideration: CR 7/6/2016 H4462-4463; text: CR 7/6/2016 H4462)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A019) offered by Mr. Davidson.(consideration: CR 7/6/2016 H4463-4464; text: CR 7/6/2016 H4463)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A020) offered by Mr. Duffy.(consideration: CR H4497-4498; text: CR H4497)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A022) offered by Mr. Garrett.(consideration: CR H4500-4501, H4517-4518; text: CR H4500)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A023) offered by Mr. Garrett.(consideration: CR H4501-4502, H4518-4519; text: CR H4501)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A024) offered by Mr. Gosar.(consideration: CR H4502-4503, H4519; text: CR H4502)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A025) offered by Mr. Gosar.(consideration: CR H4503-4504; text: CR H4503)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A026) offered by Mr. Guinta.(consideration: CR H4504-4506, H4519-4520; text: CR H4504)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A027) offered by Mr. Hudson.(consideration: CR H4506-4507; text: CR H4506)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A028) offered by Mr. Huizenga (MI).(consideration: CR H4507-4510, H4520-4521; text: CR H4507)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A029) offered by Mr. Huizenga (MI).(consideration: CR H4510-4512, H4521; text: CR H4510)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A030) offered by Mr. Lance.(consideration: CR H4512; text: CR H4512)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A031) offered by Mr. King (IA).(consideration: CR H4513-4514; text: CR H4513)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A032) offered by Mr. Luetkemeyer.(consideration: CR H4514-4515; text: CR H4514)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A033) offered by Mr. Messer.(consideration: CR H4524-4525, H4537; text: CR H4524)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A034) offered by Mr. Palmer.(consideration: CR H4525-4526, H4537-4538; text: CR H4525)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A035) offered by Mr. Mullin.(consideration: CR H4526-4527, H4538-4539; text: CR H4526)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A036) offered by Mr. Posey.(consideration: CR H4527-4528, H4539; text: CR H4527)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A037) offered by Mr. Roskam.(consideration: CR H4528-4529; text: CR H4528)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A038) offered by Mr. Roskam.(consideration: CR H4529-4530; text: CR H4529)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A039) offered by Mr. Sanford.(consideration: CR H4530-4531; text: CR H4530)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A040) offered by Mr. Carney.(consideration: CR H4531-4532, H4539-4540; text: CR H4531)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A041) offered by Mr. Zeldin.(consideration: CR H4532-4533; text: CR H4532)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A042) offered by Mr. Zeldin.(consideration: CR H4533; text: CR H4533)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A043) offered by Mr. Yarmuth.(consideration: CR H4533-4534, H4540-4541; text: CR H4533)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A044) offered by Mr. Jenkins (WV).(consideration: CR H4534-4535; text: CR H4534)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A045) offered by Mr. Gallego.(consideration: CR H4535, H4541; text: CR H4535)
+- 2016-07-07 — House amendment offered/reported by : Amendment (A046) offered by Mrs. Hartzler.(consideration: CR H4535-4536, H4541-4542; text: CR H4535)
+- 2016-07-07 — House amendment offered/reported by : Amendments en bloc (A021) offered by Mr. Crenshaw.(consideration: CR H4498-4500; text en bloc: CR H4498)
+- 2016-07-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-07 — Mr. Crenshaw moved that the Committee now rise.
+- 2016-07-07 — Mr. Crenshaw moved that the Committee rise.
+- 2016-07-07 — Mr. Peters moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H4542-4544; text: CR H4542)
+- 2016-07-07 — Mr. Rogers (KY) moved that the committee rise.
+- 2016-07-07 — On agreeing to the Blackburn amendment (A017) Failed by recorded vote: 182 - 241 (Roll no. 377). (consideration: CR H4515-4516)
+- 2016-07-07 — On agreeing to the Buck amendment (A018) Failed by recorded vote: 197 - 224 (Roll no. 378). (consideration: CR H4516-4517)
+- 2016-07-07 — On agreeing to the Carney amendment (A040) Failed by recorded vote: 131 - 292 (Roll no. 393).
+- 2016-07-07 — On agreeing to the Crenshaw amendments Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Davidson amendment (A019) Agreed to by recorded vote: 217 - 203 (Roll no. 379). (consideration: CR H4517)
+- 2016-07-07 — On agreeing to the Duffy amendment (A020) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Gallego amendment (A045) Agreed to by recorded vote: 409 - 14 (Roll no. 395).
+- 2016-07-07 — On agreeing to the Garrett amendment (A022) Agreed to by recorded vote: 243 - 180 (Roll no. 380).
+- 2016-07-07 — On agreeing to the Garrett amendment (A023) Agreed to by recorded vote: 239 - 182 (Roll no. 381).
+- 2016-07-07 — On agreeing to the Gosar amendment (A024) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Gosar amendment (A025) Agreed to by recorded vote: 236 - 182 (Roll no. 382).
+- 2016-07-07 — On agreeing to the Guinta amendment (A026) Agreed to by recorded vote: 260 - 162, 1 Present (Roll no. 383).
+- 2016-07-07 — On agreeing to the Hartzler amendment (A046) Agreed to by recorded vote: 242 - 179 (Roll no. 396).
+- 2016-07-07 — On agreeing to the Hudson amendment (A027) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Huizenga (MI) amendment (A028) Agreed to by recorded vote: 236 - 188 (Roll no. 384).
+- 2016-07-07 — On agreeing to the Huizenga (MI) amendment (A029) Agreed to by recorded vote: 236 - 185 (Roll no. 385).
+- 2016-07-07 — On agreeing to the Jenkins (WV) amendment (A044) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the King (IA) amendment (A031) Failed by recorded vote: 192 - 232 (Roll no. 386).
+- 2016-07-07 — On agreeing to the Lance amendment (A030) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Luetkemeyer amendment (A032) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Messer amendment (A033) Agreed to by recorded vote: 235 - 179 (Roll no. 389).
+- 2016-07-07 — On agreeing to the Mullin amendment (A035) Agreed to by recorded vote: 240 - 179 (Roll no. 391).
+- 2016-07-07 — On agreeing to the Palmer amendment (A034) Agreed to by recorded vote: 223 - 192 (Roll no. 390).
+- 2016-07-07 — On agreeing to the Posey amendment (A036) Agreed to by recorded vote: 230 - 193 (Roll no. 392).
+- 2016-07-07 — On agreeing to the Roskam amendment (A037) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Roskam amendment (A038) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Yarmuth amendment (A043) Failed by recorded vote: 189 - 232 (Roll no. 394).
+- 2016-07-07 — On agreeing to the Zeldin amendment (A041) Agreed to by voice vote.
+- 2016-07-07 — On agreeing to the Zeldin amendment (A042) Agreed to by voice vote.
+- 2016-07-07 — On motion that the Committee now rise Agreed to by voice vote.
+- 2016-07-07 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-07-07 — On motion that the committee rise Agreed to by voice vote.
+- 2016-07-07 — On motion to recommit with instructions Failed by the Yeas and Nays: 183 - 241 (Roll no. 397). (consideration: CR H4544)
+- 2016-07-07 — On passage Passed by the Yeas and Nays: 239 - 185 (Roll no. 398).
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Carney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallego amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gallego demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment No. 28, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment No. 29, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 31, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Guinta amendment No. 32, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hartzler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huizenga amendment No. 34, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huizenga amendment No. 35, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment No. 38, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Messer amendment No. 40, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment No. 43, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment No. 41, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Posey amendment No. 44, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Yarmuth amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Yarmuth demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 239 - 185 (Roll no. 398).
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — Roll call votes on amendments in House
+- 2016-07-07 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-07-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5485.
+- 2016-07-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4543)
+- 2016-07-07 — The previous question was ordered pursuant to the rule. (consideration: CR H4542)
+- 2016-07-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-07-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

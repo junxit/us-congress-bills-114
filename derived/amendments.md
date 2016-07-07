@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5485
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -694,13 +694,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “as provided for in appropriation Acts” after “to the Office”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
-| — | replace | In subsection (d), by striking the heading and inserting “ASSESSMENT SCHEDULE.—”. | the bill names no machine-readable US Code section |
+| — | replace | In subsection (d), by striking the heading and inserting “Assessment Schedule.—”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1871(b) of title 28, United States Code, is amended in paragraph (1) by striking “$40” and inserting “$50”. | the bill names no machine-readable US Code section |
 | `28 U.S.C. § 152` | add-at-end | Section 2(a)(2) of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note; Public Law 112–121) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 152` | redesignate | by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 152` | redesignate | by inserting before clause (ii), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 152` | redesignate | in clause (ii), as so redesignated, by inserting “in the case of the 3d and 4th vacancies,” before “occurring more than 5 years”. | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1321` | repeal | Local funds are appropriated for the District of Columbia for the current fiscal year out of the General Fund of the District of Columbia (“General Fund”) for programs and activities set forth under the heading “Part A--Summary of Expens… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1321` | repeal | Local funds are appropriated for the District of Columbia for the current fiscal year out of the General Fund of the District of Columbia (“General Fund”) for programs and activities set forth under the heading “Part A—Summary of Expense… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 1017(a)(2)(C) of Public Law 111–203 is repealed. | the bill names no machine-readable US Code section |
 | `12 U.S.C. § 5491` | strike | by striking subsections (b), (c), and (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5491` | redesignate | by redesignating subsection (e) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -713,7 +713,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B); | the bill names no machine-readable US Code section |
 | — | replace | by striking “homeland security” in each instance it appears and inserting “cybersecurity”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by amending subparagraph (B) (as redesignated by paragraph (1)) to read as follows: | the bill names no machine-readable US Code section |
-| — | repeal | Effective one year after the date of the enactment of this Act, subtitle B of title IV of Public Law 102—281 is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Effective one year after the date of the enactment of this Act, subtitle B of title IV of Public Law 102–281 is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “The General Fund” and inserting “(a) In general.—The General Fund”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “existing”; and | the bill names no machine-readable US Code section |
