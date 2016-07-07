@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2646
@@ -275,3 +275,4 @@ Helping Families in Mental Health Crisis Act of 2016
 - 2016-07-06 — Placed on the Union Calendar, Calendar No. 517.
 - 2016-07-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-667, Part I.
 - 2016-07-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-667, Part I.
+- 2016-07-07 — Received in the Senate.
