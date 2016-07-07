@@ -1,7 +1,7 @@
 ---
 measure: S. 2340
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2340
@@ -33,3 +33,5 @@ Making Electronic Government Accountable By Yielding Tangible Efficiencies Act o
 - 2016-06-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-289.
 - 2016-06-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-289.
 - 2016-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 533.
+- 2016-07-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4922; text of amendment in the nature of a substitute: CR S4922)
+- 2016-07-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4922; text of amendment in the nature of a substitute: CR S4922)

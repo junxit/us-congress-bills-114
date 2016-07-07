@@ -11,22 +11,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2015” or the “MEGABYTE Act of 2015”.
+This Act may be cited as the “Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016” or the “MEGABYTE Act of 2016”.
 
 ## § 2. OMB Directive on management of software licenses
 
-- **(a)** *Definition* In this section—
+- **(a)** *Definitions* In this section—
   - **(1)** the term Director means the Director of the Office of Management and Budget; and
-  - **(2)** the term executive agency has the meaning given that term in section 105 of title 5, United States Code.
-- **(b)** *OMB Directive* The Director shall issue a directive to require each executive agency to develop a comprehensive software licensing policy, which shall—
-  - **(1)** identify clear roles, responsibilities, and central oversight authority within the executive agency for managing enterprise software license agreements and commercial software licenses; and
-  - **(2)** require the executive agency to—
-    - **(A)** establish a comprehensive inventory, including 80 percent of software license spending and enterprise licenses in the executive agency, by identifying and collecting information about software license agreements using automated discovery and inventory tools;
-    - **(B)** regularly track and maintain software licenses to assist the executive agency in implementing decisions throughout the software license management life cycle;
+  - **(2)** the term Executive agency has the meaning given that term in section 105 of title 5, United States Code.
+- **(b)** *OMB Directive* The Director shall issue a directive to require the Chief Information Officer of each Executive agency to develop a comprehensive software licensing policy, which shall—
+  - **(1)** identify clear roles, responsibilities, and central oversight authority within the Executive agency for managing enterprise software license agreements and commercial software licenses; and
+  - **(2)** require the Chief Information Officer of each Executive agency to—
+    - **(A)** establish a comprehensive inventory, including 80 percent of software license spending and enterprise licenses in the Executive agency, by identifying and collecting information about software license agreements using automated discovery and inventory tools;
+    - **(B)** regularly track and maintain software licenses to assist the Executive agency in implementing decisions throughout the software license management life cycle;
     - **(C)** analyze software usage and other data to make cost-effective decisions;
     - **(D)** provide training relevant to software license management;
-    - **(E)** establish goals and objectives of the software license management program of the executive agency; and
-    - **(F)** consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, and disposal phases, to implement effective decision making and incorporate existing standards, processes, and metrics.
+    - **(E)** establish goals and objectives of the software license management program of the Executive agency; and
+    - **(F)** consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, and disposal phases, to implement effective decision-making and incorporate existing standards, processes, and metrics.
 - **(c)** *Report on software license management*
-  - **(1)** *In general* Beginning in the first fiscal year beginning after the date of enactment of this Act, and in each fiscal year thereafter through fiscal year 2018, each executive agency shall submit to the Director a report on the financial savings or avoidance of spending that resulted from improved software license management.
+  - **(1)** *In general* Beginning in the first fiscal year beginning after the date of enactment of this Act, and in each of the following 5 fiscal years, the Chief Information Officer of each Executive agency shall submit to the Director a report on the financial savings or avoidance of spending that resulted from improved software license management.
   - **(2)** *Availability* The Director shall make each report submitted under paragraph (1) publically available.
