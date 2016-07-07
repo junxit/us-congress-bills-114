@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4369
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4369
@@ -26,9 +26,10 @@ To authorize the use of passenger facility charges at an airport previously asso
 - Rep. Takano, Mark [D-CA-41] (T000472)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To authorize the use of passenger facility charges at an airport previously asso
 - 2016-06-21 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2016-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3983)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3983)
+- 2016-07-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
