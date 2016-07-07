@@ -1,7 +1,7 @@
 ---
 measure: S. 764
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 764
@@ -37,13 +37,14 @@ A bill to reauthorize and amend the National Sea Grant College Program Act, and 
 - Senate — Commerce, Science, and Transportation Committee
 - House — Natural Resources Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2016-03-16 — [Senate 114-2-37](votes/senate-114-2-0037.md) — On the Cloture Motion — **Cloture Motion Rejected** (48–49)
 - 2016-06-29 — [Senate 114-2-117](votes/senate-114-2-0117.md) — On the Motion — **Motion Agreed to** (68–29)
 - 2016-07-06 — [Senate 114-2-121](votes/senate-114-2-0121.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–32)
 - 2016-07-07 — [Senate 114-2-122](votes/senate-114-2-0122.md) — On the Motion to Table — **Motion to Table Failed** (31–62)
 - 2016-07-07 — [Senate 114-2-123](votes/senate-114-2-0123.md) — On the Motion — **Motion Agreed to** (63–30)
+- 2016-07-14 — [House 114-2-466](votes/house-114-2-0466.md) — On Motion to Concur in the Senate Amendment to the House Amendment — **Passed** (306–117)
 
 ## Actions
 
@@ -157,3 +158,19 @@ A bill to reauthorize and amend the National Sea Grant College Program Act, and 
 - 2016-07-07 — Senate amendment agreed to: Amendment SA 4935 agreed to in Senate by Yea-Nay Vote. 63 - 30. Record Vote Number: 123.
 - 2016-07-07 — Senate amendment not agreed to: Amendment SA 4936 not agreed to in Senate by Voice Vote.
 - 2016-07-07 — Senate concurred in the House amendment to S. 764 with an amendment (SA 4935) by Yea-Nay Vote. 63 - 30. Record Vote Number: 123. (consideration: CR S4910)
+- 2016-07-08 — Message on Senate action sent to the House.
+- 2016-07-12 — Rules Committee Resolution H. Res. 822 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Provides for consideration of the Senate amendment to the House amendment to S. 764. The resolution makes in order a motion that the House agree to the Senate amendment to the House amendment to S. 764.
+- 2016-07-14 — DEBATE - The House proceeded with 1 hour of debate on the motion to concur in the Senate amendment to the House amendment to S. 764.
+- 2016-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-14 — ORDER OF PROCEDURE - Mr. Conaway asked unanimous consent that the question on adoption of the motion to concur in the Senate amendment to the House amendment to S. 764 be subject to postponement as though under clause 8 of rule 20. Agreed to without objection. (consideration: CR H4932-4939, H4964-4965)
+- 2016-07-14 — On motion that the House agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays: 306 - 117 (Roll no. 466). (text: CR H4932-4933)
+- 2016-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to concur in the Senate amendment to the House amendment to S. 764, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Welch demanded the yeas and nays, and the Chair postponed further proceedings on the motion pursuant to a previous order until later in the legislative day.
+- 2016-07-14 — Pursuant to the provisions of H. Hes. 822, Mr. Conaway moved that the House concur in the Senate amendment to the House amendment. (consideration: CR H4933; text: CR H4933)
+- 2016-07-14 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays: 306 - 117 (Roll no. 466).(text: CR H4932-4933)
+- 2016-07-14 — The previous question was ordered pursuant to the rule. (consideration: CR H4939)
+- 2016-07-19 — Presented to President.
+- 2016-07-19 — Presented to President.
+- 2016-07-29 — Became Public Law No: 114-216.
+- 2016-07-29 — Became Public Law No: 114-216.
+- 2016-07-29 — Signed by President.
+- 2016-07-29 — Signed by President.

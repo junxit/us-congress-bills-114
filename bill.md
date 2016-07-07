@@ -1,15 +1,13 @@
 ---
 legis-num: S. 764
-congress: 114th CONGRESS
-session: 2D Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 764
 
-That the Senate agree to the amendment of the House of Representatives to the text of the bill (S. 764) entitled “An Act to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.
 
 ## § 1. National bioengineered food disclosure standard
 
