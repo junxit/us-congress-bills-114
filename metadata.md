@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3079
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3079
@@ -40,3 +40,5 @@ To take certain Federal land located in Tuolumne County, California, into trust 
 - 2016-07-05 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
 - 2016-07-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4257)
 - 2016-07-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4257)
+- 2016-07-06 — Received in the Senate.
+- 2016-07-07 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 549.
