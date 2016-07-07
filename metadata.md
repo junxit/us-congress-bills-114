@@ -1,7 +1,7 @@
 ---
 measure: S. 2943
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2943
@@ -1012,7 +1012,7 @@ National Defense Authorization Act for Fiscal Year 2017
 
 - Senate — Armed Services Committee
 
-## Recorded votes (8)
+## Recorded votes (14)
 
 - 2016-05-25 — [Senate 114-2-87](votes/senate-114-2-0087.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (98–0)
 - 2016-06-06 — [Senate 114-2-89](votes/senate-114-2-0089.md) — On the Amendment — **Amendment Agreed to** (91–0)
@@ -1022,6 +1022,12 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-06-09 — [Senate 114-2-96](votes/senate-114-2-0096.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–42)
 - 2016-06-10 — [Senate 114-2-97](votes/senate-114-2-0097.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–23)
 - 2016-06-14 — [Senate 114-2-98](votes/senate-114-2-0098.md) — On Passage of the Bill — **Bill Passed** (85–13)
+- 2016-07-14 — [Senate 114-2-130](votes/senate-114-2-0130.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–7)
+- 2016-07-14 — [Senate 114-2-131](votes/senate-114-2-0131.md) — On the Motion — **Motion Agreed to** (84–12)
+- 2016-07-14 — [Senate 114-2-132](votes/senate-114-2-0132.md) — On the Motion — **Motion Agreed to** (85–12)
+- 2016-12-02 — [House 114-2-600](votes/house-114-2-0600.md) — On Agreeing to the Conference Report — **Passed** (375–34)
+- 2016-12-07 — [Senate 114-2-158](votes/senate-114-2-0158.md) — On the Cloture Motion — **Cloture Motion Agreed to** (92–7)
+- 2016-12-08 — [Senate 114-2-159](votes/senate-114-2-0159.md) — On the Conference Report — **Conference Report Agreed to** (92–7)
 
 ## Actions
 
@@ -1786,3 +1792,61 @@ National Defense Authorization Act for Fiscal Year 2017
 - 2016-07-07 — On passage Passed without objection.
 - 2016-07-07 — Passed/agreed to in House: On passage Passed without objection.
 - 2016-07-07 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 4909. Agreed to pursuant to H. Res. 809.
+- 2016-07-08 — DEBATE - The House proceeded with one hour of debate on the motion from Mr. Thornberry.
+- 2016-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-08 — Mr. Thornberry moved that the House close portions of the conference. (consideration: CR H4562)
+- 2016-07-08 — Mr. Thornberry moved that the House insist upon its amendment, and request a conference. (consideration: CR H4554)
+- 2016-07-08 — On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote. (consideration: CR H4554)
+- 2016-07-08 — Pursuant to the provisions of H.Res. 809, Mr. Thornberry moved that the House insist upon its amendment, and request a conference. (consideration: CR H4554)
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the Senate bill and the House amendment, and modifications committed to conference: Thornberry, Forbes, Miller (FL), Wilson (SC), LoBiondo, Bishop (UT), Turner, Kline, Rogers (AL), Franks (AZ), Shuster, Conaway, Lamborn, Wittman, Gibson, Hartzler, Heck (NV), Stefanik, Smith (WA), Sanchez, Loretta, Davis (CA), Langevin, Larsen (WA), Cooper, Bordallo, Courtney, Tsongas, Garamendi, Johnson (GA), Speier, and Peters.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 571-74 and 578 of the Senate bill, and secs. 571, 573, 1098E, and 3512 of the House amendment, and modifications committed to conference: Walberg, Guthrie, and Scott (VA).
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 3112 and 3123 of the Senate bill, and secs. 346, 601, 749, 1045, 1090, 1095, 1673, 3119A, and 3119C of the House amendment, and modifications committed to conference:: Latta, Johnson of Ohio, and Pallone.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 828, 1006, 1007, 1050, 1056, 1089, 1204, 1211, 1221-23, 1231, 1232, 1242, 1243, 1247, 1252, 1253, 1255-58, 1260, 1263, 1264, 1271-73, 1276, 1283, 1301, 1302, 1531-33, and 1662 of the Senate bill, and secs. 926, 1011, 1013, 1083, 1084, 1098K, 1099B, 1099C, 1201, 1203, 1214, 1221-23, 1227, 1229, 1233, 1235, 1236, 1245, 1246, 1250, 1259A-59E, 1259J, 1259L, 1259P, 1259Q, 1259U, 1261, 1262, 130103, 1510, 1531-33, 1645, 1653, and 2804 of the House amendment, and modifications committed to conference: Royce, Zeldin, and Engel.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of secs. 564 and 1091 of the Senate bill, and secs. 1097, 1869, 1869A, and 3510 of the House amendment, and modifications committed to conference: McCaul, Donovan, and Thompson (MS).
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 601, 2825, subtitle D of title XXVIII, and sec. 2852 of the Senate bill, and secs. 312, 601, 1090, 1098H, 2837, 2839, 2839A, subtitle E of title XXVIII, secs. 2852, 2854, 2855, 2864-66, title XXX, secs. 3508, 7005, and title LXXIII of the House amendment, and modifications committed to conference: Cook, Hardy, and Grijalva.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 339, 703, 819, 821, 829H, 829I, 861, 944, 1048, 1054, 1097, 1103-07, 1109-13, 1121, 1124, 1131-33, 1135, and 1136 of the Senate bill, and secs. 574, 603, 807, 821, 1048, 1088, 1095, 1098L, 1101, 1102, 1104-06, 1108-11, 1113, 1259C, and 1631 of the House amendment, and modifications committed to conference: Chaffetz, Russell, and Cummings.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of sec. 874 of the Senate bill and secs. 1605, 1673, and title XXXIII of the House amendment, and modifications committed to conference: Smith (TX), Weber (TX), and Johnson, E. B.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 818, 838, 874, and 898 of the Senate bill, and title XVIII of the House amendment, and modifications committed to conference: Chabot, Knight, and Velazquez.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 541, 562, 601, 961, 3302-07, 3501, and 3502 of the Senate bill, and secs. 343, 601, 731, 835, 1043, 1671, 3119C, 3501, 3504, 3509, 3512, and title XXXVI of the House amendment, and modifications committed to conference: Hunter, Rouzer, and Maloney, Sean.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 706, 755, and 1431 of the Senate bill, and secs. 741, 1421, and 1864 of the House amendment, and modifications committed to conference: Roe (TN), Bost, and Takano.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of sec. 1271 of the Senate bill, and modifications committed to conference: Brady (TX), Reichert, and Levin.
+- 2016-07-08 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 829J, 829K, 944, 963, 1006, 1023-25, 1053, 1093, 1283, 3303, and 3304 of the Senate bill, and secs. 598, 1090, 1098H, 1216, 1261, and 3608 of the House amendment, and modifications committed to conference: Goodlatte, Issa, and Conyers.
+- 2016-07-08 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Nunes, Pompeo, and Schiff.
+- 2016-07-08 — The previous question was ordered without objection. (consideration: CR H4554)
+- 2016-07-11 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2016-07-14 — Cloture motion on the motion to disagree to the House amendment to the Senate bill, agree to request for conference, and appoint the following conferees: McCain, Inhofe, Sessions, Wicker, Ayotte, Fischer, Cotton, Rounds, Ernst, Tillis, Sullivan, Lee, Graham, Cruz, Reed, Nelson, McCaskill, Manchin, Shaheen, Gillibrand, Blumenthal, Donnelly, Hirono, Kaine, King, and Heinrich presented in Senate. (consideration: CR S5111)
+- 2016-07-14 — Cloture on the motion to disagree to the House amendment to the Senate bill, agree to request for conference, and appoint the following conferees: McCain, Inhofe, Sessions, Wicker, Ayotte, Fischer, Cotton, Rounds, Ernst, Tillis, Sullivan, Lee, Graham, Cruz, Reed, Nelson, McCaskill, Manchin, Shaheen, Gillibrand, Blumenthal, Donnelly, Hirono, Kaine, King, and Heinrich invoked in Senate by Yea-Nay Vote. 90 - 7. Record Vote Number: 130. (consideration: CR S5111)
+- 2016-07-14 — Measure laid before Senate by unanimous consent. (consideration: CR S5111-5114)
+- 2016-07-14 — Message on Senate action sent to the House.
+- 2016-07-14 — Motion by Senator Shaheen to instruct Senate conferees (Afghan Special Immigrant Visa program) agreed to in Senate by Yea-Nay Vote. 84 - 12. Record Vote Number: 131. (consideration: CR S5111-5112)
+- 2016-07-14 — Motion by Senator Sullivan to instruct Senate conferees (military operations) agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 132. (consideration: CR S5112-5113, S5113)
+- 2016-07-14 — Motion to disagree to the House amendment to the Senate bill, agree to request for conference, and appoint the following conferees: McCain, Inhofe, Sessions, Wicker, Ayotte, Fischer, Cotton, Rounds, Ernst, Tillis, Sullivan, Lee, Graham, Cruz, Reed, Nelson, McCaskill, Manchin, Shaheen, Gillibrand, Blumenthal, Donnelly, Hirono, Kaine, King, and Heinrich made in Senate.
+- 2016-07-14 — Senate disagrees to the House amendment to the Senate bill, agrees to request for conference, appoints the following conferees: McCain, Inhofe, Sessions, Wicker, Ayotte, Fischer, Cotton, Rounds, Ernst, Tillis, Sullivan, Lee, Graham, Cruz, Reed, Nelson, McCaskill, Manchin, Shaheen, Gillibrand, Blumenthal, Donnelly, Hirono, Kaine, King, and Heinrich by Unanimous Consent.
+- 2016-11-30 — Conferees agreed to file conference report.
+- 2016-11-30 — Conference committee actions: Conferees agreed to file conference report.
+- 2016-11-30 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2016-11-30 — Conference report H. Rept. 114-840 filed. (text of conference report: CR H6376-6885)
+- 2016-11-30 — Conference report filed: Conference report H. Rept. 114-840 filed.(text of conference report: CR H6376-6885)
+- 2016-11-30 — Rules Committee Resolution H. Res. 937 Reported to House. Rule provides for consideration of the conference report to S. 2943 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The resolution waives all points of order against the conference report and against its consideration
+- 2016-12-01 — Rule H. Res. 937 passed House.
+- 2016-12-02 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 375 - 34 (Roll no. 600).
+- 2016-12-02 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany S. 2943.
+- 2016-12-02 — Motions to reconsider laid on the table Agreed to without objection.
+- 2016-12-02 — Mr. Thornberry brought up conference report H. Rept. 114-840 for consideration under the provisions of H. Res. 937. (consideration: CR H7123-7134)
+- 2016-12-02 — On agreeing to the conference report Agreed to by the Yeas and Nays: 375 - 34 (Roll no. 600).
+- 2016-12-02 — The previous question was ordered pursuant to the rule. (consideration: CR H7133)
+- 2016-12-05 — Cloture motion on the conference report presented in Senate. (consideration: CR S6684-6685; text: CR S6685)
+- 2016-12-05 — Conference papers: message on House action held at the desk in Senate.
+- 2016-12-07 — Cloture on the conference report invoked in Senate by Yea-Nay Vote. 92 - 7. Record Vote Number: 158. (consideration: CR S6795; text: CR S6795)
+- 2016-12-07 — Conference report considered in Senate. (consideration: CR S6795-6826)
+- 2016-12-08 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 92 - 7. Record Vote Number: 159.
+- 2016-12-08 — Conference report considered in Senate. (consideration: CR S6862-6873)
+- 2016-12-08 — Message on Senate action sent to the House.
+- 2016-12-08 — Senate agreed to conference report by Yea-Nay Vote. 92 - 7. Record Vote Number: 159.
+- 2016-12-10 — Pursuant to the provisions of H. Con. Res. 179, enrollment corrections on S. 2943 have been made.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-23 — Became Public Law No: 114-328.
+- 2016-12-23 — Became Public Law No: 114-328.
+- 2016-12-23 — Signed by President.
+- 2016-12-23 — Signed by President.
