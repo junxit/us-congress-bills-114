@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 921
@@ -33,3 +33,7 @@ Delaware River Basin Conservation Act of 2015
 
 - 2015-04-14 — Introduced in Senate
 - 2015-04-14 — Read twice and referred to the Committee on Environment and Public Works.
+- 2016-05-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2016-07-07 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-294.
+- 2016-07-07 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 114-294.
+- 2016-07-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.
