@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 985
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,25 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Concrete Masonry Products Research, Education, and Promotion Act of 2015”.
 
-## § 2. Findings and declaration of policy
+## § 2. Declaration of policy
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The production of concrete masonry products plays a significant role in the economy of the United States.
-  - **(2)** Concrete masonry products are produced by hundreds of concrete manufacturers and utilized throughout the United States and foreign countries.
-  - **(3)** Concrete masonry products move in the channels of interstate and foreign commerce, and concrete masonry products that do not move in such channels of commerce directly burden or affect interstate commerce of concrete masonry products.
-  - **(4)** The concrete masonry products industry employs thousands of workers and positively impacts economic stability throughout the United States.
-  - **(5)** The maintenance and expansion of existing markets for concrete masonry products and the development of new markets are vital to the welfare of concrete manufacturers in the United States and those concerned with marketing and using concrete masonry products as well as the general economic welfare of the United States.
-  - **(6)** The concrete masonry products industry plays a vital role in providing safe, environmentally sustainable, and economical construction for citizens of the United States and abroad.
-  - **(7)** Concrete masonry products are used for the construction of structures that protect and provide shelter for citizens during disasters (earthquakes, floods, hurricanes, tornados, fire, et cetera).
-  - **(8)** Concrete masonry structures provide energy efficiencies to reduce American energy demands.
-  - **(9)** Concrete masonry provides for durable structures that support sustainability objectives, reducing long-term demands on natural resources.
-  - **(10)** Concrete masonry products are made using locally available resources throughout the United States, reducing transportation and infrastructure demands.
-  - **(11)** Concrete masonry products are used to support the construction of durable and cost-efficient, low-income housing.
-- **(b)** *Purpose* The purpose of this Act is to authorize the establishment of an orderly program for developing, financing, and carrying out an effective, continuous, and coordinated program of research, education, and promotion, including funds for marketing and market research activities, that is designed to—
+- **(a)** *Purpose* The purpose of this Act is to authorize the establishment of an orderly program for developing, financing, and carrying out an effective, continuous, and coordinated program of research, education, and promotion, including funds for marketing and market research activities, that is designed to—
   - **(1)** strengthen the position of the concrete masonry products industry in the domestic marketplace;
-  - **(2)** maintain, develop, and expand markets and uses for concrete masonry products in the domestic and foreign marketplaces; and
-  - **(3)** promote the use of concrete masonry products in environmentally sustainable construction and building.
-- **(c)** *Limitation* Nothing in this Act may be construed to provide for the control of production or otherwise limit the right of any person to manufacture concrete masonry products.
+  - **(2)** maintain, develop, and expand markets and uses for concrete masonry products in the domestic marketplace; and
+  - **(3)** promote the use of concrete masonry products in construction and building.
+- **(b)** *Limitation* Nothing in this Act may be construed to provide for the control of production or otherwise limit the right of any person to manufacture concrete masonry products.
 
 ## § 3. Definitions
 
@@ -43,19 +31,20 @@ For the purposes of this Act:
 - **(4)** *Commerce* The term commerce includes interstate, foreign, and intrastate commerce.
 - **(5)** *Concrete masonry products* The term concrete masonry products refers to a broader class of products, including concrete masonry units as well as hardscape products such as concrete pavers and segmental retaining wall units, manufactured on a block machine using dry-cast concrete.
 - **(6)** *Concrete masonry unit* The term concrete masonry unit means a concrete masonry product that is a manmade masonry unit having an actual width of 3 inches or greater and manufactured from dry-cast concrete using a block machine. Such term includes concrete block and related concrete units used in masonry applications.
-- **(7)** *Department* The term Department means the Department of Commerce.
-- **(8)** *Dry-Cast concrete* The term dry-cast concrete means a composite material that is composed essentially of aggregates embedded in a binding medium composed of a mixture of cementitious materials (including hydraulic cement, pozzolans, or other cementitious materials) and water of such a consistency to maintain its shape after forming in a block machine.
-- **(9)** *Education* The term education means programs that will educate or communicate the benefits of concrete masonry products in safe and environmentally sustainable development, advancements in concrete masonry product technology and development, and other information and programs designed to generate increased demand for commercial, residential, multi-family, and institutional projects using concrete masonry products and to generally enhance the image of concrete masonry products.
-- **(10)** *Machine cavities* The term machine cavities means the cavities with which a block machine could be equipped.
-- **(11)** *Machine cavities in operation* The term machine cavities in operation means those machine cavities associated with a block machine that have produced concrete masonry units within the last 6 months of the date set for determining eligibility and is fully operable and capable of producing concrete masonry units.
-- **(12)** *Manufacturer* The term manufacturer means any person engaged in the manufacturing of commercial concrete masonry products.
-- **(13)** *Masonry unit* The term masonry unit means a noncombustible building product intended to be laid by hand or joined using mortar, grout, surface bonding, post-tensioning or some combination of these methods.
-- **(14)** *Order* The term order means an order issued under section 4.
-- **(15)** *Person* The term person means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity.
-- **(16)** *Promotion* The term promotion means any action, including paid advertising, to advance the image and desirability of concrete masonry products with the express intent of improving the competitive position and stimulating sales of concrete masonry products in the marketplace.
-- **(17)** *Research* The term research means studies testing the effectiveness of market development and promotion efforts, studies relating to the improvement of concrete masonry products and new product development, and studies documenting the performance of concrete masonry.
-- **(18)** *Secretary* The term Secretary means the Secretary of Commerce.
-- **(19)** *United States* The term United States means the several States and the District of Columbia.
+- **(7)** *Conflict of interest* The term conflict of interest means, with respect to a member or employee of the Board, a situation in which such member or employee has a direct or indirect financial or other interest in a person that performs a service for, or enters into a contract with, for anything of economic value.
+- **(8)** *Department* The term Department means the Department of Commerce.
+- **(9)** *Dry-Cast concrete* The term dry-cast concrete means a composite material that is composed essentially of aggregates embedded in a binding medium composed of a mixture of cementitious materials (including hydraulic cement, pozzolans, or other cementitious materials) and water of such a consistency to maintain its shape after forming in a block machine.
+- **(10)** *Education* The term education means programs that will educate or communicate the benefits of concrete masonry products in safe and environmentally sustainable development, advancements in concrete masonry product technology and development, and other information and programs designed to generate increased demand for commercial, residential, multi-family, and institutional projects using concrete masonry products and to generally enhance the image of concrete masonry products.
+- **(11)** *Machine cavities* The term machine cavities means the cavities with which a block machine could be equipped.
+- **(12)** *Machine cavities in operation* The term machine cavities in operation means those machine cavities associated with a block machine that have produced concrete masonry units within the last 6 months of the date set for determining eligibility and is fully operable and capable of producing concrete masonry units.
+- **(13)** *Manufacturer* The term manufacturer means any person engaged in the manufacturing of commercial concrete masonry products in the United States.
+- **(14)** *Masonry unit* The term masonry unit means a noncombustible building product intended to be laid by hand or joined using mortar, grout, surface bonding, post-tensioning or some combination of these methods.
+- **(15)** *Order* The term order means an order issued under section 4.
+- **(16)** *Person* The term person means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity.
+- **(17)** *Promotion* The term promotion means any action, including paid advertising, to advance the image and desirability of concrete masonry products with the express intent of improving the competitive position and stimulating sales of concrete masonry products in the marketplace.
+- **(18)** *Research* The term research means studies testing the effectiveness of market development and promotion efforts, studies relating to the improvement of concrete masonry products and new product development, and studies documenting the performance of concrete masonry.
+- **(19)** *Secretary* The term Secretary means the Secretary of Commerce.
+- **(20)** *United States* The term United States means the several States and the District of Columbia.
 
 ## § 4. Issuance of orders
 
@@ -64,15 +53,15 @@ For the purposes of this Act:
   - **(2)** *Scope* Any order shall be national in scope.
   - **(3)** *One order* Not more than one order shall be in effect at any one time.
 - **(b)** *Procedures*
-  - **(1)** *Development or receipt of proposed order* A proposed order with respect to concrete masonry products may be—
-    - **(A)** prepared by the Secretary at any time; or
+  - **(1)** *Development or receipt of proposed order* A proposed order with respect to the generic research, education, and promotion with regards to concrete masonry products may be—
+    - **(A)** proposed by the Secretary at any time; or
     - **(B)** requested by or submitted to the Secretary by—
       - **(i)** an existing national organization of concrete masonry product manufacturers; or
-      - **(ii)** any person that may be affected by the issuance of an order with respect to concrete masonry products.
-  - **(2)** *Publication of proposed order* Not later than 60 days after receiving a proposed order or a request for a proposed order in accordance with subparagraph (B) of paragraph (1), the Secretary shall publish a proposed order in the Federal Register and give 30 days notice and opportunity for public comment on the proposed order.
+      - **(ii)** any person that may be affected by the issuance of an order.
+  - **(2)** *Publication of proposed order* If the Secretary determines that a proposed order received in accordance with paragraph (1)(B) is consistent with and will effectuate the purpose of this Act, the Secretary shall publish such proposed order in the Federal Register not later than 90 days after receiving the order, and give not less than 30 days notice and opportunity for public comment on the proposed order.
   - **(3)** *Issuance of order*
     - **(A)** *In general* After notice and opportunity for public comment are provided in accordance with paragraph (2), the Secretary shall issue the order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order is in conformity with this Act.
-    - **(B)** *Effective date* The order shall be issued and become effective only after an affirmative vote in a referendum as provided in section 7, but not later than 120 days after publication of the proposed order.
+    - **(B)** *Effective date* If there is an affirmative vote in a referendum as provided in section 7, the Secretary shall issue the order and such order shall be effective not later than 140 days after publication of the proposed order.
 - **(c)** *Amendments* The Secretary may, from time to time, amend an order. The provisions of this Act applicable to an order shall be applicable to any amendment to an order.
 
 ## § 5. Required terms in orders
@@ -80,30 +69,27 @@ For the purposes of this Act:
 - **(a)** *In general* Any order issued under this Act shall contain the terms and provisions specified in this section.
 - **(b)** *Concrete Masonry Products Board*
   - **(1)** *Establishment and membership*
-    - **(A)** *Establishment* The order shall provide for the establishment of a Concrete Masonry Products Board to carry out a program of generic promotion, research, and information regarding concrete masonry products.
+    - **(A)** *Establishment* The order shall provide for the establishment of a Concrete Masonry Products Board to carry out a program of generic promotion, research, and education regarding concrete masonry products.
     - **(B)** *Membership*
-      - **(i)** *Number of members* The board shall consist of not more than 25 members.
-      - **(ii)** *Appointment* The members of the Board shall be appointed by the Secretary from nominations submitted as provided in this subsection.
-      - **(iii)** *Composition* The Board shall consist of manufacturers.
+      - **(i)** *Number of members* The board shall consist of not less than 15 and not more than 25 members.
+      - **(ii)** *Appointment* The members of the Board shall be appointed by the Secretary from nominations submitted as provided in the order.
+      - **(iii)** *Composition* The Board shall consist of manufacturers. No employee of an industry trade organization exempt from tax under paragraphs (3) or (6) of section 501(c) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) representing the concrete masonry industry or related industries shall serve as a member of the Board and no member of the Board may serve concurrently as an officer of the board of directors of a national concrete masonry products industry trade association. Only two individuals from any single company or its affiliates may serve on the Board at any one time.
   - **(2)** *Distribution of appointments*
-    - **(A)** *Geographical representation* To ensure fair and equitable representation of the concrete masonry products industry, the composition of the Board shall reflect the geographical distribution of the manufacture of concrete masonry products in the United States and the types of concrete masonry products manufactured.
+    - **(A)** *Representation* To ensure fair and equitable representation of the concrete masonry products industry, the composition of the Board shall reflect the geographical distribution of the manufacture of concrete masonry products in the United States, the types of concrete masonry products manufactured, and the range in size of manufacturers in the United States.
     - **(B)** *Adjustment in board representation* Three years after the assessment of concrete masonry products commences pursuant to an order, and at the end of each 3-year period thereafter, the Board, subject to the review and approval of the Secretary, shall, if warranted, recommend to the Secretary the reapportionment of the Board membership to reflect changes in the geographical distribution of the manufacture of concrete masonry products and the types of concrete masonry products manufactured.
-  - **(3)** *Nominations Process* The order shall provide the following:
-    - **(A)** *Number of nominations* Two nominees shall be submitted for each appointment to the Board.
-    - **(B)** *Procedure* Nominations for each appointment of a manufacturer shall be made by manufacturers in accordance with procedures specified in the order.
-    - **(C)** *Failure to nominate* In any case in which manufacturers fail to nominate individuals for an appointment to the Board, the Secretary may appoint an individual to fill the vacancy on a basis provided in the order or other regulations of the Secretary.
-    - **(D)** *Failure to appoint* If the Secretary fails to make an appointment to the Board within 30 days of receiving nominations for such appointment, the first nominee for such appointment shall be deemed appointed.
-  - **(4)** *Alternates* The order shall provide for the selection of alternate members of the Board by the Secretary in accordance with procedures specified in the order.
-  - **(5)** *Terms*
+  - **(3)** *Nominations Process* The Secretary may make appointments from nominations by manufacturers pursuant to the method set forth in the order.
+  - **(4)** *Failure to appoint* If the Secretary fails to make an appointment to the Board within 60 days of receiving nominations for such appointment, the first nominee for such appointment shall be deemed appointed, unless the Secretary provides reasonable justification for the delay to the Board and to Congress and provides a reasonable date by which approval or disapproval will be made.
+  - **(5)** *Alternates* The order shall provide for the selection of alternate members of the Board by the Secretary in accordance with procedures specified in the order.
+  - **(6)** *Terms*
     - **(A)** *In general* The members and any alternates of the Board shall each serve for a term of 3 years, except that members and any alternates initially appointed to the Board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
     - **(B)** *Limitation on consecutive terms* A member or an alternate may serve not more than 2 consecutive terms.
     - **(C)** *Continuation of term* Notwithstanding subparagraph (B), each member or alternate shall continue to serve until a successor is appointed by the Secretary.
     - **(D)** *Vacancies* A vacancy arising before the expiration of a term of office of an incumbent member or alternate of the Board shall be filled in a manner provided for in the order.
-  - **(6)** *Disqualification from Board service* The order shall provide that if a member or alternate of the Board who was appointed as a manufacturer ceases to qualify as a manufacturer, such member or alternate shall be disqualified from serving on the Board.
-  - **(7)** *Compensation*
+  - **(7)** *Disqualification from Board service* The order shall provide that if a member or alternate of the Board who was appointed as a manufacturer ceases to qualify as a manufacturer, such member or alternate shall be disqualified from serving on the Board.
+  - **(8)** *Compensation*
     - **(A)** *In general* Members and any alternates of the Board shall serve without compensation.
     - **(B)** *Travel expenses* If approved by the Board, members or alternates shall be reimbursed for reasonable travel expenses, which may include per diem allowance or actual subsistence incurred while away from their homes or regular places of business in the performance of services for the Board.
-- **(c)** *Powers and duties of the Board* The order shall specify the powers and duties of the Board, which shall include the power and duty—
+- **(c)** *Powers and duties of the Board* The order shall specify the powers and duties of the Board, including the power and duty—
   - **(1)** to administer the order in accordance with its terms and conditions and to collect assessments;
   - **(2)** to develop and recommend to the Secretary for approval such bylaws as may be necessary for the functioning of the Board and such rules as may be necessary to administer the order, including activities authorized to be carried out under the order;
   - **(3)** to meet, organize, and select from among members of the Board a chairperson, other officers, and committees and subcommittees, as the Board determines appropriate;
@@ -112,36 +98,38 @@ For the purposes of this Act:
   - **(6)** to employ such persons, other than the members, as the board considers necessary, and to determine the compensation and specify the duties of the persons;
   - **(7)** to prepare and submit for the approval of the Secretary, before the beginning of each fiscal year, rates of assessment under section 6 and an annual budget of the anticipated expenses to be incurred in the administration of the order, including the probable cost of each promotion, research, and information activity proposed to be developed or carried out by the Board;
   - **(8)** to borrow funds necessary for the startup expenses of the order;
-  - **(9)** to carry out research, education, and promotion programs and projects, and to pay the costs of such programs and projects with assessments collected under section 6;
+  - **(9)** to carry out generic research, education, and promotion programs and projects relating to concrete masonry products, and to pay the costs of such programs and projects with assessments collected under section 6;
   - **(10)** subject to subsection (e), to enter into contracts or agreements to develop and carry out programs or projects of research, education, and promotion relating to concrete masonry products;
   - **(11)** to keep minutes, books, and records that reflect the actions and transactions of the Board, and promptly report minutes of each Board meeting to the Secretary;
   - **(12)** to receive, investigate, and report to the Secretary complaints of violations of the order;
   - **(13)** to furnish the Secretary with such information as the Secretary may request;
   - **(14)** to recommend to the Secretary such amendments to the order as the Board considers appropriate; and
-  - **(15)** to provide the Secretary with advance notice of meetings.
+  - **(15)** to provide the Secretary with advance notice of meetings to permit the Secretary or the Secretary’s representative to attend the meetings.
 - **(d)** *Programs and projects; budgets; expenses*
-  - **(1)** *Programs and projects* The order shall require the Board to submit to the Secretary for approval any program or project of research, education, or promotion.
+  - **(1)** *Programs and projects*
+    - **(A)** *In general* The order shall require the Board to submit to the Secretary for approval any program or project of research, education, or promotion relating to concrete masonry products.
+    - **(B)** *Statement required* Any educational or promotional activity undertaken with funds provided by the Board shall include a statement that such activities were supported in whole or in part by the Board.
   - **(2)** *Budgets*
     - **(A)** *Submission* The order shall require the Board to submit to the Secretary for approval a budget of the anticipated expenses and disbursements of the Board in the implementation of the order, including the projected costs of concrete masonry products research, education, and promotion programs and projects.
     - **(B)** *Timing* The budget shall be submitted before the beginning of a fiscal year and as frequently as may be necessary after the beginning of the fiscal year.
-    - **(C)** *Approval* If the Secretary fails to approve or reject a budget within 30 days of receipt, such budget shall be deemed approved.
+    - **(C)** *Approval* If the Secretary fails to approve or reject a budget within 60 days of receipt, such budget shall be deemed approved, unless the Secretary provides to the Board and to Congress, in writing, reasonable justification for the delay and provides a reasonable date by which approval or disapproval will be made.
   - **(3)** *Administrative Expenses*
-    - **(A)** *Incurring expenses* A board may incur the expenses described in paragraph (2) and other expenses for the administration, maintenance, and functioning of the Board as authorized by the Secretary.
+    - **(A)** *Incurring expenses* The Board may incur the expenses described in paragraph (2) and other expenses for the administration, maintenance, and functioning of the Board as authorized by the Secretary.
     - **(B)** *Payment of expenses* Expenses incurred under subparagraph (A) shall be paid by the Board using assessments collected under section 6, earnings obtained from assessments, and other income of the Board. Any funds borrowed by the Board shall be expended only for startup costs and capital outlays.
     - **(C)** *Limitation on spending* For fiscal years beginning 3 or more years after the date of the establishment of the Board, the Board may not expend for administration (except for reimbursement to the Secretary required under subparagraph (D)), maintenance, and functioning of the Board in a fiscal year an amount that exceeds 10 percent of the assessment and other income received by the Board for the fiscal year.
-    - **(D)** *Reimbursement of Secretary* The order shall require that the Secretary be reimbursed from assessments for all expenses incurred by the Secretary in the implementation, administration, and supervision of the order, including all referenda costs incurred in connection with the order.
+    - **(D)** *Reimbursement of Secretary* The order shall require that the Secretary be reimbursed by the Board from assessments for all expenses incurred by the Secretary in the implementation, administration, and supervision of the order, including all referenda costs incurred in connection with the order.
 - **(e)** *Contracts and agreements*
   - **(1)** *In general* The order shall provide that, with the approval of the Secretary, the Board may—
-    - **(A)** enter into contracts and agreements to carry out programs and projects of research, education, and promotion activities relating to concrete masonry products, including contracts and agreements with manufacturer associations or other entities as considered appropriate by the Secretary;
+    - **(A)** enter into contracts and agreements to carry out generic research, education, and promotion programs and projects relating to concrete masonry products, including contracts and agreements with manufacturer associations or other entities as considered appropriate by the Secretary;
     - **(B)** enter into contracts and agreements for administrative services; and
-    - **(C)** pay the cost of approved research, education, and promotion programs and projects using assessments collected under section 6, earnings obtained from assessments, and other income of the Board.
+    - **(C)** pay the cost of approved generic research, education, and promotion programs and projects using assessments collected under section 6, earnings obtained from assessments, and other income of the Board.
   - **(2)** *Requirements* Each contract or agreement shall provide that any person who enters into the contract or agreement with the Board shall—
-    - **(A)** develop and submit to the Board a proposed activity together with a budget that specifies the cost to be incurred to carry out the activity;
+    - **(A)** develop and submit to the Board a proposed program or project together with a budget that specifies the cost to be incurred to carry out the program or project;
     - **(B)** keep accurate records of all of transactions relating to the contract or agreement;
     - **(C)** account for funds received and expended in connection with the contract or agreement;
     - **(D)** make periodic reports to the Board of activities conducted under the contract or agreement; and
     - **(E)** make such other reports as the Board or the Secretary considers relevant.
-  - **(3)** *Failure to approve* If the Secretary fails to approve or reject a contract or agreement entered into under paragraph (1) within 30 days of receipt, the contract or agreement shall be deemed approved.
+  - **(3)** *Failure to approve* If the Secretary fails to approve or reject a contract or agreement entered into under paragraph (1) within 60 days of receipt, the contract or agreement shall be deemed approved, unless the Secretary provides to the Board and to Congress, in writing, reasonable justification for the delay and provides a reasonable date by which approval or disapproval will be made.
 - **(f)** *Books and records of Board*
   - **(1)** *In general* The order shall require the Board to—
     - **(A)** maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may require;
@@ -151,35 +139,41 @@ For the purposes of this Act:
     - **(A)** the books and records of the Board audited by an independent auditor at the end of each fiscal year; and
     - **(B)** a report of the audit submitted directly to the Secretary.
 - **(g)** *Prohibited activities*
-  - **(1)** *In general* Subject to paragraph (2), the Board shall not engage in any action to, nor shall any funds received by the Board under this Act be used to—
-    - **(A)** influence legislation or governmental action;
-    - **(B)** engage in an action that would be a conflict of interest; or
-    - **(C)** engage in advertising that is false or misleading.
+  - **(1)** *In general* Subject to paragraph (2), the Board shall not engage in any program or project to, nor shall any funds received by the Board under this Act be used to—
+    - **(A)** influence legislation, elections, or governmental action;
+    - **(B)** engage in an action that would be a conflict of interest;
+    - **(C)** engage in advertising that is false or misleading;
+    - **(D)** engage in any promotion, research, or education that would be disparaging to other construction materials; or
+    - **(E)** engage in any promotion or project that would benefit any individual manufacturer.
   - **(2)** *Exceptions* Paragraph (1) does not preclude—
     - **(A)** the development and recommendation of amendments to the order;
-    - **(B)** the communication to appropriate government officials of information relating to the conduct, implementation, or results of research, education, and promotion activities under the order; or
-    - **(C)** any action designed to market concrete masonry products directly to a foreign government or political subdivision of a foreign government.
-- **(h)** *Periodic evaluation* The order shall require the Board to provide for the independent evaluation of all research, education, and promotion activities undertaken under the order.
-- **(i)** *Books and records of persons covered by order*
-  - **(1)** *In general* The order shall require that manufacturers of concrete masonry products shall—
-    - **(A)** maintain records sufficient to ensure compliance with the order and regulations;
-    - **(B)** submit to the Board any information required by the Board to carry out its responsibilities; and
-    - **(C)** make the records described in subparagraph (A) available, during normal business hours, for inspection by employees or agents of the Board or the Department, including any records necessary to verify information required under subparagraph (B).
+    - **(B)** the communication to appropriate government officials of information relating to the conduct, implementation, or results of research, education, and promotion activities under the order except communications described in paragraph(1)(A); or
+    - **(C)** any lawful action designed to market concrete masonry products directly to a foreign government or political subdivision of a foreign government.
+- **(h)** *Periodic evaluation* The order shall require the Board to provide for the independent evaluation of all research, education, and promotion programs or projects undertaken under the order, beginning five years after the date of enactment of this Act and every three years thereafter. The Board shall submit to the Secretary and make available to the public the results of each such evaluation.
+- **(i)** *Objectives* The Board shall establish annual research, education, and promotion objectives and performance metrics for each fiscal year subject to approval by the Secretary.
+- **(j)** *Biennial report* Every two years the Board shall prepare and make publicly available a comprehensive and detailed report that includes an identification and description of all programs and projects undertaken by the Board during the previous two years as well as those planned for the subsequent two years and detail the allocation or planned allocation of Board resources for each such program or project. Such report shall also include—
+  - **(1)** the Board’s overall financial condition;
+  - **(2)** a summary of the amounts obligated or expended during the two preceding fiscal years; and
+  - **(3)** a description of the extent to which the Board’s objectives were met according to the metrics required under subsection (i).
+- **(k)** *Books and records of persons covered by order*
+  - **(1)** *In general* The order shall require that manufacturers shall—
+    - **(A)** maintain records sufficient to ensure compliance with the order and regulations; and
+    - **(B)** make the records described in subparagraph (A) available, during normal business hours, for inspection by employees or agents of the Board or the Department.
   - **(2)** *Time requirement* Any record required to be maintained under paragraph (1) shall be maintained for such time period as the Secretary may prescribe.
   - **(3)** *Confidentiality of information*
-    - **(A)** *In general* Except as otherwise provided in this Act, all information obtained under paragraph (1) or as part of a referendum under section 7 shall be kept confidential by all officers, employees, and agents of the Department and of the Board.
+    - **(A)** *In general* Except as otherwise provided in this subparagraph (B) trade secrets and commercial or financial information that is privileged or confidential reported to, or otherwise obtained by the Board or the Secretary (or any representative of the Board or the Secretary) under this Act shall not be disclosed by any officers, employees, and agents of the Department or the Board.
     - **(B)** *Suits and hearings* Information referred to in subparagraph (A) may be disclosed only if—
       - **(i)** the Secretary considers the information relevant; and
       - **(ii)** the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretary or any officer of the Department is a party.
     - **(C)** *General statements and publications* This paragraph does not prohibit—
       - **(i)** the issuance of general statements based on reports or on information relating to a number of persons subject to an order if the statements do not identify the information furnished by any person; or
       - **(ii)** the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
-    - **(D)** *Penalty* Any person who willfully violates this subsection shall be fined not more than $5,000, imprisoned not more than 1 year, or both.
+    - **(D)** *Penalty* Any officer, employee, or agent of the Department of Commerce or any officer, employee, or agent of the Board who willfully violates this subsection shall be fined not more than $1,000 and imprisoned for not more than 1 year, or both.
   - **(4)** *Withholding information* This subsection does not authorize the withholding of information from Congress.
 
 ## § 6. Assessments
 
-- **(a)** *Assessments* The order shall provide that assessments shall be paid by manufacturers with respect to concrete masonry products manufactured and marketed in the United States.
+- **(a)** *Assessments* The order shall provide that assessments shall be paid by a manufacturer if the manufacturer has manufactured concrete masonry products during a period of at least 180 days prior to the date the assessment is to be remitted.
 - **(b)** *Collection*
   - **(1)** *In general* Assessments required under the order shall be remitted by the manufacturer to the Board in the manner prescribed by the order.
   - **(2)** *Timing* The order shall provide that assessments required under the order shall be remitted to the Board not less frequently than quarterly.
@@ -194,15 +188,15 @@ For the purposes of this Act:
 - **(d)** *Late-Payment and interest charges*
   - **(1)** *In general* Late-payment and interest charges may be levied on each person subject to the order who fails to remit an assessment in accordance with subsection (b).
   - **(2)** *Rate* The rate for late-payment and interest charges shall be specified by the Secretary.
-- **(e)** *Investment of assessments* Pending disbursement of assessments under a budget approved by the Secretary, a board may invest assessments collected under this section in—
+- **(e)** *Investment of assessments* Pending disbursement of assessments under a budget approved by the Secretary, the Board may invest assessments collected under this section in—
   - **(1)** obligations of the United States or any agency of the United States;
   - **(2)** general obligations of any State or any political subdivision of a State;
   - **(3)** interest-bearing accounts or certificates of deposit of financial institutions that are members of the Federal Reserve System; or
   - **(4)** obligations fully guaranteed as to principal and interest by the United States.
 - **(f)** *Assessment funds for Regional Initiatives*
-  - **(1)** *In general* The order shall provide that no less than 50 percent of the assessments (less administration expenses) paid by a manufacturer shall be used to support research, education, and promotion plans and projects in support of the geographic region of the manufacturer.
+  - **(1)** *In general* The order shall provide that no less than 50 percent of the assessments (less administration expenses) paid by a manufacturer shall be used to support research, education, and promotion programs and projects in support of the geographic region of the manufacturer.
   - **(2)** *Geographic regions* The order shall provide for the following geographic regions:
-    - **(A)** Region I shall comprise Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, and West Virginia.
+    - **(A)** Region I shall comprise Connecticut, Delaware, the District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, and West Virginia.
     - **(B)** Region II shall comprise Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, and Virginia.
     - **(C)** Region III shall comprise Illinois, Indiana, Iowa, Kentucky, Michigan, Minnesota, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.
     - **(D)** Region IV shall comprise Arizona, Arkansas, Kansas, Louisiana, Missouri, New Mexico, Oklahoma, and Texas.
@@ -212,11 +206,11 @@ For the purposes of this Act:
 ## § 7. Referenda
 
 - **(a)** *Initial Referendum*
-  - **(1)** *Referendum required* During the 60-day period immediately preceding the proposed effective date of the order issued under section 4, the Secretary shall conduct a referendum among manufacturers required to pay assessments under the order, as provided in section 6.
-  - **(2)** *Approval of order needed* The order shall become effective only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum.
+  - **(1)** *Referendum required* During the 60-day period immediately preceding the proposed effective date of the order issued under section 4, the Secretary shall conduct a referendum among manufacturers eligible under subsection (b)(2) subject to assessments under section 6.
+  - **(2)** *Approval of order needed* The order shall become effective only if the Secretary determines that the order has been approved by a majority of manufacturers voting who also represent a majority of the machine cavities in operation of those manufacturers voting in the referendum.
 - **(b)** *Votes permitted*
-  - **(1)** *In general* Each manufacturer eligible to vote in a referendum conducted under this section shall be entitled to cast one vote for each machine cavity in operation that is operated by such manufacturer if they satisfy the eligibility requirements as defined in paragraph (2).
-  - **(2)** *Eligibility* For purposes of paragraph (1), manufacturers shall be considered to be eligible to vote if they have manufactured concrete masonry products during a period of at least 180 days prior to the referendum.
+  - **(1)** *In general* Each manufacturer eligible to vote in a referendum conducted under this section shall be entitled to cast one vote.
+  - **(2)** *Eligibility* For purposes of paragraph (1), a manufacturer shall be considered to be eligible to vote if the manufacturer has manufactured concrete masonry products during a period of at least 180 days prior to the first day of the period during which voting in the referendum will occur.
 - **(c)** *Manner of conducting referenda*
   - **(1)** *In general* Referenda conducted pursuant to this section shall be conducted in a manner determined by the Secretary.
   - **(2)** *Advance registration* A manufacturer who chooses to vote in any referendum conducted under this section shall register with the Secretary prior to the voting period, after receiving notice from the Secretary concerning the referendum under paragraph (4).
@@ -224,10 +218,10 @@ For the purposes of this Act:
   - **(4)** *Notice* Not later than 30 days before a referendum is conducted under this section with respect to an order, the Secretary shall notify all manufacturers, in such a manner as determined by the Secretary, of the period during which voting in the referendum will occur. The notice shall explain any registration and voting procedures established under this subsection.
 - **(d)** *Subsequent referenda* If an order is approved in a referendum conducted under subsection (a), the Secretary shall conduct a subsequent referendum—
   - **(1)** at the request of the Board, subject to the voting requirements of subsections (b) and (c), to ascertain whether eligible manufacturers favor suspension, termination, or continuance of the order; or
-  - **(2)** effective beginning on the date that is 5 years after the date of the approval of the order, and at 5-year intervals thereafter, at the request of 25 percent or more of the number of persons eligible to vote under subsection (b).
-- **(e)** *Suspension or termination* If, as a result of a referendum conducted under subsection (d), the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
+  - **(2)** effective beginning on the date that is 5 years after the date of the approval of the order, and at 5-year intervals thereafter, at the request of 25 percent or more of the total number of persons eligible to vote under subsection (b).
+- **(e)** *Suspension or termination* If, as a result of a referendum conducted under subsection (d), the Secretary determines that suspension or termination of the order is favored by a majority of all votes cast in the referendum as provided in subsection (a)(2), the Secretary shall—
   - **(1)** not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
-  - **(2)** suspend or terminate, as appropriate, activities under the order as soon as practicable and in an orderly manner.
+  - **(2)** suspend or terminate, as appropriate, programs and projects under the order as soon as practicable and in an orderly manner.
 - **(f)** *Costs of referenda* The Board established under an order with respect to which a referendum is conducted under this section shall reimburse the Secretary from assessments for any expenses incurred by the Secretary to conduct the referendum.
 
 ## § 8. Petition and review
@@ -238,9 +232,9 @@ For the purposes of this Act:
     - **(B)** requesting a modification of the order or an exemption from the order.
   - **(2)** *Hearing* The Secretary shall give the petitioner an opportunity for a hearing on the petition, in accordance with regulations issued by the Secretary.
   - **(3)** *Ruling* After the hearing, the Secretary shall make a ruling on the petition. The ruling shall be final, subject to review as set forth in subsection (b).
-  - **(4)** *Limitation on petition* Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
+  - **(4)** *Limitation on petition* Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed not less than 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
 - **(b)** *Review*
-  - **(1)** *Commencement of action* The district courts of the United States in any district in which a person who is a petitioner under subsection (a) resides or conducts business shall have jurisdiction to review the ruling of the Secretary on the petition of the person, if a complaint requesting the review is filed no later than 20 days after the date of the entry of the ruling by the Secretary.
+  - **(1)** *Commencement of action* The district courts of the United States in any district in which a person who is a petitioner under subsection (a) resides or conducts business shall have jurisdiction to review the ruling of the Secretary on the petition of the person, if a complaint requesting the review is filed no later than 30 days after the date of the entry of the ruling by the Secretary.
   - **(2)** *Process* Service of process in proceedings under this subsection shall be conducted in accordance with the Federal Rules of Civil Procedure.
   - **(3)** *Remands* If the court in a proceeding under this subsection determines that the ruling of the Secretary on the petition of the person is not in accordance with law, the court shall remand the matter to the Secretary with directions—
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
@@ -256,7 +250,7 @@ For the purposes of this Act:
   - **(2)** *Separate offense* Each violation and each day during which there is a failure to comply with an order or regulation issued by the Secretary shall be considered to be a separate offense.
   - **(3)** *Cease-and-desist orders* In addition to, or in lieu of, a civil penalty, the Secretary may issue an order requiring a person to cease and desist from violating the order or regulation.
   - **(4)** *Notice and hearing* No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
-  - **(5)** *Finality* An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the appropriate district court of the United States, as provided in subsection (d).
+  - **(5)** *Finality* An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the appropriate district court of the United States.
 - **(d)** *Additional remedies* The remedies provided in this Act shall be in addition to, and not exclusive of, other remedies that may be available.
 
 ## § 10. Investigation and power to subpoena
@@ -273,27 +267,45 @@ For the purposes of this Act:
 
 ## § 11. Suspension or termination
 
-- **(a)** *Mandatory suspension or termination* The Secretary shall suspend or terminate an order or a provision of an order if the Secretary finds that an order or provision of an order obstructs or does not tend to effectuate the purpose of this Act, or if the Secretary determines that the order or a provision of an order is not favored by persons voting in a referendum conducted under section 7.
+- **(a)** *Mandatory suspension or termination* The Secretary shall suspend or terminate an order or a provision of an order if the Secretary finds that an order or provision of an order obstructs or does not tend to effectuate the purpose of this Act, or if the Secretary determines that the order or a provision of an order is not favored by a majority of all votes cast in the referendum as provided in section 7(a)(2).
 - **(b)** *Implementation of suspension or termination* If, as a result of a referendum conducted under section 7, the Secretary determines that the order is not approved, the Secretary shall—
   - **(1)** not later than 180 days after making the determination, suspend or terminate, as the case may be, collection of assessments under the order; and
   - **(2)** as soon as practicable, suspend or terminate, as the case may be, activities under the order in an orderly manner.
 
-## § 12. Confidentiality
-
-Nothing in this Act shall be construed to require the Board to disclose information or records under section 552 of title 5, United States Code.
-
-## § 13. Amendments to orders
+## § 12. Amendments to orders
 
 The provisions of this Act applicable to the order shall be applicable to any amendment to the order, except that section 8 shall not apply to an amendment.
 
-## § 14. Effect on other laws
+## § 13. Effect on other laws
 
 This Act shall not affect or preempt any other Federal or State law authorizing research, education, and promotion relating to concrete masonry products.
 
-## § 15. Regulations
+## § 14. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out this Act and the power vested in the Secretary under this Act.
 
-## § 16. Limitation on expenditures for administrative expenses
+## § 15. Limitation on expenditures for administrative expenses
 
 Funds appropriated to carry out this Act may not be used for the payment of the expenses or expenditures of the Board in administering the order.
+
+## § 16. Study and report by the Government Accountability Office
+
+Not later than 5 years and 8 years after the date of enactment of this Act, the Comptroller General of the United States shall prepare a study and submit to Congress and the Secretary a report examining—
+
+- **(1)** how the Board spends assessments collected;
+- **(2)** the extent to which the Board’s reported activities help achieve its annual objectives;
+- **(3)** any changes in demand for concrete masonry products relative to other building materials;
+- **(4)** any impact of the Board’s activities on the market share of competing products;
+- **(5)** any impact of the Board’s activities on the overall size of the market for building products;
+- **(6)** any impact of the Board’s activities on the total number of concrete masonry related jobs, including manufacturing, sales, and installation;
+- **(7)** any significant effects of the Board’s activities on downstream purchasers of concrete masonry products and real property into which concrete masonry products are incorporated;
+- **(8)** effects on prices of concrete masonry products as a result of the Board’s activities;
+- **(9)** the cost to the federal government of an increase in concrete masonry product prices, if any, as a result of the program established by this Act;
+- **(10)** the extent to which key statutory requirements are met;
+- **(11)** the extent and strength of federal oversight of the program established by this Act;
+- **(12)** the appropriateness of administering the program from within the Office of the Secretary of Commerce and the appropriateness of administering the program from within any division of the Department of Commerce, including whether the Department has the expertise, knowledge, or other capabilities necessary to adequately administer the program; and
+- **(13)** any other topic that the Comptroller General considers appropriate.
+
+## § 17. Study and report by the Department of Commerce
+
+Not later than 3 years after the date of enactment of this Act, the Secretary shall prepare a study and submit to Congress a report examining the appropriateness and effectiveness of applying the commodity check-off program model (such as those programs established under subchapter II of chapter 101 of title 7, United States Code) to a nonagricultural industry, taking into account the program established by this Act and any other check-off program involving a nonagricultural industry.
