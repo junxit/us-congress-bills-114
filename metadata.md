@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5640
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5640
@@ -36,3 +36,12 @@ Electricity Storage Innovation Act
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4647-4649)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5640.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4647-4648)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4647-4648)
+- 2016-07-11 — Placed on the Union Calendar, Calendar No. 529.
+- 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-681.
+- 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-681.
