@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5638
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5638
@@ -36,3 +36,12 @@ Solar Fuels Innovation Act
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4649-4651)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5638.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Knight moved to suspend the rules and pass the bill, as amended.
+- 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4649-4650)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4649-4650)
+- 2016-07-11 — Placed on the Union Calendar, Calendar No. 528.
+- 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-680.
+- 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-680.
