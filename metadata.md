@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1270
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1270
@@ -87,3 +87,5 @@ Restoring Access to Medication and Improving Health Savings Act of 2016
 - 2016-07-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 243 - 164 (Roll no. 351).(text: CR H4325-4326)
 - 2016-07-06 — Rule provides for consideration of H.R. 1270 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 114-60 shall be considered as adopted.
 - 2016-07-06 — The previous question was ordered pursuant to the rule. (consideration: CR H4330)
+- 2016-07-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-07-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
