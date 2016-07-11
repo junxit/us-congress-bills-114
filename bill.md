@@ -19,7 +19,7 @@ Subsection (b) of section 503 of the Higher Education Act of 1965 (20 U.S.C. 110
 
 - **(1)** by redesignating paragraphs (7) through (16) as paragraphs (9) through (18), respectively; and
 - **(2)** by inserting after paragraph (6) the following:
-  > - **(7)** Student support programs (which may include counseling, mentoring, and other support services) designed to facilitate the successful advancement of students from four-year institutions to postbaccalaureate doctoral degree granting programs that prepare students for health care occupations as such occupations are described in the most recent edition of the Occupational Outlook Handbook published by the Bureau of Labor Statistics.
+  > - **(7)** Student support programs, which may include counseling, mentoring, and other support services, designed to facilitate the successful advancement of students from four-year institutions to postbaccalaureate doctoral degree granting programs that prepare students for health care occupations as such occupations are described in the most recent edition of the Occupational Outlook Handbook published by the Bureau of Labor Statistics.
   > - **(8)** Developing or expanding access to dual or concurrent enrollment programs and early college high school programs.
 
 ## § 3. Funding
