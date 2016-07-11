@@ -32,4 +32,6 @@ Paragraph (9) of section 345 of the Higher Education Act of 1965 (20 U.S.C. 1066
 
 Paragraph (2) of section 347(c) of the Higher Education Act of 1965 (20 U.S.C. 1066f(c)) is amended to read as follows:
 
-> - **(2)** *Report* On an annual basis, the Advisory Board shall prepare and submit to the authorizing committees a report on the status of the historically Black colleges and universities described in paragraph (1)(A) and an overview of all loans in the capital financing program, including the most recent loans awarded in the fiscal year in which the report is submitted. The report shall include administrative and legislative recommendations, as needed, for addressing the issues related to construction financing facing historically Black colleges and universities.
+> - **(2)** *Report* On an annual basis, the Advisory Board shall prepare and submit to the authorizing committees a report on the status of the historically Black colleges and universities described in paragraph (1)(A). That report shall also include—
+>   - **(A)** an overview of all loans in the capital financing program, including the most recent loans awarded in the fiscal year in which the report is submitted; and
+>   - **(B)** administrative and legislative recommendations, as needed, for addressing the issues related to construction financing facing historically Black colleges and universities.
