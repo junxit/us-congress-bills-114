@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 636
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 636
 
-That the House agree to the amendment of the Senate to the text of the bill (H.R. 636) entitled “An Act to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.
 
 ## § 1. Short title; table of contents
 

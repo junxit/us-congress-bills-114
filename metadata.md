@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 636
@@ -373,7 +373,7 @@ FAA Extension, Safety, and Security Act of 2016
 - House — Budget Committee
 - House — Ways and Means Committee
 
-## Recorded votes (9)
+## Recorded votes (10)
 
 - 2015-02-13 — [House 114-1-81](votes/house-114-1-0081.md) — On Motion to Recommit with Instructions — **Failed** (173–241)
 - 2015-02-13 — [House 114-1-82](votes/house-114-1-0082.md) — On Passage — **Passed** (272–142)
@@ -384,6 +384,7 @@ FAA Extension, Safety, and Security Act of 2016
 - 2016-04-14 — [Senate 114-2-45](votes/senate-114-2-0045.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–4)
 - 2016-04-18 — [Senate 114-2-46](votes/senate-114-2-0046.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–5)
 - 2016-04-19 — [Senate 114-2-47](votes/senate-114-2-0047.md) — On Passage of the Bill — **Bill Passed** (95–3)
+- 2016-07-13 — [Senate 114-2-127](votes/senate-114-2-0127.md) — On the Motion — **Motion Agreed to** (89–4)
 
 ## Actions
 
@@ -899,3 +900,15 @@ FAA Extension, Safety, and Security Act of 2016
 - 2016-04-19 — Senate amendment submitted
 - 2016-07-11 — House agreed to Senate amendments with amendments pursuant to H. Res. 818. (consideration: CR H4624)
 - 2016-07-11 — Resolving differences -- House actions: House agreed to Senate amendments with amendments pursuant to H. Res. 818.(consideration: CR H4624)
+- 2016-07-12 — Message on House action received in Senate and at desk: House amendments to Senate amendments.
+- 2016-07-13 — Measure laid before Senate by unanimous consent. (consideration: CR S5028-5035, S5036-5041)
+- 2016-07-13 — Message on Senate action sent to the House.
+- 2016-07-13 — Motion by Senator Enzi to agree to the House amendments to Senate amendments to H.R. 636 made in Senate. (consideration: CR S5028-5035)
+- 2016-07-13 — Resolving differences -- Senate actions: Senate agreed to the House amendments to Senate amendments to H.R. 636 by Yea-Nay Vote. 89 - 4. Record Vote Number: 127.(consideration: CR S5041)
+- 2016-07-13 — Senate agreed to the House amendments to Senate amendments to H.R. 636 by Yea-Nay Vote. 89 - 4. Record Vote Number: 127. (consideration: CR S5041)
+- 2016-07-14 — Presented to President.
+- 2016-07-14 — Presented to President.
+- 2016-07-15 — Became Public Law No: 114-190.
+- 2016-07-15 — Became Public Law No: 114-190.
+- 2016-07-15 — Signed by President.
+- 2016-07-15 — Signed by President.
