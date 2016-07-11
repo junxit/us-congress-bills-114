@@ -1,7 +1,7 @@
 ---
 measure: H.R. 636
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 636
@@ -897,3 +897,5 @@ FAA Extension, Safety, and Security Act of 2016
 - 2016-04-19 — Senate amendment proposed (on the floor): Amendment SA 3799 proposed by Senator Thune.(consideration: CR S2144-2145; text: CR S2144)
 - 2016-04-19 — Senate amendment submitted
 - 2016-04-19 — Senate amendment submitted
+- 2016-07-11 — House agreed to Senate amendments with amendments pursuant to H. Res. 818. (consideration: CR H4624)
+- 2016-07-11 — Resolving differences -- House actions: House agreed to Senate amendments with amendments pursuant to H. Res. 818.(consideration: CR H4624)
