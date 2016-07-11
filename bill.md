@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
 
-- **(a)** *In general* Title XVI of the International Financial Institutions Act (22 U.S.C. 262p—262p–12) is amended by adding at the end the following:
+- **(a)** *In general* Title XVI of the International Financial Institutions Act (22 U.S.C. 262p through 262p–12) is amended by adding at the end the following:
   > ## § 1629. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
   >
   > The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to support the use of the administrative budget of the Fund for technical assistance that strengthens the capacity of Fund members to prevent money laundering and the financing of terrorism.
