@@ -28,7 +28,7 @@ The Congress finds the following:
 ## § 3. Development of national strategy
 
 - **(a)** *In general* The President, acting through the Secretary of the Treasury (the “Secretary”) shall, in consultation with the Attorney General, the Secretaries of State, Defense, and Homeland Security, the Director of National Intelligence and the appropriate Federal banking agencies, develop a national strategy for combating the financing of terrorism and related forms of illicit finance.
-- **(b)** *Transmittal to Congress* By June 1 each year following the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a national strategy developed in accordance with subsection (a)
+- **(b)** *Transmittal to Congress* By June 1 each year following the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a national strategy developed in accordance with subsection (a).
 - **(c)** *Evaluation of existing efforts and broader strategy* The President shall accompany each strategy submitted under subsection (b) with a report that—
   - **(1)** describes the effectiveness of efforts to enforce existing prohibitions against illicit finance;
   - **(2)** describes how the United States is addressing the highest levels of risk identified in the National Money Laundering Risk Assessment and the National Terrorist Financing Risk Assessment published by the Department of the Treasury;
@@ -62,7 +62,7 @@ The Congress finds the following:
     - **(B)** a list of the United States embassies at which a Department of the Treasury attaché is assigned for temporary duty, the length of such assignments, and the reason why such assignments are not considered to be permanent assignments;
     - **(C)** how the Department of the Treasury’s interests relating to economic and anti-terror finance issues are handled at other embassies, including a discussion of the reporting structure by which such issues are brought to the direct attention of the ambassador; and
     - **(D)** the effect of not having more attachés in embassies that are most vulnerable to illicit finance threats and a discussion of whether the Department of the Treasury’s economic or anti-illicit finance issues are thought to be under-represented in some embassies or regions.
-  - **(13)** *Illicit finance and cyber crime* A discussion of terrorist financing and other forms of illicit finance that involve cyber attacks, evolving forms of value transfer, including so-called “crypto currencies”, and other methods that are computer, telecommunications, or internet-based.
+  - **(13)** *Illicit finance and cyber crime* A discussion of terrorist financing and other forms of illicit finance that involve cyber attacks, evolving forms of value transfer, including so-called “crypto currencies”, and other methods that are computer, telecommunications, or Internet-based.
   - **(14)** *Technology* An analysis of current and developing ways to leverage technology to improve the effectiveness of the fight against the financing of terror and other forms of illicit finance, including the use of “big data” analytics, the merging of publicly sourced data with Bank Secrecy Act data and with other forms of secure Government data to increase such effectiveness, and ways to enhance the role of the private sector in combating illicit finance.
 
 ## § 5. Definitions
