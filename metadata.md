@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 138
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 138
@@ -38,3 +38,9 @@ Designating the George C. Marshall Museum and George C. Marshall Research Librar
 - 2016-06-20 — Introduced in House
 - 2016-06-20 — Introduced in House
 - 2016-06-20 — Referred to the House Committee on Education and the Workforce.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4601-4603)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 138.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Brat moved to suspend the rules and agree to the resolution.
+- 2016-07-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4601)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4601)
