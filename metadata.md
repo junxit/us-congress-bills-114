@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5322
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5322
@@ -30,3 +30,15 @@ U.S. Territories Investor Protection Act of 2016
 - 2016-05-25 — Introduced in House
 - 2016-05-25 — Introduced in House
 - 2016-05-25 — Referred to the House Committee on Financial Services.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported by the Yeas and Nays: 59 - 0.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4581-4582)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5322.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Hurt (VA) moved to suspend the rules and pass the bill.
+- 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4581)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4581)
+- 2016-07-11 — Placed on the Union Calendar, Calendar No. 521.
+- 2016-07-11 — Reported by the Committee on Financial Services. H. Rept. 114-673.
+- 2016-07-11 — Reported by the Committee on Financial Services. H. Rept. 114-673.
