@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5639
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 7 executed, 15 stated and not applied.
+21 amendatory instructions. 7 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -110,4 +110,3 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278n` | replace | in paragraph (4)(B), by striking “; and” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278n` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3706` | strike | Section 8(a) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3706(a)) is amended by striking “The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.”. | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 278g-3` | strike | Section 20(c)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(c)(1)) is amended by striking “the National Security Agency,”. | the bill quotes the text struck but describes what replaces it |

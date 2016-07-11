@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5639
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5639
@@ -16,7 +16,7 @@ National Institute of Standards and Technology Improvement Act of 2016
 
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -25,6 +25,9 @@ National Institute of Standards and Technology Improvement Act of 2016
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Grayson, Alan [D-FL-9] (G000556)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
 ## Committees (1)
 
@@ -35,3 +38,9 @@ National Institute of Standards and Technology Improvement Act of 2016
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Introduced in House
 - 2016-07-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4641-4645)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5639.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Moolenaar moved to suspend the rules and pass the bill, as amended.
+- 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4641-4644)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4641-4644)

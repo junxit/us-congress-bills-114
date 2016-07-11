@@ -190,7 +190,7 @@ Section 8(a) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C
 
 ## § 11. Information systems standards consultation
 
-Section 20(c)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(c)(1)) is amended by striking “the National Security Agency,”.
+Notwithstanding any other provision of law, the National Institute of Standards and Technology shall not consult with the Department of Defense and the National Security Agency in contravention of section 20(c)(1) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(c)(1)).
 
 ## § 12. United States-Israeli cooperation
 
