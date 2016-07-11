@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3178
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -45,8 +45,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1015a` | strike | in paragraph (2), by striking “first-time,”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1015a` | strike | in paragraph (3) in the matter preceding subparagraph (A), by striking “first-time,”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1015a` | strike | in paragraph (4), by striking “first-time,”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1015a` | strike | in paragraph (1), by striking “first-time”; and | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1015a` | strike | in paragraph (2), by striking “first-time”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1015a` | strike | in paragraph (1), by striking “first-time,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1015a` | strike | in paragraph (2), by striking “first-time,”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1015a` | strike | by striking subsections (c) through (g), (j), and (l); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | redesignate | by redesignating subsections (h), (i), and (k) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | redesignate | by striking subsection (d) (as so redesignated) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

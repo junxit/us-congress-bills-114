@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3178
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,8 +21,8 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     - **(B)** in paragraph (3) in the matter preceding subparagraph (A), by striking “first-time,”; and
     - **(C)** in paragraph (4), by striking “first-time,”;
   - **(2)** in subsection (b)—
-    - **(A)** in paragraph (1), by striking “first-time”; and
-    - **(B)** in paragraph (2), by striking “first-time”;
+    - **(A)** in paragraph (1), by striking “first-time,”; and
+    - **(B)** in paragraph (2), by striking “first-time,”;
   - **(3)** by striking subsections (c) through (g), (j), and (l);
   - **(4)** by redesignating subsections (h), (i), and (k) as subsections (c), (d), and (e), respectively; and
   - **(5)** by striking subsection (d) (as so redesignated) and inserting the following new subsection:
@@ -55,10 +55,10 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >       - **(v)** $110,001 to $150,000.
     >       - **(vi)** Over $150,000.
     >     - **(G)** A link to the net price calculator for such institution.
-    >     - **(H)** The percentage of undergraduate students who obtained a certificate or degree from the institution who borrowed Federal student loans and the average Federal student loan debt incurred by an undergraduate student who obtained a certificate or degree from the institution and borrowed Federal student loans in the course of obtaining such certificate or degree.
+    >     - **(H)** The percentage of undergraduate students who obtained a certificate or degree from the institution who borrowed Federal student loans under title IV, and the average Federal student loan debt incurred by an undergraduate student who obtained a certificate or degree from the institution and borrowed Federal student loans under title IV in the course of obtaining such certificate or degree.
     >     - **(I)** A link to national and regional data from the Bureau of Labor Statistics on starting salaries in all major occupations.
     >     - **(J)** A link to the webpage of the institution containing campus safety data with respect to such institution.
-    >   - **(2)** *Additional information* The Secretary shall publish on Internet webpages that are linked to through the College Dashboard website for the most recent academic year for which satisfactory data is available the following information with respect to each institution of higher education that participates in a program under title IV:
+    >   - **(2)** *Other information* The Secretary shall publish on Internet webpages that are linked to through the College Dashboard website for the most recent academic year for which satisfactory data is available the following information with respect to each institution of higher education that participates in a program under title IV:
     >     - **(A)** *Enrollment*
     >       - **(i)** The percentages of male and female undergraduate students enrolled at the institution.
     >       - **(ii)** The percentages of undergraduate students enrolled at the institution—
@@ -73,14 +73,15 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >         - **(II)** classification as a student with a disability;
     >         - **(III)** recipients of a Federal Pell Grant;
     >         - **(IV)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480); and
-    >         - **(V)** recipients of a Federal student loan.
+    >         - **(V)** recipients of a Federal student loan under title IV.
     >     - **(B)** *Completion* The information required under paragraph (1)(E), disaggregated by—
     >       - **(i)** recipients of a Federal Pell Grant;
-    >       - **(ii)** recipients of a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant;
-    >       - **(iii)** persons who did not receive a Federal Pell Grant or a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan);
+    >       - **(ii)** recipients of a loan made under part D of title IV (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant;
+    >       - **(iii)** individuals who did not receive a Federal Pell Grant or a loan made under part D of title IV (other than a Federal Direct Unsubsidized Stafford Loan);
     >       - **(iv)** race and ethnic background;
-    >       - **(v)** classification as a student with a disability; and
-    >       - **(vi)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480).
+    >       - **(v)** classification as a student with a disability;
+    >       - **(vi)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480); and
+    >       - **(vii)** male and female.
     >     - **(C)** *Costs*
     >       - **(i)** The cost of attendance for full-time undergraduate students enrolled in the institution who live on campus.
     >       - **(ii)** The cost of attendance for full-time undergraduate students enrolled in the institution who live off campus.
@@ -110,7 +111,7 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >   - **(6)** *Consumer testing*
     >     - **(A)** *In general* In developing and maintaining the College Dashboard website, the Secretary, in consultation with appropriate departments and agencies of the Federal Government, shall conduct consumer testing with appropriate persons, including current and prospective college students, family members of such students, institutions of higher education, and experts, to ensure that the College Dashboard website is usable and easily understandable and provides useful and relevant information to students and families.
     >     - **(B)** *Recommendations for changes* The Secretary shall submit to the authorizing committees any recommendations that the Secretary considers appropriate for changing the information required to be provided on the College Dashboard website under paragraphs (1) and (2) based on the results of the consumer testing conducted under subparagraph (A).
-    >   - **(7)** *Provision of appropriate links to prospective students after submission of FAFSA* The Secretary shall provide to each student that submits a Free Application for Federal Student Aid described in section 483 a link to the webpage of the College Dashboard website that contains the information required under paragraph (1) for each institution of higher education such student includes on such Application.
+    >   - **(7)** *Provision of appropriate links to prospective students after submission of FAFSA* The Secretary shall provide to each student who submits a Free Application for Federal Student Aid described in section 483 a link to the webpage of the College Dashboard website that contains the information required under paragraph (1) for each institution of higher education such student includes on such Application.
     >   - **(8)** *Interagency coordination* The Secretary, in consultation with each appropriate head of a department or agency of the Federal Government, shall ensure to the greatest extent practicable that any information related to higher education that is published by such department or agency is consistent with the information published on the College Dashboard website.
     >   - **(9)** *References to College Navigator website* Any reference in this Act to the College Navigator website shall be considered a reference to the College Dashboard website.
 
@@ -119,7 +120,7 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
   - **(2)** in section 132(a) (20 U.S.C. 1015a(a)), by striking paragraph (1) and inserting the following new paragraph:
     > - **(1)** *College Dashboard website* The term College Dashboard website means the College Dashboard website required under subsection (d).
 
-- **(c)** *Development* The Secretary of Education shall develop and publish the College Dashboard website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by subsections (a) and (b) of this section, not later than one year after the date of the enactment of this Act.
+- **(c)** *Development* The Secretary of Education shall develop and publish the College Dashboard website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by subsections (a) and (b) of this section, not later than 1 year after the date of the enactment of this Act.
 - **(d)** *College Navigator website maintenance* The Secretary shall maintain the College Navigator website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as in effect the day before the date of the enactment of this Act, in the manner required under the Higher Education Act of 1965, as in effect on such day, until the College Dashboard website referred to in subsection (c) is complete and publicly available on the Internet.
 
 ## § 3. Net price calculators
