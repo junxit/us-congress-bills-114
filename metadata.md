@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5056
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5056
@@ -40,3 +40,9 @@ Airport Perimeter and Access Control Security Act of 2016
 - 2016-07-01 — Placed on the Union Calendar, Calendar No. 505.
 - 2016-07-01 — Reported by the Committee on Homeland Security. H. Rept. 114-653.
 - 2016-07-01 — Reported by the Committee on Homeland Security. H. Rept. 114-653.
+- 2016-07-11 — Considered under suspension of the rules. (consideration: CR H4595-4597)
+- 2016-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5056.
+- 2016-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-11 — Mr. Perry moved to suspend the rules and pass the bill.
+- 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4596)
+- 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4596)
