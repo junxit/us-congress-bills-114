@@ -15,7 +15,7 @@ This Act may be cited as the “Enhancing Treasury’s Anti-Terror Tools Act”.
 
 ## § 2. Examining the Department of the Treasury’s counter-terror financing role in embassies
 
-Within 180 days of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing—
+Within 180 days of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate containing—
 
 - **(1)** a list of the United States embassies in which a full-time Department of the Treasury attaché is stationed;
 - **(2)** a list of the United States embassies at which a Department of the Treasury attaché is assigned for temporary duty, the length of such assignments, and the reason why such assignments are not considered to be a permanent assignments;
@@ -40,7 +40,7 @@ Within 180 days of the enactment of this Act, the Secretary of the Treasury shal
 ## § 4. Study of bureau status
 
 - **(a)** *Study* The Secretary of the Treasury shall carry out a study on the advisability and implications of transforming the Office of Terrorism and Financial Intelligence into a standalone bureau of the Department of the Treasury, and the effects such a move would have on the Department of the Treasury’s efforts to stop money laundering, the financing of terror, and related illicit finance.
-- **(b)** *Report* Within 270 days of the date of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out the study required under subsection (a).
+- **(b)** *Report* Within 270 days of the date of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committee on Financial Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Select Committee on Intelligence of the Senate containing all findings and determinations made in carrying out the study required under subsection (a).
 
 ## § 5. Improving anti-terror finance monitoring of funds transfers
 
@@ -48,21 +48,9 @@ Within 180 days of the enactment of this Act, the Secretary of the Treasury shal
   - **(1)** the potential efficacy of requiring banking regulators to establish a pilot program to provide technical assistance to depository institutions and credit unions that wish to provide account services to money services businesses serving individuals in Somalia;
   - **(2)** whether such a pilot program could be a model for improving the ability of Americans to legitimately send funds to their loved ones through transparent and easily monitored channels; and
   - **(3)** the potential impact of allowing money services businesses to share their State examinations with depository institutions and credit unions, or if another mechanism could be found to allow a similar exchange of information that would give such depository institutions and credit unions a better understanding of whether an individual money services business is adequately meeting its anti-money laundering and counter terror financing obligations to combat money laundering, the financing of terror, or related illicit finance.
-- **(b)** *Report* Within 270 days of the date of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out the study required under subsection (a).
+- **(b)** *Report* Within 270 days of the date of the enactment of this Act, the Secretary of the Treasury shall issue a report to the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate containing all findings and determinations made in carrying out the study required under subsection (a).
 - **(c)** *Money services business defined* For purposes of this section, the term “money services business” has the meaning given that term under section 1010.100 of title 31, Code of Federal Regulations.
 
 ## § 6. Sense of Congress
 
 It is the sense of the Congress that the Secretary of the Treasury, acting in the Secretary’s own capacity and through the Under Secretary for Terrorism and Financial Crimes, should work with finance ministry counterparts worldwide to spur the development within such ministries of entities similar to the Department of the Treasury’s Office of Intelligence and Analysis to more solidly integrate the intelligence community with anti-money laundering and counter-terrorist financing efforts.
-
-## § 7. Unified electronic stream
-
-The Secretary of the Treasury shall, within 180 days of the date of the enactment of this Act, implement a program to collect, assemble, maintain in an up-to-date form, and make available electronically to appropriate Federal departments and agencies, including the Financial Crimes Enforcement Network, the Bureau of Industry and Security of the Department of the Commerce, the Census Bureau, the U.S. Customs and Border Protection, the Drug Enforcement Administration, a unified stream of import and export data, including bills of lading, manifests, Electronic Data Interchange information tracking container movements, and similar currently collected information that would help such departments and agencies detect and prevent terrorist financing, money laundering, or other forms of illicit finance in any form, while protecting proprietary business information and other sensitive information from unauthorized disclosure, in accordance with other Federal laws.
-
-## § 8. Adding the Secretary of the Treasury to the National Security Council
-
-Section 101(a) of the National Security Act of 1947 (50 U.S.C. 3021(a)) is amended—
-
-- **(1)** by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; and
-- **(2)** by inserting after paragraph (4) the following:
-  > - **(5)** the Secretary of the Treasury;
