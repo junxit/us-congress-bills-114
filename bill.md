@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3179
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,11 +23,11 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >       - **(i)** during a counseling session conducted in person;
 >       - **(ii)** online, with the individual acknowledging receipt of the information; or
 >       - **(iii)** through the use of the online counseling tool described in subsection (n)(1)(B).
->     - **(B)** *Use of interactive programs* In the case of institutions not using the online counseling tool described in subsection (n)(1)(B), the Secretary shall require such institutions to carry out the requirements of subparagraph (A) through the use of interactive programs, during an annual counseling session that is in-person or online, that test the individual’s understanding of the terms and conditions of the Federal Pell Grant or loan awarded to the student, using simple and understandable language and clear formatting.
+>     - **(B)** *Use of interactive programs* In the case of institutions not using the online counseling tool described in subsection (n)(1)(B), the Secretary shall require such institutions to carry out the requirements of subparagraph (A) through the use of interactive programs, during an annual counseling session that is in-person or online, that test the individual’s understanding of the terms and conditions of the Federal Pell Grant or loan awarded to the individual, using simple and understandable language and clear formatting.
 >   - **(2)** *All individuals* The information to be provided under paragraph (1)(A) to each individual receiving counseling under this subsection shall include the following:
->     - **(A)** An explanation of how the student may budget for typical educational expenses and a sample budget based on the cost of attendance for the institution.
+>     - **(A)** An explanation of how the individual may budget for typical educational expenses and a sample budget based on the cost of attendance for the institution.
 >     - **(B)** An explanation that an individual has a right to annually request a disclosure of information collected by a consumer reporting agency pursuant to section 612(a) of the Fair Credit Reporting Act (15 U.S.C. 1681j(a)).
->     - **(C)** Based on the most recent data available from the American Community Survey available from the Department of Commerce, the estimated average income and percentage of employment in the State of domicile of the borrower for persons with—
+>     - **(C)** Based on the most recent data available from the American Community Survey available from the Department of Commerce, the estimated average income and percentage of employment in the State of domicile of the individual for individuals with—
 >       - **(i)** a high school diploma or equivalent;
 >       - **(ii)** some post-secondary education without completion of a degree or certificate; and
 >       - **(iii)** a bachelor’s degree.
@@ -44,12 +44,12 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >     - **(B)** An explanation of the use of the master promissory note.
 >     - **(C)** An explanation that the borrower is not required to accept the full amount of the loan offered to the borrower.
 >     - **(D)** An explanation that the borrower should consider accepting any grant, scholarship, or State or Federal work-study jobs for which the borrower is eligible prior to accepting Federal student loans.
->     - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private loans, an explanation that Federal student loans typically offer better terms and conditions than private loans, an explanation of treatment of loans made under part D and private education loans in bankruptcy, and an explanation that if a borrower decides to take out a private education loan—
+>     - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private education loans, an explanation that Federal student loans typically offer better terms and conditions than private education loans, an explanation of treatment of loans made under part D and private education loans in bankruptcy, and an explanation that if a borrower decides to take out a private education loan—
 >       - **(i)** the borrower has the ability to select a private educational lender of the borrower’s choice;
 >       - **(ii)** the proposed private education loan may impact the borrower’s potential eligibility for other financial assistance, including Federal financial assistance under this title; and
 >       - **(iii)** the borrower has a right—
->         - **(I)** to accept the terms of the private education loan within 30 calendar days following the date on which the application for such loan is approved and the borrower receives the required disclosure documents, pursuant to section 128(e)(6) of the Truth in Lending Act; and
->         - **(II)** to cancel such loan within 3 business days of the date on which the loan is consummated, pursuant to section 128(e)(7) of such Act.
+>         - **(I)** to accept the terms of the private education loan within 30 calendar days following the date on which the application for such loan is approved and the borrower receives the required disclosure documents, pursuant to section 128(e) of the Truth in Lending Act (15 U.S.C. 1638(e)); and
+>         - **(II)** to cancel such loan within 3 business days of the date on which the loan is consummated, pursuant to section 128(e)(7) of such Act (15 U.S.C. 1638(e)(7)).
 >     - **(F)** An explanation of the approved educational expenses for which the borrower may use a loan made under part D.
 >     - **(G)** Information on the annual and aggregate loan limits for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans.
 >     - **(H)** Information on how interest accrues and is capitalized during periods when the interest is not paid by either the borrower or the Secretary.
@@ -138,7 +138,7 @@ Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is further amen
 >     - **(C)** freely available to all eligible institutions.
 >   - **(3)** *Record of counseling completion* The Secretary shall—
 >     - **(A)** use each online counseling tool described in paragraph (1) to keep a record of which individuals have received counseling using the tool, and notify the applicable institutions of the individual’s completion of such counseling;
->     - **(B)** in the case of a borrower who receives annual counseling for a loan made under part D using the tool described in paragraph (1)(B), notify the borrower by when the borrower should accept, in a manner described in section 485(l)(6), the loan for which the borrower has received such counseling; and
+>     - **(B)** in the case of a borrower who receives annual counseling for a loan made under part D using the tool described in paragraph (1)(B), notify the borrower by when the borrower should accept, in a manner described in subsection (l)(6), the loan for which the borrower has received such counseling; and
 >     - **(C)** in the case of a borrower described in subsection (b)(1)(B) at an institution that uses the online counseling tool described in paragraph (1)(A) of this subsection, the Secretary shall attempt to provide the information described in subsection (b)(1)(A) to the borrower through such tool.
 
 ## § 5. Longitudinal study on the effectiveness of student loan counseling
