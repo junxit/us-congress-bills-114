@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4404
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4404
@@ -28,9 +28,10 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2016
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2016
 - 2016-07-11 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
 - 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4597-4598)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4597-4598)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
