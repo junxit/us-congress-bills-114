@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5594
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5594
@@ -42,9 +42,10 @@ National Strategy for Combating Terrorist, Underground, and Other Illicit Financ
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ National Strategy for Combating Terrorist, Underground, and Other Illicit Financ
 - 2016-07-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4583-4584)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4583-4584)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
