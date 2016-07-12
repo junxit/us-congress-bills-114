@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5485
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5485
@@ -508,3 +508,4 @@ Financial Services and General Government Appropriations Act, 2017
 - 2016-07-07 — The previous question was ordered pursuant to the rule. (consideration: CR H4542)
 - 2016-07-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2016-07-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-07-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
