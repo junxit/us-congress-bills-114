@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3179
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3179
@@ -57,9 +57,10 @@ Empowering Students Through Enhanced Financial Counseling Act
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Empowering Students Through Enhanced Financial Counseling Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 523.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-675.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-675.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
