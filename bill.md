@@ -1,32 +1,39 @@
 ---
 legis-num: H. RES. 374
 congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 374
 
-> Recognizing the 50th anniversary of Singaporean independence and reaffirming Singapore’s close partnership with the United States.
+> Reaffirming Singapore’s strategic partnership with the United States, encompassing broad and robust economic, military-to-military, law enforcement, and counterterrorism cooperation.
 
 ## Preamble
 
-- Whereas the Republic of Singapore became independent on August 9, 1965;
-- Whereas Singapore and the United States share founding principles, including belief in meritocracy and equality of opportunity;
-- Whereas Singapore has been an early and continued supporter of the United States engagement in Asia to safeguard the peace, stability, and prosperity of the region;
-- Whereas Singapore underwent rapid growth following independence, with approximate per capita Gross Domestic Product growing from approximately $500 in 1965 to approximately $56,000 in 2014;
-- Whereas the United States and Singapore concluded the United States-Singapore Free Trade Agreement in 2004, the first bilateral trade agreement between the United States and an Asian country;
-- Whereas Singapore has become a major United States trading partner, with $65 billion in bilateral goods and services trade in 2013, as well as more than $154.4 billion in United States Foreign Direct Investment in Singapore and $20 billion of Singaporean Foreign Direct Investment in the United States;
-- Whereas Singapore was a founding member of the Association of South East Asian Nations (ASEAN) in 1967 and remains a key partner with the United States in the East Asia Summit;
-- Whereas the United States and Singapore established the United States-Singapore Third Country Training Program in 2012 to provide technical and capacity-building assistance to recipient countries;
-- Whereas Singapore provided the United States access to its military facilities with the 1990 Memorandum of Understanding, to which an addendum was added in 1998, supporting the continued security presence of the United States in Southeast Asia;
+- Whereas the Republic of Singapore became independent on August 9, 1965, and the United States recognized Singapore’s statehood in the same year;
+- Whereas Singapore and the United States established formal diplomatic relations in 1966;
+- Whereas under the leadership of its first Prime Minister Lee Kuan Yew, Singapore became an early and continued supporter of United States engagement in Asia to safeguard the peace, stability, and prosperity of the region;
+- Whereas the United States and Singapore implemented the United States-Singapore Free Trade Agreement, the first bilateral trade agreement between the United States and an Asian country, in 2004;
+- Whereas Singapore and the United States are major trading partners, with $64 billion in bilateral goods and services trade in 2014 and a United States trade surplus in both goods and services;
+- Whereas Singapore provided the United States access to its military facilities with a 1990 Memorandum of Understanding, supporting the continued security presence of the United States in Southeast Asia;
 - Whereas the United States and Singapore concluded a Strategic Framework Agreement in 2005 which recognized Singapore as a “Major Security Cooperation Partner” of the United States;
-- Whereas Singapore facilitates the rotational deployment of Littoral Combat Ships from the United States at Changi Naval Base;
-- Whereas the United States currently hosts four Republic of Singapore Air Force training detachments, comprising the Republic of Singapore Air Force’s F–15SG and F–16 fighter jets, as well as Apache and Chinook helicopters, at bases in Arizona, Idaho, and Texas;
-- Whereas the Singapore Armed Forces supported multinational reconstruction efforts in Iraq from 2003 to 2008, aided reconstruction and stabilization efforts in Afghanistan from 2007 to 2013, deployed alongside the United States as part of Combined Task Force 151 (CTF 151) since 2009, including taking command of CTF 151, to combat piracy in the Gulf of Aden and joined the Global Coalition to Counter ISIL in November 2014; and
-- Whereas Singapore will celebrate its 50th anniversary of independence in 2015 and commemorate 50 years of bilateral relations with the United States in 2016: Now, therefore, be it
+- Whereas the United States and Singapore signed an enhanced Defense Cooperation Agreement in 2015, expanding dialogue and cooperation in areas such as humanitarian assistance and disaster relief, cyber defense, biosecurity, and public communications;
+- Whereas Singapore facilitates the rotational deployment of United States Navy Littoral Combat Ships at its Changi Naval Base;
+- Whereas the United States currently hosts four Republic of Singapore Air Force training detachments, comprising the Republic of Singapore Air Force’s F–15SG and F–16 fighter jets, as well as Apache and Chinook helicopters, at bases in Arizona, Idaho and Texas;
+- Whereas the United States-Singapore Third Country Training Program, established in 2012 and renewed in 2015, provides regional technical and capacity-building assistance in a wide variety of areas to assist recipient countries in reaching their development goals;
+- Whereas Singapore was a founding member of the Association of South East Asian Nations (ASEAN) in 1967 and remains a key partner of the United States in ASEAN-led mechanisms such as the East Asia Summit, ASEAN Regional Forum and the ASEAN Defense Ministers’ Meeting Plus;
+- Whereas Singapore will be home to a United States-ASEAN Connect Center, an initiative announced at the United States-ASEAN summit in February 2016 to facilitate United States-ASEAN engagement and cooperation on energy, innovation, and entrepreneurship;
+- Whereas Singapore has played a critical role in enhancing shared maritime domain awareness in Southeast Asia through the establishment of the Republic of Singapore Navy’s Information Fusion Center, to facilitate information-sharing and collaboration with partners including the United States against maritime security threats, and through the deployment of United States aircraft at Paya Lebar Air Base;
+- Whereas Singapore has been a cybersecurity leader in the ASEAN region, through the unified Cyber Security Agency, as the convener of the annual ASEAN CERT Incident Drill, and as host of the INTERPOL Global Complex for Innovation;
+- Whereas Singapore was the first Southeast Asian country to join the Global Coalition to Counter ISIL in November 2014 and has contributed an air refueling tanker, imagery analysis teams, and planning and liaison officers; and
+- Whereas Singapore has supported counterterrorism efforts, through the sharing of domestic practices, as well as participation in the White House Summit on Countering Violent Extremism in February 2015, and hosting the East Asia Summit Symposium on Religious Rehabilitation and Social Reintegration in April 2015: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** sends its warm congratulations to the people of Singapore as they celebrate 50 years of independence and nation-building; and
-- **(2)** reaffirms the close partnership between the United States and Singapore ahead of the 50th anniversary of the establishment of bilateral diplomatic relations.
+- **(1)** affirms the importance of the United States-Singapore strategic partnership in securing regional peace and stability, including through rotational basing and logistical support arrangements which enhance the United States presence in Southeast Asia;
+- **(2)** applauds the Republic of Singapore’s leadership in counterterrorism, including the deployment of military assets as part of the anti-ISIL coalition and innovative counterterrorism efforts within the Asia-Pacific region;
+- **(3)** anticipates the deepening of the security relationship following the signing of an enhanced Defense Cooperation Agreement in Washington on December 7, 2015, and welcomes further cooperation in areas such as cybersecurity, humanitarian assistance and disaster relief, and defense technology;
+- **(4)** recognizes the vitality of the United States-Singapore bilateral trade and investment relationship;
+- **(5)** supports continued close cooperation between the United States and Singapore, through both bilateral initiatives such as the United States-Singapore Third Country Training Program, and multilateral initiatives such as United States-ASEAN Connect announced at the recent United States-ASEAN Summit in Sunnylands, to build capacity for commercial engagement, energy development, innovation, trade facilitation, and to achieve development goals in the Asia-Pacific region; and
+- **(6)** urges the Administration, to continue its support of multilateral institutions and fora such as the Asia-Pacific Economic Cooperation, East Asia Summit, ASEAN Regional Forum, and the ASEAN Defense Ministers’ Meeting Plus, working in close cooperation with partners, such as the Republic of Singapore, who share a commitment to an inclusive, rules-based regional architecture.
