@@ -2,7 +2,7 @@
 legis-num: H.R. 3178
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3178
@@ -79,8 +79,9 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >       - **(ii)** recipients of a loan made under part D of title IV (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant;
     >       - **(iii)** individuals who did not receive a Federal Pell Grant or a loan made under part D of title IV (other than a Federal Direct Unsubsidized Stafford Loan);
     >       - **(iv)** race and ethnic background;
-    >       - **(v)** classification as a student with a disability; and
-    >       - **(vi)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480).
+    >       - **(v)** classification as a student with a disability;
+    >       - **(vi)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480); and
+    >       - **(vii)** male and female.
     >     - **(C)** *Costs*
     >       - **(i)** The cost of attendance for full-time undergraduate students enrolled in the institution who live on campus.
     >       - **(ii)** The cost of attendance for full-time undergraduate students enrolled in the institution who live off campus.
@@ -119,7 +120,7 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
   - **(2)** in section 132(a) (20 U.S.C. 1015a(a)), by striking paragraph (1) and inserting the following new paragraph:
     > - **(1)** *College Dashboard website* The term College Dashboard website means the College Dashboard website required under subsection (d).
 
-- **(c)** *Development* The Secretary of Education shall develop and publish the College Dashboard website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by subsections (a) and (b) of this section, not later than one year after the date of the enactment of this Act.
+- **(c)** *Development* The Secretary of Education shall develop and publish the College Dashboard website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by subsections (a) and (b) of this section, not later than 1 year after the date of the enactment of this Act.
 - **(d)** *College Navigator website maintenance* The Secretary shall maintain the College Navigator website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as in effect the day before the date of the enactment of this Act, in the manner required under the Higher Education Act of 1965, as in effect on such day, until the College Dashboard website referred to in subsection (c) is complete and publicly available on the Internet.
 
 ## § 3. Net price calculators

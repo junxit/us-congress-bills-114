@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3178
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3178
@@ -44,9 +44,10 @@ Strengthening Transparency in Higher Education Act
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Strengthening Transparency in Higher Education Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 522.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-674.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-674.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
