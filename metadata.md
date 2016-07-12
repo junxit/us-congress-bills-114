@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 513
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 513
@@ -35,3 +35,7 @@ A resolution designating September 25, 2016, as "National Lobster Day".
 
 - 2016-06-28 — Introduced in Senate
 - 2016-06-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4651)
+- 2016-07-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-07-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5011)
+- 2016-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5011)
