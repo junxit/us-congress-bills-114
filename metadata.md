@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5385
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5385
@@ -16,9 +16,10 @@ Quadrennial Homeland Security Review Technical Correction Act of 2016
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Quadrennial Homeland Security Review Technical Correction Act of 2016
 - 2016-07-11 — Mr. Perry moved to suspend the rules and pass the bill, as amended.
 - 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4594)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4594)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
