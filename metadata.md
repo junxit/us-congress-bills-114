@@ -1,7 +1,7 @@
 ---
 measure: S. 2509
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2509
@@ -32,3 +32,7 @@ Federal Property Management Reform Act of 2016
 
 - 2016-02-04 — Introduced in Senate
 - 2016-02-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-02-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
