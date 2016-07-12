@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5322
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5322
@@ -21,9 +21,10 @@ U.S. Territories Investor Protection Act of 2016
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ U.S. Territories Investor Protection Act of 2016
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 521.
 - 2016-07-11 — Reported by the Committee on Financial Services. H. Rept. 114-673.
 - 2016-07-11 — Reported by the Committee on Financial Services. H. Rept. 114-673.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
