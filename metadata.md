@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 138
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 138
@@ -29,9 +29,10 @@ Designating the George C. Marshall Museum and George C. Marshall Research Librar
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Designating the George C. Marshall Museum and George C. Marshall Research Librar
 - 2016-07-11 — Mr. Brat moved to suspend the rules and agree to the resolution.
 - 2016-07-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4601)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4601)
+- 2016-07-12 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
