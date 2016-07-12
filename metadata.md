@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3361
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3361
@@ -49,3 +49,7 @@ Department of Homeland Security Insider Threat and Mitigation Act of 2016
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-321.
 - 2015-11-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-321.
 - 2015-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-02-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-297.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-297.
+- 2016-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
