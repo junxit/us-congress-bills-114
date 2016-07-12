@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4785
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4785
@@ -24,9 +24,10 @@ DHS SAVE Act
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ DHS SAVE Act
 - 2016-07-11 — Mr. Perry moved to suspend the rules and pass the bill, as amended.
 - 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4592-4593)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4592-4593)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
