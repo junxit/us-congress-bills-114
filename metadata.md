@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5640
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5640
@@ -27,9 +27,10 @@ Electricity Storage Innovation Act
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Electricity Storage Innovation Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 529.
 - 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-681.
 - 2016-07-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-681.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
