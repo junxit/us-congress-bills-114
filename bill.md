@@ -2,7 +2,7 @@
 legis-num: H.R. 5528
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5528
@@ -34,12 +34,12 @@ Section 401(b)(7)(C)(iv)(I) of the Higher Education Act of 1965 (20 U.S.C. 1070a
     >   - **(iii)** dependent students and independent students who do not meet the requirements under subsection (b) or (c) of section 479.
 
   - **(2)** by amending subsection (f) to read as follows:
-    > - **(f)** *Use of Internal Revenue Service data retrieval tool to populate FAFSA*
+    > - **(f)** *Use of Internal Revenue Service data retrieval tool To populate FAFSA*
     >   - **(1)** *Simplification efforts* The Secretary shall—
-    >     - **(A)** make every effort to use data available from the Internal Revenue Service to reduce the amount of original data entry by applicants and strengthen the reliability of data used to calculate expected family contributions, including through the use of technology to—
-    >       - **(i)** automatically populate the electronic version of the forms under this paragraph with data available from the Internal Revenue Service; and
+    >     - **(A)** make every effort to allow applicants to utilize the current data retrieval tool to transfer data available from the Internal Revenue Service to reduce the amount of original data entry by applicants and strengthen the reliability of data used to calculate expected family contributions, including through the use of technology to—
+    >       - **(i)** allow an applicant to automatically populate the electronic version of the forms under this paragraph with data available from the Internal Revenue Service; and
     >       - **(ii)** direct an applicant to appropriate questions on such forms based on the applicant’s answers to previous questions; and
-    >     - **(B)** allow single taxpayers, married taxpayers filing jointly, and married taxpayers filing separately to utilize the data retrieval tool to its full capacity.
+    >     - **(B)** allow single taxpayers, married taxpayers filing jointly, and married taxpayers filing separately to utilize the current data retrieval tool to its full capacity.
     >   - **(2)** *Use of tax return in application process* The Secretary shall continue to examine whether data provided by the Internal Revenue Service can be used to generate an expected family contribution without additional action on the part of the student and taxpayer.
     >   - **(3)** *Reports on FAFSA simplification efforts* Not less than once every other year, the Secretary shall report to the authorizing committees on the progress of the simplification efforts under this subsection.
     >   - **(4)** *Reports on FAFSA access* Not less than once every 10 years, the Secretary shall report to the authorizing committees on the needs of limited English proficient students using the FAFSA.
