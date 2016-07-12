@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5056
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5056
@@ -26,9 +26,10 @@ Airport Perimeter and Access Control Security Act of 2016
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Airport Perimeter and Access Control Security Act of 2016
 - 2016-07-11 — Mr. Perry moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4596)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4596)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
