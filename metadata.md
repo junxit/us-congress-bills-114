@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5588
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5588
@@ -37,3 +37,12 @@ Veterans' Compensation COLA Act of 2016
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4600)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4600)
 - 2016-07-12 — Received in the Senate, read twice.
+- 2016-07-13 — Message on Senate action sent to the House.
+- 2016-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5058)
+- 2016-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5058)
+- 2016-07-14 — Presented to President.
+- 2016-07-14 — Presented to President.
+- 2016-07-22 — Became Public Law No: 114-197.
+- 2016-07-22 — Became Public Law No: 114-197.
+- 2016-07-22 — Signed by President.
+- 2016-07-22 — Signed by President.
