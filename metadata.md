@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5636
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5636
@@ -23,9 +23,10 @@ National Institute of Standards and Technology Campus Security Act
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ National Institute of Standards and Technology Campus Security Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 527.
 - 2016-07-11 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-679.
 - 2016-07-11 — Reported by the Committee on Science, Space, and Technology. H. Rept. 114-679.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
