@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5607
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5607
@@ -30,13 +30,14 @@ Enhancing Treasury's Anti-Terror Tools Act
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (5)
+## Committees (6)
 
 - House — Intelligence (Permanent Select) Committee
 - House — Armed Services Committee
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Enhancing Treasury's Anti-Terror Tools Act
 - 2016-07-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
 - 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 45 (Roll no. 402). (text: CR H4588)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 45 (Roll no. 402).(text: CR H4588)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
