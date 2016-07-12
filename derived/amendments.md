@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5421
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 77r
 
-> in subparagraph (B), by striking “that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)” and inserting “that has been approved by the Commission”;
+> in subparagraph (B), by striking “that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)” and inserting “that have been approved by the Commission, consistent with section 2(c) of the National Securities Exchange Regulatory Parity Act of 2016”;
 
 | | |
 |---|---|
 | Removed | `that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)` |
-| Inserted | `that has been approved by the Commission` |
+| Inserted | `that have been approved by the Commission, consistent with section 2(c) of the National Securities Exchange Regulatory Parity Act of 2016` |
 
 ## Stated, not applied
 
