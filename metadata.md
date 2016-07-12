@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5602
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5602
@@ -32,9 +32,10 @@ To amend title 31, United States Code, to authorize the Secretary of the Treasur
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ To amend title 31, United States Code, to authorize the Secretary of the Treasur
 - 2016-07-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 47 (Roll no. 401). (text: CR H4590)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 47 (Roll no. 401).(text: CR H4590)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
