@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5639
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5639
@@ -29,9 +29,10 @@ National Institute of Standards and Technology Improvement Act of 2016
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ National Institute of Standards and Technology Improvement Act of 2016
 - 2016-07-11 — Mr. Moolenaar moved to suspend the rules and pass the bill, as amended.
 - 2016-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4641-4644)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4641-4644)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
