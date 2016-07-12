@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5252
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5252
@@ -16,9 +16,10 @@ To designate the United States Customs and Border Protection Port of Entry locat
 
 - Rep. Hurd, Will [R-TX-23] (H001073)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To designate the United States Customs and Border Protection Port of Entry locat
 - 2016-07-11 — Mr. Johnson, Sam moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4601)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4601)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
