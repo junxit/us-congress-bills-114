@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5530
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5530
@@ -31,9 +31,10 @@ HBCU Capital Financing Improvement Act
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ HBCU Capital Financing Improvement Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 525.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-677.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-677.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
