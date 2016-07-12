@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5529
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5529
@@ -33,9 +33,10 @@ Accessing Higher Education Opportunities Act
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Accessing Higher Education Opportunities Act
 - 2016-07-11 — Placed on the Union Calendar, Calendar No. 524.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-676.
 - 2016-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-676.
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
