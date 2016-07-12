@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1557
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1557
@@ -51,3 +51,7 @@ Federal Employee Antidiscrimination Act of 2015
 - 2015-07-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 448). (text: CR H5308-5310)
 - 2015-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 448).(text: CR H5308-5310)
 - 2015-07-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-12-09 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-300.
+- 2016-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-300.
+- 2016-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
