@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4768
 
-> To amend title 5, United States Code, with respect to the judicial review of agency interpretations of statutory and regulatory provisions.
+> To amend title 5, United States Code, to clarify the nature of judicial review of agency interpretations of statutory and regulatory provisions.
 
 ## § 1. Short title
 

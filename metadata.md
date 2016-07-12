@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4768
@@ -136,6 +136,15 @@ Separation of Powers Restoration Act of 2016
 
 - House — Judiciary Committee
 
+## Recorded votes (6)
+
+- 2016-07-12 — [House 114-2-411](votes/house-114-2-0411.md) — On Agreeing to the Amendment — **Failed** (194–223)
+- 2016-07-12 — [House 114-2-412](votes/house-114-2-0412.md) — On Agreeing to the Amendment — **Failed** (174–243)
+- 2016-07-12 — [House 114-2-413](votes/house-114-2-0413.md) — On Agreeing to the Amendment — **Failed** (174–243)
+- 2016-07-12 — [House 114-2-414](votes/house-114-2-0414.md) — On Agreeing to the Amendment — **Failed** (181–235)
+- 2016-07-12 — [House 114-2-415](votes/house-114-2-0415.md) — On Motion to Recommit with Instructions — **Failed** (169–236)
+- 2016-07-12 — [House 114-2-416](votes/house-114-2-0416.md) — On Passage — **Passed** (240–171)
+
 ## Actions
 
 - 2016-03-16 — Introduced in House
@@ -148,3 +157,73 @@ Separation of Powers Restoration Act of 2016
 - 2016-06-14 — Placed on the Union Calendar, Calendar No. 483.
 - 2016-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-622.
 - 2016-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-622.
+- 2016-06-23 — Rules Committee Resolution H. Res. 796 Reported to House. Rule provides for consideration of H.R. 4768 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2016-07-05 — Rule H. Res. 796 passed House.
+- 2016-07-11 — Amendment (A001) offered by Mr. Johnson (GA). (consideration: CR H4651-4563; text: CR H4652)
+- 2016-07-11 — Amendment (A002) offered by Mr. Johnson (GA). (consideration: CR H4652-4654, H4656; text: CR H4653)
+- 2016-07-11 — Amendment (A003) offered by Mr. Meeks. (consideration: CR H4654-4655; text: CR H4654)
+- 2016-07-11 — Amendment (A004) offered by Mr. Johnson (GA). (consideration: CR H4655-4656; text: CR H4655)
+- 2016-07-11 — Amendment (A005) offered by Mr. Johnson (GA). (consideration: CR H4656-4657; text: CR H4656)
+- 2016-07-11 — Amendment failed in Committee of the Whole
+- 2016-07-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 4768 as unfinished business.
+- 2016-07-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 4768 as unfinished business.
+- 2016-07-11 — Considered as unfinished business. (consideration: CR H4651-4657; text of measure as reported in House: CR H4652)
+- 2016-07-11 — Considered under the provisions of rule H. Res. 796. (consideration: CR H4615-4622)
+- 2016-07-11 — DEBATE - Pursuant to the provisions of H. Res. 796, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 1.
+- 2016-07-11 — DEBATE - Pursuant to the provisions of H. Res. 796, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 2.
+- 2016-07-11 — DEBATE - Pursuant to the provisions of H. Res. 796, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 4.
+- 2016-07-11 — DEBATE - Pursuant to the provisions of H. Res. 796, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 5.
+- 2016-07-11 — DEBATE - Pursuant to the provisions of H. Res. 796, the Committee of the Whole proceeded with 10 minutes of debate on the Meeks amendment No. 3.
+- 2016-07-11 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4768.
+- 2016-07-11 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A002) Failed by voice vote.
+- 2016-07-11 — House amendment offered
+- 2016-07-11 — House amendment offered
+- 2016-07-11 — House amendment offered
+- 2016-07-11 — House amendment offered
+- 2016-07-11 — House amendment offered
+- 2016-07-11 — House amendment offered/reported by : Amendment (A001) offered by Mr. Johnson (GA).(consideration: CR H4651-4563; text: CR H4652)
+- 2016-07-11 — House amendment offered/reported by : Amendment (A002) offered by Mr. Johnson (GA).(consideration: CR H4652-4654, H4656; text: CR H4653)
+- 2016-07-11 — House amendment offered/reported by : Amendment (A003) offered by Mr. Meeks.(consideration: CR H4654-4655; text: CR H4654)
+- 2016-07-11 — House amendment offered/reported by : Amendment (A004) offered by Mr. Johnson (GA).(consideration: CR H4655-4656; text: CR H4655)
+- 2016-07-11 — House amendment offered/reported by : Amendment (A005) offered by Mr. Johnson (GA).(consideration: CR H4656-4657; text: CR H4656)
+- 2016-07-11 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 796 and Rule XVIII.
+- 2016-07-11 — Mr. Cartwright moved that the committee rise.
+- 2016-07-11 — On agreeing to the Johnson (GA) amendment (A002) Failed by voice vote.
+- 2016-07-11 — On motion that the committee rise Agreed to by voice vote.
+- 2016-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meeks amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Meeks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-07-11 — Rule provides for consideration of H.R. 4768 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2016-07-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-11 — The Speaker designated the Honorable E. Scott Rigell to act as Chairman of the Committee.
+- 2016-07-11 — UNANIMOUS CONSENT REQUEST - Mr. Johnson (GA) asked unanimous consent that the request for a recorded vote on amendment No. 2 be withdrawn to the end that the amendment stand disposed of by the voice vote. Agreed to without objection.
+- 2016-07-12 — Amendment failed in Committee of the Whole
+- 2016-07-12 — Amendment failed in Committee of the Whole
+- 2016-07-12 — Amendment failed in Committee of the Whole
+- 2016-07-12 — Amendment failed in Committee of the Whole
+- 2016-07-12 — Considered as unfinished business. (consideration: CR H4690-4695)
+- 2016-07-12 — DEBATE - The House proceeded with 10 minutes of the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section titled "Excepted Rules Regarding the Prevention of Firearms Transfers to Criminals and Suspected Terrorists".
+- 2016-07-12 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A001) Failed by recorded vote: 194 - 223 (Roll no. 411).
+- 2016-07-12 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A004) Failed by recorded vote: 174 - 243 (Roll no. 413).
+- 2016-07-12 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A005) Failed by recorded vote: 181 - 235 (Roll no. 414).
+- 2016-07-12 — House amendment not agreed to: On agreeing to the Meeks amendment (A003) Failed by recorded vote: 174 - 243 (Roll no. 412).
+- 2016-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-12 — Mr. Keating moved to recommit with instructions to the Committee on the Judiciary. (consideration: CR H4693-4695; text: CR H4693)
+- 2016-07-12 — On agreeing to the Johnson (GA) amendment (A001) Failed by recorded vote: 194 - 223 (Roll no. 411).
+- 2016-07-12 — On agreeing to the Johnson (GA) amendment (A004) Failed by recorded vote: 174 - 243 (Roll no. 413).
+- 2016-07-12 — On agreeing to the Johnson (GA) amendment (A005) Failed by recorded vote: 181 - 235 (Roll no. 414).
+- 2016-07-12 — On agreeing to the Meeks amendment (A003) Failed by recorded vote: 174 - 243 (Roll no. 412).
+- 2016-07-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 169 - 236 (Roll no. 415).
+- 2016-07-12 — On passage Passed by recorded vote: 240 - 171 (Roll no. 416).
+- 2016-07-12 — Passed/agreed to in House: On passage Passed by recorded vote: 240 - 171 (Roll no. 416).
+- 2016-07-12 — Roll call votes on amendments in House
+- 2016-07-12 — Roll call votes on amendments in House
+- 2016-07-12 — Roll call votes on amendments in House
+- 2016-07-12 — Roll call votes on amendments in House
+- 2016-07-12 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-07-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-07-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4768.
+- 2016-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2016-07-12 — The title of the measure was amended. Agreed to without objection.
