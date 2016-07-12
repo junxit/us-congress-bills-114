@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3394
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,11 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Clarifying Amendment to Provide Terrorism Victims Equity Act” or the “CAPTIVE Act”.
 
-## § 2. Use of certain assets to satisfy judgments against terrorist parties
-
-Section 201(a) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note) is amended by adding at the end the following: “For purposes of this section, the blocked assets of a terrorist party are subject to execution or attachment in aid of execution in order to satisfy such judgment regardless of whether the terrorist party ceases to be a terrorist party after such judgment is entered.”.
-
-## § 3. Definitions
+## § 2. Use of blocked assets to satisfy judgments of U.S. persons against terrorist parties
 
 Section 201(d) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note) is amended—
 
@@ -28,11 +24,13 @@ Section 201(d) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note)
 
 - **(2)** by redesignating paragraph (4) as paragraph (5); and
 - **(3)** by inserting after paragraph (3) the following:
-  > - **(4)** *Person* In subsection (a), the term “person” means a person who, at the time the act of terrorism described in subsection (a) was committed upon which the judgment described in such subsection was obtained by that person, was either—
-  >   - **(A)** a national of the United States as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
-  >   - **(B)** a member of the Armed Forces of the United States; or
-  >   - **(C)** otherwise an employee of the Government of the United States, or of an individual performing a contract awarded by the United States Government, acting within the scope of the employee’s employment.
+  > - **(4)** *Person* In subsection (a), the term “person” means—
+  >   - **(A)** a natural person who, at the time the act of terrorism described in subsection (a) was committed upon which the judgment described in such subsection was obtained by that person, was either—
+  >     - **(i)** a national of the United States as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+  >     - **(ii)** a member of the Armed Forces of the United States; or
+  >     - **(iii)** otherwise an employee of the Government of the United States, or of an individual performing a contract awarded by the United States Government, acting within the scope of the employee’s employment; or
+  >   - **(B)** if the person described in subparagraph (A) is deceased, the personal representative of the estate of that deceased person.
 
-## § 4. Effective date
+## § 3. Applicability
 
-The amendments made by this Act apply to any judgment entered before, on, or after the date of the enactment of this Act.
+The amendments made by this Act apply to any judgment described in section 201(a) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note) that is entered before, on, or after the date of the enactment of this Act.

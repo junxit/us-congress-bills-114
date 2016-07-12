@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3394
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `28 U.S.C. § 1610` | add-at-end | Section 201(a) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note) is amended by adding at the end the following: “For purposes of this section, the blocked assets of a terrorist party are subject to execution or attachment… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | in the matter preceding subparagraph (A), by striking “means”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | amend | by amending paragraph (2)(A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1610` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
