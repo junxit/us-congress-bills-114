@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5469
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5469
@@ -20,9 +20,10 @@ To require the Secretary of the Treasury to direct the United States Executive D
 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ To require the Secretary of the Treasury to direct the United States Executive D
 - 2016-07-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4582)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4582)
+- 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
