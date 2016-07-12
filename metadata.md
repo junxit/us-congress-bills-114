@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5588
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5588
@@ -36,3 +36,4 @@ Veterans' Compensation COLA Act of 2016
 - 2016-07-11 — Mr. Abraham moved to suspend the rules and pass the bill.
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4600)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4600)
+- 2016-07-12 — Received in the Senate, read twice.
