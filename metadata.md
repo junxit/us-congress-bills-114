@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5421
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5421
@@ -20,9 +20,10 @@ National Securities Exchange Regulatory Parity Act of 2016
 
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ National Securities Exchange Regulatory Parity Act of 2016
 - 2016-07-12 — Placed on the Union Calendar, Calendar No. 530.
 - 2016-07-12 — Reported by the Committee on Financial Services. H. Rept. 114-684.
 - 2016-07-12 — Reported by the Committee on Financial Services. H. Rept. 114-684.
+- 2016-07-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
