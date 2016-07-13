@@ -1,7 +1,7 @@
 ---
 measure: S. 3055
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3055
@@ -36,3 +36,14 @@ Department of Veterans Affairs Dental Insurance Reauthorization Act of 2016
 - 2016-07-13 — Received in the House.
 - 2016-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5035-5036)
 - 2016-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5035-5036)
+- 2016-07-14 — Considered by unanimous consent. (consideration: CR H4974)
+- 2016-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-14 — Mr. Wenstrup asked unanimous consent to take from the Speaker's table and consider.
+- 2016-07-14 — On passage Passed without objection. (text: CR H4974)
+- 2016-07-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4974)
+- 2016-07-19 — Presented to President.
+- 2016-07-19 — Presented to President.
+- 2016-07-29 — Became Public Law No: 114-218.
+- 2016-07-29 — Became Public Law No: 114-218.
+- 2016-07-29 — Signed by President.
+- 2016-07-29 — Signed by President.
