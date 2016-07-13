@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5658
@@ -16,9 +16,10 @@ TALENT Act of 2016
 
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ TALENT Act of 2016
 - 2016-07-12 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2016-07-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 8 (Roll no. 410). (text: CR H4683)
 - 2016-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 8 (Roll no. 410).(text: CR H4683)
+- 2016-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
