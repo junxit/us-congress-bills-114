@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 142
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 142
@@ -73,3 +73,6 @@ Supporting the bid of Los Angeles, California, to bring the 2024 Summer Olympic 
 - 2016-07-12 — On agreeing to the resolution Agreed to without objection. (text: CR H4695-4696)
 - 2016-07-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4695-4696)
 - 2016-07-13 — Received in the Senate.
+- 2016-07-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5187)
+- 2016-07-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5187)
+- 2016-07-15 — Message on Senate action sent to the House.
