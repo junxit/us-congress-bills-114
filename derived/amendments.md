@@ -1,7 +1,7 @@
 ---
 measure: S. 2893
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 2 U.S.C. § 1743
 
-> Section 152411(a) of title 36, United States Code, is amended by striking “through fiscal year 2016 an amount not to exceed” and inserting “through fiscal year 2026 an amount not to exceed the lesser of $750,000 or”.
+> Section 152411(a) of title 36, United States Code, is amended by striking “through fiscal year 2016 an amount not to exceed” and inserting “through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or”.
 
 | | |
 |---|---|
 | Removed | `through fiscal year 2016 an amount not to exceed` |
-| Inserted | `through fiscal year 2026 an amount not to exceed the lesser of $750,000 or` |
+| Inserted | `through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or` |
 
 ### 2 U.S.C. § 1743
 

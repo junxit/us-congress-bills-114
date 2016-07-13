@@ -17,7 +17,7 @@ This Act may be cited as the “Library of Congress Sound Recording and Film Pre
 
 - **(a)** *National Recording Preservation Board* Section 133 of the National Recording Preservation Act of 2000 (2 U.S.C. 1743) is amended by striking “through fiscal year 2016” and inserting “through fiscal year 2026”.
 - **(b)** *National Recording Preservation Foundation*
-  - **(1)** *Reauthorization* Section 152411(a) of title 36, United States Code, is amended by striking “through fiscal year 2016 an amount not to exceed” and inserting “through fiscal year 2026 an amount not to exceed the lesser of $750,000 or”.
+  - **(1)** *Reauthorization* Section 152411(a) of title 36, United States Code, is amended by striking “through fiscal year 2016 an amount not to exceed” and inserting “through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or”.
   - **(2)** *Number of members of Board of Directors* Section 152403(b)(2) of title 36, United States Code, is amended—
     - **(A)** in subparagraph (A), by striking “nine directors” and inserting “12 directors”; and
     - **(B)** in subparagraph (C), by striking “six directors” each place it appears and inserting “8 directors”.

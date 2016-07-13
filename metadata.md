@@ -1,7 +1,7 @@
 ---
 measure: S. 2893
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2893
@@ -28,3 +28,13 @@ Library of Congress Sound Recording and Film Preservation Programs Reauthorizati
 
 - 2016-04-28 — Introduced in Senate
 - 2016-04-28 — Read twice and referred to the Committee on Rules and Administration. (Sponsor introductory remarks on measure: CR S2560-2562; text of measure as introduced: CR S2562)
+- 2016-07-13 — Amendment SA 4973 agreed to in Senate by Unanimous Consent.
+- 2016-07-13 — Amendment SA 4973 proposed by Senator Grassley for Senator Blunt. (consideration: CR S5092; text: CR S5092) To increase the amount of funds authorized to be appropriated to the National Recording Preservation Foundation.
+- 2016-07-13 — Measure laid before Senate by unanimous consent. (consideration: CR S5091-5092)
+- 2016-07-13 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5092)
+- 2016-07-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5092)
+- 2016-07-13 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2016-07-13 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2016-07-13 — Senate amendment agreed to: Amendment SA 4973 agreed to in Senate by Unanimous Consent.
+- 2016-07-13 — Senate amendment proposed (on the floor): Amendment SA 4973 proposed by Senator Grassley for Senator Blunt.(consideration: CR S5092; text: CR S5092)
+- 2016-07-13 — Senate amendment submitted
