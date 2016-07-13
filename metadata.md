@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 823
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 823
@@ -31,3 +31,10 @@ Condemning in the strongest terms the terrorist attacks in Istanbul, Turkey, on 
 - 2016-07-12 — Introduced in House
 - 2016-07-12 — Introduced in House
 - 2016-07-12 — Referred to the House Committee on Foreign Affairs.
+- 2016-07-13 — Committee on Foreign Affairs discharged.
+- 2016-07-13 — Committee on Foreign Affairs discharged.
+- 2016-07-13 — Considered by unanimous consent. (consideration: CR H4874)
+- 2016-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-07-13 — Mr. Royce asked unanimous consent to discharge from committee and consider.
+- 2016-07-13 — On agreeing to the resolution Agreed to without objection. (text: CR H4874)
+- 2016-07-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4874)
