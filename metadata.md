@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3394
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3394
@@ -52,3 +52,4 @@ CAPTIVE Act
 - 2016-07-12 — Placed on the Union Calendar, Calendar No. 531.
 - 2016-07-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-685.
 - 2016-07-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-685.
+- 2016-07-13 — Received in the Senate.
