@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 142
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 142
@@ -72,3 +72,4 @@ Supporting the bid of Los Angeles, California, to bring the 2024 Summer Olympic 
 - 2016-07-12 — Mr. Royce asked unanimous consent to discharge from committee and consider.
 - 2016-07-12 — On agreeing to the resolution Agreed to without objection. (text: CR H4695-4696)
 - 2016-07-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4695-4696)
+- 2016-07-13 — Received in the Senate.
