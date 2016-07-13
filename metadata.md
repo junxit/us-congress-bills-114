@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4639
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 4639
@@ -22,9 +22,10 @@ Thoroughly Investigating Retaliation Against Whistleblowers Act
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Thoroughly Investigating Retaliation Against Whistleblowers Act
 - 2016-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3990-3991)
 - 2016-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3990-3991)
 - 2016-06-22 — Received in the Senate.
+- 2016-07-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
