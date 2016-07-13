@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1656
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1656
@@ -53,3 +53,7 @@ Secret Service Improvements Act of 2016
 - 2015-07-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-231.
 - 2015-07-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-231.
 - 2015-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-02-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-302.
+- 2016-07-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-302.
+- 2016-07-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
