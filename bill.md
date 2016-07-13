@@ -1,78 +1,79 @@
 ---
 legis-num: S. 304
 congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 304
 
-> To improve motor vehicle safety by encouraging the sharing of certain information.
+That the bill from the Senate (S. 304) entitled “An Act to improve motor vehicle safety by encouraging the sharing of certain information.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Motor Vehicle Safety Whistleblower Act”.
+This Act may be cited as the “Conscience Protection Act of 2016”.
 
-## § 2. Motor vehicle safety whistleblower incentives and protections
+## § 2. Findings
 
-- **(a)** *In general* Subchapter IV of chapter 301 of title 49, United States Code, is amended by adding at the end the following:
-  > ## § 30172. Whistleblower incentives and protections
-  >
-  > - **(a)** *Definitions* In this section:
-  >   - **(1)** *Covered action* The term covered action means any administrative or judicial action, including any related administrative or judicial action, brought by the Secretary or the Attorney General under this chapter that in the aggregate results in monetary sanctions exceeding $1,000,000.
-  >   - **(2)** *Monetary sanctions* The term monetary sanctions means monies, including penalties and interest, ordered or agreed to be paid.
-  >   - **(3)** *Original information* The term original information means information that—
-  >     - **(A)** is derived from the independent knowledge or analysis of an individual;
-  >     - **(B)** is not known to the Secretary from any other source, unless the individual is the original source of the information; and
-  >     - **(C)** is not exclusively derived from an allegation made in a judicial or an administrative action, in a governmental report, a hearing, an audit, or an investigation, or from the news media, unless the individual is a source of the information.
-  >   - **(4)** *Part supplier* The term part supplier means a manufacturer of motor vehicle equipment.
-  >   - **(5)** *Successful resolution* The term successful resolution includes any settlement or adjudication of a covered action.
-  >   - **(6)** *Whistleblower* The term whistleblower means any employee or contractor of a motor vehicle manufacturer, part supplier, or dealership who voluntarily provides to the Secretary original information relating to any motor vehicle defect, noncompliance, or any violation or alleged violation of any notification or reporting requirement of this chapter which is likely to cause unreasonable risk of death or serious physical injury.
-  > - **(b)** *Awards*
-  >   - **(1)** *In general* If the original information that a whistleblower provided to the Secretary led to the successful resolution of a covered action, the Secretary, subject to subsection (c), may pay an award or awards to 1 or more whistleblowers in an aggregate amount of not more than 30 percent, in total, of collected monetary sanctions.
-  >   - **(2)** *Payment of awards* Any amount payable under paragraph (1) shall be paid from the monetary sanctions collected, and any monetary sanctions so collected shall be available for such payment.
-  > - **(c)** *Determination of awards; denial of awards*
-  >   - **(1)** *Determination of awards*
-  >     - **(A)** *Discretion* The determination of whether, to whom, or in what amount to make an award shall be in the discretion of the Secretary.
-  >     - **(B)** *Criteria* In determining an award made under subsection (b), the Secretary shall take into consideration—
-  >       - **(i)** if appropriate, whether a whistleblower reported or attempted to report the information internally to an applicable motor vehicle manufacturer, part supplier, or dealership;
-  >       - **(ii)** the significance of the original information provided by the whistleblower to the successful resolution of the covered action;
-  >       - **(iii)** the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in the covered action; and
-  >       - **(iv)** such additional factors as the Secretary considers relevant.
-  >   - **(2)** *Denial of awards* No award under subsection (b) shall be made—
-  >     - **(A)** to any whistleblower who is convicted of a criminal violation related to the covered action for which the whistleblower otherwise could receive an award under this section;
-  >     - **(B)** to any whistleblower who, acting without direction from an applicable motor vehicle manufacturer, part supplier, or dealership, or agent thereof, deliberately causes or substantially contributes to the alleged violation of a requirement of this chapter;
-  >     - **(C)** to any whistleblower who submits information to the Secretary that is based on the facts underlying the covered action submitted previously by another whistleblower;
-  >     - **(D)** to any whistleblower who fails to provide the original information to the Secretary in such form as the Secretary may require by regulation; or
-  >     - **(E)** to any whistleblower who fails to report or attempt to report the information internally to an applicable motor vehicle manufacturer, parts supplier, or dealership, unless—
-  >       - **(i)** the whistleblower reasonably believed that such an internal report would have resulted in retaliation, notwithstanding section 30171(a); or
-  >       - **(ii)** the whistleblower reasonably believed that the information—
-  >         - **(I)** was already internally reported;
-  >         - **(II)** was already subject to or part of an internal inquiry or investigation; or
-  >         - **(III)** was otherwise already known to the motor vehicle manufacturer, part supplier, or dealership.
-  > - **(d)** *Representation* A whistleblower may be represented by counsel.
-  > - **(e)** *No contract necessary* No contract with the Secretary is necessary for any whistleblower to receive an award under subsection (b).
-  > - **(f)** *Protection of whistleblowers; confidentiality*
-  >   - **(1)** *In general* Notwithstanding section 30167, and except as provided in paragraphs (4) and (5) of this subsection, the Secretary, and any officer or employee of the Department of Transportation, shall not disclose any information, including information provided by a whistleblower to the Secretary, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5, unless—
-  >     - **(A)** required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the Secretary or any entity described in paragraph (5);
-  >     - **(B)** the whistleblower provides prior written consent for the information to be disclosed; or
-  >     - **(C)** the Secretary, or other officer or employee of the Department of Transportation, receives the information through another source, such as during an inspection or investigation under section 30166, and has authority under other law to release the information.
-  >   - **(2)** *Redaction* The Secretary, and any officer or employee of the Department of Transportation, shall take reasonable measures to not reveal the identity of the whistleblower when disclosing any information under paragraph (1).
-  >   - **(3)** *Section 552(b)(3)(B)* For purposes of section 552 of title 5, paragraph (1) of this subsection shall be considered a statute described in subsection (b)(3)(B) of that section.
-  >   - **(4)** *Effect* Nothing in this subsection is intended to limit the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
-  >   - **(5)** *Availability to government agencies*
-  >     - **(A)** *In general* Without the loss of its status as confidential in the hands of the Secretary, all information referred to in paragraph (1) may, in the discretion of the Secretary, when determined by the Secretary to be necessary or appropriate to accomplish the purposes of this chapter and in accordance with subparagraph (B), be made available to the following:
-  >       - **(i)** The Department of Justice.
-  >       - **(ii)** An appropriate department or agency of the Federal Government, acting within the scope of its jurisdiction.
-  >     - **(B)** *Maintenance of information* Each entity described in subparagraph (A) shall maintain information described in that subparagraph as confidential, in accordance with the requirements in paragraph (1).
-  > - **(g)** *Provision of false information* A whistleblower who knowingly and willfully makes any false, fictitious, or fraudulent statement or representation, or who makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall not be entitled to an award under this section and shall be subject to prosecution under section 1001 of title 18.
-  > - **(h)** *Appeals*
-  >   - **(1)** *In general* Any determination made under this section, including whether, to whom, or in what amount to make an award, shall be in the discretion of the Secretary.
-  >   - **(2)** *Appeals* Any determination made by the Secretary under this section may be appealed by a whistleblower to the appropriate court of appeals of the United States not later than 30 days after the determination is issued by the Secretary.
-  >   - **(3)** *Review* The court shall review the determination made by the Secretary in accordance with section 706 of title 5.
-  > - **(i)** *Regulations* Not later than 18 months after the date of enactment of the Motor Vehicle Safety Whistleblower Act, the Secretary shall promulgate regulations on the requirements of this section, consistent with this section.
+Congress finds as follows:
 
-- **(b)** *Rule of construction*
-  - **(1)** *Original information* Information submitted to the Secretary of Transportation by a whistleblower in accordance with the requirements of section 30172 of title 49, United States Code, shall not lose its status as original information solely because the whistleblower submitted the information prior to the effective date of the regulations if that information was submitted after the date of enactment of this Act.
-  - **(2)** *Awards* A whistleblower may receive an award under section 30172 of title 49, United States Code, regardless of whether the violation underlying the covered action occurred prior to the date of enactment of this Act, and may receive an award prior to the Secretary of Transportation promulgating the regulations under section 30172(i) of that title.
-- **(c)** *Conforming amendments* The table of contents of subchapter IV of chapter 301 of title 49, United States Code, is amended by adding at the end the following:
+- **(1)** Thomas Jefferson stated a conviction common to our Nation’s founders when he declared in 1809 that “[n]o provision in our Constitution ought to be dearer to man than that which protects the rights of conscience against the enterprises of the civil authority”.
+- **(2)** In 1973, the Supreme Court concluded that the government must leave the abortion decision “to the medical judgment of the pregnant woman’s attending physician”, recognizing that a physician may choose not to participate in abortion. Roe v. Wade, 410 U.S. 113, 164 (1973). The Court cited with approval a policy that “neither physician, hospital, nor hospital personnel shall be required to perform any act violative of personally-held moral principles”, 410 U.S. at 143 n. 38, and cited State laws upholding this principle. Doe v. Bolton, 410 U.S. 179, 197–8 (1973).
+- **(3)** Congress’s enactments to protect this right of conscience in health care include the Church amendment of 1973 (42 U.S.C. 300a–7), the Coats/Snowe amendment of 1996 (42 U.S.C. 238n), and the Weldon amendment approved by Congresses and Presidents of both parties every year since 2004.
+- **(4)** None of these laws explicitly provides a “private right of action” so victims of discrimination can defend their conscience rights in court, and administrative enforcement by the Department of Health and Human Services Office for Civil Rights has been lax, at times allowing cases to languish for years without resolution.
+- **(5)** Defying the Federal Weldon amendment, California’s Department of Managed Health Care has mandated coverage for all elective abortions in all health plans under its jurisdiction. Other States such as New York and Washington have taken or considered similar action, and some States may go farther to require all physicians and hospitals to provide or facilitate abortions. On June 21, 2016, the Administration concluded a nearly two-year investigation of this matter by determining that California’s decision to require insurance plans under the California Department for Managed Health Care authority to cover all legal abortion services did not violate the Weldon amendment. This interpretation means that individuals will have to choose between ignoring their conscience or forgoing health care coverage.
+- **(6)** The vast majority of medical professionals do not perform abortions, with 86 percent of ob/gyns unwilling to provide them in a recent study (Obstetrics & Gynecology, Sept. 2011) and the great majority of hospitals choosing to do so in rare cases or not at all.
+- **(7)** A health care provider’s decision not to participate in an abortion, like Congress’s decision not to fund most abortions, erects no new barrier to those seeking to perform or undergo abortions but leaves each party free to act as he or she wishes.
+- **(8)** Such protection poses no conflict with other Federal laws, such as the law requiring emergency stabilizing treatment for a pregnant woman and her unborn child when either is in distress (Emergency Medical Treatment and Active Labor Act). As the Obama administration has said, these areas of law have operated side by side for many years and both should be fully enforced (76 Federal Register 9968–77 (2011) at 9973).
+- **(9)** Reaffirming longstanding Federal policy on conscience rights and providing a right of action in cases where it is violated allows longstanding and widely supported Federal laws to work as intended.
+
+## § 3. Prohibiting governmental discrimination against providers of health services that are not involved in abortion
+
+Title II of the Public Health Service Act (42 U.S.C. 202 et seq.) is amended by inserting after section 245 the following:
+
+> ## § 245A. Prohibiting governmental discrimination against providers of health services that are not involved in abortion
+>
+> - **(a)** *In general* Notwithstanding any other law, the Federal Government, and any State or local government that receives Federal financial assistance, may not penalize, retaliate against, or otherwise discriminate against a health care provider on the basis that the provider does not—
+>   - **(1)** perform, refer for, pay for, or otherwise participate in abortion;
+>   - **(2)** provide or sponsor abortion coverage; or
+>   - **(3)** facilitate or make arrangements for any of the activities specified in this subsection.
+> - **(b)** *Rule of construction* Nothing in this section shall be construed—
+>   - **(1)** to prevent any health care provider from voluntarily electing to participate in abortions or abortion referrals;
+>   - **(2)** to prevent any health care provider from voluntarily electing to provide or sponsor abortion coverage or health benefits coverage that includes abortion;
+>   - **(3)** to prevent an accrediting agency, the Federal government, or a State or local government from establishing standards of medical competency applicable only to those who have knowingly, voluntarily, and specifically elected to perform abortions, or from enforcing contractual obligations applicable only to those who, as part of such contract, knowingly, voluntarily, and specifically elect to provide abortions;
+>   - **(4)** to affect, or be affected by, section 1867 of the Social Security Act (42 U.S.C. 1395dd, commonly referred to as the “Emergency Medical Treatment and Active Labor Act”); or
+>   - **(5)** to supersede any law enacted by any State for the purpose of regulating insurance, except as specified in subsection (a).
+> - **(c)** *Administration* The Secretary shall designate the Director of the Office for Civil Rights of the Department of Health and Human Services—
+>   - **(1)** to receive complaints alleging a violation of this section, section 245 of this Act, or any of subsections (b) through (e) of section 401 of the Health Programs Extension Act of 1973; and
+>   - **(2)** to pursue the investigation of such complaints in coordination with the Attorney General.
+> - **(d)** *Definitions* For purposes of this section:
+>   - **(1)** *Federal financial assistance* The term Federal financial assistance means Federal payments to cover the cost of health care services or benefits, or other Federal payments, grants, or loans to promote or otherwise facilitate health-related activities.
+>   - **(2)** *Health care provider* The term health care provider means—
+>     - **(A)** an individual physician, nurse, or other health care professional;
+>     - **(B)** a hospital, health system, or other health care facility or organization (including a party to a proposed merger or other collaborative arrangement relating to health services, and an entity resulting therefrom);
+>     - **(C)** a provider-sponsored organization, an accountable care organization, or a health maintenance organization;
+>     - **(D)** a social services provider that provides or authorizes referrals for health care services;
+>     - **(E)** a program of training in the health professions or an applicant to or participant in such a program;
+>     - **(F)** an issuer of health insurance coverage; or
+>     - **(G)** a group health plan or student health plan, or a sponsor or administrator thereof.
+>   - **(3)** *State or local government that receives Federal financial assistance* The term State or local government that receives Federal financial assistance includes every agency and other governmental unit and subdivision of a State or local government, if such State or local government, or any agency or governmental unit or subdivision thereof, receives Federal financial assistance.
+>
+> ## § 245B. Civil action for certain violations
+>
+> - **(a)** *In general* A qualified party may, in a civil action, obtain appropriate relief with regard to a designated violation.
+> - **(b)** *Definitions* For purposes of this section:
+>   - **(1)** *Qualified party* The term qualified party means—
+>     - **(A)** the Attorney General of the United States; or
+>     - **(B)** any person or entity adversely affected by the designated violation.
+>   - **(2)** *Designated violation* The term designated violation means an actual or threatened violation of—
+>     - **(A)** section 245 or 245A of this Act; or
+>     - **(B)** any of subsections (b) through (e) of section 401 of the Health Programs Extension Act of 1973 regarding an objection to abortion.
+> - **(c)** *Administrative remedies not required* An action under this section may be commenced, and relief may be granted, without regard to whether the party commencing the action has sought or exhausted available administrative remedies.
+> - **(d)** *Defendants in actions under this section may include governmental entities as well as others*
+>   - **(1)** *In general* An action under this section may be maintained against, among others, a party that is a Federal or State governmental entity. Relief in an action under this section may include money damages even if the defendant is such a governmental entity.
+>   - **(2)** *Definition* For the purposes of this subsection, the term State governmental entity means a State, a local government within a State, and any agency or other governmental unit or subdivision of a State or of such a local government.
+> - **(e)** *Nature of relief* In an action under this section, the court shall grant—
+>   - **(1)** all necessary equitable and legal relief, including, where appropriate, declaratory relief and compensatory damages, to prevent the occurrence, continuance, or repetition of the designated violation and to compensate for losses resulting from the designated violation; and
+>   - **(2)** to a prevailing plaintiff, reasonable attorneys’ fees and litigation expenses as part of the costs.
