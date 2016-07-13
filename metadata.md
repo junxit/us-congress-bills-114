@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4768
@@ -132,9 +132,10 @@ Separation of Powers Restoration Act of 2016
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (6)
 
@@ -227,3 +228,4 @@ Separation of Powers Restoration Act of 2016
 - 2016-07-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4768.
 - 2016-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2016-07-12 — The title of the measure was amended. Agreed to without objection.
+- 2016-07-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
