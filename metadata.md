@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5722
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5722
@@ -80,3 +80,5 @@ John F. Kennedy Centennial Commission Act
 - 2016-07-13 — Mr. Chaffetz asked unanimous consent to discharge from committee and consider.
 - 2016-07-13 — On passage Passed without objection. (text: CR H4875-4876)
 - 2016-07-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4875-4876)
+- 2016-07-14 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5185)
+- 2016-07-14 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5185)
