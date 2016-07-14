@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3004
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 

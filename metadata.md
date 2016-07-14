@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3004
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3004
@@ -46,3 +46,14 @@ To amend the Gullah/Geechee Cultural Heritage Act to extend the authorization fo
 - 2016-07-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2016-07-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2016-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 573.
+- 2016-09-06 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 114-338.
+- 2016-09-06 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 114-338.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6255)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6255)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-233.
+- 2016-10-07 — Became Public Law No: 114-233.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
