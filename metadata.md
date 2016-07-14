@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5722
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5722
@@ -82,3 +82,10 @@ John F. Kennedy Centennial Commission Act
 - 2016-07-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4875-4876)
 - 2016-07-14 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5185)
 - 2016-07-14 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5185)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-19 — Presented to President.
+- 2016-07-19 — Presented to President.
+- 2016-07-29 — Became Public Law No: 114-215.
+- 2016-07-29 — Became Public Law No: 114-215.
+- 2016-07-29 — Signed by President.
+- 2016-07-29 — Signed by President.
