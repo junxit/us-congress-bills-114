@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1567
@@ -146,9 +146,10 @@ Global Food Security Act of 2016
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -173,3 +174,4 @@ Global Food Security Act of 2016
 - 2016-04-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-482.
 - 2016-04-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-482.
 - 2016-04-13 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Foreign Relations.
