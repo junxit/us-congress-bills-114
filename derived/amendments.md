@@ -1,7 +1,7 @@
 ---
 measure: S. 2854
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 3 executed, 20 stated and not applied.
+24 amendatory instructions. 3 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 28 U.S.C. § 509
 
-> in subsection (b), by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2016 and each subsequent fiscal year”;
+> in subsection (b), by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each subsequent fiscal year”;
 
 | | |
 |---|---|
 | Removed | `each of the fiscal years 2008 through 2017` |
-| Inserted | `fiscal year 2016 and each subsequent fiscal year` |
+| Inserted | `fiscal year 2017 and each subsequent fiscal year` |
 
 ### 28 U.S.C. § 509
 
-> by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2016 and each subsequent fiscal year”; and
+> by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each subsequent fiscal year”; and
 
 | | |
 |---|---|
 | Removed | `each of the fiscal years 2008 through 2017` |
-| Inserted | `fiscal year 2016 and each subsequent fiscal year` |
+| Inserted | `fiscal year 2017 and each subsequent fiscal year` |
 
 ### 28 U.S.C. § 509
 
@@ -73,10 +73,11 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 509` | insert | in paragraph (2), by inserting before the period at the end the following: “and a description of the activities conducted under subsection (b)(3)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 509` | strike | in paragraph (1), by striking “occurred not later than December 31, 1969, and”; and | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 509` | insert | in paragraph (2), by inserting before the period at the end the following: “, and eligible entities”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 509` | insert | by inserting after “local law enforcement agencies” the following: “, or eligible entities,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 509` | strike | by striking “occurred not later than December 31, 1969, and”; and | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 509` | strike | in subsection (a), by striking “occurred not later than December 31, 1969, and”; and | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 509` | strike | by striking “occurred not later than December 31, 1969, and”; and | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 509` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 509` | redesignate | in paragraph (6), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting the clauses accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 509` | redesignate | by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively, and indenting the subparagraphs accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 509` | replace | by striking “In this Act, the term” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 509` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 509` | strike | by striking section 8. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
