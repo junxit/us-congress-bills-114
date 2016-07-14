@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1732
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1732
@@ -89,9 +89,10 @@ Regulatory Integrity Protection Act of 2015
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -147,3 +148,4 @@ Regulatory Integrity Protection Act of 2015
 - 2015-05-12 — The Speaker designated the Honorable David Young to act as Chairman of the Committee.
 - 2015-05-12 — The previous question was ordered pursuant to the rule. (consideration: CR H2852)
 - 2015-05-13 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Environment and Public Works.
