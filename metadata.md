@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3495
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 3495
@@ -44,9 +44,10 @@ Women's Public Health and Safety Act
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -77,3 +78,4 @@ Women's Public Health and Safety Act
 - 2015-09-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6335)
 - 2015-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H6334)
 - 2015-09-30 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Finance.
