@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1734
@@ -63,9 +63,10 @@ Improving Coal Combustion Residuals Regulation Act of 2015
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (6)
 
@@ -155,3 +156,4 @@ Improving Coal Combustion Residuals Regulation Act of 2015
 - 2015-07-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5379)
 - 2015-07-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5378)
 - 2015-07-23 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Environment and Public Works.
