@@ -1,7 +1,7 @@
 ---
 measure: S. 818
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 818
@@ -33,3 +33,5 @@ A bill to amend the Grand Ronde Reservation Act to make technical corrections, a
 - 2016-03-16 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-230.
 - 2016-03-16 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-230.
 - 2016-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
+- 2016-07-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5190-5191; text as passed Senate: CR S5190-5191)
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5190-5191; text as passed Senate: CR S5190-5191)
