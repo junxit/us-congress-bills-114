@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5119
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5119
@@ -55,9 +55,10 @@ No 2H2O from Iran Act
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -77,3 +78,4 @@ No 2H2O from Iran Act
 - 2016-07-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 249 - 176 (Roll no. 441).(text: CR H4860)
 - 2016-07-13 — Rule provides for consideration of H.R. 4992, H.R. 5119 and H.R. 5631 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2016-07-13 — The previous question was ordered pursuant to the rule.
+- 2016-07-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
