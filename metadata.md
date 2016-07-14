@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4465
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4465
@@ -58,3 +58,12 @@ Federal Assets Sale and Transfer Act of 2016
 - 2016-05-24 — Received in the Senate.
 - 2016-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2016-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 562.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7135)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7135)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-287.
+- 2016-12-16 — Became Public Law No: 114-287.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
