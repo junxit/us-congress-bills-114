@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1560
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1560
@@ -27,9 +27,10 @@ Protecting Cyber Networks Act
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Murphy, Patrick [D-FL-18] (M001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -101,3 +102,4 @@ Protecting Cyber Networks Act
 - 2015-04-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2397)
 - 2015-04-22 — The previous question was ordered pursuant to the rule. (consideration: CR H2396)
 - 2015-04-27 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
