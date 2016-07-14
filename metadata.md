@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 10
@@ -84,3 +84,5 @@ Scholarships for Opportunity and Results Reauthorization Act
 - 2015-10-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7077)
 - 2015-10-21 — The previous question was ordered pursuant to the rule. (consideration: CR H7076)
 - 2015-10-22 — Received in the Senate.
+- 2016-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 561.
