@@ -1,7 +1,7 @@
 ---
 measure: H.R. 805
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 805
@@ -34,9 +34,10 @@ Domain Openness Through Continued Oversight Matters Act of 2015
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Domain Openness Through Continued Oversight Matters Act of 2015
 - 2015-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-175.
 - 2015-06-23 — The title of the measure was amended. Agreed to without objection.
 - 2015-06-24 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
