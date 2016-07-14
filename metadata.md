@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 897
@@ -64,3 +64,4 @@ Zika Vector Control Act
 - 2016-05-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3045)
 - 2016-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H3044)
 - 2016-05-25 — Received in the Senate.
+- 2016-07-14 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 570.
