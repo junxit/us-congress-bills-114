@@ -1,7 +1,7 @@
 ---
 measure: S. 1555
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1555
@@ -109,3 +109,15 @@ Filipino Veterans of World War II Congressional Gold Medal Act of 2015
 - 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-11-30 — Considered under suspension of the rules. (consideration: CR H7020-7024)
+- 2016-11-30 — DEBATE - The House proceeded with forty minutes of debate on S. 1555.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill.
+- 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7020-7021)
+- 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7020-7021)
+- 2016-12-07 — Presented to President.
+- 2016-12-07 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-265.
+- 2016-12-14 — Became Public Law No: 114-265.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
