@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4487
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4487
@@ -53,3 +53,5 @@ Public Buildings Reform and Savings Act of 2016
 - 2016-05-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-589, Part I.
 - 2016-05-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-589, Part I.
 - 2016-05-24 — Received in the Senate.
+- 2016-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.
