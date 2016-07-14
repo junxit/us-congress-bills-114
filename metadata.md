@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1475
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1475
@@ -354,3 +354,7 @@ Korean War Veterans Memorial Wall of Remembrance Act
 - 2016-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-433.
 - 2016-02-25 — Received in the Senate.
 - 2016-06-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-07-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2016-07-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2016-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 572.
