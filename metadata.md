@@ -1,0 +1,31 @@
+---
+measure: H.R. 5879
+congress: 114
+version: Introduced in House
+---
+
+# H.R. 5879
+
+To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Rice, Tom [R-SC-7] (R000597)
+
+## Cosponsors (1)
+
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2016-07-14 — Introduced in House
+- 2016-07-14 — Introduced in House
+- 2016-07-14 — Referred to the House Committee on Ways and Means.
