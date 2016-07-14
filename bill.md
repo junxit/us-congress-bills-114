@@ -30,8 +30,8 @@ Congress makes the following findings:
 - **(a)** *Civilian contracts*
   - **(1)** *In general* Section 3309(b) of title 41, United States Code, is amended to read as follows:
     > - **(b)** *Criteria for use*
-    >   - **(1)** *Contracts with a value of at least $750,000* Two-phase selection procedures shall be used for entering into a contract for the design and construction of a public building, facility, or work when a contracting officer determines that the project has a value of $750,000 or greater, as adjusted for inflation in accordance with section 1908 of this title.
-    >   - **(2)** *Contracts with a value less than $750,000* For projects that a contracting officer determines have a value of less than $750,000, the contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when—
+    >   - **(1)** *Contracts with a value of at least $750,000 $3,000,000* Two-phase selection procedures shall be used for entering into a contract for the design and construction of a public building, facility, or work when a contracting officer determines that the project has a value of $750,000 $3,000,000 or greater, as adjusted for inflation in accordance with section 1908 of this title.
+    >   - **(2)** *Contracts with a value less than $750,000 $3,000,000* For projects that a contracting officer determines have a value of less than $750,000 $3,000,000, the contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when—
     >     - **(A)** the contracting officer anticipates that 3 or more offers will be received for the contract;
     >     - **(B)** design work must be performed before an offeror can develop a price or cost proposal for the contract;
     >     - **(C)** the offeror will incur a substantial amount of expense in preparing the offer; and
