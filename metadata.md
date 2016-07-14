@@ -1,7 +1,7 @@
 ---
 measure: S. 1555
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1555
@@ -90,9 +90,11 @@ Filipino Veterans of World War II Congressional Gold Medal Act of 2015
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -102,3 +104,8 @@ Filipino Veterans of World War II Congressional Gold Medal Act of 2015
 - 2016-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5092-5094)
 - 2016-07-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5092-5094)
 - 2016-07-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5092-5094)
+- 2016-07-14 — Message on Senate action sent to the House.
+- 2016-07-14 — Received in the House.
+- 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
