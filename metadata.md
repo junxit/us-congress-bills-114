@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3460
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 3460
@@ -20,13 +20,14 @@ To suspend until January 21, 2017, the authority of the President to waive, susp
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 
-## Committees (5)
+## Committees (6)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To suspend until January 21, 2017, the authority of the President to waive, susp
 - 2015-09-11 — Resolution provides for consideration of 3 measures: H. Res. 411; H.R.3460; and H.R. 3461.
 - 2015-09-11 — The previous question was ordered pursuant to the rule. (consideration: CR H5967)
 - 2015-09-15 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Foreign Relations.
