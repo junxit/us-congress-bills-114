@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5824
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5824
+
+> To provide that it shall be unlawful for foreign nationals of a country that limits the free exercise of religion in that country to make any expenditure in the United States to promote a religion in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Religious Freedom International Reciprocity Enhancement Act” or the “Religious FIRE Act”.
+
+## § 2. Reciprocity Enforcement Regarding Religious Freedom
+
+- **(a)** *In general* It shall be unlawful for a foreign national of a country that limits the free exercise of religion in that country to make any expenditure in the United States to promote a religion.
+- **(b)** *Forfeiture* Any asset consisting of such an expenditure or the proceeds of such an expenditure is subject to forfeiture to the United States. The Attorney General may, upon probable cause, seize any such asset and in a civil action obtain its forfeiture to the United States.
+- **(c)** *Definitions* In this section—
+  - **(1)** the term “country that limits the free exercise of religion” means a country designated as such by the Secretary of State acting through the Assistant Secretary for Democracy, Human Rights, and Labor; and
+  - **(2)** the term “expenditure to promote a religion” includes the funding and practice of religious services, religious education, evangelical outreach, and publication and dissemination of religious literature.
