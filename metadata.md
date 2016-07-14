@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2042
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2042
@@ -162,3 +162,4 @@ Ratepayer Protection Act of 2015
 - 2015-06-24 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2015-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4632)
 - 2015-06-25 — Received in the Senate.
+- 2016-07-14 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 569.
