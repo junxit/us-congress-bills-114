@@ -30,7 +30,8 @@ Congress finds that—
 
 In this Act:
 
-- **(1)** *Resilient waterfront community* The term resilient waterfront community means a unit of local government or Indian tribe that is—
+- **(1)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+- **(2)** *Resilient waterfront community* The term resilient waterfront community means a unit of local government or Indian tribe that is—
   - **(A)**
     - **(i)** bound in part by—
       - **(I)** the Great Lakes; or
@@ -38,13 +39,13 @@ In this Act:
     - **(ii)** bordered or traversed by a riverfront or an inland lake;
   - **(B)** self-nominated as a resilient waterfront community; and
   - **(C)** designated by the Secretary as a resilient waterfront community on the basis of the development by the community of an eligible resilient waterfront community plan, with eligibility determined by the Secretary after considering the requirements of subsections (b) and (c) of section 4.
-- **(2)** *Secretary* The term Secretary means the Secretary of Commerce.
+- **(3)** *Secretary* The term Secretary means the Secretary of Commerce.
 
 ## § 4. Resilient waterfront communities designation
 
 - **(a)** *Designation*
   - **(1)** *In general* Subject to paragraph (2), the Secretary shall designate resilient waterfront communities based on the extent to which a community meets the criteria described in subsection (b).
-  - **(2)** *Collaboration* For inland lake and riverfront communities, in making the designation described in paragraph (1) and promulgating criteria and best practices, the Secretary shall work with the Administrator of the Environmental Protection Agency and the heads of other Federal agencies, as the Secretary determines to be necessary to provide comparable services to waterfront communities not located on Great Lakes or ocean coasts.
+  - **(2)** *Collaboration* For inland lake and riverfront communities, in making the designation described in paragraph (1), the Secretary shall work with the Administrator of the Environmental Protection Agency and the heads of other Federal agencies, as the Secretary determines to be necessary.
 - **(b)** *Resilient waterfront community plan* A resilient waterfront community plan is a community-driven vision and plan that is developed—
   - **(1)** voluntarily at the discretion of the community—
     - **(A)** to respond to local needs; or
@@ -54,11 +55,11 @@ In this Act:
     - **(B)** utilities; and
     - **(C)** interested business and nongovernmental stakeholders;
   - **(3)** as a new document or by amending or compiling community planning documents, as necessary, at the discretion of the Secretary;
-  - **(4)** in consideration of with all applicable State and Federal coastal zone management planning requirements;
+  - **(4)** in consideration of all applicable State and Federal coastal zone management planning requirements;
   - **(5)** to address economic competitive strengths; and
   - **(6)** to complement and incorporate the objectives and recommendations of applicable regional economic plans.
 - **(c)** *Components of a resilient waterfront community plan* A resilient waterfront community plan shall—
-  - **(1)** consider all, or a portion of, the waterfront area and adjacent land and water to which the waterfront is connected ecologically, economically, or through local governmental or tribal boundaries; and
+  - **(1)** consider all, or a portion of, the waterfront area and adjacent land and water to which the waterfront is connected ecologically, economically, or through local governmental or tribal boundaries;
   - **(2)** describe a vision and plan for the community to develop as a vital and resilient waterfront community, integrating consideration of—
     - **(A)** the economic opportunities resulting from water proximity and access, including—
       - **(i)** water-dependent industries;
@@ -76,41 +77,41 @@ In this Act:
       - **(iii)** stormwater, sanitary sewer, and drinking water systems, including green infrastructure and opportunities to control nonpoint source runoff; and
       - **(iv)** other community facilities and private development; and
     - **(E)** such other factors as are determined by the Secretary to align with metrics or indicators for resiliency, considering environmental and economic changes.
-- **(d)** *Duration* After the designation of a community as a resilient waterfront community under subsection (a), a resilient waterfront community plan developed in accordance with subsections (b) and (c) shall be—
+- **(d)** *Duration* After the designation of a community as a resilient waterfront community under subsection (a), a resilient waterfront community plan developed in accordance with subsections (b) and (c) may be—
   - **(1)** effective for the 10-year period beginning on the date on which the Secretary approves the resilient waterfront community plan; and
   - **(2)** updated by the resilient waterfront community and submitted to the Secretary for the approval of the Secretary before the expiration of the 10-year period.
 
 ## § 5. Resilient waterfront communities network
 
-- **(a)** *In general* The Secretary shall develop a resilient waterfront communities network to facilitate the sharing of best practices and technical assistance among waterfront communities.
+- **(a)** *In general* The Secretary shall develop and maintain a resilient waterfront communities network to facilitate the sharing of best practices among waterfront communities.
 - **(b)** *Public recognition* In consultation with designated resilient waterfront communities, the Secretary shall provide formal public recognition of the designated resilient waterfront communities to promote tourism, investment, or other benefits.
 
-## § 6. Waterfront community revitalization grant program
+## § 6. Waterfront community revitalization activities
 
-- **(a)** *In general* The Secretary shall establish within the Department of Commerce a program under which the Secretary shall provide planning and implementation grants that leverage other sources of public and private investment to assist with the following eligible activities:
-  - **(1)** The development of resilient waterfront community plans, including such costs as planning and feasibility analysis.
-  - **(2)** Implementation of strategic components of a resilient waterfront community plan, once a plan has been approved by the Secretary.
-- **(b)** *Eligible applicants*
-  - **(1)** *Lead applicants* A unit of local government or an Indian tribe shall be eligible to apply as a lead applicant for a grant under subsection (a) if the unit of local government or Indian tribe is—
+- **(a)** *In general* To support a community in leveraging other sources of public and private investment, the Secretary may use existing authority to support—
+  - **(1)** the development of a resilient waterfront community plan, including planning and feasibility analysis; and
+  - **(2)** the implementation of strategic components of a resilient waterfront community plan after the resilient waterfront community plan has been approved by the Secretary.
+- **(b)** *Non-Federal partners*
+  - **(1)** *Lead non-Federal partners* A unit of local government or an Indian tribe shall be eligible to be considered as a lead non-Federal partner if the unit of local government or Indian tribe is—
     - **(A)** bound in part by—
       - **(i)** the Great Lakes; or
       - **(ii)** the ocean; or
     - **(B)** bordered or traversed by a riverfront or an inland lake.
-  - **(2)** *Subawards* Subject to subsection (d)(3), a lead applicant may provide a subaward to an eligible subawardee for implementation activities described in subsection (d)(2).
-- **(c)** *Use of planning funds*
-  - **(1)** *In general* Planning funds received through a grant under subsection (a) shall be used to develop a resilient waterfront community plan.
-  - **(2)** *Eligible planning activities* In developing a resilient waterfront community plan using amounts made available under subsection (a), a resilient waterfront community may—
+  - **(2)** *Non-Federal implementation partners* Subject to subsection (d)(3), a lead non-Federal partner may contract with an eligible non-Federal implementation partner for implementation activities described in subsection (d)(2).
+- **(c)** *Planning activities*
+  - **(1)** *In general* Technical assistance may be provided for the development of a resilient waterfront community plan.
+  - **(2)** *Eligible planning activities* In developing a resilient waterfront community plan, a resilient waterfront community may—
     - **(A)** conduct community visioning and outreach;
     - **(B)** identify challenges and opportunities;
     - **(C)** develop strategies and solutions;
     - **(D)** prepare plan materials, including text, maps, design, and preliminary engineering;
     - **(E)** collaborate across local agencies and work with regional, State, and Federal agencies to identify, understand, and develop responses to changing ecosystem and economic circumstances; and
     - **(F)** conduct other planning activities that the Secretary considers necessary for the development of a resilient waterfront community plan that responds to revitalization and resiliency issues confronted by the resilient waterfront community.
-- **(d)** *Use of implementation funds*
-  - **(1)** *In general* Implementation funds received through a grant under subsection (a)—
-    - **(A)** shall be used to initiate implementation of a resilient waterfront community plan and facilitate high-quality development, including leveraging local and private sector investment; and
-    - **(B)** may be used on 1 or more eligible activities to address strategic community priorities that are identified in the resilient waterfront community plan.
-  - **(2)** *Eligible implementation activities* Grant funds may be used flexibly across 1 or more eligible implementation costs, such as—
+- **(d)** *Implementation activities*
+  - **(1)** *In general* Implementation assistance may be provided—
+    - **(A)** to initiate implementation of a resilient waterfront community plan and facilitate high-quality development, including leveraging local and private sector investment; and
+    - **(B)** to address strategic community priorities that are identified in the resilient waterfront community plan.
+  - **(2)** *Assistance* Assistance may be provided to advance implementation activities, such as—
     - **(A)** site preparation;
     - **(B)** environmental review;
     - **(C)** engineering and design;
@@ -122,51 +123,38 @@ In this Act:
     - **(G)** infrastructure upgrades to improve coastal resiliency;
     - **(H)** economic and community development marketing and outreach; and
     - **(I)** other activities at the discretion of the Secretary.
-  - **(3)** *Implementation subawards*
-    - **(A)** *In general* To assist in implementing eligible implementation activities, a lead applicant may grant subawards from implementation funds to eligible subawardees, including—
+  - **(3)** *Implementation partners*
+    - **(A)** *In general* To assist in the completion of implementation activities, a lead non-Federal partner may contract or otherwise collaborate with a non-Federal implementation partner, including—
       - **(i)** a nonprofit organization;
       - **(ii)** a public utility;
       - **(iii)** a private entity;
       - **(iv)** an institution of higher education;
       - **(v)** a State government; or
       - **(vi)** a regional organization.
-    - **(B)** *Lead applicant responsibility* The lead applicant shall ensure that grant funds, including funds awarded as a subaward, are used for the purposes of, and in a manner consistent with, the waterfront community revitalization grant program.
-- **(e)** *Specifications on use of grant funds*
-  - **(1)** *In general* A grant made under this section shall be not less than $50,000 or more than $1,000,000.
-  - **(2)** *Limitations on use* In accordance with the grant agreement, a resilient waterfront community shall spend no more than $200,000 of any grant awarded under this section on planning activities, with remaining grant award balances reserved for implementation activities after the approval of the Secretary of an approved resilient waterfront community plan.
-  - **(3)** *Matching funds*
-    - **(A)** *In general* A resilient waterfront community receiving a grant under this section shall provide non-Federal matching funds toward completion of an eligible project in an amount equal to not less than 25 percent of the grant amount.
-    - **(B)** *Non-Federal match* Non-Federal matching funds may be provided by—
-      - **(i)** 1 or more units of local or tribal government;
-      - **(ii)** a State government;
-      - **(iii)** a nonprofit organization;
-      - **(iv)** a private entity;
-      - **(v)** a foundation;
-      - **(vi)** a public utility; or
-      - **(vii)** a regional organization.
-    - **(C)** *In-kind match* The Secretary shall treat as non-Federal matching funds the value of in-kind contributions of land or easements held in perpetuity by the resilient waterfront community.
-  - **(4)** *Funding periods* In establishing obligation and expenditure periods for grants under this section, the Secretary shall provide grant periods that enable funds to be used strategically to match private or public sector investments in planning and implementation.
+    - **(B)** *Lead non-Federal partner responsibility* The lead non-Federal partner shall ensure that assistance and resources received by the lead non-Federal partner to advance the resilient waterfront community plan of the lead non-Federal partner and for related activities are used for the purposes of, and in a manner consistent with, any initiative advanced by the Secretary for the purpose of promoting waterfront community revitalization and resiliency.
+- **(e)** *Use of non-Federal resources*
+  - **(1)** *In general* A resilient waterfront community receiving assistance under this section shall provide non-Federal funds toward completion of planning or implementation activities.
+  - **(2)** *Non-Federal resources* Non-Federal funds may be provided by—
+    - **(A)** 1 or more units of local or tribal government;
+    - **(B)** a State government;
+    - **(C)** a nonprofit organization;
+    - **(D)** a private entity;
+    - **(E)** a foundation;
+    - **(F)** a public utility; or
+    - **(G)** a regional organization.
 
 ## § 7. Interagency awareness
 
-- **(a)** *Interagency awareness* At regular intervals, the Secretary shall provide a list of resilient waterfront communities to the applicable States and the heads of national and regional offices of interested Federal agencies, including at a minimum—
-  - **(1)** the Secretary of Transportation;
-  - **(2)** the Secretary of Agriculture;
-  - **(3)** the Administrator of the Environmental Protection Agency;
-  - **(4)** the Administrator of the Federal Emergency Management Agency;
-  - **(5)** the Assistant Secretary of the Army for Civil Works;
-  - **(6)** the Secretary of the Interior; and
-  - **(7)** the Secretary of Housing and Urban Development.
-- **(b)** *Interagency Coordination* To encourage consideration of opportunities for synergistic projects and timelines, the Secretary shall coordinate awareness of designated resilient waterfront communities among managers of relevant Federal grant and loan programs that fund projects or infrastructure that are addressed in a resilient waterfront community plan.
+At regular intervals, the Secretary shall provide a list of resilient waterfront communities to the applicable States and the heads of national and regional offices of interested Federal agencies, including at a minimum—
 
-## § 8. Preferential grant status for Federal funding
+- **(1)** the Secretary of Transportation;
+- **(2)** the Secretary of Agriculture;
+- **(3)** the Administrator of the Environmental Protection Agency;
+- **(4)** the Administrator of the Federal Emergency Management Agency;
+- **(5)** the Assistant Secretary of the Army for Civil Works;
+- **(6)** the Secretary of the Interior; and
+- **(7)** the Secretary of Housing and Urban Development.
 
-- **(a)** *Department of Commerce grant and loan programs* The Secretary shall provide to designated resilient waterfront communities preferential status in select grant and loan programs of the Department of Commerce, including—
-  - **(1)** the National Oceanic and Atmospheric Administration;
-  - **(2)** the Economic Development Administration; and
-  - **(3)** other relevant entities under the authority of the Secretary.
-- **(b)** *Other grant and loan programs* Considering the integration in resilient waterfront community plans of myriad components and project types traditionally funded through separate agencies and departments and the opportunity that resilient waterfront communities present for resilient long-term investment, the heads of other interested Federal agencies and departments, including the agency heads described in section 7(a), are encouraged to provide designated resilient waterfront communities with preferential status in grant and loan programs.
+## § 8. No new regulatory authority
 
-## § 9. Authorization of Appropriations
-
-There is authorized to be appropriated to the Secretary to carry out this Act $50,000,000 for each of fiscal years 2016 through 2020, to remain available until expended.
+Nothing in this Act may be construed as establishing new authority for any Federal agency.

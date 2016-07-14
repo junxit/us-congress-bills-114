@@ -1,7 +1,7 @@
 ---
 measure: S. 1935
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1935
@@ -35,3 +35,5 @@ Waterfront Community Revitalization and Resiliency Act of 2015
 - 2016-06-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-272.
 - 2016-06-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-272.
 - 2016-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
+- 2016-07-14 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5117-5119; text of amendment in the nature of a substitute: CR S5117-5118)
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5117-5119; text of amendment in the nature of a substitute: CR S5117-5118)
