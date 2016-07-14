@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4084
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 4084
@@ -47,9 +47,10 @@ Nuclear Energy Innovation Capabilities Act
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Nuclear Energy Innovation Capabilities Act
 - 2016-02-29 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-438.
 - 2016-02-29 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-438.
 - 2016-03-01 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Energy and Natural Resources.
