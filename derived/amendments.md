@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5538
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -53,7 +53,7 @@ to guess them.
 
 ### 54 U.S.C. § 320101
 
-> Section 140(i)(1) of Title I of P.L. 108–108, as amended (54 U.S.C. 320101 note), is further amended by striking “$10,000,000” and inserting “$12,000,000”; and
+> Section 140(i)(1) of Title I of Public Law 108–108, as amended (54 U.S.C. 320101 note), is further amended by striking “$10,000,000” and inserting “$12,000,000”; and
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ to guess them.
 
 ### 54 U.S.C. § 320101
 
-> Section 810(a)(1) of Title VIII of Division B of Appendix D of P.L. 106–554, as amended (54 U.S.C. 320101 note), is further amended by striking “$10,000,000” and inserting “$12,000,000”.
+> Section 810(a)(1) of Title VIII of Division B of Appendix D of Public Law 106–554, as amended (54 U.S.C. 320101 note), is further amended by striking “$10,000,000” and inserting “$12,000,000”.
 
 | | |
 |---|---|
