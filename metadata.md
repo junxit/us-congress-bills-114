@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 41
 congress: 114
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 41
