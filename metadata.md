@@ -1,7 +1,7 @@
 ---
 measure: S. 817
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 817
@@ -35,3 +35,18 @@ A bill to provide for the addition of certain real property to the reservation o
 - 2016-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
 - 2016-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5191-5192; text as passed Senate: CR S5191-5192)
 - 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5191-5192; text as passed Senate: CR S5191-5192)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Held at the desk.
+- 2016-07-18 — Received in the House.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7212)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 817.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7212)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7212)
+- 2016-12-08 — Presented to President.
+- 2016-12-08 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-262.
+- 2016-12-14 — Became Public Law No: 114-262.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
