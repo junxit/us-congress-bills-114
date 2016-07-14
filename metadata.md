@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 4470
@@ -16,7 +16,7 @@ Safe Drinking Water Act Improved Compliance Awareness Act
 
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
-## Cosponsors (77)
+## Cosponsors (89)
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
@@ -95,10 +95,23 @@ Safe Drinking Water Act Improved Compliance Awareness Act
 - Rep. Frankel, Lois [D-FL-22] (F000462)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -118,3 +131,5 @@ Safe Drinking Water Act Improved Compliance Awareness Act
 - 2016-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 67). (text: CR H662-663)
 - 2016-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 67).(text: CR H662-663)
 - 2016-02-11 — Received in the Senate.
+- 2016-02-24 — Senate amendment submitted
+- 2016-07-14 — Read twice and referred to the Committee on Environment and Public Works.
