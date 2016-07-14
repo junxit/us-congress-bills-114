@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5869
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5869
+
+> To amend the Federal Credit Union Act to require the National Credit Union Administration Board to provide a rationale for any amounts the Board proposes to use from the National Credit Union Share Insurance Fund, and for other purposes.
+
+## § 1. Fund transparency
+
+Section 203 of the Federal Credit Union Act (12 U.S.C. 1783) is amended by adding at the end the following:
+
+> - **(g)** *Fund transparency*
+>   - **(1)** *In general* The Board shall accompany each annual budget submitted pursuant to section 209(b) with a report containing—
+>     - **(A)** a detailed analysis of how the expenses of the Administration are assigned between prudential activities and insurance-related activities and the extent to which those expenses are paid from the fees collected pursuant to section 105 or from the Fund; and
+>     - **(B)** the Board’s supporting rationale for any proposed use of amounts in the Fund contained in such budget, including detailed breakdowns and supporting rationales for any such proposed use related to titles of this Act other than this title.
+>   - **(2)** *Public disclosure* The Board shall make each report described under paragraph (1) available to the public.
