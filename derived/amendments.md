@@ -1,7 +1,7 @@
 ---
 measure: S. 3028
 congress: 114
-version: Engrossed in Senate
+version: Reported to Senate
 derived: true
 ---
 
