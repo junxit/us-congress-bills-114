@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4789
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4789
@@ -29,3 +29,12 @@ To authorize the Secretary of the Interior to establish a structure for visitor 
 - 2016-03-17 — Introduced in House
 - 2016-03-17 — Introduced in House
 - 2016-03-17 — Referred to the House Committee on Natural Resources.
+- 2016-03-22 — Referred to the Subcommittee on Federal Lands.
+- 2016-05-24 — Subcommittee Hearings Held.
+- 2016-06-14 — Committee Consideration and Mark-up Session Held.
+- 2016-06-14 — Subcommittee on Federal Lands Discharged.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2016-07-14 — Placed on the Union Calendar, Calendar No. 534.
+- 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-690.
+- 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-690.
