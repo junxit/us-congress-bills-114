@@ -1,7 +1,7 @@
 ---
 measure: S. 817
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 817
@@ -33,3 +33,5 @@ A bill to provide for the addition of certain real property to the reservation o
 - 2016-03-02 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-219.
 - 2016-03-02 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-219.
 - 2016-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
+- 2016-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5191-5192; text as passed Senate: CR S5191-5192)
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5191-5192; text as passed Senate: CR S5191-5192)
