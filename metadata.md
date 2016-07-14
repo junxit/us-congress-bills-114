@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 2646
@@ -230,11 +230,12 @@ Helping Families in Mental Health Crisis Act of 2016
 - Rep. Hardy, Cresent [R-NV-4] (H001070)
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 
-## Committees (3)
+## Committees (4)
 
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -276,3 +277,4 @@ Helping Families in Mental Health Crisis Act of 2016
 - 2016-07-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-667, Part I.
 - 2016-07-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-667, Part I.
 - 2016-07-07 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
