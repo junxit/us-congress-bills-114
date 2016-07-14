@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4444
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 4444
@@ -23,9 +23,10 @@ EPS Improvement Act of 2016
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ EPS Improvement Act of 2016
 - 2016-02-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1006)
 - 2016-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1006)
 - 2016-03-01 — Received in the Senate.
+- 2016-07-14 — Read twice and referred to the Committee on Energy and Natural Resources.

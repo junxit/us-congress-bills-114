@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4444
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 derived: true
 ---
 
