@@ -1,7 +1,7 @@
 ---
 measure: S. 1443
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1443
@@ -33,3 +33,5 @@ Indian Employment, Training and Related Services Consolidation Act of 2015
 - 2016-03-09 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-225.
 - 2016-03-09 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-225.
 - 2016-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.
+- 2016-07-14 — Passed Senate without amendment by Voice Vote. (consideration: CR S5187-5190; text as passed Senate: CR S5187-5190)
+- 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5187-5190; text as passed Senate: CR S5187-5190)
