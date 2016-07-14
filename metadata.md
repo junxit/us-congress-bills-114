@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4901
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4901
@@ -67,3 +67,5 @@ Scholarships for Opportunity and Results Reauthorization Act
 - 2016-04-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2126)
 - 2016-04-29 — The previous question was ordered pursuant to the rule. (consideration: CR H2126)
 - 2016-05-09 — Received in the Senate.
+- 2016-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.
