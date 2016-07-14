@@ -1,0 +1,32 @@
+---
+measure: S.J.Res. 38
+congress: 114
+version: Introduced in Senate
+---
+
+# S.J.Res. 38
+
+A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule relating to the extent to which employers may use incentives to encourage employees to participate in wellness programs that ask the employees to respond to disability-related inquiries or undergo medical examinations.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Alexander, Lamar [R-TN] (A000360)
+
+## Cosponsors (3)
+
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Perdue, David [R-GA] (P000612)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
+
+## Actions
+
+- 2016-07-14 — Introduced in Senate
+- 2016-07-14 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
