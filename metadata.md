@@ -1,7 +1,7 @@
 ---
 measure: S. 2614
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2614
@@ -30,9 +30,11 @@ Kevin and Avonte's Law of 2016
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -50,3 +52,8 @@ Kevin and Avonte's Law of 2016
 - 2016-07-14 — Senate amendment agreed to: Amendment SA 4976 agreed to in Senate by Unanimous Consent.
 - 2016-07-14 — Senate amendment proposed (on the floor): Amendment SA 4976 proposed by Senator Murkowski for Senator Grassley.(consideration: CR S5185)
 - 2016-07-14 — Senate amendment submitted
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-18 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-18 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
