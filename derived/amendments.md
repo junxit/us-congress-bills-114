@@ -1,7 +1,7 @@
 ---
 measure: S. 2854
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 

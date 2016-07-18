@@ -1,7 +1,7 @@
 ---
 measure: S. 2854
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2854
@@ -38,9 +38,10 @@ Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Blunt, Roy [R-MO] (B000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -56,3 +57,6 @@ Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016
 - 2016-07-14 — Senate amendment agreed to: Amendment SA 4975 agreed to in Senate by Unanimous Consent.
 - 2016-07-14 — Senate amendment proposed (on the floor): Amendment SA 4975 proposed by Senator Murkowski for Senator Burr.(consideration: CR S5184-5185; text: CR S5184-5185)
 - 2016-07-14 — Senate amendment submitted
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on the Judiciary.
