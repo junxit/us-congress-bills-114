@@ -1,7 +1,7 @@
 ---
 measure: S. 3283
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3283
@@ -20,8 +20,16 @@ A bill to designate the community-based outpatient clinic of the Department of V
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
+## Committees (1)
+
+- House — Veterans' Affairs Committee
+
 ## Actions
 
 - 2016-07-14 — Introduced in Senate
 - 2016-07-14 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5185; text: CR S5185)
 - 2016-07-14 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5185; text: CR S5185)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on Veterans' Affairs.
+- 2016-07-18 — Referred to the Subcommittee on Health.
