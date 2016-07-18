@@ -13,10 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Stop Settlement Slush Funds Act of 2016”.
 
-## § 2. Limitation on donations made pursuant to settlement agreements to which the United States is a party
+## § 2. Limitation on donations made pursuant to settlement agreements to which the united states is a party
 
-- **(a)** *Limitation on required donations* An official or agent of the Government may not enter into a settlement agreement on behalf of the United States, or enforce such a settlement agreement, if that agreement includes a term requiring that any donation be made to any person by any party (other than the United States) to such agreement.
+- **(a)** *Limitation on required donations* An official or agent of the Government may not enter into or enforce any settlement agreement on behalf of the United States, directing or providing for a payment to any person or entity other than the United States, other than a payment that provides restitution for or otherwise directly remedies actual harm (including to the environment) directly and proximately caused by the party making the payment, or constitutes payment for services rendered in connection with the case.
 - **(b)** *Penalty* Any official or agent of the Government who violates subsection (a), shall be subject to the same penalties that would apply in the case of a violation of section 3302 of title 31, United States Code.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Settlement agreement* The term “settlement agreement” means a settlement agreement resolving a civil action or potential civil action.
-  - **(2)** *Donation* The term “donation” does not include any payment by a party to provide restitution for or otherwise remedy the actual harm (including to the environment), directly and proximately caused by the alleged conduct of the party, that is the basis for the settlement agreement.
+- **(c)** *Effective date* Subsections (a) and (b) apply only in the case of a settlement agreement concluded on or after the date of enactment of this Act.
+- **(d)** *Definition* The term “settlement agreement” means a settlement agreement resolving a civil action or potential civil action.

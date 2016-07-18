@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5063
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5063
@@ -16,7 +16,7 @@ Stop Settlement Slush Funds Act of 2016
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (18)
+## Cosponsors (32)
 
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Marino, Tom [R-PA-10] (M001179)
@@ -36,6 +36,20 @@ Stop Settlement Slush Funds Act of 2016
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
 
 ## Committees (1)
 
@@ -46,3 +60,9 @@ Stop Settlement Slush Funds Act of 2016
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Referred to the House Committee on the Judiciary.
+- 2016-04-28 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2016-05-11 — Committee Consideration and Mark-up Session Held.
+- 2016-05-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 8.
+- 2016-07-18 — Placed on the Union Calendar, Calendar No. 538.
+- 2016-07-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-694.
+- 2016-07-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-694.
