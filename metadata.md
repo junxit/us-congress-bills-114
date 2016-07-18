@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 46
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 46
@@ -48,3 +48,9 @@ A concurrent resolution expressing support for the goal of ensuring that all Hol
 - 2016-07-15 — Message on Senate action sent to the House.
 - 2016-07-18 — Received in the House.
 - 2016-07-18 — Referred to the House Committee on Foreign Affairs.
+- 2016-09-12 — Considered under suspension of the rules. (consideration: CR H5263-5266)
+- 2016-09-12 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 46.
+- 2016-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-12 — Mr. Royce moved to suspend the rules and agree to the resolution.
+- 2016-09-12 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5263)
+- 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5263)
