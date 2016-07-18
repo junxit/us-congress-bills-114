@@ -1,7 +1,7 @@
 ---
 measure: S. 3028
 congress: 114
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 3028
@@ -20,9 +20,10 @@ Daniel J. Evans Olympic National Park Wilderness Act
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Daniel J. Evans Olympic National Park Wilderness Act
 - 2016-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5187; text as passed Senate: CR S5187)
 - 2016-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5187; text as passed Senate: CR S5187)
 - 2016-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 571.
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on Natural Resources.
