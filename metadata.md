@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 46
 congress: 114
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 46
@@ -30,9 +30,10 @@ A concurrent resolution expressing support for the goal of ensuring that all Hol
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ A concurrent resolution expressing support for the goal of ensuring that all Hol
 - 2016-07-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5187)
 - 2016-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
 - 2016-07-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5187)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on Foreign Affairs.
