@@ -1,7 +1,7 @@
 ---
 measure: S. 3282
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3282
@@ -22,8 +22,15 @@ National Sea Grant College Program Amendments Act of 2016
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
+## Committees (1)
+
+- House — Natural Resources Committee
+
 ## Actions
 
 - 2016-07-14 — Introduced in Senate
 - 2016-07-14 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5182-5183; text as passed Senate: CR S5182-5183)
 - 2016-07-14 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S5182-5183; text as passed Senate: CR S5182-5183)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on Natural Resources.
