@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 41
 congress: 114
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 41
@@ -21,9 +21,10 @@ A concurrent resolution expressing the sense of Congress on the Peshmerga of the
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A concurrent resolution expressing the sense of Congress on the Peshmerga of the
 - 2016-07-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Unanimous Consent.(consideration: CR S5186-5187; text as passed Senate: CR S5186-5187)
 - 2016-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
 - 2016-07-14 — Resolution agreed to in Senate with amendments by Unanimous Consent. (consideration: CR S5186-5187; text as passed Senate: CR S5186-5187)
+- 2016-07-15 — Message on Senate action sent to the House.
+- 2016-07-18 — Received in the House.
+- 2016-07-18 — Referred to the House Committee on Foreign Affairs.
