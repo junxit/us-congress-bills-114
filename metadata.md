@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5424
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5424
@@ -16,11 +16,13 @@ Investment Advisers Modernization Act of 2016
 
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
 
 ## Committees (1)
 
@@ -32,3 +34,9 @@ Investment Advisers Modernization Act of 2016
 - 2016-06-09 — Introduced in House
 - 2016-06-09 — Introduced in House
 - 2016-06-09 — Referred to the House Committee on Financial Services.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 12.
+- 2016-07-21 — Placed on the Union Calendar, Calendar No. 540.
+- 2016-07-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-698.
+- 2016-07-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-698.
