@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3480
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 16 U.S.C. § 433g
 
-> The first section of the Act of May 26, 1936 (16 U.S.C. 433g), is amended by striking “two hundred and fifty acres” and inserting “525 acres”.
+> The first section of the Act of May 26, 1936 (16 U.S.C. 433g), is amended by striking “two hundred and fifty acres” and inserting “305 acres”.
 
 | | |
 |---|---|
 | Removed | `two hundred and fifty acres` |
-| Inserted | `525 acres` |
+| Inserted | `305 acres` |
