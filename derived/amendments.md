@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4341
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-81 amendatory instructions. 7 executed, 74 stated and not applied.
+88 amendatory instructions. 7 executed, 81 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 644
 
-> Section 15(j)(1) of the Small Business Act (15 U.S.C. 644(j)(1)) is amended by striking “greater than $2,500 but not greater than $100,000” and inserting “greater than the micro-purchase threshold defined in section 1902(a) of title 41, United States Code, but not greater than the simplified acquisition threshold”.
+> Section 15(j)(1) of the Small Business Act (15 U.S.C. 644(j)(1)) is amended by striking “greater than $2,500 but not greater than $100,000” and inserting “greater than the micro-purchase threshold, but not greater than the simplified acquisition threshold”.
 
 | | |
 |---|---|
 | Removed | `greater than $2,500 but not greater than $100,000` |
-| Inserted | `greater than the micro-purchase threshold defined in section 1902(a) of title 41, United States Code, but not greater than the simplified acquisition threshold` |
+| Inserted | `greater than the micro-purchase threshold, but not greater than the simplified acquisition threshold` |
 
 ### 15 U.S.C. § 644
 
@@ -108,23 +108,20 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 644` | strike | in subclause (IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 644` | insert | in subclause (V), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 644` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | strike | in subclause (IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 644` | insert | in subclause (V), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 644` | strike | in subclause (IV), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 644` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | strike | in subclause (IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 644` | strike | in subclause (V), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 644` | strike | in subclause (IV), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 644` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 644` | strike | in subclause (VII), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 644` | strike | in subclause (VIII), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 644` | add-at-end | by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 15(g) of the Small Business Act is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 632` | amend | Section 3(m) of the Small Business Act (15 U.S.C. 632(m)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | redesignate | by redesignating subparagraphs (E) through (I) as subparagraphs (F) through (J), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 644` | add-at-end | Section 15(l) of the Small Business Act (15 U.S.C. 644(l)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in the subsection heading, by striking “Certification requirements for”; | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (2), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and conforming the margins accordingly); | the bill names no machine-readable US Code section |
 | — | redesignate | by amending clause (ii) (as so redesignated) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in clause (i) (as so redesignated), by striking “paragraph (2)” and inserting “subparagraph (A)”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i) (as so redesignated), by striking “paragraph (1)” and inserting “subparagraph (A)”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and conforming the margins accordingly); | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) (as so redesignated), by striking “paragraph (2)” and inserting “subparagraph (B)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before subparagraph (A) (as so redesignated) the following: | the bill names no machine-readable US Code section |
@@ -139,10 +136,17 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2302` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 2302` | insert | by inserting at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 644` | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | redesignate | by redesignating subparagraph (J) as subparagraph (K); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | strike | in subparagraph (I), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 644` | insert | by inserting after subparagraph (I) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 644` | redesignate | by redesignating subparagraph (I) as subparagraph (J); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 644` | strike | in subparagraph (H), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 644` | insert | by inserting after subparagraph (H) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657r` | add-at-end | Section 45(b)(3) of the Small Business Act (15 U.S.C. 657r(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in the subsection heading, by striking “Certification requirements for”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and conforming the margins accordingly); | the bill names no machine-readable US Code section |
+| — | redesignate | by amending clause (ii) (as so redesignated) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in clause (i) (as so redesignated), by striking “paragraph (1)” and inserting “subparagraph (A)” | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and conforming the margins accordingly); | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) (as so redesignated), by striking “paragraph (2)” and inserting “subparagraph (B)”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before subparagraph (A) (as so redesignated) the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 637` | replace | by striking “(9) The failure” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | strike | in subparagraph (A), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | insert | in subparagraph (B), by inserting “or” at the end; and | the bill quotes the text inserted but describes where it goes |
@@ -155,6 +159,9 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2302` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2302` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2302` | amend | in subsection (n), by amending paragraph (9) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 656` | strike | in subparagraph (B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 656` | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 656` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657r` | redesignate | Section 45(b)(4) of the Small Business Act (15 U.S.C. 657r(b)(4)) is amended by striking subparagraph (A) and redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 644` | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644), as amended by section 204(c), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Section 4106(f) of title 41, United States Code, is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
@@ -169,4 +176,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 632` | insert | in subsection (f)(1), by inserting “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 637` | add-at-end | Section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | Section 8127(f) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | add-at-end | Section 8127(f) of title 38, United States Code, as amended by section 3, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | add-at-end | Section 8127(f) of title 38, United States Code, as amended by section 504(d)(2), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4341
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4341
@@ -36,3 +36,15 @@ Defending America's Small Contractors Act of 2016
 - 2016-01-07 — Referred to the Committee on Small Business, and in addition to the Committees on Armed Services, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-01-07 — Referred to the Committee on Small Business, and in addition to the Committees on Armed Services, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-01-07 — Referred to the Committee on Small Business, and in addition to the Committees on Armed Services, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-01-12 — Referred to the Subcommittee on Oversight and Investigations.
+- 2016-01-13 — Committee Consideration and Mark-up Session Held.
+- 2016-01-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-07-25 — Committee on Armed Services discharged.
+- 2016-07-25 — Committee on Armed Services discharged.
+- 2016-07-25 — Committee on Oversight and Government discharged.
+- 2016-07-25 — Committee on Oversight and Government discharged.
+- 2016-07-25 — Committee on Veterans' Affairs discharged.
+- 2016-07-25 — Committee on Veterans' Affairs discharged.
+- 2016-07-25 — Placed on the Union Calendar, Calendar No. 545.
+- 2016-07-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-704, Part I.
+- 2016-07-25 — Reported (Amended) by the Committee on Small Business. H. Rept. 114-704, Part I.
