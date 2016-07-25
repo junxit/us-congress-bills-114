@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3212
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3212
@@ -25,3 +25,11 @@ To amend the Grand Ronde Reservation Act to make technical corrections, and for 
 - 2015-07-23 — Introduced in House
 - 2015-07-23 — Introduced in House
 - 2015-07-23 — Referred to the House Committee on Natural Resources.
+- 2015-08-31 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2016-06-14 — Committee Consideration and Mark-up Session Held.
+- 2016-06-14 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-07-25 — Placed on the Union Calendar, Calendar No. 542.
+- 2016-07-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-700.
+- 2016-07-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-700.
