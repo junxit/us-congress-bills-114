@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 114
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2615
@@ -122,3 +122,12 @@ Virgin Islands of the United States Centennial Commission Act
 - 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-314.
 - 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-314.
 - 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
+- 2016-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5911)
+- 2016-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5911)
+- 2016-09-21 — Message on Senate action sent to the House.
+- 2016-09-26 — Presented to President.
+- 2016-09-26 — Presented to President.
+- 2016-09-29 — Became Public Law No: 114-224.
+- 2016-09-29 — Became Public Law No: 114-224.
+- 2016-09-29 — Signed by President.
+- 2016-09-29 — Signed by President.
