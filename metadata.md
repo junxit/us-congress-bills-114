@@ -1,7 +1,7 @@
 ---
 measure: S. 718
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 718
@@ -28,3 +28,8 @@ A bill to modify the boundary of Petersburg National Battlefield in the Commonwe
 
 - 2015-03-11 — Introduced in Senate
 - 2015-03-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-03-17 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-496.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 with amendments. With written report No. 114-308.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 with amendments. With written report No. 114-308.
+- 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
