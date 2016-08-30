@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -32,9 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 5141` | add-at-end | Title III of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5141 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5141` | strike | in subparagraph (D) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5141` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5141` | strike | by striking “United States Code,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5141` | amend | by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5141` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5141` | insert | in paragraph (13) by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robe… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5141` | insert | in paragraph (16) by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistan… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5141` | insert | in paragraph (13), by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Rob… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5141` | insert | in paragraph (16), by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assista… | the bill quotes the text inserted but describes where it goes |

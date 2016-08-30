@@ -59,7 +59,7 @@ This Act may be cited as the “National Urban Search and Rescue Response System
   >     - **(B)** *Deadline* A System member or dependent shall make an election of benefits under subparagraph (A) not later than 1 year after the date of the personal injury, illness, disability, or death that is the reason for the benefits, or until such later date as the Secretary of Labor may allow for reasonable cause shown.
   >     - **(C)** *Effect of election* An election of benefits made under this paragraph is irrevocable unless otherwise provided by law.
   >   - **(3)** *Reimbursement for state or local benefits* Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
-  >   - **(4)** *Public safety officer claims* Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3769b), for any benefits authorized under part L of title I of that Act (42 U.S.C. 3796 et seq.).
+  >   - **(4)** *Public safety officer claims* Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3769b3796b), for any benefits authorized under part L of title I of that Act (42 U.S.C. 3796 et seq.).
   > - **(i)** *Liability* A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under section 1346(b) of title 28, United States Code, and chapter 171 of that title, relating to tort claims procedure.
   > - **(j)** *Employment and reemployment rights* With respect to a System member who is not a regular full-time employee of a sponsoring agency or participating agency, the following terms and conditions apply:
   >   - **(1)** *Service* Service as a System member shall be considered to be “service in the uniformed services” for purposes of chapter 43 of title 38, United States Code, relating to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in such chapter.
@@ -76,7 +76,7 @@ This Act may be cited as the “National Urban Search and Rescue Response System
 
 - **(b)** *Conforming amendments*
   - **(1)** *Applicability of title 5, United States Code* Section 8101(1) of title 5, United States Code, is amended—
-    - **(A)** in subparagraph (D) by striking “and” at the end;
+    - **(A)** in subparagraph (D), by striking “and” at the end;
     - **(B)** by transferring subparagraph (F) to between subparagraph (E) and the matter following subparagraph (E);
     - **(C)** in subparagraph (F)—
       - **(i)** by striking “United States Code,”; and
@@ -85,5 +85,5 @@ This Act may be cited as the “National Urban Search and Rescue Response System
       > - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
 
   - **(2)** *Inclusion as part of uniformed services for purposes of USERRA* Section 4303 of title 38, United States Code, is amended—
-    - **(A)** in paragraph (13) by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”; and
-    - **(B)** in paragraph (16) by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
+    - **(A)** in paragraph (13), by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”; and
+    - **(B)** in paragraph (16), by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
