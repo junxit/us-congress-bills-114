@@ -1,7 +1,7 @@
 ---
 measure: S. 2967
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended by inserting after the item relating to section 525 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended by inserting after the item relating to section 525 526 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

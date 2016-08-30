@@ -1,7 +1,7 @@
 ---
 measure: S. 2967
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2967
@@ -28,3 +28,7 @@ National Biodefense Strategy Act of 2016
 
 - 2016-05-23 — Introduced in Senate
 - 2016-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2016-08-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson under authority of the order of the Senate of 07/14/2016 with amendments and an amendment to the title. With written report No. 114-306.
+- 2016-08-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson under authority of the order of the Senate of 07/14/2016 with amendments and an amendment to the title. With written report No. 114-306.
+- 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 577.
