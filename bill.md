@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1577
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,8 +27,13 @@ This Act may be cited as the “East Rosebud Wild and Scenic Rivers Act”.
 
 ## § 3. Designation of wild and scenic river segments
 
-Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
+Section
 
-> - **(213)** *East Rosebud Creek, Montana* The portions of East Rosebud Creek in the State of Montana, consisting of—
->   - **(A)** the 13-mile segment exclusively on public land within the Custer National Forest from the source in the Absaroka-Beartooth Wilderness downstream to the point at which the Creek enters East Rosebud Lake, including the stream reach between Twin Outlets Lake and Fossil Lake, to be administered by the Secretary of Agriculture as a wild river; and
->   - **(B)** the 7-mile segment exclusively on public land within the Custer National Forest from immediately below, but not including, the outlet of East Rosebud Lake downstream to the point at which the Creek enters private property for the first time, to be administered by the Secretary of Agriculture as a recreational river.
+- **(a)** *Designation* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
+  > - **(213)** *East Rosebud Creek, Montana* The portions of East Rosebud Creek in the State of Montana, consisting of—
+  >   - **(A)** the 13-mile segment exclusively on public land within the Custer National Forest from the source in the Absaroka-Beartooth Wilderness downstream to the point at which the Creek enters East Rosebud Lake, including the stream reach between Twin Outlets Lake and Fossil Lake, to be administered by the Secretary of Agriculture as a wild river; and
+  >   - **(B)** the 7-mile segment exclusively on public land within the Custer National Forest from immediately below, but not including, the outlet of East Rosebud Lake downstream to the point at which the Creek enters private property for the first time, to be administered by the Secretary of Agriculture as a recreational river.
+
+- **(b)** *Adjacent management*
+  - **(1)** *In general* Nothing in paragraph (213) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as added by subsection (a)) creates a protective perimeter or buffer zone outside the designated boundary of the river segment designated by that paragraph.
+  - **(2)** *Outside activities* The fact that an otherwise authorized activity or use can be seen or heard within the boundary of the river segment designated by paragraph (213) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as added by subsection (a)) shall not preclude the activity or use outside the boundary of the river segment.
