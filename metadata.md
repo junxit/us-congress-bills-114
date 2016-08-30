@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2615
@@ -118,3 +118,7 @@ Virgin Islands of the United States Centennial Commission Act
 - 2016-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1979-1980)
 - 2016-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1979-1980)
 - 2016-04-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-314.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-314.
+- 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
