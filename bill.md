@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1623
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -124,8 +124,9 @@ Nothing in this Act—
 - **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, tribal, or local agency;
 - **(4)** conveys any land use or other regulatory authority to the local coordinating entity;
 - **(5)** authorizes or implies the reservation or appropriation of water or water rights;
-- **(6)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the National Heritage Area; or
-- **(7)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
+- **(6)** alters, modifies, diminishes, or extinguishes the treaty rights of any Indian tribe within the National Heritage Area;
+- **(6)(7)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the National Heritage Area; or
+- **(7)(8)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
 ## § 8. Evaluation and report
 
