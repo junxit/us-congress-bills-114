@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2288
@@ -48,3 +48,8 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2015-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644). (text: CR H8427)
 - 2015-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 644).(text: CR H8427)
 - 2015-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-03-17 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-496.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-313.
+- 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 without amendment. With written report No. 114-313.
+- 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
