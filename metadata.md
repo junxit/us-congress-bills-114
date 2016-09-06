@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3342
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3342
@@ -25,3 +25,12 @@ To provide for stability of title to certain lands in the State of Louisiana, an
 - 2015-07-29 — Introduced in House
 - 2015-07-29 — Introduced in House
 - 2015-07-29 — Referred to the House Committee on Natural Resources.
+- 2015-08-31 — Referred to the Subcommittee on Federal Lands.
+- 2015-11-04 — Subcommittee Hearings Held.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Federal Lands Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported by the Yeas and Nays: 24 - 17.
+- 2016-09-06 — Placed on the Union Calendar, Calendar No. 555.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-716.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-716.
