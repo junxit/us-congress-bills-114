@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3974
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Grow Our Own Directive: Physician Assistant Employment and Education Act of 2015”.
+This Act may be cited as the “Grow Our Own Directive: Physician Assistant Employment and Education Act of 2016”.
 
 ## § 2. Pilot program to provide educational assistance to physician assistants to be employed at the Department of Veterans Affairs
 
@@ -82,31 +82,3 @@ This Act may be cited as the “Grow Our Own Directive: Physician Assistant Empl
       - **(ii)** helping to meet the shortage of physician assistants employed by the Department.
     - **(C)** An identification of such modifications to the pilot program as the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Defense, and the Secretary of Health and Human Services consider necessary to meet the goals described in subparagraph (B).
     - **(D)** An assessment of whether the pilot program could serve as a model for other programs of the Department to assist individuals in obtaining certification and employment in other health care fields.
-- **(l)** *Source of amounts* Not less than $8,000,000 of the amount necessary to carry out the pilot program shall be derived from amounts appropriated to the Department of Veterans Affairs before the date of the enactment of this Act.
-
-## § 3. Establishment of standards for the Department of Veterans Affairs for using educational assistance programs to educate and hire physician assistants
-
-- **(a)** *In general* The Secretary of Veterans Affairs shall establish standards described in subsection (b) to improve the use by the Department of Veterans Affairs of the Department of Veterans Affairs Health Professionals Educational Assistance Program under chapter 76 of title 38, United States Code, and other educational assistance programs of the Department, including the pilot program under section 2, to educate and hire physician assistants of the Department.
-- **(b)** *Standards* The standards described in this subsection are the following:
-  - **(1)** Holding directors of medical centers of the Department accountable for failure to use the educational assistance programs described in subsection (a) and other incentives—
-    - **(A)** to advance employees of the Department in their education as physician assistants; and
-    - **(B)** to improve recruitment and retention of physician assistants.
-  - **(2)** Ensuring that the Department of Veterans Affairs Education Debt Reduction Program under subchapter VII of chapter 76 of such title is available for participants in the pilot program under section 2 to fill vacant physician assistant positions at the Department, including by—
-    - **(A)** including in all vacancy announcements for physician assistant positions the availability of the Education Debt Reduction Program; and
-    - **(B)** informing applicants to physician assistant positions of their eligibility for the Education Debt Reduction Program.
-  - **(3)** Monitoring compliance with the application process for educational assistance programs described in subsection (a) to ensure that such programs are being fully utilized to carry out this section.
-  - **(4)** Creating programs, including through the use of the Department of Veterans Affairs Employee Incentive Scholarship Program under subchapter VI of chapter 76 of such title, to encourage employees of the Department to apply to accredited physician assistant programs.
-- **(c)** *Regulations* The Secretary shall prescribe such regulations as the Secretary considers appropriate to carry out this section.
-
-## § 4. Establishment of pay grades for physician assistants of the Department of Veterans Affairs and requirement to provide competitive pay
-
-- **(a)** *Establishment of pay grades* Section 7404(b) of title 38, United States Code, is amended by adding at the end the following:
-- **(b)** *Competitive pay* Section 7451(a)(2) of such title is amended—
-  - **(1)** by redesignating subparagraph (B) as subparagraph (C);
-  - **(2)** by inserting after subparagraph (A) the following new subparagraph (B):
-    > - **(B)** Physician assistant.
-
-  - **(3)** in subparagraph (C), as redesignated by paragraph (1), by striking “and registered nurse” and inserting “registered nurse, and physician assistant”.
-- **(c)** *National strategic plan*
-  - **(1)** *In general* The Secretary of Veterans Affairs shall implement a national strategic plan for the retention and recruitment of physician assistants of the Department of Veterans Affairs that includes the establishment and adoption of standards for the provision of competitive pay to physician assistants of the Department in comparison to the pay of physician assistants in the private sector.
-  - **(2)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation of the national strategic plan under paragraph (1).
