@@ -1,7 +1,7 @@
 ---
 measure: S. 1818
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1818
@@ -16,6 +16,12 @@ Principled Rulemaking Act of 2015
 
 - Sen. Lankford, James [R-OK] (L000575)
 
+## Cosponsors (3)
+
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Ernst, Joni [R-IA] (E000295)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +30,8 @@ Principled Rulemaking Act of 2015
 
 - 2015-07-21 — Introduced in Senate
 - 2015-07-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-09-16 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-342. Additional views filed.
+- 2016-09-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-342. Additional views filed.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
