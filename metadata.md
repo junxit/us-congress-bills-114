@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4789
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4789
@@ -38,3 +38,9 @@ To authorize the Secretary of the Interior to establish a structure for visitor 
 - 2016-07-14 — Placed on the Union Calendar, Calendar No. 534.
 - 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-690.
 - 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-690.
+- 2016-09-06 — Considered under suspension of the rules. (consideration: CR H5068-5069)
+- 2016-09-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4789.
+- 2016-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-06 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
+- 2016-09-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5068)
+- 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5068)
