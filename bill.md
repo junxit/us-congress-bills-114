@@ -1,7 +1,7 @@
 ---
 legis-num: S. 246
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,25 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** the United States has a distinct legal, treaty, and trust obligation to provide for the education, health care, safety, social welfare, and other needs of Native children;
-- **(2)** chronic underfunding of Federal programs to fulfill the longstanding Federal trust obligation has resulted in limited access to critical services for the more than 2,100,000 Native children under the age of 24 living in the United States;
-- **(3)** Native children are the most at-risk population in the United States, confronting serious disparities in education, health, and safety, with 37 percent living in poverty;
-- **(4)** 17 percent of Native children have no health insurance coverage, and child mortality has increased 15 percent among Native children aged 1 to 14, while the overall rate of child mortality in the United States decreased by 9 percent;
-- **(5)** suicide is the second leading cause of death in Native children aged 15 through 24, a rate that is 2.5 times the national average, and violence, including intentional injuries, homicide, and suicide, account for 75 percent of the deaths of Native children aged 12 through 20;
-- **(6)** 58 percent of 3- and 4-year-old Native children are not attending any form of preschool, 15 percent of Native children are not in school and not working, and the graduation rate for Native high school students is 50 percent;
-- **(7)** 22.9 percent of Native children aged 12 and older report alcohol use, 16 percent report substance dependence or abuse, 35.8 percent report tobacco use, and 12.5 percent report illicit drug use;
-- **(8)** Native children disproportionately enter foster care at a rate more than 2.1 times the general population and have the third highest rate of victimization; and
-- **(9)** there is no resource that is more vital to the continued existence and integrity of Native communities than Native children, and the United States has a direct interest, as trustee, in protecting Native children.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Commission* The term “Commission” means the Alyce Spotted Bear and Walter Soboleff Commission on Native Children established by section 4.
+- **(1)** *Commission* The term “Commission” means the Alyce Spotted Bear and Walter Soboleff Commission on Native Children established by section 3.
 - **(2)** *Indian* The term “Indian” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 - **(3)** *Indian tribe* The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 - **(4)** *Native child* The term “Native child” means—
@@ -42,7 +28,7 @@ In this Act:
 - **(6)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(7)** *Tribal College or University* The term “Tribal College or University” has the meaning given the term in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).
 
-## § 4. Commission on Native Children
+## § 3. Commission on Native Children
 
 - **(a)** *In general* There is established a commission in the Office of Tribal Justice of the Department of Justice, to be known as the “Alyce Spotted Bear and Walter Soboleff Commission on Native Children”.
 - **(b)** *Membership*
@@ -158,7 +144,7 @@ In this Act:
       - **(v)** the inclusion of Native children in longitudinal studies; and
       - **(vi)** tribal access to data gathered by Federal, State, and local governmental agencies; and
     - **(D)** identify models of successful Federal, State, and tribal programs in the areas studied by the Commission.
-- **(f)** *Report* Not later than 3 years after the date on which all members of the Commission are appointed and amounts are made available to carry out this Act, the Commission shall submit to the President, Congress, and the White House Council on Native American Affairs a report that contains—
+- **(f)** *Report* Not later than 3 years after the date on which all members of the Commission are appointed and amounts are made available to carry out this Act, the Commission shall submit to the President, the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate, a report that contains—
   - **(1)** a detailed statement of the findings and conclusions of the Commission; and
   - **(2)** the recommendations of the Commission for such legislative and administrative actions as the Commission considers to be appropriate.
 - **(g)** *Powers*
@@ -189,4 +175,3 @@ In this Act:
 - **(k)** *Effect* This Act shall not be construed to recognize or establish a government-to-government relationship with—
   - **(1)** any entity not recognized on or before the date of enactment of this Act by the Federal Government through an Act of Congress, Executive action, judicial decree, or any other action; or
   - **(2)** any entity not included in the list authorized pursuant to the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a et seq.).
-- **(l)** *Funding* There is authorized to be appropriated to carry out this Act $2,000,000.

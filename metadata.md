@@ -1,7 +1,7 @@
 ---
 measure: S. 246
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 246
@@ -63,3 +63,12 @@ Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
 - 2015-06-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3381-3385; text as passed Senate: CR S3381-3383)
 - 2015-06-01 — Received in the House.
 - 2015-06-01 — Referred to the House Committee on Natural Resources.
+- 2015-06-19 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2016-05-18 — Subcommittee Hearings Held.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-12 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2016-09-06 — Placed on the Union Calendar, Calendar No. 560.
+- 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-722.
+- 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-722.
