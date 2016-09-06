@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4850
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4850
@@ -35,3 +35,10 @@ Micro Offering Safe Harbor Act
 - 2016-03-23 — Introduced in House
 - 2016-03-23 — Introduced in House
 - 2016-03-23 — Referred to the House Committee on Financial Services.
+- 2016-04-14 — Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.
+- 2016-09-06 — Placed on the Union Calendar, Calendar No. 561.
+- 2016-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-723.
+- 2016-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-723.
