@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4245
 
-> To exempt exportation of certain echinoderms and mollusks from licensing requirements under the Endangered Species Act of 1973.
+> To exempt importation and exportation of sea urchins and sea cucumbers from licensing requirements under the Endangered Species Act of 1973.
 
 ## § 1. Exemption of exportation of certain echinoderms and mollusks from permission and licensing requirements
 
