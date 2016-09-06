@@ -1,7 +1,7 @@
 ---
 measure: S. 1579
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 1579
@@ -72,3 +72,15 @@ NATIVE Act
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 559.
 - 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-721, Part I.
 - 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-721, Part I.
+- 2016-09-12 — Considered under suspension of the rules. (consideration: CR H5289-5292)
+- 2016-09-12 — DEBATE - The House proceeded with forty minutes of debate on S. 1579.
+- 2016-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-12 — Mrs. Radewagen moved to suspend the rules and pass the bill.
+- 2016-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5290-5291)
+- 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5290-5291)
+- 2016-09-14 — Presented to President.
+- 2016-09-14 — Presented to President.
+- 2016-09-23 — Became Public Law No: 114-221.
+- 2016-09-23 — Became Public Law No: 114-221.
+- 2016-09-23 — Signed by President.
+- 2016-09-23 — Signed by President.
