@@ -1,19 +1,22 @@
 ---
 legis-num: H.R. 4245
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4245
 
-> To exempt importation and exportation of sea urchins and sea cucumbers from licensing requirements under the Endangered Species Act of 1973.
+> To exempt exportation of certain echinoderms and mollusks from licensing requirements under the Endangered Species Act of 1973.
 
-## § 1. Exemption of importation and exportation of sea urchins and sea cucumbers from licensing requirement
+## § 1. Exemption of exportation of certain echinoderms and mollusks from permission and licensing requirements
 
-- **(a)** *Exemption* Notwithstanding section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)) and section 14.91 of title 50, Code of Federal Regulations, any person may engage in business as an importer or exporter of fish or wildlife described in subsection (b) of this section without procuring an import/export license under such section of that Act or subpart I of part 14 of such title.
-- **(b)** *Covered fish or wildlife* The fish or wildlife referred to in subsection (a) are members of the phylum Echinodermata that are commonly known as sea urchins and sea cucumbers, including products thereof, that—
-  - **(1)** do not require a permit under part 16, 17, or 23 of title 50, Code of Federal Regulations; and
-  - **(2)** are—
-    - **(A)** imported or exported for purposes of human or animal consumption; or
+- **(a)** *Exemption* Not later than 30 days after the date of the enactment of this Act, the Director of the United States Fish and Wildlife Service shall amend section 14.92 of title 50, Code of Federal Regulations, to clarify that—
+  - **(1)** fish or wildlife described in subsection (b) are fishery products exempt from the export permission requirements of section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)); and
+  - **(2)** any person may engage in business as an exporter of such fish or wildlife without procuring permission under such section of that Act or an export license under subpart I of part 14 of such title.
+- **(b)** *Covered fish or wildlife* The fish or wildlife referred to in subsection (a) are members of the phylum Echinodermata that are commonly known as sea urchins and sea cucumbers, and members of the phylum Mollusca that are commonly known as squid, octopus, and cuttlefish, including products thereof, that—
+  - **(1)** do not require a permit under part 16, 17, or 23 of title 50, Code of Federal Regulations;
+  - **(2)** are harvested in waters under the jurisdiction of the United States or are processed in the United States; and
+  - **(3)** are—
+    - **(A)** exported for purposes of human or animal consumption; or
     - **(B)** taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes.
