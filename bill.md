@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1696
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ocmulgee Mounds National Historical Park Boundary Revision Act of 2015”.
+This Act may be cited as the “Ocmulgee Mounds National Historical Park Boundary Revision Act of 2015 2016”.
 
 ## § 2. Definitions
 
@@ -19,6 +19,7 @@ In this Act:
 
 - **(1)** *Historical Park* The term Historical Park means the Ocmulgee Mounds National Historical Park in the State of Georgia, as redesignated by section 3.
 - **(2)** *Map* The term map means the map entitled [___], numbered [___], and dated [___].
+- **(2)** *Map* The term map means the map entitled “Ocmulgee National Monument Proposed Boundary Adjustment”, numbered 363/125996, and dated January 2016.
 - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Ocmulgee Mounds National Historical Park
