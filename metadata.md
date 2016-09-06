@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5538
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5538
@@ -934,3 +934,4 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2016-07-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2016-07-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5538.
 - 2016-07-14 — The previous question was ordered pursuant to the rule.
+- 2016-09-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 587.
