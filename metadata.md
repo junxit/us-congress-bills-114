@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5468
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5468
@@ -25,3 +25,12 @@ To direct the Secretary of the Interior to allow for prepayment of repayment obl
 - 2016-06-14 — Introduced in House
 - 2016-06-14 — Introduced in House
 - 2016-06-14 — Referred to the House Committee on Natural Resources.
+- 2016-06-15 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2016-06-23 — Subcommittee Hearings Held.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-12 — Subcommittee on Water, Power and Oceans Discharged.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-06 — Placed on the Union Calendar, Calendar No. 558.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-719.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-719.
