@@ -15,14 +15,14 @@ This Act may be cited as the “Innovation in Offshore Leasing Act”.
 
 ## § 2. Internet-based offshore oil and gas lease sales
 
-- **(a)** *Authorization* Section 8 of the Outer Continental Shelf Leasing Act (43 U.S.C. 1337) is amended by adding at the end the following:
+- **(a)** *Authorization* Section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) is amended by adding at the end the following:
   > - **(q)** *Internet-Based oil and gas lease sales*
   >   - **(1)** *In general* In order to modernize the Nation’s offshore leasing program to ensure the best return to the Federal taxpayer, reduce fraud, and ensure a fair and competitive leasing process, the Secretary may conduct lease sales under this section through Internet-based, sealed-bidding methods.
   >   - **(2)** *Sale requirements* Sales conducted under paragraph (1) shall ensure—
-  >     - **(A)** live web streaming of the bid reading process;
-  >     - **(B)** a bidder verification process that discloses to bidders at least 24 hours before the bid reading process a list of bids submitted by all persons on each lease tract without disclosing bid amounts;
+  >     - **(A)** a publicly and freely accessible digital delivery of the bid reading process, such as live Internet streaming, and an option for bidders to submit bids electronically;
+  >     - **(B)** a bidder verification process that discloses to bidders, by no later than 5 p.m. Central Time of the day before each sale, a list of all bids submitted (including the person submitting each bid) on each lease tract without disclosing bid amounts;
   >     - **(C)** the ability for a bidder to correct a possible misreading of a submitted bid;
-  >     - **(D)** an independent, third-party observer from the Department of the Interior’s Office of the Inspector General present during the bid reading process to prevent wrongdoing, independently certify the bidding process, and maintain transparency;
+  >     - **(D)** a designee from within the Office of the Solicitor of the Department of the Interior to act as an independent, third-party observer who will be present during the bid reading process to prevent wrongdoing, independently certify the bidding process, and maintain transparency;
   >     - **(E)** data security measures to ensure bidder data is kept secure; and
   >     - **(F)** a participant survey soliciting voluntary feedback from bidders on the bidding process.
   >   - **(3)** *Transparency in sale-day statistics*
@@ -48,7 +48,7 @@ This Act may be cited as the “Innovation in Offshore Leasing Act”.
   - **(1)** *In general* Before conducting the first Internet-based lease sale under the amendment made by this section, the Secretary of the Interior shall issue a request for information from each company present for bidding at the ten most recent oil and gas lease sales conducted by the Secretary under the Outer Continental Shelf Lands Act, in order to provide the bidding public sufficient opportunity to share innovative ideas, methods, and concerns regarding Internet-based leasing.
   - **(2)** *Integration of information* The Secretary shall review, evaluate, and integrate suggestions and concerns collected under paragraph (1) as the Secretary works to modernize the offshore leasing process through Internet-based leasing options.
   - **(3)** *User workshop* The Secretary shall conduct not less than one user workshop with viable bidders prior to conducting an Internet-based lease sale to provide the bidding public with an opportunity to beta test any prototype of an Internet-based leasing platform.
-- **(c)** *Deadline for Gulf of Mexico lease sale* Not later than one year after the date of the enactment of this Act, the Secretary of the Interior shall conduct at least one Internet-based lease sale under the amendment made by subsection (a) for leasable acreage in the Gulf of Mexico.
+- **(c)** *Deadline for Gulf of Mexico lease sale* Not later than 18 months after the date of the enactment of this Act, the Secretary of the Interior shall conduct at least one Internet-based lease sale under the amendment made by subsection (a) for leasable acreage in the Gulf of Mexico.
 - **(d)** *Evaluating Internet-Based offshore leasing* Not later than 90 days after the third Internet-based lease sale conducted under the amendment made by subsection (a), the Secretary of the Interior shall analyze all such Internet-based lease sales and transmit to Congress a thorough analysis of the sales. The analysis shall include—
   - **(1)** estimates of increases or decreases in such lease sales, compared to sales conducted by non-Internet-based bidding, in—
     - **(A)** the number of bidders;
