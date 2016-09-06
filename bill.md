@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Boundaries*
   - **(1)** *In general* Section 102(a) of Public Law 91–661 (16 U.S.C. 160a–1(a)) is amended—
-    - **(A)** in the first sentence, by striking “the drawing entitled” and all that follows through “February 1969” and inserting “the map entitled “Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment”, numbered 172/80,056, and dated June 2009”; and
+    - **(A)** in the first sentence, by striking “the drawing entitled” and all that follows through “February 1969” and inserting “the map entitled “Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment”, numbered 172/80,056, and dated June 2009 2009 (22 sheets)”; and
     - **(B)** in the second and third sentences, by striking “drawing” each place it appears and inserting “map”.
   - **(2)** *Technical corrections* Section 102(b)(2)(A) of Public Law 91–661 (16 U.S.C. 160a–1(b)(2)(A)) is amended—
     - **(A)** by striking “paragraph (1)(C) and (D)” and inserting “subparagraphs (C) and (D) of paragraph (1)”; and

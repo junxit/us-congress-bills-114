@@ -1,7 +1,7 @@
 ---
 measure: S. 2805
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 160a-1
 
-> in the first sentence, by striking “the drawing entitled” and all that follows through “February 1969” and inserting “the map entitled Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment, numbered 172/80,056, and dated June 2009”; and
+> in the first sentence, by striking “the drawing entitled” and all that follows through “February 1969” and inserting “the map entitled Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment, numbered 172/80,056, and dated June 2009 2009 (22 sheets)”; and
 
 | | |
 |---|---|
 | Removed | `the drawing entitled” and all that follows through “February 1969` |
-| Inserted | `the map entitled Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment, numbered 172/80,056, and dated June 2009` |
+| Inserted | `the map entitled Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment, numbered 172/80,056, and dated June 2009 2009 (22 sheets)` |
 
 ### 16 U.S.C. § 160a-1
 

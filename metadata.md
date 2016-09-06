@@ -1,7 +1,7 @@
 ---
 measure: S. 2805
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2805
@@ -28,3 +28,8 @@ A bill to modify the boundary of Voyageurs National Park in the State of Minneso
 
 - 2016-04-14 — Introduced in Senate
 - 2016-04-14 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-06-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-502.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 114-330.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 114-330.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.
