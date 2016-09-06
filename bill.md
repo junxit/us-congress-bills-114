@@ -25,5 +25,7 @@ Congress finds as follows:
 
 ## § 3. Bolts ditch access
 
+## § 2. Bolts ditch access
+
 - **(a)** *Access granted* The Secretary of Agriculture shall permit by special use authorization nonmotorized access and use, in accordance with section 293.6 of title 36, Code of Federal Regulations, of the Bolts Ditch Headgate and the Bolts Ditch within the Holy Cross Wilderness, Colorado, as designated by Public Law 96–560, for the purposes of the diversion of water and use, maintenance, and repair of such ditch and headgate by the Town of Minturn, Colorado, a Colorado Home Rule Municipality.
 - **(b)** *Location of facilities* The Bolts Ditch headgate and ditch segment referenced in subsection (a) are as generally depicted on the map entitled “Bolts Ditch headgate and Ditch Segment”, dated November, 2015.
