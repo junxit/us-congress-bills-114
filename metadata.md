@@ -1,7 +1,7 @@
 ---
 measure: S. 1579
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1579
@@ -59,3 +59,16 @@ NATIVE Act
 - 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-04-26 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-04-27 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2016-04-29 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-12 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-06 — Committee on Energy and Commerce discharged.
+- 2016-09-06 — Committee on Energy and Commerce discharged.
+- 2016-09-06 — Committee on House Administration discharged.
+- 2016-09-06 — Committee on House Administration discharged.
+- 2016-09-06 — Placed on the Union Calendar, Calendar No. 559.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-721, Part I.
+- 2016-09-06 — Reported by the Committee on Natural Resources. H. Rept. 114-721, Part I.
