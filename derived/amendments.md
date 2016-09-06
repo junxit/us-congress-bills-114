@@ -1,7 +1,7 @@
 ---
 measure: S. 2620
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
