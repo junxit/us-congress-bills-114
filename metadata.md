@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4119
@@ -41,3 +41,8 @@ Gulf Islands National Seashore Land Exchange Act of 2016
 - 2016-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1523)
 - 2016-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1523)
 - 2016-04-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-06-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-502.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-340.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-340.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.
