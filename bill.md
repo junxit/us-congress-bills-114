@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3286
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Honoring Investments in Recruiting and Employing American Military Veterans Act of 2015” or the “HIRE Vets Act”.
+This Act may be cited as the “Honoring Investments in Recruiting and Employing American Military Veterans Act of 2016” or the “HIRE Vets Act”.
 
 ## § 2. HIRE Vets Medallion program
 
-- **(a)** *Program Established* Not later than 90 days after the date of enactment of this Act, the Secretary of Labor shall establish, by rule, a HIRE Vets Medallion Program to solicit voluntary information from employers for purposes of recognizing, by means of an award to be designated a “HIRE Vets Medallion”, verified efforts by such employers—
+- **(a)** *Program Established* Not later than one year after the date of enactment of this Act, the Secretary of Labor shall establish, by rule, a HIRE Vets Medallion Program to solicit voluntary information from employers for purposes of recognizing, by means of an award to be designated a “HIRE Vets Medallion”, verified efforts by such employers—
   - **(1)** to recruit, employ, and retain veterans; and
   - **(2)** to provide community and charitable services supporting the veteran community.
 - **(b)** *Application Process* Beginning in the calendar year following the calendar year in which the Secretary establishes the program—
@@ -46,32 +46,21 @@ This Act may be cited as the “Honoring Investments in Recruiting and Employing
   - **(3)** *Verification* In reviewing applications, the Secretary shall verify all information provided in the applications, to the extent that such information is relevant in determining whether or not an applicant should receive a HIRE Vets Medallion or in determining the appropriate level of HIRE Vets Medallion for that employer to receive.
 - **(b)** *Awards*
   - **(1)** *Large employers*
-    - **(A)** *In general* The Secretary shall establish four levels of HIRE Vets Medallions to be awarded to employers employing 500 or more employees, to be designated the “Bronze HIRE Vets Medallion”, the “Silver HIRE Vets Medallion”, the “Gold HIRE Vets Medallion”, and the “Platinum HIRE Vets Medallion”.
-    - **(B)** *Bronze HIRE Vets Medallion* No employer shall be eligible to receive a Bronze HIRE Vets Medallion in a given calendar year unless—
-      - **(i)** such employer has hired a veteran during the previous calendar year;
-      - **(ii)** such employer provides support to each of its employees who are performing active duty service in the United States National Guard or Reserve, including by providing to each such employee a guarantee of employment following such employee’s active duty service; and
-      - **(iii)** such employer provides charitable resources in support of veteran support organizations.
-    - **(C)** *Silver HIRE Vets Medallion* No employer shall be eligible to receive a Silver HIRE Vets Medallion in a given calendar year unless—
-      - **(i)** such employer is eligible to receive a Bronze HIRE Vets Medallion in such year;
-      - **(ii)** veterans constitute not less than 5 percent of all employees hired by such employer during the prior calendar year;
-      - **(iii)** such employer retains through the end of the prior calendar year not less than 75 percent of veteran employees hired during the calendar year before the prior calendar year; and
-      - **(iv)** such employer provides a targeted training program for new veteran employees.
-    - **(D)** *Gold HIRE Vets Medallion* No employer shall be eligible to receive a Gold HIRE Vets Medallion in a given calendar year unless—
-      - **(i)** such employer is eligible to receive a Silver HIRE Vets Medallion in such year;
-      - **(ii)** veterans constitute not less than 7 percent of all employees hired by such employer during the prior calendar year;
-      - **(iii)** such employer has established an employee veteran organization or resource group to assist new veteran employees with integration, including coaching and mentoring; and
-      - **(iv)** such employer has established programs to enhance the leadership skills of veteran employees during their employment.
-    - **(E)** *Platinum HIRE Vets Medallion* No employer shall be eligible to receive a Platinum HIRE Vets Medallion in a given calendar year unless—
-      - **(i)** such employer is eligible to receive a Gold HIRE Vets Medallion in such year;
-      - **(ii)** veterans constitute not less than 10 percent of all employees hired by such employer during the prior calendar year;
-      - **(iii)** such employer retains through the end of the prior calendar year not less than 85 percent of veteran employees hired during the calendar year before the prior calendar year;
-      - **(iv)** such employer employs dedicated human resources professionals to support hiring and retention of veteran employees, including efforts focused on veteran hiring and training;
-      - **(v)** such employer provides each of its employees serving on active duty in the United States National Guard or Reserve with compensation sufficient, in combination with the employee’s active duty pay, to achieve a combined level of income commensurate with the employee’s salary prior to undertaking active duty; and
-      - **(vi)** such employer has established a tuition assistance program to support veteran employees’ attendance in postsecondary education during the term of their employment.
-    - **(F)** *Exemption for smaller employers* An employer shall be deemed to meet the requirements of subparagraph (E)(iv) if such employer—
+    - **(A)** *In general* The Secretary shall establish two levels of HIRE Vets Medallions to be awarded to employers employing 500 or more employees, to be designated the “Gold HIRE Vets Medallion” and the “Platinum HIRE Vets Medallion”.
+    - **(B)** *Gold HIRE Vets Medallion* No employer shall be eligible to receive a Gold HIRE Vets Medallion in a given calendar year unless—
+      - **(i)** veterans constitute not less than 7 percent of all employees hired by such employer during the prior calendar year;
+      - **(ii)** such employer has established an employee veteran organization or resource group to assist new veteran employees with integration, including coaching and mentoring; and
+      - **(iii)** such employer has established programs to enhance the leadership skills of veteran employees during their employment.
+    - **(C)** *Platinum HIRE Vets Medallion* No employer shall be eligible to receive a Platinum HIRE Vets Medallion in a given calendar year unless—
+      - **(i)** veterans constitute not less than 10 percent of all employees hired by such employer during the prior calendar year;
+      - **(ii)** such employer retains through the end of the prior calendar year not less than 85 percent of veteran employees hired during the calendar year before the prior calendar year;
+      - **(iii)** such employer employs dedicated human resources professionals to support hiring and retention of veteran employees, including efforts focused on veteran hiring and training;
+      - **(iv)** such employer provides each of its employees serving on active duty in the United States National Guard or Reserve with compensation sufficient, in combination with the employee’s active duty pay, to achieve a combined level of income commensurate with the employee’s salary prior to undertaking active duty; and
+      - **(v)** such employer has established a tuition assistance program to support veteran employees’ attendance in postsecondary education during the term of their employment.
+    - **(D)** *Exemption for smaller employers* An employer shall be deemed to meet the requirements of subparagraph (E)(iv) if such employer—
       - **(i)** employs 5,000 or fewer employees; and
       - **(ii)** employs at least one human resources professional whose regular work duties include those described under subparagraph (E)(iv).
-    - **(G)** *Additional criteria* The Secretary may provide, by rule, additional criteria with which to determine qualifications for receipt of each level of HIRE Vets Medallion.
+    - **(E)** *Additional criteria* The Secretary may provide, by rule, additional criteria with which to determine qualifications for receipt of each level of HIRE Vets Medallion.
   - **(2)** *Small- and medium-sized employers* The Secretary shall establish similar awards in order to recognize achievements in supporting veterans by—
     - **(A)** employers with 50 or fewer employees; and
     - **(B)** employers with more than 50 but fewer than 500 employees.
@@ -82,21 +71,15 @@ This Act may be cited as the “Honoring Investments in Recruiting and Employing
 - **(a)** *In general* The recipient of a HIRE Vets Medallion may—
   - **(1)** publicly display such medallion through the end of the calendar year following receipt of such medallion; and
   - **(2)** publicly display the HIRE Vets Medallion Certificate issued in conjunction with such medallion.
-- **(b)** *Unlawful display prohibited* It is unlawful for any employer to publicly display a HIRE Vets Medallion—
-  - **(1)** if such employer did not receive such medallion through the HIRE Vets Medallion Program; or
-  - **(2)** after the end of the calendar year following the calendar year in which such medallion was issued to such employer through the HIRE Vets Medallion Program.
+- **(b)** *Unlawful display prohibited* It is unlawful for any employer to publicly display a HIRE Vets Medallion, in connection with, or as a part of, any advertisement, solicitation, business activity, or product—
+  - **(1)** for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression that the employer received the medallion through the HIRE Vets Medallion Program, if such employer did not receive such medallion through the HIRE Vets Medallion Program; or
+  - **(2)** for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression that the employer received the medallion through the HIRE Vets Medallion Program during the preceding calendar year if it is after the end of the calendar year following the calendar year in which such medallion was issued to such employer through the HIRE Vets Medallion Program.
 
 ## § 5. Application fee and funding
 
-- **(a)** *Fee authorized* The Secretary may assess a reasonable fee on employers that apply for receipt of a HIRE Vets Medallion.
-- **(b)** *Fund established* There is established in the Treasury of the United States a separate account for the deposit of fees collected under subsection (a), to be designated the “HIRE Vets Medallion Award Fund”.
-- **(c)** *Deposit* The Secretary shall deposit any fees collected pursuant to subsection (a) into the HIRE Vets Medallion Award Fund.
-- **(d)** *Authorization of appropriations*
-  - **(1)** *Sources of appropriations*
-    - **(A)** *First year* There are authorized to be appropriated for the first fiscal year in which applications are to be solicited under section 2(b) such sums as may be necessary to carry out this Act in such fiscal year.
-    - **(B)** *Following years* There is authorized to be appropriated from the HIRE Vets Medallion Award Fund, for each fiscal year following a fiscal year in which fees are collected under subsection (a), an amount equal to the total fees collected under subsection (a) during such prior fiscal year.
-  - **(2)** *Availability* Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
-  - **(3)** *Use* Amounts appropriated pursuant to paragraph (1) shall be used for carrying out the HIRE Vets Medallion Program.
+- **(a)** *Fund established* There is established in the Treasury of the United States a fund to be designated the “HIRE Vets Medallion Award Fund”.
+- **(b)** *Fee authorized* The Secretary may assess a reasonable fee on employers that apply for receipt of a HIRE Vets Medallion and the Secretary shall deposit such fees into the HIRE Vets Medallion Award Fund. The Secretary shall establish the amount of the fee such that the amounts collected as fees and deposited into the Fund are sufficient to cover the costs associated with carrying out this Act.
+- **(c)** *Use of funds* Amounts in the HIRE Vets Medallion Award Fund shall be available, without further appropriation, to the Secretary to carry out the HIRE Vets Medallion Program.
 
 ## § 6. Report to Congress
 
@@ -119,3 +102,7 @@ In this Act:
   - **(3)** any foreign state.
 - **(b)** *Secretary* The term “Secretary” means the Secretary of Labor.
 - **(c)** *Veteran* The term “veteran” has the meaning given such term under section 101 of title 38, United States Code.
+
+## § 8. Limitation on awards and bonuses paid to senior executive employees of Department of Veterans Affairs
+
+Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended by striking the period at the end and inserting the following: , “of which, during fiscal year 2016, not more than an aggregate amount of $2,000,000 may be paid to employees of the Department of Veterans Affairs who are members of the Senior Executive Service.”.
