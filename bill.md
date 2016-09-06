@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2087
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -26,6 +26,6 @@ This Act may be cited as the “Fort Scott National Historic Site Boundary Modif
       > - **(a)** *In general* When
 
     - **(B)** by adding at the end the following:
-      > - **(b)** *Boundary modification* The boundary of the Fort Scott National Historic Site established under subsection (a) is modified as generally depicted on the map referred to as “Fort Scott National Historic Site Proposed Boundary Modification”, numbered 471/80,057, and dated June 2015.
+      > - **(b)** *Boundary modification* The boundary of the Fort Scott National Historic Site established under subsection (a) is modified as generally depicted on the map referred to as “Fort Scott National Historic Site Proposed Boundary Modification”, numbered 471/80,057, and dated June 2015 February 2016.
 
 - **(b)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out the amendments made by subsection (a).
