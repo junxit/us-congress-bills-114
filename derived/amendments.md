@@ -1,7 +1,7 @@
 ---
 measure: S. 3027
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 341` | strike | Section 103 of Public Law 99–420 (16 U.S.C. 341 note; 100 Stat. 959) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “That the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 341` | replace | in the first sentence, by striking “In order to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 341` | replace | in the second sentence, by striking “The map” and all that follows through “made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 341` | insert | by inserting after subsection (a) (as so designated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 341` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 341` | strike | Section 103 of Public Law 99–420 (16 U.S.C. 341 note; 100 Stat. 959) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “That the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “for school purposes” and inserting “for public purposes, subject to the conditions that use of the property shall not degrade or adversely impact the resources or values of Acadia National Park, and the land shall remain in … | the bill names no machine-readable US Code section |
