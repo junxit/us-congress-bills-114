@@ -27,7 +27,7 @@ Congress makes the following findings:
 
 ## § 3. Fort Ontario special resource study
 
-- **(a)** *Study* The Secretary of the Interior (referred to in this section as the “Secretary”) shall conduct a special resource study of Fort Ontario in Oswego, New York.
+- **(a)** *Study* The Secretary of the Interior (referred to in this section as the “Secretary”) shall, subject to appropriations, conduct a special resource study of Fort Ontario in Oswego, New York.
 - **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
   - **(1)** evaluate the national significance of the site;
   - **(2)** determine the suitability and feasibility of designating the site as a unit of the National Park System;

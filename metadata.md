@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4202
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4202
@@ -39,3 +39,9 @@ Fort Ontario Study Act
 - 2016-07-14 — Placed on the Union Calendar, Calendar No. 532.
 - 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-688.
 - 2016-07-14 — Reported by the Committee on Natural Resources. H. Rept. 114-688.
+- 2016-09-06 — Considered under suspension of the rules. (consideration: CR H5065-5067)
+- 2016-09-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4202.
+- 2016-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-06 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5065-5066)
+- 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5065-5066)
