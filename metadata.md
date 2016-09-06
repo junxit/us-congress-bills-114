@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4511
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4511
@@ -40,3 +40,9 @@ Gold Star Families Voices Act
 - 2016-07-05 — Placed on the Union Calendar, Calendar No. 514.
 - 2016-07-05 — Reported by the Committee on House Administration. H. Rept. 114-663.
 - 2016-07-05 — Reported by the Committee on House Administration. H. Rept. 114-663.
+- 2016-09-06 — Considered under suspension of the rules. (consideration: CR H5043-5045)
+- 2016-09-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4511.
+- 2016-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-06 — Mr. Harper moved to suspend the rules and pass the bill.
+- 2016-09-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5043)
+- 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5043)
