@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3620
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3620
@@ -45,3 +45,8 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to prov
 - 2016-02-24 — Reported by the Committee on Natural Resources. H. Rept. 114-435.
 - 2016-02-24 — Reported by the Committee on Natural Resources. H. Rept. 114-435.
 - 2016-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-06-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-502.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-339.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-339.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 610.
