@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3471
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “Except” and inserting “(1) Except”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Adaptive” and inserting “(1) Adaptive”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1718 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3104 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 7401(3) of title 38, United States Code, is amended by inserting “licensed hearing aid specialists,” after “Audiologists,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 7402(b)(14) of such title is amended by inserting “, hearing aid specialist” after “dental technologist”. | the bill names no machine-readable US Code section |

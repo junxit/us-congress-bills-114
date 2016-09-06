@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3471
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,43 +11,68 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Mobility Safety Act of 2015”.
+This Act may be cited as the “Veterans Mobility Safety Act of 2016”.
 
-## § 2. Improvement of provision of automobiles and adaptive equipment by Department of Veterans Affairs
+## § 2. Personal selections of automobiles and adaptive equipment
 
-- **(a)** *Automobiles and adaptive equipment* Section 3903 of title 38, United States Code, is amended—
-  - **(1)** in subsection (b)—
-    - **(A)** by striking “Except” and inserting “(1) Except”; and
-    - **(B)** by adding at the end the following new paragraph:
-      > - **(2)** The Secretary shall ensure that to the extent practicable an eligible person who is provided an automobile or other conveyance under this chapter is given the opportunity to make personal selections relating to such automobile or other conveyance.
+Section 3903(b) of title 38, United States Code, is amended—
 
-  - **(2)** in subsection (d)—
-    - **(A)** by striking “Adaptive” and inserting “(1) Adaptive”; and
-    - **(B)** by adding at the end the following new paragraphs:
-      > - **(2)** For purposes of this subsection, minimum standards shall include that—
-      >   - **(A)** the provider of any adaptive equipment modification services, including the repair, maintenance, or replacement of such equipment, shall be certified in the provision of the modification service performed by—
-      >     - **(i)** a certification organization; or
-      >     - **(ii)** the manufacturer of the adaptive equipment for which the modification services are performed;
-      >   - **(B)** any individual performing such modification services on an automobile shall—
-      >     - **(i)** be certified in the provision of the modification service performed by—
-      >       - **(I)** a certification organization; or
-      >       - **(II)** the manufacturer of the adaptive equipment for the modification services are performed; or
-      >     - **(ii)** be licensed or certified by the State in which the modification service is performed if such service is within the scope of practice, as determined by the State for the service; and
-      >   - **(C)** the provider of the automobile or adaptive equipment or the provider of the modification services for such automobile or adaptive equipment shall—
-      >     - **(i)** adhere to chapter 126 of title 42 (commonly known as the “Americans with Disabilities Act of 1990”); and
-      >     - **(ii)** adhere to the “make inoperative mandates” of the National Highway Traffic Safety Administration Federal Motor Vehicle Safety Standards prescribed pursuant to section 30122 of title 49.
-      > - **(3)** In this subsection:
-      >   - **(A)** The term certification organization means an organization that—
-      >     - **(i)** is recognized as being qualified by the Secretary;
-      >     - **(ii)** is a nonprofit organization;
-      >     - **(iii)** is a national or international organization with an accreditation program for automotive adaptive equipment; and
-      >     - **(iv)** has established standards for recordkeeping and to minimize the possibility of conflicts of interest as determined by the Secretary.
-      >   - **(B)** The term modification services means structural modifications or the addition or installation of adaptive equipment intended to increase, maintain, or improve the functional capacity of a disabled driver to safely drive or ride as a passenger.
+- **(1)** by striking “Except” and inserting “(1) Except”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(2)** The Secretary shall ensure that to the extent practicable an eligible person who is provided an automobile or other conveyance under this chapter is given the opportunity to make personal selections relating to such automobile or other conveyance.
 
-- **(b)** *Rehabilitative services* Section 1718 of such title is amended by adding at the end the following new subsection:
-  > - **(h)** In providing rehabilitative services under this chapter, if the Secretary provides adaptive equipment, the Secretary shall ensure that such equipment meets the minimum standards prescribed under section 3903(d)(2) of this title.
+## § 3. Comprehensive policy for the automobiles adaptive equipment program
 
-- **(c)** *Vocational rehabilitation* Section 3104 of such title is amended by adding at the end the following new subsection:
-  > - **(c)** In providing a rehabilitation program under this chapter, if the Secretary provides adaptive equipment, the Secretary shall ensure that such equipment meets the minimum standards prescribed under section 3903(d)(2) of this title.
+- **(a)** *Comprehensive policy* The Secretary of Veterans Affairs shall develop a comprehensive policy regarding quality standards for providers who provide modification services to veterans under the automobile adaptive equipment program.
+- **(b)** *Scope* The policy developed under subsection (a) shall cover each of the following:
+  - **(1)** The Department of Veterans Affairs-wide management of the automobile adaptive equipment program.
+  - **(2)** The development of standards for safety and quality of equipment and installation of equipment through the automobile adaptive equipment program, including with respect to the defined differentiations in levels of modification complexity.
+  - **(3)** The consistent application of standards for safety and quality of both equipment and installation throughout the Department.
+  - **(4)** The certification of a provider by a third party organization or manufacturer if the Secretary designates the quality standards of such organization or manufacturer as meeting or exceeding the standards developed under this section.
+  - **(5)** The education and training of personnel of the Department who administer the automobile adaptive equipment program.
+  - **(6)** The compliance of the provider with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) when furnishing automobile adaptive equipment at the facility of the provider.
+  - **(7)** The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice.
+- **(c)** *Updates* Not later than one year after the date of the enactment of this Act, the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a). Not less frequently than once every six years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
+- **(d)** *Consultation* The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (c), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment.
+- **(e)** *Conflicts* In developing and implementing the policy under subsection (a), the Secretary shall—
+  - **(1)** minimize the possibility of conflicts of interest, to the extent practicable; and
+  - **(2)** establish procedures that ensure against the use of a certifying entity referred to in subsection (b)(4) that has a financial conflict of interest regarding the certification of an eligible provider.
+- **(f)** *Biennial report*
+  - **(1)** *In general* Not later than one year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (c), and biennially thereafter through 2022, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the implementation and facility compliance with the policy developed under subsection (a).
+  - **(2)** *Contents* The report required by paragraph (1) shall include the following:
+    - **(A)** A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (c).
+    - **(B)** A description of the performance measures used to determine the effectiveness of such policy in ensuring the safety of veterans enrolled in the automobile adaptive equipment program.
+    - **(C)** An assessment of safety issues due to improper installations based on a survey of recipients of adaptive equipment from the Department.
+    - **(D)** An assessment of the adequacy of the adaptive equipment services of the Department based on a survey of recipients of adaptive equipment from the Department.
+    - **(E)** An assessment of the training provided to the personnel of the Department with respect to administering the program.
+    - **(F)** An assessment of the certified providers of the Department of adaptive equipment with respect to meeting the minimum standards developed under subsection (b)(2).
+- **(g)** *Definitions* In this section:
+  - **(1)** The term “automobile adaptive equipment program” means the program administered by the Secretary of Veterans Affairs pursuant to chapter 39 of title 38, United States Code.
+  - **(2)** The term “veterans service organization” means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.
 
-- **(d)** *Deadline for regulations* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this section.
+## § 4. Appointment of licensed hearing aid specialists in Veterans Health Administration
+
+- **(a)** *Licensed hearing aid specialists*
+  - **(1)** *Appointment* Section 7401(3) of title 38, United States Code, is amended by inserting “licensed hearing aid specialists,” after “Audiologists,”.
+  - **(2)** *Qualifications* Section 7402(b)(14) of such title is amended by inserting “, hearing aid specialist” after “dental technologist”.
+- **(b)** *Requirements* With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary shall ensure that—
+  - **(1)** a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist’s State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas;
+  - **(2)** services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and
+  - **(3)** the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist.
+- **(c)** *Consultation* In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate.
+- **(d)** *Annual report*
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, and annually thereafter during the five-year period beginning on the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the following:
+    - **(A)** Timely access of veterans to hearing health services through the Department of Veterans Affairs.
+    - **(B)** Contracting policies of the Department with respect to providing hearing health services to veterans in facilities that are not facilities of the Department.
+  - **(2)** *Timely access to services* Each report shall, with respect to the matter specified in paragraph (1)(A) for the one-year period preceding the submittal of such report, include the following:
+    - **(A)** The staffing levels of audiologists, hearing aid specialists, and health technicians in audiology in the Veterans Health Administration.
+    - **(B)** A description of the metrics used by the Secretary in measuring performance with respect to appointments and care relating to hearing health.
+    - **(C)** The average time that a veteran waits to receive an appointment, beginning on the date on which the veteran makes the request, for the following:
+      - **(i)** A disability rating evaluation for a hearing-related disability.
+      - **(ii)** A hearing aid evaluation.
+      - **(iii)** Dispensing of hearing aids.
+      - **(iv)** Any follow-up hearing health appointment.
+    - **(D)** The percentage of veterans whose total wait time for appointments described in subparagraph (C), including an initial and follow-up appointment, if applicable, is more than 30 days.
+  - **(3)** *Contracting policies* Each report shall, with respect to the matter specified in paragraph (1)(B) for the one-year period preceding the submittal of such report, include the following:
+    - **(A)** The number of veterans that the Secretary refers to non-Department audiologists for hearing health care appointments.
+    - **(B)** The number of veterans that the Secretary refers to non-Department hearing aid specialists for follow-up appointments for a hearing aid evaluation, the dispensing of hearing aids, or any other purpose relating to hearing health.
