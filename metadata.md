@@ -1,7 +1,7 @@
 ---
 measure: S. 2970
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2970
@@ -29,3 +29,7 @@ A bill to amend title 5, United States Code, to expand law enforcement availabil
 
 - 2016-05-23 — Introduced in Senate
 - 2016-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2016-09-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-344.
+- 2016-09-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-344.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
