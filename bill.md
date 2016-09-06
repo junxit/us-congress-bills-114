@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1167
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,3 +38,16 @@ Section 1503(b)(3)(A) of the Omnibus Public Land Management Act of 2009 (Public 
 
 - **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Secretary of the Interior shall submit to the appropriate Committees of Congress a report describing all livestock grazing management activities that were authorized in the areas designated as wilderness by section 1503 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1032) on the day before the date on which those wilderness areas were designated.
 - **(b)** *Use* The Secretary shall use the report submitted under subsection (a) to assist in the management of livestock grazing in the wilderness areas referred to in subsection (a).
+
+## § 3. Limited motorized use for livestock operations
+
+- **(a)** *In general* The holder of a grazing permit within the Pole Creek Wilderness and the Owyhee River Wilderness designated by subtitle F of title I of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1032) (referred to in this section as the “wilderness areas”) shall be allowed continued limited motorized use in the wilderness areas to support livestock operations in accordance with this section if—
+  - **(1)** the use occurred prior to the designation of the wilderness areas; and
+  - **(2)** the Secretary of the Interior (referred to in this section as the “Secretary”), as part of the minimum requirements analysis required under subsection (b)(1) and consistent with section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)) and the guidelines set forth in Appendix A of the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 2570 of the 101st Congress (House Report 101–405), has authorized the permittee to conduct limited motorized use within the wilderness areas as of the date of enactment of this Act.
+- **(b)** *Minimum requirements analysis*
+  - **(1)** *In general* The Secretary shall conduct a minimum requirements analysis for motorized use within the wilderness areas as part of the renewal process for the affected grazing permit.
+  - **(2)** *Inclusion* As part of the analysis conducted under paragraph (1), the Secretary shall analyze the impacts of limited motorized use for livestock operations on vegetation, wildlife, and cultural resources within the wilderness areas.
+  - **(3)** *Effect* Nothing in this section prohibits the Secretary from modifying or terminating motorized use for livestock operations within the wilderness areas authorized under this section if, based on the analysis required under this subsection, the Secretary finds that the motorized use within the wilderness areas is not consistent with—
+    - **(A)** section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)); and
+    - **(B)** the guidelines set forth in Appendix A of the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 2570 of the 101st Congress (House Report 101–405).
+- **(c)** *Interim authorization* Until the date on which the analysis described in subsection (b) is completed, the Secretary shall permit limited motorized use for livestock operations in the wilderness areas at not more than the level authorized as of the date of enactment of this Act, subject to such terms and conditions as the Secretary determines necessary.
