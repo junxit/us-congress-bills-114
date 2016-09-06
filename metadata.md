@@ -1,7 +1,7 @@
 ---
 measure: S. 1690
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1690
@@ -28,3 +28,8 @@ Mountains to Sound Greenway National Heritage Area Act
 
 - 2015-06-25 — Introduced in Senate
 - 2015-06-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-06-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-502.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-317.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-317.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.
