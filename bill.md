@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1943
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,7 +23,7 @@ In this Act:
 
 ## § 3. Areas to be added to shiloh national military park
 
-- **(a)** *Additional areas* The boundary of the Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated April 2012, and which are comprised of the following:
+- **(a)** *Additional areas* The boundary of the Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated April 2012 July 2014, and which are comprised of the following:
   - **(1)** Fallen Timbers Battlefield.
   - **(2)** Russell House Battlefield.
   - **(3)** Davis Bridge Battlefield.
@@ -33,7 +33,7 @@ In this Act:
 ## § 4. Establishment of affiliated area
 
 - **(a)** *In general* Parker’s Crossroads Battlefield in the State of Tennessee is established as an affiliated area of the National Park System.
-- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated April 2012.
+- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated April 2012 July 2014.
 - **(c)** *Administration* The affiliated area shall be managed in accordance with—
   - **(1)** this Act; and
   - **(2)** any law generally applicable to units of the National Park System.
