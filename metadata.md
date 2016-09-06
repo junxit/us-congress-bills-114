@@ -1,7 +1,7 @@
 ---
 measure: S. 2223
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2223
@@ -16,6 +16,11 @@ Black Hills National Cemetery Boundary Expansion Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
+## Cosponsors (2)
+
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +29,8 @@ Black Hills National Cemetery Boundary Expansion Act
 
 - 2015-10-29 — Introduced in Senate
 - 2015-10-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-04-21 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-500.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 114-325.
+- 2016-09-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 114-325.
+- 2016-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 598.
