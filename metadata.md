@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3231
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3231
@@ -50,3 +50,5 @@ Federal Intern Protection Act of 2016
 - 2016-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 35).(text: CR H255)
 - 2016-01-11 — The title of the measure was amended. Agreed to without objection.
 - 2016-01-12 — Received in the Senate.
+- 2016-09-06 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-09-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.
