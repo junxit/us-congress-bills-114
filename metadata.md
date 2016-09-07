@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4245
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4245
@@ -55,3 +55,4 @@ To exempt exportation of certain echinoderms and mollusks from licensing require
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-712, Part I.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-712, Part I.
 - 2016-09-06 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-07 — Received in the Senate, read twice.
