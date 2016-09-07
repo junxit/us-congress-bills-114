@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5578
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5578
@@ -94,3 +94,14 @@ Survivors' Bill of Rights Act of 2016
 - 2016-09-06 — Reported by the Committee on Judiciary. H. Rept. 114-707, Part I.
 - 2016-09-06 — Reported by the Committee on Judiciary. H. Rept. 114-707, Part I.
 - 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2016-09-28 — Message on Senate action sent to the House.
+- 2016-09-28 — Passed Senate without amendment by Voice Vote.
+- 2016-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2016-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6198-6199)
+- 2016-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6198-6199)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-236.
+- 2016-10-07 — Became Public Law No: 114-236.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.

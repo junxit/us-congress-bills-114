@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5578
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
