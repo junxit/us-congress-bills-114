@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4202
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4202
@@ -21,9 +21,10 @@ Fort Ontario Study Act
 - Rep. Hanna, Richard L. [R-NY-22] (H001051)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Fort Ontario Study Act
 - 2016-09-06 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
 - 2016-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5065-5066)
 - 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5065-5066)
+- 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
