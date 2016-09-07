@@ -14,158 +14,141 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This Act may be cited as the “Education for All Act of 2016”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** No country has reached sustained economic growth without achieving near universal primary education. Quality education reduces poverty and inequality, lays the foundation for sound governance, civic participation, strong institutions, and equips people with the knowledge, skills, and self-reliance they need to increase income and expand their opportunities for employment.
-- **(2)** Approximately 59,000,000 primary-school-aged children and 65,000,000 adolescents are out of school. In sub-Saharan Africa alone, the number of primary-age children out of school has remained at approximately 30,000,000 over the past five years. Half of the children in the world do not have access to preschool and more than 200,000,000 children under five years old are not reaching their full development potential due to the absence of early childhood care and development.
-- **(3)** Millions of children are not learning in school. Among the world’s 650,000,000 children of primary school age, an estimated 250,000,000 children are not learning basic skills in reading, writing, and math or are dropping out before the fourth grade. In addition, an estimated 103,000,000 youth cannot read or write.
-- **(4)** Of the 120,000,000 to 150,000,000 children with disabilities under the age of 18 around the world, an estimated 98 percent do not attend school.
-- **(5)** Gender discrimination continues to be a barrier to girls’ education in many parts of the world, and on average, girls in developing countries still receive significantly less schooling than boys. Nearly two-thirds of the world’s 751,000,000 illiterate adults are women. Global attacks on girls at school have increased, including the 2012 attack on education activist Malala Yousafzai by the Taliban in Pakistan and the kidnapping of hundreds of Nigerian girls by the terrorist organization Boko Haram in April 2014.
-- **(6)** Roughly half, or 28,500,000, of the world’s out-of-school children live in countries affected by conflict and crisis. The proportion of children who are denied an education in conflict affected countries has increased from 42 percent in 2008 to 50 percent in 2015.
-- **(7)** In areas of conflict and fragility, education is often under attack. Attacks on education include damage or destruction of schools by arson, grenades, mines, and rockets, threats to teachers and officials, looting, and the killing of children and staff. In 2014, the Taliban ambushed a school in Pakistan, killing 145 children and teachers. In Syria, militants waged at least 68 separate attacks on schools, killing over 160 children in 2014. The use of schools and universities for military purposes by armed groups or armed forces is one of the key factors that reduces enrollment and lowers rates of transition to higher levels of education.
-- **(8)** In 2011, the United States Agency for International Development (USAID) announced the first 5-year strategy to strengthen United States basic education programming, centered around three goals—
-  - **(A)** improved reading skills for 100,000,000 children in primary grades;
-  - **(B)** improved ability of tertiary and workforce development programs to generate workforce skills relevant to a country’s development goals; and
-  - **(C)** increased equitable access to education in crisis and conflict environments for 15,000,000 learners.
-- **(9)** The United States partners with other major donors, nongovernmental organizations, the private sector and multilateral organizations, including the Global Partnership for Education to help leverage success. The Global Partnership for Education is the only multilateral partnership dedicated to getting all children into school and learning, working with developing country partners to develop and implement national education plans.
-
-## § 3. Sense of Congress
+## § 2. Sense of Congress
 
 It is the sense of Congress that—
 
-- **(1)** it is in the national security interest of the United States to promote universal basic education in developing countries;
-- **(2)** an educated citizenry contributes to sustained economic growth, strengthened democratic institutions, the empowerment of women and girls, and decreased extremism; and
-- **(3)** United States resources and leadership should be utilized in a way to best ensure a successful international effort to provide children in developing countries with a quality basic education in order to achieve the goal of quality universal basic education.
+- **(1)** education lays the foundation for increased civic participation, democratic governance, sustained economic growth, and healthier, more stable societies;
+- **(2)** it is in the national interest of the United States to promote access to sustainable, quality universal basic education in developing countries;
+- **(3)** United States resources and leadership should be utilized in a manner that best ensures a successful international effort to provide children in developing countries with a quality basic education in order to achieve the goal of quality universal basic education; and
+- **(4)** promoting gender parity in basic education from childhood through adolescence serves United States diplomatic, economic, and security interests worldwide.
 
-## § 4. Clarification of assistance to achieve quality universal basic education
+## § 3. Assistance To promote sustainable, quality basic education
 
-Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by inserting after section 105 the following new section:
+Section 105 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151c) is amended by adding at the end the following:
 
-> ## § 105A. Clarification of assistance to achieve quality universal basic education
->
-> - **(a)** *Policy* In carrying out section 105, it is the policy of the United States to work with other countries, multilateral organizations, international and local civil society organizations, and other major donors in order to achieve sustainable quality universal basic education in order to—
->   - **(1)** work with other countries, multilateral organizations, international and local civil society organizations, and other major donors in order to achieve sustainable quality universal basic education;
->   - **(2)** assist developing countries in ensuring all children have access to quality basic education, including through strengthening developing countries’ educational systems;
->   - **(3)** improve the quality of basic education, which may include a focus on measurably improving learning outcomes and foundational skills in such areas as literacy and numeracy, critical thinking, and civic education, in order to increase the number of children completing and benefiting from a basic education;
->   - **(4)** seek to expand access to quality schools and teachers, particularly for marginalized children and vulnerable groups;
->   - **(5)** promote education as the foundation for communities’ development, leading to conflict and violence prevention and mitigation, improved health and disease prevention and treatment, greater gender parity, increased economic growth and improved agricultural activities, early childhood development, improved entrepreneurial and leadership opportunities, disaster preparedness, democracy promotion, and holistic assistance programs; and
->   - **(6)** monitor and evaluate the effectiveness and quality of basic education programs.
-> - **(b)** *Principles* In developing the policy referred to in subsection (a), the United States shall be guided by the following principles of coordination, sustainability, and aid effectiveness:
->   - **(1)** *United states resources* United States resources shall be used to effectively engage in a global commitment to achieving quality universal basic education in developing countries, including in countries affected by or emerging from armed conflict or humanitarian crises.
->   - **(2)** *Integrated bilateral and multilateral approach to sustainable development* United States assistance should integrate bilateral and multilateral assistance modalities within the strategy developed pursuant to section 5 of the Education for All Act of 2016, to be directly responsive to recipient country needs, capacity, and commitment, and lead to sustainable development. The United States shall engage on a multilateral basis in a manner that leverages overall impact and best reinforces United States bilateral aid efforts, which are central to United States efforts in basic education. Bilateral and multilateral assistance should be undertaken in close partnership with nongovernmental organizations and other development partners, including women-led groups.
->   - **(3)** *United states assistance to multilateral education initiatives* The United States should support multilateral coordination and financing education initiatives, including the Global Partnership for Education. United States assistance should build upon its comparative advantages and proficiencies in basic education programs, while leveraging the efforts of existing country-level development partnerships. Multilateral mechanisms should be aligned with globally established aid effectiveness principles, in coordination with recipient country priorities, and in a transparent manner that achieves measurable results in access, quality, and learning.
->   - **(4)** *Coordination and mobilization of resources* United States efforts should coordinate with other donors, the local and international private sector, local governments, and civil society, including organizations that represent teachers, students, and parents, interested in supporting quality universal basic education efforts. The United States should seek to mobilize and leverage resources from such parties in support of basic education.
->   - **(5)** *Coordination within the united states government* The United States Government, led by the United States Agency for International Development, shall support improved coordination and collaboration among all relevant executive branch agencies and officials to efficiently and effectively use resources, including efforts to provide a continuity of assistance for basic education in humanitarian and other emergency situations.
->   - **(6)** *Coordination with national education plans and economic development programs* United States assistance for basic education in developing countries shall be provided in collaboration and coordination with, where possible, national education plans that promote the value of education, and increase community and family awareness of the positive impact of education to reducing poverty and spurring sustained economic growth. The United States should seek to encourage developing countries to utilize schools as platforms for the development of communities. Such assistance should support programs and activities that are appropriate for and meet the needs of the local and indigenous cultures and carry out programs and activities through implementation by country-based civil society organizations that support national education plans.
-> - **(c)** *Definitions*
->   - **(1)** *Basic education* The term basic education includes—
->     - **(A)** all program and policy efforts aimed at improving early childhood, preprimary education, primary education, and secondary education, which can be delivered in formal and nonformal education settings, and in programs promoting learning for out-of-school youth and adults;
->     - **(B)** capacity building for teachers, administrators, counselors, and youth workers; and
->     - **(C)** literacy, numeracy, and other basic skills development that prepare an individual to be an active, productive member of society and the workforce.
->   - **(2)** *Relevant executive branch agencies and officials* The term relevant executive branch agencies and officials means—
->     - **(A)** the Department of State, the United States Agency for International Development, the Department of the Treasury, the Department of Labor, the Department of Education, the Department of Health and Human Services, the Department of Agriculture, and the Department of Defense;
->     - **(B)** the Chief Executive Officer of the Millennium Challenge Corporation, the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Security Advisor, the Director of the Peace Corps, and the National Economic Advisor; and
->     - **(C)** any other department, agency, or official of the United States Government that participates in activities to promote quality universal basic education pursuant to the authorities of such department, agency, or official or pursuant to this Act.
->   - **(3)** *National education plan* The term national education plan means a comprehensive national education plan developed by recipient country governments in consultation with other stakeholders as a means for wide-scale improvement of the country’s education system, including explicit, credible strategies informed by effective practices and standards to achieve quality universal basic education.
->   - **(4)** *HIV/AIDS* The term HIV/AIDS has the meaning given that term in section 104A(h).
->   - **(5)** *Marginalized children and vulnerable groups* The term marginalized children and vulnerable groups includes girls, children affected by or emerging from armed conflict or humanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
->   - **(6)** *Nonformal education* The term nonformal education—
->     - **(A)** means organized educational activities outside the established formal system, whether operating separately or as an important feature of a broader activity, that are intended to serve identifiable learning clienteles and learning objectives; and
->     - **(B)** includes youth programs and community training offered by community groups and organizations.
->   - **(7)** *Sustainability* The term sustainability means, with respect to any basic education program that receives funding pursuant to section 105, the ability of a service delivery system, community, partner, or beneficiary to maintain, over time, such basic education program.
+> - **(c)** *Assistance to promote sustainable, quality basic education*
+>   - **(1)** *Policy* In carrying out this section, it shall be the policy of the United States to work with partner countries, other donors, multilateral institutions, the private sector, and nongovernmental and civil society organizations, including faith-based organizations and organizations that represent teachers, students, and parents, to promote sustainable, quality basic education through programs and activities that, consistent with Article 26 of the Universal Declaration of Human Rights—
+>     - **(A)** align with and respond to the needs, capacities, and commitment of developing countries to strengthen educational systems, expand access to safe learning environments, ensure continuity of education, measurably improve teacher skills and learning outcomes, and support the engagement of parents in the education of their children, so that all children, including marginalized children and other vulnerable groups, may have access to and benefit from quality basic education; and
+>     - **(B)** promote education as a foundation for sustained economic growth and development within a holistic assistance strategy that places partner countries on a trajectory toward graduation from assistance provided under this section and contributes to improved—
+>       - **(i)** early childhood development;
+>       - **(ii)** life skills and workforce development;
+>       - **(iii)** economic opportunity;
+>       - **(iv)** gender parity;
+>       - **(v)** food and nutrition security;
+>       - **(vi)** water, sanitation, and hygiene;
+>       - **(vii)** health and disease prevention and treatment;
+>       - **(viii)** disaster preparedness;
+>       - **(ix)** conflict and violence reduction, mitigation, and prevention; and
+>       - **(x)** democracy and governance; and
+>     - **(C)** monitor and evaluate the effectiveness and quality of basic education programs.
+>   - **(2)** *Principles* In carrying out the policy referred to in paragraph (1), the United States shall be guided by the following principles of aid effectiveness:
+>     - **(A)** *Alignment* Assistance provided under this section to support programs and activities under this subsection shall be aligned with and advance United States diplomatic, development, and national security interests.
+>     - **(B)** *Country ownership* To the greatest extent practicable, assistance provided under this section to support programs and activities under this subsection should be aligned with and support the national education plans and country development strategies of partner countries, including activities that are appropriate for and meet the needs of local and indigenous cultures.
+>     - **(C)** *Coordination*
+>       - **(i)** *In general* Assistance provided under this section to support programs and activities under this subsection should be coordinated with and leverage the unique capabilities and resources of local and national governments in partner countries, other donors, multilateral institutions, the private sector, and nongovernmental and civil society organizations, including faith-based organizations and organizations that represent teachers, students, and parents.
+>       - **(ii)** *Multilateral programs and initiatives* Assistance provided under this section to support programs and activities under this subsection should be coordinated with and support proven multilateral education programs and financing mechanisms, which may include the Global Partnership for Education, that demonstrate commitment to efficiency, effectiveness, transparency, and accountability.
+>     - **(D)** *Efficiency* The President shall seek to improve the efficiency and effectiveness of assistance provided under this section to support programs and activities under this subsection by coordinating the related efforts of relevant Executive branch agencies and officials, including efforts to increase gender parity and to provide a continuity of basic education activities in humanitarian responses and other emergency settings.
+>     - **(E)** *Effectiveness* Programs and activities supported under this subsection shall be designed to achieve specific, measurable goals and objectives and shall include appropriate targets, metrics and indicators that can be applied with reasonable consistency across such programs and activities to measure progress and outcomes.
+>     - **(F)** *Transparency and accountability* Programs and activities supported under this subsection shall be subject to rigorous monitoring and evaluation, which may include impact evaluations, the results of which shall be made publically available in a fully searchable, electronic format.
+>   - **(3)** *Priority and other requirements* The President shall ensure that assistance provided under this section to support programs and activities under this subsection is aligned with the diplomatic, economic, and national security interests of the United States and that priority is given to developing countries in which—
+>     - **(A)** there is the greatest need and opportunity to expand access to basic education and to improve learning outcomes, including for marginalized and vulnerable groups, particularly women and girls, or populations affected by conflict or crisis; and
+>     - **(B)** such assistance can produce a substantial, measurable impact on children and educational systems.
+>   - **(4)** *Definitions* In this subsection:
+>     - **(A)** *Basic education* The term basic education includes—
+>       - **(i)** all program and policy efforts aimed at improving early childhood, preprimary education, primary education, and secondary education, which can be delivered in formal and nonformal education settings, and in programs promoting learning for out-of-school youth and adults;
+>       - **(ii)** capacity building for teachers, administrators, counselors, and youth workers;
+>       - **(iii)** literacy, numeracy, and other basic skills development that prepare an individual to be an active, productive member of society and the workforce; and
+>       - **(iv)** workforce development, vocational training, and digital literacy that is informed by real market needs and opportunities.
+>     - **(B)** *Partner country* The term partner country means a developing country that participates in or benefits from basic education programs under this subsection pursuant to the prioritization criteria described in paragraph (3), including level of need, opportunity for impact, and the availability of resources.
+>     - **(C)** *Relevant executive branch agencies and officials* The term relevant Executive branch agencies and officials means—
+>       - **(i)** the Department of State, the United States Agency for International Development, the Department of the Treasury, the Department of Labor, the Department of Education, the Department of Health and Human Services, the Department of Agriculture, and the Department of Defense;
+>       - **(ii)** the Chief Executive Officer of the Millennium Challenge Corporation, the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Security Advisor, the Director of the Peace Corps, and the National Economic Advisor; and
+>       - **(iii)** any other department, agency, or official of the United States Government that participates in activities to promote quality basic education pursuant to the authorities of such department, agency, or official or pursuant to this Act.
+>     - **(D)** *National education plan* The term national education plan means a comprehensive national education plan developed by partner country governments in consultation with other stakeholders as a means for wide-scale improvement of the country’s education system, including explicit, credible strategies informed by effective practices and standards to achieve quality universal basic education.
+>     - **(E)** *HIV/AIDS* The term HIV/AIDS has the meaning given that term in section 104A(h).
+>     - **(F)** *Marginalized children and vulnerable groups* The term marginalized children and vulnerable groups includes girls, children affected by or emerging from armed conflict or humanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
+>     - **(G)** *Gender parity in basic education* The term gender parity in basic education means that girls and boys have equal access to quality basic education.
+>     - **(H)** *Nonformal education* The term nonformal education—
+>       - **(i)** means organized educational activities outside the established formal system, whether operating separately or as an important feature of a broader activity, that are intended to serve identifiable learning clienteles and learning objectives; and
+>       - **(ii)** includes youth programs and community training offered by community groups and organizations.
+>     - **(I)** *Sustainability* The term sustainability means, with respect to any basic education program that receives funding pursuant to this section, the ability of a service delivery system, community, partner, or beneficiary to maintain, over time, such basic education program.
 
-## § 5. Comprehensive integrated United States strategy to promote universal basic education
+## § 4. Comprehensive integrated United States strategy to promote basic education
 
-- **(a)** *Strategy required* Not later than October 1, 2016, October 1, 2021, and October 1, 2026, the President, acting through the Administrator of the United States Agency for International Development and in coordination with other relevant executive branch agencies and officials, shall submit to the appropriate congressional committees a comprehensive integrated United States strategy to promote quality universal basic education by—
+- **(a)** *Strategy required* Not later than October 1, 2016, October 1, 2021, and October 1, 2026, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to promote quality basic education in partner countries by—
   - **(1)** seeking to equitably expand access to basic education for all children, particularly marginalized children and vulnerable groups; and
-  - **(2)** improving the quality of basic education, particularly as reflected in measurable learning outcomes, as appropriate.
+  - **(2)** measurably improving the quality of basic education and learning outcomes.
 - **(b)** *Requirement To consult* In developing the strategy required by subsection (a), the President shall consult with—
   - **(1)** the appropriate congressional committees;
-  - **(2)** relevant executive branch agencies and officials;
-  - **(3)** recipient country governments; and
-  - **(4)** local and international nongovernmental organizations, including organizations representing students, teachers, and parents, and other development partners and individuals who are involved in the promotion and implementation of education assistance programs in developing countries.
+  - **(2)** relevant Executive branch agencies and officials;
+  - **(3)** partner country governments; and
+  - **(4)** local and international nongovernmental organizations, including faith-based organizations and organizations representing students, teachers, and parents, and other development partners engaged in basic education assistance programs in developing countries.
 - **(c)** *Public comment* The President shall provide an opportunity for public comment on the strategy required by subsection (a).
-- **(d)** *Initial strategy* For the purposes of this section, the strategy entitled “USAID education strategy”, as in effect on the day before the date of the enactment of this Act, shall be deemed to fulfill the initial requirements of subsection (a).
-- **(e)** *Priority and other requirements* In providing assistance under section 105 of the Foreign Assistance Act of 1961, the President shall give priority to foreign countries in which there is the greatest need and opportunity to expand universal access and to improve learning outcomes, and in which the assistance can produce a substantial, measurable impact on children and educational systems. Priority should also be considered in countries where there are chronically underserved and marginalized populations, or populations affected by conflict or crisis, which must be reached in order to achieve universal basic education.
-- **(f)** *Elements* The strategy required by subsection (a) shall be formulated and implemented in consideration of the principles set forth in section 105A(b) of the Foreign Assistance Act of 1961 (as added by section 4 of this Act) and shall seek to—
-  - **(1)** support and coordinate with national education plans and work to build capacity within developing countries, including governments and civil society organizations, on public basic education systems;
+- **(d)** *Initial strategy* For the purposes of this section, the strategy entitled “USAID education strategy”, as in effect on the day before the date of the enactment of this Act, shall be deemed to fulfill the initial requirements of subsection (a) for 2016.
+- **(e)** *Elements* The strategy required by subsection (a) shall be developed and implemented consistent with the principles set forth in subsection (c) of section 105 of the Foreign Assistance Act of 1961 (as added by section 3 of this Act) and shall seek to—
+  - **(1)** build the capacity of relevant actors in partner countries, including in government and in civil society, to develop and implement national education plans that are aligned with and advance country development strategies;
   - **(2)** identify and replicate successful interventions that improve access to and quality of education;
-  - **(3)** include specific objectives, and indicators, including indicators to measure learning outcomes, and approaches to increase access and quality of basic education in developing countries, and ensure such objectives have clear actionable targets, goals, and metrics, including annual interim targets in order to measure and show progress toward the overall goal as well as consistent metrics across agencies, toward the goal of all children in school and learning, as well as benchmarks and timeframes;
-  - **(4)** project general levels of resources needed to achieve the stated program objectives;
-  - **(5)** leverage United States capabilities, including through technical assistance, training, and research;
-  - **(6)** improve coordination and reduce duplication among relevant executive branch agencies and officials, foreign donor governments, and international organizations at the global and country levels;
-  - **(7)** target the activities of the United States to leverage contributions from other bilateral donors to provide quality universal basic education;
-  - **(8)** focus on the marginalized and hardest-to-reach children who remain out of school, including those in conflict and crisis situations;
-  - **(9)** outline how the United States Government will ensure a transition and continuity of educational activities in countries affected by or emerging from armed conflict or humanitarian crises; and
-  - **(10)** adopt a “communities of learning” approach that integrates, where appropriate and to the extent practicable, school and educational programs with health and development programs, nutrition and school feeding programs, sanitation and hygiene education, adult literacy, leadership development, prevention of school-related violence, entrepreneurial training, agricultural extension work, civic education, and housing programs.
-- **(g)** *Activities supported* Assistance provided under section 105 of the Foreign Assistance Act of 1961 should be prioritized based on the goals articulated in the strategy required by subsection (a) and may be used to support efforts to expand access to and improve the quality of basic education, including to—
-  - **(1)** ensure an adequate supply of trained, effective teachers and to build systems to provide continuing support, training, and professional development for all educators;
-  - **(2)** support the design and implementation of relevant curricula, standards, and sufficient teaching and learning materials;
-  - **(3)** support country systems, including to—
-    - **(A)** build systems to ensure continuing information collection, monitoring, and evaluation of education services and financing;
-    - **(B)** assist education authorities to improve education management practices and systems, including at the community, school, subnational, and national levels; and
-    - **(C)** promote the development and effective use of partner countries’ assessment systems for monitoring and evaluating student-learning outcomes;
-  - **(4)** mobilize domestic resources to eliminate fees for public educational services, including fees for tuition, uniforms, and materials;
-  - **(5)** ensure that schools are not incubators for violent extremism;
-  - **(6)** provide human rights, gender parity, and conflict-resolution education;
-  - **(7)** work with communities to achieve parity in schools and build support for girls’ education;
-  - **(8)** provide adequate school and system infrastructure, including constructing separate latrines for boys and girls;
-  - **(9)** ensure access to school and relevant learning outcomes for children with disabilities, including adequate teacher training, and infrastructure;
-  - **(10)** provide programs that enable schools to continue providing education for the most poor or marginalized children, particularly adolescent girls, which includes flexible learning opportunities, accelerated and second-chance classes, and opportunities that support leadership development;
-  - **(11)** take steps to make schools safe and secure learning environments without physical, psychological, and sexual violence such as bullying, corporal punishment, sexual harassment, or exploitation, including working to ensure the safe passage to and from schools and on school grounds, adopt and support community-owned protective measures, promoting efforts to establish and enforce strong laws and policies against school-related gender-based violence and providing counseling and support systems for students affected by school-related, gender-based violence; and
-  - **(12)** support other initiatives that have demonstrated success in increasing access, improving learning outcomes, and increasing educational opportunities for the most marginalized children and vulnerable groups.
-- **(h)** *Additional activities supported for countries affected by conflict and crises* In addition to the activities supported under subsection (g), assistance provided under section 105 of the Foreign Assistance Act of 1961 to foreign countries or those parts of the territories of foreign countries that are affected by or emerging from armed conflict, humanitarian crises, or other emergency situations may be used to support efforts—
-  - **(1)** to ensure a continuity of educational activities for all children as an essential humanitarian need and that all relevant executive branch agencies and officials collaborate and coordinate to help provide this continuity;
-  - **(2)** to ensure that education assistance of the United States to countries in emergency settings, including countries affected by or emerging from armed conflict or humanitarian crises, shall be informed by the Minimum Standards of the Inter-Agency Network for Education in Emergencies (“INEE Minimum Standards”);
-  - **(3)** wherever possible, to establish formal or provide support for formal and nonformal education services, or to complement services that are available to ensure that children are able to continue their education and to protect children from physical harm, psychological and social distress, recruitment into armed groups, family separation, and abuses related to their displacement;
-  - **(4)** to provide assistance for temporary and permanent education facility construction and minor rehabilitation and equipping of educational structures;
-  - **(5)** to provide essential educational services and materials that assist in building systems to support, train, and provide professional development for educators;
-  - **(6)** to build national capacity to coordinate and manage education during emergency response and through recovery;
-  - **(7)** to promote efforts to ensure the reintegration of teachers and students affected by conflict, whether refugees or internally displaced, into educational systems, including regional approaches where appropriate to coordinate and recognize the educational efforts of these teachers and students and other school systems; and
-  - **(8)** to promote efforts to ensure the safety of children in school, including—
-    - **(A)** safe learning environments, especially for girls, with such facilities providing access to water, sanitation, health-related education, psychosocial support (as defined in section 135(b)(5) of the Foreign Assistance Act of 1961), and landmine awareness;
-    - **(B)** safe passage to and from school, designate schools as conflict-free zones respected by all parties, protect schools and universities from military use during armed conflict and adopt and support community-owned protective measures to reduce the incidence of attack on education by local actors, armed groups, and armed forces;
-    - **(C)** out-of-school programs and flexible-hour schooling in areas in which security prevents students from attending regular schools;
-    - **(D)** community-based initiatives for safe schools, including community watch programs, religious leader engagement and community education committees;
-    - **(E)** safety plans in case of emergency with clearly defined roles for school personnel; and
-    - **(F)** adequate infrastructure, including emergency communication systems and access to mobile telecommunications with local police and security personnel.
+  - **(3)** project general levels of resources needed to achieve stated program objectives;
+  - **(4)** leverage United States capabilities, including through technical assistance, training and research; and
+  - **(5)** improve coordination and reduce duplication among relevant Executive branch agencies and officials, other donors, multilateral institutions, nongovernmental organizations, and governments in partner countries.
+- **(f)** *Activities supported* Assistance provided under section 105 of the Foreign Assistance Act of 1961 (as amended by section 3 of this Act) should advance the strategy required by subsection (a), including through efforts to—
+  - **(1)** ensure an adequate supply and continued support for trained, effective teachers;
+  - **(2)** design and deliver relevant curricula, uphold quality standards, and supply appropriate teaching and learning materials;
+  - **(3)** build the capacity of basic education systems in partner countries by improving management practices and supporting their ability to collect relevant data and monitor, evaluate, and report on the status and quality of education services, financing, and student-learning outcomes;
+  - **(4)** help mobilize domestic resources to eliminate or offset fees for educational services, including fees for tuition, uniforms, and materials;
+  - **(5)** support education on human rights and conflict-resolution while ensuring that schools are not incubators for violent extremism;
+  - **(6)** work with communities to help girls overcome relevant barriers to their receiving a safe, quality basic education, including by improving girls’ safety in education settings, helping girls to obtain the skills needed to find safe and legal employment upon conclusion of their education, and countering harmful practices such as child, early, and forced marriage and gender-based violence;
+  - **(7)** ensure access to education for the most marginalized children and vulnerable groups, including through the provision of appropriate infrastructure, flexible learning opportunities, accelerated and second-chance classes, and opportunities that support leadership development;
+  - **(8)** make schools safe and secure learning environments without threat of physical, psychological, and sexual violence, including by supporting safe passage to and from schools and constructing separate latrines for boys and girls; and
+  - **(9)** support a communities-of-learning approach that utilizes schools as centers of learning and development for an entire community, to leverage and maximize the impact of other development efforts, and reduce duplication and waste.
+- **(g)** *Additional activities supported for countries affected by conflict and crises* In addition to the activities supported under subsection (f), assistance provided under section 105 of the Foreign Assistance Act of 1961 (as amended by section 3 of this Act) to foreign countries or those parts of the territories of foreign countries that are affected by or emerging from armed conflict, humanitarian crises, or other emergency situations may be used to support efforts to—
+  - **(1)** ensure a continuity of basic education for all children through appropriate formal and nonformal education programs and services;
+  - **(2)** ensure that basic education assistance of the United States to countries in emergency settings shall be informed by the Minimum Standards of the Inter-Agency Network for Education in Emergencies (“INEE Minimum Standards”);
+  - **(3)** coordinate basic education programs with complementary services to protect children from physical harm, psychological and social distress, recruitment into armed groups, family separation, and abuses related to their displacement;
+  - **(4)** support, train, and provide professional development for educators working in emergency settings;
+  - **(5)** help build national capacity to coordinate and manage basic education during emergency response and through recovery;
+  - **(6)** promote the reintegration of teachers and students affected by conflict, whether refugees or internally displaced, into educational systems; and
+  - **(7)** ensure the safety of children in school, including through support for—
+    - **(A)** the provision of safe learning environments with appropriate facilities, especially for girls;
+    - **(B)** safe passage to and from school, including landmine awareness, the designation of schools as conflict-free zones, the adoption and support of community-owned protective measures to reduce the incidence of attacks on educational facilities and personnel by local actors, armed groups, and armed forces;
+    - **(C)** out-of-school and flexible-hour education programs in areas where security conditions are prohibitive;
+    - **(D)** safety plans in case of emergency with clearly defined roles for school personnel; and
+    - **(E)** appropriate infrastructure, including emergency communication systems and access to mobile telecommunications with local police and security personnel.
 
-## § 6. Improving coordination and oversight
+## § 5. Improving coordination and oversight
 
-- **(a)** *Establishment of coordinator position* The Administrator of the United States Agency for International Development shall designate an individual to serve as the Senior Coordinator of United States Government Actions to Provide Basic Education Assistance (hereinafter in this section referred to as the “Senior Coordinator”). The Senior Coordinator shall be an employee of the United States Agency for International Development and serving in a career or noncareer position in the Senior Executive Service, or Senior Foreign Service, or at the level of a Deputy Assistant Administrator or higher.
-- **(b)** *General authorities* The Senior Coordinator shall coordinate the development and implementation of this Act and the amendments made by this Act, in consultation with such nongovernmental organizations (including organizations representing parents, teachers, and students, faith-based and community-based organizations) and relevant executive branch agencies and officials as may be necessary and appropriate to affect the purposes of this section, and is authorized to coordinate the promotion of quality universal basic education.
-- **(c)** *Duties*
-  - **(1)** *In general* The Senior Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to promote quality universal basic education under section 105A of the Foreign Assistance Act of 1961 (as added by section 4 of this Act) or any other provision of law.
-  - **(2)** *Specific duties* The duties of the Senior Coordinator should specifically include the following:
-    - **(A)** Ensuring program and policy coordination among relevant executive branch agencies and officials and nongovernmental organizations.
-    - **(B)** Ensuring, through the strategy outlined in section 5, that relevant executive branch agencies and officials undertake programs primarily in those areas in which the agencies and officials have the greatest expertise, technical capabilities, and potential for success.
-    - **(C)** Ensuring coordination of activities of relevant executive branch agencies and officials in the field in order to eliminate duplication.
-    - **(D)** Pursuing coordination with other countries and multilateral and international organizations.
-    - **(E)** Convening meetings, as appropriate, of relevant executive branch agencies and officials to evaluate progress in carrying out the United States strategy developed pursuant to section 5 and recommend future changes to the strategy based upon such evaluation.
+- **(a)** *Senior coordinator of united states international basic education assistance* There is established within the United States Agency for International Development a Senior Coordinator of United States International Basic Education Assistance (referred to in this Act as the “Senior Coordinator”), who shall be appointed by the President.
+- **(b)** *Duties*
+  - **(1)** *In general* The Senior Coordinator shall have primary responsibility for the oversight and coordination of all resources and activities of the United States Government relating to the promotion of international basic education programs and activities.
+  - **(2)** *Specific duties* The Senior Coordinator shall—
+    - **(A)** facilitate program and policy coordination of international basic education programs and activities among relevant Executive branch agencies and officials, partner governments, multilateral institutions, the private sector, and nongovernmental and civil society organizations;
+    - **(B)** develop and revise the strategy required under section 4;
+    - **(C)** monitor, evaluate, and report on activities undertaken pursuant to the strategy required under section 4; and
+    - **(D)** establish due diligence criteria for all recipients of funds provided by the United States to carry out activities under this Act and the amendments made by this Act.
+- **(c)** *Offset* To offset any costs incurred by the United States Agency for International Development to carry out the establishment and appointment of a Senior Coordinator of United States International Basic Education Assistance in accordance with subsection (a), the President shall eliminate such positions within the United States Agency for International Development, unless otherwise authorized or required by law, as the President determines to be necessary to fully offset such costs.
 
-## § 7. Monitoring and evaluation of programs
+## § 6. Monitoring and evaluation of programs
 
-The President, acting through the Administrator of the United States Agency for International Development, the Senior Coordinator, and relevant executive branch agencies and officials, as appropriate, shall seek to ensure that programs carried out under the strategy required under section 5 shall—
+The President shall seek to ensure that programs carried out under the strategy required under section 4 shall—
 
 - **(1)** apply rigorous monitoring and evaluation methodologies to focus on learning and accountability;
-- **(2)** when feasible and appropriate, include methodological guidance in the implementation plan, disaggregate data by age, disability, and gender, and support systemic data collection using internationally comparable indicators, norms, and methodologies;
-- **(3)** be planned and budgeted to include funding for both short- and long-term monitoring and evaluation to enable assessment of the sustainability and scalability of assistance programs; and
-- **(4)** support the increased use and public availability of education data for improved decisionmaking, program effectiveness, and monitoring of global progress.
+- **(2)** include methodological guidance in the implementation plan and support systemic data collection using internationally comparable indicators, norms, and methodologies, to the extent practicable and appropriate;
+- **(3)** disaggregate all data collected and reported by age, gender, marital status, disability, and location, to the extent practicable and appropriate;
+- **(4)** be planned and budgeted to include funding for both short- and long-term monitoring and evaluation to enable assessment of the sustainability and scalability of assistance programs; and
+- **(5)** support the increased use and public availability of education data for improved decision making, program effectiveness, and monitoring of global progress.
 
-## § 8. Transparency and reporting to Congress
+## § 7. Transparency and reporting to Congress
 
-- **(a)** *Annual report on the implementation of strategy* Not later than March 31 of each year through 2031, the President, acting through the Administrator of the United States Agency for International Development, the Senior Coordinator, and the relevant executive branch agencies and officials, as appropriate, shall submit to the appropriate congressional committees a report on the implementation of the strategy and make the report available to the public.
+- **(a)** *Annual report on the implementation of strategy* Not later than March 31 of each year through 2031, the President shall submit to the appropriate congressional committees a report on the implementation of the strategy developed pursuant to section 4 and make the report available to the public.
 - **(b)** *Matters To be included* The report required under subsection (a) shall include—
-  - **(1)** a description of efforts made by relevant executive branch agencies and officials to implement the strategy developed pursuant to section 5 with a particular focus on the activities carried out;
-  - **(2)** a description of the programs established to implement the strategy developed pursuant to section 5 that provides a detailed explanation of the extent to which the strategy is contributing to the goal of quality universal basic education;
-  - **(3)** a description of the extent to which each foreign country selected to receive assistance for basic education meets the priority criteria specified in subsection (c); and
-  - **(4)** a description of progress on the quantitative and qualitative indicators and interim targets used to evaluate the progress toward meeting the goals and objectives, benchmarks, and timeframes specified in the strategy developed pursuant to section 5 at the program level as developed pursuant to monitoring and evaluation specified in section 6.
+  - **(1)** a description of the efforts made by relevant Executive branch agencies and officials to implement the strategy developed pursuant to section 4 with a particular focus on the activities carried out;
+  - **(2)** a description of the extent to which each partner country selected to receive assistance for basic education meets the priority criteria specified in subsection (c) of section 105 of the Foreign Assistance Act (as added by section 3 of this Act); and
+  - **(3)** a description of the progress achieved over the reporting period toward meeting the goals, objectives, benchmarks, and timeframes specified in the strategy developed pursuant to section 4 at the program level, as developed pursuant to monitoring and evaluation specified in section 6.
 
-## § 9. Definitions
+## § 8. Definitions
 
 - **(a)** *Appropriate congressional committees* In this Act, the term appropriate congressional committees means—
   - **(1)** the Committee on Appropriations and the Committee on Foreign Relations of the Senate; and
   - **(2)** the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
-- **(b)** *Other definitions* In this Act, the terms basic education, relevant executive branch agencies and officials, national education plan, and marginalized children and vulnerable groups have the meanings given such terms in section 105A(d) of the Foreign Assistance Act of 1961 (as added by section 4 of this Act).
+- **(b)** *Other definitions* In this Act, the terms basic education, partner country, relevant Executive branch agencies and officials, national education plan, marginalized children and vulnerable groups, and gender parity in basic education have the meanings given such terms in subsection (c) of section 105 of the Foreign Assistance Act of 1961 (as added by section 3 of this Act).
