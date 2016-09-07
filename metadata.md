@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3881
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3881
@@ -20,9 +20,10 @@ Cooperative Management of Mineral Rights Act of 2016
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Cooperative Management of Mineral Rights Act of 2016
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 550.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-711.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-711.
+- 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
