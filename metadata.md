@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4511
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4511
@@ -26,9 +26,10 @@ Gold Star Families Voices Act
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Gold Star Families Voices Act
 - 2016-09-06 — Mr. Harper moved to suspend the rules and pass the bill.
 - 2016-09-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5043)
 - 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5043)
+- 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
