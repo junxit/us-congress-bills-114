@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5578
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5578
@@ -59,10 +59,11 @@ Survivors' Bill of Rights Act of 2016
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 - Rep. Loebsack, David [D-IA-2] (L000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -92,3 +93,4 @@ Survivors' Bill of Rights Act of 2016
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 546.
 - 2016-09-06 — Reported by the Committee on Judiciary. H. Rept. 114-707, Part I.
 - 2016-09-06 — Reported by the Committee on Judiciary. H. Rept. 114-707, Part I.
+- 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
