@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4510
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4510
@@ -45,3 +45,4 @@ Bolts Ditch Access and Use Act
 - 2016-09-06 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
 - 2016-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5064)
 - 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5064)
+- 2016-09-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.
