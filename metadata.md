@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4511
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4511
@@ -31,6 +31,10 @@ Gold Star Families Voices Act
 - House — Committee on House Administration
 - Senate — Rules and Administration Committee
 
+## Recorded votes (1)
+
+- 2016-11-15 — [Senate 114-2-152](votes/senate-114-2-0152.md) — On Passage of the Bill — **Bill Passed** (97–0)
+
 ## Actions
 
 - 2016-02-09 — Introduced in House
@@ -48,3 +52,15 @@ Gold Star Families Voices Act
 - 2016-09-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5043)
 - 2016-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5043)
 - 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2016-11-15 — Measure laid before Senate by unanimous consent. (consideration: CR S6324-6326)
+- 2016-11-15 — Passed Senate without amendment by Yea-Nay Vote. 97 - 0. Record Vote Number: 152.
+- 2016-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 97 - 0. Record Vote Number: 152.
+- 2016-11-15 — Senate Committee on Rules and Administration discharged pursuant to the order of 09/28/2016.
+- 2016-11-15 — Senate Committee on Rules and Administration discharged pursuant to the order of 09/28/2016.
+- 2016-11-16 — Message on Senate action sent to the House.
+- 2016-11-17 — Presented to President.
+- 2016-11-17 — Presented to President.
+- 2016-11-28 — Became Public Law No: 114-246.
+- 2016-11-28 — Became Public Law No: 114-246.
+- 2016-11-28 — Signed by President.
+- 2016-11-28 — Signed by President.
