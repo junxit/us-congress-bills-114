@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5063
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5063
@@ -55,6 +55,15 @@ Stop Settlement Slush Funds Act of 2016
 
 - House — Judiciary Committee
 
+## Recorded votes (6)
+
+- 2016-09-07 — [House 114-2-483](votes/house-114-2-0483.md) — On Agreeing to the Amendment — **Failed** (178–234)
+- 2016-09-07 — [House 114-2-484](votes/house-114-2-0484.md) — On Agreeing to the Amendment — **Failed** (175–236)
+- 2016-09-07 — [House 114-2-485](votes/house-114-2-0485.md) — On Agreeing to the Amendment — **Failed** (178–235)
+- 2016-09-07 — [House 114-2-486](votes/house-114-2-0486.md) — On Agreeing to the Amendment — **Failed** (155–262)
+- 2016-09-07 — [House 114-2-487](votes/house-114-2-0487.md) — On Motion to Recommit with Instructions — **Failed** (181–234)
+- 2016-09-07 — [House 114-2-488](votes/house-114-2-0488.md) — On Passage — **Passed** (241–174)
+
 ## Actions
 
 - 2016-04-26 — Introduced in House
@@ -66,3 +75,77 @@ Stop Settlement Slush Funds Act of 2016
 - 2016-07-18 — Placed on the Union Calendar, Calendar No. 538.
 - 2016-07-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-694.
 - 2016-07-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-694.
+- 2016-09-06 — Rules Committee Resolution H. Res. 843 Reported to House. Rule provides for consideration of H.R. 5063 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2016-09-07 — Amendment (A001) offered by Mr. Conyers. (consideration: CR H5125, H5131-5132; text: CR H5125)
+- 2016-09-07 — Amendment (A002) offered by Mr. Cicilline. (consideration: CR H5125-5126, H5132-5133; text: CR H5125)
+- 2016-09-07 — Amendment (A003) offered by Ms. Jackson Lee. (consideration: CR H5126-5127; text: CR H5126)
+- 2016-09-07 — Amendment (A004) offered by Ms. Jackson Lee. (consideration: CR H5128-5129, H5133;text: CR H5128)
+- 2016-09-07 — Amendment (A005) offered by Mr. Gosar. (consideration: CR H5129-5130, H5133-5134; text: CR H5129)
+- 2016-09-07 — Amendment (A006) offered by Mr. Price, Tom. (consideration: CR H5130-5131; text: CR H5130)
+- 2016-09-07 — Amendment (A007) offered by Mr. Price, Tom. (consideration: CR H5131; text: CR H5131)
+- 2016-09-07 — Amendment agreed to Committee of the Whole
+- 2016-09-07 — Amendment agreed to Committee of the Whole
+- 2016-09-07 — Amendment failed in Committee of the Whole
+- 2016-09-07 — Amendment failed in Committee of the Whole
+- 2016-09-07 — Amendment failed in Committee of the Whole
+- 2016-09-07 — Amendment failed in Committee of the Whole
+- 2016-09-07 — Amendment failed in Committee of the Whole
+- 2016-09-07 — Considered under the provisions of rule H. Res. 843. (consideration: CR H5119-5136)
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H. Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H. Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Tom Price (GA) amendment.
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H.Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment.
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H.Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H.Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2016-09-07 — DEBATE - Pursuant to the provisions of H.Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Tom Price (GA) amendment.
+- 2016-09-07 — DEBATE - Purusant to the provisions of H.Res. 843, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment.
+- 2016-09-07 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Meng motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add an exemption to the underlying bill for settlement agreements that reduce the cost of life-saving medical devices, such as EpiPens, through the enforcement of antitrust laws.
+- 2016-09-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5063.
+- 2016-09-07 — House amendment agreed to: On agreeing to the Price, Tom amendment (A006) Agreed to by voice vote.
+- 2016-09-07 — House amendment agreed to: On agreeing to the Price, Tom amendment (A007) Agreed to by voice vote.
+- 2016-09-07 — House amendment not agreed to: On agreeing to the Cicilline amendment (A002) Failed by recorded vote: 175 - 236 (Roll no. 484).
+- 2016-09-07 — House amendment not agreed to: On agreeing to the Conyers amendment (A001) Failed by recorded vote: 178 - 234 (Roll no. 483).
+- 2016-09-07 — House amendment not agreed to: On agreeing to the Gosar amendment (A005) Failed by recorded vote: 155 - 262 (Roll no. 486).
+- 2016-09-07 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A003) Failed by voice vote.
+- 2016-09-07 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 178 - 235 (Roll no. 485).
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered
+- 2016-09-07 — House amendment offered/reported by : Amendment (A001) offered by Mr. Conyers.(consideration: CR H5125, H5131-5132; text: CR H5125)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A002) offered by Mr. Cicilline.(consideration: CR H5125-5126, H5132-5133; text: CR H5125)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A003) offered by Ms. Jackson Lee.(consideration: CR H5126-5127; text: CR H5126)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A004) offered by Ms. Jackson Lee.(consideration: CR H5128-5129, H5133;text: CR H5128)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A005) offered by Mr. Gosar.(consideration: CR H5129-5130, H5133-5134; text: CR H5129)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A006) offered by Mr. Price, Tom.(consideration: CR H5130-5131; text: CR H5130)
+- 2016-09-07 — House amendment offered/reported by : Amendment (A007) offered by Mr. Price, Tom.(consideration: CR H5131; text: CR H5131)
+- 2016-09-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 843 and Rule XVIII.
+- 2016-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-07 — Ms. Meng moved to recommit with instructions to the Committee on the Judiciary. (consideration: CR H5134-5135; text: CR H5134)
+- 2016-09-07 — On agreeing to the Cicilline amendment (A002) Failed by recorded vote: 175 - 236 (Roll no. 484).
+- 2016-09-07 — On agreeing to the Conyers amendment (A001) Failed by recorded vote: 178 - 234 (Roll no. 483).
+- 2016-09-07 — On agreeing to the Gosar amendment (A005) Failed by recorded vote: 155 - 262 (Roll no. 486).
+- 2016-09-07 — On agreeing to the Jackson Lee amendment (A003) Failed by voice vote.
+- 2016-09-07 — On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 178 - 235 (Roll no. 485).
+- 2016-09-07 — On agreeing to the Price, Tom amendment (A006) Agreed to by voice vote.
+- 2016-09-07 — On agreeing to the Price, Tom amendment (A007) Agreed to by voice vote.
+- 2016-09-07 — On motion to recommit with instructions Failed by recorded vote: 181 - 234 (Roll no. 487).
+- 2016-09-07 — On passage Passed by recorded vote: 241 - 174 (Roll no. 488).
+- 2016-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-07 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 174 (Roll no. 488).
+- 2016-09-07 — Roll call votes on amendments in House
+- 2016-09-07 — Roll call votes on amendments in House
+- 2016-09-07 — Roll call votes on amendments in House
+- 2016-09-07 — Roll call votes on amendments in House
+- 2016-09-07 — Rule H. Res. 843 passed House.
+- 2016-09-07 — Rule provides for consideration of H.R. 5063 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2016-09-07 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5124-5125)
+- 2016-09-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5063.
+- 2016-09-07 — The Speaker designated the Honorable Chris Stewart to act as Chairman of the Committee.
+- 2016-09-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5135)
+- 2016-09-07 — The previous question was ordered pursuant to the rule. (consideration: CR H5134)
