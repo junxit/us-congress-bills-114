@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2845
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,7 +32,7 @@ It is the policy of the United States to support efforts to—
     - **(B)** include on a publicly available Internet website of such diplomatic missions a link to the AGOA website.
 - **(b)** *AGOA Forum* The President should, after each meeting of the United States-Sub-Saharan Africa Trade and Economic Cooperation Forum, publish on the AGOA website established under subsection (a) the following:
   - **(1)** All outcomes of the meeting of the Forum, including any commitments made by member countries and the private sector.
-  - **(2)** An assessment of progress made with respect to any commitments made by member countries the private sector from the previous meeting of the Forum.
+  - **(2)** An assessment of progress made with respect to any commitments made by member countries and the private sector from the previous meeting of the Forum.
 - **(c)** *Other information* The President should disseminate information required by this section in a digital format to the public and publish such information on the AGOA website established under subsection (a).
 - **(d)** *Definition* In this section, the term eligible sub-Saharan African country means a country that the President has determined meets the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act.
 

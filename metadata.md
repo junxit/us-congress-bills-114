@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2845
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2845
@@ -31,3 +31,11 @@ AGOA Enhancement Act of 2015
 - 2015-06-19 — Introduced in House
 - 2015-06-19 — Introduced in House
 - 2015-06-19 — Referred to the House Committee on Foreign Affairs.
+- 2015-11-05 — Committee Consideration and Mark-up Session Held.
+- 2015-11-05 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-07 — Considered under suspension of the rules. (consideration: CR H5149-5153)
+- 2016-09-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2845.
+- 2016-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-07 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
+- 2016-09-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5149)
+- 2016-09-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5149)
