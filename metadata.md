@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5577
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5577
@@ -24,9 +24,10 @@ Innovation in Offshore Leasing Act
 - Rep. Fleming, John [R-LA-4] (F000456)
 - Rep. Green, Gene [D-TX-29] (G000410)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Innovation in Offshore Leasing Act
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 552.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-713.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-713.
+- 2016-09-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
