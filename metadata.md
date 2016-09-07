@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3839
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3839
@@ -46,3 +46,4 @@ Black Hills National Cemetery Boundary Expansion Act
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 553.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-714, Part I.
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-714, Part I.
+- 2016-09-07 — Received in the Senate.
