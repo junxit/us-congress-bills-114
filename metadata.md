@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2845
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2845
@@ -22,9 +22,10 @@ AGOA Enhancement Act of 2015
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ AGOA Enhancement Act of 2015
 - 2016-09-07 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-09-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5149)
 - 2016-09-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5149)
+- 2016-09-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
