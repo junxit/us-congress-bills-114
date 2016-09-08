@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 131
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 131
@@ -38,3 +38,6 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2016-09-07 — On agreeing to the resolution Agreed to without objection. (text: CR H5119)
 - 2016-09-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5119)
 - 2016-09-08 — Received in the Senate.
+- 2016-09-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(considered: CR S5677)
+- 2016-09-13 — Resolution agreed to in Senate without amendment by Unanimous Consent. (considered: CR S5677)
+- 2016-09-14 — Message on Senate action sent to the House.
