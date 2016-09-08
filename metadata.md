@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5537
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5537
@@ -26,9 +26,10 @@ Digital Global Access Policy Act of 2016
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Digital Global Access Policy Act of 2016
 - 2016-09-07 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-09-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5146-5147)
 - 2016-09-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5146-5147)
+- 2016-09-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
