@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4481
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4481
@@ -61,9 +61,10 @@ Education for All Act of 2016
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Education for All Act of 2016
 - 2016-09-07 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-09-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5142-5144)
 - 2016-09-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5142-5144)
+- 2016-09-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
