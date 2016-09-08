@@ -2,7 +2,7 @@
 legis-num: H. RES. 660
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 660
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas since 1993, the sovereignty and territorial integrity of Georgia have been reaffirmed by the international community in all United Nations Security Council resolutions on Georgia;
 - Whereas the Government of Georgia has pursued a peaceful resolution of the conflict with Russia over Georgia’s territories of Abkhazia and the Tskhinvali region/South Ossetia;
-- Whereas principle IV of the Helsinki Final Act of 1975 states that, “The participating States will respect the territorial integrity of each of the participating States. Accordingly, they will refrain from any action inconsistent with the purposes and principles of the Charter of the United Nations against the territorial integrity, political independence or the unity of any participating State, and in particular from any such action constituting a threat or use of force … and participating States will likewise refrain from making each other’s territory the object of military occupation.”;
+- Whereas principle IV of the Helsinki Final Act of 1975 states that, “The participating States will respect the territorial integrity of each of the participating States. Accordingly, they will refrain from any action inconsistent with the purposes and principles of the Charter of the United Nations against the territorial integrity, political independence or the unity of any participating State, and in particular from any such action constituting a threat or use of force * * * and participating States will likewise refrain from making each other’s territory the object of military occupation.”;
 - Whereas the Charter of the United Nations states that, “All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state.”;
 - Whereas the recognition by the Government of the Russian Federation of Abkhazia and Tskhinvali region/South Ossetia on August 26, 2008, was in violation of the sovereignty and territorial integrity of Georgia and contradicting principles of Helsinki Final Act of 1975, the Charter of the United Nations as well as the August 12, 2008, Ceasefire Agreement;
 - Whereas the United States-Georgia Charter on Strategic Partnership, signed on January 9, 2009, underscores that “support for each other’s sovereignty, independence, territorial integrity and inviolability of borders constitutes the foundation of our bilateral relations.”;
