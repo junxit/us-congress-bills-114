@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5063
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5063
@@ -51,9 +51,10 @@ Stop Settlement Slush Funds Act of 2016
 - Rep. Brat, Dave [R-VA-7] (B001290)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (6)
 
@@ -149,3 +150,4 @@ Stop Settlement Slush Funds Act of 2016
 - 2016-09-07 — The Speaker designated the Honorable Chris Stewart to act as Chairman of the Committee.
 - 2016-09-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5135)
 - 2016-09-07 — The previous question was ordered pursuant to the rule. (consideration: CR H5134)
+- 2016-09-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
