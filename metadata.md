@@ -1,7 +1,7 @@
 ---
 measure: S. 815
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 815
@@ -28,3 +28,8 @@ Western Oregon Tribal Fairness Act
 
 - 2015-03-19 — Introduced in Senate
 - 2015-03-19 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1664; text of measure as introduced: CR S1665)
+- 2015-05-21 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-380.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-345.
+- 2016-09-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-345.
+- 2016-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
