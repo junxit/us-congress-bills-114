@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 131
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 131
@@ -37,3 +37,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2016-09-07 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
 - 2016-09-07 — On agreeing to the resolution Agreed to without objection. (text: CR H5119)
 - 2016-09-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5119)
+- 2016-09-08 — Received in the Senate.
