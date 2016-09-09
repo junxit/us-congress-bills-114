@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 670
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,11 +9,44 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title XIX of the Social Security Act to extend the Medicaid rules regarding supplemental needs trusts for Medicaid beneficiaries to trusts established by those beneficiaries, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Special Needs Trust Fairness Act of 2015”.
+- **(a)** *Short title* This Act may be cited as the “Special Needs Trust Fairness and Medicaid Improvement Act”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
 
 ## § 2. Fairness in Medicaid supplemental needs trusts
 
 - **(a)** *In general* Section 1917(d)(4)(A) of the Social Security Act (42 U.S.C. 1396p(d)(4)(A)) is amended by inserting “the individual,” after “for the benefit of such individual by”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply to trusts established on or after the date of the enactment of this Act.
+
+## § 3. Medicaid coverage of tobacco cessation services for mothers of newborns
+
+- **(a)** *In general* Section 1905(bb) of the Social Security Act (42 U.S.C. 1396d(bb)) is amended by adding at the end the following new paragraph:
+  > - **(4)** A woman shall continue to be treated as described in this subsection as a pregnant woman through the end of the 1-year period beginning on the date of the birth of a child of the woman.
+
+- **(b)** *Conforming amendments*
+  - **(1)** Subsections (a)(2)(B) and (b)(2)(B) of section 1916 of the Social Security Act (42 U.S.C. 1396o) are each amended by inserting “(and women described in section 1905(bb) as pregnant women pursuant to paragraph (4) of such section)” after “tobacco cessation by pregnant women”.
+  - **(2)** Section 1927(d)(2)(F) of the Social Security Act (42 U.S.C. 1396r–8(d)(2)(F)) is amended by inserting “(and women described in section 1905(bb) as pregnant women pursuant to paragraph (4) of such section)” after “pregnant women”.
+- **(c)** *Effective date*
+  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall apply with respect to items and services furnished on or after the date that is two years after the date of the enactment of this Act.
+  - **(2)** *Exception for state legislation* In the case of a State plan under title XIX of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet any requirement imposed by amendments made by this section, the plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date specified in paragraph (1). For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
+- **(d)** *Report* Not later than two years after the date of the enactment of this Act, the Inspector General of the Department of Health and Human Services shall submit to Congress a report that assesses the use of the tobacco cessation service benefit under the Medicaid program. Such report shall include an assessment of—
+  - **(1)** the extent that States are encouraging the use of such benefit, such as through promotion of beneficiary and provider awareness of such benefit; and
+  - **(2)** gaps in the delivery of such benefit.
+
+## § 4. Eliminating Federal financial participation with respect to expenditures under Medicaid for agents used for cosmetic purposes or hair growth
+
+- **(a)** *In general* Section 1903(i)(21) of the Social Security Act (42 U.S.C. 1396b(i)(21)) is amended by inserting “section 1927(d)(2)(C) (relating to drugs when used for cosmetic purposes or hair growth), except where medically necessary, and” after “drugs described in”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to calendar quarters beginning on or after the date of the enactment of this Act.
+
+## § 5. Medicaid Improvement Fund
+
+Section 1941(b) of the Social Security Act (42 U.S.C. 1396w–1(b)) is amended—
+
+- **(1)** in paragraph (2)—
+  - **(A)** by striking “under paragraph (1)” and inserting “under this subsection”; and
+  - **(B)** by redesignating such paragraph as paragraph (3); and
+- **(2)** by inserting after paragraph (1) the following new paragraph:
+  > - **(2)** *Additional funding* In addition to any funds otherwise made available to the Fund, there shall be available to the Fund, for expenditures from the Fund—
+  >   - **(A)** for fiscal year 2021, $10,000,000, to remain available until expended; and
+  >   - **(B)** for fiscal year 2022, $14,000,000, to remain available until expended.
