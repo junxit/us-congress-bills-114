@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5986
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5986
+
+> To amend the Small Business Act to ensure small businesses affected by the onset of transmissible diseases are eligible for disaster relief.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Relief from Disease Induced Economic Hardship Act of 2016”.
+
+## § 2. Definitions
+
+- **(a)** *In general* Section 3(k)(1) of the Small Business Act (15 U.S.C. 632(k)(1)) is amended by inserting “, onset of transmissible diseases for which the Federal Government issues a public health advisory or declaration,” after “civil disorders”.
+- **(b)** *Applicability* The amendment made by subsection (a) shall apply to the onset of a transmissible disease for which the Federal Government issues a public health advisory or declaration—
+  - **(1)** that commences before, on, or after the date of enactment of this Act; and
+  - **(2)** the effects of which are experienced on or after the date of enactment of this Act.
