@@ -33,7 +33,7 @@ This Act may be cited as the “Consumer Review Fairness Act of 2016”.
     - **(A)** any duty of confidentiality imposed by law (including agency guidance);
     - **(B)** any civil cause of action for defamation, libel, or slander, or any similar cause of action;
     - **(C)** any party’s right to remove or refuse to display publicly on an Internet website or webpage owned, operated, or otherwise controlled by such party any content of a covered communication that—
-      - **(i)** contains the personal information or likeness of another person or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, or inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic;
+      - **(i)** contains the personal information or likeness of another person, or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, or is inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic;
       - **(ii)** is unrelated to the goods or services offered by or available at such party’s Internet website or webpage; or
       - **(iii)** is clearly false or misleading; or
     - **(D)** a party’s right to establish terms and conditions with respect to the creation of photographs or video of such party’s property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
@@ -50,7 +50,7 @@ This Act may be cited as the “Consumer Review Fairness Act of 2016”.
     - **(A)** *In general* The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
     - **(B)** *Privileges and immunities* Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 - **(e)** *Enforcement by states*
-  - **(1)** *Authorization* Subject to subparagraph (B), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (c) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+  - **(1)** *Authorization* Subject to paragraph (2), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (c) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
   - **(2)** *Rights of federal trade commission*
     - **(A)** *Notice to federal trade commission*
       - **(i)** *In general* Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action against a person described in subsection (d)(1).
@@ -75,6 +75,7 @@ This Act may be cited as the “Consumer Review Fairness Act of 2016”.
     - **(B)** *Savings provision* Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
 - **(f)** *Education and outreach for businesses* Not later than 60 days after the date of the enactment of this Act, the Commission shall commence conducting education and outreach that provides businesses with non-binding best practices for compliance with this Act.
 - **(g)** *Relation to state causes of action* Nothing in this section shall be construed to affect any cause of action brought by a person that exists or may exist under State law.
-- **(h)** *Effective dates* This section shall take effect on the date of the enactment of this Act, except that—
+- **(h)** *Savings provision* Nothing in this section shall be construed to limit, impair, or supersede the operation of the Federal Trade Commission Act or any other provision of Federal law.
+- **(i)** *Effective dates* This section shall take effect on the date of the enactment of this Act, except that—
   - **(1)** subsections (b) and (c) shall apply with respect to contracts in effect on or after the date that is 90 days after the date of the enactment of this Act; and
   - **(2)** subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after the date of the enactment of this Act.
