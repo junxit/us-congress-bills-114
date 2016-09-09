@@ -29,12 +29,12 @@ Section 5317(c)(2) of title 31, United States Code, is amended—
   >   - **(iii)** *Extension of notice under certain circumstances* The Internal Revenue Service may apply to a court of competent jurisdiction for one 30-day extension of the notice requirement under clause (ii) if the Internal Revenue Service can establish probable cause of an imminent threat to national security or personal safety necessitating such extension.
   >   - **(iv)** *Post-seizure hearing* If a person with a property interest in property seized pursuant to subparagraph (A) by the Internal Revenue Service requests a hearing by a court of competent jurisdiction within 30 days after the date on which notice is provided under subclause (ii), such property shall be returned unless the court holds an adversarial hearing and finds within 30 days of such request (or such longer period as the court may provide, but only on request of an interested party) that there is probable cause to believe that there is a violation of section 5324 involving such property and probable cause to believe that the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
 
-## § 3. Exclusion of interest paid in action to recover property seized by the I.R.S. based on structuring transaction
+## § 3. Exclusion of interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction
 
 - **(a)** *In general* Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting before section 140 the following new section:
-  > ## § 139F. Interest paid in action to recover property seized by the I.R.S. based on structuring transaction
+  > ## § 139G. Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction
   >
-  > Gross income shall not include any interest received under section 5317(c)(2) of title 31, United States Code, with respect to an action to recover property seized by the Internal Revenue Service pursuant to section 5317(c)(2)(A) of such title by reason of a claimed violation of section 5324 of such title.
+  > Gross income shall not include any interest received from the Federal Government in connection with an action to recover property seized by the Internal Revenue Service pursuant to section 5317(c)(2) of title 31, United States Code, by reason of a claimed violation of section 5324 of such title.
 
 - **(b)** *Clerical amendment* The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting before the item relating to section 140 the following new item:
 - **(c)** *Effective date* The amendments made by this section shall apply to interest received on or after the date of the enactment of this Act.
