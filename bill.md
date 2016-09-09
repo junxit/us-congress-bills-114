@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3299
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,45 +9,46 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Public Health Service Act to ensure preparedness for chemical, radiological, biological, and nuclear threats, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Strengthening Public Health Emergency Response Act of 2015”.
+- **(a)** *Short title* This Act may be cited as the “Strengthening Public Health Emergency Response Act of 2016”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
 
-## § 2. Hospital preparedness program
-
-Subsection (j) of section 319C–2 of the Public Health Service Act (42 U.S.C. 247d–3b) is amended by adding at the end the following:
-
-> - **(5)** *Minimum funding level for awards* Of the amounts appropriated to carry out this section for a fiscal year, not less than 97 percent shall be awarded to eligible entities as described in subsection (a).
-
-## § 3. GAO report on State, local, and hospital preparedness programs
+## § 2. GAO report on State, local, and hospital preparedness programs
 
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit a report to the Congress on the programs for awarding cooperative agreements and grants under section 319C–1 of the Public Health Service Act (42 U.S.C. 247d–3a; improving State and local public health security) and section 319C–2 of such Act (42 U.S.C. 247d–3b; partnerships for State and regional hospital preparedness to improve surge capacity).
 - **(b)** *Contents* The report under subsection (a) shall address each of the following:
   - **(1)** The goals of the programs specified in subsection (a).
-  - **(2)** The extent to which such goals are being met, including performance metrics that could help assess whether such programs are succeeding.
-  - **(3)** How such programs could be improved.
+  - **(2)** The extent to which such goals are being met, including performance metrics that could help to assess whether such programs are succeeding at the coalition and member level.
+  - **(3)** How such programs could be improved, including how such programs could be modified to improve the medical preparedness of hospitals, health care coalitions, and the continuity of health care delivery.
   - **(4)** How such programs complement other preparedness programs of the Department of Health and Human Services.
   - **(5)** How funds awarded through such programs should be allocated and whether that allocation should be based on risk.
   - **(6)** Progress made toward State and local preparedness entities being self-sustaining.
   - **(7)** Whether the level of funding for such programs is sufficient.
+  - **(8)** How funding for such programs is being used to ensure preparedness for at-risk populations including children, pregnant women, senior citizens, and other individuals who may have unique needs in the event of a public health emergency, such as individuals with disabilities.
+  - **(9)**
+    - **(A)** How, and to what extent, entities are using the funds awarded to such entities through section 319C–2 of the Public Health Service Act (42 U.S.C. 247d–3b) to directly fund regional health care coalitions and members of such coalitions.
+    - **(B)** The amount each such entity retains for its own indirect and direct costs.
+    - **(C)** The purposes for which such retained funds are used and whether these uses provide value for the program under such section 319C–2, regional health care coalitions, and members of such coalitions.
+  - **(10)** The extent to which the funds awarded through the programs under sections 319C–1 and 319C–2 of the Public Health Service Act (42 U.S.C. 247d–3a, 247d–3b) have been used for overlapping purposes.
 
-## § 4. Strategic national stockpile
+## § 3. Strategic national stockpile
 
 Section 319F–2(a)(2) of the Public Health Service Act (42 U.S.C. 247d–6b(a)(2)) is amended—
 
 - **(1)** in subparagraph (G), by striking “and” at the end;
 - **(2)** in subparagraph (H), by striking the period at the end and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(I)** ensure procedures are in place to coordinate the ongoing stockpiling by the Biomedical Advanced Research and Development Authority and Centers for Disease Control and Prevention of qualified countermeasures (as defined in section 319F–1), security countermeasures (as defined in this section), and qualified pandemic or epidemic products (as defined in section 319F–3) for which funds have been made available under section 319L in order to avoid any gaps in preparedness.
+  > - **(I)** ensure procedures are in place to coordinate the ongoing stockpiling by the Biomedical Advanced Research and Development Authority and Centers for Disease Control and Prevention of qualified countermeasures (as defined in section 319F–1) for which funds have been made available under this part, security countermeasures (as defined in this section), and qualified pandemic or epidemic products (as defined in section 319F–3) for which funds have been made available under section 319L in order to avoid any gaps in preparedness.
 
-## § 5. Project Bioshield procurement process
+## § 4. Project Bioshield procurement process
 
 Section 319F–2(c) of the Public Health Service Act (42 U.S.C. 247d–6b(c)) is amended—
 
 - **(1)** in paragraph (4)(A)(ii), by striking “make a recommendation under paragraph (6) that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure” and inserting “make available the special reserve fund as defined in subsection (h) for procurement of such countermeasure”;
 - **(2)** in paragraph (6)—
   - **(A)** by striking subparagraphs (A), (B), (C), and (E); and
-  - **(B)** by striking “(6) Recommendations for president’s approval” and all that follows through “(D) Subsequent specific countermeasures.—” and inserting “(6) Subsequent specific countermeasures.—Procurement under”; and
+  - **(B)** by striking “(6) Recommendations for president’s approval” and all that follows through “(D) Subsequent specific countermeasures.—” and inserting “(6) Subsequent specific countermeasures.—”; and
 - **(3)** in paragraph (7)—
   - **(A)** by striking subparagraph (A);
   - **(B)** by redesignating subparagraph (B) as subparagraph (A) and amending such subparagraph (A), as redesignated, to read as follows:
@@ -55,13 +56,13 @@ Section 319F–2(c) of the Public Health Service Act (42 U.S.C. 247d–6b(c)) is
 
   - **(C)** by redesignating subparagraph (C) as subparagraph (B).
 
-## § 6. BARDA transaction authorities
+## § 5. BARDA transaction authorities
 
 Section 319L(c)(5) of the Public Health Service Act (42 U.S.C. 247d–7e(c)(5)) is amended by adding at the end the following:
 
-> - **(H)** *Contracting authority* The Secretary shall delegate authority for negotiating and entering into any contracts, grants, or cooperative agreements under this section to the Director.
+> - **(H)** *Contracting authority clarification* The Secretary shall delegate authority for negotiating and entering into any contracts, grants, or cooperative agreements under this section to the Director.
 
-## § 7. Public health emergency medical countermeasures enterprise strategy and implementation plan
+## § 6. Public health emergency medical countermeasures enterprise strategy and implementation plan
 
 Section 2811(d)(2) of the Public Health Service Act (42 U.S.C. 300hh–10(d)(2)) is amended—
 
@@ -69,12 +70,89 @@ Section 2811(d)(2) of the Public Health Service Act (42 U.S.C. 300hh–10(d)(2))
 - **(2)** by striking “and” at the end of subparagraph (J);
 - **(3)** by redesignating subparagraph (K) as subparagraph (L); and
 - **(4)** by inserting after subparagraph (J) the following:
-  > - **(K)** report on the amount of time between the issuance of each request for proposal or task order from the Biomedical Advanced Research and Development Authority and the award of a contract pursuant to such request for proposal or task order; and
+  > - **(K)** report on the amount of time between the issuance of each request for a proposal or task order from the Biomedical Advanced Research and Development Authority and the award of a contract pursuant to such request for a proposal or task order; and
 
-## § 8. Priority review to encourage treatments for national security threats
+## § 7. Priority review to encourage treatments for agents that present national security threats
 
-Section 524(a)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n(a)(3)) is amended—
+- **(a)** *In general* Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended by inserting after section 565 the following:
+  > ## § 565A. Priority review to encourage treatments for agents that present national security threats
+  >
+  > - **(a)** *Definitions* In this section:
+  >   - **(1)** *Priority review* The term “priority review”, with respect to a human drug application as defined in section 735(1), means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the manual of policies and procedures of the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Food and Drug Administration Safety and Innovation Act (Public Law 112–144).
+  >   - **(2)** *Priority review voucher* The term “priority review voucher” means a voucher issued by the Secretary to the sponsor of a material threat medical countermeasure application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 505(b)(1) of this Act or section 351(a) of the Public Health Service Act after the date of approval of the material threat medical countermeasure application.
+  >   - **(3)** *Material threat medical countermeasure application* The term “material threat medical countermeasure application” means an application that—
+  >     - **(A)** is a human drug application as defined in section 735(1) to prevent, or treat harm from, a biological, chemical, radiological, or nuclear agent identified as a material threat under section 319F–2(c)(2)(A)(ii) of the Public Health Service Act;
+  >     - **(B)** the Secretary deems eligible for priority review;
+  >     - **(C)** is approved after the date of enactment of the Strengthening Public Health Emergency Response Act of 2016; and
+  >     - **(D)** is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved pursuant to any other application under section 505(b)(1) of this Act or section 351(a) of the Public Health Service Act.
+  > - **(b)** *Priority review voucher*
+  >   - **(1)** *In general* The Secretary shall award a priority review voucher to the sponsor of a material threat medical countermeasure application upon approval by the Secretary of such application.
+  >   - **(2)** *Transferability*
+  >     - **(A)** *In general* The sponsor of a material threat medical countermeasure application that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 505(b)(1) of this Act or section 351(a) of the Public Health Service Act will be submitted after the date of the approval of the material threat medical countermeasure application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
+  >     - **(B)** *Notification of transfer* Each person to whom a voucher is transferred shall notify the Secretary of such change in ownership of the voucher not later than 30 days after the date of such transfer.
+  >   - **(3)** *Notification*
+  >     - **(A)** *In general* The sponsor of a human drug application shall notify the Secretary not later than 90 calendar days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+  >     - **(B)** *Transfer after notice* The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
+  > - **(c)** *Priority review user fee*
+  >   - **(1)** *In general* The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under chapter VII.
+  >   - **(2)** *Fee amount* The amount of the priority review user fee shall be determined each fiscal year by the Secretary and based on the average cost incurred by the agency in the review of a human drug application subject to priority review in the previous fiscal year.
+  >   - **(3)** *Annual fee setting* The Secretary shall establish, before the beginning of each fiscal year beginning after September 30, 2016, for that fiscal year, the amount of the priority review user fee.
+  >   - **(4)** *Payment*
+  >     - **(A)** *In general* The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(3)(A). All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
+  >     - **(B)** *Complete application* An application described in subparagraph (A) for which the sponsor requests the use of a priority review voucher shall be considered incomplete if the fee required by this subsection and all other applicable user fees are not paid in accordance with the Secretary’s procedures for paying such fees.
+  >     - **(C)** *No waivers, exemptions, reductions, or refunds* The Secretary may not grant a waiver, exemption, reduction, or refund of any fees due and payable under this section.
+  >   - **(5)** *Offsetting collections* Fees collected pursuant to this subsection for any fiscal year—
+  >     - **(A)** shall be deposited and credited as offsetting collections to the account providing appropriations to the Food and Drug Administration; and
+  >     - **(B)** shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
+  > - **(d)** *Notice of issuance of voucher and approval of products under voucher* The Secretary shall publish a notice in the Federal Register and on the public website of the Food and Drug Administration not later than 30 calendar days after the occurrence of each of the following:
+  >   - **(1)** The Secretary issues a priority review voucher under this section.
+  >   - **(2)** The Secretary approves a drug pursuant to an application submitted under section 505(b) of this Act or section 351(a) of the Public Health Service Act for which the sponsor of the application used a priority review voucher under this section.
+  > - **(e)** *Eligibility for other programs* Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this Act, except that no sponsor of a material threat medical countermeasure application may receive more than one priority review voucher issued under any section of this Act with respect to the drug that is the subject of such application.
+  > - **(f)** *Relation to other provisions* The provisions of this section shall supplement, not supplant, any other provisions of this Act or the Public Health Service Act that encourage the development of medical countermeasures.
+  > - **(g)** *Medical countermeasure postapproval report*
+  >   - **(1)** *In general* Not later than 5 years after the date of approval of a material threat medical countermeasure application, the sponsor of such application shall submit a report to the Secretary on such medical countermeasure.
+  >   - **(2)** *Contents* A report under paragraph (1) shall include, with respect to each of the first 2 years after approval of such material threat medical countermeasure application, a description of—
+  >     - **(A)** the sponsor’s activities with Federal agencies related to the procurement, including stockpiling, of the approved medical countermeasure;
+  >     - **(B)** the sponsor’s progress in fulfilling contracts entered into with Federal agencies, including the Biomedical Advanced Research and Development Authority, the Centers for Disease Control and Prevention, and the Department of Defense, related to such procurement;
+  >     - **(C)** the extent to which the Federal Government has fulfilled its stated medical countermeasure requirements for the threat intended to be treated by the approved medical countermeasure; and
+  >     - **(D)** the sponsor’s plans, if any, to develop additional material threat medical countermeasures.
+  >   - **(3)** *Availability to congressional committees* The Secretary shall make each report submitted under this subsection available to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate upon request by either such Committee not later than 30 days after receipt of such request.
+  >   - **(4)** *Rule of construction* Nothing in this subsection shall be construed to permit the disclosure of confidential commercial or trade secret information or the disclosure of information that could compromise national security.
 
-- **(1)** by redesignating subparagraph (R) as subparagraph (S); and
-- **(2)** by inserting after subparagraph (Q) the following:
-  > - **(R)** Any disease or other agent that is determined to be a material threat under section 319F–2(c)(2)(A)(ii) of the Public Health Service Act.
+- **(b)** *GAO report*
+  - **(1)** *Study* The Comptroller General of the United States shall conduct a study on the effectiveness of priority review vouchers under section 565A of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), in providing incentives for the development of material threat medical countermeasure applications under such section 565A. In conducting such study, the Comptroller General shall examine the following:
+    - **(A)** The impact of such priority review on the development of material threat medical countermeasures and the impact of such investment, as applicable, on the development of such countermeasures.
+    - **(B)** How the drugs for which such priority review vouchers were awarded—
+      - **(i)** addressed identified medical countermeasure needs; and
+      - **(ii)** impacted United States preparedness against chemical, biological, radiological, and nuclear threats, including both identified threats and naturally occurring threats.
+    - **(C)** How many material threat medical countermeasures were licensed or approved, or otherwise significantly advanced in clinical development, in the 15 years following the enactment of such section 565A compared to the 15 years prior to the enactment of such section, including a comparative analysis of Federal advanced development and procurement dollars available in the 15 years following such enactment compared to the prior 15 years.
+    - **(D)** How material threat medical countermeasures developed after the date of enactment of this Act impact—
+      - **(i)** the supply of products in the strategic national stockpile under section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b); and
+      - **(ii)** national preparedness.
+    - **(E)** How the Federal Government supported sponsors of material threat medical countermeasures during the research, development, application review, and production of such drugs, including the use of government research, provision of resources through contracts or grants, and use of federally funded research facilities.
+    - **(F)** An analysis of the drugs for which such priority review vouchers were used, which shall include—
+      - **(i)** the indications for which such drugs were approved under section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)(1)) or section 351(a) of the Public Health Service Act (42 U.S.C. 262(a));
+      - **(ii)** whether unmet medical needs were addressed through the approval of such drugs, including, for each such drug—
+        - **(I)** if there was a currently marketed therapy approved to prevent or treat the same indication in the same patient population at the time the application was submitted to the Food and Drug Administration; and
+        - **(II)** if the drug provided a significant benefit or improvement in safety and effectiveness compared to such currently marketed product;
+      - **(iii)** the price of the priority review voucher if transferred or sold prior to redemption; and
+      - **(iv)** the length of time between the date on which a priority review voucher was awarded and the date on which it was used.
+    - **(G)** With respect to the priority review voucher program under such section 565A—
+      - **(i)** how many priority review vouchers were awarded under such section 565A and how many of such awarded vouchers were redeemed for priority review of a drug application in the 15 years following the date of enactment of such section;
+      - **(ii)** the resources associated with the Food and Drug Administration implementation of such section 565A and review of applications for which a voucher awarded under such section 565A is redeemed for priority review and if implementation of such section 565A prohibited the Food and Drug Administration from meeting drug application review goals;
+      - **(iii)** recommendations on whether appropriate Federal funding for advanced development and research would necessitate the priority review voucher program for medical countermeasures;
+      - **(iv)** the degree to which this incentive program impacts other priority review voucher programs; and
+      - **(v)** the degree to which guaranteed Federal funding for advanced development and research is a greater incentive for new investment in research and the development of medical countermeasures than the uncertain values of vouchers.
+  - **(2)** *Consultations* In conducting the study under subsection (a), the Comptroller General of the United States shall consult with—
+    - **(A)** drug manufacturers involved in the research and development of medical countermeasures to address biological, chemical, radiological, and nuclear threats;
+    - **(B)** stakeholders involved in investing in the research and development of such medical countermeasures, including venture capitalists;
+    - **(C)** the Federal Government agencies responsible for advancing, reviewing, and procuring such medical countermeasures, including—
+      - **(i)** the Department of Health and Human Services, including the Office of the Assistant Secretary for Preparedness and Response, the Biomedical Advanced Research and Development Authority, and the Food and Drug Administration; and
+      - **(ii)** the Department of Defense;
+    - **(D)** biodefense stakeholders, as applicable; and
+    - **(E)** drug manufacturers involved in the research and development of therapies that address—
+      - **(i)** tropical diseases (as defined in section 524(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n(a))); or
+      - **(ii)** rare pediatric diseases (as defined in section 529(a) of such Act (21 U.S.C. 360ff(a))).
+  - **(3)** *Initial assessment* Not later than 10 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives an initial assessment of the effectiveness of the priority review voucher program set forth in section 565A of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a).
+  - **(4)** *Report* Not later than 16 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing the results of the study conducted under paragraph (1).
+  - **(5)** *Protection of national security* The Comptroller General of the United States shall conduct the study under paragraph (1) and issue the assessment and report under paragraphs (3) and (4) in a manner that does not compromise national security.
