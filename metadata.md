@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5104
@@ -16,7 +16,7 @@ Better On-line Ticket Sales Act of 2016
 
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
-## Cosponsors (15)
+## Cosponsors (18)
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
@@ -33,6 +33,9 @@ Better On-line Ticket Sales Act of 2016
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
 ## Committees (1)
 
@@ -43,3 +46,13 @@ Better On-line Ticket Sales Act of 2016
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Referred to the House Committee on Energy and Commerce.
+- 2016-04-29 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2016-06-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-06-09 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2016-06-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported by Voice Vote.
+- 2016-09-09 — Placed on the Union Calendar, Calendar No. 569.
+- 2016-09-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-733.
+- 2016-09-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-733.
