@@ -1,7 +1,7 @@
 ---
 measure: S. 246
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 246
@@ -78,3 +78,13 @@ Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
 - 2016-09-12 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5287-5289)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5287-5289)
+- 2016-09-13 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S6286)
+- 2016-09-29 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S6286)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-14 — Became Public Law No: 114-244.
+- 2016-10-14 — Became Public Law No: 114-244.
+- 2016-10-14 — Signed by President.
+- 2016-10-14 — Signed by President.
