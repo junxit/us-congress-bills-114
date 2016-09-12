@@ -32,13 +32,13 @@ Section 3903(b) of title 38, United States Code, is amended—
   - **(5)** The education and training of personnel of the Department who administer the automobile adaptive equipment program.
   - **(6)** The compliance of the provider with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) when furnishing automobile adaptive equipment at the facility of the provider.
   - **(7)** The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice.
-- **(c)** *Updates* Not later than one year after the date of the enactment of this Act, the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a). Not less frequently than once every six years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
+- **(c)** *Updates* Not later than 1 year after the date of the enactment of this Act, the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a). Not less frequently than once every 6 years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
 - **(d)** *Consultation* The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (c), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment.
 - **(e)** *Conflicts* In developing and implementing the policy under subsection (a), the Secretary shall—
   - **(1)** minimize the possibility of conflicts of interest, to the extent practicable; and
   - **(2)** establish procedures that ensure against the use of a certifying entity referred to in subsection (b)(4) that has a financial conflict of interest regarding the certification of an eligible provider.
 - **(f)** *Biennial report*
-  - **(1)** *In general* Not later than one year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (c), and biennially thereafter through 2022, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the implementation and facility compliance with the policy developed under subsection (a).
+  - **(1)** *In general* Not later than 1 year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (c), and biennially thereafter through 2022, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the implementation and facility compliance with the policy developed under subsection (a).
   - **(2)** *Contents* The report required by paragraph (1) shall include the following:
     - **(A)** A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (c).
     - **(B)** A description of the performance measures used to determine the effectiveness of such policy in ensuring the safety of veterans enrolled in the automobile adaptive equipment program.
@@ -61,10 +61,10 @@ Section 3903(b) of title 38, United States Code, is amended—
   - **(3)** the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist.
 - **(c)** *Consultation* In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate.
 - **(d)** *Annual report*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, and annually thereafter during the five-year period beginning on the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the following:
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter during the 5-year period beginning on the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the following:
     - **(A)** Timely access of veterans to hearing health services through the Department of Veterans Affairs.
     - **(B)** Contracting policies of the Department with respect to providing hearing health services to veterans in facilities that are not facilities of the Department.
-  - **(2)** *Timely access to services* Each report shall, with respect to the matter specified in paragraph (1)(A) for the one-year period preceding the submittal of such report, include the following:
+  - **(2)** *Timely access to services* Each report shall, with respect to the matter specified in paragraph (1)(A) for the 1-year period preceding the submittal of such report, include the following:
     - **(A)** The staffing levels of audiologists, hearing aid specialists, and health technicians in audiology in the Veterans Health Administration.
     - **(B)** A description of the metrics used by the Secretary in measuring performance with respect to appointments and care relating to hearing health.
     - **(C)** The average time that a veteran waits to receive an appointment, beginning on the date on which the veteran makes the request, for the following:
@@ -73,6 +73,6 @@ Section 3903(b) of title 38, United States Code, is amended—
       - **(iii)** Dispensing of hearing aids.
       - **(iv)** Any follow-up hearing health appointment.
     - **(D)** The percentage of veterans whose total wait time for appointments described in subparagraph (C), including an initial and follow-up appointment, if applicable, is more than 30 days.
-  - **(3)** *Contracting policies* Each report shall, with respect to the matter specified in paragraph (1)(B) for the one-year period preceding the submittal of such report, include the following:
+  - **(3)** *Contracting policies* Each report shall, with respect to the matter specified in paragraph (1)(B) for the 1-year period preceding the submittal of such report, include the following:
     - **(A)** The number of veterans that the Secretary refers to non-Department audiologists for hearing health care appointments.
     - **(B)** The number of veterans that the Secretary refers to non-Department hearing aid specialists for follow-up appointments for a hearing aid evaluation, the dispensing of hearing aids, or any other purpose relating to hearing health.
