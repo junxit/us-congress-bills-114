@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 921
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,35 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sports Medicine Licensure Clarity Act of 2015”.
+This Act may be cited as the “Sports Medicine Licensure Clarity Act of 2016”.
 
-## § 2. Choice of law protections for covered sports medicine professionals
+## § 2. Protections for covered sports medicine professionals
 
-- **(a)** *In general* If a covered sports medicine professional provides covered medical services to an athlete, an athletic team, or a staff member of an athlete or athletic team in a secondary State, such services shall be deemed to have been provided in the primary State for the following purposes:
-  - **(1)** Determining the medical professional liability insurance of that professional.
-  - **(2)** Determining the civil and criminal malpractice liability of that professional.
-
-## § 3. Definitions
-
-In this Act the following definitions apply:
-
-- **(1)** *Athlete* The term athlete means an individual—
-  - **(A)** competing in a sporting event sponsored or sanctioned by a national governing body; or
-  - **(B)** for whom an institution of higher education provides a covered sports medicine professional.
-- **(2)** *Athletic team* The term athletic team means a sports team—
-  - **(A)** composed of individuals who are paid to participate on the team;
-  - **(B)** composed of individuals who are competing in a sporting event sponsored or sanctioned by a national governing body; or
-  - **(C)** for which an institution of higher education provides a covered sports medicine professional.
-- **(3)** *Covered medical services* The term covered medical services means general medical care, emergency medical care, or athletic training services. Such term does not include care provided by a covered sports medicine professional—
-  - **(A)** at a health care facility; or
-  - **(B)** while a health care provider legally authorized to practice in the secondary State is transporting the injured individual to a health care facility.
-- **(4)** *Covered sports medicine professional* The term covered sports medicine professional means a physician or athletic trainer who—
-  - **(A)** is legally authorized to practice in the primary State;
-  - **(B)** provides covered medical services, pursuant to a written agreement with an athletic team, national governing body, or institution of higher education, to an individual who is a member or staff of the athletic team; and
-  - **(C)** prior to providing the covered medical services described in subparagraph (B), has disclosed the nature and extent of such services to the entity that provides the physician or athletic trainer with medical professional liability insurance in the primary State.
-- **(5)** *Health care facility* The term health care facility means a facility in which medical care, diagnosis, or treatment is provided on an inpatient or outpatient basis. Such term does not include facilities at an arena or stadium or temporary facilities existing for events where athletic teams are competing.
-- **(6)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
-- **(7)** *National governing body* The term national governing body has the meaning given such term in section 220501 of title 36, United States Code.
-- **(8)** *Primary State* The term primary State means the State in which the covered sports medicine professional is legally authorized to practice pursuant to a written agreement with an athletic team, national governing body, or institution of higher education.
-- **(9)** *Secondary State* The term secondary State means any State in which the covered sports medicine professional is not legally authorized to practice.
-- **(10)** *State* The term State means each of the several States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
+- **(a)** *In general* In the case of a covered sports medicine professional who has in effect medical professional liability insurance coverage and provides in a secondary State covered medical services that are within the scope of practice of such professional in the primary State to an athlete or an athletic team (or a staff member of such an athlete or athletic team) pursuant to an agreement described in subsection (b)(4) with respect to such athlete or athletic team—
+  - **(1)** such medical professional liability insurance coverage shall cover (subject to any related premium adjustments) such professional with respect to such covered medical services provided by the professional in the secondary State to such an individual or team as if such services were provided by such professional in the primary State to such an individual or team; and
+  - **(2)** to the extent such professional is licensed under the requirements of the primary State to provide such services to such an individual or team, the professional shall be treated as satisfying any licensure requirements of the secondary State to provide such services to such an individual or team.
+- **(b)** *Definitions* In this Act, the following definitions apply:
+  - **(1)** *Athlete* The term athlete means—
+    - **(A)** an individual participating in a sporting event or activity for which the individual may be paid;
+    - **(B)** an individual participating in a sporting event or activity sponsored or sanctioned by a national governing body; or
+    - **(C)** an individual for whom a high school or institution of higher education provides a covered sports medicine professional.
+  - **(2)** *Athletic team* The term “athletic team” means a sports team—
+    - **(A)** composed of individuals who are paid to participate on the team;
+    - **(B)** composed of individuals who are participating in a sporting event or activity sponsored or sanctioned by a national governing body; or
+    - **(C)** for which a high school or an institution of higher education provides a covered sports medicine professional.
+  - **(3)** *Covered medical services* The term covered medical services means general medical care, emergency medical care, athletic training, or physical therapy services. Such term does not include care provided by a covered sports medicine professional—
+    - **(A)** at a health care facility; or
+    - **(B)** while a health care provider licensed to practice in the secondary State is transporting the injured individual to a health care facility.
+  - **(4)** *Covered sports medicine professional* The term covered sports medicine professional means a physician, athletic trainer, or other health care professional who—
+    - **(A)** is licensed to practice in the primary State;
+    - **(B)** provides covered medical services, pursuant to a written agreement with an athlete, an athletic team, a national governing body, a high school, or an institution of higher education; and
+    - **(C)** prior to providing the covered medical services described in subparagraph (B), has disclosed the nature and extent of such services to the entity that provides the professional with liability insurance in the primary State.
+  - **(5)** *Health care facility* The term health care facility means a facility in which medical care, diagnosis, or treatment is provided on an inpatient or outpatient basis. Such term does not include facilities at an arena, stadium, or practice facility, or temporary facilities existing for events where athletes or athletic teams may compete.
+  - **(6)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+  - **(7)** *National governing body* The term national governing body has the meaning given such term in section 220501 of title 36, United States Code.
+  - **(8)** *Primary State* The term primary State means, with respect to a covered sports medicine professional, the State in which—
+    - **(A)** the covered sports medicine professional is licensed to practice; and
+    - **(B)** the majority of the covered sports medicine professional’s practice is underwritten for medical professional liability insurance coverage.
+  - **(9)** *Secondary State* The term secondary State means, with respect to a covered sports medicine professional, any State that is not the primary State.
+  - **(10)** *State* The term State means each of the several States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
