@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 810
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 810
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives regarding the life and work
 
 - Rep. Israel, Steve [D-NY-3] (I000057)
 
-## Cosponsors (153)
+## Cosponsors (170)
 
 - Rep. Ashford, Brad [D-NE-2] (A000373)
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
@@ -171,6 +171,23 @@ Expressing the sense of the House of Representatives regarding the life and work
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Takai, Mark [D-HI-1] (T000473)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 
 ## Committees (1)
 
@@ -181,3 +198,10 @@ Expressing the sense of the House of Representatives regarding the life and work
 - 2016-07-07 — Introduced in House
 - 2016-07-07 — Introduced in House
 - 2016-07-07 — Referred to the House Committee on Foreign Affairs.
+- 2016-07-14 — Committee Consideration and Mark-up Session Held.
+- 2016-07-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-12 — Considered under suspension of the rules. (consideration: CR H5259-5263)
+- 2016-09-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 810.
+- 2016-09-12 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.
+- 2016-09-12 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5259)
+- 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5259)

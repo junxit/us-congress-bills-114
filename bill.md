@@ -2,7 +2,7 @@
 legis-num: H. RES. 810
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 810
@@ -29,6 +29,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** honors the life, work, and legacy of Elie Wiesel;
-- **(2)** extends its deepest sympathies to the members of Elie Wiesel’s family; and
-- **(3)** reaffirms Elie Wiesel's efforts to preserve the memory of those who perished and prevent the recurrence of another Holocaust, to combat hate and intolerance in any manifestation, and to never forget and also learn from the lessons of history.
+- **(1)** extends its deepest sympathies to the members of the family of Elie Wiesel in their bereavement; and
+- **(2)** urges the continuation of the monumental work and legacy of Elie Wiesel to preserve the memory of those individuals who perished and prevent the recurrence of another Holocaust, to combat hate and intolerance in any manifestation, and to never forget and to learn from the lessons of history.
