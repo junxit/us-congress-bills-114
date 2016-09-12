@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4576
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 1826g
 
-> Section 606(b) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g(b)) is amended by striking “and” at the end of paragraph (7), striking the period at the end of paragraph (8) and inserting “; and” , and by adding at the end the following:
+> Section 606(b) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g(b)) is amended by striking “and” at the end of paragraph (7), striking the period at the end of paragraph (8) and inserting “; and”, and by adding at the end the following:
 
 | | |
 |---|---|
