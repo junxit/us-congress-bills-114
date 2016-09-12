@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2817
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 303102 of title 54, United States Code, is amended by striking “2015” and inserting “2025”. | the bill names no machine-readable US Code section |
+| — | replace | Section 303102 of title 54, United States Code, is amended by striking “2015” and inserting “2023”. | the bill names no machine-readable US Code section |
+| — | replace | in subsections (a) and (b) by striking “subsection (c)” and inserting “subsection (d)”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d). | the bill names no machine-readable US Code section |
 | — | replace | Section 303102 of such title is amended by striking “Contents” in the heading thereof and inserting “Funding”. | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 3031 of such title is amended by striking the item relating to section 303102 and inserting the following new item: | the bill names no machine-readable US Code section |
