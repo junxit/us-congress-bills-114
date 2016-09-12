@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5936
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5936
@@ -29,3 +29,10 @@ West Los Angeles Leasing Act of 2016
 - 2016-09-06 — Introduced in House
 - 2016-09-06 — Introduced in House
 - 2016-09-06 — Referred to the House Committee on Veterans' Affairs.
+- 2016-09-12 — Considered under suspension of the rules. (consideration: CR H5274-5277)
+- 2016-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5936.
+- 2016-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-12 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5274-5276)
+- 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5274-5276)
+- 2016-09-12 — The title of the measure was amended. Agreed to without objection.
