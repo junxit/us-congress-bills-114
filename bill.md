@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1301
 
-> To direct the Federal Communications Commission to extend to private land use restrictions its rule relating to reasonable accommodation of amateur service communications.
+> To direct the Federal Communications Commission to amend its rules so as to prohibit the application to amateur stations of certain private land use restrictions, and for other purposes.
 
 ## § 1. Short title
 
