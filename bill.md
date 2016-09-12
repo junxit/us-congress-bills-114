@@ -26,7 +26,70 @@ This Act may be cited as the “Veterans’ Compensation Cost-of-Living Adjustme
   - **(1)** *Percentage* Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2016, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
   - **(2)** *Rounding* Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
 - **(d)** *Special rule* The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
+- **(e)** *Publication of adjusted rates* The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in subsection (b), as increased under this section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2017.
 
-## § 3. Publication of adjusted rates
+## § 3. Transportation of deceased veterans to veterans’ cemeteries
 
-The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2017.
+- **(a)** *In general* Subsection (a) of section 2308 of title 38, United States Code, is amended to read as follows:
+  > - **(a)** *In General*
+  >   - **(1)** The Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran described in paragraph (1) or (2) of subsection (b) for burial in a national cemetery or a covered veterans’ cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran’s last place of residence in which burial space is available.
+  >   - **(2)** The Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran described in subsection (b)(3) for burial in a national cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran’s last place of residence in which burial space is available.
+
+- **(b)** *Covered Veterans’ Cemetery Defined* Section 2308 of such title is amended by adding at the end the following new subsection:
+  > - **(c)** *Covered Veterans’ Cemetery Defined* In this section, the term covered veterans’ cemetery means, with respect to a deceased veteran described in subsection (b), a veterans’ cemetery owned by a State or a tribal organization (as defined in section 3765(4) of this title) in which the deceased veteran is eligible to be buried.
+
+- **(c)** *Conforming Amendment* Section 2308 of such title is amended in the section heading by adding at the end the following: “or a veterans’ cemetery”.
+- **(d)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by striking the item relating to section 2308 and inserting the following new item:
+
+## § 4. Expansion of eligibility for headstones, markers, and medallions for medal of honor recipients
+
+Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(5)**
+>   - **(A)** In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased’s status as a Medal of Honor recipient.
+>   - **(B)** If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased’s status as a Medal of Honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased’s status as a Medal of Honor recipient.
+>   - **(C)** A deceased individual described in this subparagraph is a deceased individual who—
+>     - **(i)** served in the Armed Forces on or after April 6, 1917;
+>     - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+>     - **(iii)** was awarded the Medal of Honor (including posthumously).
+
+## § 5. Expansion of Presidential Memorial Certificate program
+
+- **(a)** *In general* Section 112(a) of title 38, United States Code, is amended by inserting after “conditions,” the following: “persons eligible for burial in a national cemetery by reason of paragraph (2), (3), or (7) of section 2402(a) of this title,”.
+- **(b)** *Application* The amendment made by subsection (a) shall apply with respect to the death of a person eligible for burial in a national cemetery by reason of paragraph (2), (3), or (7) of section 2402(a) of title 38, United States Code, occurring before, on, or after the date of the enactment of this Act.
+
+## § 6. Burial plots at Arlington National Cemetery for individuals awarded the Medal of Honor
+
+- **(a)** *Reservation* Of the number of in-ground burial plots available at Arlington National Cemetery as of the date of the enactment of this Act, the Secretary of the Army shall reserve 100 such plots to inter deceased individuals who have been awarded the Medal of Honor.
+- **(b)** *Termination* The requirement under subsection (a) shall terminate on the date on which the Secretary of the Army to the Committees on Veterans’ Affairs and the Committees on Armed Services of the House of Representatives and the Senate a report on the interment and inurnment capacity of Arlington National Cemetery that includes—
+  - **(1)** the estimated date that the Secretary determines the cemetery will reach maximum interment and inurnment capacity; and
+  - **(2)** in light of the unique and iconic meaning of the cemetery to the United States, recommendations for legislative actions and nonlegislative options that the Secretary determines necessary to ensure that the maximum interment and inurnment capacity of the cemetery is not reached until well into the future, including such actions and options with respect to—
+    - **(A)** redefining eligibility criteria for interment and inurnment in the cemetery; and
+    - **(B)** considerations for additional expansion opportunities beyond the current boundaries of the cemetery.
+
+## § 7. Pilot program on Department of Veterans Affairs Veteran Engagement Team events
+
+- **(a)** *In general*
+  - **(1)** *Pilot program* Beginning not later than October 1, 2016, the Secretary of Veterans Affairs shall carry out a three-year pilot program under which the Secretary shall carry out events, to be known as “Veteran Engagement Team events”. The Secretary shall ensure that such events are carried out—
+    - **(A)** during the first year during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 10 regional offices of the Department of Veterans Affairs, including at least two regional offices in each of the five districts of the Veterans Benefits Administration under the organization of such Administration in effect as of the date of the enactment of this Act; and
+    - **(B)** during each of the second and third years during which the Secretary carries out the pilot program, at least once a month in a location within the jurisdiction of each of 15 regional offices of the Department, including at least three regional offices in each such district.
+  - **(2)** *Veteran Engagement Team events* During each Veteran Engagement Team event, the Secretary shall provide assistance to veterans in completing and adjudicating claims for disability compensation under chapter 11 of title 38, United States Code, and for pension under chapter 15 of such title. The Secretary shall ensure that—
+    - **(A)** all Veteran Engagement Team events occur during the normal business hours of the sponsoring regional office;
+    - **(B)** the events are carried out at different locations within the jurisdiction of each regional office and at least 50 miles from any regional office;
+    - **(C)** a sufficient number of physicians (to be available for opinions only), veteran service representatives and rating veteran service representatives, and other personnel are available at the events to initiate, update, and finalize the completion and adjudication of claims;
+    - **(D)** veterans service organizations have access to the events for purposes of providing assistance to veterans; and
+    - **(E)** a veteran who is unable to complete and adjudicate a claim at an event is informed of what additional information or actions are needed to finalize the claim.
+- **(b)** *Location* In selecting locations for Veteran Engagement Team events under this section, the Secretary shall—
+  - **(1)** coordinate with veteran service organizations and State and local veterans agencies; and
+  - **(2)** seek to select locations that are community-based and easily accessible.
+- **(c)** *Transfer of personnel*
+  - **(1)** *Physicians* The Secretary may not permanently transfer any physician employed by the Veterans Health Administration for the purpose of staffing a Veteran Engagement Team event.
+  - **(2)** *Payment of salaries* Any amount payable to an employee of the Department for work performed at a Veteran Engagement Team event is payable only from amounts otherwise available for the payment of the salary of the employee. No additional amounts are authorized to be appropriated under this section for the payment of salaries for Department employee.
+- **(d)** *Other authorities* In carrying out the pilot program under this section, the Secretary may—
+  - **(1)** coordinate with States, local governments, nonprofit organizations, and private sector entities to use facilities to host Veteran Engagement Team events for no or minimal costs; and
+  - **(2)** accept, on a without compensation basis, services provided by non-Department physicians in rendering medical opinions relating to claims for compensation and pension.
+- **(e)** *Customer satisfaction surveys* In carrying out the pilot program under this section, the Secretary shall collect and analyze information about the customer satisfaction of veterans who have received assistance at an Veteran Engagement Team event.
+- **(f)** *Reports* Not later than April 30, 2017, and annually thereafter beginning on October 1, 2017, for the duration of the program, the Secretary shall submit to Congress a report on the implementation and effectiveness of the events. Such report shall include—
+  - **(1)** the number and types of claims completed and adjudicated at the events;
+  - **(2)** the number and types of claims for which assistance was sought at the events that were not completed or adjudicated at the events and the reasons such claims were not completed or adjudicated; and
+  - **(3)** an analysis of the customer satisfaction of veterans who have received assistance at an event based on the information collected under subsection (e).
