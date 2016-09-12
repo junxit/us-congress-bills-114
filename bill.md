@@ -2,7 +2,7 @@
 legis-num: H. RES. 728
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 728
@@ -29,7 +29,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on October 26, 2015, 2 opposition lawmakers, including dual United States citizen Nhay Chamreoun, were violently attacked by pro-government protestors in front of the National Assembly;
 - Whereas, on November 16, 2015, the standing committee of the National Assembly expelled leader of the parliamentary opposition and President of the Cambodian National Rescue Party (CNRP) Sam Rainsy and revoked his parliamentary immunity;
 - Whereas Mr. Rainsy is the subject of a Government of Cambodia investigation of 7-year-old defamation charges against him which is widely believed to be politically motivated;
-- Whereas the United States Embassy in Cambodia has publicly called on the Government of Cambodia to revoke the arrest warrant issued against Mr. Rainsy, allow all opposition lawmakers to “return to Cambodia without fear of arrest and persecution”, and “to take immediate steps to guarantee a political space free from threats or intimidation in Cambodia”; and
+- Whereas the United States Embassy in Cambodia has publicly called on the Government of Cambodia to revoke the arrest warrant issued against Mr. Rainsy, allow all opposition lawmakers to “return to Cambodia without fear of arrest and persecution”, and “to take immediate steps to guarantee a political space free from threats or intimidation in Cambodia”;
+- Whereas political advocate and anti-corruption activist Kem Ley was shot and killed in Phnom Penh on July 10, 2016;
+- Whereas the Government of Cambodia continues efforts to prosecute CNRP leaders on politically-motivated charges, bringing Mr. Sokha’s case to trial in Phnom Penh; and
 - Whereas national elections in 2018 will be closely watched to ensure openness and fairness, and to monitor whether all political parties and civil society are allowed to freely participate: Now, therefore, be it
 
 That the House of Representatives—
