@@ -22,13 +22,16 @@ Congress finds the following:
 - **(3)** Nuclear power plants generate billions of dollars in national economic activity through nationwide procurements and provide thousands of Americans with high paying jobs contributing substantially to the local economies in communities where they operate.
 - **(4)** The United States commercial nuclear industry must continue to lead the international civilian nuclear marketplace, because it is one of our most powerful national security tools, guaranteeing the safe, secure, and exclusively peaceful use of nuclear energy.
 - **(5)** Maintaining the Nation’s nuclear fleet of commercial light water reactors and expanding the use of new advanced reactor designs would support continued production of reliable baseload electricity and maintain United States global leadership in nuclear power.
-- **(6)** The development of advanced reactor designs would benefit from a performance-based, risk-informed, efficient, and cost-effective regulatory framework with defined milestones and the opportunity for applicants to demonstrate progress through Nuclear Regulatory Commission approval.
+- **(6)** Nuclear fusion technology also has the potential to generate electricity with significantly increased safety performance and no radioactive waste.
+- **(7)** The development of advanced reactor designs would benefit from a performance-based, risk-informed, efficient, and cost-effective regulatory framework with defined milestones and the opportunity for applicants to demonstrate progress through Nuclear Regulatory Commission approval.
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Advanced reactor* The term “advanced reactor” means a nuclear fission reactor with significant design improvements over the most recent generation of nuclear reactors. Such improvements may include inherent safety features, lower waste yields, greater fuel utilization, superior reliability, resistance to proliferation, and increased thermal efficiency.
+- **(1)** *Advanced nuclear reactor* The term “advanced nuclear reactor” means—
+  - **(A)** a nuclear fission reactor with significant improvements over the most recent generation of nuclear fission reactors, which may include inherent safety features, lower waste yields, greater fuel utilization, superior reliability, resistance to proliferation, and increased thermal efficiency; or
+  - **(B)** a nuclear fusion reactor.
 - **(2)** *Department* The term “Department” means the Department of Energy.
 - **(3)** *Licensing* The term “licensing” means NRC activities related to reviewing applications for licenses, permits, and design certifications, and requests for any other regulatory approval for nuclear reactors within the responsibilities of the NRC under the Atomic Energy Act of 1954.
 - **(4)** *National laboratory* The term “National Laboratory” has the meaning given that term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
@@ -39,27 +42,39 @@ In this Act:
 
 The NRC and the Department shall enter into the a memorandum of understanding regarding the following topics:
 
-- **(1)** *Technical expertise* Ensuring that the Department has sufficient technical expertise to support the civilian nuclear industry’s timely development and commercial deployment of safe, innovative advanced reactor technology and the NRC has sufficient technical expertise to support the evaluation of applications for licenses, permits, and design certifications, and other requests for regulatory approval for advanced reactors.
+- **(1)** *Technical expertise* Ensuring that the Department has sufficient technical expertise to support the civilian nuclear industry’s timely research, development, demonstration, and commercial application of safe, innovative advanced reactor technology and the NRC has sufficient technical expertise to support the evaluation of applications for licenses, permits, and design certifications, and other requests for regulatory approval for advanced reactors.
 - **(2)** *Modeling and simulation* The use of computers and software codes to calculate the behavior and performance of advanced reactors based on mathematical models of their physical behavior.
-- **(3)** *Facilities* Ensuring that the Department maintains and develops the facilities to support the civilian nuclear industry’s timely development and commercial deployment of safe, innovative reactor technology and ensuring that the NRC has access to such facilities, as needed.
+- **(3)** *Facilities* Ensuring that the Department maintains and develops the facilities to enable the civilian nuclear industry’s timely research, development, demonstration, and commercial application of safe, innovative reactor technology and ensuring that the NRC has access to such facilities, as needed.
 
 ## § 5. Reporting to Congress
 
-Not later than 180 days after the date of enactment of this Act, the Secretary shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that evaluates the status of activities intended to facilitate the testing and demonstration of advanced reactors on Department land and facilities and the potential for the Department to use testing and demonstration on private land.
+- **(a)** *In General* Not later than 180 days after the date of enactment of this Act, the Secretary, in consultation with the National Laboratories, relevant Federal agencies, and other stakeholders, shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works and the Committee Energy and Natural Resources of the Senate a report assessing the capabilities of the Department to authorize, host, and oversee privately proposed and funded experimental reactors.
+- **(b)** *Contents* Such report shall address—
+  - **(1)** the safety review and oversight capabilities of the Department, including options to leverage expertise from the NRC and the National Laboratories;
+  - **(2)** options to regulate Department hosted, privately proposed and funded experimental reactors;
+  - **(3)** potential sites capable of hosting the activities described in subsection (a);
+  - **(4)** the efficacy of the available contractual mechanisms of the Department to partner with the private sector and other Federal agencies, including cooperative research and development agreements, strategic partnership projects, and agreements for commercializing technology;
+  - **(5)** the Federal Government’s liability with respect to the disposal of low-level radioactive waste, spent nuclear fuel, or high-level radioactive waste, as defined by section 2 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101);
+  - **(6)** the impact on the Nation’s aggregate inventory of low-level radioactive waste, spent nuclear fuel, or high-level radioactive waste;
+  - **(7)** potential cost structures relating to physical security, decommissioning, liability, and other long-term project costs; and
+  - **(8)** other challenges or considerations identified by the Secretary.
+- **(c)** *Updates* The Secretary shall update relevant provisions of the report submitted under subsection (a) every 2 years and submit that update to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works and the Committee Energy and Natural Resources of the Senate.
 
 ## § 6. Advanced reactor regulatory framework
 
-- **(a)** *Plan required* Not later than 270 days after the date of enactment of this Act, the NRC shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a plan for developing an efficient, risk-informed, technology-neutral framework for advanced reactor licensing. The plan shall evaluate the following subjects, consistent with the NRC’s role in protecting public health and safety and common defense and security:
+- **(a)** *Plan required* Not later than 1 year after the date of enactment of this Act, the NRC shall transmit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a plan for developing an efficient, risk-informed, technology-neutral framework for advanced reactor licensing. The plan shall evaluate the following subjects, consistent with the NRC’s role in protecting public health and safety and common defense and security:
   - **(1)** The unique aspects of advanced reactor licensing and any associated legal, regulatory, and policy issues the NRC will need to address to develop a framework for licensing advanced reactors.
   - **(2)** Options for licensing advanced reactors under existing NRC regulations in title 10 of the Code of Federal Regulations, a proposed new regulatory framework, or a combination of these approaches.
-  - **(3)** Options to expedite and streamline the licensing of advanced reactors, including opportunities to minimize the time from application submittal to final NRC approval and minimize the delays that may result from any necessary amendments or supplements to applications.
+  - **(3)** Options to expedite and streamline the licensing of advanced reactors, including opportunities to minimize the time from application submittal to final NRC licensing decision and minimize the delays that may result from any necessary amendments or supplements to applications.
   - **(4)** Options to expand the incorporation of consensus-based codes and standards into the advanced reactor regulatory framework to minimize time to completion and provide flexibility in implementation.
   - **(5)** Options to make the advanced reactor licensing framework more predictable. This evaluation should consider opportunities to improve the process by which application review milestones are established and maintained.
   - **(6)** Options to allow applicants to use phased review processes under which the NRC issues approvals that do not require the NRC to re-review previously approved information. This evaluation shall consider the NRC’s ability to review and conditionally approve partial applications, early design information, and submittals that contain design criteria and processes to be used to develop information to support a later phase of the design review.
   - **(7)** The extent to which NRC action or modification of policy is needed to implement any part of the plan required by this subsection.
   - **(8)** The role of licensing advanced reactors within NRC long-term strategic resource planning, staffing, and funding levels.
+  - **(9)** Options to provide cost-sharing financial structures for license applicants in a phased licensing process.
 - **(b)** *Coordination and stakeholder input required* In developing the plan required by subsection (a), the NRC shall seek input from the Department, the nuclear industry, and other public stakeholders.
-- **(c)** *Cost and schedule estimate* The plan required by subsection (a) shall include proposed cost estimates, budgets, and specific milestones for implementing the advanced reactor regulatory framework by 2019.
+- **(c)** *Cost and schedule estimate* The plan required by subsection (a) shall include proposed cost estimates, budgets, and specific milestones for implementing the advanced reactor regulatory framework by September 30, 2019.
+- **(d)** *Design certification status* In the NRC’s first budget request after the acceptance of any design certification application for an advanced nuclear reactor, and annually thereafter, the NRC shall provide the status of performance metrics and milestone schedules. The budget request shall include a plan to correct or recover from any milestone schedule delays, including delays because of NRC’s inability to commit resources for its review of the design certification applications.
 
 ## § 7. User fees and annual charges
 
