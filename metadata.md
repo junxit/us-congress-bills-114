@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5424
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5424
@@ -24,9 +24,10 @@ Investment Advisers Modernization Act of 2016
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -69,3 +70,4 @@ Investment Advisers Modernization Act of 2016
 - 2016-09-09 — Rule provides for consideration of H.R. 2357 and H.R. 5424.
 - 2016-09-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5244)
 - 2016-09-09 — The previous question was ordered on the amendment (A002) without objection. (consideration: CR H5238)
+- 2016-09-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
