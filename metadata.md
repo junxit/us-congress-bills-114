@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3590
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3590
@@ -40,6 +40,10 @@ Halt Tax Increases on the Middle Class and Seniors Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-13 — [House 114-2-502](votes/house-114-2-0502.md) — On Passage — **Passed** (261–147)
+
 ## Actions
 
 - 2015-09-22 — Introduced in House
@@ -50,3 +54,12 @@ Halt Tax Increases on the Middle Class and Seniors Act
 - 2016-07-05 — Placed on the Union Calendar, Calendar No. 508.
 - 2016-07-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-657.
 - 2016-07-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-657.
+- 2016-09-12 — Rules Committee Resolution H. Res. 858 Reported to House. Rule provides for consideration of H.R. 3590 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2016-09-13 — Considered under the provisions of rule H. Res. 858. (consideration: CR H5380-5386)
+- 2016-09-13 — DEBATE - The House proceeded with one hour of debate on H.R. 3590.
+- 2016-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-13 — On passage Passed by the Yeas and Nays: 261 - 147 (Roll no. 502). (text: CR H5380)
+- 2016-09-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 261 - 147 (Roll no. 502).(text: CR H5380)
+- 2016-09-13 — Rule H. Res. 858 passed House.
+- 2016-09-13 — Rule provides for consideration of H.R. 3590 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2016-09-13 — The previous question was ordered pursuant to the rule. (consideration: CR H5385)
