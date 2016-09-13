@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5104
@@ -37,9 +37,10 @@ Better On-line Ticket Sales Act of 2016
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Better On-line Ticket Sales Act of 2016
 - 2016-09-12 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5292-5293)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5292-5293)
+- 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
