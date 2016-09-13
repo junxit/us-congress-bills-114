@@ -1,7 +1,7 @@
 ---
 measure: S. 2383
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2383
@@ -28,3 +28,8 @@ Utah Test and Training Range Encroachment Prevention and Temporary Closure Act
 
 - 2015-12-10 — Introduced in Senate
 - 2015-12-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-04-21 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 114-500.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-13 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-349.
+- 2016-09-13 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 114-349.
+- 2016-09-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 625.
