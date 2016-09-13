@@ -34,6 +34,12 @@ In this Act:
     - **(D)** 1 member shall be an employee of the National Park Service having experience relevant to the historical resources relating to the commemoration, to be appointed by the Secretary;
     - **(E)** 2 members shall be appointed by the Secretary, after considering the recommendations of the Secretary of the Smithsonian Institution; and
     - **(F)** 4 members shall be individuals who have an interest in, support for, and expertise appropriate to the commemoration, to be appointed by the Secretary, after considering the recommendations of Members of Congress.
+  - **(1)** *Composition* The Commission shall be composed of 15 members, of whom—
+    - **(A)** 3 members shall be appointed by the Secretary, after considering the recommendations of Governors of States, including the Governor of Virginia;
+    - **(B)** 6 members shall be appointed by the Secretary, after considering the recommendations of civil rights organizations and historical organizations;
+    - **(C)** 1 member shall be an employee of the National Park Service having experience relating to the historical and cultural resources related to the commemoration, to be appointed by the Secretary;
+    - **(D)** 2 members shall be appointed by the Secretary, after considering the recommendations of the Secretary of the Smithsonian Institution; and
+    - **(E)** 3 members shall be individuals who have an interest in, support for, and expertise appropriate to the commemoration, to be appointed by the Secretary, after considering the recommendations of Members of Congress.
   - **(2)** *Time of appointment* Each appointment of an initial member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act.
   - **(3)** *Term; vacancies*
     - **(A)** *Term* A member of the Commission shall be appointed for the life of the Commission.
