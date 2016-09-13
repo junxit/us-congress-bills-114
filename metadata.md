@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5111
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5111
@@ -54,3 +54,12 @@ Consumer Review Fairness Act of 2016
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5295-5296)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5295-5296)
 - 2016-09-13 — Received in the Senate, read twice.
+- 2016-11-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6520)
+- 2016-11-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6520)
+- 2016-11-29 — Message on Senate action sent to the House.
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-258.
+- 2016-12-14 — Became Public Law No: 114-258.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
