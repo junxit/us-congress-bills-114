@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6007
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6007
+
+> To amend title 49, United States Code, to include consideration of certain impacts on commercial space launch and reentry activities in a navigable airspace analysis, and for other purposes.
+
+## § 1. Navigable airspace analysis for commercial space launch site runways
+
+- **(a)** *In general* Section 44718(b)(1) of title 49, United States Code, is amended—
+  - **(1)** by striking “air navigation facilities and equipment” and inserting “air or space navigation facilities and equipment”;
+  - **(2)** in subparagraph (D), by striking “; and” and inserting a semicolon;
+  - **(3)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
+  - **(4)** by adding at the end the following:
+    > - **(F)** the impact on launch and reentry for launch and reentry vehicles arriving or departing from a launch site or reentry site licensed by the Secretary.
+
+- **(b)** *Rulemaking* Not later than 18 months after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall initiate a rulemaking to implement the amendments made by subsection (a).
