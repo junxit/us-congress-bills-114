@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 295
@@ -66,9 +66,10 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - 2016-09-12 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5286)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5286)
+- 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
