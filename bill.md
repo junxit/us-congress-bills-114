@@ -59,3 +59,48 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
   > - **(d)** The intentional failure by a judge of a District of Columbia court to file a report required by this section, or the filing of a fraudulent report, shall constitute willful misconduct in office and shall be grounds for removal from office under section 11–1526(a)(2).
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to reports filed under section 11–1530, D.C. Official Code, that cover periods beginning during or after 2016.
+
+## § 3. Authority of Probate Division to use magistrate judges
+
+- **(a)** *In general* Section 11–1732(j)(5), District of Columbia Official Code, is amended by striking “Family Divisions” and inserting “Probate Divisions, and the Family Court,”.
+- **(b)** *Technical and conforming amendment* Section 11–1732(j)(4)(A), District of Columbia Official Code, is amended by striking “Family Division” and inserting “Family Court”.
+
+## § 4. Authority of District of Columbia courts to accept certain types of payments
+
+- **(a)** *In general* Subchapter III of chapter 17 of title 11, District of Columbia Code, is amended by adding at the end the following:
+  > ## § 11–1748. Authority of courts to accept certain types of payments
+  >
+  > - **(a)** *Definitions* In this section, the term electronic funds transfer—
+  >   - **(1)** means a transfer of funds, other than a transaction by check, draft, or similar paper instrument, that is initiated through an electronic terminal, telephone, or computer or magnetic tape for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account; and
+  >   - **(2)** includes point of sale transfers, automated teller machine transfers, direct deposit or withdrawal of funds, transfers initiated by telephone, and transfers resulting from debit card transactions.
+  > - **(b)** *Authority to accept credit card payments and electronic funds transfers*
+  >   - **(1)** *In general* The District of Columbia courts may accept payment of fines, fees, escrow payments, restitution, bonds, and other payments to the courts by credit card or electronic funds transfer.
+  >   - **(2)** *Use of vendors and third party providers* The Executive officer—
+  >     - **(A)** may contract with a bank or credit card vendor, or other third party provider, for purposes of accepting payments by credit card or electronic funds transfer; and
+  >     - **(B)** shall make every effort to find the lowest cost vendor for purposes of accepting such payments.
+  >   - **(3)** *Responsibility for paying fees* Under any contract entered into under paragraph (2), the person making the payment shall be responsible for covering any fee or charge associated or imposed with respect to the method of payment.
+  >   - **(4)** *Completion of payment* If a person elects to make a payment to the District of Columbia courts by a method authorized under paragraph (1), the payment shall not be deemed to be made until the courts receive the funds.
+  > - **(c)** *Authority to accept checks*
+  >   - **(1)** *In general* The District of Columbia courts may accept payment of fines, fees, escrow payments, restitution, bonds, and other payments to the courts by check.
+  >   - **(2)** *Use of check guarantee vendor* The Executive Officer—
+  >     - **(A)** may contract with a check guarantee vendor for purposes of accepting payments by check; and
+  >     - **(B)** shall make every effort to find the lowest cost vendor for purposes of accepting such payments.
+  >   - **(3)** *Responsibility for paying fees* Under any contract entered into under paragraph (2), the person making the payment by check shall be responsible for covering any fee or charge associated or imposed with respect to the method of payment.
+  > - **(d)** *Liability for non-payment* If a check or other method of payment, including payment by credit card, debit card, or charge card, so received is not duly paid, or is paid and subsequently charged back to the District of Columbia courts, the person by whom such check or other method of payment has been tendered shall remain liable for the payment, to the same extent as if such check or other method of payment had not been tendered.
+
+- **(b)** *Technical and conforming amendment* The table of sections for subchapter III of chapter 17 of title 11, District of Columbia Code, is amended by adding at the end the following:
+
+## § 5. Increase in maximum amount in controversy permitted for cases under jurisdiction of Small Claims and Conciliation Branch of Superior Court
+
+- **(a)** *In general* Section 11–1321, District of Columbia Official Code, is amended by striking “$5,000” and inserting “$10,000”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to any case filed in the Superior Court of the District of Columbia on or after the date of enactment of this Act.
+
+## § 6. Authority to approve compensation of attorneys in excess of maximum amount
+
+- **(a)** *In general*
+  - **(1)** *Criminal defense appointments* Section 11–2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.”.
+  - **(2)** *Child abuse and neglect appointments* Section 16–2326.01(f), District of Columbia Official Code, is amended—
+    - **(A)** by striking “(f)(1)” and inserting “(f)”;
+    - **(B)** by striking paragraph (2); and
+    - **(C)** by adding at the end the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to any case or proceeding initiated on or after the date of enactment of this Act.
