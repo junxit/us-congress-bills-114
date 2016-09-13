@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5461
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5461
@@ -32,3 +32,11 @@ Iranian Leadership Asset Transparency Act
 - 2016-06-13 — Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-13 — Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-13 — Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported by the Yeas and Nays: 39 - 20.
+- 2016-09-13 — Committee on Foreign Affairs discharged.
+- 2016-09-13 — Committee on Foreign Affairs discharged.
+- 2016-09-13 — Placed on the Union Calendar, Calendar No. 579.
+- 2016-09-13 — Reported by the Committee on Financial Services. H. Rept. 114-746, Part I.
+- 2016-09-13 — Reported by the Committee on Financial Services. H. Rept. 114-746, Part I.
