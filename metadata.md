@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4979
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4979
@@ -37,10 +37,11 @@ Advanced Nuclear Technology Development Act of 2016
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Advanced Nuclear Technology Development Act of 2016
 - 2016-09-12 — Placed on the Union Calendar, Calendar No. 573.
 - 2016-09-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-737, Part I.
 - 2016-09-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-737, Part I.
+- 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
