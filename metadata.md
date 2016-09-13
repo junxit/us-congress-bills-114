@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1301
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1301
@@ -172,3 +172,4 @@ Amateur Radio Parity Act of 2016
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5302-5303)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5302-5303)
 - 2016-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-13 — Received in the Senate.
