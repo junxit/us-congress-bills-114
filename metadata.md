@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5111
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5111
@@ -53,3 +53,4 @@ Consumer Review Fairness Act of 2016
 - 2016-09-12 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5295-5296)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5295-5296)
+- 2016-09-13 — Received in the Senate, read twice.
