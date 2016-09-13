@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4576
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4576
@@ -44,3 +44,4 @@ Ensuring Access to Pacific Fisheries Act
 - 2016-09-12 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5280-5285)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5280-5285)
+- 2016-09-13 — Received in the Senate.
