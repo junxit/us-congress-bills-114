@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5587
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5587
@@ -52,6 +52,10 @@ Strengthening Career and Technical Education for the 21st Century Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2016-09-13 — [House 114-2-503](votes/house-114-2-0503.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (405–5)
+
 ## Actions
 
 - 2016-06-28 — Introduced in House
@@ -62,3 +66,11 @@ Strengthening Career and Technical Education for the 21st Century Act
 - 2016-09-08 — Placed on the Union Calendar, Calendar No. 564.
 - 2016-09-08 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-728.
 - 2016-09-08 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 114-728.
+- 2016-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-13 — Considered as unfinished business. (consideration: CR H5386)
+- 2016-09-13 — Considered under suspension of the rules. (consideration: CR H5365-5380)
+- 2016-09-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5587.
+- 2016-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-13 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 503). (text: CR H5365-5375)
+- 2016-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 503).(text: CR H5365-5375)

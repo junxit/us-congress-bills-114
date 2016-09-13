@@ -48,12 +48,12 @@ Section 3 (20 U.S.C. 2302) is amended—
 - **(1)** by striking paragraphs (16), (23), (24), (25), (26), and (32);
 - **(2)** by redesignating paragraphs (8), (9), (10), (11), (12), (13), (14), (15), (17), (18), (19), (20), (21), (22), (27), (28), (29), (30), (31), (33), and (34) as paragraphs (9), (10), (13), (16), (17), (19), (20), (23), (25), (27), (28), (30), (32), (35), (39), (40), (41), (44), (45), (46), and (47), respectively;
 - **(3)** in paragraph (3)—
-  - **(A)** in subparagraph (B), by striking “5 different occupational fields to individuals” and inserting “3 different fields, especially in in-demand industry sectors or occupations, that are available to all students”; and
-  - **(B)** in subparagraph (D), by striking “not fewer than 5 different occupational fields” and inserting “not fewer than 3 different occupational fields”;
+  - **(A)** in subparagraph (B), by striking “5 different occupational fields to individuals” and inserting “three different fields, especially in in-demand industry sectors or occupations, that are available to all students”; and
+  - **(B)** in subparagraph (D), by striking “not fewer than 5 different occupational fields” and inserting “not fewer than three different occupational fields”;
 - **(4)** in paragraph (5)—
   - **(A)** in subparagraph (A)—
     - **(i)** in clause (i)—
-      - **(I)** by striking “coherent and rigorous content aligned with challenging academic standards” and inserting “content at the secondary level aligned with the challenging State academic standards adopted by a State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)), and at the postsecondary level with the rigorous academic content,”
+      - **(I)** by striking “coherent and rigorous content aligned with challenging academic standards” and inserting “content at the secondary level aligned with the challenging State academic standards adopted by a State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)), and at the postsecondary level with the rigorous academic content,”;
       - **(II)** by striking “and skills” and inserting “and skills,”; and
       - **(III)** by inserting “, including in in-demand industry sectors or occupations” before the semicolon at the end;
     - **(ii)** in clause (ii), by striking “, an industry-recognized credential, a certificate, or an associate degree” and inserting “or a recognized postsecondary credential, which may include an industry-recognized credential”; and
@@ -76,12 +76,12 @@ Section 3 (20 U.S.C. 2302) is amended—
 - **(7)** by inserting after paragraph (10) (as so redesignated by paragraph (2)) the following:
   > - **(11)** *CTE concentrator* The term CTE concentrator means—
   >   - **(A)** at the secondary school level, a student served by an eligible recipient who has—
-  >     - **(i)** completed 3 or more career and technical education courses; or
-  >     - **(ii)** completed at least 2 courses in a single career and technical education program or program of study; or
+  >     - **(i)** completed three or more career and technical education courses; or
+  >     - **(ii)** completed at least two courses in a single career and technical education program or program of study; or
   >   - **(B)** at the postsecondary level, a student enrolled in an eligible recipient who has—
   >     - **(i)** earned at least 12 cumulative credits within a career and technical education program or program of study; or
   >     - **(ii)** completed such a program if the program encompasses fewer than 12 credits or the equivalent in total.
-  > - **(12)** *CTE Participant* The term CTE participant means an individual who completes not less than 1 course or earns not less than 1 credit in a career and technical education program or program of study of an eligible recipient.
+  > - **(12)** *CTE Participant* The term CTE participant means an individual who completes not less than one course or earns not less than one credit in a career and technical education program or program of study of an eligible recipient.
 
 - **(8)** by inserting after paragraph (13) (as so redesignated by paragraph (2)) the following:
   > - **(14)** *Dual or concurrent enrollment* The term dual or concurrent enrollment has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
@@ -101,7 +101,7 @@ Section 3 (20 U.S.C. 2302) is amended—
 
 - **(10)** by amending paragraph (19) (as so redesignated by paragraph (2)) to read as follows:
   > - **(19)** *Eligible institution* The term eligible institution means—
-  >   - **(A)** a consortium of 2 or more of the entities described in subparagraphs (B) through (F);
+  >   - **(A)** a consortium of two or more of the entities described in subparagraphs (B) through (F);
   >   - **(B)** a public or nonprofit private institution of higher education that offers and will use funds provided under this title in support of career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or an associate degree;
   >   - **(C)** a local educational agency providing education at the postsecondary level;
   >   - **(D)** an area career and technical education school providing education at the postsecondary level;
@@ -147,7 +147,7 @@ Section 3 (20 U.S.C. 2302) is amended—
   >   - **(B)** progresses in specificity (beginning with all aspects of an industry or career cluster and leading to more occupational specific instruction);
   >   - **(C)** has multiple entry and exit points that incorporate credentialing; and
   >   - **(D)** culminates in the attainment of a recognized postsecondary credential.
-  > - **(37)** *Qualified intermediary* The term “qualified intermediary” means a non-profit entity that demonstrates expertise to build, connect, sustain, and measure partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—
+  > - **(37)** *Qualified intermediary* The term qualified intermediary means a non-profit entity that demonstrates expertise to build, connect, sustain, and measure partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—
   >   - **(A)** connecting employers to classrooms;
   >   - **(B)** assisting in the design and implementation of career and technical education programs and programs of study;
   >   - **(C)** delivering professional development;
@@ -167,7 +167,7 @@ Section 3 (20 U.S.C. 2302) is amended—
 
 - **(20)** by inserting after paragraph (41) (as so redesignated by paragraph (2)) the following:
   > - **(42)** *Specialized instructional support personnel* The term specialized instructional support personnel has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
-  > - **(43)** *Specialized instructional support services* The term “specialized instructional support services” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+  > - **(43)** *Specialized instructional support services* The term specialized instructional support services has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
 - **(21)** in paragraph (45) (as so redesignated by paragraph (2)) by inserting “(including paraprofessionals and specialized instructional support personnel)” after “supportive personnel”; and
 - **(22)** by adding at the end the following:

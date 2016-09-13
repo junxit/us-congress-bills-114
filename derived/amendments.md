@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5587
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-160 amendatory instructions. 60 executed, 100 stated and not applied.
+163 amendatory instructions. 61 executed, 102 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,25 +35,25 @@ to guess them.
 
 ### 20 U.S.C. § 2302
 
-> in subparagraph (B), by striking “5 different occupational fields to individuals” and inserting “3 different fields, especially in in-demand industry sectors or occupations, that are available to all students”; and
+> in subparagraph (B), by striking “5 different occupational fields to individuals” and inserting “three different fields, especially in in-demand industry sectors or occupations, that are available to all students”; and
 
 | | |
 |---|---|
 | Removed | `5 different occupational fields to individuals` |
-| Inserted | `3 different fields, especially in in-demand industry sectors or occupations, that are available to all students` |
+| Inserted | `three different fields, especially in in-demand industry sectors or occupations, that are available to all students` |
 
 ### 20 U.S.C. § 2302
 
-> in subparagraph (D), by striking “not fewer than 5 different occupational fields” and inserting “not fewer than 3 different occupational fields”;
+> in subparagraph (D), by striking “not fewer than 5 different occupational fields” and inserting “not fewer than three different occupational fields”;
 
 | | |
 |---|---|
 | Removed | `not fewer than 5 different occupational fields` |
-| Inserted | `not fewer than 3 different occupational fields` |
+| Inserted | `not fewer than three different occupational fields` |
 
 ### 20 U.S.C. § 6311
 
-> by striking “coherent and rigorous content aligned with challenging academic standards” and inserting “content at the secondary level aligned with the challenging State academic standards adopted by a State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)), and at the postsecondary level with the rigorous academic content,”
+> by striking “coherent and rigorous content aligned with challenging academic standards” and inserting “content at the secondary level aligned with the challenging State academic standards adopted by a State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)), and at the postsecondary level with the rigorous academic content,”;
 
 | | |
 |---|---|
@@ -323,12 +323,12 @@ to guess them.
 
 ### 20 U.S.C. § 2324
 
-> by striking “, directly or through grants, contracts, or cooperative agreements,” and inserting “directly through grants”; and
+> by striking “, directly or through grants, contracts, or cooperative agreements,” and inserting “directly or through grants”; and
 
 | | |
 |---|---|
 | Removed | `, directly or through grants, contracts, or cooperative agreements,` |
-| Inserted | `directly through grants` |
+| Inserted | `directly or through grants` |
 
 ### 20 U.S.C. § 6311
 
@@ -392,6 +392,15 @@ to guess them.
 |---|---|
 | Removed | `2011` |
 | Inserted | `2023` |
+
+### 20 U.S.C. § 2325
+
+> in subsection (a)(3), by striking “subject to subsection (d)” and inserting “subject to subsection (b)”;
+
+| | |
+|---|---|
+| Removed | `subject to subsection (d)` |
+| Inserted | `subject to subsection (b)` |
 
 ### 20 U.S.C. § 2342
 
@@ -644,7 +653,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6311` | amend | by adding after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | replace | by striking paragraphs (3), (4), and (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2324` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 2342` | amend | Section 117(i) (20 U.S.C. 2342(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2325` | strike | by striking subsections (b) and (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2325` | redesignate | by redesignating subsection (d) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2327` | amend | Section 117(i) (20 U.S.C. 2327(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2328` | repeal | Section 118 (20 U.S.C. 2328) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3113` | amend | by amending subsections (b), (c), (d), and (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2343` | insert | by inserting “including after implementation of the improvement plan described in paragraph (1),” after “purposes of this Act,”; and | the bill quotes the text inserted but describes where it goes |
@@ -660,7 +671,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6601` | replace | by striking paragraphs (1) through (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6601` | replace | by striking paragraphs (6) through (9) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5191` | replace | in subsection (c), by striking paragraphs (1) through (17) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 491-2` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6472` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2355` | amend | Section 135 (20 U.S.C. 2355) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2301` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2301` | amend | by adding after subparagraph (C), the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
