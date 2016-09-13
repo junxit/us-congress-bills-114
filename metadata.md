@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5484
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5484
@@ -28,9 +28,10 @@ State Sponsors of Terrorism Review Enhancement Act
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ State Sponsors of Terrorism Review Enhancement Act
 - 2016-09-12 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2016-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5272)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5272)
+- 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
