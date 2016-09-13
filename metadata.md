@@ -1,7 +1,7 @@
 ---
 measure: H.R. 921
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 921
@@ -209,10 +209,11 @@ Sports Medicine Licensure Clarity Act of 2016
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -239,3 +240,4 @@ Sports Medicine Licensure Clarity Act of 2016
 - 2016-09-12 — Placed on the Union Calendar, Calendar No. 572.
 - 2016-09-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-736, Part I.
 - 2016-09-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-736, Part I.
+- 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
