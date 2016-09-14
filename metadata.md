@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5985
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5985
@@ -36,3 +36,4 @@ Department of Veterans Affairs Expiring Authorities Act of 2016
 - 2016-09-13 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5387-5389)
 - 2016-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5387-5389)
+- 2016-09-14 — Received in the Senate, read twice.
