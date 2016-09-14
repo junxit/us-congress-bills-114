@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5620
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5620
@@ -16,10 +16,59 @@ VA Accountability First and Appeals Modernization Act of 2016
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
+## Cosponsors (34)
+
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+
 ## Committees (2)
 
 - House — Veterans' Affairs Committee
 - House — Oversight and Accountability Committee
+
+## Recorded votes (9)
+
+- 2016-09-14 — [House 114-2-511](votes/house-114-2-0511.md) — On Agreeing to the Amendment — **Failed** (173–250)
+- 2016-09-14 — [House 114-2-512](votes/house-114-2-0512.md) — On Agreeing to the Amendment — **Failed** (184–240)
+- 2016-09-14 — [House 114-2-513](votes/house-114-2-0513.md) — On Agreeing to the Amendment — **Failed** (183–236)
+- 2016-09-14 — [House 114-2-514](votes/house-114-2-0514.md) — On Agreeing to the Amendment — **Agreed to** (426–0)
+- 2016-09-14 — [House 114-2-515](votes/house-114-2-0515.md) — On Agreeing to the Amendment — **Agreed to** (421–1)
+- 2016-09-14 — [House 114-2-516](votes/house-114-2-0516.md) — On Agreeing to the Amendment — **Agreed to** (421–0)
+- 2016-09-14 — [House 114-2-517](votes/house-114-2-0517.md) — On Agreeing to the Amendment — **Agreed to** (423–1)
+- 2016-09-14 — [House 114-2-518](votes/house-114-2-0518.md) — On Motion to Recommit with Instructions — **Failed** (185–239)
+- 2016-09-14 — [House 114-2-519](votes/house-114-2-0519.md) — On Passage — **Passed** (310–116)
 
 ## Actions
 
@@ -28,3 +77,191 @@ VA Accountability First and Appeals Modernization Act of 2016
 - 2016-07-05 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-05 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-05 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-14 — Referred to the Subcommittee on Economic Opportunity.
+- 2016-09-12 — Rules Committee Resolution H. Res. 859 Reported to House. Rule provides for consideration of H.R. 5620 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rule makes in order only those amendments printed in the Rules Committee report.
+- 2016-09-13 — Amendment (A001) offered by Mr. Miller (FL). (consideration: CR H5404-5405; text: CR H5404-5405)
+- 2016-09-13 — Amendment (A002) offered by Mr. Walz. (consideration: CR H5405-5406, CR 9/14/2016 H5479-5480; text: CR H5405)
+- 2016-09-13 — Amendment (A003) offered by Mr. Takano. (consideration: CR H5406-5407, CR 9/14/2016 H5480; text: CR H5406)
+- 2016-09-13 — Amendment (A004) offered by Ms. Lujan Grisham (NM). (consideration: CR H5407-5408; text: CR H5407)
+- 2016-09-13 — Amendment (A005) offered by Ms. Kuster. (consideration: CR H5408-5409, CR 9/14/2016 H5480-5481; text: CR H5408)
+- 2016-09-13 — Amendment (A006) offered by Mr. Takano. (consideration: CR H5409-5411; text: CR H5409-5410)
+- 2016-09-13 — Amendment (A007) offered by Mr. Newhouse. (consideration: CR H5411-5414; text: CR H5411-5412)
+- 2016-09-13 — Amendment (A008) offered by Mr. Schweikert. (consideration: CR H5414-5415; text: CR H5414)
+- 2016-09-13 — Amendment (A009) offered by Mr. Takano. (consideration: CR H5415; text: CR H5415)
+- 2016-09-13 — Amendment (A010) offered by Mr. Takano. (consideration: CR H5415-5416; text: CR H5415)
+- 2016-09-13 — Amendment (A011) offered by Mr. Keating. (consideration: CR H5416-5417; text: CR H5416)
+- 2016-09-13 — Amendment (A012) offered by Mr. Lowenthal. (consideration: CR H5417; text: CR H5417)
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — Amendment agreed to Committee of the Whole
+- 2016-09-13 — By unanimous consent, the Schweikert amendment was withdrawn. (consideration: CR H5415)
+- 2016-09-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 5620 as unfinished business.
+- 2016-09-13 — Considered under the provisions of rule H. Res. 859. (consideration: CR H5390-5417; text of measure as reported in House: CR H5398-5404)
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 12.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster amendment No. 5.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 13.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan Grisham (NM) amendment No. 4.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment No. 7.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 8.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 10.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 11.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 3.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 6.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Walz amendment No. 2.
+- 2016-09-13 — DEBATE - Pursuant to the provisions of H.Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (FL) amendment No. 1.
+- 2016-09-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5620.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Keating amendment (A011) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Lowenthal amendment (A012) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Lujan Grisham (NM) amendment (A004) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Miller (FL) amendment (A001) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Newhouse amendment (A007) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Takano amendment (A006) as modified Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Takano amendment (A009) Agreed to by voice vote.
+- 2016-09-13 — House amendment agreed to: On agreeing to the Takano amendment (A010) Agreed to by voice vote.
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered
+- 2016-09-13 — House amendment offered/reported by : Amendment (A001) offered by Mr. Miller (FL).(consideration: CR H5404-5405; text: CR H5404-5405)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A002) offered by Mr. Walz.(consideration: CR H5405-5406, CR 9/14/2016 H5479-5480; text: CR H5405)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A003) offered by Mr. Takano.(consideration: CR H5406-5407, CR 9/14/2016 H5480; text: CR H5406)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A004) offered by Ms. Lujan Grisham (NM).(consideration: CR H5407-5408; text: CR H5407)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A005) offered by Ms. Kuster.(consideration: CR H5408-5409, CR 9/14/2016 H5480-5481; text: CR H5408)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A007) offered by Mr. Newhouse.(consideration: CR H5411-5414; text: CR H5411-5412)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A008) offered by Mr. Schweikert.(consideration: CR H5414-5415; text: CR H5414)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A009) offered by Mr. Takano.(consideration: CR H5415; text: CR H5415)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A010) offered by Mr. Takano.(consideration: CR H5415-5416; text: CR H5415)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A011) offered by Mr. Keating.(consideration: CR H5416-5417; text: CR H5416)
+- 2016-09-13 — House amendment offered/reported by : Amendment (A012) offered by Mr. Lowenthal.(consideration: CR H5417; text: CR H5417)
+- 2016-09-13 — House amendment offered/reported by: Amendment (A006) offered by Mr. Takano.(consideration: CR H5409-5411; text: CR H5409-5410)
+- 2016-09-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 859 and Rule XVIII.
+- 2016-09-13 — Mr. Miller (FL) moved that the committee rise.
+- 2016-09-13 — On agreeing to the Keating amendment (A011) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Lowenthal amendment (A012) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Lujan Grisham (NM) amendment (A004) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Miller (FL) amendment (A001) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Newhouse amendment (A007) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Takano amendment (A006) as modified Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Takano amendment (A009) Agreed to by voice vote.
+- 2016-09-13 — On agreeing to the Takano amendment (A010) Agreed to by voice vote.
+- 2016-09-13 — On motion that the committee rise Agreed to by voice vote.
+- 2016-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kuster amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Kuster demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walz amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-13 — Rule H. Res. 859 passed House.
+- 2016-09-13 — Rule provides for consideration of H.R. 5620 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rule makes in order only those amendments printed in the Rules Committee report.
+- 2016-09-13 — Takano amendment (A006) modified by unanimous consent. (text as modified: CR H5410-5411)
+- 2016-09-13 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2016-09-14 — Amendment (A013) offered by Mr. Lujan, Ben Ray (NM). (consideration: CR H5463-5464; text: CR H5463)
+- 2016-09-14 — Amendment (A014) offered by Mr. Takano. (consideration: CR H5464, H5481-5482; text: CR H5464)
+- 2016-09-14 — Amendment (A015) offered by Mr. O'Rourke. (consideration: CR H5464-5465; text: CR H5464)
+- 2016-09-14 — Amendment (A016) offered by Mr. O'Rourke. (consideration: CR H5465; text: CR H5465)
+- 2016-09-14 — Amendment (A017) offered by Mr. O'Rourke. (consideration: CR H5465-5466; text: CR H5465-5466)
+- 2016-09-14 — Amendment (A018) offered by Mr. Takano. (consideration: CR H5466-5467, H5482; text: CR H5466)
+- 2016-09-14 — Amendment (A019) offered by Mr. Takano. (consideration: CR H5467, H5482-5483; text: CR H5467)
+- 2016-09-14 — Amendment (A020) offered by Mr. Duffy. (consideration: CR H5467-5469, H5483-5484; text: CR H5467-5468)
+- 2016-09-14 — Amendment (A021) offered by Mr. Miller (FL). (consideration: CR H5469-5470; text: CR H5469-5470)
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment agreed to Committee of the Whole
+- 2016-09-14 — Amendment failed in Committee of the Whole
+- 2016-09-14 — Amendment failed in Committee of the Whole
+- 2016-09-14 — Amendment failed in Committee of the Whole
+- 2016-09-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 5620 as unfinished business.
+- 2016-09-14 — Considered as unfinished business. (consideration: CR H5463-5470)
+- 2016-09-14 — Considered as unfinished business. (consideration: CR H5479-5486)
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment No. 21.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan, Ben Ray (NM) amendment No. 14.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (FL) amendment No. 22.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the O'Rourke amendment No. 16.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the O'Rourke amendment No. 17.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the O'Rourke amendment No. 18.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 15.
+- 2016-09-14 — DEBATE - Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 19.
+- 2016-09-14 — DEBATE - The House proceeded with 10 minutes of debate on the Titus motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of the bill pertaining to the Definiiton of Spouse for Purposes of Veteran Benefits to Reflect New State Definitions of Spouse pending a reservation of a point of order. Subsequently, the reservation was removed.
+- 2016-09-14 — House amendment agreed to: On agreeing to the Duffy amendment (A020) Agreed to by recorded vote: 423 - 1 (Roll no. 517).
+- 2016-09-14 — House amendment agreed to: On agreeing to the Lujan, Ben Ray (NM) amendment (A013) Agreed to by voice vote.
+- 2016-09-14 — House amendment agreed to: On agreeing to the Miller (FL) amendment (A021) Agreed to by voice vote.
+- 2016-09-14 — House amendment agreed to: On agreeing to the O'Rourke amendment (A015) Agreed to by voice vote.
+- 2016-09-14 — House amendment agreed to: On agreeing to the O'Rourke amendment (A016) Agreed to by voice vote.
+- 2016-09-14 — House amendment agreed to: On agreeing to the O'Rourke amendment (A017) Agreed to by voice vote.
+- 2016-09-14 — House amendment agreed to: On agreeing to the Takano amendment (A014) Agreed to by recorded vote: 426 - 0 (Roll no. 514).
+- 2016-09-14 — House amendment agreed to: On agreeing to the Takano amendment (A018) Agreed to by recorded vote: 421 - 1 (Roll no. 515).
+- 2016-09-14 — House amendment agreed to: On agreeing to the Takano amendment (A019) Agreed to by recorded vote: 421 - 0 (Roll no. 516).
+- 2016-09-14 — House amendment not agreed to: On agreeing to the Kuster amendment (A005) Failed by recorded vote: 183 - 236 (Roll no. 513).
+- 2016-09-14 — House amendment not agreed to: On agreeing to the Takano amendment (A003) Failed by recorded vote: 184 - 240 (Roll no. 512).
+- 2016-09-14 — House amendment not agreed to: On agreeing to the Walz amendment (A002) Failed by recorded vote: 173 - 250 (Roll no. 511).
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered
+- 2016-09-14 — House amendment offered/reported by : Amendment (A013) offered by Mr. Lujan, Ben Ray (NM).(consideration: CR H5463-5464; text: CR H5463)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A014) offered by Mr. Takano.(consideration: CR H5464, H5481-5482; text: CR H5464)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A015) offered by Mr. O'Rourke.(consideration: CR H5464-5465; text: CR H5464)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A016) offered by Mr. O'Rourke.(consideration: CR H5465; text: CR H5465)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A017) offered by Mr. O'Rourke.(consideration: CR H5465-5466; text: CR H5465-5466)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A018) offered by Mr. Takano.(consideration: CR H5466-5467, H5482; text: CR H5466)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A019) offered by Mr. Takano.(consideration: CR H5467, H5482-5483; text: CR H5467)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A020) offered by Mr. Duffy.(consideration: CR H5467-5469, H5483-5484; text: CR H5467-5468)
+- 2016-09-14 — House amendment offered/reported by : Amendment (A021) offered by Mr. Miller (FL).(consideration: CR H5469-5470; text: CR H5469-5470)
+- 2016-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-14 — Mr. Miller (FL) moved that the Committee now rise.
+- 2016-09-14 — Ms. Titus moved to recommit with instructions to the Committee on Veterans' Affairs. (consideration: CR H5484-5485; text: CR H5484)
+- 2016-09-14 — On agreeing to the Duffy amendment (A020) Agreed to by recorded vote: 423 - 1 (Roll no. 517).
+- 2016-09-14 — On agreeing to the Kuster amendment (A005) Failed by recorded vote: 183 - 236 (Roll no. 513).
+- 2016-09-14 — On agreeing to the Lujan, Ben Ray (NM) amendment (A013) Agreed to by voice vote.
+- 2016-09-14 — On agreeing to the Miller (FL) amendment (A021) Agreed to by voice vote.
+- 2016-09-14 — On agreeing to the O'Rourke amendment (A015) Agreed to by voice vote.
+- 2016-09-14 — On agreeing to the O'Rourke amendment (A016) Agreed to by voice vote.
+- 2016-09-14 — On agreeing to the O'Rourke amendment (A017) Agreed to by voice vote.
+- 2016-09-14 — On agreeing to the Takano amendment (A003) Failed by recorded vote: 184 - 240 (Roll no. 512).
+- 2016-09-14 — On agreeing to the Takano amendment (A014) Agreed to by recorded vote: 426 - 0 (Roll no. 514).
+- 2016-09-14 — On agreeing to the Takano amendment (A018) Agreed to by recorded vote: 421 - 1 (Roll no. 515).
+- 2016-09-14 — On agreeing to the Takano amendment (A019) Agreed to by recorded vote: 421 - 0 (Roll no. 516).
+- 2016-09-14 — On agreeing to the Walz amendment (A002) Failed by recorded vote: 173 - 250 (Roll no. 511).
+- 2016-09-14 — On motion that the Committee now rise Agreed to by voice vote.
+- 2016-09-14 — On motion to recommit with instructions Failed by recorded vote: 185 - 239 (Roll no. 518).
+- 2016-09-14 — On passage Passed by the Yeas and Nays: 310 - 116 (Roll no. 519).
+- 2016-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duffy amendment No. 21, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 19, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 20, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 310 - 116 (Roll no. 519).
+- 2016-09-14 — Pursuant to the provisions of H. Res. 859, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 20.
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — Roll call votes on amendments in House
+- 2016-09-14 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-09-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-09-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-09-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5620.
+- 2016-09-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5485)
+- 2016-09-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5484, H5485)
