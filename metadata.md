@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5985
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5985
@@ -22,6 +22,10 @@ Department of Veterans Affairs Expiring Authorities Act of 2016
 - House — Budget Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-09-19 — [Senate 114-2-143](votes/senate-114-2-0143.md) — On Passage of the Bill — **Bill Passed** (89–0)
+
 ## Actions
 
 - 2016-09-09 — Introduced in House
@@ -37,3 +41,14 @@ Department of Veterans Affairs Expiring Authorities Act of 2016
 - 2016-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5387-5389)
 - 2016-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5387-5389)
 - 2016-09-14 — Received in the Senate, read twice.
+- 2016-09-19 — Measure laid before Senate by unanimous consent. (consideration: CR S5876-5878)
+- 2016-09-19 — Passed Senate without amendment by Yea-Nay Vote. 89 - 0. Record Vote Number: 143.
+- 2016-09-19 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 89 - 0. Record Vote Number: 143.
+- 2016-09-20 — Message on Senate action sent to the House.
+- 2016-09-21 — Presented to President.
+- 2016-09-21 — Presented to President.
+- 2016-09-29 — Became Public Law No: 114-228.
+- 2016-09-29 — Became Public Law No: 114-228.
+- 2016-09-29 — Signed by President.
+- 2016-09-29 — Signed by President.
+- 2016-10-19 — Referred to the Subcommittee on Military Personnel.
