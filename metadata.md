@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3590
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3590
@@ -63,3 +63,4 @@ Halt Tax Increases on the Middle Class and Seniors Act
 - 2016-09-13 — Rule H. Res. 858 passed House.
 - 2016-09-13 — Rule provides for consideration of H.R. 3590 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
 - 2016-09-13 — The previous question was ordered pursuant to the rule. (consideration: CR H5385)
+- 2016-09-14 — Received in the Senate.
