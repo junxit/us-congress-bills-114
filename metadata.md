@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2494
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2494
@@ -16,7 +16,7 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (113)
+## Cosponsors (114)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -131,6 +131,7 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Sen. Flake, Jeff [R-AZ] (F000444)
 
 ## Committees (4)
 
@@ -162,3 +163,12 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 - 2016-05-09 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-05-09 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
+- 2016-09-15 — Amendment SA 5078 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5078 proposed by Senator Coons. (consideration: CR S5834) In the nature of a substitute.
+- 2016-09-15 — Measure laid before Senate by unanimous consent. (consideration: CR S5832-5835; text of measure as reported in Senate: CR S5832-5834)
+- 2016-09-15 — Passed Senate with an amendment by Voice Vote.
+- 2016-09-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5078 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5078 proposed by Senator Coons.(consideration: CR S5834)
+- 2016-09-15 — Senate amendment submitted
+- 2016-09-15 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S5834)
