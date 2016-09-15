@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1296
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1296
@@ -36,3 +36,12 @@ To amend the San Luis Rey Indian Water Rights Settlement Act to clarify certain 
 - 2015-03-04 — Introduced in House
 - 2015-03-04 — Introduced in House
 - 2015-03-04 — Referred to the House Committee on Natural Resources.
+- 2015-03-23 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2015-10-28 — Subcommittee Hearings Held.
+- 2016-02-02 — Committee Consideration and Mark-up Session Held.
+- 2016-02-02 — Subcommittee on Water, Power and Oceans Discharged.
+- 2016-02-03 — Committee Consideration and Mark-up Session Held.
+- 2016-02-03 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-15 — Placed on the Union Calendar, Calendar No. 580.
+- 2016-09-15 — Reported by the Committee on Natural Resources. H. Rept. 114-747.
+- 2016-09-15 — Reported by the Committee on Natural Resources. H. Rept. 114-747.
