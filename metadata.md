@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5226
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5226
@@ -33,9 +33,10 @@ Regulatory Integrity Act of 2016
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -92,3 +93,4 @@ Regulatory Integrity Act of 2016
 - 2016-09-14 — The Speaker designated the Honorable Keith J. Rothfus to act as Chairman of the Committee.
 - 2016-09-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5477)
 - 2016-09-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5476)
+- 2016-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
