@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5937
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5937
@@ -36,3 +36,12 @@ To amend title 36, United States Code, to authorize the American Battle Monument
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5279)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5279)
 - 2016-09-13 — Received in the Senate, read twice.
+- 2016-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5911)
+- 2016-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5911)
+- 2016-09-21 — Message on Senate action sent to the House.
+- 2016-09-26 — Presented to President.
+- 2016-09-26 — Presented to President.
+- 2016-09-29 — Became Public Law No: 114-227.
+- 2016-09-29 — Became Public Law No: 114-227.
+- 2016-09-29 — Signed by President.
+- 2016-09-29 — Signed by President.
