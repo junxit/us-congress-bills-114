@@ -1,7 +1,7 @@
 ---
 measure: S. 2902
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2902
@@ -32,3 +32,8 @@ Western Water Supply and Planning Enhancement Act of 2016
 
 - 2016-05-09 — Introduced in Senate
 - 2016-05-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2016-05-17 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-495.
+- 2016-07-13 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2016-09-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-353.
+- 2016-09-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 114-353.
+- 2016-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.
