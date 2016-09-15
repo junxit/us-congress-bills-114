@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** begins on the date of the enactment of this Act; and
   - **(2)** ends on the earlier of—
     - **(A)** the date of the enactment of an Act authorizing appropriations for military activities of the Department of Defense for fiscal year 2017; or
-    - **(B)** January 1, 2017.
+    - **(B)** January 21, 2017.
 - **(c)** *Individual detained at Guantanamo defined* In this section, the term individual detained at Guantanamo means an individual located at United States Naval Station, Guantanamo Bay, Cuba, as of October 1, 2009, who—
   - **(1)** is not a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)) or a member of the Armed Forces of the United States; and
   - **(2)** is—
