@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2494
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2494
@@ -172,3 +172,14 @@ Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016
 - 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5078 proposed by Senator Coons.(consideration: CR S5834)
 - 2016-09-15 — Senate amendment submitted
 - 2016-09-15 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S5834)
+- 2016-09-19 — Message on Senate action sent to the House.
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — Mr. Royce asked unanimous consent that the House take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5741-5743)
+- 2016-09-21 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5741-5743)
+- 2016-09-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5741-5743)
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-231.
+- 2016-10-07 — Became Public Law No: 114-231.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
