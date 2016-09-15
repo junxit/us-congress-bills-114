@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5620
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5620
@@ -53,10 +53,11 @@ VA Accountability First and Appeals Modernization Act of 2016
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Oversight and Accountability Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (9)
 
@@ -265,3 +266,4 @@ VA Accountability First and Appeals Modernization Act of 2016
 - 2016-09-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5620.
 - 2016-09-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5485)
 - 2016-09-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5484, H5485)
+- 2016-09-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
