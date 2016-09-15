@@ -9,7 +9,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To designate the Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, as the “Tom Stagg Federal Building and United States Courthouse”.
 
-## § 1. Tom Stagg Federal building and United States courthouse United States Court House
+## § 1. Tom Stagg United States Court House
 
 - **(a)** *Findings* Congress finds that—
   - **(1)** the Honorable Thomas Eaton Stagg, Jr., served as judge of the United States District Court for the Western District of Louisiana from 1974 until his death in 2015;
@@ -17,5 +17,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** Judge Stagg served as Senior Judge of the United States District Court for the Western District of Louisiana from 1992 through 2015;
   - **(4)** Judge Stagg exemplified all that is respectable and dignified in the judiciary and was a mentor and role model for all attorneys within and beyond the Western District of Louisiana; and
   - **(5)** the naming of the Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, after Judge Stagg would honor his name and the legacy he left to all citizens of the Western District of Louisiana.
-- **(b)** *Designation* The Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, shall be known and designated as the “Tom Stagg Federal Building and United States Courthouse United States Court House”.
-- **(c)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building and United States courthouse referred to in subsection (b) shall be deemed to be a reference to the “Tom Stagg Federal Building and United States Courthouse United States Court House”.
+- **(b)** *Designation* The Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, shall be known and designated as the “Tom Stagg United States Court House”.
+- **(c)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building and United States courthouse referred to in subsection (b) shall be deemed to be a reference to the “Tom Stagg United States Court House”.
