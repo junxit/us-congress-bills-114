@@ -1,7 +1,7 @@
 ---
 measure: S. 2848
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2848
@@ -16,13 +16,102 @@ Water Resources Development Act of 2016
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (1)
+## Cosponsors (83)
 
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
+
+## Recorded votes (4)
+
+- 2016-09-12 — [Senate 114-2-138](votes/senate-114-2-0138.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–1)
+- 2016-09-14 — [Senate 114-2-139](votes/senate-114-2-0139.md) — On the Motion — **Motion Agreed to** (85–12)
+- 2016-09-14 — [Senate 114-2-140](votes/senate-114-2-0140.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–3)
+- 2016-09-15 — [Senate 114-2-141](votes/senate-114-2-0141.md) — On Passage of the Bill — **Bill Passed** (95–3)
 
 ## Actions
 
@@ -32,3 +121,181 @@ Water Resources Development Act of 2016
 - 2016-06-20 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 114-283.
 - 2016-06-20 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 114-283.
 - 2016-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
+- 2016-09-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5240)
+- 2016-09-07 — Amendment SA 4979 proposed by Senator McConnell for Senator Inhofe. (consideration: CR S5356) In the nature of a substitute.
+- 2016-09-07 — Amendment SA 4980 proposed by Senator Inhofe to Amendment SA 4979. (consideration: CR S5356-5357; text: CR S5356-5357) To make a technical correction.
+- 2016-09-07 — Measure laid before Senate by motion.
+- 2016-09-07 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S5324-5360; text as introduced: CR S5324-5356)
+- 2016-09-07 — Motion to proceed to measure considered in Senate. (consideration: CR S5324)
+- 2016-09-07 — Senate amendment proposed (on the floor): Amendment SA 4979 proposed by Senator McConnell for Senator Inhofe.(consideration: CR S5356)
+- 2016-09-07 — Senate amendment proposed (on the floor): Amendment SA 4980 proposed by Senator Inhofe to Amendment SA 4979.(consideration: CR S5356-5357; text: CR S5356-5357)
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — Senate amendment submitted
+- 2016-09-07 — The committee amendments withdrawn by Unanimous Consent. (consideration: CR S5356)
+- 2016-09-08 — Amendment SA 4981 agreed to in Senate by Voice Vote.
+- 2016-09-08 — Amendment SA 4981 proposed by Senator Inhofe for Senator Heller to Amendment SA 4979. (consideration: CR S5435; text: CR S5435) To ensure the proper implementation of the rural Western water program.
+- 2016-09-08 — Amendment SA 4991 agreed to in Senate by Voice Vote.
+- 2016-09-08 — Amendment SA 4991 proposed by Senator Inhofe for Senator Merkley to Amendment SA 4979. (consideration: CR S5435; text: CR S5435) To provide loan forgiveness under Clean Water State Resolving Funds to local irrigation districts.
+- 2016-09-08 — Cloture motion on amendment SA 4979 presented in Senate. (consideration: CR S5445; text: CR S5445)
+- 2016-09-08 — Cloture motion on the measure presented in Senate. (consideration: CR S5445; text: CR S5445)
+- 2016-09-08 — Considered by Senate. (consideration: CR S5424)
+- 2016-09-08 — Considered by Senate. (consideration: CR S5424)
+- 2016-09-08 — Considered by Senate. (consideration: CR S5424-5444, S5445)
+- 2016-09-08 — Senate amendment agreed to: Amendment SA 4981 agreed to in Senate by Voice Vote.
+- 2016-09-08 — Senate amendment agreed to: Amendment SA 4991 agreed to in Senate by Voice Vote.
+- 2016-09-08 — Senate amendment proposed (on the floor): Amendment SA 4981 proposed by Senator Inhofe for Senator Heller to Amendment SA 4979.(consideration: CR S5435; text: CR S5435)
+- 2016-09-08 — Senate amendment proposed (on the floor): Amendment SA 4991 proposed by Senator Inhofe for Senator Merkley to Amendment SA 4979.(consideration: CR S5435; text: CR S5435)
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-08 — Senate amendment submitted
+- 2016-09-12 — Cloture on amendment SA 4979 invoked in Senate by Yea-Nay Vote. 90 - 1. Record Vote Number: 138. (consideration: CR S5498-5499; text: CR S5498)
+- 2016-09-12 — Considered by Senate. (consideration: CR S5489)
+- 2016-09-12 — Considered by Senate. (consideration: CR S5489)
+- 2016-09-12 — Considered by Senate. (consideration: CR S5489-5499)
+- 2016-09-12 — Roll call votes on amendments in Senate: Cloture on amendment SA 4979 invoked in Senate by Yea-Nay Vote. 90 - 1. Record Vote Number: 138.(consideration: CR S5498-5499; text: CR S5498)
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-12 — Senate amendment submitted
+- 2016-09-13 — Amendment SA 5042 as modified agreed to in Senate by Voice Vote. (text as modified: CR S5603-5660)
+- 2016-09-13 — Amendment SA 5042 proposed by Senator Inhofe to Amendment SA 4979. (considered: CR S5603-5660) Of a perfecting nature.
+- 2016-09-13 — Considered by Senate. (considered: CR S5585)
+- 2016-09-13 — Considered by Senate. (considered: CR S5585)
+- 2016-09-13 — Considered by Senate. (considered: CR S5585-5660)
+- 2016-09-13 — SA 4980 fell when SA 5042 agreed to.
+- 2016-09-13 — Senate amendment agreed to: Amendment SA 5042 as modified agreed to in Senate by Voice Vote.(text as modified: CR S5603-5660)
+- 2016-09-13 — Senate amendment proposed (on the floor): Amendment SA 5042 proposed by Senator Inhofe to Amendment SA 4979.(considered: CR S5603-5660)
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-13 — Senate amendment submitted
+- 2016-09-14 — Amendment SA 4979 agreed to in Senate by Voice Vote.
+- 2016-09-14 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 140. (consideration: CR S5707; text: CR S5707)
+- 2016-09-14 — Considered by Senate. (consideration: CR S5694, S5706-5707)
+- 2016-09-14 — Considered by Senate. (consideration: CR S5694-5718)
+- 2016-09-14 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4979 agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 139.
+- 2016-09-14 — Point of order that the amendment violates section 201(a) of S.Con.Res. 21, 110th Congress, raised in Senate with respect to amendment SA 4979.
+- 2016-09-14 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4979 agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 139.
+- 2016-09-14 — Senate amendment agreed to: Amendment SA 4979 agreed to in Senate by Voice Vote.
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-14 — Senate amendment submitted
+- 2016-09-15 — Amendment SA 5063 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5742)
+- 2016-09-15 — Amendment SA 5063 proposed by Senator Inhofe for Senator Sanders to Amendment SA 4979. (consideration: CR S5742-5743) To provide for rehabilitation of certain dams.
+- 2016-09-15 — Amendment SA 5066 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5743)
+- 2016-09-15 — Amendment SA 5066 proposed by Senator Inhofe for Senator Sasse to Amendment SA 4979. (consideration: CR S5742-5743) To require a GAO review and report on certain projects.
+- 2016-09-15 — Amendment SA 5068 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5068 proposed by Senator Inhofe for Senator Paul to Amendment SA 4979. (consideration: CR S5742-5743; text: CR S5742) To ensure that the Secretary does not charge a fee for certain surplus water.
+- 2016-09-15 — Amendment SA 5069 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5069 proposed by Senator Inhofe for Senator Cardin to Amendment SA 4979. (consideration: CR S5742-5743; text: CR S5742) To require an annual survey of sea grasses in the Chesapeake Bay.
+- 2016-09-15 — Amendment SA 5074 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5742-5743)
+- 2016-09-15 — Amendment SA 5074 proposed by Senator Inhofe for Senator Hoeven to Amendment SA 4979. (consideration: CR S5742-5743) To limit the permit fees for cabins and trailers on land administered by the Dakotas Area Office of the Bureau of Reclamation and to allow trailer area permittees at Heart Butte Dam and Reservoir (Lake Tschida) to continue using trailer homes on their permitted lots.
+- 2016-09-15 — Amendment SA 5075 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5075 proposed by Senator Inhofe for Senator Isakson to Amendment SA 4979. (consideration: CR S5742-5743; text: CR S5742) To deauthorize the New Savannah Bluff Lock and Dam, Georgia and South Carolina.
+- 2016-09-15 — Amendment SA 5076 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5076 proposed by Senator Inhofe for Senator Cochran to Amendment SA 4979. (consideration: CR S5742-5743; text: CR S5742) To make technical corrections.
+- 2016-09-15 — Amendment SA 5077 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Amendment SA 5077 proposed by Senator Inhofe for Senator Tester to Amendment SA 4979. (consideration: CR S5742-5743) To achieve a fair, equitable, and final settlement of claims to water rights in the State of Montana for the Blackfeet Tribe of the Blackfeet Indian Reservation and the United States, for the benefit of the Tribe and allottees, and for other purposes.
+- 2016-09-15 — Considered by Senate. (consideration: CR S5736-5811)
+- 2016-09-15 — Notwithstanding the adoption of amendment SA 4979, the substitute amendment was amended by Unanimous Consent. (consideration: CR S5741-5742)
+- 2016-09-15 — Passed Senate with an amendment by Yea-Nay Vote. 95 - 3. Record Vote Number: 141. (text: CR S5743-5811)
+- 2016-09-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 95 - 3. Record Vote Number: 141.(text: CR S5743-5811)
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5063 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5742)
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5066 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5743)
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5068 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5069 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5074 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5742-5743)
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5075 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5076 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment agreed to: Amendment SA 5077 agreed to in Senate by Unanimous Consent.
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5063 proposed by Senator Inhofe for Senator Sanders to Amendment SA 4979.(consideration: CR S5742-5743)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5066 proposed by Senator Inhofe for Senator Sasse to Amendment SA 4979.(consideration: CR S5742-5743)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5068 proposed by Senator Inhofe for Senator Paul to Amendment SA 4979.(consideration: CR S5742-5743; text: CR S5742)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5069 proposed by Senator Inhofe for Senator Cardin to Amendment SA 4979.(consideration: CR S5742-5743; text: CR S5742)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5074 proposed by Senator Inhofe for Senator Hoeven to Amendment SA 4979.(consideration: CR S5742-5743)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5075 proposed by Senator Inhofe for Senator Isakson to Amendment SA 4979.(consideration: CR S5742-5743; text: CR S5742)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5076 proposed by Senator Inhofe for Senator Cochran to Amendment SA 4979.(consideration: CR S5742-5743; text: CR S5742)
+- 2016-09-15 — Senate amendment proposed (on the floor): Amendment SA 5077 proposed by Senator Inhofe for Senator Tester to Amendment SA 4979.(consideration: CR S5742-5743)
+- 2016-09-15 — Senate amendment submitted
+- 2016-09-15 — Senate amendment submitted
+- 2016-09-15 — Senate amendment submitted
+- 2016-09-15 — Senate amendment submitted
