@@ -1,7 +1,7 @@
 ---
 measure: S. 2058
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2058
@@ -28,3 +28,7 @@ To require the Secretary of Commerce to study the coverage gaps of the Next Gene
 
 - 2015-09-17 — Introduced in Senate
 - 2015-09-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-12-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-351.
+- 2016-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-351.
+- 2016-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
