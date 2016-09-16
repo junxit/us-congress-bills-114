@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5719
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -45,8 +45,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 83` | add-at-end | Section 83 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 3401` | add-at-end | Section 3401 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 3401` | add-at-end | Section 3402 of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 422` | insert | Section 422(b) of the Internal Revenue Code of 1986 is amended by inserting “or any option with respect to which an election is made under section 83(i)” after “as an incentive stock option”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 422` | add-at-end | Section 422(b) of the Internal Revenue Code of 1986 is amended by adding at the end the following: “Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 422` | add-at-end | Section 423(a) of such Code is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 409A` | add-at-end | Subsection (d) of section 409A of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6051` | insert | Section 6051 of the Internal Revenue Code of 1986 is amended by inserting after paragraph (6) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6051` | replace | Section 6051(a) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of paragraph (13), by striking the period at the end of paragraph (14) and inserting a comma, and by inserting after paragraph (14) the followin… | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6652` | add-at-end | Section 6652 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
