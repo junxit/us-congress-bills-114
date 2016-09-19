@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5659
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-22
 
-> by striking “Beneficiaries” and all that follows through “A Medicare+Choice organization” and inserting “Beneficiaries.—A Medicare Advantage organization.”.
+> by striking “Beneficiaries” and all that follows through “A Medicare+Choice organization” and inserting “Beneficiaries.—A Medicare Advantage organization”.
 
 | | |
 |---|---|
 | Removed | `Beneficiaries” and all that follows through “A Medicare+Choice organization` |
-| Inserted | `Beneficiaries.—A Medicare Advantage organization.` |
+| Inserted | `Beneficiaries.—A Medicare Advantage organization` |
 
 ### 42 U.S.C. § 1395w-23
 
@@ -80,10 +80,10 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1395w-21` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-22` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-28` | strike | The flush sentence at the end of section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)) is amended by striking “may waive” and all that follows through “subparagraph and”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-28` | strike | Section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)) is amended by striking “may waive” and all that follows through “subparagraph and”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-23` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-23` | insert | in subparagraph (A)(i), by inserting “and, for 2019 and subsequent years, the exclusion of payments for organ acquisitions for kidney transplants from the capitation rate as described in subsection (k)(5)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-23` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-22` | insert | Section 1852(a)(1)(B)(i) of the Social Security Act (42 U.S.C. 1395w–22(a)(1)(B)(i)) is amended by inserting “or coverage for organ acquisitions for kidney transplants, including as covered under section 1881(d),” after “hospice care”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-22` | insert | Section 1852(a)(1)(B)(i) of the Social Security Act (42 U.S.C. 1395w–22(a)(1)(B)(i)) is amended by inserting “or coverage for organ acquisitions for kidney transplants, including as covered under section 1881(d)” after “hospice care”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-21` | add-at-end | Section 1851(i) of the Social Security Act (42 U.S.C. 1395w–21(i)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-21` | insert | Section 1851(d)(2)(A)(iii) of the Social Security Act (42 U.S.C. 1395w–21(d)(2)(A)(iii)) is amended by inserting before the period at the end the following: “, including any additional information that individuals determined to have end-… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
