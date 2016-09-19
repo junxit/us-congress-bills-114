@@ -15,13 +15,19 @@ This Act may be cited as the “Securing our Agriculture and Food Act”.
 
 ## § 2. Coordination of food, agriculture, and veterinary defense against terrorism
 
-- **(a)** *In general* Title I of the Homeland Security Act of 2002 is amended by inserting after section 103 (6 U.S.C. 113) the following new section:
-  > ## § 104. Assistant Secretary of Homeland Security for Health Affairs coordination of Department efforts related to food, agriculture, and veterinary defense against terrorism
+- **(a)** *In general* Title V of the Homeland Security Act of 2002 is amended by inserting after section 526 (6 U.S.C. 321o) the following new section:
+  > ## § 527. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism
   >
-  > - **(a)** *Program required* The Assistant Secretary for Health Affairs shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems against terrorism and other high-consequence events that pose a high risk to homeland security.
+  > - **(a)** *Program required* The Secretary, acting through the Assistant Secretary for Health Affairs, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
   > - **(b)** *Program elements* The coordination program required by subsection (a) shall include, at a minimum, the following:
-  >   - **(1)** Providing oversight and integration of the Department’s activities related to veterinary public health, food defense, and agricultural security.
-  >   - **(2)** Leading the Department’s policy initiatives relating to food, animal, and agricultural incidents, and the impact of such incidents on animal and public health.
-  >   - **(3)** Leading the Department’s policy initiatives relating to overall domestic preparedness for and collective response to agricultural terrorism.
+  >   - **(1)** Providing oversight and management of the Department’s responsibilities pursuant to Homeland Security Presidential Directive 9 - Defense of United States Agriculture and Food.
+  >   - **(2)** Providing oversight and integration of the Department’s activities related to veterinary public health, food defense, and agricultural security.
+  >   - **(3)** Leading the Department’s policy initiatives relating to food, animal, and agricultural incidents, and the impact of such incidents on animal and public health.
+  >   - **(4)** Leading the Department’s policy initiatives relating to overall domestic preparedness for and collective response to agricultural terrorism.
+  >   - **(5)** Coordinating with other Department components, including U.S. Customs and Border Protection, as appropriate, on activities related to food and agriculture security and screening procedures for domestic and imported products.
+  >   - **(6)** Coordinating with appropriate Federal departments and agencies.
+  >   - **(7)** Other activities as determined necessary by the Secretary.
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended by inserting after the item relating to section 103 the following new item:
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended—
+  - **(1)** by striking the items relating to sections 523, 524, and 525; and
+  - **(2)** by inserting after the item relating to section 522 the following new items:

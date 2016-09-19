@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 113` | insert | Title I of the Homeland Security Act of 2002 is amended by inserting after section 103 (6 U.S.C. 113) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended by inserting after the item relating to section 103 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 321o` | insert | Title V of the Homeland Security Act of 2002 is amended by inserting after section 526 (6 U.S.C. 321o) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | strike | by striking the items relating to sections 523, 524, and 525; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | insert | by inserting after the item relating to section 522 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
