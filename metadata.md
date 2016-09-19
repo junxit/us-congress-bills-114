@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2647
@@ -116,3 +116,7 @@ Emergency Wildfire and Forest Management Act of 2016
 - 2015-07-09 — The title of the measure was amended. Agreed to without objection.
 - 2015-07-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and which further proceedings had been postponed.
 - 2015-07-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2016-09-13 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-19 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
+- 2016-09-19 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with an amendment in the nature of a substitute. Without written report.
+- 2016-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 634.

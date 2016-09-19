@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 10 executed, 28 stated and not applied.
+62 amendatory instructions. 18 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,6 +114,78 @@ to guess them.
 | Removed | `subsection (b)(1), the Secretary may` |
 | Inserted | `paragraphs (1) and (4)(B) of subsection (b), the Secretary shall` |
 
+### 2 U.S.C. § 901
+
+> Section 251(b)(2)(D)(iii) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(D)(iii)) is amended by striking “section 102(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(2))” and inserting “paragraph (2) or (3) of section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)”.
+
+| | |
+|---|---|
+| Removed | `section 102(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(2))` |
+| Inserted | `paragraph (2) or (3) of section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)` |
+
+### 25 U.S.C. § 3115a
+
+> in paragraph (1), by striking “Not later than 120 days after the date on which an Indian tribe submits to the Secretary” and inserting “In response to the submission by an Indian tribe to the Secretary of ”; and
+
+| | |
+|---|---|
+| Removed | `Not later than 120 days after the date on which an Indian tribe submits to the Secretary` |
+| Inserted | `In response to the submission by an Indian tribe to the Secretary of` |
+
+### 16 U.S.C. § 2104
+
+> in subsections (b)(1) and (f)(1), by striking “section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275))” each place it appears and inserting “section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c)”; and
+
+| | |
+|---|---|
+| Removed | `section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275))` |
+| Inserted | `section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c)` |
+
+### 25 U.S.C. § 3115a
+
+> in subsection (d), in the matter preceding paragraph (1), by striking “subsection (b)(1), the Secretary may” and inserting “paragraphs (1) and (4)(B) of subsection (b), the Secretary shall”.
+
+| | |
+|---|---|
+| Removed | `subsection (b)(1), the Secretary may` |
+| Inserted | `paragraphs (1) and (4)(B) of subsection (b), the Secretary shall` |
+
+### 16 U.S.C. § 2113
+
+> Section 19(a)(4)(C) of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2113(a)(4)(C)) is amended by striking “sections 13A and 13B” and inserting “section 13A”.
+
+| | |
+|---|---|
+| Removed | `sections 13A and 13B` |
+| Inserted | `section 13A` |
+
+### 16 U.S.C. § 521e
+
+> Section 3 of Public Law 97–465 (commonly known as the “Small Tract Act of 1983”) (16 U.S.C. 521e) is amended in the matter preceding paragraph (1) by striking “$150,000” and inserting “$500,000”.
+
+| | |
+|---|---|
+| Removed | `$150,000` |
+| Inserted | `$500,000` |
+
+### 16 U.S.C. § 521d
+
+> by striking “convenants” and inserting “covenants”; and
+
+| | |
+|---|---|
+| Removed | `convenants` |
+| Inserted | `covenants` |
+
+### 16 U.S.C. § 580d
+
+> Section 503(f) of the Forest Service Facility Realignment and Enhancement Act of 2005 (16 U.S.C. 580d note; Public Law 109–54) is amended by striking “2016” and inserting “2018”.
+
+| | |
+|---|---|
+| Removed | `2016` |
+| Inserted | `2018` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -151,3 +223,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5122` | replace | by striking “(2)” and all that follows through “means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5122` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170` | add-at-end | The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | redesignate | by redesignating paragraphs (3) through (12) as paragraphs (4) through (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5121` | add-at-end | The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3115a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3104` | add-at-end | Section 305 of the National Indian Forest Resources Management Act (25 U.S.C. 3104) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2109a` | amend | Section 13A of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2109a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2109b` | repeal | Section 13B of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2109b) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591` | add-at-end | Title VI of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591` | add-at-end | The table of contents for the Healthy Forests Restoration Act of 2003 (16 U.S.C. prec. 6501) is amended by adding at the end of the items relating to title VI the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521e` | replace | in paragraph (2), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 521e` | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 521d` | replace | in the matter preceding paragraph (1), by striking “The Secretary is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 521d` | replace | in paragraph (2), in the second sentence, by striking “The Secretary shall insert” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 521d` | replace | in the second sentence by striking “The preceding sentence shall not” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 484a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
