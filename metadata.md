@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5709
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5709
@@ -25,3 +25,8 @@ Federal Records Modernization Act of 2016
 - 2016-07-11 — Introduced in House
 - 2016-07-11 — Introduced in House
 - 2016-07-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-12 — Ordered to be Reported by Voice Vote.
+- 2016-09-19 — Placed on the Union Calendar, Calendar No. 591.
+- 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-759.
+- 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-759.
