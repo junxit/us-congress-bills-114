@@ -19,13 +19,33 @@ Title II of the Homeland Security Act of 2002 is amended—
 
 - **(1)** in section 210A (6 U.S.C. 124h)—
   - **(A)** in subsection (b)—
-    - **(i)** in paragraph (6), by inserting “cybersecurity risk information,” after “terrorism information,”; and
-    - **(ii)** in paragraph (8), by inserting “cybersecurity risk information,” after “terrorism information,”; and
-  - **(B)** in subsection (d)(1), by inserting “cybersecurity risk information,” after “terrorism information,”; and
+    - **(i)** in paragraph (10), by inserting before the semicolon at the end the following: “, including, in coordination with the national cybersecurity and communications integration center under section 227, accessing timely technical assistance, risk management support, and incident response capabilities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents (as such terms are defined in such section), which may include attribution, mitigation, and remediation, and the provision of information and recommendations on security and resilience, including implications of cybersecurity risks to equipment and technology related to the electoral process”;
+    - **(ii)** in paragraph (11), by striking “and” after the semicolon;
+    - **(iii)** by redesignating paragraph (12) as paragraph (14); and
+    - **(iv)** by inserting after paragraph (11) the following new paragraphs:
+      > - **(12)** review information relating to cybersecurity risks that is gathered by State, local, and regional fusion centers, and incorporate such information, as appropriate, into the Department’s own information relating to cybersecurity risks;
+      > - **(13)** ensure the dissemination to State, local, and regional fusion centers of information relating to cybersecurity risks; and
+
+  - **(B)** in subsection (c)(2)—
+    - **(i)** by redesignating subparagraphs (C) through (G) as subparagraphs (D) through (H), respectively; and
+    - **(ii)** by inserting after subparagraph (B) the following new subparagraph:
+      > - **(C)** The national cybersecurity and communications integration center under section 227.
+
+  - **(C)** in subsection (d)—
+    - **(i)** in paragraph (3), by striking “and” after the semicolon;
+    - **(ii)** by redesignating paragraph (4) as paragraph (5); and
+    - **(iii)** by inserting after paragraph (3) the following new paragraph:
+      > - **(4)** assist, in coordination with the national cybersecurity and communications integration center under section 227, fusion centers in using information relating to cybersecurity risks to develop a comprehensive and accurate threat picture; and
+
+  - **(D)** in subsection (j)—
+    - **(i)** by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and
+    - **(ii)** by inserting before paragraph (2), as so redesignated, the following new paragraph:
+      > - **(1)** the term “cybersecurity risk” has the meaning given that term in section 227;
+
 - **(2)** in section 227 (6 U.S.C. 148)—
   - **(A)** in subsection (c)—
     - **(i)** in paragraph (5)(B), by inserting “, including State and major urban area fusion centers, as appropriate” before the semicolon at the end;
-    - **(ii)** in paragraph (7)(C), by inserting “and best practices” after “defensive measures”; and
+    - **(ii)** in paragraph (7), in the matter preceding subparagraph (A), by striking “information and recommendations” each place it appears and inserting “information, recommendations, and best practices”; and
     - **(iii)** in paragraph (9), by inserting “and best practices” after “defensive measures”; and
   - **(B)** in subsection (d)(1)(B)(ii), by inserting “and State and major urban area fusion centers, as appropriate” before the semicolon at the end.
 
@@ -33,9 +53,9 @@ Title II of the Homeland Security Act of 2002 is amended—
 
 Subsection (a) of section 2008 of the Homeland Security Act of 2002 (6 U.S.C. 609) is amended—
 
-- **(1)** by redesignating paragraphs (4) through (13) as paragraphs (5) through (14), respectively; and
+- **(1)** by redesignating paragraphs (4) through (14) as paragraphs (5) through (15), respectively; and
 - **(2)** by inserting after paragraph (3) the following new paragraph:
-  > - **(4)** enhancing cybersecurity, including preparing for and responding to cybersecurity risks and incidents;
+  > - **(4)** enhancing cybersecurity, including preparing for and responding to cybersecurity risks and incidents and developing State-wide cyber threat information analysis and dissemination activities;
 
 ## § 4. Sense of Congress
 
