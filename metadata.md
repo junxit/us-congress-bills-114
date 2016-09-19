@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5859
@@ -16,7 +16,7 @@ Community Counterterrorism Preparedness Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (25)
+## Cosponsors (29)
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Hurd, Will [R-TX-23] (H001073)
@@ -43,6 +43,10 @@ Community Counterterrorism Preparedness Act
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
 ## Committees (1)
 
@@ -53,3 +57,9 @@ Community Counterterrorism Preparedness Act
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Referred to the House Committee on Homeland Security.
+- 2016-08-03 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2016-09-13 — Committee Consideration and Mark-up Session Held.
+- 2016-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-19 — Placed on the Union Calendar, Calendar No. 586.
+- 2016-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-754.
+- 2016-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-754.
