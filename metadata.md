@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1475
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1475
@@ -362,3 +362,14 @@ Korean War Veterans Memorial Wall of Remembrance Act
 - 2016-09-06 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 114-336.
 - 2016-09-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5888-5889; text as passed Senate: CR S5888-5889)
 - 2016-09-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5888-5889; text as passed Senate: CR S5888-5889)
+- 2016-09-20 — Message on Senate action sent to the House.
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — Mr. Bishop (UT) asked unanimous consent that the House take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5741)
+- 2016-09-21 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5741)
+- 2016-09-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5741)
+- 2016-09-28 — Presented to President.
+- 2016-09-28 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-230.
+- 2016-10-07 — Became Public Law No: 114-230.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
