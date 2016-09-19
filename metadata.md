@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2319
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2319
@@ -16,6 +16,10 @@ Electronic Message Preservation Act of 2015
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
+## Cosponsors (1)
+
+- Rep. Duckworth, Tammy [D-IL-8] (D000622)
+
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
@@ -25,3 +29,8 @@ Electronic Message Preservation Act of 2015
 - 2015-05-14 — Introduced in House
 - 2015-05-14 — Introduced in House
 - 2015-05-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-12 — Ordered to be Reported by Voice Vote.
+- 2016-09-19 — Placed on the Union Calendar, Calendar No. 589.
+- 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-757.
+- 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-757.
