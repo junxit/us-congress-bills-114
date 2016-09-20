@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5943
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5943
@@ -33,3 +33,8 @@ Transit Security Grant Program Flexibility Act
 - 2016-09-07 — Introduced in House
 - 2016-09-07 — Introduced in House
 - 2016-09-07 — Referred to the House Committee on Homeland Security.
+- 2016-09-13 — Committee Consideration and Mark-up Session Held.
+- 2016-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-20 — Placed on the Union Calendar, Calendar No. 607.
+- 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-776.
+- 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-776.

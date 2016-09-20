@@ -26,3 +26,15 @@ Section 1406 of the Implementing Recommendations of the 9/11 Commission Act of 2
   > - **(m)** *Periods of performance*
   >   - **(1)** *In general* Except as provided in paragraph (2), funds provided pursuant to a grant awarded under this section for a use specified in subsection (b) shall remain available for use by a grant recipient for a period of not fewer than 36 months.
   >   - **(2)** *Exception* Funds provided pursuant to a grant awarded under this section for a use specified in subparagraph (M) or (N) of subsection (b)(1) shall remain available for use by a grant recipient for a period of not fewer than 55 months.
+
+## § 4. GAO review
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a review of the transit security grant program under section 1406 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1135; Public Law 110–53).
+- **(b)** *Scope* The review required under paragraph (1) shall include the following:
+  - **(1)** An assessment of the type of projects funded under the transit security grant program.
+  - **(2)** An assessment of the manner in which such projects address threats to transportation infrastructure.
+  - **(3)** An assessment of the impact, if any, of this Act (including the amendments made by this Act) on types of projects funded under the transit security grant program.
+  - **(4)** An assessment of the management and administration of transit security grant program funds by grantees.
+  - **(5)** Recommendations to improve the manner in which transit security grant program funds address vulnerabilities in transportation infrastructure.
+  - **(6)** Recommendations to improve the management and administration of the transit security grant program.
+- **(c)** *Report* Not later than one year after the date of the enactment of this Act and again not later than five years after such date of enactment, the Comptroller General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the review required under this section.
