@@ -17,5 +17,5 @@ This Act may be cited as the “Charles Duncan Buried with Honor Act of 2016”.
 
 Section 2306(f) of title 38, United States Code, is amended—
 
-- **(1)** in the matter preceding paragraph (1), by striking “for burial in a national cemetery of a deceased veteran” and inserting “for burial of a deceased veteran in a national cemetery or in a cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title”; and
+- **(1)** in the matter preceding paragraph (1), by striking “for burial in a national cemetery of a deceased veteran” and inserting “for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title”; and
 - **(2)** in paragraph (2), by striking “the burial of the veteran in a national cemetery” and inserting “such burial”.

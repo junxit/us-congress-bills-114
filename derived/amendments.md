@@ -1,7 +1,7 @@
 ---
 measure: S. 3076
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the matter preceding paragraph (1), by striking “for burial in a national cemetery of a deceased veteran” and inserting “for burial of a deceased veteran in a national cemetery or in a cemetery of a State or tribal organization for wh… | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “for burial in a national cemetery of a deceased veteran” and inserting “for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organizati… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “the burial of the veteran in a national cemetery” and inserting “such burial”. | the bill names no machine-readable US Code section |
