@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5687
@@ -55,3 +55,9 @@ GAO Mandates Revision Act of 2016
 - 2016-09-19 — Placed on the Union Calendar, Calendar No. 592.
 - 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-760, Part I.
 - 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-760, Part I.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5670-5671)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5687.
+- 2016-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-20 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill.
+- 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)
+- 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5670)
