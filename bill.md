@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 845
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,7 +40,7 @@ In this Act:
   - **(B)** preventing environmental damage resulting from trail deterioration;
   - **(C)** protecting public safety; and
   - **(D)** averting future deferred maintenance costs.
-- **(9)** *Volunteer* The term Volunteer has the same meaning given that term in section 553.101 of title 29, Code of Federal Regulations.
+- **(9)** *Volunteer* The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558a et seq.).
 
 ## § 4. National forest system trails volunteer and partnership strategy
 
@@ -53,7 +53,14 @@ In this Act:
   - **(5)** aim to increase trail maintenance by volunteers and partners by 100 percent by the date that is 5 years after the date of the enactment of this Act.
 - **(c)** *Additional requirement* As a component of the strategy, the Secretary shall study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities in a manner that does not jeopardize firefighting capabilities, public safety, or resource protection. Upon a determination that trail maintenance would be advanced by use of fire crews in trail maintenance, the Secretary shall incorporate these proposals into the strategy, subject to such terms and conditions as the Secretary determines to be necessary.
 - **(d)** *Volunteer liability*
-  - **(1)** *In general* Section 3(d) of the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558c(d)) is amended by inserting “, including a volunteer affiliated with a partner organization,” after “this Act”.
+  - **(1)** *In general* Section 3 of the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558c) is amended by adding at the end the following new subsection:
+    > - **(e)** For the purposes of subsections (b), (c), and (d), the term “volunteer” includes a person providing volunteer services to the Secretary who—
+    >   - **(1)** is recruited, trained, and supported by a cooperator under a mutual benefit agreement with the Secretary; and
+    >   - **(2)** performs such volunteer services under the supervision of the cooperator as directed by the Secretary in the mutual benefit agreement, including direction that specifies—
+    >     - **(A)** the volunteer services to be performed by the volunteers and the supervision to be provided by the cooperator;
+    >     - **(B)** the applicable project safety standards and protocols to be adhered to by the volunteers and enforced by the cooperator; and
+    >     - **(C)** the on-site visits to be made by the Secretary, when feasible, to verify that volunteers are performing the volunteer services and the cooperator is providing the supervision agreed upon.
+
   - **(2)** *Additional requirement* Not later than 2 years after the date of the enactment of this Act, the Secretary shall adopt regulations implementing this section. These regulations shall ensure that the financial risk from claims or liability associated with volunteers undertaking trail maintenance is shared by all administrative units.
 - **(e)** *Consultation* The Secretary shall develop the strategy in consultation with volunteer and partner trail maintenance organizations, a broad array of outdoor recreation stakeholders, and other relevant stakeholders.
 - **(f)** *Volunteer and partnership coordination* The Secretary shall require each administrative unit to develop a volunteer and partner coordination implementation plan for the strategy which clearly defines roles and responsibilities for the administrative unit and district staff, and includes strategies to ensure sufficient coordination, assistance, and support for volunteers and partners to improve trail maintenance.
@@ -93,7 +100,7 @@ In this Act:
 
 ## § 6. Cooperative agreements
 
-- **(a)** *In general* The Secretary may enter into a cooperative agreement (within the meaning of chapter 63 of title 31, United States Code) with any State, tribal, local governmental, and private entity to carry out this Act.
+- **(a)** *In general* The Secretary may enter into a cooperative agreement with any State, tribal, local governmental, and private entity to carry out this Act.
 - **(b)** *Contents* Cooperative agreements authorized under this section may—
   - **(1)** improve trail maintenance in a priority area;
   - **(2)** implement the strategy; or

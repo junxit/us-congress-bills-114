@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 558c` | insert | Section 3(d) of the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558c(d)) is amended by inserting “, including a volunteer affiliated with a partner organization,” after “this Act”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 558c` | add-at-end | Section 3 of the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558c) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
