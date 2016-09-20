@@ -72,11 +72,14 @@ It shall be the policy of the United States Government not to pay ransom or rele
 - **(a)** *Notification* The President shall notify the appropriate congressional committees not later than 30 days prior to conducting a transaction or payment from the Government of the United States to the Government of Iran in connection with an agreement to settle a claim or claims brought before the Iran-United States Claims Tribunal.
 - **(b)** *Matters To be included* The notification required under subsection (a) shall include the following:
   - **(1)** The total amount of the settlement, including the total principal and interest, and an explanation of the calculation of the interest.
-  - **(2)** A legal analysis of why the settlement was made.
+  - **(2)** A legal analysis of why the settlement was made, including a detailed description of all claims and counter-claims covered by the settlement.
   - **(3)** A certification by the President that the settlement is not a ransom for the release of individuals held hostage by Iran.
   - **(4)** An identification of each entity of the Government of Iran that will receive amounts from the settlement.
   - **(5)** A certification that the funds provided to Iran under the settlement will not be used to provide support to foreign terrorist organizations, the regime of Bashar al-Assad, or other destabilizing activities.
   - **(6)** Whether an equal amount of Iranian funds are available and accessible in the United States to satisfy judgments against Iran by victims of Iranian-sponsored terrorism.
+  - **(7)** A copy of the settlement agreement.
+  - **(8)** A description of the disposition of any related claims that have been subrogated to the United States Government.
+  - **(9)** A certification that the settlement is in the best interest of the United States.
 - **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations of the Senate.
