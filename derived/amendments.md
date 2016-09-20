@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5147
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating sections 3314, 3315, and 3316 as sections 3315, 3316, and 3317, respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 3313 the following new section: | the bill names no machine-readable US Code section |
-| — | replace | The analysis for such chapter is amended by striking the items relating to sections 3314, 3315, and 3316 and inserting the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 12101` | redesignate | by redesignating sections 3314, 3315, and 3316 as sections 3315, 3316, and 3317, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | insert | by inserting after section 3313 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | replace | The analysis for such chapter is amended by striking the items relating to sections 3314, 3315, and 3316 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
