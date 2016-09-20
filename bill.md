@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 6078
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6078
+
+> To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs efficiently furnishes certain records in the custody of the Department of Veterans Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “VA Accountability for Location of Records Act” or the “VALOR Act”.
+
+## § 2. Improvements to the furnishing of records in the custody of the Department of Veterans Affairs
+
+Section 5702 of title 38, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(c)**
+>   - **(1)** The Secretary shall furnish each record described in paragraph (3) by not later than 14 days after the date on which the Secretary receives the request for such record.
+>   - **(2)** If the Secretary is unable to furnish a record during the 14-day period required by paragraph (1), the Secretary shall inform the person requesting the record, by not later than 10 days after the beginning of such period, of—
+>     - **(A)** the reason for the delay; and
+>     - **(B)** the estimated date on which the Secretary will furnish the record.
+>   - **(3)** The records described in this paragraph are any of the following:
+>     - **(A)** A record requested in an application made under subsection (a).
+>     - **(B)** A record not covered under subparagraph (A) that—
+>       - **(i)** relates to the military service or medical records of a veteran; and
+>       - **(ii)** the Secretary is otherwise authorized to furnish to the person requesting the record.
