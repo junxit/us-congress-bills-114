@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bottles and Breast­feed­ing Equipment Screening Act”.
+This Act may be cited as the “Bottles and Breast­feeding Equipment Screening Act”.
 
-## § 2. TSA security screening guidelines for baby formula, breast milk, and juice on airplanes; training on special procedures
+## § 2. TSA security screening guidelines for baby formula, breast milk, purified deionized water for infants, and juice on airplanes; training on special procedures
 
-Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall—
+Not later than 90 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration shall—
 
-- **(1)** notify air carriers and security screening personnel of the Transportation Security Administration of such Administration’s guidelines regarding permitting baby formula, breast milk, and juice on airplanes under the Administration’s guidelines known as the 3–1–1 Liquids Rule Exemption; and
-- **(2)** in training procedures for security screening personnel of the Administration, include training on all special procedures under the Administration’s travel guidelines.
+- **(1)** notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration’s guidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration’s guidelines known as the 3–1–1 Liquids Rule Exemption; and
+- **(2)** in training procedures for security screening personnel of the Administration and private security companies providing security screening pursuant to section 44920 of title 49, United States Code, include training on special screening procedures.

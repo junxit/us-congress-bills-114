@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5065
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5065
@@ -30,3 +30,9 @@ Bottles and Breastfeeding Equipment Screening Act
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Introduced in House
 - 2016-04-26 — Referred to the House Committee on Homeland Security.
+- 2016-05-06 — Referred to the Subcommittee on Transportation Security.
+- 2016-09-13 — Committee Consideration and Mark-up Session Held.
+- 2016-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-20 — Placed on the Union Calendar, Calendar No. 606.
+- 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-775.
+- 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-775.
