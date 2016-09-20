@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5150
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5150
@@ -54,3 +54,11 @@ To designate the facility of the United States Postal Service located at 3031 Ve
 - 2016-04-29 — Introduced in House
 - 2016-04-29 — Introduced in House
 - 2016-04-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-09-15 — Committee Consideration and Mark-up Session Held.
+- 2016-09-15 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5673)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5150.
+- 2016-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-20 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill.
+- 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5673)
+- 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5673)
