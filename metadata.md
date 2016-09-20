@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3937
@@ -47,3 +47,10 @@ To designate the building utilized as a United States courthouse located at 150 
 - 2016-03-23 — Placed on the House Calendar, Calendar No. 100.
 - 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-464.
 - 2016-03-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-464.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5702-5703)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3937.
+- 2016-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-20 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
+- 2016-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5702)
+- 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5702)
+- 2016-09-20 — The title of the measure was amended. Agreed to without objection.

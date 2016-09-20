@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3937
 
-> To designate the building utilized as a United States courthouse located at 150 Reade Circle in Greenville, North Carolina, as the “Judge Randy D. Doub United States Courthouse”.
+> To designate the building utilized as a United States courthouse located at 150 Reade Circle in Greenville, North Carolina, as the “Randy D. Doub United States Courthouse”.
 
 ## § 1. Designation
 
