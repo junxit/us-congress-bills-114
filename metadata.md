@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5690
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5690
@@ -24,6 +24,10 @@ GAO Access and Oversight Act of 2016
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2016-09-20 — [House 114-2-523](votes/house-114-2-0523.md) — On Motion to Suspend the Rules and Pass — **Passed** (404–0)
+
 ## Actions
 
 - 2016-07-08 — Introduced in House
@@ -34,3 +38,11 @@ GAO Access and Oversight Act of 2016
 - 2016-09-19 — Placed on the Union Calendar, Calendar No. 590.
 - 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-758.
 - 2016-09-19 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-758.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered as unfinished business. (consideration: CR H5695-5696)
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5663-5664)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5690.
+- 2016-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-20 — Mr. Carter (GA) moved to suspend the rules and pass the bill.
+- 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 523). (text: CR H5663)
+- 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 523).(text: CR H5663)
