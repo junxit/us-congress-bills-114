@@ -15,12 +15,21 @@ This Act may be cited as the “Modernizing Government Travel Act”.
 
 ## § 2. Federal employee reimbursement for use of modern travel services
 
-- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator of General Services shall prescribe regulations under section 5707 of title 5, United States Code, to provide for the reimbursement for the use of a transportation network company or innovative mobility technology by any Federal employee traveling on official business under subchapter I of chapter 57 of such title, except that the Director of the Administrative Office of the United States Courts shall prescribe such regulations with respect to employees of the judicial branch of the Government.
-- **(b)** *Report* The Administrator of General Services shall submit an annual report to Congress on the implementation of the regulations required under subsection (a), including—
-  - **(1)** with respect to the first such report submitted, a description of the regulations promulgated under such subsection, and with respect to any subsequent report, a description of any changes made to such regulations; and
-  - **(2)** the Government savings (if any) resulting from using a transportation network company or innovative mobility technology company.
-- **(c)** *Definitions* In this section—
-  - **(1)** the term “innovative mobility technology company” means a corporation, partnership, sole proprietorship, or other entity not described under paragraph (2) that utilizes innovative mobility technologies to provide alternatives to driving alone, including car-share, bike-share, carpool or vanpool, multimodal fare payment system, app-based mobility providers, and other innovative projects; and
-  - **(2)** the term “transportation network company”—
-    - **(A)** means a corporation, partnership, sole proprietorship, or other entity that uses a digital network to connect riders to drivers affiliated with such company in order for the driver to transport the rider using the driver’s personal vehicle to a point chosen by the rider; and
-    - **(B)** does not include a shared expense carpool, a vanpool arrangement, or any other arrangement or service in which the driver receives a fee that does not exceed the driver’s cost associated with providing the ride.
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator of General Services shall prescribe regulations under section 5707 of title 5, United States Code, to provide for the reimbursement for the use of a transportation network company or innovative mobility technology company by any Federal employee traveling on official business under subchapter I of chapter 57 of such title, except that the Director of the Administrative Office of the United States Courts shall prescribe such regulations with respect to employees of the judicial branch of the Government.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Innovative mobility technology company* The term “innovative mobility technology company” means an organization, including a corporation, limited liability company, partnership, sole proprietorship, or any other entity, that applies technology to expand and enhance available transportation choices, better manage demand for transportation services, and provide alternatives to driving alone.
+  - **(2)** *Transportation network company* The term “transportation network company” means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for a driver to provide transportation services to a rider.
+
+## § 3. Report on transportation costs
+
+Section 5707(c) of title 5, United States Code, is amended to read as follows:
+
+> - **(c)**
+>   - **(1)** Not later than November 31 of each year, the head of each agency shall submit to the Administrator of the General Services, in a format prescribed by the Administrator and approved by the Director the Office of Management and Budget—
+>     - **(A)** data on total agency payments for such items as travel and transportation of people, average costs and durations of trips, and purposes of official travel;
+>     - **(B)** data on estimated total agency payments for employee relocation; and
+>     - **(C)** an analysis of the total costs of transportation service by type, and the total number of trips utilizing each transportation type for purposes of official travel.
+>   - **(2)** The Administrator of the General Services shall make the data submitted pursuant to paragraph (1) publically available upon receipt.
+>   - **(3)** Not later than January 31 of each year, the Administrator of the General Services shall submit to the Director of the Office of Management and Budget, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate—
+>     - **(A)** an analysis of the data submitted pursuant to paragraph (1) for the agencies listed in section 901(b) of title 31 and a survey of such data for each other agency; and
+>     - **(B)** a description of any new regulations promulgated or changes to existing regulations authorized under this section.
