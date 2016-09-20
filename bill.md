@@ -11,24 +11,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Technical and Clarifying Amendments to the Packers and Stockyards Act of 2016”.
+This Act may be cited as the “Clarification of Treatment of Electronic Sales of Livestock Act of 2016” .
 
 ## § 2. Definition of market agency
 
-- **(a)** *In general* Section 301 of the Packers and Stockyards Act, 1921 (7 U.S.C. 201) is amended by striking subsection (c) and inserting the following:
-  > - **(c)** The term “market agency” means any person engaged in the business of—
-  >   - **(1)** buying or selling in commerce livestock on a commission basis;
-  >   - **(2)** furnishing stockyard services; or
-  >   - **(3)** buying or selling livestock in commerce through online, video, or other electronic methods on a commission or other fee basis when handling or providing a means to handle receivables or proceeds from the sale of that livestock.
-
+- **(a)** *In general* Section 301(c) of the Packers and Stockyards Act, 1921 (7 U.S.C. 201(c)) is amended—
+  - **(1)** by striking “; and” at the end and inserting a period; and
+  - **(2)** by adding at the end the following: “Beginning on the date of the enactment of the Clarification of Treatment of Electronic Sales of Livestock Act of 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person’s annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.”.
 - **(b)** *Technical amendments* Section 301 of the Packers and Stockyards Act, 1921 (7 U.S.C. 201) is amended—
-  - **(1)** in the matter preceding subsection (a), by striking “in this Act—” and inserting “in this Act:”;
+  - **(1)** in the matter preceding subsection (a), by striking “When used in this Act—” and inserting “In this Act:”;
   - **(2)** in subsection (a), by striking the semicolon at the end and inserting a period; and
-  - **(3)** in subsection (b), by striking the semicolon at the end and inserting a period.
+  - **(3)** in subsection (b)—
+    - **(A)** by striking “weighting” and inserting “weighing”; and
+    - **(B)** by striking the semicolon at the end and inserting a period.
 
 ## § 3. Methods to transfer funds
 
 Section 409(a) of the Packers and Stockyards Act, 1921 (7 U.S.C. 228b(a)) is amended—
 
-- **(1)** in the first proviso, by striking “shall wire transfer funds to the seller’s account” each place it appears and inserting “shall transfer funds to the account of the seller by wire, electronic fund transfer, or any other expeditious method determined appropriate by the Secretary”; and
-- **(2)** in the second proviso, by striking “shall wire transfer funds” and inserting “shall transfer funds by wire, electronic fund transfer, or any other expeditious method determined appropriate by the Secretary”.
+- **(1)** in the first proviso, by striking “shall wire transfer funds to the seller’s account” each place it appears and inserting “shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary”; and
+- **(2)** in the second proviso, by striking “or dealer shall wire transfer funds” and inserting “or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary”.
