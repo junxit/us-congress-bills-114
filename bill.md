@@ -1,0 +1,14 @@
+---
+legis-num: S. 3355
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3355
+
+> To prohibit funding for the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization in the event the United Nations Security Council adopts a resolution that obligates the United States or affirms a purported obligation of the United States to refrain from actions that would run counter to the object and purpose of the Comprehensive Nuclear-Test-Ban Treaty.
+
+## § 1. Restriction on funding for the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization
+
+No United States funds may be made available to the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization if, on or after September 16, 2016, the United Nations Security Council adopts a resolution that obligates the United States or affirms a purported obligation of the United States to refrain from actions that would run counter to the object and purpose of the Comprehensive Nuclear-Test-Ban Treaty.
