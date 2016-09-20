@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5713
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5713
@@ -32,3 +32,15 @@ Sustaining Healthcare Integrity and Fair Treatment Act of 2016
 - 2016-07-11 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-11 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-11 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-12 — Referred to the Subcommittee on Health.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Committee on Energy and Commerce discharged.
+- 2016-09-20 — Committee on Energy and Commerce discharged.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5685-5688)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5713.
+- 2016-09-20 — Mr. Tiberi moved to suspend the rules and pass the bill, as amended.
+- 2016-09-20 — Placed on the Union Calendar, Calendar No. 594.
+- 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-761, Part I.
+- 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-761, Part I.

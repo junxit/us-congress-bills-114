@@ -12,4 +12,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Sustaining Healthcare Integrity and Fair Treatment Act of 2016”.
-- **(b)** *Table of contents* This table of contents for this Act is as follows:
+- **(b)** *Table of contents* This table of contents of this Act is as follows:
