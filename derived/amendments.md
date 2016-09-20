@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5963
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-177 amendatory instructions. 48 executed, 129 stated and not applied.
+176 amendatory instructions. 47 executed, 129 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -143,16 +143,16 @@ to guess them.
 
 ### 20 U.S.C. § 6311
 
-> in the matter preceding paragraph (1), by striking “and shall describe the status of compliance with State plan requirements.” and inserting “and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available Web site.”;
+> in the matter preceding paragraph (1), by striking “and shall describe the status of compliance with State plan requirements.” and inserting “and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available website.”;
 
 | | |
 |---|---|
 | Removed | `and shall describe the status of compliance with State plan requirements.` |
-| Inserted | `and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available Web site.` |
+| Inserted | `and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available website.` |
 
 ### 20 U.S.C. § 6311
 
-> in paragraph (2), by striking “described in section 299(c)(1)” and inserting “as designated by the chief executive officer of the State”;
+> in paragraph (1), by striking “described in section 299(c)(1)” and inserting “as designated by the chief executive officer of the State”;
 
 | | |
 |---|---|
@@ -341,21 +341,12 @@ to guess them.
 
 ### 20 U.S.C. § 6311
 
-> by striking “requirements of paragraphs (11), (12), and (13)” and inserting “core requirements”;
+> by striking “requirements of paragraphs (11), (12), and (13)” and inserting “core requirements”; and
 
 | | |
 |---|---|
 | Removed | `requirements of paragraphs (11), (12), and (13)` |
 | Inserted | `core requirements` |
-
-### 20 U.S.C. § 6311
-
-> by striking “requirements of paragraphs (11)” and all that follows through “monitoring to the Administrator” and inserting “core requirements are met, and for annual reporting to the Administrator”; and
-
-| | |
-|---|---|
-| Removed | `requirements of paragraphs (11)” and all that follows through “monitoring to the Administrator` |
-| Inserted | `core requirements are met, and for annual reporting to the Administrator` |
 
 ### 20 U.S.C. § 6311
 
@@ -395,7 +386,7 @@ to guess them.
 
 ### 42 U.S.C. § 5661
 
-> in the matter proceeding subparagraph (A), by striking “may” and inserting “shall”;
+> in the matter preceding subparagraph (A), by striking “may” and inserting “shall”;
 
 | | |
 |---|---|
@@ -474,7 +465,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5603` | amend | in subparagraph (B)(ii), by adding “or” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5603` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5603` | redesignate | by redesignating subparagraph (D) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 479a` | amend | by amending paragraph (18) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5603` | add-at-end | in paragraph (18) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5603` | amend | by amending paragraph (22) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5603` | amend | by amending paragraph (25) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5603` | amend | by amending paragraph (26) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -498,7 +489,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5632` | replace | by striking paragraphs (2) and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (i), by inserting “adolescent development,” after “concerning”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | insert | in subclause (II), by inserting “publicly supported court-appointed legal counsel with experience representing juveniles in delinquency proceedings,” after “youth,”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | replace | by striking subclause (VIII) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (v) by inserting “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
@@ -519,7 +510,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6311` | strike | by striking “by the provision by the Administrator”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | strike | by striking “to States”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | insert | by inserting “and reduce the risk of recidivism” after “families”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6311` | strike | by striking “so that juveniles may be retained in their homes”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6311` | strike | by striking “so that such juveniles may be retained in their homes”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | redesignate | in subparagraph (S), as so redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | insert | by inserting “or co-occurring disorder” after “mental health”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | insert | by inserting “court-involved or” before “incarcerated”; | the bill quotes the text inserted but describes where it goes |
@@ -561,7 +552,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5661` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5661` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5662` | strike | in the matter preceding paragraph (1), by striking “may”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5662` | insert | by inserting “shall” before “develop and implement projects”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5662` | insert | by inserting “shall” before “develop and carry out projects”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5662` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5662` | insert | by inserting “may” before “make grants to and contracts with”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5662` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -577,7 +568,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5662` | insert | by inserting “status offenders and” after “needs of”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1751` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5672` | redesignate | by striking subsections (b) and (c), and redesignating subsection (d) as subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5672` | strike | in the matter preceding paragraph (1), by striking “(excluding parts C and E)”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5672` | strike | in the matter preceding paragraph (1), by striking “(Excluding parts C and E)”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5672` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5672` | strike | in the matter preceding subparagraph (A), by striking “(other than parts C and E)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5672` | insert | by inserting “(1)” before “The Administrator”; | the bill quotes the text inserted but describes where it goes |
@@ -591,6 +582,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5781` | amend | Section 504 of the Incentive Grants for Local Delinquency Prevention Programs Act of 2002 (42 U.S.C. 5781 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5781` | redesignate | The Incentive Grants for Local Delinquency Prevention Programs Act of 2002 (42 U.S.C. 5781 et seq.) is amended by redesignating section 505 as section 506 and by inserting after section 504 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Section 506, as redesignated by section 305, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | The Juvenile Justice and Delinquency Prevention Act of 1974 is amended by striking title V, as enacted by the Juvenile Justice and Delinquency Prevention Act of 1974 (Public Law 93–415; 88 Stat. 1133) (relating to miscellaneous and confo… | the bill names no machine-readable US Code section |
+| — | repeal | Title V of the Juvenile Justice and Delinquency Prevention Act of 1974 as enacted by Public Law 93–415 (88 Stat. 1133) (relating to miscellaneous and conforming amendments) is repealed. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 5601` | add-at-end | The Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5776a` | strike | The Juvenile Justice and Delinquency Prevention Act of 1974 is amended by striking paragraphs (6) and (7) of section 407 (42 U.S.C. 5776a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
