@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5873
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5873
@@ -25,3 +25,10 @@ To designate the Federal building and United States courthouse located at 511 Ea
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-07-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2016-09-14 — Committee Consideration and Mark-up Session Held.
+- 2016-09-14 — Ordered to be Reported by Voice Vote.
+- 2016-09-14 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2016-09-20 — Placed on the House Calendar, Calendar No. 145.
+- 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.
+- 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.
