@@ -18,7 +18,7 @@ This Act may be cited as the “District of Columbia Courts and Public Defender 
 - **(a)** *In general* Chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after section 11–1726 the following new section:
   > ## § 11–1726A. Voluntary Separation Incentive Payments
   >
-  > The Joint Committee on Judicial Administration may, by regulation, establish a program substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code, for nonjudicial employees of the District of Columbia courts.
+  > The Joint Committee on Judicial Administration may, by regulation, establish a program substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code, for nonjudicial employees of the District of Columbia courts courts, except that the maximum amount of the payment made under the program to any individual may not exceed the amount referred to in section 3523(b)(3)(B) of title 5, United States Code.
 
 - **(b)** *Clerical amendment* The table of contents of chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after the item relating to section 11–1726 the following new item:
 
@@ -26,4 +26,4 @@ This Act may be cited as the “District of Columbia Courts and Public Defender 
 
 Section 305 of the District of Columbia Court Reform and Criminal Procedure Act of 1970 (sec. 2–1605, D.C. Official Code) is amended by adding at the end the following new subsection:
 
-> - **(d)** The Director may establish a program substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code, for employees of the Service.
+> - **(d)** The Director may establish a program substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code, for employees of the Service Service, except that the maximum amount of the payment made under the program to any individual may not exceed the amount referred to in section 3523(b)(3)(B) of title 5, United States Code.
