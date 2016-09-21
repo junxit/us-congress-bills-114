@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5613
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the heading, by striking “2015” and inserting “2016”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2015” and inserting “2016”. | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “2014 and 2015” and inserting “2016”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “and 2015” and inserting “, 2015, and 2016”. | the bill names no machine-readable US Code section |
