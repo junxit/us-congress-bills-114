@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5944
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5944
@@ -37,3 +37,4 @@ To amend title 49, United States Code, with respect to certain grant assurances,
 - 2016-09-20 — Mr. Zeldin moved to suspend the rules and pass the bill.
 - 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5698)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5698)
+- 2016-09-21 — Received in the Senate, read twice.
