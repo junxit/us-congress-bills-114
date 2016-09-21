@@ -1,7 +1,7 @@
 ---
 measure: H.R. 670
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 670
@@ -70,9 +70,10 @@ Special Needs Trust Fairness and Medicaid Improvement Act
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -99,3 +100,4 @@ Special Needs Trust Fairness and Medicaid Improvement Act
 - 2016-09-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2016-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 22 (Roll no. 521). (text: CR H5648-5649)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 22 (Roll no. 521).(text: CR H5648-5649)
+- 2016-09-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
