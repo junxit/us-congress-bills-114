@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5713
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-37 amendatory instructions. 16 executed, 21 stated and not applied.
+38 amendatory instructions. 16 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -184,7 +184,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395ww` | strike | by striking “subject to subparagraph (B),”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395ww` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving each of such subparagraphs (as so redesignated) 2 ems to the left. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395ww` | replace | by striking “, or” at the end and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395ww` | replace | by striking “, or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395ww` | redesignate | by redesignating such subclause as clause (vi) and by moving it to immediately follow clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | replace | in clause (v), by striking the semicolon at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395ww` | insert | by inserting “(as in effect as of such date)” after “clause (iv)”; and | the bill quotes the text inserted but describes where it goes |
@@ -195,6 +195,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395cc` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | replace | in subparagraph (A), by striking the comma at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | strike | in subparagraph (B), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | amend | Section 1902(kk)(4)(A)(ii) of the Social Security Act (42 U.S.C. 1396a(kk)(4)(A)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | Section 1902(kk)(4)(A) of the Social Security Act (42 U.S.C. 1396a(kk)(4)(A)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395cc` | redesignate | by redesignating the second paragraph (8) (added by section 1304(1) of Public Law 111–152) as paragraph (9). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

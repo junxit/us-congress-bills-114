@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5713
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5713
@@ -25,6 +25,10 @@ Sustaining Healthcare Integrity and Fair Treatment Act of 2016
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-21 — [House 114-2-530](votes/house-114-2-0530.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–3)
+
 ## Actions
 
 - 2016-07-11 — Introduced in House
@@ -44,3 +48,7 @@ Sustaining Healthcare Integrity and Fair Treatment Act of 2016
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 594.
 - 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-761, Part I.
 - 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-761, Part I.
+- 2016-09-21 — Considered as unfinished business. (consideration: CR H5739-5740)
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 530). (text: CR 09/20/2016 H5685-5687)
+- 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 530).(text: CR 09/20/2016 H5685-5687)
