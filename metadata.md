@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5612
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5612
@@ -50,3 +50,14 @@ To designate the facility of the United States Postal Service located at 2886 Sa
 - 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5671)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5671)
 - 2016-09-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7132)
+- 2016-12-10 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7132)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-299.
+- 2016-12-16 — Became Public Law No: 114-299.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
