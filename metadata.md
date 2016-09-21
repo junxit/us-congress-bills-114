@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4712
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4712
@@ -16,7 +16,7 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 
-## Cosponsors (7)
+## Cosponsors (13)
 
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
@@ -25,6 +25,12 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
 
 ## Committees (2)
 
@@ -38,3 +44,9 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 - 2016-03-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-03-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-03-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-09-21 — Considered under suspension of the rules. (consideration: CR H5774-5776)
+- 2016-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4712.
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — Mr. Bishop (MI) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5774)
+- 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5774)

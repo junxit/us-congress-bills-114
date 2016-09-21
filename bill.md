@@ -15,13 +15,13 @@ This Act may be cited as the “Strengthening the Department of Homeland Securit
 
 ## § 2. Option for signature requirement under the Secure Mail Initiative
 
-- **(a)** *In general* Beginning not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall provide for an option under the Secure Mail Initiative (or any successor program) under which a person to whom a document is sent under that initiative may require that the United States Postal Service obtain a signature from that person in order to deliver the document.
-- **(b)** *Fee* The Secretary shall require the payment of a fee from a person requiring a signature under the option required to be provided under subsection (a), which shall be in such an amount as is reasonable to recoup the costs of providing such option to such person.
+- **(a)** *In general* Beginning not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security shall provide for an option under the Secure Mail Initiative (or any successor program) under which a person to whom a document is sent under that initiative may require that the United States Postal Service obtain a signature from that person in order to deliver the document.
+- **(b)** *Fee* The Secretary shall require the payment of a fee from a person requiring a signature under subsection (a). Such fee may be set at a level that will ensure recovery of the full costs of providing all such services. Such fee may also be set at a level that will recover any additional costs associated with the administration of the fees collected.
 
 ## § 3. Report
 
-Beginning not later than one year after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall submit to Congress a report which includes—
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to Congress a report which includes—
 
-- **(1)** for the first report, the implementation of the requirements under section 1;
-- **(2)** the fee imposed under section 1(b); and
-- **(3)** the number of times during the previous year that a person required a signature under the required to be provided under section 1(a).
+- **(1)** the implementation of the requirements under section 2;
+- **(2)** the fee imposed under section 2(b); and
+- **(3)** the number of times during the previous year that a person required a signature under section 2(a).
