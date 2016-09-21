@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5659
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5659
@@ -35,6 +35,10 @@ Expanding Seniors Receiving Dialysis Choice Act of 2016
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-21 — [House 114-2-529](votes/house-114-2-0529.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (423–0)
+
 ## Actions
 
 - 2016-07-07 — Introduced in House
@@ -50,3 +54,11 @@ Expanding Seniors Receiving Dialysis Choice Act of 2016
 - 2016-09-19 — Placed on the Union Calendar, Calendar No. 583.
 - 2016-09-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-751, Part I.
 - 2016-09-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-751, Part I.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5679-5681)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5659.
+- 2016-09-20 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-21 — Considered as unfinished business. (consideration: CR H5739)
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 529). (text: CR 09/20/2016 H5679-5680)
+- 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 529).(text: CR 09/20/2016 H5679-5680)
