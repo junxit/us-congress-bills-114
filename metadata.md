@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5944
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5944
@@ -38,3 +38,12 @@ To amend title 49, United States Code, with respect to certain grant assurances,
 - 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5698)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5698)
 - 2016-09-21 — Received in the Senate, read twice.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6284)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6284)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-238.
+- 2016-10-07 — Became Public Law No: 114-238.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
