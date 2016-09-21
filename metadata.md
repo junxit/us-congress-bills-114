@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5147
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5147
@@ -51,6 +51,10 @@ Bathrooms Accessible in Every Situation Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2016-09-21 — [House 114-2-541](votes/house-114-2-0541.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (389–34)
+
 ## Actions
 
 - 2016-04-29 — Introduced in House
@@ -67,3 +71,8 @@ Bathrooms Accessible in Every Situation Act
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 605.
 - 2016-09-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-774.
 - 2016-09-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-774.
+- 2016-09-21 — Considered as unfinished business. (consideration: CR H5767-5768)
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 34 (Roll no. 541). (text: CR 09/20/2016 H5701)
+- 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 34 (Roll no. 541).(text: CR 09/20/2016 H5701)
+- 2016-09-21 — The title of the measure was amended. Agreed to without objection.

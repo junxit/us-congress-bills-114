@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5147
 
-> To amend title 40, United States Code, to require that male and female restrooms in public buildings be equipped with baby changing facilities.
+> To amend title 40, United States Code, to require restrooms in public buildings to be equipped with baby changing facilities.
 
 ## § 1. Short title
 
