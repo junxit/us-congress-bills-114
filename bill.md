@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Community Counterterrorism Preparedness Act”.
+This Act may be cited as the “Community Count­er­ter­ror­ism Preparedness Act”.
 
-## § 2. Major metropolitan area counterterrorism training and exercise grant program
+## § 2. Major metropolitan area count­er­ter­ror­ism training and exercise grant program
 
 - **(a)** *In general* Subtitle A of title XX of the Homeland Security Act of 2002 (6 U.S.C. 603 et seq.) is amended by adding at the end the following new section:
-  > ## § 2009. Major metropolitan area counterterrorism training and exercise grant program
+  > ## § 2009. Major metropolitan area count­er­ter­ror­ism training and exercise grant program
   >
   > - **(a)** *Establishment*
   >   - **(1)** *In general* The Secretary, acting through the Administrator and the heads of other relevant components of the Department, shall carry out a program for emergency response providers to prevent, prepare for, and respond to the most likely terrorist attack scenarios, including active shooters, as determined by the Secretary, against major metropolitan areas.

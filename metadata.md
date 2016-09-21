@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5859
@@ -52,6 +52,10 @@ Community Counterterrorism Preparedness Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2016-09-21 — [House 114-2-537](votes/house-114-2-0537.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–30)
+
 ## Actions
 
 - 2016-07-14 — Introduced in House
@@ -63,3 +67,11 @@ Community Counterterrorism Preparedness Act
 - 2016-09-19 — Placed on the Union Calendar, Calendar No. 586.
 - 2016-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-754.
 - 2016-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-754.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5703-5708)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5859.
+- 2016-09-20 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2016-09-21 — Considered as unfinished business. (consideration: CR H5764-5765)
+- 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 537). (text: CR 09/20/2016 H5703)
+- 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 537).(text: CR 09/20/2016 H5703)
