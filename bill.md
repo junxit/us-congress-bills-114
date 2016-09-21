@@ -36,8 +36,11 @@ The Congress finds the following:
 - **(a)** *In general* Not later than 270 days after the date of enactment of this Act, and annually thereafter (or more frequently if the Secretary of the Treasury determines it appropriate based on new information received by the Secretary) for the following 2 years, the Secretary of the Treasury shall, in furtherance of the Secretary’s efforts to prevent the financing of terrorism, money laundering, or related illicit finance and to make financial institutions’ required compliance with remaining sanctions more easily understood, submit a report to the appropriate congressional committees containing—
   - **(1)** the estimated total funds or assets held in accounts at U.S. and foreign financial institutions that are under direct or indirect control by each natural person described in subsection (b) and a description of such assets;
   - **(2)** an identification of any equity stake such natural person has in an entity on the Department of the Treasury's list of Specially Designated Nationals or in any other sanctioned entity;
-  - **(3)** a description of how such funds or assets or equity interests were acquired, and how they have been used or employed; and
-  - **(4)** a description of any new methods or techniques used to evade anti-money laundering and related laws, including recommendations to improve techniques to combat illicit uses of the U.S. financial system by each natural person described in subsection (b).
+  - **(3)** a description of how such funds or assets or equity interests were acquired, and how they have been used or employed;
+  - **(4)** a description of any new methods or techniques used to evade anti-money laundering and related laws, including recommendations to improve techniques to combat illicit uses of the U.S. financial system by each natural person described in subsection (b);
+  - **(5)** recommendations for how U.S. economic sanctions against Iran may be revised to prevent the funds or assets described under this subsection from being used by the natural persons described in subsection (b) to contribute to the continued development, testing, and procurement of ballistic missile technology by Iran;
+  - **(6)** a description of how the Department of the Treasury assesses the impact and effectiveness of U.S. economic sanctions programs against Iran; and
+  - **(7)** recommendations for improving the ability of the Department of the Treasury to rapidly and effectively develop, implement, and enforce additional economic sanctions against Iran if so ordered by the President under the International Emergency Economic Powers Act or other corresponding legislation.
 - **(b)** *Persons described* The natural persons described in this subsection are the following:
   - **(1)** The Supreme Leader of Iran.
   - **(2)** The President of Iran.
@@ -59,6 +62,7 @@ The Congress finds the following:
   - **(18)** The Commander of the Khatam-al-Anbia Construction Head Quarter.
   - **(19)** The Chief Executive Officer of the Basij Cooperative Foundation.
   - **(20)** The head of the Political Bureau of the IRGC.
+  - **(21)** The head of the Atomic Energy Organization of Iran.
 - **(c)** *Form of report; public availability*
   - **(1)** *Form* The report required under subsection (a) shall be submitted in unclassified form but may contain a classified annex.
   - **(2)** *Public availability* The unclassified portion of such report shall be made available to the public and posted on the website of the Department of the Treasury—
@@ -66,7 +70,7 @@ The Congress finds the following:
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
 - **(d)** *Sources of information* In preparing a report described under subsection (a), the Secretary of the Treasury may utilize any credible publication, database, web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity provided to or made available to the Secretary.
 - **(e)** *Definitions* For purposes of this section:
-  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate.
   - **(2)** *Funds* The term “funds” means—
     - **(A)** cash;
     - **(B)** equity;
