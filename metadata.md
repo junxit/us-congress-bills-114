@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3937
@@ -56,3 +56,14 @@ To designate the building utilized as a United States courthouse located at 150 
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5702)
 - 2016-09-20 — The title of the measure was amended. Agreed to without objection.
 - 2016-09-21 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works. (consideration: CR S6255)
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent.
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-09-29 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2016-09-29 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-234.
+- 2016-10-07 — Became Public Law No: 114-234.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
