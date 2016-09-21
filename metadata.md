@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3937
@@ -31,9 +31,10 @@ To designate the building utilized as a United States courthouse located at 150 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Holding, George [R-NC-13] (H001065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the building utilized as a United States courthouse located at 150 
 - 2016-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5702)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5702)
 - 2016-09-20 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-21 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works. (consideration: CR S6255)
