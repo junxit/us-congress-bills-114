@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5785
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5785
@@ -54,3 +54,12 @@ To amend title 5, United States Code, to provide for an annuity supplement for c
 - 2016-09-20 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-765.
 - 2016-09-20 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-765.
 - 2016-09-21 — Received in the Senate, read twice.
+- 2016-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6575)
+- 2016-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6575)
+- 2016-11-30 — Message on Senate action sent to the House.
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-08 — Became Public Law No: 114-251.
+- 2016-12-08 — Became Public Law No: 114-251.
+- 2016-12-08 — Signed by President.
+- 2016-12-08 — Signed by President.
