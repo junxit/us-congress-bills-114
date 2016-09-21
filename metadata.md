@@ -1,7 +1,7 @@
 ---
 measure: S. 3076
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3076
@@ -20,9 +20,10 @@ Charles Duncan Buried with Honor Act of 2016
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,16 @@ Charles Duncan Buried with Honor Act of 2016
 - 2016-09-21 — Message on Senate action sent to the House.
 - 2016-09-21 — Received in the House.
 - 2016-09-21 — Referred to the House Committee on Veterans' Affairs.
+- 2016-09-26 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7246-7247)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 3076.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7246-7247)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7246-7247)
+- 2016-12-08 — Presented to President.
+- 2016-12-08 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-273.
+- 2016-12-14 — Became Public Law No: 114-273.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
