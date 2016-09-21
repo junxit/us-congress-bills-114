@@ -1,7 +1,7 @@
 ---
 measure: S. 3076
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3076
@@ -39,3 +39,6 @@ Charles Duncan Buried with Honor Act of 2016
 - 2016-09-20 — Senate amendment agreed to: Amendment SA 5081 agreed to in Senate by Unanimous Consent.
 - 2016-09-20 — Senate amendment proposed (on the floor): Amendment SA 5081 proposed by Senator Daines for Senator Blumenthal.(consideration: CR S5911; text: CR S5911)
 - 2016-09-20 — Senate amendment submitted
+- 2016-09-21 — Message on Senate action sent to the House.
+- 2016-09-21 — Received in the House.
+- 2016-09-21 — Referred to the House Committee on Veterans' Affairs.
