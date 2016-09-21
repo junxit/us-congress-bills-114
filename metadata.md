@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5957
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5957
@@ -44,3 +44,4 @@ Federal Aviation Administration Veteran Transition Improvement Act of 2016
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 604.
 - 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-771.
 - 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-771.
+- 2016-09-21 — Received in the Senate.
