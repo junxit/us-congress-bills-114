@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5785
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5785
@@ -53,3 +53,4 @@ To amend title 5, United States Code, to provide for an annuity supplement for c
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 598.
 - 2016-09-20 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-765.
 - 2016-09-20 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-765.
+- 2016-09-21 — Received in the Senate, read twice.
