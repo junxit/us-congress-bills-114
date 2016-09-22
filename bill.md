@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4419
 
-> To update the financial disclosure requirements for judges of the District of Columbia courts.
+> To update the financial disclosure requirements for judges of the District of Columbia courts and to make other improvements to the District of Columbia courts.
 
 ## § 1. Short title
 
@@ -18,19 +18,19 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
 - **(a)** *Requirements described* Section 11–1530, D.C. Official Code, is amended to read as follows:
   > ## § 11–1530. Financial statements
   >
-  > - **(a)** Pursuant to such rules as the Commission shall promulgate, each judge of the District of Columbia courts shall, within one year following the date of enactment of the District of Columbia Court Reorganization Act of 1970 and at least annually thereafter, file with the Commission a report containing the following information:
+  > - **(a)** Pursuant to such rules as the Commission shall promulgate, each judge of the District of Columbia courts shall, within 1 year following the date of enactment of the District of Columbia Court Reorganization Act of 1970 and at least annually thereafter, file with the Commission a report containing the following information:
   >   - **(1)**
   >     - **(A)** The source, type and amount of the judge’s income which exceeds $200 (other than income from the United States government and income referred to in subparagraph (C)) for the period covered by the report.
   >     - **(B)** The source and type of the judge’s spouse’s income which exceeds $1,000 (other than income from the United States government and income referred to in subparagraph (C)) for the period covered by the report.
   >     - **(C)** The source and type of income which consists of dividends, rents, interest, and capital gains received by the judge and the judge’s spouse during such period which exceeds $200 in amount or value, and an indication of which of the following categories the amount or value of such item of income is within—
-  >       - **(i)** not more than $1,000,
-  >       - **(ii)** greater than 1,000 but not more than $2,500,
-  >       - **(iii)** greater than $2,500 but not more than $5,000,
-  >       - **(iv)** greater than $5,000 but not more than $15,000,
-  >       - **(v)** greater than $15,000 but not more than $50,000,
-  >       - **(vi)** greater than $50,000 but not more than $100,000,
-  >       - **(vii)** greater than $100,000 but not more than $1,000,000,
-  >       - **(viii)** greater than $1,000,000 but not more than $5,000,000, or
+  >       - **(i)** not more than $1,000;
+  >       - **(ii)** greater than 1,000 but not more than $2,500;
+  >       - **(iii)** greater than $2,500 but not more than $5,000;
+  >       - **(iv)** greater than $5,000 but not more than $15,000;
+  >       - **(v)** greater than $15,000 but not more than $50,000;
+  >       - **(vi)** greater than $50,000 but not more than $100,000;
+  >       - **(vii)** greater than $100,000 but not more than $1,000,000;
+  >       - **(viii)** greater than $1,000,000 but not more than $5,000,000; or
   >       - **(ix)** greater than $5,000,000.
   >   - **(2)** The name and address of each private foundation or eleemosynary institution, and of each business or professional corporation, firm, or enterprise in which the judge was an officer, director, proprietor, or partner during such period.
   >   - **(3)** The identity and category of value (as set forth in subsection (b)) of each liability of $10,000 or more owed by the judge or by the judge and the judge’s spouse jointly at any time during such period.
@@ -52,7 +52,7 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
   >   - **(9)** greater than $25,000,000 but not more than $50,000,000; and
   >   - **(10)** greater than $50,000,000.
   > - **(c)**
-  >   - **(1)** Reports filed pursuant to this section shall, upon written request, and notice to the reporting judge for purposes of making an application to the Commission for a redaction pursuant to paragraph (2), be made available for public inspection and copying within a reasonable time after filing and during the period they are kept by the Commission (in accordance with rules promulgated by the Commission), and shall be kept by the Commission for not less than three years.
+  >   - **(1)** Reports filed pursuant to this section shall, upon written request, and notice to the reporting judge for purposes of making an application to the Commission for a redaction pursuant to paragraph (2), be made available for public inspection and copying within a reasonable time after filing and during the period they are kept by the Commission (in accordance with rules promulgated by the Commission), and shall be kept by the Commission for not less than 3 years.
   >   - **(2)** This section does not require the public availability of reports filed by a judge if upon application by the reporting judge, a finding is made by the Commission that revealing personal and sensitive information could endanger that judge or a family member of that judge, except that a report may be redacted pursuant to this paragraph only—
   >     - **(A)** to the extent necessary to protect the individual who filed the report or a family member of that individual; and
   >     - **(B)** for as long as the danger to such individual exists.
@@ -73,20 +73,20 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
   > - **(a)** *Definitions* In this section, the term electronic funds transfer—
   >   - **(1)** means a transfer of funds, other than a transaction by check, draft, or similar paper instrument, that is initiated through an electronic terminal, telephone, or computer or magnetic tape for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account; and
   >   - **(2)** includes point of sale transfers, automated teller machine transfers, direct deposit or withdrawal of funds, transfers initiated by telephone, and transfers resulting from debit card transactions.
-  > - **(b)** *Authority to accept credit card payments and electronic funds transfers*
+  > - **(b)** *Authority To accept credit card payments and electronic funds transfers*
   >   - **(1)** *In general* The District of Columbia courts may accept payment of fines, fees, escrow payments, restitution, bonds, and other payments to the courts by credit card or electronic funds transfer.
   >   - **(2)** *Use of vendors and third party providers* The Executive officer—
   >     - **(A)** may contract with a bank or credit card vendor, or other third party provider, for purposes of accepting payments by credit card or electronic funds transfer; and
   >     - **(B)** shall make every effort to find the lowest cost vendor for purposes of accepting such payments.
   >   - **(3)** *Responsibility for paying fees* Under any contract entered into under paragraph (2), the person making the payment shall be responsible for covering any fee or charge associated or imposed with respect to the method of payment.
   >   - **(4)** *Completion of payment* If a person elects to make a payment to the District of Columbia courts by a method authorized under paragraph (1), the payment shall not be deemed to be made until the courts receive the funds.
-  > - **(c)** *Authority to accept checks*
+  > - **(c)** *Authority To accept checks*
   >   - **(1)** *In general* The District of Columbia courts may accept payment of fines, fees, escrow payments, restitution, bonds, and other payments to the courts by check.
   >   - **(2)** *Use of check guarantee vendor* The Executive Officer—
   >     - **(A)** may contract with a check guarantee vendor for purposes of accepting payments by check; and
   >     - **(B)** shall make every effort to find the lowest cost vendor for purposes of accepting such payments.
   >   - **(3)** *Responsibility for paying fees* Under any contract entered into under paragraph (2), the person making the payment by check shall be responsible for covering any fee or charge associated or imposed with respect to the method of payment.
-  > - **(d)** *Liability for non-payment* If a check or other method of payment, including payment by credit card, debit card, or charge card, so received is not duly paid, or is paid and subsequently charged back to the District of Columbia courts, the person by whom such check or other method of payment has been tendered shall remain liable for the payment, to the same extent as if such check or other method of payment had not been tendered.
+  > - **(d)** *Liability for non-Payment* If a check or other method of payment, including payment by credit card, debit card, or charge card, so received is not duly paid, or is paid and subsequently charged back to the District of Columbia courts, the person by whom such check or other method of payment has been tendered shall remain liable for the payment, to the same extent as if such check or other method of payment had not been tendered.
 
 - **(b)** *Technical and conforming amendment* The table of sections for subchapter III of chapter 17 of title 11, District of Columbia Code, is amended by adding at the end the following:
 
