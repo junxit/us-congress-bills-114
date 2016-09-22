@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2285
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,24 +24,24 @@ In this Act, the term “cultural property” includes property covered under—
 
 It shall be the policy of the United States to—
 
-- **(1)** ensure the Department of Homeland Security, specifically U.S. Customs and Border Protection (CBP) and U.S. Immigration and Customs Enforcement (ICE), enhances and unifies its efforts to—
+- **(1)** ensure the components of the Department of Homeland Security enhance and unify efforts to—
   - **(A)** interdict, detain, seize, and investigate cultural property illegally imported into the United States;
-  - **(B)** disrupt and dismantle smuggling and trafficking networks engaged in, conspiring to engage in, or facilitating illegal trade in cultural property, including stolen antiquities used to finance terrorism; and
+  - **(B)** disrupt and dismantle smuggling and trafficking networks and transnational criminal organizations engaged in, conspiring to engage in, or facilitating illegal trade in cultural property, including stolen antiquities used to finance terrorism; and
   - **(C)** support Offices of United States Attorneys in prosecuting persons engaged in, conspiring to engage in, or facilitating illegal trade in cultural property; and
 - **(2)** protect cultural property pursuant to its obligations under the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, the 1970 UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export, and Transfer of Ownership of Cultural Property, and the Convention on Cultural Property Implementation Act (19 U.S.C. 2601–2613).
 
 ## § 4. Activities of the Department of Homeland Security
 
-The Secretary of Homeland Security, acting through the Commissioner of CBP and the Director of ICE, as applicable, shall—
+The Commissioner of U.S. Customs and Border Protection and the Director of U.S. Immigration and Customs Enforcement shall—
 
-- **(1)** direct CBP and ICE to each designate a principal coordinator or group of personnel to direct, manage, coordinate, and update their respective policies and procedures, as well as conduct interagency communications, regarding illegally imported cultural property;
-- **(2)** direct CBP and ICE to each update existing directives, regulations, rules, and memoranda of understanding, and, if necessary, devise additional directives, regulations, rules, and memoranda of understanding, relating to policies and procedures on the illegal importation of cultural property in order to—
+- **(1)** designate a principal coordinator within U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, respectively, to direct, manage, coordinate, and update their respective policies and procedures, as well as conduct interagency communications, regarding illegally imported cultural property;
+- **(2)** update existing directives, regulations, rules, and memoranda of understanding of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, respectively, and, if necessary, devise additional directives, regulations, rules, and memoranda of understanding, relating to policies and procedures on the illegal importation of cultural property in order to—
   - **(A)** reflect changes in cultural property law, including changes and updates to relevant treaties, bilateral agreements, statutes, regulations, and case law that occurred subsequent to Customs Directive No. 5230–015, “Customs Directive on Detention and Seizure of Cultural Property”, dated April 18, 1991;
-  - **(B)** emphasize investigating, and providing support for investigations and prosecutions, of persons engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property, including smugglers, dealers, buyers, money launderers, and any other parties, facilitators, and enablers; and
-  - **(C)** provide for communication, coordination, and unity of effort between relevant CBP and ICE offices in investigating and supporting prosecutions of persons engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property; and
-- **(3)** ensure all personnel within CBP and ICE involved in interdicting and investigating the illegal importation of cultural property receive sufficient training in—
+  - **(B)** emphasize investigating, and providing support for investigations and prosecutions, of persons engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property, including smugglers, dealers, buyers, money launderers, and any other appropriate parties; and
+  - **(C)** provide for communication and coordination between relevant U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement offices, respectively, in investigating and supporting prosecutions of persons engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property; and
+- **(3)** ensure relevant personnel within U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, respectively, receive sufficient training in—
   - **(A)** relevant cultural property laws;
-  - **(B)** the identification of cultural property from regions that are at greatest risk of looting and trafficking; and
+  - **(B)** the identification of cultural property that is at greatest risk of looting and trafficking; and
   - **(C)** methods of interdiction and investigative techniques specifically related to illegal trade in cultural property.
 
 ## § 5. Role of the Smithsonian Institution
@@ -50,7 +50,7 @@ The Secretary of Homeland Security shall ensure that the heads of all components
 
 ## § 6. Report
 
-Not later than one year after the date of the enactment of this Act and three years thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on—
+Not later than 1 year after the date of the enactment of this Act and 3 years thereafter, the Commissioner of U.S. Customs and Border Protection and the Commissioner of U.S. Immigration and Customs Enforcement shall jointly submit to the Committee on Ways and Means and the Committee on Homeland Security of the House of Representatives and the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate a report on—
 
 - **(1)** the progress of the implementation of this Act; and
-- **(2)** the Department’s other actions to enhance and unify its efforts to interdict, detain, seize, and investigate cultural property illegally imported into the United States, and investigate, disrupt, and dismantle smuggling and trafficking networks engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property.
+- **(2)** other actions to enhance and unify efforts to interdict, detain, seize, and investigate cultural property illegally imported into the United States, and investigate, disrupt, and dismantle smuggling and trafficking networks engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property.
