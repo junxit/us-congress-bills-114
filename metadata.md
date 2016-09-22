@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3924
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3924
@@ -23,9 +23,10 @@ Global Development Lab Act of 2016
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Global Development Lab Act of 2016
 - 2016-09-21 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5787-5788)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5787-5788)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
