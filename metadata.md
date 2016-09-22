@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5859
@@ -48,9 +48,10 @@ Community Counterterrorism Preparedness Act
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Community Counterterrorism Preparedness Act
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 537). (text: CR 09/20/2016 H5703)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 537).(text: CR 09/20/2016 H5703)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
