@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5094
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5094
@@ -56,12 +56,13 @@ STAND for Ukraine Act
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 
-## Committees (4)
+## Committees (5)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ STAND for Ukraine Act
 - 2016-09-21 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5782-5784)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5782-5784)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
