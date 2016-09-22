@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5461
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5461
@@ -20,10 +20,11 @@ Iranian Leadership Asset Transparency Act
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Iranian Leadership Asset Transparency Act
 - 2016-09-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5461.
 - 2016-09-21 — The Speaker designated the Honorable Tom McClintock to act as Chairman of the Committee.
 - 2016-09-21 — The previous question was ordered pursuant to the rule. (consideration: CR H5755)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
