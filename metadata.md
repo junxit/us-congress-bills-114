@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3957
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3957
@@ -80,3 +80,4 @@ Emergency Citrus Disease Response Act of 2016
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 20 (Roll no. 528). (text: CR 09/20/2016 H5679)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 20 (Roll no. 528).(text: CR 09/20/2016 H5679)
+- 2016-09-22 — Received in the Senate.
