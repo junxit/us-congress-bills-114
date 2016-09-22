@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5977
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5977
@@ -49,3 +49,4 @@ To direct the Secretary of Transportation to provide to the appropriate committe
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 539). (text: CR 09/20/2016 H5697)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 539).(text: CR 09/20/2016 H5697)
+- 2016-09-22 — Received in the Senate.
