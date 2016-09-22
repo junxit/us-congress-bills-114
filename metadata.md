@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5946
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5946
@@ -35,6 +35,10 @@ United States Appreciation for Olympians and Paralympians Act of 2016
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-546](votes/house-114-2-0546.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–1)
+
 ## Actions
 
 - 2016-09-07 — Introduced in House
@@ -49,3 +53,7 @@ United States Appreciation for Olympians and Paralympians Act of 2016
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 595.
 - 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-762.
 - 2016-09-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-762.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5836-5837)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 546). (text: CR 09/20/2016 H5683-5684)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 546).(text: CR 09/20/2016 H5683-5684)
