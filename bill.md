@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6156
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6156
+
+> To amend the Wilderness Act and the Federal Land Policy and Management Act of 1976 to require the management of a wilderness study area, not designated by statute, under the jurisdiction of the Forest Service or the Bureau of Land Management for multiple use pending congressional consideration of the recommendation for designation of the area as wilderness, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Local Wilderness Management Act”.
+
+## § 2. Multiple use management of National Forest and Bureau of Land Management wilderness study areas pending congressional consideration of wilderness recommendation
+
+- **(a)** *National Forest System* Section 3(b) of the Wilderness Act (16 U.S.C. 1132(b)) is amended by striking the fifth sentence and inserting the following new sentence: “In the case of an area classified as “primitive” on the effective date of this Act or designated, officially or defacto, by Forest Service action after that date as a “wilderness study area”, the Secretary of Agriculture shall manage the area for multiple use (as defined in section 4 of the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 531)), including mining, grazing, conservation, recreation, and other uses, until such time as Congress enacts a law designating the area as wilderness or specifying an alternative management approach for the area.”.
+- **(b)** *Bureau of Land Management public lands* Section 603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)) is amended by striking the first sentence and inserting the following new sentence: “In the case of an area described in subsection (a) or designated, officially or defacto, by Bureau of Land Management action after the review period as a “wilderness study area”, the Secretary of the Interior shall manage the area according to the authority provided under this Act and other applicable law in a manner to promote multiple use (as defined in section 4 of the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 531)), including the continuation of existing mining and grazing uses and mineral leasing, until such time as Congress enacts a law designating the area as wilderness or specifying an alternative management approach for the area.”.
+
+## § 3. Local participation in designation of wilderness study areas
+
+The Secretary of Agriculture, with respect to National Forest System land, and the Secretary of the Interior, with respect to public land managed by the Bureau of Land Management, may not designate, officially or defacto, land as a wilderness study area without the written consent of the governing body of the county in which the land is located.
