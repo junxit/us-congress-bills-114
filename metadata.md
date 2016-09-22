@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3438
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3438
@@ -51,9 +51,10 @@ Require Evaluation before Implementing Executive Wishlists Act of 2016
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (4)
 
@@ -107,3 +108,4 @@ Require Evaluation before Implementing Executive Wishlists Act of 2016
 - 2016-09-21 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2016-09-21 — The previous question was ordered pursuant to the rule. (consideration: CR H5762)
 - 2016-09-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
