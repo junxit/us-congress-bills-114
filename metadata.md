@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 122
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 122
@@ -57,3 +57,4 @@ Protection of the Right of Tribes to stop the Export of Cultural and Traditional
 - 2016-09-21 — Mr. Bishop (MI) moved to suspend the rules and agree to the resolution, as amended.
 - 2016-09-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5772-5773)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5772-5773)
+- 2016-09-22 — Received in the Senate.
