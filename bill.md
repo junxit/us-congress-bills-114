@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 6143
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6143
+
+> To amend the Safe Drinking Water Act to require the Administrator of the Environmental Protection Agency to publish revised guidance for school officials seeking to reduce exposure to lead from drinking water in schools, and for other purposes.
+
+## § 1. Guidance for schools regarding lead in drinking water
+
+Part F of the Safe Drinking Water Act (42 U.S.C. 300j–21 et seq.) is amended by adding at the end the following new section:
+
+> ## § 1466. Guidance for schools regarding lead in drinking water
+>
+> - **(a)** *Guidance on lead monitoring* Not later than 180 days after the date of enactment of this section, the Administrator shall publish revised guidance for school officials seeking to reduce exposure to lead from drinking water in schools.
+> - **(b)** *Requirements* The Administrator shall include in the guidance published under subsection (a)—
+>   - **(1)** testing protocols for schools to accurately detect lead contamination in school drinking water and its sources;
+>   - **(2)** recommended actions to reduce or eliminate such contamination, including lead service line replacement where needed;
+>   - **(3)** recommendations for maintaining or replacing drinking water infrastructure, including pipes, pipe fittings, fixtures, solder, drinking water coolers, and drinking water fountains, when planning for or undergoing renovations of school property; and
+>   - **(4)** recommendations and forms for communicating lead testing results, potential health risks, and response actions to students, staff, parents, and communities.
+> - **(c)** *Lead service line defined* For purposes of this section, the term lead service line means a service line that is not lead free (within the meaning of section 1417).
