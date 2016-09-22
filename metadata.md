@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5064
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5064
@@ -60,3 +60,4 @@ Improving Small Business Cyber Security Act of 2016
 - 2016-09-21 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5776-5777)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5776-5777)
+- 2016-09-22 — Received in the Senate.
