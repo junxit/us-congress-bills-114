@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2315
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2315
@@ -222,3 +222,4 @@ Mobile Workforce State Income Tax Simplification Act of 2015
 - 2016-09-21 — Placed on the Union Calendar, Calendar No. 609.
 - 2016-09-21 — Reported by the Committee on Judiciary. H. Rept. 114-780.
 - 2016-09-21 — Reported by the Committee on Judiciary. H. Rept. 114-780.
+- 2016-09-22 — Received in the Senate.
