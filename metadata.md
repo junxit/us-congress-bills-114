@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5625
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5625
@@ -46,6 +46,10 @@ Modernizing Government Travel Act
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-549](votes/house-114-2-0549.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–0)
+
 ## Actions
 
 - 2016-07-05 — Introduced in House
@@ -60,3 +64,7 @@ Modernizing Government Travel Act
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 599.
 - 2016-09-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-766.
 - 2016-09-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-766.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5838-5839)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 549). (text: CR 09/20/2016 H5666-5667)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 549).(text: CR 09/20/2016 H5666-5667)
