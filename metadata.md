@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5713
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5713
@@ -20,10 +20,11 @@ Sustaining Healthcare Integrity and Fair Treatment Act of 2016
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Sustaining Healthcare Integrity and Fair Treatment Act of 2016
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 530). (text: CR 09/20/2016 H5685-5687)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 530).(text: CR 09/20/2016 H5685-5687)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
