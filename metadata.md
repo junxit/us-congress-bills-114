@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5613
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5613
@@ -22,10 +22,11 @@ CAH Act of 2016
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ CAH Act of 2016
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 531). (text: CR 09/20/2016 H5681)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 531).(text: CR 09/20/2016 H5681)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
