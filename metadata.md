@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5708
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5708
@@ -39,10 +39,11 @@ Nicaraguan Investment Conditionality Act (NICA) of 2016
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Nicaraguan Investment Conditionality Act (NICA) of 2016
 - 2016-09-21 — On passage Passed without objection.
 - 2016-09-21 — Passed/agreed to in House: On passage Passed without objection.
 - 2016-09-21 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
