@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5995
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5995
@@ -39,3 +39,4 @@ GAO Civilian Task and Delivery Order Protest Authority Act of 2016
 - 2016-09-21 — Placed on the Union Calendar, Calendar No. 608.
 - 2016-09-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-779.
 - 2016-09-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-779.
+- 2016-09-22 — Received in the Senate, read twice.
