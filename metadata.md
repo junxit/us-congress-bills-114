@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5147
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5147
@@ -77,3 +77,12 @@ Bathrooms Accessible in Every Situation Act
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 34 (Roll no. 541).(text: CR 09/20/2016 H5701)
 - 2016-09-21 — The title of the measure was amended. Agreed to without objection.
 - 2016-09-22 — Received in the Senate, read twice.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6255-6256)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6255-6256)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-235.
+- 2016-10-07 — Became Public Law No: 114-235.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
