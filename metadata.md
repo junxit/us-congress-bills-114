@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5523
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5523
@@ -36,6 +36,10 @@ Clyde-Hirsch-Sowers RESPECT Act
 - House — Financial Services Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-548](votes/house-114-2-0548.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–0)
+
 ## Actions
 
 - 2016-06-16 — Introduced in House
@@ -50,3 +54,11 @@ Clyde-Hirsch-Sowers RESPECT Act
 - 2016-09-09 — Placed on the Union Calendar, Calendar No. 566.
 - 2016-09-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-730, Part I.
 - 2016-09-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-730, Part I.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5690-5693)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5523.
+- 2016-09-20 — Mr. Roskam moved to suspend the rules and pass the bill, as amended.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5837-5838)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 548). (text: CR 09/20/2016 H5691)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 548).(text: CR 09/20/2016 H5691)
