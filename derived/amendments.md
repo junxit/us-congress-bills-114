@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5963
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -125,12 +125,12 @@ to guess them.
 
 ### 42 U.S.C. § 5632
 
-> in subsection (c), by striking “efficient administration, including monitoring, evaluation, and one full-time staff position” and inserting “effective and efficient administration of funds, including the designation of not less than 1 individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements”; and
+> in subsection (c), by striking “efficient administration, including monitoring, evaluation, and one full-time staff position” and inserting “effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements”; and
 
 | | |
 |---|---|
 | Removed | `efficient administration, including monitoring, evaluation, and one full-time staff position` |
-| Inserted | `effective and efficient administration of funds, including the designation of not less than 1 individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements` |
+| Inserted | `effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements` |
 
 ### 42 U.S.C. § 5632
 
@@ -197,7 +197,7 @@ to guess them.
 
 ### 20 U.S.C. § 6311
 
-> in subparagraph (C), by striking “30 days” and inserting “45 days”; and
+> in subparagraph (C), by striking “30 days” and inserting “45 days”;
 
 | | |
 |---|---|
@@ -489,7 +489,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5632` | replace | by striking paragraphs (2) and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (i), by inserting “adolescent development,” after “concerning”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | insert | in subclause (II), by inserting “publicly supported court-appointed legal counsel with experience representing juveniles in delinquency proceedings,” after “youth,”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | replace | by striking subclause (VIII) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (v) by inserting “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
@@ -543,9 +543,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5651` | repeal | Part C of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5651 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5661` | replace | by striking clause (iii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5661` | replace | by striking clause (vii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5661` | redesignate | by redesignating clauses (ix), (x), and (xi) as clauses (xv), (xvi), and (xvii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5661` | redesignate | by redesignating clauses (ix), (x), and (xi) as clauses (xvi), (xvii), and (xviii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5661` | insert | by inserting after clause (viii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5661` | insert | by inserting “in accordance with relevant confidentiality requirements” after “wards of the State”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5661` | insert | by inserting “in accordance with relevant confidentiality requirements” after “wards of the State”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5661` | insert | in subparagraph (D), by inserting “and Indian tribes” after “State”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5661` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5661` | replace | in subparagraph (G), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
