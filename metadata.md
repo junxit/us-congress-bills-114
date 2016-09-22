@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6014
@@ -41,3 +41,14 @@ To allow the Administrator of the Federal Aviation Administration to enter into 
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 540).(text: CR 09/20/2016 H5700)
 - 2016-09-21 — The title of the measure was amended. Agreed to without objection.
 - 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-12-01 — Passed Senate without amendment by Unanimous Consent.
+- 2016-12-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-12-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6680)
+- 2016-12-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6680)
+- 2016-12-02 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-307.
+- 2016-12-16 — Became Public Law No: 114-307.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
