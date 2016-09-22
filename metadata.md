@@ -1,7 +1,7 @@
 ---
 measure: S. 1550
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1550
@@ -63,3 +63,14 @@ Program Management Improvement Accountability Act
 - 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 550). (text: CR 09/20/2016 H5668-5669)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 550).(text: CR 09/20/2016 H5668-5669)
+- 2016-09-26 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-11-30 — Measure laid before Senate by unanimous consent.
+- 2016-11-30 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate bill by Unanimous Consent.
+- 2016-11-30 — Senate agreed to House amendment to Senate bill by Unanimous Consent.
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-05 — Presented to President.
+- 2016-12-05 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-264.
+- 2016-12-14 — Became Public Law No: 114-264.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
