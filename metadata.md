@@ -1,7 +1,7 @@
 ---
 measure: S. 2683
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2683
@@ -43,3 +43,14 @@ Federal Aviation Administration Veteran Transition Improvement Act of 2016
 - 2016-09-22 — Senate amendment agreed to: Amendment SA 5091 agreed to in Senate by Unanimous Consent.
 - 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5091 proposed by Senator Coats for Senator Hirono.(consideration: CR S6064; text: CR S6064)
 - 2016-09-22 — Senate amendment submitted
+- 2016-09-27 — Considered by unanimous consent. (consideration: CR H5946)
+- 2016-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-27 — Mr. LoBiondo asked unanimous consent to take from the Speaker's table and consider.
+- 2016-09-27 — On passage Passed without objection. (text: CR H5946)
+- 2016-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5946)
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-242.
+- 2016-10-07 — Became Public Law No: 114-242.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
