@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4564
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4564
@@ -51,3 +51,9 @@ Robert Emmet Park Act of 2016
 - 2016-09-19 — Placed on the House Calendar, Calendar No. 144.
 - 2016-09-19 — Reported by the Committee on Natural Resources. H. Rept. 114-750.
 - 2016-09-19 — Reported by the Committee on Natural Resources. H. Rept. 114-750.
+- 2016-09-22 — Considered under suspension of the rules. (consideration: CR H5842-5844)
+- 2016-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4564.
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — Mr. Denham moved to suspend the rules and pass the bill.
+- 2016-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5842-5843)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5842-5843)
