@@ -1,7 +1,7 @@
 ---
 measure: S. 1550
 congress: 114
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 1550
@@ -25,6 +25,10 @@ Program Management Improvement Accountability Act
 
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-550](votes/house-114-2-0550.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (404–11)
 
 ## Actions
 
@@ -51,3 +55,11 @@ Program Management Improvement Accountability Act
 - 2016-06-21 — Placed on the Union Calendar, Calendar No. 495.
 - 2016-06-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-637.
 - 2016-06-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-637.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5668-5670)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on S. 1550.
+- 2016-09-20 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5839)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 550). (text: CR 09/20/2016 H5668-5669)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 550).(text: CR 09/20/2016 H5668-5669)
