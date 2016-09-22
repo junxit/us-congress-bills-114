@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5690
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5690
@@ -46,3 +46,5 @@ GAO Access and Oversight Act of 2016
 - 2016-09-20 — Mr. Carter (GA) moved to suspend the rules and pass the bill.
 - 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 523). (text: CR H5663)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 523).(text: CR H5663)
+- 2016-09-21 — Received in the Senate.
+- 2016-09-22 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.
