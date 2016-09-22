@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6014
@@ -16,9 +16,10 @@ To allow the Administrator of the Federal Aviation Administration to enter into 
 
 - Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ To allow the Administrator of the Federal Aviation Administration to enter into 
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 540). (text: CR 09/20/2016 H5700)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 540).(text: CR 09/20/2016 H5700)
 - 2016-09-21 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
