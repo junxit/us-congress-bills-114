@@ -1,7 +1,7 @@
 ---
 measure: S. 1878
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1878
@@ -47,3 +47,16 @@ Advancing Hope Act of 2016
 - 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5090 proposed by Senator Coats for Senator Sanders.(consideration: CR S6063: text: CR S6063)
 - 2016-09-22 — Senate amendment submitted
 - 2016-09-22 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2016-09-27 — Committee on Energy and Commerce discharged.
+- 2016-09-27 — Committee on Energy and Commerce discharged.
+- 2016-09-27 — Considered by unanimous consent. (consideration: CR H5945-5946)
+- 2016-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-27 — Mr. Walden asked unanimous consent to discharge from committee and consider.
+- 2016-09-27 — On passage Passed without objection. (text: CR H5945-5946)
+- 2016-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5945-5946)
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Presented to President.
+- 2016-09-30 — Became Public Law No: 114-229.
+- 2016-09-30 — Became Public Law No: 114-229.
+- 2016-09-30 — Signed by President.
+- 2016-09-30 — Signed by President.
