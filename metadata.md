@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1296
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1296
@@ -45,3 +45,9 @@ To amend the San Luis Rey Indian Water Rights Settlement Act to clarify certain 
 - 2016-09-15 — Placed on the Union Calendar, Calendar No. 580.
 - 2016-09-15 — Reported by the Committee on Natural Resources. H. Rept. 114-747.
 - 2016-09-15 — Reported by the Committee on Natural Resources. H. Rept. 114-747.
+- 2016-09-22 — Considered under suspension of the rules. (consideration: CR H5841-5842)
+- 2016-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1296.
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5841)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5841)

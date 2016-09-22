@@ -25,3 +25,11 @@ The San Luis Rey Indian Water Rights Settlement Act (Public Law 100–675) is am
 >   - **(2)** *Future proceedings* In any proceeding involving the assertion, enforcement, or defense of the rights described in this subsection, the United States, in its capacity as trustee for any Band, shall not be a required party and any decision by the United States regarding participation in any such proceeding shall not be subject to judicial review or give rise to any claim for relief against the United States.
 > - **(e)** *Allottees* Congress finds and confirms that the benefits to allottees in the Settlement Agreement, including the remedies and provisions requiring that any rights of allottees shall be satisfied from supplemental water and other water available to the Bands or the Indian Water Authority, are equitable and fully satisfy the water rights of the allottees.
 > - **(f)** *No Precedent* Nothing in this Act shall be construed or interpreted as a precedent for the litigation or settlement of Indian reserved water rights.
+
+## § 2. Disbursement of funds
+
+The second sentence of section 105(b)(1) of the San Luis Rey Indian Water Rights Settlement Act (Public Law 100–675) is amended by striking the period at the end, and inserting the following:
+
+> , provided that—
+> - **(i)** no more than $3,700,000 per year (in principal, interest or both) may be so allocated; and
+> - **(ii)** none of the funds made available by this section shall be available unless the Director of the Office of Management and Budget first certifies in writing to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that the federal budget will record budgetary outlays from the San Luis Rey Tribal Development Fund of only the monies, not to exceed $3,700,000 annually, that the Secretary of the Treasury, pursuant to this section, allocates and makes available to the Indian Water Authority from the trust fund.
