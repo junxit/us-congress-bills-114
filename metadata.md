@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5320
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5320
@@ -46,6 +46,10 @@ Social Security Must Avert Identity Loss (MAIL) Act of 2016
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-545](votes/house-114-2-0545.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–0)
+
 ## Actions
 
 - 2016-05-25 — Introduced in House
@@ -57,3 +61,11 @@ Social Security Must Avert Identity Loss (MAIL) Act of 2016
 - 2016-07-25 — Placed on the Union Calendar, Calendar No. 544.
 - 2016-07-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-702.
 - 2016-07-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-702.
+- 2016-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-09-20 — Considered under suspension of the rules. (consideration: CR H5682-5683)
+- 2016-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5320.
+- 2016-09-20 — Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5835-5836)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 545). (text: CR  09/20/2016 H5682)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 545).(text: CR  09/20/2016 H5682)
