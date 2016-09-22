@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4712
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4712
@@ -32,10 +32,11 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 - 2016-09-21 — Mr. Bishop (MI) moved to suspend the rules and pass the bill, as amended.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5774)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5774)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
