@@ -42,16 +42,23 @@ It shall be the policy of the United States Government not to pay ransom or rele
 
 ## § 4. Prohibition on cash payments to the Government of Iran
 
-- **(a)** *Prohibition* Notwithstanding any other provision of law, beginning on the date of the enactment of this Act, the United States Government may not provide, directly or indirectly, promissory notes (including currency) issued by the United States Government or promissory notes (including currency) issued by a foreign government, to the Government of Iran.
+- **(a)** *Prohibition*
+  - **(1)** *In general* Notwithstanding any other provision of law, beginning on the date of the enactment of this Act, the United States Government may not provide, directly or indirectly, to the Government of Iran—
+    - **(A)** monetary instruments; or
+    - **(B)** precious metals.
+  - **(2)** *Definitions* In this subsection—
+    - **(A)** the term “monetary instruments” has the meaning given the term in paragraph (dd) of section 1010.100 of title 31, Code of Federal Regulations; and
+    - **(B)** the term “precious metal” has the meaning given the term in section 1027.100(d) of title 31, Code of Federal Regulations.
 - **(b)** *Licensing Requirement*
   - **(1)** *In general* Beginning on the date of the enactment of this Act, the conduct of a transaction or payment in connection with an agreement to settle a claim or claims brought before the Iran-United States Claims Tribunal may be made only—
     - **(A)** on a case-by-case basis and pursuant to a specific license by the Office of Foreign Assets Control of the Department of the Treasury; and
     - **(B)** in a manner that is not in contravention of the prohibition in subsection (a).
   - **(2)** *Publication in Federal Register* The President shall publish in the Federal Register a list of transactions and payments, including the amount and method of each such transaction and payment, by the United States Government to the Government of Iran in connection with the agreement described in paragraph (1).
-- **(c)** *Termination* The prohibition in subsection (a) and the licensing requirement in subsection (b) shall remain in effect until the date on which the President certifies to the appropriate congressional committees that—
+- **(c)** *Rule of construction* The term “agreement to settle a claim or claims brought before the Iran-United States Claims Tribunal”, as used in subsection (b), shall not be construed to mean a “promissory note”, as used in the definition of “monetary instrument” for purposes of subsection (a).
+- **(d)** *Termination* The prohibition in subsection (a) and the licensing requirement in subsection (b) shall remain in effect until the date on which the President certifies to the appropriate congressional committees that—
   - **(1)** the President has rescinded a preliminary draft rule or final rule (as in effect on the day before the date of the enactment of this Act) that provides for the designation of Iran as a jurisdiction of primary money laundering concern pursuant to section 5318A of title 31, United States Code; and
   - **(2)** the Secretary of State has removed Iran from the list of countries determined to have repeatedly provided support for acts of international terrorism under section 6(j) of the Export Administration Act of 1979 (as continued in effect pursuant to the International Emergency Economic Powers Act), section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or any other provision of law.
-- **(d)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+- **(e)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
@@ -102,3 +109,52 @@ In this Act:
   - **(C)** any person to the extent that such person is, or has been, or to the extent that there is reasonable cause to believe that such person is, or has been, acting or purporting to act directly or indirectly on behalf of any of the foregoing; and
   - **(D)** any person or entity identified by the Secretary of the Treasury to be the Government of Iran under part 560 of title 31, Code of Federal Regulations.
 - **(2)** *Iran-United States Claims Tribunal* The term Iran-United States Claims Tribunal means the tribunal established pursuant to the Algiers Accords on January 19, 1981, to resolve certain claims by nationals of one party against the other party and certain claims between the parties.
+
+## § 10. Prohibition on United States Government payment of ransom
+
+- **(a)** *In general* Except as provided by subsection (b), the President and all officers of the United States Government shall not make a payment to a government or person for the purpose of securing the release of unjustly detained individuals who are nationals of the United States or aliens who are lawfully admitted for permanent residence in the United States.
+- **(b)** *Exception* The prohibition under subsection (a) does not prohibit the United States Government from providing assistance to individuals who are nationals of the United States or aliens who are lawfully admitted for permanent residence in the United States that have been arrested.
+- **(c)** *Enforcement* The Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General, may take such actions, including the promulgation of such rules and regulations, as may be necessary to carry out the purposes of this section.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Entity* The term entity means a corporation, business association, partnership, trust, society, or any other entity.
+  - **(2)** *Person* The term person means an individual or entity.
+
+## § 11. Sanctions with respect to Iranian persons that hold or detain United States nationals or aliens lawfully admitted for permanent residence
+
+- **(a)** *Imposition of sanctions* Not later than 60 days after the date of the enactment of this Act, the President shall impose the sanctions described in subsection (b) with respect to—
+  - **(1)** any Iranian person involved in the kidnapping or unjust detention of any individual who is a national of the United States or an alien who is lawfully admitted for permanent residence in the United States;
+  - **(2)** any Iranian person that engages, or attempts to engage, in an activity or transaction that materially contributes to, or poses a risk of materially contributing to, kidnapping or unjust detention described in paragraph (1); and
+  - **(3)** any Iranian person that—
+    - **(A)** is owned or controlled by a person described in paragraph (1) or (2);
+    - **(B)** is acting for or on behalf of such a person; or
+    - **(C)** provides, or attempts to provide—
+      - **(i)** financial, material, technological, or other support to a person described in paragraph (1) or (2); or
+      - **(ii)** goods or services in support of an activity or transaction described in paragraph (1) or (2).
+- **(b)** *Sanctions described* The President shall block, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), all transactions in all property and interests in property of any person subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+- **(c)** *Exception; penalties*
+  - **(1)** *Inapplicability of national emergency requirement* The requirements of section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) shall not apply for purposes of subsection (b).
+  - **(2)** *Exception relating to importation of goods* The requirement to block and prohibit all transactions in all property and interests in property under subsection (b) shall not include the authority to impose sanctions on the importation of goods.
+  - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under subsection (b) to the same extent that such penalties apply to a person that commits an unlawful act described in subsection (a) of such section 206.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Entity* The term entity means a corporation, business association, partnership, trust, society, or any other entity.
+  - **(2)** *Iranian person* The term Iranian person means—
+    - **(A)** an individual who is a citizen or national of the Islamic Republic of Iran; or
+    - **(B)** an entity organized under the laws of the Islamic Republic of Iran or otherwise subject to the jurisdiction of the Government of the Islamic Republic of Iran.
+  - **(3)** *Person* The term person means an individual or entity.
+  - **(4)** *United States person* The term United States person means—
+    - **(A)** an individual who is a national of the United States or an alien who is lawfully admitted for permanent residence in the United States; or
+    - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+## § 12. Prohibition on cash payments to state sponsors of terrorism
+
+- **(a)** *Prohibition*
+  - **(1)** *In general* Notwithstanding any other provision of law, beginning on the date of the enactment of this Act, the United States Government may not provide, directly or indirectly, to a government of a state sponsor of terrorism, or an agent acting on behalf of such a government—
+    - **(A)** monetary instruments; or
+    - **(B)** precious metals.
+  - **(2)** *Definitions* In this subsection—
+    - **(A)** the term “monetary instruments” has the meaning given the term in paragraph (dd) of section 1010.100 of title 31, Code of Federal Regulations; and
+    - **(B)** the term “precious metal” has the meaning given the term in section 1027.100(d) of title 31, Code of Federal Regulations.
+- **(b)** *Application to North Korea*
+  - **(1)** *In general* Subsection (a) shall apply with respect to a payment, or an agreement to make a payment, to an agency or instrumentality of the Government of the Democratic Peoples’ Republic of Korea, or an agent acting on behalf of such Government, in the same manner and to the same extent as such subsection applies with respect to a payment, or an agreement to make a payment, to an agency or instrumentality of a state sponsor of terrorism, subject to the termination provisions described in paragraph (2).
+  - **(2)** *Termination* Subsection (a) shall cease to apply with respect to a payment, or an agreement to make a payment, to an agency or instrumentality of the Government of the Democratic Peoples’ Republic of Korea, or an agent acting on behalf of such Government, beginning on the date on which the President makes the certification to Congress under section 402 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122; 22 U.S.C. 92512).
+- **(c)** *State sponsor of terrorism defined* In this section, the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)), or any other provision of law, to be a government that has repeatedly provided support for acts of international terrorism.

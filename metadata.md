@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5931
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5931
@@ -93,6 +93,11 @@ Prohibiting Future Ransom Payments to Iran Act
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (2)
+
+- 2016-09-22 — [House 114-2-553](votes/house-114-2-0553.md) — On Agreeing to the Amendment — **Failed** (176–238)
+- 2016-09-22 — [House 114-2-554](votes/house-114-2-0554.md) — On Passage — **Passed** (254–163)
+
 ## Actions
 
 - 2016-09-06 — Introduced in House
@@ -103,3 +108,59 @@ Prohibiting Future Ransom Payments to Iran Act
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 600.
 - 2016-09-20 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-767.
 - 2016-09-20 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 114-767.
+- 2016-09-21 — Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of H.R. 5931 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rules makes in order only those amendments printed in the report.
+- 2016-09-22 — Amendment (A001) offered by Mr. Royce. (consideration: CR H5849-5850; text: CR H5849)
+- 2016-09-22 — Amendment (A002) offered by Mr. Pompeo. (consideration: CR H5850-5851; text: CR H5850-5851)
+- 2016-09-22 — Amendment (A003) offered by Mr. Pompeo. (consideration: CR H5852-5853; text: CR H5852)
+- 2016-09-22 — Amendment (A004) offered by Mr. Duffy. (consideration: CR H5853-5854; text: CR H5853)
+- 2016-09-22 — Amendment (A005) offered by Mr. Engel. (consideration: CR H5854-5857; text: CR H5854-5855)
+- 2016-09-22 — Amendment agreed to Committee of the Whole
+- 2016-09-22 — Amendment agreed to Committee of the Whole
+- 2016-09-22 — Amendment agreed to Committee of the Whole
+- 2016-09-22 — Amendment agreed to Committee of the Whole
+- 2016-09-22 — Amendment failed in Committee of the Whole
+- 2016-09-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 5931 as unfinished business.
+- 2016-09-22 — Considered as unfinished business.
+- 2016-09-22 — Considered under the provisions of rule H. Res. 879. (consideration: CR H5844-5858; text of amendment in the nature of a substitute: CR H5848-5849)
+- 2016-09-22 — DEBATE - Pursuant to the provisions of H.Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment.
+- 2016-09-22 — DEBATE - Pursuant to the provisions of H.Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment.
+- 2016-09-22 — DEBATE - Pursuant to the provisions of H.Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Pompeo amendment No. 2.
+- 2016-09-22 — DEBATE - Pursuant to the provisions of H.Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Pompeo amendment No. 3, as modified.
+- 2016-09-22 — DEBATE - Pursuant to the provisions of H.Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Royce amendment No. 1.
+- 2016-09-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5931.
+- 2016-09-22 — House amendment agreed to: On agreeing to the Duffy amendment (A004) Agreed to by voice vote.
+- 2016-09-22 — House amendment agreed to: On agreeing to the Pompeo amendment (A002) Agreed to by voice vote.
+- 2016-09-22 — House amendment agreed to: On agreeing to the Pompeo amendment (A003) as modified Agreed to by voice vote.
+- 2016-09-22 — House amendment agreed to: On agreeing to the Royce amendment (A001) Agreed to by voice vote.
+- 2016-09-22 — House amendment not agreed to: On agreeing to the Engel amendment (A005) Failed by recorded vote: 176 - 238 (Roll no. 553).
+- 2016-09-22 — House amendment offered
+- 2016-09-22 — House amendment offered
+- 2016-09-22 — House amendment offered
+- 2016-09-22 — House amendment offered
+- 2016-09-22 — House amendment offered
+- 2016-09-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. Royce.(consideration: CR H5849-5850; text: CR H5849)
+- 2016-09-22 — House amendment offered/reported by : Amendment (A002) offered by Mr. Pompeo.(consideration: CR H5850-5851; text: CR H5850-5851)
+- 2016-09-22 — House amendment offered/reported by : Amendment (A004) offered by Mr. Duffy.(consideration: CR H5853-5854; text: CR H5853)
+- 2016-09-22 — House amendment offered/reported by : Amendment (A005) offered by Mr. Engel.(consideration: CR H5854-5857; text: CR H5854-5855)
+- 2016-09-22 — House amendment offered/reported by: Amendment (A003) offered by Mr. Pompeo.(consideration: CR H5852-5853; text: CR H5852)
+- 2016-09-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 879 and Rule XVIII.
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — Mr. Royce moved that the Committee rise.
+- 2016-09-22 — On agreeing to the Duffy amendment (A004) Agreed to by voice vote.
+- 2016-09-22 — On agreeing to the Engel amendment (A005) Failed by recorded vote: 176 - 238 (Roll no. 553).
+- 2016-09-22 — On agreeing to the Pompeo amendment (A002) Agreed to by voice vote.
+- 2016-09-22 — On agreeing to the Pompeo amendment (A003) as modified Agreed to by voice vote.
+- 2016-09-22 — On agreeing to the Royce amendment (A001) Agreed to by voice vote.
+- 2016-09-22 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-09-22 — On passage Passed by recorded vote: 254 - 163 (Roll no. 554).
+- 2016-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Engel demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2016-09-22 — Passed/agreed to in House: On passage Passed by recorded vote: 254 - 163 (Roll no. 554).
+- 2016-09-22 — Pompeo amendment (A003) modified by unanimous consent. (text as modified: CR H5852)
+- 2016-09-22 — Roll call votes on amendments in House
+- 2016-09-22 — Rule H. Res. 879 passed House.
+- 2016-09-22 — Rule provides for consideration of H.R. 5931 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rules makes in order only those amendments printed in the report.
+- 2016-09-22 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5931.
+- 2016-09-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-09-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5931.
+- 2016-09-22 — The Speaker designated the Honorable Steve Russell to act as Chairman of the Committee.
+- 2016-09-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5857)
