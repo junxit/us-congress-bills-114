@@ -22,7 +22,7 @@ This Act may be cited as the “Modernizing Government Technology Act of 2016”
   - **(4)** The efficiencies, cost savings, and greater computing power, offered by modernized solutions, such as cloud computing, have the potential to—
     - **(A)** eliminate inappropriate duplication and reduce costs;
     - **(B)** address the critical need for cyber security by design; and
-    - **(C)** move the Federal Government into a broad, digital services delivery model that will transform the Federal Government’s ability to meet mission requirements and deliver services to the American people.
+    - **(C)** move the Federal Government into a broad, digital-services delivery model that will transform the Federal Government’s ability to meet mission requirements and deliver services to the American people.
 - **(b)** *Purposes* The purposes of this Act are the following:
   - **(1)** Assist the Federal Government in modernized Federal information technology to mitigate current operational and security risks.
   - **(2)** Incentivize cost savings in Federal information technology through modernization.
@@ -36,19 +36,19 @@ This Act may be cited as the “Modernizing Government Technology Act of 2016”
     - **(A)** Reprogramming of funds, including reprogramming of any funds available on the date of the enactment of this Act for the operation and maintenance of legacy information technology systems, in compliance with any applicable reprogramming law or guidelines of the Committees on Appropriations of the House of Representatives and the Senate.
     - **(B)** Transfer of funds, including transfer of any funds available on the date of the enactment of this Act for the operation and maintenance of legacy information technology systems, but only if transfer authority is specifically provided for by law.
     - **(C)** Amounts made available through discretionary appropriations.
-  - **(3)** *Use of funds* An IT working capital fund established under paragraph (1) may be used only for the following:
+  - **(3)** *Use of funds* An IT working capital fund established under paragraph (1) may be used, subject to the availability of appropriations, only for the following:
     - **(A)** To improve, retire, or replace existing information technology systems to improve efficiency and effectiveness.
-    - **(B)** To transition to cloud computing or to transition to information technology systems shared by multiple agencies.
+    - **(B)** To transition to cloud computing and innovative platforms and technologies.
     - **(C)** To assist and support covered agency efforts to provide adequate, risk-based, and cost-effective information technology capabilities that address evolving threats to information security.
-    - **(D)** Reimbursement of funds transferred from the Information Technology Modernization Fund established under section 4.
+    - **(D)** Reimbursement of funds transferred from the Information Technology Modernization Fund established under section 4, with the approval of the agency Chief Information Officer.
   - **(4)** *Existing funds* An IT working capital fund may not be used to supplant funds provided for the operation and maintenance of any system already within an appropriation for the covered agency at the time of establishment of the IT working capital fund.
   - **(5)** *Reprogramming and transfer of funds* The head of each covered agency shall prioritize funds within the IT working capital fund to be used initially for cost savings activities approved by the covered agency Chief Information Officer, in consultation with the Administrator of the Office of Electronic Government. The head of each covered agency may—
     - **(A)** reprogram any amounts saved as a direct result of such activities for deposit into the applicable IT working capital fund, consistent with paragraph (2)(A); and
     - **(B)** transfer any amounts saved as a direct result of such activities for deposit into the applicable IT working capital fund, consistent with paragraph (2)(B).
-  - **(6)** *Return of funds* Any funds deposited into an IT working capital fund must be obligated not later than 3 years after the date of such deposit. Any funds that are unobligated 3 years after such date shall be rescinded and reported to the Committees on Appropriations of the House of Representatives and the Senate.
+  - **(6)** *Return of funds* Any funds deposited into an IT working capital fund shall be available for obligation for 3 years after the date of such deposit.
   - **(7)** *Agency CIO responsibilities* In evaluating projects to be funded from the IT working capital fund, the covered agency Chief Information Officer shall consider, to the extent applicable, guidance established pursuant to section 4(a)(1) to evaluate applications for funding from the Information Technology Modernization Fund that include factors such as a strong business case, technical design, procurement strategy (including adequate use of incremental software development practices), and program management.
 - **(b)** *Reporting requirement*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, and every 6 months thereafter, the head of each covered agency shall submit to the Director the following, with respect to the IT working capital fund for that covered agency:
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and every 6 months thereafter, the head of each covered agency shall submit to the Director the following, with respect to the IT working capital fund for that covered agency:
     - **(A)** A list of each information technology investment funded with estimated cost and completion date for each such investment.
     - **(B)** A summary by fiscal year of the obligations, expenditures, and unused balances.
   - **(2)** *Public availability* The Director shall make the information required pursuant to paragraph (1) publicly available on a website.
@@ -65,7 +65,7 @@ This Act may be cited as the “Modernizing Government Technology Act of 2016”
     - **(C)** To provide services or work performed in support of the activities described under subparagraph (A) or (B).
   - **(4)** *Credits; availability of funds*
     - **(A)** *Credits* In addition to any funds otherwise appropriated, the Fund shall be credited with all reimbursements, advances, or refunds or recoveries relating to information technology or services provided through the Fund.
-    - **(B)** *Availability of funds* Amounts deposited, credited, or otherwise made available to the Fund shall be available until expended and without further appropriation for the purposes described in paragraph (3).
+    - **(B)** *Availability of funds* Amounts deposited, credited, or otherwise made available to the Fund shall be available, as provided in appropriations Acts, until expended for the purposes described in paragraph (3).
   - **(5)** *Reimbursement*
     - **(A)** *Payment by agency* For a product or service developed under paragraph (3), the head of an agency that uses such product or service shall pay an amount fixed by the Administrator of General Services in accordance with this subsection.
     - **(B)** *Reimbursement by agency* The head of an agency shall reimburse the Fund for any transfer made under paragraph (3)(A) in accordance with the terms established in the written agreement described in paragraph (6). Notwithstanding any other provision of law, an agency may make a reimbursement required by this subparagraph from any appropriation available for information technology activities. An obligation to make a payment under an agreement described in paragraph (6) in a future fiscal year shall be recorded pursuant to section 1501 of title 31, United States Code, in the fiscal year in which the payment is due.
@@ -78,14 +78,15 @@ This Act may be cited as the “Modernizing Government Technology Act of 2016”
     - **(B)** *Requirement for use of incremental development practices* For any funds transferred to an agency under paragraph (3)(A), in the absence of compelling circumstances documented by the Administrator of General Services at the time of transfer, such funds shall be transferred only on an incremental basis, tied to metric-based development milestones achieved by the agency, to be described in the written agreement required pursuant to subparagraph (A).
   - **(7)** *Reporting requirement* Not later than 6 months after the date of the enactment of this Act, the Director shall publish and maintain a list of each project funded by the Fund on a public website to be updated not less than quarterly, that includes a description of the project, project status (including any schedule delay and cost overruns), and financial expenditure data related to the project.
 - **(b)** *Information technology modernization board*
-  - **(1)** *Establishment* There is established an Information Technology Modernization Board (in this section referred to as the “Board”) which shall evaluate all proposals submitted by agencies for modernization of information technology used in the Federal Government.
+  - **(1)** *Establishment* There is established an Information Technology Modernization Board (in this section referred to as the “Board”) which shall evaluate proposals submitted by agencies for funding authorized under the Fund.
   - **(2)** *Responsibilities* The responsibilities of the Board are the following:
     - **(A)** Provide input to the Director for the development of processes for agencies to submit modernization proposals to the Board and to establish the criteria by which such proposals are evaluated, which shall include addressing the greatest security and operational risks, having the greatest Governmentwide impact, and having a high probability of success based on factors such as a strong business case, technical design, procurement strategy (including adequate use of incremental software development practices), and program management.
     - **(B)** Make recommendations to the Administrator of General Services to assist agencies in the further development and refinement of select submitted modernization proposals, based on an initial evaluation performed with the assistance of the Administrator of General Services.
-    - **(C)** Review and prioritize, with the assistance of the Administrator of General Services and the Director, modernization proposals based on criteria established pursuant to subparagraph (A).
+    - **(C)** review and prioritize, with the assistance of the Administrator of General Services and the Director, modernization proposals based on criteria established pursuant to subparagraph (A).
     - **(D)** Identify, with the assistance of the Administrator of General Services, opportunities to improve or replace multiple information technology systems with a smaller number of information technology systems common to multiple agencies.
     - **(E)** Recommend the funding of modernization projects, in accordance with the uses described in subsection (a)(3), to the Administrator of General Services.
     - **(F)** Monitor, in consultation with the Administrator of General Services, progress and performance in executing approved projects and, if necessary, recommend the suspension or termination of funding for projects based on factors such as failure to meet the terms of the written agreement described in subsection (a)(6).
+    - **(G)** Monitor operating costs of the Fund.
   - **(3)** *Membership* The Board shall consist of 8 voting members.
   - **(4)** *Chair* The Chair of the Board shall be the Administrator of the Office of Electronic Government.
   - **(5)** *Permanent members* The permanent members of the Board shall be the following:
@@ -97,11 +98,11 @@ This Act may be cited as the “Modernizing Government Technology Act of 2016”
       - **(ii)** One employee of the National Protection and Programs Directorate of the Department of Homeland Security, appointed by the Secretary of Homeland Security.
       - **(iii)** One employee of the Department of Defense, appointed by the Secretary of Defense.
       - **(iv)** Three Federal employees primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition, appointed by the Director.
-    - **(B)** *Term* Each member of the Board described in paragraph (A) shall serve a term of one year, which shall be renewable up to three times, at the discretion of the appointing Secretary or Director, as applicable.
+    - **(B)** *Term* Each member of the Board described in paragraph (A) shall serve a term of 1 year, which shall be renewable up to 3 times, at the discretion of the appointing Secretary or Director, as applicable.
   - **(7)** *Prohibition on compensation* Members of the Board may not receive additional pay, allowances, or benefits by reason of their service on the Board.
   - **(8)** *Staff* Upon request of the Chair of the Board, the Director and the Administrator of General Services may detail, on a nonreimbursable basis, any of the personnel of the Office of Management and Budget or the General Services Administration (as the case may be) to the Board to assist it in carrying out its functions under this Act.
 - **(c)** *Responsibilities of the Administrator of General Services*
-  - **(1)** *In general* In addition to the responsibilities described in subsection (a), the Administrator of General Services shall support the activities of the Board and provide technical support to, and, in consultation with the Director, oversight of, agencies that receive transfers from the Fund.
+  - **(1)** *In general* In addition to the responsibilities described in subsection (a), the Administrator of General Services shall support the activities of the Board and provide technical support to, and, with the concurrence of the Director, oversight of, agencies that receive transfers from the Fund.
   - **(2)** *Responsibilities* The responsibilities of the Administrator of General Services are to—
     - **(A)** provide direct technical support in the form of personnel services or otherwise to agencies transferred amounts under subsection (a)(3)(A) and for products, services, and acquisition vehicles funded under subsection (a)(3)(B);
     - **(B)** assist the Board with the evaluation, prioritization, and development of agency modernization proposals;
