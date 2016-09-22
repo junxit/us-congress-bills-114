@@ -19,7 +19,7 @@ This Act may be cited as the “Federal Aviation Administration Veteran Transiti
   - **(1)** in subparagraph (H), by striking “; and” and inserting a semicolon;
   - **(2)** in subparagraph (I)(iii), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(J)** subject to paragraph (4), section 6329, relating to disabled veteran leave.
+    > - **(J)** subject to paragraph (4) of this subsection, section 6329, relating to disabled veteran leave.
 
 - **(b)** *Certification of leave* Section 40122(g) of such title is amended—
   - **(1)** by redesignating paragraph (4) as paragraph (5); and
