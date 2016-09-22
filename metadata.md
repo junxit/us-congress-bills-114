@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5995
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5995
@@ -40,3 +40,12 @@ GAO Civilian Task and Delivery Order Protest Authority Act of 2016
 - 2016-09-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-779.
 - 2016-09-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-779.
 - 2016-09-22 — Received in the Senate, read twice.
+- 2016-11-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6627)
+- 2016-11-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6627)
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-05 — Presented to President.
+- 2016-12-05 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-260.
+- 2016-12-14 — Became Public Law No: 114-260.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
