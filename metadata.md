@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5659
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5659
@@ -30,10 +30,11 @@ Expanding Seniors Receiving Dialysis Choice Act of 2016
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Expanding Seniors Receiving Dialysis Choice Act of 2016
 - 2016-09-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 529). (text: CR 09/20/2016 H5679-5680)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 529).(text: CR 09/20/2016 H5679-5680)
+- 2016-09-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
