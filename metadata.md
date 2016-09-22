@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5037
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5037
@@ -20,6 +20,10 @@ District of Columbia Courts and Public Defender Service Voluntary Separation Inc
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2016-09-22 — [House 114-2-555](votes/house-114-2-0555.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (413–1)
+
 ## Actions
 
 - 2016-04-21 — Introduced in House
@@ -35,3 +39,7 @@ District of Columbia Courts and Public Defender Service Voluntary Separation Inc
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 597.
 - 2016-09-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-764.
 - 2016-09-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-764.
+- 2016-09-22 — Considered as unfinished business. (consideration: CR H5858)
+- 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 555). (text: CR 09/20/2016 H5666)
+- 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 555).(text: CR 09/20/2016 H5666)
