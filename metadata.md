@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 845
@@ -126,3 +126,9 @@ National Forest System Trails Stewardship Act
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 603.
 - 2016-09-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-770, Part I.
 - 2016-09-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-770, Part I.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5875-5878)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 845.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mr. Rouzer moved to suspend the rules and pass the bill, as amended.
+- 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5875-5876)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5875-5876)
