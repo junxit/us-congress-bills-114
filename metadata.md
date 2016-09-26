@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4419
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4419
@@ -45,3 +45,12 @@ District of Columbia Judicial Financial Transparency Act
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 551).(text: CR 09/20/2016 H5664-5665)
 - 2016-09-22 — The title of the measure was amended. Agreed to without objection.
 - 2016-09-26 — Received in the Senate, read twice.
+- 2016-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6575)
+- 2016-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6575)
+- 2016-11-30 — Message on Senate action sent to the House.
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-257.
+- 2016-12-14 — Became Public Law No: 114-257.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
