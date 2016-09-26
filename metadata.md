@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5798
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5798
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 1101 Da
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ To designate the facility of the United States Postal Service located at 1101 Da
 - 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 22, 1 Present (Roll no. 556). (text: CR 09/20/2016 H5678)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 22, 1 Present (Roll no. 556).(text: CR 09/20/2016 H5678)
+- 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
