@@ -1,7 +1,7 @@
 ---
 measure: S. 2754
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2754
@@ -44,3 +44,14 @@ To designate the Federal building and United States courthouse located at 300 Fa
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5885)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5885)
 - 2016-09-26 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-27 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2016-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6493-6495; text as passed Senate: CR S6493-6495)
+- 2016-11-17 — Resolving differences -- Senate actions: Senate agreed to the House amendments to the Senate bill by Unanimous Consent.
+- 2016-11-17 — Senate agreed to the House amendments to the Senate bill by Unanimous Consent.
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-28 — Presented to President.
+- 2016-11-28 — Presented to President.
+- 2016-12-08 — Became Public Law No: 114-253.
+- 2016-12-08 — Became Public Law No: 114-253.
+- 2016-12-08 — Signed by President.
+- 2016-12-08 — Signed by President.
