@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 893
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 893
+
+> Providing for consideration of the bill (H.R. 954) to amend the Internal Revenue Code of 1986 to exempt from the individual mandate certain individuals who had coverage under a terminated qualified health plan funded through the Consumer Operated and Oriented Plan (CO-OP) program.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 954) to amend the Internal Revenue Code of 1986 to exempt from the individual mandate certain individuals who had coverage under a terminated qualified health plan funded through the Consumer Operated and Oriented Plan (CO-OP) program. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
