@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1877
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,45 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Mental Health First Aid Act of 2015”.
+This Act may be cited as the “Mental Health First Aid Act of 2016”.
 
-## § 2. Mental health first aid training grants
+## § 2. Mental health awareness training grants
 
-Section 520J of the Public Health Service Act (42 U.S.C. 290bb–41) is amended to read as follows:
+Section 520J of the Public Health Service Act (42 U.S.C. 290bb–41) is amended—
 
-> ## § 520J. Mental health first aid training grants
->
-> - **(a)** *Grants* The Secretary, acting through the Administrator, shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to initiate and sustain mental health first aid training programs.
-> - **(b)** *Program requirements*
->   - **(1)** *In general* To be eligible for funding under subsection (a), a mental health first aid training program shall—
->     - **(A)** be designed to train individuals in the categories listed in paragraph (2) to accomplish the objectives described in paragraph (3);
->     - **(B)** ensure that training is conducted by trainers that are properly licensed and credentialed by nonprofit entities as designated by the Secretary; and
->     - **(C)** include—
->       - **(i)** at a minimum—
->         - **(I)** a core live training course for individuals in the categories listed in paragraph (2) on the skills, resources, and knowledge to assist individuals in crisis to connect with appropriate local mental health care services;
->         - **(II)** training on mental health resources, including the location of community mental health centers described in section 1913(c), in the State and local community; and
->         - **(III)** training on action plans and protocols for referral to such resources; and
->       - **(ii)** where feasible, continuing education and updated training for individuals in the categories listed in paragraph (2).
->   - **(2)** *Categories of individuals to be trained* The categories of individuals listed in this paragraph are the following:
->     - **(A)** Emergency services personnel and other first responders.
->     - **(B)** Police officers and other law enforcement personnel.
->     - **(C)** Teachers and school administrators.
->     - **(D)** Human resources professionals.
->     - **(E)** Faith community leaders.
->     - **(F)** Nurses and other primary care personnel.
->     - **(G)** Students enrolled in an elementary school, a secondary school, or an institution of higher education.
->     - **(H)** The parents of students described in subparagraph (G).
->     - **(I)** Veterans.
->     - **(J)** Other individuals, audiences or training populations as determined appropriate by the Secretary.
->   - **(3)** *Objectives of training* To be eligible for funding under subsection (a), a mental health first aid training program shall be designed to train individuals in the categories listed in paragraph (2) to accomplish each of the following objectives (as appropriate for the individuals to be trained, taking into consideration their age):
->     - **(A)** Safe de-escalation of crisis situations.
->     - **(B)** Recognition of the signs and symptoms of mental illness, including such common psychiatric conditions as schizophrenia, bipolar disorder, major clinical depression, and anxiety disorders.
->     - **(C)** Timely referral to mental health services in the early stages of developing mental disorders in order to—
->       - **(i)** avoid more costly subsequent behavioral health care; and
->       - **(ii)** enhance the effectiveness of mental health services.
-> - **(c)** *Distribution of Awards* In awarding grants under this section, the Secretary shall—
->   - **(1)** ensure that grants are equitably distributed among the geographical regions of the United States; and
->   - **(2)** pay particular attention to the mental health training needs of populations and target audiences residing in rural areas.
-> - **(d)** *Application* A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received under such grant.
-> - **(e)** *Evaluation* A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that receives a grant under this section shall prepare and submit an evaluation to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including an evaluation of activities carried out with funds received under such grant and a process and outcome evaluation.
-> - **(f)** *Authorization of Appropriations* To carry out this section, there are authorized to be appropriated $20,000,000 for fiscal year 2016 and such sums as may be necessary for each of fiscal years 2017 and 2018.
+- **(1)** in the section heading, by inserting “Mental health awareness” before “Training”; and
+- **(2)** in subsection (b)—
+  - **(A)** in the subsection heading, by striking “illness” and inserting “health”;
+  - **(B)** in paragraph (1), by inserting “, veterans, law enforcement, and other categories of individuals, as determined by the Secretary,” after “emergency services personnel”;
+  - **(C)** in paragraph (5)—
+    - **(i)** in the matter preceding subparagraph (A), by striking “to” and inserting “for evidence-based programs that provide education to teachers, personnel, and other categories of individuals described in paragraph (1) on at least”; and
+    - **(ii)** by striking subparagraphs (A) through (C) and inserting the following:
+      > - **(A)** recognizing the signs and symptoms of mental illness; and
+      > - **(B)** either—
+      >   - **(i)** resources available in the community for individuals with a mental illness and other relevant resources; or
+      >   - **(ii)** the safe de-escalation of crisis situations involving individuals with a mental illness.
+
+  - **(D)** in paragraph (7), by striking “, $25,000,000” and all that follows through the period at the end and inserting “$14,963,000 for each of fiscal years 2017 through 2021.”.
