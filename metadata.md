@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5719
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5719
@@ -52,3 +52,4 @@ Empowering Employees through Stock Ownership Act
 - 2016-09-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 287 - 124 (Roll no. 544).(text of amendment in the nature of a substitute: CR H5822-5824)
 - 2016-09-22 — Rule provides for consideration of H.R. 3438 and H.R. 5719. The resolution provides for one hour of general debate on H.R. 3438 and H.R. 5719. The resolution provides that it shall be in order at any time on the legislative day of September 22, 2016 or September 23, 2016, for the Speaker to entertain motions that the House suspend the rules.
 - 2016-09-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5829)
+- 2016-09-26 — Received in the Senate.
