@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5943
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5943
@@ -38,3 +38,9 @@ Transit Security Grant Program Flexibility Act
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 607.
 - 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-776.
 - 2016-09-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-776.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5878-5879)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5943.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
+- 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5878)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5878)
