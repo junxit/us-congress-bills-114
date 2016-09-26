@@ -20,7 +20,7 @@ This Act may be cited as the “Securing our Agriculture and Food Act”.
   >
   > - **(a)** *Program required* The Secretary, acting through the Assistant Secretary for Health Affairs, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
   > - **(b)** *Program elements* The coordination program required by subsection (a) shall include, at a minimum, the following:
-  >   - **(1)** Providing oversight and management of the Department’s responsibilities pursuant to Homeland Security Presidential Directive 9 - Defense of United States Agriculture and Food.
+  >   - **(1)** Providing oversight and management of the Department’s responsibilities pursuant to Homeland Security Presidential Directive 9—Defense of United States Agriculture and Food.
   >   - **(2)** Providing oversight and integration of the Department’s activities related to veterinary public health, food defense, and agricultural security.
   >   - **(3)** Leading the Department’s policy initiatives relating to food, animal, and agricultural incidents, and the impact of such incidents on animal and public health.
   >   - **(4)** Leading the Department’s policy initiatives relating to overall domestic preparedness for and collective response to agricultural terrorism.
