@@ -1,7 +1,7 @@
 ---
 measure: S. 2754
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2754
@@ -34,3 +34,13 @@ To designate the Federal building and United States courthouse located at 300 Fa
 - 2016-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.
 - 2016-09-15 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5867-5868; text of measure as reported in Senate: CR S5867; text as passed Senate: CR S5867-5868)
 - 2016-09-15 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5867-5868; text of measure as reported in Senate: CR S5867; text as passed Senate: CR S5867-5868)
+- 2016-09-19 — Held at the desk.
+- 2016-09-19 — Message on Senate action sent to the House.
+- 2016-09-19 — Received in the House.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5885)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on S. 2754.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mr. Davis, Rodney moved to suspend the rules and pass the bill, as amended.
+- 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5885)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5885)
+- 2016-09-26 — The title of the measure was amended. Agreed to without objection.
