@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3537
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 802` | strike | Clauses (i), (ii), and (iii) of section 102(32)(A) of the Controlled Substances Act (21 U.S.C. 802(32)(A)) are amended by striking “substantially” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 813` | insert | Section 203 of the Controlled Substances Act (21 U.S.C. 813) is amended by inserting before the period at the end the following: “for purposes of prohibitions, restrictions, and other requirements with respect to manufacture, importation… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 812` | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 812` | strike | in clause (xiv) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 812` | replace | in clause (xv) by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 812` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 812` | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)), is amended in subsection (a) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 812` | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)), is amended in subsection (c) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
