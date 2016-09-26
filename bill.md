@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3537
 
-> To amend the Controlled Substances Act to add certain synthetic substances to schedule I, and for other purposes.
+> To amend the Controlled Substances Act to clarify how controlled substance analogues are to be regulated, and for other purposes.
 
 ## § 1. Short title
 
