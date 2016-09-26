@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6004
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6004
@@ -26,10 +26,11 @@ Modernizing Government Technology Act of 2016
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Committees (2)
+## Committees (3)
 
 - House — Appropriations Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Modernizing Government Technology Act of 2016
 - 2016-09-22 — Placed on the Union Calendar, Calendar No. 611.
 - 2016-09-22 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-783, Part I.
 - 2016-09-22 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-783, Part I.
+- 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
