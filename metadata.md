@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4564
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4564
@@ -57,3 +57,4 @@ Robert Emmet Park Act of 2016
 - 2016-09-22 — Mr. Denham moved to suspend the rules and pass the bill.
 - 2016-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5842-5843)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5842-5843)
+- 2016-09-26 — Received in the Senate.
