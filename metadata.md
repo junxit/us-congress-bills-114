@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5320
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5320
@@ -42,9 +42,10 @@ Social Security Must Avert Identity Loss (MAIL) Act of 2016
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Social Security Must Avert Identity Loss (MAIL) Act of 2016
 - 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 545). (text: CR  09/20/2016 H5682)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 545).(text: CR  09/20/2016 H5682)
+- 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
