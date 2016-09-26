@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5883
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5883
@@ -45,3 +45,9 @@ Clarification of Treatment of Electronic Sales of Livestock Act of 2016
 - 2016-09-20 — Placed on the Union Calendar, Calendar No. 601.
 - 2016-09-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-768.
 - 2016-09-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 114-768.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5874-5875)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5883.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mr. Rouzer moved to suspend the rules and pass the bill, as amended.
+- 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5874)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5874)
