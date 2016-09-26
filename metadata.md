@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5509
@@ -36,3 +36,10 @@ To name the Department of Veterans Affairs temporary lodging facility in Indiana
 - 2016-06-16 — Introduced in House
 - 2016-06-16 — Introduced in House
 - 2016-06-16 — Referred to the House Committee on Veterans' Affairs.
+- 2016-06-27 — Referred to the Subcommittee on Health.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5905-5906)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5509.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
+- 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5905)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5905)
