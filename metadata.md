@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5931
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5931
@@ -89,9 +89,10 @@ Prohibiting Future Ransom Payments to Iran Act
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (2)
 
@@ -164,3 +165,4 @@ Prohibiting Future Ransom Payments to Iran Act
 - 2016-09-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5931.
 - 2016-09-22 — The Speaker designated the Honorable Steve Russell to act as Chairman of the Committee.
 - 2016-09-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5857)
+- 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
