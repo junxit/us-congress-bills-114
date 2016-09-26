@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2285
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2285
@@ -38,11 +38,12 @@ Prevent Trafficking in Cultural Property Act
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -78,3 +79,4 @@ Prevent Trafficking in Cultural Property Act
 - 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 547). (text: CR 09/20/2016 H5688-5689)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 547).(text: CR 09/20/2016 H5688-5689)
+- 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
