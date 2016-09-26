@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5946
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5946
@@ -57,3 +57,4 @@ United States Appreciation for Olympians and Paralympians Act of 2016
 - 2016-09-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 546). (text: CR 09/20/2016 H5683-5684)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 546).(text: CR 09/20/2016 H5683-5684)
+- 2016-09-26 — Received in the Senate, read twice.
