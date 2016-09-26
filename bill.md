@@ -80,7 +80,7 @@ Section 12303 of the Integrated Coastal and Ocean Observation System Act of 2009
   >       - **(II)** to ensure compliance with all applicable standards and protocols established by the Council; and
   >       - **(III)** to ensure that regional observations are integrated into the System on a sustained basis;
   >     - **(vi)** identify gaps in observation coverage or needs for capital improvements of both Federal assets and non-Federal assets;
-  >     - **(vii)** subject to the availability of appropriations, establish through one or more participating Federal agencies, in consultation with the System advisory committee established under subsection (d), a competitive matching grant or other programs—
+  >     - **(vii)** subject to the availability of appropriations, establish through 1 or more participating Federal agencies, in consultation with the System advisory committee established under subsection (d), a competitive matching grant or other programs—
   >       - **(I)** to promote intramural and extramural research and development of new, innovative, and emerging observation technologies including testing and field trials; and
   >       - **(II)** to facilitate the migration of new, innovative, and emerging scientific and technological advances from research and development to operational deployment;
   >     - **(viii)** periodically—
@@ -99,10 +99,10 @@ Section 12303 of the Integrated Coastal and Ocean Observation System Act of 2009
   >     - **(iii)** promulgate program guidelines—
   >       - **(I)** to certify and integrate regional associations into the System; and
   >       - **(II)** to provide regional coastal and ocean observation data that meet the needs of user groups from the respective regions;
-  >     - **(iv)** have the authority to enter into and oversee contracts, leases, grants or cooperative agreements with non-Federal assets, including regional information coordination entities, to support the purposes of this chapter on such terms as the Administrator deems appropriate;
+  >     - **(iv)** have the authority to enter into and oversee contracts, leases, grants, or cooperative agreements with non-Federal assets, including regional information coordination entities, to support the purposes of this chapter on such terms as the Administrator deems appropriate;
   >     - **(v)** implement and maintain a merit-based, competitive funding process to support non-Federal assets, including the development and maintenance of a network of Regional Coastal Observing Systems, and develop and implement a process for the periodic review and evaluation of the regional associations;
   >     - **(vi)** provide opportunities for competitive contracts and grants for demonstration projects to design, develop, integrate, deploy, maintain, and support components of the System;
-  >     - **(vii)** establish and maintain efficient and effective administrative procedures for allocation of funds among contractors, grantees, and non-Federal assets, including regional associations in a timely manner;
+  >     - **(vii)** establish and maintain efficient and effective administrative procedures for the timely allocation of funds among contractors, grantees, and non-Federal assets, including regional associations;
   >     - **(viii)** develop and implement a process for the periodic review and evaluation of the Regional Coastal Observing Systems;
   >     - **(ix)** formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are—
   >       - **(I)** identified by the regional associations described in the System Plan, the Administrator, or other members of the System; and
@@ -110,7 +110,7 @@ Section 12303 of the Integrated Coastal and Ocean Observation System Act of 2009
   >     - **(x)** develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Interagency Ocean Observing Committee, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;
   >     - **(xi)** not less frequently than once each year, submit to the Interagency Ocean Observing Observation Committee a report on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans prepared pursuant to paragraph (2)(B)(i);
   >     - **(xii)** develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
-  >     - **(xiii)** work with users and Regional Associations to develop products to enable real-time data sharing for decisionmakers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting.
+  >     - **(xiii)** work with users and Regional Associations to develop products to enable real-time data sharing for decision makers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting.
   > - **(4)** *Regional Coastal Observing Systems*
   >   - **(A)** *In general* A Regional Coastal Observing System operated by a Regional Association described in the System Plan may not be certified or established under this subtitle unless it—
   >     - **(i)** has been or shall be certified or established by contract or agreement by the Administrator;
@@ -123,39 +123,39 @@ Section 12303 of the Integrated Coastal and Ocean Observation System Act of 2009
   >       - **(III)** reflecting the needs of State, local, and tribal governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this subtitle and the System Plan;
   >     - **(iv)** identifies—
   >       - **(I)** gaps in observation coverage needs for capital improvements of Federal assets and non-Federal assets of the System; and
-  >       - **(II)** other recommendations to assist in the development of the annual and long-term plans prepared pursuant to paragraph (2)(B)(i) and transmit such information to the Interagency Ocean Observation Committee via the Program Office established under paragraph (3)(C)(i);
+  >       - **(II)** other recommendations to assist in the development of the annual and long-term plans prepared pursuant to paragraph (2)(B)(i) and transmits such information to the Interagency Ocean Observation Committee via the Program Office established under paragraph (3)(C)(i);
   >     - **(v)** develops and operates under a strategic operational plan that will ensure the efficient and effective administration of programs and assets to support daily data observations for integration into the System, pursuant to the standards approved by the Council;
   >     - **(vi)** works cooperatively with governmental and nongovernmental entities at all levels to identify and provide information products of the System for multiple users within the service area of the regional coastal observing system; and
   >     - **(vii)** complies with all financial oversight requirements established by the Administrator, including requirements relating to audits.
   >   - **(B)** *Participation* For the purposes of this title, employees of Federal agencies are permitted to be members of the governing body for the Regional Coastal Observing Systems and may participate in the functions of the regional information coordination entities.
 
 - **(c)** *System advisory committee* Section 12304(d) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(d)) is amended—
-  - **(1)** in paragraph (1), by striking “or the Interagency Ocean Observing Observation Committee.” and inserting “the Council under this subtitle”; and
+  - **(1)** in paragraph (1), by striking “or the Interagency Ocean Observing Observation Committee.” and inserting “or the Council under this subtitle”; and
   - **(2)** in paragraph (2)—
-    - **(A)** in subparagraph (A), by inserting “data sharing,” after “data management”;
-    - **(B)** in subparagraph (C), by striking “and” at the end;
+    - **(A)** in subparagraph (A), by inserting “, data sharing,” after “data management”;
+    - **(B)** in subparagraph (C), by striking “and” at the end; and
     - **(C)** by striking subparagraph (D) and inserting the following:
       > - **(D)** additional priorities, including—
       >   - **(i)** a national surface current mapping network designed to improve fine scale sea surface mapping using high frequency radar technology and other emerging technologies to address national priorities, including Coast Guard search and rescue operation planning and harmful algal bloom forecasting and detection that—
-      >     - **(I)** is comprised of existing high-frequency radar and other sea surface current mapping infrastructure operated by regional associations;
-      >     - **(II)** incorporates new high-frequency radar assets or other fine scale sea surface mapping technology assets, and other assets needed to fill gaps in coverage on United States coastlines; and
+      >     - **(I)** is comprised of existing high frequency radar and other sea surface current mapping infrastructure operated by regional associations;
+      >     - **(II)** incorporates new high frequency radar assets or other fine scale sea surface mapping technology assets, and other assets needed to fill gaps in coverage on United States coastlines; and
       >     - **(III)** follows a deployment plan that prioritizes closing gaps in high frequency radar infrastructure in the United States, starting with areas demonstrating significant sea surface current data needs, especially in areas where additional data will improve Coast Guard search and rescue models;
       >   - **(ii)** fleet acquisition for autonomous underwater and surface vehicles for deployment and data integration to fulfill the purposes of the Act;
-      >   - **(iii)** an integrative survey program for application of manned and unmanned vehicles to the real-time or near real-time collection and transmission of seafloor, water column, and sea surface data on biology, chemistry, geology, physics and hydrography;
+      >   - **(iii)** an integrative survey program for application of manned and unmanned vehicles to the real-time or near real-time collection and transmission of seafloor, water column, and sea surface data on biology, chemistry, geology, physics, and hydrography;
       >   - **(iv)** remote sensing and data assimilation to develop new analytical methodologies to assimilate data from the Integrated Ocean Observing System into hydrodynamic models;
-      >   - **(v)** integrated, multi-State monitoring to assess sources, movement and fate of sediments in coastal regions; and
-      >   - **(vi)** a multi-region marine sound monitoring system to be—
-      >     - **(I)** planned in consultation with the International Ocean Observing Committee, the National Oceanic and Atmospheric Administration, and academic research institutions; and
-      >     - **(II)** developed, installed, and operated in coordination with the National Oceanic and Atmospheric Administration and academic research institutions; and
+      >   - **(v)** integrated, multistate monitoring to assess sources, movement and fate of sediments in coastal regions;
+      >   - **(vi)** a multiregion marine sound monitoring system to be—
+      >     - **(I)** planned in consultation with the International Ocean Observing Committee, the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and
+      >     - **(II)** developed, installed, and operated in coordination with the National Oceanic and Atmospheric Administration, the Department of the Navy, and academic research institutions; and
       > - **(E)** any other purpose identified by the Administrator or the Council.
 
-    - **(D)** in paragraph (3)(B), by inserting “The Secretary has the ability to stagger the terms of the System advisory committee members.” before “Members”; and
+    - **(D)** in paragraph (3)(B), by inserting “The Administrator has the ability to stagger the terms of the System advisory committee members.” before “Members”; and
     - **(E)** in paragraph (4)—
       - **(i)** in subparagraph (A), by striking “and the Interagency Ocean Observing Committee”; and
       - **(ii)** in subparagraph (C), by striking “Observing” and inserting “Observation”.
 - **(d)** *Civil liability* Section 12304(e) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(e)) is amended—
-  - **(1)** by striking “information coordination entity” and inserting “coastal observation system”; and
-  - **(2)** by striking “non-Federal asset or regional information coordination entity” and inserting “Regional Coastal Observing System,”.
+  - **(1)** by striking “information coordination entity” and inserting “coastal observing system”; and
+  - **(2)** by striking “non-Federal asset or regional information coordination entity,” and inserting “Regional Coastal Observing System,”.
 
 ## § 5. Interagency financing and agreements
 
@@ -167,6 +167,8 @@ Section 12305(a) of the Integrated Coastal and Ocean Observation System Act of 2
 
 Section 12307 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3606) is amended to read as follows:
 
+> ## § 12307. Report to Congress
+>
 > - **(a)** *Requirement* Not later than 2 years after March 30, 2009, and every 3 years thereafter, the Administrator shall prepare and the President acting through the Council shall approve and transmit to the Congress a report on progress made in implementing this subtitle.
 > - **(b)** *Contents* Each report required by subsection (a) shall include—
 >   - **(1)** a description of activities carried out under this subtitle and the System Plan;
@@ -176,7 +178,7 @@ Section 12307 of the Integrated Coastal and Ocean Observation System Act of 2009
 >   - **(5)** a summary of the existing gaps in observation infrastructure and monitoring data collection, including—
 >     - **(A)** priorities considered by the System advisory committee;
 >     - **(B)** the national sea surface current mapping network;
->     - **(C)** coastal buoys; and
+>     - **(C)** coastal buoys, and;
 >     - **(D)** ocean chemistry monitoring;
 >   - **(6)** an assessment regarding activities to integrate Federal and non-Federal assets, nationally and on the regional level, and discussion of the performance and effectiveness of regional information coordination entities to coordinate regional observation operations;
 >   - **(7)** a description of benefits of the program to users of data products resulting from the System (including the general public, industries, scientists, resource managers, emergency responders, policy makers, and educators);
@@ -189,32 +191,43 @@ Section 12307 of the Integrated Coastal and Ocean Observation System Act of 2009
 
 Section 12308 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3607) is amended to read as follows:
 
-> -  The Council shall maintain a policy that defines processes for making decisions about the roles of the Federal Government, the States, regional information coordination entities, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services related to the System. The Administrator shall ensure that National Oceanic and Atmospheric Administration adheres to the decisionmaking process developed by the Council regarding the roles of the Federal Government, the States, the Regional Coastal Observing Systems, the academic communities, and the private sector in providing the end-user communities environmental information, data products, technologies, and services related to the System.
+> ## § 12308. Public-private use policy
+>
+> -  The Council shall maintain a policy that defines processes for making decisions about the roles of the Federal Government, the States, regional information coordination entities, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services related to the System. The Administrator shall ensure that National Oceanic and Atmospheric Administration adheres to the decision making process developed by the Council regarding the roles of the Federal Government, the States, the Regional Coastal Observing Systems, the academic communities, and the private sector in providing the end-user communities environmental information, data products, technologies, and services related to the System.
 
-## § 8. Independent cost estimate
+## § 8. Repeal of independent cost estimate
 
-The Integrated Coastal and Ocean Observation System Act of 2009 is amended by striking section 12309 (33 U.S.C. 3608).
+- **(a)** *In general* The Integrated Coastal and Ocean Observation System Act of 2009 is amended by striking section 12309 (33 U.S.C. 3608).
+- **(b)** *Table of contents amendment* The table of contents in section 1(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 991) is amended by striking the item related to section 12309.
 
 ## § 9. Authorization of appropriations
 
-Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking section “2013” and inserting “2019”.
+Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “2013” and inserting “2019”.
 
 ## § 10. Reports and research plans
 
 Section 12404(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3703(c)) is amended by adding at the end the following:
 
-> - **(4)** *Economic vulnerability report* Not later than 1 year after the enactment of the Coordinated Ocean Monitoring and Research Act, and every 5 years thereafter, the Subcommittee shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology and the Committee on Natural Resources of the House of Representatives a report that—
->   - **(A)** is named “The Ocean Chemistry Coastal Community Vulnerability Assessment”;
->   - **(B)** identifies gaps in ocean acidification monitoring by public, academic, and private assets in the network of regional coastal observing systems;
->   - **(C)** identifies areas which have gaps in ocean acidification research;
->   - **(D)** identifies United States coastal communities, including fishing communities, low-population rural communities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification;
->   - **(E)** identifies impacts of changing ocean pH on the communities described in subparagraph (D), including impacts from changes in ocean and coastal marine resources that are not managed by the Federal Government;
->   - **(F)** identifies gaps in understanding of the impacts of ocean acidification on economically or commercially important species, particularly those which support United States commercial, recreational, and tribal fisheries and aquaculture;
->   - **(G)** identifies habitats that are particularly vulnerable to corrosive sea water, including areas experiencing multiple stressors such as hypoxia, sedimentation and harmful algal blooms;
->   - **(H)** identifies areas in which existing Integrated Ocean Observing System assets, including buoys and gliders, that may be leveraged as platforms for the deployment of new sensors; and
->   - **(I)** is written in collaboration with the agencies responsible for carrying out this Act.
-> - **(5)** *Monitoring prioritization plan* Not later than 180 days after the submission of the report required by paragraph (4), the Subcommittee shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology and the Committee on Natural Resources of the House of Representatives a report that develops a plan to deploy new sensors—
->   - **(A)** based on the report required by paragraph (4);
+> - **(4)** *Economic vulnerability report*
+>   - **(A)** *In general* Not later than 2 years after the date of the enactment of the Coordinated Ocean Monitoring and Research Act, and every 5 years thereafter, the Subcommittee shall transmit to appropriate committees of Congress a report that—
+>     - **(i)** is named “The Ocean Chemistry Coastal Community Vulnerability Assessment”;
+>     - **(ii)** identifies gaps in ocean acidification monitoring by public, academic, and private assets in the network of regional coastal observing systems;
+>     - **(iii)** identifies geographic areas which have gaps in ocean acidification research;
+>     - **(iv)** identifies United States coastal communities, including fishing communities, low-population rural communities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification;
+>     - **(v)** identifies impacts of changing ocean carbonate chemistry on the communities described in clause (iv), including impacts from changes in ocean and coastal marine resources that are not managed by the Federal Government;
+>     - **(vi)** identifies gaps in understanding of the impacts of ocean acidification on economically or commercially important species, particularly those which support United States commercial, recreational, and tribal fisheries and aquaculture;
+>     - **(vii)** identifies habitats that may be particularly vulnerable to corrosive sea water, including areas experiencing multiple stressors such as hypoxia, sedimentation, and harmful algal blooms;
+>     - **(viii)** identifies areas in which existing Integrated Ocean Observing System assets, including buoys and gliders, may be leveraged as platforms for the deployment of new sensors or other applicable observing technologies; and
+>     - **(ix)** is written in collaboration with the agencies responsible for carrying out this Act.
+>   - **(B)** *Form of report*
+>     - **(i)** *Initial report* The initial report required by subparagraph (A) shall include the information described in clauses (i) through (ix) on a national level.
+>     - **(ii)** *Subsequent reports* Each report required by subparagraph (A) after the initial report—
+>       - **(I)** may describe the information described in clauses (i) through (ix) on a national level; or
+>       - **(II)** may consist of separate reports for each region of the National Oceanic and Atmospheric Administration.
+>     - **(iii)** *Regional reports* If the Subcommittee opts to prepare a report required by subparagraph (A) as separate regional reports under clause (ii)(II), the Subcommittee shall submit a report for each region of the National Oceanic and Atmospheric Administration not less often than once during each 5-year reporting period.
+>   - **(C)** *Appropriate committees of Congress defined* In this paragraph and in paragraph (5), the term “appropriate committees of Congress” means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology and the Committee on Natural Resources of the House of Representatives.
+> - **(5)** *Monitoring prioritization plan* Not later than 180 days after the date of the submission of the initial report required by paragraph (4)(A), the Subcommittee shall transmit to the appropriate committees of Congress a report that develops a plan to deploy new sensors or other applicable observing technologies—
+>   - **(A)** based on such initial report;
 >   - **(B)** prioritized by—
 >     - **(i)** the threat to coastal economies and ecosystems;
 >     - **(ii)** gaps in data; and
@@ -230,7 +243,7 @@ Section 12404(c) of the Federal Ocean Acidification Research And Monitoring Act 
     > - **(10)** make recommendations for research to be conducted, including in the social sciences and economics, to address the key knowledge gaps identified in the economic vulnerability report conducted under section 12404(c).
 
 - **(b)** *Program elements* Section 12405(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(c)) is amended by adding at the end the following:
-  > - **(6)** Research to understand combined effects of changes in ocean chemistry, sediment delivery, hypoxia and harmful algal blooms and the impact these processes have on one another, and how these multiple stressors impact living marine resources and coastal ecosystems.
+  > - **(6)** Research to understand combined effects of changes in ocean chemistry, sediment delivery, hypoxia, and harmful algal blooms and the impact these processes have on each other, and how these multiple stressors impact living marine resources and coastal ecosystems.
   > - **(7)** Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations.
 
 ## § 12. Stakeholder input on monitoring
@@ -240,7 +253,7 @@ Section 12406(a) of the Federal Ocean Acidification Research And Monitoring Act 
 - **(1)** in paragraph (2), by striking “and” at the end;
 - **(2)** in paragraph (3), by striking the period at the end and inserting a semicolon and “and”; and
 - **(3)** by adding at the end the following:
-  > - **(4)** includes an ongoing mechanism that allows potentially affected industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, and scientific experts to provide input on monitoring needs that are necessary to support on the ground management, decisionmaking, and adaptation related to ocean acidification.
+  > - **(4)** includes an ongoing mechanism that allows potentially affected industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, and scientific experts to provide input on monitoring needs that are necessary to support on the ground management, decision making, and adaptation related to ocean acidification.
 
 ## § 13. Research activities
 
@@ -249,5 +262,5 @@ Section 12407(a) of the Federal Ocean Acidification Research And Monitoring Act 
 > - **(a)** *Research activities* The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research, observatories and monitoring of ocean acidification and its impacts, including—
 >   - **(1)** impacts on marine organisms and marine ecosystems;
 >   - **(2)** impacts on ocean, coastal, and estuarine biogeochemistry;
->   - **(3)** the development of methodologies and technologies to evaluate ocean acidification and its impacts; and
+>   - **(3)** the development of methodologies and technologies to evaluate ocean acidification and its impacts, and;
 >   - **(4)** impacts of multiple stressors on ecosystems exhibiting hypoxia, harmful algal blooms, or sediment delivery, combined with changes in ocean chemistry.

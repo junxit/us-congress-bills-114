@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1886
@@ -36,3 +36,6 @@ Coordinated Ocean Monitoring and Research Act
 - 2016-09-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-354.
 - 2016-09-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-354.
 - 2016-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 636.
+- 2016-09-26 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6086-6088)
+- 2016-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6086-6088)
+- 2016-09-26 — The committee substitute agreed to by Unanimous Consent. (consideration: CR S6085-6088)
