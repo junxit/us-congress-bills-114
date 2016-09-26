@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4742
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
