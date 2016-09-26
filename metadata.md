@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5873
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5873
@@ -32,3 +32,9 @@ To designate the Federal building and United States courthouse located at 511 Ea
 - 2016-09-20 — Placed on the House Calendar, Calendar No. 145.
 - 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.
 - 2016-09-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.
+- 2016-09-26 — Considered under suspension of the rules. (consideration: CR H5886-5887)
+- 2016-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5873.
+- 2016-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-26 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
+- 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5886)
+- 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5886)
