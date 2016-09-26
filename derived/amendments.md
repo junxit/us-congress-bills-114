@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5978
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 11 executed, 24 stated and not applied.
+34 amendatory instructions. 11 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -107,21 +107,21 @@ to guess them.
 
 ### 16 U.S.C. § 1161
 
-> Section 604(a) of the Coast Guard Authorization Act of 2015 (Public Law 114–120) is amended in the first sentence by striking “365 days after the date of enactment of this Act,” and inserting “July 15, 2017,”.
+> Section 604(a) of the Coast Guard Authorization Act of 2015 (Public Law 114–120) is amended in the first sentence by striking “365 days after the date of the enactment of this Act,” and inserting “July 15, 2017,”.
 
 | | |
 |---|---|
-| Removed | `365 days after the date of enactment of this Act,` |
+| Removed | `365 days after the date of the enactment of this Act,` |
 | Inserted | `July 15, 2017,` |
 
 ### 16 U.S.C. § 1161
 
-> Section 290(a) of title 14, United States Code, is amended by striking “five officers serving in the grade of vice admiral” and inserting “5 officers (other than the Commandant) serving in the grade of admiral or vice admiral”.
+> Section 290(a) of title 14, United States Code, is amended by striking “five officers serving in the grade of vice admiral” and inserting “five officers (other than the Commandant) serving in the grade of admiral or vice admiral”.
 
 | | |
 |---|---|
 | Removed | `five officers serving in the grade of vice admiral` |
-| Inserted | `5 officers (other than the Commandant) serving in the grade of admiral or vice admiral` |
+| Inserted | `five officers (other than the Commandant) serving in the grade of admiral or vice admiral` |
 
 ## Stated, not applied
 
@@ -136,14 +136,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | in section 562, by repealing subsection (b) and redesignating subsections (c) through (g) as subsections (b) through (f), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in section 562, by repealing subsection (b) and redesignating subsections (c) through (g) as subsections (b) through (e), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in section 563, by striking “Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of” and inserting “The Commandant shall maintain”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of section 564 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subchapter II, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (7) through (10) as paragraphs (9) through (12), respectively, and by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after paragraph (7), as so redesignated, the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 569a of such title is amended by striking subsection (e). | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end of the items relating to subchapter II the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 13 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 13 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
