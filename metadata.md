@@ -1,7 +1,7 @@
 ---
 measure: S. 2421
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2421
@@ -20,7 +20,16 @@ A bill to provide for the conveyance of certain property to the Tanana Tribal  C
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
+## Committees (1)
+
+- Senate — Indian Affairs Committee
+
 ## Actions
 
 - 2015-12-17 — Introduced in Senate
 - 2015-12-17 — Read twice and referred to the Committee on Indian Affairs.
+- 2016-04-13 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-326.
+- 2016-04-27 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-09-27 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-362.
+- 2016-09-27 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-362.
+- 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
