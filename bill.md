@@ -2,7 +2,7 @@
 legis-num: H. RES. 851
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 851
@@ -18,22 +18,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Venezuela’s political, economic, and humanitarian crisis is fueling social tensions that are resulting in growing incidents of public unrest, looting, and violence among citizens;
 - Whereas these social distortions are taking place amidst an alarming climate of violence as Caracas continues to have the highest per capita homicide rate in the world at 120 per 100,000 citizens, according to the United Nations Office on Drug and Crime;
 - Whereas the deterioration of governance in Venezuela has been exacerbated by widespread public corruption and the involvement of public officials in illicit narcotics trafficking and related money laundering, which has led to indictments by the United States Department of Justice and ongoing investigations by the United States Department of the Treasury and the United States Drug Enforcement Administration;
-- Whereas domestic and international human rights groups recognize more than 85 political prisoners in Venezuela, including opposition leader and former Chacao mayor Leopoldo Lopez, Judge Maria Lourdes Afiuni, Caracas Mayor Antonio Ledezma, former Zulia governor Manuel Rosales, and former San Cristobal mayor Daniel Ceballos;
+- Whereas domestic and international human rights groups recognize more than 85 political prisoners in Venezuela, including United States citizens Francisco Márquez and Josh Holt, opposition leader and former Chacao mayor Leopoldo Lopez, Judge Maria Lourdes Afiuni, Caracas Mayor Antonio Ledezma, former Zulia governor Manuel Rosales, and former San Cristobal mayor Daniel Ceballos;
 - Whereas, in December 2015, the people of Venezuela elected the opposition coalition (Mesa de Unidad Democrática) to a two-thirds majority in the unicameral National Assembly, with 112 out of the 167 seats compared with 55 seats for the government’s Partido Socialista Unido de Venezuela party;
-- Whereas, in late December 2015, the outgoing National Assembly increased the number of seats in the Supreme Court of Venezuela and confirmed magistrates politically aligned with the Maduro Administration and, thereafter, the expanded Supreme Court has blocked four legislators, including 3 opposition legislators, from taking office;
-- Whereas, during the first 6 months of the new legislature, the Supreme Court has repeatedly issued politically motivated judgments to overturn legislation passed by the democratically elected National Assembly and block internal legislative procedures;
+- Whereas, in late December 2015, the outgoing National Assembly increased the number of seats in the Supreme Court of Venezuela and confirmed magistrates with the Maduro Administration and, thereafter, the expanded Supreme Court has blocked four legislators, including 3 opposition legislators, from taking office;
+- Whereas the Supreme Court has repeatedly issued politically motivated judgments to overturn legislation passed by the democratically elected National Assembly and block internal legislative procedures;
 - Whereas, in 2016, President Maduro has utilized emergency and legislative decree powers to bypass the National Assembly, which, alongside the actions of the Supreme Court, have severely undermined the principles of separation of powers in Venezuela;
+- Whereas democracy is failing in Venezuela, the Maduro government controls the presidency, a majority of the municipalities, the Supreme Court, the military leadership, the state-owned oil company (PDVSA) leadership, and most of the media;
+- Whereas the former Presidents of Spain, Panama, and the Dominican Republic have pursued dialogue between President Maduro and the National Assembly;
 - Whereas, in May 2016, Organization of American States Secretary General Luis Almagro presented a 132-page report outlining grave alterations of the democratic order in Venezuela and invoked Article 20 of the Inter-American Democratic Charter, which calls on the OAS Permanent Council “to undertake a collective assessment of the situation”;
+- Whereas the countries of Argentina, Belize, Brazil, Canada, Chile, Colombia, Costa Rica, Guatemala, Honduras, Mexico, Panama, Paraguay, Peru, United States, and Uruguay called on the Venezuelan Government in June 2016 to “guarantee the exercise of the constitutional rights of the Venezuelan people and that the remaining steps for the realization of the Presidential Recall Referendum be pursued clearly, concretely and without delay”;
 - Whereas, in June 2016, at a joint press conference with Prime Minister Justin Trudeau of Canada and President Enrique Peña Nieto of Mexico, President Barack Obama stated, “Given the very serious situation in Venezuela and the worsening plight of the Venezuelan people, together we’re calling on the government and opposition to engage in meaningful dialogue and urge the Venezuelan government to respect the rule of law and the authority of the National Assembly.”; and
 - Whereas, at the joint press conference with Prime Minister Justin Trudeau and President Peña Nieto, President Barack Obama continued, “Political prisoners should be released. The democratic process should be respected and that includes legitimate efforts to pursue a recall referendum consistent with Venezuelan law.”: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** expresses its profound concern about widespread shortages of essential medicines and basic food products faced by the people of Venezuela, and urges President Maduro to permit the delivery of humanitarian assistance;
-- **(2)** calls on the Government of Venezuela to immediately release all political prisoners, to provide protections for freedom of expression and assembly, and to respect internationally recognized human rights;
+- **(2)** calls on the Government of Venezuela to immediately release all political prisoners, including United States citizens, to provide protections for freedom of expression and assembly, and to respect internationally recognized human rights;
 - **(3)** supports meaningful efforts towards a dialogue that leads to respect for Venezuela’s constitutional mechanisms and resolves the country’s political, economic, social, and humanitarian crisis;
 - **(4)** affirms its support for OAS Secretary General Almagro’s invocation of Article 20 of the Inter-American Democratic Charter and urges the OAS Permanent Council, which represents all of the organization's member states, to undertake a collective assessment of the constitutional and democratic order in Venezuela;
-- **(5)** expresses its great concern over the Venezuelan executive’s lack of respect for the principle of separation of powers, its overreliance on emergency decree powers, and its subjugation of judicial independence;
-- **(6)** calls on the Government of Venezuela and security forces to respect the Constitution of Venezuela, including constitutional provisions that provide Venezuelan citizens with the right to peacefully pursue a fair and timely recall referendum for their President this year if they so choose;
-- **(7)** stresses the urgency of strengthening the rule of law and increasing efforts to combat impunity and public corruption in Venezuela, which has bankrupted a resource-rich country, fuels rising social tensions, and contributes to elevated levels of crime and violence; and
-- **(8)** urges the President of the United States to provide full support for OAS efforts in favor of constitutional and democratic solutions to the political impasse, and to instruct appropriate Federal agencies to hold officials of the Government of Venezuela accountable for violations of United States law and abuses of internationally recognized human rights.
+- **(5)** expresses its great concern over the Venezuelan executive’s lack of respect for the principle of separation of powers, its overreliance on emergency decree powers, and its threat to judicial independence;
+- **(6)** calls on the Government of Venezuela and security forces to respect the Constitution of Venezuela, including constitutional provisions that provide Venezuelan citizens with the right to peacefully pursue a fair and timely recall referendum for their President this year;
+- **(7)** stresses the urgency of strengthening the rule of law and increasing efforts to combat impunity and public corruption in Venezuela, which has bankrupted a resource-rich country, fuels rising social tensions, and contributes to elevated levels of crime and violence;
+- **(8)** urges the President of the United States to provide full support for OAS efforts in favor of constitutional and democratic solutions to the political impasse, and to instruct appropriate Federal agencies to hold officials of the Government of Venezuela accountable for violations of United States law and abuses of internationally recognized human rights; and
+- **(9)** urges the President to continue to stand in solidarity with the Venezuelan people by urging the Maduro government to—
+  - **(A)** hold a fair and free recall referendum by the end of this calendar year;
+  - **(B)** release all political prisoners, including United States citizens, from prison;
+  - **(C)** adhere to democratic principles; and
+  - **(D)** permit the delivery of emergency food and medicine.

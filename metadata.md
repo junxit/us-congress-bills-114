@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 851
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 851
@@ -16,7 +16,7 @@ Expressing profound concern about the ongoing political, economic, social and hu
 
 - Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
 
-## Cosponsors (21)
+## Cosponsors (26)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
@@ -39,6 +39,11 @@ Expressing profound concern about the ongoing political, economic, social and hu
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
 
 ## Committees (1)
 
@@ -49,3 +54,21 @@ Expressing profound concern about the ongoing political, economic, social and hu
 - 2016-09-08 — Introduced in House
 - 2016-09-08 — Introduced in House
 - 2016-09-08 — Referred to the House Committee on Foreign Affairs.
+- 2016-09-27 — Amendment (A001) offered by Ms. Ros-Lehtinen. (consideration: CR H5948; text: CR H5948)
+- 2016-09-27 — Amendment (A002) offered by Ms. Ros-Lehtinen. (consideration: CR H5948; text: CR H5948)
+- 2016-09-27 — Amendment agreed to by House: On agreeing to the Ros-Lehtinen amendment (A001) Agreed to without objection.
+- 2016-09-27 — Amendment agreed to by House: On agreeing to the Ros-Lehtinen amendment (A002) Agreed to without objection.
+- 2016-09-27 — Committee on Foreign Affairs discharged. (consideration: CR H5947-5949)
+- 2016-09-27 — Committee on Foreign Affairs discharged.(consideration: CR H5947-5949)
+- 2016-09-27 — House amendment agreed to: On agreeing to the Ros-Lehtinen amendment (A001) Agreed to without objection.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Ros-Lehtinen amendment (A002) Agreed to without objection.
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered/reported by : Amendment (A001) offered by Ms. Ros-Lehtinen.(consideration: CR H5948; text: CR H5948)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A002) offered by Ms. Ros-Lehtinen.(consideration: CR H5948; text: CR H5948)
+- 2016-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-27 — Ms. Ros-Lehtinen asked unanimous consent to discharge from committee and consider.
+- 2016-09-27 — On agreeing to the Ros-Lehtinen amendment (A001) Agreed to without objection.
+- 2016-09-27 — On agreeing to the Ros-Lehtinen amendment (A002) Agreed to without objection.
+- 2016-09-27 — On agreeing to the resolution Agreed to without objection. (text: CR H5947-5948)
+- 2016-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5947-5948)
