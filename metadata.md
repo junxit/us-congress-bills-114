@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1886
@@ -24,9 +24,11 @@ Coordinated Ocean Monitoring and Research Act
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -39,3 +41,8 @@ Coordinated Ocean Monitoring and Research Act
 - 2016-09-26 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6086-6088)
 - 2016-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6086-6088)
 - 2016-09-26 — The committee substitute agreed to by Unanimous Consent. (consideration: CR S6085-6088)
+- 2016-09-27 — Message on Senate action sent to the House.
+- 2016-09-27 — Received in the House.
+- 2016-09-27 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-09-27 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-09-27 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
