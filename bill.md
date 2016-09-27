@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3608
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Amounts paid for aircraft management services
 
-- **(a)** *In general* Subsection (e) of section 4261 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+- **(a)** *In general* Section 4261(e) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
   > - **(5)** *Amounts paid for aircraft management services*
   >   - **(A)** *In general* No tax shall be imposed by this section or section 4271 on any amounts paid by an aircraft owner for aircraft management services related to—
   >     - **(i)** maintenance and support of the aircraft owner’s aircraft; or
@@ -21,5 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(i)** *In general* For purposes of this paragraph, the term “aircraft owner” includes a person who leases the aircraft other than under a disqualified lease.
   >     - **(ii)** *Disqualified lease* For purposes of clause (i), the term “disqualified lease” means a lease from a person providing aircraft management services with respect to such aircraft (or a related person (within the meaning of section 465(b)(3)(C)) to the person providing such services), if such lease is for a term of 31 days or less.
   >   - **(D)** *Pro rata allocation* If any amount paid to a person represents in part an amount paid for services not described in subparagraph (A), the tax imposed by subsection (a), if applicable to such amount, shall be applied to such payment on a pro rata basis.
+  >   - **(E)** *Certain payments treated as made by aircraft owner* In the case of an aircraft owner which is wholly-owned by another person, amounts paid by such other person on behalf of such aircraft owner shall be treated for purposes of this paragraph as having been paid directly by such aircraft owner.
 
-- **(b)** *Effective date* The amendment made by this section shall apply to amounts paid beginning after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to amounts paid after the date of the enactment of this Act.

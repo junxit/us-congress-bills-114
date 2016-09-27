@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3608
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3608
@@ -16,7 +16,7 @@ To amend the Internal Revenue Code of 1986 to exempt amounts paid for aircraft m
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
@@ -24,6 +24,10 @@ To amend the Internal Revenue Code of 1986 to exempt amounts paid for aircraft m
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Reed, Tom [R-NY-23] (R000585)
 
 ## Committees (1)
 
@@ -34,3 +38,8 @@ To amend the Internal Revenue Code of 1986 to exempt amounts paid for aircraft m
 - 2015-09-24 — Introduced in House
 - 2015-09-24 — Introduced in House
 - 2015-09-24 — Referred to the House Committee on Ways and Means.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-27 — Placed on the Union Calendar, Calendar No. 618.
+- 2016-09-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-793.
+- 2016-09-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-793.
