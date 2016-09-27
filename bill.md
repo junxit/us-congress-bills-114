@@ -22,15 +22,15 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
   >   - **(1)**
   >     - **(A)** The source, type and amount of the judge’s income which exceeds $200 (other than income from the United States government and income referred to in subparagraph (C)) for the period covered by the report.
   >     - **(B)** The source and type of the judge’s spouse’s income which exceeds $1,000 (other than income from the United States government and income referred to in subparagraph (C)) for the period covered by the report.
-  >     - **(C)** The source and type of income which consists of dividends, rents, interest, and capital gains received by the judge and the judge’s spouse during such period which exceeds $200 in amount or value, and an indication of which of the following categories the amount or value of such item of income is within—
-  >       - **(i)** not more than $1,000,
-  >       - **(ii)** greater than 1,000 but not more than $2,500,
-  >       - **(iii)** greater than $2,500 but not more than $5,000,
-  >       - **(iv)** greater than $5,000 but not more than $15,000,
-  >       - **(v)** greater than $15,000 but not more than $50,000,
-  >       - **(vi)** greater than $50,000 but not more than $100,000,
-  >       - **(vii)** greater than $100,000 but not more than $1,000,000,
-  >       - **(viii)** greater than $1,000,000 but not more than $5,000,000, or
+  >     - **(C)** The source and type of income which consists of dividends, rents, interest, and capital gains received by the judge and the judge’s spouse during such period which exceeds $200 in amount or value, and an indication of which of the following categorieswhether the amount or value of such item of income is within—
+  >       - **(i)** not more than $1,000,;
+  >       - **(ii)** greater than 1,000 but not more than $2,500,;
+  >       - **(iii)** greater than $2,500 but not more than $5,000,;
+  >       - **(iv)** greater than $5,000 but not more than $15,000,;
+  >       - **(v)** greater than $15,000 but not more than $50,000,;
+  >       - **(vi)** greater than $50,000 but not more than $100,000,;
+  >       - **(vii)** greater than $100,000 but not more than $1,000,000,;
+  >       - **(viii)** greater than $1,000,000 but not more than $5,000,000,; or
   >       - **(ix)** greater than $5,000,000.
   >   - **(2)** The name and address of each private foundation or eleemosynary institution, and of each business or professional corporation, firm, or enterprise in which the judge was an officer, director, proprietor, or partner during such period.
   >   - **(3)** The identity and category of value (as set forth in subsection (b)) of each liability of $10,000 or more owed by the judge or by the judge and the judge’s spouse jointly at any time during such period.
@@ -99,3 +99,13 @@ This Act may be cited as the “District of Columbia Judicial Financial Transpar
 
 - **(a)** *In general* Section 11–2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting “The chief judge may delegate such approval authority to an active or senior judge.”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to any case or proceeding initiated on or after the date of enactment of this Act.
+
+## § 6. Authority to approve compensation of attorneys in excess of maximum amount
+
+- **(a)** *In general*
+  - **(1)** *Criminal defense appointments* Section 11–2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.”.
+  - **(2)** *Child abuse and neglect appointments* Section 16–2326.01(f), District of Columbia Official Code, is amended—
+    - **(A)** by striking “(f)(1)” and inserting “(f)”;
+    - **(B)** by striking paragraph (2); and
+    - **(C)** by adding at the end the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to any case or proceeding initiated on or after the date of enactment of this Act.

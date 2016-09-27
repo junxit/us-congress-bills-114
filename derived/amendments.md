@@ -1,7 +1,7 @@
 ---
 measure: S. 2966
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,3 +38,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections for subchapter III of chapter 17 of title 11, District of Columbia Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 11–1321, District of Columbia Official Code, is amended by striking “$5,000” and inserting “$10,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 11–2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting “The chief judge may delegate such approval authority to an active or senior judge.”. | the bill names no machine-readable US Code section |
+| — | replace | Section 11–2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the c… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(f)(1)” and inserting “(f)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.”. | the bill names no machine-readable US Code section |
