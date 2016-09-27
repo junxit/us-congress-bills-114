@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5162
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5162
@@ -20,9 +20,10 @@ Vet Connect Act of 2016
 
 - Rep. Benishek, Dan [R-MI-1] (B001271)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Vet Connect Act of 2016
 - 2016-09-26 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5887)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5887)
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
