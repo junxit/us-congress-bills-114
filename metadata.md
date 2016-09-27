@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5978
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5978
@@ -25,9 +25,10 @@ Coast Guard and Maritime Transportation Amendments Act of 2016
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Coast Guard and Maritime Transportation Amendments Act of 2016
 - 2016-09-26 — Mr. Hunter moved to suspend the rules and pass the bill, as amended.
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5894-5897)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5894-5897)
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
