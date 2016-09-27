@@ -1,7 +1,7 @@
 ---
 measure: S. 2607
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2607
@@ -30,3 +30,7 @@ DIGIT Act
 
 - 2016-03-01 — Introduced in Senate
 - 2016-03-01 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-04-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-364.
+- 2016-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-364.
+- 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 652.
