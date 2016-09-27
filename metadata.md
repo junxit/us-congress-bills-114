@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5943
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5943
@@ -44,3 +44,4 @@ Transit Security Grant Program Flexibility Act
 - 2016-09-26 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5878)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5878)
+- 2016-09-27 — Received in the Senate.
