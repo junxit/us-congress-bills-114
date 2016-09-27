@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5346
@@ -20,11 +20,12 @@ Securing our Agriculture and Food Act
 
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (3)
+## Committees (4)
 
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Securing our Agriculture and Food Act
 - 2016-09-26 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5881)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5881)
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
