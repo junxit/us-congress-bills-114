@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1877
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1877
@@ -66,9 +66,10 @@ Mental Health First Aid Act of 2016
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ Mental Health First Aid Act of 2016
 - 2016-09-26 — Placed on the Union Calendar, Calendar No. 614.
 - 2016-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-786.
 - 2016-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-786.
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
