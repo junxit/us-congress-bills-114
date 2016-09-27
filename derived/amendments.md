@@ -1,7 +1,7 @@
 ---
 measure: S. 253
 congress: 114
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-63 amendatory instructions. 27 executed, 36 stated and not applied.
+53 amendatory instructions. 10 executed, 43 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,23 +24,23 @@ to guess them.
 
 ## Executed
 
-### 47 U.S.C. § 1303
+### 47 U.S.C. § 533
 
-> Section 103(b)(1) of the Broadband Data Improvement Act (47 U.S.C. 1303(b)(1)) is amended by striking “the assessment and report” and all that follows through “the Federal Communications Commission” and inserting “its report under section 13 of the Communications Act of 1934, the Federal Communications Commission”.
-
-| | |
-|---|---|
-| Removed | `the assessment and report” and all that follows through “the Federal Communications Commission` |
-| Inserted | `its report under section 13 of the Communications Act of 1934, the Federal Communications Commission` |
-
-### 47 U.S.C. § 543
-
-> in paragraph (1), by striking “annually publish” and inserting “publish with its report under section 13 of the Communications Act of 1934”; and
+> Section 613(a)(3) of the Communications Act of 1934 (47 U.S.C. 533(a)(3)) is amended by striking “623(l)” and inserting “623(k)”.
 
 | | |
 |---|---|
-| Removed | `annually publish` |
-| Inserted | `publish with its report under section 13 of the Communications Act of 1934` |
+| Removed | `623(l)` |
+| Inserted | `623(k)` |
+
+### 47 U.S.C. § 1302
+
+> in subsection (d), by striking “this subsection” and inserting “this section”; and
+
+| | |
+|---|---|
+| Removed | `this subsection` |
+| Inserted | `this section` |
 
 ### 47 U.S.C. § 151
 
@@ -51,88 +51,7 @@ to guess them.
 | Removed | `In the Commission’s annual report, the Commission shall prepare an analysis of its progress in developing such systems and` |
 | Inserted | `The Commission` |
 
-### 47 U.S.C. § 151
-
-> in section 303(u)(1)(B), by striking “section 713(f)” and inserting “section 713(e)”;
-
-| | |
-|---|---|
-| Removed | `section 713(f)` |
-| Inserted | `section 713(e)` |
-
-### 47 U.S.C. § 151
-
-> in section 338(k)(6), by striking “section 396(k)(6)(B)” and inserting “section 396(j)(6)(B)”;
-
-| | |
-|---|---|
-| Removed | `section 396(k)(6)(B)` |
-| Inserted | `section 396(j)(6)(B)` |
-
-### 47 U.S.C. § 151
-
-> in paragraph (3)(A), as redesignated, by striking “paragraph (2)” and inserting “paragraph (1)”; and
-
-| | |
-|---|---|
-| Removed | `paragraph (2)` |
-| Inserted | `paragraph (1)` |
-
-### 47 U.S.C. § 151
-
-> in paragraph (4), as redesignated, by striking “paragraphs (2) and (4)” and inserting “paragraphs (1) and (3)”;
-
-| | |
-|---|---|
-| Removed | `paragraphs (2) and (4)` |
-| Inserted | `paragraphs (1) and (3)` |
-
-### 47 U.S.C. § 151
-
-> in subclause (V), as redesignated, by striking “subsection (l)(4)(B)” and inserting “subsection (k)(4)(B)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (l)(4)(B)` |
-| Inserted | `subsection (k)(4)(B)` |
-
-### 47 U.S.C. § 151
-
-> in paragraph (5), by striking “subsection (1)(3)(B)” and inserting “subsection (k)(3)(B)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (1)(3)(B)` |
-| Inserted | `subsection (k)(3)(B)` |
-
-### 47 U.S.C. § 151
-
-> in paragraph (4), by striking “subsection (k)” each place that term appears and inserting “subsection (j)”;
-
-| | |
-|---|---|
-| Removed | `subsection (k)` |
-| Inserted | `subsection (j)` |
-
-### 47 U.S.C. § 151
-
-> in section 399B(c), by striking “section 396(k)” and inserting “section 396(j)”;
-
-| | |
-|---|---|
-| Removed | `section 396(k)` |
-| Inserted | `section 396(j)` |
-
-### 47 U.S.C. § 151
-
-> in section 615(l)(1)(A)(ii), by striking “section 396(k)(6)(B)” and inserting “section 396(j)(6)(B)”;
-
-| | |
-|---|---|
-| Removed | `section 396(k)(6)(B)` |
-| Inserted | `section 396(j)(6)(B)` |
-
-### 47 U.S.C. § 151
+### 47 U.S.C. § 765e
 
 > by striking “Report; regulations” and inserting “Regulations”;
 
@@ -141,7 +60,7 @@ to guess them.
 | Removed | `Report; regulations` |
 | Inserted | `Regulations` |
 
-### 47 U.S.C. § 151
+### 47 U.S.C. § 765e
 
 > by striking “Within 1 year after” and all that follows through “on means of assuring” and inserting “The Commission shall issue such regulations as are necessary to assure”; and
 
@@ -150,122 +69,50 @@ to guess them.
 | Removed | `Within 1 year after” and all that follows through “on means of assuring` |
 | Inserted | `The Commission shall issue such regulations as are necessary to assure` |
 
-### 47 U.S.C. § 151
+### 42 U.S.C. § 5189e
 
-> in subsection (a), as redesignated, by striking “subsection (d)” each place that term appears and inserting “subsection (c)”;
-
-| | |
-|---|---|
-| Removed | `subsection (d)` |
-| Inserted | `subsection (c)` |
-
-### 47 U.S.C. § 151
-
-> in subsection (b), as redesignated, by striking “subsection (b)” each place that term appears and inserting “subsection (a)”;
+> Section 427(a)(1)(A) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189e(a)(1)(A)) is amended by striking “telecommunications service” and inserting “wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service”.
 
 | | |
 |---|---|
-| Removed | `subsection (b)` |
-| Inserted | `subsection (a)` |
+| Removed | `telecommunications service` |
+| Inserted | `wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service` |
 
-### 47 U.S.C. § 151
+### 47 U.S.C. § 227
 
-> in subsection (c), as redesignated, by striking “subsection (b)” and inserting “subsection (a)”;
-
-| | |
-|---|---|
-| Removed | `subsection (b)` |
-| Inserted | `subsection (a)` |
-
-### 47 U.S.C. § 151
-
-> in subsection (e)(2)(A), as redesignated, by striking “subsection (h)” and inserting “subsection (g)”; and
+> Section 227(e)(1) of the Communications Act of 1934 (47 U.S.C. 227(e)(1)) is amended by striking “in connection with any telecommunications service or IP-enabled voice service” and inserting “or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service”.
 
 | | |
 |---|---|
-| Removed | `subsection (h)` |
-| Inserted | `subsection (g)` |
+| Removed | `in connection with any telecommunications service or IP-enabled voice service` |
+| Inserted | `or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service` |
 
-### 47 U.S.C. § 151
+### 47 U.S.C. § 227
 
-> in subsection (f), as redesignated, by striking “subsection (e)(2)” and inserting “subsection (d)(2)”.
-
-| | |
-|---|---|
-| Removed | `subsection (e)(2)` |
-| Inserted | `subsection (d)(2)` |
-
-### 47 U.S.C. § 1451
-
-> in paragraph (1), by striking “(15)(A)” and inserting “(14)(A)”; and
+> in subparagraph (A), by striking “telecommunications service or IP-enabled voice service” and inserting “voice service or a text message sent using a text messaging service”;
 
 | | |
 |---|---|
-| Removed | `(15)(A)` |
-| Inserted | `(14)(A)` |
+| Removed | `telecommunications service or IP-enabled voice service` |
+| Inserted | `voice service or a text message sent using a text messaging service` |
 
-### 47 U.S.C. § 1451
+### 47 U.S.C. § 227
 
-> in paragraph (3), by striking “(16)(B)” and inserting “(15)(B)”.
-
-| | |
-|---|---|
-| Removed | `(16)(B)` |
-| Inserted | `(15)(B)` |
-
-### 47 U.S.C. § 1451
-
-> in section 114(d)(1)(B)(iv), by striking “section 396(k)” and inserting “section 396(j)”; and
+> in the first sentence of subparagraph (B), by striking “telecommunications service or IP-enabled voice service” and inserting “voice service or a text message sent using a text messaging service”; and
 
 | | |
 |---|---|
-| Removed | `section 396(k)` |
-| Inserted | `section 396(j)` |
+| Removed | `telecommunications service or IP-enabled voice service` |
+| Inserted | `voice service or a text message sent using a text messaging service` |
 
-### 47 U.S.C. § 1451
+### 47 U.S.C. § 227
 
-> in subclause (I), by striking “section 339(c)(3)” and inserting “section 339(c)(2)”;
-
-| | |
-|---|---|
-| Removed | `section 339(c)(3)` |
-| Inserted | `section 339(c)(2)` |
-
-### 47 U.S.C. § 1451
-
-> in subclause (II), by striking “section 339(c)(4)” and inserting “section 339(c)(3)”; and
+> Section 227(e)(3)(A) of the Communications Act of 1934 (47 U.S.C. 227(e)(3)(A)) is amended by striking “Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission” and inserting “The Commission”.
 
 | | |
 |---|---|
-| Removed | `section 339(c)(4)` |
-| Inserted | `section 339(c)(3)` |
-
-### 47 U.S.C. § 1451
-
-> in subclause (III), by striking “section 339(c)(3)” and inserting “section 339(c)(2)”;
-
-| | |
-|---|---|
-| Removed | `section 339(c)(3)` |
-| Inserted | `section 339(c)(2)` |
-
-### 47 U.S.C. § 1451
-
-> in paragraph (3)(E), by striking “section 339(c)(2)” and inserting “section 339(c)(1)”; and
-
-| | |
-|---|---|
-| Removed | `section 339(c)(2)` |
-| Inserted | `section 339(c)(1)` |
-
-### 47 U.S.C. § 1451
-
-> in paragraph (13), by striking “section 339(c)(2)” and inserting “section 339(c)(1)”.
-
-| | |
-|---|---|
-| Removed | `section 339(c)(2)` |
-| Inserted | `section 339(c)(1)` |
+| Removed | `Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission` |
+| Inserted | `The Commission` |
 
 ## Stated, not applied
 
@@ -277,38 +124,45 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `47 U.S.C. § 151` | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 765e` | repeal | Section 646 of the Communications Satellite Act of 1962 (47 U.S.C. 765e) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2017” each place it appears and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 154` | add-at-end | Section 4 of the Communications Act of 1934 (47 U.S.C. 154) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 151` | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.), as amended by section 101(a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | repeal | Section 646 of the Communications Satellite Act of 1962 (47 U.S.C. 765e; 114 Stat. 57) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 703` | repeal | Section 4 of Public Law 109–34 (47 U.S.C. 703) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1303` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1303` | redesignate | by redesignating subsections (c) through (e) as subsections (b) through (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | strike | by striking subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | redesignate | by redesignating subsection (j) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 543` | strike | in paragraph (2), in the heading, by striking “annual”. | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 543` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 543` | redesignate | by redesignating subsections (l) through (o) as subsections (k) through (n), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 257` | strike | Section 257 of the Communications Act of 1934 (47 U.S.C. 257) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | strike | Section 332(c)(1)(C) of the Communications Act of 1934 (47 U.S.C. 332(c)(1)(C)) is amended by striking the first and second sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 154` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 154` | redesignate | by redesignating subsections (l) through (o) as subsections (k) through (n), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 154` | redesignate | by redesignating subsections (l) through (p) as subsections (k) through (o), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | in section 309(j)(8)(B), by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | in subsection (b)(2)(B)(ii), by striking “and shall furnish notice of such action” and all that follows through “subject of the waiver”; and | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 151` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating paragraph (3) as paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating subsection (c) as subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating paragraphs (5) through (9) as paragraphs (4) through (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking paragraph (12); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating paragraphs (13) through (17) as paragraphs (12) through (16), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking clause (iv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating clauses (v) and (vi) as clauses (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | in section 331(b), by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | amend | in section 336(e), by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking subsections (i) and (m); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating subsections (j) through (l) as subsections (i) through (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | in paragraph (1), by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking subclause (V); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating subclause (VI) as subclause (V); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | in paragraph (1)(B), by striking “shall be included” and all that follows through “The audit report”; and | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 151` | strike | in section 398(b)(4), by striking the third sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | by striking “Within 180 days after” and all that follows through “to assure such compatibility.”; and | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 151` | strike | by striking subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | redesignate | by redesignating subsections (b), (c), (d), (e), (f), (g), (h), and (j) as subsections (a), (b), (c), (d), (e), (f), (g), and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in subsection (b)(2)(B)(ii), by striking “and shall furnish notice of such action” and all that follows through “subject of the waiver”; and | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 765e` | strike | in subsection (g), by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | redesignate | by redesignating subsection (c) as subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in section 227(e), by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | by striking paragraph (12); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in paragraph (15)(C), by striking clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in section 331(b), by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | amend | in section 336(e), by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in section 339(c), by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | by striking subsection (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in paragraph (1), by striking subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in paragraph (3)(B)(iii), by striking subclause (V); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in subsection (l)(1)(B), by striking “shall be included” and all that follows through “The audit report”; and | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 765e` | strike | by striking subsection (m); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | in section 398(b)(4), by striking the third sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 765e` | strike | by striking “Within 180 days after” and all that follows through “to assure such compatibility.”; and | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 765e` | strike | in section 713, by striking subsection (a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 601` | add-at-end | Title VII of the Communications Act of 1934 (47 U.S.C. 601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 227` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 227` | insert | Section 227(e) of the Communications Act of 1934 (47 U.S.C. 227(e)) is amended in the heading by inserting “misleading or” before “inaccurate”. | the bill quotes the text inserted but describes where it goes |
+| — | amend | Not later than 120 days after the date of the enactment of this Act, the Commission shall amend section 97.15 of title 47, Code of Federal Regulations, by adding a new paragraph that prohibits the application to amateur stations of any p… | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 251` | add-at-end | Part II of title II of the Communications Act of 1934 (47 U.S.C. 251 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
