@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3779
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3779
@@ -82,9 +82,10 @@ Social Security Fraud Prevention Act of 2016
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -102,3 +103,4 @@ Social Security Fraud Prevention Act of 2016
 - 2016-09-26 — Placed on the Union Calendar, Calendar No. 617.
 - 2016-09-26 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-789.
 - 2016-09-26 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-789.
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

@@ -2,17 +2,21 @@
 legis-num: H.R. 3779
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3779
 
 > To restrict the inclusion of social security account numbers on documents sent by mail by the Federal Government, and for other purposes.
 
-## § 1. Restriction of SSNs on documents sent by mail
+## § 1. Short title
 
-- **(a)** *In general* No department or agency of the Federal Government may include the social security account number of any individual on any document sent by mail unless the head of such department or agency determines that the inclusion of such social security number on such document is necessary.
-- **(b)** *Regulations* Not later than 1 year after the date of the enactment of this Act, the head of each department and agency of the Federal Government shall issue regulations specifying the circumstances under which inclusion of a social security account number on a document sent by mail is necessary. Such regulations shall include—
-  - **(1)** instructions for the partial redaction of social security account numbers whenever feasible; and
-  - **(2)** a requirement that social security account numbers not be visible on the outside of any package sent by mail.
+This Act may be cited as the “Social Security Fraud Prevention Act of 2016”.
+
+## § 2. Restriction of SSNs on documents sent by mail
+
+- **(a)** *In general* No department or agency of the Federal Government may include the Social Security account number of any individual on any document sent by mail unless the head of such department or agency determines that the inclusion of such Social Security number on such document is necessary.
+- **(b)** *Regulations* Not later than 1 year after the date of the enactment of this Act, the head of each department and agency of the Federal Government shall issue regulations specifying the circumstances under which inclusion of a Social Security account number on a document sent by mail is necessary. Such regulations shall include—
+  - **(1)** instructions for the partial redaction of Social Security account numbers whenever feasible; and
+  - **(2)** a requirement that Social Security account numbers not be visible on the outside of any package sent by mail.
 - **(c)** *Effective date* This Act shall apply with respect to documents sent by mail on or after the date that is 1 year after the date of the enactment of this Act.
