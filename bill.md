@@ -11,4 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Use of funds in WMAT Settlement Fund for WMAT rural water system
 
-Section 312(b)(2)(C)(i)(III) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3093) is amended by striking the period at the end and inserting the following: “, including the WMAT rural water system in accordance with subsection (e)(4).”.
+Section
+
+- **(a)** *Authorization of WMAT rural water system* Section 307(a) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3080) is amended in the matter preceding paragraph (1) by inserting “, (b)(2),” after “subsections (a)”.
+- **(b)** *Funding* Section 312(b)(2)(C)(i)(III) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3093) is amended by striking the period at the end and inserting the following: “, including the WMAT rural water system in accordance with subsection (e)(4) planning, design, and construction of the WMAT rural water system, in accordance with section 307(a).”.

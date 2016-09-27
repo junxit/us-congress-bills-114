@@ -1,7 +1,7 @@
 ---
 measure: S. 2959
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2959
@@ -28,3 +28,8 @@ A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act 
 
 - 2016-05-19 — Introduced in Senate
 - 2016-05-19 — Read twice and referred to the Committee on Indian Affairs.
+- 2016-06-29 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-401.
+- 2016-09-07 — Committee on Indian Affairs. Ordered to be reported with amendments favorably.
+- 2016-09-27 — Committee on Indian Affairs. Reported by Senator Barrasso with amendments. With written report No. 114-363.
+- 2016-09-27 — Committee on Indian Affairs. Reported by Senator Barrasso with amendments. With written report No. 114-363.
+- 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.
