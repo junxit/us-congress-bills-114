@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5392
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5392
@@ -70,3 +70,12 @@ No Veterans Crisis Line Call Should Go Unanswered Act
 - 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 558). (text: CR H5888)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 558).(text: CR H5888)
 - 2016-09-27 — Received in the Senate, read twice.
+- 2016-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6421)
+- 2016-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6421)
+- 2016-11-17 — Message on Senate action sent to the House.
+- 2016-11-18 — Presented to President.
+- 2016-11-18 — Presented to President.
+- 2016-11-28 — Became Public Law No: 114-247.
+- 2016-11-28 — Became Public Law No: 114-247.
+- 2016-11-28 — Signed by President.
+- 2016-11-28 — Signed by President.
