@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5509
@@ -27,9 +27,10 @@ To name the Department of Veterans Affairs temporary lodging facility in Indiana
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 - Rep. Young, Todd [R-IN-9] (Y000064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To name the Department of Veterans Affairs temporary lodging facility in Indiana
 - 2016-09-26 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
 - 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5905)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5905)
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
