@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 845
@@ -133,3 +133,12 @@ National Forest System Trails Stewardship Act
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5875-5876)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5875-5876)
 - 2016-09-27 — Received in the Senate, read twice.
+- 2016-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6421)
+- 2016-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6421)
+- 2016-11-17 — Message on Senate action sent to the House.
+- 2016-11-18 — Presented to President.
+- 2016-11-18 — Presented to President.
+- 2016-11-28 — Became Public Law No: 114-245.
+- 2016-11-28 — Became Public Law No: 114-245.
+- 2016-11-28 — Signed by President.
+- 2016-11-28 — Signed by President.
