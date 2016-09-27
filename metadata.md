@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5883
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5883
@@ -52,3 +52,12 @@ Clarification of Treatment of Electronic Sales of Livestock Act of 2016
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5874)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5874)
 - 2016-09-27 — Received in the Senate, read twice.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6256)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6256)
+- 2016-10-03 — Presented to President.
+- 2016-10-03 — Presented to President.
+- 2016-10-07 — Became Public Law No: 114-237.
+- 2016-10-07 — Became Public Law No: 114-237.
+- 2016-10-07 — Signed by President.
+- 2016-10-07 — Signed by President.
