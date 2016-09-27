@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5065
 
-> To direct the Secretary of Homeland Security to notify air carriers and security screening personnel of the Transportation Security Administration of such Administration’s guidelines regarding permitting baby formula, breast milk, and juice on airplanes, and for other purposes.
+> To direct the Administrator of the Transportation Security Administration to notify air carriers and security screening personnel of the Transportation Security Administration of such Administration’s guidelines regarding permitting baby formula, breast milk, purified deionized water, and juice on airplanes, and for other purposes.
 
 ## § 1. Short title
 
