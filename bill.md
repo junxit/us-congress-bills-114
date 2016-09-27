@@ -2,12 +2,12 @@
 legis-num: H.R. 3537
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3537
 
-> To amend the Controlled Substances Act to clarify how controlled substance analogues are to be regulated, and for other purposes.
+> To amend the Controlled Substances Act to add certain synthetic substances to schedule I, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3537
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3537
@@ -46,10 +46,11 @@ Dangerous Synthetic Drug Control Act of 2016
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,4 @@ Dangerous Synthetic Drug Control Act of 2016
 - 2016-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-787, Part I.
 - 2016-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-787, Part I.
 - 2016-09-26 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
