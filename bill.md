@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “CO-OP Consumer Protection Act of 2016”.
+This Act may be cited as the “CO–OP Consumer Protection Act of 2016”.
 
 ## § 2. Exemption from individual mandate for certain individuals who had coverage under a terminated health plan funded through the Consumer Operated and Oriented Plan (CO–OP) program
 
