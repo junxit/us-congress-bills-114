@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5460
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5460
@@ -20,9 +20,10 @@ First Responder Access to Innovative Technologies Act
 
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ First Responder Access to Innovative Technologies Act
 - 2016-09-26 — Placed on the Union Calendar, Calendar No. 616.
 - 2016-09-26 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-788.
 - 2016-09-26 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-788.
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
