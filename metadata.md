@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5873
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5873
@@ -16,9 +16,10 @@ To designate the Federal building and United States courthouse located at 511 Ea
 
 - Rep. O'Rourke, Beto [D-TX-16] (O000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the Federal building and United States courthouse located at 511 Ea
 - 2016-09-26 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5886)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5886)
+- 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
