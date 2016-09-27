@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5873
 congress: 114
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5873
@@ -40,3 +40,14 @@ To designate the Federal building and United States courthouse located at 511 Ea
 - 2016-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5886)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5886)
 - 2016-09-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2016-11-17 — Passed Senate without amendment by Unanimous Consent.
+- 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-11-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6493)
+- 2016-11-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6493)
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-28 — Presented to President.
+- 2016-11-28 — Presented to President.
+- 2016-12-08 — Became Public Law No: 114-252.
+- 2016-12-08 — Became Public Law No: 114-252.
+- 2016-12-08 — Signed by President.
+- 2016-12-08 — Signed by President.
