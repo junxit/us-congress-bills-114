@@ -1,7 +1,7 @@
 ---
 measure: S. 2968
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2968
@@ -16,9 +16,10 @@ Office of Special Counsel Reauthorization Act of 2016
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Office of Special Counsel Reauthorization Act of 2016
 
 - 2016-05-23 — Introduced in Senate
 - 2016-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2016-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-360.
+- 2016-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-360.
+- 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 646.

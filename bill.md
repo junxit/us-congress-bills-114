@@ -38,7 +38,7 @@ Section 2302 of title 5, United States Code, is amended—
   - **(C)** by inserting after clause (xi) the following:
     > - **(xii)** for the purposes of paragraph (8) or (9) of subsection (b), the accessing of a medical record of the employee or applicant for employment; and
 
-- **(2)** in subsection (b)(9)(D), by inserting “, rule, or regulation” after “order”; and
+- **(2)** in subsection (b)(9)(D), by inserting “, rule, or regulation” after “order” “law”; and
 - **(3)** by striking subsection (c) and inserting the following:
   > - **(c)**
   >   - **(1)** In this subsection—
@@ -68,8 +68,11 @@ Section 2302 of title 5, United States Code, is amended—
   - **(2)** in subsection (e)—
     - **(A)** in paragraph (1), by striking “Any such report” and inserting “Any report required under subsection (c) or paragraph (5) of this subsection”;
     - **(B)** by striking paragraph (2) and inserting the following:
+      > - **(2)** Upon
       > - **(2)** Upon receipt of any report that the head of an agency is required to submit under subsection (c), the Special Counsel shall review the report and determine whether—
+      >   - **(A)** the
       >   - **(A)** the findings of the head of the agency appear reasonable; and
+      >   - **(B)** if
       >   - **(B)** if the Special Counsel requires the head of the agency to submit a supplemental report under paragraph (5), the reports submitted by the head of the agency collectively contain the information required under subsection (d).
 
     - **(C)** in paragraph (3), by striking “agency report received pursuant to subsection (c) of this section” and inserting “report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection”; and
@@ -169,7 +172,7 @@ Section 1212 of title 5, United States Code, is amended by adding at the end the
   > - **(7)** the number of instances in which the Special Counsel did not make a determination before the end of the 240-day period described in section 1214(b)(2)(A)(i) regarding whether there were reasonable grounds to believe that a prohibited personnel practice had occurred, existed, or was to be taken;
   > - **(8)** a description of the recommendations and reports made by the Special Counsel to other agencies under this subchapter and the actions taken by the agencies as a result of the recommendations or reports;
   > - **(9)** the number of—
-  >   - **(A)** actions initiated before the Merit Systems Protection Board, including the number of corrective action petitions and disciplinary action complaints initiated;
+  >   - **(A)** actions initiated before the Merit Systems Protection Board, including the number of corrective action petitions and disciplinary action complaints initiated; and
   >   - **(B)** stays and extensions of stays obtained from the Merit Systems Protection Board; and
   >   - **(C)** requests for enforcement of subpoenas or requests for enforcement by the Merit Systems Protection Board described in section 1212(b)(6);
   > - **(10)** the number of prohibited personnel practice complaints that resulted in—

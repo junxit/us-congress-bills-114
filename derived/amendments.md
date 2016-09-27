@@ -1,7 +1,7 @@
 ---
 measure: S. 2968
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -82,7 +82,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in clause (xi), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (xii) as clause (xiii); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (xi) the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(9)(D), by inserting “, rule, or regulation” after “order”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(9)(D), by inserting “, rule, or regulation” after “order” “law”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 7311` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 7311` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
