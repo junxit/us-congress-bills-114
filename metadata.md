@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 845
@@ -132,3 +132,4 @@ National Forest System Trails Stewardship Act
 - 2016-09-26 — Mr. Rouzer moved to suspend the rules and pass the bill, as amended.
 - 2016-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5875-5876)
 - 2016-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5875-5876)
+- 2016-09-27 — Received in the Senate, read twice.
