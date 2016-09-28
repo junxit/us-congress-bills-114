@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5065
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5065
@@ -21,9 +21,10 @@ Bottles and Breastfeeding Equipment Screening Act
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Bottles and Breastfeeding Equipment Screening Act
 - 2016-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5950)
 - 2016-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5950)
 - 2016-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2016-09-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
