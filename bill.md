@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6223
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6223
+
+> To amend title 28, United States Code, to provide that a national of the United States may only bring a claim against a foreign state for an injury which was caused by international terrorism and which occurred on September 11, 2001, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Safeguarding America’s Armed Forces and Effectiveness Act” or the “SAAFE Act”.
+
+## § 2. Limitation on claims by nationals of the United States against foreign states arising out of injury caused by international terrorism
+
+- **(a)** *In general* Section 1605B(b) of title 28, United States Code, is amended by inserting after “occurring in the United States” the following: “on September 11, 2001”.
+- **(b)** *Conforming amendment* Section 7(2) of the Justice Against Sponsors of Terrorism Act is amended by striking “on or after September 11, 2001” and inserting “on September 11, 2001”.
