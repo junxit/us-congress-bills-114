@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 6 executed, 1 stated and not applied.
+20 amendatory instructions. 1 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,59 +24,14 @@ to guess them.
 
 ## Executed
 
-### 2 U.S.C. § 2163
+### 16 U.S.C. § 6809
 
-> The proviso in the item relating to “Capitol Grounds” in title VI of the Legislative Branch Appropriations Act, 1977 (90 Stat. 1453; 2 U.S.C. 2163) is amended by striking “appropriated under this heading” and inserting “appropriated for any available account of the Architect of the Capitol”.
-
-| | |
-|---|---|
-| Removed | `appropriated under this heading` |
-| Inserted | `appropriated for any available account of the Architect of the Capitol` |
-
-### 2 U.S.C. § 179v
-
-> Section 112 of the National Film Preservation Act of 1996 (2 U.S.C. 179v) is amended by striking “through fiscal year 2016” and inserting “through fiscal year 2026”.
+> Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) is amended by striking “September 30, 2017” and inserting “September 30, 2018”.
 
 | | |
 |---|---|
-| Removed | `through fiscal year 2016` |
-| Inserted | `through fiscal year 2026` |
-
-### 2 U.S.C. § 179v
-
-> Section 151711(a)(1)(C) of title 36, United States Code, is amended by striking “through 2016” and inserting “through 2026”.
-
-| | |
-|---|---|
-| Removed | `through 2016` |
-| Inserted | `through 2026` |
-
-### 2 U.S.C. § 1743
-
-> Section 133 of the National Recording Preservation Act of 2000 (2 U.S.C. 1743) is amended by striking “through fiscal year 2016” and inserting “through fiscal year 2026”.
-
-| | |
-|---|---|
-| Removed | `through fiscal year 2016` |
-| Inserted | `through fiscal year 2026` |
-
-### 2 U.S.C. § 1743
-
-> Section 152411(a) of title 36, United States Code, is amended by striking “through fiscal year 2016” and inserting “through fiscal year 2026”.
-
-| | |
-|---|---|
-| Removed | `through fiscal year 2016` |
-| Inserted | `through fiscal year 2026` |
-
-### 2 U.S.C. § 1743
-
-> Section 152403(b)(2)(A) of such title is amended by striking “nine directors” and inserting “12 directors”.
-
-| | |
-|---|---|
-| Removed | `nine directors` |
-| Inserted | `12 directors` |
+| Removed | `September 30, 2017` |
+| Inserted | `September 30, 2018` |
 
 ## Stated, not applied
 
@@ -87,4 +42,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 1906` | replace | Section 1003(a) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1906(a)) is amended by striking “surplus or obsolete property of the Capitol Police” and inserting the following: “surplus or obsolete property of the Capitol P… | the bill quotes the text struck but describes what replaces it |
+| — | repeal | Of the amounts appropriated to the Department of Veterans Affairs for fiscal year 2017 for “Medical Services”, “Medical Community Care”, “Medical Support and Compliance”, “Medical Facilities”, “Construction, Minor Projects”, and “Informa… | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1703` | amend | Paragraph (3) of section 403(a) of the Veterans’ Mental Health and Other Care Improvements Act of 2008 (Public Law 110–387; 38 U.S.C. 1703 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1722A(a) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “with respect to home health services” and inserting “with respect to the following:” | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | Section 312 of title 38, United States Code, is amended in subsection (c)(1) by striking the phrase “that makes a recommendation or otherwise suggests corrective action,”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5701(l) of title 38, United States Code, is amended by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 2302` | add-at-end | Chapter 7 of title 38, United States Code, is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | insert | Such chapter is further amended by inserting before section 701 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | insert | by inserting before the item relating to section 701 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | add-at-end | by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | add-at-end | Subchapter I of chapter 7 of title 38, United States Code, as designated by section 2(a)(2)(A), is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | insert | The table of sections at the beginning of such chapter, as amended by section 2(a)(2)(B), is further amended by inserting after the item relating to section 713 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “allowance to a veteran” and inserting the following: “allowance to— | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), as designated by paragraph (1), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 111(b)(1) of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | Section 1706(b)(5)(A) of title 38, United States Code, is amended, in the first sentence, by striking “through 2008”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 530 of division H of Public Law 114–113 shall be applied by substituting “$541,900,000” for “$4,678,500,000” and by adding at the end the following: “and of the funds made available for the purposes of carrying out section 2105(a… | the bill names no machine-readable US Code section |

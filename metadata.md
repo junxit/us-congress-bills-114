@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 114
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5325
@@ -21,7 +21,7 @@ Continuing Appropriations and Military Construction, Veterans Affairs, and Relat
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (6)
+## Recorded votes (13)
 
 - 2016-06-10 — [House 114-2-289](votes/house-114-2-0289.md) — On Agreeing to the Amendment — **Failed** (157–241)
 - 2016-06-10 — [House 114-2-290](votes/house-114-2-0290.md) — On Agreeing to the Amendment — **Failed** (165–237)
@@ -29,6 +29,13 @@ Continuing Appropriations and Military Construction, Veterans Affairs, and Relat
 - 2016-06-10 — [House 114-2-292](votes/house-114-2-0292.md) — On Agreeing to the Amendment — **Failed** (137–270)
 - 2016-06-10 — [House 114-2-293](votes/house-114-2-0293.md) — On Motion to Recommit with Instructions — **Failed** (170–237)
 - 2016-06-10 — [House 114-2-294](votes/house-114-2-0294.md) — On Passage — **Passed** (233–175)
+- 2016-09-20 — [Senate 114-2-144](votes/senate-114-2-0144.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–7)
+- 2016-09-27 — [Senate 114-2-146](votes/senate-114-2-0146.md) — On the Cloture Motion — **Cloture Motion Rejected** (45–55)
+- 2016-09-27 — [Senate 114-2-147](votes/senate-114-2-0147.md) — On the Cloture Motion — **Cloture Motion Rejected** (40–59)
+- 2016-09-28 — [House 114-2-573](votes/house-114-2-0573.md) — On Agreeing to the Senate Amendment — **Passed** (342–85)
+- 2016-09-28 — [Senate 114-2-149](votes/senate-114-2-0149.md) — On the Cloture Motion — **Cloture Motion Agreed to** (77–21)
+- 2016-09-28 — [Senate 114-2-150](votes/senate-114-2-0150.md) — On the Cloture Motion — **Cloture Motion Agreed to** (77–21)
+- 2016-09-28 — [Senate 114-2-151](votes/senate-114-2-0151.md) — On Passage of the Bill — **Bill Passed** (72–26)
 
 ## Actions
 
@@ -139,3 +146,117 @@ Continuing Appropriations and Military Construction, Veterans Affairs, and Relat
 - 2016-06-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3691)
 - 2016-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H3690)
 - 2016-06-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
+- 2016-09-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5487; text: CR S5487)
+- 2016-09-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5487-5489)
+- 2016-09-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5811)
+- 2016-09-19 — Motion to proceed to measure considered in Senate. (consideration: CR S5873)
+- 2016-09-20 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 7. Record Vote Number: 144. (consideration: CR S5904-5905; text: CR S5904)
+- 2016-09-20 — Motion to proceed to measure considered in Senate. (consideration: CR S5893-5902, S5902-5905)
+- 2016-09-20 — Senate amendment submitted
+- 2016-09-20 — Senate amendment submitted
+- 2016-09-21 — Motion to proceed to measure considered in Senate. (consideration: CR S5915-5921, S5935-5946)
+- 2016-09-22 — Amendment SA 5082 proposed by Senator McConnell for Senator Cochran. (consideration: CR S5968: text: CR S5968) In the nature of a substitute.
+- 2016-09-22 — Amendment SA 5083 proposed by Senator McConnell to Amendment SA 5082. (consideration: CR S5968; text: CR S5968) To change the enactment date.
+- 2016-09-22 — Amendment SA 5084 proposed by Senator McConnell to Amendment SA 5083. (consideration: CR S5968; text: CR S5968) To change the enactment date.
+- 2016-09-22 — Amendment SA 5085 proposed by Senator McConnell to language proposed to be stricken by amendment no. 5082. (consideration: CR S5968; text: CR S5968) To change the enactment date.
+- 2016-09-22 — Amendment SA 5086 proposed by Senator McConnell to Amendment SA 5085. (consideration: CR S5968-5969; text: CR S5969) To change the enactment date.
+- 2016-09-22 — Amendment SA 5087 proposed by Senator McConnell. (consideration: CR S5969: text: CR S5969) To change the enactment date.
+- 2016-09-22 — Amendment SA 5088 proposed by Senator McConnell to Amendment SA 5087 (the instructions of the motion to commit). (consideration: CR S5969: text: CR S5969) To change the enactment date.
+- 2016-09-22 — Amendment SA 5089 proposed by Senator McConnell to Amendment SA 5088. (consideration: CR S5969; text: CR S5969) To change the enactment date.
+- 2016-09-22 — Cloture motion on amendment SA 5082 presented in Senate.
+- 2016-09-22 — Cloture motion on the measure presented in Senate. (consideration: CR S5969: text: CR S5969)
+- 2016-09-22 — Measure laid before Senate by motion.
+- 2016-09-22 — Motion by Senator McConnell to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 5087) made in Senate. (consideration: CR S5969)
+- 2016-09-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2016-09-22 — Motion to proceed to measure considered in Senate. (consideration: CR S5968)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5082 proposed by Senator McConnell for Senator Cochran.(consideration: CR S5968: text: CR S5968)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5083 proposed by Senator McConnell to Amendment SA 5082.(consideration: CR S5968; text: CR S5968)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5084 proposed by Senator McConnell to Amendment SA 5083.(consideration: CR S5968; text: CR S5968)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5085 proposed by Senator McConnell to language proposed to be stricken by amendment no. 5082.(consideration: CR S5968; text: CR S5968)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5086 proposed by Senator McConnell to Amendment SA 5085.(consideration: CR S5968-5969; text: CR S5969)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5087 proposed by Senator McConnell.(consideration: CR S5969: text: CR S5969)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5088 proposed by Senator McConnell to Amendment SA 5087 (the instructions of the motion to commit).(consideration: CR S5969: text: CR S5969)
+- 2016-09-22 — Senate amendment proposed (on the floor): Amendment SA 5089 proposed by Senator McConnell to Amendment SA 5088.(consideration: CR S5969; text: CR S5969)
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-22 — Senate amendment submitted
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Considered by Senate. (consideration: CR S6075)
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-26 — Senate amendment submitted
+- 2016-09-27 — Cloture on amendment SA 5082 not invoked in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 146. (consideration: CR S6108; text: CR S6108)
+- 2016-09-27 — Cloture on the measure not invoked in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 147. (consideration: CR S6108; text: CR S6108)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6092-6097, S6108-6112, S6112-6126)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093)
+- 2016-09-27 — Considered by Senate. (consideration: CR S6093, S6108)
+- 2016-09-27 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 5082 was not invoked (Record Vote No. 146) entered in Senate. (consideration: CR S6108)
+- 2016-09-27 — Motion by Senator McConnell to reconsider the vote by which cloture on the measure was not invoked (Record Vote No. 147) entered in Senate. (consideration: CR S6108)
+- 2016-09-27 — Roll call votes on amendments in Senate: Cloture on amendment SA 5082 not invoked in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 146.(consideration: CR S6108; text: CR S6108)
+- 2016-09-27 — Senate amendment submitted
+- 2016-09-27 — Senate amendment submitted
+- 2016-09-28 — Amendment SA 5082 agreed to in Senate by Voice Vote.
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6173-6183)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182)
+- 2016-09-28 — Considered by Senate. (consideration: CR S6166, S6182-6183)
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H.Res. 901, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 5325.
+- 2016-09-28 — Message on Senate action sent to the House.
+- 2016-09-28 — Motion by Senator McConnell to commit to Senate Committee on Appropriations with instructions to report back forthwith with amendment (SA 5087) fell when cloture was invoked on amendment SA 5082 in Senate. (consideration: CR S6182; text: CR S6182)
+- 2016-09-28 — Motion by Senator McConnell to reconsider the vote by which cloture on amendment SA 5082 was not invoked (Record Vote No. 146) agreed to in Senate by Voice Vote. (consideration: CR S6166, S6182-6183)
+- 2016-09-28 — Motion by Senator McConnell to reconsider the vote by which cloture on the measure was not invoked (Record Vote No. 147) agreed to in Senate by Voice Vote. (consideration: CR S6183; text: CR S6183)
+- 2016-09-28 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture on amendment SA 5082 was not invoked (Record Vote No. 146) agreed to in Senate by Voice Vote. (consideration: CR S6166, S6182-6183)
+- 2016-09-28 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture on the measure was not invoked (Record Vote No. 147) agreed to in Senate by Voice Vote. (consideration: CR S6182; text: CR S6182)
+- 2016-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-28 — Mr. Rogers (KY) moved that the House agree to the Senate amendment. (consideration: CR H6072-6094; text as House agreed to Senate Amendment: CR H6072-6089)
+- 2016-09-28 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 342 - 85 (Roll no. 573).
+- 2016-09-28 — Passed Senate with an amendment by Yea-Nay Vote. 72 - 26. Record Vote Number: 151.
+- 2016-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 72 - 26. Record Vote Number: 151.
+- 2016-09-28 — Proposed amendment SA 5083 withdrawn in Senate. (consideration: CR S6182)
+- 2016-09-28 — Proposed amendment SA 5085 withdrawn in Senate. (consideration: CR S6182)
+- 2016-09-28 — Pursuant to the provisions of S. Con. Res. 53, enrollment corrections on H.R. 5325 have been made.
+- 2016-09-28 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 342 - 85 (Roll no. 573).
+- 2016-09-28 — Roll call votes on amendments in Senate: Upon reconsideration, cloture on amendment SA 5082 invoked in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 149.(consideration: CR S6166, S6182-6183)
+- 2016-09-28 — Rule H. Res. 901 passed House.
+- 2016-09-28 — Rules Committee Resolution H. Res. 901 Reported to House. Rule provides for consideration of H.R. 5325 with 1 hour of general debate. The rule makes in order a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment to H.R. 5325.
+- 2016-09-28 — SA 5084 fell when SA 5083 withdrawn. (consideration: CR S6182)
+- 2016-09-28 — SA 5086 fell when SA 5085 withdrawn. (consideration: CR S6182)
+- 2016-09-28 — SA 5087 fell when cloture invoked on SA 5082. (consideration: CR S6182)
+- 2016-09-28 — SA 5088 fell when SA 5087 fell. (consideration: CR S6182)
+- 2016-09-28 — SA 5089 fell when SA 5088 fell. (consideration: CR S6182)
+- 2016-09-28 — Senate amendment agreed to: Amendment SA 5082 agreed to in Senate by Voice Vote.
+- 2016-09-28 — Senate amendment submitted
+- 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6093)
+- 2016-09-28 — Upon reconsideration, cloture on amendment SA 5082 invoked in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 149. (consideration: CR S6166, S6182-6183)
+- 2016-09-28 — Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 150. (consideration: CR S6183; text: CR S6183)
