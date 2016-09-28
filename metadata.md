@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5227
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5227
@@ -33,3 +33,10 @@ Library of Congress Modernization Act of 2016
 - 2016-05-13 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-13 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-13 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-16 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2016-07-25 — House Committee on Transportation Granted an extension for further consideration ending not later than Sept. 30, 2016.
+- 2016-07-25 — Reported by the Committee on House Administration. H. Rept. 114-706, Part I.
+- 2016-07-25 — Reported by the Committee on House Administration. H. Rept. 114-706, Part I.
+- 2016-09-28 — Committee on Transportation discharged.
+- 2016-09-28 — Committee on Transportation discharged.
+- 2016-09-28 — Placed on the Union Calendar, Calendar No. 624.
