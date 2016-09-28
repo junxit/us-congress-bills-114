@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 562
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 562
@@ -37,3 +37,7 @@ A resolution expressing support for designation of the week of October 9, 2016, 
 
 - 2016-09-15 — Introduced in Senate
 - 2016-09-15 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S5848-5849)
+- 2016-09-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-09-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-09-28 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6197)
+- 2016-09-28 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6197)
