@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2261
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2261
@@ -32,3 +32,8 @@ Commercial Remote Sensing Act of 2015
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Introduced in House
 - 2015-05-12 — Referred to the House Committee on Science, Space, and Technology.
+- 2015-05-13 — Committee Consideration and Mark-up Session Held.
+- 2015-05-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-09-28 — Placed on the Union Calendar, Calendar No. 619.
+- 2016-09-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-796.
+- 2016-09-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-796.

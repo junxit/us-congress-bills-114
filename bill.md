@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2261
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,6 +29,8 @@ This Act may be cited as the “Commercial Remote Sensing Act of 2015”.
   > - **(2)** all notifications and information provided to the Secretary pursuant to section 60122; and
   > - **(3)** all actions taken by the Secretary under the administrative authority granted by section 60123(a)(4), (5), and (6).
 
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 601 of such title is amended by inserting after the item relating to section 60125 the following new item:
+
 ## § 3. Statutory update report
 
-Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with other appropriate Federal agencies and the National Oceanic and Atmospheric Administration’s Advisory Committee on Commercial Remote Sensing, shall report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on statutory updates necessary to protect national security, protect the United States industrial base, and reflect the current state of the art of remote sensing systems, instruments, or technologies.
+Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with other appropriate Federal agencies and the National Oceanic and Atmospheric Administration’s Advisory Committee on Commercial Remote Sensing, shall report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on statutory updates necessary to protect national security, protect privacy (which is not to be taken as altering any condition or standards for licensing), protect the United States industrial base, and reflect the current state of the art of remote sensing systems, instruments, or technologies.
