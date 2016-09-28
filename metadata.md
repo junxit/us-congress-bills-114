@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5429
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5429
@@ -16,9 +16,10 @@ SEC Regulatory Accountability Act
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
 ## Committees (1)
 
@@ -30,3 +31,9 @@ SEC Regulatory Accountability Act
 - 2016-06-09 — Introduced in House
 - 2016-06-09 — Introduced in House
 - 2016-06-09 — Referred to the House Committee on Financial Services.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported by the Yeas and Nays: 34 - 25.
+- 2016-09-28 — Placed on the Union Calendar, Calendar No. 622.
+- 2016-09-28 — Reported by the Committee on Financial Services. H. Rept. 114-799.
+- 2016-09-28 — Reported by the Committee on Financial Services. H. Rept. 114-799.
