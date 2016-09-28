@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 114
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 5325
