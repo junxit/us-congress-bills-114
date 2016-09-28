@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5303
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-115 amendatory instructions. 71 executed, 44 stated and not applied.
+134 amendatory instructions. 70 executed, 64 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,42 +68,6 @@ to guess them.
 |---|---|
 | Removed | `$15,000,000` |
 | Inserted | `$5,000,000` |
-
-### 33 U.S.C. § 2238
-
-> in the section heading by striking “Authorization of appropriations” and inserting “Funding for harbor navigation”;
-
-| | |
-|---|---|
-| Removed | `Authorization of appropriations` |
-| Inserted | `Funding for harbor navigation` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (d)(2)(A)(i) (as redesignated by subsection (a)(2) of this section) by striking “subsection (e)” and inserting “subsection (f)”;
-
-| | |
-|---|---|
-| Removed | `subsection (e)` |
-| Inserted | `subsection (f)` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (e)(3)(B)(i) (as redesignated by subsection (a)(2) of this section) by striking “subsection (c)(2)(A)” and inserting “subsection (d)(2)(A)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (c)(2)(A)` |
-| Inserted | `subsection (d)(2)(A)` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (f)(2)(A)(ii) (as redesignated by subsection (a)(2) of this section) by striking “subsection (d)(2)” and inserting “subsection (e)(2)”.
-
-| | |
-|---|---|
-| Removed | `subsection (d)(2)` |
-| Inserted | `subsection (e)(2)` |
 
 ### 33 U.S.C. § 2242
 
@@ -179,11 +143,11 @@ to guess them.
 
 ### 33 U.S.C. § 701b-13
 
-> in subsection (a) by striking “that has been constructed by a non-Federal interest under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b-13) before the date of enactment of this Act” and inserting “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)”; and
+> in subsection (a) by striking “that has been constructed by a non-Federal interest under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13) before the date of enactment of this Act” and inserting “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)”; and
 
 | | |
 |---|---|
-| Removed | `that has been constructed by a non-Federal interest under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b-13) before the date of enactment of this Act` |
+| Removed | `that has been constructed by a non-Federal interest under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13) before the date of enactment of this Act` |
 | Inserted | `for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)` |
 
 ### 33 U.S.C. § 2225
@@ -663,6 +627,33 @@ to guess them.
 | Removed | `(25 U.S.C. 450b))` |
 | Inserted | `(25 U.S.C. 450b)) and Native villages, Regional Corporations, and Village Corporations (as those terms are defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602))` |
 
+### 33 U.S.C. § 3905
+
+> Section 5026(6) of the Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3905(6)) is amended by striking “or a water recycling project” and inserting “a water recycling project, or a project of the Corps of Engineers to provide alternative water supplies to reduce aquifer depletion”.
+
+| | |
+|---|---|
+| Removed | `or a water recycling project` |
+| Inserted | `a water recycling project, or a project of the Corps of Engineers to provide alternative water supplies to reduce aquifer depletion` |
+
+### 33 U.S.C. § 2238
+
+> Section 210(d)(1)(B) of the Water Resources Development Act of 1986 (33 U.S.C. 2238(d)(1)(B)) is amended in the matter preceding clause (i) by striking “For each of fiscal years 2015 through 2024” and inserting “For each fiscal year”.
+
+| | |
+|---|---|
+| Removed | `For each of fiscal years 2015 through 2024` |
+| Inserted | `For each fiscal year` |
+
+### 33 U.S.C. § 1268
+
+> in clause (ii)(I), by striking “(G)(i)” and inserting “(J)(i)”; and
+
+| | |
+|---|---|
+| Removed | `(G)(i)` |
+| Inserted | `(J)(i)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -674,8 +665,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `33 U.S.C. § 2339` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2339` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2238` | redesignate | by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2238` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2242` | insert | in subsection (a)(3) by inserting “in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project,” after “community”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2242` | insert | in paragraph (1) by inserting “and communities that are located in the region to be served by the project and that will rely on the project” after “community”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2326c` | amend | Section 215 of the Water Resources Development Act of 2000 (33 U.S.C. 2326c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -714,5 +703,27 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2243` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2243` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2329` | amend | Section 401(a) of the Water Resources Development Act of 1992 (33 U.S.C. 2329(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 408` | replace | by striking “It shall not be lawful” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 408` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 506(c) of the Water Resources Development Act of 2000 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “2020” and inserting “2025”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “this Act” and inserting “the Water Resources Development Act of 2016”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2350` | add-at-end | Section 1033 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2350) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a) by striking “a study to determine the feasibility of carrying out projects” and inserting “a comprehensive assessment and management plan”; | the bill names no machine-readable US Code section |
+| — | replace | in the subsection heading by striking “Study” and inserting “Assessment and plan”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “study” and inserting “assessment and plan”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1) by striking “study” and inserting “assessment and plan”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2299` | strike | Section 935 of the Water Resources Development Act of 1986 (33 U.S.C. 2299) is amended by striking “if such materials are not available from domestic sources for environmental or economic reasons”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 610` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 610` | insert | in paragraph (3) by inserting “Governors of the” before “States”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 610` | replace | in subsection (e) by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3908` | add-at-end | Section 5029(b) of the Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3908(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1322` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1322` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-12` | replace | by striking subparagraphs (E) through (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5121` | add-at-end | Section 219 of the Water Resources Development Act of 1992 (Public Law 102–580; 106 Stat. 4835) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 59j-1` | strike | by striking “(except 30 years from such date of enactment, in the case of the area or any part thereof described in subsection (a)(5))”; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 59j-1` | add-at-end | by adding at the end the following: “Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

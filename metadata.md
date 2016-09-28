@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5303
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5303
@@ -27,6 +27,14 @@ Water Resources Development Act of 2016
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (5)
+
+- 2016-09-28 — [House 114-2-568](votes/house-114-2-0568.md) — On Agreeing to the Amendment — **Failed** (190–233)
+- 2016-09-28 — [House 114-2-569](votes/house-114-2-0569.md) — On Agreeing to the Amendment — **Agreed to** (407–18)
+- 2016-09-28 — [House 114-2-570](votes/house-114-2-0570.md) — On Agreeing to the Amendment — **Agreed to** (284–141)
+- 2016-09-28 — [House 114-2-571](votes/house-114-2-0571.md) — On Motion to Recommit with Instructions — **Failed** (181–243)
+- 2016-09-28 — [House 114-2-572](votes/house-114-2-0572.md) — On Passage — **Passed** (399–25)
+
 ## Actions
 
 - 2016-05-23 — Introduced in House
@@ -44,3 +52,324 @@ Water Resources Development Act of 2016
 - 2016-09-22 — Placed on the Union Calendar, Calendar No. 613.
 - 2016-09-22 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-785, Part I.
 - 2016-09-22 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-785, Part I.
+- 2016-09-26 — Rules Committee Resolution H. Res. 892 Reported to House. Rule provides for consideration of H.R. 5303 with 1 hour of general debate. Measure will be considered read. Specified amendments are in order. At the conclusion of general and amendment debate, the Committee of the Whole shall rise without motion. No further consideration of the bill shall be in order except pursuant to a subsequent order of the House. The amendment in the nature of a substitute printed in Rules Committee Print 114-65 shall be considered as an original bill for the purpose of amendment under the five-minute rule.
+- 2016-09-27 — Amendment (A001) offered by Mr. Shuster. (consideration: CR H5982-5984; text: CR H5982-5984)
+- 2016-09-27 — Amendment (A002) offered by Mrs. Lawrence. (consideration: CR H5984-5985; text: CR H5984)
+- 2016-09-27 — Amendment (A003) offered by Mr. Babin. (consideration: CR H5985; text: CR H5985)
+- 2016-09-27 — Amendment (A004) offered by Mr. Babin. (consideration: CR H5985-5987; text: CR H5986)
+- 2016-09-27 — Amendment (A005) offered by Mrs. Black. (consideration: CR H5987-5988; text: CR H5987)
+- 2016-09-27 — Amendment (A006) offered by Mr. Blum. (consideration: CR H5988-5989; text: CR H5988)
+- 2016-09-27 — Amendment (A007) offered by Mr. Bost. (consideration: CR H5989; text: CR H5989)
+- 2016-09-27 — Amendment (A008) offered by Mr. Dold. (consideration: CR H5989; text: CR H5989)
+- 2016-09-27 — Amendment (A009) offered by Mr. Graves (LA). (consideration: CR H5989-5990; text: CR H5989)
+- 2016-09-27 — Amendment (A010) offered by Mr. Graves (LA). (consideration: CR H5990-5991; text: CR H5990)
+- 2016-09-27 — Amendment (A011) offered by Mr. Graves (LA). (consideration: CR H5991; text: CR H5991)
+- 2016-09-27 — Amendment (A012) offered by Mr. Long. (consideration: CR H5991-5992; text: CR H5992)
+- 2016-09-27 — Amendment (A013) offered by Mr. Mica. (consideration: CR H5992; text: CR H5992)
+- 2016-09-27 — Amendment (A014) offered by Mr. Mica. (consideration: CR H5992-5993; text: CR H5993)
+- 2016-09-27 — Amendment (A015) offered by Mr. Thornberry. (consideration: CR H5993; text: CR H5993)
+- 2016-09-27 — Amendment (A016) offered by Mr. Weber (TX). (consideration: CR H5993-5994; text: CR H5993)
+- 2016-09-27 — Amendment (A017) offered by Mr. Young (IA). (consideration: CR H5994; text: CR H5994)
+- 2016-09-27 — Amendment (A018) offered by Ms. Esty. (consideration: CR H5994-5995; text: CR H5994)
+- 2016-09-27 — Amendment (A019) offered by Ms. Esty. (consideration: CR H5995-5996; text: CR H5995)
+- 2016-09-27 — Amendment (A020) offered by Ms. Frankel (FL). (consideration: CR H5996; text: CR H5996)
+- 2016-09-27 — Amendment (A021) offered by Mr. Green, Al. (consideration: CR H5996-5997; text: CR H5996)
+- 2016-09-27 — Amendment (A022) offered by Ms. Herrera Beutler. (consideration: CR H5997; text: CR H5997)
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — Amendment agreed to Committee of the Whole
+- 2016-09-27 — By unanimous consent, the Lawrence amendment was withdrawn. (consideration: CR H5985)
+- 2016-09-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 5303 as unfinished business.
+- 2016-09-27 — Considered under the provisions of rule H. Res. 892. (consideration: CR H5961-5997; text: CR H5969-5982)
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green amendment No. 24.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 3.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 4.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Black amendment No. 5.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Blum amendment No. 6.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Bost amendment No. 7.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Dold amendment No. 9.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Esty amendment No. 21.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Esty amendment No. 22.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel (FL) amendment No. 23.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 10.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 11.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 12.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera Beutler amendment No. 25.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 2.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Long amendment No. 13.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment No. 15.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment No. 16.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster amendment No. 1.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry amendment No. 18.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Weber amendment No. 19.
+- 2016-09-27 — DEBATE - Pursuant to the provisions of H. Res. 892, the Committee of the Whole proceeded with 10 minutes of debate on the Young (IA) amendment No. 20.
+- 2016-09-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5303.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Babin amendment (A003) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Babin amendment (A004) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Black amendment (A005) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Blum amendment (A006) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Bost amendment (A007) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Dold amendment (A008) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Esty amendment (A018) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Esty amendment (A019) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Frankel (FL) amendment (A020) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A010) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A011) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Green, Al amendment (A021) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Herrera Beutler amendment (A022) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Long amendment (A012) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Mica amendment (A013) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Mica amendment (A014) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Thornberry amendment (A015) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Weber (TX) amendment (A016) Agreed to by voice vote.
+- 2016-09-27 — House amendment agreed to: On agreeing to the Young (IA) amendment (A017) Agreed to by voice vote.
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered
+- 2016-09-27 — House amendment offered/reported by : Amendment (A001) offered by Mr. Shuster.(consideration: CR H5982-5984; text: CR H5982-5984)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A002) offered by Mrs. Lawrence.(consideration: CR H5984-5985; text: CR H5984)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A003) offered by Mr. Babin.(consideration: CR H5985; text: CR H5985)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A004) offered by Mr. Babin.(consideration: CR H5985-5987; text: CR H5986)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A005) offered by Mrs. Black.(consideration: CR H5987-5988; text: CR H5987)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A006) offered by Mr. Blum.(consideration: CR H5988-5989; text: CR H5988)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A007) offered by Mr. Bost.(consideration: CR H5989; text: CR H5989)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A008) offered by Mr. Dold.(consideration: CR H5989; text: CR H5989)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A009) offered by Mr. Graves (LA).(consideration: CR H5989-5990; text: CR H5989)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A010) offered by Mr. Graves (LA).(consideration: CR H5990-5991; text: CR H5990)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A011) offered by Mr. Graves (LA).(consideration: CR H5991; text: CR H5991)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A012) offered by Mr. Long.(consideration: CR H5991-5992; text: CR H5992)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A013) offered by Mr. Mica.(consideration: CR H5992; text: CR H5992)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A014) offered by Mr. Mica.(consideration: CR H5992-5993; text: CR H5993)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A015) offered by Mr. Thornberry.(consideration: CR H5993; text: CR H5993)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A016) offered by Mr. Weber (TX).(consideration: CR H5993-5994; text: CR H5993)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A017) offered by Mr. Young (IA).(consideration: CR H5994; text: CR H5994)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A018) offered by Ms. Esty.(consideration: CR H5994-5995; text: CR H5994)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A019) offered by Ms. Esty.(consideration: CR H5995-5996; text: CR H5995)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A020) offered by Ms. Frankel (FL).(consideration: CR H5996; text: CR H5996)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A021) offered by Mr. Green, Al.(consideration: CR H5996-5997; text: CR H5996)
+- 2016-09-27 — House amendment offered/reported by : Amendment (A022) offered by Ms. Herrera Beutler.(consideration: CR H5997; text: CR H5997)
+- 2016-09-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 892 and Rule XVIII.
+- 2016-09-27 — Mr. Shuster moved that the Committee rise.
+- 2016-09-27 — On agreeing to the Babin amendment (A003) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Babin amendment (A004) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Black amendment (A005) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Blum amendment (A006) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Bost amendment (A007) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Dold amendment (A008) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Esty amendment (A018) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Esty amendment (A019) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Frankel (FL) amendment (A020) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Graves (LA) amendment (A010) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Graves (LA) amendment (A011) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Green, Al amendment (A021) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Herrera Beutler amendment (A022) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Long amendment (A012) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Mica amendment (A013) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Mica amendment (A014) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Thornberry amendment (A015) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Weber (TX) amendment (A016) Agreed to by voice vote.
+- 2016-09-27 — On agreeing to the Young (IA) amendment (A017) Agreed to by voice vote.
+- 2016-09-27 — On motion that the Committee rise Agreed to by voice vote.
+- 2016-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Graves (LA) amendment No. 10, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2016-09-27 — Rule H. Res. 892 passed House.
+- 2016-09-27 — Rule provides for consideration of H.R. 5303 with 1 hour of general debate. Measure will be considered read. Specified amendments are in order. At the conclusion of general and amendment debate, the Committee of the Whole shall rise without motion. No further consideration of the bill shall be in order except pursuant to a subsequent order of the House. The amendment in the nature of a substitute printed in Rules Committee Print 114-65 shall be considered as an original bill for the purpose of amendment under the five-minute rule.
+- 2016-09-27 — Rules Committee Resolution H. Res. 897 Reported to House. Provides for further amendment debate to H.R. 5303. Each further amendment may be offered only in the order printed in the report. At the conclusion of consideration of amendments, the bill shall be reported back to the House with such amendments as may have been adopted. The previous question shall be ordered without intervening motions except one motion to recommit with or without instructions. Provides for one hour of general debate to H.R. 6094. The previous question shall be ordered without intervening motions except one motion to recommit with or without instructions.
+- 2016-09-27 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2016-09-28 — Amendment (A023) offered by Mr. Byrne. (consideration: CR H6036; text: CR H6036)
+- 2016-09-28 — Amendment (A024) offered by Mr. Crawford. (consideration: CR H6036-6037; text: CR H6036)
+- 2016-09-28 — Amendment (A025) offered by Mr. Culberson. (consideration: CR H6037; text: CR H6037)
+- 2016-09-28 — Amendment (A026) offered by Mr. Farenthold. (consideration: CR H6037-6038; text: CR H6037-6038)
+- 2016-09-28 — Amendment (A027) offered by Mr. Johnson, Sam. (consideration: CR H6038-6039; text: CR H6038)
+- 2016-09-28 — Amendment (A028) offered by Mr. Ribble. (consideration: CR H6039; text: CR H6039)
+- 2016-09-28 — Amendment (A029) offered by Mr. Rogers (KY). (consideration: CR H6040; text: CR H6040)
+- 2016-09-28 — Amendment (A030) offered by Mr. Rouzer. (consideration: CR H6040-6041; text: CR H6040)
+- 2016-09-28 — Amendment (A031) offered by Ms. Meng. (consideration: CR H6041; text: CR H6041)
+- 2016-09-28 — Amendment (A032) offered by Ms. Moore. (consideration: CR H6042-6044; text: CR H6042)
+- 2016-09-28 — Amendment (A033) offered by Mr. Peters. (consideration: CR H6044; text: CR H6044)
+- 2016-09-28 — Amendment (A034) offered by Mr. Quigley. (consideration: CR H6044-6045; text: CR H6044-6045)
+- 2016-09-28 — Amendment (A035) offered by Mr. Vela. (consideration: CR H6045-6046; text: CR H6045)
+- 2016-09-28 — Amendment (A036) offered by Mr. Huizenga (MI). (consideration: CR H6046-6047; text: CR H6046)
+- 2016-09-28 — Amendment (A037) offered by Mr. Joyce. (consideration: CR H6047-6048, H6054-6055; text: CR H6047)
+- 2016-09-28 — Amendment (A038) offered by Mr. Bridenstine. (consideration: CR H6048-6049; text: CR H6048-6049)
+- 2016-09-28 — Amendment (A039) offered by Mr. Courtney. (consideration: CR H6049; text: CR H6049)
+- 2016-09-28 — Amendment (A040) offered by Mr. Newhouse. (consideration: CR H6050-6051; text: CR H6050)
+- 2016-09-28 — Amendment (A041) offered by Mr. Kildee. (consideration: CR H6051-6054, H6055; text: CR H6051)
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment agreed to Committee of the Whole
+- 2016-09-28 — Amendment failed in Committee of the Whole
+- 2016-09-28 — Committee of the Whole House on the state of the Union rises leaving H.R. 5303 as unfinished business.
+- 2016-09-28 — Considered as unfinished business. (consideration: CR H6035)
+- 2016-09-28 — Considered under the provisions of rule H. Res. 897. (consideration: CR H6036-6039)
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Bridenstine amendment no. 16.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment no. 1.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment no. 17.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment no. 2.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Culberson amendment no. 3.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Farenthold amendment no. 4.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment no. 14.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson, Sam (TX) amendment no. 5.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Joyce amendment no. 15.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment no. 19.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment no. 9.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment no. 10.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment no. 18.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment no. 11.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment no. 12.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Ribble amendment no. 6.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (KY) amendment no. 7.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Rouzer amendment no. 8.
+- 2016-09-28 — DEBATE - Pursuant to the provisions of H. Res. 897, the Committee of the Whole proceeded with 10 minutes of debate on the Vela amendment no. 13.
+- 2016-09-28 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit corps funding for soccer fields, baseball fields, baskeball courts, or splash parks.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Bridenstine amendment (A038) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Byrne amendment (A023) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Courtney amendment (A039) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Crawford amendment (A024) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Culberson amendment Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Farenthold amendment (A026) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Huizenga (MI) amendment (A036) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Johnson, Sam amendment (A027) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Joyce amendment (A037) Agreed to by recorded vote: 407 - 18 (Roll no. 569).
+- 2016-09-28 — House amendment agreed to: On agreeing to the Kildee amendment (A041) Agreed to by recorded vote: 284 - 141, 1 Present (Roll no. 570).
+- 2016-09-28 — House amendment agreed to: On agreeing to the Meng amendment (A031) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Moore amendment (A032) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Newhouse amendment (A040) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Peters amendment (A033) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Quigley amendment (A034) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Ribble amendment (A028) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Rogers (KY) amendment (A029) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Rouzer amendment (A030) Agreed to by voice vote.
+- 2016-09-28 — House amendment agreed to: On agreeing to the Vela amendment (A035) Agreed to by voice vote.
+- 2016-09-28 — House amendment not agreed to: On agreeing to the Graves (LA) amendment (A009) Failed by recorded vote: 190 - 233 (Roll no. 568).
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered
+- 2016-09-28 — House amendment offered/reported by : Amendment (A023) offered by Mr. Byrne.(consideration: CR H6036; text: CR H6036)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A024) offered by Mr. Crawford.(consideration: CR H6036-6037; text: CR H6036)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A025) offered by Mr. Culberson.(consideration: CR H6037; text: CR H6037)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A026) offered by Mr. Farenthold.(consideration: CR H6037-6038; text: CR H6037-6038)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A027) offered by Mr. Johnson, Sam.(consideration: CR H6038-6039; text: CR H6038)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A028) offered by Mr. Ribble.(consideration: CR H6039; text: CR H6039)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A029) offered by Mr. Rogers (KY).(consideration: CR H6040; text: CR H6040)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A030) offered by Mr. Rouzer.(consideration: CR H6040-6041; text: CR H6040)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A031) offered by Ms. Meng.(consideration: CR H6041; text: CR H6041)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A032) offered by Ms. Moore.(consideration: CR H6042-6044; text: CR H6042)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A033) offered by Mr. Peters.(consideration: CR H6044; text: CR H6044)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A034) offered by Mr. Quigley.(consideration: CR H6044-6045; text: CR H6044-6045)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A035) offered by Mr. Vela.(consideration: CR H6045-6046; text: CR H6045)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A036) offered by Mr. Huizenga (MI).(consideration: CR H6046-6047; text: CR H6046)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A037) offered by Mr. Joyce.(consideration: CR H6047-6048, H6054-6055; text: CR H6047)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A038) offered by Mr. Bridenstine.(consideration: CR H6048-6049; text: CR H6048-6049)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A039) offered by Mr. Courtney.(consideration: CR H6049; text: CR H6049)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A040) offered by Mr. Newhouse.(consideration: CR H6050-6051; text: CR H6050)
+- 2016-09-28 — House amendment offered/reported by : Amendment (A041) offered by Mr. Kildee.(consideration: CR H6051-6054, H6055; text: CR H6051)
+- 2016-09-28 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 897 and Rule XVIII.
+- 2016-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-28 — Mr. DeFazio moved to recommit with instructions to the Committee on Transportation. (consideration: CR H6055-6057; text: CR H6055-6056)
+- 2016-09-28 — On agreeing to the Bridenstine amendment (A038) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Byrne amendment (A023) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Courtney amendment (A039) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Crawford amendment (A024) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Culberson amendment Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Farenthold amendment (A026) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Graves (LA) amendment (A009) Failed by recorded vote: 190 - 233 (Roll no. 568).
+- 2016-09-28 — On agreeing to the Huizenga (MI) amendment (A036) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Johnson, Sam amendment (A027) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Joyce amendment (A037) Agreed to by recorded vote: 407 - 18 (Roll no. 569).
+- 2016-09-28 — On agreeing to the Kildee amendment (A041) Agreed to by recorded vote: 284 - 141, 1 Present (Roll no. 570).
+- 2016-09-28 — On agreeing to the Meng amendment (A031) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Moore amendment (A032) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Newhouse amendment (A040) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Peters amendment (A033) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Quigley amendment (A034) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Ribble amendment (A028) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Rogers (KY) amendment (A029) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Rouzer amendment (A030) Agreed to by voice vote.
+- 2016-09-28 — On agreeing to the Vela amendment (A035) Agreed to by voice vote.
+- 2016-09-28 — On motion to recommit with instructions Failed by recorded vote: 181 - 243 (Roll no. 571).
+- 2016-09-28 — On passage Passed by recorded vote: 399 - 25 (Roll no. 572).
+- 2016-09-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Joyce amendment No. 15, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2016-09-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment No. 19, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2016-09-28 — Passed/agreed to in House: On passage Passed by recorded vote: 399 - 25 (Roll no. 572).
+- 2016-09-28 — Provides for further amendment debate to H.R. 5303. Each further amendment may be offered only in the order printed in the report. At the conclusion of consideration of amendments, the bill shall be reported back to the House with such amendments as may have been adopted. The previous question shall be ordered without intervening motions except one motion to recommit with or without instructions. Provides for one hour of general debate to H.R. 6094. The previous question shall be ordered without intervening motions except one motion to recommit with or without instructions.
+- 2016-09-28 — Roll call votes on amendments in House
+- 2016-09-28 — Roll call votes on amendments in House
+- 2016-09-28 — Roll call votes on amendments in House
+- 2016-09-28 — The Committee resumed its sitting. (consideration: CR H6040-6058)
+- 2016-09-28 — The Committee rose informally to receive a message.
+- 2016-09-28 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2016-09-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2016-09-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5303.
+- 2016-09-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6057)
+- 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6055)
+- 2016-09-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
