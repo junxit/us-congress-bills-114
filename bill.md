@@ -1,0 +1,28 @@
+---
+legis-num: S. 3409
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3409
+
+> To amend the Internal Revenue Code of 1986 to include foster care transition youth as members of a targeted group for purposes of the work opportunity credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Improved Employment Outcomes for Foster Youth Act of 2016”.
+
+## § 2. Inclusion of foster care transition youth for purposes of work opportunity credit
+
+- **(a)** *In general* Paragraph (1) of section 51(d) of the Internal Revenue Code of 1986 is amended by striking “or” at the end of subparagraph (I), by striking the period at the end of subparagraph (J) and inserting “, or”, and by adding at the end the following new subparagraph:
+  > - **(K)** a qualified foster care transition youth.
+
+- **(b)** *Qualified foster care transition youth* Subsection (d) of section 51 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(16)** *Qualified foster care transition youth* The term qualified foster care transition youth means any individual who is certified by the designated local agency as—
+  >   - **(A)** not having attained age 27 as of the hiring date, and
+  >   - **(B)** having been in foster care (as such term is used in section 477 of the Social Security Act) at any time after the individual attained the younger of—
+  >     - **(i)** age 16, or
+  >     - **(ii)** the age specified in subsection (a)(7) of such section.
+
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to individuals who begin work for the employer after the date of the enactment of this Act.
