@@ -1,0 +1,19 @@
+---
+legis-num: S. 3429
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3429
+
+> To delay the implementation of the overtime rule submitted by the Department of Labor entitled “Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees” for a period of 2 years in States in which the President has declared that a major disaster exists.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Survival from Disaster Act”.
+
+## § 2. Delaying implementation of overtime rule for States with major disasters
+
+- **(a)** *Delayed effective date* Notwithstanding the effective date set forth in the rule submitted by the Department of Labor entitled “Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees” (81 Fed. Reg. 32391 (May 23, 2016)), such rule shall not take effect until December 1, 2018, with respect to any State described in subsection (b).
+- **(b)** *States with major disaster declarations* A State described in this subsection is a State in which, not prior to August 14, 2016, the President has declared that a major disaster exists under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
