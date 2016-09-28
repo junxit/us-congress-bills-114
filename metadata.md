@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 891
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 891
@@ -16,7 +16,7 @@ Expressing concern over the disappearance of David Sneddon, and for other purpos
 
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 
-## Cosponsors (24)
+## Cosponsors (29)
 
 - Rep. Ashford, Brad [D-NE-2] (A000373)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
@@ -42,6 +42,11 @@ Expressing concern over the disappearance of David Sneddon, and for other purpos
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 
 ## Committees (2)
 
@@ -55,3 +60,12 @@ Expressing concern over the disappearance of David Sneddon, and for other purpos
 - 2016-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-09-28 — Committee on Foreign Affairs discharged. (consideration: CR H6058)
+- 2016-09-28 — Committee on Foreign Affairs discharged.(consideration: CR H6058)
+- 2016-09-28 — Committee on Intelligence (Permanent) discharged. (consideration: CR H6058)
+- 2016-09-28 — Committee on Intelligence (Permanent) discharged.(consideration: CR H6058)
+- 2016-09-28 — Considered by unanimous consent. (consideration: CR H6058-6059)
+- 2016-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-09-28 — Mr. Stewart asked unanimous consent to discharge from committee and consider.
+- 2016-09-28 — On agreeing to the resolution Agreed to without objection. (text: CR H6058-6059)
+- 2016-09-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6058-6059)
