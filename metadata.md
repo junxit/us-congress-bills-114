@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 114
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 5325
@@ -260,3 +260,9 @@ Continuing Appropriations and Military Construction, Veterans Affairs, and Relat
 - 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6093)
 - 2016-09-28 — Upon reconsideration, cloture on amendment SA 5082 invoked in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 149. (consideration: CR S6166, S6182-6183)
 - 2016-09-28 — Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 150. (consideration: CR S6183; text: CR S6183)
+- 2016-09-29 — Became Public Law No: 114-223.
+- 2016-09-29 — Became Public Law No: 114-223.
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Presented to President.
+- 2016-09-29 — Signed by President.
+- 2016-09-29 — Signed by President.
