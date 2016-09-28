@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5391
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5391
@@ -16,9 +16,10 @@ Gains in Global Nuclear Detection Architecture Act
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Gains in Global Nuclear Detection Architecture Act
 - 2016-09-27 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2016-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5952)
 - 2016-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5952)
+- 2016-09-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
