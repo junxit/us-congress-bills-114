@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5311
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5311
@@ -30,3 +30,9 @@ Corporate Governance Reform and Transparency Act of 2016
 - 2016-05-24 — Introduced in House
 - 2016-05-24 — Introduced in House
 - 2016-05-24 — Referred to the House Committee on Financial Services.
+- 2016-06-15 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Committee Consideration and Mark-up Session Held.
+- 2016-06-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 18.
+- 2016-09-28 — Placed on the Union Calendar, Calendar No. 621.
+- 2016-09-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-798.
+- 2016-09-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-798.
