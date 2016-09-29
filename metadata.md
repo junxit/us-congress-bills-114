@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 166
 congress: 114
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 166
@@ -24,3 +24,6 @@ Providing for a conditional adjournment of the House of Representatives.
 - 2016-09-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-09-28 — On agreeing to the resolution Agreed to without objection. (text: CR H6096)
 - 2016-09-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6096)
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6286; text as passed Senate: CR S6286)
+- 2016-09-29 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6286; text as passed Senate: CR S6286)
