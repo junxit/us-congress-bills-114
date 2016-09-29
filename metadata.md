@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 578
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 578
@@ -33,3 +33,7 @@ A resolution supporting Lights On Afterschool, a national celebration of aftersc
 
 - 2016-09-26 — Introduced in Senate
 - 2016-09-26 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6084)
+- 2016-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-09-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6256)
+- 2016-09-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6256)
