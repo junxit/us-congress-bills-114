@@ -1,7 +1,7 @@
 ---
 measure: S. 2360
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | The first proviso under the heading “trust territory of the pacific islands” under the heading “Office of territorial affairs” under the heading “department of the interior” in chapter VIII of title I of the Supplemental Appropriations A… | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The matter under the heading “trust territory of the pacific islands” under the heading “Office of territorial affairs” under the heading “department of the interior” in chapter VIII of title I of the Supplemental Appropriations Act, 198… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking subparagraph (C) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |

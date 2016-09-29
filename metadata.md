@@ -1,7 +1,7 @@
 ---
 measure: S. 2360
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2360
@@ -33,3 +33,6 @@ Omnibus Territories Act of 2015
 - 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 with an amendment. With written report No. 114-311.
 - 2016-08-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 07/14/2016 with an amendment. With written report No. 114-311.
 - 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 583.
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6285)
+- 2016-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6285)
