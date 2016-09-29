@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6094
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6094
@@ -120,3 +120,4 @@ Regulatory Relief for Small Businesses, Schools, and Nonprofits Act
 - 2016-09-28 — Rule H. Res. 897 passed House.
 - 2016-09-28 — Sponsor introductory remarks on measure. (CR H6059)
 - 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6069)
+- 2016-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
