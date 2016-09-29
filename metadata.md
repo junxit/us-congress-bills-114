@@ -1,7 +1,7 @@
 ---
 measure: H.R. 954
 congress: 114
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 954
@@ -56,3 +56,5 @@ CO-OP Consumer Protection Act of 2016
 - 2016-09-27 — Rule H. Res. 893 passed House.
 - 2016-09-27 — Rule provides for consideration of H.R. 954 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Ways and Means printed in the bill shall be considered as adopted.
 - 2016-09-27 — The previous question was ordered pursuant to the rule. (consideration: CR H5960)
+- 2016-09-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-09-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 653.
