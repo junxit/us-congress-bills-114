@@ -1,7 +1,7 @@
 ---
 measure: S. 2959
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Section 307(a) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3080) is amended in the matter preceding paragraph (1) by inserting “, (b)(2),” after “subsections (a)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 312(b)(2)(C)(i)(III) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3093) is amended by striking the period at the end and inserting the following: “, including the WMAT … | the bill names no machine-readable US Code section |
+| — | replace | Section 312(b)(2)(C)(i)(III) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3093) is amended by striking the period at the end and inserting the following: “, including the plann… | the bill names no machine-readable US Code section |
