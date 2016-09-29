@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5303
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5303
@@ -373,3 +373,4 @@ Water Resources Development Act of 2016
 - 2016-09-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6057)
 - 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6055)
 - 2016-09-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2016-09-29 — Received in the Senate.
