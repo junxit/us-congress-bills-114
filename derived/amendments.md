@@ -1,7 +1,7 @@
 ---
 measure: S. 1526
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d), by striking “The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to” and all that follows through the period at the end and inserting the following: “The maximu… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | in the table of sections for such chapter, by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | amend | Section 3309(b) of title 41, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
