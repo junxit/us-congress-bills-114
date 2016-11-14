@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1209
 
-> To amend the Public Health Service Act to distribute maternity care health professionals to health professional shortage areas identified as in need of maternity care health services.
+> To amend the Public Health Service Act to provide for the designation of maternity care health professional shortage areas.
 
 ## § 1. Short title
 
