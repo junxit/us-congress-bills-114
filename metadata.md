@@ -1,7 +1,7 @@
 ---
 measure: S. 3028
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 3028
@@ -39,3 +39,10 @@ Daniel J. Evans Olympic National Park Wilderness Act
 - 2016-07-15 — Message on Senate action sent to the House.
 - 2016-07-18 — Received in the House.
 - 2016-07-18 — Referred to the House Committee on Natural Resources.
+- 2016-07-19 — Referred to the Subcommittee on Federal Lands.
+- 2016-09-22 — Committee Consideration and Mark-up Session Held.
+- 2016-09-22 — Ordered to be Reported by Unanimous Consent.
+- 2016-09-22 — Subcommittee on Federal Lands Discharged.
+- 2016-11-14 — Placed on the House Calendar, Calendar No. 157.
+- 2016-11-14 — Reported by the Committee on Natural Resources. H. Rept. 114-822.
+- 2016-11-14 — Reported by the Committee on Natural Resources. H. Rept. 114-822.
