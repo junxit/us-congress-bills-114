@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5711
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5711
@@ -30,3 +30,9 @@ No U.S. Financing for Iran Act
 - 2016-07-11 — Introduced in House
 - 2016-07-11 — Introduced in House
 - 2016-07-11 — Referred to the House Committee on Financial Services.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 21.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 634.
+- 2016-11-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-810.
+- 2016-11-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-810.
+- 2016-11-14 — Rules Committee Resolution H. Res. 921 Reported to House. The rule provides for one hour of general debate on H.R. 5711 and H.R. 5982.

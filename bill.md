@@ -12,3 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Prohibition
 
 The Secretary of the Treasury may not authorize a transaction by a U.S. financial institution (as defined under section 561.309 of title 31, Code of Federal Regulations) that is ordinarily incident to the export or re-export of a commercial passenger aircraft to the Islamic Republic of Iran.
+
+## § 2. Revocation of prior authorizations
+
+If the Secretary of the Treasury authorized any transaction described under section 1 before the date of the enactment of this Act, such authorization is hereby revoked.
