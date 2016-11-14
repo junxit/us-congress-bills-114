@@ -1,7 +1,7 @@
 ---
 measure: S. 3028
 congress: 114
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 3028
@@ -25,6 +25,10 @@ Daniel J. Evans Olympic National Park Wilderness Act
 - Senate — Energy and Natural Resources Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2016-12-07 — [House 114-2-612](votes/house-114-2-0612.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–8)
+
 ## Actions
 
 - 2016-06-07 — Introduced in Senate
@@ -46,3 +50,17 @@ Daniel J. Evans Olympic National Park Wilderness Act
 - 2016-11-14 — Placed on the House Calendar, Calendar No. 157.
 - 2016-11-14 — Reported by the Committee on Natural Resources. H. Rept. 114-822.
 - 2016-11-14 — Reported by the Committee on Natural Resources. H. Rept. 114-822.
+- 2016-12-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7215)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 3028.
+- 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2016-12-07 — Considered as unfinished business. (consideration: CR H7301-7302)
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 8, 2 Present (Roll no. 612). (text: CR 12/7/2016 H7215)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 8, 2 Present (Roll no. 612).(text: CR 12/7/2016 H7215)
+- 2016-12-12 — Presented to President.
+- 2016-12-12 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-272.
+- 2016-12-14 — Became Public Law No: 114-272.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
