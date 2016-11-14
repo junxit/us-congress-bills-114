@@ -1,46 +1,31 @@
 ---
 legis-num: H.R. 1192
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1192
 
-> To amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with pre-diabetes, diabetes, and the chronic diseases and conditions that result from diabetes.
+> To amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with a complex metabolic or autoimmune disease, a disease resulting from insulin deficiency or insulin resistance, or complications caused by such a disease, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “National Diabetes Clinical Care Commission Act”.
+This Act may be cited as the “National Clinical Care Commission Act”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** The Centers for Disease Control and Prevention report that nearly 29,000,000 Americans have diabetes in addition to an estimated 86,000,000 American adults that have pre-diabetes, an increase of 3,000,000 Americans with diabetes and 7,000,000 American adults with pre-diabetes since 2011.
-- **(2)** Diabetes affects 9.3 percent of Americans of all ages and 12.3 percent of adults age 20 and older. Adults age 20 and older of racial and ethnic minorities continue to have higher rates of diabetes than individuals not of such minorities, as demonstrated by the following: 15.9 percent of all adult American Indians and Alaskan Natives have diabetes; 13.2 percent of all adult African-Americans have diabetes; 12.8 percent of all adult Hispanics have diabetes; and 9.0 percent of all adult Asian-Americans have diabetes, while 7.6 percent of all non-Hispanic Whites have diabetes.
-- **(3)** Diabetes is the seventh leading cause of death in the United States.
-- **(4)** People with diabetes are more likely than people without diabetes to also have chronic diseases and conditions that are complications of diabetes, including cardiovascular disease, stroke, high blood pressure, kidney disease, including dialysis, blindness, neuropathy and leg and feet amputations.
-- **(5)** Adults with diabetes have an elevated risk of heart disease and stroke. Adults with diabetes have death rates from heart disease that are nearly twice as high as adults without the disease.
-- **(6)** Diabetes is the leading cause of kidney failure. Each year, nearly 100,000 people in the U.S. are diagnosed with kidney failure, and diabetes accounts for 44 percent of these new cases.
-- **(7)** Diabetic neuropathies are a family of nerve disorders caused by diabetes and are prevalent in nearly 60–70 percent of people with diabetes.
-- **(8)** Diabetes is the leading cause of new cases of blindness among adults aged 20 to 74.
-- **(9)** About 60 percent of all non-traumatic lower limb amputations in the U.S. occur in people with diabetes.
-- **(10)** Total national costs associated with diabetes in 2012 exceeded $245,000,000,000, according to the Centers for Disease Control and Prevention.
-- **(11)** One in three Medicare dollars is currently spent on people with diabetes.
-- **(12)** The Centers for Disease Control and Prevention projects that as many as 1 in 3 American adults could have diabetes by 2050 if current trends continue.
-- **(13)** There are 35 Federal departments, agencies, and offices involved in the implementation of Federal diabetes activities.
-
-## § 3. Establishment of the national diabetes clinical care commission
+## § 2. Establishment of the National Clinical Care Commission
 
 Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following new section:
 
-> ## § 399V–6. National diabetes clinical care commission
+> ## § 399V–7. National clinical care commission
 >
-> - **(a)** *Establishment* There is hereby established within the Department of Health and Human Services, a National Diabetes Clinical Care Commission (in this section referred to as the “Commission”) to evaluate, and recommend solutions regarding better coordination and the leveraging of programs within the Department of Health and Human Services and other Federal agencies that relate in any way to supporting appropriate clinical care (such as any interactions between physicians and other health care providers and their patients related to the treatment and care management) for people with pre-diabetes, diabetes and the chronic diseases and conditions that are complications of or caused by diabetes.
+> - **(a)** *Establishment* There is hereby established, within the Department of Health and Human Services, a National Clinical Care Commission (in this section referred to as the “Commission”) to evaluate, and recommend solutions regarding better coordination and leveraging of, programs within the Department and other Federal agencies that relate in any way to supporting appropriate clinical care (such as any interactions between physicians and other health care providers and their patients related to treatment and care management) for individuals with—
+>   - **(1)** a complex metabolic or autoimmune disease;
+>   - **(2)** a disease resulting from insulin deficiency or insulin resistance; or
+>   - **(3)** complications caused by any such disease.
 > - **(b)** *Membership*
 >   - **(1)** *In general* The Commission shall be composed of the following voting members:
->     - **(A)** The heads (or their designees) of the following Federal agencies and departments that conduct programs that could impact the clinical care of people with pre-diabetes, diabetes and the chronic diseases and conditions that are complications of or caused by diabetes:
+>     - **(A)** The heads (or their designees) of the following Federal agencies and departments:
 >       - **(i)** The Centers for Medicare & Medicaid Services.
 >       - **(ii)** The Agency for Healthcare Research and Quality.
 >       - **(iii)** The Centers for Disease Control and Prevention.
@@ -50,28 +35,34 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >       - **(vii)** The Food and Drug Administration.
 >       - **(viii)** The Health Resources and Services Administration.
 >       - **(ix)** The Department of Defense.
->       - **(x)** Other governmental or nongovernmental agency heads, at the discretion of the agency, that impact clinical care of individuals with pre-diabetes and diabetes.
 >     - **(B)** Twelve additional voting members appointed under paragraph (2).
->   - **(2)** *Additional members* The Commission shall include additional voting members appointed by the Comptroller General of the United States, in consultation with national medical societies and patient advocate organizations with expertise in diabetes and the care of patients with diabetes and the diseases it causes, including one or more from each of the following categories:
+>     - **(C)** Such additional voting members as may be appointed by the Secretary, at the Secretary’s discretion, from among the heads (or their designees) of governmental or nongovernmental entities that impact clinical care of individuals with any of the diseases and complications described in subsection (a).
+>   - **(2)** *Additional members* The Commission shall include additional voting members appointed by the Secretary, in consultation with national medical societies and patient advocacy organizations with expertise in the care and epidemiology of any of the diseases and complications described in subsection (a), including one or more such members from each of the following categories:
 >     - **(A)** Clinical endocrinologists.
->     - **(B)** Physician specialties (other than as described in subparagraph (A)) that play a role in diabetes care, such as cardiologists, nephrologists, and eye care professionals.
+>     - **(B)** Physician specialties (other than as described in subparagraph (A)) that play a role in diseases and complications described in subsection (a), such as cardiologists, nephrologists, and eye care professionals.
 >     - **(C)** Primary care physicians.
 >     - **(D)** Non-physician health care professionals, such as certified diabetes educators, registered dieticians and nutrition professionals, nurses, nurse practitioners, and physician assistants.
 >     - **(E)** Patient advocates.
 >     - **(F)** National experts in the duties listed under subsection (c).
->   - **(3)** *Chairperson* The voting members of the Commission shall select a chairperson from the members described in paragraph (2)(A).
->   - **(4)** *Meetings* The Commission shall meet at least twice, and not more than 4 times, a year.
->   - **(5)** *Board terms* Members of the Commission, including the chairperson, shall serve for a 3-year term. A vacancy on the Commission shall be filled in the same manner as the original appointments.
+>     - **(G)** Health care providers furnishing services to a patient population that consists of a high percentage (as specified by the Secretary) of individuals who are enrolled in a State plan under title XIX of the Social Security Act or who are not covered under a health plan or health insurance coverage.
+>   - **(3)** *Chairperson* The voting members of the Commission shall select a chairperson from the members appointed under paragraph (2) from the category under paragraph (2)(A).
+>   - **(4)** *Meetings* The Commission shall meet at least twice, and not more than four times, a year.
+>   - **(5)** *Board terms* Members of the Commission appointed pursuant to subparagraph (B) or (C) of paragraph (1), including the chairperson, shall serve for a 3-year term. A vacancy on the Commission shall be filled in the same manner as the original appointments.
 > - **(c)** *Duties* The Commission shall—
->   - **(1)** evaluate programs of the Department of Health and Human Services regarding the utilization of diabetes screening benefits, annual wellness visits, and other preventive health benefits that may reduce the risk of diabetes and the chronic diseases and conditions that are complications of diabetes, addressing any existing problems regarding such utilization and related data collection mechanisms;
->   - **(2)** identify current activities and critical gaps in Federal efforts to support clinicians in providing integrated, high-quality care to people with pre-diabetes, diabetes and the chronic diseases and conditions that are complications of diabetes;
->   - **(3)** make recommendations regarding the coordination of clinically based activities that are being supported by the Federal Government;
->   - **(4)** make recommendations regarding the development and coordination of federally funded clinical practice support tools for physicians and other health care professionals in caring for and managing the care of people with pre-diabetes, diabetes and the chronic diseases and conditions that are complications of diabetes, specifically with regard to implementation of new treatments and technologies;
->   - **(5)** evaluate programs in existence as of the date of the enactment of this section and determine if such programs are meeting the needs identified in paragraph (2) and, if such programs are determined to not be meeting such needs, recommend programs that would be more appropriate;
->   - **(6)** recommend clinical pathways for new technologies and treatments, including future data collection activities, and how they may be developed and then used to evaluate and develop various care models and methods and the impact of such models and methods on quality of care and diabetes management as measured by appropriate care parameters (such as A1C, blood pressure, and cholesterol levels);
->   - **(7)** evaluate and expand education and awareness to physicians and other health care professionals regarding clinical practices for the prevention of diabetes and the chronic diseases and conditions that are complications of diabetes;
->   - **(8)** review and recommend appropriate methods for outreach and dissemination of educational resources that regard diabetes prevention and treatments, are funded by the Federal Government, and are intended for health care professionals and the public; and
->   - **(9)** include other activities, such as those relating to the areas of public health and nutrition, that the Commission deems appropriate.
+>   - **(1)** evaluate programs of the Department of Health and Human Services regarding the utilization of diabetes screening benefits, annual wellness visits, and other preventive health benefits that may reduce the incidence of the diseases and complications described in subsection (a), including explaining problems regarding such utilization and related data collection mechanisms;
+>   - **(2)** identify current activities and critical gaps in Federal efforts to support clinicians in providing integrated, high-quality care to individuals with any of the diseases and complications described in subsection (a);
+>   - **(3)** make recommendations regarding the coordination of clinically-based activities that are being supported by the Federal Government with respect to the diseases and complications described in subsection (a);
+>   - **(4)** make recommendations regarding the development and coordination of federally funded clinical practice support tools for physicians and other health care professionals in caring for and managing the care of individuals with any of the diseases and complications described in subsection (a), specifically with regard to implementation of new treatments and technologies;
+>   - **(5)** evaluate programs described in subsection (a) that are in existence as of the date of the enactment of this section and determine if such programs are meeting the needs identified in paragraph (2) and, if such programs are determined as not meeting such needs, recommend programs that would be more appropriate;
+>   - **(6)** recommend, with respect to the diseases and complications described in subsection (a), clinical pathways for new technologies and treatments, including future data collection activities, that may be developed and then used to evaluate—
+>     - **(A)** various care models and methods; and
+>     - **(B)** the impact of such models and methods on quality of care as measured by appropriate care parameters (such as A1C, blood pressure, and cholesterol levels);
+>   - **(7)** evaluate and expand education and awareness activities provided to physicians and other health care professionals regarding clinical practices for the prevention of the diseases and complications described in subsection (a);
+>   - **(8)** review and recommend appropriate methods for outreach and dissemination of educational resources that—
+>     - **(A)** regard the diseases and complications described in subsection (a);
+>     - **(B)** are funded by the Federal Government; and
+>     - **(C)** are intended for health care professionals and the public; and
+>   - **(9)** carry out other activities, such as activities relating to the areas of public health and nutrition, that the Commission deems appropriate with respect to the diseases and complications described in subsection (a).
 > - **(d)** *Operating plan*
 >   - **(1)** *Initial plan* Not later than 90 days after its first meeting, the Commission shall submit to the Secretary and the Congress an operating plan for carrying out the activities of the Commission as described in subsection (c). Such operating plan may include—
 >     - **(A)** a list of specific activities that the Commission plans to conduct for purposes of carrying out the duties described in each of the paragraphs in subsection (c);
@@ -79,8 +70,8 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >     - **(C)** a list of members of the Commission and other individuals who are not members of the Commission who will need to be involved to conduct such activities;
 >     - **(D)** an explanation of Federal agency involvement and coordination needed to conduct such activities;
 >     - **(E)** a budget for conducting such activities;
->     - **(F)** a plan for evaluating the value and potential impact of the Commission's work and recommendations, including the possible continuation of the Commission for the purposes of overseeing their implementation; and
+>     - **(F)** a plan for evaluating the value and potential impact of the Commission’s work and recommendations, including the possible continuation of the Commission for the purposes of overseeing their implementation; and
 >     - **(G)** other information that the Commission deems appropriate.
 >   - **(2)** *Updates* The Commission shall periodically update the operating plan under paragraph (1) and submit such updates to the Secretary and the Congress.
-> - **(e)** *final report and sunset of the commission* By not later than 3 years after the date of the Commission’s first meeting, the Commission shall submit to the Secretary and the Congress a report containing all of the findings, and recommended actions of the Commission. Not later than 120 days after the submission of the final report, the Secretary shall review the evaluation required under subsection (d)(1)(F) to determine the continuation of the Commission.
-> - **(f)** *Authorization of appropriations* Appropriations are authorized to be made available to the Commission for each of fiscal years 2016, 2017, and 2018, from amounts otherwise made available to the Department of Health and Human Services for such fiscal years, to carry out this section.
+> - **(e)** *Final report* By not later than 3 years after the date of the Commission’s first meeting, the Commission shall submit to the Secretary and the Congress a final report containing all of the findings and recommendations required by this section. Not later than 120 days after the submission of the final report, the Secretary shall review the plan required by subsection (d)(1)(F) and submit to the Congress a recommendation on whether the Commission should be reauthorized to operate after fiscal year 2019.
+> - **(f)** *Sunset* The Commission shall terminate at the end of fiscal year 2019.
