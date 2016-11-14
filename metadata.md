@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5600
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5600
@@ -16,7 +16,7 @@ No Hero Left Untreated Act
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (18)
+## Cosponsors (33)
 
 - Rep. Guinta, Frank C. [R-NH-1] (G000570)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
@@ -36,6 +36,21 @@ No Hero Left Untreated Act
 - Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Duckworth, Tammy [D-IL-8] (D000622)
+- Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
 ## Committees (1)
 
@@ -46,3 +61,9 @@ No Hero Left Untreated Act
 - 2016-06-28 — Introduced in House
 - 2016-06-28 — Introduced in House
 - 2016-06-28 — Referred to the House Committee on Veterans' Affairs.
+- 2016-07-05 — Referred to the Subcommittee on Health.
+- 2016-09-21 — Committee Consideration and Mark-up Session Held.
+- 2016-09-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 641.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-817.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-817.
