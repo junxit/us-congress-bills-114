@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6009
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6009
@@ -29,3 +29,8 @@ Federal Agency Mail Management Act of 2016
 - 2016-09-13 — Introduced in House
 - 2016-09-13 — Introduced in House
 - 2016-09-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-09-15 — Committee Consideration and Mark-up Session Held.
+- 2016-09-15 — Ordered to be Reported by Unanimous Consent.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 647.
+- 2016-11-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-825.
+- 2016-11-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-825.
