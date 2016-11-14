@@ -1,7 +1,7 @@
 ---
 measure: S. 2959
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2959
@@ -36,3 +36,5 @@ A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act 
 - 2016-09-29 — Message on Senate action sent to the House.
 - 2016-09-29 — Passed Senate with amendments by Unanimous Consent. (text: CR S6285)
 - 2016-09-29 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S6285)
+- 2016-11-14 — Received in the House.
+- 2016-11-14 — Referred to the House Committee on Natural Resources.
