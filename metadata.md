@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5399
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5399
@@ -25,3 +25,9 @@ Ethical Patient Care for Veterans Act of 2016
 - 2016-06-07 — Introduced in House
 - 2016-06-07 — Introduced in House
 - 2016-06-07 — Referred to the House Committee on Veterans' Affairs.
+- 2016-06-13 — Referred to the Subcommittee on Health.
+- 2016-09-21 — Committee Consideration and Mark-up Session Held.
+- 2016-09-21 — Ordered to be Reported by Voice Vote.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 639.
+- 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-815.
+- 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-815.
