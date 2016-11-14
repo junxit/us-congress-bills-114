@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans TRICARE Choice Act”.
+This Act may be cited as the “Veterans TRICARE Choice Act of 2016”.
 
 ## § 2. Coordination between TRICARE program and eligibility to make contributions to health savings accounts
 
