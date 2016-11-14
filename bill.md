@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2532
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,49 +11,65 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Employees of America Streamlining for Your Savings Act of 2015” or the “EASY Savings Act of 2015”.
+This Act may be cited as the “Bonuses for Cost-Cutters Act of 2016”.
 
-## § 2. Enhancement of authority to make cash awards to employees for cost saving disclosures
+## § 2. Cost savings enhancements
 
-- **(a)** *In general* Section 4512 of title 5, United States Code, is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in the matter preceding paragraph (1), by inserting “or identification of surplus funds or unnecessary budget authority” after “mismanagement”;
-    - **(B)** in paragraph (2), by inserting “or identification” after “disclosure”; and
-    - **(C)** in the matter following paragraph (2), by inserting “or identification” after “disclosure”; and
-  - **(2)** by adding at the end the following:
-    > - **(c)** The Inspector General of an agency or other agency employee designated under subsection (b) shall refer to the Chief Financial Officer of the agency any potential surplus funds or unnecessary budget authority identified by an employee under subsection (a), along with any recommendations of the Inspector General or other agency employee.
-    > - **(d)**
-    >   - **(1)** If the Chief Financial Officer of an agency determines that rescission of potential surplus funds or unnecessary budget authority, identified by an employee under subsection (a), would not hinder the effectiveness of the agency, the head of the agency shall transfer the amount of the surplus funds or unnecessary budget authority from the applicable appropriations account to the general fund of the Treasury, except as provided in subsection (e).
-    >   - **(2)** Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 681 et seq.) shall not apply to transfers under paragraph (1).
-    >   - **(3)** Any amounts transferred under paragraph (1) shall be deposited in the Treasury and used for deficit reduction, except that in the case of a fiscal year for which there is no Federal budget deficit, such amounts shall be used to reduce the Federal debt, in such manner as the Secretary of the Treasury considers appropriate.
-    > - **(e)**
-    >   - **(1)** The head of an agency may retain not more than 10 percent of amounts to be transferred to the general fund of the Treasury under subsection (d).
-    >   - **(2)** Amounts retained by the head of an agency under paragraph (1) may be—
-    >     - **(A)** used for the purpose of paying a cash award under subsection (a) to 1 or more employees who identified the surplus funds or unnecessary budget authority; and
-    >     - **(B)** to the extent amounts remain after paying cash awards under subsection (a), transferred or reprogrammed for use by the agency, in accordance with any limitation on such a transfer or reprogramming under any other provision of law.
-    > - **(f)**
-    >   - **(1)** The head of each agency shall submit to the Director of the Office of Personnel Management an annual report regarding—
-    >     - **(A)** each disclosure of fraud, waste, or mismanagement or identification of surplus funds or unnecessary budget authority, made under subsection (a) by an employee of the agency, which is determined by the agency to have merit;
-    >     - **(B)** the total savings achieved through disclosures and identifications described in subparagraph (A); and
-    >     - **(C)** the number and amount of cash awards by the agency under subsection (a).
-    >   - **(2)** The Director of the Office of Personnel Management shall submit to Congress and the Government Accountability Office an annual report on Federal cost saving and awards based on the reports under paragraph (1).
-    >   - **(3)** The Director of the Office of Personnel Management shall—
-    >     - **(A)** ensure that the cash award program of each agency complies with this section; and
-    >     - **(B)** submit to Congress an annual certification indicating whether the cash award program of each agency complies with this section.
-    > - **(g)**
-    >   - **(1)** The head of each agency shall include the information described in subsection (f)(1) in each budget request of the agency submitted to the Office of Management and Budget as part of the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
-    >   - **(2)** Not later than 3 years after the date of enactment of the EASY Savings Act of 2015, and every 3 years thereafter, the Comptroller General shall submit to Congress a report on the operation of the cost savings and awards program under this section, including recommendations for any legislative changes which the Comptroller General considers appropriate.
+- **(a)** *In general*
+  - **(1)** *Definitions* Section 4511 of title 5, United States Code, is amended—
+    - **(A)** in the section heading, by striking “Definition” and inserting “Definitions”; and
+    - **(B)** in subsection (a)—
+      - **(i)** by striking the period at the end and inserting “; and”; and
+      - **(ii)** by striking “this subchapter, the term” and inserting the following: “this subchapter—
+        > - **(1)** the term
 
-- **(b)** *Prohibition*
+      - **(iii)** by adding at the end the following:
+        > - **(2)** the term surplus salaries and expenses funds means amounts made available for the salaries and expenses account, or equivalent account, of an agency—
+        >   - **(A)** that are identified by an employee of the agency under section 4512(a) as unnecessary;
+        >   - **(B)** that the Inspector General of the agency or other agency employee designated under section 4512(b) determines are not required for the purpose for which the amounts were made available;
+        >   - **(C)** that the Chief Financial Officer of the agency determines are not required for the purpose for which the amounts were made available; and
+        >   - **(D)** the rescission of which would not be detrimental to the full execution of the purposes for which the amounts were made available.
+
+  - **(2)** *Authority* Section 4512 of title 5, United States Code, is amended—
+    - **(A)** in subsection (a)—
+      - **(i)** in the matter preceding paragraph (1), by inserting “or identification of surplus salaries and expenses funds” after “mismanagement”;
+      - **(ii)** in paragraph (2), by inserting “or identification” after “disclosure”; and
+      - **(iii)** in the matter following paragraph (2), by inserting “or identification” after “disclosure”; and
+    - **(B)** by adding at the end the following:
+      > - **(c)**
+      >   - **(1)** The Inspector General of an agency or other agency employee designated under subsection (b) shall refer to the Chief Financial Officer of the agency any potential surplus salaries and expenses funds identified by an employee that the Inspector General or other agency employee determines meets the requirements under subparagraphs (B) and (D) of section 4511(a)(2), along with any recommendations of the Inspector General or other agency employee.
+      >   - **(2)**
+      >     - **(A)** If the Chief Financial Officer of the agency determines that potential surplus salaries and expenses funds referred under paragraph (1) meet the requirements under section 4511(a)(2), except as provided in subsection (d), the head of the agency shall transfer the amount of the surplus funds or unnecessary budget authority from the applicable appropriations account to the general fund of the Treasury.
+      >     - **(B)** Any amounts transferred under subparagraph (A) shall be deposited in the Treasury and used for deficit reduction, except that in the case of a fiscal year for which there is no Federal budget deficit, such amounts shall be used to reduce the Federal debt (in such manner as the Secretary of the Treasury considers appropriate).
+      >   - **(3)** The Inspector General or other agency employee designated under subsection (b) for each agency and the Chief Financial Officer for each agency shall issues standards and definitions for purposes of making determinations relating to potential surplus salaries and expenses funds identified by an employee under this subsection.
+      > - **(d)**
+      >   - **(1)** The head of an agency may retain not more than 10 percent of amounts to be transferred to the general fund of the Treasury under subsection (c)(2).
+      >   - **(2)** Amounts retained by the head of an agency under paragraph (1) may be—
+      >     - **(A)** used for the purpose of paying a cash award under subsection (a) to 1 or more employees who identified the surplus salaries and expenses funds; and
+      >     - **(B)** to the extent amounts remain after paying cash awards under subsection (a), transferred or reprogrammed for use by the agency, in accordance with any limitation on such a transfer or reprogramming under any other provision of law.
+      > - **(e)**
+      >   - **(1)** Not later than October 1 of each fiscal year, the head of each agency shall submit to the Secretary of the Treasury a report identifying the total savings achieved during the previous fiscal year through disclosures of possible fraud, waste, or mismanagement and identifications of surplus salaries and expenses funds by an employee.
+      >   - **(2)** Not later than September 30 of each fiscal year, the head of each agency shall submit to the Secretary of the Treasury a report that, for the previous fiscal year—
+      >     - **(A)** describes each disclosure of possible fraud, waste, or mismanagement or identification of potentially surplus salaries and expenses funds by an employee of the agency determined by the agency to have merit; and
+      >     - **(B)** provides the number and amount of cash awards by the agency under subsection (a).
+      >   - **(3)** The head of each agency shall include the information described in paragraphs (1) and (2) in each budget request of the agency submitted to the Office of Management and Budget as part of the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
+      >   - **(4)** The Secretary of the Treasury shall submit to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the Government Accountability Office an annual report on Federal cost saving and awards based on the reports submitted under paragraphs (1) and (2).
+      > - **(f)** The Director of the Office of Personnel Management shall—
+      >   - **(1)** ensure that the cash award program of each agency complies with this section; and
+      >   - **(2)** submit to Congress an annual certification indicating whether the cash award program of each agency complies with this section.
+      > - **(g)** Not later than 3 years after the date of enactment of the Bonuses for Cost-Cutters Act of 2016, and every 3 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the operation of the cost savings and awards program under this section, including any recommendations for legislative changes.
+
+  - **(3)** *Technical and conforming amendment* The table of sections for subchapter II of chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4511 and inserting the following:
+- **(b)** *Officers eligible for cash awards*
   - **(1)** *In general* Section 4509 of title 5, United States Code, is amended to read as follows:
     > ## § 4509. Prohibition of cash award to certain officers
     >
-    > - **(a)** *Definition* For purposes of this section, the term agency refers to any agency within the meaning of section 551(1) or 4501(1).
-    > - **(b)** *Prohibition* An officer may not receive a cash award under this subchapter if such officer—
-    >   - **(1)** is the head of an agency;
-    >   - **(2)** serves in—
-    >     - **(A)** a position under section 5312 (relating to positions at level I of the Executive Schedule); or
-    >     - **(B)** a position for which the compensation is set in statute by reference to section 5312 or level I of the Executive Schedule; or
-    >   - **(3)** is a voting member of an independent establishment.
+    > - **(a)** *Definitions* In this section, the term agency—
+    >   - **(1)** has the meaning given that term under section 551(1); but
+    >   - **(2)** includes an entity described in subparagraphs (A) through (G) of section 4501(1).
+    > - **(b)** *Prohibition* An officer may not receive a cash award under this subchapter if the officer—
+    >   - **(1)** serves in a position at level I of the Executive Schedule;
+    >   - **(2)** is the head of an agency; or
+    >   - **(3)** is a commissioner, board member, or other voting member of an independent establishment.
 
-  - **(2)** *Clerical amendment* The analysis for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following:
+  - **(2)** *Technical and conforming amendment* The table of sections for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following:

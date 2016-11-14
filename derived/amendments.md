@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2532
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 681` | insert | in the matter preceding paragraph (1), by inserting “or identification of surplus funds or unnecessary budget authority” after “mismanagement”; | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 681` | insert | in paragraph (2), by inserting “or identification” after “disclosure”; and | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 681` | insert | in the matter following paragraph (2), by inserting “or identification” after “disclosure”; and | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 681` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 681` | amend | Section 4509 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 681` | replace | The analysis for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in the section heading, by striking “Definition” and inserting “Definitions”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “this subchapter, the term” and inserting the following: “this subchapter— | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding paragraph (1), by inserting “or identification of surplus salaries and expenses funds” after “mismanagement”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or identification” after “disclosure”; and | the bill names no machine-readable US Code section |
+| — | insert | in the matter following paragraph (2), by inserting “or identification” after “disclosure”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for subchapter II of chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4511 and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 4509 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following: | the bill names no machine-readable US Code section |
