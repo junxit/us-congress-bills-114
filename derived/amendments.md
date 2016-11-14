@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,30 @@ to guess them.
 
 ### 47 U.S.C. § 227
 
-> Section 227(e)(8)(C) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)(C)) is amended by striking “has the meaning” and all that follows and inserting “means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted using Internet protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.”.
+> Section 227(e)(1) of the Communications Act of 1934 (47 U.S.C. 227(e)(1)) is amended by striking “in connection with any telecommunications service or IP-enabled voice service” and inserting “or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service”.
 
 | | |
 |---|---|
-| Removed | `has the meaning` |
-| Inserted | `means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted using Internet protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.` |
+| Removed | `in connection with any telecommunications service or IP-enabled voice service` |
+| Inserted | `or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service` |
+
+### 47 U.S.C. § 227
+
+> in subparagraph (A), by striking “telecommunications service or IP-enabled voice service” and inserting “voice service or a text message sent using a text messaging service”;
+
+| | |
+|---|---|
+| Removed | `telecommunications service or IP-enabled voice service` |
+| Inserted | `voice service or a text message sent using a text messaging service` |
+
+### 47 U.S.C. § 227
+
+> in the first sentence of subparagraph (B), by striking “telecommunications service or IP-enabled voice service” and inserting “voice service or a text message sent using a text messaging service”; and
+
+| | |
+|---|---|
+| Removed | `telecommunications service or IP-enabled voice service` |
+| Inserted | `voice service or a text message sent using a text messaging service` |
 
 ### 47 U.S.C. § 227
 
@@ -51,7 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 227` | insert | Section 227(e)(1) of the Communications Act of 1934 (47 U.S.C. 227(e)(1)) is amended by inserting “or any person outside the United States if the recipient is within the United States,” after “United States,”. | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 227` | insert | in subparagraph (A), by inserting “(including a text message sent using a text messaging service)” before the period at the end; | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 227` | insert | in the first sentence of subparagraph (B), by inserting “(including a text message sent using a text messaging service)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 227` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 227` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 227` | insert | Section 227(e) of the Communications Act of 1934 (47 U.S.C. 227(e)) is amended in the heading by inserting “misleading or” before “inaccurate”. | the bill quotes the text inserted but describes where it goes |
