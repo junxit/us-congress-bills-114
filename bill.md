@@ -9,33 +9,53 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To establish a pilot program on partnership agreements to construct new facilities for the Department of Veterans Affairs.
 
-## § 1. Pilot program for partnership agreements to construct new facilities for the Department of Veterans Affairs
+## § 1. Short title
 
-- **(a)** *In general* The Secretary of Veterans Affairs may carry out a program under which the Secretary may enter into up to 5 partnership arrangements with a State or local authority, a 501(c)(3) corporation, a limited liability corporation, private entity, donor or donor group, or other non-Federal entity, to conduct one or more “super construction projects” (as defined in section 8103 of title 38, United States Code), “major construction projects” (as defined in section 8104 of title 38, United States Code), or major construction projects to construct a new cemetery, or to develop additional gravesites or columbarium niches at an existing cemetery.
-- **(b)** *Application of certain laws* This authority may be carried out notwithstanding any other law (including section 8103(e) of the title 38, United States Code), except for those Federal laws relating to environmental and historic preservation, and the Davis-Bacon Act (sections 3141 through 3148 of title 40, United States Code).
-- **(c)** *Selection of projects* The projects that the Secretary may select for this program may be ones for which—
-  - **(1)**
-    - **(A)** Congress has appropriated partial funding for the designated project; or
-    - **(B)** Veterans Affairs has identified a need for the project through its long-range capital planning process, by listing the project on the Major Construction Strategic Capital Investment Planning (SCIP) priority list, submitted to Congress in its annual budget submission; and
-  - **(2)** a non-Federal entity has or is willing to enter into a formal agreement with the Secretary, to independently finance and/or donate funds towards the underlying project, in an amount acceptable and at no additional cost to the government.
-- **(d)** *Agreements* Each partnership agreement for regarding the designated project shall provide:
-  - **(1)** The non-Federal entity shall conduct any necessary environmental and historic preservation due diligence, comply with local zoning requirements (except for studies and consultations required of the Department under Federal law), and obtain any permits required before beginning construction.
-  - **(2)** The non-Federal entity shall use Veterans Affairs construction standards when designing and building the project, except to the extent the Secretary deems otherwise.
-  - **(3)** The non-Federal entity shall form a Board of Directors comprised of between 5 and 10 members, and a designated Chair to oversee the Board. At least 1 member of the Board shall be a Veteran who is not an employee of the Department of Veterans Affairs. The proposed or existing Board members shall be required to promptly disclose any actual or potential conflicts to the Secretary, and must agree as a condition of their appointment, to remove themselves from Board membership if the Chairman and Secretary agree that doing so is appropriate due to an underlying apparent or existing conflict. At least 1 member of the Board shall be an employee of the Department of Veterans Affairs, and function as a non-voting member of the Board.
-  - **(4)** Within 180 days of inception or other timeframe as the Secretary shall approve, the Board shall establish a written Charter of the Board of Directors, to describe the roles, responsibilities, policies, and procedures of operation, to help ensure successful project management, design, and construction, and completion of the designated project. The Board shall be responsible for overseeing the activities needed to finance, design, and construct the designated project for the Department. The Board shall provide written updates to the Secretary regarding the status of the designated project, on occasions and a frequency that he shall approve.
-  - **(5)** The Board shall defer to the Secretary on all matters that are inherent to the Department’s mission and operations, including conditional or final acceptance of the designated project. The Board shall not dissolve until after the Department has provided its final acceptance of the completed designated project, plus any additional time or later event that the Board of Directors and Secretary shall jointly approve.
-- **(e)** *Project funds* Except as to the designated project identified in subsection (j) and except to the extent that Congress later provides a future appropriation of additional funds to support the project, the Secretary may provide funds to help finance, design, and construct the designated project, in an amount not to exceed the total dollars that Congress has appropriated at the time of the partnership agreement between the Department and non-Federal entity. The Secretary shall be permitted to provide such funds under terms, conditions, and schedule that the Secretary deems appropriate. The non-Federal entity shall be required to contribute the balance of the funds needed to complete the designated project.
-- **(f)** *Application* To be eligible to participate in the program to be established under subsection (a), the non-Federal entities shall submit to the Secretary an application to address facility needs, including healthcare, as identified in the Veterans Affairs Construction and Long-range Capital Plan, at such time, in such manner, and containing such information as the Secretary may require, including the following:
-  - **(1)** The name, resume, and experience of the project manager for each designated project that the non-Federal entity is proposing to pursue with the Secretary under this program.
-  - **(2)** A description of the non-Federal entity’s proposed monetary and non-monetary contributions for the designated project, and how future funding will be secured.
-  - **(3)** A description of the process the non-Federal entity would utilize to select a third party contractor or developer as applicable, to perform the work necessary to complete the designated project.
-  - **(4)** A description of the Board of Directors and project management plan that the non-Federal entity will use, to ensure concise and consistent communication of all parties involved in the project.
-  - **(5)** A description of the procedures that the non-Federal entity will utilize to review, monitor, and process change orders when received, including how the Department’s input and feedback will be incorporated, particularly for issues that would affect the time or cost of the designated project(s).
-  - **(6)** A detailed estimate of costs to complete the designated project.
-  - **(7)** A description of the estimated timelines, and milestones associated with the activities needed to finance, design, and construct the designated project.
-  - **(8)** Agree to obtain an independent annual financial audit of all activities and costs relating to the underlying designated project, in accordance with generally accepted accounting principles.
-  - **(9)** Such other information as the Secretary may require.
-- **(g)** *Comptroller general report* The Comptroller General of the United States shall submit to Congress a biennial report on the partnership agreements entered into under the program.
-- **(h)** *Report* The Secretary shall provide a report to the Veterans Affairs Committees as part of the Department’s annual budget submission, upon acceptance of a donation under this authority. The report shall provide a detailed status of the Project, including the percentage complete.
-- **(i)** *Rule of construction* Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other agreements that are authorized by law and not inconsistent with this section.
-- **(j)** *Selected department of veterans affairs construction project(s)* One of the 5 partnership agreement projects that the Secretary is permitted to pursue with a non-Federal entity under subsection (a) a project to design, finance, and construct a new ambulatory care center in Omaha, Nebraska. Any such project shall include necessary space and parking as determine by the Secretary. The Secretary shall be permitted to contribute funds towards the project in an amount not to exceed $56,000,000, and in no event shall the Secretary’s contribution or liability exceed such amount, unless and the extent that Congress later provides a future appropriation of additional funds to support the project.
+This Act may be cited as the “Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016” or the “CHIP IN for Vets Act of 2016”.
+
+## § 2. Pilot program on acceptance by the Department of Veterans Affairs of donated facilities and related improvements
+
+- **(a)** *Pilot program authorized*
+  - **(1)** *In general* Notwithstanding sections 8103 and 8104 of title 38, United States Code, the Secretary of Veterans Affairs may carry out a pilot program under which the Secretary may accept donations of the following property from entities described in paragraph (2):
+    - **(A)** Real property (including structures and equipment associated therewith)—
+      - **(i)** that includes a constructed facility; or
+      - **(ii)** to be used as the site of a facility constructed by the entity.
+    - **(B)** A facility to be constructed by the entity on real property of the Department of Veterans Affairs.
+  - **(2)** *Entities described* Entities described in this paragraph are the following:
+    - **(A)** A State or local authority.
+    - **(B)** An organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
+    - **(C)** A limited liability corporation.
+    - **(D)** A private entity.
+    - **(E)** A donor or donor group.
+    - **(F)** Any other non-Federal Government entity.
+  - **(3)** *Limitation* The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section.
+- **(b)** *Conditions for acceptance of property* The Secretary may accept the donation of a property described in subsection (a)(1) under the pilot program only if—
+  - **(1)** the property is—
+    - **(A)** a property with respect to which funds have been appropriated for a Department facility project; or
+    - **(B)** a property identified as—
+      - **(i)** meeting a need of the Department as part of the long-range capital planning process of the Department; and
+      - **(ii)** the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
+  - **(2)** an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government.
+- **(c)** *Requirement to enter into an agreement*
+  - **(1)** *In general* The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—
+    - **(A)** the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or
+    - **(B)** the construction by the entity of a facility on—
+      - **(i)** real property and improvements of the Department of Veterans Affairs; or
+      - **(ii)** real property and improvements donated to the Department by the entity.
+  - **(2)** *Content of formal agreements* With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:
+    - **(A)** The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility.
+    - **(B)** The entity shall use construction standards required of the Department when designing and building the facility, except to the extent the Secretary determines otherwise.
+    - **(C)** The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government.
+- **(d)** *No payment of rent or usage fees* The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section.
+- **(e)** *Funding*
+  - **(1)** *From Department*
+    - **(A)** *In general* The Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements.
+    - **(B)** *Terms and conditions* The Secretary shall provide funds pursuant to subparagraph (A) under such terms, conditions, and schedule as the Secretary determines appropriate.
+  - **(2)** *From entity* An entity described in subsection (a)(2) that is donating a facility constructed by the entity under the pilot program shall be required, pursuant to a formal agreement entered into under subsection (c), to provide other funds in addition to the amounts provided by the Department under paragraph (1) that are needed to complete construction of the facility.
+- **(f)** *Application* An entity described in subsection (a)(2) that seeks to donate real property and improvements under the pilot program shall submit to the Secretary an application to address needs relating to facilities of the Department, including health care needs, identified in the Construction and Long-Range Capital Plan of the Department, at such time, in such manner, and containing such information as the Secretary may require.
+- **(g)** *Information on donations and related projects*
+  - **(1)** *In general* The Secretary shall include in the budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property.
+  - **(2)** *Elements* Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects.
+- **(h)** *Biennial report of Comptroller General of the United States* Not less frequently than once every two years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+- **(i)** *Termination* The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is five years after the date of the enactment of this Act.
+- **(j)** *Rule of construction* Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section.

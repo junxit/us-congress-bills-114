@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5099
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5099
@@ -32,3 +32,9 @@ CHIP IN for Vets Act of 2016
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Referred to the House Committee on Veterans' Affairs.
+- 2016-05-13 — Referred to the Subcommittee on Health.
+- 2016-09-21 — Committee Consideration and Mark-up Session Held.
+- 2016-09-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 638.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-814.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-814.
