@@ -147,13 +147,13 @@ For the purposes of this Act:
     - **(E)** engage in any promotion or project that would benefit any individual manufacturer.
   - **(2)** *Exceptions* Paragraph (1) does not preclude—
     - **(A)** the development and recommendation of amendments to the order;
-    - **(B)** the communication to appropriate government officials of information relating to the conduct, implementation, or results of research, education, and promotion activities under the order except communications described in paragraph(1)(A); or
+    - **(B)** the communication to appropriate government officials of information relating to the conduct, implementation, or results of research, education, and promotion activities under the order except communications described in paragraph (1)(A); or
     - **(C)** any lawful action designed to market concrete masonry products directly to a foreign government or political subdivision of a foreign government.
-- **(h)** *Periodic evaluation* The order shall require the Board to provide for the independent evaluation of all research, education, and promotion programs or projects undertaken under the order, beginning five years after the date of enactment of this Act and every three years thereafter. The Board shall submit to the Secretary and make available to the public the results of each such evaluation.
+- **(h)** *Periodic evaluation* The order shall require the Board to provide for the independent evaluation of all research, education, and promotion programs or projects undertaken under the order, beginning 5 years after the date of enactment of this Act and every 3 years thereafter. The Board shall submit to the Secretary and make available to the public the results of each such evaluation.
 - **(i)** *Objectives* The Board shall establish annual research, education, and promotion objectives and performance metrics for each fiscal year subject to approval by the Secretary.
-- **(j)** *Biennial report* Every two years the Board shall prepare and make publicly available a comprehensive and detailed report that includes an identification and description of all programs and projects undertaken by the Board during the previous two years as well as those planned for the subsequent two years and detail the allocation or planned allocation of Board resources for each such program or project. Such report shall also include—
+- **(j)** *Biennial report* Every 2 years the Board shall prepare and make publicly available a comprehensive and detailed report that includes an identification and description of all programs and projects undertaken by the Board during the previous 2 years as well as those planned for the subsequent 2 years and detail the allocation or planned allocation of Board resources for each such program or project. Such report shall also include—
   - **(1)** the Board’s overall financial condition;
-  - **(2)** a summary of the amounts obligated or expended during the two preceding fiscal years; and
+  - **(2)** a summary of the amounts obligated or expended during the 2 preceding fiscal years; and
   - **(3)** a description of the extent to which the Board’s objectives were met according to the metrics required under subsection (i).
 - **(k)** *Books and records of persons covered by order*
   - **(1)** *In general* The order shall require that manufacturers shall—
@@ -161,14 +161,14 @@ For the purposes of this Act:
     - **(B)** make the records described in subparagraph (A) available, during normal business hours, for inspection by employees or agents of the Board or the Department.
   - **(2)** *Time requirement* Any record required to be maintained under paragraph (1) shall be maintained for such time period as the Secretary may prescribe.
   - **(3)** *Confidentiality of information*
-    - **(A)** *In general* Except as otherwise provided in this subparagraph (B) trade secrets and commercial or financial information that is privileged or confidential reported to, or otherwise obtained by the Board or the Secretary (or any representative of the Board or the Secretary) under this Act shall not be disclosed by any officers, employees, and agents of the Department or the Board.
+    - **(A)** *In general* Except as otherwise provided in this paragraph, trade secrets and commercial or financial information that is privileged or confidential reported to, or otherwise obtained by the Board or the Secretary (or any representative of the Board or the Secretary) under this Act shall not be disclosed by any officers, employees, and agents of the Department or the Board.
     - **(B)** *Suits and hearings* Information referred to in subparagraph (A) may be disclosed only if—
       - **(i)** the Secretary considers the information relevant; and
       - **(ii)** the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretary or any officer of the Department is a party.
     - **(C)** *General statements and publications* This paragraph does not prohibit—
       - **(i)** the issuance of general statements based on reports or on information relating to a number of persons subject to an order if the statements do not identify the information furnished by any person; or
       - **(ii)** the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
-    - **(D)** *Penalty* Any officer, employee, or agent of the Department of Commerce or any officer, employee, or agent of the Board who willfully violates this subsection shall be fined not more than $1,000 and imprisoned for not more than 1 year, or both.
+    - **(D)** *Penalty* Any officer, employee, or agent of the Department of Commerce or any officer, employee, or agent of the Board who willfully violates this paragraph shall be fined not more than $1,000 and imprisoned for not more than 1 year, or both.
   - **(4)** *Withholding information* This subsection does not authorize the withholding of information from Congress.
 
 ## § 6. Assessments
@@ -288,7 +288,21 @@ The Secretary may issue such regulations as may be necessary to carry out this A
 
 Funds appropriated to carry out this Act may not be used for the payment of the expenses or expenditures of the Board in administering the order.
 
-## § 16. Study and report by the Government Accountability Office
+## § 16. Limitations on obligation of funds
+
+- **(a)** *In general* In each fiscal year of the covered period, the Board may not obligate an amount greater than the sum of—
+  - **(1)** 73 percent of the amount of assessments estimated to be collected under section 6 in such fiscal year;
+  - **(2)** 73 percent of the amount of assessments actually collected under section 6 in the most recent fiscal year for which an audit report has been submitted under section 5(f)(2)(B) as of the beginning of the fiscal year for which the amount that may be obligated is being determined, less the estimate made pursuant to paragraph (1) for such most recent fiscal year; and
+  - **(3)** amounts permitted in preceding fiscal years to be obligated pursuant to this subsection that have not been obligated.
+- **(b)** *Excess amounts deposited in escrow account* Assessments collected under section 6 in excess of the amount permitted to be obligated under subsection (a) in a fiscal year shall be deposited in an escrow account for the duration of the covered period.
+- **(c)** *Treatment of amounts in escrow account* During the covered period, the Board may not obligate, expend, or borrow against amounts required under subsection (b) to be deposited in the escrow account. Any interest earned on such amounts shall be deposited in the escrow account and shall be unavailable for obligation for the duration of the covered period.
+- **(d)** *Release of amounts in escrow account* After the covered period, the Board may withdraw and obligate in any fiscal year an amount in the escrow account that does not exceed 1/5th of the amount in the escrow account on the last day of the covered period.
+- **(e)** *Special rule for estimates for particular fiscal years*
+  - **(1)** *Rule* For purposes of subsection (a)(1), the amount of assessments estimated to be collected under section 6 in a fiscal year specified in paragraph (2) shall be equal to 62 percent of the amount of assessments actually collected under such section in the most recent fiscal year for which an audit report has been submitted under section 5(f)(2)(B) as of the beginning of the fiscal year for which the amount that may be obligated is being determined.
+  - **(2)** *Fiscal years specified* The fiscal years specified in this paragraph are the 9th and 10th fiscal years that begin on or after the date of the enactment of this Act.
+- **(f)** *Covered period defined* In this section, the term “covered period” means the period that begins on the date of the enactment of this Act and ends on the last day of the 11th fiscal year that begins on or after such date of enactment.
+
+## § 17. Study and report by the Government Accountability Office
 
 Not later than 5 years and 8 years after the date of enactment of this Act, the Comptroller General of the United States shall prepare a study and submit to Congress and the Secretary a report examining—
 
@@ -306,6 +320,6 @@ Not later than 5 years and 8 years after the date of enactment of this Act, the 
 - **(12)** the appropriateness of administering the program from within the Office of the Secretary of Commerce and the appropriateness of administering the program from within any division of the Department of Commerce, including whether the Department has the expertise, knowledge, or other capabilities necessary to adequately administer the program; and
 - **(13)** any other topic that the Comptroller General considers appropriate.
 
-## § 17. Study and report by the Department of Commerce
+## § 18. Study and report by the Department of Commerce
 
 Not later than 3 years after the date of enactment of this Act, the Secretary shall prepare a study and submit to Congress a report examining the appropriateness and effectiveness of applying the commodity check-off program model (such as those programs established under subchapter II of chapter 101 of title 7, United States Code) to a nonagricultural industry, taking into account the program established by this Act and any other check-off program involving a nonagricultural industry.

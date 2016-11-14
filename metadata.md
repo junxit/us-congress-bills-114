@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 985
@@ -270,6 +270,10 @@ Concrete Masonry Products Research, Education, and Promotion Act of 2015
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2016-11-14 — [House 114-2-575](votes/house-114-2-0575.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (355–38)
+
 ## Actions
 
 - 2015-02-13 — Introduced in House
@@ -282,3 +286,11 @@ Concrete Masonry Products Research, Education, and Promotion Act of 2015
 - 2016-07-08 — Placed on the Union Calendar, Calendar No. 519.
 - 2016-07-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-671.
 - 2016-07-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-671.
+- 2016-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-11-14 — Considered as unfinished business. (consideration: CR H6132-6133)
+- 2016-11-14 — Considered under suspension of the rules. (consideration: CR H6120-6126)
+- 2016-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 985.
+- 2016-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-14 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2016-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 38 (Roll no. 575). (text: CR H6120-6125)
+- 2016-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 38 (Roll no. 575).(text: CR H6120-6125)
