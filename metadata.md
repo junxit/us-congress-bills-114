@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 546
@@ -50,3 +50,8 @@ RESPONSE Act of 2016
 - 2016-05-10 — Message on Senate action sent to the House.
 - 2016-05-10 — Received in the House.
 - 2016-05-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-09-14 — Committee Consideration and Mark-up Session Held.
+- 2016-09-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 632.
+- 2016-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-808.
+- 2016-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-808.
