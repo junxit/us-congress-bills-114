@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4150
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,4 +19,4 @@ Section 7423(a) of title 38, United States Code, is amended—
 
 - **(1)** by striking “(a) The hours” and inserting “(a)(1) Except as provided in paragraph (2), the hours”; and
 - **(2)** by adding at the end the following new paragraph:
-  > - **(2)** The Secretary may modify the hours of employment for a physician or physician assistant appointed in the Administration under any provision of this chapter on a full-time basis to be more than or less than 80 hours in a biweekly pay period if the total hours of employment for such employee in a calendar year does not exceed 2,080 hours.
+  > - **(2)** The Secretary may modify the hours of employment for a physician or physician assistant appointed in the Administration under any provision of this chapter on a full-time basis to be more than or less than 80 hours in a biweekly pay period if the total hours of employment for such employee in a calendar year does not exceed 2,080 hours. No physician or physician assistant may accrue overtime by reason of modified hours of employment authorized under this paragraph.
