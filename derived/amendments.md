@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2713
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 297t
 
-> Section 851(b)(1)(A)(iv) of the Public Health Service Act (42 U.S.C. 297t) is amended by striking “and nurse anesthetists” and inserting “nurse anesthetists, and clinical nurse specialists”.
+> Section 851(b)(1)(A)(iv) of the Public Health Service Act (42 U.S.C. 297t(b)(1)(A)(iv)) is amended by striking “and nurse anesthetists” and inserting “nurse anesthetists, and clinical nurse specialists”.
 
 | | |
 |---|---|
@@ -35,39 +35,39 @@ to guess them.
 
 ### 42 U.S.C. § 297n
 
-> in subsection (i)(1) of section 846 (42 U.S.C. 297n; loan repayment and scholarship programs), by striking “2003 through 2007” and inserting “2016 through 2020”;
+> in subsection (i)(1) of section 846 (42 U.S.C. 297n; loan repayment and scholarship programs), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$83,135,000 for each of fiscal years 2017 through 2021”;
 
 | | |
 |---|---|
-| Removed | `2003 through 2007` |
-| Inserted | `2016 through 2020` |
+| Removed | `such sums as may be necessary for each of fiscal years 2003 through 2007` |
+| Inserted | `$83,135,000 for each of fiscal years 2017 through 2021` |
 
 ### 42 U.S.C. § 297n-1
 
-> in subsection (f) of section 846A (42 U.S.C. 297n–1; nurse faculty loan program), by striking “2010 through 2014” and inserting “2016 through 2020”;
+> in subsection (f) of section 846A (42 U.S.C. 297n–1; nurse faculty loan program), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$26,500,000 for each of fiscal years 2017 through 2021”;
 
 | | |
 |---|---|
-| Removed | `2010 through 2014` |
-| Inserted | `2016 through 2020` |
+| Removed | `such sums as may be necessary for each of fiscal years 2010 through 2014` |
+| Inserted | `$26,500,000 for each of fiscal years 2017 through 2021` |
 
 ### 42 U.S.C. § 298
 
-> in subsection (e) of section 865 (42 U.S.C. 298; comprehensive geriatric education), by striking “2010 through 2014” and inserting “2016 through 2020”; and
+> in subsection (e) of section 865 (42 U.S.C. 298; comprehensive geriatric education), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$38,737,000 for each of fiscal years 2017 through 2021”; and
 
 | | |
 |---|---|
-| Removed | `2010 through 2014` |
-| Inserted | `2016 through 2020` |
+| Removed | `such sums as may be necessary for each of fiscal years 2010 through 2014` |
+| Inserted | `$38,737,000 for each of fiscal years 2017 through 2021` |
 
 ### 42 U.S.C. § 298d
 
-> in section 871 (42 U.S.C. 298d; funding for carrying out parts B, C, and D), by striking “$338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016” and inserting “such sums as may be necessary for fiscal years 2016 through 2020”.
+> in section 871 (42 U.S.C. 298d; funding for carrying out parts B, C, and D), by striking “$338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016” and inserting “$119,837,000 for each of fiscal years 2017 through 2021”.
 
 | | |
 |---|---|
 | Removed | `$338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016` |
-| Inserted | `such sums as may be necessary for fiscal years 2016 through 2020` |
+| Inserted | `$119,837,000 for each of fiscal years 2017 through 2021` |
 
 ### 42 U.S.C. § 296p
 
