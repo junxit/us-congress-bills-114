@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4757
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4757
@@ -25,3 +25,12 @@ To expand the eligibility for headstones, markers, and medallions furnished by t
 - 2016-03-16 — Introduced in House
 - 2016-03-16 — Introduced in House
 - 2016-03-16 — Referred to the House Committee on Veterans' Affairs.
+- 2016-04-11 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2016-04-13 — Subcommittee Hearings Held.
+- 2016-05-11 — Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .
+- 2016-05-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-09-21 — Committee Consideration and Mark-up Session Held.
+- 2016-09-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-11-14 — Placed on the Union Calendar, Calendar No. 636.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-812.
+- 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-812.

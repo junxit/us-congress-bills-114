@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4757
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 112(a) of title 38, United States Code, is amended by inserting after “conditions,” the following: “persons eligible for burial in a national cemetery by reason of paragraph (2), (3), or (7) of section 2402(a) of this title,”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (a) of section 2308 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2308 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2308 of such title is amended in the section heading by adding at the end the following: “or a veterans’ cemetery”. | the bill names no machine-readable US Code section |
+| — | replace | The table of sections at the beginning of chapter 23 of such title is amended by striking the item relating to section 2308 and inserting the following new item: | the bill names no machine-readable US Code section |
