@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1209
@@ -133,3 +133,4 @@ Improving Access to Maternity Care Act
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-802.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-802.
 - 2016-11-14 — The title of the measure was amended. Agreed to without objection.
+- 2016-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

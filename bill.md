@@ -2,12 +2,12 @@
 legis-num: H.R. 1209
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1209
 
-> To amend the Public Health Service Act to provide for the designation of maternity care health professional shortage areas.
+> To amend the Public Health Service Act to distribute maternity care health professionals to health professional shortage areas identified as in need of maternity care health services.
 
 ## § 1. Short title
 
