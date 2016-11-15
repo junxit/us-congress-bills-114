@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6094
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6094
@@ -121,3 +121,4 @@ Regulatory Relief for Small Businesses, Schools, and Nonprofits Act
 - 2016-09-28 — Sponsor introductory remarks on measure. (CR H6059)
 - 2016-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6069)
 - 2016-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 662.
