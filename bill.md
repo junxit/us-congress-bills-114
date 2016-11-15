@@ -16,8 +16,15 @@ This Act may be cited as the “United States-Israel Advanced Research Partnersh
 ## § 2. Cooperative homeland security research and antiterrorism programs relating to cybersecurity
 
 - **(a)** *Homeland Security Act of 2002* Section 317 of the Homeland Security Act of 2002 (6 U.S.C. 195c) is amended—
-  - **(1)** by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and
-  - **(2)** by inserting after subsection (f) the following new subsection:
+  - **(1)** in subsection (e)—
+    - **(A)** in paragraph (1), by striking “and” after the semicolon;
+    - **(B)** in paragraph (2), by striking the period at the end and inserting a semicolon; and
+    - **(C)** by inserting after paragraph (2) the following new paragraphs:
+      > - **(3)** for international cooperative activities identified in the previous reporting period, a status update on the progress of such activities, including whether goals were realized, explaining any lessons learned, and evaluating overall success; and
+      > - **(4)** a discussion of obstacles encountered in the course of forming, executing, or implementing agreements for international cooperative activities, including administrative, legal, or diplomatic challenges or resource constraints.
+
+  - **(2)** by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and
+  - **(3)** by inserting after subsection (f) the following new subsection:
     > - **(g)** *Cybersecurity* As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Department of State and appropriate Federal officials, may enter into cooperative research activities with Israel to strengthen preparedness against cyber threats and enhance capabilities in cybersecurity.
 
 - **(b)** *United States-Israel Strategic Partnership Act of 2014* Subsection (c) of section 7 of the United States-Israel Strategic Partnership Act of 2014 (Public Law 113–296; 22 U.S.C. 8606) is amended—
@@ -27,3 +34,7 @@ This Act may be cited as the “United States-Israel Advanced Research Partnersh
   - **(4)** in paragraph (3), by striking the period at the end and inserting “; and”; and
   - **(5)** by adding at the end the following new paragraph:
     > - **(4)** cybersecurity.
+
+## § 3. Prohibition on additional funding
+
+No additional funds are authorized to be appropriated to carry out this Act or the amendments made by this Act.
