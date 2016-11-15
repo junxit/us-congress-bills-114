@@ -1,7 +1,7 @@
 ---
 measure: S. 3464
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 

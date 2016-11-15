@@ -1,7 +1,7 @@
 ---
 measure: S. 3464
 congress: 114
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 3464
@@ -16,14 +16,16 @@ Overtime Reform and Review Act
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
 
 ## Actions
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Sponsor introductory remarks on measure: CR S6269-6270)
+- 2016-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 661.
