@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 114
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2669
@@ -77,3 +77,4 @@ Anti-Spoofing Act of 2016
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-806.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-806.
 - 2016-11-14 — The title of the measure was amended. Agreed to without objection.
+- 2016-11-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

@@ -2,12 +2,12 @@
 legis-num: H.R. 2669
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2669
 
-> To amend the Communications Act of 1934 to expand and clarify the prohibition on provision of inaccurate caller identification information, and for other purposes.
+> Amend the Communications Act of 1934 to expand and clarify the prohibition on provision of misleading or inaccurate caller identification information, and for other purposes.
 
 ## § 1. Short title
 
@@ -25,7 +25,7 @@ This Act may be cited as the “Anti-Spoofing Act of 2016”.
       >   - **(i)** means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
       >   - **(ii)** includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
       >   - **(iii)** does not include—
-      >     - **(I)** a real-time, 2-way voice or video communication; or
+      >     - **(I)** a real-time, two-way voice or video communication; or
       >     - **(II)** a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
       > - **(D)** *Text messaging service* The term text messaging service means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
       > - **(E)** *Voice service* The term voice service—
@@ -37,7 +37,7 @@ This Act may be cited as the “Anti-Spoofing Act of 2016”.
     - **(A)** *In general* Section 227(e)(3)(A) of the Communications Act of 1934 (47 U.S.C. 227(e)(3)(A)) is amended by striking “Not later than 6 months after the date of enactment of the Truth in Caller ID Act of 2009, the Commission” and inserting “The Commission”.
     - **(B)** *Deadline* The Commission shall prescribe regulations to implement the amendments made by this subsection not later than 18 months after the date of enactment of this Act.
   - **(5)** *Effective date* The amendments made by this subsection shall take effect on the date that is 6 months after the date on which the Commission prescribes regulations under paragraph (4).
-- **(b)** *Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information*
+- **(b)** *Consumer education materials on how To avoid scams that rely upon misleading or inaccurate caller identification information*
   - **(1)** *Development of materials* Not later than 1 year after the date of enactment of this Act, the Commission, in coordination with the Federal Trade Commission, shall develop consumer education materials that provide information about—
     - **(A)** ways for consumers to identify scams and other fraudulent activity that rely upon the use of misleading or inaccurate caller identification information; and
     - **(B)** existing technologies, if any, that a consumer can use to protect against such scams and other fraudulent activity.
