@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 985
@@ -294,3 +294,4 @@ Concrete Masonry Products Research, Education, and Promotion Act of 2015
 - 2016-11-14 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2016-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 38 (Roll no. 575). (text: CR H6120-6125)
 - 2016-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 38 (Roll no. 575).(text: CR H6120-6125)
+- 2016-11-15 — Received in the Senate.
