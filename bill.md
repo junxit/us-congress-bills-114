@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 6319
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6319
+
+> To absolve debts resulting from the payment of certain recruitment and reenlistment bonuses to members of the California National Guard, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “National Guard Pay Integrity Act”.
+
+## § 2. Limitations on recoupment of certain recruiting and reenlistment bonuses paid to members of the California National Guard
+
+- **(a)** *In general* Notwithstanding any other provision of law, except as provided in subsection (a), the Secretary concerned (as such term is defined in section 101(5) of title 37, United States Code) shall—
+  - **(1)** absolve any debt resulting from any bonus, incentive pay, or similar benefit (or of any interest associated with such a bonus, incentive pay, or similar benefit) that was paid to a member of the California National Guard for recruitment or reenlistment during fiscal years 2004 through 2010; and
+  - **(2)** refund to any person who has repaid to the United States all or part of any such bonus, incentive pay, or similar benefit (including any interest accrued on such bonus, incentive pay, or similar benefit) the amount such person repaid to the United States.
+- **(b)** *Exception* Subsection (a) shall not apply with respect to a debt resulting from any bonus, incentive pay, or similar benefit that the Secretary concerned determines was paid under circumstances involving fraud or misrepresentation on the part of the member of the California National Guard to whom it was paid.
+- **(c)** *Student loan payments* In this section, the term “similar benefit” includes any student loan payment or repayment.
