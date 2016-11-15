@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5843
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5843
@@ -29,3 +29,9 @@ United States-Israel Cybersecurity Cooperation Enhancement Act of 2016
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Referred to the House Committee on Homeland Security.
+- 2016-08-03 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2016-09-13 — Committee Consideration and Mark-up Session Held.
+- 2016-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-11-15 — Placed on the Union Calendar, Calendar No. 648.
+- 2016-11-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-826.
+- 2016-11-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-826.

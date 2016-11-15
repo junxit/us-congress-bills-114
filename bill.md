@@ -16,13 +16,13 @@ This Act may be cited as the “United States-Israel Cybersecurity Cooperation E
 ## § 2. United States-Israel cybersecurity cooperation
 
 - **(a)** *Grant program*
-  - **(1)** *Establishment* The Secretary, in accordance with the agreement entitled the “Agreement between the Government of the United States of America and the Government of the State of Israel on Cooperation in Science and Technology for Homeland Security Matters”, dated May 29, 2008, and the requirements specified in paragraph (2), shall establish a grant program at the Department to support—
+  - **(1)** *Establishment* The Secretary, in accordance with the agreement entitled the “Agreement between the Government of the United States of America and the Government of the State of Israel on Cooperation in Science and Technology for Homeland Security Matters”, dated May 29, 2008 (or successor agreement), and the requirements specified in paragraph (2), shall establish a grant program at the Department to support—
     - **(A)** cybersecurity research and development; and
     - **(B)** demonstration and commercialization of cybersecurity technology.
   - **(2)** *Requirements*
     - **(A)** *Applicability* Notwithstanding any other provision of law, in carrying out a research, development, demonstration, or commercial application program or activity that is authorized under this section, the Secretary shall require cost sharing in accordance with this paragraph.
     - **(B)** *Research and development*
-      - **(i)** *In general* Except as provided in clause (ii), the Secretary shall require not less than 50 percent of the cost of a research, development, demonstration, or commercialization application program or activity described in subparagraph (A) to be provided by a non-Federal source.
+      - **(i)** *In general* Except as provided in clause (ii), the Secretary shall require not less than 50 percent of the cost of a research, development, demonstration, or commercial application program or activity described in subparagraph (A) to be provided by a non-Federal source.
       - **(ii)** *Reduction* The Secretary may reduce or eliminate, on a case-by-case basis, the percentage requirement specified in clause (i) if the Secretary determines that such reduction or elimination is necessary and appropriate.
     - **(C)** *Merit review* In carrying out a research, development, demonstration, or commercial application program or activity that is authorized under this section, awards shall be made only after an impartial review of the scientific and technical merit of the proposals for such awards has been carried out by or for the Department.
     - **(D)** *Review processes* In carrying out a review under subparagraph (C), the Secretary may use merit review processes developed under section 302(14) of the Homeland Security Act of 2002 (6 U.S.C. 182(14)).
@@ -48,11 +48,11 @@ This Act may be cited as the “United States-Israel Cybersecurity Cooperation E
     - **(A)** without further appropriation; and
     - **(B)** without fiscal year limitation.
   - **(7)** *Report* Not later than 180 days after the date of completion of a project for which a grant is provided under this subsection, the grant recipient shall submit to the Secretary a report that contains—
-    - **(A)** a description of the method by which such recipient used the grant funds; and
+    - **(A)** a description of how the grant funds were used by the recipient; and
     - **(B)** an evaluation of the level of success of each project funded by the grant.
   - **(8)** *Classification* Grants shall be awarded under this subsection only for projects that are considered to be unclassified by both the United States and Israel.
 - **(b)** *Termination* The grant program and the advisory committee established under this section terminate on the date that is seven years after the date of the enactment of this Act.
-- **(c)** *Authorization of appropriations* The Secretary shall use amounts authorized to be appropriated under section 308(b)(2)(E) of the Homeland Security Act of 2002 (6 U.S.C. 188(b)(2)(E)) to carry out this section.
+- **(c)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this Act.
 - **(d)** *Definitions* In this section—
   - **(1)** the term “cybersecurity research” means research, including social science research, into ways to identify, protect against, detect, respond to, and recover from cybersecurity threats;
   - **(2)** the term “cybersecurity technology” means technology intended to identify, protect against, detect, respond to, and recover from cybersecurity threats;
