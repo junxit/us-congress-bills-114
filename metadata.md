@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4365
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4365
@@ -184,3 +184,4 @@ Protecting Patient Access to Emergency Medications Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 628.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-804, Part I.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-804, Part I.
+- 2016-11-15 — Received in the Senate.
