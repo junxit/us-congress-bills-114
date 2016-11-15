@@ -1,7 +1,7 @@
 ---
 measure: S. 1490
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1490
@@ -16,9 +16,13 @@ Seniors Fraud Prevention Act of 2015
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Seniors Fraud Prevention Act of 2015
 
 - 2015-06-03 — Introduced in Senate
 - 2015-06-03 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-06-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2016-11-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-370.
+- 2016-11-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-370.
+- 2016-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.
