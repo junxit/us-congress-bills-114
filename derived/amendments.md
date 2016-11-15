@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5732
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 22 U.S.C. § 8791
+
+> in section 706 (as so redesignated), by striking “or 704” and inserting “704, or 705”.
+
+| | |
+|---|---|
+| Removed | `or 704` |
+| Inserted | `704, or 705` |
 
 ## Stated, not applied
 
@@ -36,3 +47,5 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8792` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8792` | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2778` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8791` | redesignate | by redesignating sections 705 and 706 as sections 706 and 707, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8791` | insert | by inserting after section 704 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
