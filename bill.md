@@ -1,0 +1,27 @@
+---
+legis-num: H. RES. 927
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 927
+
+> Expressing support for the designation of the third Wednesday of November as “Utility Scam Awareness Day”.
+
+## Preamble
+
+- Whereas reliable electricity, natural gas, and water service is important to the health, safety, and well-being of all Americans;
+- Whereas such utilities play a valuable role in supporting the economy and security of the United States;
+- Whereas customers of such utilities continue to be victimized by scammers impersonating utility company officials;
+- Whereas many scammers falsely threaten to disconnect utility services if same-day payment is not received;
+- Whereas scammer tactics have become more sophisticated over the years, including leveraging spoofing technology to display a utility company’s name on a customer’s caller ID and using a recording of a company’s upfront telephone menu message;
+- Whereas the utility industry is raising awareness of scammer tactics and working with local, State, and Federal law enforcement agencies to identify, and prosecute, the criminals perpetrating the scam;
+- Whereas a national day to create awareness of scammers impersonating utility industry companies will help protect customers; and
+- Whereas the third Wednesday of November would be an appropriate date to designate as “Utility Scam Awareness Day”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the designation of “Utility Scam Awareness Day”;
+- **(2)** encourages the people of the United States to observe “Utility Scam Awareness Day”; and
+- **(3)** encourages utilities to use this day to raise awareness and knowledge amongst themselves and the general public regarding the threat posed by scams against utility customers, and the techniques and tools used to identify and avoid them.
