@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4665
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4665
@@ -62,3 +62,12 @@ Outdoor Recreation Jobs and Economic Impact Act of 2016
 - 2016-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6126)
 - 2016-11-15 — Received in the Senate.
 - 2016-11-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 667.
+- 2016-11-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6518)
+- 2016-11-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6518)
+- 2016-11-29 — Message on Senate action sent to the House.
+- 2016-12-01 — Presented to President.
+- 2016-12-01 — Presented to President.
+- 2016-12-08 — Became Public Law No: 114-249.
+- 2016-12-08 — Became Public Law No: 114-249.
+- 2016-12-08 — Signed by President.
+- 2016-12-08 — Signed by President.
