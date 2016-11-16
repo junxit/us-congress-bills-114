@@ -1,7 +1,7 @@
 ---
 measure: S. 1915
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1915
@@ -16,7 +16,7 @@ First Responder Anthrax Preparedness Act
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 
-## Cosponsors (18)
+## Cosponsors (19)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -36,6 +36,7 @@ First Responder Anthrax Preparedness Act
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (1)
 
@@ -58,3 +59,17 @@ First Responder Anthrax Preparedness Act
 - 2016-11-16 — Senate amendment proposed (on the floor): Amendment SA 5109 proposed by Senator McConnell for Senator Ayotte.(consideration: CR S6419-6420; text: CR S6419-6420)
 - 2016-11-16 — Senate amendment submitted
 - 2016-11-16 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S6419)
+- 2016-11-17 — Held at the desk.
+- 2016-11-17 — Message on Senate action sent to the House.
+- 2016-11-17 — Received in the House.
+- 2016-11-29 — Considered by unanimous consent. (consideration: CR H6355)
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mr. King (NY) asked unanimous consent to take from the Speaker's table and consider.
+- 2016-11-29 — On passage Passed without objection. (text of measure as passed: CR H6355)
+- 2016-11-29 — Passed/agreed to in House: On passage Passed without objection.(text of measure as passed: CR H6355)
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-268.
+- 2016-12-14 — Became Public Law No: 114-268.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
