@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 608
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 608
@@ -16,7 +16,7 @@ A resolution designating the week of September 17 through September 24, 2016, as
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
@@ -43,6 +43,7 @@ A resolution designating the week of September 17 through September 24, 2016, as
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -52,3 +53,7 @@ A resolution designating the week of September 17 through September 24, 2016, as
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6280)
+- 2016-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2016-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2016-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6421)
+- 2016-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6421)
