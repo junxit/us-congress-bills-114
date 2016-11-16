@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1808
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -20,8 +20,10 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
   - **(B)** the Committee on Appropriations of the Senate;
-  - **(C)** the Committee on Homeland Security of the House of Representatives; and
-  - **(D)** the Committee on Appropriations of the House of Representatives.
+  - **(C)** the Committee on the Judiciary of the Senate;
+  - **(D)** the Committee on Homeland Security of the House of Representatives;
+  - **(E)** the Committee on Appropriations of the House of Representatives; and
+  - **(F)** the Committee on the Judiciary of the House of Representatives.
 - **(2)** *Northern border* The term Northern Border means the land and maritime borders between the United States and Canada.
 
 ## § 3. Northern border threat analysis
@@ -30,17 +32,16 @@ In this Act:
   - **(1)** current and potential terrorism and criminal threats posed by individuals and organized groups seeking—
     - **(A)** to enter the United States through the Northern Border; or
     - **(B)** to exploit border vulnerabilities on the Northern Border;
-  - **(2)** improvements needed at ports of entry along the Northern Border—
-    - **(A)** to prevent terrorists and instruments of terror from entering the United States; and
-    - **(B)** to reduce criminal activity, as measured by the total flow of illegal goods and illicit drugs, related to the Northern Border;
-  - **(3)** improvements needed between ports of entry along the Northern Border, including the maritime borders of the Great Lakes—
-    - **(A)** to prevent terrorists and instruments of terror from entering the United States; and
-    - **(B)** to reduce criminal activity related to the Northern Border; and
-  - **(4)** vulnerabilities in law, policy, cooperation between State, tribal, and local law enforcement, international agreements, or tribal agreements that hinder effective and efficient border security, counter-terrorism, anti-human trafficking efforts, and the flow of legitimate trade along the Northern Border.
+  - **(2)** improvements needed at and between ports of entry along the Northern Border—
+    - **(A)** to prevent terrorists and instruments of terrorism from entering the United States; and
+    - **(B)** to reduce criminal activity, as measured by the total flow of illegal goods, illicit drugs, and smuggled and trafficked persons moved in either direction across to the Northern Border;
+  - **(3)** gaps in law, policy, cooperation between State, tribal, and local law enforcement, international agreements, or tribal agreements that hinder effective and efficient border security, counter-terrorism, anti-human smuggling and trafficking efforts, and the flow of legitimate trade along the Northern Border; and
+  - **(4)** whether additional U.S. Customs and Border Protection preclearance and preinspection operations at ports of entry along the Northern Border could help prevent terrorists and instruments of terror from entering the United States.
 - **(b)** *Analysis requirements* For the threat analysis required under subsection (a), the Secretary of Homeland Security shall consider and examine—
   - **(1)** technology needs and challenges;
   - **(2)** personnel needs and challenges;
   - **(3)** the role of State, tribal, and local law enforcement in general border security activities;
-  - **(4)** the need for cooperation among Federal, State, tribal, local, and Canadian law enforcement entities relating to border security; and
-  - **(5)** the geographic challenges of the Northern Border.
+  - **(4)** the need for cooperation among Federal, State, tribal, local, and Canadian law enforcement entities relating to border security;
+  - **(5)** the terrain, population density, and climate along the Northern Border; and
+  - **(6)** the needs and challenges of Department facilities, including the physical approaches to such facilities.
 - **(c)** *Classified threat analysis* To the extent possible, the Secretary of Homeland Security shall submit the threat analysis required under subsection (a) in unclassified form. The Secretary may submit a portion of the threat analysis in classified form if the Secretary determines that such form is appropriate for that portion.
