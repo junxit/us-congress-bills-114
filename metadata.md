@@ -1,7 +1,7 @@
 ---
 measure: S. 2417
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2417
@@ -16,9 +16,10 @@ Tribal Veterans Health Care Enhancement Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hoeven, John [R-ND] (H001061)
 
 ## Committees (1)
 
@@ -28,3 +29,8 @@ Tribal Veterans Health Care Enhancement Act
 
 - 2015-12-17 — Introduced in Senate
 - 2015-12-17 — Read twice and referred to the Committee on Indian Affairs.
+- 2016-05-11 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-537.
+- 2016-06-08 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-11-16 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-376.
+- 2016-11-16 — Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-376.
+- 2016-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.
