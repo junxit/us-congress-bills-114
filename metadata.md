@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6297
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6297
@@ -58,3 +58,4 @@ Iran Sanctions Extension Act
 - 2016-11-15 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2016-11-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 577). (text: CR H6202)
 - 2016-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 577).(text: CR H6202)
+- 2016-11-16 — Received in the Senate.
