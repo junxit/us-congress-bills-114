@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2566
 congress: 114
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2566
@@ -60,3 +60,5 @@ Improving Rural Call Quality and Reliability Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 629.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-805.
 - 2016-11-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-805.
+- 2016-11-15 — Received in the Senate.
+- 2016-11-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 668.

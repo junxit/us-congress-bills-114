@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2566
 congress: 114
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
