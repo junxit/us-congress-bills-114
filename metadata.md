@@ -1,7 +1,7 @@
 ---
 measure: S. 1915
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1915
@@ -16,7 +16,7 @@ First Responder Anthrax Preparedness Act
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -35,6 +35,7 @@ First Responder Anthrax Preparedness Act
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (1)
 
@@ -48,3 +49,12 @@ First Responder Anthrax Preparedness Act
 - 2016-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-251.
 - 2016-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-251.
 - 2016-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
+- 2016-11-16 — Amendment SA 5109 agreed to in Senate by Unanimous Consent.
+- 2016-11-16 — Amendment SA 5109 proposed by Senator McConnell for Senator Ayotte. (consideration: CR S6419-6420; text: CR S6419-6420) In the nature of a substitute.
+- 2016-11-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6419-6421; text of measure as reported in Senate: CR S6419)
+- 2016-11-16 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S6420-6421)
+- 2016-11-16 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S6420-6421)
+- 2016-11-16 — Senate amendment agreed to: Amendment SA 5109 agreed to in Senate by Unanimous Consent.
+- 2016-11-16 — Senate amendment proposed (on the floor): Amendment SA 5109 proposed by Senator McConnell for Senator Ayotte.(consideration: CR S6419-6420; text: CR S6419-6420)
+- 2016-11-16 — Senate amendment submitted
+- 2016-11-16 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S6419)
