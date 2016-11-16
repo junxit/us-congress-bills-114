@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5732
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5732
@@ -130,3 +130,4 @@ Caesar Syria Civilian Protection Act of 2016
 - 2016-11-15 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6192-6197)
 - 2016-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6192-6197)
+- 2016-11-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
