@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4887
@@ -46,3 +46,7 @@ To designate the facility of the United States Postal Service located at 23323 S
 - 2016-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5672)
 - 2016-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5672)
 - 2016-09-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
