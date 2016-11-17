@@ -1,0 +1,28 @@
+---
+legis-num: S. 3480
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3480
+
+> To make an alien who applies for naturalization using a false identity ineligible for citizenship and to require the completion of the Historical Fingerprint Enrollment Program and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Secure Citizenship Act of 2016”.
+
+## § 2. Prohibition on citizenship for aliens applying using a false name
+
+Section 316(a) of the Immigration and Nationality Act (8 U.S.C. 1427(a)) is amended—
+
+- **(1)** by striking “and” before “(3)”; and
+- **(2)** by striking the period at the end and inserting “, and (4) provides on the person's application for naturalization the person's current legal name and date of birth and all other names used since birth.”.
+
+## § 3. Completion of the Historical Fingerprint Enrollment Program
+
+Not later than May 31, 2017, the Secretary of Homeland Security shall—
+
+- **(1)** complete the digitization of fingerprints of aliens who were fugitives, convicted criminals, subject to deportation orders, or had other derogatory information dating back to 1990 under the project known as the Historical Fingerprint Enrollment Program; and
+- **(2)** store such digitized fingerprints along with relating biographical data in the Automated Biometric Identification System (IDENT) maintained by the Department of Homeland Security.
