@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3471
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3471
@@ -16,7 +16,7 @@ Veterans Mobility Safety Act of 2016
 
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 
-## Cosponsors (51)
+## Cosponsors (52)
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
@@ -69,6 +69,7 @@ Veterans Mobility Safety Act of 2016
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Frankel, Lois [D-FL-22] (F000462)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (2)
 
@@ -96,3 +97,13 @@ Veterans Mobility Safety Act of 2016
 - 2016-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5277-5278)
 - 2016-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5277-5278)
 - 2016-09-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-11-17 — Amendment SA 5111 agreed to in Senate by Unanimous Consent.
+- 2016-11-17 — Amendment SA 5111 proposed by Senator McConnell for Senator Moran. (consideration: CR S6493) In the nature of a substitute.
+- 2016-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6493)
+- 2016-11-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-11-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2016-11-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2016-11-17 — Senate amendment agreed to: Amendment SA 5111 agreed to in Senate by Unanimous Consent.
+- 2016-11-17 — Senate amendment proposed (on the floor): Amendment SA 5111 proposed by Senator McConnell for Senator Moran.(consideration: CR S6493)
+- 2016-11-17 — Senate amendment submitted

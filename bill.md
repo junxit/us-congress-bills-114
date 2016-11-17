@@ -2,12 +2,14 @@
 legis-num: H.R. 3471
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3471
 
-> To amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.
+That the bill from the House of Representatives (H.R. 3471) entitled “An Act to amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -28,27 +30,35 @@ Section 3903(b) of title 38, United States Code, is amended—
   - **(1)** The Department of Veterans Affairs-wide management of the automobile adaptive equipment program.
   - **(2)** The development of standards for safety and quality of equipment and installation of equipment through the automobile adaptive equipment program, including with respect to the defined differentiations in levels of modification complexity.
   - **(3)** The consistent application of standards for safety and quality of both equipment and installation throughout the Department.
-  - **(4)** The certification of a provider by a third party organization or manufacturer if the Secretary designates the quality standards of such organization or manufacturer as meeting or exceeding the standards developed under this section.
-  - **(5)** The education and training of personnel of the Department who administer the automobile adaptive equipment program.
-  - **(6)** The compliance of the provider with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) when furnishing automobile adaptive equipment at the facility of the provider.
-  - **(7)** The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice.
-- **(c)** *Updates* Not later than 1 year after the date of the enactment of this Act, the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a). Not less frequently than once every 6 years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
-- **(d)** *Consultation* The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (c), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment.
-- **(e)** *Conflicts* In developing and implementing the policy under subsection (a), the Secretary shall—
+  - **(4)** In accordance with subsection (c)(1), the certification of a provider by a manufacturer if the Secretary designates the quality standards of such manufacturer as meeting or exceeding the standards developed under this section.
+  - **(5)** In accordance with subsection (c)(2), the certification of a provider by a third party, nonprofit organization if the Secretary designates the quality standards of such organization as meeting or exceeding the standards developed under this section.
+  - **(6)** The education and training of personnel of the Department who administer the automobile adaptive equipment program.
+  - **(7)** The compliance of the provider with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) when furnishing automobile adaptive equipment at the facility of the provider.
+  - **(8)** The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice, including standards that ensure such receipt and notification to veterans of the availability of such receipt.
+- **(c)** *Certification of manufacturers and third party, nonprofit organizations*
+  - **(1)** *Certification of manufacturers* The Secretary shall approve a manufacturer as a certifying manufacturer for purposes of subsection (b)(4), if the manufacturer demonstrates that its certification standards meet or exceed the quality standards developed under this section.
+  - **(2)** *Certification of third party, nonprofit organizations*
+    - **(A)** *In general* The Secretary may approve two or more private, nonprofit organizations as third party, nonprofit certifying organizations for purposes of subsection (b)(5).
+    - **(B)** *Limitation* If at any time there is only one third party, nonprofit certifying organization approved by the Secretary for purposes of subsection (b)(5), such organization shall not be permitted to provide certifications under such subsection until such time as the Secretary approves a second third party, nonprofit certifying organization for purposes of such subsection.
+- **(d)** *Updates*
+  - **(1)** *Initial updates* Not later than 1 year after the date of the enactment of this Act, the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a).
+  - **(2)** *Subsequent updates* Not less frequently than once every 6 years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
+- **(e)** *Consultation* The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (d), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment.
+- **(f)** *Conflicts* In developing and implementing the policy under subsection (a), the Secretary shall—
   - **(1)** minimize the possibility of conflicts of interest, to the extent practicable; and
-  - **(2)** establish procedures that ensure against the use of a certifying entity referred to in subsection (b)(4) that has a financial conflict of interest regarding the certification of an eligible provider.
-- **(f)** *Biennial report*
-  - **(1)** *In general* Not later than 1 year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (c), and biennially thereafter through 2022, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the implementation and facility compliance with the policy developed under subsection (a).
+  - **(2)** establish procedures that ensure against the use of a certifying organization referred to in subsection (b)(5) that has a financial conflict of interest regarding the certification of an eligible provider.
+- **(g)** *Biennial report*
+  - **(1)** *In general* Not later than 1 year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (d), and not less frequently than once every other year thereafter through 2022, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation and facility compliance with the policy developed under subsection (a).
   - **(2)** *Contents* The report required by paragraph (1) shall include the following:
-    - **(A)** A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (c).
+    - **(A)** A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (d).
     - **(B)** A description of the performance measures used to determine the effectiveness of such policy in ensuring the safety of veterans enrolled in the automobile adaptive equipment program.
     - **(C)** An assessment of safety issues due to improper installations based on a survey of recipients of adaptive equipment from the Department.
     - **(D)** An assessment of the adequacy of the adaptive equipment services of the Department based on a survey of recipients of adaptive equipment from the Department.
     - **(E)** An assessment of the training provided to the personnel of the Department with respect to administering the program.
     - **(F)** An assessment of the certified providers of the Department of adaptive equipment with respect to meeting the minimum standards developed under subsection (b)(2).
-- **(g)** *Definitions* In this section:
-  - **(1)** The term “automobile adaptive equipment program” means the program administered by the Secretary of Veterans Affairs pursuant to chapter 39 of title 38, United States Code.
-  - **(2)** The term “veterans service organization” means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.
+- **(h)** *Definitions* In this section:
+  - **(1)** *Automobile adaptive equipment program* The term automobile adaptive equipment program means the program administered by the Secretary of Veterans Affairs pursuant to chapter 39 of title 38, United States Code.
+  - **(2)** *Veterans service organization* The term veterans service organization means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.
 
 ## § 4. Appointment of licensed hearing aid specialists in Veterans Health Administration
 
