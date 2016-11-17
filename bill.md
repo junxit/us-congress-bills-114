@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 6379
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6379
+
+> For the relief of Lance N. Armstrong.
+
+## § 1. Eligibility for air traffic control position
+
+If the Administrator of the Federal Aviation Administration receives, on or before December 31, 2017, an application submitted by Lance N. Armstrong of Cortland, Illinois, for the position of air traffic controller, the Administrator, with respect to that application, shall—
+
+- **(1)** consider Lance N. Armstrong to be a Pool 1 applicant, as described in section 44506(f)(1)(B)(ii) of title 49, United States Code; and
+- **(2)** waive any maximum age restriction that would otherwise disqualify Lance N. Armstrong from the position.
