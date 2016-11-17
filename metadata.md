@@ -1,7 +1,7 @@
 ---
 measure: S. 3395
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3395
@@ -28,3 +28,7 @@ Prescribed Burn Approval Act of 2016
 
 - 2016-09-27 — Introduced in Senate
 - 2016-09-27 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2016-11-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S6493)
+- 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6493)
+- 2016-11-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S6493)
+- 2016-11-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S6493)
