@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3218
@@ -89,3 +89,7 @@ Designate the facility of the United States Postal Service located at 1221 State
 - 2016-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2928)
 - 2016-05-23 — The title of the measure was amended. Agreed to without objection.
 - 2016-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.
