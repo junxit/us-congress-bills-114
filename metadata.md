@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 604
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 604
@@ -24,3 +24,7 @@ A resolution expressing support for the designation of November 2016 as "Nationa
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6278-6279)
+- 2016-11-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6495)
+- 2016-11-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6495)
