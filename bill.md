@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1869
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Cybersecurity Enhancement Act of 2015”.
+This Act may be cited as the “Federal Cybersecurity Enhancement Act of 2015” “Federal Cybersecurity Enhancement Act of 2016”.
 
 ## § 2. Definitions
 
@@ -38,9 +38,9 @@ In this Act—
     >
     > - **(a)** *Definitions* In this section—
     >   - **(1)** the term agency information system means an information system used or operated by an agency, by a contractor of an agency, or by another entity on behalf of an agency;
-    >   - **(2)** the terms cybersecurity risk and information system have the meanings given those terms in section 227;
+    >   - **(2)** the terms cybersecurity risk and information system have the meanings given those terms in section 227; and
     >   - **(3)** the term information sharing and analysis organization has the meaning given the term in section 212(5); and
-    >   - **(4)** the term intelligence community has the meaning given the term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
+    >   - **(43)** the term intelligence community has the meaning given the term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
     > - **(b)** *Intrusion assessment plan*
     >   - **(1)** *Requirement* The Secretary, in coordination with the Director of the Office of Management and Budget, shall develop and implement an intrusion assessment plan to identify and remove intruders in agency information systems.
     >   - **(2)** *Exception* The intrusion assessment plan required under paragraph (1) shall not apply to the Department of Defense or an element of the intelligence community.
@@ -65,12 +65,19 @@ In this Act—
     >   - **(3)** may retain, use, and disclose information obtained through the conduct of activities authorized under this section only to protect information and information systems from cybersecurity risks;
     >   - **(4)** shall regularly assess through operational test and evaluation in real world or simulated environments available advanced protective technologies to improve detection and prevention capabilities, including commercial and non-commercial technologies and detection technologies beyond signature-based detection, and utilize such technologies when appropriate;
     >   - **(5)** shall establish a pilot to acquire, test, and deploy, as rapidly as possible, technologies described in paragraph (4); and
-    >   - **(6)** shall periodically update the privacy impact assessment required under section 208(b) of the E-Government Act of 2002 (44 U.S.C. 3501 note).
+    >   - **(6)** shall periodically update the privacy impact assessment required under section 208(b) of the E-Government Act of 2002 (44 U.S.C. 3501 note).; and
+    >   - **(7)** shall ensure that—
+    >     - **(A)** activities carried out under this section are reasonably necessary for the purpose of protecting agency information and agency information systems from a cybersecurity risk;
+    >     - **(B)** information accessed by the Secretary will be retained no longer than reasonably necessary for the purpose of protecting agency information and agency information systems from a cybersecurity risk;
+    >     - **(C)** notice has been provided to users of an agency information system concerning access to communications of users of the agency information system for the purpose of protecting agency information and the agency information system; and
+    >     - **(D)** the activities are implemented pursuant to policies and procedures governing the operation of the intrusion detection and prevention capabilities.
     > - **(d)** *Private entities*
     >   - **(1)** *Conditions* A private entity described in subsection (c)(2) may not—
     >     - **(A)** disclose any network traffic transiting or traveling to or from an agency information system to any entity other than the Department or the agency that disclosed the information under subsection (c)(1); or
     >     - **(B)** use any network traffic transiting or traveling to or from an agency information system to which the private entity gains access in accordance with this section for any purpose other than to protect agency information and agency information systems against cybersecurity risks or to administer a contract or other agreement entered into pursuant to subsection (c)(2) or as part of another contract with the Secretary.
     >   - **(2)** *Limitation on liability* No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with this section and any contract or agreement entered into pursuant to subsection (c)(2).
+    >   - **(3)** *Rule of construction* Nothing in paragraph (2) shall be construed to authorize an Internet service provider to break a user agreement with a customer.
+    > - **(e)** *Attorney General review* Not later than 1 year after the date of enactment of this section, the Attorney General shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable law governing the acquisition, interception, retention, use, and disclosure of communications.
 
 - **(b)** *Prioritizing advanced security tools* The Director and the Secretary, in consultation with appropriate agencies, shall—
   - **(1)** review and update Governmentwide policies and programs to ensure appropriate prioritization and use of network security monitoring tools within agency networks; and
@@ -120,7 +127,8 @@ In this Act—
       - **(iii)** a description of the technologies and capabilities utilized to prevent network traffic associated with cybersecurity risks from transiting or traveling to or from agency information systems, including the extent to which those technologies and capabilities include existing commercial and non-commercial technologies;
       - **(iv)** a list of the types of indicators or other identifiers or techniques used to detect cybersecurity risks in network traffic transiting or traveling to or from agency information systems on each iteration of the intrusion detection and prevention capabilities and the number of each such type of indicator, identifier, and technique;
       - **(v)** the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
-      - **(vi)** a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002, as added by section 3(a) of this Act, including the number of new technologies tested and the number of participating agencies.
+      - **(vi)** an explanation of whether any information on individuals, and to the greatest extent practicable, on United States persons, whose personally identifiable information is not necessary to describe a cybersecurity risk has been retained incidentally under the intrusion detection and prevention capabilities, and if such information has been retained, for what purpose and for what length of time; and
+      - **(vivii)** a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002, as added by section 3(a) of this Act, including the number of new technologies tested and the number of participating agencies.
     - **(B)** *OMB report* Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Director shall submit to Congress, as part of the report required under section 3553(c) of title 44, United States Code, an analysis of agency application of the intrusion detection and prevention capabilities, including—
       - **(i)** a list of each agency and the degree to which each agency has applied the intrusion detection and prevention capabilities to an agency information system; and
       - **(ii)** a list by agency of—
@@ -142,3 +150,61 @@ In this Act—
 
 - **(a)** *In general* The authority provided under section 230 of the Homeland Security Act of 2002, as added by section 3(a) of this Act, and the reporting requirements under section 6(c) shall terminate on the date that is 7 years after the date of enactment of this Act.
 - **(b)** *Rule of construction* Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under section 230(d)(2) of the Homeland Security Act of 2002, as added by section 3(a) of this Act, if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
+
+## § 8. Identification of unclassified information systems
+
+- **(a)** *In general* Except as provided in subsection (c), not later than 180 days after the date of enactment of this Act—
+  - **(1)** the Director of National Intelligence, in coordination with the heads of other agencies, shall—
+    - **(A)** identify all unclassified information systems that provide access to information that, when combined with other unclassified information, may comprise classified information;
+    - **(B)** assess the risks that would result from the breach of each unclassified information system identified in subparagraph (A); and
+    - **(C)** assess the cost and impact on the mission carried out by each agency that owns an unclassified information system identified in subparagraph (A) if the system were to be subsequently classified; and
+  - **(2)** the Director of National Intelligence shall submit to the appropriate congressional committees a report that includes the findings under paragraph (1).
+- **(b)** *Form* The report submitted under subsection (a)(2) shall be in unclassified form, but may include a classified annex.
+- **(c)** *Exception* The requirements under subsection (a)(1) shall not apply to the Department of Defense or an element of the intelligence community.
+
+## § 9. OPM data breach damage assessment
+
+- **(a)** *Assessment* The Secretary and the Director of National Intelligence shall jointly, and in coordination with the head of each appropriate agency, conduct an ongoing damage and risk assessment relating to the data breaches at the Office of Personnel Management (referred to in this section as the OPM data breach).
+- **(b)** *Reports*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, and once not later than 180 days thereafter, the Director of National Intelligence shall submit to Congress a report on the assessment conducted under subsection (a).
+  - **(2)** *Contents* Each report submitted under this subsection shall include—
+    - **(A)** updates on the extent to which Federal data was compromised, exfiltrated, or manipulated by the same entity that caused the OPM data breach;
+    - **(B)** analysis of the impact of the OPM data breach on national security; and
+    - **(C)** analysis of whether any information accessed through the OPM data breach has been released or deployed, whether publicly or privately.
+  - **(3)** *Unclassified form* Each report submitted under this subsection shall be in unclassified form, but may include a classified annex.
+
+## § 10. Direction to agencies
+
+Section 3553 of title 44, United States Code, is amended by adding at the end the following:
+
+> - **(h)** *Direction to agencies*
+>   - **(1)** *Authority*
+>     - **(A)** *In general* Notwithstanding section 3554, and subject to subparagraph (B), in response to a known or reasonably suspected information security threat, vulnerability, or incident that represents a substantial threat to the information security of an agency, the Secretary may issue a directive to the head of an agency to take any lawful action with respect to the operation of the information system, including such systems owned or operated by another entity on behalf of an agency, that collects, processes, stores, transmits, disseminates, or otherwise maintains agency information, for the purpose of protecting the information system from, or mitigating, an information security threat.
+>     - **(B)** *Exception* The authorities of the Secretary under this subsection shall not apply to a system described in paragraph (2) or (3) of subsection (e).
+>   - **(2)** *Procedures for use of authority* The Secretary shall—
+>     - **(A)** in coordination with the Director, establish procedures governing the circumstances under which a directive may be issued under this subsection, which shall include—
+>       - **(i)** thresholds and other criteria;
+>       - **(ii)** privacy and civil liberties protections; and
+>       - **(iii)** providing notice to potentially affected third parties;
+>     - **(B)** specify the reasons for the required action and the duration of the directive;
+>     - **(C)** minimize the impact of a directive under this subsection by—
+>       - **(i)** adopting the least intrusive means possible under the circumstances to secure the agency information systems; and
+>       - **(ii)** limiting directives to the shortest period practicable;
+>     - **(D)** notify the Director and the head of any affected agency immediately upon the issuance of a directive under this subsection; and
+>     - **(E)** not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+>   - **(3)** *Imminent threats*
+>     - **(A)** *In general* If the Secretary determines that there is an imminent threat to agency information systems and a directive under this subsection is not reasonably likely to result in a timely response to the threat, the Secretary may authorize the use of protective capabilities under the control of the Secretary for communications or other system traffic transiting to or from or stored on an agency information system without prior consultation with the affected agency for the purpose of ensuring the security of the information or information system or other agency information systems.
+>     - **(B)** *Notice* The Secretary shall immediately notify the Director, the head and chief information officer (or equivalent official) of each agency to which specific actions were taken pursuant to subparagraph (A), and the appropriate congressional committees and authorizing committees of each such agencies of—
+>       - **(i)** any action taken under subparagraph (A); and
+>       - **(ii)** the reasons for and duration and nature of the action.
+>     - **(C)** *Other law* Any action of the Secretary under this paragraph shall be consistent with applicable law.
+>     - **(D)** *Limitation on delegation* The authority under this paragraph may not be delegated to an official in a position lower than an Under Secretary of the Department of Homeland Security.
+>   - **(4)** *Limitation* The Secretary may direct or authorize lawful action or protective capability under this subsection only to—
+>     - **(A)** protect agency information from unauthorized access, use, disclosure, disruption, modification, or destruction; or
+>     - **(B)** require the remediation of or protect against identified information security risks with respect to—
+>       - **(i)** information collected or maintained by or on behalf of an agency; or
+>       - **(ii)** that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
+> - **(i)** *Annual report to Congress* Not later than February 1 of each year, the Director shall submit to the appropriate congressional committees a report regarding the specific actions the Director has taken pursuant to subsection (a)(5), including any actions taken pursuant to section 11303(b)(5) of title 40.
+> - **(j)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
+>   - **(1)** the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+>   - **(2)** the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives.
