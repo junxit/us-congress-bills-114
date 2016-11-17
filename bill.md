@@ -9,10 +9,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To prohibit the Secretary of the Treasury from authorizing certain transactions by a U.S. financial institution in connection with the export or re-export of a commercial passenger aircraft to the Islamic Republic of Iran.
 
-## § 1. Prohibition
+## § 1. Short title
 
-The Secretary of the Treasury may not authorize a transaction by a U.S. financial institution (as defined under section 561.309 of title 31, Code of Federal Regulations) that is ordinarily incident to the export or re-export of a commercial passenger aircraft to the Islamic Republic of Iran.
-
-## § 2. Revocation of prior authorizations
-
-If the Secretary of the Treasury authorized any transaction described under section 1 before the date of the enactment of this Act, such authorization is hereby revoked.
+This Act may be cited as the “No U.S. Financing for Iran Act”.
