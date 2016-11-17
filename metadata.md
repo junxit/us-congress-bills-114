@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5798
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5798
@@ -61,3 +61,7 @@ To designate the facility of the United States Postal Service located at 1101 Da
 - 2016-09-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 22, 1 Present (Roll no. 556). (text: CR 09/20/2016 H5678)
 - 2016-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 22, 1 Present (Roll no. 556).(text: CR 09/20/2016 H5678)
 - 2016-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2016-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.
