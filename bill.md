@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 564
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -39,26 +39,26 @@ The Congress finds the following:
 Section 120 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1389) is amended by striking subsection (f) and inserting the following:
 
 > - **(f)** *Temporary marine mammal removal authority on the waters of the Columbia River or its tributaries*
->   - **(1)** *Removal authority* Notwithstanding any other provision of this Act, the Secretary may issue a permit to an eligible entity authorizing the intentional lethal taking on the waters of the Columbia River and its tributaries of sea lions that are part of a healthy population that is not listed as an endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), to protect endangered and threatened species of salmon and other nonlisted fish species.
+>   - **(1)** *Removal authority* Notwithstanding any other provision of this Act, the Secretary may issue a permit to an eligible entity authorizing the intentional lethal taking on the waters of the Columbia River and its tributaries of sea lions that are part of a population that is not categorized as depleted under this Act or listed as an endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), to protect endangered and threatened species of salmon and other nonlisted fish species.
 >   - **(2)** *Permit process*
 >     - **(A)** *In general* An eligible entity may apply to the Secretary for a permit under this subsection.
 >     - **(B)** *Deadline for consideration of application* The Secretary shall approve or deny an application for a permit under this subsection by not later than 30 days after receiving the application.
 >     - **(C)** *Duration of permit* A permit under this subsection shall be effective for no more than one year after the date it is issued, but may be renewed by the Secretary.
 >   - **(3)** *Limitations*
 >     - **(A)** *Limitation on permit authority* Subject to subparagraph (B), a permit issued under this subsection shall not authorize the lethal taking of more than 10 sea lions during the duration of the permit.
->     - **(B)** *Limitation on annual takings* The cumulative number of sea lions authorized to be taken each year under all permits in effect under this subsection shall not exceed one percent of the annual potential biological removal level.
+>     - **(B)** *Limitation on annual takings* The cumulative number of sea lions authorized to be taken each year under all permits in effect under this section shall not exceed one percent of the annual potential biological removal level.
 >   - **(4)** *Delegation of permit authority* Any eligible entity may delegate to any other eligible entity the authority to administer its permit authority under this subsection.
 >   - **(5)** *NEPA* Section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall not apply with respect to this subsection and the issuance of any permit under this subsection during the 5-year period beginning on the date of the enactment of this subsection.
 >   - **(6)** *Suspension of permitting authority* If, 5 years after enactment, the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, may suspend the issuance of permits under this subsection.
->   - **(7)** *Eligible entity defined* In this subsection, the term eligible entity means each of the State of Washington, the State of Oregon, the State of Idaho, the Nez Perce Tribe, the Confederated Tribes of the Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, the Confederated Tribes and Bands of the Yakama Nation, and the Columbia River Inter-Tribal Fish Commission
+>   - **(7)** *Eligible entity defined* In this subsection, the term eligible entity means each of the State of Washington, the State of Oregon, the State of Idaho, the Nez Perce Tribe, the Confederated Tribes of the Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, the Confederated Tribes and Bands of the Yakama Nation, and the Columbia River Inter-Tribal Fish Commission.
+>   - **(8)** *Training in Wildlife Management* Permit holders exercising lethal removal authority pursuant to this Act shall be trained in wildlife management.
 
 ## § 4. Sense of Congress
 
 It is the sense of the Congress that—
 
-- **(1)** preventing predation by sea lions, recovery of listed salmonid stocks, and preventing future listings of fish stocks in the Columbia River is a vital priority;
-- **(2)** permit holders exercising lethal removal authority pursuant to the amendment made by this Act should be trained in wildlife management; and
-- **(3)** the Federal Government should continue to fund lethal and nonlethal removal measures for preventing such predation.
+- **(1)** preventing predation by sea lions, recovery of listed salmonid stocks, and preventing future listings of fish stocks in the Columbia River is a vital priority; and
+- **(2)** the Federal Government should continue to fund lethal and nonlethal removal measures for preventing such predation.
 
 ## § 5. Treaty rights of federally recognized Indian tribes
 
