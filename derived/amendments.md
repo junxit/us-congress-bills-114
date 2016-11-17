@@ -1,7 +1,7 @@
 ---
 measure: S. 2717
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `33 U.S.C. § 2269` | replace | Section 203 of the Water Resources Development Act of 2000 (33 U.S.C. 2269) is amended by striking subsections (b) through (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2310` | insert | in the section heading, by inserting “and Indian tribes” after “Territories”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 479a` | replace | by striking “projects in” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 479a` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 479a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2269` | replace | Section 203 of the Water Resources Development Act of 2000 (33 U.S.C. 2269) is amended by striking subsections (b) through (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2310` | insert | in the section heading, by inserting “and Indian tribes” after “Territories”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 479a` | replace | by striking “projects in” and inserting the following: | the bill quotes the text struck but describes what replaces it |
