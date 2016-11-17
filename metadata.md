@@ -1,7 +1,7 @@
 ---
 measure: S. 434
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 434
@@ -34,3 +34,5 @@ Security Clearance Accountability, Reform, and Enhancement Act of 2015
 - 2016-04-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-246.
 - 2016-04-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-246.
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
+- 2016-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6493-6495; text as passed Senate: CR S6493-6495)
+- 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6493-6495; text as passed Senate: CR S6493-6495)
