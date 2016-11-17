@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3471
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3471
@@ -107,3 +107,14 @@ Veterans Mobility Safety Act of 2016
 - 2016-11-17 — Senate amendment agreed to: Amendment SA 5111 agreed to in Senate by Unanimous Consent.
 - 2016-11-17 — Senate amendment proposed (on the floor): Amendment SA 5111 proposed by Senator McConnell for Senator Moran.(consideration: CR S6493)
 - 2016-11-17 — Senate amendment submitted
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mrs. Walorski asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H6353-6355)
+- 2016-11-29 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate Amendment: CR H6354-6355)
+- 2016-11-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate Amendment: CR H6354-6355)
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-256.
+- 2016-12-14 — Became Public Law No: 114-256.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.

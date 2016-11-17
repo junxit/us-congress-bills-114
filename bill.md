@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3471
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3471
 
-That the bill from the House of Representatives (H.R. 3471) entitled “An Act to amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.
 
 ## § 1. Short title
 
