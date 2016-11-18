@@ -1,7 +1,7 @@
 ---
 measure: S. 3395
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3395
@@ -20,9 +20,11 @@ Prescribed Burn Approval Act of 2016
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+- House — Natural Resources Committee
+- House — Agriculture Committee
 
 ## Actions
 
@@ -32,3 +34,8 @@ Prescribed Burn Approval Act of 2016
 - 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6493)
 - 2016-11-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S6493)
 - 2016-11-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S6493)
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-18 — Received in the House.
+- 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
