@@ -1,7 +1,7 @@
 ---
 measure: S. 434
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 434
@@ -22,9 +22,10 @@ Security Clearance Accountability, Reform, and Enhancement Act of 2015
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Security Clearance Accountability, Reform, and Enhancement Act of 2015
 - 2016-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
 - 2016-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6493-6495; text as passed Senate: CR S6493-6495)
 - 2016-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6493-6495; text as passed Senate: CR S6493-6495)
+- 2016-11-18 — Message on Senate action sent to the House.
+- 2016-11-18 — Received in the House.
+- 2016-11-18 — Referred to the House Committee on Oversight and Government Reform.
