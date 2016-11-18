@@ -1,7 +1,7 @@
 ---
 measure: S. 3395
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3395
@@ -39,3 +39,15 @@ Prescribed Burn Approval Act of 2016
 - 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-11-18 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-12-05 — Considered under suspension of the rules. (consideration: CR H7159-7160)
+- 2016-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 3395.
+- 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-05 — Mr. Lucas moved to suspend the rules and pass the bill.
+- 2016-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7159)
+- 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7159)
+- 2016-12-07 — Presented to President.
+- 2016-12-07 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-275.
+- 2016-12-14 — Became Public Law No: 114-275.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
