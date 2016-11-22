@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2387
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -39,7 +39,7 @@ Section 41 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629g) is amend
   - **(A)** in the subsection heading, by striking “In general” and inserting “Alaska Native veteran allotments”;
   - **(B)** by striking paragraphs (1) through (4) and inserting the following:
     > - **(1)** *Allotments*
-    >   - **(A)** *Eligible recipients* Any person described in paragraph (1) or (2) of subsection (b) shall be eligible to receive an allotment under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) (as in effect before December 18, 1971), of not more than 2 parcels of Federal land, the total area of which shall not exceed 160 acres.
+    >   - **(A)** *Eligible recipients* Any person described in paragraph (1) or (2) of subsection (b) shall be eligible to receive an allotment under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) (as in effect before December 18, 1971), of not more than 2 parcels of Federal land, the total area of which shall not exceed 160 acres. Any person described in paragraph (1) and (2) of subsection (b) who, prior to the date on which the Secretary promulgates regulations pursuant to section 4 of the Alaska Native Veterans Land Allotment Equity Act, received an allotment that has a total area of less than 160 acres shall be eligible to receive an allotment under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) (as in effect before December 18, 1971), of not more than 1 parcel of Federal land, the total area of which shall not exceed the difference in acres between 160 acres and the total area of the allotment that the person previously received under the Act.
     >   - **(B)** *Filing deadline* An allotment shall be filed for an eligible recipient not later than 3 years after the date on which the Secretary promulgates regulations pursuant to section 4 of the Alaska Native Veterans Land Allotment Equity Act.
     > - **(2)** *Land available for allotments*
     >   - **(A)** *In general* Subject to subparagraph (C), an allotment under this section shall be selected from land that is—
@@ -69,10 +69,14 @@ Section 41 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629g) is amend
     > - **(B)** is a veteran who served during the period beginning on August 5, 1964, and ending on May 7, 1975.
 
   - **(B)** by striking paragraph (2) and inserting the following:
-    > - **(2)** *Deceased individuals* If an individual who would otherwise have been eligible for an allotment under this section dies before applying for an allotment, an heir of the individual may apply for, and receive, an allotment under this section, on behalf of the estate of the individual.
+    > - **(2)** *Deceased persons* If an individual who would otherwise have been eligible for an allotment under this section dies before applying for an allotment, an heir of the person may apply for, and receive, an allotment under this section, on behalf of the estate of the person.
 
-  - **(C)** in paragraph (3), by inserting before the period at the end the following: “, other than an heir who applies for, and receives, an allotment on behalf of the estate of a deceased individual under paragraph (2)”;
-- **(3)** by redesignating subsections (d) and (e) as subsections (f) and (g), respectively; and
+  - **(C)** by striking paragraph (3) and inserting the following:
+    > - **(3)** *Limitations* No person who received an allotment or has a pending allotment under the Act of May 17, 1906, may receive an allotment under this section, other than—
+    >   - **(A)** an heir who applies for, and receives, an allotment on behalf of the estate of a deceased person under paragraph (2); and
+    >   - **(B)** a person who, prior to the date on which the Secretary promulgates regulations pursuant to section 4 of the Alaska Native Veterans Land Allotment Equity Act, received an allotment under the Act of May 17, 1906 (34 Stat. 197, chapter 2469), that has a total area of less than 160 acres.
+
+- **(3)** by redesignating subsections (d) and (e) as subsections (f) and (g), respectively;
 - **(4)** by inserting after subsection (c) the following:
   > - **(d)** *Approval of allotments*
   >   - **(1)** *In general* Subject to any valid right in existence on the date of enactment of the Alaska Native Veterans Land Allotment Equity Act, and except as provided in paragraph (3), not later than December 31, 2020, the Secretary shall—
@@ -86,6 +90,11 @@ Section 41 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629g) is amend
   >   - **(1)** was selected before the date of enactment of the Alaska Native Veterans Land Allotment Equity Act; and
   >   - **(2)** as of the date of enactment of that Act, was not conveyed to the person.
 
+- **(5)** by striking subsection (f), as designated by paragraph (3) and inserting:
+  > - **(f)** *Definitions* For the purposes of this section:
+  >   - **(1)** The term “veteran” means a person who served in the active military, naval, or air service, and who was discharged or released therefrom.
+  >   - **(2)** The term “Vietnam era” has the meaning given the term by paragraph (29) of section 101 of title 38.
+
 ## § 4. Regulations
 
-Not later than 1 year after the date of enactment of this Act, the Secretary of the Interior shall promulgate final regulations to carry out the amendments made by this Act.
+Not later than 1 year after the date of enactment of this Act, the Secretary of the Interior shall promulgate, after consultation with Alaska Native organizations, final regulations to carry out the amendments made by this Act. During the consultation process, the Secretary shall, in coordination with Alaska Native organizations and to the greatest extent possible, identify persons who are eligible to receive an allotment under section 3 of this Act. Upon promulgation of the final regulations, the Secretary shall contact each of these persons directly to provide an explanation of the process by which the person may apply for an allotment under section 3 of this Act.
