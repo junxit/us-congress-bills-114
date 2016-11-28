@@ -1,7 +1,7 @@
 ---
 measure: S. 2974
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2974
@@ -28,3 +28,7 @@ A bill to ensure funding for the National Human Trafficking Hotline, and for oth
 
 - 2016-05-23 — Introduced in Senate
 - 2016-05-23 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2016-11-28 — Passed Senate without amendment by Unanimous Consent. (text: CR S6518-6519)
+- 2016-11-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6518-6519)
+- 2016-11-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6518-6519)
+- 2016-11-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6518-6519)
