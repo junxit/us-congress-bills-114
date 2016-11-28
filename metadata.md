@@ -1,7 +1,7 @@
 ---
 measure: S. 3099
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3099
@@ -28,3 +28,7 @@ Access for Sportfishing Act of 2016
 
 - 2016-06-23 — Introduced in Senate
 - 2016-06-23 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-06-29 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2016-11-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-388.
+- 2016-11-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-388.
+- 2016-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 692.
