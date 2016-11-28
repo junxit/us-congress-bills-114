@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Digital Coast Act of 2015”.
+This Act may be cited as the “Digital Coast Act”.
 
 ## § 2. Findings
 
@@ -23,7 +23,7 @@ Congress makes the following findings:
 - **(4)** Coastal counties in the United States average 300 persons per square mile, compared with the national average of 98.
 - **(5)** On a typical day, more than 1,540 permits for construction of single-family homes are issued in coastal counties, combined with other commercial, retail, and institutional construction to support this population.
 - **(6)** Over half of the economic productivity of the United States is located within coastal regions.
-- **(7)** Highly accurate, high-resolution remote sensing and other geospatial data play an increasingly important role in decisionmaking and management of the coastal zone and economy, including for—
+- **(7)** Highly accurate, high-resolution remote sensing and other geospatial data play an increasingly important role in decision making and management of the coastal zone and economy, including for—
   - **(A)** flood and coastal storm surge prediction;
   - **(B)** hazard risk and vulnerability assessment;
   - **(C)** emergency response and recovery planning;
@@ -37,7 +37,7 @@ Congress makes the following findings:
 In this Act:
 
 - **(1)** *Coastal region* The term coastal region means the area of United States waters extending inland from the shoreline to include coastal watersheds and seaward to the territorial sea.
-- **(2)** *Coastal State* The term coastal State has the meaning given the term “coastal state” in section 34 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).
+- **(2)** *Coastal State* The term coastal State has the meaning given the term “coastal state” in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).
 - **(3)** *Federal Geographic Data Committee* The term Federal Geographic Data Committee means the interagency committee that promotes the coordinated development, use, sharing, and dissemination of geospatial data on a national basis.
 - **(4)** *Remote sensing and other geospatial* The term remote sensing and other geospatial means collecting, storing, retrieving, or disseminating graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the Earth and any information related thereto, including surveys, maps, charts, satellite and airborne remote sensing data, images, LiDAR, and services performed by professionals such as surveyors, photogrammetrists, hydrographers, geodesists, cartographers, and other such services.
 - **(5)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
@@ -53,7 +53,7 @@ In this Act:
   - **(3)** documenting such data to Federal Geographic Data Committee standards; and
   - **(4)** archiving all raw data acquired under this Act at the appropriate National Oceanic and Atmospheric Administration data center or such other Federal data center as the Secretary considers appropriate.
 - **(c)** *Coordination* The Secretary shall coordinate the activities carried out under the program to optimize data collection, sharing and integration, and to minimize duplication by—
-  - **(1)** consulting with coastal managers and decisionmakers concerning coastal issues, and sharing information and best practices, as the Secretary considers appropriate, with—
+  - **(1)** consulting with coastal managers and decision makers concerning coastal issues, and sharing information and best practices, as the Secretary considers appropriate, with—
     - **(A)** coastal States;
     - **(B)** local governments; and
     - **(C)** representatives of academia, the private sector, and nongovernmental organizations;
@@ -62,8 +62,9 @@ In this Act:
     - **(A)** the National Oceanic and Atmospheric Administration;
     - **(B)** other Federal agencies;
     - **(C)** State and local government; and
-    - **(D)** the private sector; and
-  - **(4)** coordinating with, seeking assistance and cooperation of, and providing liaison to the Federal Geographic Data Committee pursuant to Office of Management and Budget Circular A–16 and Executive Order 12906 of April 14, 1994 (59 Fed. Reg. 17671), as amended by Executive Order 13286 of March 5, 2003 (68 Fed. Reg. 10619).
+    - **(D)** the private sector;
+  - **(4)** coordinating with, seeking assistance and cooperation of, and providing liaison to the Federal Geographic Data Committee pursuant to Office of Management and Budget Circular A–16 and Executive Order 12906 of April 14, 1994 (59 Fed. Reg. 17671), as amended by Executive Order 13286 of March 5, 2003 (68 Fed. Reg. 10619); and
+  - **(5)** developing and maintaining a best practices document that sets out the best practices used by the Secretary in carrying out the program and providing such document to the United States Geological Survey, the Corps of Engineers, and other relevant Federal agencies.
 - **(d)** *Filling needs and gaps* In carrying out the program, the Secretary shall—
   - **(1)** maximize the use of remote sensing and other geospatial data collection activities conducted for other purposes and under other authorities;
   - **(2)** focus on filling data needs and gaps for coastal management issues, including with respect to areas that, as of the date of the enactment of this Act, were underserved by coastal data and the areas of the Arctic that are under the jurisdiction of the United States;
@@ -80,9 +81,15 @@ In this Act:
 - **(e)** *Financial agreements and contracts*
   - **(1)** *In general* In carrying out the program, the Secretary—
     - **(A)** may enter into financial agreements to carry out the program, including—
-      - **(i)** support to non-Federal entities that participate in implementing the program;
+      - **(i)** support to non-Federal entities that participate in implementing the program; and
       - **(ii)** grants, cooperative agreements, interagency agreements, contracts, or any other agreement on a reimbursable or non-reimbursable basis, with other Federal, tribal, State, and local governmental and nongovernmental entities; and
-      - **(iii)** registration fees in support of training, workshops, and conferences that advance the purposes of the program; and
-    - **(B)** shall enter into such contracts with private sector entities for such products and services as the Secretary determines may be necessary to collect, process, and provide remote sensing and other geospatial data and products for purposes of the program.
-  - **(2)** *Survey and mapping* Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40, United States Code.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out the program in each of fiscal years 2016 through 2020.
+    - **(B)** may, to the maximum extent practicable, enter into such contracts with private sector entities for such products and services as the Secretary determines may be necessary to collect, process, and provide remote sensing and other geospatial data and products for purposes of the program.
+  - **(2)** *Fees*
+    - **(A)** *Assessment and collection* The Secretary may assess and collect fees for the conduct of any training, workshop, or conference that advances the purposes of the program.
+    - **(B)** *Amounts* The amount of a fee under this paragraph may not exceed the sum of costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the training, workshop, or conference, including for subsistence expenses incidental to the training, workshop, or conference, as applicable.
+    - **(C)** *Use of fees* Amounts collected by the Secretary in the form of fees under this paragraph may be used to pay for—
+      - **(i)** the costs incurred for conducting an activity described in subparagraph (A); or
+      - **(ii)** the expenses described in subparagraph (B).
+  - **(3)** *Survey and mapping* Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40, United States Code.
+- **(f)** *Ocean economy* The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State.
+- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2017 through 2021 to carry out the program.
