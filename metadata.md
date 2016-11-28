@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5711
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5711
@@ -20,9 +20,10 @@ No U.S. Financing for Iran Act
 
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -63,3 +64,4 @@ No U.S. Financing for Iran Act
 - 2016-11-17 — On passage Passed by the Yeas and Nays: 243 - 174 (Roll no. 587).
 - 2016-11-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 243 - 174 (Roll no. 587).
 - 2016-11-17 — The Chair announced that the unfinished business and pursuant to a previous order of the House, the question was on adoption of a motion to recommit with instructions, which had been debated earlier and on which further proceedings had been postponed.
+- 2016-11-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
