@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5982
 congress: 114
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5982
@@ -27,10 +27,11 @@ Midnight Rules Relief Act of 2016
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (5)
 
@@ -111,3 +112,4 @@ Midnight Rules Relief Act of 2016
 - 2016-11-17 — The previous question was ordered pursuant to the rule. (consideration: CR H6286)
 - 2016-11-17 — The rule provides for one hour of general debate on H.R. 5711 and H.R. 5982.
 - 2016-11-17 — UNANIMOUS CONSENT REQUEST - Mr. Connolly asked unanimous consent to offer amendments numbered 4 and 5 printed in Part B of House Report 114-818 en bloc. Agreed to without objection.
+- 2016-11-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
