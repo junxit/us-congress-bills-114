@@ -1,7 +1,7 @@
 ---
 measure: S. 2974
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
