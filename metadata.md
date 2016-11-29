@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6297
 congress: 114
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6297
@@ -37,9 +37,10 @@ Iran Sanctions Extension Act
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2016-11-15 — [House 114-2-577](votes/house-114-2-0577.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–1)
+- 2016-12-01 — [Senate 114-2-155](votes/senate-114-2-0155.md) — On Passage of the Bill — **Bill Passed** (99–0)
 
 ## Actions
 
@@ -61,3 +62,12 @@ Iran Sanctions Extension Act
 - 2016-11-16 — Received in the Senate.
 - 2016-11-28 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2016-11-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-01 — Passed Senate without amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 155. (consideration: CR S6646)
+- 2016-12-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 99 - 0. Record Vote Number: 155.(consideration: CR S6646)
+- 2016-12-02 — Presented to President.
+- 2016-12-02 — Presented to President.
+- 2016-12-15 — Became Public Law No: 114-277.
+- 2016-12-15 — Became Public Law No: 114-277.
+- 2016-12-15 — Sent to Archivist of the United States unsigned.
+- 2016-12-15 — Sent to Archivist of the United States unsigned.
