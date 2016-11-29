@@ -1,7 +1,7 @@
 ---
 measure: S. 2873
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2873
