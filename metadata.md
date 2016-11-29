@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 546
@@ -55,3 +55,9 @@ RESPONSE Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 632.
 - 2016-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-808.
 - 2016-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-808.
+- 2016-11-29 — Considered under suspension of the rules. (consideration: CR H6319-6321)
+- 2016-11-29 — DEBATE - The House proceeded with forty minutes of debate on S. 546.
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
+- 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6319-6320)
+- 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6319-6320)
