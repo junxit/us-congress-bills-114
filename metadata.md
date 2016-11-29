@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6135
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6135
@@ -35,3 +35,9 @@ To designate the Federal building and United States courthouse located at 719 Ch
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-11-29 — Considered under suspension of the rules. (consideration: CR H6321-6322)
+- 2016-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6135.
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mr. Denham moved to suspend the rules and pass the bill.
+- 2016-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H6321)
+- 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H6321)
