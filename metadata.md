@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 611
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 611
@@ -28,3 +28,7 @@ A resolution supporting the designation of October 8, 2016, as "40 Years of Wome
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S6281)
+- 2016-11-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-29 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6576)
+- 2016-11-29 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6576)
