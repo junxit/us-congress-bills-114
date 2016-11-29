@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 932
+congress: 114th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 932
+
+> Expressing the sense of the House of Representatives with respect to third-party charges on consumer telephone bills.
+
+## Preamble
+
+- Whereas telephone companies are required to permit third parties to bill for services on a consumer’s monthly telephone bill in certain circumstances;
+- Whereas “cramming” is the act of placing unauthorized charges on a wireline, wireless, or bundled services telephone bill of a consumer;
+- Whereas the Federal Communications Commission estimates that cramming has harmed tens of millions of people in the United States; and
+- Whereas existing protections against cramming have not prevented harm to consumers: Now, therefore, be it
+
+That it is the sense of the House of Representatives that protections against cramming should be improved and consumers should be empowered to stop unwanted third-party charges on their telephone bills.
