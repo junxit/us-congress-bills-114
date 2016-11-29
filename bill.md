@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2944
 
-> To require adequate reporting on the Public Safety Officers' Benefit program, and for other purposes.
+> To require adequate reporting on the Public Safety Officers' Benefits program, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Public Safety Officers’ Benefits Improvement A
 
 Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796c) is amended—
 
-- **(1)** in subsection (a), by inserting “Rules, regulations, and procedures issued under this part may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” after “before the Bureau.”; before the last sentence;
+- **(1)** in subsection (a), by inserting “Rules, regulations, and procedures issued under this part may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” before the last sentence;
 - **(2)** in subsection (b)—
   - **(A)** by inserting “(1)” before “In making”; and
   - **(B)** by adding at the end the following:
@@ -36,18 +36,23 @@ Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   >         - **(IV)** the nature of the claim; and
   >       - **(ii)** the total number of pending claims that were submitted to the Bureau more than 1 year before the date on which the information is made available.
   >   - **(2)**
-  >     - **(A)** Not later than 180 days after the date of enactment of this subsection, and every 180 days thereafter, the Bureau shall submit to Congress a report on the death, disability, and educational assistance claims submitted under this part during the 180-day period preceding the report.
+  >     - **(A)** Not later than 180 days after the date of enactment of this subsection, and every 180 days thereafter, the Bureau shall submit to Congress a report on the death, disability, and educational assistance claims submitted under this part.
   >     - **(B)** Each report submitted under subparagraph (A) shall include information on—
-  >       - **(i)** the total number of claims, and the nature of each claim, submitted to the Bureau;
-  >       - **(ii)** the number of claims for which a final determination has been made;
-  >       - **(iii)** the number of claims for which a final determination has not been reached and the basis for the delay;
-  >       - **(iv)** the amount of time required to process each claim for which a final determination has been made and, for any claim which could not be processed within 1 year of being submitted to the Bureau, the basis for any delay;
-  >       - **(v)** the number of claims submitted that are related to exposure due to the September 11th, 2001, terrorism attacks and the average award amount for any such claims for which a final determination has been made;
-  >       - **(vi)** the result of each claim for which a final determination was made during the 180-day period, including the number of claims rejected and the basis for any denial of benefits;
-  >       - **(vii)** the number of claims that were appealedfor which a final determination was made and appealed during the 180-day period;
-  >       - **(viii)** the average number of claims processed per reviewer of the Bureau; and
-  >       - **(ix)** the average amount of time each agency takes to submit all required information and documents to the Bureau.
-  >       - **(ix)** information on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3), including—
+  >       - **(i)** the total number of claims for which a final determination has been made during the 180-day period preceding the report;
+  >       - **(ii)** the amount of time required to process each claim for which a final determination has been made during the 180-day period preceding the report;
+  >       - **(iii)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date for which a final determination has not been made;
+  >       - **(iv)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date for which a final determination has not been made;
+  >       - **(v)** for each claim described in clause (iv), a detailed description of the basis for delay;
+  >       - **(vi)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
+  >       - **(vii)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
+  >       - **(viii)** for each claim described in clause (vii), a detailed description of the basis for delay;
+  >       - **(ix)** the total number of claims submitted to the Bureau relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination was made during the 180-day period preceding the report, and the average award amount for any such claims that were approved;
+  >       - **(x)** the result of each claim for which a final determination was made during the 180-day period preceding the report, including the number of claims rejected and the basis for any denial of benefits;
+  >       - **(xi)** the number of final determinations which were appealed during the 180-day period preceding the report, regardless of when the final determination was first made;
+  >       - **(xii)** the average number of claims processed per reviewer of the Bureau during the 180-day period preceding the report;
+  >       - **(xiii)** for any claim submitted to the Bureau that required the submission of additional information from a public agency, and for which the public agency completed providing all of the required information during the 180-day period preceding the report, the average length of the period beginning on the date the public agency was contacted by the Bureau and ending on the date on which the public agency submitted all required information to the Bureau;
+  >       - **(xiv)** for any claim submitted to the Bureau for which the Bureau issued a subpoena to a public agency during the 180-day period preceding the report in order to obtain information or documentation necessary to determine the claim, the name of the public agency, the date on which the subpoena was issued, and the dates on which the public agency was contacted by the Bureau before the issuance of the subpoena; and
+  >       - **(xv)** information on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3), including—
   >         - **(I)** the number of claims that are eligible for compensation under both this part and the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101 note; Public Law 107–42) (commonly referred to as the “VCF”);
   >         - **(II)** for each claim described in subclause (I) for which compensation has been paid under the VCF, the amount of compensation paid under the VCF;
   >         - **(III)** the number of claims described in subclause (I) for which the Bureau has made a final determination; and
@@ -55,7 +60,7 @@ Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   >   - **(3)** Not later than 5 years after the date of enactment of the Public Safety Officers' Benefits Improvement Act of 2016, and every 5 years thereafter, the Comptroller General of the United States shall—
   >     - **(A)** conduct a study on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3); and
   >     - **(B)** submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) of paragraph (2) of this subsection in each report required under that paragraph.
-  >   - **(3) (4)** In this subsection, the term nature of the claim means whether the claim is a claim for—
+  >   - **(4)** In this subsection, the term nature of the claim means whether the claim is a claim for—
   >     - **(A)** benefits under this subpart with respect to the death of a public safety officer;
   >     - **(B)** benefits under this subpart with respect to the disability of a public safety officer; or
   >     - **(C)** education assistance under subpart 2.
