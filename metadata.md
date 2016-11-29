@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3286
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3286
@@ -53,3 +53,9 @@ HIRE Vets Act
 - 2016-09-06 — Placed on the Union Calendar, Calendar No. 547.
 - 2016-09-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-708.
 - 2016-09-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-708.
+- 2016-11-29 — Considered under suspension of the rules. (consideration: CR H6340-6343)
+- 2016-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3286.
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6340-6341)
+- 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6340-6341)

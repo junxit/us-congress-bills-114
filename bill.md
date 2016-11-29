@@ -15,7 +15,7 @@ This Act may be cited as the “Honoring Investments in Recruiting and Employing
 
 ## § 2. HIRE Vets Medallion program
 
-- **(a)** *Program Established* Not later than one year after the date of enactment of this Act, the Secretary of Labor shall establish, by rule, a HIRE Vets Medallion Program to solicit voluntary information from employers for purposes of recognizing, by means of an award to be designated a “HIRE Vets Medallion”, verified efforts by such employers—
+- **(a)** *Program Established* Not later than 1 year after the date of enactment of this Act, the Secretary of Labor shall establish, by rule, a HIRE Vets Medallion Program to solicit voluntary information from employers for purposes of recognizing, by means of an award to be designated a “HIRE Vets Medallion”, verified efforts by such employers—
   - **(1)** to recruit, employ, and retain veterans; and
   - **(2)** to provide community and charitable services supporting the veteran community.
 - **(b)** *Application Process* Beginning in the calendar year following the calendar year in which the Secretary establishes the program—
@@ -57,9 +57,9 @@ This Act may be cited as the “Honoring Investments in Recruiting and Employing
       - **(iii)** such employer employs dedicated human resources professionals to support hiring and retention of veteran employees, including efforts focused on veteran hiring and training;
       - **(iv)** such employer provides each of its employees serving on active duty in the United States National Guard or Reserve with compensation sufficient, in combination with the employee’s active duty pay, to achieve a combined level of income commensurate with the employee’s salary prior to undertaking active duty; and
       - **(v)** such employer has established a tuition assistance program to support veteran employees’ attendance in postsecondary education during the term of their employment.
-    - **(D)** *Exemption for smaller employers* An employer shall be deemed to meet the requirements of subparagraph (E)(iv) if such employer—
+    - **(D)** *Exemption for smaller employers* An employer shall be deemed to meet the requirements of subparagraph (C)(iv) if such employer—
       - **(i)** employs 5,000 or fewer employees; and
-      - **(ii)** employs at least one human resources professional whose regular work duties include those described under subparagraph (E)(iv).
+      - **(ii)** employs at least one human resources professional whose regular work duties include those described under subparagraph (C)(iii).
     - **(E)** *Additional criteria* The Secretary may provide, by rule, additional criteria with which to determine qualifications for receipt of each level of HIRE Vets Medallion.
   - **(2)** *Small- and medium-sized employers* The Secretary shall establish similar awards in order to recognize achievements in supporting veterans by—
     - **(A)** employers with 50 or fewer employees; and
@@ -79,11 +79,11 @@ This Act may be cited as the “Honoring Investments in Recruiting and Employing
 
 - **(a)** *Fund established* There is established in the Treasury of the United States a fund to be designated the “HIRE Vets Medallion Award Fund”.
 - **(b)** *Fee authorized* The Secretary may assess a reasonable fee on employers that apply for receipt of a HIRE Vets Medallion and the Secretary shall deposit such fees into the HIRE Vets Medallion Award Fund. The Secretary shall establish the amount of the fee such that the amounts collected as fees and deposited into the Fund are sufficient to cover the costs associated with carrying out this Act.
-- **(c)** *Use of funds* Amounts in the HIRE Vets Medallion Award Fund shall be available, without further appropriation, to the Secretary to carry out the HIRE Vets Medallion Program.
+- **(c)** *Use of funds* Amounts in the HIRE Vets Medallion Award Fund shall be available, subject to appropriation, to the Secretary to carry out the HIRE Vets Medallion Program.
 
 ## § 6. Report to Congress
 
-- **(a)** *Reports* Beginning not later than two years after the date of enactment of this Act, the Secretary shall submit to Congress annual reports on—
+- **(a)** *Reports* Beginning not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress annual reports on—
   - **(1)** the fees collected from applicants for HIRE Vets Medallions in the prior year and any changes in fees to be proposed in the present year;
   - **(2)** the cost of administering the HIRE Vets Medallion Program in the prior year;
   - **(3)** the number of applications for HIRE Vets Medallions received in the prior year; and
@@ -102,7 +102,3 @@ In this Act:
   - **(3)** any foreign state.
 - **(b)** *Secretary* The term “Secretary” means the Secretary of Labor.
 - **(c)** *Veteran* The term “veteran” has the meaning given such term under section 101 of title 38, United States Code.
-
-## § 8. Limitation on awards and bonuses paid to senior executive employees of Department of Veterans Affairs
-
-Section 705 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 703 note) is amended by striking the period at the end and inserting the following: , “of which, during fiscal year 2016, not more than an aggregate amount of $2,000,000 may be paid to employees of the Department of Veterans Affairs who are members of the Senior Executive Service.”.
