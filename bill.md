@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1219
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2015”.
+This Act may be cited as the “Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2016”.
 
 ## § 2. Conveyance of maintenance complex and district office of the Arbuckle Project, Oklahoma
 
-- **(a)** *In general* The Secretary of the Interior may convey to the Arbuckle Master Conservancy District, located in Murray County, Oklahoma, all right, title, and interest of the United States in and to the Maintenance Complex and District Office, Arbuckle Project, Oklahoma, consistent with the terms and conditions set forth in the Agreement between the United States and the Arbuckle Master Conservancy District.
+- **(a)** *In general* The Secretary of the Interior shall, as soon as practicable, convey to the Arbuckle Master Conservancy District, located in Murray County, Oklahoma, all right, title, and interest of the United States in and to the Maintenance Complex and District Office, Arbuckle Project, Oklahoma, consistent with the terms and conditions set forth in the Agreement between the United States and the Arbuckle Master Conservancy District.
 - **(b)** *Definitions*
   - **(1)** *Agreement* The term Agreement means the Agreement between the United States and the Arbuckle Master Conservancy District for Transferring Title to the Federally Owned Maintenance Complex and District Office to the Arbuckle Master Conservancy District (Agreement No. 14AG640141).
   - **(2)** *District office* The term District Office means the headquarters building located at 2440 East Main, Davis, Oklahoma, and the approximately 0.83 acres described in the Agreement.
@@ -24,3 +24,4 @@ This Act may be cited as the “Arbuckle Project Maintenance Complex and Distric
 - **(d)** *Benefits* After conveyance of the Maintenance Complex and District Office to the Arbuckle Master Conservancy District—
   - **(1)** the Maintenance Complex and District Office shall not be considered to be a part of a Federal reclamation project; and
   - **(2)** such water district shall not be eligible to receive any benefits with respect to any facility comprising that Maintenance Complex and District Office, except benefits that would be available to a similarly situated person with respect to such a facility that is not part of a Federal reclamation project.
+- **(e)** *Communication* If the Secretary of the Interior has not completed the conveyance required under subsection (a) within 12 months after the date of enactment of this Act, the Secretary shall submit to Congress a letter with sufficient detail that explains the reasons the conveyance has not been completed and stating the date by which the conveyance will be completed.
