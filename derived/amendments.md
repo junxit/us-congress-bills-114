@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-60 amendatory instructions. 16 executed, 44 stated and not applied.
+54 amendatory instructions. 9 executed, 45 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,60 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 10603e
-
-> in paragraph (1), by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”;
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 10603e
-
-> in paragraph (2), by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”;
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 10603e
-
-> in paragraph (3), by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”;
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 10603e
-
-> in paragraph (4), by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”; and
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 10603e
-
-> in paragraph (5), by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”.
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 10603e
-
-> Section 1404E(c) of the Victims of Crime Act of 1984 (42 U.S.C. 10603e(c)) is amended by striking “2006, 2007, 2008, and 2009” and inserting “2017 through 2021”.
-
-| | |
-|---|---|
-| Removed | `2006, 2007, 2008, and 2009` |
-| Inserted | `2017 through 2021` |
 
 ### 42 U.S.C. § 14136b
 
@@ -89,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 14136b
 
-> Section 307(a) of the Justice for All Act of 2004 (Public Law 108–405; 118 Stat. 2275) is amended by striking “$42,100,000 for each of fiscal years 2005 through 2009” and inserting “$10,000,000 for each of fiscal years 2017 through 2021”.
+> Section 307(a) of the Justice for All Act of 2004 (Public Law 108–405; 118 Stat. 2275) is amended by striking “$42,100,000 for each of fiscal years 2005 through 2009” and inserting “$7,400,000 for fiscal year 2017 and $10,000,000 for each of fiscal years 2018 through 2021”.
 
 | | |
 |---|---|
 | Removed | `$42,100,000 for each of fiscal years 2005 through 2009` |
-| Inserted | `$10,000,000 for each of fiscal years 2017 through 2021` |
+| Inserted | `$7,400,000 for fiscal year 2017 and $10,000,000 for each of fiscal years 2018 through 2021` |
 
 ### 42 U.S.C. § 14136d
 
@@ -141,15 +87,6 @@ to guess them.
 | Removed | `0.6 percent` |
 | Inserted | `1 percent` |
 
-### 42 U.S.C. § 14163e
-
-> in subsection (a), by striking “$75,000,000 for each of fiscal years 2005 through 2009” and inserting “$30,000,000 for each of fiscal years 2017 through 2021”; and
-
-| | |
-|---|---|
-| Removed | `$75,000,000 for each of fiscal years 2005 through 2009` |
-| Inserted | `$30,000,000 for each of fiscal years 2017 through 2021` |
-
 ### 42 U.S.C. § 14136
 
 > in the matter preceding paragraph (1), by striking “fiscal years 2005 through 2009” and inserting “fiscal years 2017 through 2021”; and
@@ -190,7 +127,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 15605` | replace | in section 6(d)(2) (42 U.S.C. 15605(d)(2)), by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15607` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15607` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3797k` | insert | in section 2802(2) (42 U.S.C. 3797k(2)), by inserting after “bodies” the following: “and is accredited by an accrediting body that is a signatory to an internationally recognized arrangement and that offers accreditation to forensic scie… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797k` | insert | in section 2802(2) (42 U.S.C. 3797k(2)), by inserting after “bodies” the following: “and, except with regard to any medical examiner's office, or coroner's office in the State, is accredited by an accrediting body that is a signatory to … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797m` | insert | by inserting “impression evidence,” after “latent prints,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3797m` | insert | by inserting “digital evidence, fire evidence,” after “toxicology,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3797m` | insert | in paragraph (3), by inserting “and medicolegal death investigators” after “laboratory personnel”; and | the bill quotes the text inserted but describes where it goes |
@@ -201,6 +138,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3793` | strike | in subparagraph (H), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3793` | replace | in subparagraph (I), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3793` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14163e` | replace | in subsection (a), by striking “$75,000,000 for each of fiscal years 2005 through 2009” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 14163e` | insert | in subsection (b), by inserting before the period at the end the following: “, or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “under a sentence of” in each place it appears and inserting “sentenced to”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1)(B)(i), by striking “death”; and | the bill names no machine-readable US Code section |

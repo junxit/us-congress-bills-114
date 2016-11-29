@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2577
@@ -67,3 +67,10 @@ Justice for All Reauthorization Act of 2016
 - 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-06-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-06-21 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-11-29 — Considered under suspension of the rules. (consideration: CR H6322-6329)
+- 2016-11-29 — DEBATE - The House proceeded with forty minutes of debate on S. 2577.
+- 2016-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-29 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6322-6326)
+- 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6322-6326)
