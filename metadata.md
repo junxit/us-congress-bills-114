@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 607
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 607
@@ -31,3 +31,7 @@ A resolution recognizing the National Geospatial-Intelligence Agency on its 20th
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S6279-6280)
+- 2016-11-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-29 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6575-6576)
+- 2016-11-29 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6575-6576)
