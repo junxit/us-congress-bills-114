@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

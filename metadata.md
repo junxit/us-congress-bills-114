@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2577
@@ -16,7 +16,7 @@ Justice for All Reauthorization Act of 2016
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -34,6 +34,7 @@ Justice for All Reauthorization Act of 2016
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -74,3 +75,13 @@ Justice for All Reauthorization Act of 2016
 - 2016-11-29 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6322-6326)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6322-6326)
+- 2016-11-30 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-12-01 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S6679; text as Senate agreed to the House amendment: CR S6679)
+- 2016-12-01 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S6679; text as Senate agreed to the House amendment: CR S6679)
+- 2016-12-02 — Message on Senate action sent to the House.
+- 2016-12-07 — Presented to President.
+- 2016-12-07 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-324.
+- 2016-12-16 — Became Public Law No: 114-324.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
