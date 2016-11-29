@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 546
@@ -61,3 +61,14 @@ RESPONSE Act of 2016
 - 2016-11-29 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6319-6320)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6319-6320)
+- 2016-11-30 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7104)
+- 2016-12-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 546 by Unanimous Consent.
+- 2016-12-10 — Senate agreed to the House amendment to S. 546 by Unanimous Consent.
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-321.
+- 2016-12-16 — Became Public Law No: 114-321.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
