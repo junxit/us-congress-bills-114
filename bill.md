@@ -18,59 +18,35 @@ This Act may be cited as the “Expanding Capacity for Health Outcomes Act” or
 In this Act:
 
 - **(1)** *Health professional shortage area* The term health professional shortage area means a health professional shortage area designated under section 332 of the Public Health Service Act (42 U.S.C. 254e).
-- **(2)** *Medically underserved area* The term medically underserved area has the meaning given the term “medically underserved community” in section 799B of the Public Health Service Act (42 U.S.C. 295p).
-- **(3)** *Medically underserved population* The term medically underserved population has the meaning given the term in section 330(b) of the Public Health Service Act (42 U.S.C. 254b(b)).
-- **(4)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
-- **(5)** *Technology-enabled collaborative learning and capacity building model* The term technology-enabled collaborative learning and capacity building model means a distance health education model that connects specialists with multiple primary care providers through simultaneous interactive videoconferencing for the purpose of facilitating case-based learning, disseminating best practices, and evaluating outcomes.
+- **(2)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+- **(3)** *Medically underserved area* The term medically underserved area has the meaning given the term medically underserved community in section 799B of the Public Health Service Act (42 U.S.C. 295p).
+- **(4)** *Medically underserved population* The term medically underserved population has the meaning given the term in section 330(b) of the Public Health Service Act (42 U.S.C. 254b(b)).
+- **(5)** *Native Americans* The term Native Americans has the meaning given the term in section 736 of the Public Health Service Act (42 U.S.C. 293) and includes Indian tribes and tribal organizations.
+- **(6)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+- **(7)** *Technology-enabled collaborative learning and capacity building model* The term technology-enabled collaborative learning and capacity building model means a distance health education model that connects specialists with multiple other health care professionals through simultaneous interactive videoconferencing for the purpose of facilitating case-based learning, disseminating best practices, and evaluating outcomes.
+- **(8)** *Tribal organization* The term tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 
-## § 3. Studies and reports on technology-enabled collaborative learning and capacity building models
+## § 3. Examination and report on technology-enabled collaborative learning and capacity building models
 
-- **(a)** *Prioritization*
-  - **(1)** *In general* The Secretary, in collaboration with the Administrator of the Health Resources and Services Administration, shall examine technology-enabled collaborative learning and capacity building models and the ability of such models to improve patient care and provider education.
-  - **(2)** *Considerations* The examination required under paragraph (1) shall include an examination of the ability of technology-enabled collaborative learning and capacity building models to address each of the following:
-    - **(A)** Mental health and substance use disorders, including prescription drug and opioid abuse.
-    - **(B)** Chronic care for patients of all ages, including children, with chronic diseases.
-    - **(C)** Complex care or care for the sickest and most vulnerable patients, including pediatric patients.
-    - **(D)** Primary care workforce recruitment, retention, and support for life-long learning.
-    - **(E)** Specialty care shortages.
-    - **(F)** Public health programs, including disease prevention, outbreaks, and surveillance.
-    - **(G)** Implementation of disease prevention guidelines.
-    - **(H)** Health care in rural areas, frontier areas, health professional shortage areas, medically underserved populations, and medically underserved areas.
-    - **(I)** Advanced care planning and palliative care.
-    - **(J)** Trauma-informed care.
-    - **(K)** Pregnancy care and maternal health.
-    - **(L)** Other health conditions and health workforce issues that the Secretary determines appropriate.
-  - **(3)** *Consultation* In the examination of technology-enabled collaborative learning and capacity building models required under paragraph (1), the Secretary, in collaboration with the Administrator of the Health Resources and Services Administration, shall consult public and private stakeholders with expertise using such models in health care settings.
-  - **(4)** *Federal study* Not later than 2 years after the date of enactment of this Act, the Secretary, in collaboration with the Administrator of the Health Resources and Services Administration, shall publish a study based on the examination of technology-enabled collaborative learning and capacity building models required under paragraph (1). Such study shall include an analysis of each of the following:
-    - **(A)** The use and integration of such models by health providers.
-    - **(B)** The impact of such models on health provider retention and health provider shortages in the States in which such models have been adopted.
-    - **(C)** Recommendations regarding the role of such models in continuing medical education and lifelong learning, including the role of academic medical centers, provider organizations, and community providers in such training.
-    - **(D)** The barriers to adoption by primary care providers and academic medical centers.
-    - **(E)** The impact of such models on the ability of local health providers and specialists to perform at the top of their licensure, including the effects on patient wait times for specialty care.
-- **(b)** *GAO study*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall prepare and publish a report on technology-enabled collaborative learning and capacity building models. Such report shall analyze each of the following:
-    - **(A)** The use and integration of such models by health providers across the States.
-    - **(B)** How the Secretary has supported the use of such models through programs of the Department of Health and Human Services.
-    - **(C)** The impact of such models on health care, including the impact on patient quality of care and patient access to care, in the States in which such models have been adopted.
-    - **(D)** The reasons for successful State and community adoption of such models.
-    - **(E)** The barriers for States and communities to adopt such models.
-    - **(F)** Efficiencies and potential cost savings from such models.
-    - **(G)** How Federal, State, and local governments are funding such models, if at all.
-    - **(H)** Opportunities for increased adoption of such models in agencies of the Department of Health and Human Services, including the integration of such models into existing programs.
-  - **(2)** *Considerations* The analysis conducted through the report under paragraph (1) shall consider the ability of technology-enabled collaborative learning and capacity building models to address each of the following:
-    - **(A)** Mental health and substance use disorders, including prescription drug and opioid abuse.
-    - **(B)** Chronic care for patients of all ages, including children, with chronic diseases.
-    - **(C)** Complex care or care for the sickest and most vulnerable patients, including pediatric patients.
-    - **(D)** Primary care workforce recruitment, retention, and support for life-long learning.
-    - **(E)** Specialty care shortages.
-    - **(F)** Public health programs, including disease prevention, outbreaks, and surveillance.
-    - **(G)** Implementation of disease prevention guidelines.
-    - **(H)** Health care in rural areas, frontier areas, health professional shortage areas, medically underserved populations, and medically underserved areas.
-    - **(I)** Advanced care planning and palliative care.
-    - **(J)** Trauma-informed care.
-    - **(K)** Pregnancy care and maternal health.
-- **(c)** *Report to Congress* Not later than 18 months after the publication of the report conducted by the Comptroller General of the United States under subsection (b), the Secretary shall submit a report to Congress addressing each of the following:
-  - **(1)** How the findings from the report published under subsection (b) have been addressed.
-  - **(2)** Recommendations to Congress based on the findings of the study published under subsection (a)(4).
-  - **(3)** A complete listing of technology-enabled collaborative learning and capacity building models that have been funded by the Department of Health and Human Services.
-  - **(4)** A toolkit regarding best practices for implementing such models in the States.
+- **(a)** *Examination*
+  - **(1)** *In general* The Secretary shall examine technology-enabled collaborative learning and capacity building models and their impact on—
+    - **(A)** addressing mental and substance use disorders, chronic diseases and conditions, prenatal and maternal health, pediatric care, pain management, and palliative care;
+    - **(B)** addressing health care workforce issues, such as specialty care shortages and primary care workforce recruitment, retention, and support for lifelong learning;
+    - **(C)** the implementation of public health programs, including those related to disease prevention, infectious disease outbreaks, and public health surveillance;
+    - **(D)** the delivery of health care services in rural areas, frontier areas, health professional shortage areas, and medically underserved areas, and to medically underserved populations and Native Americans; and
+    - **(E)** addressing other issues the Secretary determines appropriate.
+  - **(2)** *Consultation* In the examination required under paragraph (1), the Secretary shall consult public and private stakeholders with expertise in using technology-enabled collaborative learning and capacity building models in health care settings.
+- **(b)** *Report*
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and post on the appropriate website of the Department of Health and Human Services, a report based on the examination under subsection (a).
+  - **(2)** *Contents* The report required under paragraph (1) shall include findings from the examination under subsection (a) and each of the following:
+    - **(A)** An analysis of—
+      - **(i)** the use and integration of technology-enabled collaborative learning and capacity building models by health care providers;
+      - **(ii)** the impact of such models on health care provider retention, including in health professional shortage areas in the States and communities in which such models have been adopted;
+      - **(iii)** the impact of such models on the quality of, and access to, care for patients in the States and communities in which such models have been adopted;
+      - **(iv)** the barriers faced by health care providers, States, and communities in adopting such models;
+      - **(v)** the impact of such models on the ability of local health care providers and specialists to practice to the full extent of their education, training, and licensure, including the effects on patient wait times for specialty care; and
+      - **(vi)** efficient and effective practices used by States and communities that have adopted such models, including potential cost-effectiveness of such models.
+    - **(B)** A list of such models that have been funded by the Secretary in the 5 years immediately preceding such report, including the Federal programs that have provided funding for such models.
+    - **(C)** Recommendations to reduce barriers for using and integrating such models, and opportunities to improve adoption of, and support for, such models as appropriate.
+    - **(D)** Opportunities for increased adoption of such models into programs of the Department of Health and Human Services that are in existence as of the report.
+    - **(E)** Recommendations regarding the role of such models in continuing medical education and lifelong learning, including the role of academic medical centers, provider organizations, and community providers in such education and lifelong learning.
