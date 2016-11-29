@@ -44,14 +44,12 @@ This Act may be cited as the “United States-Israel Cybersecurity Cooperation E
       - **(i)** one shall be a representative of the Federal Government;
       - **(ii)** one shall be selected from a list of nominees provided by the United States-Israel Binational Science Foundation; and
       - **(iii)** one shall be selected from a list of nominees provided by the United States-Israel Binational Industrial Research and Development Foundation.
-  - **(6)** *Contributed funds* Notwithstanding any other provision of law, the Secretary may accept, retain, and use funds contributed by any person, government entity, or organization for purposes of carrying out this subsection—
-    - **(A)** without further appropriation; and
-    - **(B)** without fiscal year limitation.
+  - **(6)** *Contributed funds* Notwithstanding any other provision of law, the Secretary may accept or retain funds contributed by any person, government entity, or organization for purposes of carrying out this subsection. Such funds shall be available, subject to appropriation, without fiscal year limitation.
   - **(7)** *Report* Not later than 180 days after the date of completion of a project for which a grant is provided under this subsection, the grant recipient shall submit to the Secretary a report that contains—
     - **(A)** a description of how the grant funds were used by the recipient; and
     - **(B)** an evaluation of the level of success of each project funded by the grant.
   - **(8)** *Classification* Grants shall be awarded under this subsection only for projects that are considered to be unclassified by both the United States and Israel.
-- **(b)** *Termination* The grant program and the advisory committee established under this section terminate on the date that is seven years after the date of the enactment of this Act.
+- **(b)** *Termination* The grant program and the advisory board established under this section terminate on the date that is seven years after the date of the enactment of this Act.
 - **(c)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this Act.
 - **(d)** *Definitions* In this section—
   - **(1)** the term “cybersecurity research” means research, including social science research, into ways to identify, protect against, detect, respond to, and recover from cybersecurity threats;
