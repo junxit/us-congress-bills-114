@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5790
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5790
@@ -16,7 +16,7 @@ Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Cosponsors (9)
+## Cosponsors (12)
 
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
@@ -27,6 +27,9 @@ Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016
 - Rep. Blum, Rod [R-IA-1] (B001294)
 - Rep. Rice, Tom [R-SC-7] (R000597)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
 ## Committees (1)
 
@@ -37,3 +40,8 @@ Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Introduced in House
 - 2016-07-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-09-15 — Committee Consideration and Mark-up Session Held.
+- 2016-09-15 — Ordered to be Reported by Unanimous Consent.
+- 2016-11-29 — Placed on the Union Calendar, Calendar No. 656.
+- 2016-11-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-835.
+- 2016-11-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-835.
