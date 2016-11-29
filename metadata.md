@@ -1,7 +1,7 @@
 ---
 measure: S. 2873
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2873
@@ -61,3 +61,15 @@ Expanding Capacity for Health Outcomes Act
 - 2016-11-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
 - 2016-11-29 — Senate amendment agreed to: Amendment SA 5110 agreed to in Senate by Unanimous Consent.
 - 2016-11-29 — Senate amendment proposed (on the floor): Amendment SA 5110 proposed by Senator Daines for Senator Alexander.(consideration: CR S6525-6526; text: CR S6525-6526)
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7198-7199)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 2873.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7198)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7198)
+- 2016-12-08 — Presented to President.
+- 2016-12-08 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-270.
+- 2016-12-14 — Became Public Law No: 114-270.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
