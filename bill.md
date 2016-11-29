@@ -18,7 +18,7 @@ This Act may be cited as the “United States-Israel Advanced Research Partnersh
 - **(a)** *Homeland Security Act of 2002* Section 317 of the Homeland Security Act of 2002 (6 U.S.C. 195c) is amended—
   - **(1)** in subsection (e)—
     - **(A)** in paragraph (1), by striking “and” after the semicolon;
-    - **(B)** in paragraph (2), by striking the period at the end and inserting a semicolon; and
+    - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
     - **(C)** by inserting after paragraph (2) the following new paragraphs:
       > - **(3)** for international cooperative activities identified in the previous reporting period, a status update on the progress of such activities, including whether goals were realized, explaining any lessons learned, and evaluating overall success; and
       > - **(4)** a discussion of obstacles encountered in the course of forming, executing, or implementing agreements for international cooperative activities, including administrative, legal, or diplomatic challenges or resource constraints.

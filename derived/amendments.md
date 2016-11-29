@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5877
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `6 U.S.C. § 195c` | strike | in paragraph (1), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 195c` | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 195c` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 195c` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 195c` | redesignate | by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 195c` | insert | by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
