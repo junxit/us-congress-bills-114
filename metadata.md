@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6297
 congress: 114
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6297
@@ -59,3 +59,5 @@ Iran Sanctions Extension Act
 - 2016-11-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 577). (text: CR H6202)
 - 2016-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 577).(text: CR H6202)
 - 2016-11-16 — Received in the Senate.
+- 2016-11-28 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2016-11-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.
