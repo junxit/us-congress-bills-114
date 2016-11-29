@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5166
 
-> To amend title 38, United States Code, to provide certain employees of Members of Congress and certain employees of State or local governmental agencies with access to case-tracking information of the Department of Veterans Affairs.
+> Amend title 38, United States Code, to permit veterans to grant access to their records in the databases of the Veterans Benefits Administration to certain designated congressional employees, and for other purposes.
 
 ## § 1. Short title
 
@@ -16,22 +16,25 @@ This Act may be cited as the “Working to Integrate Networks Guaranteeing Membe
 ## § 2. Provision of access to case-tracking information
 
 - **(a)** *In general* Chapter 59 of title 38, United States Code, is amended by adding at the end the following:
-  > ## § 5906. Provision of access to case-tracking information
+  > ## § 5906. Access of certain congressional employees to veteran records
   >
   > - **(a)** *In general*
-  >   - **(1)** Beginning not later than 180 days after the date of the enactment of this Act, and in accordance with subsection (b), the Secretary shall provide an accredited, permanent Congressional employee with read-only remote access to the electronic Veterans Benefits Administration (VBA) claims records of the veteran they represent, regardless of whether such employee is acting under a power of attorney executed by such veteran.
-  >   - **(2)** In providing an accredited, permanent Congressional employee with access to the electronic VBA claims records system under paragraph (1), the Secretary shall ensure that such access is provided in a manner that does not allow such employee to modify the data contained in such system.
-  > - **(b)** *Certification required*
-  >   - **(1)** The Secretary may not provide a permanent Congressional employee with access to the case-tracking system under subsection (a)(1) unless the accredited, permanent Congressional employee has successfully completed the certification process described in paragraph (2).
-  >   - **(2)** The certification process described in this paragraph is the certification process that the Secretary requires an agent or attorney under this chapter to complete before the agent or attorney may access the case-tracking system.
-  >   - **(3)** Each Member of Congress who elects to have an accredited, permanent Congressional employee of the Member participate in the case-tracking system under subsection (a)(1) shall bear the cost of the certification process described in paragraph (2), to be paid from the Member's Representational Allowance.
-  > - **(c)** *Treatment of disclosure* The access to information by an accredited, permanent Congressional employee pursuant to subsection (a)(1) shall be deemed to be—
-  >   - **(1)** a covered disclosure under section 552a(b) of title 5; and
-  >   - **(2)** a permitted disclosure under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
-  > - **(d)** *Nonrecognition* The Secretary may not recognize an accredited, permanent Congressional employee for the preparation, presentation, and prosecution of claims under laws administered by the Secretary by reason of the Secretary providing the accredited, permanent Congressional employee with access to the electronic VBA claims records system pursuant to subsection (a). An accredited, permanent Congressional employee who is provided such access may not use such access to act as such a recognized individual.
-  > - **(e)** *Definitions* In this section:
-  >   - **(1)** The term electronic VBA claims records system means the system of the Department of Veterans Affairs that provides information regarding the status of a claim submitted by a veteran, including information regarding medical records, compensation and pension exams records, rating decisions, statement of the case (SOC), supplementary statement of the case (SSOC), notice of disagreement (NOD), and Form–9.
-  >   - **(2)** The term accredited, permanent Congressional employee means an employee of a Member of Congress who assists the constituents of the Member with issues regarding departments or agencies of the Federal Government.
-  >   - **(3)** The term Member of Congress means a Representative, a Senator, a Delegate to Congress, or the Resident Commissioner of Puerto Rico.
+  >   - **(1)** The Secretary shall provide to each veteran who submits a claim for benefits under the laws administered by the Secretary an opportunity to permit a covered congressional employee employed in the office of the Member of Congress representing the district where the veteran resides to have access to all of the records of the veteran in the databases of the Veterans Benefits Administration.
+  >   - **(2)** Notwithstanding any other provision of law, upon receipt of permission from the veteran under paragraph (1), the Secretary shall provide read-only access to such records to such a covered congressional employee in a manner that does not allow such employee to modify the data contained in such records or in any part of a database of the Veterans Benefits Administration.
+  >   - **(3)** A Member of Congress may designate not more than two employees of the Member as covered congressional employees.
+  > - **(b)** *Covered congressional employees*
+  >   - **(1)** In this section, a covered congressional employee is a permanent, full-time employee of a Member of Congress—
+  >     - **(A)** whose responsibilities include assisting the constituents of the Member with issues regarding departments or agencies of the Federal Government;
+  >     - **(B)** who satisfies the criteria required by the Secretary for recognition as an agent or attorney under this chapter; and
+  >     - **(C)** who is designated by a Member of Congress as a covered congressional employee for purposes of this section.
+  >   - **(2)** The Secretary may not impose any requirement other than the requirements under paragraph (1) before treating an employee as a covered congressional employee for purposes of this section.
+  > - **(c)** *Nonrecognition* A covered congressional employee may not be recognized as an agent or attorney under this chapter.
+  > - **(d)** *Limitation on use of funds* None of the amounts made available to carry out this section may be used to design, develop, or administer any training for purposes of providing training to covered congressional employees.
+  > - **(e)** *Authorization of appropriations*
+  >   - **(1)** No additional funds are authorized to be appropriated to carry out this section. This section may only be carried out using amounts otherwise authorized to be appropriated.
+  >   - **(2)** For the period of fiscal years 2017 through 2020, not more than $10,000,000 may be made available to carry out this section.
+  > - **(f)** *Definitions* In this section:
+  >   - **(1)** The term “database of the Veterans Benefits Administration” means any database of the Veterans Benefits Administration in which the records of veterans relating to claims for benefits under the laws administered by the Secretary are retained, including information regarding medical records, compensation and pension exams records, rating decisions, statements of the case, supplementary statements of the case, notices of disagreement, Form–9, and any successor form.
+  >   - **(2)** The term Member of Congress means a Representative, a Senator, a Delegate to Congress, or the Resident Commissioner of Puerto Rico.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
