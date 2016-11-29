@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6302
@@ -25,3 +25,8 @@ Overtime Pay for Protective Services Act of 2016
 - 2016-11-14 — Introduced in House
 - 2016-11-14 — Introduced in House
 - 2016-11-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-11-16 — Committee Consideration and Mark-up Session Held.
+- 2016-11-16 — Ordered to be Reported by Voice Vote.
+- 2016-11-29 — Placed on the Union Calendar, Calendar No. 658.
+- 2016-11-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-837.
+- 2016-11-29 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-837.
