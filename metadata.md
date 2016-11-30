@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5166
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5166
@@ -174,3 +174,4 @@ Working to Integrate Networks Guaranteeing Member Access Now Act
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6338-6339)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6338-6339)
 - 2016-11-29 — The title of the measure was amended. Agreed to without objection.
+- 2016-11-30 — Received in the Senate.
