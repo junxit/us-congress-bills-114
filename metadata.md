@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 165
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 165
@@ -51,3 +51,4 @@ Expressing the sense of Congress and reaffirming longstanding United States poli
 - 2016-11-29 — Mr. Royce moved to suspend the rules and agree to the resolution.
 - 2016-11-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text of measure as passed: CR H6345-6346)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text of measure as passed: CR H6345-6346)
+- 2016-11-30 — Received in the Senate.
