@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6138
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6138
@@ -80,3 +80,11 @@ To designate the facility of the United States Postal Service located at 560 Eas
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-11-16 — Committee Consideration and Mark-up Session Held.
+- 2016-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2016-11-30 — Considered under suspension of the rules. (consideration: CR H7016-7017)
+- 2016-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6138.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7016)
+- 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7016)
