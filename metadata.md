@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5047
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5047
@@ -47,6 +47,10 @@ Protecting Veterans' Educational Choice Act of 2016
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-11-30 — [House 114-2-591](votes/house-114-2-0591.md) — On Motion to Suspend the Rules and Pass — **Passed** (411–3)
+
 ## Actions
 
 - 2016-04-25 — Introduced in House
@@ -58,3 +62,11 @@ Protecting Veterans' Educational Choice Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 637.
 - 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-813.
 - 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-813.
+- 2016-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-11-29 — Considered under suspension of the rules. (consideration: CR H6337-6338; text of measure as reported in House: CR H6337)
+- 2016-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5047.
+- 2016-11-29 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2016-11-30 — Considered as unfinished business. (consideration: CR H6893-6894)
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 591).
+- 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 591).
