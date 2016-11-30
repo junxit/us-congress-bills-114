@@ -1,7 +1,7 @@
 ---
 measure: S. 2944
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2944
@@ -30,9 +30,10 @@ Public Safety Officers' Benefits Improvement Act of 2016
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -56,3 +57,6 @@ Public Safety Officers' Benefits Improvement Act of 2016
 - 2016-11-29 — Senate amendment submitted
 - 2016-11-29 — Senate amendment submitted
 - 2016-11-29 — The committee amendments withdrawn by Unanimous Consent. (consideration: CR S6573)
+- 2016-11-30 — Message on Senate action sent to the House.
+- 2016-11-30 — Received in the House.
+- 2016-11-30 — Referred to the House Committee on the Judiciary.
