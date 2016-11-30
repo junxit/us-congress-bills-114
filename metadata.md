@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6009
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6009
@@ -34,3 +34,9 @@ Federal Agency Mail Management Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 647.
 - 2016-11-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-825.
 - 2016-11-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-825.
+- 2016-11-30 — Considered under suspension of the rules. (consideration: CR H7011-7012)
+- 2016-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6009.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7011-7012)
+- 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7011-7012)
