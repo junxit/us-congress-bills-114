@@ -2,31 +2,74 @@
 legis-num: H. CON. RES. 122
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H. CON. RES. 122
 
-> Supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally.
+That the resolution from the House of Representatives (H. Con. Res. 122) entitled “Concurrent resolution supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally.”, do pass with the following
 
-## Preamble
+*(1)Strike all after the resolving clause and insert the following:*
 
-- Whereas this resolution may be cited as the “Protection of the Right of Tribes to stop the Export of Cultural and Traditional Patrimony Resolution” or the “PROTECT Patrimony Resolution”;
-- Whereas the tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians (collectively “tribes” or “Native Americans”) in the United States of America include ancestral remains, funerary objects, sacred objects, and objects of cultural patrimony (hereinafter “tribal cultural items”), which are objects that have ongoing historical, traditional, or cultural importance central to a Native American group or culture itself, and which, therefore, cannot be alienated, appropriated, or conveyed by any individual;
-- Whereas tribal cultural items are vital to tribal cultural survival and the maintenance of tribal ways of life;
-- Whereas the nature and the description of tribal cultural items are sensitive and to be treated with respect and confidentiality, as appropriate;
-- Whereas violators often export tribal cultural items overseas with the intent of evading Federal and tribal laws;
-- Whereas tribal cultural items continue to be removed from tribal possession and sold in black or public markets in violation of Federal and tribal laws, including laws designed to protect tribal cultural property rights;
-- Whereas the illegal trade of tribal cultural items involves a sophisticated and lucrative black market, as items make their way through domestic markets, and then are often exported overseas;
-- Whereas auction houses in foreign countries have held sales of tribal cultural items from the Pueblo of Acoma, the Pueblo of Laguna, the Pueblo of San Felipe, the Hopi Tribe, and other tribes;
-- Whereas after tribal cultural items are exported abroad, tribes have difficulty stopping the sale of these items and securing their repatriation to their home communities, where the items belong;
-- Whereas Federal agencies have a responsibility to consult with tribes to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items;
-- Whereas an increase in the investigation and successful prosecution of violations of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.) and the Archaeological Resources Protection Act (16 U.S.C. 470aa–470mm) is necessary to deter illegal traders; and
-- Whereas many tribes and tribal organizations have passed resolutions condemning the theft and sale of tribal cultural items, including— (1)the National Congress of American Indians passed Resolutions SAC–12–008 and SD–15–075 to call upon the United States, in consultation with tribes, to address international repatriation and take affirmative actions to stop the theft and illegal sale of tribal cultural items both domestically and abroad; (2)the All Pueblo Council of Governors, representative of 20 Pueblo Indian tribes, noting that the Pueblo Indian tribes of the southwestern United States have been disproportionately affected by the illegal sale of tribal cultural items both domestically and internationally and in violation of Federal and tribal laws, passed Resolutions Nos. 2015–12 and 2015–13 to call upon the United States, in consultation with tribes, to address international repatriation and take affirmative actions to stop the theft and illegal sale of tribal cultural items both domestically and abroad; (3)the United South and Eastern Tribes, an intertribal organization comprised of 26 federally recognized tribes, passed Resolution No. 2015:007, which calls upon the United States to address all means to support repatriation of ancestral remains and cultural items from beyond United States borders; and (4)the Inter-Tribal Council of the Five Civilized Tribes, uniting the Chickasaw, Choctaw, Cherokee, Muscogee (Creek), and Seminole Nations, passed Resolution No. 12–07, which requests that the United States assist in international repatriations and take immediate action, after consultation with tribes, to address repatriation: Now, therefore, be it
+## § 1. Short Title
 
-That Congress—
+This concurrent resolution may be cited as the “Protection of the Right of Tribes to stop the Export of Cultural and Traditional Patrimony Resolution” or the “PROTECT Patrimony Resolution”.
+
+## § 2. Definitions
+
+In this resolution:
+
+- **(1)** *Native American* The term Native American means—
+  - **(A)** with respect to an individual, an individual who is a member of an Indian tribe (as defined in section 2 of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001)); and
+  - **(B)** with respect to the cultural nature or significance of an item, right, or other object or concept, being of or significant to—
+    - **(i)** an Indian tribe (as defined in section 2 of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001)); or
+    - **(ii)** a Native Hawaiian organization (as defined in that section (25 U.S.C. 3001)).
+- **(2)** *Tribal cultural item* The term “tribal cultural item” has the meaning given the term “cultural item” in section 2 of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001).
+
+## § 3. Findings
+
+Congress finds the following:
+
+- **(1)** Tribal cultural items—
+  - **(A)** have ongoing historical, traditional, or cultural importance central to a Native American group or culture;
+  - **(B)** cannot be alienated, appropriated, or conveyed by any individual; and
+  - **(C)** are vital to Native American cultural survival and the maintenance of Native American ways of life.
+- **(2)** The nature and description of tribal cultural items are sensitive and to be treated with respect and confidentiality, as appropriate.
+- **(3)** Violators often export tribal cultural items internationally with the intent of evading Federal and tribal laws.
+- **(4)** Tribal cultural items continue to be removed from the possession of Native Americans and sold in black or public markets in violation of Federal and tribal laws, including laws designed to protect Native American cultural property rights.
+- **(5)** The illegal trade of tribal cultural items involves a sophisticated and lucrative black market, where the items are traded through domestic markets and then are often exported internationally.
+- **(6)** Auction houses in foreign countries have held sales of tribal cultural items from the Pueblo of Acoma, the Pueblo of Laguna, the Pueblo of San Felipe, the Hopi Tribe, and other Indian tribes.
+- **(7)** After tribal cultural items are exported internationally, Native Americans have difficulty stopping the sale of the items and securing their repatriation to their home communities, where the items belong.
+- **(8)** Federal agencies have a responsibility to consult with Native Americans to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items.
+- **(9)** An increase in the investigation and successful prosecution of violations of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.) and the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) is necessary to deter illegal trading in tribal cultural items.
+- **(10)** Many Indian tribes and tribal organizations have passed resolutions condemning the theft and sale of tribal cultural items, including the following:
+  - **(A)** The National Congress of American Indians passed Resolutions SAC–12–008 and SD–15–075 to call on the United States, in consultation with Native Americans—
+    - **(i)** to address international repatriation; and
+    - **(ii)** to take affirmative actions to stop the theft and illegal sale of tribal cultural items both domestically and internationally.
+  - **(B)** The All Pueblo Council of Governors, representative of 20 Pueblo Indian tribes—
+    - **(i)** noted that the Pueblo Indian tribes of the Southwestern United States have been disproportionately affected by the sale of tribal cultural items both domestically and internationally in violation of Federal and tribal laws; and
+    - **(ii)** passed Resolutions 2015–12 and 2015–13 to call on the United States, in consultation with Native Americans—
+      - **(I)** to address international repatriation; and
+      - **(II)** to take affirmative actions to stop the theft and illegal sale of tribal cultural items both domestically and internationally.
+  - **(C)** The United South and Eastern Tribes, an intertribal organization comprised of 26 federally recognized Indian tribes, passed Resolution 2015:007, which calls on the United States to address all means to support the repatriation of tribal cultural items from beyond United States borders.
+  - **(D)** The Inter-Tribal Council of the Five Civilized Tribes, uniting the Chickasaw, Choctaw, Cherokee, Muscogee (Creek), and Seminole Nations, passed Resolution 12–07, which requests that the United States, after consultation with Native Americans, assist in international repatriation and take immediate action to address repatriation.
+
+## § 4. Declaration of Congress
+
+Congress—
 
 - **(1)** condemns the theft, illegal possession or sale, transfer, and export of tribal cultural items;
-- **(2)** calls upon the Secretaries of the Department of the Interior, the Department of State, the Department of Commerce, and the Department of Homeland Security and the Attorney General to consult with tribes and traditional Native American religious leaders in addressing this important issue, to take affirmative action to stop these illegal practices, and to secure repatriation of tribal cultural items to tribes;
-- **(3)** supports the development of explicit restrictions on the export of tribal cultural items; and
-- **(4)** encourages State and local governments and interested groups and organizations to work cooperatively in deterring the theft, illegal possession or sale, transfer, and export of tribal cultural items and in securing the repatriation of tribal cultural items.
+- **(2)** calls on the Secretary of the Interior, the Secretary of State, the Secretary of Commerce, the Secretary of Homeland Security, and the Attorney General to consult with Native Americans, including traditional Native American religious leaders, in addressing the practices described in paragraph (1)—
+  - **(A)** to take affirmative action to stop the practices; and
+  - **(B)** to secure repatriation of tribal cultural items to Native Americans;
+- **(3)** supports the efforts of the Comptroller General of the United States—
+  - **(A)** to determine the scope of illegal trafficking in tribal cultural items domestically and internationally; and
+  - **(B)** to discuss with Native Americans, including traditional Native American religious leaders, relevant Federal officials, and other individuals and entities, as appropriate, the steps required—
+    - **(i)** to end illegal trafficking in, and the export of, tribal cultural items; and
+    - **(ii)** to secure repatriation of tribal cultural items to the appropriate Native Americans;
+- **(4)** supports the development of explicit restrictions on the export of tribal cultural items; and
+- **(5)** encourages State and local governments and interested groups and organizations to work cooperatively in—
+  - **(A)** deterring the theft, illegal possession or sale, transfer, and export of tribal cultural items; and
+  - **(B)** securing the repatriation of tribal cultural items to the appropriate Native Americans.
+
+*(2)Strike the preamble.*

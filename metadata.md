@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 122
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 122
@@ -58,3 +58,19 @@ Protection of the Right of Tribes to stop the Export of Cultural and Traditional
 - 2016-09-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5772-5773)
 - 2016-09-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5772-5773)
 - 2016-09-22 — Received in the Senate.
+- 2016-09-29 — Amendment SA 5106 agreed to in Senate by Unanimous Consent.
+- 2016-09-29 — Amendment SA 5106 proposed by Senator Fischer for Senator Udall. (consideration: CR S6287 text: CR S6287) In the nature of a substitute.
+- 2016-09-29 — Amendment SA 5107 agreed to in Senate by Unanimous Consent.
+- 2016-09-29 — Amendment SA 5107 proposed by Senator Fischer for Senator Udall. (consideration: CR S6287 text: CR S6287) To strike the preamble.
+- 2016-09-29 — Measure laid before Senate by unanimous consent. (consideration: CR S6286-6287)
+- 2016-09-29 — Message on Senate action sent to the House.
+- 2016-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.
+- 2016-09-29 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.
+- 2016-09-29 — Senate amendment agreed to: Amendment SA 5106 agreed to in Senate by Unanimous Consent.
+- 2016-09-29 — Senate amendment agreed to: Amendment SA 5107 agreed to in Senate by Unanimous Consent.
+- 2016-09-29 — Senate amendment proposed (on the floor): Amendment SA 5106 proposed by Senator Fischer for Senator Udall.(consideration: CR S6287 text: CR S6287)
+- 2016-09-29 — Senate amendment proposed (on the floor): Amendment SA 5107 proposed by Senator Fischer for Senator Udall.(consideration: CR S6287 text: CR S6287)
+- 2016-09-29 — Senate amendment submitted
+- 2016-09-29 — Senate amendment submitted
+- 2016-11-29 — Senate requests return of papers with respect to H.Con.Res. 122 by Unanimous Consent.
+- 2016-11-30 — Message on Senate action sent to the House.
