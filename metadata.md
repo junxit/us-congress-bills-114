@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6304
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6304
@@ -36,3 +36,13 @@ To designate the facility of the United States Postal Service located at 501 Nor
 - 2016-11-14 — Introduced in House
 - 2016-11-14 — Introduced in House
 - 2016-11-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2016-11-16 — Committee Consideration and Mark-up Session Held.
+- 2016-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2016-11-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gosar objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2016-11-30 — Considered as unfinished business. (consideration: CR H7048)
+- 2016-11-30 — Considered under suspension of the rules. (consideration: CR H7014-7015)
+- 2016-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6304.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7014)
+- 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7014)
