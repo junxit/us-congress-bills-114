@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4757
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4757
@@ -47,3 +47,4 @@ To expand the eligibility for headstones, markers, and medallions furnished by t
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 589). (text: CR H6336-6337)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 589).(text: CR H6336-6337)
 - 2016-11-29 — The title of the measure was amended. Agreed to without objection.
+- 2016-11-30 — Received in the Senate.
