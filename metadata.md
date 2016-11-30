@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 610
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 610
@@ -53,3 +53,7 @@ A resolution expressing support for the designation of the first Friday in Octob
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6281)
+- 2016-11-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-11-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6627)
+- 2016-11-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6627)
