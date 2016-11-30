@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5843
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5843
@@ -43,3 +43,4 @@ United States-Israel Cybersecurity Cooperation Enhancement Act of 2016
 - 2016-11-29 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6335)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6335)
+- 2016-11-30 — Received in the Senate.
