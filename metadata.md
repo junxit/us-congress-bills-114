@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 40
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 40
@@ -193,3 +193,4 @@ Encouraging reunions of divided Korean American families.
 - 2016-11-29 — Mr. Royce moved to suspend the rules and agree to the resolution.
 - 2016-11-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text of measure as passed: CR H6349)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text of measure as passed: CR H6349)
+- 2016-11-30 — Received in the Senate.
