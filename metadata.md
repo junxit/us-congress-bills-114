@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 934
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 934
@@ -16,6 +16,14 @@ Providing for consideration of the Senate amendment to the bill (H.R. 34) to aut
 
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2016-11-30 — [House 114-2-590](votes/house-114-2-0590.md) — On Agreeing to the Resolution — **Passed** (230–180)
+
 ## Actions
 
 - 2016-11-29 — Introduced in House
@@ -23,3 +31,9 @@ Providing for consideration of the Senate amendment to the bill (H.R. 34) to aut
 - 2016-11-29 — Providing for consideration for the Senate amendment to H.R. 34 and for consideration of H.R. 6392.
 - 2016-11-29 — The House Committee on Rules reported an original measure, H. Rept. 114-839, by Mr. Burgess.
 - 2016-11-29 — The House Committee on Rules reported an original measure, H. Rept. 114-839, by Mr. Burgess.
+- 2016-11-30 — Considered as privileged matter. (consideration: CR H6887-6893)
+- 2016-11-30 — DEBATE - The House proceeded with one hour of debate on H. Res. 934.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 180 (Roll no. 590). (text: CR H6887)
+- 2016-11-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 180 (Roll no. 590).(text: CR H6887)
+- 2016-11-30 — The previous question was ordered without objection. (consideration: CR H6892)

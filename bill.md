@@ -2,14 +2,14 @@
 legis-num: H. RES. 934
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 934
 
 > Providing for consideration of the Senate amendment to the bill (H.R. 34) to authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes, and providing for consideration of the bill (H.R. 6392) to amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision, and for other purposes.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 34) to authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Energy and Commerce or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 114-67 modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for 80 minutes, with 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce and 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 34) to authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Energy and Commerce or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 114–67 modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for 80 minutes, with 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce and 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
 
 ## § 2.
 
