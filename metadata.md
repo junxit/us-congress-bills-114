@@ -1,7 +1,7 @@
 ---
 measure: S. 3183
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3183
@@ -42,3 +42,19 @@ BOTS Act of 2016
 - 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
 - 2016-11-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6626-6627; text as passed Senate: CR S6626-6627)
 - 2016-11-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6626-6627; text as passed Senate: CR S6626-6627)
+- 2016-12-01 — Held at the desk.
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-01 — Received in the House.
+- 2016-12-05 — By Senator Thune from Committee on Commerce, Science, and Transportation filed written report. Report No. 114-391.
+- 2016-12-05 — By Senator Thune from Committee on Commerce, Science, and Transportation filed written report. Report No. 114-391.
+- 2016-12-07 — Considered by unanimous consent. (consideration: CR H7326-7327)
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Mrs. Blackburn asked unanimous consent to take from the Speaker's table and consider.
+- 2016-12-07 — On passage Passed without objection. (text: CR H7326-7327)
+- 2016-12-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7326-7327)
+- 2016-12-12 — Presented to President.
+- 2016-12-12 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-274.
+- 2016-12-14 — Became Public Law No: 114-274.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
