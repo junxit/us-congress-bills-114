@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5422
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5422
@@ -45,3 +45,4 @@ To ensure funding for the National Human Trafficking Hotline, and for other purp
 - 2016-11-29 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2016-11-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 588). (text: CR H6329-6330)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 588).(text: CR H6329-6330)
+- 2016-11-30 — Received in the Senate.
