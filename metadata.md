@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6323
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6323
@@ -86,3 +86,4 @@ To name the Department of Veterans Affairs health care system in Long Beach, Cal
 - 2016-11-29 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2016-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H6344)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H6344)
+- 2016-11-30 — Received in the Senate, read twice.
