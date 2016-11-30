@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 34
@@ -31,6 +31,10 @@ version: Engrossed Amendment Senate
 - House — Science, Space, and Technology Committee
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2016-11-30 — [House 114-2-592](votes/house-114-2-0592.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (392–26)
+
 ## Actions
 
 - 2015-01-06 — Introduced in House
@@ -57,3 +61,14 @@ version: Engrossed Amendment Senate
 - 2015-10-06 — Senate amendment proposed (on the floor): Amendment SA 2709 proposed by Senator Daines for Senator Thune.(consideration: CR S7171)
 - 2015-10-06 — Senate amendment submitted
 - 2015-10-06 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S7167-7171)
+- 2015-10-07 — Message on Senate action sent to the House.
+- 2015-11-30 — Star Print ordered on the errata sheet.
+- 2016-11-29 — Rules Committee Resolution H. Res. 934 Reported to House. Rule provides for consideration of H.R. 34 and H.R. 6392. Providing for consideration for the Senate amendment to H.R. 34 and for consideration of H.R. 6392.
+- 2016-11-30 — DEBATE - Pursuant to the provisions of H. Res. 934, the House proceeded with 80 minutes of debate on the motion to concur in the Senate amendment to H.R. 34, with an amendment.
+- 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-11-30 — Mr. Upton moved that the House agree with an amendment to the Senate amendment.
+- 2016-11-30 — ORDER OF PROCEDURE - Mr. Upton asked unanimous consent that the question of adopting a motion to concur in the Senate amendment to H.R. 34 with an amendment be subject to postponement as though under clause 8 of rule 20. Agreed to without objection. (consideration: CR H6894-7006; H7046-7047)
+- 2016-11-30 — On motion that the House agree with an amendment to the Agreed to by recorded vote: 392 - 26 (Roll no. 592).
+- 2016-11-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the amendment to the Senate amendment to H.R. 34, the Chair put the question on agreeing to the Senate amendment with an amendment and by voice vote, announced that the yeas had prevailed. Mr. McDermott demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2016-11-30 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Agreed to by recorded vote: 392 - 26 (Roll no. 592).
+- 2016-11-30 — The previous question was ordered pursuant to the rule. (consideration: CR H7006)
