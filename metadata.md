@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3286
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3286
@@ -59,3 +59,4 @@ HIRE Vets Act
 - 2016-11-29 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2016-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H6340-6341)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H6340-6341)
+- 2016-11-30 — Received in the Senate.
