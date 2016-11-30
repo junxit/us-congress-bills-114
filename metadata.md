@@ -1,7 +1,7 @@
 ---
 measure: S. 3183
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3183
@@ -16,7 +16,7 @@ BOTS Act of 2016
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Fischer, Deb [R-NE] (F000463)
@@ -24,6 +24,8 @@ BOTS Act of 2016
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -38,3 +40,5 @@ BOTS Act of 2016
 - 2016-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2016-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2016-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
+- 2016-11-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6626-6627; text as passed Senate: CR S6626-6627)
+- 2016-11-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6626-6627; text as passed Senate: CR S6626-6627)
