@@ -1,7 +1,7 @@
 ---
 measure: S. 3386
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3386
@@ -16,9 +16,10 @@ Silver Star Service Banner Day Act
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Silver Star Service Banner Day Act
 
 - 2016-09-22 — Introduced in Senate
 - 2016-09-22 — Read twice and referred to the Committee on the Judiciary.
+- 2016-11-30 — Passed Senate without amendment by Unanimous Consent. (text: CR S6628)
+- 2016-11-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6628)
+- 2016-11-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6628)
+- 2016-11-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6628)
