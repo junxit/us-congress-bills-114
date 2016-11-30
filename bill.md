@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 34
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 34
 
-That the House agree to the amendment of the Senate to the bill (H.R. 34) entitled “An Act to authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be added after the enacting clause, insert the following:*
+> To accelerate the discovery, development, and delivery of 21st century cures, and for other purposes.
 
 ## § 1. Short title; table of contents
 

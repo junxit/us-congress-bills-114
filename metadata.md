@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 34
@@ -16,7 +16,7 @@ version: Engrossed Amendment House
 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Cosponsors (7)
+## Cosponsors (15)
 
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
@@ -25,15 +25,25 @@ version: Engrossed Amendment House
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (2)
 
 - House — Science, Space, and Technology Committee
 - Senate — Commerce, Science, and Transportation Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2016-11-30 — [House 114-2-592](votes/house-114-2-0592.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (392–26)
+- 2016-12-05 — [Senate 114-2-156](votes/senate-114-2-0156.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–13)
+- 2016-12-07 — [Senate 114-2-157](votes/senate-114-2-0157.md) — On the Motion — **Motion Agreed to** (94–5)
 
 ## Actions
 
@@ -72,3 +82,62 @@ version: Engrossed Amendment House
 - 2016-11-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the amendment to the Senate amendment to H.R. 34, the Chair put the question on agreeing to the Senate amendment with an amendment and by voice vote, announced that the yeas had prevailed. Mr. McDermott demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
 - 2016-11-30 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Agreed to by recorded vote: 392 - 26 (Roll no. 592).
 - 2016-11-30 — The previous question was ordered pursuant to the rule. (consideration: CR H7006)
+- 2016-12-01 — Amendment SA 5117 proposed by Senator McConnell. (consideration: S6646; text: CR S6646) To change the enactment date.
+- 2016-12-01 — Amendment SA 5118 proposed by Senator McConnell to Amendment SA 5117. (consideration: S6646; text: CR S6646) To change the enactment date.
+- 2016-12-01 — Amendment SA 5119 proposed by Senator McConnell. (consideration: S6646; text: CR S6646) To change the enactment date.
+- 2016-12-01 — Amendment SA 5120 proposed by Senator McConnell to Amendment SA 5119 (the instructions of the motion to refer). (consideration: S6646; text: CR S6646) To change the enactment date.
+- 2016-12-01 — Amendment SA 5121 proposed by Senator McConnell to Amendment SA 5120. (consideration: S6646; text: CR S6646) To change the enactment date.
+- 2016-12-01 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 34 presented in Senate. (consideration: S6645; text: CR S6645)
+- 2016-12-01 — Measure laid before Senate by unanimous consent. (consideration: S6645-6646, S6646-6649, S6650-6658)
+- 2016-12-01 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2016-12-01 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 34 made in Senate. (consideration: S6645)
+- 2016-12-01 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 34 with an amendment (SA 5117) made in Senate. (consideration: S6646)
+- 2016-12-01 — Motion by Senator McConnell to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany H.R. 34 with instructions to report back forthwith with the following amendment (SA 5119) made in Senate. (consideration: CR S6646)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5117 proposed by Senator McConnell.(consideration: S6646; text: CR S6646)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5118 proposed by Senator McConnell to Amendment SA 5117.(consideration: S6646; text: CR S6646)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5119 proposed by Senator McConnell.(consideration: S6646; text: CR S6646)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5120 proposed by Senator McConnell to Amendment SA 5119 (the instructions of the motion to refer).(consideration: S6646; text: CR S6646)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5121 proposed by Senator McConnell to Amendment SA 5120.(consideration: S6646; text: CR S6646)
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-05 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 34 invoked in Senate by Yea-Nay Vote. 85 - 13. Record Vote Number: 156. (consideration: CR S6697; text: CR S6697)
+- 2016-12-05 — Considered by Senate (Message from the House considered). (consideration: CR S6686-6696, S6697-6699)
+- 2016-12-05 — Considered by Senate. (consideration: CR S6686)
+- 2016-12-05 — Considered by Senate. (consideration: CR S6686)
+- 2016-12-05 — Considered by Senate. (consideration: CR S6686)
+- 2016-12-05 — Considered by Senate. (consideration: CR S6686)
+- 2016-12-05 — Considered by Senate. (consideration: CR S6686)
+- 2016-12-05 — Motion by Senator McConnell to refer to Senate Committee on Health, Education, Labor, and Pensions fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 34 in Senate.
+- 2016-12-05 — Pursuant to the provisions of H. Con. Res. 174, enrollment corrections on H.R. 34 have been made.
+- 2016-12-05 — SA 5119 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 34.
+- 2016-12-05 — SA 5120 fell when SA 5119 fell.
+- 2016-12-05 — SA 5121 fell when SA 5120 fell.
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-06 — Considered by Senate (Message from the House considered). (consideration: CR S6719-6730)
+- 2016-12-06 — Considered by Senate. (consideration: CR S6719)
+- 2016-12-06 — Considered by Senate. (consideration: CR S6719)
+- 2016-12-06 — Senate amendment submitted
+- 2016-12-07 — Considered by Senate (Message from the House considered). (consideration: CR S6769-6795)
+- 2016-12-07 — Considered by Senate. (consideration: CR S6769, S6794)
+- 2016-12-07 — Considered by Senate. (consideration: CR S6769, S6794)
+- 2016-12-07 — Message on Senate action sent to the House.
+- 2016-12-07 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 34 with an amendment (SA 5117) agreed to in Senate by Voice Vote.
+- 2016-12-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 34 by Yea-Nay Vote. 94 - 5. Record Vote Number: 157.
+- 2016-12-07 — SA 5118 fell when the motion to concur in the House amendment to the Senate amendment to H.R. 34 with an amendment (SA 5117) tabled.
+- 2016-12-07 — Senate agreed to the House amendment to the Senate amendment to H.R. 34 by Yea-Nay Vote. 94 - 5. Record Vote Number: 157.
+- 2016-12-08 — Presented to President.
+- 2016-12-08 — Presented to President.
+- 2016-12-13 — Became Public Law No: 114-255.
+- 2016-12-13 — Became Public Law No: 114-255.
+- 2016-12-13 — Signed by President.
+- 2016-12-13 — Signed by President.
