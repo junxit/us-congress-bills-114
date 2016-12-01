@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6186
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6186
@@ -48,3 +48,4 @@ Follow the Rules Act
 - 2016-11-30 — Placed on the Union Calendar, Calendar No. 660.
 - 2016-11-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-842.
 - 2016-11-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-842.
+- 2016-12-01 — Received in the Senate.
