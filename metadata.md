@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6304
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6304
@@ -47,3 +47,12 @@ To designate the facility of the United States Postal Service located at 501 Nor
 - 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7014)
 - 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7014)
 - 2016-12-01 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7144)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7144)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-312.
+- 2016-12-16 — Became Public Law No: 114-312.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
