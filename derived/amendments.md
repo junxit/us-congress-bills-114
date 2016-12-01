@@ -1,7 +1,7 @@
 ---
 measure: S. 2201
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 14(a)(2) of such Act (relating to termination) shall be applied by striking “two-year period” and inserting “four-year period”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 3927` | add-at-end | Section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2420` | replace | in paragraph (7), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2420` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 14(a)(2) of such Act (relating to termination) shall be applied by striking “two-year period” and inserting “four-year period”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 3927` | add-at-end | Section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2420` | replace | in paragraph (7), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
