@@ -92,3 +92,7 @@ The table of contents for the Dodd-Frank Wall Street Reform and Consumer Protect
   - **(2)** $55,000,000 shall be transferred to the Federal Deposit Insurance Corporation to pay for any resolution costs resulting from this Act and the amendments made by this Act.
 - **(c)** *Treatment upon determination* A bank holding company assessed under this section shall no longer be subject to such assessments in the event it is subject to a final determination under section 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5323). Any prior payments made by such a banking holding company pursuant to an assessment under this section shall be nonrefundable.
 - **(d)** *Rule of construction* A bank holding company deemed to have been the subject of a final determination under section 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5323) under section 5(b) shall not be subject to assessments under subsection (a) solely by operation of section 5(b).
+
+## § 7. Rule of construction
+
+Nothing in this Act or the amendments made by this Act may be construed as broadly applying international standards except as specifically provided under paragraphs (2) and (3) of section 113(c) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, as added by section 3.
