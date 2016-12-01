@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2971
@@ -26,9 +26,10 @@ National Urban Search and Rescue Response System Act of 2016
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ National Urban Search and Rescue Response System Act of 2016
 - 2016-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
 - 2016-11-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6623-6626; text of measure as reported in Senate: CR S6623-6624; text as passed Senate: CR S6624-6626)
 - 2016-11-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6623-6626; text of measure as reported in Senate: CR S6623-6624; text as passed Senate: CR S6624-6626)
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-01 — Received in the House.
+- 2016-12-01 — Referred to the House Committee on Transportation and Infrastructure.
