@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6302
@@ -36,3 +36,4 @@ Overtime Pay for Protective Services Act of 2016
 - 2016-11-30 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7006-7007)
 - 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7006-7007)
+- 2016-12-01 — Received in the Senate, read twice.
