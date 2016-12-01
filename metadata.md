@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5047
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5047
@@ -70,3 +70,4 @@ Protecting Veterans' Educational Choice Act of 2016
 - 2016-11-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 591).
 - 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 591).
+- 2016-12-01 — Received in the Senate.
