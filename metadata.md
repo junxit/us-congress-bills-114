@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6393
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6393
@@ -41,3 +41,4 @@ Intelligence Authorization Act for Fiscal Year 2017
 - 2016-11-30 — Mr. Nunes moved to suspend the rules and pass the bill.
 - 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 30 (Roll no. 593). (text: CR H7028-7038)
 - 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 30 (Roll no. 593).(text: CR H7028-7038)
+- 2016-12-01 — Received in the Senate.
