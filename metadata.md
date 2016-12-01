@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 122
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 122
@@ -74,3 +74,8 @@ Protection of the Right of Tribes to stop the Export of Cultural and Traditional
 - 2016-09-29 — Senate amendment submitted
 - 2016-11-29 — Senate requests return of papers with respect to H.Con.Res. 122 by Unanimous Consent.
 - 2016-11-30 — Message on Senate action sent to the House.
+- 2016-12-01 — Message on Senate action sent to the House.
+- 2016-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-01 — Mr. Goodlatte asked unanimous consent to take from the Speaker's table and agree to the Senate amendments. (consideration: CR H7100)
+- 2016-12-01 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate Amendment: CR H7100)
+- 2016-12-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate Amendment: CR H7100)

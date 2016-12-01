@@ -1,15 +1,13 @@
 ---
 legis-num: H. CON. RES. 122
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 122
 
-That the resolution from the House of Representatives (H. Con. Res. 122) entitled “Concurrent resolution supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally.”, do pass with the following
-
-*(1)Strike all after the resolving clause and insert the following:*
+> Concurrent resolution supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally
 
 ## § 1. Short Title
 
@@ -71,5 +69,3 @@ Congress—
 - **(5)** encourages State and local governments and interested groups and organizations to work cooperatively in—
   - **(A)** deterring the theft, illegal possession or sale, transfer, and export of tribal cultural items; and
   - **(B)** securing the repatriation of tribal cultural items to the appropriate Native Americans.
-
-*(2)Strike the preamble.*
