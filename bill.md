@@ -2,7 +2,7 @@
 legis-num: H.R. 5384
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5384
@@ -26,6 +26,6 @@ This Act may be cited as the “Federal Register Printing Savings Act of 2016”
     >   - **(2)** *Administration of subscriptions* The regulations prescribed to carry out subsection (a)(4) shall include—
     >     - **(A)** provisions regarding notifications to offices of Members of Congress and other offices of the United States of the restrictions of paragraph (1);
     >     - **(B)** provisions describing the process by which Members and other offices may request a specific issue of the Federal Register for purposes of paragraph (1)(A); and
-    >     - **(C)** provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than one year.
+    >     - **(C)** provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than 1 year.
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect January 1, 2017.
