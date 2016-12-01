@@ -7,21 +7,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2058
 
-> To require the Secretary of Commerce to maintain and operate at least one Doppler weather radar site within 55 miles of each city in the United States that has a population of more than 700,000 individuals, and for other purposes.
+> To require the Secretary of Commerce to study the coverage gaps of the Next Generation Weather Radar of the National Weather Service and to develop a plan for improving radar coverage and hazardous weather detection and forecasting.
 
-## § 1. Short title
+## § 1. Study on gaps in NEXRAD coverage and requirement for plan to address such gaps
 
-This Act may be cited as the “Metropolitan Weather Hazards Protection Act of 2015”.
-
-## § 2. Requirement for operation of Doppler weather radar sites near large cities
-
-- **(a)** *Requirement* Beginning not later than 450 days after the date of the enactment of this Act, the Secretary of Commerce shall—
-  - **(1)** maintain and operate at least one Doppler weather radar site within 55 miles of each city in the United States that has a population of more than 700,000 individuals; and
-  - **(2)** ensure that each radar maintained and operated near a city described in paragraph (1) is available to the office of the National Weather Service that provides services to such city.
-- **(b)** *Standards* The Secretary shall ensure that each radar maintained and operated under subsection (a) conforms with the same standards that apply to radars operated by the Secretary, acting through the Administrator of the National Oceanic and Atmospheric Administration, on the day before the date of the enactment of this Act, including standards relating to the use of dual-polarization technology or other technologies included in Weather Surveillance Radar, 1988, Doppler (WSR–88D) radars.
-- **(c)** *Considerations* When determining the location for constructing a radar to meet the requirements of subsection (a), the Secretary shall take into consideration nearby counties that have populations of more than 130,000 and do not otherwise have radar beam coverage below 10,000 feet from Weather Surveillance Radar, 1988, Doppler (WSR–88D) radars.
-- **(d)** *Report*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report detailing the Doppler weather radar sites that need to be constructed or acquired in order to meet the requirement of subsection (a).
-  - **(2)** *Contents* The report submitted under paragraph (1) shall include the following:
-    - **(A)** Feasible locations for placement and construction of radar sites, determined by the Secretary to provide the necessary meteorological capabilities to best protect a city described in subsection (a).
-    - **(B)** A timeline for when construction or acquisition of each radar site will be complete.
+- **(a)** *Study on gaps in NEXRAD coverage*
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Commerce shall complete a study on gaps in the coverage of the Next Generation Weather Radar of the National Weather Service (referred to in this section as “NEXRAD”).
+  - **(2)** *Elements* In conducting the study required under paragraph (1), the Secretary shall—
+    - **(A)** identify areas in the United States with limited or no NEXRAD coverage below 6,000 feet above ground level of the surrounding terrain;
+    - **(B)** for the areas identified under subparagraph (A)—
+      - **(i)** identify the key weather effects for which prediction would improve with improved radar detection;
+      - **(ii)** identify additional sources of observations for high impact weather that were available and operational for such areas on the day before the date of the enactment of this Act, including Terminal Doppler Weather Radar (commonly known as “TDWR”), air surveillance radars of the Federal Aviation Administration, and cooperative network observers; and
+      - **(iii)** assess the feasibility and advisability of efforts to integrate and upgrade Federal radar capabilities that are not owned or controlled by the National Oceanic and Atmospheric Administration, including radar capabilities of the Federal Aviation Administration and the Department of Defense;
+    - **(C)** assess the feasibility and advisability of incorporating State-operated and other non-Federal radars into the operations of the National Weather Service;
+    - **(D)** identify options to improve radar coverage in the areas identified under subparagraph (A); and
+    - **(E)** estimate the cost of, and develop a timeline for, carrying out each of the options identified under subparagraph (D).
+  - **(3)** *Report* Upon the completion of the study required under paragraph (1), the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Appropriations of the House of Representatives that includes the findings of the Secretary with respect to the study.
+- **(b)** *Plan To improve radar coverage* Not later than 30 days after the completion of the study under subsection (a)(1), the Secretary of Commerce shall submit a plan to the congressional committees referred to in subsection (a)(3) for improving radar coverage in the areas identified under subsection (a)(2)(A) by integrating and upgrading, to the extent practicable, additional observation solutions to improve hazardous weather detection and forecasting.
+- **(c)** *Requirement for third-party reviews regarding plan To improve radar coverage* The Secretary of Commerce shall seek third-party reviews on scientific methodology relating to, and the feasibility and advisability of, implementing the plan submitted under subsection (b), including the extent to which warning and forecast services of the National Weather Service would be improved by additional NEXRAD coverage.

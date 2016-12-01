@@ -1,7 +1,7 @@
 ---
 measure: S. 2058
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2058
@@ -16,9 +16,10 @@ To require the Secretary of Commerce to study the coverage gaps of the Next Gene
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -32,3 +33,17 @@ To require the Secretary of Commerce to study the coverage gaps of the Next Gene
 - 2016-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-351.
 - 2016-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-351.
 - 2016-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
+- 2016-12-01 — Amendment SA 5123 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Amendment SA 5123 proposed by Senator Sullivan for Senator Burr. (consideration: CR S6679-6680; text: CR S6679-6680) In the nature of a substitute.
+- 2016-12-01 — Amendment SA 5124 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Amendment SA 5124 proposed by Senator Sullivan for Senator Burr. (consideration: CR S6680; text: CR S6680) To amend the title.
+- 2016-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S6679-6680; text of measure as reported in Senate: CR S6679)
+- 2016-12-01 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2016-12-01 — Senate amendment agreed to: Amendment SA 5123 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Senate amendment agreed to: Amendment SA 5124 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5123 proposed by Senator Sullivan for Senator Burr.(consideration: CR S6679-6680; text: CR S6679-6680)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5124 proposed by Senator Sullivan for Senator Burr.(consideration: CR S6680; text: CR S6680)
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S6679)
