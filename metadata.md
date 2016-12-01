@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 606
 congress: 114
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 606
@@ -48,3 +48,7 @@ A resolution honoring the memories and legacies of the 3 law enforcement officer
 
 - 2016-09-29 — Introduced in Senate
 - 2016-09-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6279)
+- 2016-12-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-12-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2016-12-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6680)
+- 2016-12-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6680)
