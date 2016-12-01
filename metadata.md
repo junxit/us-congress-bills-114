@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1561
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1561
@@ -16,7 +16,7 @@ Weather Research and Forecasting Innovation Act of 2016
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Bridenstine, Jim [R-OK-1] (B001283)
@@ -24,6 +24,7 @@ Weather Research and Forecasting Innovation Act of 2016
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (2)
 
@@ -47,3 +48,18 @@ Weather Research and Forecasting Innovation Act of 2016
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-126.
 - 2015-05-19 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-126.
 - 2015-05-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-12-01 — Amendment SA 5125 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Amendment SA 5125 proposed by Senator Sullivan for Senator Thune. (consideration: CR S6680) In the nature of a substitute.
+- 2016-12-01 — Amendment SA 5126 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Amendment SA 5126 proposed by Senator Sullivan for Senator Cantwell to Amendment SA 5125. (consideration: CR S6680) To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.
+- 2016-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S6680)
+- 2016-12-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2016-12-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2016-12-01 — Senate amendment agreed to: Amendment SA 5125 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Senate amendment agreed to: Amendment SA 5126 agreed to in Senate by Unanimous Consent.
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5125 proposed by Senator Sullivan for Senator Thune.(consideration: CR S6680)
+- 2016-12-01 — Senate amendment proposed (on the floor): Amendment SA 5126 proposed by Senator Sullivan for Senator Cantwell to Amendment SA 5125.(consideration: CR S6680)
+- 2016-12-01 — Senate amendment submitted
+- 2016-12-01 — Senate amendment submitted
