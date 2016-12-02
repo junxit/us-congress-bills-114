@@ -1,7 +1,7 @@
 ---
 measure: S. 3492
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3492
@@ -20,8 +20,16 @@ A bill to designate the Traverse City VA Community-Based Outpatient Clinic of th
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
+## Committees (1)
+
+- House — Veterans' Affairs Committee
+
 ## Actions
 
 - 2016-12-01 — Introduced in Senate
 - 2016-12-01 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6680-6681; text as passed Senate: CR S6681)
 - 2016-12-01 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6680-6681; text as passed Senate: CR S6681)
+- 2016-12-02 — Message on Senate action sent to the House.
+- 2016-12-02 — Received in the House.
+- 2016-12-02 — Referred to the House Committee on Veterans' Affairs.
+- 2016-12-02 — Referred to the Subcommittee on Health.
