@@ -1,7 +1,7 @@
 ---
 measure: S. 3492
 congress: 114
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3492
@@ -33,3 +33,15 @@ A bill to designate the Traverse City VA Community-Based Outpatient Clinic of th
 - 2016-12-02 — Received in the House.
 - 2016-12-02 — Referred to the House Committee on Veterans' Affairs.
 - 2016-12-02 — Referred to the Subcommittee on Health.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7245-7246)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 3492.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7245)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7245)
+- 2016-12-08 — Presented to President.
+- 2016-12-08 — Presented to President.
+- 2016-12-14 — Became Public Law No: 114-276.
+- 2016-12-14 — Became Public Law No: 114-276.
+- 2016-12-14 — Signed by President.
+- 2016-12-14 — Signed by President.
