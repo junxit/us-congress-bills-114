@@ -1,7 +1,7 @@
 ---
 measure: S. 2058
 congress: 114
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2058
@@ -21,9 +21,10 @@ To require the Secretary of Commerce to study the coverage gaps of the Next Gene
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ To require the Secretary of Commerce to study the coverage gaps of the Next Gene
 - 2016-12-01 — Senate amendment submitted
 - 2016-12-01 — Senate amendment submitted
 - 2016-12-01 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S6679)
+- 2016-12-02 — Message on Senate action sent to the House.
+- 2016-12-02 — Received in the House.
+- 2016-12-02 — Referred to the House Committee on Science, Space, and Technology.
