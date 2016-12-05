@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2726
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2726
 
-> To require the Secretary of the Treasury to mint commemorative coins in recognition of the 50th anniversary of the first manned landing on the moon.
+> To require the Secretary of the Treasury to mint commemorative coins in recognition of the 50th anniversary of the first manned landing on the Moon.
 
 ## § 1. Short title
 
@@ -17,21 +17,21 @@ This Act may be cited as the “Apollo 11 50th Anniversary Commemorative Coin Ac
 
 The Congress finds the following:
 
-- **(1)** On July 16, 1969, the Apollo 11 spacecraft launched from Cape Canaveral Air Force Station carrying Neil Armstrong, Buzz Aldrin, and Michael Collins, who would become the first of human kind to complete a crewed lunar landing.
+- **(1)** On July 16, 1969, the Apollo 11 spacecraft launched from Launch Complex 39A at the John F. Kennedy Space Center carrying Neil Armstrong, Buzz Aldrin, and Michael Collins, who would become the first of mankind to complete a crewed lunar landing.
 - **(2)** The United States is the only country ever to have attempted and succeeded in landing humans on a celestial body off the Earth and safely returning them home, completing an unprecedented engineering, scientific and political achievement.
 - **(3)** The Apollo 11 mission, culminating in man’s first steps on the Moon on July 20, 1969, honored the fallen astronauts of the Apollo 1 crew, whose innovative work and bravery will be remembered forever.
-- **(4)** Apollo 11 accomplished the national goal set forth in 1961 by President John F. Kennedy, who stated, “We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win”.
+- **(4)** Apollo 11 accomplished the national goal set forth in 1961 by President John F. Kennedy, who stated at Rice University the following year, “We choose to go to the Moon. We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win”.
 - **(5)** At the height of the Cold War, the Apollo space program provided the United States and the free world with a powerful symbolic win, demonstrating the strength, ambition, and determination of the United States in technological and economic advancement, and securing our Nation’s leadership in space for generations to come.
-- **(6)** Within nine years of establishing the national goal of human space exploration, the National Aeronautics and Space Administration (NASA) developed the Saturn V rocket, which was used for the Apollo missions in the 1960s and 1970s.
-- **(7)** The Saturn V weighed 6.2 million pounds and generated 7.6 million pounds of thrust, which NASA has equated to generating more power than 86 Hoover Dams.
-- **(8)** During the time period from 1969 through 1972 NASA completed eight Apollo missions and landed 12 men on the Moon. The six missions that landed on the moon returned with a wealth of groundbreaking scientific data and over 800 pounds of lunar samples.
+- **(6)** The National Aeronautics and Space Administration’s (referred to in this Act as “NASA”) Marshall Space Flight Center in Huntsville, Alabama, designed, assembled, and tested the most powerful launch vehicle in history, the Saturn V rocket, which was used for the Apollo missions in the 1960s and 1970s.
+- **(7)** The Saturn V weighed 6,200,000 pounds and generated 7,600,000 pounds of thrust, which NASA has equated to generating more power than 86 Hoover Dams.
+- **(8)** During the time period from 1969 through 1972, NASA completed eight Apollo missions and landed 12 men on the Moon. The 6 missions that landed on the Moon returned with a wealth of groundbreaking scientific data and over 800 pounds of lunar samples.
 - **(9)** An estimated 400,000 Americans contributed to the successful program that led to the lunar landing on July 20, 1969, including NASA scientists, engineers, astronauts, industry contractors and their engineering and manufacturing workforce, as well as the political leadership of Republicans and Democrats in Congress and the White House.
-- **(10)** The Apollo program, along with its predecessor Mercury and Gemini programs, inspired generations of American students to pursue careers in science, math and engineering, which has fueled innovation and economic growth throughout a range of industries over the last four decades.
+- **(10)** The Apollo program, along with its predecessor Mercury and Gemini programs, inspired generations of American students to pursue careers in science, technology, engineering, and mathematics (STEM), which has fueled innovation and economic growth throughout a range of industries over the last four decades.
 - **(11)** July 20, 2019, will mark the 50th anniversary of the Apollo 11 landing of Neil Armstrong and Buzz Aldrin on the lunar surface.
 
 ## § 3. Coin specifications
 
-- **(a)** *Denominations* In recognition and celebration of the 50th anniversary of the first manned moon landing, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
+- **(a)** *Denominations* In recognition and celebration of the 50th anniversary of the first manned Moon landing, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
   - **(1)** *$5 gold coins* Not more than 50,000 $5 coins, which shall—
     - **(A)** weigh 8.359 grams;
     - **(B)** be struck on a planchet having a diameter of 0.850 inches; and
@@ -39,7 +39,7 @@ The Congress finds the following:
   - **(2)** *$1 silver coins* Not more than 400,000 $1 coins, which shall—
     - **(A)** weigh 26.73 grams;
     - **(B)** be struck on a planchet having a diameter of 1.500 inches; and
-    - **(C)** contain at least 90 percent silver.
+    - **(C)** contain not less than 90 percent silver.
   - **(3)** *Half-dollar clad coins* Not more than 750,000 half-dollar coins which shall—
     - **(A)** weigh 11.34 grams;
     - **(B)** be struck on a planchet having a diameter of 1.205 inches; and
@@ -51,7 +51,7 @@ The Congress finds the following:
 - **(b)** *Legal Tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic Items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 - **(d)** *Convex shape*
-  - **(1)** *In general* The coins minted under this Act shall be produced in a fashion similar to the 2014 National Baseball Hall of Fame 75th Anniversary Commemorative Coin, so that the reverse of the coin is convex to more closely resemble the faceplate of the astronaut’s helmet of the time and the obverse concave, providing a more dramatic display of the obverse design chosen pursuant to section 4(c).
+  - **(1)** *In general* The coins minted under this Act shall be produced in a fashion similar to the 2014 National Baseball Hall of Fame 75th Anniversary Commemorative Coin, so that the reverse of the coin is convex to more closely resemble the visor of the astronaut’s helmet of the time and the obverse concave, providing a more dramatic display of the obverse design chosen pursuant to section 4(c).
   - **(2)** *Sense of Congress* It is the sense of Congress that, to the extent possible without significantly adding to the purchase price of the coins, the coins minted under this Act should be produced with the design of the reverse of the coins continuing over what would otherwise be the edge of the coins, such that the reverse design extends all the way to the obverse design.
 
 ## § 4. Design of coins
@@ -60,17 +60,17 @@ The Congress finds the following:
   - **(1)** selected by the Secretary after consultation with—
     - **(A)** the Commission of Fine Arts; and
     - **(B)** with respect to the design of the reverse of the coins, the Administrator of NASA; and
-  - **(2)** reviewed by the Citizens Commemorative Coin Advisory Committee.
+  - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 - **(b)** *Designations and Inscriptions* On each coin minted under this Act there shall be—
   - **(1)** a designation of the denomination of the coin;
   - **(2)** an inscription of the year “2019”; and
   - **(3)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(c)** *Selection and Approval Process for Obverse Design*
-  - **(1)** *In general* The Secretary shall hold a juried, compensated competition to determine the design of the common obverse of the coins minted under this Act, with such design being emblematic of the United States space program leading up to the first manned moon landing.
+  - **(1)** *In general* The Secretary shall hold a juried, compensated competition to determine the design of the common obverse of the coins minted under this Act, with such design being emblematic of the United States space program leading up to the first manned Moon landing.
   - **(2)** *Selection process* Proposals for the obverse design of coins minted under this Act may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
   - **(3)** *Proposals* As part of the competition described in this subsection, the Secretary may accept proposals from artists, engravers of the United States Mint, and members of the general public, and any designs submitted for the design review process described herein shall be anonymized until a final selection is made.
   - **(4)** *Compensation* The Secretary shall determine compensation for the winning design under this subsection, which shall be not less than $5,000.
-- **(d)** *Reverse Design* The design on the common reverse of the coins minted under this Act shall be a representation of a close-up of the famous “Buzz Aldrin on the Moon” photograph taken July 20, 1969, showing just the visor and part of the helmet of astronaut Edwin Eugene “Buzz” Aldrin, Jr., in which the visor reflects the image of the United States flag and the lunar lander.
+- **(d)** *Reverse Design* The design on the common reverse of the coins minted under this Act shall be a representation of a close-up of the famous “Buzz Aldrin on the Moon” photograph taken July 20, 1969, that shows just the visor and part of the helmet of astronaut Buzz Aldrin, in which the visor has a mirrored finish and reflects the image of the United States flag and the lunar lander and the remainder of the helmet has a frosted finish.
 
 ## § 5. Issuance of coins
 
@@ -108,7 +108,3 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 - **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
 - **(2)** no funds, including applicable surcharges, are disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, winning design compensation, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
-
-## § 9. Budget compliance
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
