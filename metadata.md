@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6415
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6415
@@ -29,3 +29,10 @@ To provide for the appointment of members of the Board of Directors of the Offic
 - 2016-12-01 — Introduced in House
 - 2016-12-01 — Introduced in House
 - 2016-12-01 — Referred to the House Committee on House Administration.
+- 2016-12-05 — Committee on House Administration discharged.
+- 2016-12-05 — Committee on House Administration discharged.
+- 2016-12-05 — Considered by unanimous consent. (consideration: CR H7178)
+- 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-05 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider.
+- 2016-12-05 — On passage Passed without objection. (text: CR H7178)
+- 2016-12-05 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7178)
