@@ -1,7 +1,7 @@
 ---
 measure: S. 1635
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1635
@@ -53,3 +53,15 @@ Department of State Authorities Act, Fiscal Year 2017
 - 2016-12-05 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 603). (text: CR H7160-7172)
 - 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 603).(text: CR H7160-7172)
+- 2016-12-06 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7167)
+- 2016-12-10 — Pursuant to the provisions of H. Con. Res. 181, enrollment corrections on S. 1635 have been made.
+- 2016-12-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1635 by Unanimous Consent.
+- 2016-12-10 — Senate agreed to the House amendment to S. 1635 by Unanimous Consent.
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-323.
+- 2016-12-16 — Became Public Law No: 114-323.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
