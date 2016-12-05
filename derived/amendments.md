@@ -1,7 +1,7 @@
 ---
 measure: S. 1635
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 13 executed, 51 stated and not applied.
+66 amendatory instructions. 11 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,59 +24,59 @@ to guess them.
 
 ## Executed
 
-### 22 U.S.C. § 2357
+### 22 U.S.C. § 4834
 
-> Section 607(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2357(d)) is amended by striking “Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs” and inserting “Assistant Secretary of State for Oceans, Environment, and Science”.
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs` |
-| Inserted | `Assistant Secretary of State for Oceans, Environment, and Science` |
-
-### 42 U.S.C. § 7671p
-
-> Section 617(a) of the Clean Air Act (42 U.S.C. 7671p(a)) is amended by striking “Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs” and inserting “Assistant Secretary of State for Oceans, Environment, and Science”.
+> by striking “Whenever” and inserting “If”; and
 
 | | |
 |---|---|
-| Removed | `Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs` |
-| Inserted | `Assistant Secretary of State for Oceans, Environment, and Science` |
+| Removed | `Whenever` |
+| Inserted | `If` |
 
-### 22 U.S.C. § 2655a
+### 22 U.S.C. § 4834
 
-> by striking “Bureau of Oceans and International Environmental and Scientific Affairs” and inserting “Bureau of Oceans, Environment, and Science”; and
-
-| | |
-|---|---|
-| Removed | `Bureau of Oceans and International Environmental and Scientific Affairs` |
-| Inserted | `Bureau of Oceans, Environment, and Science` |
-
-### 22 U.S.C. § 2655a
-
-> by striking “Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs” and inserting “Assistant Secretary of State for Oceans, Environment, and Science”.
+> by striking “has breached the duty of that individual” and inserting “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)”;
 
 | | |
 |---|---|
-| Removed | `Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs` |
-| Inserted | `Assistant Secretary of State for Oceans, Environment, and Science` |
+| Removed | `has breached the duty of that individual` |
+| Inserted | `has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)` |
 
-### 22 U.S.C. § 2652c
+### 22 U.S.C. § 4834
 
-> Section 1112(a) of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 (22 U.S.C. 2652c(a)) is amended by striking “Verification and Compliance.” and inserting “Arms Control, Verification, and Compliance (referred to in this section as the Assistant Secretary).”.
-
-| | |
-|---|---|
-| Removed | `Verification and Compliance.` |
-| Inserted | `Arms Control, Verification, and Compliance (referred to in this section as the Assistant Secretary).` |
-
-### 22 U.S.C. § 2151
-
-> Section 5(a) of the Assessing Progress in Haiti Act of 2014 (22 U.S.C. 2151 note) is amended by striking “December 31, 2017” and inserting “December 31, 2022”.
+> in paragraph (2), by striking “finding” each place it appears and inserting “findings”; and
 
 | | |
 |---|---|
-| Removed | `December 31, 2017` |
-| Inserted | `December 31, 2022` |
+| Removed | `finding` |
+| Inserted | `findings` |
+
+### 22 U.S.C. § 4834
+
+> by striking “has breached a duty of that individual” and inserting “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection”; and
+
+| | |
+|---|---|
+| Removed | `has breached a duty of that individual` |
+| Inserted | `has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection` |
+
+### 22 U.S.C. § 4024
+
+> Subparagraph (B) of section 704(a)(4) of the Foreign Service Act of 1980 (22 U.S.C. 4024(a)(4)) is amended by striking “language instructors, linguists, and other academic and training specialists” and inserting “education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution”.
+
+| | |
+|---|---|
+| Removed | `language instructors, linguists, and other academic and training specialists` |
+| Inserted | `education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution` |
+
+### 22 U.S.C. § 3949
+
+> in subsection (a) by striking “subsection (b)” and inserting “subsections (b) and (c)”;
+
+| | |
+|---|---|
+| Removed | `subsection (b)` |
+| Inserted | `subsections (b) and (c)` |
 
 ### 22 U.S.C. § 6553
 
@@ -87,59 +87,41 @@ to guess them.
 | Removed | `October 1, 2015` |
 | Inserted | `October 1, 2020` |
 
-### 8 U.S.C. § 1184
+### 22 U.S.C. § 6208
 
-> by striking “under section 101(a)(15).” and inserting “under the immigration laws.”; and
-
-| | |
-|---|---|
-| Removed | `under section 101(a)(15).` |
-| Inserted | `under the immigration laws.` |
-
-### 8 U.S.C. § 1184
-
-> by striking “he” each place such term appears and inserting “the alien”.
+> in subsection (a)(1), by striking “the following countries” and all that follows through the period at the end and inserting “Asia.”; and
 
 | | |
 |---|---|
-| Removed | `he` |
-| Inserted | `the alien` |
+| Removed | `the following countries` |
+| Inserted | `Asia.` |
 
-### 8 U.S.C. § 1202
+### 22 U.S.C. § 2708
 
-> in the matter preceding paragraph (1), by striking “issuance or refusal” and inserting “issuance, refusal, or revocation”; and
-
-| | |
-|---|---|
-| Removed | `issuance or refusal` |
-| Inserted | `issuance, refusal, or revocation` |
-
-### 8 U.S.C. § 1202
-
-> in subparagraph (A), by striking “illicit weapons; or” and inserting “illicit weapons, or in determining the removability or eligibility for a visa, admission, or another immigration benefit of persons who would be inadmissible to, or removable from, the United States;”;
+> Section 36(b) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(b)) is amended in paragraphs (4) and (5) by striking “or (9)” each place it appears and inserting “(9), or (10)”.
 
 | | |
 |---|---|
-| Removed | `illicit weapons; or` |
-| Inserted | `illicit weapons, or in determining the removability or eligibility for a visa, admission, or another immigration benefit of persons who would be inadmissible to, or removable from, the United States;` |
+| Removed | `or (9)` |
+| Inserted | `(9), or (10)` |
 
-### 8 U.S.C. § 1202
+### 22 U.S.C. § 2708
 
-> by striking “for the purposes” and inserting “for 1 of the purposes”; and
-
-| | |
-|---|---|
-| Removed | `for the purposes` |
-| Inserted | `for 1 of the purposes` |
-
-### 8 U.S.C. § 1202
-
-> by striking “or to deny visas to persons who would be inadmissible to the United States.” and inserting “; or”; and
+> in subsection (k)(2), by striking “International Relations” and inserting “Foreign Affairs”.
 
 | | |
 |---|---|
-| Removed | `or to deny visas to persons who would be inadmissible to the United States.` |
-| Inserted | `; or` |
+| Removed | `International Relations` |
+| Inserted | `Foreign Affairs` |
+
+### 22 U.S.C. § 1977
+
+> Subsection (e) of section 7 of the Fishermen’s Protective Act of 1967 (22 U.S.C. 1977) is amended by striking “2008” and inserting “2018”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2018` |
 
 ## Stated, not applied
 
@@ -150,54 +132,58 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2651a` | add-at-end | Title I of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a et seq.), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Chapter 75 of title 18, United States Code, is amended by inserting before section 1541 the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 75 of title 18, United States Code, is amended by inserting before the item relating to section 1541 the following: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 2656d` | add-at-end | Section 504 of the Foreign Relations Authorization Act, Fiscal Year 1979 (22 U.S.C. 2656d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2347h` | repeal | Section 549 of the Foreign Assistance Act of 1961 (22 U.S.C. 2347h) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 3911` | amend | Section 12 of the Clean Diamond Trade Act (19 U.S.C. 3911) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1201` | amend | Section 221(c) of the Immigration and Nationality Act (8 U.S.C. 1201(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2151` | replace | in paragraph (13), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4024` | add-at-end | Section 704 of the Foreign Service Act of 1980 (22 U.S.C. 4024) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 241` | amend | Section 433(b) of the Homeland Security Act of 2002 (6 U.S.C. 241(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3945` | strike | Section 305 of the Foreign Service Act of 1980 (22 U.S.C. 3945) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 5550b of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 3982` | amend | Section 502(a)(2) of the Foreign Service Act of 1980 (22 U.S.C. 3982(a)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4010` | replace | by striking the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4010` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4010` | replace | The table of contents in section 2 of such Act is amended by striking the item relating to section 610 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7107` | add-at-end | Section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4028` | redesignate | by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4028` | redesignate | in subsection (d), as redesignated, by inserting “Refugees” before “The Secretary of State”; | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 4028` | redesignate | in subsection (e), as redesignated, by inserting “Child soldiers” before “The Secretary of State”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 6411` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 287b` | redesignate | by redesignating paragraphs (1), (2), (3), (4), and (5) as paragraphs (2), (3), (5), (6), and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 287b` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 287b` | replace | Section 4(b) of the United Nations Participation Act of 1945 (22 U.S.C. 287b(b)) is amended by striking “in which the United States participates as a member” and inserting “, including— | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 287b` | add-at-end | Section 4(c) of the United Nations Participation Act (22 U.S.C. 287b(c)), as amended by section 301(b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151n` | replace | in paragraph (11)(C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2151n` | replace | in paragraph (12)(C)(ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2151n` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4801` | insert | Title I of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4801 et seq.; relating to diplomatic security) is amended by inserting after section 103 the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4801` | insert | The table of contents of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 is amended by inserting after the item relating to section 103 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4865` | insert | by inserting “and from complex attacks (as such term is defined in section 416 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986),” after “attacks from vehicles”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 4865` | insert | by inserting “or such a complex attack” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 4865` | insert | in paragraph (7), by inserting before the period at the end the following: “, including at high risk, high threat posts (as such term is defined in section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986), including … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4834` | strike | by striking “to the performance of the duties of that individual”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4865` | add-at-end | Paragraph (2) of section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 (title VI of division A of H.R. 3427, as enacted into law by section 1000(a)(7) of Public Law 106–113; 113 Stat. 1501A–453; 22 U.S.C. 486… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4864` | add-at-end | Section 136 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (22 U.S.C. 4864) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 295` | add-at-end | Section 4 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 295) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2701` | insert | Section 29 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2701) is amended, in the third sentence, by inserting “physical security enhancements and” after “may include”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 292` | add-at-end | Section 1 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 292), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4851` | add-at-end | Title IV of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4851 et seq.; relating to diplomatic security) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4851` | insert | The table of contents of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 is amended by inserting after the item relating to section 415 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3929` | add-at-end | Subsection (c) of section 209 of the Foreign Service Act of 1980 (22 U.S.C. 3929) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3972` | insert | Section 412 of the Foreign Service Act of 1980 (22 U.S.C. 3972) is amended by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 287b` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 287b` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 287b` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 276c-4` | amend | Section 181 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (22 U.S.C. 276c–4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | amend | in subclause (I), by adding “or” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | replace | in subclause (II), by striking “; or” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1182` | strike | by striking subclause (III). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | strike | by striking “(other than a nonimmigrant described in subparagraph (L) or (V) of section 101(a)(15), and other than a nonimmigrant described in any provision of section 101(a)(15)(H)(i) except subclause (b1) of such section)”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1202` | strike | in the matter preceding subparagraph (A), by striking “and on the basis of reciprocity”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1202` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4864` | amend | Section 136(c)(3) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (22 U.S.C. 4864(c)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the right; | the bill names no machine-readable US Code section |
-| — | replace | by striking “Whenever” in the first sentence immediately following the subsection heading and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 4834` | insert | in subsection (c), by inserting “or has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injur… | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 4834` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4834` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2701` | insert | Section 29 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2701) is amended, in the third sentence, by inserting “physical security enhancements and” after “Such assistance may include”. | the bill quotes the text inserted but describes where it goes |
-| `10 U.S.C. § 5983` | insert | Section 1269(a)(2) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 10 U.S.C. 5983 note) is amended by inserting “and not less frequently than once each year there… | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 4824` | insert | The Omnibus Diplomatic Security and Antiterrorism Act of 1986 is amended by inserting after section 206 (22 U.S.C. 4824) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4851` | add-at-end | Title IV of the Diplomatic Security Act (22 U.S.C. 4851 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4851` | insert | The table of contents of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399) is amended by inserting after the item relating the section 415 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4832` | add-at-end | Section 302(b)(2) of the Diplomatic Security Act (22 U.S.C. 4832(b)(2)) is amended by adding at the end the following: “Such persons shall be drawn from bureaus or other agency subunits that are not impacted by the incident that is the s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3929` | insert | Section 209(c)(5) of the Foreign Service Act of 1980 (22 U.S.C. 3929(c)(5)) is amended by inserting at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4001` | add-at-end | Section 601(c) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4064` | strike | in paragraph (1)(B), by striking “to facilitate the” and all that follows through “Afghanistan,”; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4064` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4064` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2733` | amend | Subsection (a) of section 61 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2733) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2709` | amend | Paragraph (1) of section 37(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2709(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3949` | replace | by striking “if continued service” and inserting the following: “if— | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 3949` | insert | in such subparagraph (A) (as so inserted and designated by clause (i) of this subparagraph), by inserting “or” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 3949` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3949` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 3949` | replace | in paragraph (5), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3949` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3949` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subparagraph (A) of section 5753(a)(2), by inserting “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before the semicolon at the end; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A) of section 5754(a)(2), by inserting “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before the semicolon at the end. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 3982` | insert | by inserting “or prohibited from being assigned to” after “assigned to”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 3982` | strike | by striking “exclusively”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4010` | replace | by striking the section heading and inserting the following: “Separation for cause; Suspension”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | replace | The table of contents in section 2 of the Foreign Service Act of 1980 is amended by striking the item relating to section 610 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 254c` | replace | by striking “The President” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 254c` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2651a` | add-at-end | Title I of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6208` | strike | in subsection (b)(1), by striking “the respective countries of ”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2708` | add-at-end | in subsection (g), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 303` | repeal | The following provisions of law are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | strike | by striking “(a) Policy.—”; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 6901` | redesignate | by redesignating paragraphs (1) and (2) as subsections (a) and (b), respectively, and moving such subsections, as so redesignated, two ems to the left. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 287` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 287` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2378b` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2378b` | redesignate | by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | redesignate | by redesignating subsection (e) as subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4001` | strike | Subsection (c) of section 601 of the Foreign Service Act of 1980 (22 U.S.C. 4001) is amended by striking paragraphs (4) and (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

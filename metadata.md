@@ -1,7 +1,7 @@
 ---
 measure: S. 1635
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1635
@@ -21,6 +21,10 @@ Department of State Authorities Act, Fiscal Year 2017
 - Senate — Foreign Relations Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-12-05 — [House 114-2-603](votes/house-114-2-0603.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (374–16)
+
 ## Actions
 
 - 2015-06-18 — Committee on Foreign Relations. Original measure reported to Senate by Senator Corker. Without written report.
@@ -39,3 +43,13 @@ Department of State Authorities Act, Fiscal Year 2017
 - 2016-04-29 — Message on Senate action sent to the House.
 - 2016-04-29 — Received in the House.
 - 2016-05-19 — Referred to the House Committee on Foreign Affairs.
+- 2016-05-26 — Committee Consideration and Mark-up Session Held.
+- 2016-05-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2016-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-05 — Considered as unfinished business. (consideration: CR H7177-7178)
+- 2016-12-05 — Considered under suspension of the rules. (consideration: CR H7160-7175)
+- 2016-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1635.
+- 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-05 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
+- 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 603). (text: CR H7160-7172)
+- 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 603).(text: CR H7160-7172)
