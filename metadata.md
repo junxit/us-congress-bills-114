@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6392
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6392
@@ -65,3 +65,4 @@ Systemic Risk Designation Improvement Act of 2016
 - 2016-12-01 — Rule provides for consideration of H.R. 34 and H.R. 6392. Providing for consideration for the Senate amendment to H.R. 34 and for consideration of H.R. 6392.
 - 2016-12-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7086)
 - 2016-12-01 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H7084)
+- 2016-12-05 — Received in the Senate.
