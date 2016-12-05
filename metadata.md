@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6427
@@ -33,8 +33,20 @@ Creating Financial Prosperity for Businesses and Investors Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2016-12-05 — [House 114-2-602](votes/house-114-2-0602.md) — On Motion to Suspend the Rules and Pass — **Passed** (391–2)
+
 ## Actions
 
 - 2016-12-02 — Introduced in House
 - 2016-12-02 — Introduced in House
 - 2016-12-02 — Referred to the House Committee on Financial Services.
+- 2016-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-05 — Considered as unfinished business. (consideration: CR H7176-7177)
+- 2016-12-05 — Considered under suspension of the rules. (consideration: CR H7152-7156)
+- 2016-12-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6427.
+- 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-05 — Mr. Garrett moved to suspend the rules and pass the bill.
+- 2016-12-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 602). (text: CR H7152-7154)
+- 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 602).(text: CR H7152-7154)
