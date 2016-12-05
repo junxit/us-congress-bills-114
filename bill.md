@@ -25,7 +25,7 @@ Congress makes the following findings:
 
 ## § 3. Restoration of amounts improperly withheld for tax purposes from severance payments to veterans with combat-related injuries
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall—
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall—
   - **(1)** identify—
     - **(A)** the severance payments—
       - **(i)** that the Secretary paid after January 17, 1991;
@@ -39,7 +39,7 @@ Congress makes the following findings:
       - **(ii)** such other information determined to be necessary by the Secretary of the Treasury to carry out the purposes of this section; and
     - **(B)** instructions for filing amended tax returns to recover the amounts improperly withheld for tax purposes.
 - **(b)** *Extension of limitation on time for credit or refund*
-  - **(1)** *Period for filing claim* If a claim for credit or refund under section 6511(a) of the Internal Revenue Code of 1986 relates to a specified overpayment, the 3-year period of limitation prescribed by such subsection shall not expire before the date which is 1 year after the date the information return described in subsection (a)(2) is filed. The allowable amount of credit or refund of a specified overpayment shall be determined without regard to the amount of tax paid within the period provided in section 6511(b)(2).
+  - **(1)** *Period for filing claim* If a claim for credit or refund under section 6511(a) of the Internal Revenue Code of 1986 relates to a specified overpayment, the 3-year period of limitation prescribed by such subsection shall not expire before the date which is 1 year after the date the information return described in subsection (a)(2) is provided. The allowable amount of credit or refund of a specified overpayment shall be determined without regard to the amount of tax paid within the period provided in section 6511(b)(2).
   - **(2)** *Specified overpayment* For purposes of paragraph (1), the term specified overpayment means an overpayment attributable to a severance payment described in subsection (a)(1).
 
 ## § 4. Requirement that Secretary of Defense ensure amounts are not withheld for tax purposes from severance payments not considered gross income
@@ -48,7 +48,7 @@ The Secretary of Defense shall take such actions as may be necessary to ensure t
 
 ## § 5. Report to Congress
 
-- **(a)** *In general* After completing the identification required by section 3(a) and not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the actions taken by the Secretary to carry out this Act.
+- **(a)** *In general* After completing the identification required by section 3(a) and not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the actions taken by the Secretary to carry out this Act.
 - **(b)** *Contents* The report submitted under subsection (a) shall include the following:
   - **(1)** The number of individuals identified under section 3(a)(1)(B).
   - **(2)** Of all the severance payments described in section 3(a)(1)(A), the aggregate amount that the Secretary withheld for tax purposes from such payments.
