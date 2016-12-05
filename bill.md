@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3711
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,5 @@ This Act may be cited as the “Chicano Park Preservation Act”.
   - **(3)** consider other alternatives for preservation, protection, and interpretation of Chicano Park and its murals by Federal, State, or local governmental entities, or private and nonprofit organizations;
   - **(4)** consult with interested Federal, State, or local governmental entities, private and nonprofit organizations or any other interested individuals; and
   - **(5)** identify cost estimates for any development, interpretation, operation, and maintenance associated with the alternatives.
-- **(c)** *Applicable law* The study required under subsection (a) shall—
-  - **(1)** be conducted in accordance with section 100507 of title 54, United States Code; and
-  - **(2)** not withstanding section 2(c)(1), not consider any options that involve Federal acquisition of lands, interests in lands, or any other property related to the Chicano Park and its murals.
+- **(c)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 100507 of title 54, United States Code, except that the study shall not consider any options that involve Federal acquisition of lands, interests in lands, or any other property related to the Chicano Park and its murals.
 - **(d)** *Report* Not later than 18 months after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the results of the study and any conclusions and recommendations of the Secretary.
