@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 174
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 174
@@ -16,6 +16,10 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
+## Cosponsors (1)
+
+- Sen. Reid, Harry [D-NV] (R000146)
+
 ## Actions
 
 - 2016-11-30 — Considered by unanimous consent. (consideration: CR H7048)
@@ -26,3 +30,11 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2016-11-30 — On agreeing to the resolution Agreed to without objection. (text of measure as passed: CR H7048)
 - 2016-11-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text of measure as passed: CR H7048)
 - 2016-12-01 — Received in the Senate.
+- 2016-12-05 — Amendment SA 5137 agreed to in Senate by Unanimous Consent.
+- 2016-12-05 — Amendment SA 5137 proposed by Senator McConnell. (consideration: CR S6696-6697; text: CR S6696) To make additional corrections in the enrollment of H.R. 34.
+- 2016-12-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6696-6697)
+- 2016-12-05 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2016-12-05 — Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2016-12-05 — Senate amendment agreed to: Amendment SA 5137 agreed to in Senate by Unanimous Consent.
+- 2016-12-05 — Senate amendment proposed (on the floor): Amendment SA 5137 proposed by Senator McConnell.(consideration: CR S6696-6697; text: CR S6696)
+- 2016-12-05 — Senate amendment submitted
