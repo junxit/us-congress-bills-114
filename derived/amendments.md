@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3381
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 5 executed, 8 stated and not applied.
+12 amendatory instructions. 5 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 285a-11
 
-> by striking “2009 through 2013” and inserting “2016 through 2020”; and
+> by striking “2009 through 2013” and inserting “2017 through 2021”; and
 
 | | |
 |---|---|
 | Removed | `2009 through 2013` |
-| Inserted | `2016 through 2020` |
+| Inserted | `2017 through 2021` |
 
 ### 42 U.S.C. § 285a-11
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `such purpose` |
 | Inserted | `such purposes` |
 
-### 42 U.S.C. § 285
+### 42 U.S.C. § 280g-2
 
 > Section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) is amended by striking “section 419C” and inserting “section 417C”.
 
@@ -82,7 +82,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280e-3a` | redesignate | by redesignating subsection (b) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280e-3a` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 284a` | amend | Clause (iii) of section 406(h)(2)(A) of the Public Health and Service Act (42 U.S.C. 284a(h)(2)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360bbb` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 561 (21 U.S.C. 360bbb) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 285` | add-at-end | Subpart 1 of part C of title IV of the Public Health Service Act (42 U.S.C. 285 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g-2` | insert | The Public Health Service Act is amended by inserting after section 399N of such Act (42 U.S.C. 280g–2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 285a-11` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 243` | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 317T the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
