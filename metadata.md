@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 932
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 932
@@ -32,3 +32,9 @@ Expressing the sense of the House of Representatives with respect to third-party
 - 2016-11-29 — Introduced in House
 - 2016-11-29 — Introduced in House
 - 2016-11-29 — Referred to the House Committee on Energy and Commerce.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7201-7202)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 932.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Latta moved to suspend the rules and agree to the resolution.
+- 2016-12-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7201)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7201)
