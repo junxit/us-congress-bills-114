@@ -2,19 +2,19 @@
 legis-num: H. RES. 939
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 939
 
-> Expressing the sense of the House of Representatives that access to digital communications tools and connectivity is necessary to prepare youth in the United States to compete in the 21st century economy.
+> Expressing the sense of the House of Representatives that all students should have access to the digital tools necessary to further their education and compete in the 21st century economy.
 
 ## Preamble
 
 - Whereas the United States should lead the world in providing high-quality education and opportunities to its citizens;
 - Whereas digital skills are essential for education and preparing citizens for the economy of the future;
 - Whereas, on a daily basis, teachers across the country assign homework that requires Internet access to be completed;
-- Whereas there are 5,000,000 households with school-age children in the United States that do not have high-speed Internet access at home and fall into what is known as the “homework gap”;
+- Whereas there are 5 million households with school-age children in the United States that do not have high-speed Internet access at home and fall into what is known as the “homework gap”;
 - Whereas a disproportionate number of students without high-speed Internet access at home reside in low-income and minority households;
 - Whereas students and families in rural areas face additional challenges when homework requires Internet access that is out of reach;
 - Whereas every student deserves an opportunity at 21st century success;
@@ -25,4 +25,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas leaders in the public and private sectors have recognized that the homework gap is an issue of national importance and partnered to find cooperative solutions to address it; and
 - Whereas instilling digital skills and the knowledge to succeed in the 21st century economy in the Nation’s students is vital to the Nation’s global competitiveness: Now, therefore, be it
 
-That it is the sense of the House of Representatives that access to digital communications tools and connectivity is necessary to prepare youth in the United States to compete in the 21st century economy.
+That it is the sense of the House of Representatives that all students should have access to the digital tools necessary to further their education and compete in the 21st century economy.
