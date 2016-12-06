@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2726
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2726
@@ -336,3 +336,12 @@ Apollo 11 50th Anniversary Commemorative Coin Act
 - 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7149-7150)
 - 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7149-7150)
 - 2016-12-06 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S7108)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7108)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-282.
+- 2016-12-16 — Became Public Law No: 114-282.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
