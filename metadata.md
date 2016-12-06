@@ -1,7 +1,7 @@
 ---
 measure: S. 1685
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1685
@@ -16,9 +16,12 @@ Amateur Radio Parity Act of 2015
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Amateur Radio Parity Act of 2015
 
 - 2015-06-25 — Introduced in Senate
 - 2015-06-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2015-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2016-12-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2016-12-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2016-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 700.
