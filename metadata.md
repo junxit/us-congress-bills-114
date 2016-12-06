@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4680
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4680
@@ -47,3 +47,10 @@ National Park Service Centennial Act
 - 2016-05-19 — Placed on the Union Calendar, Calendar No. 446.
 - 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-576, Part I.
 - 2016-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-576, Part I.
+- 2016-09-19 — Referred to the Subcommittee on Higher Education and Workforce Training.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7203-7208)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4680.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2016-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7203-7206)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7203-7206)
