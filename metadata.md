@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 40
 congress: 114
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.Con.Res. 40
@@ -176,9 +176,10 @@ Encouraging reunions of divided Korean American families.
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -194,3 +195,5 @@ Encouraging reunions of divided Korean American families.
 - 2016-11-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text of measure as passed: CR H6349)
 - 2016-11-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text of measure as passed: CR H6349)
 - 2016-11-30 — Received in the Senate.
+- 2016-12-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-12-06 — Referred to the Committee on Foreign Relations.
