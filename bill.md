@@ -13,34 +13,46 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Faster Care for Veterans Act of 2016”.
 
-## § 2. Findings
+## § 2. Pilot program establishing a patient self-scheduling appointment system
 
-Congress finds the following:
-
-- **(1)** In June 2014 an internal audit conducted by the Department of Veterans Affairs found more than 120,000 veterans waited at least 90 days for appointments for medical care or never received appointments.
-- **(2)** One year later, and despite handling more appointments than in previous years, reports indicate that the number of veterans waiting 30 days or more for medical care has increased by 50 percent.
-- **(3)** In 2008, the Inspector General of the Department estimated that 18 percent of outpatient appointment slots went unfilled because of patient no-shows or because facility personnel did not refill canceled appointments.
-- **(4)** Wait times are not unique to the Department of Veterans Affairs. The average wait time in the private sector is more than 18 days, but private sector hospitals and health systems are now leveraging technology to eliminate wait times and ensure every available appointment is used.
-- **(5)** In June 2015 the Institute of Medicine called for a patient-oriented scheduling platform that allows patients to self-schedule care online at any time.
-
-## § 3. Pilot program establishing a patient self-scheduling appointment system
-
-- **(a)** *Pilot program* Not later than 120 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall commence a pilot program under which veterans use an Internet website to schedule and confirm medical appointments at medical facilities of the Department of Veterans Affairs.
+- **(a)** *Pilot program* Not later than 120 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall commence a pilot program under which veterans use an Internet website or mobile application to schedule and confirm medical appointments at medical facilities of the Department of Veterans Affairs.
 - **(b)** *Selection of locations* The Secretary shall select not less than three Veterans Integrated Services Networks in which to carry out the pilot program under subsection (a).
 - **(c)** *Contracts*
-  - **(1)** *Authority* The Secretary shall seek to enter into a contract with one or more contractors to provide the scheduling capability described in subsection (a).
-  - **(2)** *Notice of competition* Not later than 60 days after the date of the enactment of this Act, the Secretary shall issue a request for proposals for the contract described in paragraph (1). Such request shall be full and open to any contractor that is able to meet the criteria under paragraph (3).
-  - **(3)** *Selection of vendors* Not later than 120 days after the date of the enactment of this Act, the Secretary shall award a contract with one or more contractors that have an existing commercially available online patient self-scheduling capability that—
-    - **(A)** allows patients to self-schedule, confirm, and modify outpatient and specialty care appointments in real time through an Internet website;
-    - **(B)** makes available, in real time, any appointments that were previously filled but later canceled by other patients; and
-    - **(C)** allows patients to use the online scheduling capability 24 hours a day, seven days a week.
-  - **(4)** *Integration with existing infrastructure* The Secretary shall ensure that a contractor awarded a contract under this section is able to integrate the online scheduling capability of the contractor with the Veterans Health Information Systems and Technology Architecture of the Department.
+  - **(1)** *Authority* The Secretary shall seek to enter into a contract using competitive procedures with one or more contractors to provide the scheduling capability described in subsection (a).
+  - **(2)** *Notice of competition* Not later than 60 days after the date of the enactment of this Act, the Secretary shall issue a request for proposals for the contract described in paragraph (1). Such request shall be full and open to any contractor that has an existing commercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in section 3(a).
+  - **(3)** *Selection* Not later than 120 days after the date of the enactment of this Act, the Secretary shall award a contract to one or more contractors pursuant to the request for proposals under paragraph (2).
 - **(d)** *Duration of pilot program*
   - **(1)** *In general* Except as provided by paragraph (2), the Secretary shall carry out the pilot program under subsection (a) for an 18-month period.
   - **(2)** *Extension* The Secretary may extend the duration of the pilot program under subsection (a), and may expand the selection of Veterans Integrated Services Networks under subsection (b), if the Secretary determines that the pilot program is reducing the wait times of veterans seeking medical care and ensuring that more available appointment times are filled.
-- **(e)** *Report* Not later than one year after commencing the pilot program under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the outcomes of the pilot program, including—
-  - **(1)** whether the pilot program demonstrated—
-    - **(A)** improvements to the ability of veterans to schedule medical appointments; and
-    - **(B)** a reduction in wait times for such medical appointments; and
-  - **(2)** any recommendations of the Secretary for expanding the pilot program to additional Veterans Integrated Services Networks.
-- **(f)** *Use of funds otherwise appropriated* No additional funds are authorized to be appropriated to carry out the pilot program under subsection (a) and such pilot program shall be carried out using amounts otherwise made available to the Secretary of Veterans Affairs for the medical support and compliance account of the Veterans Health Administration.
+- **(e)** *Mobile application defined* In this section, the term “mobile application” means a software program that runs on the operating system of a cellular telephone, tablet computer, or similar portable computing device that transmits data over a wireless connection.
+
+## § 3. Capabilities of patient self-scheduling appointment system
+
+- **(a)** *Minimum capabilities* The Secretary of Veterans Affairs shall ensure that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, includes, at a minimum, the following capabilities:
+  - **(1)** Capability to schedule, modify, and cancel appointments for primary care, specialty care, and mental health.
+  - **(2)** Capability to support appointments for the provision of health care regardless of whether such care is provided in person or through telehealth services.
+  - **(3)** Capability to view appointment availability in real time.
+  - **(4)** Capability to make available, in real time, appointments that were previously filled but later cancelled by other patients.
+  - **(5)** Capability to provide prompts or reminders to veterans to schedule follow-up appointments.
+  - **(6)** Capability to be used 24 hours per day, 7 days per week.
+  - **(7)** Capability to integrate with the Veterans Health Information Systems and Technology Architecture of the Department, or such successor information technology system.
+- **(b)** *Independent validation and verification*
+  - **(1)** *Independent entity*
+    - **(A)** The Secretary shall seek to enter into an agreement with an appropriate non-governmental, not-for-profit entity with expertise in health information technology to independently validate and verify that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, includes the capabilities specified in subsection (a).
+    - **(B)** Each independent validation and verification conducted under subparagraph (A) shall be completed as follows:
+      - **(i)** With respect to the validation and verification of the patient self-scheduling appointment system used in the pilot program under section 2, by not later than 60 days after the date on which such pilot program commences.
+      - **(ii)** With respect to any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, by not later than 60 days after the date on which such system is deployed, regardless of whether such deployment is on a limited basis, but not including any deployments for testing purposes.
+  - **(2)** *GAO evaluation*
+    - **(A)** The Comptroller General of the United States shall evaluate each validation and verification conducted under paragraph (1).
+    - **(B)** Not later than 30 days after the date on which the Comptroller General completes an evaluation under paragraph (1), the Comptroller General shall submit to the appropriate congressional committees a report on such evaluation.
+    - **(C)** In this paragraph, the term “appropriate congressional committees” means—
+      - **(i)** the Committees on Veterans’ Affairs of the House of Representatives and the Senate; and
+      - **(ii)** the Committees on Appropriations of the House of Representatives and the Senate.
+- **(c)** *Certification*
+  - **(1)** *Capabilities included* Not later than December 31, 2017, the Secretary shall certify to the Committees on Veterans’ Affairs of the House of Representatives and the Senate that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs as of the date of the certification, includes the capabilities specified in subsection (a).
+  - **(2)** *New systems* If the Secretary develops or begins using a new patient self-scheduling appointment system that is not covered by a certification made under paragraph (1), the Secretary shall certify to such committees that such new system includes the capabilities specified in subsection (a) by not later than 30 days after the date on which the Secretary determines to replace the previous patient self-scheduling appointment system.
+  - **(3)** *Effect of capabilities not included* If the Secretary does not make a timely certification under paragraph (1) or paragraph (2), the Secretary shall replace any patient self-scheduling appointment system developed by the Secretary that is in use with a commercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in subsection (a).
+
+## § 4. Prohibition on new appropriations
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
