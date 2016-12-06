@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4150
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4150
@@ -36,3 +36,9 @@ Department of Veterans Affairs Emergency Medical Staffing Recruitment and Retent
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 635.
 - 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-811.
 - 2016-11-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-811.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7248-7249)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4150.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2016-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7248)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7248)

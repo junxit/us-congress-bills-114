@@ -7,16 +7,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4150
 
-> To amend title 38, United States Code, to allow the Secretary of Veterans Affairs to modify the hours of employment of physicians and physician assistants employed on a full-time basis by the Department of Veterans Affairs.
+> To amend title 38, United States Code, to allow the Secretary of Veterans Affairs to modify the hours of employment of physicians employed on a full-time basis by the Department of Veterans Affairs.
 
 ## § 1. Short title
 
 This Act may be cited as the “Department of Veterans Affairs Emergency Medical Staffing Recruitment and Retention Act”.
 
-## § 2. Modification of hours of employment for physicians and physician assistants employed by the Department of Veterans Affairs
+## § 2. Modification of hours of employment for physicians employed by the Department of Veterans Affairs
 
 Section 7423(a) of title 38, United States Code, is amended—
 
 - **(1)** by striking “(a) The hours” and inserting “(a)(1) Except as provided in paragraph (2), the hours”; and
 - **(2)** by adding at the end the following new paragraph:
-  > - **(2)** The Secretary may modify the hours of employment for a physician or physician assistant appointed in the Administration under any provision of this chapter on a full-time basis to be more than or less than 80 hours in a biweekly pay period if the total hours of employment for such employee in a calendar year does not exceed 2,080 hours. No physician or physician assistant may accrue overtime by reason of modified hours of employment authorized under this paragraph.
+  > - **(2)**
+  >   - **(A)** Upon the advance written request of a covered physician, the Secretary may modify the hours of employment for a physician appointed in the Administration under any provision of this chapter on a full-time basis to be more or less than 80 hours in a biweekly pay period, subject to the requirements in subparagraph (B). For the purpose of determining pay, such a physician shall be deemed to have a biweekly schedule of 80 hours of employment.
+  >   - **(B)** A physician with an irregular work schedule established under subparagraph (A) shall be obligated to account for at least 2,080 hours of employment (through performance of work or use of leave or paid time off) in a calendar year.
+  >   - **(C)** The Secretary may prescribe regulations to implement this paragraph, including regulations making adjustments to address the annual hours requirement for physicians who are covered by this paragraph for only a portion of a calendar year.
