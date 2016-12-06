@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5399
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5399
@@ -31,3 +31,9 @@ Ethical Patient Care for Veterans Act of 2016
 - 2016-11-14 — Placed on the Union Calendar, Calendar No. 639.
 - 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-815.
 - 2016-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 114-815.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7241-7242)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5399.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7241)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7241)
