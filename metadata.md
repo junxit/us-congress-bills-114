@@ -1,7 +1,7 @@
 ---
 measure: H.R. 756
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 756
@@ -16,7 +16,7 @@ Streamlining Energy Efficiency for Schools Act of 2015
 
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Cosponsors (33)
+## Cosponsors (56)
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
@@ -51,6 +51,29 @@ Streamlining Energy Efficiency for Schools Act of 2015
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Farr, Sam [D-CA-20] (F000030)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Duckworth, Tammy [D-IL-8] (D000622)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Israel, Steve [D-NY-3] (I000057)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Takai, Mark [D-HI-1] (T000473)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
 ## Committees (1)
 
@@ -61,3 +84,10 @@ Streamlining Energy Efficiency for Schools Act of 2015
 - 2015-02-05 — Introduced in House
 - 2015-02-05 — Introduced in House
 - 2015-02-05 — Referred to the House Committee on Energy and Commerce.
+- 2015-02-06 — Referred to the Subcommittee on Energy and Power.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7190-7192)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 756.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Olson moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7190-7191)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7190-7191)
