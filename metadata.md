@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5015
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5015
@@ -78,3 +78,12 @@ Combat-Injured Veterans Tax Fairness Act of 2016
 - 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 601). (text: CR H7156-7157)
 - 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 601).(text: CR H7156-7157)
 - 2016-12-06 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-292.
+- 2016-12-16 — Became Public Law No: 114-292.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
