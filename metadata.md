@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2726
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2726
@@ -335,3 +335,4 @@ Apollo 11 50th Anniversary Commemorative Coin Act
 - 2016-12-05 — Mr. Posey moved to suspend the rules and pass the bill, as amended.
 - 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7149-7150)
 - 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7149-7150)
+- 2016-12-06 — Received in the Senate, read twice.
