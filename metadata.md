@@ -1,7 +1,7 @@
 ---
 measure: S. 2508
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2508
@@ -29,3 +29,7 @@ Youth Sports Concussion Act
 
 - 2016-02-04 — Introduced in Senate
 - 2016-02-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2016-04-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2016-12-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2016-12-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2016-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
