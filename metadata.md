@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5015
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5015
@@ -77,3 +77,4 @@ Combat-Injured Veterans Tax Fairness Act of 2016
 - 2016-12-05 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
 - 2016-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 601). (text: CR H7156-7157)
 - 2016-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 601).(text: CR H7156-7157)
+- 2016-12-06 — Received in the Senate, read twice.
