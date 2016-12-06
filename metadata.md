@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6416
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6416
@@ -30,6 +30,10 @@ Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement
 - House — Budget Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2016-12-06 — [House 114-2-606](votes/house-114-2-0606.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
+
 ## Actions
 
 - 2016-12-01 — Introduced in House
@@ -38,3 +42,11 @@ Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement
 - 2016-12-01 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-12-01 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-12-01 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-12-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-06 — Considered as unfinished business. (consideration: CR H7251)
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7221-7241)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6416.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606). (text: CR H7221-7237)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606).(text: CR H7221-7237)
