@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 174
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 174
@@ -38,3 +38,8 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2016-12-05 — Senate amendment agreed to: Amendment SA 5137 agreed to in Senate by Unanimous Consent.
 - 2016-12-05 — Senate amendment proposed (on the floor): Amendment SA 5137 proposed by Senator McConnell.(consideration: CR S6696-6697; text: CR S6696)
 - 2016-12-05 — Senate amendment submitted
+- 2016-12-06 — Message on Senate action sent to the House.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Upton asked unanimous consent that the House agree to the Senate amendment.
+- 2016-12-06 — On motion that the House agree to the Senate amendment Agreed to without objection.
+- 2016-12-06 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.
