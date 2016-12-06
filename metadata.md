@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6375
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6375
@@ -29,3 +29,9 @@ Power And Security Systems (PASS) Act
 - 2016-11-17 — Introduced in House
 - 2016-11-17 — Introduced in House
 - 2016-11-17 — Referred to the House Committee on Energy and Commerce.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7192-7193)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6375.
+- 2016-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-06 — Mr. Olson moved to suspend the rules and pass the bill.
+- 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7192)
+- 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7192)
