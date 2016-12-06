@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 179
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 179
@@ -24,3 +24,4 @@ Directing the Secretary of the Senate to make certain corrections in the enrollm
 - 2016-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-12-05 — On agreeing to the resolution Agreed to without objection. (text: CR H7178)
 - 2016-12-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7178)
+- 2016-12-06 — Received in the Senate.
