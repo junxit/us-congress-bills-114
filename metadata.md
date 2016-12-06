@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6415
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6415
@@ -36,3 +36,4 @@ To provide for the appointment of members of the Board of Directors of the Offic
 - 2016-12-05 — Mr. Davis, Rodney asked unanimous consent to discharge from committee and consider.
 - 2016-12-05 — On passage Passed without objection. (text: CR H7178)
 - 2016-12-05 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7178)
+- 2016-12-06 — Received in the Senate.
