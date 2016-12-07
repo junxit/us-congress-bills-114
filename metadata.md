@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1150
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1150
@@ -162,3 +162,7 @@ Frank R. Wolf International Religious Freedom Act
 - 2016-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2399-2403)
 - 2016-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2399-2403)
 - 2016-05-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2016-12-06 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 705.
