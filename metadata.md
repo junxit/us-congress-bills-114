@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4939
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4939
@@ -53,3 +53,7 @@ United States-Caribbean Strategic Engagement Act of 2016
 - 2016-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 297). (text: CR H3724-3725)
 - 2016-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 297).(text: CR H3724-3725)
 - 2016-06-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2016-12-06 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 713.
