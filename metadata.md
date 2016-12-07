@@ -1,7 +1,7 @@
 ---
 measure: S. 8
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 8
@@ -28,3 +28,7 @@ A bill to provide for the approval of the Agreement for Cooperation Between the 
 
 - 2016-12-01 — Introduced in Senate
 - 2016-12-01 — Read twice and referred to the Committee on Foreign Relations.
+- 2016-12-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.
