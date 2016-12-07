@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 57
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 57
@@ -33,3 +33,7 @@ A concurrent resolution honoring in praise and remembrance the extraordinary lif
 
 - 2016-11-30 — Introduced in Senate
 - 2016-11-30 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6622-6623)
+- 2016-12-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 710.
