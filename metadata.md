@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3711
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3711
@@ -58,3 +58,9 @@ Chicano Park Preservation Act
 - 2016-12-05 — Placed on the Union Calendar, Calendar No. 661.
 - 2016-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-845.
 - 2016-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-845.
+- 2016-12-07 — Considered under suspension of the rules. (consideration: CR H7298-7299)
+- 2016-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3711.
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7298)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7298)
