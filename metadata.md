@@ -1,7 +1,7 @@
 ---
 measure: S. 2854
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2854
@@ -60,3 +60,11 @@ Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016
 - 2016-07-15 — Message on Senate action sent to the House.
 - 2016-07-18 — Received in the House.
 - 2016-07-18 — Referred to the House Committee on the Judiciary.
+- 2016-07-27 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-07-27 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2016-12-07 — Considered under suspension of the rules. (consideration: CR H7343-7346)
+- 2016-12-07 — DEBATE - The House proceeded with forty minutes of debate on S. 2854.
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7343)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7343)

@@ -1,13 +1,15 @@
 ---
 legis-num: S. 2854
 congress: 114th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2nd Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2854
 
-> To reauthorize the Emmett Till Unsolved Civil Rights Crime Act of 2007.
+That the bill from the Senate (S. 2854) entitled “An Act to reauthorize the Emmett Till Unsolved Civil Rights Crime Act of 2007.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -21,7 +23,7 @@ The Emmett Till Unsolved Civil Rights Crime Act of 2007 (28 U.S.C. 509 note) is 
   - **(A)** in paragraph (1), by striking “and” at the end;
   - **(B)** in paragraph (2), by striking the period at the end and inserting a semicolon; and
   - **(C)** by inserting after paragraph (2) the following:
-    > - **(3)** coordinate the sharing of information between the Federal Bureau of Investigation, the civil rights community, and other entities;
+    > - **(3)** meet regularly with eligible entities to coordinate the sharing of information and to discuss the status of the Department’s work under this Act;
     > - **(4)** support the full accounting of all victims whose deaths or disappearances were the result of racially motivated crimes;
     > - **(5)** hold accountable under Federal and State law all individuals who were perpetrators of, or accomplices in, unsolved civil rights murders and such disappearances;
     > - **(6)** express the condolences of the authority to the communities affected by unsolved civil rights murders, and to the families of the victims of such murders and such disappearances;
@@ -30,35 +32,35 @@ The Emmett Till Unsolved Civil Rights Crime Act of 2007 (28 U.S.C. 509 note) is 
 
 - **(2)** in section 3—
   - **(A)** in subsection (b)—
-    - **(i)** in paragraph (1), by striking “occurred not later than December 31, 1969, and”;
+    - **(i)** in paragraph (1), by striking “1969” and inserting “1979”;
     - **(ii)** in paragraph (2), by inserting before the period at the end the following: “, and eligible entities”; and
     - **(iii)** by adding after paragraph (2) the following:
-      > - **(3)** *Review of closed cases* The Deputy Chief shall, to the extent practicable, reopen and review any case involving a violation described in paragraph (1) that was closed prior to the date of the enactment of the Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016 without an in-person investigation conducted by an officer or employee of the Criminal Section of the Civil Rights Division of the Department of Justice or by an agent of the Federal Bureau of Investigation.
-      > - **(4)** *Task force*
-      >   - **(A)** *In general* The Deputy Chief shall establish a task force that includes representatives from the Federal Bureau of Investigation, the Community Relations Service of the Department of Justice, State and local law enforcement agencies, and eligible entities to assist, as appropriate, with conducting a thorough investigation of, and to make recommendations to the Deputy Chief regarding, the cases involving violations described in paragraph (1).
-      >   - **(B)** *Authorization of appropriations* In addition to amounts made available to carry out this Act under section 6, there is authorized to be appropriated to the Attorney General $1,500,000 for fiscal year 2017 and each subsequent fiscal year to carry out this paragraph.
+      > - **(3)** *Review of closed cases* The Deputy Chief may, to the extent practicable, reopen and review any case involving a violation described in paragraph (1) that was closed prior to the date of the enactment of the Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016 without an in-person investigation or review conducted by an officer or employee of the Criminal Section of the Civil Rights Division of the Department of Justice or by an agent of the Federal Bureau of Investigation.
+      > - **(4)** *Public Engagement*
+      >   - **(A)** *In general* The Department shall hold meetings with representatives of the Civil Rights Division, Federal Bureau of Investigation, the Community Relations Service, eligible entities, and where appropriate, state and local law enforcement to discuss the status of the Department’s work under this Act.
+      >   - **(B)** *Authorization of appropriations* In addition to amounts made available to carry out this Act under section 6, there is authorized to be appropriated to the Attorney General $1,500,000 for fiscal year 2017 and each of the next 10 subsequent fiscal years to carry out this paragraph.
 
   - **(B)** in subsection (c)—
     - **(i)** in paragraph (1)—
-      - **(I)** in subparagraph (A), by striking “that occurred not later than December 31, 1969”;
+      - **(I)** in subparagraph (A), by striking “1969” and inserting “1979”;
       - **(II)** in subparagraph (F), by striking “and” at the end;
       - **(III)** in subparagraph (G), by striking the period at the end and inserting “; and”; and
       - **(IV)** by inserting after subparagraph (G) the following:
-        > - **(H)** the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rights statutes, including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions.
+        > - **(H)** the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rights statutes described in section 2(3), including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions.
 
     - **(ii)** in paragraph (2), by inserting before the period at the end the following: “and a description of the activities conducted under subsection (b)(3)”;
 - **(3)** in section 4(b)—
-  - **(A)** in paragraph (1), by striking “occurred not later than December 31, 1969, and”; and
+  - **(A)** in paragraph (1), by striking “1969” and inserting “1979”; and
   - **(B)** in paragraph (2), by inserting before the period at the end the following: “, and eligible entities”;
 - **(4)** in section 5—
-  - **(A)** in subsection (a), by striking “occurred not later than December 31, 1969, and”; and
-  - **(B)** in subsection (b), by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each subsequent fiscal year”;
+  - **(A)** in subsection (a), by striking “1969” and inserting “1979”; and
+  - **(B)** in subsection (b), by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each of the 10 subsequent fiscal years”; and
 - **(5)** in section 6—
   - **(A)** in subsection (a)—
-    - **(i)** by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each subsequent fiscal year”; and
-    - **(ii)** by striking “occurred not later than December 31, 1969, and”; and
+    - **(i)** by striking “each of the fiscal years 2008 through 2017” and inserting “fiscal year 2017 and each of the 10 subsequent fiscal years”; and
+    - **(ii)** by striking “1969” and inserting “1979”; and
   - **(B)** by amending subsection (b) to read as follows:
-    > - **(b)** *Community Relations Service of the Department of Justice* Using funds appropriated under section 3(b)(4)(B), the Community Relations Service of the Department of Justice shall provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations described in section 4(b).
+    > - **(b)** *Community Relations Service of the Department of Justice* Using funds appropriated under section 3(b)(4)(B), the Community Relations Service of the Department of Justice shall provide technical assistance by bringing together law enforcement agencies and communities to address tensions raised by Civil Rights era crimes.
 
 - **(6)** in section 7—
   - **(A)** in the heading, by striking “Definition of “criminal civil rights statutes”” and inserting “Definitions”;
