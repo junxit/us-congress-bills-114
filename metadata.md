@@ -1,7 +1,7 @@
 ---
 measure: H.R. 875
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 875
@@ -51,3 +51,12 @@ Cross-Border Trade Enhancement Act of 2016
 - 2016-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7215-7218)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7215-7218)
 - 2016-12-07 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7149)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7149)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-279.
+- 2016-12-16 — Became Public Law No: 114-279.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
