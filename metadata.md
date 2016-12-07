@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6130
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6130
@@ -35,3 +35,10 @@ Holocaust Expropriated Art Recovery Act of 2016
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Introduced in House
 - 2016-09-22 — Referred to the House Committee on the Judiciary.
+- 2016-10-11 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2016-12-07 — Considered under suspension of the rules. (consideration: CR H7330-7333)
+- 2016-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6130.
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2016-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7330-7331)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7330-7331)
