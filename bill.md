@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2971
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2nd Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2971
 
-That the bill from the Senate (S. 2971) entitled “An Act to authorize the National Urban Search and Rescue Response System.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To authorize the National Urban Search and Rescue Response System.
 
 ## § 1. Short title
 

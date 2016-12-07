@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2971
@@ -57,3 +57,14 @@ National Urban Search and Rescue Response System Act of 2016
 - 2016-12-07 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 615). (text: CR H7310-7311)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 615).(text: CR H7310-7311)
+- 2016-12-08 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7135)
+- 2016-12-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2971 by Unanimous Consent.
+- 2016-12-10 — Senate agreed to the House amendment to S. 2971 by Unanimous Consent.
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-326.
+- 2016-12-16 — Became Public Law No: 114-326.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
