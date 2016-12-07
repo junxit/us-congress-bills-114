@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4680
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4680
@@ -54,3 +54,4 @@ National Park Service Centennial Act
 - 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2016-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7203-7206)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7203-7206)
+- 2016-12-07 — Received in the Senate, read twice.
