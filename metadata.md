@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6394
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6394
@@ -41,3 +41,4 @@ Improving Broadband Access for Veterans Act of 2016
 - 2016-12-06 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 604). (text: CR H7199)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 604).(text: CR H7199)
+- 2016-12-07 — Received in the Senate.
