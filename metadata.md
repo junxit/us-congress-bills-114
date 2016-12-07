@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 40
 congress: 114
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 40
@@ -197,3 +197,6 @@ Encouraging reunions of divided Korean American families.
 - 2016-11-30 — Received in the Senate.
 - 2016-12-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
 - 2016-12-06 — Referred to the Committee on Foreign Relations.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 711.
