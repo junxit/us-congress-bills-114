@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2854
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2nd Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2854
 
-That the bill from the Senate (S. 2854) entitled “An Act to reauthorize the Emmett Till Unsolved Civil Rights Crime Act of 2007.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To reauthorize the Emmett Till Unsolved Civil Rights Crime Act of 2007.
 
 ## § 1. Short title
 
