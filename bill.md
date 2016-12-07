@@ -13,80 +13,54 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “To Research, Evaluate, Assess, and Treat Astronauts Act” or the “TREAT Astronauts Act”.
 
-## § 2. Definitions
+## § 2. Findings; sense of congress
 
-In this Act:
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** Human space exploration can pose significant challenges and is full of substantial risk, which has ultimately claimed the lives of 24 National Aeronautics and Space Administration astronauts serving in the line of duty.
+  - **(2)** As United States government astronauts participate in long-duration and exploration spaceflight missions they may experience increased health risks, such as vision impairment, bone demineralization, and behavioral health and performance risks, and may be exposed to galactic cosmic radiation. Exposure to high levels of radiation and microgravity can result in acute and long-term health consequences that can increase the risk of cancer and tissue degeneration and have potential effects on the musculoskeletal system, central nervous system, cardiovascular system, immune function, and vision.
+  - **(3)** To advance the goal of long-duration and exploration spaceflight missions, United States government astronaut Scott Kelly participated in a 1-year twins study in space while his identical twin brother, former United States government astronaut Mark Kelly, acted as a human control specimen on Earth, providing an understanding of the physical, behavioral, microbiological, and molecular reaction of the human body to an extended period of time in space.
+  - **(4)** Since the Administration currently provides medical monitoring, diagnosis, and treatment for United States government astronauts during their active employment, given the unknown long-term health consequences of long-duration space exploration, the Administration has requested statutory authority from Congress to provide medical monitoring, diagnosis, and treatment to former United States government astronauts for psychological and medical conditions associated with human space flight.
+- **(b)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** the United States should continue to seek the unknown and lead the world in space exploration and scientific discovery as the Administration prepares for long-duration and exploration spaceflight in deep space and an eventual mission to Mars;
+  - **(2)** data relating to the health of astronauts will become increasingly valuable to improving our understanding of many diseases humans face on Earth;
+  - **(3)** the Administration should provide the type of monitoring, diagnosis, and treatment described in subsection (a) only for conditions the Administration considers unique to the training or exposure to the spaceflight environment of United States government astronauts and should not require any former United States government astronauts to participate in the Administration’s monitoring;
+  - **(4)** such monitoring, diagnosis, and treatment should not replace a former United States government astronaut’s private health insurance;
+  - **(5)** expanded data acquired from such monitoring, diagnosis, and treatment should be used to tailor treatment, inform the requirements for new spaceflight medical hardware, and develop controls in order to prevent disease occurrence in the astronaut corps; and
+  - **(6)** the 340-day space mission of Scott Kelly aboard the ISS—
+    - **(A)** was pivotal for the goal of the United States for humans to explore deep space and Mars as the mission generated new insight into how the human body adjusts to weightlessness, isolation, radiation, and the stress of long-duration space flight; and
+    - **(B)** will help support the physical and mental well-being of astronauts during longer space exploration missions in the future.
 
-- **(1)** *Administrator* The term Administrator means the Administrator of NASA.
-- **(2)** *Crewmember* The term crewmember means an individual certified by the Administrator to be—
-  - **(A)** a former NASA astronaut or payload specialist who has flown on at least one orbital space mission; or
-  - **(B)** a management NASA astronaut who has flown on at least one orbital space mission and is currently employed by the Federal Government.
-- **(3)** *NASA* The term NASA means the National Aeronautics and Space Administration.
-- **(4)** *Program* The term Program means the medical monitoring, diagnosis, and treatment program established under section 3.
-- **(5)** *Space flight-associated medical condition* The term space flight-associated medical condition means—
-  - **(A)** for purposes of medical monitoring or diagnosis under the Program, a psychological or medical condition that the Administrator determines is potentially associated with human space flight; and
-  - **(B)** for purposes of medical treatment under the Program, a psychological or medical condition that the Administrator determines is associated with human space flight.
+## § 3. Medical monitoring and research relating to human space flight
 
-## § 3. Program for the medical monitoring, diagnosis, and treatment of astronauts
+- **(a)** *In general* Subchapter III of chapter 201 of title 51, United States Code, is amended by adding at the end the following:
+  > ## § 20148. Medical monitoring and research relating to human space flight
+  >
+  > - **(a)** *In general* Notwithstanding any other provision of law, the Administrator may provide for the medical monitoring and diagnosis of a former United States government astronaut or a former payload specialist for conditions that the Administrator considers potentially associated with human space flight, and may provide for the treatment of a former United States government astronaut or a former payload specialist for conditions that the Administrator considers associated with human space flight, including scientific and medical tests for psychological and medical conditions.
+  > - **(b)** *Requirements*
+  >   - **(1)** *No cost sharing* The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without any deductible, copayment, or other cost sharing obligation.
+  >   - **(2)** *Access to local services* The medical monitoring, diagnosis, and treatment described in subsection (a) may be provided by a local health care provider if it is unadvisable due to the health of the applicable former United States government astronaut or former payload specialist for that former United States government astronaut or former payload specialist to travel to the Lyndon B. Johnson Space Center, as determined by the Administrator.
+  >   - **(3)** *Secondary payment* Payment or reimbursement for the medical monitoring, diagnosis, or treatment described in subsection (a) shall be secondary to any obligation of the United States government or any third party under any other provision of law or contractual agreement to pay for or provide such medical monitoring, diagnosis, or treatment. Any costs for items and services that may be provided by the Administrator for medical monitoring, diagnosis, or treatment under subsection (a) that are not paid for or provided under such other provision of law or contractual agreement, due to the application of deductibles, copayments, coinsurance, other cost sharing, or otherwise, are reimbursable by the Administrator on behalf of the former United States government astronaut or former payload specialist involved to the extent such items or services are authorized to be provided by the Administrator for such medical monitoring, diagnosis, or treatment under subsection (a).
+  >   - **(4)** *Conditional payment* The Administrator may provide for conditional payments for or provide medical monitoring, diagnosis, or treatment described in subsection (a) that is obligated to be paid for or provided by the United States or any third party under any other provision of law or contractual agreement to pay for or provide such medical monitoring, diagnosis, or treatment if—
+  >     - **(A)** payment for (or the provision of) such medical monitoring, diagnosis, or treatment services has not been made (or provided) or cannot reasonably be expected to be made (or provided) promptly by the United States or such third party, respectively; and
+  >     - **(B)** such payment (or such provision of services) by the Administrator is conditioned on reimbursement by the United States or such third party, respectively, for such medical monitoring, diagnosis, or treatment.
+  > - **(c)** *Exclusions* The Administrator may not—
+  >   - **(1)** provide for medical monitoring or diagnosis of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not potentially associated with human space flight;
+  >   - **(2)** provide for treatment of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not associated with human space flight; or
+  >   - **(3)** require a former United States government astronaut or former payload specialist to participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
+  > - **(d)** *Privacy* Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of all medical records generated under subsection (a) and accessible to the Administration.
+  > - **(e)** *Regulations* The Administrator shall promulgate such regulations as are necessary to carry out this section.
+  > - **(f)** *Definition of United States government astronaut* In this section, the term “United States government astronaut” has the meaning given the term “government astronaut” in section 50902, except it does not include an individual who is an international partner astronaut.
+  > - **(g)** *Data use and disclosure* The Administrator may use or disclose data acquired in the course of medical monitoring, diagnosis, or treatment of a former United States government astronaut or a former payload specialist under subsection (a), in accordance with subsection (d). Former United States government astronaut or former payload specialist participation in medical monitoring, diagnosis, or treatment under subsection (a) shall constitute consent for the Administrator to use or disclose such data.
 
-- **(a)** *Establishment of program* The Administrator shall, subject to section 6 and subsections (a)(2) and (b)(3) of section 4, establish a program that satisfies the requirements described in subsection (b) to provide for the medical monitoring, diagnosis, and treatment of crewmembers for space flight-associated medical conditions.
-- **(b)** *Program requirements* The requirements described in this subsection are the following:
-  - **(1)** *No cost sharing* Medical monitoring, diagnosis, and treatment shall be provided under the Program without any deductibles, copayments, or other cost sharing obligation for crewmembers participating in the Program.
-  - **(2)** *Access to local services* The Administrator shall design the Program to facilitate reasonable access of a crewmember to medical monitoring, diagnosis, and treatment under the Program, including, at the option of the crewmember—
-    - **(A)** directly through NASA; or
-    - **(B)** from a health care provider who the crewmember selects and who enters into an agreement with the Administrator, with respect to the provision by the provider of medical monitoring, diagnosis, and treatment services, as applicable, to such crewmember under the Program, under which—
-      - **(i)** the provider agrees to comply with the protocols issued under subsection (c) with respect to such provision of such services to such crewmember;
-      - **(ii)** the provider agrees to submit data with respect to such provision of such services to such crewmember, as required by the Administrator for purposes of subsection (d);
-      - **(iii)** the provider agrees to receive such training as the Administrator may require with respect to such medical monitoring, treatment, and diagnosis; and
-      - **(iv)** the Administrator agrees to provide payment to such provider for the provision of such services to such crewmember in accordance with payment rates established by the Administrator under the Program, which shall be not less than the reasonable costs of such services.
-  - **(3)** *Secondary payer*
-    - **(A)** *In general* Subject to subparagraph (B), payment or reimbursement for (or the provision of) medical monitoring, diagnosis, or treatment under the Program shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement to pay for or provide such medical monitoring, diagnosis, or treatment. Any costs for items and services covered under the Program that are not paid for or provided under such other provision of law or contractual agreement, due to the application of deductibles, copayments, coinsurance, other cost sharing, or otherwise, are reimbursable under the Program to the extent that they are covered under the Program.
-    - **(B)** *Conditional payment* The Administrator may, under the Program, provide for conditional payments for (or provide) medical monitoring, diagnosis, or treatment services that is obliged to be paid for or provided by the United States or any third party described in subparagraph (A) under any other provision of law or contractual agreement if—
-      - **(i)** payment for (or the provision of) such medical monitoring, diagnosis, or treatment services has not been made (or provided) or cannot reasonably be expected to be made (or provided) promptly by the United States or such third party, respectively; and
-      - **(ii)** such payment (or such provision of services) by the Administrator under the Program is conditioned on reimbursement by the United States or such third party, respectively, for such medical monitoring, diagnosis, or treatment.
-    - **(C)** *Consultation* In carrying out this paragraph, the Administrator may consult with other Federal officials with experience coordinating health care payments with third-party payers.
-  - **(4)** *Voluntary participation in program*
-    - **(A)** *In general* Participation by a crewmember under the Program, including with respect to the provision of medical monitoring, diagnosis, and treatment to such crewmember, shall be voluntary and pursuant to the written consent of such crewmember. Such consent provided by a crewmember shall constitute consent of the crewmember for the Administrator to use or disclose data acquired in the course of medical monitoring, diagnosis, and treatment of such crewmember under the Program in accordance with subsection (d).
-    - **(B)** *Consent not a condition for employment or benefits* Providing any consent under subparagraph (A) shall not be a condition for—
-      - **(i)** employment with NASA; or
-      - **(ii)** receiving any salary or benefits, either for current or former crewmembers.
-- **(c)** *Protocols* The Administrator shall issue such uniform protocols for the provision of medical monitoring, diagnosis, and treatment furnished under the Program.
-- **(d)** *Data collection, usage, and disclosures; Privacy protections*
-  - **(1)** *Uniform data collection* Under the Program, subject to paragraph (3), the Administrator shall provide—
-    - **(A)** for the uniform collection of data, including data on space flight-associated medical conditions and the identification of new space flight-associated conditions;
-    - **(B)** that such data shall be collected with respect to all crewmembers provided medical monitoring, diagnosis, or treatment under the Program for such conditions;
-    - **(C)** for the integration of such data into the medical monitoring, diagnosis, and treatment activities under the Program;
-    - **(D)** for the analysis of, and regular reports to the Administrator on, such data; and
-    - **(E)** notwithstanding section 7(a), that the Administrator may retain access to such data.
-  - **(2)** *Uses and disclosures of information* The Administrator may, subject to paragraph (3), use or disclose data acquired in the course of medical monitoring, diagnosis, and treatment of any crewmember under the Program for the following purposes:
-    - **(A)** The medical monitoring, diagnosis, and treatment of such crewmember under the Program.
-    - **(B)** Other medical monitoring, diagnosis, or treatment under the Program.
-    - **(C)** Other scientific and research purposes.
-    - **(D)** For purposes of analysis and reports under section 4.
-    - **(E)** Any other purpose deemed appropriate by the Administrator.
-  - **(3)** *Privacy protections* The data collection, analysis, integration, use, disclosure, and retention under this subsection shall be conducted (and such data maintained) in a manner that protects the confidentiality of individually identifiable health information consistent with applicable Federal law, including regulations.
-
-## § 4. Reports and cost estimate
-
-- **(a)** *Annual reports*
-  - **(1)** *Requirement* Consistent with applicable privacy protections under Federal law, including regulations, for each fiscal year of the Program, the Administrator shall prepare and publish a report on activities conducted under the Program, as well as plans for activities to be conducted under the Program during the subsequent fiscal year. Each such report shall include detailed cost accounting of such activities and five-year budget estimates. Each report for a fiscal year shall be submitted, not later than the date of submission of the President’s annual budget request for such fiscal year, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-  - **(2)** *Failure to submit report*
-    - **(A)** *In general* Subject to subparagraph (B), no funds are authorized to be appropriated for a fiscal year to carry out the Program unless the Administrator has submitted the report required under paragraph (1) for that fiscal year by the deadline established under such paragraph.
-    - **(B)** *Treatment of ongoing procedures* In the case of a fiscal year (after the first fiscal year for which the Program has been implemented) with respect to which no funds would be authorized to carry out the Program pursuant to subparagraph (A), notwithstanding subparagraph (A), there are authorized to be appropriated, subject to section 6, for such fiscal year such sums as may be necessary to provide that any crewmember receiving under the Program diagnosis services or a course of treatment that began on a date prior to the first day of such fiscal year shall continue to be provided such diagnosis services or course of treatment, respectively (and payment under the Program for such diagnosis services or course of treatment, respectively, shall continue) after such date until completion of such diagnosis services or course of treatment, respectively.
-- **(b)** *Cost estimate*
-  - **(1)** *Requirement* Not later than 90 days after the date of enactment of this Act, the Administrator shall enter into an arrangement with an independent external organization to undertake an independent cost estimate of the cost to NASA and the Federal Government to implement and administer the Program. The independent external organization may not be a NASA entity, such as the Office of Safety and Mission Assurance.
-  - **(2)** *Submittal to Congress* Not later than one year after the date of the enactment of this Act, the Administrator shall submit the independent cost estimate undertaken pursuant to paragraph (1) to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-  - **(3)** *Provision of services* The Administrator may not implement the Program until the date that is 90 days after the date of submission of the independent cost estimate under paragraph (2).
-
-## § 5. Inspector General audit
-
-The Inspector General of NASA shall conduct, as appropriate, periodic audits or reviews of the Program as is necessary to prevent waste, fraud, and abuse.
-
-## § 6. Funding
-
-The Program shall be carried out, to the extent and in such amounts as are provided in advance by appropriation Acts, using existing funding available for Agency Management and Operations in the “Safety, Security and Mission Services” account of the National Aeronautics and Space Administration.
-
-## § 7. Sunset
-
-- **(a)** *In general* Subject to subsection (b), the Program shall terminate on the date that is 10 years after the date of implementation of the Program.
-- **(b)** *Grandfather* In the case of a crewmember receiving under the Program diagnosis services or treatment services that began on a date prior to the date of termination described in subsection (a), the Administrator shall provide that such diagnosis services or course of treatment, respectively, for such crewmember (and payment for such diagnosis services or course of treatment, respectively) may, subject to section 6, continue after such date until completion of such diagnosis services or course of treatment, respectively.
+- **(b)** *Clerical amendment* The table of contents for chapter 201 of title 51, United States Code is amended by inserting after the item relating to section 20147 the following:
+- **(c)** *Annual reports*
+  - **(1)** *In general* Each fiscal year, not later than the date of submission of the President’s annual budget request for that fiscal year under section 1105 of title 31, United States Code, the Administrator of the National Aeronautics and Space Administration shall publish a report, in accordance with applicable Federal privacy laws, on the activities of the National Aeronautics and Space Administration under section 20148 of title 51, United States Code, as added by subsection (a).
+  - **(2)** *Contents* Each report under paragraph (1) shall include a detailed cost accounting of the Administration’s activities under such section 20148 of title 51, United States Code, and a 5-year budget estimate.
+  - **(3)** *Submission to Congress* The Administrator shall submit to the appropriate committees of Congress each report under paragraph (1) not later than the date of submission of the President’s annual budget request for that fiscal year under section 1105 of title 31, United States Code.
+- **(d)** *Cost estimate*
+  - **(1)** *Requirement* Not later than 90 days after the date of enactment of this Act, the Administrator of the National Aeronautics and Space Administration shall enter into an arrangement with an independent external organization to undertake an independent cost estimate of the cost to the National Aeronautics and Space Administration and the Federal Government to implement and administer the activities of the National Aeronautics and Space Administration under section 20148 of title 51, United States Code, as added by subsection (a). The independent external organization may not be an entity of the National Aeronautics and Space Administration, such as the Office of Safety and Mission Assurance.
+  - **(2)** *Submittal to Congress* Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit the independent cost estimate undertaken pursuant to paragraph (1) to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+- **(e)** *Privacy study*
+  - **(1)** *Study* The Administrator of the National Aeronautics and Space Administration shall carry out a study on any potential privacy or legal issues related to the possible sharing beyond the Federal Government of data acquired under the activities of the National Aeronautics and Space Administration under section 20148 of title 51, United States Code, as added by subsection (a).
+  - **(2)** *Report* Not later than 270 days after the date of the enactment of this Act, the Administrator shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of the study carried out under paragraph (1).
+- **(f)** *Inspector General audit* The Inspector General of the National Aeronautics and Space Administration shall periodically audit or review, as the Inspector General considers necessary to prevent waste, fraud, and abuse, the activities of the National Aeronautics and Space Administration under section 20148 of title 51, United States Code, as added by subsection (a).
