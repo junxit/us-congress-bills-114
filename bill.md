@@ -1,13 +1,15 @@
 ---
 legis-num: S. 2971
 congress: 114th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2nd Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2971
 
-> To authorize the National Urban Search and Rescue Response System.
+That the bill from the Senate (S. 2971) entitled “An Act to authorize the National Urban Search and Rescue Response System.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -34,7 +36,7 @@ This Act may be cited as the “National Urban Search and Rescue Response System
   >   - **(1)** *Designation* The Administrator shall designate task forces to participate in the System. The Administration shall determine the criteria for such participation.
   >   - **(2)** *Sponsoring agencies* Each task force shall have a sponsoring agency. The Administrator shall enter into an agreement with the sponsoring agency with respect to the participation of each task force in the System.
   >   - **(3)** *Composition*
-  >     - **(A)** *Participating agencies* A task force may include, at the discretion of the sponsoring agency, 1 or more participating agencies. The sponsoring agency shall enter into an agreement with each participating agency with respect to the participation of the participating agency on the task force.
+  >     - **(A)** *Participating agencies* A task force may include, at the discretion of the sponsoring agency, one or more participating agencies. The sponsoring agency shall enter into an agreement with each participating agency with respect to the participation of the participating agency on the task force.
   >     - **(B)** *Other individuals* A task force may also include, at the discretion of the sponsoring agency, other individuals not otherwise associated with the sponsoring agency or a participating agency. The sponsoring agency of a task force may enter into a separate agreement with each such individual with respect to the participation of the individual on the task force.
   > - **(e)** *Management and technical teams* The Administrator shall maintain such management teams and other technical teams as the Administrator determines are necessary to administer the System.
   > - **(f)** *Appointment of system members into federal service*
@@ -72,7 +74,6 @@ This Act may be cited as the “National Urban Search and Rescue Response System
   > - **(m)** *Response cooperative agreements* The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoring agency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
   > - **(n)** *Obligations* The Administrator may incur all necessary obligations consistent with this section in order to ensure the effectiveness of the System.
   > - **(o)** *Equipment maintenance and replacement* Not later than 180 days after the date of enactment of this section, the Administrator shall submit to the appropriate congressional committees (as defined in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101)) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
-  > - **(p)** *Authorization of appropriations* There is authorized to be appropriated to carry out the System and the provisions of this section such sums as are necessary for each of fiscal years 2017, 2018, and 2019.
 
 - **(b)** *Conforming amendments*
   - **(1)** *Applicability of title 5, United States Code* Section 8101(1) of title 5, United States Code, is amended—
@@ -87,3 +88,8 @@ This Act may be cited as the “National Urban Search and Rescue Response System
   - **(2)** *Inclusion as part of uniformed services for purposes of USERRA* Section 4303 of title 38, United States Code, is amended—
     - **(A)** in paragraph (13), by inserting “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”; and
     - **(B)** in paragraph (16), by inserting “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
+- **(c)** *Technical amendment* Section 1086(d) of the National Defense Authorization Act for Fiscal Year 2013 is amended as follows (which amendments shall take effect as if enacted on January 2, 2013)—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “paragraph (1)” and inserting “paragraph (2)”; and
+    - **(B)** in subparagraph (B) by striking “filed or” and inserting “filed (consistent with pre-existing effective dates) or”; and
+  - **(2)** in paragraph (2)(A), by striking “amendments made by this Act” and inserting “amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) by this Act”.

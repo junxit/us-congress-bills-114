@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2971
@@ -31,6 +31,10 @@ National Urban Search and Rescue Response System Act of 2016
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2016-12-07 — [House 114-2-615](votes/house-114-2-0615.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (405–7)
+
 ## Actions
 
 - 2016-05-23 — Introduced in Senate
@@ -44,3 +48,12 @@ National Urban Search and Rescue Response System Act of 2016
 - 2016-12-01 — Message on Senate action sent to the House.
 - 2016-12-01 — Received in the House.
 - 2016-12-01 — Referred to the House Committee on Transportation and Infrastructure.
+- 2016-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-07 — Considered as unfinished business. (consideration: CR H7325-7326)
+- 2016-12-07 — Considered under suspension of the rules. (consideration: CR H7310-7312)
+- 2016-12-07 — DEBATE - The House continuned with debate on S. 2971.
+- 2016-12-07 — DEBATE - The House proceeded with forty minutes of debate on S. 2971.
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
+- 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 615). (text: CR H7310-7311)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 615).(text: CR H7310-7311)

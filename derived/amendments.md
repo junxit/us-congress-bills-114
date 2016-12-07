@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 114
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+10 amendatory instructions. 3 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 3796b
+
+> by striking “paragraph (1)” and inserting “paragraph (2)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (1)` |
+| Inserted | `paragraph (2)` |
+
+### 42 U.S.C. § 3796b
+
+> in subparagraph (B) by striking “filed or” and inserting “filed (consistent with pre-existing effective dates) or”; and
+
+| | |
+|---|---|
+| Removed | `filed or` |
+| Inserted | `filed (consistent with pre-existing effective dates) or` |
+
+### 42 U.S.C. § 3796b
+
+> in paragraph (2)(A), by striking “amendments made by this Act” and inserting “amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) by this Act”.
+
+| | |
+|---|---|
+| Removed | `amendments made by this Act` |
+| Inserted | `amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) by this Act` |
 
 ## Stated, not applied
 
