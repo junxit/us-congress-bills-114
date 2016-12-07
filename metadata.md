@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6416
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6416
@@ -50,3 +50,4 @@ Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement
 - 2016-12-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
 - 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606). (text: CR H7221-7237)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606).(text: CR H7221-7237)
+- 2016-12-07 — Received in the Senate, read twice.
