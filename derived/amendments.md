@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5790
 congress: 114
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 2303 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 2303(a) of title 5, United States Code, is amended by striking “any employee of the Bureau” and all that follows through “health or safety” and inserting the following: | the bill names no machine-readable US Code section |
