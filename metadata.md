@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5790
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5790
@@ -58,3 +58,12 @@ Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 616). (text: CR H7312-7313)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 616).(text: CR H7312-7313)
 - 2016-12-07 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S7128-7131)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7128-7131)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-302.
+- 2016-12-16 — Became Public Law No: 114-302.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
