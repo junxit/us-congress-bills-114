@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6416
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6416
@@ -51,3 +51,12 @@ Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement
 - 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606). (text: CR H7221-7237)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 606).(text: CR H7221-7237)
 - 2016-12-07 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S7109-7121)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7109-7121)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-315.
+- 2016-12-16 — Became Public Law No: 114-315.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
