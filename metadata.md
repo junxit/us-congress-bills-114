@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5143
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5143
@@ -62,6 +62,10 @@ Transparent Insurance Standards Act of 2016
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2016-12-07 — [House 114-2-613](votes/house-114-2-0613.md) — On Passage — **Passed** (239–170)
+
 ## Actions
 
 - 2016-02-25 — Hearings Held by the Subcommittee on Housing and Insurance Prior to Introduction and Referral.
@@ -74,3 +78,20 @@ Transparent Insurance Standards Act of 2016
 - 2016-11-22 — Placed on the Union Calendar, Calendar No. 652.
 - 2016-11-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-831.
 - 2016-11-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 114-831.
+- 2016-12-06 — Rules Committee Resolution H. Res. 944 Reported to House. Rule provides for consideration of H.R. 5143 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. It shall be in order at any time on the legislative day of December 8, 2016, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV.
+- 2016-12-07 — Amendment (A002) offered by Mr. DeSantis. (consideration: CR H7324; text: CR H7324)
+- 2016-12-07 — Amendment agreed to by House: On agreeing to the DeSantis amendment (A002) Agreed to by voice vote.
+- 2016-12-07 — Considered under the provisions of rule H. Res. 944. (consideration: CR H7313-7324; text of amendment in the nature of a substitute: CR S7314-7315)
+- 2016-12-07 — DEBATE - Pursuant to the provisions of H.Res. 944, the House proceeded with 10 minutes of debate on the DeSantis (FL) amendment No. 1.
+- 2016-12-07 — DEBATE - The House proceeded with one hour of debate on H.R. 5143.
+- 2016-12-07 — House amendment agreed to: On agreeing to the DeSantis amendment (A002) Agreed to by voice vote.
+- 2016-12-07 — House amendment offered
+- 2016-12-07 — House amendment offered
+- 2016-12-07 — House amendment offered/reported by : Amendment (A002) offered by Mr. DeSantis.(consideration: CR H7324; text: CR H7324)
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — On agreeing to the DeSantis amendment (A002) Agreed to by voice vote.
+- 2016-12-07 — On passage Passed by the Yeas and Nays: 239 - 170 (Roll no. 613).
+- 2016-12-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 239 - 170 (Roll no. 613).
+- 2016-12-07 — Rule H. Res. 944 passed House.
+- 2016-12-07 — Rule provides for consideration of H.R. 5143 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. It shall be in order at any time on the legislative day of December 8, 2016, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV.
+- 2016-12-07 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H7324)
