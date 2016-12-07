@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6401
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6401
@@ -39,3 +39,4 @@ Northern Mariana Islands Economic Expansion Act
 - 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7210)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7210)
+- 2016-12-07 — Received in the Senate.
