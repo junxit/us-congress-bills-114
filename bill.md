@@ -60,3 +60,124 @@ It is the policy of the United States to support efforts to—
 
 - **(b)** *Conforming amendment* Section 613(b)(2)(A) of such Act (22 U.S.C. 7712(b)(2)(A)) is amended by striking “the” before “Compact” and inserting “any”.
 - **(c)** *Applicability* The amendments made by this section apply with respect to Compacts entered into between the United States and an eligible country under the Millennium Challenge Act of 2003 before, on, or after the date of the enactment of this Act.
+
+## § 6. Millennium Challenge Corporation
+
+- **(a)** *Short title* This section may be cited as the “Millennium Compacts for Regional Economic Integration Act” or the “M-CORE Act”.
+- **(b)** *Purpose* The purpose of this section is to further enhance the transparency and accelerate the impact of the Millennium Challenge Corporation.
+- **(c)** *Candidacy status*
+  - **(1)** *Low income countries* Section 606(a) of the Millennium Challenge Act of 2003 (22 U.S.C. 7705(a)) is amended—
+    - **(A)** in paragraph (1)(B), by striking “(3)” and inserting “(4)”;
+    - **(B)** in paragraph (2)—
+      - **(i)** by amending the paragraph heading to read as follows: “Fiscal years 2005 through 2012”; and
+      - **(ii)** by striking “fiscal year 2005 or a subsequent fiscal year” and inserting “each of fiscal years 2005 through 2012”;
+    - **(C)** by redesignating paragraph (3) as paragraph (4); and
+    - **(D)** by inserting after paragraph (2) the following:
+      > - **(3)** *Fiscal year 2013 and subsequent fiscal years* A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
+      >   - **(A)** has a per capita income equal to or less than the lower middle income country threshold established by the International Bank for Reconstruction and Development for such fiscal year;
+      >   - **(B)** is among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+      >   - **(C)** meets the requirements under paragraph (1)(B).
+
+  - **(2)** *Lower middle income countries* Section 606(b) of the Millennium Challenge Act of 2003 (22 U.S.C. 7705(b)) is amended—
+    - **(A)** in paragraph (1)—
+      - **(i)** by amending the paragraph heading to read as follows: “Fiscal years 2006 through 2012”; and
+      - **(ii)** in the matter preceding subparagraph (A), by striking “fiscal year 2006 or a subsequent fiscal year” and inserting “fiscal years 2006 through 2012”;
+    - **(B)** by redesignating paragraph (2) as paragraph (3); and
+    - **(C)** by inserting after paragraph (1) the following:
+      > - **(2)** *Fiscal year 2013 and subsequent fiscal years* In addition to the countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
+      >   - **(A)** has a per capita income equal to or less than the lower middle income country threshold established by the International Bank for Reconstruction and Development for the fiscal year;
+      >   - **(B)** is not among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+      >   - **(C)** meets the requirements under subsection (a)(1)(B).
+
+  - **(3)** *Reclassification* Section 606 of the Millennium Challenge Act of 2003 (22 U.S.C. 7705) is amended—
+    - **(A)** by redesignating subsection (c) as subsection (d); and
+    - **(B)** by inserting after subsection (b) the following:
+      > - **(c)** *Treatment of countries with per capita income changes* A country qualifying for candidate status under this section with a per capita income that changes during the fiscal year such that the country would be reclassified from a low income country to a lower middle income country or from a lower middle income country to a low income country shall retain its candidacy status in its former income classification for such fiscal year and the two subsequent fiscal years.
+
+- **(d)** *Carryover authority for private sector members of Board of Directors* Section 604(c)(4)(B) of the Millennium Challenge Act of 2003 (22 U.S.C. 7703(c)(4)(B)) is amended to read as follows:
+  > - **(B)** *Other members* Each member of the Board described in paragraph (3)(B)—
+  >   - **(i)** shall be appointed for a term of 3 years;
+  >   - **(ii)** may be reappointed for a term of an additional 2 years; and
+  >   - **(iii)** may continue to serve in each such appointment until the earlier of—
+  >     - **(I)** the date on which his or her successor is appointed; or
+  >     - **(II)** the date that is one year after the expiration of his or her appointment or reappointment, as the case may be.
+
+- **(e)** *Public notification of entering into a compact* Section 610 of the Millennium Challenge Act of 2003 (22 U.S.C. 7709(b)) is amended to read as follows:
+  > ## § 610. Congressional and public notification
+  >
+  > - **(a)** *Congressional consultations and notifications*
+  >   - **(1)** *In general* The Board, acting through the Chief Executive Officer, shall consult with and notify the appropriate congressional committees not later than 15 days before taking any of the actions described in paragraph (2).
+  >   - **(2)** *Actions described* The actions described in this paragraph are—
+  >     - **(A)** providing assistance for an eligible country under section 609(g);
+  >     - **(B)** commencing negotiations with an eligible country to provide assistance for—
+  >       - **(i)** a Compact under section 605; or
+  >       - **(ii)** an agreement under section 616;
+  >     - **(C)** signing such a Compact or agreement; and
+  >     - **(D)** terminating assistance under such a Compact or agreement.
+  >   - **(3)** *Economic justification* Any notification relating to the intent to negotiate or sign a Compact shall include a report describing the projected economic justification for the Compact, including, as applicable—
+  >     - **(A)** the expected economic rate of return of the Compact;
+  >     - **(B)** a cost-benefit analysis of the Compact;
+  >     - **(C)** a description of the impact on beneficiary populations;
+  >     - **(D)** the likelihood that the investment will catalyze private sector investments; and
+  >     - **(E)** any other applicable economic factors that justify each project to be funded under such a Compact to the extent practicable and appropriate.
+  >   - **(4)** *Risk management plan* Not later than 60 days before signing each concurrent Compact, as authorized under section 609, the Board, acting through the Chief Executive Officer, shall consult with and provide to the appropriate congressional committees—
+  >     - **(A)** an assessment and, as appropriate, the identification of potential measures to mitigate risks, of—
+  >       - **(i)** the countries’ commitment to regional integration and cross-border cooperation and capacity to carry out commitments;
+  >       - **(ii)** political and policy risks, including risks that could affect country eligibility;
+  >       - **(iii)** risks associated with realizing economic returns;
+  >       - **(iv)** time and completion risks; and
+  >       - **(v)** cost and financial risks; and
+  >     - **(B)** an assessment of measures to be taken to mitigate any identified risks, including—
+  >       - **(i)** securing other potential donors to finance projects or parts of projects as needed; and
+  >       - **(ii)** partnering with regional organizations to support and oversee effective cross-border cooperation.
+  > - **(b)** *Congressional and public notification after entering into a compact* Not later than 10 days after entering into a Compact with an eligible country, the Board, acting through the Chief Executive Officer, shall—
+  >   - **(1)** publish the text of the Compact on the Internet website of the Corporation;
+  >   - **(2)** provide the appropriate congressional committees with a detailed summary of the Compact and, upon request, the text of the Compact; and
+  >   - **(3)** publish in the Federal Register a detailed summary of the Compact and a notice of availability of the text of the Compact on the Internet website of the Corporation.
+
+- **(f)** *Disclosure*
+  - **(1)** *Requirement for timely disclosure* Section 612(a) of the Millennium Challenge Act of 2003 (22 U.S.C. 7711(a)) is amended—
+    - **(A)** in the subsection heading, by inserting “timely” before “disclosure”; and
+    - **(B)** in the matter preceding paragraph (1)—
+      - **(i)** by striking “The Corporation” and inserting “Not later than 90 days after the last day of each fiscal quarter, the Corporation”; and
+      - **(ii)** by striking “on at least a quarterly basis,”.
+  - **(2)** *Dissemination* Section 612(b) of the Millennium Challenge Act of 2003 (22 U.S.C. 7711(b)) is amended to read as follows:
+    > - **(b)** *Dissemination* The Board, acting through the Chief Executive Officer, shall make the information required to be disclosed under subsection (a) available to the public—
+    >   - **(1)** by publishing it on the Internet website of the Corporation;
+    >   - **(2)** by providing notice of the availability of such information in the Federal Register; and
+    >   - **(3)** by any other methods that the Board determines to be appropriate.
+
+- **(g)** *Restriction on the use of assistance under section 616* Section 616(d) of the Millennium Challenge Act of 2003 (22 U.S.C. 7715(d)) is amended to read as follows:
+  > - **(d)** *Funding*
+  >   - **(1)** *Fiscal year 2004* Not more than 10 percent of the amount appropriated pursuant to the authorization of appropriations under section 619(a) for fiscal year 2004 is authorized to be made available to carry out this section.
+  >   - **(2)** *Restriction relating to assistance* None of the funds authorized to carry out the purposes of this Act shall be available for assistance under this section to a country that does not qualify as a candidate country under section 606 for the fiscal year during which such assistance is provided.
+
+- **(h)** *Additional reporting to the Board on the treatment of civil society in an eligible country* Section 607 of the Millennium Challenge Act of 2003 (22 U.S.C. 7706) is amended—
+  - **(1)** in subsection (b)(1)—
+    - **(A)** in subparagraph (D), by striking “and” at the end;
+    - **(B)** in subparagraph (E), by adding “and” at the end; and
+    - **(C)** by adding at the end the following:
+      > - **(F)** the quality of the civil society enabling environment;
+
+  - **(2)** by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and
+  - **(3)** by inserting after subsection (c) the following:
+    > - **(d)** *Reporting on treatment of civil society* Before the Board selects an eligible country for a Compact under subsection (c), the Corporation shall provide information to the Board regarding the country’s treatment of civil society, including classified information, as appropriate. The information shall include an assessment and analysis of factors including—
+    >   - **(1)** any relevant laws governing the formation or establishment of a civil society organization, particularly laws intended to curb the activities of foreign civil society organizations;
+    >   - **(2)** any relevant laws governing the operations of a civil society organization, particularly those laws seeking to define or otherwise regulate the actions of foreign civil society organizations;
+    >   - **(3)** laws relating to the legal status of civil society organizations, including laws which effectively discriminate against foreign civil society organizations as compared to similarly situated domestic organizations;
+    >   - **(4)** laws regulating the freedom of expression and peaceful assembly; and
+    >   - **(5)** laws regulating the usage of the Internet, particularly by foreign civil society organizations.
+
+- **(i)** *Study on subnational compacts*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Millennium Challenge Corporation shall submit a study to the appropriate congressional committees that assesses the feasibility and desirability of developing partnerships at the subnational level within candidate countries that would be complementary to, and, as applicable, concurrent with, any Millennium Challenge Corporation national-level or regional investments.
+  - **(2)** *Content* The study required under paragraph (1) shall examine—
+    - **(A)** the extent to which targeting investments at the subnational level might provide new opportunities for reducing poverty through economic growth;
+    - **(B)** the extent to which traditional approaches to defining poverty may not adequately capture the nature of poverty within a country;
+    - **(C)** the types of subnational entities that might be appropriate partners for subnational Millennium Challenge Corporation compacts;
+    - **(D)** how candidates for subnational partners might best be identified; and
+    - **(E)** what role each national government should play in creating or implementing a subnational partnership.
+  - **(3)** *Defined term* In this subsection, the term appropriate congressional committees means—
+    - **(A)** the Committee on Foreign Relations of the Senate;
+    - **(B)** the Committee on Appropriations of the Senate;
+    - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
+    - **(D)** the Committee on Appropriations of the House of Representatives.
