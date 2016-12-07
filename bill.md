@@ -52,7 +52,7 @@ Section 4 of the Indian Employment, Training and Related Services Act of 1992 (2
 >
 > The Secretary shall, after approving a plan submitted by an Indian tribe in accordance with section 8, authorize the Indian tribe to, in accordance with the plan—
 >
-> - **(1)** integrate the programs and Federal funds received by the Indian tribe in accordance with waiver authority granted under section 7(d); and
+> - **(1)** integrate the programs and Federal funds received by the Indian tribe; and
 > - **(2)** coordinate the employment, training, and related services provided with those funds in a consolidated and comprehensive tribal plan.
 
 ## § 6. Programs affected and transfer of funds
@@ -67,13 +67,14 @@ Section 5 of the Indian Employment, Training and Related Services Act of 1992 (2
 >       - **(i)** job training;
 >       - **(ii)** welfare to work and tribal work experience;
 >       - **(iii)** creating or enhancing employment opportunities;
->       - **(iv)** skill development;
->       - **(v)** assisting Indian youth and adults to succeed in the workforce;
->       - **(vi)** encouraging self-sufficiency;
->       - **(vii)** familiarizing individual participants with the world of work;
->       - **(viii)** facilitating the creation of job opportunities;
->       - **(ix)** economic development; or
->       - **(x)** any services related to the activities described in clauses (i) through (x); and
+>       - **(iv)** higher education;
+>       - **(v)** skill development;
+>       - **(vi)** assisting Indian youth and adults to succeed in the workforce;
+>       - **(vii)** encouraging self-sufficiency;
+>       - **(viii)** familiarizing individual participants with the world of work;
+>       - **(ix)** facilitating the creation of job opportunities;
+>       - **(x)** economic development; or
+>       - **(xi)** any services related to the activities described in clauses (i) through (x); and
 >     - **(B)** under which an Indian tribe or members of an Indian tribe—
 >       - **(i)** are eligible to receive funds—
 >         - **(I)** under a statutory or administrative formula making funds available to an Indian tribe; or
@@ -96,7 +97,7 @@ Section 6 of the Indian Employment, Training and Related Services Act of 1992 (2
 >   - **(A)** a comprehensive strategy identifying the full range of potential employment opportunities on and near the service area of the Indian tribe;
 >   - **(B)** the education, training, and related services to be provided to assist Indians to access those employment opportunities;
 >   - **(C)** the way in which services and program funds are to be integrated, consolidated, and delivered; and
->   - **(D)** the results expected, including the expected number of program participants in unsubsidized employment during the second quarter after exit from the program, from the plan;
+>   - **(D)** the results expected from the plan;
 > - **(4)** identify the projected expenditures under the plan in a single budget covering all consolidated funds;
 > - **(5)** identify any agency of the Indian tribe to be involved in the delivery of the services integrated under the plan;
 > - **(6)** identify any statutory provisions, regulations, policies, or procedures that the Indian tribe believes need to be waived to implement the plan; and
@@ -144,7 +145,7 @@ Section 8 of the Indian Employment, Training and Related Services Act of 1992 (2
 >
 > - **(a)** *In general* The Secretary shall have exclusive authority to approve or disapprove a plan submitted by an Indian tribe in accordance with section 6.
 > - **(b)** *Approval process*
->   - **(1)** *In general* Not later than 90 days after the date on which the Secretary receives a plan, the Secretary shall, after coordinating with the Secretary of each Federal agency providing funds to be used to implement the plan, approve or deny the plan.
+>   - **(1)** *In general* Not later than 90 days after the date on which the Secretary receives a plan, the Secretary shall approve or deny the plan.
 >   - **(2)** *Approval* If the Secretary approves a plan under paragraph (1), the Secretary shall authorize the transfer of program funds identified in the plan in accordance with section 13.
 >   - **(3)** *Denial* If the Secretary denies the plan under paragraph (1), the Secretary shall provide to the Indian tribe a written notification of disapproval of the plan that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that the plan does not meet the requirements described in section 6.
 >   - **(4)** *Partial Approval*
@@ -157,13 +158,19 @@ Section 8 of the Indian Employment, Training and Related Services Act of 1992 (2
 >     - **(A)** state any objections in writing to the Indian tribe;
 >     - **(B)** provide assistance to the Indian tribe to overcome the stated objections; and
 >     - **(C)** unless the Indian tribe brings a civil action under paragraph (2), provide the Indian tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate.
->   - **(2)** *Civil actions*
->     - **(A)** *In general* The district courts of the United States shall have original jurisdiction of a civil action against the appropriate Secretary arising under this section.
->     - **(B)** *Administrative hearing and appeal not required* An Indian tribe may bring a civil action under this paragraph without regard to whether the Indian tribe had a hearing or filed an appeal under paragraph (1).
->     - **(C)** *Relief* In an action brought under this paragraph, the court may order appropriate relief (including injunctive relief to reverse a denial of a plan under this section or to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this Act or regulations promulgated thereunder) against any action by an officer or employee of the United States or any agency thereof contrary to this Act or regulations promulgated thereunder.
->   - **(3)** *Final agency action* Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (collectively referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under paragraph (1)(C) shall be made—
->     - **(A)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
->     - **(B)** by an administrative law judge.
+>   - **(2)** *Civil actions; concurrent jurisdiction; relief*
+>     - **(A)** *In general* The district courts of the United States shall have original jurisdiction of a civil action or claim against the appropriate Secretary arising under this section and over any civil action or claim against the Secretary for money damages arising under contracts authorized by this section.
+>     - **(B)** *Administrative hearing and appeal not required* An Indian tribe may bring a civil action or claim under this paragraph without regard to whether the Indian tribe had a hearing or filed an appeal under paragraph (1).
+>     - **(C)** *Relief* In an action brought under this paragraph, the court may order appropriate relief, including—
+>       - **(i)** money damages;
+>       - **(ii)** injunctive relief against any action by an officer or employee of the United States or any agency thereof contrary to this Act or regulations promulgated thereunder (including immediate injunctive relief to reverse a denial of a plan under this section or to compel the Secretary to approve a plan); and
+>       - **(iii)** a writ of mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this Act or regulations promulgated hereunder.
+>   - **(3)** *Burden of proof at hearing or appeal declining contract; final agency action*
+>     - **(A)** *In general* With respect to any hearing or appeal conducted under paragraph (1)(C) or any civil action brought under paragraph (2), the Secretary shall have the burden of proving by clear and convincing evidence the validity of the grounds for denying approval of a plan (or portion thereof).
+>     - **(B)** *Agency action* Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (collectively referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under paragraph (1)(C) shall be made—
+>       - **(i)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
+>       - **(ii)** by an administrative judge.
+>   - **(4)** *Application of laws to administrative appeals* Section 504 of title 5, United States Code, and section 2412 of title 28, United States Code, shall apply to any administrative appeals pending on or filed after October 5, 1988, by an Indian tribe regarding a plan under this Act.
 
 ## § 10. Employer training placements
 
@@ -187,7 +194,7 @@ Section 11 of the Indian Employment, Training and Related Services Act of 1992 (
 > - **(a)** *Lead agency*
 >   - **(1)** *In general* Notwithstanding any other provision of law, the lead agency responsible for implementation of this Act shall be the Bureau of Indian Affairs.
 >   - **(2)** *Inclusions* The responsibilities of the Director of the Bureau of Indian Affairs in carrying out this Act shall include—
->     - **(A)** in coordination with the head of each Federal agency overseeing a program identified in the plan, the development of a single model report for each Indian tribe that has in place an approved plan under this Act to submit to the Director reports on any consolidated activities undertaken and joint expenditures made under the plan;
+>     - **(A)** the development of a single model report for each Indian tribe that has in place an approved plan under this Act to submit to the Director reports on any consolidated activities undertaken and joint expenditures made under the plan;
 >     - **(B)** the provision, directly or through contract, of appropriate voluntary and technical assistance to participating Indian tribes;
 >     - **(C)** the development and use of a single monitoring and oversight system for plans approved under this Act;
 >     - **(D)**
@@ -202,15 +209,14 @@ Section 11 of the Indian Employment, Training and Related Services Act of 1992 (
 >       - **(i)** an annual meeting of participating Indian tribes and Federal departments and agencies, to be co-chaired by—
 >         - **(I)** a representative of the President; and
 >         - **(II)** a representative of the participating Indian tribes;
->       - **(ii)** an annual review of the achievements under this Act, including the number and percentage of program participants in unsubsidized employment during the second quarter after exit from the program, and any statutory, regulatory, administrative, or policy obstacles that prevent participating Indian tribes from fully and efficiently carrying out the purposes of this Act; and
+>       - **(ii)** an annual review of the achievements under this Act and any statutory, regulatory, administrative, or policy obstacles that prevent participating Indian tribes from fully and efficiently carrying out the purposes of this Act; and
 >       - **(iii)** a forum comprised of participating Indian tribes and Federal departments and agencies to identify and resolve interagency conflicts and conflicts between the Federal Government and Indian tribes in the administration of this Act.
 > - **(b)** *Report format*
 >   - **(1)** *In general* The lead agency shall develop and distribute to Indian tribes that have in place an approved plan under this Act a single report format, in accordance with the requirements of this Act.
 >   - **(2)** *Requirements* The lead agency shall ensure that the report format developed under paragraph (1), together with records maintained by each participating Indian tribe, contains information sufficient—
->     - **(A)** to determine whether the Indian tribe has complied with the requirements of the approved plan of the Indian tribe;
->     - **(B)** to determine the number and percentage of program participants in unsubsidized employment during the second quarter after exit from the program; and
->     - **(C)** to provide assurances to the head of each applicable Federal department or agency that the Indian tribe has complied with all directly applicable statutory and regulatory requirements not waived under section 7.
->   - **(3)** *Limitation* The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this Act but instead shall require the Indian tribe to submit a single report on the expenditure of consolidated funds under such plan.
+>     - **(A)** to determine whether the Indian tribe has complied with the requirements of the approved plan of the Indian tribe; and
+>     - **(B)** to provide assurances to the head of each applicable Federal department or agency that the Indian tribe has complied with all directly applicable statutory and regulatory requirements not waived under section 7.
+>   - **(3)** *Limitation* The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds (expressed by fund source or single agency code) transferred to the Indian tribe under an approved plan under this Act.
 
 ## § 12. No reduction in amounts
 
@@ -263,7 +269,7 @@ Section 14 of the Indian Employment, Training and Related Services Act of 1992 (
   - **(B)** by striking “regulations)” and all that follows through the end of the subsection and inserting the following:
     > regulations).
     > - **(2)** *Treatment* The amount equal to the difference between the amount of the commingled funds and the actual administrative cost of the programs, as described in paragraph (1), shall be considered to be properly spent for Federal audit purposes if the amount is used to achieve the purposes of this Act.
-    > - **(e)** *Matching Funds* Notwithstanding any other provision of law, any funds transferred to an Indian tribe under this Act shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law, except those administered by the Department of Labor or the Department of Health and Human Services.
+    > - **(e)** *Matching Funds* Notwithstanding any other provision of law, any funds transferred to an Indian tribe under this Act shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law.
     > - **(f)** *Claims* The following provisions of law shall apply to plans approved under this Act:
     >   - **(1)** Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959).
     >   - **(2)** Chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).
