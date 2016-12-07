@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1219
 congress: 114
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1219
@@ -20,6 +20,10 @@ Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2016
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2016-12-07 — [House 114-2-611](votes/house-114-2-0611.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–1)
+
 ## Actions
 
 - 2015-03-03 — Introduced in House
@@ -34,3 +38,11 @@ Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2016
 - 2016-11-29 — Placed on the Union Calendar, Calendar No. 655.
 - 2016-11-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-834.
 - 2016-11-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-834.
+- 2016-12-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2016-12-06 — Considered under suspension of the rules. (consideration: CR H7208-7209)
+- 2016-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1219.
+- 2016-12-06 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2016-12-07 — Considered as unfinished business. (consideration: CR H7301)
+- 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 611). (text: CR 12/7/2016 H7208-7209)
+- 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 611).(text: CR 12/7/2016 H7208-7209)
