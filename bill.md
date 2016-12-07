@@ -36,7 +36,7 @@ This Act may be cited as the “Communities Helping Invest through Property and 
       - **(i)** meeting a need of the Department as part of the long-range capital planning process of the Department; and
       - **(ii)** the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
   - **(2)** an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government.
-- **(c)** *Requirement to enter into an agreement*
+- **(c)** *Requirement To enter into an agreement*
   - **(1)** *In general* The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—
     - **(A)** the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or
     - **(B)** the construction by the entity of a facility on—
@@ -44,7 +44,7 @@ This Act may be cited as the “Communities Helping Invest through Property and 
       - **(ii)** real property and improvements donated to the Department by the entity.
   - **(2)** *Content of formal agreements* With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:
     - **(A)** The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility.
-    - **(B)** The entity shall use construction standards required of the Department when designing and building the facility, except to the extent the Secretary determines otherwise.
+    - **(B)** The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law.
     - **(C)** The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government.
 - **(d)** *No payment of rent or usage fees* The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section.
 - **(e)** *Funding*
@@ -56,6 +56,6 @@ This Act may be cited as the “Communities Helping Invest through Property and 
 - **(g)** *Information on donations and related projects*
   - **(1)** *In general* The Secretary shall include in the budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property.
   - **(2)** *Elements* Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects.
-- **(h)** *Biennial report of Comptroller General of the United States* Not less frequently than once every two years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
-- **(i)** *Termination* The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is five years after the date of the enactment of this Act.
+- **(h)** *Biennial report of Comptroller General of the United States* Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+- **(i)** *Termination* The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is 5 years after the date of the enactment of this Act.
 - **(j)** *Rule of construction* Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section.
