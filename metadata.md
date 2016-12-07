@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6375
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6375
@@ -35,3 +35,4 @@ Power And Security Systems (PASS) Act
 - 2016-12-06 — Mr. Olson moved to suspend the rules and pass the bill.
 - 2016-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7192)
 - 2016-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7192)
+- 2016-12-07 — Received in the Senate.
