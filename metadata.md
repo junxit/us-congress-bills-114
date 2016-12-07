@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6438
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6438
@@ -36,3 +36,4 @@ To extend the waiver of limitations with respect to excluding from gross income 
 - 2016-12-06 — Mr. Boustany asked unanimous consent to discharge from committee and consider.
 - 2016-12-06 — On passage Passed without objection. (text: CR H7220-7221)
 - 2016-12-06 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7220-7221)
+- 2016-12-07 — Received in the Senate.
