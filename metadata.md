@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5714
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5714
@@ -37,3 +37,12 @@ Postal Service Reform Act of 2016
 - 2016-07-11 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-11 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-07-11 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-07-12 — Ordered to be Reported by Voice Vote.
+- 2016-07-19 — Referred to the Subcommittee on Health.
+- 2016-12-08 — Committee on Energy and Commerce discharged.
+- 2016-12-08 — Committee on Energy and Commerce discharged.
+- 2016-12-08 — Committee on Ways and Means discharged.
+- 2016-12-08 — Committee on Ways and Means discharged.
+- 2016-12-08 — Placed on the Union Calendar, Calendar No. 671.
+- 2016-12-08 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-858, Part I.
+- 2016-12-08 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-858, Part I.
