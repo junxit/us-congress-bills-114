@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6400
@@ -32,3 +32,4 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 - 2016-12-07 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2016-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7297)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7297)
+- 2016-12-08 — Received in the Senate, read twice.
