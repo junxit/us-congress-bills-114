@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6451
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6451
@@ -32,3 +32,13 @@ Federal Property Management Reform Act of 2016
 - 2016-12-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-12-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-12-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-12-08 — Committee on Oversight and Government discharged.
+- 2016-12-08 — Committee on Oversight and Government discharged.
+- 2016-12-08 — Committee on Transportation discharged.
+- 2016-12-08 — Committee on Transportation discharged.
+- 2016-12-08 — Considered by unanimous consent. (consideration: CR H7531-7533)
+- 2016-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-08 — Mr. Chaffetz asked unanimous consent to discharge from committee and consider.
+- 2016-12-08 — On passage Passed without objection. (text: CR H7531-7533)
+- 2016-12-08 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7531-7533)
+- 2016-12-08 — Received in the Senate, read twice.

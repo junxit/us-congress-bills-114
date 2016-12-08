@@ -83,10 +83,10 @@ The purpose of this Act is to increase the efficiency and effectiveness of the F
   > - **(1)** *In general* The Board shall be composed of a Chairperson appointed by the President, by and with the advice and consent of the Senate, and 6 members appointed by the President.
   > - **(2)** *Appointments*
   >   - **(A)** *In general* In selecting individuals for appointments to the Board, the President shall appoint members in the following manner:
-  >     - **(i)** 2 members recommended by the Speaker of the House of Representatives.
-  >     - **(ii)** 2 members recommended by the majority leader of the Senate.
-  >     - **(iii)** 1 member recommended by the minority leader of the House of Representatives.
-  >     - **(iv)** 1 member recommended by the minority leader of the Senate.
+  >     - **(i)** Two members recommended by the Speaker of the House of Representatives.
+  >     - **(ii)** Two members recommended by the majority leader of the Senate.
+  >     - **(iii)** One member recommended by the minority leader of the House of Representatives.
+  >     - **(iv)** One member recommended by the minority leader of the Senate.
   >   - **(B)** *Deadline* The appointment of members to the Board shall be made not later than 90 days after the date of enactment of this Act.
   > - **(3)** *Terms* The term for each member of the Board shall be 6 years.
 
