@@ -149,7 +149,7 @@ Section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
       >   - **(A)** the total number of investigative reports issued during the reporting period;
       >   - **(B)** the total number of persons referred to the Department of Justice for criminal prosecution during the reporting period;
       >   - **(C)** the total number of persons referred to State and local prosecuting authorities for criminal prosecution during the reporting period; and
-      >   - **(D)** the total number of indictments and criminal information during the reporting period that resulted from any prior referral to prosecuting authorities;
+      >   - **(D)** the total number of indictments and criminal informations during the reporting period that resulted from any prior referral to prosecuting authorities;
       > - **(18)** a description of the metrics used for developing the data for the statistical tables under paragraph (17);
       > - **(19)** a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including a detailed description of—
       >   - **(A)** the facts and circumstances of the investigation; and
@@ -297,4 +297,4 @@ The Inspector General Act of 1978 (5 U.S.C. App.), as amended by this Act, is am
 
 ## § 8. No additional funds authorized
 
-No additional funds are authorized to carry out the requirements of this Act or the amendments made by this Act. The requirements of this Act and the amendments made by this Act shall be carried out using amounts otherwise appropriated.
+No additional funds are authorized to carry out the requirements of this Act or the amendments made by this Act. The requirements of this Act and the amendments made by this Act shall be carried out using amounts otherwise authorized.
