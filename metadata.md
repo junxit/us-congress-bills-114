@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6450
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6450
@@ -44,3 +44,12 @@ Inspector General Empowerment Act of 2016
 - 2016-12-08 — On passage Passed without objection. (text: CR H7527-7531)
 - 2016-12-08 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7527-7531)
 - 2016-12-08 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S7128-7131)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7128-7131)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-317.
+- 2016-12-16 — Became Public Law No: 114-317.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
