@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2028
@@ -16,8 +16,65 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Cosponsors (82)
+## Cosponsors (139)
 
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -106,7 +163,7 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (40)
+## Recorded votes (42)
 
 - 2015-04-30 — [House 114-1-195](votes/house-114-1-0195.md) — On Agreeing to the Amendment — **Failed** (126–295)
 - 2015-04-30 — [House 114-1-196](votes/house-114-1-0196.md) — On Agreeing to the Amendment — **Failed** (172–249)
@@ -148,6 +205,8 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2016-05-11 — [Senate 114-2-70](votes/senate-114-2-0070.md) — On the Amendment — **Amendment Rejected** (51–48)
 - 2016-05-12 — [Senate 114-2-71](votes/senate-114-2-0071.md) — On Passage of the Bill — **Bill Passed** (90–8)
 - 2016-12-08 — [House 114-2-620](votes/house-114-2-0620.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (326–96)
+- 2016-12-09 — [Senate 114-2-160](votes/senate-114-2-0160.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
+- 2016-12-09 — [Senate 114-2-161](votes/senate-114-2-0161.md) — On the Motion — **Motion Agreed to** (63–36)
 
 ## Actions
 
@@ -931,3 +990,37 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2016-12-08 — Senate amendment submitted
 - 2016-12-08 — Senate amendment submitted
 - 2016-12-08 — The previous question was ordered pursuant to the rule. (consideration: CR H7525)
+- 2016-12-09 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 2028 invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 160. (consideration: CR S6994; text: CR S6994)
+- 2016-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S6932-6995)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6932, S6994)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6933)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6933)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6933)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6933)
+- 2016-12-09 — Message on Senate action sent to the House.
+- 2016-12-09 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 2028 with an amendment (SA 5139) withdrawn in Senate. (consideration: CR S6994)
+- 2016-12-09 — Motion by Senator McConnell to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 5141) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 2028 in Senate. (consideration: CR S6994)
+- 2016-12-09 — Proposed amendment SA 5139 withdrawn in Senate. (consideration: CR S6994)
+- 2016-12-09 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 2028 by Yea-Nay Vote. 63 - 36. Record Vote Number: 161.(consideration: CR S6995)
+- 2016-12-09 — SA 5140 fell when SA 5139 withdrawn. (consideration: CR S6994)
+- 2016-12-09 — SA 5141 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 2028.
+- 2016-12-09 — SA 5142 fell when SA 5141 fell.
+- 2016-12-09 — SA 5143 fell when SA 5142 fell.
+- 2016-12-09 — Senate agreed to the House amendment to the Senate amendment to H.R. 2028 by Yea-Nay Vote. 63 - 36. Record Vote Number: 161. (consideration: CR S6995)
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-10 — Became Public Law No: 114-254.
+- 2016-12-10 — Became Public Law No: 114-254.
+- 2016-12-10 — Presented to President.
+- 2016-12-10 — Presented to President.
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — Signed by President.
+- 2016-12-10 — Signed by President.

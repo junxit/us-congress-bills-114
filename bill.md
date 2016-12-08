@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2028
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2028
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2028) entitled “An Act making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the Senate, insert the following:*
+> Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.
 
 ## § 1. Short Title
 
