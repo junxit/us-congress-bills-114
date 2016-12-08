@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2028
@@ -106,7 +106,7 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (39)
+## Recorded votes (40)
 
 - 2015-04-30 — [House 114-1-195](votes/house-114-1-0195.md) — On Agreeing to the Amendment — **Failed** (126–295)
 - 2015-04-30 — [House 114-1-196](votes/house-114-1-0196.md) — On Agreeing to the Amendment — **Failed** (172–249)
@@ -147,6 +147,7 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2016-05-11 — [Senate 114-2-69](votes/senate-114-2-0069.md) — On the Amendment — **Amendment Rejected** (39–60)
 - 2016-05-11 — [Senate 114-2-70](votes/senate-114-2-0070.md) — On the Amendment — **Amendment Rejected** (51–48)
 - 2016-05-12 — [Senate 114-2-71](votes/senate-114-2-0071.md) — On Passage of the Bill — **Bill Passed** (90–8)
+- 2016-12-08 — [House 114-2-620](votes/house-114-2-0620.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (326–96)
 
 ## Actions
 
@@ -901,3 +902,32 @@ Further Continuing and Security Assistance Appropriations Act, 2017
 - 2016-05-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 90 - 8. Record Vote Number: 71.
 - 2016-05-12 — Senate amendment agreed to: Amendment SA 3801 agreed to in Senate by Voice Vote.
 - 2016-05-12 — Senate amendment agreed to: Amendment SA 3876 agreed to in Senate by Voice Vote.
+- 2016-12-08 — Amendment SA 5139 proposed by Senator McConnell. (consideration: CR S6882; text: CR S6882) To change the enactment date.
+- 2016-12-08 — Amendment SA 5140 proposed by Senator McConnell to Amendment SA 5139. (consideration: CR S6882; text: CR S6882) To change the enactment date.
+- 2016-12-08 — Amendment SA 5141 proposed by Senator McConnell. (consideration: CR S6882; text: CR S6882) To change the enactment date.
+- 2016-12-08 — Amendment SA 5142 proposed by Senator McConnell to Amendment SA 5141 (the instructions of the motion to refer). (consideration: CR S6882; text: CR S6882) To change the enactment date.
+- 2016-12-08 — Amendment SA 5143 proposed by Senator McConnell to Amendment SA 5142. (consideration: CR S6882; text: CR S6882) To change the enactment date.
+- 2016-12-08 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 2028 presented in Senate. (consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Considered under the provisions of rule H.Res. 949. (consideration: CR H7498-7526)
+- 2016-12-08 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 2028 with an amendment consisting of the text of Rules Committee Print 114-70 as modified by the amendment printed in House Report 114-849.
+- 2016-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S6882)
+- 2016-12-08 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2016-12-08 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 2028 made in Senate. (consideration: CR S6882)
+- 2016-12-08 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 2028 with an amendment (SA 5139) made in Senate. (consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 2028 with instructions to report back forthwith with the following amendment (SA 5141) made in Senate. (consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-08 — Mr. Rogers (KY) moved that the House agree with an amendment to the Senate amendment. (text as House agreed to Senate amendment with an amendment: CR H7498-7510)
+- 2016-12-08 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 326 - 96 (Roll No. 620).
+- 2016-12-08 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 326 - 96 (Roll No. 620).
+- 2016-12-08 — Senate amendment proposed (on the floor): Amendment SA 5139 proposed by Senator McConnell.(consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Senate amendment proposed (on the floor): Amendment SA 5140 proposed by Senator McConnell to Amendment SA 5139.(consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Senate amendment proposed (on the floor): Amendment SA 5141 proposed by Senator McConnell.(consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Senate amendment proposed (on the floor): Amendment SA 5142 proposed by Senator McConnell to Amendment SA 5141 (the instructions of the motion to refer).(consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Senate amendment proposed (on the floor): Amendment SA 5143 proposed by Senator McConnell to Amendment SA 5142.(consideration: CR S6882; text: CR S6882)
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — Senate amendment submitted
+- 2016-12-08 — The previous question was ordered pursuant to the rule. (consideration: CR H7525)

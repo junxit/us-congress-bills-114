@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2028
 congress: 114
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+12 amendatory instructions. 4 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,32 +24,41 @@ to guess them.
 
 ## Executed
 
-### 33 U.S.C. § 2242
+### 42 U.S.C. § 1769g
 
-> in paragraph (4), by striking “local population” and inserting “regional population to be served by the project”; and
-
-| | |
-|---|---|
-| Removed | `local population` |
-| Inserted | `regional population to be served by the project` |
-
-### 33 U.S.C. § 2242
-
-> in paragraph (5), by striking “community” and inserting “local community or to a community that is located in the region to be served by the project and that will rely on the project”.
+> Section 26(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769g(d)) is amended in the first sentence by striking “2010 through 2016” and inserting “2010 through 2017”.
 
 | | |
 |---|---|
-| Removed | `community` |
-| Inserted | `local community or to a community that is located in the region to be served by the project and that will rely on the project` |
+| Removed | `2010 through 2016` |
+| Inserted | `2010 through 2017` |
 
-### 42 U.S.C. § 10364
+### 30 U.S.C. § 1232
 
-> Section 9504(e) of the Secure Water Act of 2009 (42 U.S.C. 10364(e)) is amended by striking “$350,000,000” and inserting “$450,000,000, on the condition that of that amount, $50,000,000 is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)”.
+> by striking “so that” and inserting “under paragraph (1) so that”;
 
 | | |
 |---|---|
-| Removed | `$350,000,000` |
-| Inserted | `$450,000,000, on the condition that of that amount, $50,000,000 is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)` |
+| Removed | `so that` |
+| Inserted | `under paragraph (1) so that` |
+
+### 30 U.S.C. § 1232
+
+> by striking “each transfer” in clause (i) and inserting “each such transfer”; and
+
+| | |
+|---|---|
+| Removed | `each transfer` |
+| Inserted | `each such transfer` |
+
+### 30 U.S.C. § 1232
+
+> by striking “this subsection” in clause (iii) and inserting “paragraph (1)”.
+
+| | |
+|---|---|
+| Removed | `this subsection` |
+| Inserted | `paragraph (1)` |
 
 ## Stated, not applied
 
@@ -60,10 +69,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 2242` | insert | in subsection (a)(3), by inserting “in which the project is located or of a community that is located in the region that is served by the project and that will rely on the project” after “community”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 2242` | insert | in paragraph (1), by inserting “or of a community that is located in the region to be served by the project and that will rely on the project” after “community”; | the bill quotes the text inserted but describes where it goes |
-| — | replace | Title I of Public Law 108–361 (the Calfed Bay-Delta Authorization Act) (118 Stat. 1681), as amended by section 210 of Public Law 111–85, is amended by striking “2017” each place it appears and inserting “2019”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “feasibility studies described in clauses (i)(II) and (ii)(I)” and inserting “feasibility study described in clause (i)(II)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “such studies” and inserting “such study”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3007 of the Scholarships for Opportunity and Results Act (sec. 38–1853.07, D.C. Official Code) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3014 of such Act (sec. 38–1853.14, D.C. Official Code) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `30 U.S.C. § 1232` | replace | by striking “A transfer” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 1232` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and moving such subclauses 2 ems to the right; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9701` | redesignate | by striking the matter following such subclause (II) (as so redesignated) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 21(d) of Senate Resolution 64 of the One Hundred Thirteenth Congress, 1st session (agreed to on March 5, 2013) is amended by striking “December 31, 2016” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |
+| — | amend | Section 133 of division L, title I of the Consolidated Appropriations Act, 2016, Public Law 114–113, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | The matter under the heading “Department of Transportation—Maritime Administration—Operations and Training” in division L of Public Law 114–113 is amended by striking the third proviso (relating to an Academy spending plan). | the bill names no machine-readable US Code section |
