@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5143
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5143
@@ -95,3 +95,4 @@ Transparent Insurance Standards Act of 2016
 - 2016-12-07 — Rule H. Res. 944 passed House.
 - 2016-12-07 — Rule provides for consideration of H.R. 5143 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. It shall be in order at any time on the legislative day of December 8, 2016, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV.
 - 2016-12-07 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H7324)
+- 2016-12-08 — Received in the Senate.
