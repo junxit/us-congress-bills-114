@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3094
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1801` | add-at-end | The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1881` | add-at-end | Section 401(g)(3)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881(g)(3)(G)) is amended by striking “and” after the semicolon at the end of clause (iv), by striking the period at the end of clause (v) an… | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `16 U.S.C. § 1881` | add-at-end | Section 401(g)(3)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881(g)(3)(C)) is amended by striking “and” after the semicolon at the end of clause (iv), by striking the period at the end of clause (v) an… | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `16 U.S.C. § 1856` | add-at-end | Section 306(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1801` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
