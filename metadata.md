@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5099
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5099
@@ -44,3 +44,4 @@ CHIP IN for Vets Act of 2016
 - 2016-12-07 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7303-7304)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7303-7304)
+- 2016-12-08 — Received in the Senate, read twice.
