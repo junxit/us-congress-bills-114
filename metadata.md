@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 114
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 612
@@ -16,21 +16,53 @@ WIIN Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (3)
+## Cosponsors (33)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (2)
 
 - Senate — Environment and Public Works Committee
 - House — Transportation and Infrastructure Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2016-12-08 — [House 114-2-621](votes/house-114-2-0621.md) — On Motion to Recommit with Instructions — **Failed** (184–236)
 - 2016-12-08 — [House 114-2-622](votes/house-114-2-0622.md) — On Passage — **Passed** (360–61)
+- 2016-12-10 — [Senate 114-2-162](votes/senate-114-2-0162.md) — On the Cloture Motion — **Cloture Motion Agreed to** (69–30)
+- 2016-12-10 — [Senate 114-2-163](votes/senate-114-2-0163.md) — On the Motion — **Motion Agreed to** (78–21)
 
 ## Actions
 
@@ -82,3 +114,34 @@ WIIN Act
 - 2016-12-08 — Senate amendment submitted
 - 2016-12-08 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H7497)
 - 2016-12-08 — The rule provides for consideration of the Senate Amendment to H.R. 2028 and consideration of S. 612. S. 612 will be considered under a closed rule. The resolution provides for one hour of general debate on both bills. The resolution also provides for a motion to recommit with or without instructions on S. 612.
+- 2016-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S6995-6998, S7000-7004)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6995)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6995)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6995)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6995)
+- 2016-12-09 — Considered by Senate. (consideration: CR S6995)
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-10 — Cloture on the motion to concur in the House amendment to S. 612 invoked in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 162. (consideration: CR S7004; text: CR S7004)
+- 2016-12-10 — Motion by Senator McConnell to concur in the House amendment to S. 612 with an amendment (SA 5144) withdrawn in Senate. (consideration: CR S7004)
+- 2016-12-10 — Motion by Senator McConnell to refer to Senate Committee on Environment and Public Works the House message to accompany S. 612 with instructions to report back forthwith with the following amendment (SA 5146) fell when cloture invoked on the motion to concur in the House amendment to S. 612 in Senate. (consideration: CR S7004)
+- 2016-12-10 — Proposed amendment SA 5144 withdrawn in Senate. (consideration: CR S7004)
+- 2016-12-10 — Pursuant to the provisions of H. Con. Res. 183, enrollment corrections on S. 612 have been made.
+- 2016-12-10 — Resolving differences -- Senate actions: Senate agreed to House amendment to S. 612 by Yea-Nay Vote. 78 - 21. Record Vote Number: 163.(consideration: CR S7004)
+- 2016-12-10 — SA 5145 fell when SA 5144 withdrawn. (consideration: CR S7004)
+- 2016-12-10 — SA 5146 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to S. 612. (consideration: CR S7004)
+- 2016-12-10 — SA 5147 fell when SA 5146 fell.
+- 2016-12-10 — SA 5148 fell when SA 5147 fell.
+- 2016-12-10 — Senate agreed to House amendment to S. 612 by Yea-Nay Vote. 78 - 21. Record Vote Number: 163. (consideration: CR S7004)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-14 — Presented to President.
+- 2016-12-14 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-322.
+- 2016-12-16 — Became Public Law No: 114-322.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.

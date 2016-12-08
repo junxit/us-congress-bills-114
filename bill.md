@@ -1,15 +1,13 @@
 ---
 legis-num: S. 612
-congress: 114th CONGRESS
+congress: One Hundred Fourteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 612
 
-That the bill from the Senate (S. 612) entitled “An Act to designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the “George P. Kazen Federal Building and United States Courthouse”.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.
 
 ## § 1. Short title; table of contents
 
