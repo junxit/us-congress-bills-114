@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1219
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1219
@@ -46,3 +46,4 @@ Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2016
 - 2016-12-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 611). (text: CR 12/7/2016 H7208-7209)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 611).(text: CR 12/7/2016 H7208-7209)
+- 2016-12-08 — Received in the Senate.
