@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1738
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -36,18 +36,19 @@ Congress finds that—
   - **(1)** *Amendment* Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end of the following new section:
     > ## § 526. National integrated public alert and warning system modernization
     >
-    > - **(a)** *In general* In order to provide timely and effective warnings and disseminate homeland security information and other information, the Secretary shall, considering the recommendations of the advisory committee established under subsection (d), update, modernize, and implement the national integrated public alert and warning system.
+    > - **(a)** *In general* In order to provide timely and effective warnings and disseminate homeland security information and other information, the Secretary shall, considering the recommendations of the advisory committee established under subsection (e), update, modernize, and implement the national integrated public alert and warning system.
     > - **(b)** *Implementation requirements* In carrying out subsection (a), the Secretary shall—
-    >   - **(1)** establish or adapt, as appropriate, common alerting and warning protocols, standards, terminology, and operating procedures for the integrated public alert and warning system;
-    >   - **(2)** include in the integrated public alert and warning system the capability to adapt the dissemination of homeland security information and other information, and the content of communications, on the basis of geographic location, risks, and multiple communications systems and technologies, as appropriate;
-    >   - **(3)** to the extent technically feasible, include in the national integrated public alert and warning system the capability to alert, warn, and provide the equivalent amount of information to—
+    >   - **(1)** ensure that under all conditions the President is able to alert and warn governmental authorities and the civilian population in areas endangered by an act of terrorism, natural disaster, war, other man-made disaster, or other hazard to public safety;
+    >   - **(2)** establish or adapt, as appropriate, common alerting and warning protocols, standards, terminology, and operating procedures for the integrated public alert and warning system;
+    >   - **(3)** include in the integrated public alert and warning system the capability to adapt the dissemination of homeland security information and other information, and the content of communications, on the basis of geographic location, risks, and multiple communications systems and technologies, as appropriate;
+    >   - **(4)** to the extent technically feasible, include in the national integrated public alert and warning system the capability to alert, warn, and provide the equivalent amount of information to—
     >     - **(A)** individuals with limited English proficiency skills;
     >     - **(B)** individuals with disabilities, particularly sensory disabilities; and
     >     - **(C)** individuals with other access or functional needs;
-    >   - **(4)** ensure training, tests, and exercises for the integrated public alert and warning system, and that the system is incorporated into other training and exercise programs of the Department, as appropriate;
-    >   - **(5)** ensure that a comprehensive and periodic training program, consistent with the principles of, and integrated with, the National Incident Management System and in support of the National Preparedness System, for receiving and disseminating the integrated public alert and warning system messages utilizing advanced technologies is provided to State, local, tribal, and other homeland security stakeholders involved in the transmission of such messages;
-    >   - **(6)** conduct periodic nationwide tests of the integrated public alert and warning system, at least once every 5 years; and
-    >   - **(7)** consult, coordinate, and cooperate, to the extent practicable, with other Federal agencies and departments and with State, local, and tribal governments, the private sector, and other key stakeholders to leverage existing alert and warning capabilities.
+    >   - **(5)** ensure training, tests, and exercises for the integrated public alert and warning system, and that the system is incorporated into other training and exercise programs of the Department, as appropriate;
+    >   - **(6)** ensure that a comprehensive and periodic training program, consistent with the principles of, and integrated with, the National Incident Management System and in support of the National Preparedness System, for receiving and disseminating the integrated public alert and warning system messages utilizing advanced technologies is provided to State, local, tribal, and other homeland security stakeholders involved in the transmission of such messages;
+    >   - **(7)** conduct periodic nationwide tests of the integrated public alert and warning system, at least once every 5 years; and
+    >   - **(8)** consult, coordinate, and cooperate, to the extent practicable, with other Federal agencies and departments and with State, local, and tribal governments, the private sector, and other key stakeholders to leverage existing alert and warning capabilities.
     > - **(c)** *System requirements* The Secretary shall ensure that the system—
     >   - **(1)** incorporates redundant, diverse modes to disseminate homeland security information and other information in warning messages to the public so as to reach the greatest number of individuals in the intended area or location;
     >   - **(2)** can be adapted to incorporate emerging and future technologies, including social media;
@@ -101,16 +102,18 @@ Congress finds that—
     >       - **(ii)** has the capability to alert and warn individuals with disabilities, particularly sensory disabilities, or access or functional needs, and individuals with limited English proficiency;
     >       - **(iii)** incorporates multiple communications technologies;
     >       - **(iv)** is designed to adapt to, and incorporate, emerging and future technologies for communicating directly with the public;
+    >       - **(v)** is reliable, resilient, and secure, and can withstand acts of terrorism, hazards, and other external attacks or dangers;
     >       - **(v)** is hardened and resilient, to the greatest extent practicable, with respect to cyber attacks;
     >       - **(vi)** encourages proper use by State and local governments of such system through training programs and other means;
     >       - **(vii)** is designed to provide alerts to the largest portion of the affected population feasible, including nonresident visitors and tourists, and improve the ability of remote areas to receive alerts;
     >       - **(viii)** promotes local and regional public and private partnerships to enhance community preparedness and response;
     >       - **(ix)** promotes the participation of representatives from underserved and underrepresented communities, to ensure that alerts and warnings reach such populations; and
     >       - **(x)** provides redundant alert mechanisms where practicable so as to reach the greatest number of people regardless of whether they have access to, or utilize, any specific medium of communication or any particular device.
-    >   - **(8)** *Report* Not later than 1 year after the date of enactment of the Integrated Public Alert and Warning System Modernization Act of 2015, and every year thereafter, the Advisory Committee shall submit to the Secretary a report containing the recommendations of the Advisory Committee.
+    >   - **(8)** *Report* Not later than one year after the date of enactment of the Integrated Public Alert and Warning System Modernization Act of 2015, and every year thereafter, the Advisory Committee shall submit to the Secretary a report containing the recommendations of the Advisory Committee.
     >   - **(9)** *Federal Advisory Committee Act* Neither the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act shall apply to the Advisory Committee.
-    > - **(f)** *Report* Not later than 1 year after the date of the establishment of the Advisory Committee, and every year thereafter, the Secretary shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the functionality and performance of such system, including—
-    >   - **(1)** the recommendations of the most recent Advisory Committee report under subsection (e)(8), what recommendations under subsection (e)(8) the Secretary has implemented to modernize the public alert and warning system, and if any such recommendations identified under subsection (e)(8) were not implemented, why the Secretary chose not to implement such recommendations;
+    >   - **(10)** *Sunset* The Advisory Committee shall terminate on the date that is six years after the date on which the Advisory Committee is established pursuant to paragraph (1).
+    > - **(f)** *Report* Not later than one year after the date of the establishment of the Advisory Committee, and every year thereafter for the next six years, the Secretary shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the functionality and performance of such system, including—
+    >   - **(1)** the recommendations of the most recent Advisory Committee report under subsection (e)(8), what recommendations under such subsection the Secretary has implemented to modernize the public alert and warning system, and if any such recommendations identified under such subsection were not implemented, why the Secretary chose to not implement such recommendations;
     >   - **(2)** an assessment of the accomplishments and deficiencies of the system;
     >   - **(3)** an assessment of the cybersecurity of the system, including any relevant vulnerability assessments;
     >   - **(4)** recommendations based on lessons learned during events in which the system was utilized;
@@ -120,7 +123,7 @@ Congress finds that—
     > - **(g)** *Compatible mobile devices* The Secretary shall—
     >   - **(1)** make available to the public, through the Internet and other appropriate means, a list of mobile devices that are capable of receiving warnings and alerts disseminated through the national integrated public alert and warning system; and
     >   - **(2)** update such list as necessary, but not less often than once each year.
-    > - **(h)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $13,400,000 for each of fiscal years 2016, 2017, and 2018.
+    > - **(h)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $12,800,000 for each of fiscal years 2016, 2017, and 2018.
 
   - **(2)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such title the following:
 - **(b)** *Limitation on statutory construction*
