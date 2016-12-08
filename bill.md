@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Treatment of unutilized limitation amounts* Section 45J(b) of the Internal Revenue Code of 1986 is amended—
   - **(1)** in paragraph (4), by inserting “or any amendment to” after “enactment of”, and
-  - **(2)** by adding at the end of subsection (b) the following new paragraph:
+  - **(2)** by adding at the end the following new paragraph:
     > - **(5)** *Allocation of unutilized limitation*
     >   - **(A)** *In general* Any unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020—
     >     - **(i)** first to facilities placed in service on or before such date to the extent that such facilities did not receive an allocation equal to their full nameplate capacity, and
@@ -55,4 +55,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(c)** *Effective dates*
   - **(1)** *Treatment of unutilized limitation amounts* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
-  - **(2)** *Transfer of credit by certain public entities* The amendments made by subsection (b) shall apply to taxable years beginning after the date of the enactment of this Act.
+  - **(2)** *Transfer of credit by certain public entities* The amendments made by subsection (b) shall apply to taxable years beginning after December 31, 2016.
