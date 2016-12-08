@@ -1,15 +1,17 @@
 ---
 legis-num: S. 612
 congress: 114th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 612
 
-> To designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the “George P. Kazen Federal Building and United States Courthouse”.
+That the bill from the Senate (S. 612) entitled “An Act to designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the “George P. Kazen Federal Building and United States Courthouse”.”, do pass with the following
 
-## § 1. George P. Kazen Federal Building and United States Courthouse
+*Strike out all after the enacting clause and insert:*
 
-- **(a)** *Designation* The Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, shall be known and designated as the “George P. Kazen Federal Building and United States Courthouse”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building and United States courthouse referred to in subsection (a) shall be deemed to be a reference to the “George P. Kazen Federal Building and United States Courthouse”.
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Water Infrastructure Improvements for the Nation Act” or the “WIIN Act”.
+- **(b)** *Table of contents*
