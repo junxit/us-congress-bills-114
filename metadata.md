@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 181
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 181
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make a certain correction in the enroll
 - 2016-12-07 — Ms. Ros-Lehtinen asked unanimous consent to consider as introduced.
 - 2016-12-07 — On agreeing to the resolution Agreed to without objection. (text: CR H7327-7328)
 - 2016-12-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7327-7328)
+- 2016-12-08 — Received in the Senate.
