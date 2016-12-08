@@ -1,7 +1,7 @@
 ---
 measure: S. 2852
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2852
@@ -16,9 +16,10 @@ OPEN Government Data Act
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ OPEN Government Data Act
 
 - 2016-04-26 — Introduced in Senate
 - 2016-04-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-396.
+- 2016-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-396.
+- 2016-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.
