@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6076
 congress: 114
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6076
@@ -51,3 +51,4 @@ TREAT Astronauts Act
 - 2016-12-07 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 614). (text: CR H7306-7307)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 614).(text: CR H7306-7307)
+- 2016-12-08 — Received in the Senate.
