@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4919
 congress: 114
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 14181
 
-> in the section header, by striking “Alzheimer's disease patient” and inserting “Americans”;
+> in the section header, by striking “Alzheimer's disease patient” and inserting “Americans”; and
 
 | | |
 |---|---|
