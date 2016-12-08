@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6431
 congress: 114
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6431
@@ -59,3 +59,12 @@ Promoting Travel, Commerce, and National Security Act of 2016
 - 2016-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7340-7341)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7340-7341)
 - 2016-12-08 — Received in the Senate, read twice.
+- 2016-12-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S7128-7131)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7128-7131)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-316.
+- 2016-12-16 — Became Public Law No: 114-316.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
