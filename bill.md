@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4220
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Water and Agriculture Tax Reform Act of 2015”.
+This Act may be cited as the “Water and Agriculture Tax Reform Act of 2016”.
 
 ## § 2. Facilitate water leasing and water transfers to promote conservation and efficiency
 
@@ -23,4 +23,4 @@ This Act may be cited as the “Water and Agriculture Tax Reform Act of 2015”.
   >     - **(III)** from the investment of proceeds from sales, leases, or exchanges under subclauses (I) and (II),
   >   - **(ii)** *Treatment of organizational governance* In the case of a mutual ditch or irrigation company or of a like organization to a mutual ditch or irrigation company, where State law provides that such a company or organization may be organized in a manner that permits voting on a basis which is pro rata to share ownership on corporate governance matters, subparagraph (A) shall be applied without taking into account whether its member shareholders have one vote on corporate governance matters per share held in the corporation. Nothing in this clause shall be construed to create any inference about the requirements of this subsection for companies or organizations not included in this clause.
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2016.
