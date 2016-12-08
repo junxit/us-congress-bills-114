@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5707
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
