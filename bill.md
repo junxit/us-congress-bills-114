@@ -26,7 +26,7 @@ Section 21 of the Joint Resolution entitled “Joint Resolution increasing the s
 > - **(a)** *In general* The Comptroller General of the United States shall—
 >   - **(1)** conduct routine investigations to identify programs, agencies, offices, and initiatives with unnecessarily duplicative goals and activities within departments and agencies and Governmentwide; and
 >   - **(2)** submit to Congress an annual report on the findings of the investigations under paragraph (1).
-> - **(b)** *Contents of reports* Each report submitted under subsection (a)(2) shall, to the extent possible—
+> - **(b)** *Contents of Reports* Reports submitted under subsection (a)(2) shall, to the extent possible—
 >   - **(1)** include—
 >     - **(A)** information from available reports estimating the cost of unnecessary duplication identified under subsection (a)(1); and
 >     - **(B)** recommendations for consolidation, coordination, and elimination to reduce unnecessary duplication, which shall identify specific rescissions; and
@@ -40,7 +40,7 @@ Section 21 of the Joint Resolution entitled “Joint Resolution increasing the s
   - **(1)** in paragraph (1), by inserting “, and ways in which the agency might improve its performance toward its mission” before the semicolon;
   - **(2)** by redesignating paragraphs (2) and (3) as paragraphs (4) and (5), respectively;
   - **(3)** by inserting after paragraph (1) the following:
-    > - **(2)** informing the processes of the agency for learning and decision making;
+    > - **(2)** informing the processes of the agency for learning and decisionmaking;
     > - **(3)** assessing potential opportunities to improve coordination within the agency and with other agencies, and to address actual and potential unnecessary duplication;
 
   - **(4)** in paragraph (5), as so redesignated, by inserting “and performance toward achieving the mission of the agency” before the period.
@@ -54,7 +54,8 @@ Section 21 of the Joint Resolution entitled “Joint Resolution increasing the s
 
   - **(4)** in paragraph (4), as so redesignated, by inserting “of mission-oriented components and units and mission support” after “management”; and
   - **(5)** in paragraph (5), as so redesignated—
-    - **(A)** by striking “such as the Chief” and inserting the following: “such as—
+    - **(A)** by striking “such as the Chief” and inserting the following:
+      > such as—
       > - **(A)** the heads of mission-related components and units at the agency and the major components of the agency; and
       > - **(B)** the Chief
 
@@ -82,7 +83,8 @@ Section 21 of the Joint Resolution entitled “Joint Resolution increasing the s
       - **(ii)** in clause (v), by striking the semicolon and inserting a period; and
     - **(B)** in paragraph (3)—
       - **(i)** by redesignating subparagraphs (A) through (G) as clauses (i) through (vii) and adjusting the margin accordingly;
-      - **(ii)** by striking “shall consult” and inserting the following: “shall—
+      - **(ii)** by striking “shall consult” and inserting the following:
+        > shall—
         > - **(A)** consider recommendations of the Government Accountability Office in—
         >   - **(i)** the annual report submitted under section 21 of the Joint Resolution entitled “Joint Resolution increasing the statutory limit on the public debt” (Public Law 111–139; 31 U.S.C. 712 note); or
         >   - **(ii)** the High Risk list; and
@@ -109,16 +111,9 @@ Section 21 of the Joint Resolution entitled “Joint Resolution increasing the s
       >   - **(iii)** staffing, on a full-time equivalent basis (including an accounting of details from agencies); and
       >   - **(iv)** past, current, and planned activities.
 
-- **(f)** *Elimination of unnecessary agency reporting* Section 1125(a)(1) of title 31, United States Code, is amended by striking “reports;” and inserting the following: “reports, and place the list on a public website, which shall include, for each plan or report—
+- **(f)** *Elimination of unnecessary agency reporting* Section 1125(a)(1) of title 31, United States Code, is amended by striking “reports;” and inserting the following:
+  > reports, and place the list on a public website, which shall include, for each plan or report—
   > - **(A)** a citation to the relevant statutory requirement or direction in a congressional report; and
   > - **(B)** an indication of whether and how the agency is complying with the requirement to produce the plan or report, including a citation to the means through which the agency submits the plan or report;
 
 - **(g)** *Agency reports* Section 720(b) of title 31, United States Code, is amended, in the matter preceding paragraph (1), by inserting “, including the annual report on unnecessarily duplicative goals and activities within departments and governmentwide required under section 21 of the joint resolution entitled “A joint resolution increasing the statutory limit on the public debt” (Public Law 111–139; 31 U.S.C. 712 note) and the High Risk list of the Government Accountability Office,” after “makes a report”.
-- **(h)** *Executive agency accounting and other financial management reports and plans* Section 3512 of title 31, United States Code, is amended—
-  - **(1)** in subsection (c)(1)—
-    - **(A)** in subparagraph (B), by striking “and” at the end;
-    - **(B)** by redesignating subparagraph (C) as subparagraph (D); and
-    - **(C)** by inserting after subparagraph (B) the following:
-      > - **(C)** high-priority enterprise risks are addressed; and
-
-  - **(2)** in subsection (d)(1)(A), by inserting “, including systems and processes for coordination to provide enterprise risk management (as defined in section 1115) for high-priority enterprise risks,” after “systems of the agency”.
