@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4579
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4579
@@ -34,3 +34,15 @@ Utah Test and Training Range Encroachment Prevention and Temporary Closure Act
 - 2016-02-12 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-02-12 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-02-12 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-02-17 — Referred to the Subcommittee on Federal Lands.
+- 2016-02-25 — Subcommittee Hearings Held.
+- 2016-03-04 — Referred to the Subcommittee on Readiness.
+- 2016-03-15 — Committee Consideration and Mark-up Session Held.
+- 2016-03-15 — Subcommittee on Federal Lands Discharged.
+- 2016-03-16 — Committee Consideration and Mark-up Session Held.
+- 2016-03-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 14.
+- 2016-12-08 — Committee on Armed Services discharged.
+- 2016-12-08 — Committee on Armed Services discharged.
+- 2016-12-08 — Placed on the Union Calendar, Calendar No. 670.
+- 2016-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-857, Part I.
+- 2016-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-857, Part I.
