@@ -1,7 +1,7 @@
 ---
 measure: H.R. 329
 congress: 114
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 329
@@ -55,3 +55,4 @@ Indian Employment, Training and Related Services Consolidation Act of 2016
 - 2016-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7292-7295)
 - 2016-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7292-7295)
 - 2016-12-07 — Placed on the Union Calendar, Calendar No. 662.
+- 2016-12-08 — Received in the Senate.
