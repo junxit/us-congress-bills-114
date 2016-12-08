@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5003
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-222 amendatory instructions. 58 executed, 164 stated and not applied.
+220 amendatory instructions. 53 executed, 167 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 1751
+
+> In each of the following Acts, by striking “State educational agency” and “State educational agencies” each place such term appears (including any headings) and inserting “State agency” and “State agencies”, respectively:
+
+| | |
+|---|---|
+| Removed | `State educational agency” and “State educational agencies` |
+| Inserted | `State agency` |
 
 ### 42 U.S.C. § 1753
 
@@ -89,11 +98,11 @@ to guess them.
 
 ### 42 U.S.C. § 1758a
 
-> in clause (i), by striking “means—” and all that follows through “for each school year thereafter” in subclause (III) and inserting “means, for the school year”;
+> in clause (i), by striking “means—” and all that follows through “each school year thereafter” in subclause (III) and inserting “means, for the school year”;
 
 | | |
 |---|---|
-| Removed | `means—” and all that follows through “for each school year thereafter` |
+| Removed | `means—” and all that follows through “each school year thereafter` |
 | Inserted | `means, for the school year` |
 
 ### 42 U.S.C. § 1773
@@ -114,7 +123,7 @@ to guess them.
 | Removed | `paragraph (4)(G)` |
 | Inserted | `paragraph (4)(F)` |
 
-### 42 U.S.C. § 1758
+### 42 U.S.C. § 1771
 
 > in paragraph (3)(A)(ii), by striking “paragraph (3)” and inserting “paragraph (2)”;
 
@@ -143,12 +152,12 @@ to guess them.
 
 ### 42 U.S.C. § 17659a
 
-> in subclause (III), by striking “If the Secretary uses the authority provided in clause (vii)(II)(bb) to use a different multiplier for different schools or local educational agencies, for each school year beginning on or after July 1, 2014, not later than April 1, 2014” and inserting “If the Secretary uses the authority provided in clause (vii), for each school year beginning on or after July 1, 2017, not less than one year prior to the Secretary electing to use such authority,”.
+> in subclause (III), by striking “If the Secretary uses the authority provided in clause (vii)(II)(bb) to use a different multiplier for different schools or local educational agencies, for each school year beginning on or after July 1, 2014, not later than April 1, 2014” and inserting “If the Secretary uses the authority provided in clause (vii), for each school year beginning on or after July 1, 2017, not less than one year prior to the Secretary electing to use such authority”.
 
 | | |
 |---|---|
 | Removed | `If the Secretary uses the authority provided in clause (vii)(II)(bb) to use a different multiplier for different schools or local educational agencies, for each school year beginning on or after July 1, 2014, not later than April 1, 2014` |
-| Inserted | `If the Secretary uses the authority provided in clause (vii), for each school year beginning on or after July 1, 2017, not less than one year prior to the Secretary electing to use such authority,` |
+| Inserted | `If the Secretary uses the authority provided in clause (vii), for each school year beginning on or after July 1, 2017, not less than one year prior to the Secretary electing to use such authority` |
 
 ### 42 U.S.C. § 17659a
 
@@ -242,11 +251,11 @@ to guess them.
 
 ### 42 U.S.C. § 1769
 
-> in subsection (g)(5), as so redesignated, by striking “2011through 2015” and inserting “2017 through 2021”; and
+> in subsection (g)(5), as so redesignated, by striking “2011 through 2015” and inserting “2017 through 2021”;
 
 | | |
 |---|---|
-| Removed | `2011through 2015` |
+| Removed | `2011 through 2015` |
 | Inserted | `2017 through 2021` |
 
 ### 42 U.S.C. § 1769c
@@ -296,21 +305,30 @@ to guess them.
 
 ### 7 U.S.C. § 2013
 
-> in paragraph (4), by striking “2015” and inserting “2020”;
+> in paragraph (4), by striking “2015” and inserting “2021”;
 
 | | |
 |---|---|
 | Removed | `2015` |
-| Inserted | `2020` |
+| Inserted | `2021` |
 
 ### 42 U.S.C. § 1776
 
-> in subsection (j), by striking “2015” and inserting “2020”;
+> in subsection (j), by striking “2015” and inserting “2021”;
 
 | | |
 |---|---|
 | Removed | `2015` |
-| Inserted | `2020` |
+| Inserted | `2021` |
+
+### 42 U.S.C. § 1786
+
+> in subsection (a), in the second sentence, by striking “promotion” and inserting “counseling, promotion,”;
+
+| | |
+|---|---|
+| Removed | `promotion` |
+| Inserted | `counseling, promotion,` |
 
 ### 42 U.S.C. § 1786
 
@@ -321,7 +339,7 @@ to guess them.
 | Removed | `may choose to` |
 | Inserted | `shall` |
 
-### 719 U.S.C. § 5341
+### 7 U.S.C. § 5341
 
 > in paragraph (1)(B), by striking “submitted for” and inserting “submitted covering”;
 
@@ -330,14 +348,14 @@ to guess them.
 | Removed | `submitted for` |
 | Inserted | `submitted covering` |
 
-### 719 U.S.C. § 5341
+### 7 U.S.C. § 5341
 
-> in clause (ii), by striking “and cultural eating patterns” and inserting “cultural eating patterns, commercial availability, and participant demand”; and
+> by striking “and cultural eating patterns” and inserting “cultural eating patterns, commercial availability, and participant demand, except that any changes made under this clause shall not limit the overall fruit intake of children”; and
 
 | | |
 |---|---|
 | Removed | `and cultural eating patterns` |
-| Inserted | `cultural eating patterns, commercial availability, and participant demand` |
+| Inserted | `cultural eating patterns, commercial availability, and participant demand, except that any changes made under this clause shall not limit the overall fruit intake of children` |
 
 ### 42 U.S.C. § 1396
 
@@ -404,7 +422,7 @@ to guess them.
 
 ### 42 U.S.C. § 1753
 
-> The Richard B. Russell National School Lunch Act is amended in each of sections 4, 9, 9A, 12, 19, 23, 24, and 25 (42 U.S.C. 1753, 1758, 1758b, 1760, 1796a, 1769d, 1769e, 1769f) by striking “Committee on Education and Labor” each place it appears and inserting “Committee on Education and the Workforce”.
+> The Richard B. Russell National School Lunch Act is amended in each of sections 4, 9, 9A, 12, 19, 23, and 25 (42 U.S.C. 1753, 1758,1758b, 1760, 1796a, 1769d, and 1769f) by striking “Committee on Education and Labor” each place it appears and inserting “Committee on Education and the Workforce”.
 
 | | |
 |---|---|
@@ -431,39 +449,12 @@ to guess them.
 
 ### 42 U.S.C. § 1760
 
-> in subsection (d)(3), by striking “U.S.C” and inserting “U.S.C.”;
+> Section 12 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760) is amended in subsection (d)(3), by striking “U.S.C” and inserting “U.S.C.”.
 
 | | |
 |---|---|
 | Removed | `U.S.C` |
 | Inserted | `U.S.C.` |
-
-### 42 U.S.C. § 1760
-
-> in subsection (m)(2), in the paragraph heading, by striking “american” and inserting “American”; and
-
-| | |
-|---|---|
-| Removed | `american` |
-| Inserted | `American` |
-
-### 42 U.S.C. § 1760
-
-> in paragraph (3), in the paragraph heading, by striking “hawaii” and inserting “Hawaii”; and
-
-| | |
-|---|---|
-| Removed | `hawaii` |
-| Inserted | `Hawaii` |
-
-### 42 U.S.C. § 1760
-
-> in paragraph (4), in the paragraph heading, by striking “puerto rico” and inserting “Puerto Rico”.
-
-| | |
-|---|---|
-| Removed | `puerto rico` |
-| Inserted | `Puerto Rico` |
 
 ### 42 U.S.C. § 3030
 
@@ -503,43 +494,7 @@ to guess them.
 
 ### 42 U.S.C. § 1786
 
-> in subsection (b)(21), in the paragraph heading, by striking “indian or native” and inserting “Indian or Native”;
-
-| | |
-|---|---|
-| Removed | `indian or native` |
-| Inserted | `Indian or Native` |
-
-### 42 U.S.C. § 1786
-
-> in paragraph (5)(D), in the subparagraph heading, by striking “indian or native” and inserting “Indian or Native”; and
-
-| | |
-|---|---|
-| Removed | `indian or native` |
-| Inserted | `Indian or Native` |
-
-### 42 U.S.C. § 1786
-
-> in the clause heading, by striking “state” and inserting “State”; and
-
-| | |
-|---|---|
-| Removed | `state` |
-| Inserted | `State` |
-
-### 42 U.S.C. § 1786
-
-> in subclause (III), in the subclause heading, by striking “state agencies and indian state agencies” and inserting “State agencies and Indian State agencies”; and
-
-| | |
-|---|---|
-| Removed | `state agencies and indian state agencies` |
-| Inserted | `State agencies and Indian State agencies` |
-
-### 42 U.S.C. § 1786
-
-> in subsection (m)(6)(C)(iv), by striking “(G)(i)” each place it appears and inserting “(F)(i)”.
+> in subsection (l)(6)(C)(iv), as redesignated by section 206(a)(9) of this Act, by striking “(G)(i)” each place it appears and inserting “(F)(i)”.
 
 | | |
 |---|---|
@@ -555,7 +510,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1753` | insert | in clause (iii)(I), by inserting “(as in effect on the day before the date of the enactment of the Improving Child Nutrition and Education Act of 2016)” after “subparagraph (A)(i)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1753` | insert | in subclause (I), by inserting “(as in effect on the day before the date of the enactment of the Improving Child Nutrition and Education Act of 2016)” after “subparagraph (A)(ii)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1753` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1753` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1754` | repeal | Section 5 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1754) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -567,7 +522,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1773` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1773` | replace | by striking “(4) Provision of information” and all that follows through “(C) Procurement and processing of food service products and commodities.—The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1773` | redesignate | by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively, and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1773` | redesignate | by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1773` | redesignate | by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1773` | strike | in clause (i), by striking “, and shall contain only the family size income levels for reduced price meal eligibility with the explanation that households with incomes less than or equal to these values would be eligible for free or redu… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1773` | insert | in clause (ii), by inserting “or reduced price” after “free”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1773` | strike | in item (aa), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -579,29 +535,29 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2011` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | amend | by amending subparagraph (K)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1758a` | insert | in subparagraph (B), by inserting “, including a child enrolled in a nonpublic school,” after “under which a child”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1758a` | strike | by striking subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758a` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758a` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1758a` | replace | in subclause (III), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758a` | insert | in clause (iii)(II)(bb), by inserting “within 3 school years” after “those measures”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1758` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1758` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1758` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1758` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1771` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1771` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1771` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758` | strike | by striking subsections (g) and (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758` | redesignate | by redesignating subsections (h), (i), (j), and (l) as subsections (g), (h), (i), and (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17659a` | insert | in clause (ii)(I), in the matter preceding item (aa), by inserting “(including a subset of schools within the local educational agency if the result obtained by dividing the total number of the identified students enrolled in such school… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 17659a` | insert | in clause (vi), by inserting “(except in the case of a nonpublic school that has requested information for the sole purpose of verifying eligibility of students for free or reduced price lunch)” after this “subparagraph”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 17659a` | replace | by striking clause (viii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1760` | amend | Paragraph (9) of section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)(9)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1760` | redesignate | Section 12 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760) is further amended by striking subsection (p) and redesignating subsections (q) and (r) as subsections (p) and (q), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | amend | by amending paragraph (8) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1771` | strike | by striking paragraphs (9), (10), and (12); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1771` | strike | by striking paragraphs (9), (10), and (12); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | redesignate | by redesignating paragraph (11) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1761` | insert | in subsection (f)(2), by inserting before the period at the end the following: “and in providing appropriate meals to children with medically certified special dietary needs, including food allergies or other special dietary needs of ind… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | replace | by striking “(3) To provide” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1761` | amend | by amending subsection (n) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -619,13 +575,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1766` | replace | in subsection (g), by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1766` | add-at-end | in subsection (h)(1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1766` | strike | in subsection (r), by striking paragraphs (5) and (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1766` | insert | in subparagraph (A), by inserting before the period at the end the following: “and in providing appropriate meals to children with medically certified special dietary needs, including food allergies or other special dietary needs of indi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1766` | insert | in subparagraph (C)(i), by inserting “for distribution to participants and families of participants” after “nutrition education”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1766` | add-at-end | in subparagraph (H), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1769` | strike | by striking subsections (d) through (h), (j), and (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1769` | strike | by striking subsections (g), (h), (j), and (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1769` | redesignate | by redesignating subsection (i) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1773` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1773` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1769a` | strike | in the heading, by striking “Fresh”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1769a` | strike | by striking “fresh” each place it appears in subsections (a), (b), and (e); and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1769a` | strike | by striking paragraphs (5) and (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -652,10 +608,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1776` | redesignate | by redesignating subsection (j) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1751` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1779` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1779` | replace | by striking the period at the end of clause (ii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1779` | replace | by striking the period at the end of clause (ii) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1779` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1784` | replace | Section 15 of the Child Nutrition Act of 1966 (42 U.S.C. 1784) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1786` | insert | in subsection (a), in the second sentence, by inserting “counseling,” before “promotion,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1786` | replace | in subsection (b)(14), by striking the paragraph designation and all that follows through “means those foods” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1786` | strike | in clause (i)(II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1786` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -665,16 +620,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1766` | replace | by striking the subsection designation and all that follows through “The State agency shall” in the first sentence of paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1766` | add-at-end | in paragraph (1) (as amended by subparagraph (A)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1766` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | replace | by striking “(f)(1)(A) Each State agency” and all that follows through the end of paragraph (1)(A) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `719 U.S.C. § 5341` | strike | in clause (x), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `719 U.S.C. § 5341` | redesignate | by redesignating clause (xi) as clause (xiii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | insert | by inserting after clause (x) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | replace | by striking “(5) State and local” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `719 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | replace | by striking “(10) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `719 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | insert | in clause (i), by inserting before the semicolon at the end the following: “which, beginning not later than 60 days after the date of enactment of the Improving Child Nutrition and Education Act of 2016, shall include an examination of c… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `719 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | replace | by striking “(f)(1)(A) Each State agency” and all that follows through “change in the plan.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 5341` | strike | in clause (x), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 5341` | redesignate | by redesignating clause (xi) as clause (xiii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | insert | by inserting after clause (x) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | replace | by striking “(5) State and local” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | replace | by striking “(10) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | insert | by inserting before the semicolon at the end the following: “which, beginning not later than 60 days after the date of enactment of the Improving Child Nutrition and Education Act of 2016, shall include an examination of criteria relatin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 5341` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1786` | replace | in subsection (g), by striking paragraph (1)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396` | replace | by striking “Effective beginning” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -699,20 +657,20 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1786` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1786` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1786` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1786` | amend | Section 17(m)(9)(A) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(m)(9)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1786` | redesignate | Section 17(l)(9)(A) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(m)(9)(A)), as redesignated by section 206(a)(9), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1751` | insert | by inserting “evidence-based” before “team nutrition messages”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1751` | strike | by striking “developed by the Secretary”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1751` | insert | in paragraph (2), by inserting “under this Act and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.)” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1751` | insert | in paragraph (2), by inserting “under this Act and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1751` | replace | in paragraph (4), by striking “purposes; and” and inserting the following: “purposes, including if appropriate— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1751` | strike | by striking “helping children to maintain a healthy weight by”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1751` | insert | by inserting “in and out of school” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1788` | replace | in subsection (b), by striking “(b)” and all that follows through “In this section, the term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1751` | replace | by striking the subsection heading and inserting “State network grants.—”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1751` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1788` | strike | by striking subsections (e) through (g) and (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1788` | redesignate | by redesignating subsections (h) through (j) as subsections (e) through (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1788` | strike | by striking subsections (d) through (g) and (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1788` | redesignate | by redesignating subsections (h) through (j) as subsections (d) through (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1788` | redesignate | by redesignating subsection (l) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1788` | insert | in the subsection heading, by inserting “education” after “nutrition”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1788` | insert | in the subsection heading, by inserting “education” after “nutrition”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1788` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1788` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1788` | strike | by striking clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
