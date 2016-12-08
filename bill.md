@@ -26,5 +26,5 @@ This Act may be cited as the “Stop Taxing Death and Disability Act”.
     >     - **(i)** a student loan (as defined in paragraph (2)), or
     >     - **(ii)** a private education loan (as defined in section 140(7) of the Consumer Credit Protection Act (15 U.S.C. 1650(7))).
 
-  - **(2)** *Effective date* The amendment made by this section shall apply to discharges of loans before, on, or after the date of the enactment of this Act.
+  - **(2)** *Effective date* The amendment made by this section shall apply to discharges of indebtedness after December 31, 2016.
 - **(b)** *Amendment to the Higher Education Act of 1965* Section 437(d) of the Higher Education Act of 1965 (20 U.S.C. 1087(d)) is amended by inserting “or becomes permanently and totally disabled (as determined in accordance with regulations of the Secretary), or if the student is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months” after “dies”.
