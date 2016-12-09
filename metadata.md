@@ -1,7 +1,7 @@
 ---
 measure: S. 2834
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2834
@@ -31,3 +31,7 @@ Getting Results through Enhanced Accountability and Transparency Act of 2016
 
 - 2016-04-21 — Introduced in Senate
 - 2016-04-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2016-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.
