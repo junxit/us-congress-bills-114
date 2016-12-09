@@ -1,7 +1,7 @@
 ---
 measure: S. 290
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,14 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 7 of title 38, United States Code, as amended by section 3, is further amended by adding after section 717 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 7 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 7 of title 38, United States Code, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 7 of such title is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 709` | insert | Chapter 7 of title 38, United States Code, is amended by inserting after section 709 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 709` | insert | The table of sections at the beginning of chapter 7 of such title is further amended by inserting after the item relating to section 709 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 2302(a)(2)(A)(viii) of title 5, United States Code, is amended by inserting “or under title 38” after “chapter 43 of this title”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 7 of title 38, United States Code, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 7 of such title is further amended by inserting after the item relating to section 717 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 81 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 81 of such title is amended by inserting after the item relating to section 8128 the following new item: | the bill names no machine-readable US Code section |
