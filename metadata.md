@@ -1,7 +1,7 @@
 ---
 measure: S. 1607
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1607
@@ -16,10 +16,14 @@ Independent Agency Regulatory Analysis Act of 2015
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (1)
 
@@ -29,3 +33,8 @@ Independent Agency Regulatory Analysis Act of 2015
 
 - 2015-06-18 — Introduced in Senate
 - 2015-06-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2015-09-16 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2015-10-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2016-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2016-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 721.
