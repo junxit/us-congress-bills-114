@@ -1,7 +1,7 @@
 ---
 measure: S. 290
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 290
@@ -41,3 +41,10 @@ Increasing the Department of Veterans Affairs Accountability to Veterans Act of 
 - 2016-12-09 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute. Without written report.
 - 2016-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 725.
 - 2016-12-09 — Senate amendment submitted
+- 2016-12-10 — Amendment SA 5173 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5173 proposed by Senator Boozman for Senator Moran. (consideration: CR S7109) In the nature of a substitute.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7109)
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5173 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5173 proposed by Senator Boozman for Senator Moran.(consideration: CR S7109)
