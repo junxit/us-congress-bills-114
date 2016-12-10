@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3842
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3842
@@ -59,3 +59,13 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - 2015-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680). (text: CR H9037-9038)
 - 2015-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 680).(text: CR H9037-9038)
 - 2015-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2016-12-09 — Senate amendment submitted
+- 2016-12-10 — Amendment SA 5171 agreed to in Senate by Unanimous Consent. (consideration: CR S7104-7105)
+- 2016-12-10 — Amendment SA 5171 proposed by Senator Boozman for Senator Perdue. (consideration: CR S7104-7105; text: CR S7105) To improve the bill.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7104-7106)
+- 2016-12-10 — Passed Senate with amendments by Voice Vote.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.
+- 2016-12-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2016-12-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5171 agreed to in Senate by Unanimous Consent.(consideration: CR S7104-7105)
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5171 proposed by Senator Boozman for Senator Perdue.(consideration: CR S7104-7105; text: CR S7105)
