@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 57
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 57
@@ -37,3 +37,11 @@ A concurrent resolution honoring in praise and remembrance the extraordinary lif
 - 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 710.
+- 2016-12-10 — Amendment SA 5174 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5174 proposed by Senator Portman for Senator Hatch. (consideration: CR S7123; text: CR S7123) To make a correction.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7123)
+- 2016-12-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S7123)
+- 2016-12-10 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S7123)
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5174 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5174 proposed by Senator Portman for Senator Hatch.(consideration: CR S7123; text: CR S7123)
+- 2016-12-10 — Senate amendment submitted

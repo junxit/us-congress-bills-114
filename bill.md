@@ -13,17 +13,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas His Majesty King Bhumibol Adulyadej enjoyed a special relationship with the United States, having been born in Cambridge, Massachusetts, in 1927 while his father was completing his medical studies at Harvard University;
 - Whereas King Bhumibol Adulyadej ascended to the throne on June 9, 1946, and celebrated his 70th year as King of Thailand in 2016;
-- Whereas, at the time of his death, King Bhumibol Adulyadej was the longest-serving head of state in the world and the longest-reigning monarch in the history of Thailand;
+- Whereas at the time of his death, King Bhumibol Adulyadej was the longest-serving head of state in the world and the longest-reigning monarch in the history of Thailand;
 - Whereas His Majesty dedicated his life to the well-being of the Thai people and the sustainable development of Thailand;
 - Whereas His Majesty led by example and virtue with the interest of the people at heart, earning His Majesty the deep reverence of the Thai people and the respect of people around the world;
 - Whereas His Majesty reached out to the poorest and most vulnerable people of Thailand, regardless of their status, ethnicity, or religion, listened to their problems, and empowered them to take their lives into their own hands;
-- Whereas, in 2006, His Majesty received the first United Nations Human Development Award, recognizing him as the “Development King” for the extraordinary contribution of His Majesty to human development;
-- Whereas His Majesty was recognized internationally in the areas of intellectual property, innovation, and creativity, and in 2006, the World Intellectual Property Organization presented His Majesty with the Global Leadership Award;
+- Whereas in 2006, His Majesty received the first United Nations Human Development Award, recognizing him as the “Development King” for the extraordinary contribution of His Majesty to human development;
+- Whereas His Majesty was recognized internationally in the areas of intellectual property, innovation, and creativity, and in 2009, the World Intellectual Property Organization presented His Majesty with the Global Leadership Award;
 - Whereas His Majesty was an anchor of peace and stability for Thailand during the turbulent decades of the Cold War;
 - Whereas His Majesty was always a trusted friend of the United States in advancing a strong and enduring alliance and partnership between the United States and Thailand;
 - Whereas His Majesty addressed a joint session of Congress on June 29, 1960, during which His Majesty reaffirmed the strong friendship and goodwill between the United States and Thailand;
 - Whereas the United States and Thailand remain strong security allies, as memorialized in the Southeast Asia Collective Defense Treaty (commonly known as the “Manila Pact of 1954”) and later expanded under the Thanat-Rusk Communique of 1962;
-- Whereas, for decades, Thailand has hosted the annual Cobra Gold military exercises, the largest multilateral exercises in Asia, to improve regional defense cooperation;
+- Whereas for decades, Thailand has hosted the annual Cobra Gold military exercises, the largest multilateral exercises in Asia, to improve regional defense cooperation;
 - Whereas Thailand has allowed the Armed Forces of the United States to use the Utapao Air Base to coordinate international humanitarian relief efforts;
 - Whereas President George W. Bush designated Thailand as a major non-NATO ally on December 30, 2003;
 - Whereas close cooperation and mutual sacrifices in the face of common threats have bound the United States and Thailand together and established a firm foundation for the advancement of a mutually beneficial relationship; and
