@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1150
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1150
@@ -180,3 +180,14 @@ Frank R. Wolf International Religious Freedom Act
 - 2016-12-10 — Senate amendment submitted
 - 2016-12-10 — Senate amendment submitted
 - 2016-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S7127)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-13 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and agree to the Senate amendment.
+- 2016-12-13 — On motion that the House agree to the Senate amendment Agreed to without objection. (consideration: CR H7580-7584; text as House agreed to Senate amendment: CR H7580-7583)
+- 2016-12-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(consideration: CR H7580-7584; text as House agreed to Senate amendment: CR H7580-7583)
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-281.
+- 2016-12-16 — Became Public Law No: 114-281.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
