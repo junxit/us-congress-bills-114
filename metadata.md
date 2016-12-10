@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5602
 congress: 114
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5602
@@ -16,7 +16,7 @@ To amend title 31, United States Code, to authorize the Secretary of the Treasur
 
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
@@ -31,6 +31,7 @@ To amend title 31, United States Code, to authorize the Secretary of the Treasur
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Green, Al [D-TX-9] (G000553)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (2)
 
@@ -55,3 +56,24 @@ To amend title 31, United States Code, to authorize the Secretary of the Treasur
 - 2016-07-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 47 (Roll no. 401). (text: CR H4590)
 - 2016-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 47 (Roll no. 401).(text: CR H4590)
 - 2016-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2016-12-05 — Amendment SA 5127 agreed to in Senate by Unanimous Consent.
+- 2016-12-05 — Amendment SA 5127 proposed by Senator McConnell for Senator Shelby. In the nature of a substitute.
+- 2016-12-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6683-6684)
+- 2016-12-05 — Passed Senate with an amendment by Voice Vote.
+- 2016-12-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2016-12-05 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2016-12-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2016-12-05 — Senate amendment agreed to: Amendment SA 5127 agreed to in Senate by Unanimous Consent.
+- 2016-12-05 — Senate amendment submitted
+- 2016-12-05 — Senate vitiated previous adoption of amendment SA 5127. (consideration: CR S6688, S6716)
+- 2016-12-05 — Senate vitiated previous discharge from the Senate Committee on Banking, Housing, and Urban Affairs.
+- 2016-12-05 — Senate vitiated previous passage. (consideration: CR S6688, S6716)
+- 2016-12-10 — Amendment SA 5127 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5127 proposed by Senator Boozman for Senator Shelby. (consideration: CR S7103)
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7103)
+- 2016-12-10 — Passed Senate with an amendment by Voice Vote.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2016-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2016-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5127 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5127 proposed by Senator Boozman for Senator Shelby.(consideration: CR S7103)
