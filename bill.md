@@ -31,3 +31,4 @@ In this Act:
 - **(9)** *NASA* The term NASA means the National Aeronautics and Space Administration.
 - **(10)** *Orion* The term Orion means the multipurpose crew vehicle described under section 303 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18323).
 - **(11)** *Space Launch System* The term Space Launch System has the meaning given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
+- **(12)** *United States government astronaut* The term United States government astronaut has the meaning given the term government astronaut in section 50902 of title 51, United States Code, except it does not include an individual who is an international partner astronaut.
