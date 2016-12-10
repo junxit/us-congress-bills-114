@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 710
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 710
 
-That the bill from the House of Representatives (H.R. 710) entitled “An Act to require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.
 
 ## § 1. Transportation Worker Identification Credential Security Card Program improvements and assessment
 
