@@ -1,7 +1,7 @@
 ---
 measure: S. 3112
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3112
@@ -28,3 +28,7 @@ Department of Veterans Affairs Bonus Transparency Act of 2016
 
 - 2016-06-29 — Introduced in Senate
 - 2016-06-29 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2016-12-10 — Passed Senate without amendment by Unanimous Consent. (text: CR S7108)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7108)
+- 2016-12-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7108)
+- 2016-12-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7108)
