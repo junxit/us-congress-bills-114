@@ -1,7 +1,7 @@
 ---
 measure: S. 1831
 congress: 114
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 48 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections for chapter 3 of title 18, United States Code, is amended by striking the item relating to section 48 and inserting the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 2000bb-1` | amend | Section 48 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | replace | The table of sections for chapter 3 of title 18, United States Code, is amended by striking the item relating to section 48 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

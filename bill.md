@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1831
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Preventing Animal Cruelty and Torture Act” or 
   > ## § 48. Animal crushing
   >
   > - **(a)** *Offenses*
-  >   - **(1)** *Crushing* It shall be unlawful for any person to intentionally engage in animal crushing in or affecting interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
+  >   - **(1)** *Crushing* It shall be unlawful for any person to purposely engage in animal crushing in or affecting interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
   >   - **(2)** *Creation of animal crush videos* It shall be unlawful for any person to knowingly create an animal crush video, if—
   >     - **(A)** the person intends or has reason to know that the animal crush video will be distributed in, or using a means or facility of, interstate or foreign commerce; or
   >     - **(B)** the animal crush video is distributed in, or using a means or facility of, interstate or foreign commerce.
@@ -30,19 +30,25 @@ This Act may be cited as the “Preventing Animal Cruelty and Torture Act” or 
   > - **(c)** *Penalties* Whoever violates this section shall be fined under this title, imprisoned for not more than 7 years, or both.
   > - **(d)** *Exceptions*
   >   - **(1)** *In general* This section does not apply with regard to any conduct, or a visual depiction of that conduct, that is—
-  >     - **(A)** a customary and normal veterinary or agricultural husbandry practice;
+  >     - **(A)** a customary and normal veterinary, agricultural husbandry, or other animal management practice;
   >     - **(B)** the slaughter of animals for food;
-  >     - **(C)** hunting, trapping, fishing, predator control, or pest control;
-  >     - **(D)** medical or scientific research; or
-  >     - **(E)** necessary to protect the life or property of a person from a serious threat caused by an animal.
+  >     - **(C)** hunting, trapping, fishing, a sporting activity not otherwise prohibited by Federal law, predator control, or pest control;
+  >     - **(D)** medical or scientific research;
+  >     - **(E)** necessary to protect the life or property of a person; or
+  >     - **(F)** performed as part of euthanizing an animal.
   >   - **(2)** *Good-faith distribution* This section does not apply to the good-faith distribution of an animal crush video to—
   >     - **(A)** a law enforcement agency; or
   >     - **(B)** a third party for the sole purpose of analysis to determine if referral to a law enforcement agency is appropriate.
+  >   - **(3)** *Unintentional conduct* This section does not apply to unintentional conduct that injures or kills an animal.
+  >   - **(4)** *Consistency with RFRA* This section shall be enforced in a manner that is consistent with section 3 of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb–1).
   > - **(e)** *No Preemption* Nothing in this section shall be construed to preempt the law of any State or local subdivision thereof to protect animals.
   > - **(f)** *Definitions* In this section—
-  >   - **(1)** the term animal crushing means actual conduct in which one or more living non-human mammals, birds, reptiles, or amphibians is intentionally crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242); and
+  >   - **(1)** the term animal crushing means actual conduct in which one or more living non-human mammals, birds, reptiles, or amphibians is purposely crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242);
   >   - **(2)** the term animal crush video means any photograph, motion-picture film, video or digital recording, or electronic image that—
   >     - **(A)** depicts animal crushing; and
-  >     - **(B)** is obscene.
+  >     - **(B)** is obscene; and
+  >   - **(3)** the term euthanizing an animal means the humane destruction of an animal accomplished by a method that—
+  >     - **(A)** produces rapid unconsciousness and subsequent death without evidence of pain or distress; or
+  >     - **(B)** uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 3 of title 18, United States Code, is amended by striking the item relating to section 48 and inserting the following:
