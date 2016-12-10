@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6302
@@ -50,3 +50,14 @@ Overtime Pay for Protective Services Act of 2016
 - 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5179 proposed by Senator Portman for Senator Johnson.(consideration: CR S7131-7132; text: CR S7131-7132)
 - 2016-12-10 — Senate amendment submitted
 - 2016-12-10 — Senate amendment submitted
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-13 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and agree to the Senate amendments.
+- 2016-12-13 — On motion that the House agree to the Senate amendments Agreed to without objection. (consideration: CR H7586; text as House agreed to Senate amendments: CR H7586)
+- 2016-12-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(consideration: CR H7586; text as House agreed to Senate amendments: CR H7586)
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-311.
+- 2016-12-16 — Became Public Law No: 114-311.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
