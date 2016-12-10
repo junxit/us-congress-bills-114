@@ -11,172 +11,76 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Tribal Infrastructure and Roads Enhancement and Safety Act” or “TIRES Act”.
+This Act may be cited as the “Tribal Infrastructure and Roads Enhancement and Safety Act” or the “TIRES Act”.
 
-## § 2. Definitions
+## § 2. Definition of Secretary
 
-In this Act:
-
-- **(1)** *Indian reservation* The term Indian reservation has the meaning given the term reservation in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452).
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+In this Act, the term Secretary means the Secretary of the Interior.
 
 ## § 3. Application of categorical exclusions to certain tribal transportation facilities
 
-- **(a)** *In general*
-  - **(1)** *Categorical exclusions* Effective on the date of enactment of this Act, a highway project, including projects administered by the Bureau of Indian Affairs, located on a road on an Indian reservation and eligible for assistance under section 202 of title 23, United States Code, is deemed to be an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act), if the project—
-    - **(A)** qualifies for categorical exclusion under—
-      - **(i)** MAP–21 (Public Law 112–141; 126 Stat. 405) or an amendment made by that Act; or
-      - **(ii)** section 771.117 of title 23, Code of Federal Regulations (or successor regulations); or
-    - **(B)** would meet those requirements if the project sponsor were a State agency.
-  - **(2)** *MAP–21 categorical exclusions to certain tribal transportation facilities* Section 1317 of MAP–21 (23 U.S.C. 109 note; 126 Stat. 550) is amended—
-    - **(A)** in paragraph (1)(B), by striking “; and” and inserting a period;
-    - **(B)** beginning in the matter preceding paragraph (1), by striking “Not later than” and all that follows through “(1) designate” and inserting the following:
-      > - **(a)** *In general*
-      >   - **(1)** *Designation of categorical exclusions* Subject to paragraph (2), not later than 180 days after the date of enactment of this Act, the Secretary shall designate
+- **(a)** *Definition of tribal transportation safety project*
+  - **(1)** *In general* In this section, the term tribal transportation safety project means a project described in paragraph (2) that is eligible for funding under section 202 of title 23, United States Code, and that—
+    - **(A)** corrects or improves a hazardous road location or feature; or
+    - **(B)** addresses a highway safety problem.
+  - **(2)** *Projects described* A project described in this paragraph is a project for 1 or more of the following:
+    - **(A)** An intersection safety improvement.
+    - **(B)** Pavement and shoulder widening (including the addition of a passing lane to remedy an unsafe condition).
+    - **(C)** Installation of rumble strips or another warning device, if the rumble strips or other warning devices do not adversely affect the safety or mobility of bicyclists and pedestrians, including persons with disabilities.
+    - **(D)** Installation of a skid-resistant surface at an intersection or other location with a high frequency of crashes.
+    - **(E)** An improvement for pedestrian or bicyclist safety or the safety of persons with disabilities.
+    - **(F)** Construction and improvement of a railway-highway grade crossing safety feature, including the installation of protective devices.
+    - **(G)** The conduct of a model traffic enforcement activity at a railway-highway crossing.
+    - **(H)** Construction of a traffic calming feature.
+    - **(I)** Elimination of a roadside hazard.
+    - **(J)** Installation, replacement, and other improvements of highway signage and pavement markings or a project to maintain minimum levels of retroreflectivity that addresses a highway safety problem consistent with a State strategic highway safety plan.
+    - **(K)** Installation of a priority control system for emergency vehicles at signalized intersections.
+    - **(L)** Installation of a traffic control or other warning device at a location with high crash potential.
+    - **(M)** Transportation safety planning.
+    - **(N)** Collection, analysis, and improvement of safety data.
+    - **(O)** Planning integrated interoperable emergency communications equipment, operational activities, or traffic enforcement activities (including police assistance) relating to work zone safety.
+    - **(P)** Installation of guardrails, barriers (including barriers between construction work zones and traffic lanes for the safety of road users and workers), and crash attenuators.
+    - **(Q)** The addition or retrofitting of structures or other measures to eliminate or reduce crashes involving vehicles and wildlife.
+    - **(R)** Installation of yellow-green signs and signals at pedestrian and bicycle crossings and in school zones.
+    - **(S)** Construction and operational improvements on a high risk rural road (as defined in section 148(a) of title 23, United States Code).
+    - **(T)** Geometric improvements to a road for the purposes of safety improvement.
+    - **(U)** A road safety audit.
+    - **(V)** Roadway safety infrastructure improvements consistent with the recommendations included in the publication of the Federal Highway Administration entitled “Handbook for Designing Roadways for the Aging Population” (FHWA–SA–14–015), dated June 2014 (or a revised or updated publication).
+    - **(W)** Truck parking facilities eligible for funding under section 1401 of MAP–21 (23 U.S.C. 137 note; Public Law 112–141).
+    - **(X)** Systemic safety improvements.
+    - **(Y)** Installation of vehicle-to-infrastructure communication equipment.
+    - **(Z)** Pedestrian hybrid beacons.
+    - **(AA)** Roadway improvements that provide separation between pedestrians and motor vehicles, including medians and pedestrian crossing islands.
+    - **(BB)** A physical infrastructure safety project not described in subparagraphs (A) through (AA).
+- **(b)** *New categorical exclusions*
+  - **(1)** *Review of existing categorical exclusions* The Secretary shall review the categorical exclusions under section 771.117 of title 23, Code of Federal Regulations (or successor regulations), to determine which, if any, are applicable for use by the Secretary in review of projects eligible for assistance under section 202 of title 23, United States Code.
+  - **(2)** *Review of tribal transportation safety projects* The Secretary shall identify tribal transportation safety projects that meet the requirements for categorical exclusions under sections 1507.3 and 1508.4 of title 40, Code of Federal Regulations.
+  - **(3)** *Proposal* The Secretary shall issue a proposed rule, in accordance with sections 1507.3 and 1508.4 of title 40, Code of Federal Regulations, to propose any categorical exclusions identified under paragraphs (1) and (2).
+  - **(4)** *Deadline* Not later than 180 days after the date of enactment of this Act, and after considering any comments on the proposed rule issued under paragraph (3), the Secretary shall promulgate a final rule for the categorical exclusions, in accordance with sections 1507.3 and 1508.4 of title 40, Code of Federal Regulations.
+  - **(5)** *Technical assistance* The Secretary of Transportation shall provide technical assistance to the Secretary in carrying out this subsection.
+- **(c)** *Reviews of tribal transportation safety projects*
+  - **(1)** *In general* The Secretary or the head of another Federal agency responsible for a decision related to a tribal transportation safety project shall complete any approval or decision for the review of the tribal transportation safety project required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or any other applicable Federal law on an expeditious basis using the shortest existing applicable process.
+  - **(2)** *Review of applications* Not later than 45 days after the date of receipt of a complete application by an Indian tribe for approval of a tribal transportation safety project, the Secretary shall—
+    - **(A)** take final action on the application; or
+    - **(B)** provide the Indian tribe a schedule for completion of the review described in paragraph (1), including the identification of any other Federal agency that has jurisdiction with respect to the project.
+  - **(3)** *Decisions under other Federal laws* In any case in which a decision under any other Federal law relating to a tribal transportation safety project (including the issuance or denial of a permit or license) is required, not later than 45 days after the Secretary has made all decisions of the lead agency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to the project, the head of the Federal agency responsible for the decision shall—
+    - **(A)** make the applicable decision; or
+    - **(B)** provide the Indian tribe a schedule for making the decision.
+  - **(4)** *Extensions* The Secretary or the head of an applicable Federal agency may extend the period under paragraph (2) or (3), as applicable, by an additional 30 days by providing the Indian tribe notice of the extension, including a statement of the need for the extension.
+  - **(5)** *Notification and explanation* In any case in which a required action is not completed by the deadline under paragraph (2), (3), or (4), as applicable, the Secretary or the head of a Federal agency, as applicable, shall—
+    - **(A)** notify the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives of the failure to comply with the deadline; and
+    - **(B)** provide to the Committees described in subparagraph (A) a detailed explanation of the reasons for the failure to comply with the deadline.
 
-    - **(C)** in paragraph (2)—
-      - **(i)** by striking “paragraph (1)” and inserting “subsection (a)”; and
-      - **(ii)** by striking “(2) not later than” and inserting the following:
-        > - **(b)** *Regulations* The Secretary shall, not later than
+## § 4. Programmatic agreements for categorical exclusions
 
-    - **(D)** in subsection (a) (as designated by subparagraph (B)), by adding at the end the following:
-      > - **(2)** *Application of categorical exclusions to certain tribal transportation facilities* With respect to a project described in paragraph (1) that is located on a road on an Indian reservation, for the first full fiscal year after the date of enactment of the TIRES Act, and each fiscal year thereafter, the amount referred to in paragraph (1)(A) shall be adjusted to reflect changes for the 12-month period ending the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
-
-- **(b)** *Administration* The Secretary may issue guidance or rules for the administration of this section.
-- **(c)** *Effective date*
-  - **(1)** *In general* The categorical exclusions described in subsection (a), and the amendments made by subsection (a), take effect on the date of enactment of this Act.
-  - **(2)** *Failure of Secretary to act* The failure of the Secretary to promulgate any final regulations or guidance shall not affect the qualification for the categorical exclusions described in subsection (a).
-
-## § 4. Streamlining for tribal public safety projects within existing operational rights-of-way
-
-Section 1316 of MAP–21 (23 U.S.C. 109 note; 126 Stat. 549) is amended—
-
-- **(1)** in subsection (b)—
-  - **(A)** by striking “(b) Definition of an operational right-of-way.—In this section, the” and inserting the following:
-    > - **(b)** *Definitions* In this section:
-    >   - **(1)** *Operational right-of-way*
-    >     - **(A)** *In general* The
-
-  - **(B)** by adding at the end the following:
-    > - **(B)** *Inclusion* For purposes of subparagraph (A), if a real property interest on an Indian reservation has not been formally designated an operational right-of-way, an Indian tribe may determine the scope and boundaries of that real property interest as an operational right-of-way, subject to the approval of the Bureau of Indian Affairs and the Secretary.
-    > - **(2)** *Tribal public safety project*
-    >   - **(A)** *In general* The term tribal public safety project means a project subject to this section that—
-    >     - **(i)** corrects or improves a hazardous road location or feature; or
-    >     - **(ii)** addresses a highway safety problem.
-    >   - **(B)** *Inclusions* The term tribal public safety project includes a project for 1 or more of the following:
-    >     - **(i)** An intersection safety improvement.
-    >     - **(ii)** Pavement and shoulder widening, including addition of a passing lane to remedy an unsafe condition.
-    >     - **(iii)** Installation of a rumble strip or other warning device, if the rumble strip or other warning device does not adversely affect the safety or mobility of bicyclists, pedestrians, or the disabled.
-    >     - **(iv)** Installation of a skid-resistant surface at an intersection or other location with a high frequency of accidents.
-    >     - **(v)** An improvement for pedestrian or bicyclist safety or safety of the disabled.
-    >     - **(vi)** Construction of any project for the elimination of hazards at a railway-highway crossing that is eligible for funding under section 130 of title 23, United States Code, including the separation or protection of grades at railway-highway crossings.
-    >     - **(vii)** Construction of a railway-highway crossing safety feature, including installation of protective devices.
-    >     - **(viii)** The conduct of a model traffic enforcement activity at a railway-highway crossing.
-    >     - **(ix)** Construction of a traffic calming feature.
-    >     - **(x)** Elimination of a roadside obstacle.
-    >     - **(xi)** Improvement of highway signage and pavement markings.
-    >     - **(xii)** Installation of a priority control system for emergency vehicles at signalized intersections.
-    >     - **(xiii)** Installation of a traffic control or other warning device at a location with high accident potential.
-    >     - **(xiv)** Safety-conscious planning.
-    >     - **(xv)** Improvements in the collection and analysis of crash data.
-    >     - **(xvi)** Planning integrated interoperable emergency communications equipment, operational activities, or traffic enforcement activities, including police assistance, relating to workzone safety.
-    >     - **(xvii)** Installation of guardrails, barriers, including barriers between construction work zones and traffic lanes for the safety of motorists and workers, and crash attenuators.
-    >     - **(xviii)** The addition or retrofitting of structures or other measures to eliminate or reduce accidents involving vehicles and wildlife.
-    >     - **(xix)** Installation and maintenance of signs, including fluorescent, yellow-green signs, at pedestrian-bicycle crossings and in school zones.
-    >     - **(xx)** Construction and yellow-green signs at pedestrian-bicycle crossings and in school zones.
-    >     - **(xxi)** Construction and operational improvements on high risk rural roads.
-    >     - **(xxii)** Any other project that the Secretary determines qualifies.
-
-- **(2)** by redesignating subsections (a) and (b) as subsections (b) and (a), respectively;
-- **(3)** in subsection (b) (as so redesignated), in the subsection heading, by striking “In general” and inserting “Designation”; and
-- **(4)** by adding at the end the following:
-  > - **(c)** *Projects within existing operational rights-of-Way*
-  >   - **(1)** *Applicability* This subsection applies to a project within an existing operational right-of-way on an Indian reservation (as defined in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452)) that is—
-  >     - **(A)** for a maintenance or preservation activity, whether or not federally funded, within the existing operational right-of-way, including for roadside ditches; or
-  >     - **(B)** a project that—
-  >       - **(i)** is a tribal public safety project or a project that the tribal department of transportation or the equivalent (or in the case of an Indian tribe without a tribal department of transportation or an official representing the Indian tribe) certifies to the Secretary as providing a safety benefit to the public; and
-  >       - **(ii)** is an action that—
-  >         - **(I)** is categorically excluded under section 771.117 of title 23, Code of Federal Regulations (or successor regulations); or
-  >         - **(II)** would be categorically excluded under section 771.117 of title 23, Code of Federal Regulations (or successor regulations), if the applicant were a State agency.
-  >   - **(2)** *Final action* Except as provided in paragraph (3), a Federal agency shall take final action on an application by an Indian tribe for a permit, approval, or jurisdictional determination for a project described in paragraph (1) not later than 45 days after the date of receipt of the application.
-  >   - **(3)** *Extensions* A Federal agency may extend the period to take final action on an application by an Indian tribe under paragraph (2) by an additional 30 days by providing to the Secretary and the Indian tribe notice of the extension, including a statement of the need for the extension.
-  >   - **(4)** *Constructive approval* If a Federal agency does not take final action on an application by an Indian tribe under paragraphs (2) and (3)—
-  >     - **(A)** the permit or approval for the project described in paragraph (1) shall be considered approved; and
-  >     - **(B)** the Indian tribe shall notify the Secretary of approval under this paragraph.
-  >   - **(5)** *Report* Not later than 4 years after the date of enactment of the “TIRES Act”, the Secretary shall submit to Congress a report that describes the operation of this subsection, including any recommendations.
-
-## § 5. Bureau of Indian Affairs Reduction in administrative fee
-
-Section 202(a)(6) of title 23, United States Code, is amended by striking “6 percent” and inserting “5 percent for each fiscal year”.
-
-## § 6. Option of assuming NEPA approval authority
-
-- **(a)** *Definition of Secretary* In this section, the term Secretary means the Secretary of the Interior or the Secretary of Transportation, as applicable.
-- **(b)** *Assumption of Federal responsibilities* An Indian tribe participating in tribal self-governance or a contract or agreement under subsection (a)(2) or (b)(7) of section 202 of title 23, United States Code, and carrying out construction projects on the Indian reservation over which the Indian tribe has jurisdiction, may elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), division A of subtitle III of title 54, United States Code, and other applicable Federal law that would apply if the Secretary were to undertake a construction project if the Indian tribe—
-  - **(1)** designates an officer—
-    - **(A)** to represent the Indian tribe; and
-    - **(B)** to assume the status of a responsible Federal official under those laws; and
-  - **(2)** accepts the jurisdiction of the Federal court for the purpose of enforcement of the responsibilities of the responsible Federal official under those laws.
-
-## § 7. Tribal government transportation safety data report
-
-- **(a)** *Findings* Congress finds that—
-  - **(1)** in many States, the Native American population is disproportionately represented in fatalities and crash statistics;
-  - **(2)** improved crash reporting by tribal law enforcement agencies would facilitate safety planning and would enable Indian tribes to apply more successfully for State and Federal funds for safety improvements;
-  - **(3)** the causes of underreporting of crashes on Indian reservations include—
-    - **(A)** tribal law enforcement capacity, including—
-      - **(i)** staffing shortages and turnover; and
-      - **(ii)** lack of equipment, software, and training; and
-    - **(B)** lack of standardization in crash reporting forms and protocols; and
-  - **(4)** without more accurate reporting of crashes on Indian reservations, it is difficult or impossible to fully understand the nature of the problem and develop appropriate countermeasures, which may include effective transportation safety planning and programs aimed at—
-    - **(A)** DUI prevention;
-    - **(B)** pedestrian safety;
-    - **(C)** roadway safety improvements;
-    - **(D)** seat belt usage; and
-    - **(E)** proper use of child restraints.
-- **(b)** *Report to Congress*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary, after consultation with the Secretary of Transportation, the Secretary of Health and Human Services, the Attorney General, and Indian tribes, shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the quality of transportation safety data collected by States and counties for transportation safety systems and the relevance of that data to improving the collection and sharing of data on crashes on Indian reservations.
-  - **(2)** *Purposes* The purposes of the report described in paragraph (1) are—
-    - **(A)** to improve the collection and sharing of data on crashes on Indian reservations; and
-    - **(B)** to develop data that Indian tribes can use to recover damages to tribal property caused by motorists.
-  - **(3)** *Paperless data reporting* In preparing the report under paragraph (1), the Secretary shall provide Indian tribes with options and best practices for transition to a paperless transportation safety data reporting system that—
-    - **(A)** improves the collection of crash reports;
-    - **(B)** stores, archives, queries, and shares crash records; and
-    - **(C)** uses data exclusively—
-      - **(i)** to address traffic safety issues on Indian reservations; and
-      - **(ii)** to identify and improve problem areas on public roads on Indian reservations.
-  - **(4)** *Additional budgetary resources* The Secretary shall include in the report under paragraph (1) the identification of Federal transportation funds provided to Indian tribes by agencies in addition to the Department of the Interior.
-
-## § 8. Bureau of Indian Affairs road safety study
-
-Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Assistant Secretary for Indian Affairs, in consultation with the Secretary of Transportation, the Attorney General, and States, shall—
-
-- **(1)** complete a study that identifies and evaluates options for improving safety on public roads on Indian reservations; and
-- **(2)** submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the results of the study.
-
-## § 9. Tribal transportation funding
-
-- **(a)** *In general* Section 1101(a)(3) of MAP–21 (Public Law 112–141, 126 Stat. 414) is amended—
-  - **(1)** by striking subparagraph (A) and inserting the following:
-    > - **(A)** *Tribal transportation program* For the tribal transportation program under section 202 of title 23, United States Code (other than subsection (d) of that section), there is authorized to be appropriated—
-    >   - **(i)** $468,180,000 for fiscal year 2016;
-    >   - **(ii)** $477,540,000 for fiscal year 2017;
-    >   - **(iii)** $487,090,000 for fiscal year 2018;
-    >   - **(iv)** $496,830,000 for fiscal year 2019;
-    >   - **(v)** $506,770,000 for fiscal year 2020; and
-    >   - **(vi)** $516,905,400 for fiscal year 2021.
-
-  - **(2)** by adding at the end the following:
-    > - **(D)** *Tribal transportation facility bridge program* For the tribal transportation facility bridge program under section 202(d) of title 23, United States Code, there is authorized to be appropriated—
-    >   - **(i)** $16,000,000 for fiscal year 2016;
-    >   - **(ii)** $18,000,000 for fiscal year 2017;
-    >   - **(iii)** $20,000,000 for fiscal year 2018;
-    >   - **(iv)** $22,000,000 for fiscal year 2019;
-    >   - **(v)** $24,000,000 for fiscal year 2020; and
-    >   - **(vi)** $26,000,000 for fiscal year 2021.
-
-- **(b)** *Tribal transportation facility bridge program* Section 202(d) of title 23, United States Code, is amended by striking paragraph (2) and inserting the following:
-  > - **(2)** *Tribal transportation facility bridge program* The Secretary shall use funds made available to carry out this subsection—
-  >   - **(A)** to carry out any planning, design, engineering, preconstruction, construction, and inspection of new or replacement tribal transportation facility bridges;
-  >   - **(B)** to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
-  >   - **(C)** to implement any countermeasure for deficient tribal transportation facility bridges, including multiple-pipe culverts.
+- **(a)** *In general* The Secretary shall enter into programmatic agreements with Indian tribes that establish efficient administrative procedures for carrying out environmental reviews for projects eligible for assistance under section 202 of title 23, United States Code.
+- **(b)** *Inclusions* A programmatic agreement under subsection (a)—
+  - **(1)** may include an agreement that allows an Indian tribe to determine, on behalf of the Secretary, whether a project is categorically excluded from the preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+  - **(2)** shall—
+    - **(A)** require that the Indian tribe maintain adequate capacity in terms of personnel and other resources to carry out applicable agency responsibilities pursuant to section 1507.2 of title 40, Code of Federal Regulations (or successor regulations);
+    - **(B)** set forth the responsibilities of the Indian tribe for making categorical exclusion determinations, documenting the determinations, and achieving acceptable quality control and quality assurance;
+    - **(C)** allow—
+      - **(i)** the Secretary to monitor compliance of the Indian tribe with the terms of the agreement; and
+      - **(ii)** the Indian tribe to execute any needed corrective action;
+    - **(D)** contain stipulations for amendments, termination, and public availability of the agreement once the agreement has been executed; and
+    - **(E)** have a term of not more than 5 years, with an option for renewal based on a review by the Secretary of the performance of the Indian tribe.

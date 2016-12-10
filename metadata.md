@@ -1,7 +1,7 @@
 ---
 measure: S. 1776
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1776
@@ -16,9 +16,10 @@ TIRES Act
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -32,3 +33,12 @@ TIRES Act
 - 2016-02-29 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-217.
 - 2016-02-29 — Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-217.
 - 2016-02-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
+- 2016-12-10 — Amendment SA 5184 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5184 proposed by Senator Portman for Senator Barrasso. (consideration: CR S7149) In the nature of a substitute.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7147-7149; text of measure as reported in Senate: CR S7147-7148)
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5184 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5184 proposed by Senator Portman for Senator Barrasso.(consideration: CR S7149)
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S7148)
