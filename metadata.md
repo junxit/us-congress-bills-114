@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6302
@@ -37,3 +37,16 @@ Overtime Pay for Protective Services Act of 2016
 - 2016-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H7006-7007)
 - 2016-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H7006-7007)
 - 2016-12-01 — Received in the Senate, read twice.
+- 2016-12-10 — Amendment SA 5178 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5178 proposed by Senator Portman for Senator Johnson. (consideration: CR S7131; text: CR S7131) In the nature of a substitute.
+- 2016-12-10 — Amendment SA 5179 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5179 proposed by Senator Portman for Senator Johnson. (consideration: CR S7131-7132; text: CR S7131-7132) To amend the title.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7131-7132)
+- 2016-12-10 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text as passed Senate: CR S7131)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text as passed Senate: CR S7131)
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5178 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5179 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5178 proposed by Senator Portman for Senator Johnson.(consideration: CR S7131; text: CR S7131)
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5179 proposed by Senator Portman for Senator Johnson.(consideration: CR S7131-7132; text: CR S7131-7132)
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — Senate amendment submitted

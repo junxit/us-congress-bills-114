@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 118 of the Treasury and General Government Appropriations Act, 2001 (Public Law 106–554) is amended by inserting “and except as provided in section 2 of the Overtime Pay for Secret Service Agents Act of 2016,” after “Hereafter,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 118 of the Treasury and General Government Appropriations Act, 2001 (as enacted into law by section 1(3) of Public Law 106–554; 114 Stat. 2763A–134) is amended, in the first sentence, by inserting “or, if the employee qualifies f… | the bill names no machine-readable US Code section |

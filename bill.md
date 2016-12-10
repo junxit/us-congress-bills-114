@@ -2,24 +2,27 @@
 legis-num: H.R. 6302
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6302
 
-> To provide an increase in premium pay for United States Secret Service agents performing protective services during 2016, and for other purposes.
+That the bill from the House of Representatives (H.R. 6302) entitled “An Act to provide an increase in premium pay for United States Secret Service agents performing protective services during 2016, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Overtime Pay for Secret Service Agents Act of 2016”.
+This Act may be cited as the “Overtime Pay for Protective Services Act of 2016”.
 
-## § 2. Premium pay exception in 2016 for work authorized under section 3056 of title 18
+## § 2. Premium pay exception in 2016 for protective services
 
-- **(a)** *In general* Notwithstanding any other provision of law, including section 5307 of title 5, United States Code, and subject to subsection (b), during calendar year 2016—
-  - **(1)** section 5547(a) of such title shall not apply to an employee who performs work authorized by section 3056(a) of title 18, United States Code; and
-  - **(2)** such an employee may be paid premium pay to the extent that the payment of such pay does not cause the total of basic pay and such premium pay for any pay period for such employee to exceed the annual rate of basic pay payable to level II of the Executive Schedule under section 5313 of title 5, United States Code.
-- **(b)** *Treatment of additional pay* To the extent that subsection (a) results in payment of additional premium pay of a type that is normally creditable as basic pay for retirement or any other purpose, such additional pay shall not be considered to be basic pay for any purpose and shall not be used in computing a lump-sum payment for accumulated and accrued annual leave under section 5551 of title 5, United States Code.
-- **(c)** *Definition* In this section, the term “employee” means any special agent of the United States Secret Service that is a law enforcement officer, but does not include—
-  - **(1)** a member of the United States Secret Service Uniformed Division; or
-  - **(2)** an officer, employee, agent, or law enforcement officer of any other Federal agency.
-- **(d)** *Conforming amendment* Section 118 of the Treasury and General Government Appropriations Act, 2001 (Public Law 106–554) is amended by inserting “and except as provided in section 2 of the Overtime Pay for Secret Service Agents Act of 2016,” after “Hereafter,”.
+- **(a)** *Definition* In this section, the term covered employee means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016.
+- **(b)** *Exception to the limitation on premium pay for protective services*
+  - **(1)** *In general* Notwithstanding any other provision of law, during 2016, section 5547(a) of title 5, United States Code, shall not apply to any covered employee to the extent that its application would prevent a covered employee from receiving premium pay, as provided under the amendment made by paragraph (2).
+  - **(2)** *Technical and conforming amendment* Section 118 of the Treasury and General Government Appropriations Act, 2001 (as enacted into law by section 1(3) of Public Law 106–554; 114 Stat. 2763A–134) is amended, in the first sentence, by inserting “or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016, to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code” after “of that limitation”.
+- **(c)** *Treatment of additional pay* If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—
+  - **(1)** be considered to be basic pay of the covered employee for any purpose; or
+  - **(2)** be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or section 5552 of title 5, United States Code.
+- **(d)** *Aggregate limit* With respect to the application of section 5307 of title 5, United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee.
+- **(e)** *Effective date* This section and the amendments made by this section shall take effect as if enacted on December 31, 2015.
