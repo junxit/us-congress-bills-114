@@ -2,12 +2,14 @@
 legis-num: H.R. 4939
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4939
 
-> To increase engagement with the governments of the Caribbean region, the Caribbean diaspora community in the United States, and the private sector and civil society in both the United States and the Caribbean, and for other purposes.
+That the bill from the House of Representatives (H.R. 4939) entitled “An Act to increase engagement with the governments of the Caribbean region, the Caribbean diaspora community in the United States, and the private sector and civil society in both the United States and the Caribbean, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -15,65 +17,46 @@ This Act may be cited as the “United States–Caribbean Strategic Engagement A
 
 ## § 2. Statement of policy
 
-Congress declares that it is the policy of the United States to increase engagement with the governments of the Caribbean region, the Caribbean diaspora community in the United States, and the private sector and civil society in both the United States and the Caribbean in a concerted effort to—
+Congress declares that it is the policy of the United States to increase engagement with the governments of the Caribbean region and with civil society, including the private sector, in both the United States and the Caribbean, in a concerted effort to—
 
 - **(1)** enhance diplomatic relations between the United States and the Caribbean region;
 - **(2)** increase economic cooperation between the United States and the Caribbean region;
 - **(3)** support regional economic, political, and security integration efforts in the Caribbean region;
-- **(4)** encourage sustainable economic development and increased regional economic diversification and global competitiveness;
+- **(4)** encourage enduring economic development and increased regional economic diversification and global competitiveness;
 - **(5)** reduce levels of crime and violence, curb the trafficking of illicit drugs, strengthen the rule of law, and improve citizen security;
-- **(6)** improve energy security by increasing access to diverse, reliable, affordable, and sustainable power;
-- **(7)** advance cooperation on democracy and human rights in the Caribbean region and at multilateral fora; and
-- **(8)** continue support for public health advances and cooperation on health concerns and threats to the Caribbean region.
+- **(6)** improve energy security by increasing access to diverse, reliable, and affordable power;
+- **(7)** advance cooperation on democracy and human rights at multilateral fora;
+- **(8)** continue support for public health advances and cooperation on health concerns and threats to the Caribbean region; and
+- **(9)** expand Internet access throughout the region, especially to countries lacking the appropriate infrastructure.
 
 ## § 3. Strategy
 
-Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development (USAID), shall submit to the appropriate congressional committees a multi-year strategy for United States engagement with the Caribbean region that—
+Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development (USAID), shall submit to the appropriate congressional committees a multi-year strategy for United States engagement to support the efforts of interested nations in the Caribbean region that—
 
-- **(1)** identifies Department of State and USAID efforts, in coordination with other executive branch agencies, to prioritize United States policy towards the Caribbean region;
-- **(2)** outlines an approach to broaden Department of State and USAID outreach to the Caribbean diaspora community in the United States to promote their involvement and participation in the economic development and citizen security of the Caribbean region;
-- **(3)** outlines an approach to partner with the governments of the Caribbean region to improve citizen security, reduce the trafficking of illicit drugs, strengthen the rule of law, and improve the effectiveness and sustainability of the Caribbean Basin Security Initiative;
-- **(4)** establishes a comprehensive, integrated, multi-year strategy to encourage the efforts of the Caribbean region to implement regional and national strategies that improve energy security by increasing access to diverse, reliable, affordable, and sustainable power, including significant renewable energy resources within the Caribbean region such as biomass, geothermal, hydropower, solar, tidal, waste-to-energy, and wind, and by taking advantage of the ongoing energy revolution in the Unites States;
-- **(5)** outlines an approach to improve diplomatic engagement with the governments of the Caribbean region, including with respect to key votes on human rights and democracy at the United Nations and the Organization of American States;
-- **(6)** develops an approach to assisting Caribbean countries in the diversification of their economies, the reduction of legal, technical, and administrative barriers that prevent the free flow of foreign direct investment and trade to and from each country and within the Caribbean region, and support for the training and employment of youth and citizens in marginalized communities; and
+- **(1)** identifies Department of State and USAID priorities, in coordination with other executive branch agencies, for United States policy towards the Caribbean region;
+- **(2)** outlines an approach to partner with governments of the Caribbean region to improve citizen security, reduce the trafficking of illicit drugs, strengthen the rule of law, and improve the effectiveness and longevity of the Caribbean Basin Security Initiative;
+- **(3)** establishes a comprehensive, integrated, multi-year strategy to encourage efforts of the Caribbean region to implement regional and national strategies that improve energy security, by increasing access to all available sources of energy, including by taking advantage of the indigenous energy sources of the Caribbean and the ongoing energy revolution in the United States;
+- **(4)** outlines an approach to improve diplomatic engagement with the governments of the Caribbean region, including with respect to human rights and democracy;
+- **(5)** Describes how the United States can develop an approach to supporting Caribbean countries in efforts they are willing to undertake with their own resources to diversify their economies;
+- **(6)** describes ways to ensure the active participation of citizens of the Caribbean in existing program and initiatives administered by the Department of State's Bureau of Educational and Cultural Affairs; and
 - **(7)** reflects the input of other executive branch agencies, as appropriate.
 
 ## § 4. Briefings
 
-The Secretary of State shall provide annual briefings to the appropriate congressional committees that review Department of State efforts to implement the strategy for United States engagement with the Caribbean region in accordance with section 3.
+The Secretary of State shall offer to the appropriate congressional committees annual briefings that review Department of State efforts to implement the strategy for United States engagement with the Caribbean region in accordance with section 3.
 
 ## § 5. Progress report
 
-Not later than 1 year after the date of the enactment of this Act and biennially thereafter for the following 4 years, the President shall transmit to the appropriate congressional committees a report on progress made toward to implementing the strategy for United States engagement with the Caribbean region in accordance with section 3.
+Not later than 2 years after the submission of the strategy required under section 3, the President shall submit to the appropriate congressional committees a report on progress made toward implementing the strategy.
 
-## § 6. Government Accountability Office report on Caribbean Basin Security Initiative
+## § 6. Reporting cost offset
 
-Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
+Section 601(c)(4) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)(4)) is amended by striking “the following:” and all that follows through “(B) A workforce plan” and inserting “a workforce plan”.
 
-- **(1)** An evaluation of the Caribbean Basin Security Initiative (CBSI) and the extent to which the CBSI has met Department of State and USAID benchmarks.
-- **(2)** An accounting of CBSI funding appropriated, obligated, and expended from fiscal year 2010 through fiscal year 2016.
-- **(3)** A breakdown of yearly CBSI assistance provided to each CBSI country.
-- **(4)** A description of how CBSI is coordinated with other security assistance programs in the Western Hemisphere, particularly the Merida Initiative and the Central America Regional Security Initiative, and the role of the Department of State’s Senior Coordinator for the Citizen Security Initiatives in the Western Hemisphere in such coordination.
-- **(5)** A description of all United States security assistance provided to the Caribbean region, exclusive of assistance through CBSI.
-- **(6)** Recommendations for legislative and executive action to make CBSI more effective and efficient, as appropriate.
-
-## § 7. GAO report on diplomatic engagement in the eastern Caribbean
-
-Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains the following:
-
-- **(1)** An evaluation of United States diplomatic outreach from the United States embassy in Barbados to the countries of Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines.
-- **(2)** A list of visits over the previous 5 years of personnel at the United States embassy in Barbados to the countries of Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines.
-- **(3)** A description of how personnel at the United States embassy in Barbados have engaged with government officials and civil society organizations in Antigua and Barbuda, Dominica, St. Kitts and Nevis, St. Lucia and St. Vincent, and the Grenadines over the previous 5 years.
-- **(4)** A description of how personnel at the United States embassy in Grenada have engaged with government officials and civil society organizations over the previous 5 years.
-
-## § 8. Reporting cost offset
-
-Paragraph (4) of section 601(c) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)) is amended in the matter preceding subparagraph (A), by striking “the following:” and all that follows through “A workforce plan” and inserting “a workforce plan” and adjusting the margins accordingly.
-
-## § 9. Definitions
+## § 7. Definitions
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-- **(2)** *Caribbean region* The term “Caribbean region” means the Caribbean Basin Security Initiative beneficiary countries.
-- **(3)** *Security assistance* The term “security assistance” has the meaning given such term in section 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(d)).
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+- **(2)** *Caribbean region* The term Caribbean region means the Caribbean Basin Security Initiative beneficiary countries.
+- **(3)** *Security assistance* The term security assistance has the meaning given such term in section 502B(d)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(d)(2)).

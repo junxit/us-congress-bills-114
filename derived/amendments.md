@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4939
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 22 U.S.C. § 4001
-
-> Paragraph (4) of section 601(c) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)) is amended in the matter preceding subparagraph (A), by striking “the following:” and all that follows through “A workforce plan” and inserting “a workforce plan” and adjusting the margins accordingly.
-
-| | |
-|---|---|
-| Removed | `the following:” and all that follows through “A workforce plan` |
-| Inserted | `a workforce plan` |
 
 ### 22 U.S.C. § 4001
 

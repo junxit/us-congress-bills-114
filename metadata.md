@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4939
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4939
@@ -57,3 +57,12 @@ United States-Caribbean Strategic Engagement Act of 2016
 - 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 713.
+- 2016-12-10 — Amendment SA 5177 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5177 proposed by Senator Portman for Senator Corker. (consideration: CR S7128; text: CR S7128) To revise the multi-year strategy requirement regarding diplomatic engagement with Caribbean region governments.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7127-7128; text of measure as reported in Senate: CR S7127-7128)
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5177 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5177 proposed by Senator Portman for Senator Corker.(consideration: CR S7128; text: CR S7128)
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — The committee substitute as amended agreed to by Unanimous Consent.
