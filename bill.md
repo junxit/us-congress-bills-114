@@ -2,37 +2,58 @@
 legis-num: H.R. 710
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 710
 
-> To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.
+That the bill from the House of Representatives (H.R. 710) entitled “An Act to require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the enacting clause and insert the following:*
 
-This Act may be cited as the “Essential Transportation Worker Identification Credential Assessment Act”.
+## § 1. Transportation Worker Identification Credential Security Card Program improvements and assessment
 
-## § 2. Comprehensive security assessment of the transportation security card program
-
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Comptroller General of the United States a comprehensive assessment of the effectiveness of the transportation security card program under section 70105 of title 46, United States Code, at enhancing security and reducing security risks for facilities and vessels regulated pursuant to section 102 of Public Law 107–295. Such assessment shall be conducted by a national laboratory that, to the extent practicable, is within the Department of Homeland Security laboratory network with expertise in maritime security or by a maritime security university-based center within the Department of Homeland Security centers of excellence network.
-- **(b)** *Contents* The comprehensive assessment shall include—
-  - **(1)** an evaluation of the extent to which the program, as implemented, addresses known or likely security risks in the maritime environment;
-  - **(2)** an evaluation of the extent to which deficiencies identified by the Comptroller General have been addressed; and
-  - **(3)** a cost-benefit analysis of the program, as implemented.
-- **(c)** *Corrective action plan; program reforms* Not later than 60 days after the Secretary submits the assessment under subsection (a), the Secretary shall submit a corrective action plan to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that responds to the assessment under subsection (b). The corrective action plan shall include an implementation plan with benchmarks, may include programmatic reforms, revisions to regulations, or proposals for legislation, and shall be considered in any rule making by the Department relating to the transportation security card program.
-- **(d)** *Comptroller General review* Not later than 120 days after the Secretary issues the corrective action plan under subsection (c), the Comptroller General shall—
-  - **(1)** review the extent to which such plan implements—
-    - **(A)** recommendations issued by the national laboratory or maritime security university-based center, as applicable, in the assessment submitted under subsection (a); and
-    - **(B)** recommendations issued by the Comptroller General before the enactment of this Act; and
-  - **(2)** inform the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as to the responsiveness of such plan to such recommendations.
-- **(e)** *Transportation security card reader rule*
-  - **(1)** *In general* The Secretary of Homeland Security may not issue a final rule requiring the use of transportation security card readers until—
-    - **(A)** the Comptroller General informs the Committees on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and Commerce, Science and Transportation of the Senate that the submission under subsection (a) is responsive to the recommendations of the Comptroller General; and
-    - **(B)** the Secretary issues an updated list of transportation security card readers that are compatible with active transportation security cards.
-  - **(2)** *Limitation on application* Paragraph (1) shall not apply with respect to any final rule issued pursuant to the notice of proposed rulemaking on Transportation Worker Identification Credential (TWIC)-Reader Requirements published by the Coast Guard on March 22, 2013 (78 Fed. Reg. 17781)
-- **(f)** *Comptroller General oversight* Not less than 18 months after the date of the issuance of the corrective action plan under subsection (c), and every 6 months thereafter during the 3-year period following the date of the issuance of the first report under this subsection, the Comptroller General shall report to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding implementation of the corrective action plan.
-
-## § 3. No additional funds authorized
-
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
+- **(a)** *Credential improvements*
+  - **(1)** *In general* Not later than 60 days after the date of enactment of this Act, the Administrator of the Transportation Security Administration shall commence actions, consistent with section 70105 of title 46, United States Code, to improve the Transportation Security Administration's process for vetting individuals with access to secure areas of vessels and maritime facilities.
+  - **(2)** *Required actions* The actions described under paragraph (1) shall include—
+    - **(A)** conducting a comprehensive risk analysis of security threat assessment procedures, including—
+      - **(i)** identifying those procedures that need additional internal controls; and
+      - **(ii)** identifying best practices for quality assurance at every stage of the security threat assessment;
+    - **(B)** implementing the additional internal controls and best practices identified under subparagraph (A);
+    - **(C)** improving fraud detection techniques, such as—
+      - **(i)** by establishing benchmarks and a process for electronic document validation;
+      - **(ii)** by requiring annual training for Trusted Agents; and
+      - **(iii)** by reviewing any security threat assessment-related information provided by Trusted Agents and incorporating any new threat information into updated guidance under subparagraph (D);
+    - **(D)** updating the guidance provided to Trusted Agents regarding the vetting process and related regulations;
+    - **(E)** finalizing a manual for Trusted Agents and adjudicators on the vetting process; and
+    - **(F)** establishing quality controls to ensure consistent procedures to review adjudication decisions and terrorism vetting decisions.
+  - **(3)** *Report* Not later than 2 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall submit a report to Congress that evaluates the implementation of the actions described in paragraph (1).
+- **(b)** *Comprehensive security assessment of the transportation security card program*
+  - **(1)** *In general* Not later than 60 days after the date of enactment of this Act, the Secretary of Homeland Security shall commission an assessment of the effectiveness of the transportation security card program (referred to in this section as “Program”) required under section 70105 of title 46, United States Code, at enhancing security and reducing security risks for facilities and vessels regulated under chapter 701 of that title.
+  - **(2)** *Location* The assessment commissioned under paragraph (1) shall be conducted by a research organization with significant experience in port or maritime security, such as—
+    - **(A)** a national laboratory;
+    - **(B)** a university-based center within the Science and Technology Directorate’s centers of excellence network; or
+    - **(C)** a qualified federally-funded research and development center.
+  - **(3)** *Contents* The assessment commissioned under paragraph (1) shall—
+    - **(A)** review the credentialing process by determining—
+      - **(i)** the appropriateness of vetting standards;
+      - **(ii)** whether the fee structure adequately reflects the current costs of vetting;
+      - **(iii)** whether there is unnecessary redundancy or duplication with other Federal- or State-issued transportation security credentials; and
+      - **(iv)** the appropriateness of having varied Federal and State threat assessments and access controls;
+    - **(B)** review the process for renewing applications for Transportation Worker Identification Credentials, including the number of days it takes to review application, appeal, and waiver requests for additional information; and
+    - **(C)** review the security value of the Program by—
+      - **(i)** evaluating the extent to which the Program, as implemented, addresses known or likely security risks in the maritime and port environments;
+      - **(ii)** evaluating the potential for a non-biometric credential alternative;
+      - **(iii)** identifying the technology, business process, and operational impacts of the use of the transportation security card and transportation security card readers in the maritime and port environments;
+      - **(iv)** assessing the costs and benefits of the Program, as implemented; and
+      - **(v)** evaluating the extent to which the Secretary of Homeland Security has addressed the deficiencies in the Program identified by the Government Accountability Office and the Inspector General of the Department of Homeland Security before the date of enactment of this Act.
+  - **(4)** *Deadlines* The assessment commissioned under paragraph (1) shall be completed not later than 1 year after the date on which the assessment is commissioned.
+  - **(5)** *Submission to Congress* Not later than 60 days after the date that the assessment is completed, the Secretary of Homeland Security shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives the results of the assessment commissioned under this subsection.
+- **(c)** *Corrective action plan; program reforms* If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
+  - **(1)** responds to findings of the assessment;
+  - **(2)** includes an implementation plan with benchmarks;
+  - **(3)** may include programmatic reforms, revisions to regulations, or proposals for legislation; and
+  - **(4)** shall be considered in any rulemaking by the Department of Homeland Security relating to the Program.
+- **(d)** *Inspector General review* If a corrective action plan is submitted under subsection (c), the Inspector General of the Department of Homeland Security shall—
+  - **(1)** not later than 120 days after the date of such submission, review the extent to which such plan implements the requirements under subsection (c); and
+  - **(2)** not later than 18 months after the date of such submission, and annually thereafter for 3 years, submit a report to the congressional committees set forth in subsection (c) that describes the progress of the implementation of such plan.

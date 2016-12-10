@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 114
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 710
@@ -47,3 +47,12 @@ To require the Secretary of Homeland Security to prepare a comprehensive securit
 - 2016-04-25 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-244.
 - 2016-04-25 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-244.
 - 2016-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
+- 2016-12-10 — Amendment SA 5183 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5183 proposed by Senator Portman for Senator Thune. (consideration: CR S7146-7147; text: CR S7146-7147) In the nature of a substitute.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7145-7147)
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5183 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5183 proposed by Senator Portman for Senator Thune.(consideration: CR S7146-7147; text: CR S7146-7147)
+- 2016-12-10 — Senate amendment submitted
+- 2016-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S7146)
