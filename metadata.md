@@ -1,7 +1,7 @@
 ---
 measure: S. 2852
 congress: 114
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2852
@@ -33,3 +33,5 @@ OPEN Government Data Act
 - 2016-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-396.
 - 2016-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-396.
 - 2016-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7132-7135; text of amendment in the nature of a substitute: CR S7132-7135)
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7132-7135; text of amendment in the nature of a substitute: CR S7132-7135)
