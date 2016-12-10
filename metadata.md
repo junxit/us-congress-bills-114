@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4245
 congress: 114
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4245
@@ -56,3 +56,11 @@ To exempt exportation of certain echinoderms and mollusks from licensing require
 - 2016-09-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-712, Part I.
 - 2016-09-06 — The title of the measure was amended. Agreed to without objection.
 - 2016-09-07 — Received in the Senate, read twice.
+- 2016-12-10 — Amendment SA 5185 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Amendment SA 5185 proposed by Senator Portman for Senator King. (consideration: CR S7149; text: CR S7149) In the nature of a substitute.
+- 2016-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7149)
+- 2016-12-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2016-12-10 — Senate amendment agreed to: Amendment SA 5185 agreed to in Senate by Unanimous Consent.
+- 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5185 proposed by Senator Portman for Senator King.(consideration: CR S7149; text: CR S7149)
+- 2016-12-10 — Senate amendment submitted

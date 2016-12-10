@@ -2,21 +2,25 @@
 legis-num: H.R. 4245
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4245
 
-> To exempt exportation of certain echinoderms and mollusks from licensing requirements under the Endangered Species Act of 1973.
+That the bill from the House of Representatives (H.R. 4245) entitled “An Act to exempt exportation of certain echinoderms and mollusks from licensing requirements under the Endangered Species Act of 1973.”, do pass with the following
 
-## § 1. Exemption of exportation of certain echinoderms and mollusks from permission and licensing requirements
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *Exemption* Not later than 30 days after the date of the enactment of this Act, the Director of the United States Fish and Wildlife Service shall amend section 14.92 of title 50, Code of Federal Regulations, to clarify that—
-  - **(1)** fish or wildlife described in subsection (b) are fishery products exempt from the export permission requirements of section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)); and
-  - **(2)** any person may engage in business as an exporter of such fish or wildlife without procuring permission under such section of that Act or an export license under subpart I of part 14 of such title.
-- **(b)** *Covered fish or wildlife* The fish or wildlife referred to in subsection (a) are members of the phylum Echinodermata that are commonly known as sea urchins and sea cucumbers, and members of the phylum Mollusca that are commonly known as squid, octopus, and cuttlefish, including products thereof, that—
-  - **(1)** do not require a permit under part 16, 17, or 23 of title 50, Code of Federal Regulations;
-  - **(2)** are harvested in waters under the jurisdiction of the United States or are processed in the United States; and
-  - **(3)** are—
-    - **(A)** exported for purposes of human or animal consumption; or
-    - **(B)** taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes.
+## § 1. Expedited exportation of certain species
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Director of the United States Fish and Wildlife Service (referred to in this section as the “Director”) shall issue a proposed rule to amend section 14.92 of title 50, Code of Federal Regulations, to establish expedited procedures relating to the export permission requirements of section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)) for fish or wildlife described in subsection (c).
+- **(b)** *Exemptions*
+  - **(1)** *In general* As part of the rulemaking under subsection (a), subject to paragraph (2), the Director may provide an exemption from the requirement to procure—
+    - **(A)** permission under section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)); or
+    - **(B)** an export license under subpart I of part 14 of title 50, Code of Federal Regulations.
+  - **(2)** *Limitations* The Director shall not provide an exemption under paragraph (1)—
+    - **(A)** unless the Director determines that the exemption will not have a significant negative impact on the conservation of the species that is the subject of the exemption; or
+    - **(B)** to an entity that has been convicted of a violation of a Federal law relating to the importation, transportation, or exportation of wildlife during a period of not less than 5 years ending on the date on which the entity applies for exemption under paragraph (1).
+- **(c)** *Covered fish or wildlife* The fish or wildlife described in this subsection are the species commonly known as sea urchins and sea cucumbers (including any product of a sea urchin or sea cucumber) that—
+  - **(1)** do not require a permit under part 16, 17, or 23 of title 50, Code of Federal Regulations; and
+  - **(2)** are exported for purposes of human or animal consumption.
