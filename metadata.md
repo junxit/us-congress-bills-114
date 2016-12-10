@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3842
 congress: 114
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3842
@@ -69,3 +69,14 @@ Federal Law Enforcement Training Centers Reform and Improvement Act of 2015
 - 2016-12-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
 - 2016-12-10 — Senate amendment agreed to: Amendment SA 5171 agreed to in Senate by Unanimous Consent.(consideration: CR S7104-7105)
 - 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5171 proposed by Senator Boozman for Senator Perdue.(consideration: CR S7104-7105; text: CR S7105)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-13 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and agree to the Senate amendments.
+- 2016-12-13 — On motion that the House agree to the Senate amendments Agreed to without objection. (consideration: CR H7586; text as House agreed to Senate amendment: CR H7586)
+- 2016-12-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(consideration: CR H7586; text as House agreed to Senate amendment: CR H7586)
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-285.
+- 2016-12-16 — Became Public Law No: 114-285.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
