@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4939
-congress: 114th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fourteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4939
 
-That the bill from the House of Representatives (H.R. 4939) entitled “An Act to increase engagement with the governments of the Caribbean region, the Caribbean diaspora community in the United States, and the private sector and civil society in both the United States and the Caribbean, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To increase engagement with the governments of the Caribbean region, the Caribbean diaspora community in the United States, and the private sector and civil society in both the United States and the Caribbean, and for other purposes.
 
 ## § 1. Short title
 
