@@ -1,7 +1,7 @@
 ---
 measure: S. 3084
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3084
@@ -44,3 +44,17 @@ American Innovation and Competitiveness Act
 - 2016-12-10 — Senate amendment proposed (on the floor): Amendment SA 5186 proposed by Senator Portman for Senator Gardner.(consideration: CR S7167)
 - 2016-12-10 — Senate amendment submitted
 - 2016-12-10 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S7167)
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-13 — Held at the desk.
+- 2016-12-13 — Received in the House.
+- 2016-12-16 — Considered by unanimous consent. (consideration: CR H7590-7609)
+- 2016-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-16 — Mr. Loudermilk asked unanimous consent to take from the Speaker's table and consider.
+- 2016-12-16 — On passage Passed without objection. (text of measure as passed: CR H7590-7609)
+- 2016-12-16 — Passed/agreed to in House: On passage Passed without objection.(text of measure as passed: CR H7590-7609)
+- 2016-12-28 — Presented to President.
+- 2016-12-28 — Presented to President.
+- 2017-01-06 — Became Public Law No: 114-329.
+- 2017-01-06 — Became Public Law No: 114-329.
+- 2017-01-06 — Signed by President.
+- 2017-01-06 — Signed by President.
