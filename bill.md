@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1168
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preserving Rehabilitation Innovation Centers Act of 2015”.
+This Act may be cited as the “Preserving Rehabilitation Innovation Centers Act of 2016”.
 
 ## § 2. Findings
 
@@ -29,29 +29,26 @@ Congress makes the following findings:
   - **(D)** ensure Medicare and Medicaid beneficiaries receive state-of-the-art, high-quality rehabilitation care by developing and disseminating best practices and advancing the quality of care utilized by post-acute providers in all 50 States; and
   - **(E)** support other inpatient rehabilitation institutions in rural areas to help ensure access to quality post-acute care for patients living in these communities.
 
-## § 3. Indirect costs payment for rehabilitation innovation centers
+## § 3. Study and report relating to the costs incurred by, and the Medicare payments made to, rehabilitation innovation centers
 
 - **(a)** *In general* Section 1886(j) of the Social Security Act (42 U.S.C. 1395ww(j)) is amended—
   - **(1)** by redesignating paragraph (8) as paragraph (9); and
   - **(2)** by inserting after paragraph (7) the following new paragraph:
-    > - **(8)** *Indirect costs payment for rehabilitation innovation centers*
-    >   - **(A)** *Study relating to additional payments to rehabilitation innovation centers to account for higher costs; authority to increase payments*
-    >     - **(i)** *Study* Not later than July 1, 2017, the Secretary shall conduct a study to determine whether there should be an increase in the prospective payment rate that would otherwise be made to a rehabilitation innovation center under this subsection for purposes of covering the additional costs that are incurred by such centers in furnishing items and services to individuals under this title, conducting research, and providing medical training, and if the Secretary determines that such an increase is recommended, the amount of such increase that is needed to cover such additional costs.
-    >     - **(ii)** *Authority to increase payments* Insofar as the Secretary determines under clause (i) that there should be an increase in the prospective payment rate to rehabilitation innovation centers, the Secretary may provide on a prospective basis for an appropriate percentage increase in such rate.
-    >   - **(B)** *Rehabilitation innovation center defined*
-    >     - **(i)** *In general* Subject to clause (iv), in this paragraph, the term rehabilitation innovation center means a rehabilitation facility that, determined as of the date of the enactment of this paragraph, is described in clause (ii) or clause (iii).
+    > - **(8)** *Study and report relating to the costs incurred by, and the Medicare payments made to, rehabilitation innovation centers*
+    >   - **(A)** *Study* The Secretary shall conduct a study to assess the costs incurred by rehabilitation innovation centers (as defined in subparagraph (C)) that are beyond the prospective rate for each of the following activities:
+    >     - **(i)** Furnishing items and services to individuals under this title.
+    >     - **(ii)** Conducting research.
+    >     - **(iii)** Providing medical training.
+    >   - **(B)** *Report* Not later than July 1, 2019, the Secretary shall submit to Congress a report containing the results of the study under subparagraph (A), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+    >   - **(C)** *Rehabilitation innovation center defined*
+    >     - **(i)** *In general* In this paragraph, the term rehabilitation innovation center means a rehabilitation facility that, determined as of the date of the enactment of this paragraph, is described in clause (ii) or clause (iii).
     >     - **(ii)** *Not-for-profit* A rehabilitation facility described in this clause is a facility that—
-    >       - **(I)** is classified as a not-for-profit entity under the Centers for Medicare & Medicaid Services 2010 Provider of Services file;
-    >       - **(II)** holds at least one Federal rehabilitation research and training designation for research projects on traumatic brain injury, spinal cord injury, or stroke rehabilitation research from the Rehabilitation Research and Training Centers or the Rehabilitation Engineering Research Center at the National Institute on Disability and Rehabilitation Research at the Department of Education;
-    >       - **(III)** has a minimum Medicare case mix index of 1.1144 according to the IRF Rate Setting File for the Correction Notice for the Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2012 (78 Fed. Reg. 59256); and
-    >       - **(IV)** has at least 300 Medicare discharges per year or at least 200 Medicaid discharges per year.
+    >       - **(I)** is classified as a not-for-profit entity under the IRF Rate Setting File for the Correction Notice for the Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2012 (78 Fed. Reg. 59256);
+    >       - **(II)** holds at least one Federal rehabilitation research and training designation for research projects on traumatic brain injury, spinal cord injury, or stroke rehabilitation research from the Rehabilitation Research and Training Centers or the Rehabilitation Engineering Research Center at the National Institute on Disability and Rehabilitation Research at the Department of Education, based on such data submitted to the Secretary by a facility, in a form, manner, and time frame specified by the Secretary;
+    >       - **(III)** has a minimum Medicare case mix index of 1.1144 for fiscal year 2012 according to the IRF Rate Setting File described in subclause (I); and
+    >       - **(IV)** had at least 300 Medicare discharges or at least 200 Medicaid discharges in a prior year as determined by the Secretary.
     >     - **(iii)** *Government-owned* A rehabilitation facility described in this clause is a facility that—
-    >       - **(I)** is classified as a Government-owned institution under the Centers for Medicare & Medicaid Services 2010 Provider of Services file;
-    >       - **(II)** holds at least one Federal rehabilitation research and training designation for research projects on traumatic brain injury, spinal cord injury, or stroke rehabilitation research from the Rehabilitation Research and Training Centers, the Rehabilitation Engineering Research Center, or the Model Spinal Cord Injury Systems at the National Institute on Disability and Rehabilitation Research at the Department of Education;
-    >       - **(III)** has a minimum Medicare case mix index of 1.1144 according to the IRF Rate Setting File for the Correction Notice for the Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2012 (78 Fed. Reg. 59256); and
-    >       - **(IV)** has a disproportionate share hospital (DSH) percentage of at least 0.6300 according to the IRF Rate Setting File for the Correction Notice for the Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2012 (78 Fed. Reg. 59256).
-    >     - **(iv)** *Authority* The Secretary may consider applications from inpatient rehabilitation facilities that are not described in clause (ii) or (iii) as of the date of the enactment of this paragraph but who are subsequently so described.
-
-- **(b)** *Study and report to Congress on access to rehabilitation care in rural communities in States that do not have a rehabilitation innovation center*
-  - **(1)** *Study* The Secretary of Health and Human Services shall conduct a study on access by individuals (including, but not limited to, Medicare beneficiaries) to rehabilitation care in rural communities in States in which there is no rehabilitation innovation center (as defined in section 1886(j)(8)(B) of the Social Security Act, as added by subsection (a)).
-  - **(2)** *Report* Not later than July 1, 2017, the Secretary of Health and Human Services shall submit to Congress a report on the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+    >       - **(I)** is classified as a Government-owned institution under the IRF Rate Setting File described in clause (ii)(I);
+    >       - **(II)** holds at least one Federal rehabilitation research and training designation for research projects on traumatic brain injury, spinal cord injury, or stroke rehabilitation research from the Rehabilitation Research and Training Centers, the Rehabilitation Engineering Research Center, or the Model Spinal Cord Injury Systems at the National Institute on Disability and Rehabilitation Research at the Department of Education, based on such data submitted to the Secretary by a facility, in a form, manner, and time frame specified by the Secretary;
+    >       - **(III)** has a minimum Medicare case mix index of 1.1144 for 2012 according to the IRF Rate Setting File described in clause (ii)(I); and
+    >       - **(IV)** has a Medicare disproportionate share hospital (DSH) percentage of at least 0.6300 according to the IRF Rate Setting File described in clause (ii)(I)).
