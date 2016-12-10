@@ -26,12 +26,12 @@ This Act may be cited as the “Federal Law Enforcement Training Centers Reform 
   >   - **(3)** develop homeland security and law enforcement training curricula, including curricula related to domestic preparedness and response to threats or acts of terrorism, for Federal, State, local, tribal, territorial, and international law enforcement and security agencies and private sector security agencies;
   >   - **(4)** monitor progress toward strategic and tactical FLETC plans regarding training curricula, including curricula related to domestic preparedness and response to threats or acts of terrorism, and facilities;
   >   - **(5)** ensure the timely dissemination of homeland security information as necessary to Federal, State, local, tribal, territorial, and international law enforcement and security agencies and the private sector to achieve the training goals for such entities, in accordance with paragraph (1);
-  >   - **(6)** carry out acquisition responsibilities in a manner that—
+  >   - **(6)** carry out delegated acquisition responsibilities in a manner that—
   >     - **(A)** fully complies with—
   >       - **(i)** Federal law;
   >       - **(ii)** the Federal Acquisition Regulation, including requirements regarding agency obligations to contract only with responsible prospective contractors; and
   >       - **(iii)** Department acquisition management directives; and
-  >     - **(B)** ensures that a fair proportion of Federal contract and subcontract dollars are awarded to small businesses, maximizes opportunities for small business participation, and ensures, to the extent practicable, that small businesses which achieve qualified vendor status for security-related technologies have an opportunity to compete for contracts for such technologies;
+  >     - **(B)** maximizes opportunities for small business participation;
   >   - **(7)** coordinate and share information with the heads of relevant components and offices on digital learning and training resources, as appropriate;
   >   - **(8)** advise the Secretary on matters relating to executive level policy and program administration of Federal, State, local, tribal, territorial, and international law enforcement and security training activities and private sector security agency training activities, including training activities related to domestic preparedness and response to threats or acts of terrorism;
   >   - **(9)** collaborate with the Secretary and relevant officials at other Federal departments and agencies, as appropriate, to improve international instructional development, training, and technical assistance provided by the Federal Government to foreign law enforcement; and
@@ -72,7 +72,7 @@ This Act may be cited as the “Federal Law Enforcement Training Centers Reform 
   >     - **(C)** *Re-employed annuitants* A Federal annuitant employed pursuant to this paragraph shall not be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in subparagraph (B)) as may apply.
   >     - **(D)** *Counting* Federal annuitants shall be counted on a full-time equivalent basis.
   >     - **(E)** *Limitation* No appointment under this paragraph may be made which would result in the displacement of any employee.
-  >   - **(12)** *Travel for intermittent employees* The Director is authorized to reimburse intermittent Federal employees traveling from outside a commuting distance (to be predetermined by the Director) for travel expenses and to compensate such employees for time spent traveling from their homes to work sites.
+  >   - **(12)** *Travel for intermittent employees* The Director is authorized to reimburse intermittent Federal employees traveling from outside a commuting distance (to be predetermined by the Director) for travel expenses.
   > - **(e)** *On-FLETC housing* Notwithstanding any other provision of law, individuals attending training at any FLETC facility shall, to the extent practicable and in accordance with FLETC policy, reside in on-FLETC or FLETC-provided housing.
   > - **(f)** *Additional fiscal authorities* In order to further the goals and objectives of FLETC, the Director is authorized to—
   >   - **(1)** expend funds for public awareness and to enhance community support of law enforcement training, including the advertisement of available law enforcement training programs;
