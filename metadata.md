@@ -1,7 +1,7 @@
 ---
 measure: S. 8
 congress: 114
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 8
@@ -34,3 +34,17 @@ A bill to provide for the approval of the Agreement for Cooperation Between the 
 - 2016-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.
 - 2016-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7103-7104; text as passed Senate: CR S7103-7104)
 - 2016-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7103-7104; text as passed Senate: CR S7103-7104)
+- 2016-12-12 — Held at the desk.
+- 2016-12-12 — Message on Senate action sent to the House.
+- 2016-12-12 — Received in the House.
+- 2016-12-13 — Considered by unanimous consent. (consideration: CR H7585)
+- 2016-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2016-12-13 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and consider.
+- 2016-12-13 — On passage Passed without objection. (text of measure as passed: CR H7585)
+- 2016-12-13 — Passed/agreed to in House: On passage Passed without objection.(text of measure as passed: CR H7585)
+- 2016-12-15 — Presented to President.
+- 2016-12-15 — Presented to President.
+- 2016-12-16 — Became Public Law No: 114-320.
+- 2016-12-16 — Became Public Law No: 114-320.
+- 2016-12-16 — Signed by President.
+- 2016-12-16 — Signed by President.
