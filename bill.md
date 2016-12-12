@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1266
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,50 +15,53 @@ This Act may be cited as the “Financial Product Safety Commission Act of 2015�
 
 ## § 2. Making the Bureau an independent Financial Product Safety Commission
 
-The Consumer Financial Protection Act of 2010 (12 U.S.C. 5481 et seq.) is amended—
+- **(a)** *In general* The Consumer Financial Protection Act of 2010 (12 U.S.C. 5481 et seq.) is amended—
+  - **(1)** in section 1011—
+    - **(A)** in subsection (a)—
+      - **(i)** by striking “in the Federal Reserve System,”;
+      - **(ii)** by striking “independent bureau” and inserting “independent commission”;
+      - **(iii)** by striking “Bureau of Consumer Financial Protection” and inserting “Financial Product Safety Commission (hereinafter in this section referred to as the “Commission”)”; and
+      - **(iv)** by striking “Bureau” each place such term appears and inserting “Commission”;
+    - **(B)** by striking subsections (b), (c), and (d);
+    - **(C)** by redesignating subsection (e) as subsection (i);
+    - **(D)** in subsection (i), as so redesignated—
+      - **(i)** by striking “, including in cities in which the Federal reserve banks, or branches of such banks, are located,”; and
+      - **(ii)** by striking “Bureau” each place such term appears and inserting “Commission”; and
+    - **(E)** by inserting after subsection (a) the following new subsections:
+      > - **(b)** *Authority To prescribe regulations* The Commission may prescribe such regulations and issue such orders in accordance with this title as the Commission may determine to be necessary for carrying out this title and all other laws within the Commission’s jurisdiction and shall exercise any authorities granted under this title and all other laws within the Commission’s jurisdiction.
+      > - **(c)** *Composition of the Commission*
+      >   - **(1)** *In general* The Commission shall be composed of 5 members who shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who—
+      >     - **(A)** are citizens of the United States; and
+      >     - **(B)** have strong competencies and experiences related to consumer financial products and services.
+      >   - **(2)** *Staggering* The members of the Commission shall serve staggered terms, which initially shall be established by the President for terms of 1, 2, 3, 4, and 5 years, respectively.
+      >   - **(3)** *Terms*
+      >     - **(A)** *In general* Each member of the Commission, including the Chair, shall serve for a term of 5 years.
+      >     - **(B)** *Removal* The President may remove any member of the Commission for inefficiency, neglect of duty, or malfeasance in office.
+      >     - **(C)** *Vacancies* Any member of the Commission appointed to fill a vacancy occurring before the expiration of the term to which that member’s predecessor was appointed (including the Chair) shall be appointed only for the remainder of the term.
+      >     - **(D)** *Continuation of service* Each member of the Commission may continue to serve after the expiration of the term of office to which that member was appointed until a successor has been appointed by the President and confirmed by the Senate, except that a member may not continue to serve more than 1 year after the date on which that member’s term would otherwise expire.
+      >     - **(E)** *Other employment prohibited* No member of the Commission shall engage in any other business, vocation, or employment.
+      > - **(d)** *Affiliation* Not more than 3 members of the Commission shall be members of any one political party.
+      > - **(e)** *Chair of the Commission*
+      >   - **(1)** *Appointment* The Chair of the Commission shall be appointed by the President from among the members of the Commission.
+      >   - **(2)** *Authority* The Chair shall be the principal executive officer of the Commission, and shall exercise all of the executive and administrative functions of the Commission, including with respect to—
+      >     - **(A)** the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of members of the Commission other than the Chair);
+      >     - **(B)** the distribution of business among personnel appointed and supervised by the Chair and among administrative units of the Commission; and
+      >     - **(C)** the use and expenditure of funds.
+      >   - **(3)** *Limitation* In carrying out any of the Chair’s functions under the provisions of this subsection the Chair shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
+      >   - **(4)** *Requests or estimates related to appropriations* Requests or estimates for regular, supplemental, or deficiency appropriations on behalf of the Commission may not be submitted by the Chair without the prior approval of the Commission.
+      > - **(f)** *No impairment by reason of vacancies* No vacancy in the members of the Commission shall impair the right of the remaining members of the Commission to exercise all the powers of the Commission. Three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only 3 members serving on the Commission because of vacancies in the Commission, 2 members of the Commission shall constitute a quorum for the transaction of business. If there are only 2 members serving on the Commission because of vacancies in the Commission, 2 members shall constitute a quorum for the 6-month period beginning on the date of the vacancy which caused the number of Commission members to decline to 2.
+      > - **(g)** *Seal* The Commission shall have an official seal.
+      > - **(h)** *Compensation*
+      >   - **(1)** *Chair* The Chair shall receive compensation at the rate prescribed for level I of the Executive Schedule under section 5313 of title 5, United States Code.
+      >   - **(2)** *Other members of the Commission* The 4 other members of the Commission shall each receive compensation at the rate prescribed for level II of the Executive Schedule under section 5314 of title 5, United States Code.
 
-- **(1)** in section 1011—
-  - **(A)** in subsection (a)—
-    - **(i)** by striking “in the Federal Reserve System,”;
-    - **(ii)** by striking “independent bureau” and inserting “independent commission”;
-    - **(iii)** by striking “Bureau of Consumer Financial Protection” and inserting “Financial Product Safety Commission (hereinafter in this section referred to as the “Commission”)”; and
-    - **(iv)** by striking “Bureau” each place such term appears and inserting “Commission”;
-  - **(B)** by striking subsections (b), (c), and (d);
-  - **(C)** by redesignating subsection (e) as subsection (j);
-  - **(D)** in subsection (j), as so redesignated—
-    - **(i)** by striking “, including in cities in which the Federal reserve banks, or branches of such banks, are located,”; and
-    - **(ii)** by striking “Bureau” each place such term appears and inserting “Commission”; and
-  - **(E)** by inserting after subsection (a) the following new subsections:
-    > - **(b)** *Authority To prescribe regulations* The Commission may prescribe such regulations and issue such orders in accordance with this title as the Commission may determine to be necessary for carrying out this title and all other laws within the Commission’s jurisdiction and shall exercise any authorities granted under this title and all other laws within the Commission’s jurisdiction.
-    > - **(c)** *Composition of the Commission*
-    >   - **(1)** *In general* The Commission shall be composed of 5 members who shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who—
-    >     - **(A)** are citizens of the United States; and
-    >     - **(B)** have strong competencies and experiences related to consumer financial products and services.
-    >   - **(2)** *Staggering* The members of the Commission shall serve staggered terms, which initially shall be established by the President for terms of 1, 2, 3, 4, and 5 years, respectively.
-    >   - **(3)** *Terms*
-    >     - **(A)** *In general* Each member of the Commission, including the Chair, shall serve for a term of 5 years.
-    >     - **(B)** *Removal* The President may remove any member of the Commission for inefficiency, neglect of duty, or malfeasance in office.
-    >     - **(C)** *Vacancies* Any member of the Commission appointed to fill a vacancy occurring before the expiration of the term to which that member’s predecessor was appointed (including the Chair) shall be appointed only for the remainder of the term.
-    >     - **(D)** *Continuation of service* Each member of the Commission may continue to serve after the expiration of the term of office to which that member was appointed until a successor has been appointed by the President and confirmed by the Senate, except that a member may not continue to serve more than 1 year after the date on which that member’s term would otherwise expire.
-    >     - **(E)** *Other employment prohibited* No member of the Commission shall engage in any other business, vocation, or employment.
-    > - **(d)** *Affiliation* Not more than 3 members of the Commission shall be members of any one political party.
-    > - **(e)** *Chair of the Commission*
-    >   - **(1)** *Appointment* The Chair of the Commission shall be appointed by the President.
-    >   - **(2)** *Authority* The Chair shall be the principal executive officer of the Commission, and shall exercise all of the executive and administrative functions of the Commission, including with respect to—
-    >     - **(A)** the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of members of the Commission other than the Chair);
-    >     - **(B)** the distribution of business among personnel appointed and supervised by the Chair and among administrative units of the Commission; and
-    >     - **(C)** the use and expenditure of funds.
-    >   - **(3)** *Limitation* In carrying out any of the Chair’s functions under the provisions of this subsection the Chair shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
-    >   - **(4)** *Requests or estimates related to appropriations* Requests or estimates for regular, supplemental, or deficiency appropriations on behalf of the Commission may not be submitted by the Chair without the prior approval of the Commission.
-    > - **(f)** *No impairment by reason of vacancies* No vacancy in the members of the Commission shall impair the right of the remaining members of the Commission to exercise all the powers of the Commission. Three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only 3 members serving on the Commission because of vacancies in the Commission, 2 members of the Commission shall constitute a quorum for the transaction of business. If there are only 2 members serving on the Commission because of vacancies in the Commission, 2 members shall constitute a quorum for the 6-month period beginning on the date of the vacancy which caused the number of Commission members to decline to 2.
-    > - **(g)** *Seal* The Commission shall have an official seal.
-    > - **(h)** *Compensation*
-    >   - **(1)** *Chair* The Chair shall receive compensation at the rate prescribed for level I of the Executive Schedule under section 5313 of title 5, United States Code.
-    >   - **(2)** *Other members of the Commission* The 4 other members of the Commission shall each receive compensation at the rate prescribed for level II of the Executive Schedule under section 5314 of title 5, United States Code.
-    > - **(i)** *Initial quorum established* During any time period prior to the confirmation of at least two members of the Commission, one member of the Commission shall constitute a quorum for the transaction of business. Following the confirmation of at least 2 additional commissioners, the quorum requirements of subsection (f) shall apply.
-
-- **(2)** in section 1012(c), by striking paragraphs (2), (3), (4), and (5); and
-- **(3)** in section 1014(b), by striking “Not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.”.
+  - **(2)** in section 1012(c), by striking paragraphs (2), (3), (4), and (5); and
+  - **(3)** in section 1014(b), by striking “Not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.”.
+- **(b)** *Commission funding* Section 7 of the Federal Reserve Act (12 U.S.C. 289) is amended by adding at the end the following:
+  > - **(d)** *Transfer For Fiscal Year 2016*
+  >   - **(1)** *In general* The Federal reserve banks shall transfer from the surplus funds of such banks to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $75,000,000 in fiscal year 2016.
+  >   - **(2)** *Allocated By Fed* Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 2016, the Board of Governors of the Federal Reserve System shall determine the amount each such bank shall pay in such fiscal year.
+  >   - **(3)** *Replenishment Of Surplus Fund Prohibited* During fiscal years 2016 through 2026, no Federal reserve bank may replenish such bank's surplus fund by the amount of any transfer by such bank under paragraph (1).
 
 ## § 3. Deeming of name
 
@@ -81,7 +84,7 @@ Any reference in a law, regulation, document, paper, or other record of the Unit
     - **(C)** in section 1016(a), by striking “Director of the Bureau” and inserting “Chair of the Financial Product Safety Commission”; and
     - **(D)** in section 1066(a), by striking “Director of the Bureau is” and inserting “first member of the Commission is”.
 - **(b)** *Dodd-Frank Wall Street Reform and Consumer Protection Act* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—
-  - **(1)** in section 111(b)(1)(D), by striking “Director” and inserting “Chair of the Financial Product Safety Commission”; and
+  - **(1)** in section 111(b)(1)(D), by striking “Director of the Bureau” and inserting “Chair of the Financial Product Safety Commission”; and
   - **(2)** in section 1447, by striking “Director of the Bureau” each place such term appears and inserting “Financial Product Safety Commission”.
 - **(c)** *Electronic Fund Transfer Act* Section 920(a)(4)(C) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(a)(4)(C)), as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Financial Product Safety Commission”.
 - **(d)** *Expedited Funds Availability Act* The Expedited Funds Availability Act (12 U.S.C. 4001 et seq.), as amended by section 1086 of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” each place such term appears and inserting “Financial Product Safety Commission”.
@@ -101,3 +104,7 @@ Any reference in a law, regulation, document, paper, or other record of the Unit
   - **(1)** by striking “Director” each place such term appears in headings and text, other than where such term is used in the context of the Director of the Office of Thrift Supervision, and inserting “Financial Product Safety Commission”; and
   - **(2)** in section 1503, by striking paragraph (10).
 - **(l)** *Title 44, United States Code* Section 3513(c) of title 44, United States Code, as amended by section 1100D(b) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” and inserting “Financial Product Safety Commission”.
+
+## § 5. Effective date
+
+This Act and the amendments made by this Act shall take effect on the date on which not less than 3 persons have been confirmed by the Senate to serve as members of the Financial Product Safety Commission.

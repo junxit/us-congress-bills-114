@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1266
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 23 executed, 12 stated and not applied.
+36 amendatory instructions. 23 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -125,11 +125,11 @@ to guess them.
 
 ### 12 U.S.C. § 5301
 
-> in section 111(b)(1)(D), by striking “Director” and inserting “Chair of the Financial Product Safety Commission”; and
+> in section 111(b)(1)(D), by striking “Director of the Bureau” and inserting “Chair of the Financial Product Safety Commission”; and
 
 | | |
 |---|---|
-| Removed | `Director` |
+| Removed | `Director of the Bureau` |
 | Inserted | `Chair of the Financial Product Safety Commission` |
 
 ### 12 U.S.C. § 5301
@@ -242,11 +242,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `12 U.S.C. § 5481` | strike | by striking “in the Federal Reserve System,”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5481` | strike | by striking subsections (b), (c), and (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5481` | redesignate | by redesignating subsection (e) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | redesignate | by redesignating subsection (e) as subsection (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | by striking “, including in cities in which the Federal reserve banks, or branches of such banks, are located,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5481` | insert | by inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | in section 1012(c), by striking paragraphs (2), (3), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | in section 1014(b), by striking “Not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 289` | add-at-end | Section 7 of the Federal Reserve Act (12 U.S.C. 289) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | replace | by striking “Director of the Bureau” each place such term appears, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection, and inserting “Financial Product Safety … | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `12 U.S.C. § 5481` | strike | in section 1002, by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | amend | by amending section 1402(1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
