@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5092
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5092
@@ -34,3 +34,13 @@ Reinforcing American-Made Products Act of 2016
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Introduced in House
 - 2016-04-28 — Referred to the House Committee on Energy and Commerce.
+- 2016-04-29 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2016-06-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-06-09 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2016-06-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2016-07-12 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported by the Yeas and Nays: 29 - 21.
+- 2016-12-13 — Placed on the Union Calendar, Calendar No. 686.
+- 2016-12-13 — Reported by the Committee on Energy and Commerce. H. Rept. 114-876.
+- 2016-12-13 — Reported by the Committee on Energy and Commerce. H. Rept. 114-876.
