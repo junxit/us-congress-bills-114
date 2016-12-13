@@ -35,7 +35,7 @@ Section 5(n) of the Federal Trade Commission Act (15 U.S.C. 45(n)) is amended to
 
 ## § 3. Time limitation for consent orders
 
-- **(a)** *Amendment* Section 5 of the Federal Trade Commission Act (15 U.S.C. 45) is amended by adding at the end the following new subsection:
+- **(a)** *Amendment* Section 5 of the Federal Trade Commission Act (15 U.S.C. 45) is amended by adding at the end the following new subsections:
   > - **(o)** *Termination clause required for consent orders* Any consent order entered into by the Commission relating to alleged unfair or deceptive acts or practices by the person, partnership, or corporation, subject to the consent order shall include a termination clause that the consent order shall expire not later than 8 years after the date on which the consent order is entered into, unless the consent order relates to alleged fraud by the person, partnership, or corporation subject to the consent order or requires a time limit longer than 8 years based on the factors described in this subsection. In determining the time limit for any termination clause, the Commission shall consider each of the following factors:
   >   - **(1)** The impact of technological progress on the continuing relevance of the consent order.
   >   - **(2)** Whether there is reason to believe that the person, partnership, or corporation would continue to engage in activities that violate this section without the consent order.
@@ -67,11 +67,15 @@ The Federal Trade Commission Act (15 U.S.C. 41 et seq.) is amended by inserting 
 
 > ## § 6A. Economic analysis required
 >
-> - **(a)** *In general* Except as provided in subsection (b), the Commission may not publish a recommendation for legislative or regulatory action without publishing the economic analysis or advice prepared by the Bureau of Economics of the Commission relating to such recommendation. If no such economic analysis or advice was prepared, the Commission shall indicate, in writing as part of the recommendation, that no such analysis or advice was given.
+> - **(a)** *In general* Except as provided in subsection (b), the Commission may not publish a recommendation for legislative or regulatory action unless—
+>   - **(1)** the Commission publishes any economic analysis or advice prepared by the Bureau of Economics of the Commission relating to such recommendation; or
+>   - **(2)** if no such economic analysis or advice was prepared, the Commission indicates, in writing as part of such recommendation, that no such analysis or advice was given.
 > - **(b)** *Exception* The requirement in subsection (a) shall not apply if—
 >   - **(1)** the recommendation for legislative or regulatory action is made as part of an appearance by a Commissioner before Congress;
->   - **(2)** the recommendation is made to a State or local government entity; or
->   - **(3)** the recommendation is requested by and submitted to any member or committee of Congress, including the Committee on Energy and Commerce of the House of Representatives.
+>   - **(2)** the recommendation is made to a State or local government entity;
+>   - **(3)** the recommendation is requested by and submitted to any member or committee of Congress, including the Committee on Energy and Commerce of the House of Representatives;
+>   - **(4)** the recommendation is submitted to another Federal agency in response to a notice of proposed rulemaking, including comments to the Federal Communications Commission; or
+>   - **(5)** the recommendation is submitted to the United Kingdom, the European Union or members thereof, including recommendations to the European Parliament, the European Commission, or any data protection authorities of any member state with regard to cross-border data flows and other privacy and data security matters.
 
 ## § 6. Effects of guidelines, general statements of policy, and similar guidance
 
@@ -132,7 +136,7 @@ The Federal Trade Commission Act (15 U.S.C. 41 et seq.) is amended by inserting 
     > - **(3)** Any plans to develop guidelines or other non-regulatory guidance documents.
     > - **(4)** Any plans to restructure the Commission or establish or alter working groups.
     > - **(5)** Any planned projects or initiatives of the Commission, including workshops, conferences, and reports.
-    > - **(6)** With respect to any activities of the Commission, including workshops, conferences, reports, working groups, guidance documents, or rule­mak­ings, that relate specifically to combating unfair or deceptive acts or practices that target or significantly affect individuals who are 65 years of age or older, a description of how such activities will address such acts or practices.
+    > - **(6)** With respect to any activities of the Commission, including workshops, conferences, reports, working groups, guidance documents, or rulemakings, that relate specifically to combating unfair or deceptive acts or practices that target or significantly affect individuals who are 65 years of age or older, a description of how such activities will address such acts or practices.
     > - **(7)** Projected dates and timelines associated with any of the required disclosures in this section.
     >
     > ## § 29. Report on elder fraud required

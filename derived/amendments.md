@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5510
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 45` | amend | Section 5(n) of the Federal Trade Commission Act (15 U.S.C. 45(n)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 45` | add-at-end | Section 5 of the Federal Trade Commission Act (15 U.S.C. 45) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 45` | add-at-end | Section 5 of the Federal Trade Commission Act (15 U.S.C. 45) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 45` | add-at-end | Section 5 of the Federal Trade Commission Act (15 U.S.C. 45), as amended by section 3, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 41` | insert | The Federal Trade Commission Act (15 U.S.C. 41 et seq.) is amended by inserting after section 6 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 57a` | add-at-end | Section 18(a) of the Federal Trade Commission Act (15 U.S.C. 57a(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
