@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2285
 congress: 114
-version: Referred in Senate
+version: Reported in House
 ---
 
 # H.R. 2285

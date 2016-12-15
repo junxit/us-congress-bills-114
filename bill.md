@@ -2,7 +2,7 @@
 legis-num: H.R. 2285
 congress: 114th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2285
@@ -50,7 +50,7 @@ The Secretary of Homeland Security shall ensure that the heads of all components
 
 ## § 6. Report
 
-Not later than 1 year after the date of the enactment of this Act and 3 years thereafter, the Commissioner of U.S. Customs and Border Protection and the Commissioner of U.S. Immigration and Customs Enforcement shall jointly submit to the Committee on Ways and Means and the Committee on Homeland Security of the House of Representatives and the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate a report on—
+Not later than one year after the date of the enactment of this Act and three years thereafter, the Commissioner of U.S. Customs and Border Protection and the Commissioner of U.S. Immigration and Customs Enforcement shall jointly submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a report on—
 
 - **(1)** the progress of the implementation of this Act; and
 - **(2)** other actions to enhance and unify efforts to interdict, detain, seize, and investigate cultural property illegally imported into the United States, and investigate, disrupt, and dismantle smuggling and trafficking networks engaged in, conspiring to engage in, or facilitating the illegal importation of cultural property.
