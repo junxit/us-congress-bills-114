@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 16 executed, 16 stated and not applied.
+38 amendatory instructions. 18 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,7 +44,16 @@ to guess them.
 
 ### 15 U.S.C. § 638
 
-> in clause (v), by striking “for fiscal year 2016 and each fiscal year thereafter.” and inserting “for each of fiscal years 2016 and 2017;”; and
+> Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)) is amended by striking “2017” and inserting “2022”.
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2022` |
+
+### 15 U.S.C. § 638
+
+> in clause (v), by striking “for fiscal year 2016 and each fiscal year thereafter.” and inserting “for each of fiscal years 2016 and 2017;” ; and
 
 | | |
 |---|---|
@@ -89,12 +98,12 @@ to guess them.
 
 ### 15 U.S.C. § 638
 
-> in paragraph (3)(C), by striking “to require agencies to report to the Administration, not less frequently than annually, all instances in which an” and inserting “to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instances in which the”;
+> in paragraph (3)(C), by striking “to require agencies to report to the Administration, not less frequently than annually, all instances in which an” and inserting “to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instance in which the”;
 
 | | |
 |---|---|
 | Removed | `to require agencies to report to the Administration, not less frequently than annually, all instances in which an` |
-| Inserted | `to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instances in which the` |
+| Inserted | `to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instance in which the` |
 
 ### 15 U.S.C. § 638
 
@@ -113,6 +122,15 @@ to guess them.
 |---|---|
 | Removed | `submit` |
 | Inserted | `not later than March 30 of each year, submit` |
+
+### 15 U.S.C. § 638
+
+> in subsection (dd)(4)(A), by striking “and submit” and inserting “and, not later than March 30 of each year, submit”;
+
+| | |
+|---|---|
+| Removed | `and submit` |
+| Inserted | `and, not later than March 30 of each year, submit` |
 
 ### 15 U.S.C. § 638
 
@@ -182,14 +200,18 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 638` | insert | by inserting after subparagraph (I) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | strike | in clause (iv), by striking the “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 638` | replace | in subsection (dd)(4)(A), by striking “and submit” inserting “and, not later than March 30 of each year, submit”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `15 U.S.C. § 638` | insert | in subsection (ii) by inserting “, not later than March 30 of each year,” after “shall”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 638` | insert | in subsection (mm)(6), by inserting “, not later than June 30 of each year,” after “shall”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 638` | insert | by inserting “, not later than March 30 of each year,” after “shall”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 638` | add-at-end | Section 9(mm) of the Small Business Act (15 U.S.C. 638(mm)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | strike | by striking subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 638` | redesignate | by redesignating subparagraphs (E) through (I) as subparagraphs (D) through (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | redesignate | by redesignating subparagraphs (E) through (I) as subparagraphs (D) through (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | amend | in clause (vii), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 638` | strike | in clause (viii), by striking the “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | strike | in clause (viii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 638` | strike | by striking clause (ix); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | add-at-end | Section 9(j) of the Small Business Act (15 U.S.C. 638(j)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | add-at-end | Section 9(p) of the Small Business Act (15 U.S.C. 638(p)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 5, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | amend | Section 9(mm)(2) of the Small Business Act (15 U.S.C. 638(mm)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | strike | Section 9(mm)(6) of the Small Business Act (15 U.S.C. 638(mm)(6)) is amended by striking “(A) and any use of the waiver authority under paragraph (2)(B)”. | the bill quotes the text struck but describes what replaces it |

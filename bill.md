@@ -17,6 +17,7 @@ This Act may be cited as the “Commercializing on Small Business Innovation Act
 
 - **(a)** *SBIR* Section 9(m) of the Small Business Act (15 U.S.C. 638(m)) is amended by striking “2017” and inserting “2022”.
 - **(b)** *STTR* Section 9(n)(1)(A) of the Small Business Act (15 U.S.C. 638(n)(1)(A)) is amended by striking “2017” and inserting “2022”.
+- **(c)** *Administrative funding* Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)) is amended by striking “2017” and inserting “2022”.
 
 ## § 3. Required expenditure amounts
 
@@ -32,7 +33,7 @@ This Act may be cited as the “Commercializing on Small Business Innovation Act
 
 - **(b)** *STTR* Section 9(n)(1)(B) of the Small Business Act (15 U.S.C. 638(n)(1)(B)) is amended—
   - **(1)** in clause (iv), by striking the “and” at the end;
-  - **(2)** in clause (v), by striking “for fiscal year 2016 and each fiscal year thereafter.” and inserting “for each of fiscal years 2016 and 2017;”; and
+  - **(2)** in clause (v), by striking “for fiscal year 2016 and each fiscal year thereafter.” and inserting “for each of fiscal years 2016 and 2017;” ; and
   - **(3)** by adding at the end the following new clauses:
     > - **(vi)** 0.50 percent for each of fiscal years 2018 and 2019;
     > - **(vii)** 0.55 percent for each of fiscal years 2020 and 2021; and
@@ -41,21 +42,28 @@ This Act may be cited as the “Commercializing on Small Business Innovation Act
 ## § 4. Reporting requirements
 
 - **(a)** *Annual report to Congress* Section 9(b)(7) of the Small Business Act (15 U.S.C. 638(b)(7)) is amended by striking “to report not less than annually” and inserting “to submit a report not later than December 31 of each year”.
-- **(b)** *Annual reports to the Administrator required To be submitted not later than March 30 of each year* Section 9 of the Small Business Act (15 U.S.C. 638) is amended—
+- **(b)** *Annual reports to the Administrator required to be submitted not later than March 30 of each year* Section 9 of the Small Business Act (15 U.S.C. 638) is amended—
   - **(1)** in subsection (g)(9), by striking “make an annual report” and inserting “not later than March 30 of each year, submit a report”;
   - **(2)** in subsection (i)(1), by striking “shall report annually to the Small Business Administration” and inserting “shall, not later than March 30 of each year, submit a report to the Small Business Administration that includes”;
   - **(3)** in subsection (j)—
     - **(A)** in paragraph (1)(E), by striking “simplified, standardized, and timely annual report” and inserting “not later than March 30 of each year, a simplified and standardized report”; and
-    - **(B)** in paragraph (3)(C), by striking “to require agencies to report to the Administration, not less frequently than annually, all instances in which an” and inserting “to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instances in which the”;
+    - **(B)** in paragraph (3)(C), by striking “to require agencies to report to the Administration, not less frequently than annually, all instances in which an” and inserting “to require each agency, not later than March 30 of each year, to submit a report to the Administration on all instance in which the”;
   - **(4)** in subsection (o)(10), by striking “submit an annual report” and inserting “not later than March 30 of each year, submit a report”;
   - **(5)** in subsection (y)(6)(C), by striking “submit” and inserting “not later than March 30 of each year, submit”;
-  - **(6)** in subsection (dd)(4)(A), by striking “and submit” inserting “and, not later than March 30 of each year, submit”;
+  - **(6)** in subsection (dd)(4)(A), by striking “and submit” and inserting “and, not later than March 30 of each year, submit”;
   - **(7)** in subsection (gg)(6), by striking “include in the annual” and inserting “include, not later than March 30 of each year, a”;
   - **(8)** in subsection (ii) by inserting “, not later than March 30 of each year,” after “shall”;
-  - **(9)** in subsection (nn)(3)(A)—
+  - **(9)** in subsection (mm)(6), by inserting “, not later than June 30 of each year,” after “shall”;
+  - **(10)** in subsection (nn)(3)(A)—
     - **(A)** by striking “an annual” and inserting “a” ; and
     - **(B)** by inserting “, not later than March 30 of each year,” after “shall”; and
-  - **(10)** in subsection (ss), by striking “October 1, 2013, and annually thereafter,” and inserting “March 30 of each year,”.
+  - **(11)** in subsection (ss), by striking “October 1, 2013, and annually thereafter,” and inserting “March 30 of each year,”.
+- **(c)** *Failure to report administrative funds* Section 9(mm) of the Small Business Act (15 U.S.C. 638(mm)) is amended by adding at the end the following new paragraph:
+  > - **(7)** *Failure to report administrative funds*
+  >   - **(A)** *In general* Not later than March 30 following each fiscal year for which funds are authorized to be used by a Federal agency under paragraph (1), the Federal agency shall submit a report to the Administrator that identifies how the Federal agency used such funds during such fiscal year.
+  >   - **(B)** *Failure to submit a report* If a Federal agency fails to submit a report required under subparagraph (A), paragraph (1) shall not apply to such Federal agency unless—
+  >     - **(i)** such report is submitted; and
+  >     - **(ii)** such Federal agency submits an additional report to the Administrator that identifies how such Federal agency plans to ensure timely reporting under this paragraph.
 
 ## § 5. Indexing awards for inflation
 
@@ -63,11 +71,11 @@ Section 9 of the Small Business Act (15 U.S.C. 638) is amended—
 
 - **(1)** in subsection (j)(2)—
   - **(A)** by striking subparagraph (D);
-  - **(B)** by redesignating subparagraphs (E) through (I) as subparagraphs (D) through (H); and
+  - **(B)** by redesignating subparagraphs (E) through (I) as subparagraphs (D) through (H), respectively; and
   - **(C)** in subparagraph (H), as so redesignated, by striking “subparagraph (H)” and inserting “subparagraph (G)”;
 - **(2)** in subsection (p)(2)(B)—
   - **(A)** in clause (vii), by adding “and” at the end;
-  - **(B)** in clause (viii), by striking the “and” at the end; and
+  - **(B)** in clause (viii), by striking “and” at the end; and
   - **(C)** by striking clause (ix);
 - **(3)** in subsection (gg)(3), by striking “awards under subsection (j)(2)(D) or (p)(2)(B)(ix).” and inserting “awards under subsection (tt)(2).”; and
 - **(4)** by adding at the end the following new subsection:
@@ -87,3 +95,58 @@ Section 9(y)(5) of the Small Business Act (15 U.S.C. 638(y)(5)) is amended by st
 
 - **(b)** *STTR* Section 9(p) of the Small Business Act (15 U.S.C. 638(p)) is amended by adding at the end the following new paragraph:
   > - **(4)** *Modification to clarify eligibility of certain small businesses* Not later than 180 days after the date of the enactment of the Commercializing on Small Business Innovation Act of 2016, the Administrator shall modify the policy directives issued pursuant to this subsection to clarify that the small business concerns described in subparagraphs (B), (C), and (D) of section 3(p)(3) are eligible to receive awards under the STTR program.
+
+## § 8. Commercialization Assistance Pilot Program
+
+Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 5, is further amended by adding at the end the following new subsection:
+
+> - **(uu)** *Commercialization Assistance Pilot Programs*
+>   - **(1)** *Pilot programs implemented*
+>     - **(A)** *In general* Except as provided in subparagraph (B), not later than one year after the date of the enactment of Commercializing on Small Business Innovation Act of 2016, a covered agency shall implement a commercialization assistance pilot program to award eligible entities with a second sequential SBIR award.
+>     - **(B)** *Exception* If the Administrator determines that a covered agency has a program that is sufficiently similar to a commercialization assistance pilot program, such agency shall not be required to implement a commercialization assistance pilot program under subparagraph (A).
+>     - **(C)** *Percent of agency funds* A covered agency may not use more than 5 percent of its total SBIR budget for awards under the commercialization assistance pilot program.
+>     - **(D)** *Termination* The commercialization assistance pilot programs shall terminate on September 30, 2022.
+>   - **(2)** *Matching Requirement*
+>     - **(A)** *In general* The Administrator shall require as a condition of any award made to an eligible entity under a commercialization assistance pilot program, that a matching amount (excluding any fees collected from recipients of such assistance) equal to the amount of such award be provided from an eligible third-party investor, before the end of the commercialization assistance pilot program award.
+>     - **(B)** *Ineligible funding* An eligible entity may not use funding from ineligible sources to meet the matching requirement of subparagraph (A).
+>   - **(3)** *Award*
+>     - **(A)** *Size of award* An award under this subsection may not exceed the limitations in subsection (aa)(1).
+>     - **(B)** *Timing* Awards provided under the commercialization assistance pilot program shall be distributed during the Phase II award period of the recipient eligible entity.
+>   - **(4)** *Application* In order to be selected to receive a second sequential SBIR award under a commercialization assistance pilot program, an eligible entity shall submit to the covered agency implementing such pilot program—
+>     - **(A)** an application at such time, in such manner, and containing such information as the covered agency may require; and
+>     - **(B)** the source and amount of the matching funding required under paragraph (2).
+>   - **(5)** *Use of Funds* The funds awarded under a commercialization assistance pilot program may only be used for research and development activities that build on the eligible entity’s Phase II program and catalyze acceleration towards commercialization.
+>   - **(6)** *Determination of recipients* In determining which applicants receive awards under the commercialization assistance pilot program, the head of a covered agency shall consider—
+>     - **(A)** the extent to which the supplemental funds awarded under the pilot program could aid the applicant commercialize its research;
+>     - **(B)** whether the proposed plan provides a sound approach for establishing technical feasibility that could lead to commercialization;
+>     - **(C)** whether the proposed activity reflect changes to the Phase II commercialization plan that further improves the chances of conversion of research in order to provide societal benefits;
+>     - **(D)** whether the small business concern has progressed satisfactorily in the Phase II activity to justify additional funding;
+>     - **(E)** the expectations of the third-party funding; and
+>     - **(F)** the likelihood that the third-party funded activity will lead to commercial and societal benefit.
+>   - **(7)** *Evaluation Report* Not later than 3 years after the date of the enactment of Commercializing on Small Business Innovation Act of 2016, the Comptroller General of the United States shall submit to the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate an evaluative report that includes—
+>     - **(A)** a summary of the activities of the commercialization assistance pilot programs;
+>     - **(B)** a detailed compilation of results achieved by the commercialization assistance pilot programs, including the number of small business concerns that received awards under the pilot program;
+>     - **(C)** the rate at which the recipients under the pilot program commercialized their research;
+>     - **(D)** the growth in employment and revenue of companies that participated in the pilot program;
+>     - **(E)** a comparison of commercialization success of pilot program participants and recipients of a non-matching sequential Phase II award;
+>     - **(F)** demographic information such as ethnicity and geographic location of participant companies;
+>     - **(G)** an accounting of the funds used at each participating agency in the pilot program;
+>     - **(H)** a distribution of third-party funding by source;
+>     - **(I)** an analysis of the program’s effectiveness at each participating agency; and
+>     - **(J)** recommendations for improvement to the pilot program, in the case that Congress were to make it permanent.
+>   - **(8)** *Definitions* For purposes of this subsection:
+>     - **(A)** *Covered agency* The term “covered agency” means a Federal agency required to have an SBIR program.
+>     - **(B)** *Eligible entity* The term “eligible entity” means a small business concern that has received a Phase II award and a Phase II sequential award from the covered agency to which such entity is applying for a second sequential SBIR award.
+>     - **(C)** *Eligible third-party investor* The term “eligible third-party investors” means a small business concern other than the eligible entity, a venture capital firm, an individual investor, a non-SBIR Federal, State or local government, or any combination thereof.
+>     - **(D)** *Ineligible sources* The term “ineligible sources” means the following:
+>       - **(i)** The awardee’s internal research and development funds.
+>       - **(ii)** Funding in forms other than cash such as in-kind or other intangible assets.
+>       - **(iii)** Funding from the owners of the eligible entity, or the family members or affiliates of such owners.
+>       - **(iv)** Funding attained through loans or other forms of debt obligations.
+
+## § 9. Increased underserved population participation waiver removed
+
+- **(a)** *In general* Section 9(mm)(2) of the Small Business Act (15 U.S.C. 638(mm)(2)) is amended to read as follows:
+  > - **(2)** *Outreach and technical assistance* A Federal agency participating in the program under this subsection shall use a portion of the funds authorized for uses under paragraph (1) to carry out the policy directive required under subsection (j)(2)(F) and to increase the participation of States with respect to which a low level of SBIR awards have historically been awarded.
+
+- **(b)** *Conforming amendment* Section 9(mm)(6) of the Small Business Act (15 U.S.C. 638(mm)(6)) is amended by striking “(A) and any use of the waiver authority under paragraph (2)(B)”.
