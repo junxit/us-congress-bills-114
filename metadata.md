@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2045
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2045
@@ -16,13 +16,15 @@ Targeting Rogue and Opaque Letters Act of 2015
 
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
 
 ## Committees (1)
 
@@ -34,3 +36,9 @@ Targeting Rogue and Opaque Letters Act of 2015
 - 2015-04-28 — Introduced in House
 - 2015-04-28 — Introduced in House
 - 2015-04-28 — Referred to the House Committee on Energy and Commerce.
+- 2015-04-29 — Committee Consideration and Mark-up Session Held.
+- 2015-04-29 — Ordered to be Reported by the Yeas and Nays: 30 - 22.
+- 2015-05-01 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2016-12-16 — Placed on the Union Calendar, Calendar No. 688.
+- 2016-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 114-877.
+- 2016-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 114-877.
