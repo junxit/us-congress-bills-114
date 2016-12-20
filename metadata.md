@@ -1,7 +1,7 @@
 ---
 measure: S. 2916
 congress: 114
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2916
@@ -28,3 +28,8 @@ A bill to provide that the pueblo of Santa Clara may lease for 99 years certain 
 
 - 2016-05-10 — Introduced in Senate
 - 2016-05-10 — Read twice and referred to the Committee on Indian Affairs.
+- 2016-05-18 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-347.
+- 2016-06-08 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2016-12-20 — Committee on Indian Affairs. Reported by Senator Barrasso under authority of the order of the Senate of 12/10/2016 without amendment. With written report No. 114-431.
+- 2016-12-20 — Committee on Indian Affairs. Reported by Senator Barrasso under authority of the order of the Senate of 12/10/2016 without amendment. With written report No. 114-431.
+- 2016-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 727.
