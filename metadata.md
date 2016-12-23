@@ -1,7 +1,7 @@
 ---
 measure: H.R. 68
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 68
@@ -25,3 +25,9 @@ Tiffany Joslyn Juvenile Accountability Block Grant Program Reauthorization Act o
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Introduced in House
 - 2015-01-06 — Referred to the House Committee on the Judiciary.
+- 2015-02-02 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2016-07-13 — Committee Consideration and Mark-up Session Held.
+- 2016-07-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-12-23 — Placed on the Union Calendar, Calendar No. 700.
+- 2016-12-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-890.
+- 2016-12-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-890.
