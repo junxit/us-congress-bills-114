@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 320
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,43 +11,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Rapid DNA Act of 2015”.
+This Act may be cited as the “Rapid DNA Act of 2016”.
 
-## § 2. Definitions
+## § 2. Rapid DNA instruments
 
-The DNA Identification Act of 1994 (42 U.S.C. 14132) is amended by inserting at the end the following:
+- **(a)** *Standards* Section 210303(a) of the DNA Identification Act of 1994 (42 U.S.C. 14131(a)) is amended by adding at the end the following:
+  > - **(5)**
+  >   - **(A)** In addition to issuing standards as provided in paragraphs (1) through (4), the Director of the Federal Bureau of Investigation shall issue standards and procedures for the use of Rapid DNA instruments and resulting DNA analyses.
+  >   - **(B)** In this Act, the term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
 
-> ## § __. Definitions
->
-> - **(1)** The term “reference DNA sample” means a tissue, fluid, or other bodily sample of an individual on which a DNA analysis can be carried out.
-> - **(2)** The term “DNA analysis” means analysis of the deoxyribonucleic acid (DNA) identification information from a bodily sample.
-> - **(3)** The term “sample-to-answer DNA analysis systems” means fully automated systems that after input of a DNA sample can perform all necessary sample preparation and analysis with no operator intervention.
-> - **(4)** The term “qualified agencies” means booking stations, jails, prisons, detention centers, other law enforcement organizations, and facilities outside of forensic laboratories that can perform DNA analysis using sample-to-answer DNA systems on subjects meeting current legislative guidelines.
-> - **(5)** The term “operators” means persons trained to operate a sample-to-answer DNA system.
+- **(b)** *Index* Paragraph (2) of section 210304(b) of the DNA Identification Act of 1994 (42 U.S.C. 14132(b)(2)) is amended to read as follows:
+  > - **(2)** prepared by—
+  >   - **(A)** laboratories that—
+  >     - **(i)** have been accredited by a nonprofit professional association of persons actively involved in forensic science that is nationally recognized within the forensic science community; and
+  >     - **(ii)** undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; or
+  >   - **(B)** criminal justice agencies using Rapid DNA instruments approved by the Director of the Federal Bureau of Investigation in compliance with the standards and procedures issued by the Director under section 210303(a)(5); and
 
-## § 3. Revised quality assurance and proficiency testing standards
+## § 3. Conforming amendments relating to collection of DNA identification information
 
-Section 210303 of the DNA Identification Act of 1994 (42 U.S.C. 14131) is amended—
+- **(a)** *From certain Federal offenders* Section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a) is amended—
+  - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
+  - **(2)** in subsection (c), by adding at the end the following:
+    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
 
-- **(1)** in subsection (a)(1)(B), by inserting after “Technology” the following: “, and members from Federal, State, and local law enforcement agencies.”;
-- **(2)** in subsection (a)(1)(C), by inserting after “DNA” the following: “and separate standards for testing the proficiency of qualified agencies, and operators, in conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”;
-- **(3)** in subsection (a)(2), by inserting after “DNA” the following: “DNA and separate standards for testing the proficiency of qualified agencies, and operators, in conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”;
-- **(4)** in subsection (a)(3), by inserting after “used by forensic laboratories” the following: “and by qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”; and by inserting after “determine whether a laboratory” the following: “, or agency,”;
-- **(5)** in subsection (a)(4), by inserting after “for purposes of this section” the following: “, and for qualified agencies the quality assurance guidelines recommended by the scientific working group on DNA analysis methods.”;
-- **(6)** in subsection (c)(1)(A), by inserting after “forensic DNA analyses” the following: “; and qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”;
-- **(7)** in subsection (c)(1)(B), by inserting after “forensic DNA analyses” the following: “; and for qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”;
-- **(8)** in subsection (c)(1)(C), by inserting after “forensic DNA analyses” the following: “; and qualified agencies conducting analyses of DNA samples using sample-to-answer DNA analysis systems.”; and
-- **(9)** in subsection (c)(2), by inserting after “routine evidence” the following: “; and for qualified agencies the term “blind external proficiency test” means a test that is presented to qualified agencies through a second agency and appears to the operator to involve routine DNA samples for sample-to-answer DNA analysis systems.”.
-
-## § 4. Qualifying agencies
-
-Section 210304 of the DNA Identification Act of 1994 (42 U.S.C. 14132) is amended—
-
-- **(1)** in subsection (b)(2), by inserting after “laboratories” the following: “or qualified agencies”;
-- **(2)** in subsection (b)(2)(A), by striking “; and” at the end and inserting a semicolon; and
-- **(3)** in subsection (b)(2), by inserting the following new subparagraph:
-  > - **(C)** are a qualifying agency engaged in the intake, processing, booking, detention, or incarceration of individuals charged or convicted of qualifying offenses and the analysis of DNA samples is conducted on a sample-to-answer DNA analysis system; and
-
-## § 5. District of Columbia DNA analysis
-
-Section ____ of the DNA Identification Act of 1994 (42 U.S.C. 14135b) is amended in subsection (b), by inserting after “the DNA shall be analyzed” the following: “on a sample-to-answer DNA analysis system”.
+- **(b)** *From certain District of Columbia offenders* Section 4 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135b) is amended—
+  - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
+  - **(2)** in subsection (c), by adding at the end the following:
+    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
