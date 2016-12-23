@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3713
 congress: 114th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,14 +28,8 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
       - **(ii)** by striking “after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release” and inserting the following: “after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years”; and
     - **(B)** in subparagraph (B), in the flush text following clause (viii), by striking “If any person commits such a violation after a prior conviction for a felony drug offense has become final” and inserting the following: “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final”; and
   - **(3)** by adding at the end of section 401(b) (21 U.S.C. 841(b)) the following:
-    > - **(8)** In the case of a violation of subsection (a), if the mixture or substance containing a detectable amount of heroin also contains a detectable amount of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide or any analogue of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide, then a court shall—
-    >   - **(A)** not impose a term of probation;
-    >   - **(B)** in addition to the term of punishment for the violation of this section, impose a term of imprisonment not to exceed 5 years; and
-    >   - **(C)** no term of imprisonment imposed on a person under subparagraph (B) shall run concurrently with any term of imprisonment imposed on the person under any other provision of law.
-    > - **(9)** In the case of a violation of subsection (a), if the mixture or substance containing a detectable amount of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide or any analogue of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide was represented to be or sold as heroin, then a court shall—
-    >   - **(A)** not impose a term of probation;
-    >   - **(B)** in addition to the term of punishment for the violation of this section, impose a term of imprisonment not to exceed 5 years; and
-    >   - **(C)** no term of imprisonment imposed on a person under subparagraph (B) shall run concurrently with any term of imprisonment imposed on the person under any other provision of law.
+    > - **(8)** In the case of a violation of subsection (a), if the mixture or substance containing a detectable amount of heroin also contains a detectable amount of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide or any analogue of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide, then a court shall, in addition to the term of punishment for the violation of this section, impose a term of imprisonment not to exceed 5 years, which shall not run concurrently with any term of imprisonment imposed on the person under any other provision of law.
+    > - **(9)** In the case of a violation of subsection (a), if the mixture or substance containing a detectable amount of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide or any analogue of N-phenyl-N-[ 1-(2-phenylethyl) -4-piperidinyl] propanamide was represented to be or sold as heroin, then a court shall , in addition to the term of punishment for the violation of this section, impose a term of imprisonment not to exceed 5 years, which shall not run concurrently with any term of imprisonment imposed on the person under any other provision of law.
 
 - **(b)** *Controlled substances Import and Export Act amendments* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
   - **(1)** in paragraph (1), in the flush text following subparagraph (H), by striking “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years” and inserting “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years”;
@@ -56,7 +50,7 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
     - **(A)** *General rule* In the case of a defendant (other than a defendant with a prior conviction for a qualifying serious violent felony) who, before the date of enactment of this Act, was convicted of an offense for which the penalty is amended by this section and who was sentenced to a term of imprisonment for the offense, the sentencing court may, on motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, upon prior notice to the Government, reduce the term of imprisonment for the offense, after considering the factors set forth in section 3553(a) of title 18, United States Code, the nature and seriousness of the danger to any person or the community, and the post-sentencing conduct of the defendant, if such a reduction is consistent with this section and the amendments made by this section.
     - **(B)** *Definition* In this paragraph the term “qualifying serious violent felony” means an offense that—
       - **(i)** is a serious violent felony as that term is defined in section 102(58) of the Controlled Substances Act; and
-      - **(ii)** the conviction carries 3 or more criminal history points as determined under the United States Sentencing Guidelines.
+      - **(ii)** carries 3 or more criminal history points as determined under the United States Sentencing Guidelines.
 
 ## § 3. Broadening of existing safety valve
 
@@ -64,7 +58,7 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
   - **(1)** in subsection (f), by striking paragraph (1) and inserting the following:
     > - **(1)** the defendant does not have—
     >   - **(A)** more than 4 criminal history points as determined under the sentencing guidelines;
-    >   - **(B)** a prior 3-point offense, as determined under the sentencing guidelines; and
+    >   - **(B)** a prior 3-point offense, as determined under the sentencing guidelines; or
     >   - **(C)** a prior 2-point drug trafficking or violent offense, as determined under the sentencing guidelines;
 
   - **(2)** by adding at the end the following:
@@ -79,7 +73,7 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
 
 ## § 4. Limitation on application of the 10-year mandatory minimum
 
-- **(a)** *Amendment* Section 3553 of title 18, United States Code, as amended by section 3, is amended by adding at the end the following:
+- **(a)** *Amendment* Section 3553 of title 18, United States Code, as amended by section 3, is further amended by adding at the end the following:
   > - **(i)** *Limitation on applicability of certain statutory minimums* Notwithstanding any other provision of law, in the case of a conviction under section 401 or 406 of the Controlled Substances Act (21 U.S.C. 841 and 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960 and 963) for which the statutory minimum term of imprisonment is 10 years, the court may impose a sentence as if the statutory minimum term of imprisonment was 5 years, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
   >   - **(1)** the defendant does not have a prior conviction for a serious drug felony or serious violent felony as defined in paragraphs (57) and (58), respectively, of section 102 of the Controlled Substances Act (21 U.S.C. 802) that was made final prior to the commission of the instant offense;
   >   - **(2)** the defendant did not use violence or credible threats of violence or possess a firearm or other dangerous weapon (or induce another participant to do so) in connection with the offense, and the offense did not result in death or serious bodily injury to any person;
@@ -111,7 +105,7 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
 
 - **(a)** *Amendments* Section 924 of title 18, United States Code, is amended—
   - **(1)** in subsection (a)(2), by striking “not more than 10 years” and inserting “not more than 15 years”; and
-  - **(2)** in subsection (e)(1), by striking “not less than 15 years” and inserting “not less than 10 years”.
+  - **(2)** in subsection (e)(1), by striking “not less than fifteen years” and inserting “not less than 10 years”.
 - **(b)** *Applicability to pending and past cases*
   - **(1)** *Pending cases* This section, and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act, if a sentence for the offense has not been imposed as of such date of enactment.
   - **(2)** *Past cases* In the case of a defendant (other than a defendant with a prior conviction for a serious violent felony, as defined in section 102(58) of the Controlled Substances Act) who, before the date of enactment of this Act, was convicted of an offense for which the penalty is amended by this section and was sentenced to a term of imprisonment for the offense, the sentencing court may, on motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, upon prior notice to the Government, reduce the term of imprisonment for the offense, after considering the factors set forth in section 3553(a) of title 18, United States Code, the nature and seriousness of the danger to any person or the community, and the post-sentencing conduct of the defendant, if such a reduction is consistent with this section and the amendments made by this section.
@@ -121,3 +115,18 @@ This Act may be cited as the “Sentencing Reform Act of 2015”.
 - **(a)** *Definition of covered offense* In this section, the term covered offense means a violation of a Federal criminal statute, the statutory penalties for which were modified by section 2 or 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372), that was committed before August 3, 2010.
 - **(b)** *Defendants previously sentenced* A court that imposed a sentence for a covered offense, may, on motion of the defendant, the Director of the Bureau of Prisons, the attorney for the Government, or the court, impose a reduced sentence as if sections 2 and 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) were in effect at the time the covered offense was committed.
 - **(c)** *Limitations* No court shall entertain a motion made under this section to reduce a sentence if the sentence was imposed or reduced to a sentence greater than the applicable mandatory minimum in accordance with the amendments made by sections 2 and 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372), or if a motion made pursuant to section 2 or 3 of the Fair Sentencing Act or under this section was denied by a court because a reduction in the defendant’s term of imprisonment would pose a danger to any person or the community or was denied by a court because of the defendant’s post-sentencing conduct. Nothing in this section shall require a court to reduce any sentence pursuant to this section.
+
+## § 8. Report on mandatory minimum sentencing provisions
+
+- **(a)** *Report* Not later than 1 year after the date of enactment of this Act, the Attorney General, in consultation with the United States Sentencing Commission, shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on mandatory minimum sentencing provisions under Federal law.
+- **(b)** *Contents of Report* The report submitted under subsection (a) shall include—
+  - **(1)** a compilation of all mandatory minimum sentencing provisions under Federal law;
+  - **(2)** an assessment of the effect of mandatory minimum sentencing provisions under Federal law on the goal of eliminating unwarranted sentencing disparity and other goals of sentencing;
+  - **(3)** an assessment of the impact of mandatory minimum sentencing provisions on the Federal prison population;
+  - **(4)** an assessment of the compatibility of mandatory minimum sentencing provisions under Federal law and the sentencing guidelines system established under the Sentencing Reform Act of 1984 (Public Law 98–473; 98 Stat. 1987) and the sentencing guidelines system in place after Booker v. United States, 543 U.S. 220 (2005);
+  - **(5)** a description of the interaction between mandatory minimum sentencing provisions under Federal law and plea agreements; and
+  - **(6)** any other information that the Attorney General, in consultation with the United States Sentencing Commission, determines would contribute to a thorough assessment of mandatory minimum sentencing provisions under Federal law.
+
+## § 9. Sense of Congress
+
+It is the sense of Congress that reform of the criminal justice system, in order to make it more effective, safe, humane, fiscally sustainable, and fair to victims, law enforcement, offenders, and the general public, requires the integration of a mental health component as part of a comprehensive reform strategy. This reform strategy should strive to identify those most in need of mental health services and employ best practices to provide emergency and crisis services, specialized law enforcement response training, court hearings for alternative dispositions, and appropriate community supervision support services.

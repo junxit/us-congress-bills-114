@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3713
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -59,8 +59,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 960` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | replace | in subsection (f), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | add-at-end | Section 3553 of title 18, United States Code, as amended by section 3, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 802` | add-at-end | Section 3553 of title 18, United States Code, as amended by section 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the matter preceding clause (i), by striking “second or subsequent conviction under this subsection” and inserting “violation of this subsection that occurs after a prior conviction under this subsection or under State law for a crime… | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “not less than 25 years” and inserting “not less than 15 years”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(2), by striking “not more than 10 years” and inserting “not more than 15 years”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e)(1), by striking “not less than 15 years” and inserting “not less than 10 years”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(1), by striking “not less than fifteen years” and inserting “not less than 10 years”. | the bill names no machine-readable US Code section |
