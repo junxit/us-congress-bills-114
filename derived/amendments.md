@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 114
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 0 executed, 32 stated and not applied.
+33 amendatory instructions. 0 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,6 +60,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (3) of section 983(c) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 983(d) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Paragraph (2)(A)(i) of section 983(d) of title 18, United States Code, is amended by inserting “or consent to” after “did not know of”. | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “or otherwise disproportional to the gravity of the offense” before the period at the end; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 5317(c) of title 31, United States Code, is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |

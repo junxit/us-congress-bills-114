@@ -30,7 +30,7 @@ Section 983(a) of title 18, United States Code, is amended—
     - **(iv)** in clause (iv), by striking “90 days” and inserting “60 days”;
     - **(v)** in clause (v), by striking “60 days” and inserting “30 days”; and
     - **(vi)** by adding at the end the following:
-      > - **(vi)** The notice under this subparagraph shall include an address, which shall also be widely published, at which the seizing agency can receive until 5 p.m. on any business day an interested party’s claim contesting a seizure or forfeiture. The interested party may send such a claim to that address by courier or overnight mail. For the purpose of determining compliance with any deadlines in filing such a claim, an interested party completes the filing by placing the communication making the claim in the control of an independent third delivery service such as a courier company or the United States mail. In determining whether any legal deadline for the filing of such a claim has been met a court shall allow for the equitable tolling of the deadline in appropriate cases.
+      > - **(vi)** The notice under this subparagraph shall include an address, which shall also be widely published, at which the seizing agency can receive until 5 p.m. on any business day an interested party’s claim contesting a seizure or forfeiture. The interested party may send such a claim to that address by courier or overnight mail. For the purpose of determining compliance with any deadlines in filing such a claim, an interested party completes the filing by placing the communication making the claim in the control of an independent third party delivery service such as a courier company or the United States mail. In determining whether any legal deadline for the filing of such a claim has been met a court shall allow for the equitable tolling of the deadline in appropriate cases.
       > - **(vii)** The seizing agency shall make publicly available for each nonjudicial forfeiture, with respect to which a request for mitigation or remission is made, a statement of the agency’s disposition of that request, redacted if necessary, including the reasons for the decision.
 
   - **(B)** in subparagraph (C)—
@@ -39,7 +39,7 @@ Section 983(a) of title 18, United States Code, is amended—
   - **(C)** by adding at the end the following:
     > - **(G)** Any notice described in subparagraph (A) that is provided to a party shall include notice of—
     >   - **(i)** the right of the party to request an initial hearing in accordance with paragraph (5);
-    >   - **(ii)** the right of the party to be represented by counsel at the initial hearing described in clause (i) and any civil forfeiture proceeding under a civil forfeiture statute;
+    >   - **(ii)** the right of the party to be represented by counsel at the initial hearing described in clause (i) and any civil forfeiture proceeding under a civil forfeiture statute; and
     >   - **(iii)** the right of the party to request that the party be represented by counsel at the initial hearing described in clause (i) and any civil forfeiture proceeding under a civil forfeiture statute if the party meets the requirements described in subsection (b).
 
   - **(D)** by striking “nonjudicial” each place it appears;
@@ -69,7 +69,7 @@ Section 983(a) of title 18, United States Code, is amended—
   >       - **(II)** if the property was seized without a warrant described in subclause (I)—
   >         - **(aa)** sufficiently detailed facts regarding the seizure of the property; and
   >         - **(bb)** an exception described in subparagraphs (A) and (B) of section 981(b)(2) applies to the seizure of the property.
-  >   - **(D)** The magistrate judge shall enter an order for the immediate release of the seized property with prejudice to the right of the Government to commence a forfeiture proceeding at a later time if the magistrate judge finds that—
+  >   - **(D)** The magistrate judge shall enter an order for the immediate release of the seized property with prejudice to the right of the Government to commence a civil forfeiture proceeding at a later time if the magistrate judge finds that—
   >     - **(i)** the requirements described in subparagraphs (A) through (E) of subsection (f)(1) are met; and
   >     - **(ii)** the Government did not meet the burden of proof described in subparagraph (C)(ii).
 
@@ -141,7 +141,7 @@ Section 2465(b) of title 28, United States Code, is amended—
 
 ## § 7. Annual audit of civil forfeitures
 
-The Inspector General shall annually conduct an audit of a representative sample of Federal civil forfeitures under statutes described in section 983(i) of title 18, United States Code, to ensure those forfeitures are constitutionally sound and consistent with the letter and spirit of the law. The Inspector General shall report the results of the audit to the Attorney General and to Congress. Such report shall also include the fiscal status of the Asset Forfeiture Fund, including any projected growth or shrinking of the Fund in future years, and the viability of the fund.
+The Inspector General shall annually conduct an audit of a representative sample of Federal civil forfeitures under statutes described in section 983(i) of title 18, United States Code, to ensure those forfeitures are constitutionally sound and consistent with the letter and spirit of the law. The Department of Justice Inspector General shall report the results of the audit to the Attorney General and to Congress. Such report shall also include the fiscal status of the Asset Forfeiture Fund and Treasury Forfeiture Fund, including any projected growth or shrinking of the Funds in future years, and the viability of the Funds.
 
 ## § 8. Publicly available databases
 
@@ -160,6 +160,7 @@ The Inspector General shall annually conduct an audit of a representative sample
     - **(K)** Whether the innocent owner made a claim on the property.
     - **(L)** The total expenses associated with the forfeiture.
     - **(M)** The total net proceeds of the forfeiture.
+    - **(N)** Demographic information on the person or persons subject to the seizure.
   - **(2)** A statistical breakdown for each agency of the cases of remission and mitigation, including—
     - **(A)** the numbers of requests for remission and mitigation that were—
       - **(i)** fully granted;
@@ -186,10 +187,13 @@ The Inspector General shall annually conduct an audit of a representative sample
   >   - **(B)** the owner of any interest in the seized property—
   >     - **(i)** intentionally used the property in connection with the offense;
   >     - **(ii)** knowingly consented to the use of the property by another in connection with the offense; or
-  >     - **(iii)** should have reasonably known that the property was being used in connection with the offense.
+  >     - **(iii)** knew that the property was being used in connection with the offense.
 
-- **(b)** *Innocent owner defense* Paragraph (1) of section 983(d) of title 18, United States Code, is amended to read as follows:
-  > - **(1)** An innocent owner’s interest in property shall not be forfeited under any civil forfeiture statute. The Government shall have the burden of proving that the claimant is not an innocent owner by clear and convincing evidence.
+- **(b)** *Innocent owner defense*
+  - **(1)** *Section 983(d)(1)* Paragraph (1) of section 983(d) of title 18, United States Code, is amended to read as follows:
+    > - **(1)** An innocent owner’s interest in property shall not be forfeited under any civil forfeiture statute. The Government shall have the burden of proving that the claimant is not an innocent owner by clear and convincing evidence.
+
+  - **(2)** *Section 983(d)(2)(A)(i)* Paragraph (2)(A)(i) of section 983(d) of title 18, United States Code, is amended by inserting “or consent to” after “did not know of”.
 
 ## § 10. Proportionality
 

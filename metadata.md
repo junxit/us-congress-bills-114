@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5283
@@ -16,7 +16,7 @@ Deterring Undue Enforcement by Protecting Rights of Citizens from Excessive Sear
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (17)
+## Cosponsors (24)
 
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
@@ -35,6 +35,13 @@ Deterring Undue Enforcement by Protecting Rights of Citizens from Excessive Sear
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 - Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Lewis, John [D-GA-5] (L000287)
 
 ## Committees (3)
 
@@ -50,3 +57,12 @@ Deterring Undue Enforcement by Protecting Rights of Citizens from Excessive Sear
 - 2016-05-19 — Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-19 — Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2016-05-19 — Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2016-05-25 — Committee Consideration and Mark-up Session Held.
+- 2016-05-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2016-12-23 — Committee on Energy and Commerce discharged.
+- 2016-12-23 — Committee on Energy and Commerce discharged.
+- 2016-12-23 — Committee on Financial Services discharged.
+- 2016-12-23 — Committee on Financial Services discharged.
+- 2016-12-23 — Placed on the Union Calendar, Calendar No. 702.
+- 2016-12-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-892, Part I.
+- 2016-12-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 114-892, Part I.
