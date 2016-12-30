@@ -1,7 +1,7 @@
 ---
 measure: S. 1576
 congress: 114
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1576
@@ -21,9 +21,11 @@ Representative Payee Fraud Prevention Act of 2015
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +40,10 @@ Representative Payee Fraud Prevention Act of 2015
 - 2015-08-06 — Message on Senate action sent to the House.
 - 2015-09-08 — Received in the House.
 - 2015-09-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2015-10-09 — Ordered to be Reported by Unanimous Consent.
+- 2016-07-21 — Referred sequentially to the House Committee on the Judiciary for a period ending not later than Dec. 31, 2016 for consideration of such provisions of the bill as fall within the jurisdiction of that committee pursuant to clause 1(I) of rule X.
+- 2016-07-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-695, Part I.
+- 2016-07-21 — Reported by the Committee on Oversight and Government Reform. H. Rept. 114-695, Part I.
+- 2016-12-30 — Committee on the Judiciary discharged.
+- 2016-12-30 — Committee on the Judiciary discharged.
+- 2016-12-30 — Placed on the Union Calendar, Calendar No. 707.
