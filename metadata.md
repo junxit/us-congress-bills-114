@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1472
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1472
@@ -31,3 +31,10 @@ Integrated Public Alert and Warning System Modernization Act of 2015
 - 2015-03-19 — Introduced in House
 - 2015-03-19 — Introduced in House
 - 2015-03-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2015-03-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported by Voice Vote.
+- 2015-04-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2016-12-30 — Placed on the Union Calendar, Calendar No. 711.
+- 2016-12-30 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-900.
+- 2016-12-30 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-900.
