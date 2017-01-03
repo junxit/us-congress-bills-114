@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1770
 congress: 114
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1770
@@ -32,3 +32,9 @@ Data Security and Breach Notification Act of 2015
 - 2015-04-14 — Introduced in House
 - 2015-04-14 — Introduced in House
 - 2015-04-14 — Referred to the House Committee on Energy and Commerce.
+- 2015-04-15 — Committee Consideration and Mark-up Session Held.
+- 2015-04-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 20.
+- 2015-04-17 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2017-01-03 — Placed on the Union Calendar, Calendar No. 719.
+- 2017-01-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-908.
+- 2017-01-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-908.
